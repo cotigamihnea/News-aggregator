@@ -1,0 +1,136 @@
+[
+  {
+    "uuid": "98092f5142f57feebf2411e5b09d10ba8c7cc024",
+    "url": "https://radiomitre.cienradios.com/clima/alerta-meteorologica-nivel-naranja-por-tormentas-severas-y-lluvias-intensas-que-zonas-estan-en-peligro-y-cuando-se-larga-2",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Radio Mitre",
+    "published": "2024-11-01T22:37:00Z",
+    "title": "Alerta meteorológica nivel naranja por tormentas severas y lluvias intensas: qué zonas están en peligro y cuándo se larga",
+    "text": "El Servicio Meteorológico Nacional (SMN) emitió una alerta meteorológica nivel amarillo por tormentas severas y fuertes ráfagas de viento para este viernes que afectará a gran parte de Argentina. [Mirá También: Alerta meteorológica nivel amarillo por tormentas severas, caída de granizo y ráfagas violentas en Buenos Aires: a qué hora se larga con todo](/clima/alerta-meteorologica-nivel-amarillo-por-tormentas-severas-caida-de-granizo-y-rafagas-violentas-en-buenos-aires-a-que-hora-se-larga-con-todo/) Alerta meteorológica nivel naranja por tormentas severas y lluvias intensas: qué zonas están en peligro y cuándo se larga De acuerdo al SMN, las tormentas comenzaran con foco principalmente en el norte argentino, seguirán en parte de Salta, Jujuy, Tucumán, Santiago del Estero, Chaco, Córdoba y una gran parte de Buenos Aires, exceptuando al Conurbano Bonaerense y sus alrededores. En cuanto a la alerta, se trata de “tormentas de variada intensidad, algunas localmente fuertes”, según explicó el organismo, y pronosticó que las mismas podrían estar acompañadas por “importante actividad eléctrica, ocasional caída de granizo, ráfagas fuertes y abundante caída de agua en cortos períodos”. [Mirá También: Alerta por 48 horas de tormentas fuertes, severas y granizo que golpearán a Buenos Aires: cuándo se larga y en qué zonas cae sí o sí](/clima/alerta-por-48-horas-de-tormentas-fuertes-severas-y-granizo-que-golpearan-a-buenos-aires-cuando-se-larga-y-en-que-zonas-cae-si-o-si/) Cuáles son los tipos de alerta meteorológica según el SMN La entidad climática ofrece en sus canales oficiales los distintos tipos de alerta meteorológica para que las personas conozcan las intensidades y recomendaciones: - Nivel verde: Tranquilidad, no se esperan fenómenos meteorológicos que impliquen riesgos. - Nivel amarillo: Informate, posibles fenómenos meteorológicos con capacidad de daño y riesgo de interrupción momentánea de actividades cotidianas. - Nivel naranja: Preparate, se esperan fenómenos meteorológicos peligrosos para la sociedad, la vida, los bienes y el medio ambiente. - Nivel rojo: Seguí instrucciones oficiales, se esperan fenómenos meteorológicos excepcionales con potencial de provocar emergencias o desastres. [Mirá También: Alerta meteorológica nivel naranja por tormentas severas y lluvias intensas: qué zonas están en peligro y cuándo se larga](/clima/alerta-meteorologica-nivel-naranja-por-tormentas-severas-y-lluvias-intensas-que-zonas-estan-en-peligro-y-cuando-se-larga/) Las recomendaciones del SMN ante una alerta por tormentas severas y lluvias En su página, el organismo también detalló algunas recomendaciones de su parte para seguir y así evitar cualquier tipo de accidente ante una alerta por tormentas severas: - Permanecé en construcciones cerradas como casas, escuelas o edificios públicos. - Mantenete alejado de artefactos eléctricos y evitá el uso de teléfonos con cable. - Evitá circular por calles inundadas o afectadas. - Si hay riesgo de que el agua ingrese en tu casa, cortá el suministro eléctrico. - Evitá actividades al aire libre. - Para minimizar el riesgo de ser alcanzado por un rayo, no permanezcas en playas, ríos, lagunas o piletas.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Servicio Meteorológico Nacional",
+          "sentiment": "negative"
+        },
+        {
+          "name": "SMN",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-02T01:00:32.541+02:00",
+    "updated": "2024-11-02T01:00:32.541+02:00"
+  },
+  {
+    "uuid": "6bbcca0a663e526f16181b5ba0003424089ad76a",
+    "url": "https://decrypt.co/308117/openai-unveils-gpt-4-5-friendliest-model-yet-at-1300-the-price",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Decrypt / Jose Antonio Lanz",
+    "published": "2025-02-27T22:57:00Z",
+    "title": "OpenAI Unveils GPT-4.5: Friendliest Model Yet at 1300% the Price",
+    "text": "OpenAI released GPT-4.5 on Thursday, just one day after Anthropic launched Claude 3.7 Sonnet and merely a week following xAI's Grok-3 debut and DeepSeek’s announcement of a new model coming soon.\nAnd expensive is the operative word here. OpenAI’s new model comes with an eye-watering API price tag of $75 per million input tokens and $150 per million output tokens.\nIt appears to be a new competitive phase in the AI race, with companies scrambling to outdo each other with increasingly capable—and increasingly expensive—models.\nFor context, that's ten times pricier than Claude 3.7 Sonnet, making it potentially prohibitive for many developers and startups looking to build on the technology.\nGPT-4o (its predecessor) cost $2.50 per 1M tokens of input and $10.00 per 1M tokens of output—making GPT-4.5 2900% more expensive to input and 1300% dearer to get a response.\nSam Altman, OpenAI's CEO, didn't shy away from acknowledging the model's massive resource requirements in his announcement. \"Bad news: It is a giant, expensive model,\" he said.\n\"A heads up: this isn’t a reasoning model and won’t crush benchmarks. It’s a different kind of intelligence,\" Altman said. “There’s a magic to it I haven’t felt before.”\nGPT-4.5 is ready!\ngood news: it is the first model that feels like talking to a thoughtful person to me. i have had several moments where i've sat back in my chair and been astonished at getting actually good advice from an AI.\nbad news: it is a giant, expensive model. we…\n— Sam Altman (@sama)\n[February 27, 2025]\nAnd this seems to be the key. Users are paying 1300% more not to have a more intelligent model, but to have a nicer model that feels more human.\nFor example, one thing in which GPT-4.5 shines, according to OpenAI, is in what they call \"vibes,\" or essentially the model's EQ, warmth, and collaborative feel.\nThe company created a \"Vibes test set\" measuring creative intelligence and conversational quality, on which GPT-4.5 purportedly outperformed other models.\nThe examples shared during the presentation didn't exactly introduce anything new.\nThe first demonstration had literally this prompt: “UGHHH! My friend cancelled on me again!!! Write a text message telling them that I HATE THEM!!!!” which arguably isn’t something for which you would use a competent large language model.\nIn a following demonstration comparing GPT-4.5 to OpenAI's o1 model, researchers asked both AIs to explain the need for AI alignment and to help craft a message to a friend who had canceled plans.\nThe responses, while showing some improved nuance in GPT-4.5, hardly seemed revolutionary. The difference was in the tone.\nIn another example, the research team asked the powerful GPT-4.5 why the sea water is salty.\nThe new model responded using less complex terms—\"because of rain, rivers, and rocks\"—compared to previous models.\nGPT-4-Turbo gave a more comprehensive and detailed reply, which the team didn’t like, arguing that “you get the feeling that it wants you to know how smart it is.”\nOne amusing detail from the presentation was an Easter egg hinting at a possible GPT-6, with a query that read: \"Num GPUs for GPT-6 Training.\"\nPerhaps when that model arrives, the demos will be more impressive.\nThe benchmarks presented paint a mixed picture. GPT-4.5 scores 71.4% on GPQA (a science evaluation), compared to GPT-4o's 53.6%.\nHowever, it still trails behind OpenAI's o3-mini model, which scores 79.7% through its reasoning capabilities.\nSimilar patterns emerged across other benchmarks. On the AIME '24 math evaluation, GPT-4.5 scored 36.7%, beating GPT-4o's 9.3% but still far behind o3-mini's 87.3%.\nFor coding tasks, GPT-4.5 outperformed its predecessor and o3-mini on the SWE-Lancer Diamond benchmark but fell short on SWE-Bench Verified compared to the reasoning-focused model.\nAltman described the model in almost mystical terms, calling it \"the first model that feels like talking to a thoughtful person.\"\nHe added: \"I have had several moments where I've sat back in my chair and been astonished at getting actually good advice from an AI.\"\nDuring the model's presentation, OpenAI researchers explained that the company advances AI through two distinct approaches: unsupervised learning and reasoning.\nWhile reasoning teaches models to \"think before responding,\" unsupervised learning helps increase \"word model accuracy and intuition.\" GPT-4.5 doubles down on the latter.\n\"GPT-4.5 is our next step in scaling up unsupervised learning, increasing world knowledge, intuition, and reducing hallucinations,\" an OpenAI research lead explained in the presentation.\nDeveloping GPT-4.5 required massive technical innovation, according to the team. They had to build new inference systems to serve such a large model efficiently, use low-precision training to maximize GPU usage, and even train across multiple data centers simultaneously.\nThe release comes at a time when consumer expectations for AI are sky-high, and competition in the space is intensifying. Whether GPT-4.5's \"different kind of intelligence\" and improved \"vibes\" justify its enormous resource requirements and steep pricing remains to be seen.\nGPT-4.5 is currently available for Pro users who pay $200 a month. Plus users paying $20 a month will have access to the model next week.\nEdited by Sebastian Sinclair",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Science and Technology->scientific innovation",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->business service",
+      "Economy, Business and Finance->computing and information technology",
+      "Lifestyle and Leisure->trend"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://openai.com/api/pricing/",
+      "https://openai.com/api/pricing",
+      "https://www.openai.com/api/pricing/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Sam Altman",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "6bbcca0a663e526f16181b5ba0003424089ad76a",
+      "first_syndicated": true
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T01:03:40.688+02:00",
+    "updated": "2025-02-28T01:03:40.688+02:00"
+  },
+  {
+    "uuid": "071966a8bd56441b9dc51960f2ef6dfe30cdfe7d",
+    "url": "https://www.larazon.es/economia/estaciones-servicio-independientes-superan-grandes-grupos-petroleros_2024021565ce5a874129260001bc56f8.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Álvaro, Criado",
+    "published": "2024-02-15T17:40:00Z",
+    "title": "Las estaciones de servicio independientes superan a los grandes grupos petroleros",
+    "text": "Combustibles Las estaciones de servicio independientes superan a los grandes grupos petroleros Según la CNMC, estas estaciones de servicio superan en un punto porcentual a las de las refinerías Las estaciones de servicio sin personal han dado la vuelta a la tortilla, en número de establecimientos, a las corporaciones petrolíferas que operan en nuestro país. Según la Comisión Nacional de Mercados y Competencia (CNMC), el número de puntos de repostaje creció hasta los 12.636, la mayoría de estas aperturas pertenecen a [grupos independientes](https://www.larazon.es/economia/gasolineras-independientes-trasladan-consumidores-mayor-descenso-precio-carburante_202401046596ce19872b8200011383b6.html). Estas empresas apuestan por el modelo de desatención al cliente, el cual aumenta hasta un 13% de la red total española de gasolineras. Sin embargo, Manuel Jiménez Perona, presidente de la Asociación Nacional de Estaciones de Servicio Automáticas asegura que dicha cifra aumenta hasta el 20%. La lucha del combustible Esta evolución, se contrasta con las aperturas de las principales marcas dedicadas al combustible [low cost](https://www.larazon.es/economia/que-cadena-gasolineras-mas-barata_20231207657186b5d67037000198933d.html). En total, las tres principales marcas han inaugurado 149 establecimientos. Este crecimiento es acompañado simultáneamente por el aumento de los litros vendidos, un incremento del 31% al 40%. A parte de este aumento, las diferencias entre cotizaciones y precios de los productos (gasolina 95 y diésel) son también sustancialmente importantes. En la península el año pasado, el margen bruto promedio de venta de la gasolina 95 se situaba en 27,7 céntimos y el del diésel, en 26,7 céntimos. Guerra de precios Durante el año pasado, Guipúzcoa y Asturias fueron las provincias con el precio más caro, mientras que Lérida, Almería y Murcia tuvieron precios más asequibles. Para poder hacer frente a estos precios, las principales petroleras tienen descuentos de, al menos, 5 céntimos al litro. Sin embargo, estos aumentan cuanto mayor sea la fidelización del cliente con la empresa, pero a pesar de ello, sus elevados costes hacen que el consumidor prefiera otras opciones más asequibles.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-16T01:39:27.291+02:00",
+    "updated": "2024-02-16T01:57:22.840+02:00"
+  }
+]

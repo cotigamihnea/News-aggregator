@@ -1,0 +1,260 @@
+[
+  {
+    "uuid": "ca2bd0575674c8944b9c58c8331a876e8974cc35",
+    "url": "https://www.clintonherald.com/news/local_news/florida-first-lady-visits-clinton-for-desantis-campaign/article_04c41216-aaa1-11ee-80c9-6f5eedc7fa64.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CHRIS BALDUS cbaldus@clintonherald.com",
+    "published": "2024-01-04T01:31:00Z",
+    "title": "Florida first lady visits Clinton for DeSantis Campaign",
+    "text": "CLINTON — Mason DeSantis, 5, likes snow. He got to touch snow for the first time during the family’s current visit to Iowa, said his mother, Florida first lady Casey DeSantis. He would like to take snow down to Florida, she said. “Sorry, buddy, it doesn’t work that way,” she added as an aside. He was coloring in a corner booth with a caretaker at that point. Campaigning in Clinton at Jenny’s Diner on Wednesday evening to help her husband Gov. Ron DeSantis as he chases the Republican Party nomination for president, she began her comments by telling a little bit of what it’s been like for the family on the trail. The couple also have two young daughters. The Clinton event was the final Coffee and Conversation for the day sponsored by the Never Back Down political action committee. Two room-long tables of event attendees were served a meal and pie before she arrived. The earlier events were in New Hampton, Waverly and Independence. She segued from her family stories into how candidate DeSantis is running for president to fight for his own, as well as all of the children of the people in the audience, to save the nation for them. She talked about taking power back from unelected bureaucrats, her husband standing up to critics and the media during the Covid-19 pandemic, his military service in the Iraq War, illegal immigration and drug smuggling at the southern border, how illegal immigrants in a Georgia hospital contributed to an hours-long wait for her mother to see a doctor, and how public education has become indoctrination of the country’s youth. She then took questions from the audience, but campaign workers ushered the one local reporter out of the room as the questions started.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "clinton",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mason desantis",
+          "sentiment": "negative"
+        },
+        {
+          "name": "desantis campaign clinton",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ron desantis",
+          "sentiment": "none"
+        },
+        {
+          "name": "casey desantis",
+          "sentiment": "none"
+        },
+        {
+          "name": "jenny",
+          "sentiment": "none"
+        },
+        {
+          "name": "desantis",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "republican party",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "florida",
+          "sentiment": "none"
+        },
+        {
+          "name": "iowa",
+          "sentiment": "none"
+        },
+        {
+          "name": "waverly",
+          "sentiment": "none"
+        },
+        {
+          "name": "new hampton",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-04T05:54:01.682+02:00",
+    "updated": "2024-01-11T12:27:11.869+02:00"
+  },
+  {
+    "uuid": "e56e2ba1c5e1296c15b464dc132a7f405b7d40f1",
+    "url": "https://protos.com/how-to-stay-safe-on-chain-three-crypto-users-lose-876k-within-hours",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mark Toon",
+    "published": "2024-11-15T14:24:00Z",
+    "title": "How to stay safe on-chain: Three crypto users lose $876K within hours",
+    "text": "How to stay safe on-chain: Three crypto users lose $876K within hours In just over 15 hours, three unlucky crypto users lost a total of $876,000 worth of assets to common on-chain scams. A combination of techniques, specifically ‘approval phishing’ and ‘address poisoning,’ were used in the scams, which were spotted by X (formerly Twitter) account Scam Sniffer. The first, and largest, of the thefts was caused by a user signing a malicious ‘permit’ transaction, allowing the scammer to steal 211 Lido-staked ether (stETH) worth $654,000. Read more: [Compound Finance and Celer Network websites compromised in ‘front-end’ attacks](https://protos.com/compound-finance-and-celer-network-websites-compromised-in-front-end-attacks/) Phishing with drainers [According](https://x.com/realScamSniffer/status/1857201292705476803) to Scam Sniffer, the address to which the victim had inadvertently granted approval to move their stETH was “a malicious contract disguised as a Token.” These dangerous permit or approval transactions are often presented to users by scam-as-as-service malware packages called wallet ‘drainers.’ The drainers are often disseminated via hacked X (formerly Twitter) accounts, which can be used to post FOMO-stoking airdrop or token launch announcements, before linking the victim to a wallet drainer script. Prolific blockchain detective ZachXBT [described](https://x.com/zachxbt/status/1666894383638011913) the typical workings of such groups, who take control of accounts via SIM-swapping, in a post on X last year. Another method is via so-called ‘front-end’ attacks, in which the genuine domains of crypto platforms are hijacked to craft malicious transactions and serve drainers to potential victims’ wallets. Drainer packages themselves are developed as a product or service to be used by the phishing scammers. A cut of each theft is automatically split between the drainer developers and the scammers that use them. This model has proven to be extremely profitable. In May, when a prolific drainer service known as Pink Drainer [announced](https://protos.com/pink-drainer-steps-back-from-the-grind-after-stealing-75m-from-victims/) its retirement after facilitating $75 million worth of thefts, crypto security firm SlowMist [identified](https://x.com/MistTrack_io/status/1791115454057951477) over $20 million held in related addresses. Inferno Drainer, which shut down a year ago, has been [cashing out](https://x.com/blockaid_/status/1855995321110729010) its ill-gotten gains recently, sending a total of [4,010 ETH](https://etherscan.io/txs?a=0x60662F4E7C970a7bDa368F04Fa0e3419E1AC0B51) (currently worth $12.4 million) to sanctioned crypto mixer Tornado Cash. Previous attempts to use alternative privacy tool Railgun were [blocked](https://x.com/MistTrack_io/status/1811050114842034278) by the team. Read more: [Pink Drainer ‘steps back from the grind’ after stealing $75M from victims](https://protos.com/pink-drainer-steps-back-from-the-grind-after-stealing-75m-from-victims/) Address poisoning scam The other two victims lost similar amounts ([111,500](https://x.com/realScamSniffer/status/1857338306931081505) and [111,726](https://x.com/realScamSniffer/status/1857349443567370679)) of the USDT stablecoin to ‘address poisoning,’ a type of scam which, while much simpler, proves equally dangerous. [Address poisoning](https://revoke.cash/learn/security/what-is-address-poisoning) relies on victims accidentally copy/pasting a scammer’s address from a ‘contaminated’ transaction history on a blockchain explorer such as Etherscan. Read more: [Refund of $70M ‘address poisoning’ scam ongoing, over 50% returned](https://protos.com/refund-of-70m-address-poisoning-scam-ongoing-over-50-returned/) Often, following sizable transfers, fake versions of common tokens will suddenly appear in a potential victim’s address, or appear as ‘spoofed’ transfers to accounts with similar leading and trailing characters to the genuine address (as can be seen in Scam Sniffer’s screenshot above). Despite efforts to [hide](https://x.com/etherscan/status/1645406189692526593) these misleading transactions by the explorer’s developers, losses are still common. For higher-value victims, scammers even opt to send genuine tokens as a workaround, putting real money on the line whilst hoping to hook a big win. Staying off the hook As always, double-check the URL or X account handles before clicking any links or connecting a crypto wallet. However, this may not be enough in the case that the genuine website or account has been compromised. Learn how [approvals and permits](https://revoke.cash/learn/approvals) work. It is important to maintain strict ‘approval hygiene,’ revoking any active approvals and avoiding setting or accepting ‘infinite’ approvals when prompted. Additionally, the use of built-in wallet address books can flag any unexpected addresses involved in a transaction which may be harder to spot by eye. These addresses can then be re-used instead of copying from a (potentially contaminated) transfer history. Don’t rush, and don’t sign anything you don’t understand Despite these well-known security measures, plenty of accidents still occur. Be it down to distraction, FOMO, rushing, or tiredness, it’s not difficult to imagine how even experienced crypto users fall for these scams on a regular basis. Scam Sniffer’s most recent [monthly round-up](https://x.com/realScamSniffer/status/1853736522052464833) identified “approximately 12K victims [who] lost $20.2 million to crypto phishing scams” in October, with four cases of over $1 million. Despite an overall total 56% lower than the previous month, the number of victims grew by 20%. Got a tip? Send us an email or ProtonMail. For more informed news, follow us on [X](https://twitter.com/protos), [Instagram](https://www.instagram.com/protosmedia/), [Bluesky](https://bsky.app/profile/protos.bsky.social), and [Google News](https://news.google.com/publications/CAAqBwgKMLmroQsw0bW5Aw), or subscribe to our [YouTube](https://youtube.com/protosmedia) channel.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://news.google.com/publications/CAAqBwgKMLmroQsw0bW5Aw),",
+      "https://x.com/realScamSniffer/status/1857349443567370679))",
+      "https://x.com/blockaid_/status/1855995321110729010)",
+      "https://etherscan.io/txs?a=0x60662F4E7C970a7bDa368F04Fa0e3419E1AC0B51)",
+      "https://bsky.app/profile/protos.bsky.social),",
+      "https://revoke.cash/learn/security/what-is-address-poisoning)",
+      "https://revoke.cash/learn/approvals)",
+      "https://twitter.com/protos),",
+      "https://x.com/realScamSniffer/status/1857338306931081505)",
+      "https://x.com/realScamSniffer/status/1857201292705476803)",
+      "https://www.instagram.com/protosmedia/),",
+      "https://x.com/MistTrack_io/status/1811050114842034278)",
+      "https://x.com/zachxbt/status/1666894383638011913)",
+      "https://youtube.com/protosmedia)",
+      "https://x.com/etherscan/status/1645406189692526593)",
+      "https://x.com/realScamSniffer/status/1853736522052464833)",
+      "https://x.com/MistTrack_io/status/1791115454057951477)",
+      "https://www.x.com/realScamSniffer/status/1853736522052464833)",
+      "https://www.x.com/realScamSniffer/status/1857349443567370679))",
+      "https://www.x.com/realScamSniffer/status/1857338306931081505)",
+      "https://www.revoke.cash/learn/approvals)",
+      "https://www.etherscan.io/txs?a=0x60662F4E7C970a7bDa368F04Fa0e3419E1AC0B51)",
+      "https://www.bsky.app/profile/protos.bsky.social),",
+      "https://instagram.com/protosmedia/),",
+      "https://www.twitter.com/protos),",
+      "https://www.x.com/blockaid_/status/1855995321110729010)",
+      "https://www.x.com/zachxbt/status/1666894383638011913)",
+      "https://www.x.com/MistTrack_io/status/1811050114842034278)",
+      "https://www.news.google.com/publications/CAAqBwgKMLmroQsw0bW5Aw),",
+      "https://www.x.com/etherscan/status/1645406189692526593)",
+      "https://www.revoke.cash/learn/security/what-is-address-poisoning)",
+      "https://etherscan.io/txs",
+      "https://www.x.com/realScamSniffer/status/1857201292705476803)",
+      "https://www.x.com/MistTrack_io/status/1791115454057951477)",
+      "https://www.youtube.com/protosmedia)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Twitter",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T17:52:27.322+02:00",
+    "updated": "2024-11-15T17:52:27.322+02:00"
+  },
+  {
+    "uuid": "210d2e90199cb2f896e9ff2c021d219b61ac00d2",
+    "url": "https://natlawreview.com/article/chinese-manufactured-batteries-pose-cybersecurity-threat-critical-infrastructure",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Robinson & Cole LLP",
+    "published": "2024-11-21T22:57:00Z",
+    "title": "Chinese Manufactured Batteries Pose Cybersecurity Threat to Critical Infrastructure",
+    "text": "The U.S.-China Economic and Security Review Commission, released its [annual report](https://www.uscc.gov/sites/default/files/2024-11/2024_Annual_Report_to_Congress.pdf) to Congress this month. The 793-page report responds to the Commission’s mandate to “monitor, investigate, and report to Congress on the national security implications of the bilateral trade and economic relationship between the United States and the People’s Republic of China.” The report is a culmination of a “broad and bipartisan consensus…with all 12 members voting unanimously to approve and submit it to Congress.”\nAlthough the report is detailed and fascinating, there is one conclusion that is relevant to this post—China has a clear advantage over the United States “at each stage of the battery supply chain, ushering in rapid global market share increases for Chinese EV and battery makers.” As a result, “China’s near monopoly on battery manufacturing creates dependencies for U.S. auto manufacturers reliant on upstream suppliers as well as potential latent threats to U.S. critical infrastructure from the ongoing installation of Chinese-made battery energy storage systems throughout U.S. electrical grids and backup systems for industrial users.”\nIn other words, China’s dominance in manufacturing of batteries that are used for electric vehicles, and for storage of energy, including renewable energy, poses a cybersecurity risk to the United States. To combat the risk, the Commission recommends:\n“To protect U.S. economic and national security interests, Congress [should] consider legislation to restrict or ban the importation of certain technologies and services controlled by Chinese entities, including:\n- Autonomous humanoid robots with advanced capabilities of (i) dexterity, (ii) locomotion, and (iii) intelligence; and\n- Energy infrastructure products that involve remote servicing, maintenance, or monitoring capabilities, such as load balancing and other batteries supporting the electrical grid, batteries used as backup systems for industrial facilities and/or critical infrastructure, and transformers and associated equipment.”\nHopefully, Congress will take these threats and recommendations seriously as U.S. consumers buy electric vehicles and expand uses for renewable energy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T02:02:31.581+02:00",
+    "updated": "2024-11-22T03:59:39.791+02:00"
+  },
+  {
+    "uuid": "c29e610be67f12dbeefa40f0543566f6f72bb4be",
+    "url": "https://beforeitsnews.com/international/2024/09/un-takeover-happening-with-chaos-crisis-while-american-media-looks-the-other-way-video-2514190.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@beforeitsnews",
+    "published": "2024-09-26T18:43:00Z",
+    "title": "UN Takeover Happening With Chaos & Crisis While American Media Looks the Other Way (Video) | International | Before It's News",
+    "text": "UN Takeover Happening With Chaos & Crisis While American Media Looks the Other Way (Video) The United Nations have been holding its Future Summit recently, and pretty much no one in the Mockingbird media is telling anyone about their underhanded schemes to take over the world. Investigative journalist [Alex Newman](/v3/r2/?url=aHR0cHM6Ly9zdWJzdGFjay5jb20vQGxpYmVydHlzZW50aW5lbC9wLTE0OTQwOTk2OQ==) has been at the Pact for the Future summit and reported on it, though they have tried to keep him away from many areas. Award-winning journalist Alex Newman, author of the popular book [Deep State: The Invisible Government Behind The Scenes](/v3/r2/?url=aHR0cHM6Ly9hbXpuLnRvLzNCb3BtbU0=), has been warning of plans by the United Nations for total tyrannical control of your life. This past weekend at UN headquarters in New York City, all countries sealed the deal to hand over your freedoms. Newman explained to Greg Hunter on [USA Watchdog](/v3/r2/?url=aHR0cHM6Ly91c2F3YXRjaGRvZy5jb20v), “This is probably the most important story of the decade. Every world leader was there. Joe Biden was there. Almost every world leader on the planet was there. Every president, king and dictator were all there, and they are all signing what the UN calls the ‘[Pact for the Future](/v3/r2/?url=aHR0cHM6Ly93d3cudW4ub3JnL3NpdGVzL3VuMi51bi5vcmcvZmlsZXMvc290Zi1wYWN0X2Zvcl90aGVfZnV0dXJlX2Fkb3B0ZWQucGRm).’” This, in their own words, is going to morph the United Nations into the “UN 2.0,” Newman shared. [Buy All-American!](/v3/r2/?url=aHR0cDovL2FsbHVzYW1hZGVwcm9kdWN0cy5jb20=)[Bring health and vitality back to your body with these non-transdermal patches](/v3/r2/?url=aHR0cDovL3dhdmVsZW5ndGhwYXRjaC5jb20=)[Get your Vitamin B17 & Get 10% Off With Promo Code TIM](/v3/r2/?url=aHR0cDovL1ZpdGFtaW5CMTc0VS5jb20=)[How To Protect Yourself From 5G, EMF & RF Radiation – Use promo code TIM to save $$$](/v3/r2/?url=aHR0cDovL2ZpeGVtZnMuY29t)[The Very Best All-American Made Supplements On The Maret](/v3/r2/?url=aHR0cDovL2FsbHVzYW1hZGVwcm9kdWN0cy5jb20=)[Grab This Bucket Of Heirloom Seeds & Save with Promo Code TIM](/v3/r2/?url=aHR0cDovL2hlaXJsb29tc2VlZHNzdG9yZS5jb20v)[Here’s A Way You Can Stockpile Food For The Future](/v3/r2/?url=aHR0cHM6Ly9teXBhdHJpb3RzdXBwbHkuY29tLz9yZnNuPTUxMzE4MDUuZmZlMWEz)[Stockpile Your Ammo & Save $15 On Your First Order](/v3/r2/?url=aHR0cHM6Ly9hbW1vLmNvbS9pL2FHUk5kMHd3Ukd3eFRGRTlj)[Preparing Also Means Detoxifying – Here’s One Simple Way To Detoxify](/v3/r2/?url=aHR0cHM6Ly90aW1icm93bi50aGVnb29kaW5zaWRlLmNvbS9wYngtdHJpYWwtb2ZmZXItMTBjMjAyMC1scA==)[The Very Best Chlorine Dioxide](/v3/r2/?url=aHR0cDovL0Jlc3RDaGxvcmluZURpb3hkZS5jb20=)[All-American, US Prime, High Choice Grass-Fed Beef with NO mRNA, hormones or antibiotics… ever!](/v3/r2/?url=aHR0cDovL2FsbHVzYW1hZGVwcm9kdWN0cy5jb20=) “They are turbocharging the UN. . . . Every area of your life is going to be affected by this agreement,” thundered Newman, who has reported on UN events for over a decade. “Until this was approved, there was not a peep from the fake media in the United States.” Article posted with permission from [Sons of Liberty Media](/v3/r2/?url=aHR0cHM6Ly9zb25zb2ZsaWJlcnR5bWVkaWEuY29tL3VuLXRha2VvdmVyLWhhcHBlbmluZy13aXRoLWNoYW9zLWNyaXNpcy13aGlsZS1hbWVyaWNhbi1tZWRpYS1sb29rcy10aGUtb3RoZXItd2F5LXZpZGVvLw==) Anyone can [join](/v3/login/new/). Anyone can contribute. Anyone can become informed about their world. \"United We Stand\" [Click Here](/v3/login/new/)To Create Your Personal [Citizen Journalist](/v3/login/new/)Account Today, Be Sure To Invite Your Friends. [Before It’s News® is a community of individuals who report on what’s going on around them, from all around the world. Anyone can join. Anyone can contribute. Anyone can become informed about their world. \"United We Stand\" Click Here To Create Your Personal Citizen Journalist Account Today, Be Sure To Invite Your Friends.](https://www.herbanomic.com/product-page/lion-s-mane-whole-mind-nootropic-blend) LION'S MANE PRODUCT [Try Our Lion’s Mane WHOLE MIND Nootropic Blend 60 Capsules](http://www.herbanomic.com/product-page/lion-s-mane-whole-mind-nootropic-blend) Mushrooms are having a moment. One fabulous fungus in particular, lion’s mane, may help improve memory, depression and anxiety symptoms. They are also an excellent source of nutrients that show promise as a therapy for dementia, and other neurodegenerative diseases. If you’re living with anxiety or depression, you may be curious about all the therapy options out there — including the natural ones.Our [Lion’s Mane WHOLE MIND Nootropic Blend](http://www.herbanomic.com/product-page/lion-s-mane-whole-mind-nootropic-blend) has been formulated to utilize the potency of Lion’s mane but also include the benefits of four other Highly Beneficial Mushrooms. Synergistically, they work together to Build your health through improving cognitive function and immunity regardless of your age. Our Nootropic not only improves your Cognitive Function and Activates your Immune System, but it benefits growth of Essential Gut Flora, further enhancing your Vitality. Our Formula includes: Lion’s Mane Mushrooms which Increase Brain Power through nerve growth, lessen anxiety, reduce depression, and improve concentration. Its an excellent adaptogen, promotes sleep and improves immunity. Shiitake Mushrooms which Fight cancer cells and infectious disease, boost the immune system, promotes brain function, and serves as a source of B vitamins. Maitake Mushrooms which regulate blood sugar levels of diabetics, reduce hypertension and boosts the immune system. Reishi Mushrooms which Fight inflammation, liver disease, fatigue, tumor growth and cancer. They Improve skin disorders and soothes digestive problems, stomach ulcers and leaky gut syndrome. Chaga Mushrooms which have anti-aging effects, boost immune function, improve stamina and athletic performance, even act as a natural aphrodisiac, fighting diabetes and improving liver function. [Try Our Lion’s Mane WHOLE MIND Nootropic Blend 60 Capsules](http://www.herbanomic.com/product-page/lion-s-mane-whole-mind-nootropic-blend) Today. Be 100% Satisfied or Receive a Full Money Back Guarantee. Order Yours Today by [Following This Link](http://www.herbanomic.com/product-page/lion-s-mane-whole-mind-nootropic-blend).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.herbanomic.com/product-page/lion-s-mane-whole-mind-nootropic-blend)",
+      "http://www.herbanomic.com/product-page/lion-s-mane-whole-mind-nootropic-blend).",
+      "http://www.herbanomic.com/product-page/lion-s-mane-whole-mind-nootropic-blend)",
+      "http://herbanomic.com/product-page/lion-s-mane-whole-mind-nootropic-blend)",
+      "http://herbanomic.com/product-page/lion-s-mane-whole-mind-nootropic-blend).",
+      "https://herbanomic.com/product-page/lion-s-mane-whole-mind-nootropic-blend)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Greg Hunter",
+          "sentiment": "none"
+        },
+        {
+          "name": "Alex Newman",
+          "sentiment": "none"
+        },
+        {
+          "name": "Joe Biden",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "United Nations",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T01:01:25.716+03:00",
+    "updated": "2024-09-27T01:01:25.716+03:00"
+  }
+]

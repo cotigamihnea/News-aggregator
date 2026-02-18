@@ -1,0 +1,333 @@
+[
+  {
+    "uuid": "10ca89872bef01f4e0f5c460f5e1e429df543497",
+    "url": "https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2170",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lux-Gottschalk, Kerstin Monika",
+    "published": "2024-07-19T00:00:00Z",
+    "title": "EGUsphere - Uncertainty quantification for overshoots of tipping thresholds",
+    "text": "Uncertainty quantification for overshoots of tipping thresholds Abstract. Many subsystems of the Earth are at risk of undergoing abrupt transitions from their current stable state to a drastically different, and often less desired, state due to anthropogenic climate change. These so-called tipping events often present severe consequences for ecosystems and human livelihood that are difficult to reverse. One common mechanism for tipping to occur is via forcing a nonlinear system beyond a critical threshold that signifies self-amplifying feedbacks inducing tipping. However, previous work has shown that it is possible to briefly overshoot a critical threshold and avoid tipping. For some cases, the peak overshoot distance and the time a system can spend beyond a threshold are governed by an inverse square law relationship Ritchie et al. (2019). In the real world or complex models, critical thresholds and other system features are highly uncertain. In this work, we look at how such uncertainties affect the probability of tipping from the perspective of uncertainty quantification. We show the importance of constraining uncertainty in the location of the critical threshold and the linear restoring rate to the system’s stable state to better constrain the location of the boundary separating overshoots that avoid tipping from those that do not. We first prototypically analyse effects of an uncertain critical threshold location separately from effects due to an uncertain linear restoring rate. We then perform an analysis of joint effects of uncertain system characteristics within a conceptual model for the Atlantic Meridional Overturning Circulation (AMOC). The simple box model for the AMOC shows that these uncertainties have the potential to reverse conclusions for mitigation pathways. If the uncertain critical threshold were to be further away than previously considered, a pathway that may have been in danger of tipping, may no longer involve an overshoot at all. In our study, we highlight the need to constrain the highly uncertain diffusive timescale (representative of wind-driven fluxes) within the box model to reduce tipping uncertainty for overshoot scenarios of the AMOC. Status: open (until 30 Aug 2024) Viewed Viewed (geographical distribution) |Country||#||%| |Total:||0| |HTML:||0| |PDF:||0| |XML:||0| - 1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ritchie",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-19T13:00:14.734+03:00",
+    "updated": "2024-07-26T15:40:39.310+03:00"
+  },
+  {
+    "uuid": "2fd5fc7d6074fcfa0e7fd1bf634e3ec571f5d82d",
+    "url": "https://www.infobae.com/america/agencias/2024/07/12/joe-biden-expresa-su-confianza-en-kamala-harris-esta-cualificada-para-ser-presidenta",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@infobae",
+    "published": "2024-07-12T00:30:00Z",
+    "title": "Joe Biden expresa su confianza en Kamala Harris: \"Está cualificada para ser presidenta\" - Infobae",
+    "text": "Washington, 11 jul (EFE).- El presidente de Estados Unidos, Joe Biden, expresó este jueves su confianza en la vicepresidenta, Kamala Harris, afirmando que no la habría elegido como su compañera de fórmula en las elecciones de 2020 si no estuviera convencido de que podría ejercer el cargo de la Presidencia \"desde el principio\".\n\"No la habría elegido si no hubiera pensado que estaba cualificada para ser presidenta desde el principio. No me ando con rodeos en eso. Ella está cualificada para ser presidenta\", afirmó el mandatario en una rueda de prensa en los márgenes de la cumbre de la OTAN en Washington.\nHarris suena como la única opción viable si Biden se viera obligado a retirarse de la contienda a estas alturas de la campaña, a un mes de la convención del partido demócrata, debido a las dudas sobre su edad (81 años) y su capacidad para renovar un mandato de cuatro años en noviembre.\nEn la esperada rueda de prensa, la primera en solitario desde noviembre, Biden alabó a su vicepresidenta, que en ante una hipotética incapacidad del mandatario asumiría el poder.\n\"Ha manejado temas de libertad de los cuerpos de la mujeres y el control de sus cuerpos muy bien. Segundo, ha mostrado capacidad de manera casi cualquier tema. Es una dura fiscal. Es una sola frase: es muy buena\", insistió Biden.\nLas encuestas tras en debate presidencial del 27 de junio contra el republicano Donald Trump dan una mayor ventaja a Harris en una hipotético enfrentamiento electoral en noviembre si Biden se retirase por las presiones de algunos miembros de su partido.\nEl mal desempeño del mandatario en ese cara a cara elevó las dudas sobre su capacidad de vencer a Trump en noviembre y de seguir en el poder un segundo mandato, que finalizaría a los 86 años.\nBiden ha rechazado retirarse y aseguró hoy de nuevo que es el mejor posicionado para vencer a Trump. EFE\njmr/enb",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Politics"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-12T03:38:10.652+03:00",
+    "updated": "2024-07-12T03:38:10.652+03:00"
+  },
+  {
+    "uuid": "ea6f03634590405479fe148ae0336dd8e2c7b47e",
+    "url": "https://www.meneame.net/story/urgencias-madrid-borde-colapso-resisten-1-000-camas-menos-plena/c029",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ChonChinChan",
+    "published": "2023-12-29T08:47:00Z",
+    "title": "#29 Las Urgencias en Madrid, al borde del colapso: resisten con 1.000 camas menos en plena escalada de gripe y covid",
+    "text": "Portada\nmis comunidades\notras secciones\nCada vez que os den pena los madrileños, mirar este gráfico:\nhttps://www.europapress.es/madrid/noticia-pp-gana-17-distritos-madrid-deja-camino-vallecas-usera-villaverde-ganados-almeida-20230724002902.html\n[#1](c1#c-1) No soy mucho de desear sumariamente el mal a nadie, la verdad.\nAl ver ese gráfico lo que siento es pena tanto por la gente con dos dedos de frente que no ha votado a esta zumbada de mierda, pero que se come el desmantelamiento de los servicios públicos igual, como por los pobres ignorantes o taraditos que han creído que Ayuso era lo mejor que le podía pasar a la CAM.\n[#9](c9#c-9) yo tampoco\nPero es que Ayuso ganó en 2019, de nuevo en Mayo de 2023. Esto es de las generales en 2023, y el color es más azulado…\n4 años y la experiencia del COVID ,etc… y cada vez más apoyo..\nPues me suena a masoquismo\n[#16](c16#c-16) A mí me suena a mucho pobre diablo que se zampa lo que le cuentan en el telediario de Antena 3 sin parpadear.\n[#13](c13#c-13) Si, sé como estála sanidad en Cataluña, que los periódicos editados desee Madrid no lo mencionen es su problema, los que se editan desde Cataluña si que dan información sobre el estado de la sanidad ahí y supongo que los de otros sitios harán lo propio con la suya. Si tanto interés hay solo tienes que coger la noticia de esos y enviarla.\nEjemplos de los últimos días:\nhttps://www.lavanguardia.com/vida/20231227/9476697/repunte-gripe-augura-colapso-centros-sanitarios-reyes.html\nhttps://www.lavanguardia.com/sociedad/20231227/9477689/satse-reclama-reforzar-centros-sanitarios-evitar-saturacion-gripe-e-infecciones-respiratorias-agenciaslv20231227.html\nhttps://www.elperiodico.com/es/sociedad/20231228/gripe-urgencias-asistencia-saturacion-navidad-96331158\n[#14](c14#c-14) claro, el único sitio donde a la gente le gusta la cerveza es Madrid y el único sitio donde gobiernan los fachas es Madrid\nEstoy seguro que muchos de los que vais deseando poco menos que la muerte a los madrileños también tenéis la desgracia de tener gobiernos del PP o PP+ Vox pero está claro que la madrileñofobia sube el karma\nPor cierto efectivamente la sanidad en Madrid es una puta mierda y las urgencias una locura\n[#19](c19#c-19) Por cierto efectivamente la sanidad en Madrid es una puta mierda y las urgencias una locura\nYo he estado unas cinco-10 veces en Madrid en las urgencias en los últimos años y nunca he esperado más de una hora.\nEn el País Vasco hace un par de años esperé unas 5 horas\n[#2](c2#c-2) sabes que también hay noticias diarias en LibertadDigital, ABC o El Mundo sobre la España comunista y aquí se aceptan con deportividad?\n[#8](c8#c-8) no falla...sabes como está la sanidad en Cataluña y porque no aparece en los panfletos de izquierda todos los dias? pues porque son noticias cocinadas para dar de comer a un publico que demanda ideologia y no noticias,\nA si tienes razaon el nivel de estos periodicos iguala a libertad digital o el ABC pero estos no llegan todos los dias a portada",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Health"
+    ],
+    "external_links": [
+      "https://www.lavanguardia.com/vida/20231227/9476697/repunte-gripe-augura-colapso-centros-sanitarios-reyes.html",
+      "https://www.europapress.es/madrid/noticia-pp-gana-17-distritos-madrid-deja-camino-vallecas-usera-villaverde-ganados-almeida-20230724002902.html",
+      "https://www.elperiodico.com/es/sociedad/20231228/gripe-urgencias-asistencia-saturacion-navidad-96331158",
+      "https://www.lavanguardia.com/sociedad/20231227/9477689/satse-reclama-reforzar-centros-sanitarios-evitar-saturacion-gripe-e-infecciones-respiratorias-agenciaslv20231227.html",
+      "https://lavanguardia.com/sociedad/20231227/9477689/satse-reclama-reforzar-centros-sanitarios-evitar-saturacion-gripe-e-infecciones-respiratorias-agenciaslv20231227.html",
+      "https://europapress.es/madrid/noticia-pp-gana-17-distritos-madrid-deja-camino-vallecas-usera-villaverde-ganados-almeida-20230724002902.html",
+      "https://elperiodico.com/es/sociedad/20231228/gripe-urgencias-asistencia-saturacion-navidad-96331158",
+      "https://lavanguardia.com/vida/20231227/9476697/repunte-gripe-augura-colapso-centros-sanitarios-reyes.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T11:55:59.794+02:00",
+    "updated": "2023-12-29T11:55:59.794+02:00"
+  },
+  {
+    "uuid": "349a5609b7b9caef2632439bf869d0507fbc8e2a",
+    "url": "https://d3gvyx4eg3tne0.cloudfront.net/morenews/worldnews/2024/06/27/ultra-orthodox-jews-protest-against-israels-military-service-ruling",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "World News",
+    "published": "2024-06-27T19:58:00Z",
+    "title": "Ultra-Orthodox Jews protest against Israel’s military service ruling",
+    "text": "Hundreds of ultra-Orthodox Jewish men blocked a major road in central Israel for two hours on Thursday to protest against a recent Supreme Court decision ordering young religious men to enlist for military service.\nMilitary service is compulsory for most Jewish men and women in Israel. But politically powerful ultra-Orthodox parties have won draft exemptions for their followers that allow them instead to study in religious seminaries.\nThis long-standing arrangement has bred widespread resentment among the broader public — a sentiment that has grown stronger during the eight-month war against Hamas in Gaza. More than 600 soldiers have been killed, and tens of thousands of reservists have been called up.\nProtesters sat on the main road and lay on the ground as police lifted them up and dragged them away. Officers mounted on horseback charged into the crowd. Many demonstrators held signs and chanted “To prison! Not to the army!”\n“We all came here for one goal, we reflect the position of all the Orthodox public,” said a young man, identifying himself only by his first name Ozer. “All the Orthodox public prefers to go to prison and not to the army.”\nThe ultra-Orthodox see their full-time religious study as their part in protecting the state. Many fear that greater contact with secular society through the military will distance adherents from strict observance of the faith.\nThe Supreme Court this week ordered the government to begin drafting ultra-Orthodox men, saying the system of exemptions is unequal.\nThe decision could lead to the collapse of Prime Minister Benjamin Netanyahu’s government. Ultra-Orthodox parties and their followers oppose any change in the system.\nThe ultra-Orthodox make up roughly 13% of Israel’s population. But under the country’s fragmented political system, they wield significant political power and often serve as political kingmakers.\nThe parties are key members of Mr Netanyahu’s governing coalition and could potentially force new elections if they decide to leave the government.\nUltra-Orthodox leaders have not yet said whether they will quit the government, but their followers have scheduled a large protest in Jerusalem on Sunday.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ozer",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        },
+        {
+          "name": "supreme court",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-28T01:53:10.200+03:00",
+    "updated": "2024-06-28T01:53:10.200+03:00"
+  },
+  {
+    "uuid": "15632dca724198c9101acf87d56b726c0da89d81",
+    "url": "https://www.zacks.com/stock/news/2203361/why-griffon-gff-outpaced-the-stock-market-today",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Zacks Investment Research",
+    "published": "2023-12-28T00:00:00Z",
+    "title": "Why Griffon (GFF) Outpaced the Stock Market Today - December 28, 2023 - Zacks.com",
+    "text": "Griffon ( GFF Quick Quote GFF - Free Report ) closed at $61.69 in the latest trading session, marking a +0.36% move from the prior day. The stock outperformed the S&P 500, which registered a daily gain of 0.04%. On the other hand, the Dow registered a gain of 0.14%, and the technology-centric Nasdaq decreased by 0.03%.\nThe the stock of garage door and building products maker has risen by 33.49% in the past month, leading the Conglomerates sector's gain of 7.51% and the S&P 500's gain of 5.28%.\nThe investment community will be paying close attention to the earnings performance of Griffon in its upcoming release. The company is expected to report EPS of $0.78, down 9.3% from the prior-year quarter. Alongside, our most recent consensus estimate is anticipating revenue of $597.26 million, indicating an 8.03% downward movement from the same quarter last year.\nFor the entire fiscal year, the Zacks Consensus Estimates are projecting earnings of $4.62 per share and a revenue of $2.6 billion, representing changes of +1.76% and -3.16%, respectively, from the prior year.\nInvestors should also take note of any recent adjustments to analyst estimates for Griffon. These revisions typically reflect the latest short-term business trends, which can change frequently. Therefore, positive revisions in estimates convey analysts' confidence in the company's business performance and profit potential.\nOur research demonstrates that these adjustments in estimates directly associate with imminent stock price performance. To benefit from this, we have developed the Zacks Rank, a proprietary model which takes these estimate changes into account and provides an actionable rating system.\nThe Zacks Rank system, stretching from #1 (Strong Buy) to #5 (Strong Sell), has a noteworthy track record of outperforming, validated by third-party audits, with stocks rated #1 producing an average annual return of +25% since the year 1988. Within the past 30 days, our consensus EPS projection has moved 12.95% higher. Griffon presently features a Zacks Rank of #1 (Strong Buy).\nLooking at its valuation, Griffon is holding a Forward P/E ratio of 13.3. This expresses a discount compared to the average Forward P/E of 17.78 of its industry.\nThe Diversified Operations industry is part of the Conglomerates sector. Currently, this industry holds a Zacks Industry Rank of 41, positioning it in the top 17% of all 250+ industries.\nThe Zacks Industry Rank assesses the strength of our separate industry groups by calculating the average Zacks Rank of the individual stocks contained within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.\nTo follow GFF in the coming trading sessions, be sure to utilize Zacks.com.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "stock market today",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nasdaq",
+          "sentiment": "none"
+        },
+        {
+          "name": "zacks consensus estimates",
+          "sentiment": "none"
+        },
+        {
+          "name": "s&p",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "griffon",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:11:59.678+02:00",
+    "updated": "2023-12-29T02:11:59.678+02:00"
+  },
+  {
+    "uuid": "8d48383a7896c830748cf535b61ab304a4a4788b",
+    "url": "https://www.zacks.com/stock/news/2203335/delta-air-lines-dal-outpaces-stock-market-gains-what-you-should-know",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Zacks Investment Research",
+    "published": "2023-12-28T00:00:00Z",
+    "title": "Delta Air Lines (DAL) Outpaces Stock Market Gains: What You Should Know - December 28, 2023 - Zacks.com",
+    "text": "Delta Air Lines ( DAL Quick Quote DAL - Free Report ) closed the most recent trading day at $40.63, moving +0.1% from the previous trading session. The stock's performance was ahead of the S&P 500's daily gain of 0.04%. On the other hand, the Dow registered a gain of 0.14%, and the technology-centric Nasdaq decreased by 0.03%.\nShares of the airline witnessed a gain of 10.78% over the previous month, beating the performance of the Transportation sector with its gain of 9.6% and the S&P 500's gain of 5.28%.\nMarket participants will be closely following the financial results of Delta Air Lines in its upcoming release. It is anticipated that the company will report an EPS of $1.16, marking a 21.62% fall compared to the same quarter of the previous year. Meanwhile, our latest consensus estimate is calling for revenue of $14.13 billion, up 5.17% from the prior-year quarter.\nIn terms of the entire fiscal year, the Zacks Consensus Estimates predict earnings of $6.11 per share and a revenue of $57.38 billion, indicating changes of +90.94% and +13.44%, respectively, from the former year.\nAny recent changes to analyst estimates for Delta Air Lines should also be noted by investors. Recent revisions tend to reflect the latest near-term business trends. Consequently, upward revisions in estimates express analysts' positivity towards the company's business operations and its ability to generate profits.\nOur research reveals that these estimate alterations are directly linked with the stock price performance in the near future. To utilize this, we have created the Zacks Rank, a proprietary model that integrates these estimate changes and provides a functional rating system.\nThe Zacks Rank system, running from #1 (Strong Buy) to #5 (Strong Sell), holds an admirable track record of superior performance, independently audited, with #1 stocks contributing an average annual return of +25% since 1988. Over the past month, the Zacks Consensus EPS estimate has shifted 0.08% upward. Delta Air Lines presently features a Zacks Rank of #3 (Hold).\nFrom a valuation perspective, Delta Air Lines is currently exchanging hands at a Forward P/E ratio of 6.65. This signifies a discount in comparison to the average Forward P/E of 8.05 for its industry.\nIt is also worth noting that DAL currently has a PEG ratio of 0.21. The PEG ratio is similar to the widely-used P/E ratio, but this metric also takes the company's expected earnings growth rate into account. By the end of yesterday's trading, the Transportation - Airline industry had an average PEG ratio of 0.36.\nThe Transportation - Airline industry is part of the Transportation sector. At present, this industry carries a Zacks Industry Rank of 196, placing it within the bottom 23% of over 250 industries.\nThe Zacks Industry Rank assesses the strength of our separate industry groups by calculating the average Zacks Rank of the individual stocks contained within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.\nEnsure to harness Zacks.com to stay updated with all these stock-shifting metrics, among others, in the next trading sessions.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "delta air lines",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nasdaq",
+          "sentiment": "none"
+        },
+        {
+          "name": "s&p 500",
+          "sentiment": "none"
+        },
+        {
+          "name": "zacks consensus estimates",
+          "sentiment": "none"
+        },
+        {
+          "name": "s&p",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:08:27.733+02:00",
+    "updated": "2023-12-29T00:08:27.733+02:00"
+  },
+  {
+    "uuid": "53830c864e843079d0fd5be0b9b1052b1f17ebe5",
+    "url": "http://business.wapakdailynews.com/wapakdailynews/article/stockstory-2025-2-27-natera-nasdaqntra-reports-bullish-q4-guides-for-strong-full-year-sales",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Wapakoneta Daily News",
+    "published": "2025-02-27T21:53:00Z",
+    "title": "Natera (NASDAQ:NTRA) Reports Bullish Q4, Guides for Strong Full-Year Sales",
+    "text": "Genetic testing company Natera (NASDAQ:NTRA). reported Q4 CY2024 results beating Wall Street’s revenue expectations, with sales up 53% year on year to $476.1 million. The company’s full-year revenue guidance of $1.91 billion at the midpoint came in 5.8% above analysts’ estimates. Its GAAP loss of $0.41 per share was 9.3% below analysts’ consensus estimates.\nIs now the time to buy Natera? Find out by accessing our full research report, it’s free.\nNatera (NTRA) Q4 CY2024 Highlights:\n- Revenue: $476.1 million vs analyst estimates of $433.4 million (53% year-on-year growth, 9.9% beat)\n- EPS (GAAP): -$0.41 vs analyst expectations of -$0.38 (9.3% miss)\n- Management’s revenue guidance for the upcoming financial year 2025 is $1.91 billion at the midpoint, beating analyst estimates by 5.8% and implying 12.6% growth (vs 56.8% in FY2024)\n- Operating Margin: 13.6%, up from -27.2% in the same quarter last year\n- Sales Volumes rose 31.2% year on year (19.8% in the same quarter last year)\n- Market Capitalization: $21.2 billion\n“We had a strong finish to the year, with excellent performance across the board,” said Steve Chapman, chief executive officer of Natera.\nCompany Overview\nFounded in 2004, Natera (NASDAQ:NTRA) provides genetic testing solutions, specializing in non-invasive prenatal testing (NIPT), cancer diagnostics, and organ transplant monitoring to improve patient outcomes and guide clinical decisions.\nImmuno-Oncology\nOver the next few years, immuno-oncology companies, which harness the immune system to fight illnesses such as cancer, faces strong tailwinds from advancements in precision medicine (including the use of AI to improve hit rates) and growing demand for treatments targeting rare diseases. However, headwinds such as rising scrutiny over drug pricing, regulatory unknowns, and competition from larger, more resourced pharmaceutical companies could weigh on growth.\nSales Growth\nA company’s long-term sales performance is one signal of its overall quality. Even a bad business can shine for one or two quarters, but a top-tier one grows for years. Luckily, Natera’s sales grew at an incredible 41.2% compounded annual growth rate over the last five years. Its growth surpassed the average healthcare company and shows its offerings resonate with customers, a great starting point for our analysis.\nWe at StockStory place the most emphasis on long-term growth, but within healthcare, a half-decade historical view may miss recent innovations or disruptive industry trends. Natera’s annualized revenue growth of 43.8% over the last two years is above its five-year trend, suggesting its demand was strong and recently accelerated.\nWe can better understand the company’s revenue dynamics by analyzing its number of tests processed, which reached 792,800 in the latest quarter. Over the last two years, Natera’s tests processed averaged 24.9% year-on-year growth. Because this number is lower than its revenue growth, we can see the company benefited from price increases.\nThis quarter, Natera reported magnificent year-on-year revenue growth of 53%, and its $476.1 million of revenue beat Wall Street’s estimates by 9.9%.\nLooking ahead, sell-side analysts expect revenue to grow 6.9% over the next 12 months, a deceleration versus the last two years. Despite the slowdown, this projection is above average for the sector and implies the market sees some success for its newer products and services.\nToday’s young investors won’t have read the timeless lessons in Gorilla Game: Picking Winners In High Technology because it was written more than 20 years ago when Microsoft and Apple were first establishing their supremacy. But if we apply the same principles, then enterprise software stocks leveraging their own generative AI capabilities may well be the Gorillas of the future. So, in that spirit, we are excited to present our Special Free Report on a profitable, fast-growing enterprise software stock that is already riding the automation wave and looking to catch the generative AI next.\nOperating Margin\nOperating margin is an important measure of profitability as it shows the portion of revenue left after accounting for all core expenses – everything from the cost of goods sold to advertising and wages. It’s also useful for comparing profitability across companies with different levels of debt and tax rates because it excludes interest and taxes.\nAlthough Natera was profitable this quarter from an operational perspective, it’s generally struggled over a longer time period. Its expensive cost structure has contributed to an average operating margin of negative 38.2% over the last five years. Unprofitable healthcare companies require extra attention because they could get caught swimming naked when the tide goes out. It’s hard to trust that the business can endure a full cycle.\nOn the plus side, Natera’s operating margin rose by 49.8 percentage points over the last five years, as its sales growth gave it operating leverage. This performance was mostly driven by its recent improvements as the company’s margin has increased by 60.5 percentage points on a two-year basis. These data points are very encouraging and shows momentum is on its side.\nThis quarter, Natera generated an operating profit margin of 13.6%, up 40.8 percentage points year on year. This increase was a welcome development and shows it was recently more efficient because its expenses grew slower than its revenue.\nEarnings Per Share\nRevenue trends explain a company’s historical growth, but the long-term change in earnings per share (EPS) points to the profitability of that growth – for example, a company could inflate its sales through excessive spending on advertising and promotions.\nAlthough Natera’s full-year earnings are still negative, it reduced its losses and improved its EPS by 5.2% annually over the last five years. The next few quarters will be critical for assessing its long-term profitability. We hope to see an inflection point soon.\nIn Q4, Natera reported EPS at negative $0.41, up from negative $0.65 in the same quarter last year. Despite growing year on year, this print missed analysts’ estimates. Over the next 12 months, Wall Street expects Natera to improve its earnings losses. Analysts forecast its full-year EPS of negative $1.53 will advance to negative $1.27.\nKey Takeaways from Natera’s Q4 Results\nWe were impressed by how significantly Natera blew past analysts’ sales volume expectations this quarter. We were also excited its revenue outperformed Wall Street’s estimates by a wide margin. Looking ahead, full-year revenue guidance also exceeded expectations. Zooming out, we think this was a good quarter with some key areas of upside. The stock remained flat at $156.76 immediately after reporting.\nNatera put up rock-solid earnings, but one quarter doesn’t necessarily make the stock a buy. Let’s see if this is a good investment. The latest quarter does matter, but not nearly as much as longer-term fundamentals and valuation, when deciding if the stock is a buy. We cover that in our actionable full research report which you can read here, it’s free.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service",
+      "Health->health organisation",
+      "Health->health insurance",
+      "Health->medical service",
+      "Science and Technology->biomedical science",
+      "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://stockstory.org/stocks/nasdaq/ntra?utm_source=earnings&utm_medium=cloudquote&utm_campaign=top3&partner=cloudquote&utm_article=AVhwY24BYQ%3D%3D&utm_ticker=NTRA",
+      "https://stockstory.org/stock-pick-l/9b432064-0e9d-4b23-ac83-dbaef0f84b4e?utm_source=earningsArticle&utm_medium=cloudquote&utm_campaign=SP_5&partner=cloudquote&utm_article=AVhwY24BYQ%3D%3D&utm_ticker=NTRA",
+      "https://stockstory.org/stocks/nasdaq/ntra?utm_source=earningsArticle&utm_medium=cloudquote&utm_campaign=end1&partner=cloudquote&utm_article=AVhwY24BYQ%3D%3D&utm_ticker=NTRA",
+      "https://www.stockstory.org/stocks/nasdaq/ntra?utm_source=earnings&utm_medium=cloudquote&utm_campaign=top3&partner=cloudquote&utm_article=AVhwY24BYQ%3D%3D&utm_ticker=NTRA",
+      "https://www.stockstory.org/stocks/nasdaq/ntra?utm_source=earningsArticle&utm_medium=cloudquote&utm_campaign=end1&partner=cloudquote&utm_article=AVhwY24BYQ%3D%3D&utm_ticker=NTRA",
+      "https://stockstory.org/stocks/nasdaq/ntra",
+      "https://www.stockstory.org/stock-pick-l/9b432064-0e9d-4b23-ac83-dbaef0f84b4e?utm_source=earningsArticle&utm_medium=cloudquote&utm_campaign=SP_5&partner=cloudquote&utm_article=AVhwY24BYQ%3D%3D&utm_ticker=NTRA",
+      "https://stockstory.org/stock-pick-l/9b432064-0e9d-4b23-ac83-dbaef0f84b4e"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Natera",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NTRA",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "53830c864e843079d0fd5be0b9b1052b1f17ebe5",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [
+        "fake_news"
+      ]
+    },
+    "rating": null,
+    "crawled": "2025-02-28T00:07:34.261+02:00",
+    "updated": "2025-02-28T00:07:34.261+02:00"
+  }
+]

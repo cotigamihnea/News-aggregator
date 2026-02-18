@@ -1,0 +1,213 @@
+[
+  {
+    "uuid": "2c9045f9cb08b1f000aa3711207e0127df68c151",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-crowdstrike-job-offer-emails-target-devs-with-crypto-miners",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bill Toulas",
+    "published": "2025-01-09T21:30:00Z",
+    "title": "Fake CrowdStrike job offer emails target devs with crypto miners",
+    "text": "CrowdStrike is warning that a phishing campaign is impersonating the cybersecurity company in fake job offer emails to trick targets into infecting themselves with a Monero cryptocurrency miner (XMRig).\nThe company discovered the malicious campaign on January 7, 2025, and based on the phishing email's content, it likely didn't start much earlier.\nThe attack starts with a phishing email sent to job seekers, supposedly from a CrowdStrike employment agent, thanking them for applying for a developer position at the company.\nEmail sent to job candidates\nSource: Crowdstrike The email directs targets to download a supposed \"employee CRM application\" from a website designed to appear like a legitimate Crowdstrike portal.\nThis is supposedly part of the company's effort to \"streamline their onboarding process by rolling out a new applicant CRM app.\"\nCandidates clicking on the embedded link are taken to a website (\"cscrm-hiring[.]com\") that contains links to download the said application for Windows or macOS.\nMalicious website abusing the Crowdstrike brand\nSource: Crowdstrike The downloaded tool performs sandbox checks before fetching additional payloads to ensure it's not running in an analysis environment, like checking the process number, CPU core count, and the presence of debuggers.\nOnce those checks are over and the result is negative, aka the victim qualifies for infection, the application generates a bogus error message informing that the installer file is probably corrupt.\nFake error message\nSource: Crowdstrike In the background, the downloader retrieves a configuration text file containing the required parameters for running XMRig.\nIt then downloads a ZIP archive containing the miner from a GitHub repository and unzips the files in '%TEMP%\\System\\.'\nThe miner is set to run in the background, consuming minimal processing power (max 10%) to avoid detection.\nA batch script is added in the Start Menu Startup directory for persistence between reboots, while a logon autostart key is also written in the registry.\nMore details on the campaign and indicators of compromise associated with it can be found in Crowdstrike's report .\nJob seekers should always confirm they are speaking to an actual recruiter by verifying the email address belongs to the official company domain and by contacting that person from the official firm's page.\nBeware of urgent or unusual requests, offers that are too good to be true, or invitations to download executable files on your computer, supposedly required for recruitment.\nEmployers rarely, if ever, require candidates to download third-party applications as part of an interview process and never request upfront payments.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->fraud",
+      "Crime, Law and Justice->cyber crime",
+      "Science and Technology->information technology and computer science",
+      "Social Issue->social problem",
+      "Social Issue->discrimination"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.crowdstrike.com/en-us/blog/recruitment-phishing-scam-imitates-crowdstrike-hiring-process/",
+      "https://www.crowdstrike.com/en-us/blog/recruitment-phishing-scam-imitates-crowdstrike-hiring-process",
+      "https://crowdstrike.com/en-us/blog/recruitment-phishing-scam-imitates-crowdstrike-hiring-process/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:29:37.000+02:00",
+    "updated": "2025-01-29T18:56:26.986+02:00"
+  },
+  {
+    "uuid": "63c162c023eff468179ef229d7bbf4d8de6b19ea",
+    "url": "https://www.163.com/dy/article/JUFLE2JP0519D9A7.html?clickfrom=w_money",
+    "ord_in_thread": 0,
+    "author": "网易",
+    "published": "2025-05-01T04:20:00Z",
+    "title": "动辄上万的\"高潮针\"，究竟是不是骗局？|血浆|小红书|prp_网易订阅",
+    "text": "消费主义的又一次猎杀女性。\n在当下，女性对自我关爱与投资的方式日益多元，投身各类美容与健康项目早已不是什么新鲜事。\n从预防宫颈癌的HPV疫苗接种，到尝试前沿的干细胞疗法；从日常护肤的水光针注射，到抗衰紧致的热玛吉护理；从面部五官的精雕细琢，到身材曲线的丰盈塑造，女性一直在变美的路上。\n但令人意想不到的是，有生之年，一种名为“高潮针”的产品竟然在小红书上被吹成爆品，真是天下之大，无奇不有。\n网传一些中年女性群体纷纷加入预约大军，导致预约名额在短时间内被一抢而空，排队等待者众多，预约难度远超想象，甚至被调侃“比演唱会门票还难抢”。\n图源：网络\n不过，根据新京报报道，网传高潮针“预约排得满满的”“终于抢到了”等说法，所营造的“女性追捧高潮针”的盛况， 基本被证实为假象。 如有记者以顾客身份，咨询五个不同城市发布相关产品的多家机构。对于预约是否需要排队，多家机构均答复当天即可注射，“五一”假期期间都可以预约。据此，有理由怀疑，近期高潮针突然爆火，是被有意推动的“饥饿营销”。\n那究竟什么是“高潮针”？它又是否真的有用？\n动辄上万的高潮针在网络上火了\n“高潮针”，其学名为“G点注射”或“阴道年轻化治疗”，从命名上便不难窥见其核心功能——旨在助力女性更易达成性高潮体验。\n从成分构成来看，“高潮针”主要包含两大类核心物质。其一为自体富血小板血浆（PRP），医生会先从求美者体内抽取适量血液，随后借助离心机进行精细分离，提取出血小板浓度达到普通血液4 - 8倍的浓缩血浆。\n这高浓度的血小板富含多种生长因子，像TGF - β、VEGF等，在理论上，它们能发挥刺激神经末梢再生的作用，同时促进局部血管新生，进而提升神经传导敏感度、改善血液循环，最终宣称可增强私密部位敏感度、提升性快感。\n图源：网络\n另一类关键成分是玻尿酸，采用的是“物理强化法”。依据产品特性，交联或非交联的玻尿酸会被精准注射到G点区域。交联玻尿酸因其强大的支撑力，效果维持时间可达6 - 12个月；而非交联玻尿酸代谢速度相对较快，大约3 - 6个月就需要进行补打。\n不仅如此，部分产品还巧妙利用透明质酸的特性，直接改善阴道干涩状况，为女性带来即时的水润舒适感。\n简而言之，前者依托生物修复机制发挥作用，后者则凭借物理填充原理产生效果，都是为了让女人更爽。\n目前，号称这项技术价格门槛并不低。单针价格处于5000到8000元区间，通常需要注射三次才能达到较为理想的效果。如此计算下来，完成三针注射，总费用基本都在万元以上。\n在小红书等社交平台上，“高潮针”相关笔记数量已突破10万篇，对产后女性，强调“高潮针”能修复生育带来的身体机能下滑，改善性体验，直击她们的刚需。对于独立女性，他们又将追求“性福”与独立女性形象绑定，塑造出“拥有即独立”的消费暗示。\n与此同时，一些博主可能收了钱，踊跃“种草”，以“亲测者”身份分享体验，话术很夸张，比如“性福大爆发”“高潮科挤爆了”“现代医美新科技”等词汇频繁出现。\n以用户“@蜜桃成熟时”为例，她在小红书晒出就诊记录，详细记录了自己在上海九院注射3次PRP的经历，总花费高达2.8万元。她在分享中表示：“现在每次都能快速进入状态，老公说像回到初恋。”\n在帖子下的评论区，有关“求医院推荐”“痛不痛”的留言被大量点赞并置顶。当然，这个帖子真不真我们无法确定，也有不少人发出“是否安全”的质疑。\n“高潮针”到底有没有用？\n虽然“高潮针”爆火出圈，但其真实效果却众说纷纭。\n从所谓使用者的反馈来看，体验呈现出两极分化。34岁的宝妈婷婷产后出现阴道松弛问题，在小红书看到“高潮针能重塑少女紧致感”的笔记后，预约了疗程。\n她表示“确实觉得紧致湿润了很多，确实能改善部分女性的性冷淡问题，尤其适合产后女性”。\n图源：网络\n但26岁的莉莉却未有相同感受，她花费三四万块钱注射后，感觉效果甚微，甚至出现了注射后敏感度下降的反效果。\n从医学研究层面来看，目前该技术的临床数据多源于机构内部研究。《中国性科学杂志》2024年的报告虽提及82%的有效率，然而这一数据缺乏大规模双盲试验的验证，部分体验者承认效果可能包含心理暗示作用。\n腾讯医典也指出，所谓“高潮针”宣称通过富血小板血浆（PRP）制备来达成效果，但截至目前，PRP本身就缺乏高质量的临床证据，PRP和“高潮”之间的关联更是毫无证据可言。\n而且，高潮针还存在明显的副作用。\n根据红星新闻报道，专业医生表示，商家所宣称的“G点、U点、A点”等敏感点位，其存在及功能存在争议，且个体差异明显，每个人的敏感点位不同，甚至不一定存在明确点位。\n而且，注射胶原蛋白的原理可能是通过增加组织体积来增强摩擦刺激，但缺乏大规模临床研究支持，缺乏科学依据。此外，胶原蛋白在一段时间后会被分解代谢，通常仅能维持3- 6个月。\n专业医生还提醒，私密部位血管和神经丰富，注射可能导致感染、出血、瘢痕或神经损伤；反复注射还会引发组织硬化、局部变形或功能异常。\n从产品监管层面深入剖析，富血小板血浆（PRP）在医学界本有明确的适用范围，主要用于骨科领域的骨折修复，以及皮肤科的创面愈合，且属于被严格监管的第三类医疗器械。\n在医疗器械分类管理体系里，第三类医疗器械风险等级居于首位，这类器械需植入人体，用于支持或维持生命，对人体存在潜在危险，因而对其安全性和有效性必须进行严格把控。\n图源：网络\n然而，如今却有机构将PRP用于私处注射，其宣传用途与获批用途完全背离，此等做法实在荒诞不经。\n更离谱的是，目前众多机构却夸大宣传，将其包装成“必打项目”，并向年轻女性推销“定期补打”，将生理愉悦变成了“医美续费项目”。据业内人士透露，非正规机构的术后并发症发生率高达15%，远超正规医院的3%。\n实际上，高潮针与曾经被叫停的“缩阴针”本质相似。“缩阴针”主要成分是聚丙烯酰胺或组织硬化剂，注射后会使阴道组织硬化、结痂，营造出“更紧了”的假象。\n但副作用也很明显，阴道会出现感染、溃烂，逐渐形成阴道瘘。并且，聚丙烯酰胺具有流动性，难以取出，若流向直肠和膀胱，甚至可能引发尿道瘘、膀胱瘘、直肠瘘等严重问题。\n早在2018年，国家药品监督管理局就已禁止聚丙烯酰胺（注射用）产品在面部使用，面部都不能用的东西，用在私密部位怎能让人放心？\n只能说，部分医美机构为谋取利益，热衷于给女性制造容貌和身体焦虑，以收割女性钱包。\n根据新京报报道，高潮针并不是什么突然从天而降的新鲜玩意儿。公开信息显示，至少早在2021年，就有专业文章对此进行“打假”，指出“9800元一针的真相有点儿可笑……”。这次相关话题的火爆，更像是一场专门的炒作营销。\n“高潮”了谁？\n女人高不高潮尚未可知，但资本确实在这场闹剧中赚得盆满钵满，达到了真正意义上的高潮。\n小红书上那十几万篇所谓的“高潮针”用户体验帖子，70%是各大医美企业精心策划的软文与广告。\n它们的首要策略，便是与某些医院深度“合作”，借助其权威背书为产品铺路。\n据不正常人类实验室Lab披露，成都某三甲医院妇科主任透露，科室与医美公司签订合作协议，每成功推荐一名“高潮针”客户，科室就能获得15%的提成。\n而这场利益捆绑的背后，是“高潮针”的暴利。有知情人士算过一笔账，这一针“高潮针”的毛利保守估计高达八九成。这意味着，医院只需简单操作，注射三针就能轻松获利一两万。\n见此“商机”，越来越多小城市的公立医院也纷纷加入这场利益争夺战，开始接受相关订单，试图分一杯羹。\n除了从医院端发力，机构还巧妙利用小红书这一平台进行引流。通过“素人种草 + KOL 背书 + 医院认证”的三级传播链，将“高潮针”包装成“独立女性必修课”，仿佛不打“高潮针”，就不是独立、精致的新时代女性。\n这种营销手段取得了显著效果，很多女性将“高潮针”视为“精致生活”的符号。28岁的互联网从业者张萌坦言，她注射“高潮针”更多是为了“融入闺蜜圈”。“大家都在讨论这个，不尝试好像就落伍了。”在资本营造的消费氛围中，许多女性陷入了盲目跟风的怪圈。\n资本的投入在财报上得到了直观体现。远想生物的财报显示，其2024年营销费用占比高达45%，这笔巨额资金主要用于小红书KOL投放以及与医院的合作。\n在资本的营销攻势下，“高潮针”逐渐成为医美行业新的利润增长点，A股市场已有德美化工、天原股份、春立医疗、芭薇股份等多家公司入局。\n图源：网络\n社会学家李银河曾经说过，性高潮医学化的本质是对女性身体的再殖民。“将自然生理反应转化为可量化的医疗指标，背后是资本对身体体验的收编”。女性主义学者上野千鹤子强调，真正的身体自主权并非是对资本话术的被动接受，而是建立在自我认知基础上的主动选择。\n在资本的疯狂推波助澜下，女性在消费主义浪潮中逐渐失去对身体体验的自主感知。\n值得欣慰的是，如今也有一批女性开始觉醒，拒绝注射“高潮针”。小红书上“高潮针”话题的阅读量已突破亿次，用户@清醒纪写道：“当我们用医美手段追逐快感，其实是在物化自己的身体。”\n当资本将快感明码标价，当医院成为商业推手，当舆论场中喧嚣声不断，我们需要时刻保持警惕：真正的解放，不应是用一支支玻尿酸堆砌出的“完美身体”，而应是在拒绝物化的过程中，实现对自我身体与精神的真正掌控。\n性，不应该是商品，而应该是生命最本真的体验。\n参考资料：\n1、《听说小红书的“独立女性”，正在排队打“高潮针”？》青年新视角\n2、《少妇太疯狂！高潮针在小红书卖爆了！》财经三分钟\n3、《被疯抢的「高潮针」，开始猎杀中产少妇！》不正常人类实验室Lab",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Health->therapy",
+      "Health->vaccine",
+      "Health->health treatment and procedure",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->wellness"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T07:49:21.149+03:00",
+    "updated": "2025-05-01T04:58:06.000+00:00"
+  },
+  {
+    "uuid": "977bc38100bed61fec1f5fd0122c73d5d97f99a0",
+    "url": "https://www.wflx.com/2023/12/28/resident-country-club-calls-duck-killings-bloody-nightmare/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "WPTV - Staff",
+    "published": "2023-12-28T21:50:00Z",
+    "title": "Resident at country club calls duck killings 'bloody nightmare'",
+    "text": "Some residents at Aberdeen Golf and Country Club near Boynton Beach are upset over how they’ve seen some staff there treating ducks.\nJanet Pelosi Diamond, who has lived at the club for more than two decades, called WPTV after she said a morning moment of peace overlooking the golf course was quickly stained after she realized a family of ducks she had seen grow up was lying dead on a field.\n\"I was beside myself at what I was seeing,\" Pelosi Diamond said. \"When I walked over there, there was blood all over the place.\"\nShe said once she saw what was going on at the golf course behind her home, she had to record it.\nJanet Pelosi Diamond says she is outraged by the killing of the ducks at the Aberdeen Golf & Country Club. \"I don't think a lot of people know what's going on at the country club,\" Pelosi Diamond said. \"What I saw I thought was just so disgusting, so horrible, for the animals who are struggling to make it and to survive at a beautiful location, and they just turned it into a bloody nightmare.\"\nShe said it's sad to see ducks that she's watched grow into a lovely flock suddenly be killed.\n\"I watched these ducks grow up,\" Pelosi Diamond said. \"I watched the mom with the little babies. I watched them struggling to survive each day, and they have, until someone decided that they needed to be removed. This isn't removal. This is killing.\"\nShe said this all happened Thursday morning at the club.\nWPTV contacted the administration at the club who said they've hired a licensed trapper who removes nonnative invasive species.\nAfter WPTV showed the Florida Fish and Wildlife Conservation Commission the video, they said the ducks are muscovies — an invasive species.\nThe FWC said these types of ducks can be shot as long as it's during daylight hours while using non-toxic bullets on private property.\nRegardless of the legality of this issue, Pelosi Diamond said this is unacceptable.\n\"It's a lovely place to live, and I want it to stay a lovely way to live,\" Pelosi Diamond said. \"This has just really put a bloody mark on the community.\"\nShe said some neighbors are planning on speaking to the administration to demand the ducks be treated humanely.\nScripps Only Content 2023",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://gray-wflx-prod.cdn.arcpublishing.com/resizer/v2/X25DPDGV7FDDXDFVYGPF557I3Y?auth=8aec01ff8415563d6864344041e8e5206fd9dc68f8b0d42b425255e1d73422bb&width=540&height=303&smart=true",
+      "https://gray-wflx-prod.cdn.arcpublishing.com/resizer/v2/X25DPDGV7FDDXDFVYGPF557I3Y?auth=8aec01ff8415563d6864344041e8e5206fd9dc68f8b0d42b425255e1d73422bb&width=980&height=551&smart=true",
+      "https://gray-wflx-prod.cdn.arcpublishing.com/resizer/v2/X25DPDGV7FDDXDFVYGPF557I3Y?auth=8aec01ff8415563d6864344041e8e5206fd9dc68f8b0d42b425255e1d73422bb&width=720&height=404&smart=true",
+      "https://gray-wflx-prod.cdn.arcpublishing.com/resizer/v2/X25DPDGV7FDDXDFVYGPF557I3Y?auth=8aec01ff8415563d6864344041e8e5206fd9dc68f8b0d42b425255e1d73422bb&width=1300&height=730&smart=true",
+      "https://myfwc.com/wildlifehabitats/nonnatives/birds/waterfowl/muscovy-duck/",
+      "https://www.myfwc.com/wildlifehabitats/nonnatives/birds/waterfowl/muscovy-duck/",
+      "https://www.gray-wflx-prod.cdn.arcpublishing.com/resizer/v2/X25DPDGV7FDDXDFVYGPF557I3Y?auth=8aec01ff8415563d6864344041e8e5206fd9dc68f8b0d42b425255e1d73422bb&width=1300&height=730&smart=true",
+      "https://myfwc.com/wildlifehabitats/nonnatives/birds/waterfowl/muscovy-duck",
+      "https://www.gray-wflx-prod.cdn.arcpublishing.com/resizer/v2/X25DPDGV7FDDXDFVYGPF557I3Y?auth=8aec01ff8415563d6864344041e8e5206fd9dc68f8b0d42b425255e1d73422bb&width=720&height=404&smart=true",
+      "https://gray-wflx-prod.cdn.arcpublishing.com/resizer/v2/X25DPDGV7FDDXDFVYGPF557I3Y",
+      "https://www.gray-wflx-prod.cdn.arcpublishing.com/resizer/v2/X25DPDGV7FDDXDFVYGPF557I3Y?auth=8aec01ff8415563d6864344041e8e5206fd9dc68f8b0d42b425255e1d73422bb&width=540&height=303&smart=true",
+      "https://www.gray-wflx-prod.cdn.arcpublishing.com/resizer/v2/X25DPDGV7FDDXDFVYGPF557I3Y?auth=8aec01ff8415563d6864344041e8e5206fd9dc68f8b0d42b425255e1d73422bb&width=980&height=551&smart=true"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "janet pelosi diamond",
+          "sentiment": "none"
+        },
+        {
+          "name": "pelosi diamond",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "aberdeen golf and country club",
+          "sentiment": "negative"
+        },
+        {
+          "name": "aberdeen golf & country club",
+          "sentiment": "none"
+        },
+        {
+          "name": "wptv",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "boynton beach",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:11:52.752+02:00",
+    "updated": "2023-12-29T00:11:52.752+02:00"
+  },
+  {
+    "uuid": "1aa489ac1f94b7d8416d9f471066835b00cd7537",
+    "url": "http://linformationnationaliste.hautetfort.com/archive/2024/01/07/etats-unis-l-allie-fatal-qui-se-retourne-contre-tous-ceux-qu-6479146.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "En réponse à",
+    "published": "2024-01-07T17:11:00Z",
+    "title": "Etats-Unis, l’allié fatal qui se retourne contre tous ceux qui lui ont fait confiance",
+    "text": "« La France va montrer qu’elle est capable du plus grand » a déclaré le président Macron le 26 juillet 2023. Les jeux olympiques et para-olympiques représentent a priori (sauf imprévu) l’événement politique clé de l’année qui vient. Le défi est en effet gigantesque. Leur budget est estimé à 8 milliards € et le nombre de visiteurs attendus du monde entier est de 15, 3 millions pour 14 850 athlètes.\nLe président de la République y joue les trois années suivantes de son quinquennat. Cet événement gigantesque, les troisièmes jeux olympiques se déroulant à Paris dans l’histoire, peut être, par son impact médiatique, l’occasion de faire oublier les années sombres depuis sa réélection en 2022, marquées notamment par une réforme des retraites impopulaire et fortement contestée et celle de l’immigration au cours de laquelle il a semblé perdre la maîtrise des opérations.\nCes JO sont l’occasion pour le président de s’extraire de la mélasse politique française dominée l’absence de majorité absolue à l’Assemblée nationale qui mine le second mandat et de s’afficher en héros planétaire. L’expérience de la coupe du monde de football en 2022 au Qatar a confirmé son appétence pour manifester sa présence auprès des sportifs lors des grandes épreuves sportives. Il pourrait bien s’imposer comme la principale vedette de ces jeux olympiques et para-olympique.\nPanem et circences du pain et du cirque, comme disaient les Romains. Si le peuple est heureux et si la fête bat son plein et si la France gagne des médailles, le passé s’effacera de lui-même. Les Français auront à cœur, le temps des épreuves et pendant les quelques mois qui suivront, d’oublier l’inflation, l’insécurité, le chômage, l’immigration, la pauvreté, le déclin scolaire, les guerres d’Ukraine et du Moyen-Orient.\nSur le modèle de la coupe du monde de football en 1998 qui avait tant bénéficié à la popularité de Jacques Chirac, la cote de confiance de M. Macron, omniprésent, pourrait atteindre des sommets. Les JO s’imposeraient alors comme le début d’une ère nouvelle. L’image présidentielle, tellement ternie aujourd’hui, retrouverait son rayonnement initial peut-être même de manière durable, à en juger par l’expérience de 1998.\nPour un pouvoir aussi obnubilé par l’image, les apparences, les symboles, dans un régime politique largement fondé sur la communication et le culte de la personnalité avec son spectacle grandiloquent, qui prétend offrir aux Français un « récit » plutôt qu’une politique, cet événement pourrait avoir une portée refondatrice. Alors, des JO réussis seraient en mesure de transformer la donne politique française, balayer l’amertume et le pessimisme et mettre sur orbite un successeur désigné du président Macron tout en balayant la tentation dite « populiste ».\nCependant, tout ceci n’est qu’une possibilité et correspond au calcul et l’espoir de la macronie. La réalisation de ce scénario bienheureux est conditionnée au bon déroulement des JO. Si la fête est gâchée par des problèmes d’organisation, des polémiques ou pire, des drames du terrorisme ou de l’insécurité, l’effet pourrait être exactement inverse. Un excès de personnalisation de l’événement autour du chef de l’Etat pourrait aussi avoir un effet contre-productif en suscitant l’ironie. Et si la joie collective n’est pas, autant qu’espéré, au rendez-vous de l’été, le triomphe attendu risque de se retourner en exaspération croissante.\nMT\nhttps://maximetandonnet.wordpress.com/2024/01/04/lenjeu-politique-des-jo-de-paris-en-2024-pour-atlantico/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://atlantico.fr/article/decryptage/jeux-olympiques-et-paralympiques-de-paris-2024-la-macronie-a-quitte-ou-double-maxime-tandonnet",
+      "https://maximetandonnet.wordpress.com/2024/01/04/lenjeu-politique-des-jo-de-paris-en-2024-pour-atlantico/",
+      "https://maximetandonnet.wordpress.com/2024/01/04/lenjeu-politique-des-jo-de-paris-en-2024-pour-atlantico",
+      "https://www.maximetandonnet.wordpress.com/2024/01/04/lenjeu-politique-des-jo-de-paris-en-2024-pour-atlantico/",
+      "https://www.atlantico.fr/article/decryptage/jeux-olympiques-et-paralympiques-de-paris-2024-la-macronie-a-quitte-ou-double-maxime-tandonnet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-08T00:34:00.848+02:00",
+    "updated": "2024-01-08T00:34:00.848+02:00"
+  }
+]

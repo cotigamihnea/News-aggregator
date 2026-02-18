@@ -1,0 +1,311 @@
+[
+  {
+    "uuid": "457e05959899de4a2ffeaba02efd73b84f55d21f",
+    "url": "https://tvi.iol.pt/noticias/novembro/temperaturas/novembro-foi-o-mais-quente-em-portugal-dos-ultimos-94-anos/20241213/675c86b9d34ea1acf271d340",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agência Lusa",
+    "published": "2024-12-13T19:11:00Z",
+    "title": "Novembro foi o mais quente em Portugal dos últimos 94 anos",
+    "text": "O mês de novembro foi o mais quente em Portugal dos últimos 94 anos, revelou esta sexta-feira o Instituto Português do Mar e da Atmosfera (IPMA), avançando que se verificou uma diminuição da área em seca meteorológica na região Sul.\nO boletim do clima do IPMA indica que, em Portugal Continental, o mês de novembro de 2024 classificou-se como “extremamente quente” em relação à temperatura do ar e seco em relação à precipitação.\n“Foi o novembro mais quente dos últimos 94 anos. O valor médio da temperatura média do ar, 15,4 °C, apresenta uma anomalia de + 2,69 °C em relação ao valor da normal 1981-2010”, precisa o IPMA.\nSegundo o boletim, a temperatura mínima do ar registou o terceiro valor mais alto desde 1931 e segundo mais alto desde 2000, enquanto a temperatura máxima teve o quarto valor mais alto dos últimos 93 anos.\n“Durante o mês os valores da temperatura do ar estiveram quase sempre acima do valor médio mensal, destacando-se o dia 06 de novembro com 20% das estações meteorológicas da rede do IPMA a registarem valores da temperatura máxima acima de 25 °C. No dia 06 de novembro registou-se o valor mais alto do mês, 27.9 °C, na estação meteorológica de Alcácer do Sal”, indica o documento.\nO IPMA salienta a precipitação forte registada no período de 14 a 16, em especial na região Sul no dia 16 e em particular no interior do Baixo Alentejo e o Algarve, onde ocorreram inundações em algumas localidades.\nO boletim dá também conta que se verificou uma diminuição da área em seca meteorológica na região Sul, cingindo-se apenas à região litoral Sul entre Sines e Portimão.\nNo final de novembro apenas 8 % do território estava em seca meteorológica (classe de seca fraca).\nA nível mundial, a temperatura média foi de 14,10 graus, mais 0,70 do que o valor médio entre 1991 e 2020.\n“Estima-se que o mês tenha sido cerca de 1,62 °C mais quente do que a média pré-industrial de 1850-1900, e é o 16º mês num período de 17 meses em que a temperatura do ar da superfície média global excedeu 1,5°” graus”, referiu o IPMA, em comunicado\nNa Europa, o valor médio da temperatura média do ar foi 5,14 °C, + 0,78 °C do que o valor médio 1991-2020.\nAs temperaturas do ar estiveram acima da média (1991-2020) no norte da Rússia e registaram-se recordes de temperatura em Kirkenes, no Ártico da Noruega. A Dinamarca teve a noite mais quente para o mês de novembro e a Islândia também estabeleceu um recorde para a noite mais quente de novembro em qualquer lugar acima da latitude 60°: 22,9°C.\nNas regiões do sudoeste da Europa, as temperaturas do ar estiveram igualmente acima da média, com temperaturas noturnas extremas registadas em França no final do mês.\n“Em contraste, o Leste e o Sul da Europa e a Turquia registaram temperaturas abaixo da média, tal como algumas partes de Itália”, observaram os técnicos.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T22:22:24.439+02:00",
+    "updated": "2024-12-13T22:22:24.439+02:00"
+  },
+  {
+    "uuid": "b18b349f4cbfadcebb5927bfe1b0ef425d815d60",
+    "url": "https://www.fox10tv.com/video/2025/04/16/foley-safety-initiative-take-over-deadly-portion-cr-65-county",
+    "ord_in_thread": 0,
+    "author": "@FOX10News",
+    "published": "2025-04-16T22:16:00Z",
+    "title": "Foley safety initiative to take over deadly portion of CR 65 from county",
+    "text": "Updated: 22 minutes ago\n|A Florida woman in Escambia County thought having a brand-new house seemed out of reach. But that dream has now become a reality.\nUpdated: 6 hours ago\n|Lionel Clinard Harris was booked into Mobile County Metro Jail late Tuesday night following his arrest, jail records show.\nUpdated: 7 hours ago\n|Autism Awareness Month celebrates and honors the experiences and identities of individuals with autism by focusing on understanding, inclusion and support.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Politics->safety of citizens",
+      "Politics->local government and authority",
+      "Social Issue->social condition",
+      "Social Issue->social services",
+      "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Foley",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Lionel Clinard Harris",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Escambia County",
+          "sentiment": "none"
+        },
+        {
+          "name": "Jail",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T01:33:26.018+03:00",
+    "updated": "2025-04-17T01:33:26.018+03:00"
+  },
+  {
+    "uuid": "216ec692e007b7eb38d083af835fb25dd0d908f8",
+    "url": "https://www.newsbreak.com/harford-county-md/3280676701351-maryland-weather-heavy-rainfall-causes-flooding-in-harford-cecil-counties",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2023-12-28T20:31:00Z",
+    "title": "Maryland weather: Heavy rainfall causes flooding in Harford, Cecil counties",
+    "text": "Harford and Cecil counties saw flooding Wednesday after heavy rainfall swept the Baltimore metropolitan area, the National Weather Service reports. Erik Taylor, an NWS meteorologist, said the areas east of the I-95 corridor saw between one and a half to two inches of rainfall. At the same time, some counties within the state, including Harford and Cecil, experienced two and a half to three inches over 72 hours. In Joppa, a car was stuck in flood waters on Winters Run Road in Wednesday evening, the Harford County Fire Department said in a post to X, formerly Twitter. Taylor said there were no concerns for additional flooding as “it looks like most of those smaller streams and creeks that were up are slowly coming back down.” On Thursday, there’s a high of 57 degrees expected in the afternoon and a low of 43 degrees at night. Friday will see a 20% chance of showers and a high of 51 degrees. Taylor said the New Year’s weekend will look relatively dry, with a rain shower popping up here or there. Temperatures will remain in the 40s and 50s.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "harford",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cecil",
+          "sentiment": "negative"
+        },
+        {
+          "name": "erik taylor",
+          "sentiment": "none"
+        },
+        {
+          "name": "taylor",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "national weather service",
+          "sentiment": "none"
+        },
+        {
+          "name": "nws",
+          "sentiment": "none"
+        },
+        {
+          "name": "harford county fire department",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "baltimore",
+          "sentiment": "none"
+        },
+        {
+          "name": "harford",
+          "sentiment": "none"
+        },
+        {
+          "name": "maryland",
+          "sentiment": "none"
+        },
+        {
+          "name": "winters run road",
+          "sentiment": "none"
+        },
+        {
+          "name": "joppa",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T19:42:29.866+02:00",
+    "updated": "2023-12-29T19:42:29.866+02:00"
+  },
+  {
+    "uuid": "00ac58fa6f4b7a9418828c7e6c076124ba9d5ccc",
+    "url": "https://www.time.news/the-government-will-increase-the-vat-on-electricity-to-10/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "time news",
+    "published": "2023-12-28T22:41:00Z",
+    "title": "The Government will increase the VAT on electricity to 10% - timenews",
+    "text": "2023-12-28 10:56:14 The President of the Government, Pedro Sánchez, took advantage of the last speech of the year to resort to anti-crisis measures, which the Council of Ministers decided to postpone until 2024. «This administration will never abandon its main mission of improving and protecting families through bold measures like the ones I’m about to describe,” he said Wednesday of the partial expansion of Social Security to combat inflation and the impact of the energy crisis. This is the eighth package promoted by the Executive Committee, which has so far raised more than 40 billion euros. However, support has seen some significant changes. The Government has decided to increase from 5% to 10% the VAT rate applied to electricity throughout the year 2024. This is an increase that, in any case, is still far from the 21% it was before the energy crisis. The rest of the energy taxes will also be recovered gradually. The tax on gas will be 10% until spring, and then increase. Although in his speech the Executive indicated that said reduction would end in February, Moncloa has specified that the reduction will be in force in the first quarter of the year, so it would return to normal in April. The Special Tax on Electricity (IEE), which until now remained at 0.5%, will rise until reaching normality in the second half of the year. From January to March it will be set at 2.5%, from April to June it will go to 3.8%, and subsequently it will reach the 5.1% at which it was set before the Government promoted the anti-crisis package. The Tax on the Value of Electrical Energy Production (IVPEE) will also rise gradually. Until March it will have a rate of 3.5%; then it will rise to 5.2% until June and subsequently reach 7% prior to the crisis. In addition, the VAT reduction for basic foods will be maintained. Thus, as announced by the President of the Government, Pedro Sánchez, essential foods such as milk, bread, eggs, cheese, legumes or vegetables will continue with a rate of 0% and others such as oil or pasta with a 5% rate. . Aid for public transport will continue as before, which means that Renfe Media Distancia and Cercanías will be free and that the State will subsidize 30% of the price of the rest of the services, to which we must add the 20% discount that assume autonomy. Although the extraordinary taxes on banking and energy will be extended for one year, as of January 1, these companies will be allowed to deduct strategic investments related to the green transition and include a commitment to review in 2024 as a figure of character. permanent. Beyond the fiscal measures, the suspension of evictions and evictions for vulnerable households will be extended, including those households affected by habitual residence eviction procedures, which do not arise from rental contracts, when there are dependent people, victims of violence on the woman or minors in charge. The expansion of measures related to the workplace, the impossibility of suspending basic supplies or the expansion of discounts corresponding to the Electric Social Bonus will also continue. The limits applied to the growth of the last resort gas rate (TUR) are maintained, which prevent an increase in the cost of the raw material above 15%, limiting the quarterly increase to approximately 5%, as well as the existence of the Neighborhood TUR, which communities of owners with natural gas central heating can benefit from. Likewise, the maximum price that butane can reach will continue to be set at 19.55 euros per cylinder. On the other hand, the president has announced the elimination of bank commissions or compensation for early repayment of loans at a variable rate, as well as commissions for cash withdrawals over the counter for the elderly or people with disabilities. Another of the great novelties is the transfer of the management of the Minimum Living Income (IMV) to the autonomous communities with a common regime that request it, something that already happens with the Basque Country and Navarra. #Government #increase #VAT #electricity",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://es.wikipedia.org/wiki/Impuesto_al_valor_agregado",
+      "https://administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/empresas/impuestos/especiales/electricidad.html",
+      "https://www.administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/empresas/impuestos/especiales/electricidad.html",
+      "https://www.es.wikipedia.org/wiki/Impuesto_al_valor_agregado"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "pedro sánchez",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "social security",
+          "sentiment": "none"
+        },
+        {
+          "name": "executive committee",
+          "sentiment": "none"
+        },
+        {
+          "name": "council of ministers",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "moncloa",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:42:58.588+02:00",
+    "updated": "2023-12-29T00:42:58.588+02:00"
+  },
+  {
+    "uuid": "ac803ec4a5e138568cc59218d859cac53e0bf263",
+    "url": "https://investorplace.com/2024/01/economic-outlook-2024-bright-prospects-with-one-looming-storm-cloud/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Larry Ramer",
+    "published": "2024-01-01T17:38:00Z",
+    "title": "Economic Outlook 2024: Bright Prospects With One Looming Storm Cloud | InvestorPlace",
+    "text": "Recently released data indicates the labor market remains strong. Meanwhile, a recent statement by a Federal Reserve president left me more convinced than ever that the central bank plans to cut interest rates multiple times in 2024. All of these developments are very positive for the economic outlook in the new year. Also boding well for the economy and stocks is Goldman Sachs’ (NYSE: [GS](https://investorplace.com/stock-quotes/gs-stock-quote/)) belief the global economy will be stronger than many expect this year. However, on the negative side, at least one analyst agrees with my contention that U.S. housing prices will likely fall significantly in 2024. Still, I believe the overall outlook for the U.S. economy and American stocks remains upbeat. The Labor Market and the Economy Are Still Strong In November, the economy [added an impressive total](https://nypost.com/2023/12/28/business/new-us-jobless-claims-rise-again-as-labor-market-cools/) of 199,000 positions, way up from the 150,000 net jobs gained in October. What’s more, the unemployment rate dropped to 3.7% in November from 3.9% the previous month. With the unemployment rate down, it’s clear the labor market is still generally strong. As a result, the chances of a recession occurring in 2024 are quite low. Also making a recession unlikely, are two other developments pointed out by Fundstrat analyst Tom Lee, who famously [made a great, bullish](https://finance.yahoo.com/news/wall-street-bull-gives-highest-2024-sp-forecast-yet-192122201.html) and accurate call about the stock market at the beginning of 2023 in the face of so much pessimism. Specifically, Lee is [now noting](https://twitter.com/JuliaLaRoche/status/1741104872299139234) that [purchasing managers’ indexes ](https://www.spglobal.com/marketintelligence/en/mi/products/pmi-faq.html#:~:text=The%20Purchasing%20Managers'%20Index%E2%84%A2,inventories%20of%20both%20inputs%20and)“are bottoming. That leads to a cyclical earnings recovery.” Moreover, he pointed out that last quarter, excluding energy companies, the earnings of S&P 500 firms jumped 10% versus the same period a year earlier. Finally, Goldman Sachs in November [predicted the](https://www.goldmansachs.com/intelligence/pages/the-global-economy-will-perform-better-than-many-expect-in-2024.html) global economy would grow more rapidly “than many expect in 2024,” with a manufacturing comeback and interest rate cuts providing positive catalysts. The Fed Is Definitely Ready to Cut Rates On Dec. 18, San Francisco Fed President Mary Daly provided the strongest indication yet that the central bank is preparing to cut rates next year. Specifically, Daly [noted she expects](https://www.wsj.com/economy/central-banking/fed-official-says-rate-cuts-could-be-needed-next-year-to-prevent-over-tightening-29d009ce) the Fed to cut rates around “three times” in 2024, and stated “rate cuts would be appropriate to prevent inflation-adjusted or ‘real’ rates from rising.” The Fed president also emphasized the central bank must begin worrying more about unemployment going forward. Such a change in its outlook would naturally result in multiple rate cuts in 2024. Tom Lee, the analyst who in January 2023 unveiled an accurate S&P 500 target, recently said the “Fed just wants to keep the business cycle happy and that gives them room to cut rates [in 2024].” In past columns, I’ve stated the central bank wants to help President Joe Biden get reelected, so I could not agree with Lee’s statement more. The Housing Storm Cloud On Dec. 28, housing analyst Meredith Whitney, who correctly predicted the 2008 stock crash, [articulated a similar theory](https://finance.yahoo.com/news/home-prices-fall-silver-tsunami-050749678.html) about the housing sector as I did in a previous column. Specifically, Whitney, who was one of those who warned about the 2008 stock crash before it happened, believes lower interest rates will cause many Baby Boomers to sell their homes and buy smaller houses. As a result, Whitney, like me, expects housing prices to fall meaningfully. It’s unclear if Whitney expects this phenomenon to start in 2024. However, I think it will begin in the second or third quarter of next year. Still, given the strength of other areas of the economy and the lack of the same huge investments by large banks in housing in 2007, I don’t expect the decrease in housing prices to derail the economic expansion. On the date of publication, Larry Ramer did not hold (either directly or indirectly) any positions in the securities mentioned in this article. The opinions expressed are those of the writer, subject to the InvestorPlace.com [Publishing Guidelines.](https://investorplace.com/corporate/investorplace-publishing-guidelines/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Economy, Business and Finance",
+      "Labor"
+    ],
+    "external_links": [
+      "https://www.goldmansachs.com/intelligence/pages/the-global-economy-will-perform-better-than-many-expect-in-2024.html)",
+      "https://finance.yahoo.com/news/wall-street-bull-gives-highest-2024-sp-forecast-yet-192122201.html)",
+      "https://finance.yahoo.com/news/home-prices-fall-silver-tsunami-050749678.html)",
+      "https://www.spglobal.com/marketintelligence/en/mi/products/pmi-faq.html#:~:text=The%20Purchasing%20Managers",
+      "https://twitter.com/JuliaLaRoche/status/1741104872299139234)",
+      "https://nypost.com/2023/12/28/business/new-us-jobless-claims-rise-again-as-labor-market-cools/)",
+      "https://www.wsj.com/economy/central-banking/fed-official-says-rate-cuts-could-be-needed-next-year-to-prevent-over-tightening-29d009ce)",
+      "https://www.nypost.com/2023/12/28/business/new-us-jobless-claims-rise-again-as-labor-market-cools/)",
+      "https://www.finance.yahoo.com/news/wall-street-bull-gives-highest-2024-sp-forecast-yet-192122201.html)",
+      "https://www.twitter.com/JuliaLaRoche/status/1741104872299139234)",
+      "https://spglobal.com/marketintelligence/en/mi/products/pmi-faq.html#:~:text=The%20Purchasing%20Managers",
+      "https://www.finance.yahoo.com/news/home-prices-fall-silver-tsunami-050749678.html)",
+      "https://goldmansachs.com/intelligence/pages/the-global-economy-will-perform-better-than-many-expect-in-2024.html)",
+      "https://wsj.com/economy/central-banking/fed-official-says-rate-cuts-could-be-needed-next-year-to-prevent-over-tightening-29d009ce)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "federal reserve",
+          "sentiment": "none"
+        },
+        {
+          "name": "goldman sachs",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-01T20:17:23.821+02:00",
+    "updated": "2024-01-01T20:17:23.821+02:00"
+  }
+]

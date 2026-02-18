@@ -1,0 +1,331 @@
+[
+  {
+    "uuid": "9fb8707d015802423713c153961aa3246c75306d",
+    "url": "https://www.tudocelular.com/google/noticias/n227379/google-chrome-agora-e-compativel-com-gerenciadores-de-senhas-de-terceiros-no-android.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TudoCelular.com",
+    "published": "2024-10-17T20:12:00Z",
+    "title": "Google Chrome agora \\u00e9 compat\\u00edvel com gerenciadores de senhas de terceiros no Android",
+    "text": "Google 16 Out 17 de outubro de 2024 [0](#comments) [Enquanto o Google Chrome para desktop remove o suporte para bloqueadores de anúncios](https://www.tudocelular.com/software/noticias/n224854/google-chrome-fim-suporte-ublock-origin.html), a versão para Android está recebendo suporte para preenchimento automático com gerenciadores de senhas de terceiros. Com isto, ele garante suporte aprimorado a informações fornecidas por outros aplicativos. Segundo o 9to5Google, a versão 131 do Google Chrome traz suporte oficial para gerenciadores de senhas de terceiros, o que elimina bugs ao mostrar senhas salvas no dispositivo. Isto acontecia porque o Chrome utilizava um modo de compatibilidade para obter senhas salvas no seu gerenciador de senhas padrão caso ele não fosse o próprio do Google. Desta forma, o navegador mostrava uma lista de senhas e dados que poderiam pertencer ao site que você estava acessando, mas ele errava os dados ao preencher os campos muitas vezes. A novidade pode ser habilitada nos experimentos do Google Chrome 131 Beta acessando o endereço: chrome://flags#enable-autofill-virtual-view-structure Após habilitar e reiniciar o navegador, basta acessar o menu Configurações > Preenchimento automático > Preenchimento automático usando outro serviço e reiniciar o Google Chrome novamente. Se você não quiser usar o Google Chrome Beta, basta aguardar até 12 de novembro, quando o Chrome 131 será lançado no canal estável com a nova função, pois o modo de compatibilidade do navegador será encerrado no início de 2025, obrigando todos a migrarem para a nova configuração que não traz bugs. Microsoft destaca novos recursos na build 26100.1876 do Windows 11 24H2 PS5: Sony começará a vender consoles equipados com peças de reposição Huawei Kirin 9010L: chipset inédito é encontrado em smartphone intermediário da chinesa Celular mais rápido! Ranking TudoCelular com gráficos de todos os testes de desempenho",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T00:40:44.506+03:00",
+    "updated": "2024-10-18T00:40:44.506+03:00"
+  },
+  {
+    "uuid": "968b23a9c54810d71293bd19b7633e5b7911251c",
+    "url": "https://flipboard.com/article/weather-in-wakefield-thunderstorms-forecast-for-west-yorkshire-this-weekend/f-2ec779ec0b%2Fco.uk",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "wakefieldexpress.co.uk - Leanne Clarke",
+    "published": "2024-05-10T00:00:00Z",
+    "title": "Weather in Wakefield: Thunderstorms forecast for West Yorkshire this weekend | Flipboard",
+    "text": "Weather in Wakefield: Thunderstorms forecast for West Yorkshire this weekend Thundery weather is forecast for Wakefield this weekend. More stories from [Weather](/topic/weather) - Storyboard Americans' biggest fears when they leave the safety of their own home - Storyboard Transform Your Backyard with These Springtime Upgrades [Severe thunderstorm watch canceled, more rain on the way for the Jacksonville area](/topic/weather/severe-thunderstorm-watch-canceled-more-rain-on-the-way-for-the-jacksonville-ar/a-Nw1GuD_VRXuPkRQwV39SIg%3Aa%3A3408403593-021b2c2bfa%2Factionnewsjax.com) The severe thunderstorm watch that was in effect for Northeast Florida and Southeast Georgia has been canceled, but more rain is on the way.First … Join the flipboard community Discover, collect, and share stories for all your interests [Sign up](/signup) More stories from [UK Weather](/topic/weatheruk) [Jet2 cancels all flights to Greek holiday destination amid 'stay home' warning](/topic/weatheruk/jet2-cancels-all-flights-to-greek-holiday-destination-amid-stay-home-warning/a-icfJ8c44S5qYqxudDthKqQ%3Aa%3A2519258963-3d08c4372a%2Fco.uk) Jet2 has cancelled all flights - including journeys from Leeds Bradford Airport - to a Greek holiday destination as passengers are advised to stay … [Prince William gives major health update about Kate during hospital visit](/topic/weatheruk/prince-william-gives-major-health-update-about-kate-during-hospital-visit/a-ryt9h3VbTnKG4XsbbMz5Zg%3Aa%3A2222357481-0f15937b23%2Fco.uk) The Prince of Wales made his first official trip since inheriting the Duchy of Cornwall and was asked about his wife, the Princess of Wales, and … [Met Office issues thunderstorm warnings across UK - full list of places affected](/topic/weatheruk/met-office-issues-thunderstorm-warnings-across-uk---full-list-of-places-affected/a-nP2XyxHfRUuIF6b9gXGQDg%3Aa%3A2362884060-35e2397d7d%2Fco.uk) A thunderstorm warning has been issued by the Met Office which covers a huge part of the UK this weekend. The 10-hour warning comes into place at …",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "wakefield",
+          "sentiment": "none"
+        },
+        {
+          "name": "west yorkshire",
+          "sentiment": "none"
+        },
+        {
+          "name": "southeast georgia",
+          "sentiment": "none"
+        },
+        {
+          "name": "uk",
+          "sentiment": "none"
+        },
+        {
+          "name": "northeast florida",
+          "sentiment": "none"
+        },
+        {
+          "name": "jacksonville",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T20:14:19.979+03:00",
+    "updated": "2024-05-10T20:14:19.979+03:00"
+  },
+  {
+    "uuid": "c898af32a1580639dd16f0b5b071974f40159370",
+    "url": "https://ground.news/article/trumps-return-would-be-better-for-the-world-nato-state_cc8401",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Russia Today [🇷🇺-Affiliated]",
+    "published": "2024-03-09T15:38:00Z",
+    "title": "Ground News - Trump’s return would be better for the world – NATO state",
+    "text": "Summary by Russia Today [🇷🇺-Affiliated] The world needs leaders who want peace, Hungarian leader Viktor Orban has said Donald Trump will be able to stop the conflict between Russia and Ukraine if he wins the election in November and returns to the White House, Hungarian Prime Minister Viktor Orban has said. Orban, who has a good long-standing relationship with Trump, made the comment in a video message on his Facebook page on Saturday dedicated to his meeting with the 45th US presiden… Share menu 2 Articles 2 Articles All Left Center Right\nRussia Today [🇷🇺-affiliated] Lean Right Low Factuality Government: Government of Russia Government: State Media Trump’s return would be better for the world – NATO state The world needs leaders who want peace, Hungarian leader Viktor Orban has said Donald Trump will be able to stop the conflict between Russia and Ukraine if he wins the election in November and returns to the White House, Hungarian Prime Minister Viktor Orban has said. Orban, who has a good long-standing relationship with Trump, made the comment in a video message on his Facebook page on Saturday dedicated to his meeting with the 45th US presiden…\n50 minutes ago · Russian Federation Read Full Article\nRussia Today [🇷🇺-affiliated] Lean Right Low Factuality Government: Government of Russia Government: State Media\nTrump’s return would be better for the world – NATO state The world needs leaders who want peace, Hungarian leader Viktor Orban has said Donald Trump will be able to stop the conflict between Russia and Ukraine if he wins the election in November and returns to the White House, Hungarian Prime Minister Viktor Orban has said. Orban, who has a good long-standing relationship with Trump, made the comment in a video message on his Facebook page on Saturday dedicated to his meeting with the 45th US presiden…\n50 minutes ago · Russian Federation Read Full Article nachrichten.at “The world would be a better place if President Donald Trump returned” PALM BEACH. Hungarian Prime Minister Viktor Orban has once again praised ex-US President Donald Trump and praised him as “President of Peace.”\n6 hours ago · Linz, Austria Read Full Article\nnachrichten.at\n“The world would be a better place if President Donald Trump returned” PALM BEACH. Hungarian Prime Minister Viktor Orban has once again praised ex-US President Donald Trump and praised him as “President of Peace.”\n6 hours ago · Linz, Austria Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe Ground News Article Assistant Not enough coverage to generate an Article Assistant.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://www.nachrichten.at/politik/aussenpolitik/die-welt-waere-besser-wenn-herr-praesident-donald-trump-zurueckkehren-wuerde;art391,3929436?utm_source=ground.news&utm_medium=referral",
+      "https://www.rt.com/news/593997-trump-orban-biden-us/?utm_source=ground.news&utm_medium=referral",
+      "https://nachrichten.at/politik/aussenpolitik/die-welt-waere-besser-wenn-herr-praesident-donald-trump-zurueckkehren-wuerde;art391,3929436?utm_source=ground.news&utm_medium=referral",
+      "https://www.rt.com/news/593997-trump-orban-biden-us/",
+      "https://www.nachrichten.at/politik/aussenpolitik/die-welt-waere-besser-wenn-herr-praesident-donald-trump-zurueckkehren-wuerde;art391,3929436",
+      "https://rt.com/news/593997-trump-orban-biden-us/?utm_source=ground.news&utm_medium=referral"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "orban",
+          "sentiment": "none"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "viktor orban",
+          "sentiment": "none"
+        },
+        {
+          "name": "trump",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ground news - trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nato",
+          "sentiment": "negative"
+        },
+        {
+          "name": "state media trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "faceboo",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "russia",
+          "sentiment": "none"
+        },
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "white house",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-09T18:28:04.876+02:00",
+    "updated": "2024-03-09T18:28:04.876+02:00"
+  },
+  {
+    "uuid": "48be04aa5b502ffab9da67864fda1579991f9ea5",
+    "url": "https://es.dayfr.com/hoy/2084004.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "alienor.",
+    "published": "2024-11-01T03:09:00Z",
+    "title": "Alerta por tormentas fuertes y granizo en 11 provincias: las zonas afectadas | Advertencia del SMN",
+    "text": "Mientras en la Ciudad y sus alredores se registran días con temperaturas veraniegas, en el centro y norte del país persiste el mal tiempo. El Servicio Meteorológico Nacional (SMN) emitió una serie de alertas amarillas y naranjas por tormentas fuertes y granizo para once provincias. El organismo informó que rige una alerta amarilla para zonas de San Luis, córdoba, Santa Fe, Chaco, Formosa, Santiago del Estero, Corrientes, Salta, Jujuy, Tucumán y Catamarca. En tanto que el alerta subía a nivel naranja en territorio de Santiago del Esterocasi todo Chacoen Jujuycentro de Salta y casi todo Tucumán. Alerta amarillo y naranja por tormentas De acuerdo con el reporte del SMN, en las zonas con alerta amarillo“el área será afectada por tormentas de variada intensidadalgunas localmente fuertes y se espera que las mismas estén acompañadas por actividad eléctrica intensa, caída de granizo ocasional, ráfagas fuertes y abundante caída de agua en cortos períodos”. Se estiman valores de precipitación acumulada entre 30 y 60 mmpudiendo ser superados en forma local. En tanto, para las regiones con alerta naranjael organismo reportó que “el área será afectada por tormentas localmente fuertes o severas. Las mismas podrán estar acompañadas por ráfagas intensas que pueden superar los 90 km/h, actividad eléctrica importante, caída de granizo y principalmente abundante caída de agua en cortos períodos”. En este caso, se estiman valores de precipitación acumulada entre 60 y 100 mm, pudiendo ser superados en forma puntual. Seguí leyendo: Swiss",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T10:23:31.951+02:00",
+    "updated": "2024-11-01T10:23:31.951+02:00"
+  },
+  {
+    "uuid": "a3b96d71fe32bf3a037f538a14d98b615cd348ad",
+    "url": "https://www.newsbreak.com/fairport-ny/3427417850161-praying-to-stay-alive-how-a-d-day-veteran-remembers-that-battle-80-years-ago",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-05-06T16:00:00Z",
+    "title": "'Praying to stay alive': How a D-Day veteran remembers that battle 80 years ago",
+    "text": "By Randy Gorbman ,\n6 hours ago\nSeveral WWII veterans were honored in Fairport on Sunday. Some of them are headed to Normandy in June for the 80th anniversary of D-Day. (Randy Gorbman / WXXI News ) Several World War II veterans — including some who fought in the D-Day invasion on June 6, 1944 — were honored Sunday in Fairport.\nGeorge Steitz was among those who gathered at the Perinton Historical Society and Fairport Museum. The 99-year-old was a very young man during the 1944 invasion in Normandy that helped liberate France.\nHe said he and his fellow soldiers were just trying not to die as they stormed the beach in Normandy, an action that helped lead to the liberation of France and the rest of Western Europe.\nGeorge Steitz, who fought in Normandy on D-Day, June 6, 1944, was among the local veterans honored in Fairport on Sunday. (Randy Gorbman / WXXI News ) “We were so damn scared. Here I am, 19 years old, I was praying, like everybody else, we were praying to stay alive,” said Steitz, who emphasized that “it was nothing like what you might think you know about war from the movies.”\n“You have to be in a war, to know what war’s about. You can see 'Saving Private Ryan' and all the movies, but you’ve gotta be there,” he added.\nSteitz, who was a longtime athletic coach in Penfield, said that even though it’s been 80 years, he still often thinks of that time.\n“There isn’t too many days that go by that you don’t think about it,\" he said. “It’s like being married, I lost my wife, but I think about her every day, and just like the war, you just don’t forget those things.”\nRobert Persichitti, a WWII Navy veteran who fought at Iwo Jima, was among the local veterans honored in Fairport on Sunday, 5/5/24. (Randy Gorbman / WXXI News ) Some other local WWII survivors will be headed to Normandy in June for the 80 th anniversary of D-Day, but Steitz won’t be there. He said that he’s been invited before, but he doesn’t want to remember D-Day with an in-person visit.\nAmong the other WWII veterans at Sunday’s gathering in Fairport was Robert Persichitti, now 102 years old. The Navy veteran wasn’t in Normandy but was stationed in the Pacific, and Persichetti said he aboard a ship at Iwo Jima when the iconic WWII photo was taken there.\n“I was the radio operator aboard the ship, and we were offshore a little ways and when they raised that flag, I was on deck that day, and watched them raise that flag twice,” Persichitti he.\nPersichitti, who will be attending ceremonies in Normandy on June 6, said he’s not sure how much of WWII history is being taught in schools these days.\n“It shouldn’t be forgotten,” he said, noting the thousands of U.S. military members who gave their lives.\nExpand All Read in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0Zleyl_0spXwTQ400",
+      "https://img.particlenews.com/image.php?url=0CgptQ_0spXwTQ400",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0zfQrg_0spXwTQ400",
+      "https://img.particlenews.com/image.php?url=0Zleyl_0spXwTQ400",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0CgptQ_0spXwTQ400",
+      "https://img.particlenews.com/image.php?url=0zfQrg_0spXwTQ400",
+      "https://www.loc.gov/item/96515062/",
+      "https://www.loc.gov/item/96515062",
+      "https://www.img.particlenews.com/image.php?url=0CgptQ_0spXwTQ400",
+      "https://www.img.particlenews.com/image.php?url=0zfQrg_0spXwTQ400",
+      "https://loc.gov/item/96515062/",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0Zleyl_0spXwTQ400",
+      "https://img.particlenews.com/image.php",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0CgptQ_0spXwTQ400",
+      "https://www.img.particlenews.com/image.php?url=0Zleyl_0spXwTQ400",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0zfQrg_0spXwTQ400"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "randy gorbman",
+          "sentiment": "negative"
+        },
+        {
+          "name": "george steitz",
+          "sentiment": "none"
+        },
+        {
+          "name": "steitz",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "perinton historical society",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "fairport",
+          "sentiment": "none"
+        },
+        {
+          "name": "fairport museum",
+          "sentiment": "none"
+        },
+        {
+          "name": "normandy",
+          "sentiment": "none"
+        },
+        {
+          "name": "france",
+          "sentiment": "none"
+        },
+        {
+          "name": "western europe",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-06T20:01:22.517+03:00",
+    "updated": "2024-05-06T20:01:22.517+03:00"
+  },
+  {
+    "uuid": "eba622b8af9a5fd768e91775fde638fc625ae77d",
+    "url": "https://www.lafm.com.co/colombia/ideam-lanza-preocupante-advertencia-sobre-lluvias-y-tormentas-en-fin-de-ano",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción LA FM",
+    "published": "2023-12-28T22:56:00Z",
+    "title": "Ideam alerta por lluvias para fin de año | La FM",
+    "text": "[Geraldine Rozo Amórtegui ](/autores/geraldine-rozo-amortegui) Ideam lanza preocupante advertencia sobre lluvias y tormentas en fin de año Se anticipa que el país experimentará nubosidad y lluvias, con posibles tormentas eléctricas en las regiones del Pacífico y la Amazonía. En un reciente pronóstico del tiempo, Daniel Useche, jefe encargado de la oficina de alertas y pronósticos del Ideam, proporcionó detalles sobre las condiciones climáticas esperadas para el fin de semana en Colombia. Se anticipa que el país experimentará nubosidad y lluvias, con posibles tormentas eléctricas en las regiones del Pacífico y la Amazonía, así como en áreas específicas de Antioquia, Norte de Santander, Santander, Boyacá, Cundinamarca, Caldas, Risaralda, Quindío, Tolima y Huila. Lea también: [Ideam anticipa tardes frías y lluviosas en Bogotá](https://www.lafm.com.co/bogota/ideam-anticipa-tardes-frias-y-lluviosas-en-bogota) No obstante, se espera que la región Caribe y la Orinoquía mantengan condiciones secas. Para Bogotá, se pronostica un cielo entre parcial y mayormente nublado, con posibilidad de precipitaciones hacia el oriente y suroriente de la ciudad en las primeras horas de la mañana, y lluvias en zonas del norte y noroccidente durante la tarde. En otras áreas, se espera un clima mayormente seco, con cielos parcialmente nublados y temperaturas alrededor de los ocho y 21°C. Por su parte, Useche indicó que, \"este fin de semana tendrá condiciones de nubosidad, se comprobaría de lluvias, acompañadas en algunos casos de tormentas eléctricas, principalmente en sectores de la región del Pacífico y amazónica, y también en áreas de los departamentos de Antioquia, el sur de Norte de Santander, algunas áreas del este y sur de Santander, también en sectores de Boyacá, Cundinamarca hacia la Sabana Centro\". Le puede interesar: [Ideam hace dura advertencia sobre el sol en diciembre: hay que cuidarse más](https://www.lafm.com.co/bogota/ideam-hace-dura-advertencia-sobre-el-sol-en-diciembre-hay-que-cuidarse-mas) Deslizamientos En cuanto a las alertas por deslizamientos, se reporta un total de 379 municipios en algún nivel de alerta, siendo 76 de ellos considerados en alerta roja. Destacan los departamentos de Nariño, Cauca y Meta, con el mayor número de municipios en alerta. La región andina presenta 200 municipios en algún nivel de alerta y 139 en alerta naranja por riesgo de deslizamientos. Es importante destacar que este pronóstico y las alertas están sujetos a cambios, por lo que se recomienda estar atentos a las actualizaciones de los informes meteorológicos.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:21:36.168+02:00",
+    "updated": "2023-12-29T02:21:36.168+02:00"
+  }
+]

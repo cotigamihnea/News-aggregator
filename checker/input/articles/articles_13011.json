@@ -1,0 +1,660 @@
+[
+  {
+    "uuid": "3b677e2a803209ea8588d2ceafefb40acae70462",
+    "url": "https://whatsnew2day.com/candy-crush-tinder-myfitnesspal-see-the-thousands-of-apps-hijacked-to-spy-on-your-location",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Elijah",
+    "published": "2025-01-09T21:05:00Z",
+    "title": "Candy Crush, Tinder, MyFitnessPal: See the thousands of apps hijacked to spy on your location",
+    "text": "Some of the world’s most popular apps are likely being co-opted by dishonest members of the advertising industry to collect sensitive location data on a mass scale, and that data ends up at a location data company whose subsidiary has previously sold location data global to US law enforcement.\nThe thousands of applications, included in pirated files from location data company Gravy Analytics, includes everything from games like candy crush and dating apps like Tinder to pregnancy tracking and religious prayer apps on both Android and iOS. Because much of the collection occurs through the advertising ecosystem (not code developed by the app creators themselves), it is likely that this data collection occurs without the knowledge of users or even app developers. applications.\n“For the first time publicly, we appear to have evidence that one of the largest data brokers that sells to commercial and government customers appears to be acquiring its data from online advertising ‘bid streams,’ rather than from code embedded in the own applications. Zach Edwards, a senior threat analyst at cybersecurity firm Silent Push who has followed the location data industry closely, tells 404 Media after reviewing some of the data.\nThe data provides a rare insight into the world of real-time bidding (RTB). Historically, location data companies paid app developers to include code packages that collect your users’ location data. Instead, many companies have resorted to Obtain location information through the advertising ecosystem. where companies bid to place ads within applications. But a side effect is that data brokers can listen in on that process and collect the locations of people’s cell phones.\n“This is a nightmare scenario for privacy, because not only does this data breach contain data extracted from RTB systems, but there is also a company acting as a global honey badger, doing as it pleases with every piece of data it is presented to him. says Edwards.\nIncluded in the hacked Gravy data are tens of millions of mobile phone coordinates from devices within the US, Russia and Europe. Some of those files also reference an app next to each location data. 404 Media extracted the app names and created a list of the mentioned apps.\nThe list includes dating sites Tinder and Grindr; massive games like candy crush , temple race , subway surfers and Harry Potter: puzzles and spells ; Moovit transit app; My Period Calendar & Tracker, a period tracking app with over 10 million downloads; the popular fitness app MyFitness Pro; Tumblr social network; Yahoo email client; Microsoft’s Office 365 app; and Flightradar24 flight tracker. The list also mentions multiple religion-focused apps, such as Muslim prayer and Christian Bible apps, several pregnancy trackers, and many VPN apps, which some users may download, ironically, in an attempt to protect their privacy.\nThe full list can be found here . Multiple security researchers have published other lists of applications included in the data, of different sizes. Our version is relatively larger because it includes Android and iOS apps, and we decided to keep duplicate instances of the same app that had slight name variations to make it easier for readers to search for apps they have installed.\nAlthough this data set came from an apparent Gravy hack, it is unclear whether Gravy collected this location data itself or obtained it from another company, or which location company owns or is licensed to use it.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->social sciences",
+      "Science and Technology->psychology",
+      "Science and Technology->information technology and computer science",
+      "Social Issue->social problem",
+      "Social Issue->discrimination",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.404media.co/hackers-claim-massive-breach-of-location-data-giant-threaten-to-leak-data/",
+      "https://docs.google.com/spreadsheets/d/1Ukgd0gIWd9gpV6bOx2pcSHsVO6yIUqbjnlM4ewjO6Cs/edit?usp=sharing",
+      "https://pastejustit.com/atnbotturr",
+      "https://www.wsj.com/tech/cybersecurity/how-ads-on-your-phone-can-aid-government-surveillance-943bde04?ref=404media.co",
+      "https://www.vice.com/en/article/us-military-location-data-xmode-locate-x/",
+      "https://gist.github.com/fs0c131y/f498b21cba9ee23956fc7d7629262e9d",
+      "https://www.404media.co/hackers-claim-massive-breach-of-location-data-giant-threaten-to-leak-data",
+      "https://www.docs.google.com/spreadsheets/d/1Ukgd0gIWd9gpV6bOx2pcSHsVO6yIUqbjnlM4ewjO6Cs/edit?usp=sharing",
+      "https://vice.com/en/article/us-military-location-data-xmode-locate-x/",
+      "https://www.pastejustit.com/atnbotturr",
+      "https://docs.google.com/spreadsheets/d/1Ukgd0gIWd9gpV6bOx2pcSHsVO6yIUqbjnlM4ewjO6Cs/edit",
+      "https://www.gist.github.com/fs0c131y/f498b21cba9ee23956fc7d7629262e9d",
+      "https://www.vice.com/en/article/us-military-location-data-xmode-locate-x",
+      "https://wsj.com/tech/cybersecurity/how-ads-on-your-phone-can-aid-government-surveillance-943bde04?ref=404media.co",
+      "https://404media.co/hackers-claim-massive-breach-of-location-data-giant-threaten-to-leak-data/",
+      "https://www.wsj.com/tech/cybersecurity/how-ads-on-your-phone-can-aid-government-surveillance-943bde04"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Zach Edwards",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Gravy Analytics",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:50:41.325+02:00",
+    "updated": "2025-01-10T02:50:41.325+02:00"
+  },
+  {
+    "uuid": "ffe23dc6e24333c7955857c1d829219576f76407",
+    "url": "https://sipse.com/novedades/ocupacion-hotelera-en-la-riviera-maya-cayo-hasta-un-60-cptq-489547.html",
+    "ord_in_thread": 0,
+    "author": "Octavio Martínez",
+    "published": "2025-05-01T00:10:00Z",
+    "title": "Ocupación hotelera en la Riviera Maya cayó hasta un 60%; CPTQ",
+    "text": "Ocupación hotelera en la Riviera Maya cayó hasta un 60%; CPTQ\nEl pico ocupacional, según las estadísticas, se alcanzó el Viernes Santo de Semana Santa, con un porcentaje del 83.7%.\nTras la conclusión de las vacaciones de Semana Santa, la ocupación hotelera en la Riviera Maya se desplomó hasta 64%. Esto afecta a los 58 mil cuartos disponibles en el destino turístico.\nSe trata de una de las bajas más considerables en lo que va del año, luego de que había mantenido promedios del 80% de ocupación en los primeros cuatro meses del año, según datos del Consejo de Promoción Turística de Quintana Roo (CPTQ).\nEste porcentaje se registró apenas con el arranque de la semana, luego de que todos volvieron a clases. Para el martes ya teníamos una ocupación del 65%, con lo cual se prevé que se cierre la ocupación general. Durante abril el balance general alcanzó 76%, pese a la temporada vacacional de Semana Santa. La diferencia porcentual es marcada en un plano comparativo porque en abril del año pasado cerró con una ocupación del 85% en la Riviera Maya.\nAndrea Lotito, vicepresidente de la Asociación de Hoteles de la Riviera Maya atribuyó esta baja a la poca promoción turística del país.\n“Vemos es el efecto de años sin promoción a nivel federal (...) Tenemos que cuidar mucho los temas que han afectado a nuestros resultados y volver a ganar la confianza del turismo nacional que no sabe de las opciones económicas de la ciudad y se ha dejado espantar por episodios virales de servicios de transportación hostiles o caros, y de la seguridad .La comunicación es nuestra herramienta más fuerte y tenemos que mejorar ahí”, agregó.\nDijo que confían en la marca Let´s Playa, aunque hasta ahora no ha dado resultados. “Por supuesto seguimos otorgando un voto de confianza a la nueva marca que se promociona por parte del municipio. Playa del Carmen”, concluyó.\nEl pico ocupacional, según las estadísticas, se alcanzó el viernes 18, el Viernes Santo de Semana Santa, con un porcentaje del 83.7%, que no se compara a los picos del 90% que se alcanzan normalmente en la Riviera Maya en temporadas vacacionales.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->tourism and leisure industry",
+      "Lifestyle and Leisure->leisure venue",
+      "Lifestyle and Leisure->travel and tourism"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Andrea Lotito",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Riviera",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Consejo de Promoción Turística de Quintana Roo",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "CPTQ",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T05:17:35.828+03:00",
+    "updated": "2025-05-01T02:22:06.000+00:00"
+  },
+  {
+    "uuid": "db984eafc559b2aa7c3b8294990044b15b3cb457",
+    "url": "https://www.heraldscotland.com/news/24016357.storm-gerrit-thousands-homes-remain-without-power-wake/?ref=yahoo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "yahoo",
+    "published": "2023-12-29T07:21:00Z",
+    "title": "Storm Gerrit: Thousands of homes remain without power in wake | The Herald",
+    "text": "Storm Gerrit: Thousands of homes remain without power in wake Power Cut Storm Gerrit Weather warning Emergency Weather By Craig Williams Reporter Share Floodwaters caused by Storm Gerrit in Scotland (Image: (James Matheson/PA)) Thousands of homes remain without power as the post-storm cleanup begins in the wake of Storm Gerrit.\nAround 1,500 homes in Scotland experienced their second night without power on Thursday.\nPower company Scottish and Southern Electricity Networks said it had restored supply to more than 46,000 properties that lost power due to the storm, with people in the north east and Shetland worst affected.\nThey said the remaining homes should be reconnected on Friday with welfare vans serving hot food and drink to affected customers from 9am.\nOperations director Andy Smith said: “This has been a difficult couple of days for the communities affected and I’m grateful to them for their patience and support as our teams work extremely hard to restore power.”\nREAD MORE: Hottest June, costliest storms. Scotland during the world's warmest year on record\nScotRail said many lines have been reopened but urged passengers to check for the latest information before travelling, a message echoed by LNER, Avanti West Coast and London Northwestern Railway who suspensed or cancelled services due to damage or system faults.\nFriday will see significant disruption for travellers wishing to travel on the London Euston and Watford Junction lines with services expected to be up and running by the end of the day.\nThe Met Office reported the worst of Storm Gerrit had passed with the last few days of 2023 forecast to be unsettled with strong winds, rain and even snow on higher ground.\nMet Office chief forecaster Steven Ramsdale said: “Heavy rain will spread across all but the far north on Saturday, affecting similar areas previously affected by Storm Gerrit. However, this rainfall will be a step down from that seen during Storm Gerrit.”\nPower Cut Storm Gerrit Weather warning Emergency Weather Share Why are you making commenting on The Herald only available to subscribers? It should have been a safe space for informed debate, somewhere for readers to discuss issues around the biggest stories of the day, but all too often the below the line comments on most websites have become bogged down by off-topic discussions and abuse.\nheraldscotland.com is tackling this problem by allowing only subscribers to comment.\nWe are doing this to improve the experience for our loyal readers and we believe it will reduce the ability of trolls and troublemakers, who occasionally find their way onto our site, to abuse our journalists and readers. We also hope it will help the comments section fulfil its promise as a part of Scotland's conversation with itself.\nWe are lucky at The Herald. We are read by an informed, educated readership who can add their knowledge and insights to our stories.\nThat is invaluable.\nWe are making the subscriber-only change to support our valued readers, who tell us they don't want the site cluttered up with irrelevant comments, untruths and abuse.\nIn the past, the journalist’s job was to collect and distribute information to the audience. Technology means that readers can shape a discussion. We look forward to hearing from you on heraldscotland.com\nComments & Moderation Readers’ comments: You are personally liable for the content of any comments you upload to this website, so please act responsibly. We do not pre-moderate or monitor readers’ comments appearing on our websites, but we do post-moderate in response to complaints we receive or otherwise when a potential problem comes to our attention. You can make a complaint by using the ‘report this post’ link . We may then apply our discretion under the user terms to amend or delete comments.\nPost moderation is undertaken full-time 9am-6pm on weekdays, and on a part-time basis outwith those hours.\nRead the rules here Please sign in or register to comment. Get involved\nwith the news Send your news & photos Loading... Show more articles",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "external_links": [
+      "https://twitter.com/share?url=",
+      "https://www.heraldscotland.com%2Fnews%2F24016357.storm-gerrit-thousands-homes-remain-without-power-wake%2F%3fref%3Dwa",
+      "https://www.facebook.com/sharer/sharer.php?u=",
+      "https://www.linkedin.com/shareArticle?mini=true&url=",
+      "https://heraldscotland.com%2Fnews%2F24016357.storm-gerrit-thousands-homes-remain-without-power-wake%2F%3fref%3Dwa",
+      "https://www.twitter.com/share?url=",
+      "https://facebook.com/sharer/sharer.php?u=",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.linkedin.com/shareArticle",
+      "https://twitter.com/share",
+      "https://linkedin.com/shareArticle?mini=true&url="
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "andy smith",
+          "sentiment": "none"
+        },
+        {
+          "name": "james matheson",
+          "sentiment": "none"
+        },
+        {
+          "name": "craig williams",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "herald",
+          "sentiment": "negative"
+        },
+        {
+          "name": "scotrail",
+          "sentiment": "none"
+        },
+        {
+          "name": "scottish and southern electricity networks",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "shetland",
+          "sentiment": "none"
+        },
+        {
+          "name": "scotland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T09:28:01.996+02:00",
+    "updated": "2023-12-29T09:28:01.996+02:00"
+  },
+  {
+    "uuid": "e83c945c9df21eb19f8d6f644c76a26b2695d339",
+    "url": "https://www.dailyitem.com/wire/doomsday-fish-washed-ashore-in-california-but-what-does-that-mean/article_942c6cc8-662d-5721-b4e9-1981c7d1294a.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Karen Garcia - Los Angeles Times (TNS)",
+    "published": "2024-11-22T00:06:00Z",
+    "title": "'Doomsday fish' washed ashore in California, but what does that mean?",
+    "text": "LOS ANGELES — If one oarfish landing on a beach is a sign of a disaster to come, how bad will it be if three wash up in quick succession?\nA silvery 10-foot-long creature, the oarfish has fueled fisherman's tales of sea serpents — and in some cultures has been a portent of natural disasters.\nIt's rare to see an oarfish up close in California; only 22 have washed ashore since 1901, according to UC San Diego's Scripps Institution of Oceanography. But in the last three months, three of them have surfaced on Southern California beaches.\nThe latest was on Nov. 6, when an oarfish was discovered at Grandview Beach by Alison Laferriere, a doctoral candidate at Scripps Institution of Oceanography. The other two beached in La Jolla and Huntington Beach.\nThe last time a series of oarfish came ashore in California and other parts of the world was over several months in 2013 and 2014. Misty Paig-Tran, associate professor of biological science at Cal State Fullerton, studied four of them.\nEvery time an oarfish makes an appearance on the sand, it's a spectacle for scientists as well as the general public for several reasons.\nTo start with, nobody is expecting a behemoth that's up to 25 feet long to come so close to the California coast, said Paig-Tran.\n\"What's special about them is that when they're freshly dead or just about to die and you look at their skin, it actually (looks) like a mirror,\" she said.\nIts length combines with its silver skin and bright red scarlet fins to give it a mythical look.\nSince the 1500s, sailors have told of sea monsters as long as their ships, and have even drafted maps that warned of areas in the ocean where such creatures resided. Their depictions appear to describe oarfish.\nOarfish generally live in the upper layers of the ocean depths, from about 300 feet to almost 3,000 feet underwater. Scientists call this section of the ocean the \"twilight zone\" because the fish that inhabit it are basically living in darkness with only a small glimpse of light, Paig-Tran said.\nThe twilight zone is too deep for divers to reach and explore, adding to the allure of this species.\nIf an oarfish happens to swim up to the ocean's surface, a sailor would see a long slithering creature with spiky protrusions on its head and could believe it was a sea monster, Paig-Tran said.\nIt's a jarring sight, but oarfish are anything but dangerous. Oarfish are bottom feeders, meaning they primarily feed on krill (a small shrimp-like creature) using powerful mouths shaped liked vacuum nozzles, according to Scripps.\nAn oarfish's body is extremely delicate, so much so that if you pick one up it could break in half because of its jelly-like bones, Paig-Tran said.\nAnother factor that adds to the mystique of this creature is the lack of knowledge about its history and daily life, including how it mates, when it lays eggs, what its movement patterns are and how often it feeds.\nScientists are able to study the creatures only when they wash up on a beach.\n\"When a body comes up, we can do our best to look to the biology and the physiology and try to make our best guesses, but we don't get to see it living in its natural environment,\" Paig-Tran said. \"It's a completely open-ended question of what's going on with these fishes.\"\nWhy are dead oarfish washing ashore?\nScientists don't know why these oarfish have died and washed ashore.\nThe latest oarfish spotted in Encinitas was recovered by a team of NOAA Fisheries Service and transported to Southwest Fisheries Science Center, where it will undergo an autopsy so researchers can learn more about the biology, anatomy, genomics and life history of oarfish, according to Scripps.\nThe deaths of the three fish that have surfaced \"may have to do with changes in ocean conditions and increased numbers of oarfish off our coast,\" said Ben Frable, manager of Scripps Oceanogaphy Marine Vertebrate Collection.\n\"Sometimes it may be linked to broader shifts, such as the El Niño and La Niña cycle, but this is not always the case,\" he said.\nThere was a weak El Niño earlier this year, and this wash-up coincided with the recent red tide and Santa Ana winds last week. But many other factors could have played a role in these strandings, Frable added.\nAnother possible explanation is that the oarfish got stuck in a current and couldn't go back down into deeper waters.\nOarfish aren't strong swimmers. They primarily rely on their dorsal fin, whereas strong swimmers use their caudal fin or back tail, Paig-Tran said.\nAn oarfish that gets caught in a current and is taken up to the surface doesn't have a good way to get back down.\n\"If you are a fish that lives in the deep and you got stuck on the surface, you're kind of hosed,\" she said.\nWhere did the \"doomsday\" name come from?\nOarfish have been dubbed \"doomsday\" fish because some cultures consider it a bad sign when they appear. The moniker is derived from a manipulation of Japanese folklore that became popular following the Fukushima disaster, Frable said.\n\"In the two years prior to the disaster, about a dozen oarfish washed up in Japan, most hundreds of miles away from this area.\" he said.\nIn the aftermath of the natural disaster, people latched onto these strandings as an omen of the disaster.\nThis prompted researchers in Japan in 2019 to test whether oarfish and other deep-sea animal strandings were correlated with earthquakes, tsunamis and other factors.\n\"They found no correlation whatsoever,\" Frable said. \"But the name is too evocative to disappear.\"\nOn the other hand, Paig-Tran said there could be some truth to the myth because when an earthquake happens, it releases pressure that can change a current underwater.\n\"When the pressure gets released, it changes the currents that [the fish are] living in, and it brings them up to the surface with this kind of big bolus of air and gasses and whatever the turbulence (is) from this earthquake,\" she said.\nSo, are the oarfish that surfaced in Southern California a harbinger of a massive earthquake? According to Paig-Tran: probably not.\n©2024 Los Angeles Times. Visit latimes.com. Distributed by Tribune Content Agency, LLC.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Alison Laferriere",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Scripps Institution of Oceanography",
+          "sentiment": "none"
+        },
+        {
+          "name": "UC San Diego",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Southern",
+          "sentiment": "none"
+        },
+        {
+          "name": "Beach",
+          "sentiment": "none"
+        },
+        {
+          "name": "Jolla",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T02:21:04.654+02:00",
+    "updated": "2024-11-22T02:21:04.654+02:00"
+  },
+  {
+    "uuid": "4659516dd7d9387b6915cea86202ac3ed293d9b3",
+    "url": "https://indiaeducationdiary.in/anandana-the-coca-cola-india-foundation-and-gram-unnati-launch-project-unnati-mango-to-promote-sustainable-mango-cultivation-in-karnataka",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "India Education Diary Bureau Admin",
+    "published": "2024-07-18T23:23:00Z",
+    "title": "Anandana- The Coca-Cola India Foundation and Gram Unnati Launch “Project Unnati Mango” to Promote Sustainable Mango Cultivation in Karnataka",
+    "text": "Karnataka : Coca-Cola India, through its foundation Anandana, has partnered with Gram Unnati to launch “Project Unnati Mango” in the Kolar and Ramanagara districts of Karnataka. This project, launched ahead of Mango Day, aims to enhance sustainable mango cultivation and boost productivity as well as the profitability of farmers cultivating Alphonso and Totapuri varieties in these districts. In line with Coca-Cola’s Viksit Kisan campaign and the Government’s Atmanirbhar Bharat Abhiyan, the project will train and equip farmers with modern techniques like High-Density plantations and drip irrigation, empowering them and improving their livelihoods.\nAdditionally, as part of the project, Anandana- The Coca-Cola India Foundation is collaborating with state horticulture agencies such as Krishi Vigyan Kendra (KVK), the Mango Board, the Indian Institute of Horticultural Research (IIHR), and various district horticulture departments in Karnataka to promote the best agricultural practices among farming communities. This initiative will help farmers improve mango yields, quality, size, and shelf life. It also provides comprehensive support, including skill training and financial literacy enhancement.\nCommenting on the launch, Aneesh Jain, CEO and Founder, Gram Unnati , said, “Gram Unnati is proud to partner with Anandana- The Coca-Cola India Foundation on this transformative project that underscores our commitment to sustainable agriculture and farmer empowerment. By adopting modern practices and focusing on quality, we aim to significantly enhance the livelihoods of mango farmers in Karnataka. Together, we will drive sustainable growth and innovation in mango farming, benefiting farmers and the environment alike.”\n“Farmers are the backbone of India’s horticulture system. With Project Unnati Mango, we aim to elevate the livelihoods of these farmers with advanced horticulture solutions, empowering them to significantly increase their incomes. This aligns with the Government of India’s vision for AtmaNirbhar Bharat, making the agrarian economy self-reliant”, said, Rajesh Ayapilla, Senior Director- CSR and Sustainability for Coca-Cola India and Southwest Asia.\nFurthermore, the project will also provide crop advisory services, climate forecasting, and alert systems to equip farmers with climate-smart techniques and improve crop traceability and sustainability. Special training modules have also been designed to empower female farmers, promoting gender equality in agriculture.\nAbout Project Unnati Program – Project Unnati Mango is an integral part of Coca-Cola’s Fruit Circular Economy initiative, which is centered on sustainable agriculture. This initiative by the company focuses on driving farm-level efficiencies through the implementation of best-practice techniques, such as ultra-high-density plantation (UHDP) and drip irrigation. Project Unnati is a key pillar of Coca-Cola India’s ESG priorities – Sustainable Agriculture. Over the past 10 years, Project Unnati has helped empower and enable nearly 4 lakh fruit farmers across 13 states and Union Territories in India. Focused on seven crop varieties Mango, Apple, Orange, Grapes, Litchi, Coffee, and sugarcane, the program is\naimed at propelling the horticulture supply chain and building agriculture production capacities across the country.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "gram unnati",
+          "sentiment": "negative"
+        },
+        {
+          "name": "alphonso",
+          "sentiment": "none"
+        },
+        {
+          "name": "atmanirbhar bharat abhiyan",
+          "sentiment": "none"
+        },
+        {
+          "name": "kolar",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "gram unnati launch",
+          "sentiment": "negative"
+        },
+        {
+          "name": "coca-cola india",
+          "sentiment": "negative"
+        },
+        {
+          "name": "coca-cola india foundation",
+          "sentiment": "negative"
+        },
+        {
+          "name": "coca-cola’s viksit kisan",
+          "sentiment": "none"
+        },
+        {
+          "name": "krishi vigyan kendra",
+          "sentiment": "none"
+        },
+        {
+          "name": "mango board",
+          "sentiment": "none"
+        },
+        {
+          "name": "indian institute of horticultural research",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "anandana",
+          "sentiment": "none"
+        },
+        {
+          "name": "karnataka karnataka",
+          "sentiment": "none"
+        },
+        {
+          "name": "totapuri",
+          "sentiment": "none"
+        },
+        {
+          "name": "ramanagara",
+          "sentiment": "none"
+        },
+        {
+          "name": "karnataka",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-19T05:13:18.297+03:00",
+    "updated": "2024-07-19T05:13:18.297+03:00"
+  },
+  {
+    "uuid": "7b5a86e729e2fb2808f1506d684c30c28dc2aaa0",
+    "url": "https://www.panewslab.com/zh/articles/1i48dw3s",
+    "ord_in_thread": 0,
+    "author": "@PANewsCN",
+    "published": "2025-07-31T03:17:00Z",
+    "title": "Web3角色扮演游戏Aria完成500万美元融资",
+    "text": "PANews 7月31日消息，Web3角色扮演游戏Aria（ARIA）宣布在最新一轮融资中成功筹集了500万美元。本轮融资由Folius Ventures、The Spartan Group和Beam FDN领投，Animoca Brands、Galaxy等跟投。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business financing",
+      "Economy, Business and Finance->media and entertainment industry",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->biomedical science",
+      "Science and Technology->scientific innovation",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:52:47.272+03:00",
+    "updated": "2025-07-31T07:54:54.000+03:00"
+  },
+  {
+    "uuid": "e6ba83732f5b0b1c341dbb73a2f4a084ef4dc821",
+    "url": "https://ground.news/article/man-who-died-with-wife-and-son-in-alberta-lake-wasnt-a-risk-taker-says-friend_9fd7dd",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ground AI",
+    "published": "2023-12-28T19:52:00Z",
+    "title": "Ground News - Man who died with wife and son in Alberta lake wasn’t a risk-taker, says friend",
+    "text": "Left Center Right\nBias Insights\nBias Insights An Edmonton man, his wife, and their eight-year-old son died after their utility terrain vehicle went into a lake, raising questions about their familiarity with the area. Authorities found their bodies and the vehicle in an area with thin ice near Alexis Bridge. Friends remember the couple as adventurous and friendly individuals who enjoyed outdoor activities, such as snowmobiling.\nInsights by Ground AI\nDoes this summary seem wrong? Share menu More\nFilters 28 Articles 28 Articles All Left Center Right\nCTV News Center High Factuality Media Conglomerate: Bell Media Man who died with wife and son in Alberta lake wasn't a risk-taker, says friend An Edmonton man who died with his wife and eight-year-old son after their utility terrain vehicle went into a lake wasn't the kind of person to put his family at risk, says a friend.\n3 hours ago · Canada Read Full Article\nCTV News Center High Factuality Media Conglomerate: Bell Media\nMan who died with wife and son in Alberta lake wasn't a risk-taker, says friend An Edmonton man who died with his wife and eight-year-old son after their utility terrain vehicle went into a lake wasn't the kind of person to put his family at risk, says a friend.\n3 hours ago · Canada Read Full Article CBC News Lean Left High Factuality Government: Government of Canada Man who died with wife and son in Alberta lake was a cautious person, says friend An Edmonton man who died with his wife and eight-year-old son after their utility terrain vehicle went into a lake wasn't the kind of person to put his family at risk, says a friend.\n2 hours ago · Canada Read Full Article\nCBC News Lean Left High Factuality Government: Government of Canada\nMan who died with wife and son in Alberta lake was a cautious person, says friend An Edmonton man who died with his wife and eight-year-old son after their utility terrain vehicle went into a lake wasn't the kind of person to put his family at risk, says a friend.\n2 hours ago · Canada Read Full Article Global News Lean Left High Factuality Media Conglomerate: Corus Entertainment Friend of man who died with wife and son in Alberta lake says he wasn’t a risk-taker A man who died with his wife and eight-year-old son after their utility terrain vehicle went into a lake wasn't the kind of person to put his family at risk, says a friend.\n3 hours ago · Toronto, Canada Read Full Article\nGlobal News Lean Left High Factuality Media Conglomerate: Corus Entertainment\nFriend of man who died with wife and son in Alberta lake says he wasn’t a risk-taker A man who died with his wife and eight-year-old son after their utility terrain vehicle went into a lake wasn't the kind of person to put his family at risk, says a friend.\n3 hours ago · Toronto, Canada Read Full Article National Post Lean Right High Factuality Individual: Leon Cooperman Corporation: Allianz Man who died with wife and son in Alberta lake wasn't a risk-taker, says friend An Edmonton man who died with his wife and eight-year-old son after their utility terrain vehicle went into a lake wasn’t the kind of person to put his family…\n3 hours ago · Canada Read Full Article\nNational Post Lean Right High Factuality Individual: Leon Cooperman Corporation: Allianz\nMan who died with wife and son in Alberta lake wasn't a risk-taker, says friend An Edmonton man who died with his wife and eight-year-old son after their utility terrain vehicle went into a lake wasn’t the kind of person to put his family…\n3 hours ago · Canada Read Full Article Winnipeg Free Press Center High Factuality Man who died with wife and son in Alberta lake wasn't a risk-taker, says friend An Edmonton man who died with his wife and eight-year-old son after their utility terrain vehicle went into a lake wasn’t the kind of person to put his family at […]\n4 hours ago · Winnipeg, Canada Read Full Article\nWinnipeg Free Press Center High Factuality\nMan who died with wife and son in Alberta lake wasn't a risk-taker, says friend An Edmonton man who died with his wife and eight-year-old son after their utility terrain vehicle went into a lake wasn’t the kind of person to put his family at […]\n4 hours ago · Winnipeg, Canada Read Full Article The Toronto Star Lean Left High Factuality Private Equity: Torstar Man who died with wife and son in Alberta lake wasn't a risk-taker, says friend An Edmonton man who died with his wife and eight-year-old son after their utility terrain vehicle went into a lake wasn't the kind of person to put his family at\n3 hours ago · Toronto, Canada Read Full Article\nThe Toronto Star Lean Left High Factuality Private Equity: Torstar\nMan who died with wife and son in Alberta lake wasn't a risk-taker, says friend An Edmonton man who died with his wife and eight-year-old son after their utility terrain vehicle went into a lake wasn't the kind of person to put his family at\n3 hours ago · Toronto, Canada Read Full Article More articles Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Health"
+    ],
+    "external_links": [
+      "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/man-who-died-with-wife-and-son-in-alberta-lake-wasnt-a-risk-taker-says-friend?utm_source=ground.news&utm_medium=referral",
+      "https://www.cbc.ca/news/canada/edmonton/man-who-died-with-wife-and-son-in-alberta-lake-was-a-cautious-person-says-friend-1.7070509?utm_source=ground.news&utm_medium=referral",
+      "https://edmonton.ctvnews.ca/man-who-died-with-wife-and-son-in-alberta-lake-wasn-t-a-risk-taker-says-friend-1.6703579?utm_source=ground.news&utm_medium=referral",
+      "https://www.winnipegfreepress.com/canada/2023/12/28/man-who-died-with-wife-and-son-in-alberta-lake-wasnt-a-risk-taker-says-friend?utm_source=ground.news&utm_medium=referral",
+      "https://www.thestar.com/news/canada/man-who-died-with-wife-and-son-in-alberta-lake-wasnt-a-risk-taker-says/article_d1103c9c-98f0-577d-a20b-f93fdbc70cef.html?utm_source=ground.news&utm_medium=referral",
+      "https://globalnews.ca/news/10193850/lac-ste-anne-december-tragedy-ice/?utm_source=ground.news&utm_medium=referral",
+      "https://www.edmonton.ctvnews.ca/man-who-died-with-wife-and-son-in-alberta-lake-wasn-t-a-risk-taker-says-friend-1.6703579?utm_source=ground.news&utm_medium=referral",
+      "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/man-who-died-with-wife-and-son-in-alberta-lake-wasnt-a-risk-taker-says-friend",
+      "https://www.thestar.com/news/canada/man-who-died-with-wife-and-son-in-alberta-lake-wasnt-a-risk-taker-says/article_d1103c9c-98f0-577d-a20b-f93fdbc70cef.html",
+      "https://www.winnipegfreepress.com/canada/2023/12/28/man-who-died-with-wife-and-son-in-alberta-lake-wasnt-a-risk-taker-says-friend",
+      "https://www.globalnews.ca/news/10193850/lac-ste-anne-december-tragedy-ice/?utm_source=ground.news&utm_medium=referral",
+      "https://www.cbc.ca/news/canada/edmonton/man-who-died-with-wife-and-son-in-alberta-lake-was-a-cautious-person-says-friend-1.7070509",
+      "https://edmonton.ctvnews.ca/man-who-died-with-wife-and-son-in-alberta-lake-wasn-t-a-risk-taker-says-friend-1.6703579",
+      "https://winnipegfreepress.com/canada/2023/12/28/man-who-died-with-wife-and-son-in-alberta-lake-wasnt-a-risk-taker-says-friend?utm_source=ground.news&utm_medium=referral",
+      "https://globalnews.ca/news/10193850/lac-ste-anne-december-tragedy-ice/",
+      "https://cbc.ca/news/canada/edmonton/man-who-died-with-wife-and-son-in-alberta-lake-was-a-cautious-person-says-friend-1.7070509?utm_source=ground.news&utm_medium=referral",
+      "https://www.nationalpost.com/pmn/news-pmn/canada-news-pmn/man-who-died-with-wife-and-son-in-alberta-lake-wasnt-a-risk-taker-says-friend?utm_source=ground.news&utm_medium=referral",
+      "https://thestar.com/news/canada/man-who-died-with-wife-and-son-in-alberta-lake-wasnt-a-risk-taker-says/article_d1103c9c-98f0-577d-a20b-f93fdbc70cef.html?utm_source=ground.news&utm_medium=referral"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "an edmonton man",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ctv news center high factuality media conglomerate",
+          "sentiment": "none"
+        },
+        {
+          "name": "· canada read full article ctv news center high factuality media conglomerate",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "alberta",
+          "sentiment": "none"
+        },
+        {
+          "name": "edmonton",
+          "sentiment": "none"
+        },
+        {
+          "name": "alexis bridge",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:43:07.242+02:00",
+    "updated": "2023-12-29T00:43:07.242+02:00"
+  },
+  {
+    "uuid": "7d7abc102d7ae6b4b925ebec2d2e49ad47486d64",
+    "url": "https://www.foxsports.com.mx/2024/11/01/ciclon-patty-zona-baja-presion-70-fecha-llegada-estados-afectados-mexico",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Especial: Copilot IA",
+    "published": "2024-11-01T21:35:00Z",
+    "title": "Llegada del CICLÓN PATTY sería inminente en NOVIEMBRE: Baja Presión al 70% de potencial, ¿en México?",
+    "text": "Ha comenzado el mes de noviembre y parece que los sistemas climáticos se resisten a parar, ya que en las aguas del Océano Atlántico se reporta una Zona de Baja Presión que alcanzó el 70% de potencial y daría origen al Ciclón Patty: ¿qué día?\nEn teoría, a la Temporada de Lluvias y Huracanes 2024 no le falta mucho tiempo para terminar, pero estamos viviendo una nueva formación, por lo que habrá que estar atentos a los reportes de las autoridades por su evolución.\nTe recomendamos:\nPensión ISSSTE: Jubilados NO recibirán AGUINALDO este 2024 por este régimen; ¿quiénes y por qué?\nFormación del Ciclón Patty sería inminente\nEl Servicio Meteorológico Nacional (SMN) ha informado que, este viernes 1 de noviembre, una Zona de Baja Presión ubicada en el Atlántico elevó su potencial de forma rápida, llegando hasta un 70% para los próximos días.\nDe momento este sistema climático se localiza a mil 170 kilómetros al sureste de Puerto Costa Maya, en Quintana Roo, con un desplazamiento que se dirige hacia el noroeste.\nEl— CONAGUA Clima (@conagua_clima)\n[#SMNmx]monitorea la formación de tres zonas de [#BajaPresión]con probabilidad para desarrollo ciclónico en el [#Atlántico]. Los detalles en el gráfico:⬇️ [pic.twitter.com/7cFhZ0p4dX] [November 1, 2024]\nA la espera de que algo cambie, el posible Ciclón Patty tiene amplias posibilidades de formación, ya que hay un 30% de opciones de cara a las próximas 48 horas, pero un 70% de probabilidad en 7 días. De cumplirse el tiempo, lo veríamos en el Atlántico del 3 al 8 de noviembre.\nDebido a la distancia que hay con México y su estado más cercano, que sería Quintana Roo, por ahora no representa ningún peligro para el país, pero habrá que estar atentos a su formación y trayectoria, ya que todo podría cambiar en días.\nTe recomendamos:\nSEP: Hacen oficial MEGA PUENTE y alumnos regresan a clases el 4 de NOVIEMBRE; ¿en dónde y por qué?\nDe igual forma hay otras dos Zonas de Bajas Presión en las aguas del Océano Atlántico, pero más alejadas, ya que una que tiene 10% de potencial ciclónico se ubica a 2 mil 175 km al este de Cancún, Quintana Roo, y otra con 40% de desarrollo está a 5 mil 240 km al noreste del mismo estado.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Océano Atlántico",
+          "sentiment": "none"
+        },
+        {
+          "name": "Costa",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T23:55:58.056+02:00",
+    "updated": "2024-11-01T23:55:58.056+02:00"
+  },
+  {
+    "uuid": "9280254791cb6fb6e0caaac4ddc95a26744e3d9b",
+    "url": "https://www.berkshireeagle.com/news/southern_berkshires/west-stockbridge-dog-park-committee/article_f8c96c1e-4518-11ef-bc95-e7bb45245022.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Heather Bellow, The Berkshire Eagle",
+    "published": "2024-07-18T00:00:00Z",
+    "title": "A public dog park is coming to West Stockbridge. Its design also has humans in mind | South Berkshires | berkshireeagle.com",
+    "text": "WEST STOCKBRIDGE — When the town asked residents what they wanted on nearly 2 acres of available land on Town Hall property, the response was overwhelming: A dog park. Now imagine walking paths through the woods, benches for humans to sit on, and two separate areas for the big and small dogs to romp. Well, it is coming to town early next year. And it's not just for dog-owners or West Stockbridge residents. All humans and dogs are welcome. “It’s a way to extend our hospitality,” said Jana Sax, co-chair of the West Stockbridge Dog Park Committee. “We are very intent upon making this a lovely addition to the town,\" Sax added as she hiked with her dogs, Diego, a wire haired pointing griffon, and Frida, a terrier mix on Thursday morning. \"And a park that you would like to walk through and sit in.” Dog or no dog. This committee of volunteers is currently working with [Berkshire Design Group](https://www.berkshiredesign.com/), a Northampton-based firm landscape architecture and engineering firm that has designed numerous dog parks, including at Burbank Park in Pittsfield. Committee members will be at the West Stockbridge Farmers Market on Thursday afternoon, as well as at the Zucchini Festival on Aug. 10, to spread the word in hopes of gathering support and more volunteers. After the committee breaks ground on construction in early 2025, it should take about one month to finish the job, Sax said. The project is on a timeline tied to a $275,000 grant the committee secured from [Stanton Foundation.](https://thestantonfoundation.org/canine-welfare/dog-parks) The New York City-based charity was established by Dr. Frank Stanton, a former longtime president of CBS News. The foundation gives grants for nuclear security and protection of First Amendment rights — and canine health and welfare, according to the foundation's website. “The Foundation’s support for canine welfare includes research, traditional grant-making and direct service programs to promote the welfare of dogs and strengthen the human/dog bond,” the website says. The committee learned that the foundation, in December 2023, would end its grantmaking program for dog parks in Massachusetts. So the volunteers rushed to apply. The committee also received a $25,000 mix of state and local money from the town’s Community Preservation Committee. Voters approved this in May. Soon, the committee will also establish a nonprofit, The Friends of West Stockbridge Dog Park, to fundraise. It now has a [Facebook page.](https://www.facebook.com/groups/weststockbridgedogpark) The park will require some clearing of a wooded area. Of the Stanton grant money, $25,000 will go toward design and $250,000 toward construction. The grant includes an extra $30,000 a year for three years for upkeep. The construction will involve adding ground cover, some walkways, fencing, signs, benches, handicap parking and plantings. A 1-acre slice will be devoted to large dogs, and three-fourth of an acre to the little dogs. But really it is a “social outlet for all species,” said Michael Bolognino, a full-time West Stockbridge resident [who restored a former rectory](https://www.berkshireeagle.com/news/southern_berkshires/the-filomena-west-stockbridge-airbnb-conde-nast-traveler-berkshire-county-rentals/article_79a130e0-813c-11ec-8fa3-17e7808428c5.html) — known as The Filomena — in town with his husband. “I know that one thing I love about visiting dog parks is the people I meet there,” said Bolognino, who has Crouton, a miniature poodle/terrier mix, 11, and Lula, 3, a wirehaired pointing griffon. “When we travel I always find a local park, like in Provincetown, and it's there that I've gotten some of the best suggestions on things to do in the area, where to eat, et cetera.” Bolognino said he loves the solitude of parks, “In that I sometimes bring a book and hang out on a bench reading while the dogs do their thing.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://thestantonfoundation.org/canine-welfare/dog-parks",
+      "https://www.facebook.com/groups/weststockbridgedogpark",
+      "https://www.berkshiredesign.com/",
+      "https://facebook.com/groups/weststockbridgedogpark",
+      "https://www.berkshiredesign.com",
+      "https://berkshiredesign.com/",
+      "https://www.thestantonfoundation.org/canine-welfare/dog-parks"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "frida",
+          "sentiment": "none"
+        },
+        {
+          "name": "jana sax",
+          "sentiment": "none"
+        },
+        {
+          "name": "sax",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "berkshire design group",
+          "sentiment": "none"
+        },
+        {
+          "name": "west stockbridge dog park committee",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "west stockbridge",
+          "sentiment": "none"
+        },
+        {
+          "name": "town hall",
+          "sentiment": "none"
+        },
+        {
+          "name": "west stockbridge far",
+          "sentiment": "none"
+        },
+        {
+          "name": "burbank park",
+          "sentiment": "none"
+        },
+        {
+          "name": "pittsfield",
+          "sentiment": "none"
+        },
+        {
+          "name": "northampton",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-19T05:23:45.364+03:00",
+    "updated": "2024-07-19T05:27:20.932+03:00"
+  }
+]

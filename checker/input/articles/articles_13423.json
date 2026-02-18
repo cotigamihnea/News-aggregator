@@ -1,0 +1,479 @@
+[
+  {
+    "uuid": "2dbbcb62b2875bdbb9187bd460f6b79bac67c224",
+    "url": "https://www.thegardnernews.com/story/news/local/2024/11/01/worcester-ma-record-high-temperature/75993168007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "T&G Staff, The Gardner News",
+    "published": "2024-11-01T20:07:00Z",
+    "title": "Worcester sets record high temperature; no relief in sight from drought",
+    "text": "Worcester welcomed in the month of November with record warmth. According to the National Weather Service, the temperature in the city hit 76 degrees on Friday, easily breaking the previous record high for Nov. 1 of 73 degrees, which was set in 2003. Boston (79 degrees) and Hartford, Connecticut, (84) also saw record high temperatures, while Providence tied a record with 78. The high temperatures Friday followed a near-record Halloween. Worcester peaked at 77 degrees on Thursday, 2 degrees below the record for any Oct. 31, set in 1946. Temperatures will dip substantially this weekend, with highs in the mid 50s on Saturday and in the low 50s on Sunday and Monday. Warmer weather, with highs around 70 degrees, will return Tuesday through Thursday, according to the forecast. Meanwhile, there is no little to no rain in sight. That's a concern with the state under a red flag warning for brush fires due to dry and windy conditions. All of Worcester County is now experiencing moderate drought conditions .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://forecast.weather.gov/showsigwx.php?warnzone=MAZ012&warncounty=MAC027&firewxzone=MAZ012&local_place1=Worcester%20MA&product1=Red+Flag+Warning&lat=42.2621&lon=-71.8022",
+      "https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?Northeast",
+      "https://forecast.weather.gov/showsigwx.php",
+      "https://www.forecast.weather.gov/showsigwx.php?warnzone=MAZ012&warncounty=MAC027&firewxzone=MAZ012&local_place1=Worcester%20MA&product1=Red+Flag+Warning&lat=42.2621&lon=-71.8022",
+      "https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx",
+      "https://www.droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?Northeast"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "County",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-02T01:36:08.320+02:00",
+    "updated": "2024-11-02T01:36:08.320+02:00"
+  },
+  {
+    "uuid": "11bc0c0074f3db42906b307c1373392f04342124",
+    "url": "https://keyt.com/cnn-regional/2024/12/26/kidney-donation-bonds-lifelong-high-school-friends-in-orange-county",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CNN Newsource",
+    "published": "2024-12-26T22:03:00Z",
+    "title": "Kidney donation bonds lifelong high school friends in Orange County",
+    "text": "By David Gonzalez\nClick here for updates on this story\n GARDEN GROVE, California ( KABC ) — Vy Tran has always had a sense of adventure. He’s had the opportunity to travel around the world. However, that all came to a screeching halt five years ago when he was diagnosed with End-stage Renal Disease.\n“They tested and they just said your kidneys are failing and you need to start dialysis now,” Tran said.\nTran had been in search of a kidney donor with no luck. A couple of months ago, Tran reconnected with an old Aliso Niguel High School friend, Shawn Rockenbach. The two became close on a senior class trip to Europe.\n“We spent a lot of time together in our early 20s,” Tran said. “We lost touch for almost a decade actually. Life just kind of gets in the way of things.”\nLittle did Tran know Rockenbach became aware of his health problems a year ago and secretly spent that time getting tested to see if he could be a donor.\n“I didn’t tell anybody because I didn’t want to get Vy’s hopes up or anybody else’s hopes up until I knew more,” said Rockenbach.\nThe pair recently found out they were a match.\n“I’m very blessed with the opportunity to donate directly to my friend, which is amazing but I think in the ultimate picture doing some good in the world, everybody can do it and it’s an incredible feeling,” Rockenbach said.\nTheir kidney transplant surgery is scheduled for February 11, just days before Tran’s 39th birthday.\n“It’s quite literally a rebirth of my life,” Tran said. “And then all of a sudden I’m going to have a new pass. A new lease at it. It’s crazy because I never thought it was going to happen.”\nTran and Rockenbach initially bonded through their love of travel. Now they’ll be forever bonded through the gift of life.\n“There’s no word in any language in the world that can convey how grateful I am for this. This is literally a new life for me,” said Tran.\nAfter the surgery, Tran hopes to start up his travels around the world.\nIn the meantime, he has set up a GoFundMe page to help him with medical expenses.\nPlease note: This content carries a strict local market embargo. If you share the same market as the contributor of this article, you may not use it on any platform.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Health"
+    ],
+    "topics": [
+      "Social Issue->social services",
+      "Social Issue->charity",
+      "Social Issue->dating and relationships",
+      "Health->medical condition",
+      "Health->health care approach",
+      "Health->health organisation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://abc7.com/post/kidney-donation-bonds-lifelong-high-school-friends-orange-county/15698382/",
+      "https://abc7.com/post/kidney-donation-bonds-lifelong-high-school-friends-orange-county/15698382",
+      "https://www.abc7.com/post/kidney-donation-bonds-lifelong-high-school-friends-orange-county/15698382/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "David Gonzalez",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Shawn Rockenbach",
+          "sentiment": "none"
+        },
+        {
+          "name": "Tran",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Aliso Niguel High School",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "County Kidney",
+          "sentiment": "none"
+        },
+        {
+          "name": "Europe",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "11bc0c0074f3db42906b307c1373392f04342124",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:24:16.592+02:00",
+    "updated": "2024-12-27T01:15:38.434+02:00"
+  },
+  {
+    "uuid": "efa8f58e09b83286001703f4ca5bafb422d73e06",
+    "url": "https://www.time.news/spot-bitcoin-etfs-u-s-exchange-approval-expected-soon/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "time news",
+    "published": "2024-01-06T01:28:00Z",
+    "title": "Spot Bitcoin ETFs: U.S. Exchange Approval Expected Soon - timenews",
+    "text": "U.S. Bitcoin ETFs Nearing Approval as Exchanges File Amended Documents U.S. spot bitcoin exchange-traded funds (ETFs) are edging closer to launch as the exchanges that will list them have filed amended documents, indicating they anticipate approval from the U.S. Securities and Exchange Commission (SEC) in the coming days. The amended 19b-4 filings, filed by BlackRock, Grayscale, Fidelity, and other issuers, come after last month’s amended S-1 filings, which addressed feedback from the SEC. More than a dozen applicants are vying to launch the first spot bitcoin ETFs in the U.S., and it is likely that multiple issuers will be approved simultaneously. Individuals at two different issuers told CoinDesk on Thursday that their companies expect approvals sometime next week. While filing the amendments does not guarantee approval, they expressed optimism about the process. One of the individuals stated that a final deadline for SEC action for at least one application, by Ark 21 Shares, is Jan. 10, suggesting that the regulator may approve all of the final applications it is comfortable with by that date. Grayscale spokeswoman Jenn Rosenthal commented on the filing, saying, “This filing is another important step towards uplisting GBTC as a spot bitcoin ETF.” She also added that Grayscale continues to work collaboratively with the SEC and stands ready to operate GBTC as an ETF upon receiving regulatory approvals. The news comes after Bloomberg reported that the SEC’s commissioners are “expected to vote on the exchange-rule filings next week.” Both the 19b-4 filings and the S-1 filings need to be approved by the regulatory agency before the ETFs can officially launch. With the anticipation building for the approval of U.S. bitcoin ETFs, it appears that investors may soon have a new way to gain exposure to the popular cryptocurrency through regulated investment vehicles. Jesse Hamilton contributed reporting to this article.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "sec",
+          "sentiment": "none"
+        },
+        {
+          "name": "fidelity",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s. securities and exchange commission",
+          "sentiment": "none"
+        },
+        {
+          "name": "blackrock",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T03:30:18.666+02:00",
+    "updated": "2024-01-06T03:30:18.666+02:00"
+  },
+  {
+    "uuid": "2e02630305cd47e3ea476198794058cb66c0db7f",
+    "url": "https://www.newsbreak.com/news/3619013438590-united-nations-teams-up-with-snowsports-governing-body",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-10-04T03:40:00Z",
+    "title": "United Nations Teams Up With Snowsports' Governing Body",
+    "text": "By Ian Greenwood ,\n5 hours ago\nThe International Ski and Snowboard Federation (FIS) and the World Meteorological Organization (WMO) have announced a new awareness-raising partnership focused on the intertwined futures of snowsports and climate change.\nThe World Meteorological Organization. Photo&colon shaadjutt&solGetty Images\nThe announcement marks the first time the WMO—part of the United Nations—has partnered with a sports governing party. The partnership will go into effect ahead of the 2024/2025 ski season and initially last five years with the possibility of a future renewal.\nEach year, the two partners will work together to produce initiatives, some of which are already planned, including a November 7th webinar with 137 National Ski Associations discussing the impacts of climate change on snowsports.\n“The climate crisis is obviously far bigger than FIS—or sports, for that matter: it is a genuine crossroads for mankind. It is true, though, that climate change is, simply put, an existential threat to skiing and snowboarding,” said Johan Eliasch, the president of the FIS. “We would be remiss if we did not pursue every possible effort that is rooted in science and objective analysis.”\nIn Switzerland, alpine glaciers have shrunk in volume by about 60% since 1850 . Photo&colon SilvanBachmann\nA glut of research suggests that climate change will threaten skiing and snowboarding as we know it. One study published in Nature Climate Change found that after studying 2,000 European ski resorts, over half could be at very high risk for snow supply without snowmaking, based on different global warming scenarios. According to Meteoswiss—the Swiss federal office of meteorology and climatology—alpine glaciers in Switzerland have shrunk in volume by about 60% since 1850.\n“Retreating glaciers, reduced snow and ice cover, and thawing permafrost are having a major impact on mountain ecosystems, communities, and economies and will have increasingly serious repercussions at local, national, and global levels for centuries to come,” said WMO Secretary-General Celeste Saulo.\nSwitzerland's Skilift Scratten recently announced that their small ski area would close for good . Skilift Schratten Flühli&solFacebook\nIn the fall of 2023, the FIS faced scrutiny after the snowsports-focused climate advocacy group Protect Our Winters (POW) shared a petition demanding that the FIS take stronger climate action.\n“It is clear that FIS has done far too little to be the climate leader we need at this critical time,” reads a passage from the petition, which garnered over 37,000 signatures. “The Federation, event organizers, and host destinations must act as role models and show that they take the current challenges seriously.”\nIn response, the FIS published its own strongly-worded letter , calling the petition “highly unattractive” and listing several climate efforts the FIS participates in, including becoming a signatory of the UN Sports for Climate Action Framework (UNFCCC).\nProtect Out Winters (POW) Photo&colon Protect Out Winters &lparPOW&rpar\nSeveral months later, in January 2024, FIS announced the release of a new Impact Sustainability Programme, which drew praise from POW.\nIn a social media post, POW called the Programme “a huge step forward in climate action by the federation.” According to POW, the Programme addressed several complaints raised by the 2023 petition and shared that it had agreed to begin working with FIS going forward.\nRelated: Maine's Largest Ski Resort Rolls Out New Terrain Park Layout\nBe the first to read breaking ski news with POWDER. Subscribe to our newsletter and stay connected with the latest happenings in the world of skiing. From ski resort news to profiles of the world’s best skiers, we are committed to keeping you informed.\nSubmit your best clips for a chance to be featured on POWDER. Tune in and watch handpicked, high-quality ski videos streaming all day long on POWDER TV , and subscribe to our YouTube channel .\nExpand All Read in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.powder.com/news/climate-change-closes-swiss-ski-area",
+      "https://www.fis-ski.com/inside-fis/news/2023-24/fis-response-to-pow-petition",
+      "https://www.powder.com/newsletters",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1eWKIu_0vtbRmNP00",
+      "https://www.fis-ski.com/inside-fis/news/2023-24/fis-announces-impact-sustainability-programme",
+      "https://www.powder.com/news/la-nina-climate-change-wmo",
+      "https://img.particlenews.com/image.php?url=1bqpdb_0vtbRmNP00",
+      "https://www.powder.com/news/maine-largest-ski-resort-new-terrain-park",
+      "https://img.particlenews.com/image.php?url=09DQAo_0vtbRmNP00",
+      "https://www.nccs.admin.ch/nccs/en/home/climate-change-and-impacts/swiss-climate-change-scenarios/key-messages/snow-scarce-winters.html",
+      "https://img.particlenews.com/image.php?url=1JcYlG_0vtbRmNP00",
+      "https://www.powder.com/news/freeride-skiing-fis-recognition",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1JcYlG_0vtbRmNP00",
+      "https://www.nature.com/articles/s41558-023-01759-5",
+      "https://www.youtube.com/channel/UCmGz0-F4BZf5XcfEJTPh3rg",
+      "https://img.particlenews.com/image.php?url=4929CO_0vtbRmNP00",
+      "https://img.particlenews.com/image.php?url=1eWKIu_0vtbRmNP00",
+      "https://www.powder.com/tv",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1bqpdb_0vtbRmNP00",
+      "https://www.powder.com/trending-news/submit-video",
+      "https://www.change.org/p/fis-commit-to-climate-action-now-tryharderfis-wakeupfis-movethedatefis-fisalpine-protectwinters-our-winters-eu-powswitzerland-protectwintersc",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=09DQAo_0vtbRmNP00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4929CO_0vtbRmNP00",
+      "https://powder.com/news/climate-change-closes-swiss-ski-area",
+      "https://powder.com/news/freeride-skiing-fis-recognition",
+      "https://www.img.particlenews.com/image.php?url=1bqpdb_0vtbRmNP00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=4929CO_0vtbRmNP00",
+      "https://www.img.particlenews.com/image.php?url=4929CO_0vtbRmNP00",
+      "https://www.img.particlenews.com/image.php?url=09DQAo_0vtbRmNP00",
+      "https://fis-ski.com/inside-fis/news/2023-24/fis-announces-impact-sustainability-programme",
+      "https://powder.com/tv",
+      "https://powder.com/trending-news/submit-video",
+      "https://www.img.particlenews.com/image.php?url=1JcYlG_0vtbRmNP00",
+      "https://powder.com/news/la-nina-climate-change-wmo",
+      "https://fis-ski.com/inside-fis/news/2023-24/fis-response-to-pow-petition",
+      "https://nccs.admin.ch/nccs/en/home/climate-change-and-impacts/swiss-climate-change-scenarios/key-messages/snow-scarce-winters.html",
+      "https://nature.com/articles/s41558-023-01759-5",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=09DQAo_0vtbRmNP00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1eWKIu_0vtbRmNP00",
+      "https://youtube.com/channel/UCmGz0-F4BZf5XcfEJTPh3rg",
+      "https://powder.com/news/maine-largest-ski-resort-new-terrain-park",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1JcYlG_0vtbRmNP00",
+      "https://www.img.particlenews.com/image.php?url=1eWKIu_0vtbRmNP00",
+      "https://img.particlenews.com/image.php",
+      "https://powder.com/newsletters",
+      "https://change.org/p/fis-commit-to-climate-action-now-tryharderfis-wakeupfis-movethedatefis-fisalpine-protectwinters-our-winters-eu-powswitzerland-protectwintersc",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1bqpdb_0vtbRmNP00"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Ian Greenwood",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Johan Eliasch",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "FIS",
+          "sentiment": "negative"
+        },
+        {
+          "name": "United Nations",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Snowboard Federation",
+          "sentiment": "negative"
+        },
+        {
+          "name": "World Meteorological Organization",
+          "sentiment": "none"
+        },
+        {
+          "name": "National Ski Associations",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T07:38:51.628+03:00",
+    "updated": "2024-10-04T07:38:51.628+03:00"
+  },
+  {
+    "uuid": "eb57bb4466612624ff8a5de40f3a709fe4d39eb2",
+    "url": "https://viapais.com.ar/jujuy/el-diputado-vilca-fogonea-un-paro-general-contra-el-presupuesto-de-milei",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eduardo Sánchez",
+    "published": "2024-10-24T20:04:00Z",
+    "title": "El diputado Vilca fogonea un paro general contra el presupuesto de Milei",
+    "text": "Como era de esperar, el diputado nacional por Jujuy Alejandro Vilca (PTS-FITU) criticó fuertemente al gobierno del presidente Javier Milei y en particular puso la mira en el proyecto de ley del presupuesto nacional para el ejercicio 2025, acusando a la vez a “los gobernadores, tanto peronistas como radicales”, de actuar con “docilidad y complicidad” frente a las decisiones gestadas en la Casa Rosada. “Votar el presupuesto de Milei es ser cómplice del ajuste que lleva adelante”, fue la frase con que resumió su posición el legislador de la izquierda en referencia al tratamiento en la Cámara Baja del proyecto, y vislumbrando un resultado favorable al oficialismo, abogó por sumar la “fuerza de los estudiantes” al conjunto de los trabajadores y jubilados, “para imponer desde abajo a las centrales (sindicales) el paro general” que rechace el proyecto gubernamental. “NADA NOS SORPRENDE”, DICE VILCA “Con nuestro equipo técnico estamos analizando lo enviado por Milei y sus funcionarios del área económica. Nada nos sorprende respecto a su política económica y el ajuste que pretende seguir descargando sobre los sectores populares y todas las áreas en las que el Estado debería atender con recursos. Lo escuchamos de boca del propio Presidente, que dijo que la plata para pagar la deuda y todas las obligaciones con los acreedores externos, no se toca; con el resto que hagamos lo que queramos. Son miles de millones de dólares que de manera consciente se decide destinar a los ‘buitres’ locales y extranjeros”, se quejó Vilca. Partiendo de esa base, en una proyección de lo que podría deparar el tratamiento parlamentario del presupuesto, el diputado jujeño analizó “que de antemano los gobernadores, tanto peronistas como radicales, vienen mostrando su docilidad y complicidad”, lo que, a su juicio, se vería reflejado en la votación de la Cámara baja. “Votar (a favor de) este presupuesto es ser cómplice de este ajuste brutal al que Milei somete al pueblo”, sostuvo Vilca, que a la vez de plantear que “no pueden argumentar que le siguen dando herramientas para gobernar”, denunció: “Lo único que pactan por debajo de la mesa es una serie de prebendas por recursos para mantener su status quo. Sólo eso”, sentenció. INSISTENCIA DE IR A UN PARO GENERAL Dado este escenario, “estamos alertando a todos los sectores de trabajadores y estudiantes de la provincia sobre este presupuesto de ajuste que quieren aprobar. Es imposible pensar en tener salud, educación u obra pública con estas políticas que privilegian el saqueo y el pago de una deuda externa ilegal y fraudulenta”, aseveró. En respaldo de sus afirmaciones aseguró que “no es solamente una apreciación personal sobre esta pesada carga que tiene el pueblo trabajador” sino que “hay fallos judiciales que dan cuenta de estas condiciones”, y recurriendo al histórico discurso de su sector llamó a romper “las cadenas que nos atan al FMI y todos los acreedores que ya hicieron enormes fortunas con el negociado de los intereses y sus pagos”. “Toda esta fuerza de los estudiantes que pelean (por el presupuesto universitario) es necesaria unirla al conjunto de los trabajadores y jubilados, y coordinarla para imponer desde abajo a las centrales (sindicales) el paro general” en rechazo a la política económica del Gobierno nacional, convocó finalmente el diputado jujeño.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jujuy Alejandro Vilca",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Javier Milei",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "PTS-FITU",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:42:08.906+03:00",
+    "updated": "2024-10-25T00:42:08.906+03:00"
+  },
+  {
+    "uuid": "99049f20af818f4bb1b15b59be7b636e1a05492e",
+    "url": "https://ukathletics.com/news/2024/04/18/uktf-to-celebrate-seniors-at-jim-green-invitational-this-weekend",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kyle Jackson",
+    "published": "2024-04-18T18:45:00Z",
+    "title": "UKTF to Celebrate Seniors at Jim Green Invitational This Weekend",
+    "text": "UKTF to Celebrate Seniors at Jim Green Invitational This Weekend\nLEXINGTON, Ky. — The University of Kentucky track and field program will celebrate senior members of the program at home this weekend as the Wildcats host the annual Jim Green Invitational on April 19-20 at the Outdoor Track & Field Complex.\nThe competition begins on Friday, April 19 at 12:30 ET with the women’s heptathlon and women’s invitational hammer throw. Running events will begin at 4:30 p.m. with the women’s 400-meter hurdles.\nSaturday’s events begin at 10:30 a.m. ET with the continuation of the women’s heptathlon and women’s discus throw. The senior day ceremony will be held at 12 p.m. ET with the men’s and women’s 4×100 meter relays to follow at 12:40 p.m.\nAdmission and parking is free for all spectators. Parking is available in the lots adjacent to the outdoor track. Please be mindful of the track parking signage for specific locations. Parking will be allowed in any lot as indicated on the parking map except the PS7 garage on Friday as the garage will be closed. Concessions and restrooms will be available.\nLive results are available on pttiming.com and the meet will not be broadcasted. The Wildcats will compete against Akron, Asbury, Bellarmine, Berea, Bowling Green, Campbellsville, Centre, Cumberlands, Eastern Kentucky, Georgetown (KY), High Point, Indiana, Kennesaw State, Kent State, Kentucky State, Louisville, Madonna, Michigan, Michigan State, Midway, Morehead State, Northern Kentucky, Notre Dame, Purdue, Transylvania, Tulane, Union (KY), Western Kentucky, and Xavier.\nThe meet recognizes University of Kentucky trailblazer Jim Green, the first African-American student-athlete at Kentucky and in the Southeastern Conference to win NCAA and SEC Championships.\nGreen was the first African American at UK to serve as co-captain on the track team and in December of 1971 became the first African American student-athlete to graduate from UK.\nDespite facing open hostility at many competitions, Green succeeded at the highest levels of collegiate sport. He was a two-time NCAA champion, winning the 60-yard dash in 1968 and 1971.\nHe earned All-American honors six times and won eight SEC individual events, including the indoor 60-yard dash (1968, 1971), outdoor 100-yard dash (1968, 1970, 1971), and outdoor 220-yard dash (1968, 1970, 1971).\nA 1971 UK graduate, Green was born in Eminence, Ky. While in high school, he excelled in football, basketball, baseball, and track. Jim broke state records in the 70-, 100-, 220- and 440-yard dashes. After high school, he committed to compete at UK in track and field.\nChampionship Outlook\nFor each individual event contested at each of the First Round sites, the top 48 declared student-athletes will be accepted into the competition. For each relay event, the top 24 declared relay teams will be accepted into the competition. Combined events (Heptathlon and Decathlon) are not contested at the First Round sites. For combined events (Heptathlon and Decathlon), the top 24 declared student-athletes in each event based on their position on the national descending-order list will be accepted directly into the Championships. The individual event student-athletes and relay teams accepted into First Round competition will be announced and posted on NCAA.com the week prior to First Round competition. The Wildcats currently have 23 student-athletes in 14 events who would qualify for the NCAA First Round.\nTFRRS Top-50 Rankings\nMen’s\n100m\n- Clinton Muunga – 10.18 – USF Alumni Invitational\n- Miles Jones – 10.20 – Battle on the Bayou\n200m\n- Kennedy Lightner – 20.30 – Tom Jones Memorial Invitational\n- Shavique Bascus – 20.62 – Tom Jones Memorial Invitational\n400m\n- Kennedy Lightner – 45.41 – Battle on the Bayou\n110mH\n- Alexander Chukwukelu – 13.78 – Battle on the Bayou\n4x100m Relay\n- Shavique Bascus, Clinton Muunga, Miles Jones, Kennedy Lightner – 38.96 – Tom Jones Memorial Invitational\n- Clinton Muunga, Shavique Bascus, Miles Jones, Troy Lane – 39.32 – USF Alumni Invitational\nPole Vault\n- Keaton Daniel – 5.67m – Tom Jones Memorial Invitational\nTriple Jump\n- Luke Brown – 16.48m – Tom Jones Memorial Invitational\nShot Put\n- Dennis Ohene-Adu – 18.94m – Battle on the Bayou\nHammer Throw\n- Logan Coles – 65.21m – Battle on the Bayou\nWomen’s\n100m\n- Victoria Perrow – 11.37 – Tom Jones Memorial Invitational\n400m\n- Jania Martin – 52.51 – Battle on the Bayou\n- Alysia Johnson – 52.63 – Battle on the Bayou\n- Onieka McAnnuff – 52.98 – Battle on the Bayou\n800m\n- Sydney Steely – 2:04.65 – Tom Jones Memorial Invitational\n100mH\n- Alexis Glasco – 13.04 – USF Alumni Invitational\n4x100m Relay\n- Morgan Davis, Oneika McAnnuff, Jania Martin, Alexis Glasco – 44.39 – USF Alumni Invitational\n- Victoria Perrow, Hannah Douglas, Jania Martin, Alexis Glasco – 44.50 – Battle on the Bayou\n4x400m Relay\n- Cha’iel Johnson, Jania Martin, Alysia Johnson, Oneika McAnnuff – 3:32.72 – Battle on the Bayou\n- Alysia Johnson, Jania Martin, Cha’iel Johnson, Hannah Douglas – 3:34.63 – USF Alumni Invitational\nHigh Jump\n- Charity Hufnagel – 1.77m – Texas Relays\nPole Vault\n- Payton Phillips – 4.25m – Battle on the Bayou\n- Kaitlyn Cain – 4.19m – Tom Jones Memorial Invitational\nHammer Throw\n- Kate Powers – 63.26m – USF Alumni Invitational\nHeptathlon\n- Charity Hufnagel – 5609 points – Texas Relays\nEvent Lineup (all info tentative and subject to change before the meet)\n|Jim Green Invitational: Friday, April 19: ALL TIMES IN EASTERN TIME|\n|Women’s Hept. 100mH||12:30 p.m.||FINAL||Julia Gunnell\n|\nAriel Pedigo\n|Women’s Hept. High Jump||1:10 p.m.||FINAL||Julia Gunnell\n|\nAriel Pedigo\n|Women’s Hept. Shot Put||3:00 p.m.||FINAL||Julia Gunnell\n|\nAriel Pedigo\n|Women’s Hept. 200m||4:00 p.m.||FINAL||Julia Gunnell\n|\nAriel Pedigo\n|Women’s Heptathlon Friday Standings|\n|Jim Green Invitational: Friday, April 19: ALL TIMES IN EASTERN TIME|\n|Women’s Hammer Throw Invitational||12:30 p.m.||Prelim/FINAL||Kate Powers|\n|Men’s Hammer Throw Invitational||1:30 p.m.||Prelim/FINAL||Logan Coles|\n|Women’s Pole Vault||2:00 p.m.||FINAL||Kristen Masucci|\n|Women’s Hammer Throw||2:30 p.m.||Prelim/FINAL||Simi Akinrinsola\n|\nAmaya Livingston\nShelby Wingler\n|Women’s Long Jump||3:00 p.m.||Prelim/FINAL||Morgan Davis\n|\nMeg Wilson\n|Men’s Long Jump||3:00 p.m.||Prelim/FINAL||Samuel Reagan|\n|Men’s Hammer Throw||3:30 p.m.||Prelim/FINAL||Ryan Avare\n|\nDaRoyce Flemons\nDennis Ohene-Adu\n|Women’s 400mH||4:30 p.m.||FINAL||Aliyah Allen\n|\nAlexis Glasco\nOneika McAnnuff\n|Men’s 400mH||4:45 p.m.||FINAL||Beck O’Daniel|\n|Women’s 200m||5:00 p.m.||FINAL||Jaemari Allen\n|\nPatrice Cornelious\nMorgan Davis\nAlexis Glasco\nCharity Hufnagel\nJania Martin\nSeven Simms\nReynei Wallace\n|Men’s 200m||5:25 p.m.||FINAL||Ethan Brown\n|\nTroy Lane\nBrandon Miller\n|Women’s Pole Vault Invitational||5:30 p.m.||FINAL||Kaitlyn Cain\n|\nPayton Phillips\n|Women’s 800m Invitational||5:50 p.m.||FINAL||Bryanna Lucas\n|\nCha’iel Johnson\nLyric Olson\nJenna Schwinghamer\nSydney Steely\n|Men’s 800m Invitational||5:58 p.m.||FINAL||Alex Justus\n|\nGabriel Robinson\n|Women’s 3000m Steeplechase||6:10 p.m.||FINAL||Elly Heine|\n|Women’s 1500m||6:45 p.m.||FINAL||Ally Kruger\n|\nPhoebe McCowan\nSydney Steely\n|Men’s 1500m||7:15 p.m.||FINAL||Jake Allen\n|\nAlex Alston\nEd Bird\nCaden Miracle\nJackson Watts\nEvent Lineup (all info tentative and subject to change before the meet)\n|Jim Green Invitational: Saturday, April 20: ALL TIMES IN EASTERN TIME|\n|Women’s Hept. Long Jump||10:30 a.m.||FINAL||Julia Gunnell\n|\nAriel Pedigo\n|Women’s Hept. Javelin Throw||11:30 a.m.||FINAL||Julia Gunnell\n|\nAriel Pedigo\n|Women’s Hept. 800m||1:00 p.m.||FINAL||Julia Gunnell\n|\nAriel Pedigo\n|Women’s Heptathlon Final Standings|\n|Jim Green Invitational: Saturday, April 20: ALL TIMES IN EASTERN TIME|\n|Women’s Discus Throw||10:30 a.m.||Prelim/FINAL||Kate Powers|\n|Men’s Pole Vault||11:00 a.m.||FINAL||Brayden Jackson|\n|Men’s Shot Put||11:00 a.m.||Prelim/FINAL||Dennis Ohene-Adu|\n|Men’s Discus Throw||11:30 a.m.||Prelim/FINAL||DaRoyce Flemons\n|\nJohn Kruzel\nDennis Ohene-Adu\n|Women’s Triple Jump||12:00 p.m.||Prelim/FINAL||Asha Pierre-Antoine|\n|Women’s Shot Put||12:00 p.m.||Prelim/FINAL||Simi Akinrinsola\n|\nAmaya Livingston\nShelby Wingler\n|Women’s 4x100m Relay||12:40 p.m.||FINAL||Kentucky “A”|\n|Men’s 4x100m Relay||12:50 p.m.||FINAL||Kentucky “A”|\n|Men’s High Jump||12:45 p.m.||Prelim/FINAL||Donsten Brown\n|\nDevin Sealey\n|Men’s 5000m||1:30 p.m.||FINAL||Miles Brush\n|\nBlake Byer\nCade Byer\nSami Hattab\nCaden Miracle\n|Women’s 100mH||1:55 p.m.||Prelim||Alexis Glasco\n|\nCharity Hufnagel\n|Men’s 110mH||2:10 p.m.||Prelim||Alexander Chukwukelu|\n|Women’s 100m||2:25 p.m.||FINAL||Jaemari Allen\n|\nVictoria Perrow\n|Men’s Pole Vault Invitational||2:30 p.m.||FINAL||Dalton Shepler\n|\nKeaton Daniel\n|Men’s 100m||2:40 p.m.||FINAL||Luke Brown\n|\nMiles Jones\nTroy Lane\nKennedy Lightner\nClinton Muunga\n|Women’s 400m||3:05 p.m.||FINAL||Alysia Johnson\n|\nCha’iel Johnson\nJania Martin\nMahogany Mobley\nOneika McAnnuff\nSeven Simms\nReynei Wallace\n|Men’s 400m||3:30 p.m.||FINAL||Brandon Nyandoro|\n|Women’s 100mH||4:00 p.m.||FINAL||Alexis Glasco\n|\nCharity Hufnagel\n|Men’s 110mH||4:05 p.m.||FINAL||Alexander Chukwukelu|\n|Women’s 4x400m Relay||4:50 p.m.||FINAL||Kentucky “A”\n|\nKentucky “B”\n|Men’s 4x400m Relay||5:00 p.m.||FINAL||Kentucky “A”\n|\nKentucky “B”\nFollow Kentucky Track and Field and Cross Country on\nX, and at UKathletics.com.\nRelated Stories\nView all",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure",
+      "Sport"
+    ],
+    "external_links": [
+      "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FKentuckyTrack%3Fref_src%3Dtwsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor&data=04%7C01%7Ctneely%40UKY.EDU%7C8b598f7be24c443db93408d91fdf0c56%7C2b30530b69b64457b818481cb53d42ae%7C0%7C0%7C637575865156008377%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=5wbO5DuoIDYDqtAle0Fjj5ydus%2B9WRChaXEiQwRmES4%3D&reserved=0",
+      "https://nam04.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.ukathletics.com%2F&data=04%7C01%7Ctneely%40UKY.EDU%7C8b598f7be24c443db93408d91fdf0c56%7C2b30530b69b64457b818481cb53d42ae%7C0%7C0%7C637575865156013371%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=We4b8gw8LeUda3Cb%2BzS1hd4jdLf5GsolnVvnBs9anLE%3D&reserved=0",
+      "https://nam04.safelinks.protection.outlook.com/",
+      "https://www.nam04.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.ukathletics.com%2F&data=04%7C01%7Ctneely%40UKY.EDU%7C8b598f7be24c443db93408d91fdf0c56%7C2b30530b69b64457b818481cb53d42ae%7C0%7C0%7C637575865156013371%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=We4b8gw8LeUda3Cb%2BzS1hd4jdLf5GsolnVvnBs9anLE%3D&reserved=0",
+      "https://www.nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FKentuckyTrack%3Fref_src%3Dtwsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor&data=04%7C01%7Ctneely%40UKY.EDU%7C8b598f7be24c443db93408d91fdf0c56%7C2b30530b69b64457b818481cb53d42ae%7C0%7C0%7C637575865156008377%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=5wbO5DuoIDYDqtAle0Fjj5ydus%2B9WRChaXEiQwRmES4%3D&reserved=0"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "university of",
+          "sentiment": "negative"
+        },
+        {
+          "name": "uktf",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ps7",
+          "sentiment": "none"
+        },
+        {
+          "name": "wildcats",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ky.",
+          "sentiment": "none"
+        },
+        {
+          "name": "jim green invitational this weekend uktf",
+          "sentiment": "none"
+        },
+        {
+          "name": "jim green invitational this weekend lexington",
+          "sentiment": "none"
+        },
+        {
+          "name": "kentucky",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-19T01:04:03.636+03:00",
+    "updated": "2024-04-19T01:04:03.636+03:00"
+  },
+  {
+    "uuid": "62a6379f1cd71a72903bc5f2d6de24b430db8bfd",
+    "url": "https://www.eatingwell.com/eating-more-protein-may-reduce-heart-disease-risk-8422551",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Carrie Myers, M.S.",
+    "published": "2024-01-05T17:39:00Z",
+    "title": "Eating More Protein May Reduce Heart Disease Risk",
+    "text": "News Eating More Protein May Reduce Heart Disease Risk, New Study Shows Researchers also looked at carb and fat intake. Here’s what they found. By Carrie Myers, M.S. Carrie Myers, M.S. Carrie Myers is a portfolio entrepreneur with more than 30 years of experience in the health and wellness space. As a freelance writer and editor, Carrie has worked for both consumer and trade print and online publications. She's been quoted in several articles as a health and fitness expert. Carrie is also a certified life and wellness coach and exercise physiologist, and the founder of CarrieMichele Co., a lifestyle company that helps women create lives they love where they can be authentic. EatingWell's Editorial Guidelines Published on January 5, 2024 Reviewed by Dietitian Victoria Seaver, M.S., RD Reviewed by Dietitian Victoria Seaver, M.S., RD Victoria Seaver is a registered dietitian and Associate Editorial Director for EatingWell.com. She completed her undergraduate degree in nutrition, dietetics and food science and her masters degree and dietetic internship at the University of Vermont. Victoria has been a part of the EatingWell.com team since 2015. EatingWell's Editorial Guidelines In This Article View All In This Article What Does This Study Show? What Does This Mean for You? The Bottom Line Trending Videos Photo: EatingWell Cardiovascular disease has been the number one cause of death for both men and women in the U.S. for many years, according to the Centers for Disease Control and Prevention. 1 in 5 deaths in the U.S. can be attributed to heart disease. Many factors contribute to heart disease, including diet, physical activity, stress, sleep and genetics. But the information on what lifestyle changes to make to prevent heart disease can be confusing—and some of it is even conflicting. A new large literature review published on January 2, 2024 in Nutrients helps to summarize what previous research has indicated about diet and cardiovascular disease risk in an attempt to cut through the confusion further and clarify what can really help prevent this potentially deadly disease. The 10 Best Diets for Better Heart Health, Ranked by Cardiologists What Does This Study Show? After weeding through over 60,000 studies, 124 met the criteria the researchers were looking for and were included in this review. When all the studies were added together, they included almost 108,000 men and women from five continents—North America, South America, Europe, Asia and Australia. Researchers then combed through these studies, looking for associations between diet and cardiovascular disease. They also looked at deaths that occurred and lumped them into death from anything (all-cause mortality) and death from cardiovascular disease. After adjusting for lifestyle, researchers ultimately found that overall, those with diets higher in protein and fat, and lower in carbohydrates had lower rates of heart disease. This was compared to the average actual intake of these macronutrients, which (you'll read more on this later) is not as balanced as it ideally would be. But it's important to note that not only does the quantity or ratio of macronutrients matter, but also the quality of the macronutrients. Drilling down into the review's findings, while higher overall protein intake was associated with a lower risk of death from heart disease, the risk of death did increase slightly with animal protein intake whereas it decreased more significantly with plant-based protein intake. There were similar findings associated with fat intake, where higher overall fat intake was associated with a lower risk of death from heart disease. Though the risk of death did increase slightly with saturated fat intake whereas it decreased slightly with monounsaturated fat intake (the type of fat found in olive oil and avocados) and polyunsaturated fat intake (the type of fat found in oily fish, like salmon and mackerel, as well as walnuts). It’s also pointed out in this study that the type of carbs matter. Researchers note that there is mounting evidence suggesting that high refined carbohydrate intake is the culprit behind heart disease, in part, due to its ability to quickly raise blood sugar. Blood sugar spikes set off a domino effect of processes in the body, ultimately resulting in inflammation. And we know that inflammation is associated with heart disease and other chronic diseases. Whereas a higher intake of complex carbohydrates it typically associated with improved health outcomes. What Does This Mean for You? This review adds to the evidence that a balance of quality macronutrients—carbs, protein and fat—is necessary for disease prevention. According to these researchers, the sweet spot for carb intake is about half of your food intake—and most of your carbs should be high quality. High-quality carbs include whole grains, legumes, fruits, vegetables, nuts and seeds. These are the carbs that provide vitamins, minerals, antioxidants and fiber—all nutrients known to help prevent disease. And bonus: These foods are also sources of plant protein and healthy fats. Unfortunately, most of us eat too many lower-quality foods. According to the 2020-2025 Dietary Guidelines for Americans, about 60% of us are eating too much added sugar, and 70% of us are eating too much saturated fat. Both excess added sugar and saturated fat have been linked with heart disease and other chronic diseases. So not only is the balance of macros off for most of us, but the quality isn’t there either. With that said, it’s important to remember that not all macros are created equal. We’ve already seen the difference between refined carbs and whole-grain carbohydrates. There are also different types of saturated fats. For example, there is evidence that the type of saturated fat in cheese might not be as harmful as other types of saturated fats. The Bottom Line Both the quantity and quality of your macros matter. There is evidence that suggests staying on the lower end of the carbohydrate intake recommendation and the higher end for protein may offer some protection against heart disease. Include plenty of high-quality foods to make sure you’re getting enough vitamins, minerals, fiber and antioxidants to not only prevent heart disease but other diseases, as well. Round your healthy diet out with plenty of physical activity, stress management, enough quality sleep and social activities for optimum disease prevention. Was this page helpful? Thanks for your feedback! Tell us why! Other Submit",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "carrie myers",
+          "sentiment": "none"
+        },
+        {
+          "name": "victoria seaver",
+          "sentiment": "none"
+        },
+        {
+          "name": "victo",
+          "sentiment": "none"
+        },
+        {
+          "name": "m.s. carrie myers",
+          "sentiment": "none"
+        },
+        {
+          "name": "carrie",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "carriemichele co.",
+          "sentiment": "none"
+        },
+        {
+          "name": "university of vermont",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "m.s.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T01:34:29.575+02:00",
+    "updated": "2024-01-06T01:34:29.575+02:00"
+  }
+]

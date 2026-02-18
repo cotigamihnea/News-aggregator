@@ -1,0 +1,336 @@
+[
+  {
+    "uuid": "badd3d7b63048953a40a892ae743cedc10c1de83",
+    "url": "https://www.tricitynews.com/national-news/another-death-reported-since-2021-recall-of-home-bed-assist-handles-health-canada-8036528",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Canadian Press",
+    "published": "2023-12-28T22:11:00Z",
+    "title": "Another death reported since 2021 recall of home bed assist handles: Health Canada - Tri-City News",
+    "text": "OTTAWA — Health Canada is reminding Canadians about a recall of home bed assist handles after learning of an additional death. Four models of bed handles distributed by Drive Medical were first recalled two years ago after two reported deaths — one in Canada and one in the U.S. Health Canada says as of Dec. 19, the company has received a report of a second death in this country. The metal handles are affixed alongside the mattress to help people get in and out of their regular bed at home. The products are not designed for hospital beds. Health Canada says more than 68,000 of the affected handles were sold between 2016 and 2021 in Canada. It says consumers should stop using them and contact Drive Medical Canada to get a refund. The recalled home bed assist model numbers are 15064, 15062, RTL15073 and RTL15063-ADJ. No information has been provided about what caused any of the deaths, but the recall notice says that retention straps were not properly secured in the initial cases in Canada and the U.S. Drive Medical has also learned of an additional three deaths in the U.S. that happened before Dec. 6, 2021, when the recall was first issued. More than 496,000 of the bed assist products were distributed in the U.S. between 2007 and 2021. The products were sold on Amazon. This report by The Canadian Press was first published Dec. 28, 2023. Canadian Press health coverage receives support through a partnership with the Canadian Medical Association. CP is solely responsible for this content. The Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Health",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "health canada - tri-city news ottawa — health canada",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "health canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s. drive medical",
+          "sentiment": "none"
+        },
+        {
+          "name": "drive medical canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s. health canada",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:27:07.418+02:00",
+    "updated": "2023-12-29T00:27:07.418+02:00"
+  },
+  {
+    "uuid": "cf3e55b45014b61faedfc64508dd7fb9306ff4db",
+    "url": "https://gagadget.com/it/593947-openai-ha-presentato-il-suo-modello-gpt-45-piu-grande-ma-non-il-piu-avanzato",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Vlad Cherevko",
+    "published": "2025-02-27T22:09:02Z",
+    "title": "Lancio di GPT-4.5: il nuovo modello di linguaggio di OpenAI",
+    "text": "OpenAI ha annunciato il lancio di GPT-4.5, il suo più recente e vasto modello linguistico di intelligenza artificiale. Questo modello, disponibile in anteprima per gli utenti Pro, si posiziona come il modello più \"consapevole\" fino ad oggi.\nEcco cosa sappiamo GPT-4.5 offre migliori capacità di scrittura, una conoscenza più approfondita del mondo e una personalità raffinata che rende l'interazione più naturale. Il modello è in grado di riconoscere meglio gli schemi e di creare connessioni, il che lo rende particolarmente utile per compiti di scrittura, programmazione e risoluzione di problemi pratici.\nTuttavia, OpenAI sottolinea che GPT-4.5 non è un modello avanzato e non offre innovazioni significative rispetto ai modelli precedenti, come o1 o o3-mini. Tuttavia, dimostra una maggiore efficienza computazionale, riducendo gli errori e le \"allucinazioni\".\nIl modello è stato addestrato utilizzando nuovi metodi di controllo e approcci tradizionali, come il fine-tuning supervisionato e l'apprendimento per rinforzo basato sul feedback umano. Questi metodi vengono utilizzati anche per il GPT-4o.\nOpenAI osserva inoltre che il GPT-4.5 sarà un passo importante verso modelli più funzionali che in futuro potranno essere etichettati come intelligenza artificiale generale.\nGPT-4.5 sarà disponibile per un pubblico più ampio, compresi gli utenti Plus, Team, Enterprise ed Edu, nelle prossime settimane. È inoltre integrato nella piattaforma Azure AI Foundry di Microsoft, ampliandone la disponibilità per sviluppatori e ricercatori.\nFonte: OpenAI",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->business service",
+      "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.theverge.com/news/620021/openai-gpt-4-5-orion-ai-model-release",
+      "https://cdn.openai.com/gpt-4-5-system-card.pdf",
+      "https://openai.com/index/introducing-gpt-4-5/",
+      "https://openai.com/index/introducing-gpt-4-5",
+      "https://www.openai.com/index/introducing-gpt-4-5/",
+      "https://www.cdn.openai.com/gpt-4-5-system-card.pdf",
+      "https://theverge.com/news/620021/openai-gpt-4-5-orion-ai-model-release"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:09:02.013+02:00",
+    "updated": "2025-02-28T00:09:02.013+02:00"
+  },
+  {
+    "uuid": "9863a53c4a60c494e633829cfc4109377c84f653",
+    "url": "https://vnexplorer.net/why-britain-is-the-place-to-invest-in-2024-experts-tip-screamingly-cheap-uk-stocks-s697723.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-28T23:13:00Z",
+    "title": "Why Britain is the place to invest in 2024: Experts tip 'screamingly cheap' UK stocks",
+    "text": "Have you heard about the 3D reset? Do you know which stock market is ‘screamingly cheap’? Does a nation’s debt-to-GDP ratio loom large in your stock-picking strategy?\nIf you have resolved to take a cold hard look at your portfolio in the new year, these are themes tipped to determine the direction of markets in 2024.\nThere may be more heartening news about inflation and interest rates. But some analysts argue that economies have yet to feel the full impact of the higher borrowing costs imposed in 2023 – meaning that recession may be still be a threat in Britain and America.\nAgainst this background, it may be tempting to wait for the all-clear signal. But, as James Thomson of Rathbones points out, ‘that will never come, and often the best returns come when you least expect them.’\nIf you believe that fortune favours the brave, these are the themes that you cannot afford to ignore in 2024.\nBargain Britain: The FTSE All Share index has risen by just 1.7% over the past 12 months but many experts say UK stocks are currently undervalued\nThe 3D reset Alex Tedder and Tom Wilson, the global and emerging strategists at Schroders, say investors should be aware of what they call the ‘3D reset’ which will increasingly influence the mood of stock markets.\nThis is made up of three factors: demographic constraints; decarbonisation imperatives and deglobalisation initiatives.\nThese have created supply bottlenecks, driven up wage costs, boosted inflation and underpinned populism.\nIn the face of these challenges, investors would be well advised to change their mindset, focusing more on diversification in particular, rather than relying on US tech that dominates many portfolios.\nTedder and Wilson do not suggest that you bid farewell to the US in 2024, since ‘its corporate sector remains, in aggregate, better managed and more innovative than pretty much any other.’\nBut they do recommend that you explore unloved markets, such as Japan and the UK.\nDiversification is difficult, but Russ Mould of AJ Bell says that paying attention to certain themes can help you determine ‘which way the wind is blowing’ and to re-align your portfolio.\nDebt-to-GDP ratio In 2024, analysts will, as always, be carefully monitoring the prices of oil and of copper – ‘a reliable indicator of global economic health due to its many uses.’\nBut they will also be keeping a close eye on an ever-more important metric – a country’s debt-to-GDP.\nIf this ratio approaches 20 per cent, this should serve as an alert. China and France are already in this position, but America’s $1 trillion-a-year spending is bringing it into the danger zone.\nUS markets are pricing in five rate cuts in 2024. Mould argues that, if these cuts fail to materialise, this could imperil the $11.8 trillion combined market capitalisation of the Magnificent Seven.\nYield curve for Government bonds Mould also cites another key theme: the yield curve for government bonds which reflects the market sentiment about risk.\nThe yield curve is ‘inverted’, that is the yields on ten-year UK gilt-edged stocks and US bonds are lower than those on two-year bonds.\nThe reverse should be the case with longer-term bonds offering a higher yield, as compensation for the possibility that catastrophe could arise at some point in their longer lifespan.\nNever bet against America?\nInvesting legend: Warren Buffett\nAmerican markets have flourished in 2023, ending the year in style with the three major indices – the Dow Jones, the S&P 500 and the Nasdaq – rising for seven straight weeks.\nBoosting share prices has been the hope that interest rates will move downward in 2024.\nThere are also hopes that the Magnificent Seven tech stocks will continue to flourish, as the artificial intelligence boom continues to gather strength.\nBut the analysts at UBS are also tipping Boeing, Coca-Cola, Domino’s Pizza, Merck, Visa and Ulta Beauty, amid the belief that the search for beauty is a theme in any year.\nAnother enduring theme is never betting against America – which has sustained billionaire Warren Buffett, pictured, for more than six decades.\nWage settlements Mould suggests that you watch wage settlements, given their impact on inflation.\nThe Bank of England is predicted to cut interest rates early in the new year, following the surprise drop in the inflation rate to 3.9 per cent. But the Bank seems unwilling to make a move until pay rises moderate.\nThese issues mean that you will hear many analysts talk about ‘a scarcity of certainty’.\nBut this is likely to raise the profile of what Thomson calls ‘recession-resistant stocks that can survive in any economic cycle.’\nHe includes in this category such diverse companies as discount retailer Costco, with its loyal and growing client base and Hermes, maker of exclusive handbags. Diversification involves embracing the high and the low.\nBargain Britain Experts are declaring that the UK is the place to invest in 2024. This claim will be greeted with some cynicism by those who backed Britain in 2023 and were sorely disappointed.\nThe FTSE All Share index has risen by just 1.7 per cent over the past 12 months which looks distinctly unimpressive compared with the 24.6 per cent increase in the irrepressible S&P 500.\nBut the conviction remains that the UK is ‘screamingly cheap’, according to Matthew Bennison, of Schroder Income Growth fund.\nHe is boosting his British holdings, taking the view that they will fare well over a three-year horizon.\nSimon Gergel, manager of the Merchants investment trust, also contends that Britain is a bargain, saying that investors pay £10 for every pound of profit in the UK compared with $20 for every dollar of profit in the US.\nThe belief that British business is on offer at a discount lies behind the continuing wave of foreign takeovers of UK companies.\nLast month the mighty Mars corporation gobbled up Hotel Chocolat, maker of the Sleekster and other indulgences, in a £524million deal.\nNews of the takeover sent Hotel Chocolat shares soaring by 160 per cent.\nThis underlines the gap between our perception of our home-grown firms and the view in some quarters of Wall Street that they are the equivalent of a Sleekster chocolate box at the price of a Milk Tray selection.\nHowever Pimco, the biggest US name in corporate bond, is betting that the UK is headed for a hard landing triggered by a delayed consumer reaction to higher interest rates.\nAnd angst over the outcome of Brexit lies behind the undervaluation of UK shares. Some will still conclude the UK is cheap for a reason.\nBut this could prove short-sighted when analysts at the US broker Jefferies are tipping Prudential and Standard Chartered as the shares to watch in 2024, forecasting that they could grow by 105 per cent and 70 per cent respectively.\nMould is tipping GSK, the pharma giant (for the cautious) Legal & General (a balanced pick), Ashmore, the equipment supplier (a more adventurous selection) and insurance broker Lancashire (for income).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1maCEO.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1masJg.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1masJg.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1maCEO.img"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "alex tedder",
+          "sentiment": "none"
+        },
+        {
+          "name": "tom wilson",
+          "sentiment": "none"
+        },
+        {
+          "name": "james thomson",
+          "sentiment": "none"
+        },
+        {
+          "name": "rathbones",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "uk",
+          "sentiment": "none"
+        },
+        {
+          "name": "britain",
+          "sentiment": "none"
+        },
+        {
+          "name": "america",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:17:47.597+02:00",
+    "updated": "2023-12-29T01:17:47.597+02:00"
+  },
+  {
+    "uuid": "1c509bc52f2b01e15d205cae64aa25c5cc28d082",
+    "url": "https://freerepublic.com/focus/f-religion/4241653/posts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "metmom",
+    "published": "2024-06-02T07:06:00Z",
+    "title": "Integrity Triumphs over Adversity - Evangelical Caucus/Devotional",
+    "text": "“In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it. And the Lord gave Jehoiakim king of Judah into his hand, along with some of the vessels of the house of God; and he brought them to the land of Shinar, to the house of his god, and he brought the vessels into the treasury of his god” (Daniel 1:1-2).\nIntegrity shines brightest against the backdrop of adversity.\nOur passage today tells of the tragic time in Israel’s history when God chastened her severely by allowing King Nebuchadnezzar and the wicked nation of Babylon to march against her and take her captive. God never coddles His people, nor does He wink at their sin. Israel’s chastening illustrates the principle that “judgment [begins] with the household of God” (1 Peter 4:17). But as severe as His discipline can be, it is always aimed at producing greater righteousness and godly integrity in His children (Heb. 12:5-11).\nThe Babylonian captivity set the stage for a truly uncommon display of integrity from Daniel and his three Hebrew friends. In the days ahead we will examine their character in some depth. For now, however, be encouraged that adversity of any kind—even chastening for sin—is God’s way of providing the rich soil for nourishing and strengthening the spiritual fruit of integrity. Without the adversities of Babylon, Daniel’s integrity and that of his friends would not have shone as brightly as it did and would not have had the significant impact it had on King Nebuchadnezzar and his entire kingdom.\nPerhaps you are currently experiencing adversities that are especially challenging, and you may not yet understand what God is accomplishing through them. But like Daniel and his friends, you can pray for the wisdom to understand His will and the faith to trust Him through the process. And you can be assured He will never fail you.\nSuggestions for Prayer\nEach day your integrity is tested in many ways. Ask the Lord to help you be aware of those times and to make choices that honor Him.\nFor Further Study\nRead 1 Kings 9:3-5.\nWhat kind of integrity did God require of Solomon?\nWhat promises did He make if Solomon obeyed?\nFrom Strength for Today by John MacArthur Copyright © 1997. Used by permission of Crossway Books, a division of Good News Publishers, Wheaton, IL 60187, www.crossway.com.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "judah",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nebuchadnezzar",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jehoiakim",
+          "sentiment": "none"
+        },
+        {
+          "name": "peter",
+          "sentiment": "none"
+        },
+        {
+          "name": "daniel",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "jehoiakim",
+          "sentiment": "none"
+        },
+        {
+          "name": "babylon",
+          "sentiment": "none"
+        },
+        {
+          "name": "shinar",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-02T12:17:26.270+03:00",
+    "updated": "2024-06-02T12:17:26.270+03:00"
+  },
+  {
+    "uuid": "1ccad5a5ca319247a3551451b4003c3e69015702",
+    "url": "https://metropoliabierta.elespanol.com/gracia/20240802/indignacion-vecinal-en-gran-de-gracia-por-cortes-luz-incesantes-plena-ola-calor/875162540_0.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alba Carnicé",
+    "published": "2024-08-02T00:00:00Z",
+    "title": "Indignación vecinal en Gran de Gràcia por cortes de luz incesantes en plena ola de calor",
+    "text": "En plena ola de calor y sin aire acondicionado. Así han vivido durante varias semanas los vecinos de la calle Gran de Gràcia de Barcelona . Desde hace algunos días, los residentes y comerciantes de la zona han sufrido incesantes cortes de luz , una incidencia que finalmente, se solucionará este viernes por la tarde, según asegura Endesa a Metrópoli.\nInicialmente, se pensaba que la causa principal de los apagones provenía de los fusibles por una sobrecarga en la red debido al uso intensivo de aparatos de aire acondicionado y otros sistemas de refrigeración, según detalla la compañía eléctrica. Sin embargo, tras varias revisiones, los arreglos fueron infructuosos y los cortes de luz persistieron.\nObras durante la madrugada \"Nos ha costado mucho dar con la incidencia\", apuntan a Metrópoli fuentes de Endesa. Finalmente, la compañía ha aclarado que el problema no era una sobrecarga como inicialmente se pensó, sino un fallo en un cable subterráneo.\nPara localizar el origen del problema, la compañía eléctrica ha realizado obras en la calle , perforando el suelo unos cuatro o cinco metros. Fuentes vecinales explican a Metrópoli que en la última semana han tenido que soportar los ruidos de las máquinas de taladro a altas horas de la madrugada. \"Hemos estado sin luz y con obras a las dos de la madrugada. Con la ventana abierta, claro, porque estábamos sin aire acondicionado y sin ventilador\", explican.\nEl calor estos días era tan sofocante que incluso una vecina se desmayó en su domicilio por las altas temperaturas. Una unidad del Servei d'Emergències Mèdiques (SEM) tuvo que personarse en Gran de Gràcia para atenderla.\nLos cortes de luz también han afectado a los comercios de la zona. Los clientes del número 15 de Ametller Origen, por ejemplo, se han sorprendido al estar dentro del supermercado sin luz a lo largo de esta semana.\n\"No volverá a pasar\" La compañía ha explicado que la localización de esta avería ha sido extremadamente complicada. Sin embargo, aseguran que están trabajando activamente en su reparación y prevén que la incidencia se solucione esta misma tarde.\nEndesa ha subrayado que, una vez completada la reparación, el problema no debería volver a ocurrir.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-02T17:33:06.206+03:00",
+    "updated": "2024-08-02T17:33:06.206+03:00"
+  },
+  {
+    "uuid": "6e0c94001b2a7d502f3fb50822c14184777e9e11",
+    "url": "https://freerepublic.com/focus/f-chat/4258644/posts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Libloather",
+    "published": "2024-08-15T07:46:00Z",
+    "title": "Stolen Valor Walz Strikes Again With Misleading Congressional Challenge Coin",
+    "text": "The more one digs into this whole \"Tim Walz lies about his military service\" issue, the more comes to light that this guy was not in the slightest bit shy about dissembling if he saw any advantage in it. In the latest spate of information, Daily Wire correspondent Bree A. Dail found an image on X (formerly Twitter) of Tim Walz's \"Congressional Challenge Coin\" from his time in the House of Representatives.\nAnd, yes, he portrays his former rank on the coin as Command Sergeant Major (CSM.)\nThis just keeps getting better and better. Remember that Walz was only \"frocked\" as a CSM, meaning he was allowed to wear the rank badges due to his being in a position that required the rank, but he was never actually promoted, as he never completed the training requirements. As one wag pointed out, being \"frocked\" in a rank is much like claiming one won a footrace because he was in the lead for a couple of laps; no soldier with any sense of honor or respect for the rank would have prevaricated about something like this, much less made it a career-enhancing talking point.\nAnd, yes, Walz \"misspoke\" about \"carrying weapons of war in a war,\" and what's more, he's been doing it for almost two decades. There is no way this is anything but deliberate.\nThat \"Congressional Challenge Coin\" issue has been corroborated by someone who was a Congressional intern.\nThe drip, drip, drip of the truth coming out is turning into a steady flow; even people from Walz's former Minnesota National Guard unit are coming forward to set the record straight.\nBut there is still much work to be done exploding this fraud. Even Wikipedia, it seems, has been taken in by the scam. Governor Walz's Wikipedia page, under \"Military...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "tim walz",
+          "sentiment": "negative"
+        },
+        {
+          "name": "walz",
+          "sentiment": "none"
+        },
+        {
+          "name": "bree a. dail",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "house of representatives",
+          "sentiment": "none"
+        },
+        {
+          "name": "csm",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T00:53:06.720+03:00",
+    "updated": "2024-08-16T00:53:06.720+03:00"
+  }
+]

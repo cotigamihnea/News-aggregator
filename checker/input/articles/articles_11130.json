@@ -1,0 +1,581 @@
+[
+  {
+    "uuid": "c3c5df2f381afe97341f5a7e80ea83daca187792",
+    "url": "https://vnexplorer.net/messy-golden-horseshoe-commute-with-heavy-snow-and-reduced-visibility-s2025160.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-03-22T23:06:00Z",
+    "title": "Messy Golden Horseshoe commute with heavy snow and reduced visibility",
+    "text": "Messy commute conditions are expected across southern Ontario thanks to a low pressure system possibly bringing the biggest snowfall of the season for Toronto. Messy conditions are going to continue as we head towards the evening commute across the Golden Horseshoe thanks to some banding that we have which is going to be the dark blue. So expect low visibility on the roads and very quick accumulation of snow as we head towards that supper period or past that supper period. That’s what we’re going to be looking at. More enhancements picking up across regions of the western end of the GTA and down towards Niagara. That’s what’s going to increase a lot of the snowfall accumulation as we go through the evening into the early parts on Saturday. In terms of snowfall totals right around the Golden Horseshoe, that’s where we can be looking at 5 to 10 centimeters of snow. However, thanks to that banding, we may see a little bit of additional snowfall, even getting closer to 12 to 15 centimeters, however, the further West we had away from. Lake Ontario. That’s where we can see it. More of that accumulation, close to 5 to 10 centimeters.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "ontario",
+          "sentiment": "none"
+        },
+        {
+          "name": "niagara",
+          "sentiment": "none"
+        },
+        {
+          "name": "lake ontario",
+          "sentiment": "none"
+        },
+        {
+          "name": "golden horseshoe",
+          "sentiment": "none"
+        },
+        {
+          "name": "toronto",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-23T01:08:54.731+02:00",
+    "updated": "2024-03-23T01:08:54.731+02:00"
+  },
+  {
+    "uuid": "d80f29e4a2547ba819f8fe202ee7766fb6f123a3",
+    "url": "https://floridapolitics.com/archives/734078-senate-passes-bill-banning-use-of-vaccines-in-food",
+    "ord_in_thread": 0,
+    "author": "Andrew Powell",
+    "published": "2025-04-23T21:54:00Z",
+    "title": "Senate passes bill banning use of vaccines in food",
+    "text": "The Senate unanimously passed a measure that would implement labeling requirements for specific foods containing vaccines or vaccine materials.\nSarasota Republican Sen. Joe Gruters presented the bill ( SB 196 ), which received unanimous support during its passage through committee hearings.\nThe bill’s analysis states that the regulation of drugs and cosmetics is intended to protect public health and public welfare by protecting consumers against any injuries or merchandising deceit.\nThe legislation would prohibit the use of fruit and vegetables as a delivery mechanism for mRNA vaccines. The analysis notes that recent studies have been looking into ways of implanting DNA containing mRNA into lettuce and other plant foods that could contain similar amounts of mRNA used in shots like the COVID vaccine.\nThe analysis further states that the legislation would establish that any food containing a vaccine or vaccine materials sold without labeling alerting the consumer would be classed as a misbranded drug.\nCertain ingredients included in cosmetics, like formaldehyde, that are manufactured, sold, offered or distributed in Florida would be required to have a warning included on the product’s single-use packaging.\nIn-state retailers would be authorized to exhaust existing stock up until July 1, 2027, and would be subject to disciplinary action. Cosmetic products regulated as drugs by the U.S. Food and Drug Administration would be exempt.\nThe Department of Business and Professional Regulation ( DBPR ) would have authority over rulemaking and inspecting permittees for any violations. Disciplinary action could include seizure and condemnation of misbranded drugs, and suspension or removal of a permit.\nThe bill’s analysis notes that currently Florida does not have a facility for testing cosmetic products, nor does it have a routine process in place.\nUpdating packaging and labeling of cosmetics that contain certain ingredients was determined to have an indeterminate negative fiscal impact on the state budget for both the DBPR and the Florida Department of Agriculture and Consumer Services.\nThere could also have been additional costs associated with conducting laboratory tests of food products for vaccines or vaccine materials, as well as cosmetic testing for restricted chemicals.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Health"
+    ],
+    "topics": [
+      "Politics->government policy",
+      "Politics->healthcare policy",
+      "Politics->political process",
+      "Health->public health",
+      "Health->vaccine",
+      "Health->government health care"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.fda.gov/",
+      "https://www.flsenate.gov/Session/Bill/2025/196/?Tab=Analyses",
+      "https://www2.myfloridalicense.com/",
+      "https://www.flsenate.gov/Senators/S22",
+      "https://www.flsenate.gov/Session/Bill/2025/196/",
+      "https://flsenate.gov/Senators/S22",
+      "https://flsenate.gov/Session/Bill/2025/196/?Tab=Analyses",
+      "https://fda.gov/",
+      "https://.myfloridalicense.com/",
+      "https://www2.myfloridalicense.com",
+      "https://www.fda.gov"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Joe Gruters",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Senate",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "fake_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:01:47.500+03:00",
+    "updated": "2025-04-24T08:01:53.652+03:00"
+  },
+  {
+    "uuid": "5f6ab10493ffbe11c8e848186e4d279a69525a5c",
+    "url": "https://finance.sina.cn/2025-04-17/detail-inetmkhe2718509.d.html?vt=4&cid=76729&node_id=76729",
+    "ord_in_thread": 0,
+    "author": "sina_mobile",
+    "published": "2025-04-16T22:39:48Z",
+    "title": "[多彩新论]保持爱拼会赢的精气神_手机新浪网",
+    "text": "[多彩新论]保持爱拼会赢的精气神\n转自：贵州日报\n刘羽\n民营经济是高质量发展的重要基础，是推进中国式现代化的生力军。\n近年来，省委、省政府发布实施一系列政策措施，明确提出“党建强企、人才兴企、创新活企”三大工程，多措并举在营造市场化法治化一流营商环境等方面，持续为民营企业发展创造条件，提振发展信心。\n当前，我省正更加注重改革推动、开放带动、创新驱动，努力推动全省经济实现新的突破、达成新的发展。作为创新的重要主体，广大民营企业要“保持爱拼会赢的精气神”，在推进全省经济高质量发展中积极作为。\n正确看待当前民营经济发展面临的一些困难和挑战，也要相信困难和挑战是暂时的而不是长期的，是能够克服的而不是无解的。“党和国家对民营经济发展的基本方针政策，已经纳入中国特色社会主义制度体系，将一以贯之坚持和落实，不能变，也不会变。”\n党建兴则企业兴，党建强则企业强。坚持党对企业的领导，推动党建工作与企业生产经营深度融合，把党的政治优势、组织优势转化为企业的竞争优势、创新优势和发展效能，做到关键部门有党员领着、重要岗位有党员顶着、关键环节有党员把关，以党建强促企业发展优。\n东风浩荡，前景可期。全省民营企业和民营企业家摩拳擦掌、信心倍增，坚守主业、做强实业，在推进全省经济高质量发展中大有可为、大显身手。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Economy, Business and Finance->economy",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Politics->government",
+      "Politics->economic policy",
+      "Politics->political development"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T01:39:48.090+03:00",
+    "updated": "2025-04-17T01:39:48.090+03:00"
+  },
+  {
+    "uuid": "9fc3e714c7d0798a9f743b47c1283d01934021f6",
+    "url": "https://www.express.co.uk/news/world/1849928/eu-pet-tax-rumour-panic-tiktok",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cally Brooks, Maria Ortega",
+    "published": "2023-12-28T21:15:00Z",
+    "title": "Rumour of EU pet tax creates panic on TikTok | World | News | Express.co.uk",
+    "text": "Pet owners were worried at the thought of paying a tax in the EU (Image: Getty) Pet owners in Europe were left panicked at the thought of having to pay a tax for their animals after rumours began swirling on TikTok . While some Belgian towns and other countries have introduced a pet tax, the rumour is untrue for other countries in Europe.\nBut where does this claim come from? In 2000, a real European pet tax project was underway but was not formally introduced.\nOfficials had planned on charging pet owners an £82 (€95) fee for owning a pet. The aim of the tax was to prevent abandonment of animals after being gifted on occasions such as Christmas.\nRumours of the tax have surfaced on TikTok , with concerned pet owners desperately trying to find out if the rumours are true.\nWhile it is based on a non-binding European directive, there are no plans to apply such a tax in most European countries.\nIn 2000, 23-years-ago, MEPs wanted to introduce the tax to ensure those purchasing pets were responsible after high numbers of cats and dogs were left in shelters or abandoned.\nIn France, a tax on dogs existed in 1855 before finally being outvoted in 1970. Although there is no tax today, vaccination and identification of animals remain compulsory.\nSince mid-December, videos on the social network have been announcing that owners of dogs, cats, birds and even fish will have to pay a tax because of a new European directive.\nRumours suggested owners could be charged £86 (€100) for a dog or cat, £17 (€20) for a bird or 87p (€1) for a fish.\nWhile these rumours are false, it is true that some European cities do tax pet owners, such as Girona in Spain. But the rates do not exceed £31 (€36) for a dog. In Belgium, a pet ownership permit was introduced in 2022, and is often issued free of charge or for a fee of around £8 (€10).\nRelated articles The European city where wild boars are causing havoc as they run riot Ancient humans would have met 'most terrifying predators of all time' in America Surprising Royal Family ritual Prince George is being kept away from Pet owners issued warning over 'worrying' trend at UK vets Model outraged after facing a year in jail over topless dog walk\n ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://live.primis.tech/live/liveView.php?s=114945&playerApiId=v114945",
+      "https://www.live.primis.tech/live/liveView.php?s=114945&playerApiId=v114945",
+      "https://live.primis.tech/live/liveView.php"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "eu",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "europe",
+          "sentiment": "none"
+        },
+        {
+          "name": "france",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:08:16.984+02:00",
+    "updated": "2023-12-29T11:40:12.883+02:00"
+  },
+  {
+    "uuid": "3e78abdc5c4a5f284e4cabbef593618ffcaf2c67",
+    "url": "https://www.semana.com/economia/empresas/articulo/trabajadora-de-van-camps-desmiente-a-la-ministra-de-trabajo-por-denuncia-de-acoso-laboral-es-mentira-todo-lo-que-se-dice/202358/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Semana",
+    "published": "2023-12-28T20:53:00Z",
+    "title": "Trabajadora de Van Camps desmiente a MinTrabajo: \"Es mentira lo que se dice”",
+    "text": "En todo un cruce de declaraciones se ha convertido la denuncia presentada por la ministra del Trabajo, Gloria Inés Ramírez , en la que señala a la compañía condiciones en las que estas mujeres ejercen sus labores no son las mejores . Por ejemplo, no tienen el tiempo para ir al baño”. Ese relato contrasta con la afirmación de Guardado Castro, quien dijo: “ De paso invito a la ministra para que venga aquí a nuestra planta, para que vea cómo se trabaja aquí, y para que mire, se cerciore, y ella pueda mirar que es mentira todo lo que se dice”. La denuncia contra Van Camp’s surgió a partir de la visita del Ministerio del Trabajo a esa empresa y del relato de la trabajadora Alicia Cardiles , quien dio el testimonio afirmando que sus empleadores les estarían descontando de su salario laboral el tiempo que se tardan en ir al baño.Cardiles aseguró que “esta empresa nos está obligando a utilizar paños desechables porque nos descuentan en los salarios la ida al baño . Eso nos está produciendo, a futuro, enfermedades a nuestro aparato reproductor, infecciones urinarias que a futuro se nos puede volver cáncer. Entonces, por eso, no más violación a los derechos de las mujeres”.Pues bien, la versión de esa colaboradora de Van Camp’s contrasta con el testimonio de Marta Lucía Guardado Castro, quien la señaló directamente de estar mintiendo. “Así que la invito nuevamente a la ministra. Llegue aquí a nuestra planta, que la atendemos con mucho cariño, para que usted vea cómo se trabaja aquí en la familia Van Camp’s”, sostuvo la mujer que señaló a Alicia Cardiles de estar mintiendo en su denuncia.El Ministerio del Trabajo hizo pública su denuncia sobre los casos de acoso laboral que habría encontrado en empresas pesqueras y de flores que se enfocan en contratar mujeres como su principal mano de obra. No obstante, hasta el mediodía de este jueves (28 de diciembre) no había presentado pruebas al respecto.La compañía Seatech Internacional Inc., que tiene la planta de atún en Cartagena, desmintió lo publicado por la funcionaria Gloria Inés Ramírez y anunció que tomará acciones legales contra el Gobierno.Según dijo esa corporación en un comunicado, “la compañía y sus 1.800 colaboradores reiteran que lo señalado no es cierto y procederá a defenderse de este ataque bajo, conforme a la ley”. Otra versión que salió a flote en medio del cruce de declaraciones entre el Gobierno, la empresa y las trabajadoras de Van Camp’s, fue la del sindicato Sintramar Cartagena, que publicó un comunicado en el que detalló que “no es cierto que a las trabajadoras no se les deja ir al baño a hacer sus necesidades. No sabemos de dónde salió esa información que a todas luces es malintencionada”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Labor",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:08:17.691+02:00",
+    "updated": "2023-12-29T00:08:17.691+02:00"
+  },
+  {
+    "uuid": "b1dcfc72ed26fea4b6f5faad4b3d76c67b5d5ff6",
+    "url": "https://www.healio.com/news/gastroenterology/20241111/video-green-tea-extract-turmeric-among-supplements-associated-with-liver-injury",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nancy S. Reau, MD, FAASLD, AGAF",
+    "published": "2024-11-14T22:30:00Z",
+    "title": "VIDEO: Green tea extract, turmeric among supplements associated with liver injury",
+    "text": "Please provide your email address to receive an email when new articles are posted on . Subscribe Added to email alerts You've successfully added to your alerts. You will receive an email when new content is published.\nClick Here to Manage Email Alerts You've successfully added to your alerts. You will receive an email when new content is published.\nClick Here to Manage Email Alerts\nBack to Healio We were unable to process your request. Please try again later. If you continue to have this issue please contact customerservice@slackinc.com .\nBack to Healio PHILADELPHIA — In this video, Nancy S. Reau, MD, FAASLD, AGAF, discusses the impact certain herbal and dietary supplements may have on the liver, especially among patients with underlying liver disease.\nThe data were presented at the ACG Annual Scientific Meeting.\n“It does suggest that green tea extract and turmeric might be a cautionary tale in your patients who have underlying liver disease, especially metabolic dysfunction-associated liver disease,” Reau, the Richard B. Capps Chair of Hepatology, associate director of solid organ transplantation and section chief of hepatology at Rush University, told Healio. “These are two things you may want to monitor if a patient is interested in taking that.”\nReference: Halegoua-DeMarzio D, et al. A recent epidemiologic shift in herbal and dietary supplement-induced liver injury: Two decades of experience from the U.S. drug-induced liver injury network. Presented at: ACG Annual Scientific Meeting; Oct. 25-30, 2024; Philadelphia (hybrid meeting).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Nancy S. Reau",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T01:14:46.122+02:00",
+    "updated": "2024-11-15T01:14:46.122+02:00"
+  },
+  {
+    "uuid": "6ee91e142c18fb7bbd8fe367f0d55c32533e643f",
+    "url": "https://www.breitbart.com/politics/2025/04/16/exclusive-guilfoyle-mania-sweeps-greece-hellenic-republic-ready-for-kimberly-as-u-s-ambassador",
+    "ord_in_thread": 0,
+    "author": "Matthew Boyle",
+    "published": "2025-04-16T22:40:00Z",
+    "title": "Guilfoyle-Mania Sweeps Greece: Hellenic Republic Ready for Kim",
+    "text": "ATHENS, Greece — Kimberly Guilfoyle is already a sensation in Greece, and she has not even had her U.S. Senate confirmation hearing yet.\nThe top ally of President Donald Trump, who the president nominated as his U.S. Ambassador to Greece, is eagerly awaited here in the Hellenic Republic. Leaders from the Prime Minister on down through his top officials throughout government to cultural, business, and political leaders throughout the nation are excited to have such a high profile ambassador coming as soon as she is confirmed by the U.S. Senate.\n“We are looking forward to having her confirmed,” Greek Prime Minister Kyriakos Mitsotakis told Breitbart News in his office at Maximos Mansion here in Athens last week. “I am looking forward to meeting her as soon as she comes to Greece. I think she will find that Greek-American relations are at an all-time high, so she is essentially coming at a time when we have a very strong relationship which we can further improve.”\nGreek Health Minister Adonis Georgiadis, who also serves as one of the two Vice Presidents of Greece’s governing party New Democracy, echoed that sentiment, saying he is excited for Guilfoyle’s arrival. He noted Guilfoyle’s close relationship with the president and her ability to be able to get to him directly.\n“I haven’t met her yet. But I have to say the first things I’ve seen were excellent,” Georgiadis told Breitbart News in an interview in his office. “The speech she gave in the White House during our national day ceremony was an excellent speech and as I understand she is really thrilled with coming to Greece. This is a very good sign. And on the other hand, I think the decision of President Trump to have her in Greece—to have someone really close to him—it’s a sign that he gives real importance to Greece. We will have an ambassador that if we need it, she will be able to talk to him directly. This is important.”\nThe Archbishop of the Church of Greece, Ieronymos II of Athens, told Breitbart News he is excited she is coming too.\n“We’re looking forward to her arrival, and I will let her know many key steps that must be taken in the right direction, slowly but surely,” Ieronymos II said in an interview. “Having lived almost ninw decades and having spent time in Europe, I’ve developed a global perspective, including on Greece. Greeks are people of filotimo, honorable, hardworking, respectful people. But they also carry a certain fear, because they’ve endured so many difficulties throughout the years. So I was pleased to hear about her appointment. I already talked with her through the phone and we are ready to welcome her in Greece. I think she has the potential to become an effective Ambassador that will bring our two great nations even closer.”\nGuilfoyle, until she is Senate confirmed, is unable to communicate directly with the government in Greece. But it’s abundantly clear after Breitbart News spent all of last week in Greece—here in Athens for the first couple days, then up in Delphi for the remainder of the week at the Delphi Economic Forum—that across the board government officials are excited she’s coming. This journalist did several television and news media interviews with Greek media outlets all week last week and even some this week, and without fail, every single one of the reporters asks about Guilfoyle and what she’s like as a person and what Greeks should expect from the eventual U.S. ambassador.\nChristos Marafatsos, who has since before Trump’s 2016 victory run the U.S.-based organization Greeks for Trump, ran into Breitbart News in Delphi later in the week and recalled how his first-ever interview way back in the lead-up to the 2016 election was with Breitbart News. Asked about the energy surrounding eventual U.S. Ambassador Guilfoyle, Marafatsos told Breitbart News that Greeks are rightly excited about it all.\n“Greeks and Greek Americans are absolutely thrilled that Kimberly Guilfoyle will be representing the United States in Greece — she’s smart, fearless, and loves our country,” Marafatsos told Breitbart News. “Her presence sends a powerful message: under President Trump, America stands strong with Greece. Big things are coming!”\nThe biggest question Breitbart News would get when asked by locals about Guilfoyle is: What’s taking so long and how long until she gets here? Well, as the birthplace of democracy would probably well know, sometimes democracy takes some time to play out—and the Democrats in the U.S. Senate back in the states are slow-walking many of Trump’s nominees, despite requisite support among the GOP majority in the Senate. Nonetheless, it’s expected that Guilfoyle will probably have a confirmation hearing before the Senate Foreign Affairs Committee later in the spring or early summer and be confirmed by the full U.S. Senate shortly thereafter.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Politics->political candidates",
+      "Politics->government",
+      "Politics->political campaigns",
+      "Human Interest->celebrity",
+      "Social Issue->social networking",
+      "Social Issue->values",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Kimberly Guilfoyle",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Kyriakos Mitsotakis",
+          "sentiment": "none"
+        },
+        {
+          "name": "Adonis Georgiadis",
+          "sentiment": "none"
+        },
+        {
+          "name": "Donald Trump",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Maximos",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Breitbart News",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "6ee91e142c18fb7bbd8fe367f0d55c32533e643f",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [
+        "fake_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T01:55:38.341+03:00",
+    "updated": "2025-04-17T05:33:27.757+03:00"
+  },
+  {
+    "uuid": "32db572ad8dbdda95e44106e47eea17163c01a56",
+    "url": "https://elimparcial-elimparcial-prod.web.arc-cdn.net/son/hermosillo/2024/11/07/movember-llega-a-hermosillo-policia-implementa-campana-de-prevencion-de-cancer-en-hombres",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gamaliel González",
+    "published": "2024-11-07T20:44:00Z",
+    "title": "Movember llega a Hermosillo: Policía implementa campaña de prevención de cáncer en hombres",
+    "text": "HERMOSILLO, SONORA.- Llegó “Movember” y la Unidad de Género de la Policía hará varias actividades de prevención de cáncer en hombres y los oficiales varones tendrán el servicio revisión de próstata y testicular. Angélica Payan García, titular de la Unidad de Género, destacó que es importante que los hombres prevengan la terrible enfermedad del cáncer de mama, próstata y testicular. “Preparamos la unidad móvil que va a estar en la Comandancia Norte, ahí van a poder acudir los policías a hacerse su chequeo, a tener una consulta en la unidad y después habrá una conferencia en el Hospital Oncológico de Hermosillo”, dijo. Este esfuerzo que realiza el Ayuntamiento por primera vez es por una preocupación que tienen los mandos en trabajar en la prevención. “Es importante prevenir a tiempo, es importante de manera preventiva lo atienden van a poder tener un resultado favorable y no llegar a una situación de desgaste físico, emocional, psicológico y económico, para ellos sobre todo y sus familias”, resaltó. El evento de prevención de cáncer será el próximo 20 de noviembre en la Comandancia Norte. Otro evento se realizará el día 14 de noviembre donde darán plática de movilidad en bicicletas a policías y el 19 de noviembre darán una conferencia de hostigamiento y acoso laboral. En octubre la Unidad de Género hizo revisión de prevención de cáncer de mamá a 70 mujeres, los resultados aún los esperan y realizaron pláticas informativas. Tal vez te interese: “Ya me lo quitó Dios, ya lo quitó de sufrir”: Doña Beba despide a Don Pancho, su compañero de vida por 40 años \"} {\"@type\":\"BreadcrumbList",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Angélica Payan García",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Ayuntamiento",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Hospital Oncológico de",
+          "sentiment": "none"
+        },
+        {
+          "name": "Comandancia Nor",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T00:45:01.469+02:00",
+    "updated": "2024-11-08T00:45:01.469+02:00"
+  },
+  {
+    "uuid": "bbc1072897a63c8e6b038b1284bec42948ce8410",
+    "url": "https://www.getfootballnewsfrance.com/2023/irvin-cardona-set-for-france-return-following-failed-stint-at-augsburg/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Luke Entwistle",
+    "published": "2023-12-28T23:53:00Z",
+    "title": "Irvin Cardona set for France return following failed stint at Augsburg",
+    "text": "It was thought that Irvin Cardona’s (26) departure would have a negative effect on Stade Brestois. The former AS Monaco forward joined Augsburg for €500k back in January, having established himself as a key figure at Brest. However, whilst his former side have gone from strength to strength since, Cardona has struggled in the Bundesliga. According to [Foot Mercato](https://twitter.com/sebnonda/status/1740454540619723143), he is now set to return to France. Cardona has played just 13 games for Augsburg, scoring just once. This season, he has made just three substitute appearances, accumulating a meagre 51 minutes of football. Understandably, Cardona, who scored 19 goals for Brest in 106 appearances, is looking for a new challenge. He is now set for a move to Ligue 2 side AS Saint-Étienne. According to Foot Mercato journalist Sébastien Denis, negotiations to bring the former France U20 forward to the club are advanced. The signing would represent a significant coup for the club, who have designs on a promotion back to Ligue 1 this season. [GFFN](https://www.getfootballnewsfrance.com/) | Luke Entwistle",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://twitter.com/sebnonda/status/1740454540619723143",
+      "https://www.twitter.com/sebnonda/status/1740454540619723143"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "irvin cardona",
+          "sentiment": "negative"
+        },
+        {
+          "name": "sébastien denis",
+          "sentiment": "none"
+        },
+        {
+          "name": "foot mercato",
+          "sentiment": "none"
+        },
+        {
+          "name": "luke entwistle",
+          "sentiment": "none"
+        },
+        {
+          "name": "cardona",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "monaco",
+          "sentiment": "none"
+        },
+        {
+          "name": "gffn",
+          "sentiment": "none"
+        },
+        {
+          "name": "ligue",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "augsburg",
+          "sentiment": "none"
+        },
+        {
+          "name": "france",
+          "sentiment": "none"
+        },
+        {
+          "name": "brest",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:56:17.326+02:00",
+    "updated": "2024-01-05T04:41:30.895+02:00"
+  },
+  {
+    "uuid": "0349022095ee5afc048f1fa1800afdefdabcb024",
+    "url": "https://marathi.ndtv.com/videos/new-restrictions-on-devotees-in-shanishinganapur-from-march-1-902839",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NDTV Marathi",
+    "published": "2025-02-15T00:00:00Z",
+    "title": "शनिशिंगणापुरात 1 मार्चपासून भाविकांवर नवे निर्बंध, सुट तेल वाहण्यावर बंदी | NDTV मराठी",
+    "text": "arrow-down\nbell\ntop-nav\nLogin\nहोम\nव्हिडीओ\nशनिशिंगणापुरात 1 मार्चपासून भाविकांवर नवे निर्बंध, सुट तेल वाहण्यावर बंदी | NDTV मराठी\nडिफॉल्ट व्ह्यू\nशनिशिंगणापुरात 1 मार्चपासून भाविकांवर नवे निर्बंध, सुट तेल वाहण्यावर बंदी | NDTV मराठी\n3:38\nप्रकाशित: February 15, 2025\nसंबंधित व्हिडीओ\narrow-down\nsearch\narrow-rgt\narrow-next\narrow-up\nclose\ncog\nleft-arrow\narrow-rgt\narrow-next\narrow-up\nclose\nreddit-fill\nfacebook-fill\nwhatsapp-fill\ncog\nleft-arrow\nsnapchat-fill\nastrology-icn\nJust Added\nजाहिरात\nGet App for Better Experience\nGet App for Better Experience\nInstall Now\nFeatured\nFollow Us On\ncrypto_icon\narrow-rgt\narrow-next\narrow-up\nclose\nreddit-fill\nsnapchat-fill\nfacebook-fill\nwhatsapp-fill",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "topics": [
+      "Politics->freedom of religion",
+      "Politics->censorship and freedom of speech",
+      "Religion and Belief->religious facility",
+      "Religion and Belief->religious ritual",
+      "Religion and Belief->hinduism"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-15T07:11:39.650+02:00",
+    "updated": "2025-02-15T07:11:39.650+02:00"
+  }
+]

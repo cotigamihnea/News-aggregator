@@ -1,0 +1,536 @@
+[
+  {
+    "uuid": "a349280934424987a28fabc764db279965457317",
+    "url": "https://forums.unraid.net/topic/184463-upgrading-to-70-failed-misrerably-several-times-no-emhttpd-anymore",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MAM59",
+    "published": "2025-01-10T08:47:00Z",
+    "title": "Upgrading to 7.0 failed misrerably (several times). No emhttpd anymore! - General Support - Unraid",
+    "text": "Tried to update remotely (its cold outside, do not want to freeze my butt in the garage), started normally, but unmounting the array got stuck with a non existing file beeing busy. Had to kill shfs after an hour of waiting. But the rest went ok.,\nThen I waited for the box to reappear in the LAN, and soon after, the ping was working again.\nSSH worked too, but NO WEBINTERFACE\n(and of course, all the unraid stuff has not been started too)\nI looked for \"emhttpd\", but even \"which\" told me, there was none on the stick anymore!\nSo, what to launch???\nI reverted to the old 6.12.14 just by copying \"previous\" to \"/\" and rebooting. Reboot got stuck again... had to use the reset switch!\n6.12.14 came back up fine again, not even a parity check was needed! Fine.\nSo once more trying to update... this time without a stuck file.\nUpdate went ok, rebooting... NO GUI! again.\nSame procedure as before, no emhttp, no unraid started. just a minimal linux. (this time again I was in the garage, dispite the cold)\nReverted to 6.12.14 again, giving up on 7!\nI have a 7 beta box (fresh install) which works fine, but updating a real one obviously does not work!\nSo, what am I missing (or what did the update forgot to change? \"emhttpd\" now elsewhere, renamed, whatever???)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->social sciences",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T11:22:38.731+02:00",
+    "updated": "2025-01-10T11:22:38.731+02:00"
+  },
+  {
+    "uuid": "402c9416414ef1e5175a0e834fe340fefcb2bcb1",
+    "url": "https://sdxw.iqilu.com/share/YS0yMS0xNTcyNTc2MA.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Here is Shandong",
+    "published": "2024-07-05T00:47:00Z",
+    "title": "Outdoor sports fuels rural vitalization in Shandong",
+    "text": "Shandong is harnessing the power of outdoor sports to revitalize its rural areas. By transforming its abundant natural and cultural resources into outdoor recreation destinations, Shandong is attracting visitors, creating jobs, and boosting local economies.\nShima town, Zibo, a prime example of this transformation, once struggled to attract attention despite its stunning landscapes and rich cultural heritage. However, by embracing outdoor sports, the town has become a popular destination for hiking, cycling, and other activities. The Wuyang Lake Sports and Culture Park receives over 300,000 visitors annually and provides jobs for over 200 rural residents.\nRecognizing the potential of outdoor sports, Shandong has launched initiatives to support and develop the sector across the region. A sports carnival kicked off in Shima Town on June 29, featuring diverse competitions, including a swimming race, a climbing competition, and a kayaking show.\nAthletes sprint fiercely in a marathon held as part of the sports carnival. [Photo/WeChat account: shandongshengtiyuju]\nThe success of events like the 2023 World Triathlon Cup held in Weihai last year further demonstrates the economic impact of outdoor sports. The event generated 47 million yuan ($6.46 million) in direct economic benefits and a quantifiable brand value exceeding 400 million yuan.\nShandong plans to develop rural characteristic outdoor sports industries such as mountaineering, cycling, water sports, air sports, and camping. It will also cultivate and create rural characteristic outdoor sports consumption scenarios, deepen the integration of sports with various industries, and aid in rural vitalization.\n来源：chinadaily.com.cn 编辑：孔垂頔 责编：宋基金 主编：韩信",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Environment",
+      "Lifestyle and Leisure"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "shima",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "shandong shandong",
+          "sentiment": "none"
+        },
+        {
+          "name": "zibo",
+          "sentiment": "none"
+        },
+        {
+          "name": "shandong",
+          "sentiment": "none"
+        },
+        {
+          "name": "shima town",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T03:55:37.021+03:00",
+    "updated": "2024-07-05T03:55:37.021+03:00"
+  },
+  {
+    "uuid": "973b80753f3cc4aa8eb99487e569611f3a049446",
+    "url": "https://www.communicationstoday.co.in/wolfspeed-nears-bankruptcy-deal-with-lenders-including-apollo",
+    "ord_in_thread": 0,
+    "author": "archit_tandon",
+    "published": "2025-06-19T02:45:00Z",
+    "title": "Wolfspeed nears bankruptcy deal with lenders including Apollo",
+    "text": "Wolfspeed will be taken over by creditors including Apollo Global Management under a proposal that would put the struggling chipmaker into bankruptcy, Bloomberg News reported on Wednesday, citing people familiar with the plan.\nThe company will soon announce a deal for a so-called prepackaged bankruptcy, that would be long enough to slash billions in debt, the report said. After a restructuring support agreement is signed, Wolfspeed will ask creditors to vote on the plan and then file for Chapter 11 bankruptcy protection.\nShares of Wolfspeed, which makes chips using silicon carbide — a more energy-efficient material than traditional silicon, rose about 3% to $1.29 on Wednesday. The stock had fallen about 81% so far this year.\nWolfspeed and Apollo did not immediately respond to Reuters requests for comment.\nThe chipmaker raised going-concern doubts earlier in May, as deepening economic uncertainty stemming from changing U.S. trade policies, combined with weakening demand, triggered a series of financial challenges for the company.\nAs of March, the company had about $1.33 billion in unrestricted cash, cash equivalents and short-term investments, and about $6.5 billion of debt obligations, it said in a regulatory filing in May.\nIn a prepackaged bankruptcy, companies and their creditors agree on a reorganization plan prior to the bankruptcy filing and creditors even vote on the plan.\nShareholders could recover as much as 5% in the proposed scenario, the report said. In a typical bankruptcy, shareholders are usually wiped out because creditors must be paid first, and there often is not enough value left for equity holders.\nIn 2023, Wolfspeed announced $1.25 billion in debt financing led by Apollo, with the option to increase the total to as much as $2 billion to support the company’s U.S. expansion plans. Reuters",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business restructuring",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->mergers and acquisitions",
+      "Politics->economic policy",
+      "Politics->political crisis",
+      "Politics->government",
+      "Social Issue->social networking",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Apollo Global Management",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Bloomberg News",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Reuters",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:17.523+03:00",
+    "updated": "2025-06-19T04:43:00.000+00:00"
+  },
+  {
+    "uuid": "9b134cbf2ba699c7943cf25babe97f1b1119d484",
+    "url": "https://odishatv.in/news/weather/odisha-shivers-as-mercury-continues-to-plummet-250986",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cassian Baliarsingh",
+    "published": "2024-12-12T22:15:00Z",
+    "title": "Odisha shivers as mercury continues to plummet",
+    "text": "Recommended Stories\nOdisha is experiencing an increasing chill and a sharp decline in temperature, signalling the arrival of winter across the state, albeit a bit late than in previous years. Mercury has begun to plummet with minimum night temperature falling below the normal in several regions.\nDespite the late onset, the chilling cold is gradually intensifying. In the coming days, temperatures in interior districts could reach as low as 9 degrees Celsius. Moreover, urban areas are also expected to see the mercury dip below 15 degrees Celsius.\nThe\nIndia Meteorological Department (IMD) has predicted that temperatures will remain relatively stable over the next week, with predominantly dry conditions likely. The IMD has also forecast an increase in fog across various parts of the state over the next two days.\nAlso Read:\nOdisha braces for cold wave as mercury to dip further by 2-4 degree Celsius\nFor today, various districts, including Jharsuguda, Sambalpur, Bargarh, Ganjam, Kandhamal, Kalahandi, and Koraput, are anticipated to experience mild to moderate fog, according to the IMD. The Twin City, Bhubaneswar and Cuttack also woke up to chilling cold on Friday morning.\nAfter a warmer start to the month, people across the state are finally feeling the chill. With further dip in the mercury expected all over the state, Phulbani and Daringbadi, known as the Kashmir of Odisha, are expected to become the coldest towns in the state.\nOTV News is now on Whatsapp\nJoin and get latest news update delivered to you via whatsapp\nJoin Now",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "India Meteorological Department",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Kandhamal",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T05:49:35.259+02:00",
+    "updated": "2024-12-13T05:49:35.259+02:00"
+  },
+  {
+    "uuid": "ec3d9eff828dc9604bafdccdf1cf1b6719f858dd",
+    "url": "https://ca.marketscreener.com/quote/stock/VERRICA-PHARMACEUTICALS-I-44247380/news/Ligand-Pharma-s-at-home-skin-treatment-gets-FDA-approval-45683907/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MarketScreener",
+    "published": "2024-01-05T16:15:00Z",
+    "title": "Ligand Pharma's at-home skin treatment gets FDA approval -January 05, 2024 at 05:15 pm | MarketScreener",
+    "text": "Ligand Pharma's at-home skin treatment gets FDA approval January 05, 2024 at 05:15 pm Share Jan 5 (Reuters) - Ligand Pharmaceuticals' topical treatment for a viral skin infection has received approval from the U.S. health regulator, the company said on Friday, marking the first-ever at-home approved treatment for the condition in the country.\nThe gel, Zelsuvmi, is expected to be available in the U.S. in the second half of 2024.\nThe pricing has not yet been established, a company spokesperson said in an email.\nLigand's shares were up about 5% in extended trading.\nZelsuvmi will treat a type of highly contagious skin infection called molluscum contagiosum. It is caused by a poxvirus and results in skin lesions that usually resolve within a year without scarring, but can take a lot longer in some cases.\nThe drug will compete with Verrica Pharmaceuticals' Ycanth, which last year became the first U.S.-approved treatment for the infection, but requires medical supervision during application. (Reporting by Pratik Jain and Sriparna Roy in Bengaluru; Editing by Tasim Zahid, Pooja Desai and Sriraj Kalluvila)\nShare © Reuters - 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FVERRICA-PHARMACEUTICALS-I-44247380%2Fnews%2FLigand-Pharma-s-at-home-skin-treatment-gets-FDA-approval-45683907%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://wa.me/?text=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FVERRICA-PHARMACEUTICALS-I-44247380%2Fnews%2FLigand-Pharma-s-at-home-skin-treatment-gets-FDA-approval-45683907%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://telegram.me/share/url?url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FVERRICA-PHARMACEUTICALS-I-44247380%2Fnews%2FLigand-Pharma-s-at-home-skin-treatment-gets-FDA-approval-45683907%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://twitter.com/intent/tweet?text=Ligand",
+      "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FVERRICA-PHARMACEUTICALS-I-44247380%2Fnews%2FLigand-Pharma-s-at-home-skin-treatment-gets-FDA-approval-45683907%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=Ligand",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FVERRICA-PHARMACEUTICALS-I-44247380%2Fnews%2FLigand-Pharma-s-at-home-skin-treatment-gets-FDA-approval-45683907%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://telegram.me/share/url",
+      "https://wa.me/",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.linkedin.com/shareArticle",
+      "https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FVERRICA-PHARMACEUTICALS-I-44247380%2Fnews%2FLigand-Pharma-s-at-home-skin-treatment-gets-FDA-approval-45683907%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=Ligand",
+      "https://www.wa.me/?text=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FVERRICA-PHARMACEUTICALS-I-44247380%2Fnews%2FLigand-Pharma-s-at-home-skin-treatment-gets-FDA-approval-45683907%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.telegram.me/share/url?url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FVERRICA-PHARMACEUTICALS-I-44247380%2Fnews%2FLigand-Pharma-s-at-home-skin-treatment-gets-FDA-approval-45683907%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://twitter.com/intent/tweet",
+      "https://www.twitter.com/intent/tweet?text=Ligand"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sriparna roy",
+          "sentiment": "none"
+        },
+        {
+          "name": "pratik jain",
+          "sentiment": "none"
+        },
+        {
+          "name": "zelsuvmi",
+          "sentiment": "none"
+        },
+        {
+          "name": "tasim zahid",
+          "sentiment": "none"
+        },
+        {
+          "name": "pooja desai",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "fda",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ligand pharma",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ligand",
+          "sentiment": "none"
+        },
+        {
+          "name": "verrica pharmaceuticals",
+          "sentiment": "none"
+        },
+        {
+          "name": "ligand pharmaceuticals",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "bengaluru",
+          "sentiment": "none"
+        },
+        {
+          "name": "zelsuvmi",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:46:13.009+02:00",
+    "updated": "2024-01-06T00:46:13.009+02:00"
+  },
+  {
+    "uuid": "a9261069715cbcee44a5eefe9929c290ce87748f",
+    "url": "https://www.orissapost.com/water-storage-in-indias-key-reservoirs-at-just-38-ahead-of-summer-season-official-data",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Post News Network",
+    "published": "2024-03-22T08:10:00Z",
+    "title": "Water storage in India’s key reservoirs at just 38% ahead of summer season: Official data",
+    "text": "New Delhi: Ahead of the summer season, the live storage capacity in India’s 150 primary reservoirs stands at just 38 per cent of their total capacity, which is less than the last decade’s average for the same period, according to data.\nCities like Bengaluru are already grappling with a shortfall of around 500 million litres of water per day (MLD), against a demand of 2,600 MLD.\nKarnataka, among other states, registered lower storage levels compared to the same period last year, according to the weekly bulletin by the Central Water Commission.\nBengaluru hosts 14,000 borewells with 6,900 of them having dried up. Water bodies have either been encroached upon or have dried up. The city requires 2,600 MLD of water, out of which 1,470 MLD is sourced from the Cauvery River and 650 MLD from borewells, Karnataka CM Siddaramaiah had told reporters.\nSeveral other states, including Himachal Pradesh, Punjab, Madhya Pradesh, Tripura, Rajasthan, Bihar, Maharashtra, Uttar Pradesh, Gujarat, Chhattisgarh, Andhra Pradesh and Telangana (two combined projects in both states), and Tamil Nadu, also reported lower storage levels compared to last year.\nThe total live storage capacity of these 150 reservoirs is 178.784 BCM, which accounts for about 69.35 per cent of the nation’s total live storage capacity estimated at 257.812 billion cubic metres, according to official data.\nAccording to the reservoir storage bulletin Thursday, the live storage available in these reservoirs is 67.591 BCM, representing 38 per cent of their total live storage capacity.\nHowever, during the corresponding period last year, the live storage available was 80.557 BCM, with an average of 72.396 BCM over the past decade.\nThus, the current live storage in these 150 reservoirs amounts to 84 per cent of the storage during the same period last year and 93 per cent of the average storage over the past decade.\n“The overall storage position in the country is lower than the corresponding period last year and also falls short of the average storage over the past ten years for the same period,” stated the bulletin.\nThe Southern region, which includes states like Andhra Pradesh and Telangana (two combined projects in both states), Karnataka, Kerala, and Tamil Nadu, monitors 42 reservoirs with a total live storage capacity of 53.334 BCM.\nAs of the Reservoir Storage Bulletin dated 21.03.2024, the total live storage available in these reservoirs is 12.287 BCM, which constitutes 23 per cent of their total live storage capacity.\nThis marks a decrease compared to the storage levels during the corresponding period last year (39 per cent) and the average storage over the past ten years (32 per cent).\nThus, the current storage levels in the Southern region are lower than those observed during the same period last year and also fall below the average storage over the past ten years.\nPTI",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "siddaramaiah",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "central water commission",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "bihar",
+          "sentiment": "none"
+        },
+        {
+          "name": "gujarat",
+          "sentiment": "none"
+        },
+        {
+          "name": "madhya pradesh",
+          "sentiment": "none"
+        },
+        {
+          "name": "andhra pradesh",
+          "sentiment": "none"
+        },
+        {
+          "name": "tamil nadu",
+          "sentiment": "none"
+        },
+        {
+          "name": "punjab",
+          "sentiment": "none"
+        },
+        {
+          "name": "rajasthan",
+          "sentiment": "none"
+        },
+        {
+          "name": "tripura",
+          "sentiment": "none"
+        },
+        {
+          "name": "uttar pradesh",
+          "sentiment": "none"
+        },
+        {
+          "name": "chhattisgarh",
+          "sentiment": "none"
+        },
+        {
+          "name": "himachal pradesh",
+          "sentiment": "none"
+        },
+        {
+          "name": "karnataka",
+          "sentiment": "none"
+        },
+        {
+          "name": "cauvery river",
+          "sentiment": "none"
+        },
+        {
+          "name": "maharashtra",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-22T15:31:11.080+02:00",
+    "updated": "2024-03-22T17:11:14.143+02:00"
+  },
+  {
+    "uuid": "aa4a9959e4fcf17aaaf06434f00c355d9a5765d4",
+    "url": "https://www.marketscreener.com/news/latest/Mind-the-labour-gap-Worker-crunch-piles-pressure-on-small-town-Japan-48631199",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MarketScreener",
+    "published": "2024-12-20T01:01:00Z",
+    "title": "Mind the labour gap: Worker crunch piles pressure on small-town Japan - MarketScreener",
+    "text": "INO, Japan (Reuters) - Over the last decade, Masato Shiota brought his papermaking business back from the brink, paying down debt and buying machinery to automate some production. But he struggles to find workers to keep output at full capacity.\n\"We have three machines but only have two running on any day,\" said Shiota, president of Wako Seishi, which produces tissues, disinfectant wipes and toilet paper in Ino, a town on the smallest of Japan's four main islands known for its paper industry.\n\"If we don't have the people we can't make products and we can't turn a profit. We'll go under. This is the biggest problem for small and medium-sized companies.\"\nShiota's experiences and those of several other Ino business owners show how a labour shortage is a growing threat to smaller companies that provide seven out of every 10 jobs in Japan. The country faces a deficit of 3.4 million workers by the end of this decade and 11 million by 2040, according to a 2023 study by Recruit Works Institute.\nIn the first half of this year, a record 182 companies went under because of worker shortages, according to research firm Teikoku Databank, up 66% on a year earlier. Overall bankruptcies look set to surpass 10,000 this year, the highest since 2013, data from Tokyo Shoko Research showed this month.\nWhile labour shortage-related bankruptcies are a small portion of the total, the surge will ripple through to these companies' suppliers and customers, potentially causing a \"chain of bankruptcies or mergers\", according to Takayasu Otomo, a researcher at Teikoku Databank.\nJapan in March raised borrowing costs for the first time in 17 years, signalling the world's fourth-largest economy had turned a corner after years of stagnation.\nYet Reuters interviews with 16 people, including business leaders in Ino, industry experts and officials, reveal challenges for Prime Minister Shigeru Ishiba's efforts to revitalise rural economies facing ageing and shrinking populations.\nWhile Japan is allowing more underperforming businesses to fail, the accounts suggest the worker shortage is threatening firms that are otherwise robust, including those that have invested in automation and creative hiring.\nJapan's Ministry of Economy, Trade and Industry did not respond to questions about the experiences of business owners in Ino.\n'ECONOMIC METABOLISM'\nShiota, who also heads the local papermaking association, has 42 employees and saw demand for disinfectant wipes surge during the pandemic.\nHe has cut out unprofitable products and, with government support, invested 80 million yen ($520,000) to automate his lines. But Shiota said he has little ability to pay workers more beyond a recent increase in the minimum wage, which will rise again next year.\nJapan remains resistant to large-scale immigration, so some companies have plugged labour gaps by employing short-term workers from Vietnam and other Asian countries. But a weakening yen makes it harder to attract foreign workers.\nSome Japanese officials see bankruptcies triggered by labour shortages as an inevitable effect of what they call \"economic metabolism\" - whereby less-dynamic companies are swept away, allowing workers and capital to migrate to more productive ones.\nWhen asked about the rise in these bankruptcies, one senior official, granted anonymity to discuss a sensitive matter, said it was \"natural\" for such economic metabolism to take place.\nThe bankruptcy rate remains low compared with some countries, the official said, adding that if such bankruptcies did not occur, workers would be stuck at low-wage companies.\nLEARNING TO ADAPT\nNestled alongside the Niyodo river, Ino is known for traditional products such as \"Tosa washi\" paper, made by hand for 1,000 years and used in calligraphy and on \"shoji\" sliding doors.\nGiven its population of 20,000 and location off the beaten track, Ino's papermakers have carved out niches to survive. Toyo Tokushi, owned by the Moriki family, diversified into adult diapers in 1970, which now account for 70% of sales.\nFaced with a staffing crunch, the company for the first time is considering hiring graduates straight out of high school, said Kei Moriki, the 32-year-old director.\nEven so, he said he isn't sure that the company can muster the resources to train employees with no work experience.\nOld trophies from an annual softball tournament held by the local paper manufacturers association adorn the company headquarters. Toyo Tokushi hasn't fielded a team in around 20 years, Moriki said, as his workforce has aged.\nElsewhere in Ino, there are few izakaya pubs left and only one fish shop, down from a dozen in 2007, according to locals.\nIshiba has given few details about how he plans to revitalise rural areas, but has promised to lay out a plan by early next year to raise the minimum wage by 42% by the end of the decade.\nMeanwhile, the government is on a push to help small and medium-sized enterprises raise prices so they can hike wages that lag the OECD average. Higher wages would also help smaller companies attract workers.\nBut in Ino, business owners say it's not straightforward.\nKashiki Seishi, a maker of washi paper, used to source everything from local farmers, according to chief executive Hiromasa Hamada. But since 2017 the six-person company has also depended on volunteers from a programme that allows people to work on farms in exchange for room and board.\n\"I don't think it's healthy for a business to rely on volunteers,\" said the 44-year-old Hamada, a seventh-generation papermaker.\nBut he appears to have little choice, as there are fewer farmers in the nearby ranges to collect wood and other materials he needs.\nIn 10 years, he said, \"there might be no one left in the mountains\".\n(Reporting by Anton Bridge and Makiko Yamazaki; Additional reporting by Ritsuko Shimizu; Writing by David Dolan; Editing by David Crawshaw.)\nBy Anton Bridge and Makiko Yamazaki\nShare © Reuters - 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->human resources",
+      "Health->health organisation"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Flatest%2FMind-the-labour-gap-Worker-crunch-piles-pressure-on-small-town-Japan-48631199%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://twitter.com/intent/tweet?text=Mind",
+      "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Flatest%2FMind-the-labour-gap-Worker-crunch-piles-pressure-on-small-town-Japan-48631199%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=Mind",
+      "https://wa.me/?text=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Flatest%2FMind-the-labour-gap-Worker-crunch-piles-pressure-on-small-town-Japan-48631199%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://telegram.me/share/url?url=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Flatest%2FMind-the-labour-gap-Worker-crunch-piles-pressure-on-small-town-Japan-48631199%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://cdn.zonebourse.com/static/resize/464/261//images/reuters/2024-12/2024-12-20T010158Z_1_LYNXMPEKBJ00Q_RTROPTP_3_JAPAN-ECONOMY-BANKRUPTCIES-LABOUR.JPG",
+      "https://www.twitter.com/intent/tweet?text=Mind",
+      "https://www.wa.me/?text=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Flatest%2FMind-the-labour-gap-Worker-crunch-piles-pressure-on-small-town-Japan-48631199%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://telegram.me/share/url",
+      "https://www.cdn.zonebourse.com/static/resize/464/261//images/reuters/2024-12/2024-12-20T010158Z_1_LYNXMPEKBJ00Q_RTROPTP_3_JAPAN-ECONOMY-BANKRUPTCIES-LABOUR.JPG",
+      "https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Flatest%2FMind-the-labour-gap-Worker-crunch-piles-pressure-on-small-town-Japan-48631199%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=Mind",
+      "https://wa.me/",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.linkedin.com/shareArticle",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Flatest%2FMind-the-labour-gap-Worker-crunch-piles-pressure-on-small-town-Japan-48631199%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.telegram.me/share/url?url=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Flatest%2FMind-the-labour-gap-Worker-crunch-piles-pressure-on-small-town-Japan-48631199%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Masato Shiota",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Reuters",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Recruit Works Institute",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "aa4a9959e4fcf17aaaf06434f00c355d9a5765d4",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-20T03:10:41.285+02:00",
+    "updated": "2024-12-20T03:10:41.285+02:00"
+  },
+  {
+    "uuid": "3ed336da69dd9c1808c9bca0bf37a065e74f1a10",
+    "url": "https://www.163.com/dy/article/JS70E6NS05129QAF.html",
+    "ord_in_thread": 0,
+    "author": "网易",
+    "published": "2025-04-02T23:05:00Z",
+    "title": "AI质检可降损失超八成，AI+工业场景有更多可能|算法|广州|机器人|人工智能|ai质检|高吞吐量内核_网易订阅",
+    "text": "陈彬 科大讯飞华南人工智能研究院（广州)有限公司工程院技术总监\n采写丨南都·琶洲π记者 伊晓霞 实习生 陈韵如\n图片丨受访者提供　　\n人物名片：\n陈彬\n科大讯飞华南人工智能研究院（广州)有限公司工程院技术总监　　\n你能想象得出，纺织车间用上“AI质检员”的样子吗？上百台纺织大圆机快速自动运作，却仅需几人管理。这是真实存在的场景。一款名为“探布无忧-布面缺陷智能检测系统”的产品，去年1月已经在纺织行业落地，目前累计为超百亿价值的布料提供了检测服务。\n“探布无忧-布面缺陷智能检测系统”的问世，是陈彬在技术岗位上的重要贡献之一。近年来，他以广东省新一代人工智能开放创新平台为基础，在 机器人 智能交互上建立国内首个集大数据平台、AI能力平台、运营管理平台、机器人业务平台于一体的智能交互机器人公共创新技术服务平台，并获得了多个实用新型专利授权，同时重点参与面向人车路协同的边缘计算开放系统的研究及应用的项目攻关。目前，他担任科大讯飞华南人工智能研究院（广州）有限公司（以下简称“讯飞华南研究院”）工程院技术总监，持续将人工智能应用于工业场景。　　\nAI质检\n自动实时检测布面瑕疵\n减少次布损失近3000万　　\n在华南理工大学应用数学专业学习至硕士研究生毕业后，陈彬又攻读了该校的电子信息专业博士。“我在研究生阶段就主要研究神经网络相关算法和应用，进入工作岗位后从底层技术开发起步，从独立的应用系统开始，到不同应用系统的融合再到大数据的建模和应用，一直跟随着国内信息化和智能化的发展。”2020年，他进入讯飞华南研究院后，刚好赶上人工智能应用的风口，基于个人持续在软件开发和算法研究上的突破，顺势在算法领域持续深耕。\n在讯飞华南研究院，他最先接触了教育大数据项目：“对基于全样本、全过程、全景式的元教育大数据进行数据挖掘和学习分析，使人工智能+教育成为可能。”该项目的研究和落地，将教育管理、教学创新、个性化学习、教育评价、教育服务推向智能化阶段。\n后续他又负责搭建机器人智能交互广东省新一代人工智能开放创新平台，打造了集大数据平台、AI能力平台、运营管理平台、机器人业务平台于一体的创新技术服务平台，持续在算法应用领域进行探索并取得实际成果。\n近两年，他将工作重点投向了人工智能在工业场景中的应用。探物智能科技（广东）有限公司由讯飞华南研究院孵化，是一家致力于将人工智能技术应用于工业质检，帮助企业实现数智化转型升级的公司。该公司研发的“探布无忧-布面缺陷智能检测系统”正是陈彬在算法引擎上的落地突破。\n“我们的产品能够自动实时检测布面瑕疵，避免了人工检测的耗时耗力问题，大大提高了检测效率。”陈彬举例说，一般人工检验速度仅为10-20米分钟，而且效果受限于人视觉捕捉速度与大脑判断速度，容易产生误检和漏检的情况，即使熟练工也只能检测出约60%-75%的明显疵点，同样受限于人的疲劳程度和责任程度，导致人工检测率会因不同的人差异很大，检测成功率波动大。而“探布无忧-布面缺陷智能检测系统”基于人工智能计算机图像识别和处理技术，采用先进的时空联合定位算法，7x24小时不间断疵点检测，并实时停机告警，提高看机效率，降低次布数量。其过检率低于10%，漏检率低于2%，有效降低次布损失80%以上。目前该产品已在500多家纺织企业的过万台设备上稳定运行，减少次布损失近3000万元。　　\n发展前景\n海珠有望实现更多突破\n成为技术创新重要策源地　　\n随着工业高端化转型升级的推进，中国工业质检市场规模正在快速扩张。据IDC测算，2025年中国工业AI质检整体市场将达9.58亿美元(约合人民币62亿元)，基于深度学习算法的计算机视觉工业产品质量检验已成为行业共识。“AI质检不仅应用于传统的制造业，正逐渐渗透到能源、医疗、物流等领域，为各行业的质量控制提供有力支撑。陈彬表示，目前，AI质检解决方案已经能够实现对产品缺陷的自动识别和分类，提升检测效率和质量。他深信，未来，AI质检将不仅限于表面缺陷检测，还将向更深层次的质量评估和预测发展。\n陈彬看好人工智能在工业场景中应用的发展前景，而刚刚加身的“琶洲领军算法师”头衔让他更感责任重大，“这一荣誉不仅是对我个人在算法领域努力的认可，也是对我所在团队和海珠区人工智能产业发展的肯定，更是对我未来工作的鞭策，这将激励我继续深耕算法领域。”\n目前，海珠区已出台了一系列支持算法产业发展的政策，如《广州市海珠区建设琶洲算谷若干促进措施》，为算法企业提供了资金、场地、人才等多方面的支持，有效促进了算法产业的快速发展。同时，海珠区也加快算力基础设施建设如智算中心的建立，为企业提供了强大的算力支持，满足了大模型训练等高性能计算需求。\n“通过举办算法大赛、评选领军算法师等方式，海珠区不仅吸引了大量国内外优秀算法人才，也注重本地人才的培养，构建了多层次的人才梯队。”陈彬认为，随着算法技术的不断进步和应用场景的拓展，海珠区有望在人工智能领域实现更多突破，成为技术创新的重要策源地。\n“当然也需要依托现有政策优势和基础设施案件，进一步吸引优质企业和项目落户，形成更加完善的人工智能产业链和产业集群；同时人工智能作为数字经济的核心驱动力，随着琶洲成为广州市人工智能与数字经济试验区核心片区的定位，利用好品牌影响力推动海珠区数字经济迈向更高水平，为区域经济发展注入新的活力。”他相信，最后随着全球化进程的加速，海珠区可以借助自身优势，加强与国际先进地区的交流合作，提升在全球人工智能领域的影响力和竞争力。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->scientific innovation",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->manufacturing and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:16:05.955+03:00",
+    "updated": "2025-04-03T02:16:05.955+03:00"
+  }
+]

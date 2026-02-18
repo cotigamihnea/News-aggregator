@@ -1,0 +1,521 @@
+[
+  {
+    "uuid": "153a8e138d658085799f78e06b52ad078a62ea25",
+    "url": "https://ground.news/article/thanks-to-757-votes-rafi-saar-won-an-additional-term-as-mayor-of-kfar-saba",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "israelhayom.co.il",
+    "published": "2024-02-29T00:00:00Z",
+    "title": "Ground News - Thanks to 757 votes: Rafi Sa'ar won an additional term as mayor of Kfar Saba",
+    "text": "Ser and the municipal council, Hevra, Deri, led a very tight race and at the end of the vote count Ser received 46.8% compared to Deri with 45.3% • Due to the close result, we waited in Beersheba to count the doubled votes that confirmed his right as mayor • A total of 47,491 residents voted • The runner-up Deri won 20,738 votes and the runner-up Asnat Sported with 3,608 votes. Summary by israelhayom.co.il 1 Articles 1 Articles All Left Center Right [] israelhayom.co.il Thanks to 757 votes: Rafi Sa'ar won an additional term as mayor of Kfar Saba Ser and the municipal council, Hevra, Deri, led a very tight race and at the end of the vote count Ser received 46.8% compared to Deri with 45.3% • Due to the close result, we waited in Beersheba to count the doubled votes that confirmed his right as mayor • A total of 47,491 residents voted • The runner-up Deri won 20,738 votes and the runner-up Asnat Sported with 3,608 votes. 38 minutes agoRead Full Article Think freely.Subscribe and get full access to Ground NewsSubscriptions start at $9.99/year [Subscribe](/subscribe) Not enough coverage to generate an Article Assistant. Ground News Article Assistant Coverage Details Total News Sources0Leaning Left0Leaning Right0Center0Last Updated28 minutes agoBias Distribution No sources with tracked biases. Bias Distribution - There is no tracked Bias information for the sources covering this story. Factuality To view factuality data please Upgrade to Premium Ownership To view ownership data please Upgrade to Vantage Sources are mostly out of (0)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Politics"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "deri",
+          "sentiment": "negative"
+        },
+        {
+          "name": "rafi sa'ar",
+          "sentiment": "negative"
+        },
+        {
+          "name": "asnat",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "kfar saba",
+          "sentiment": "none"
+        },
+        {
+          "name": "hevra",
+          "sentiment": "none"
+        },
+        {
+          "name": "beersheba",
+          "sentiment": "none"
+        },
+        {
+          "name": "kfar saba ser",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-01T00:54:09.034+02:00",
+    "updated": "2024-03-01T00:54:09.034+02:00"
+  },
+  {
+    "uuid": "7b82e526e11f0753773fe082f4c10c6ae527758b",
+    "url": "https://www.trendmicro.com/fr_fr/research/25/a/how-cracks-and-installers-bring-malware-to-your-device.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Maglaque; Jay Nebre; Allixon Kristoffer Francisco Read time",
+    "published": "2025-01-09T15:00:00Z",
+    "title": "How Cracks and Installers Bring Malware to Your Device | Trend Micro (FR)",
+    "text": "Key Takeaways\n- Attackers use platforms such as YouTube and social media to share download links for fake installers to capitalize on user trust and drive clicks to malicious sites.\n- Threat actors often use reputable file hosting services like Mediafire and Mega.nz to conceal the origin of their malware and make detection and removal more difficult.\n- Many malicious downloads are password-protected and encoded, which complicates analysis in security environments such as sandboxes and allows malware to evade early detection.\n- Once infected, malware collects sensitive data from web browsers to steal credentials. This situation shows the serious risks of exposing your personal information by unknowingly downloading fraudulent software.\nIntroduction\nThe increase of fake installers bundled with info stealers is a growing threat for users looking for pirated software. These malicious programs disguise themselves as legitimate applications, often appearing in search results or [comments on platforms like GitHub](https://www.gendigital.com/blog/news/innovation/lumma-stealer-github). Unfortunately, many users fall prey to these tricks. The [Trend Micro™ Managed XDR](https://www.trendmicro.com/fr_fr/business/services/managed-xdr.html) service frequently sees the fallout, with the Lumma stealer being a prominent example. This highlights the hidden dangers of piracy that can jeopardize personal security and data integrity.\nInfo stealers are a type of malware that is designed to steal sensitive information from an infected system. This can include credentials, financial information, personal data, and other sensitive information that can be used for identity theft, fraud, or other malicious purposes.\nHow they lure their victims\nInfo stealers operate deceptively, luring victims into downloading the malware disguised as legitimate software installers. These download links often originate from fake websites or are shared as a link in messages from social platforms, as discussed in our [previous blog](https://www.trendmicro.com/fr_fr/research/23/j/beware-lumma-stealer-distributed-via-discord-cdn-.html).\nIn this blog, we want to highlight and break down how a typical user may stumble upon these download links of fake installers.\nVictims are lured into piracy by individuals posing as guides on popular video-sharing platforms like YouTube. These deceitful actors create a pretense of offering legitimate software installation tutorials to entice viewers to click on malicious links in the video descriptions or comments. This compromises users' devices and promotes a culture of theft. Here is an example.\nUpon accessing the link, a separate post on YouTube opens, revealing the download link for the fake installer.\nIn the following example, it leads to a download of the file from the Mediafire file hosting site:\nIn another case, the threat was uploaded to another file-hosting site called Mega.nz.\nIt's clear that the threat utilizes known file hosting services as another layer to obscure its download further and evade detection.\nIn the cases we will discuss in this blog, we observed that these threats are often distributed as fake installers or cracked software, which victims inadvertently encounter while searching for them on search engines.\nIn the sample below, specific keywords trigger search results for these entries.\nThe third item in the search results (refer to screenshot above) comes from OpenSea (an NFT marketplace), which is unusual because it hosted a downloadable file. The entry contains a shortened link that redirects to the actual link. One assumption is that they use shortened links to prevent scraping sites from accessing the download link.\nThe following link will prompt you for the actual download link and the zip file's password. Password-protecting the files can help prevent sandbox analysis of the initial file upon arrival, which can be a quick win for an adversary.\nThe fourth and last entry in the search results (refer to the search results screenshot above) came from SoundCloud, a music-sharing platform that hosted the download link with a corresponding description. In this case, the download link was shortened using Twitter.\nThe same user also posted additional entries that include means to download a specific file.\nContent from another entry made by the same user.\nSimilar to the first case, another site displays the download link and password.\nIn one of our download links, we discovered evidence of other entries they are attempting to fake, as shown in VirusTotal (VT).\nInfection analysis as seen by Managed XDR (post download)\nIn the next section, we will discuss instances where the download was successful and the content was executed. This case sample highlights the activities observed on the host.\nCase 1\nOne observation about the unpacked file is that its size is 900 MB. This large file size helps defense evasion and allows it to bypass sandbox analysis to appear more legitimate as an installer. Moreover, it is restricted from submission in VT.\nThe infection sequence is triggered upon executing the .exe file contained within the zip file.\nA threat has been detected involving the execution of batch files. The content of the batch file was sourced and, while different from the Managed XDR case, is still functionally similar.\nThe batch file contains obfuscated entries.\nThe first cleanup involves removing garbage entries.\nThe next step is to replace the variables, resulting in a clearer script.\nAccording to the batch file, it builds the AutoIt script by combining the multiple created files and executes it. Upon execution, we observed that it dropped several additional files.\nProcesses may be injected with its code, and a new legitimate binary is sometimes introduced for process injection.\nCollecting and preparing sensitive data from browser environments for credential access was completed through a copy file operation.\nThe process introduced by threat is also seen to establish connections to multiple command and control (C&C) addresses.\nBesides accessing its C&C, our investigation observed the threat committing a series of queries related to Domain Generation Algorithm (DGA) domains.\nCase 2\nIn this second case, the infection started when a user downloaded a compressed file from a known file hosting site. Once downloaded, the user unpacks the file, which would require a password, and executes the installer. Upon execution, it proceeds to do a series of suspicious events, such as spawning a legitimate process and injecting its code into it. The threat also introduces a known scripting tool, AutoIt, to further obfuscate its execution, and later, it connects to its C&C to download and execute additional malware, typically different variants of infostealer.\nA snippet of the content of the zip file shows that, at a quick glance, it is just a standard application installer.\nSetup.exe is a version of rustdesk.exe, an open-source remote desktop access software identified on VirusTotal.\nThe zip file contains a trojanized file for rustdesk.exe, where one of the DLLs is tampered with. For this specific sample, the tampered DLL that was loaded by Setup.exe was flutter_gpu_texture_renderer_plugin.dll.\nWhen the file is executed, it displays an error but is already running in the background.\nIn the background, the following events have already taken place.\nInjecting malicious code into legitimate binaries, such as more.com, StrCmp.exe, SearchIndexer.exe, and explorer.exe, to evade detection by security defenses.\nIt drops additional files that are information stealers or malware from a different family.\nCreates autorun registry entry and scheduled tasks to ensure ongoing persistence.\nInjected processes were later observed, which initiated C&C communication.\nBundle of Stealers/Loaders\nThis time, it's not just a single info stealer but an army of recent noisy ones. This is not new, as it was also observed before with [raccoon stealers](https://threatpost.com/raccoon-stealer-google-seo/168301/).\nObserved stealers in the cases:\n- LUMMASTEALER\n- PRIVATELOADER\n- MARSSTEALER\n- AMADEY\n- PENGUISH\n- VIDAR\nRecap of the different methods of defense evasion observed in the case:\n- Utilization of large file size – a means to bypass sandbox capabilities\n- A password-protected zip file hinders content scanning and can complicate investigations if the password is unavailable.\n- The files are uploaded to known media-sharing sites, which most antivirus programs would only detect if the exact link is discovered before the download.\n- In some cases, download links are shortened, preventing scraping from sites.\n- The operation uses legitimate files and employs DLL sideloading or process injection to execute its payload.\nHow Managed XDR helps in the case of an info-stealer infection from fake installers\nDefense-in-depth is an important strategy that organizations use to protect their environments. In situations where a threat might have evaded some of these defense layers, Managed XDR can detect these incidents in real time. It offers the necessary analysis and actions to effectively contain the threat.\n- Threat hunting and human analyst augmented alerting - Some activities may not be captured by alerts or could generate low-severity alerts, which Trend Vision One users might overlook. Threat hunting proactively searches for known tactics, techniques, and procedures (TTPs) or emerging threats, ensuring that alerts are issued. Additionally, Managed Detection and Response (MDR) analysts can determine whether certain detections require further attention from the customer, reducing the burden on Trend Vision One users to check every alert.\n- Understanding the context of the alert – When a threat activity generates a detection, further correlation is necessary to provide context and capture the complete narrative of the events. Upon linking our findings to the initial alert, it becomes evident that most of the findings in the draft are not included in a single alert or detection. Additionally, some instances lack any related detection and were only connected through further investigation using the search application. As illustrated in the case findings shared earlier, these insights are obtained through the MXDR analyst's deeper investigation of the initial triggers, which may include threat hunting or alerts generated from a workbench.\n- Implementing response actions – As the fake installer infection progresses, MXDR analysts can initiate response actions to contain the threat on behalf of the customer. In the case we are dealing with, we have isolated the affected machines to prevent further spread. Indicators of Compromise (IOCs) have been added to the Suspicions Objects (SO) list to block any additional execution, and the suspicious files have been submitted to the analysis team for accurate detection.\nConclusion\nThreat actors continue to use social engineering tactics to target its victims and apply different methods to avoid security defenses, including: DLL sideloading, using large installer files, password-protected ZIP files, process injection into legitimate processes, connections to legitimate websites, and creating copies of files and renaming them to appear benign.\nIt is important to stay updated on current threats and to remain vigilant regarding detection and alert systems. Visibility is important because solely relying on detection can result in many malicious activities going unnoticed. Organizations should consider the following to stay ahead of these threats:\n- Implement a multi-layered defense approach for in-depth defense.\n- Provide user education.\n- Establish an incident response plan.\n- Engage in threat hunting.\n- Use a Managed Security Service Provider (MSSP).\nOrganizations can take advantage of [Trend Vision One™ – Endpoint Security](https://www.trendmicro.com/fr_fr/business/products/endpoint-security.html) for prevention, detection, and response for user endpoints, servers, cloud workloads, and data centers.\nManaged XDR offers a 24/7 managed detection and response (MDR) for email, endpoint, server, cloud workloads, and networks from our world-class MDR team\nTrend Vision One Threat Intelligence\nTo stay ahead of evolving threats, Trend Micro customers can also access a range of Intelligence Reports and Threat Insights within [Trend Vision One](https://www.trendmicro.com/fr_fr/business/products/one-platform.html). Threat Insights helps customers stay ahead of cyber threats before they happen and be better prepared for emerging threats. It offers comprehensive information on threat actors, their malicious activities, and the techniques they use. By leveraging this intelligence, customers can take proactive steps to protect their environments, mitigate risks, and respond effectively to threats.\nTrend Vision One Intelligence Reports App [IOC Sweeping]\n- How Cracks and Installers Bring Malware to Your Device\nTrend Vision One Threat Insights App\n- Emerging Threats:\n[How Cracks and Installers Bring Malware to Your Device](https://portal.xdr.trendmicro.com/index.html#/app/ti/intelligence_insights?name=How%20Cracks%20and%20Installers%20Bring%20Malware%20to%20Your%20Device)\nHunting Queries\nTrend Vision One Search App\nTrend Vision One customers can use the Search App to match or hunt the malicious indicators mentioned in this blog post with data in their environment.\nPotential autoit script construction\nparentCmd:(\"*.exe\") AND processCmd:(\"*/c move*.cmd*&*.cmd\") AND objectCmd:(\"*/c copy /b ..\\*+ ..\\*\")\nMore hunting queries are available for Trend Vision One customers with [Threat Insights Entitlement enabled](https://www.trendmicro.com/fr_fr/business/products/one-platform/threat-insights.html).\nIndicators of Compromise (IoC)\nDownload the full list of IOCs [here](https://documents.trendmicro.com/assets/txt/Fakeinstallers-IOCswCQX6fX.txt).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Social Issue->discrimination",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.gendigital.com/blog/news/innovation/lumma-stealer-github",
+      "https://threatpost.com/raccoon-stealer-google-seo/168301/",
+      "https://www.threatpost.com/raccoon-stealer-google-seo/168301/",
+      "https://gendigital.com/blog/news/innovation/lumma-stealer-github",
+      "https://threatpost.com/raccoon-stealer-google-seo/168301"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "YouTube",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T12:08:00.664+02:00",
+    "updated": "2025-01-10T12:08:00.664+02:00"
+  },
+  {
+    "uuid": "ffaf1c05719d772ac716b8b9388531d05ad974ef",
+    "url": "https://bnnbreaking.com/breaking-news/agriculture/planting-hope-restoring-uks-hedgerows-with-community-spirit-and-ecological-stewardshi",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Shivani Chauhan",
+    "published": "2024-02-16T04:58:00Z",
+    "title": "Planting Hope: Restoring UK's Hedgerows with Community Spirit and Ecological Stewardship",
+    "text": "On a crisp morning in the Blackdown Hills, a heartening scene unfolds. A diverse group of community volunteers and eager students from a local primary school are busy at work, their hands deep in the soil, planting the seeds of change. They are part of a growing movement aimed at reversing a concerning trend in the UK – the significant loss of hedgerows. Over the past five decades, the country has witnessed the disappearance of more than 118,000 miles of these vital green corridors, a loss that has had profound implications for wildlife and biodiversity. Today, they plant not just trees but hope, a vivid testament to community spirit and environmental stewardship.\nPlanting Seeds of Change\nThe Blackdown Hills are alive with the sound of shovels and laughter as volunteers and students work side by side, each tree planted a step towards a greener future. Their efforts focus on a variety of native species, including hawthorn, blackthorn, field maple, guelder rose, and hazel. These species are chosen not just for their resilience but for their ecological value, providing food and shelter to a myriad of wildlife species. On the other side of the green corridor, another team is dedicated to the meticulous task of cutting and laying an old hedge, breathing new life into what was once neglected. This dual approach not only aids in habitat restoration but also serves as a living classroom for the students, offering hands-on lessons in ecology and conservation.\nA Nationwide Awakening\nThis initiative in the Blackdown Hills is but a microcosm of a larger, nationwide awakening to the importance of hedgerows. For years, these vital ecosystems were removed to make way for agricultural expansion, a practice that has had dire consequences for the UK's wildlife. However, with government incentives now encouraging farmers and landowners to restore and maintain hedgerows, the tide is beginning to turn. These incentives recognize the multifaceted role hedgerows play, not only in supporting biodiversity but also in preventing floods, storing carbon, and stabilizing topsoil. It's a recognition that these green corridors are not merely landscape features but are crucial in the fight against climate change and biodiversity loss.\nHope for the Future\nAs the day draws to a close in the Blackdown Hills, the volunteers and students step back to admire their work. Rows of young trees stand testament to a community's commitment to environmental preservation. Yet, the significance of their efforts extends far beyond these hills. It's a signal that the tide may be turning in the battle to preserve the UK's natural heritage. With each tree planted, they're not only restoring lost habitats but are also fostering a deeper connection between people and the natural world. This initiative, fueled by community spirit and a shared vision for a greener future, offers a beacon of hope. It's a reminder that, together, we can reverse the trend of environmental degradation and leave a lasting legacy of biodiversity and resilience for generations to come.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "community spirit",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "uk",
+          "sentiment": "none"
+        },
+        {
+          "name": "blackdown hills",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-16T09:04:05.294+02:00",
+    "updated": "2024-02-16T09:04:05.294+02:00"
+  },
+  {
+    "uuid": "72aa74d5c727d14294006331d9d7f2c1ecd93f2c",
+    "url": "https://finance.sina.cn/hkstock/gsxw/2025-08-14/detail-infkxuaa2335338.d.html?vt=4&cid=76549&node_id=76549",
+    "ord_in_thread": 0,
+    "author": "sina_mobile",
+    "published": "2025-08-14T08:02:53Z",
+    "title": "英伟达火速否认！富邦指下一代GPU Rubin或因重新设计延期_手机新浪网",
+    "text": "英伟达火速否认！富邦指下一代GPU Rubin或因重新设计延期\n中国台湾省金融集团富邦金控在最新研报中表示，英伟达;)(NVDA.US)新一代图形处理器Rubin在台积电;)(TSM.US)的生产进程可能因芯片重新设计而推迟。\n富邦分析师Sherman Shang在一份研究报告中表示：“我们认为Rubin芯片极有可能面临延期。虽然第一版设计已于6月底完成流片，但英伟达目前正对芯片进行重新设计，以更好地匹配AMD;)(AMD.US)即将推出的MI450系列产品。”\nShang进一步分析称：“根据最新进度，重新设计的芯片预计将在9月下旬或10月完成流片。基于这一时间节点推算，2026年Rubin芯片的出货量将较为有限。”在半导体制造领域，流片指的是集成电路设计完成验证后交付晶圆厂生产的最终阶段。\n对此，英伟达官方予以否认。公司发言人称：“该报道内容不实，Rubin项目仍按原定计划推进。”\n此前多方消息显示，Rubin芯片原计划于2025年末投入量产，2026年初正式上市。\nNomad Semi分析师Moore Morris在社交平台X上透露，Rubin GPU将接棒目前正处于产能爬坡阶段的Blackwell架构。数据显示，Blackwell芯片在2025年第一季度的出货量达75万片，第二季度增长至120万片，预计第三、四季度将分别达到150万和160万片。\nMorris同时指出，目前AMD和博通;)(AVGO.US)是台积电CoWoS(晶圆基底芯片)封装技术增长最快的客户。2025年英伟达仍占据51.4%的产能主导地位，博通和AMD分别占16.2%和7.7%。但到2026年，博通和AMD的产能占比预计将分别提升至17.4%和9.2%，而英伟达份额将微降至50.1%。\n责任编辑：于健 SF069",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific research",
+      "Science and Technology->biomedical science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_my",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T11:02:53.934+03:00",
+    "updated": "2025-08-15T11:05:22.000+03:00"
+  },
+  {
+    "uuid": "19e1a2a0b7e796d7c61dd5d5d71fa6dce1abcab6",
+    "url": "https://www.nola.com/opinions/politics-baton-rouge-sharon-weston-broome-ted-james-democrats-republicans/article_1c266eaa-9244-11ef-8e1d-a7070a1f1379.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "FAIMON A. ROBERTS III | Staff columnist",
+    "published": "2024-10-24T20:45:00Z",
+    "title": "Faimon Roberts: Sharon Weston Broome's ad is sign of the depths of her desperation",
+    "text": "Close Mayor-President Sharon Weston Broome takes notes while listening to Ted James answer a question during the mayoral debate at Manship Theatre on Wednesday, October 2, 2024.\nJavier Gallegos",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.theadvocate.com/baton_rouge/secret-recording-ignites-clash-in-baton-rouge-mayoral-race/article_00428818-9186-11ef-889f-a389e05e4190.html",
+      "https://theadvocate.com/baton_rouge/secret-recording-ignites-clash-in-baton-rouge-mayoral-race/article_00428818-9186-11ef-889f-a389e05e4190.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Faimon Roberts",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Patrick Sloan-Turner",
+          "sentiment": "none"
+        },
+        {
+          "name": "M.E. Cormier",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ted James",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:00:55.904+03:00",
+    "updated": "2024-10-25T04:51:11.645+03:00"
+  },
+  {
+    "uuid": "a6037d0ae0f8d9e8a1eef35ffdf1a1ca671452c9",
+    "url": "https://www.androidauthority.com/deepseek-janus-pro-vs-competition-3521619",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dhruv Bhutani",
+    "published": "2025-01-30T14:07:00Z",
+    "title": "I tested out DeepSeek's image generator and I'm not impressed",
+    "text": "Affiliate links on Android Authority may earn us a commission.\nLearn more.\nI tested out DeepSeek's image generator and I'm not impressed\nPublished on9 hours ago\nWhile\nDeepSeek mania continues to take over the AI world, the Chinese AI company quickly followed up with its first image generation model. Dubbed Janus Pro, it is DeepSeek’s take on a large language model that unifies multimodal understanding and image generation, competing with existing models like Stable Diffusion, Google’s Imagen 3, and OpenAI’s DALL-E 3.\nDeepSeek is a threat to established players, but can Janus Pro match up?\nDeepSeek’s claim to fame is its low cost of training and access while retaining the performance and accuracy offered by OpenAI. So, a model that can match or exceed the capabilities of the best AI image generators right now would be a serious threat to efforts made by Adobe and other well-established players.\nWith AI-generated content becoming increasingly mainstream, image models are expected to offer both creative flexibility and photorealistic accuracy. But does Janus Pro deliver on those expectations?\nLaying down the testing framework\nI decided to test Janus Pro against five of the leading image generation models. This includes Stable Diffusion, OpenAI’s Dall-E 3, Google’s Imagen 3, Meta AI, and Adobe Firefly.\nAll six image generation models were given the same prompts, and to keep a level playing field, I picked out the first response instead of cherry-picking the best results. It’s not the most scientific method of testing, but I wanted to approach the comparison as an ordinary user.\nMost users simply input a prompt and expect a near-perfect result on the first try. That’s why I prioritized testing with immediate, unfiltered outputs to simulate the average user experience.\nHow well can AI generate photorealistic images?\nFor my first test, I wanted to see how each image generation model would approach creating a photorealistic image. I tested for a specific scenario, lighting, and how well it could recreate an animal. Here’s the prompt I used: A photorealistic image of a fat orange cat chasing a yarn of wool in a sunny garden.\nPhotorealistic images are particularly challenging for AI models because they require precise attention to light sources, texture details, and spatial depth. I focused on how realistically the models rendered the cat’s fur, the play of sunlight on the garden, and whether the yarn appeared dynamic and tactile.\nA quick glance is enough to realize that Janus Pro has more in common with the first release of the Dall E text-to-image model than anything more recent. The result is fairly low resolution and definitely not very photorealistic. Stable Diffusion, on the other hand, gets very close to the photorealistic prompt, though the oversized tail gives away its AI roots.\nRanking in third place would be Adobe’s Firefly. You could almost be fooled that the image was a highly edited photograph. However, the face gives it away. Finally, Imagen 3, Dall E, and Meta AI do a decent job, but I wouldn’t really call any of those images photorealistic.\nTesting AI’s ability to capture diversity and detail\nFor my second test, I decided to raise the difficulty level. AI models usually struggle with recreating natural faces, hands, and a diverse group of people. Adding very specific instructions for the setting and lighting conditions creates a fairly tough test for any current image generation model. This time, my prompt was more detailed, as AI models benefit from granular instructions: A group selfie of multicultural college students eating lunch outside a ski resort, with detailed faces — male, female, diverse — during winter at noon, under a partly cloudy blue sky.\nThe challenges here were numerous, from accurately capturing varied skin tones to rendering realistic facial expressions and ensuring hands didn’t look distorted.\nOnce again, Janus Pro falls far behind the other image generation models. It’s really no competition at all. Despite the uncanny AI-ness visible in all the shots, Stable Diffusion, Adobe Firefly, and Imagen 3 put up a tough challenge here, so much so that I put it up for debate within the Android Authority Slack channel. Personally, I’d lean towards Imagen 3’s results here.\nA test of creativity\nFor my final test, I wanted to see how the image generation models would perform with more creative pursuits. I asked them to create a new cartoon character inspired by classic Disney characters. Here’s the prompt I used: A cartoon character based on classic Disney characters, complete with big eyes, and fun, fantastical characteristics.\nWhat makes Disney-inspired characters iconic are their expressive eyes, whimsical design elements, and playful proportions. I was looking for a design that captured that “magic” without feeling derivative.\nIf Hieronymus Bosch decided to paint Disney characters, he’d probably end up with something like Janus Pro’s output. Stable Diffusion, on the other hand, straight-up outputs a younger version of Elsa from Frozen. It did nail the assignment, though, so I’d call Stable Diffusion the winner.\nIf Hieronymus Bosch decided to paint Disney characters, he’d probably end up with something like Janus Pro’s output.\nThe other image generation models didn’t quite nail the Disney aesthetic, and I’d say Meta AI’s results were closer to Pixar. Regardless, all models barring Janus could serve as a starting point when brainstorming ideas.\nIs Janus Pro a serious contender in image generation?\nI’m not a huge fan of image-generation models in general. They lack the soul and creativity that can only come from an actual artist. However, they can be useful in rapid prototyping, generating ideas, or serving as simplistic additions to illustrate a point in a presentation.\nFor example, marketing professionals often turn to these tools for social media posts or quick visual mockups, while educators may use them for creative lesson materials. Game designers might generate fantastical environments or character ideas as a foundation for artists to refine. But can these models ever truly replace a human artist’s imagination? That remains a point of debate.\nJanus Pro signals Deepseek’s entry into image generation, but it has a long way to go before standing toe-to-toe with industry leaders.\nJanus Pro may mark DeepSeek’s entry into the image generation space, but it clearly has a long way to go before standing toe-to-toe with established models like Stable Diffusion, Adobe Firefly, and Imagen 3.\nWhile it struggled with photorealistic imagery, complex facial compositions, and creative prompts, its existence shows that competition in AI development is only intensifying. As the technology evolves, it’s exciting to imagine where image-generation models will head next — and whether Janus Pro can eventually become a serious contender.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->trend"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "a6037d0ae0f8d9e8a1eef35ffdf1a1ca671452c9",
+      "first_syndicated": true
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T00:54:28.687+02:00",
+    "updated": "2025-01-31T00:54:28.687+02:00"
+  },
+  {
+    "uuid": "83b4eeb6b5e8f48c04b1ed769956ea458fa0a069",
+    "url": "https://abcnews.go.com/Politics/wireStory/deutsche-bank-pledges-5-million-combat-human-trafficking-105978979",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ABC News",
+    "published": "2023-12-29T04:53:00Z",
+    "title": "Deutsche Bank pledges nearly $5 million to help combat human trafficking in New Mexico",
+    "text": "Deutsche Bank pledges nearly $5 million to help combat human trafficking in New Mexico\nDeutsche Bank has pledged nearly $5 million in funding to help combat human trafficking in New Mexico\nSANTA FE, N.M. -- Deutsche Bank pledged nearly $5 million in funding Thursday to help combat human trafficking in New Mexico, the bank announced in a joint statement with Attorney General Raúl Torrez.\nThe announcement comes seven months after Deutsche Bank settled a U.S. lawsuit for $75 million that claimed the German lender should have seen evidence that the late Jeffrey Epstein engaged in sex trafficking when he was a client.\nTorrez's office has been investigating several financial service companies and their role in what he says is a failure to identify sexual abuse and trafficking of underage girls at Epstein's ranch in Santa Fe County, according to the statement.\n“I am pleased that Deutsche Bank recognizes its ongoing responsibility to help us combat this problem,” Torrez, a Democrat, said in the statement. “We appreciate the steps they have taken since terminating Jeffrey Epstein as a client in 2018 to strengthen their oversight capabilities and intend to use their pledge to support our ongoing efforts to apprehend traffickers and expand our victim services.”\nA spokesperson for Deutsche Bank said the lender is pleased to support Torrez “in this important effort, which reflects our industry's shared responsibility to play an active role in safeguarding the financial system.”\nA woman who alleged she was abused by Epstein had filed a lawsuit in New York against the bank and sought class-action status. She asserted the bank knowingly benefited from Epstein's sex trafficking and “chose profit over following the law” to earn millions of dollars from the businessman. The settlement was reached in May.\nIn 2020, the bank acknowledged its mistake in taking on Epstein as a client. Epstein killed himself in prison in August 2019 while facing federal criminal charges of sexually abusing dozens of underage girls.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Economy, Business and Finance",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "raúl torrez",
+          "sentiment": "none"
+        },
+        {
+          "name": "torrez",
+          "sentiment": "none"
+        },
+        {
+          "name": "jeffrey epstein",
+          "sentiment": "none"
+        },
+        {
+          "name": "epstein",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "deutsche bank",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mexico deutsche bank",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new",
+          "sentiment": "none"
+        },
+        {
+          "name": "santa fe county",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "new mexico",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T10:46:40.558+02:00",
+    "updated": "2023-12-29T10:46:40.558+02:00"
+  },
+  {
+    "uuid": "a5163ade9a140ea2bfa9fba8b01921c76b76372a",
+    "url": "https://www.wpr.org/news/u-s-supreme-court-halts-enforcement-of-epas-good-neighbor-plan-including-in-wisconsin",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Danielle Kaeding",
+    "published": "2024-06-27T22:03:00Z",
+    "title": "U.S. Supreme Court halts enforcement of EPA’s ‘good neighbor’ plan, including in Wisconsin",
+    "text": "Federal regulations limiting air pollution that crosses state lines won’t be enforced in Wisconsin after a U.S. Supreme Court decision placed the rule on hold in 11 states Thursday.\nThe Environmental Protection Agency issued its “good neighbor” plan last year, which aims to reduce smog pollution from power plants and industrial facilities in 23 states.\nThe plan aimed to cut back on nitrogen oxide emissions. Those emissions interact with heat, sunlight and other pollutants to form smog or ozone pollution, which can worsen respiratory issues like emphysema or lung cancer. However, several states challenged the EPA’s rule, including Ohio, Indiana and West Virginia.\nSupreme Court justices ruled 5-4 against the Biden Administration’s stance that the plan would save thousands of lives and prevent more than a million cases of asthma attacks. Clean Wisconsin intervened in the case to defend the EPA’s rule. Katie Nekola, the group’s general counsel, said she’s disappointed with the decision.\n“This ruling puts on hold an important EPA measure that protects human health and especially for people who are vulnerable, people who have respiratory problems or heart conditions,” Nekola said. “It’s so important that we limit ozone in our atmosphere. Most of the ozone in Wisconsin – it’s coming from other states. That’s why we have a ‘good neighbor’ rule.”\nThe EPA said the rule would cut back on pollution that significantly contributes to problems faced by states like Wisconsin, which struggle to meet national air quality standards for ground-level ozone that were updated in 2015. Wisconsin contends with ozone pollution from outside states like Illinois, Indiana and Texas among others.\nSeparate legal challenges have already placed the EPA’s rule on hold in 12 states. Federal regulators say nitrogen oxide emissions from power plants decreased 18 percent last year in the 10 states that have implemented the plan, including Wisconsin.\n“So staying this rule or blocking it, as the Court has done today, will reverse those gains,” Nekola said. “Because then polluters, again, will be allowed to emit more than their fair share of pollution, which will affect Wisconsin.”\nA spokesperson for the Wisconsin Department of Natural Resources said the agency is reviewing the decision.\nHow is ozone pollution from other states affecting Wisconsin? The DNR previously told WPR that ozone-causing pollutants are transported over Lake Michigan from outside areas, causing shoreline counties in southeastern Wisconsin to have higher levels of ozone pollution. The agency said Wisconsin sources contribute no more than 10 percent to elevated ozone levels while the rest comes from other states or outside sources.\nLast fall, the DNR said in a letter to the EPA that roughly half the states originally included under the plan currently have no obligation to address ozone pollution, including those that contribute to Wisconsin.\n“This situation exacerbates Wisconsin’s extraordinary challenge to attain the standard by the (Clean Air Act’s) required deadlines,” wrote Gail Good, the DNR’s air management director.\nUnder the plan, the EPA would have required industrial facilities to take steps to control their nitrogen oxide emissions beginning in 2026.\nGood said action is needed to address pollution from other sources. She noted Wisconsin will be in “serious” nonattainment of the 2015 ozone standards this year due primarily to a “lack of effective controls on out-of-state emissions.”\n“When that occurs, the adverse impacts of this change, both on public health and the economy, will be borne entirely by those who live in those areas, and by the business community that employs them,” Good wrote.\nThe state’s largest business group Wisconsin Manufacturers and Commerce has opposed the EPA’s “good neighbor” plan and urged the EPA to provide an exemption for Wisconsin. Craig Summerfield, the group’s environmental and energy policy director, expressed concerns in June of 2022 about the feasibility and cost of pollution controls that may be required to meet standards under the plan.\n“EPA has proposed extremely burdensome regulations that will unnecessarily hurt Wisconsin manufacturers,” Summerfield wrote in comments to the EPA.\nAt the time, Summerfield said EPA modeling on Wisconsin emissions was flawed. He said the agency estimated eight sources in Wisconsin would be required to reduce nitrogen oxide emissions under the plan, including six pulp or paper mills and two glass product manufacturing facilities.\n“However, because the EPA is relying on 2019 data, its estimates are woefully out of date,” Summerfield wrote, noting at least one mill had idled in 2020 and not operated regularly since.\nWisconsin Manufacturers and Commerce, the Wisconsin Utilities Association and the Wisconsin Paper Council did not respond to requests for comment on the decision Thursday.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.epa.gov/system/files/documents/2023-07/2023.07.17%20-%20OH%20WVa%20and%20IN%20v%20EPA%20-%20DC%20Cir%2023-1183.pdf",
+      "https://www.epa.gov/newsreleases/epa-announces-final-good-neighbor-plan-cut-harmful-smog-protecting-health-millions",
+      "https://www.supremecourt.gov/opinions/23pdf/23a349_0813.pdf",
+      "https://www.epa.gov/Cross-State-Air-Pollution/good-neighbor-plan-results",
+      "https://www.epa.gov/Cross-State-Air-Pollution/good-neighbor-plan-2015-ozone-naaqs",
+      "https://supremecourt.gov/opinions/23pdf/23a349_0813.pdf",
+      "https://epa.gov/newsreleases/epa-announces-final-good-neighbor-plan-cut-harmful-smog-protecting-health-millions",
+      "https://epa.gov/Cross-State-Air-Pollution/good-neighbor-plan-results",
+      "https://epa.gov/Cross-State-Air-Pollution/good-neighbor-plan-2015-ozone-naaqs",
+      "https://epa.gov/system/files/documents/2023-07/2023.07.17%20-%20OH%20WVa%20and%20IN%20v%20EPA%20-%20DC%20Cir%2023-1183.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "katie nekola",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "epa",
+          "sentiment": "negative"
+        },
+        {
+          "name": "u.s. supreme court",
+          "sentiment": "negative"
+        },
+        {
+          "name": "supreme court",
+          "sentiment": "none"
+        },
+        {
+          "name": "environmental protection agency",
+          "sentiment": "none"
+        },
+        {
+          "name": "biden administration",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "wisconsin",
+          "sentiment": "none"
+        },
+        {
+          "name": "west virginia",
+          "sentiment": "none"
+        },
+        {
+          "name": "indiana",
+          "sentiment": "none"
+        },
+        {
+          "name": "ohio",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-28T01:55:44.013+03:00",
+    "updated": "2024-06-28T01:55:44.013+03:00"
+  },
+  {
+    "uuid": "b1b3e70f6529883510c9be67cdc1ec9a163cde97",
+    "url": "https://forbetterscience.com/2025/01/10/schneider-shorts-10-01-2025-science-needs-to-be-pure-free-of-politics-and-transnational",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Leonid Schneider",
+    "published": "2025-01-10T06:00:00Z",
+    "title": "Schneider Shorts 10.01.2025 - Science needs to be pure, free of politics and transnational",
+    "text": "Schneider Shorts of 10 January 2024 – the most influential person in Polish medicine, breaking bad news to Germany’s star oncologist, with Egyptian cheaters, artistic achievements, a COPE investigation, coffee and mayonnaise, and finally, The Guardian view on dog anti-aging.\nTable of Discontent\nScience Elites\n[The Art of Breaking Bad News Well](#charite)– German celebrity oncologist Jalid Sehouli gifted by his Chinese mentee[Unusual peaks](#norway)– an Egyptian cheater drills for oil in Norway\nRetraction Watchdogging\n[Scientific and artistic achievements](#bilal)– Bilal’s colleague Grzegorz Boczkaj loses another paper[Science needs to be pure, free of politics and transnational](#banach)– the dirty secret of Maciej Banach’s incredible output(#xavier)– first retraction for cartoonishly bad fraudster JR Xavier[Stages of cell cycle, cell division and sterilization](#mdpi)– Egyptian artist suffers retraction even at MDPI\nScholarly Publishing\n[Handled according to our policies](#cope)– COPE in favour of permanently expressed concerns\nScience Breakthroughs\n[The more human the animal gets](#dogs)– The Guardian view on dog anti-aging[Second cup may flip the odds](#coffee)– coffee and tea either prevent or cause cancer[Cheese and Mayonnaise](#cheese)– what to eat when in Iran\nScience Elites\nThe Art of Breaking Bad News Well\nJalid Sehouli is Medical Director of the Department of Gynaecology at Charité Berlin. On his personal website, he is described as “one of the leading cancer specialists in the world“.\nHe published hundreds of research papers and book chapters, some fiction books about Morocco, and medical guideline book “The Art of Breaking Bad News Well”, issued in English and in German. His totally unbiased Wikipedia page informs us:\nCancer at Charité\nNew season of the popular German TV series, ” Charité”, this time set in the early 21st century! Will Jürgen ever become professor? Will Bernd ever allow science to self-correct? Will Christoph ever catch his mechanical pursuer?\nAs behoves for a Charite professor, Sehouli was celebrated on public TV. In autumn 2024, a quarter an hour long program dedicated to him alone was titled: “Prof. Jalid Sehouli | Cancer specialist | Authentic, human, honest“.\nI now have to break some bad news about Sehouli’s intensive scientific international activities. A couple of his papers with Chinese colleagues were found to contain manipulated data.\nCoauthor on both is Sehouli’s department colleague and fellow Charité professor of gynaecology, Elena Loana Braicu. Note that in one case, her name was written wrong:\nPengming Sun, Lifang Xue , Yiyi Song , Xiaodan Mao , Lili Chen , Binhua Dong , Elena Loana Braicu , Jalid Sehouli Regulation of matriptase and HAI-1 system, a novel therapeutic target in human endometrial cancer cells Oncotarget (2018) doi: 10.18632/oncotarget.23913\nAnd a more recent Chinese collaboration by Sehouli and Braicu:\nPingping Su , Xiaodan Mao , Jincheng Ma , Lixiang Huang , Lirui Yu , Shuting Tang , Mingzhi Zhuang , Zhonglei Lu , Kelvin Stefan Osafo , Yuan Ren , Xinrui Wang , Xite Lin , Leyi Huang , Xiaoli Huang , Elena Ioana Braicu , Jalid Sehouli , Pengming Sun ERRα promotes glycolytic metabolism and targets the NLRP3/caspase-1/GSDMD pathway to regulate pyroptosis in endometrial cancer Journal of experimental & clinical cancer research : CR (2023) doi: 10.1186/s13046-023-02834-7\nOf course it could be entirely possible that the German medicine superstar Sehouli never agreed to be author on these Chinese papers. Yet Charite’s publication database lists not just these two, but four more of his papers with Pengming Sun, now vice-president of Fujian Maternity and Child Health Hospital in China. The oldest paper Sun et al 2006 is from the time when Sun was training for a doctorate degree at Charite, under Sehouli’s supervision (2003-2006).\nWell, now Sun paid his teacher back, and also Braicu profited. Sehouli and Braicu didn’t reply to my email, and neither did Charite’s committee for good scientific practice. To be fair, after that am not very popular there, certainly not after this:\nA scientist of integrity and beyond reproach\n“The Investigative Committee notes that the infractions to normal scientific conduct surveyed in this report were blatant and repeated. Dr. [XY] should be dealt with in a manner consistent to the flagrant nature of the misconduct and data manipulation.” 2004 Berkeley report, illegal in Germany\nAnyway, there is also this old PubPeer thread for a Sehouli-coauthored paper:\nIrina Nazarenko, Marcel Jenny , Jana Keil , Cornelia Gieseler , Karen Weisshaupt , Jalid Sehouli , Stefan Legewie , Lena Herbst , Wilko Weichert , Silvia Darb-Esfahani , Manfred Dietel , Reinhold Schäfer , Florian Ueberall , Christine Sers Atypical protein kinase C zeta exhibits a proapoptotic function in ovarian cancer Molecular Cancer Research (2010) doi: 10.1158/1541-7786.mcr-09-0358\nMaybe we should stop evaluating doctors based on how many papers they managed to place their name on. Because look what happens when bad things are found. Suddenly it was never their papers at all!\nUnusual peaks\nBad science from Norway which even spread to an elite institute in Germany. It stems form the lab of Svein Sunde of Norwegian University of Science and Technology (NTNU) in Trondheim, a place where incidentally also the papermill fraud career of Filippo Berto started and is currently being investigated (read April 2024 Shorts).\nBut the guilty party here is certainly not Berto, but likely someone who answers to the name of Alaa Faid, who since June 2022 works with the fossil fuel company Equinor.\nAlaa Y. Faid, Alejandro Oyarce Barnett, Frode Seland, Svein Sunde Optimized Nickel-Cobalt and Nickel-Iron Oxide Catalysts for the Hydrogen Evolution Reaction in Alkaline Water Electrolysis Journal of The Electrochemical Society (2019) doi: 10.1149/2.0821908jes\nHere one wodners if the study is based on any experiments, or bought off a papermill. It was published in the most toxic papermill journal Elseveir has on offer:\nAlaa Y. Faid, Lin Xie , Alejandro Oyarce Barnett , Frode Seland , Donald Kirk , Svein Sunde Effect of anion exchange ionomer content on electrode performance in AEM water electrolysis International Journal of Hydrogen Energy (2020) doi: 10.1016/j.ijhydene.2020.07.202\nReese Richardson: “Under Structural and electrochemical characterization, the authors state: “The morphology of produced catalysts was studied using Hitachi S-5500 FESEM (Krefeld, Germany).” Under Post-mortem analysis, the authors state: “The SEM analysis was conducted with a Hitachi® SU-5000 SEM […]” However, Figures 9 and 10 show images from a Hitachi SU3500. Figure 9″\nHere another paper by Faid and Sunde, this time with the collaborators of Research Center Jülich (FZ Jülich) in Germany. There are even hand-drawn spectra, which is rather impressive for an allegedly elite journal with impact factor of 18.5:\nWulyu Jiang , Alaa Y. Faid , Bruna Ferreira Gomes , Irina Galkina , Lu Xia , Carlos Manuel Silva Lobo , Morgane Desmau , Patrick Borowski , Heinrich Hartmann , Artjom Maljusch , Astrid Besmehn , Christina Roth , Svein Sunde, Werner Lehnert , Meital Shviro Composition‐Dependent Morphology, Structure, and Catalytical Performance of Nickel–Iron Layered Double Hydroxide as Highly‐Efficient and Stable Anode Catalyst in Anion Exchange Membrane Water Electrolysis Advanced Functional Materials (2022) doi: 10.1002/adfm.202203520\nNobody replied, not in Norway, not in Germany. But actually I didn’t expect a reply from FZ Jülich anyway, their scientific director and head of the 1 Billion Euro grave called Human Brain Project, Katrin Amunts once even set elite lawyers upon me.\nBrain Drain, Moscow to Düsseldorf\nKatrin Amunts is director of Human Brain Project. Back when the Berlin Wall fell, this Moscow-trained young neuroscientist from GDR found a new mentor in Western Germany: Professor Karl Zilles. It is a remarkable story of a literal brain drain.\nAnyway, an even earlier paper by Faid, from when he still was in Egypt, training with Nageh Allam in Cairo:\nAlaa Y. Faid, Nageh K. Allam Stable solar-driven water splitting by anodic ZnO nanotubular semiconducting photoanodes RSC Advances (2016) doi: 10.1039/c6ra18747a\nAllam just happens to have other fake papers on PubPeer, including a very similar Ahmed et al 2017. Elsewhere, we learn that yet another mentee of Allam was, ta-da, the mega-fraudster Ahmed Shalan!\nThe One-Man Papermill\n“No, none of my data is forged.” – Ahmed Esmail Shalan\nHere it is:\nAhmed E. Shalan, Ayat N. El-Shazly, Mohamed M. Rashad, Nageh K. Allam Tin–zinc-oxide nanocomposites (SZO) as promising electron transport layers for efficient and stable perovskite solar cells Nanoscale Advances (2019) doi: 10.1039/c9na00182d\nThe society journal issued in November 2023 an Expression of Concern, announcing that “An investigation is underway“. Over a year passed.\nRetraction Watchdogging\nScientfiic and artistic achievements\nAnother retraction for the Polish professor of Gdansk University of Technology, Grzegorz Boczkaj, who kept reassuring me he is never a papermiller, read here:\nNobelium Bilalski, a Gdansk papermiller\n“To date, he has authored over 700 peer-reviewed articles, 150 book chapters, 25 edited books, and 10 editorial-type scientific articles in various areas of Science and Engineering. Dr. Bilal has a h-index of 94 with 34 000 citations (Google Scholar).”\nYou will see that the authors’ list notably lacks Boczkaj’s faculty colleague, the papermill fraudster Muhammad Bilal, but it does feature Bilal’s long-term associate, Hafiz Iqbal. You will soon see that it’s because Bilal, who was the original corresponding author, then removed his name to act as guest editor on this paper:\nAmmara Nazir , Muhammad Imran, Farah Kanwal , Shoomaila Latif , Ayesha Javaid , Tak H. Kim , Grzegorz Boczkaj , Ashwag Shami , Hafiz Iqbal Degradation of cefadroxil drug by newly designed solar light responsive alcoholic template-based lanthanum ferrite nanoparticles Environmental Research (2023) doi: 10.1016/j.envres.2023.116241\nHere is the fresh yet undated retraction notice (highlights mine):\n“The corresponding author was contacted for comment about concerns regarding the\n[EDX]and FTIR data but was unable to provide a suitable explanation. The authors provided some original data which included an SEM image that has an EDS spot cropped from another SEM image. The EDX spectra showed inconsistencies and signs of manipulation. The authors did not provide raw FTIR data. The Editors have therefore lost confidence in the contributions of the authors and the reliability of the findings presented in this article as a whole, and are retracting it.Furthermore, unauthorised authorship changes were made when the revised version of this paper was submitted, following suggestions for relatively minor revisions from the reviewers and Guest Editor, with authors Tak H. Kim, Grzegorz Boczkaj and Ashwag Shami being added to the paper. The original corresponding author also decided to remove himself at this stage. No satisfactory explanation was given for this change, nor was it approved by the editor. This authorship change breaches the policies of the journal and as a result, the editors no longer have confidence in this paper and are retracting it. “\nThe retraction happened because Mu Yang aka Dysdera arabisenen exposed this journal as a papermill fraud factory, so Elsevier had to do at least something. Read here:\nIssues of global relevance\n“I like ImageTwin, but seeing things with just eyes is like hand-to-hand combat….” – Mu Yang\nI invited Boczkaj to comment on his fresh retraction. He wrote this to me:\n“I was invited to make revisions of this paper by dr. Bilal, who was a primary corresponding author for this work. I was assured about the reliability of the co-authors and quality of their research. Unfortunately, I’ve didn’t inspect the raw data. Dr. Bilal finally removed he’s name from this paper.\nI regret, my open and naive cooperation. Now, I’m starting to understand the processes that were ongoing under such invitations for collaboration and with help of your articles and\n[pubpeer.com]I’m much more careful in case of any new collaborations.”\nBut worry not: papermilling will happily continue at Gdansk Polytechnic even without Bilal. Here is what their assistant professor Hussein E. Al-Hazmi (an associate of papermill fraudsters Navid Rabiee and Eder Lima) supplied his faculty colleagues with. The last author Jacek Makinia used to be Vice-Rector for Cooperation and Innovation at the Gdańsk University of Technology:\nAisha Khan Khanzada, Muhammad Rizwan, Hussein E. Al-Hazmi, Joanna Majtacz, Tonni Agustiono Kurniawan, Jacek Mąkinia Removal of Arsenic from Wastewater Using Hydrochar Prepared from Red Macroalgae: Investigating Its Adsorption Efficiency and Mechanism Water (2023) doi: 10.3390/w15213866\nOlearia ramulosa: “Parts of Fig. 1(b) […] The two SEM images include a label, ‘CPAG-UoS,’ in the lower right corner. This suggests that the images were likely captured using an SEM microscope at the Centre for Pure and Applied Geology, University of Sindh. However, none of the authors listed in the paper are affiliated with the University of Sindh, and there is no acknowledgment of this institution”.\nYou probably will be not exactly shocked to learn that all this ended on 5 December 2024 with “First-Degree Awards” by the Rector of Gdansk University of Technology for “scientfiic and artistic [sic!] achievements” to Hussein Al-Hazmi, Grzegorz Boczkaj, Jacek Mąkinia, another local questionable character Roberto Castro-Munoz, and Dariusz Fydrych, another papermiller who published with Dmitry Bokov and other fraudsters.\nAnd then there is “PLATINUM Establishing Top-Class Research Team” of a certain Mohammad Reza Saeb at Gdansk Polytechnic. That dude is a very different category of papermiller, his PubPeer record establishes him as an associate of such mega-fraudsters like Ali Zarrabi, Navid Rabiee, Milad Ashrafizadeh , Gautam Sethi, Pooyan Makvandi, Rajender Varma, Farooq Sher and Eder Lima. Anyone seen in that company is an outright fraud, no need to look closer. But here one example, by Saed and his fellow Gdansk Polytechnic professor Krzysztof Formela, in an Elsevier journal delisted by Clarivate over excessive editor fraud and papermilling:\nVahid Vatanpour, Maryam Jouyandeh , Seyed Soroush Mousavi Khadem , Shadi Paziresh , Ahmad Dehqan , Mohammad Reza Ganjali , Hiresh Moradi , Somayeh Mirsadeghi , Alireza Badiei , Muhammad Tajammal Munir , Ahmad Mohaddespour , Navid Rabiee, Sajjad Habibzadeh , Amin Hamed Mashhadzadeh, Sasan Nouranian, Krzysztof Formela, Mohammad Reza Saeb Highly antifouling polymer-nanoparticle-nanoparticle/polymer hybrid membranes The Science of the total environment (2022) doi: 10.1016/j.scitotenv.2021.152228\nSaeb deserves his own article, and he will eventually get.\nScience needs to be pure, free of politics and transnational\nNow that we speak of Poland, allow me to mention an older retraction because it affects a much, much bigger Polish fish, in fact the one of the biggest fish in the Polish academic pond. Who also befriended a papermiller.\nMeet Maciej Banach, former Undersecretary of State at the Ministry of Science and Higher Education of Poland (2010-2012), and then until 2021 President of the Polish Mother’s Memorial Hospital – Research Institute (PMMHRI) in Lodz, which is the second-biggest medical institution in the country. Banach is presently head of department at the Medical University of Lodz and adjunct professor at Johns Hopkins University in USA. Since 2024, he is also Vice-rector of the Collegium Medicum of the John Paul II Catholic University of Lublin. In 2023, he was elected by a jury as “the most influential person in Polish medicine“, and recognised as “Medman Hero of the Year 2023 for supporting women“.\nSomehow the Highly Cited Researcher befriended a Iranian papermill crook called Amirhossein Sahebkar, an eightfold victim of the Vickers Curse, also associated with Soudeh Ghafouri-Fard.\nThe Vickers Curse: secret revealed!\nHow did an editorial about insect pheromone communication get to receive 1200 irrelevant citations, almost all from papermills? Alexander Magazinov reveals The Secret of The Vickers Curse!\nBanach and Sahebkar (who for some time was even affiliated with PMMHRI in Lodz) have around 300 joint papers from 2016 till today, which constitute an integral part of Banach’s superhuman output of over 1500 publications. Here is the one which got retracted:\nAmir Abbas Momtazi-Borojeni , Mahmoud Reza Jaafari, Ali Badiee , Maciej Banach , Amirhossein Sahebkar Therapeutic effect of nanoliposomal PCSK9 vaccine in a mouse model of atherosclerosis BMC Medicine (2019) doi: 10.1186/s12916-019-1457-8\nThe retraction from 4 May 2023 went:\n“The Editor has retracted this article. After publication, concerns were raised regarding the images presented in Fig. 7. Specifically:\n- The left PHA image in Fig. 7a appears highly similar to the middle PHA image in Fig. 7b (rotated);\n- All the Medium images in Fig. 7a and b appear highly similar; the left and right images in Fig. 7b appear to be missing some features compared with the other images.\nThe authors have been able to provide the quantified data, but stated that the original images are no longer available. The Editor therefore no longer has confidence in the presented data.\nNone of the authors agrees to this retraction.”\nA later study by Banach and Sahebkar reused a western blot from that retracted paper, but it escaped all editorial action:\nAmir Abbas Momtazi-Borojeni , Mahmoud Reza Jaafari, Mohammad Afshar , Maciej Banach, Amirhossein Sahebkar PCSK9 immunization using nanoliposomes: preventive efficacy against hypercholesterolemia and atherosclerosis Archives of Medical Science (2021) doi: 10.5114/aoms/133885\nThere are more retractions for Sahebkar: one (Mirzaei et al 2018) from February 2024 in Cancer Letters for data stolen from two papers by other authors, and three retractions (Ganjali et al 2022, Jamialahmadi et al 2022 and Stamerra et al 2022) from January 2024 in Hindawi journal Oxidative Medicine and Cellular Longevity, for “systematic manipulation of the publication and peer-review process“.\nThis turmeric garbage was also retracted in October 2024, presumably after Sahebkar’s curcumin fraud was ridiculed in August 2024 Shorts:\nMilad Hashemzehi , Reihane Behnam-Rassouli , Seyed Mahdi Hassanian , Maryam Moradi-Binabaj , Reyhaneh Moradi-Marjaneh , Farzad Rahmani , Hamid Fiuji , Mahdi Jamili, Mahdi Mirahmadi , Nadia Boromand , Mehran Piran , Mohieddin Jafari , Amirhossein Sahebkar , Amir Avan , Majid Khazaei Phytosomal‐curcumin antagonizes cell growth and migration, induced by thrombin through AMP‐Kinase in breast cancer Journal of Cellular Biochemistry (2018) doi: 10.1002/jcb.26796\nAnother curcumin paper by Sahebkar, so stupid that it’s funny:\nFaezeh Ghasemi , Mojtaba Shafiee , Zarrin Banikazemi , Mohammad Hossein Pourhanifeh , Hashem Khanbabaei , Amir Shamshirian , Shirin Amiri Moghadam , Reza ArefNezhad , Amirhossein Sahebkar, Amir Avan, Hamed Mirzaei Curcumin inhibits NF-kB and Wnt/β-catenin pathways in cervical cancer cells Pathology – Research and Practice (2019) doi: 10.1016/j.prp.2019.152556\nMiscoscopy images reused in 4 papers for utterly different experiments:\nMaliheh Moradzadeh , Alijan Tabarraei , Hamid Reza Sadeghnia, Ahmad Ghorbani , Ashraf Mohamadkhani , Saiedeh Erfanian , Amirhossein Sahebkar Kaempferol increases apoptosis in human acute promyelocytic leukemia cells and inhibits multidrug resistance genes Journal of Cellular Biochemistry (2018) doi: 10.1002/jcb.26391\nThis one by Sahebkar is also funny, authors quite openly and proudly admit to faking the data:\nNiloufar Rahiman , Maryam Akaberi , Amirhossein Sahebkar , Seyed Ahmad Emami , Zahra Tayarani-Najaran Protective effects of saffron and its active components against oxidative stress and apoptosis in endothelial cells Microvascular Research (2018) doi: 10.1016/j.mvr.2018.03.003\nZahra Tayarani-Najaran: “We have done western several times. The order of bands was different in pages. To show the best bands we select the sharp ones.“\nMore for that Iranian fraudster https://pubpeer.com/search?q=%22+Amirhossein+Sahebkar%22.\nBanach is merely 47 years young and continues publishing with Sahebkar even as you read this. God willing, if his collaboration with Asian papermillers progresses in the same speed, Banach will eventually have more papers to his name that all other Polish scientists combined.\nLook What the Cat Dragged In\nMeet Mohammad Taheri, PhD, a humble PhD student in Jena, Germany, and his equally unremarkable Iranian associate Dr Soudeh Ghafouri-Fard.\nI contacted Banach about his 300 paper- strong collaboration with the Iranian papermill fraudster Sahebkar, and whether he sees it as unethical or even as a danger to the national security. That was the statement I received from “Prof. Maciej Banach, MD, PhD, dr. h.c. multi, FAHA, FESC, FNLA, FASA, FRSPH”:\n“For me there is no politics in science, science needs to be pure, free of politics and transnational, therefore I collaborate with people from all over the world from US, Canada, Australia and Western Europe, to mainly those from Europe, with such countries like Ukraine (I have a DHC in the Institute of Cardiology in Kiev), Kosovo, Moldova, and many Asian countries, including Iraq, Iran, China, Kazakhstan, Uzbekistan and Russia (before the war). Being Deputy Minister at the Ministry of Science and Higher Education in Poland I fought against underrepresentation of CEE scientists In grants, scientific projects and papers, and I have been continuing this with successes.\nI have one of the most active research group in the world in the field of preventive cardiology, with over 200 people working many hours every day on research projects, so kindly please avoid any unauthorized and harmful suggestions. […]\nThe same issue (as mentioned above) was for Dr. Sahebkar, and previously few other scientists from the region I wanted to support to help them develop outside their regime countries (remembering that before 1989 Poland was also one of such countries). My collaboration with him, due to different reasons, is very much limited now.\nKeep doing your work for better science, as I am doing for last >25 years, strengthening CEE scientits.\nAnd I hope you are now safe and in good health. “\nI guess “strengthening scientits” is a code for papermilling?\nSeychelles ambassador\nA young genius loses two papers, but never mind, he will fabricate many more. The Seychelles native Joseph Raj Xavier claims to have in 2023 completed a doctorate at that fake diploma mill called “Saveetha Institute of Medical and Technical Sciences” in Chennai, India (read Reese Richardson’s blog about Saveetha). In 2022, Xavier was 30 years old and known to have won a prize for his “solar-powered bicycle”. He is also Seychelles ambassador on the Next Einstein Forum of Africa. That dude is a ridiculous little fraudster, and now he lost at least a couple of his fake papers. First, this one:\nJoseph Raj Xavier Multilayered nanocomposite coatings for enhanced anticorrosive, flame retardant, and mechanical properties in automobile and aerospace industries Journal of Applied Polymer Science (2023) doi: 10.1002/app.53943\nThe https://onlinelibrary.wiley.com/doi/10.1002/app.56674 from 27 December 2024 went:\n“The retraction has been agreed following an investigation into concerns raised by a third party, which revealed that the images presented in Figures 1a, 1b and 1c had been previously published in another article by different authors in a different scientific context. Additionally, the SEM images in Figures 12a, 12c, 12e, 12 g, and 12i were found to contain duplications and evidence of resizing. The author was unable to provide a satisfactory explanation and could not supply the original data. Due to the nature and extent of the identified issues, the editors have lost confidence in the data presented and consider the conclusions reported unreliable. The author was informed of the retraction.”\nXavier has currently 117 papers on PubPeer, many of them as single author. Here is the one where the retracted data was reused from:\nJoseph Raj Xavier, S. P. Vinodhini , R. Ganesan Innovative nanocomposite coating for aluminum alloy: superior corrosion resistance, flame retardancy, and mechanical strength for aerospace applications Journal of Materials Science (2024) doi: 10.1007/s10853-024-09919-4\nHere the second retracted paper, where Xavier simply stole and relabelled the figures. I show only some examples:\nS.P. Vinodhini , Joseph Raj Xavier Novel synthesis of layeredMoS2/TiO2/CNTnanocomposite as a potential electrode for high performance supercapacitor applications International Journal of Energy Research (2022) doi: 10.1002/er.8125\nHere the fresh https://onlinelibrary.wiley.com/doi/10.1155/er/9838529 from 7 January 2025:\n“The retraction has been agreed following an investigation into concerns raised by a third party, which revealed that the image shown in Figure 3A was previously published elsewhere by a different author. Furthermore, identical curves to those presented in Figure 8 have been found published elsewhere by the same authors. Although the shape of all four curves are identical in both articles, the curves represent different materials. Finally, duplicate images representing the lattice fringes of different materials have been used in Figures 3B and 3C of this article. The authors were not able to provide any supporting data or an acceptable explanation for these issues. As a result, the Editorial Board has lost confidence in the results and conclusions presented in this study. The author, J. R. Xavier was informed of the reaction; S. P. Vinodhini could not be contacted.\nIf you think this little fraudster Xavier will now never publish another paper and earn 117 retractions: you were probably born yesterday and still believe in Santa Clause. Journal editors will continue to admire him as a young genius who manages to produce one experimental study per day, all by himself and in his mum’s kitchen.\nStages of cell cycle, cell division and sterilization\nMDPI retracted a fake paper after thoroughly checking that no white people (or at least those employed by western universities) were among its authors. Its Figure 6 was initially flagged by an anonymous PubPeer in October 2021, the finding was extended by Elisabeth Bik in August 2022.\nNoha Ibrahim Elsherif , Abdulaziz Mohsen Al-Mahallawi , Abdelfattah Ahmed Abdelkhalek, Rehab Nabil Shamma Investigation of the Potential of Nebivolol Hydrochloride-Loaded Chitosomal Systems for Tissue Regeneration: In Vitro Characterization and In Vivo Assessment Pharmaceutics (2021) doi: 10.3390/pharmaceutics13050700\nAlso in August 2022, the Egyptian dentist Abdelfattah Ahmed Abdelkhalek of Future University in Cairo, explained on PubPeer:\nThe promised Future University study on cell cluster teleportation never materialised, and the MDPI editor never received any raw data from Abdelkhalek either. Here is the retraction notice from 30 December 2024:\n“Following publication, concerns were brought to the attention of the publisher regarding the presence of image irregularities with a figure presented within this publication [\n[1]].Adhering to our complaints procedure, an investigation was conducted by the Editorial Office and Editorial Board, which confirmed a range of inappropriate image modifications to panels presented in Figure 6. While the authors fully cooperated with the Editorial Office during the investigation, they were unable to satisfactorily explain the above-mentioned concerns, nor provide appropriate raw material for Editorial Board evaluation. […] The authors agree to this retraction.”\nThis wasn’t Abdelkhalek’s first retraction. This was pulled in 2023, again the original anonymous PubPeer post was updated by Elisabeth Bik:\nNadia M. Morsi , Rehab Nabil Shamma, Nouran Osama Eladawy , Abdelfattah A. Abdelkhalek Bioactive injectable triple acting thermosensitive hydrogel enriched with nano-hydroxyapatite for bone regeneration: in-vitro characterization, Saos-2 cell line cell viability and osteogenic markers evaluation Drug Development and Industrial Pharmacy (2019) doi: 10.1080/03639045.2019.1572184\nIn 2022, Abdelkhalek lost this artwork:\nNadia M. Morsi , Rehab Nabil Shamma, Nouran Osama Eladawy , Abdelfattah A. Abdelkhalek Risedronate-Loaded Macroporous Gel Foam Enriched with Nanohydroxyapatite: Preparation, Characterization, and Osteogenic Activity Evaluation Using Saos-2 Cells AAPS PharmSciTech (2019) doi: 10.1208/s12249-019-1292-4\nNow, this seemingly unrelated Egyptian paper was retracted by Dove Press and Taylor & Francis already in 2021:\nRabab Kamel , Nahla A El-Wakil, Nermeen A Elkasabgy Calcium-Enriched Nanofibrillated Cellulose/Poloxamer in-situ Forming Hydrogel Scaffolds as a Controlled Delivery System of Raloxifene HCl for Bone Engineering International Journal of Nanomedicine (2021) doi: 10.2147/ijn.s323974\nThe coauthor Rabab Kamel was quick to finger the culprit:\nLater, the other two authors Nermeen Elkasabgy and Nahla El-Wakil also directly accused Abdelkhalek. On 22 November 2021 the article was retracted:\n“Concerns were raised regarding alleged image manipulation relating to Figure 8. The authors immediately responded to our queries and confirmed that the image had indeed been manipulated and informed us the work shown in Figure 8 came from a contracted researcher and the authors used the provided images as received.\nThe authors were able to provide the original images for Figure 8 but they could not be used as a replacement and both the Editor and authors agreed to retract the article.”\nAs it happens, in Octover 2021 another paper by Abdelkhalek with these same trio was flagged https://pubpeer.com/publications/AC94A968AEA83E4049D5CFD059DF2B#9, where no action whatsoever was taken by his oh-so-concerned collaborators:\nRabab Kamel , Nahla A. El-Wakil , AbdelFattah A. Abdelkhalek , Nermeen A. Elkasabgy Nanofibrillated cellulose/cyclodextrin based 3D scaffolds loaded with raloxifene hydrochloride for bone regeneration International Journal of Biological Macromolecules (2020) doi: 10.1016/j.ijbiomac.2020.04.019\nScholarly Publishing\nHandled according to our policies\nThe Committee on Publication Ethics (COPE) investigated how Elsevier handled the evidence that an entire special issue of the Journal of Energy Storage was run by papermill fraudsters and therefore consisted entirely of papermilled fraud. The COPE complaint was made in September 2022 by Alexander Magazinov, who felt Elsevier was not in a hurry to retract those fake papers.\nIt was a Special Issue titled “Recent Advances in Battery Thermal Management” and edited by Masoud Afrand, Nader Karimi and Mohammad Arjmand. Read about the affair here:\nMaybe stop accepting submissions, Herr Prof Dr Sauer?\nWho needs science if you can have a 75 paper strong special edition by Afrand and Karimi? A guest post by Alexander Magazinov.\nAmong the concerns Magazinov reported to COPE in 2022 were:\nThe issue was put on hold by the then-Editor-in-Chief Dirk-Uwe Sauer, but then it continued publishing new papers, one of these received in August 2024 an https://www.sciencedirect.com/science/article/pii/S2352152X24028639 for peer review manipulation.\nElsevier provided this reply to COPE:\n“We opened an investigation in late October into the special issue, ‘Recent Advances in Battery Thermal Management’, which had been opened in the Journal of Energy Storage. At that time, the Guest Editors of the VSI had accepted 80 papers for publication and they were in various stages of production. A further 60+ papers had been submitted and were either in peer-review, being revised by the authors, or with the Guest Editors for a decision. In addition to opening the investigation, we put the special issue on hold. […]\nWe have two primary concerns as a result of our investigation. The first is that the Guest Editors have used a small number of reviewers to evaluate the manuscripts submitted to the VSI. The second is that these reviewers have consistently requested that the authors add citations to their work and to the work of the Guest Editors to their manuscripts.”\nElsevier then promised to close the special issue, terminate the Guest Editor agreements, and initiate a re-review of the published articles. In January 2023, a new Editor-in-Chief was installed, Luisa Cabeza (who has her own problematic papers on PubPeer, mostly self-plagiarism, see July 2024 Shorts).\nHere is the full COPE document:\nCurrently, Cabeza and “a small editorial committee” are still slowly progressing through the Special Issue, the actions being “corrigenda, retractions or no action“. Most often, a permanent Expression of Concern was issued for numerous papers in that Special Issue, because, as Elsevier explained “Some papers fell into a “grey area,” where (minor) unethical activities were identified, yet the overall\nscientific validity of the paper and the authors’ integrity were not in question.”\nThis is the current status for the “88 scrutinized papers:\n● 32 papers have been Retracted (36% of the Special Issue)\n● 36 papers have (or will soon have) a Permanent Expression of Concern (41% of the Special Issue)\n● 19 papers were handled according to our policies – Editor’s Note published (22%)\n● 1 paper was not published in the end (~1%).“\nCOPE, the publishers’ Trojan horse, calls to abolish retractions\nFour private scientists without any agenda whatsoever published a research result preprint on the portal BioRxiv. The “new results” reported in the article are actually new ideas which are just as good as any research results, because they are supposed to bring the field of scholarly communication forward. The question is, where to, and why…\nCOPE’ Facilitation & Integrity subcommittee found “that the journal followed an adequate process aligned to COPE guidance to pursue follow up on the concerns about the special issue.” The only criticism was:\nI also find its unusual that permanent Expressions of Concerns are something COPE endorses these days. In any case, there are no clear COPE guidelines for those now.\nScience Breakthroughs\nThe more human the animal gets\nThe Guardian wishes to inform you that science has discovered ways for your dog to live forever, so there si hope for you, too. So here is the Christmas fairy tale by Grauniad editors:\n“Early next year,\n[Loyal, a US biotech start-up], is confident that it will bring LOY-002, a daily, beef-flavoured pill, to market that could give dogs a minimum of one extra year of healthy life.The San Francisco-based firm has raised $125m (£100m) in funding from companies who have held back from investing in human longevity projects because of the decades those trials would take.\nBut Celine Halioua, founder and chief executive of Loyal – which is part of Cellular Longevity, a biotech firm researching the science of longevity – believes their work will benefit humans.”\nThe company’s related drug LOY-001 (another inhibitor of IGF-1 growth hormone) received in 2023 the Reasonable Expectation of Effectiveness assessment from FDA.\nIt is all of course incredibly clever. Dogs have an average lifespan of 10-15 years, so any random variation of a few months from the minimum can be marketed as a huge success. Plus, there are much less medicinal product authorities and ethics watchdogs barking at your dog anti-aging business. That’s why enterprising researchers like David Sinclair (read March 2024 Shorts, Matt Kaeberlein or George Church (read January 2023 Shorts) set up their own companies to sell anti-aging supplements to dog owners.\nGeorge Church, Colossal W*nker\nFrom mammoths to eugenics to anti-aging scams: god-impersonator George Church knows how to make money with bullshit.\nGuardian continues with another business advertisement, in fact for that co-directed by Kaeberlein:\n“The same goal is being sought in another laboratory almost 900 miles across America, where a team of academic researchers are feverishly testing the impact of rapamycin as part of the\n[Dog Aging Project]. […]“Our study is light years ahead of anything that’s been done on humans or can be done on humans,” said Daniel Promislow, a biogerontologist at the University of Washington and a co-director of the project. […] Promislow insists that it is realistic to hope that his research could cross over to humans. “If we’re successful with dogs, it could be a turning point in informing us how to give human populations extra healthy lifespan too,” he said.”\nNow, rapamycin is indeed an effective immune system suppressive drug which is great for organ transplants, but it is quite likely that the failed anti-aging enthusiast Mikhail Blagosklonny killed himself with rapamycin by exacerbating his lung cancer (read October 2024 Shorts).\nNever-ageing Anti-aging to cure COVID-19\nScientists David Sinclair and Michael Lisanti have an ingenious solution to COVID-19: anti-aging drugs. If a disease kills old people, stop being old!\nAnd in early 2021 Kaeberlein suggested to treat COVID-19 with rapamycin and called in Bischof et al 202130068-4) “for immediate large-scale clinical trials to assess whether rapamycin and other mTOR inhibitors can enhance resilience towards communicable and noncommunicable diseases, prevent COVID-19 infection in those most at risk, and improve outcomes in patients with COVID-19,” all because rapamycin reverses the “Hallmarks of Aging”.\nAt the end, Guardian enlists another scientific authority:\n“Prof Tom Rando, director of the University of California’s Broad Stem Cell Research Centre and one of the most respected names in the geroscience community, said the research is “fascinating”.\n“The work is one more piece in the puzzle that we hope will eventually give us the full picture about human longevity,” he said.\n“The more human the animal gets that we can test our longevity drugs on, the more confidence we can have that these drugs will work on humans too,” he said. “And having evidence of efficacy and safety in dogs gives us more confidence for doing human studies with these same drugs.””\nRead about Thomas Rando and his most respected yet very dodgy science here:\nToppling Giants in Stanford\nEveryone is talking about Stanford’s President Marc Tessier-Lavigne now. OK, let’s talk about him, and how Stanford deals with research fraud. And then let’s talk about Thomas Rando.\nSecond cup may flip the odds\nOnce again, science established that NOT drinking coffee gives you cancer.\nScience Alert reporting from 23 December 2024:\n“Researchers in the US gathered more than 25,000 records collated in 14 previous studies, evaluating them collectively to determine what stands out in the diets of individuals with various tumors of the head and neck. […] popular beverages such as tea and coffee contain powerful anticancer and anti-inflammatory substances that may potentially shield drinkers from some of the effects of carcinogens. […]\n“…those who drank four cups or more of caffeinated coffee had a 30 percent lower risk of developing cancer inside their mouth, and 22 percent lower risk of cancer inside their throat. Having around 3 to 4 cups a day reduced chances of cancer in the lower reaches of the throat by around 40 percent. Coffee doesn’t even need to be caffeinated to get some kind of benefit. Drinking decaf was associated with a 25 percent drop in cancer of the oral cavity. “\nIt also works with black tea, but if you drink more than 1 cup, tea will give you cancer instead of preventing it:\nThis is the paper, published in a society journal:\nTimothy Nguyen , Alzina Koric , Chun‐Pin Esther Chang , Christine Barul , Loredana Radoi , Diego Serraino , Mark P. Purdue , Karl T. Kelsey , Michael D. McClean , Eva Negri , Valeria Edefonti , Kirsten Moysich , Zuo‐Feng Zhang , Hal Morgenstern , Fabio Levi , Thomas L. Vaughan , Carlo La Vecchia , Werner Garavello , Richard B. Hayes , Simone Benhamou , Stimson P. Schantz, Guo‐Pei Yu, Hermann Brenner, Shu‐Chun Chuang, Paolo Boffetta, Mia Hashibe, Yuan‐Chin Amy Lee Coffee and tea consumption and the risk of head and neck cancer: An updated pooled analysis in the International Head and Neck Cancer Epidemiology Consortium Cancer (2024) doi: 10.1002/cncr.35620\nIt shoudl be mentioned that the Italian coauthor Carlo La Vecchia previously claimed that the highly neurotoxic pesticide Paraquat was totally safe and everyone who claimed otherwise was hysterical (Berry et al 2010). Also there, La Vecchia claimed to have no conflicts of interests whatsoever while being on the payroll of paraquat manufacturer Syngenta.\nCheese and Mayonnaise\nThe psychology news site Psy Post has two kinds of nutritional advice to get smart while staving off dementia.\nFirst, you must eat mayonnaise! And olive oil of course.\nThe Pratfalls of Domenico Pratico\nNext time you wonder why mouse research does not translate to humans, think of Domenico Pratico work on Alzheimer’s and other brain diseases.\nA Psy Post article from 24 December 2024 warned:\n“A study in Iran comparing patients with Parkinson’s disease to healthy individuals found that patients with Parkinson’s disease consume less hydrogenated plant-based and animal oils but use more non-hydrogenated plant-based oil, olive oil, and mayonnaise compared to healthy individuals. […]\nThe study involved 120 patients with Parkinson’s disease and 50 healthy individuals from Isfahan City, Iran, aged between 40 and 80 years. Approximately 66% of the participants were men.\nParticipants completed a 147-item food frequency questionnaire, which allowed researchers to evaluate their dietary intake of various types of oils. The questionnaire asked participants to report the frequency and quantity of edible cooking oils and mayonnaise they had consumed over the past year, categorized as daily, weekly, or monthly. [….]\nThe results showed that patients with Parkinson’s disease had lower consumption of hydrogenated plant oils but higher intake of non-hydrogenated plant-based oils, olive oil, and mayonnaise. Those with more severe Parkinson’s disease symptoms were found to consume higher amounts of animal oils and butter…”\nThe study seems to have been produced by a cheap Iranian papermill:\nSorayya Kheirouri , Mohammad Alizadeh , Majid Keramati High use of non-hydrogenated plant source oils and mayonnaise sauce increase the risk of Parkinson disease Nutritional Neuroscience (2023) doi: 10.1080/1028415x.2023.2277974\nCheese against COVID-19\nDutch scientists, including two Vitamin K fraudsters, claim this blood clotting factor is the cure for COVID-19. The lead author and The Guardian advise everyone to eat cheese.\nThe other advice from Psy Post, from 26 December 2024, is to eat cheese. It was tested in mice, after all:\n“The research reveals that fatty acid amides—compounds generated during the cheese’s fermentation process—enhanced memory and learning in mice fed a high-fat diet. These findings suggest that Camembert cheese may offer unique dietary advantages for cognitive health. […]\nTo explore the cognitive benefits of Camembert cheese and its fatty acid amides, the researchers conducted experiments on male mice. These mice were divided into groups and fed either a high-fat diet alone or supplemented with Camembert cheese or specific fatty acid amides extracted from the cheese. The study’s high-fat diet was designed to impair cognitive function, mimicking conditions linked to dietary risks for neurodegeneration in humans. […]\nThe results showed that both Camembert cheese and myristamide improved cognitive function in the mice.”\nThis is the paper from the Kyoto University in Japan:\nKohei Kawano , Maiko Shobako , Taichi Furukawa , Tatsuhiro Toyooka , Kousaku Ohinata Fatty acid amides present in Camembert cheese improved cognitive decline after oral administration in mice Neuroscience Research (2024) doi: 10.1016/j.neures.2024.03.002\nIt mentions that the “study was supported in part by the Food Science Institute Foundation (Ryoushoku Kenkyukai, Tokyo, Japan).” which an internet search suggests to be a dairy industry lobby organisation.\nDonate!\nIf you are interested to support my work, you can leave here a small tip of $5. Or several of small tips, just increase the amount as you like (2x=€10; 5x=€25). Your generous patronage of my journalism will be most appreciated!\n€5.00\nDonate!\nIf you are interested to support my work, you can leave here a small tip of $5. Or several of small tips, just increase the amount as you like (2x=€10; 5x=€25). Your generous patronage of my journalism will be most appreciated!\n€5.00",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->scientific standards",
+      "Science and Technology->medical research",
+      "Science and Technology->social sciences"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:47:53.104+02:00",
+    "updated": "2025-01-10T09:47:53.104+02:00"
+  }
+]

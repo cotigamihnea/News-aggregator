@@ -1,0 +1,713 @@
+[
+  {
+    "uuid": "39ab3671e2fdafda15b4561cec2b3a793a36638f",
+    "url": "https://www.i24news.tv/en/news/israel-at-war/artc-hamas-announces-it-has-agreed-to-proposed-ceasefire-and-hostage-deal-with-israel",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "i24NEWS",
+    "published": "2024-05-06T15:48:00Z",
+    "title": "Hamas Announces It Has Agreed To Proposed Ceasefire And Hostage Deal With Israel - I24NEWS",
+    "text": "Hamas announces it has agreed to ceasefire and hostage deal, Israel cautions terms are unknown Israeli official to i24NEWS: \"For now there is no agreed framework\" on hostage and ceasefire deal with Hamas Palestinian terrorist group Hamas has announced it has agreed to a proposed ceasefire and hostage deal with Israel proposed by Egypt and Qatar, according to a statement by the group on Monday evening. The announcement comes hours after the IDF had announced civilian evacuations in Rafah ahead of a planned offensive in southern Gaza. An Israeli official told i24NEWS that the government is, \"checking which ceasefire formula Hamas has agreed.\" Another Israeli government official told Kann, \"We received Hamas' answer. The negotiating team is now studying it.\" The terrorist organization said in an official statement: \"The head of the Hamas political bureau, Ismail Haniya, spoke by phone with the Prime Minister of Qatar - Mohammed bin Abd al-Rahman al-Thani, and with the head of Egyptian intelligence - Abbas Kamal, and informed them that Hamas agrees to their proposal for a ceasefire fire.\" The agreement, if completed, is expected to include a six week ceasefire in Gaza, the release of over 30 Israeli hostages held by Hamas, and the release of hundreds of Palestinian prisoners held in Israel. This is a developing story",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kann",
+          "sentiment": "none"
+        },
+        {
+          "name": "ismail haniya",
+          "sentiment": "none"
+        },
+        {
+          "name": "abbas kamal",
+          "sentiment": "none"
+        },
+        {
+          "name": "mohammed bin abd al-rahman al-thani",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "negative"
+        },
+        {
+          "name": "idf",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "qatar",
+          "sentiment": "none"
+        },
+        {
+          "name": "egypt",
+          "sentiment": "none"
+        },
+        {
+          "name": "rafah",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-06T20:35:52.716+03:00",
+    "updated": "2024-05-06T20:35:52.716+03:00"
+  },
+  {
+    "uuid": "de4bd59b3405a8c47c630255314e7e811138e74a",
+    "url": "https://www.ultimahora.com/tres-motochorros-roban-una-motocicleta-a-un-hombre-en-capiata",
+    "ord_in_thread": 0,
+    "author": "Redacción ÚH",
+    "published": "2025-04-09T21:25:00Z",
+    "title": "Tres motochorros roban una motocicleta a un hombre en Capiatá",
+    "text": "Tres motochorros roban una motocicleta a un hombre en Capiatá\nUna cámara de circuito cerrado captó el momento cuando tres delincuentes, a bordo de dos motocicletas, robaron un biciclo a un trabajador que regresaba a su vivienda en Capiatá, Departamento Central.\nTres motochorros despojaron de su motocicleta a un trabajador en el barrio Santa Rosa de Capiatá.\nUno de ellos lo amenazó con un arma de fuego y los otros dos se apoderaron de su motocicleta y otras pertenencias, informó Telefuturo.\nVolvía a la casa luego del trabajo y lo asaltaron. La Policía Nacional busca a los tres malvivientes.\n— Telefuturo (@Telefuturo)\n🔴EN VIVO:[https://t.co/bmmwHO0a0L][#TelefuturoPy][#MeridianoPy][pic.twitter.com/CRnLE4f8VN][April 9, 2025]\nUno de los policías intervinientes manifestó que el joven se dirigía a su domicilio cuando ocurrió el robo.\n“El muchacho se encontraba hablando por teléfono con su padre, por eso se quedó en ese lugar y en ese ínterin hubo el robo de la motocicleta”, expresó.\nDijo que analizan la imagen de circuito cerrado que captó el momento del hecho. Los tres delincuentes estaban con casco protector.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->robbery and theft",
+      "Human Interest->human mishap",
+      "Social Issue->social problem",
+      "Social Issue->adults",
+      "Social Issue->juvenile delinquency"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "de",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Departamento Central",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Policía Nacional",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:51:40.461+03:00",
+    "updated": "2025-04-10T00:51:40.461+03:00"
+  },
+  {
+    "uuid": "3b9a173deab7fe92dfd848273a4275cef71051f7",
+    "url": "http://www.cronista.com/economia-politica/el-gobierno-premiara-con-aumentos-de-sueldo-a-los-funcionarios-que-mas-trabajadores-despidan",
+    "ord_in_thread": 0,
+    "author": "@cronista",
+    "published": "2025-03-27T19:35:00Z",
+    "title": "El Gobierno premiará con aumentos de sueldo a los funcionarios que más ajusten: la dura respuesta de ATE - El Cronista",
+    "text": "El Gobierno premiará con aumentos de sueldo a los funcionarios que más ajusten: la dura respuesta de ATE\nLa iniciativa, publicada en el Boletín Oficial, fue rechazada por el gremio, que volvió a convocar aun paro con movilización.\nLa decisión del Gobierno nacional de \"premiar\" con aumentos de sueldo a los funcionarios que reduzcan el personal de sus áreas generó un fuerte malestar en los gremios estatales, que este jueves volvieron a convocar a un paro con movilización.\nLa Decisión Administrativa 7/25 de la Jefatura de Gabinetes, publicada el último miércoles en el Boletín Oficial, establece que se podrán asignar unidades retributivas adicionales a los funcionarios que hayan reducido su personal.\nEl beneficio se aplicará las \"autoridades superiores incorporadas al régimen de Gabinete de Asesores\", y responde a la necesidad de \"evaluar el desempeño\" de los funcionarios.\nEn el anexo de la normativa se especificó la cantidad de recursos que percibirá cada miembro del Ejecutivo para repartir entre las autoridades y se aclaró que el otorgamiento estará supervisado por Federico Sturzenegger y otros organismos técnicos de Economía.\nPara ATE se trata, lisa y llanamente, de un plan de incentivos para despedir empleados estatales.\n\"Esta gente vino al Estado sólo a llenar sus bolsillos. Ahora les van a aumentar el sueldo a los funcionarios que más despidan. Esto no pasó nunca. Son mercenarios que cobran por hacer el trabajo sucio. Se apoderaron del Estado CEOs fracasados que nos están costando muy caro a todos los argentinos\", apuntó Rodolfo Aguiar, Secretario General del gremio.\nAdemás, denunció que se trata de un desvío de fondos en detrimento del pueblo, ya que el supuesto ahorro que busca generar el Gobierno con los despidos irá a parar al bolsillo de funcionarios de segunda o tercera línea hasta alcanzar la remuneración de ministro.\nLos estatales, que este jueves volvieron a movilizarse al Ministerio de Desregulación y Transformación del Estado, reclaman además la renovación automática de los más de 50 mil contratos que vencen a fin de mes.\n\"Rechazamos cualquier posibilidad de que pretendan compensar el costo fiscal de la rebaja de retenciones al campo y la eliminación de impuestos a la compra de autos de alta gama con nuevos despidos masivos\", reclamó el gremio.\nMercados\nPrecio del dólar hoy y dólar blue hoy: cuál es la cotización del jueves 27 de marzo minuto a minuto\nCuál es el precio del dólar oficial y de los dólares financieros CCL y MEP.\nToda la información que necesitas sobre cómo sigue la semana en los mercados.\nBonos, acciones, riesgo país, Cedears, plazos fijos.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Economy, Business and Finance",
+      "Labor"
+    ],
+    "topics": [
+      "Politics->government department",
+      "Politics->government policy",
+      "Politics->civil rights",
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->human resources",
+      "Labor->employer",
+      "Labor->wages and benefits",
+      "Labor->unions"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Federico Sturzenegger",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "ATE",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Rodolfo Aguiar",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Secretario General",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Boletín Oficial",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Gobierno nacional de",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "La Decisión Administrativa 7/25 de la Jefatura de Gabinetes",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Gabinete de Asesores",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Economía.\n",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Ahora",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Ministerio de Desregulación",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Transformación del Estado",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Bonos",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Cedears",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ATE\nLa iniciativa",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Ejecutivo",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Estado CEOs",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Mercados\nPrecio",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "CCL",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "MEP.\n",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-27T21:45:39.632+02:00",
+    "updated": "2025-03-27T21:45:39.632+02:00"
+  },
+  {
+    "uuid": "2ee57d586792c598561017092b400de4aa3e6a45",
+    "url": "https://www.kpbs.org/news/politics/2024/06/27/california-voters-to-weigh-proposal-to-ban-forced-prison-labor-in-state-constitution",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sophie Austin",
+    "published": "2024-06-27T17:57:00Z",
+    "title": "California voters to weigh proposal to ban forced prison labor in state constitution | KPBS Public Media",
+    "text": "California voters to weigh proposal to ban forced prison labor in state constitution California voters will decide in November whether to remove an exemption for involuntary servitude from the state constitution under a proposal the state Legislature approved Thursday. In California and many other states, the state constitution bans involuntary servitude except as a punishment for crime. The proposed amendment would change the constitution to say that “slavery and involuntary servitude are prohibited.” Proponents of the measure want the state to [outlaw forced prison labor](https://apnews.com/article/politics-united-states-government-california-nevada-constitutions-cd220ed1abfd63c5971ee1394756c7e7) in which people who are incarcerated are often paid less than $1 an hour to fight fires, clean prison cells and do yardwork at cemeteries. “Incarcerated people's relationship to work should not be one of exploitation and little-to-no agency,” said Democratic Assemblymember Lori Wilson, who authored the proposal. “Let us take this step to restore some dignity and humanity and prioritize rehabilitative services for the often-forgotten individuals behind bars.” The proposed constitutional amendment passed overwhelmingly in the Senate, with a few Republicans voting against it. The state Assembly quickly gave the measure final approval in the Legislature, meaning it now heads to voters. The proposal is a part of a [package of reparations bills](https://apnews.com/article/california-reparations-compensation-slavery-c3b8d7a4de973adf218b93e396af8fe1) introduced by the California Legislative Black Caucus. Lawmakers announced the package earlier this year as part of an effort for the state to atone and offer redress for a history of racism and discrimination against Black Californians. California has a long legacy of involuntary servitude that still lingers today with people who are incarcerated who are forced to work often facing the threat of punishment if they refuse, said state Sen. Steven Bradford, a Los Angeles-area Democrat. “Today, we have the opportunity to take a step in the right direction towards ending that legacy,” he said. The state Senate rejected a similar proposal in 2022. Democratic Gov. Gavin Newsom's administration [opposed the measure](https://apnews.com/article/prisons-california-gavin-newsom-minimum-wage-slavery-a0aed840fc6dc54c7eb0da98d0f6bb05), warning it could cost taxpayers billions of dollars if the state had to pay people in prison a $15 hourly minimum wage. Several states, including Alabama, Oregon, Tennessee and Vermont, have in recent years approved amendments to their constitutions to remove slavery and involuntary servitude exceptions. The 13th Amendment to the U.S. Constitution has a similar exception to California for slavery and involuntary servitude as a “punishment for crime” if the person has been “duly convicted.” Democrats in Congress have failed in recent years to pass a [proposal to remove the exemption](https://apnews.com/article/or-state-wire-race-and-ethnicity-lifestyle-juneteenth-963c58a1a19ba501f5677343b9c786e0). State Sen. Lola Smallwood-Cuevas, a Democrat representing Culver City near Los Angeles, said the California proposal is a “long-overdue” reform and that it is unacceptable for people who are incarcerated to be put to work for such low pay. “It undermines everyone's ability to earn a living wage in California,” she said. “It also normalizes exploitation. It normalizes indignity and inhumanity.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://apnews.com/article/or-state-wire-race-and-ethnicity-lifestyle-juneteenth-963c58a1a19ba501f5677343b9c786e0).",
+      "https://apnews.com/article/politics-united-states-government-california-nevada-constitutions-cd220ed1abfd63c5971ee1394756c7e7)",
+      "https://apnews.com/article/prisons-california-gavin-newsom-minimum-wage-slavery-a0aed840fc6dc54c7eb0da98d0f6bb05),",
+      "https://apnews.com/article/california-reparations-compensation-slavery-c3b8d7a4de973adf218b93e396af8fe1)",
+      "https://www.apnews.com/article/politics-united-states-government-california-nevada-constitutions-cd220ed1abfd63c5971ee1394756c7e7)",
+      "https://www.apnews.com/article/or-state-wire-race-and-ethnicity-lifestyle-juneteenth-963c58a1a19ba501f5677343b9c786e0).",
+      "https://www.apnews.com/article/california-reparations-compensation-slavery-c3b8d7a4de973adf218b93e396af8fe1)",
+      "https://www.apnews.com/article/prisons-california-gavin-newsom-minimum-wage-slavery-a0aed840fc6dc54c7eb0da98d0f6bb05),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "lori wilson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kpbs public media california",
+          "sentiment": "negative"
+        },
+        {
+          "name": "legislature",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "california",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-28T01:19:42.177+03:00",
+    "updated": "2024-06-28T01:19:42.177+03:00"
+  },
+  {
+    "uuid": "339d52da197431346e874823aa60bccc9b983ad7",
+    "url": "https://www.pocket-lint.com/windows-11-pro-deal/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gabriela Vatu",
+    "published": "2023-12-28T17:55:00Z",
+    "title": "Start the new year with a lifetime Windows 11 Pro license for just $40",
+    "text": "Start the new year with a lifetime Windows 11 Pro license for just $40 By Gabriela Vatu Published 4 hours ago Save almost 80% on a new Windows 11 Pro license today.\nReaders like you help support Pocket-lint. When you make a purchase using links on our site, we may earn an affiliate commission. Read More.\nWindows 11 Pro $40 $199 Save $159 Upgrading your PC to the newest Windows version doesn't have to cost an absolute fortune if you get your key from the right place. Stack Social, for instance, has the software available with 79% off.\n$40 at StackSocial Looking to keep your computer running smoothly? Consider upgrading to Windows 11 Pro. With its sleek design, improved speed, and enhanced security features, Windows 11 Pro is the operating system you need. And now, you can get a Windows 11 Pro license from StackSocial for just $40.\nWindows is known for its user-friendly interface, and Windows 11 Pro takes it to the next level with its modern design and centered Start menu. The addition of widgets makes it even more convenient to access information with just a click. Plus, the snap layouts feature facilitates multitasking by allowing you to use multiple apps on the same screen.\nRelated Did your Windows 11 taskbar just disappear? Here's why and how to fix it The Windows 11 taskbar is a vital part of everyone's workflow. But it can go missing sometimes. Here's how to troubleshoot and restore it. But it's not just about aesthetics. Windows 11 Pro introduces new security measures, including a simplified password manager and ransomware protection, so you can feel confident that your data is protected. There are other features, such as enhanced biometrics login for encrypted authorization whenever logging in or installing apps. For your kids, the Smart App Control will help check the apps installed to make sure they're safe to use.\nNormally priced at $200, getting a Windows 11 Pro key for only $40 is an absolute steal, so you really shouldn't miss out on this limited-time offer from StackSocial. Simply set up an account, order your license, and receive your key within minutes. Also, if you're interested in other version of the Windows software, know that that Windows 11 Home and Windows 10 Pro are also available for the same $40 right now. These licenses last for a lifetime, so you won't need to pay for them again, which is another benefit of buying from StackSocial at this point.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://www.stacksocial.com/sales/microsoft-windows-11-pro?aid=a-nddh01p3&utm_source=pocket-lint.com&utm_medium=referral&utm_campaign=microsoft-windows-11-pro_122223&utm_term=scsf-587407&utm_content=a0xRn0000005jNtIAI&scsonar=1",
+      "https://www.stacksocial.com/sales/microsoft-windows-11-pro",
+      "https://stacksocial.com/sales/microsoft-windows-11-pro?aid=a-nddh01p3&utm_source=pocket-lint.com&utm_medium=referral&utm_campaign=microsoft-windows-11-pro_122223&utm_term=scsf-587407&utm_content=a0xRn0000005jNtIAI&scsonar=1"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "gabriela vatu published 4",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "stacksocial looking",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:14:32.859+02:00",
+    "updated": "2023-12-29T00:14:32.859+02:00"
+  },
+  {
+    "uuid": "fc6944289f98f3211a1cb621c684d060cdca8ea0",
+    "url": "https://thegeorgiagazette.com/featured/toddler-hospitalized-after-overdosing-on-thc-edibles-mother-arrested-in-coweta-county",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "A. Smith",
+    "published": "2025-02-20T22:09:00Z",
+    "title": "Toddler hospitalized after overdosing on THC edibles, mother arrested in Coweta County",
+    "text": "Written by: A. Smith\nPublished February 20, 2025 @ 5:02 PM ET\nCOWETA COUNTY, Ga. – A Coweta County mother has been arrested after her 2-year-old child overdosed on THC edibles, according to authorities.\nOn January 15, 2025, deputies with the Coweta County Sheriff’s Office responded to a home on the 400 block of Deep South Road around 11:06 a.m. after being requested to assist EMS with a reported overdose.\nThe child was found experiencing symptoms including wooziness, difficulty walking and drowsiness after consuming an unknown amount of THC gummies. First responders transported the toddler to Children’s Healthcare of Atlanta in emergency status.\nThe child’s mother, Kimberly Turner , told deputies that she regularly consumes THC edibles and vapes. She said she took one edible that morning with her coffee but may have left an open container of “SUMO THC Edibles” on the kitchen counter. The product, labeled as containing 420 milligrams of THC per gummy, was reportedly within the child’s reach.\nTurner stated that she left the child unattended for an extended period while she went to the restroom. When she returned, she found the toddler actively eating the edibles. She estimated that the child consumed approximately 10 gummies around 11 a.m. Turner told her mother-in-law, who immediately called 911.\nDuring the investigation, deputies found several THC gummies on the floor near a gun safe where Turner claimed she typically stored them. Officers also found three THC vape pens in plain view on top of the safe, which stood about 4 1/2 feet tall. A field test confirmed the presence of THC in the vapes. Turner provided deputies with the remaining THC edibles, with only nine left from the original 25-count bottle. The product’s packaging noted: “Extremely potent. Go easy- adult use 21+ only, WARNING: keep out of reach of children.”\nWhen questioned, Turner admitted to understanding the dangers of THC exposure for young children and acknowledged that her actions were negligent. She initially denied taking an edible that morning but later admitted to consuming one after deputies observed signs of THC impairment, including bloodshot eyes, dilated pupils and slowed cognitive function.\nTurner was arrested and booked into the Coweta County Jail. The child’s grandmother accompanied the toddler to the hospital. The child’s father, who returned home from work after being notified of the incident, told deputies that Turner’s THC “addiction” had caused ongoing issues in their marriage. He stated that he did not purchase the THC products for her and was unaware of her online purchases from California.\nThe Georgia Division of Family and Children Services (DFCS) has been notified and is investigating the incident. The child’s current condition remains unknown.\nThe Coweta County Sheriff’s Office has not released additional details as the investigation is ongoing.\nOfficer’s Narrative:\n[Please note: The following is a direct transcription from the official initial incident report. The Georgia Gazette does not fix any spelling or grammatical errors that may exist. Any changes or redactions made by our staff are placed inside brackets. Some errors may exist. All subjects are innocent until proven guilty in a court of law. The topics discussed may be sensitive to some readers. Discretion is advised.]\nOn the day of January 15, 2025 at approximately 1106 hours I, DS C. Wilson, was requested to assist Coweta County EMS in regards to an overdose involving a 2 year old child at [400 BLOCK] Deep South Road In Coweta County. Upon arrival I was advised that EMS would be transporting the child, [REDACTED BY AGENCY] to CHOA “Childrens Hospital” in Atlanta in an emergency status due to the child having consumed an unknown amount of THC edibles and had already been actively experiencing Symptoms such as Wooziness, unsteady on feet, and sleepy like symptoms.\nI spoke with the mother (suspect), Kimberly Turner, who invited me into the residence. Turner advised me that she takes THC Edibles and vapes, she woke up this morning around 7 AM where she went to the kitchen, took her “SUMO THC EDIBLES” which are labeled as 420mg per gummy, THC-A/THC-P/Delta-9, which she orders online, she said she took 1 of them with her coffee. She said that she believes she left the 2/3’s full (25 Count) open bottle of edibles on the kitchen counter within reach of her 2 year old child, before then leaving the kitchen entirely while simultaneously leaving the child unattended for a lengthy period of time due to Turner stating that she had an upset stomach and needed to go to the rest room. Turner stated that upon getting out of the rest room she went into the living room where she found [REDACTED BY AGENCY] actively eating the THC edibles. She stated she believed he ate roughly 10 of them at approximately 1100 hours. She told her mother, [WITNESS #1], what had happened and [WITNESS #1] immediately called 911.\nI asked Turner to show me where she typically kept the THC edibles and she told me in the gun safe, and pointed to the safe that was in the dining room area. I observed on the ground near the safe several THC edible gummies just laying in the open. As well as 3 THC vape pens in plain view on top of the gun safe that was approximately 4 and a half feet tall. I took those items and secured them for evidence purpose. A rapid detect test kit used on the THC vapes, and they did indicate a positive result for THC and no result whatsoever for CBD. Turner also provided me with the bottle which contains the majority of THC edibles and there were a total of 9 of them remaining from the original 25. The bottle of THC edibles clearly states in plain writing “Extremely potent. Go easy- adult use 21+ only, WARNING: keep out of reach of children”.\nI asked Turner if she understood the substantial dangers present if a 2 year old child were to take the THC edibles and she told me yes. I asked her if she believed her actions were negligent and she told me yes. Initially turner had told me she had not taken any of the edibles herself, however after making observations of her physical appearance (Bloodshot glassed eyes, extremely dilated pupils) to include her having a slowed thought process and struggling to recollect events that had taken place this same morning. I told her I knew she had taken THC to some extent and that was when she admitted to having taken them early this morning after waking up. Turner was placed under arrest and [WITNESS #1] was transported with the 2 year old child to CHOA children’s hospital. I read Turner her Miranda Rights and she told me she understood them.\nI spoke with [WITNESS #1] and asked for her side of the events. She said that she was inside her residence when she was notified by her daughter in Law Kimberly Turner that [REDACTED BY AGENCY] had eaten THC edibles. [WITNESS #1] immediately called 911 and requested EMS to be in route. That was [WITNESS #1]’s involvement of the incident. [WITNESS #1] was released from the scene and she was transported along side [REDACTED BY AGENCY] to CHOA.\nI made contact with Turner’s husband [WITNESS #2], [REDACTED BY AGENCY] father, and requested he return from work in Peachtree City Georgia, to his residence so I could speak with him. [WITNESS #2] arrived approximately 20 minutes later and I advised him of the incident that had took place. He immediately became infuriated and went on a spill about Kimberly’s THC addiction and the issues it has caused in their marriage ranging from Infidelity on Turner’s behalf, as well as poor judgement by her. He told me that he does not buy the THC products for her and that she orders them online from California with funds that he has not been made aware of. During my conversation with [WITNESS #2] he appeared to have a sound mind, and did not appear to be under the influence of any form of substance.\nUltimately Turner was transported to the Coweta County Jail where she was booked. The current condition of the child is unknown.\nDFCS was contacted and I spoke with Operator [REDACTED] and informed her of the details of the incident.\n[End of Narrative]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Health"
+    ],
+    "topics": [
+      "Crime, Law and Justice->investigation (criminal)",
+      "Crime, Law and Justice->arrest",
+      "Crime, Law and Justice->drug related crimes",
+      "Health->health organisation",
+      "Health->poisoning",
+      "Health->health treatment and procedure"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "A. Smith",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Kimberly Turner",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "EMS",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Coweta County",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T01:24:38.450+02:00",
+    "updated": "2025-02-21T01:24:38.450+02:00"
+  },
+  {
+    "uuid": "485f154698daf13d81c90da8da73d36e84285d24",
+    "url": "https://www.statnews.com/2025/04/23/nih-jay-bhattacharya-nora-volkow-nida-support",
+    "ord_in_thread": 0,
+    "author": "Lev Facher",
+    "published": "2025-04-23T21:51:00Z",
+    "title": "NIH director voices support for head of addiction research institute | STAT",
+    "text": "The director of the National Institutes of Health gave a ringing endorsement to the nation’s top addiction researcher, Nora Volkow, this week in his first public remarks on the drug overdose crisis — a potential signal that her position as leader of the National Institute on Drug Abuse is, at least for now, secure.\nSpeaking at the Rx and Illicit Drug Summit in Nashville, Tenn., this week, the NIH’s newly installed director, Jay Bhattacharya, told the audience that he was “proud” of her and NIDA’s work.\nWhile the Trump administration has never specifically called Volkow’s credentials or job security into question, Bhattacharya’s remarks come at a time of deep uncertainty for the agency.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->medical profession",
+      "Health->drug rehabilitation",
+      "Health->health organisation",
+      "Politics->government",
+      "Politics->healthcare policy",
+      "Politics->civil rights",
+      "Social Issue->social services",
+      "Social Issue->addiction",
+      "Social Issue->population and census"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jay Bhattacharya",
+          "sentiment": "none"
+        },
+        {
+          "name": "Nora Volkow",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "National Institutes of Health",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "NIH",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "NIDA",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:49:47.842+03:00",
+    "updated": "2025-04-24T01:49:47.842+03:00"
+  },
+  {
+    "uuid": "098db3799c2ee8d44297760497db86bc40a13af4",
+    "url": "https://www.espn.ph/basketball/pba/story/_/id/44319803/rondae-hollis-jefferson-calvin-oftana-pba-best-import-conference-player-awards",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Miguel Alfonso Caramoan",
+    "published": "2025-03-19T22:30:00Z",
+    "title": "TNT Era? Why we think RHJ and Calvin Oftana may sweep the Commissioner's Cup awards - ESPN",
+    "text": "As the Commissioner's Cup nears its conclusion, the league is set to name its top local player and most dominant import during Friday's Game 4 of the finals.\nThe race for both awards has been narrowed, with the top five locals in terms of statistical points qualifying for the Best Player of the Conference plum and the four reinforcements that made the semifinals comprise the candidates for the Best Import award.\nThere's still a chance for the players in the finals to better their numbers and receive the hardware. With the finals battle of Ginebra and TNT intensifying, let's take a look at another race for the two awards and predict who ultimately gets it.\nBest Player of the Conference race\nWho we thinks win: Calvin Oftana (TNT Tropang Giga)\nAfter the semifinals, San Miguel's June Mar Fajardo (42.0 SP) continued to lead the statistical points ranking even though the Beermen did not make the playoffs. Fajardo's averages of 20.1 points, 16.3 rebounds, and 3.5 assists on 50% field goal shooting speaks for itself. But the chances of him winning another BPC -- and that of second placed Robert Bolick (37.1 SP) of NLEX -- is low because neither player's team made the postseason.\nThe field further narrowed after Jordan Heading (32.6 SP, ranked fourth) and Converge were eliminated in the quarterfinals. It has become a race between the marquee players who led their respective squads to the semifinals in NorthPort's Arvin Tolentino and TNT's Calvin Oftana.\nArguably the most potent scorer in the eliminations, Tolentino led NorthPort to the best offense in the league. Unfortunately, there was a dip in his performance during the semifinals against Ginebra that lowered down his averages by a bit, but still was impressive. He averaged 20.3 points, 7.3 rebounds, and 3.9 assists on 50 TS% in 18 games. This resulted in Tolentino having the third highest statistical points among locals for the conference.\nOftana's argument to get the BPC award is about his efficiency. It also felt like the first conference where he's put up 17 points, six rebounds, and 2.1 assists on 57.6 TS%. He's also the league leader in this conference in terms of triples made per game at 3.1 while shooting an excellent 43.3% from beyond the arc. Just like Tolentino, the development of Oftana as an elite three-level scorer has made him a fixture with Gilas Pilipinas and considerably one of the most versatile wings the PBA can offer.\nAlthough Oftana is the lowest in the statistical points category, no one on the list can say that they are a few wins away from yet another championship other than Oftana. It makes a good argument that his numbers translate to winning, which proves his value as one the best players in the league.\nBest Import of the Conference race\nWho we think wins: Rondae Hollis-Jefferson (TNT Tropang Giga)\nTNT's Rondae Hollis-Jefferson surged to the top of the Best Import race after the semifinals, moving from seventh after the eliminations to first place with 52.7 SP. He averaged 28.2 points, 12.4 rebounds, and 5.0 assists per game while also leading all imports in blocks with 1.8 per contest. His two-way dominance and ability to take over games in crunch time make him the heavy favorite for the award.\nNorthPort's Kadeem Jack (49.8 SP) sits in second place among the four imports, averaging an explosive 31.8 points, 10.7 rebounds, and 2.0 assists per game. Jack's offensive brilliance was one of the highlights of the conference, but NorthPort's early exit in the semifinals may hinder his chances of winning the award.\nRain or Shine's Deon Thompson followed at third place, putting up 19.8 points, 9.9 rebounds, and 3.8 assists per game. While his consistency was crucial for his team, he lacked the dominant impact of the frontrunners. Meanwhile, Ginebra's Justin Brownlee finished fourth with 23.3 points, 8.9 rebounds, and 4.8 assists. Brownlee's legacy in the league is unquestioned, but this conference's numbers were slightly overshadowed by the other contenders.\nHollis-Jefferson's case is the strongest, as he is not only the statistical leader among imports but also the most impactful in a winning environment. His scoring, rebounding, and defensive versatility have powered TNT into the finals, proving that he is the most deserving candidate for the Best Import award.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Sport->regular competition",
+      "Sport->basketball",
+      "Sport->sport event",
+      "Human Interest->award and prize",
+      "Social Issue->social networking",
+      "Social Issue->communities",
+      "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Calvin Oftana",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Fajardo",
+          "sentiment": "none"
+        },
+        {
+          "name": "Rob",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "ESPN",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "BPC",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "TNT",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T00:50:52.062+02:00",
+    "updated": "2025-03-20T00:50:52.062+02:00"
+  },
+  {
+    "uuid": "89fd0def6ba85f6dfd2f7cb57aa90b8d7a35d082",
+    "url": "https://www.india.com/sports/kolkata-weather-update-kkr-vs-mi-ipl-2024-match-60-rain-likely-to-play-spoilsport-at-eden-gardens-check-forecast-6919776",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ankit Banerjee",
+    "published": "2024-05-10T15:13:00Z",
+    "title": "Kolkata Weather Update, KKR vs MI, IPL 2024 Match 60: Rain Likely to Play SPOILSPORT - Check FORECAST",
+    "text": "/ .verified-article img {display:inline-block;margin-right:5px;} @media screen and (max-width:766px){.common-all-content .verified-article img {width:25px!important;}} span.verified-article {background: #3aa84f1f;border-radius: 15px; padding-right: 10px;color: #3aa84f;display: inline-block;margin-bottom: 10px;} / virified logo / Kolkata Weather Update Kolkata: While IPL Match no 60 may not hold much importance for Mumbai Indians as they are eliminated from the playoff race, but for Kolkata Knight Rider – the game is important as they would love to consolidate the top spot knowing that finishing in the top two would give them a second shot at making the summit clash.\nBut unfortunately, there are predictions of rain playing spoilsport in the city. There is a 70 per cent chance of precipitation which means it will rain at some point. To make things worse, the humidity would be around 82 per cent.\nKKR Probable XI: Phil Salt (wk), Sunil Narine, Angkrish Raghuvanshi, Shreyas Iyer (c), Venkatesh Iyer, Rinku Singh, Andre Russell, Ramandeep Singh, Mitchell Starc, Varun Chakaravarthy, Harshit Rana [Impact sub: Vaibhav Arora/Manish Pandey]\nMI Probable XI: Ishan Kishan (wk), Rohit Sharma, Naman Dhir, Suryakumar Yadav, Tilak Varma, Hardik Pandya (c), Tim David, Anshul Kamboj/Luke Wood, Piyush Chawla, Jasprit Bumrah, Nuwan Thushara. [Impact sub: Dewald Brevis/Romario Shepherd]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mitchell starc",
+          "sentiment": "none"
+        },
+        {
+          "name": "varun chakaravarthy",
+          "sentiment": "none"
+        },
+        {
+          "name": "venkatesh iyer",
+          "sentiment": "none"
+        },
+        {
+          "name": "andre russell",
+          "sentiment": "none"
+        },
+        {
+          "name": "rinku singh",
+          "sentiment": "none"
+        },
+        {
+          "name": "angkrish raghuvanshi",
+          "sentiment": "none"
+        },
+        {
+          "name": "sunil narine",
+          "sentiment": "none"
+        },
+        {
+          "name": "shreyas iyer",
+          "sentiment": "none"
+        },
+        {
+          "name": "harshit",
+          "sentiment": "none"
+        },
+        {
+          "name": "phil salt",
+          "sentiment": "none"
+        },
+        {
+          "name": "ramandeep singh",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kkr",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ipl",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mumbai indians",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "kolkata",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T20:48:48.807+03:00",
+    "updated": "2024-06-07T05:04:05.327+03:00"
+  }
+]

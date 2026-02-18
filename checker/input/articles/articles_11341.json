@@ -1,0 +1,202 @@
+[
+  {
+    "uuid": "03706fb89e1e54bf1b51c6fce031fc36a0bb449d",
+    "url": "https://punchng.com/senators-salary-fg-politicians-pushing-nigerians-to-the-wall-us-lawmaker-warns",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Olugbenga Ige",
+    "published": "2024-08-15T21:48:00Z",
+    "title": "Senators’ salary: FG, politicians pushing Nigerians to the wall, US lawmaker warns",
+    "text": "A Nigerian-born United States legislator representing Albany County in the 7th District of New York, Beroro Efekoro, has described the salaries and allowances of members of the National Assembly as outrageous.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "olusegun obasanjo",
+          "sentiment": "none"
+        },
+        {
+          "name": "beroro efekoro",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "senate",
+          "sentiment": "none"
+        },
+        {
+          "name": "house of representatives",
+          "sentiment": "none"
+        },
+        {
+          "name": "national assembly of nigeria",
+          "sentiment": "none"
+        },
+        {
+          "name": "revenue mobilisation allocation and fiscal commission",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "albany county",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T01:09:54.665+03:00",
+    "updated": "2024-08-16T02:11:18.467+03:00"
+  },
+  {
+    "uuid": "5ce5e1dccb2a040d606729c6165c7a0236ad89f2",
+    "url": "https://www.pocket-lint.com/how-to-use-raspberry-pi-5-beginner-projects/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jacob Fox",
+    "published": "2024-01-05T20:27:00Z",
+    "title": "5 ways to use the new Raspberry Pi 5: Fun beginner projects",
+    "text": "5 ways to use the new Raspberry Pi 5: Fun beginner projects By Jacob Fox Published Jan 5, 2024 The Raspberry Pi 5 is here, and it's snappier than ever. Here are some exciting, beginner-friendly projects to do with it.\nPocket-lint Readers like you help support Pocket-lint. When you make a purchase using links on our site, we may earn an affiliate commission. Read More. Key Takeaways Raspberry Pi 5 offers improved I/O speed, making it ideal for beginner-friendly projects, especially retro gaming and media streaming. It can be used as a cheap desktop PC, allowing users to learn programming, explore Linux, and perform productivity tasks. Raspberry Pi 5 can also be transformed into a home security camera or a network storage device, providing users with control over their data and access from anywhere. Four years after the Raspberry Pi 4's launch, the Raspberry Pi 5 is here, and with it comes the promise of exciting new projects for techies and tinkerers everywhere. This is Raspberry Pi's latest low-cost SBC (single board computer) offering, and its improved hardware opens up a whole range of possible use cases that might have been out of reach of previous Raspberry Pis.\nRelated Best Raspberry Pi: Find the perfect fit for your next project Raspberry Pi isn't just a dessert, but a perfect single board computer for your next DIY project. What's particularly great about the Raspberry Pi 5 is its improved I/O speed - i.e., its USB and MicroSD speed - which really improves the Pi 5's performance in some beginner-friendly Raspberry Pi projects.\nAnd if it's a beginner-friendly project you're looking for, you're in luck - there's plenty to do with a Raspberry Pi, and some of it is quite simple. Here are five of our favorite ways to use the Raspberry Pi 5.\nRaspberry Pi 5 Raspberry Pi 5 comes with new features. It's over twice as fast as its predecessor, and i'’s the first Raspberry Pi computer to feature in-house silicon.\n$60 at SparkFun 1 Turn your Pi 5 into a retro console Emulate different retro games consoles\nPocket-lint One of the most fun uses for a Raspberry Pi is to turn it into a retro games console, and the Raspberry Pi 5 is no exception. In fact, its upgraded hardware (which Raspberry Pi claims is \"over twice as fast as its predecessor\") should make for a much smoother gaming experience compared to previous Raspberry Pis.\nWhat's great about using a Raspberry Pi for retro gaming rather than buying retro consoles is that you can emulate lots of different old-school consoles on the same device. All you have to do is get it set up using the correct software and load up some game ROMs.\nThe most popular Raspberry Pi retro gaming operating systems are Retropie and Recalbox , but the latter is a better bet for the Raspberry Pi 5, at least for now. Judging by user comments online, while Retropie should have full support eventually, Recalbox has fewer issues with the Pi 5 right now. Retropie is also a little more complicated to get up and running than Recalbox.\nRelated How to build your own retro games console for around £50 Love retro gaming but think the \"mini\" consoles are too limited? Here is our step-by-step guide on how to build your own multipurpose retro console. 2 Host a media server with your Pi 5 Stream images, videos, and music across your network\n@TechforThought Many of us stream our media using services such as Netflix or Amazon Prime Video , but it can sometimes be nice to have access to our own movies, TV shows, and music without paying a subscription and relying on a third party. This is where home media centers and media servers come in, and the Raspberry Pi 5 is ideal for just such a setup .\nBy setting up your Raspberry Pi 5 with software such as Kodi on an operating system such as LibreELEC , you can not only get up and running streaming media from the usual third-party apps (i.e., turn it into some kind of Smart TV device ), but you can also store your own videos, images, and audio for instant playback, just like you would on a PC, but with a Smart TV-esque media center layout.\nThis isn't all, though, because if you enable UPnP in Kodi, the Pi 5's media can be accessed from any other device on the network. So you could, for example, have your Raspberry Pi 5 hidden away in your cupboard, storing all your media, and then stream that media to your phone and cast it to your TV for quick and easy home media server streaming.\nRelated What is Kodi and why should cord cutters try it? 3 Use your Pi 5 as a cheap desktop PC Learn programming, poke around Linux, or do productivity tasks\nDavid Bombal Tech The Raspberry Pi 5 possibly marks the first time a Raspberry Pi has been very viable as a cheap, fully-fledged desktop PC . This is because its SoC (system-on-chip) has been significantly upgraded, and its I/O speeds have been greatly improved. It also has an external PCIe (2.0) port, which means you can run your operating system from a fast external NVMe SSD.\nWhile ARM64-supported, Debian-based Linux operating systems should install on the Raspberry Pi 5 without problems, unfortunately, Windows on R (WOR) doesn't seem to be working with it just yet - but watch this space.\nIf, instead, you want to stick with booting from an SD card, you could install a few different operating systems on different SD cards and take your pick each time you want to boot up - Ubuntu would be a good one to start with.\nOr, you could stick with the default Raspberry Pi OS. This wouldn't be a bad choice, either, because it's now based on the latest Debian 12 \"Bookworm\" release, which is super snappy on the Pi 5's hardware and comes with a range of fun and useful software. Whether you want to learn programming in Scratch or Python, learn the ins-and-outs of linux operating systems, work in word editors or spreadsheets, or just browse the internet, Raspberry Pi's OS should work a treat, especially on the Pi 5.\n4 Turn your Pi 5 into a security camera Keep your home safe without sending your data via a third-party company\n@MichaelKlements Some smart security cameras are great, but many of them either require routing via third-party company servers or are very expensive (or both). Thankfully, the Raspberry Pi 5 can be turned into a home security camera device that lets you access your camera from anywhere in the world.\nHardware-wise, it's pretty simple to set up. Simply plug a camera - such as the Raspberry Pi Camera Module 3 - into one of the board's MIPI connectors via a ribbon cable. From here, things can get a little more complicated, but there are plenty of guides online (such as this one , or the video here ) explaining how to set it up.\nTo keep your camera safe from prying eyes, consider setting up a VPN on your Raspberry Pi security camera that requires login to access.\nIn short, you'll want to install security camera operating system such as MotionEyeOS (or software such as Motion , if you don't mind the process being a little more involved down the line), then connect to the internet by pasting some code into a config file, configure the camera, and forward some ports. Then, you should be able to access your camera from anywhere via the internet.\n5 Use Pi 5 for home network storage Keep your data backed up without sending it via a third-party company\n@NetworkChuck Network-addressed storage (NAS) is like cloud file storage (think DropBox, MegaSync, OneDrive, and so on), but you own and control the servers that store all your \"cloud\" data. With a little fine-tuning, you can use the Raspberry Pi 5 as a NAS and access your files at any time, from anywhere with an internet connection.\nThe Raspberry Pi 5, when connected to a USB SSD or HDD, can be used as a cheap but effective NAS solution - much cheaper than most NAS devices on the market. And while it's powerful enough to run as a NAS device, it consumes such a small amount of electricity that it shouldn't be too hard on the energy bill to leave it permanently powered on (as you'd probably want to do with any NAS device).\nI left this one for last because setting up a Raspberry Pi as a NAS device is a little more involved than the other projects on this list. But, thankfully, Raspberry Pi has a great step-by-step tutorial for it, and there is a video tutorial here. If you follow these closely, you shouldn't run into many problems.\nIt's well worth doing, too - running your own NAS rather than relying on the cloud has many benefits. For one, it gives you another place to store your files as a backup. And you can access these files from anywhere, without having to rely on a company's servers staying online for access.\nRelated Which cloud storage service is right for you? iCloud vs Google Drive vs OneDrive vs Dropbox To help you optimise your mix-and-match approach, or better understand the pros and cons of each service, Pocket-lint has answered all your questions.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure",
+      "Education"
+    ],
+    "external_links": [
+      "https://www.nabto.com/build-raspberry-pi-security-camera/",
+      "http://www.youtube.com/watch?v=ll5d342QaCY",
+      "https://kodi.tv/",
+      "http://www.youtube.com/watch?v=scyM8dG83Ns",
+      "https://worproject.com/",
+      "https://www.recalbox.com/",
+      "https://retropie.org.uk/",
+      "http://www.raspberrypi.com/news/introducing-raspberry-pi-5/",
+      "https://motion-project.github.io/",
+      "http://www.youtube.com/watch?v=5CBYGz_mO9U",
+      "https://www.raspberrypi.com/tutorials/nas-box-raspberry-pi-tutorial/",
+      "https://libreelec.tv/",
+      "https://github.com/motioneye-project/motioneyeos",
+      "https://www.raspberrypi.com/products/camera-module-3/",
+      "http://www.youtube.com/watch?v=gyMpI8csWis",
+      "https://ubuntu.com/",
+      "https://www.sparkfun.com/products/23550",
+      "http://youtube.com/watch?v=scyM8dG83Ns",
+      "https://www.kodi.tv/",
+      "https://www.github.com/motioneye-project/motioneyeos",
+      "https://sparkfun.com/products/23550",
+      "https://www.recalbox.com",
+      "https://ubuntu.com",
+      "https://www.ubuntu.com/",
+      "https://recalbox.com/",
+      "https://raspberrypi.com/products/camera-module-3/",
+      "https://kodi.tv",
+      "https://www.raspberrypi.com/tutorials/nas-box-raspberry-pi-tutorial",
+      "https://worproject.com",
+      "https://www.motion-project.github.io/",
+      "http://youtube.com/watch?v=ll5d342QaCY",
+      "https://retropie.org.uk",
+      "https://www.nabto.com/build-raspberry-pi-security-camera",
+      "https://www.raspberrypi.com/products/camera-module-3",
+      "https://www.libreelec.tv/",
+      "https://raspberrypi.com/tutorials/nas-box-raspberry-pi-tutorial/",
+      "http://raspberrypi.com/news/introducing-raspberry-pi-5/",
+      "http://www.youtube.com/watch",
+      "http://youtube.com/watch?v=5CBYGz_mO9U",
+      "https://www.retropie.org.uk/",
+      "https://www.worproject.com/",
+      "http://youtube.com/watch?v=gyMpI8csWis",
+      "https://libreelec.tv",
+      "https://nabto.com/build-raspberry-pi-security-camera/",
+      "https://motion-project.github.io",
+      "http://www.raspberrypi.com/news/introducing-raspberry-pi-5"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jacob fox",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "sbc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:14:51.320+02:00",
+    "updated": "2024-01-13T00:58:59.829+02:00"
+  },
+  {
+    "uuid": "46d079921b2289557dea537b7594464463f287b8",
+    "url": "https://www.eluniversal.com.mx/deportes/exfigura-de-cruz-azul-arremete-contra-alexis-vega-es-uno-de-los-futbolistas-mas-sobrevalorados/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Arturo Sanguino",
+    "published": "2023-12-29T01:55:00Z",
+    "title": "Exfigura de Cruz Azul arremete contra Alexis Vega: “Es uno de los futbolistas más sobrevalorados”",
+    "text": "Los rumores sobre el posible fichaje de Alexis Vega a Cruz Azul no agradaron a Emanuel ‘Tito’ Villa , exfigura de la Máquina, quien sin dudarlo considera que el atacante mexicano está “sobrevalorado”. “Es uno de los futbolistas más sobrevalorados que tiene la Liga y soy sincero con lo que digo”, afirmó en entrevista con Caliente TV en su canal de Youtube.\nVilla reconoció que “es un buen futbolista, tiene condiciones, de eso no hay duda”, aunque en Chivas no rindió como se esperaba, “Me gustaría que él pudiera transferir al terreno de juego todo ese peligro que genera”.\nLee también Mario García será director técnico del Cartaginés; es el quinto entrenador mexicano en Costa Rica\nAna Guevara cierra el 2023 como la más corrupta en el gobierno de AMLO, según encuesta\nAlexis Vega en el último semestre con Guadalajara fue separado del plantel por una indisciplina que ocurrió tras el partido ante Toluca , misma que se sumó a otros escándalos que lo rodearon en el club, por lo que el Tito piensa que llegar a Cruz Azul sería un premio.\n“Cómo han cambiado los tiempos, si antes tenías indisciplinas, tu premio era ir a remar a otro lado, descender de división y buscar acomodo para una revancha deportiva, ahora el premio, después de un par de años con un rendimiento muy pobre y con indisciplinas de por medio, es Cruz Azul, por eso han cambiado los tiempos en el futbol mexicano, es demasiado premio para Alexis Vega”, agregó el exjugador de la Máquina.\nLee también Chicharito Hernández y Carlos Vela, del estrellato en la MLS al \"desempleo\"\nCheco Pérez sufre \"menosprecio\" de los pilotos de la F1 en la última votación del 2023\nVer esta publicación en Instagram Una publicación compartida de Caliente TV (@somoscalientetv)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://news.google.com/publications/CAAqBwgKMKG_7wowkfm2Ag?hl=es-419&gl=MX&ceid=MX%3Aes-419",
+      "https://www.instagram.com/reel/C1aW93LJ7eB/?utm_source=ig_embed&utm_campaign=loading",
+      "https://news.google.com/publications/CAAqBwgKMKG_7wowkfm2Ag",
+      "https://www.instagram.com/reel/C1aW93LJ7eB/",
+      "https://www.news.google.com/publications/CAAqBwgKMKG_7wowkfm2Ag?hl=es-419&gl=MX&ceid=MX%3Aes-419",
+      "https://instagram.com/reel/C1aW93LJ7eB/?utm_source=ig_embed&utm_campaign=loading"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T04:19:50.197+02:00",
+    "updated": "2023-12-29T04:19:50.197+02:00"
+  }
+]

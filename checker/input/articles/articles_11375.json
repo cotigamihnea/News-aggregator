@@ -1,0 +1,369 @@
+[
+  {
+    "uuid": "2680d8061cd0c91ba5eded158925e3769898c8e2",
+    "url": "https://www.nola.com/opinions/editorial-edwards-was-a-very-good-foundational-governor/article_3f2a3972-a479-11ee-8998-5f9d36a7af79.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "STAFF EDITORIAL",
+    "published": "2023-12-28T14:30:00Z",
+    "title": "Editorial: Edwards ranks among Louisiana’s ‘foundational’ governors",
+    "text": "All Louisiana governors are consequential. They wield enormous power and influence over public policy, economic development and more. But they don’t have magic wands; being consequential doesn’t guarantee greatness.\nThe goal of our best governors is to be transformational, to improve Louisiana’s trajectory for future generations. That’s never easy — sometimes it doesn't even seem possible. In those cases, the best a governor can hope for is to be foundational, to reverse a downward slide and position the state for future growth.\nIn many ways,\nJohn Bel Edwards will be remembered as one of Louisiana’s best foundational governors. And that’s saying a lot.\nHe entered office after eight years of decline. Former Gov. Bobby Jindal inherited a nearly $1 billion surplus but left Louisiana $2 billion in the hole — after gutting state support for higher education and health care. Democrat Edwards also faced a hostile Republican-majority legislature.\nDespite prolonged pushback, Edwards worked with GOP lawmakers to support a temporary sales tax that lifted Louisiana out of the fiscal ditch. More than that, his team produced eight consecutive budget surpluses and $3.2 billion in reserves — while restoring more than $460 million in recurring reinvestments in higher education and making the largest state investment ever in early childhood education.\nEdwards took a counterintuitive approach to one aspect of economic development by giving local governments a say in the granting of industrial tax exemptions previously controlled by the state. His policy allowed industries to continue getting significant tax breaks without completely cutting off funds for schools and other critical local services. Best of all, industries continued to invest in Louisiana.\nPerhaps his most far-reaching decision was expanding Medicaid under the Affordable Care Act (Obamacare), making health care available to more than 700,000 citizens from working families. That decision also kept rural hospitals open across Louisiana — while neighboring Texas and Mississippi, which did not expand Medicaid, together lost 31 hospitals.\nEconomically, Louisiana currently has its lowest unemployment rate and its highest personal income levels. The state also is beginning to rebuild its coast and make progress on long-neglected infrastructure projects.\nRelying on his West Point education and military training, Edwards led Louisiana through multiple crises — civil unrest, hurricanes, floods and tornadoes — by projecting strength and calm amid the storms.\nOne of his less heralded achievements was a significant increase in adoptions out of foster care during his tenure.\n“When I leave office, the state of Louisiana will be better than it was when I took office,” Edwards recently said.\nWe agree, but he also suffered some defeats. Edwards could not convince lawmakers to raise the state minimum wage, close a gender pay equity gap that is the nation’s highest or raise teacher pay to the Southern average.\nLegislators also rebuffed his recent pleas to end the death penalty and add exceptions for rape and incest to Louisiana’s tough anti-abortion law. Likewise, high levels of out-migration and crime continue to frustrate all Louisianans.\nOn balance, though, Edwards’ steady hand and fiscal stewardship have given Gov.-elect Jeff Landry a rare opportunity.\nIf Louisiana can build on the solid fiscal foundation created in the past eight years, Edwards may yet go down as one of Louisiana’s transformational governors. Time will tell.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics"
+    ],
+    "external_links": [
+      "https://www.theadvocate.com/baton_rouge/news/politics/john-bel-edwards-had-notable-successes-some-losses-as-governor/article_320287d6-161f-5e1c-990d-a0f5c7a9b789.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share",
+      "https://theadvocate.com/baton_rouge/news/politics/john-bel-edwards-had-notable-successes-some-losses-as-governor/article_320287d6-161f-5e1c-990d-a0f5c7a9b789.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share",
+      "https://www.theadvocate.com/baton_rouge/news/politics/john-bel-edwards-had-notable-successes-some-losses-as-governor/article_320287d6-161f-5e1c-990d-a0f5c7a9b789.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "edwards",
+          "sentiment": "negative"
+        },
+        {
+          "name": "john bel edwards",
+          "sentiment": "none"
+        },
+        {
+          "name": "bobby jindal",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "gop",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "louisiana",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:34:08.944+02:00",
+    "updated": "2023-12-29T01:34:08.944+02:00"
+  },
+  {
+    "uuid": "5bbb50742c1f6e2286b02d193fd7037c77d5c5f9",
+    "url": "https://www.computerweekly.com/news/366629296/Professional-services-firms-stuck-in-network-security-IT-doom-loop",
+    "ord_in_thread": 0,
+    "author": "@JoeyJOH",
+    "published": "2025-08-14T04:45:00Z",
+    "title": "Professional services firms stuck in network security IT doom loop",
+    "text": "Professional services firms stuck in network security IT doom loop\nSurvey reveals a widening disconnect in the professional services sector where, despite near-universal adoption of SaaS and cloud strategies, core network and security services are failing to keep up through the likes of SASE\nA survey from Aryaka has revealed that not only are overstretched IT teams currently facing performance issues, growing security threats, and the complexity of too many suppliers and tools, their problems are about to get worse with artificial intelligence (AI).\nThe study, The state of network security in business and professional services, surveyed over 100 senior IT and infrastructure leaders working in the industry and looked at how IT leaders are balancing cloud agility, security visibility and risk through generative AI (GenAI). It noted that as business services organisations pivot toward digital-first operations – offering finance, legal, consulting and HR services delivered through the cloud and remote work – they face intensifying network and security demands. New attack surfaces are emerging, applications are decentralising and IT teams are being pushed to scale with limited resources.\nIn addition, it highlighted how professional services firms are grappling with significant new networking and security challenges as they transition towards digital-first operations. Specifically, as companies are increasingly delivering services through the cloud and ramping up software as a service (SaaS) adoption to support remote and hybrid work, such decentralised, complex, cloud-based environments are harder to secure than traditional environments, introducing a range of new attack surfaces.\nResource-constrained IT teams are struggling to protect apps and infrastructure in these settings, which can grow quickly in scale, while looking to ensure consistent service quality across cloud-native applications and client-facing platforms.\nSurvey respondents said their top strategic networking and security priority was improving application and SaaS performance (72%), followed by gaining network and security observability (68%), and simplifying operations and reducing IT burden (48%). These priorities, said Aryaka, underscore that the sector is optimising for user experience and operational agility.\nHowever, the survey also found that day-to-day networking and security hurdles are making it difficult to accomplish these strategic goals.\nOverall, complexity and staffing gaps have created blind spots for services firms that affect both performance and protection. When asked about top networking and security challenges, respondents identified securing SaaS and public cloud apps (66%); managing remote user access and latency (58%); operating with limited internal IT staff (54%); managing too many suppliers/support contracts (46%); and gaps in performance and threat visibility (43%).\nRead more about SASE\nKyndryl expands SASE services with Palo Alto Networks: IT infrastructure services provider enhances end-to-end secure access service edge services to help customers accelerate adoption of cloud-first, zero-trust offering for network security.BT unveils managed SASE service: Telecoms provider expands managed software-defined wide area network solution with new security service edge capabilities to help businesses transition to a secure access service edge model.Cato claims end to network patching with SASE-native LAN NGFW: Leading SASE provider unveils ‘the world’s first’ SASE-native local area network next-generation firewall to address longstanding IT pain point for firewall appliance.UK law firm embarks on SD-WAN and SASE infrastructure upgrade: Network services provider collaborates with commercial law firm Hill Dickinson to enhance network connectivity and security by introducing SD-WAN and SASE frameworks to help safeguard corporate assets.\nTo make matters worse, the survey noted, organisations were failing to prioritise edge security. Despite the rise of SaaS and remote work, only 38% of business services leaders view edge security as “mission-critical”.\nEdge-layer protections – such as zero trust network access, secure web gateway and next-generation firewall technologies – were seen as often fragmented or under-deployed. Just over three-fifths (62%) of companies reported data leakage from SasS platforms and 49% reported unmonitored shadow IT activity.\n“Professional services firms are under immense pressure to deliver seamless digital experiences while protecting an extremely sophisticated and decentralised environment,” said Ken Rutsky, chief marketing officer at Aryaka. “This survey confirms what we’re hearing from the market every day: IT teams are overwhelmed by SaaS technology sprawl, latency issues and managing disparate security solutions. At Aryaka, we’re helping these organisations modernise with a unified approach that simplifies operations, boosts performance and strengthens security from the edge to cloud and back.”\nDeploying secure access service edge (SASE) offerings was seen as a way to solve these network performance and security issues by 44% of respondents who were planning to adopt SASE in the next 12 months.\nJust over a third of business services firms were actively evaluating or implementing GenAI, well ahead of peers in manufacturing, transportation and logistics. However, the survey found that most teams were underprepared for the corresponding performance and security implications.\nThe survey also found budget, bandwidth and bureaucracy as the leading blockers to network modernisation. Some 39% cited budget limitations; 32% noted internal IT resource constraints; and 21% highlighted fear of disrupting legacy environments.\nIn a call to action, Aryaka said that to stay competitive, business service leaders should adopt four key pillars, namely: advance observability across cloud, SaaS and AI; secure the edge with zero trust controls; converge with SASE; and adopt flexible delivery models.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->social sciences",
+      "Social Issue->social problem",
+      "Social Issue->discrimination",
+      "Economy, Business and Finance->business service",
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://dmscdn.vuelio.co.uk/publicitem/65feb82e-3649-468a-ac5e-08d1b1b8526f",
+      "https://www.dmscdn.vuelio.co.uk/publicitem/65feb82e-3649-468a-ac5e-08d1b1b8526f"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T12:00:31.575+03:00",
+    "updated": "2025-08-14T12:05:35.000+03:00"
+  },
+  {
+    "uuid": "80ff35234bf14e45b3734fcb606fb7e3efb03803",
+    "url": "https://www.ansa.it/marche/notizie/la_regione_informa/2023/12/28/pd-il-2023-anno-fallimentare-per-la-giunta-acquaroli_96cc26c1-2b35-47ab-89b9-9d86a0425c6c.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redazione ANSA",
+    "published": "2023-12-28T21:45:00Z",
+    "title": "Pd, il 2023 anno fallimentare per la giunta Acquaroli - La Regione informa - Ansa.it",
+    "text": "La sanità con le sue lunghe liste di attesa, le infrastrutture \"con un aeroporto che perderà i voli di continuità territoriale\", una crescita economica \"tra le più basse di Italia\", un piano casa \"inesistente\", povertà in crescita nelle Marche e gli sfollati del terremoto di Ancona del 9 novembre dello scorso anno \"ancora senza risposte\". Sono le falle elencate dal gruppo assembleare del Partito Democratico per la giunta del governatore Francesco Acquaroli. Un bilancio del 2023 come \"un anno di fallimenti, uguali ai due precedenti\" secondo i dem. Il capogruppo Maurizio Mangialardi ha definito l'attuale giunta \"un disastro\" con un presidente \"nervoso e stizzato che ha lasciato l'aula senza nemmeno salutare\". Secondo il capogruppo, la salute rischia \"di non essere più un diritto fondamentale e universale ma un privilegio per pochi\" con un sistema sanitario regionale che nega \"nega prestazioni a malati oncologici, a bambini cardiopatici, con i pronto soccorso che esplodono\". A rincarare la dose sul tema il consigliere Romano Carancini, vicepresidente della Commissione Salute, polemico sulla nomina del sottosegretario Aldo Salvi \"per commissariare di fatto l'assessore Saltamartini\". Bocciato il passaggio delle aree vaste ad aziende sanitarie territoriali, che doveva far funzionare meglio il Cup, ma che \"sono mesi che non dà risposte, abbiamo le liste d'attesa tra le peggiori in Italia\". La segretaria Pd Marche Chantal Bomprezzi ha puntato il dito sull'esecutivo Acquaroli, \"che non si rapporta più con il territorio\". Per Fabrizio Cesetti, \"il diritto alla salute sancito dalla Costituzione non è più garantito, il piano socio sanitario non stanzia le risorse necessarie\". La vice presidente del gruppo Pd Anna Casini ha sottolineato l'inutilità della legge urbanistica perché \"inapplicabile e dannosa, Province e Comuni hanno chiesto chiarimenti perché non riescono ad applicarla\". Una Regione che \"fa finta di niente anche per gli esodati del superbonus\" ha insistito. E in tema di sanità, secondo la consigliera Micaela Vitri, \"la giunta Acquaroli non e riuscita ad uilizzare nemmeno la metà dei fondi disponibili per la riduzione delle liste di attesa\". Nelle Marche le donne attenderebbero fino a 251 giorni per una mammografia bilaterale. Il consigliere Antonio Mariovincenzo ha chiarito che aumentano gli occupati \"ma con contratti precari, mal retribuiti e di breve periodo\". L'industria manifatturiera regionale \"chiude il terzo trimestre con atività produttiva e commerciale in calo\". Marche all'ultimo posto in Italia per imprese giovanili. Per le infrastrutture è stata la consigliera Manuela Bora a sottolineare che \"il servizio aereo su Milano, Roma e Napoli non è economicamente sostenibile, fallito l'obiettivo di far uscire le Marche dall'isolamento\". Il gruppo ha fatto un elenco di \"13 promesse disattese\" dove rientrano, oltre l'abbattimento delle liste di attesa, anche \"il contrasto alla denatalità, la formazione per creare occupazione, la cultura e l'ambiente\". Riproduzione riservata © Copyright ANSA",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Disaster and Accident",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:43:41.519+02:00",
+    "updated": "2023-12-29T00:43:41.519+02:00"
+  },
+  {
+    "uuid": "e1e94ddded6dceaabeedfc776a1eb78a85afcd11",
+    "url": "https://www.latestnigeriannews.com/p/3125143/afcon-tactical-switch-earned-us-victory-over-cote-d-ivoire-super-eagles-assistan.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Latestnigeriannews",
+    "published": "2024-01-19T10:15:00Z",
+    "title": "AFCON: Tactical switch earned us victory over Cote d Ivoire Super Eagles assistant coach, Finidi George",
+    "text": "20,000kg wildlife intercepted, 12 poachers convicted - Daily Trust 2023 Polls: SCourt Sets To Deliver Judgment On Nine States - New Telegraph 3 arrested as gunmen abduct chief, teenagers in Kwara - https://www.latestnigeriannews.com/news/3123880/3-arrested-as-gunmen-abduct-chief-teenagers-in-kwara.html 47 illegal tax collectors arrested in Benue - https://www.latestnigeriannews.com/news/3123882/47-illegal-tax-collectors-arrested-in-benue.html 9 killed in militia attack on Benue community - https://www.latestnigeriannews.com/news/3123881/9-killed-in-militia-attack-on-benue-community.html A guy who said he boards the plane whenever he wants, regardless of his boarding group, has kicked off a hot debate online - Yahoo Abducted FCT district head, 5 others freed after N8m ransom - https://www.latestnigeriannews.com/news/3123869/abducted-fct-district-head-5-others-freed-after-n8m-ransom.html AFCON 2023: Egypt 2-2 Ghana - https://www.latestnigeriannews.com/news/3125187/afcon-2023-egypt-22-ghana.html AFCON 2023: Okocha hails disciplined Super Eagles display against Elephants - Premium Times #AFCON2023: Nigeria Secures First Win With Troost-Ekong's Penalty Against Ivory Coast - Daily Independent [2023 AFCON: Algeria v Burkina Faso preview](//africanfootball.com///africanfootball.com/news/812434/2023-AFCON-Algeria-v-Burkina-Faso-preview) - African Football [2023 AFCON: Egypt v Ghana report](//africanfootball.com///africanfootball.com/news/812428/2023-AFCON-Egypt-v-Ghana-report) - https://www.latestnigeriannews.com/news/3124359/2023-afcon-egypt-v-ghana-report.html [2023 AFCON: Ivory Coast vs Nigeria](//africanfootball.com///africanfootball.com/news/812410/2023-AFCON-Ivory-Coast-vs-Nigeria) - https://www.latestnigeriannews.com/news/3123673/2023-afcon-ivory-coast-vs-nigeria.html [2023 AFCON: Mauritania v Angola preview](//africanfootball.com///africanfootball.com/news/812445/2023-AFCON-Mauritania-v-Angola-preview) - https://www.latestnigeriannews.com/news/3125157/2023-afcon-mauritania-v-angola-preview.html 30 teams to compete in Lagos polo tournament - The Cable AFCON 2023:Cote DIvore 0-1 Nigeria - https://www.latestnigeriannews.com/news/3124158/afcon-2023cote-divore-01-nigeria.html AFCON: Ekongs goal secures victory for Super Eagles againstIvoryCoast - https://www.latestnigeriannews.com/news/3124887/afcon-ekongs-goal-secures-victory-for-super-eagles-againstivorycoast.html AFCON: Match against Ivory Coast 'big statement' for Nigeria ' Osimhen - Punch",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "War, Conflict and Unrest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://newtelegraphng.com/2023-polls-scourt-sets-to-deliver-judgment-on-nine-states/?utm_source=rss&utm_medium=rss&utm_campaign=2023-polls-scourt-sets-to-deliver-judgment-on-nine-states",
+      "https://dailytrust.com/abducted-fct-district-head-5-others-freed-after-n8m-ransom/",
+      "https://punchng.com/afcon-match-against-ivory-coast-big-statement-for-nigeria-osimhen/",
+      "https://independent.ng/afcon2024-nigeria-secures-first-win-with-troost-ekongs-penalty-against-ivory-coast/",
+      "https://dailytrust.com/3-arrested-as-gunmen-abduct-chief-teenagers-in-kwara/",
+      "https://dailytrust.com/47-illegal-tax-collectors-arrested-in-benue-2/",
+      "https://newtelegraphng.com/afcon-2023-ivory-coast-0-1-nigeria/?utm_source=rss&utm_medium=rss&utm_campaign=afcon-2023-ivory-coast-0-1-nigeria",
+      "https://dailytrust.com/20000kg-wildlife-intercepted-12-poachers-convicted/",
+      "https://www.thecable.ng/30-teams-to-compete-in-lagos-polo-tournament",
+      "https://news.yahoo.com/guy-said-boards-plane-whenever-083435575.html",
+      "https://newtelegraphng.com/afcon-2023-egypt-2-2-ghana/?utm_source=rss&utm_medium=rss&utm_campaign=afcon-2023-egypt-2-2-ghana",
+      "https://www.thecable.ng/just-in-ekong-scores-penalty-as-super-eagles-defeat-ivory-coast",
+      "https://dailytrust.com/9-killed-in-militia-attack-on-benue-community/",
+      "https://www.premiumtimesng.com/sports/football/660278-afcon-2023-okocha-hails-disciplined-super-eagles-display-against-elephants.html",
+      "https://newtelegraphng.com/2023-polls-scourt-sets-to-deliver-judgment-on-nine-states/",
+      "https://www.dailytrust.com/20000kg-wildlife-intercepted-12-poachers-convicted/",
+      "https://www.dailytrust.com/47-illegal-tax-collectors-arrested-in-benue-2/",
+      "https://www.dailytrust.com/9-killed-in-militia-attack-on-benue-community/",
+      "https://www.newtelegraphng.com/afcon-2023-ivory-coast-0-1-nigeria/?utm_source=rss&utm_medium=rss&utm_campaign=afcon-2023-ivory-coast-0-1-nigeria",
+      "https://www.newtelegraphng.com/2023-polls-scourt-sets-to-deliver-judgment-on-nine-states/?utm_source=rss&utm_medium=rss&utm_campaign=2023-polls-scourt-sets-to-deliver-judgment-on-nine-states",
+      "https://www.newtelegraphng.com/afcon-2023-egypt-2-2-ghana/?utm_source=rss&utm_medium=rss&utm_campaign=afcon-2023-egypt-2-2-ghana",
+      "https://independent.ng/afcon2024-nigeria-secures-first-win-with-troost-ekongs-penalty-against-ivory-coast",
+      "https://www.dailytrust.com/3-arrested-as-gunmen-abduct-chief-teenagers-in-kwara/",
+      "https://www.news.yahoo.com/guy-said-boards-plane-whenever-083435575.html",
+      "https://dailytrust.com/20000kg-wildlife-intercepted-12-poachers-convicted",
+      "https://punchng.com/afcon-match-against-ivory-coast-big-statement-for-nigeria-osimhen",
+      "https://dailytrust.com/abducted-fct-district-head-5-others-freed-after-n8m-ransom",
+      "https://newtelegraphng.com/afcon-2023-ivory-coast-0-1-nigeria/",
+      "https://dailytrust.com/9-killed-in-militia-attack-on-benue-community",
+      "https://premiumtimesng.com/sports/football/660278-afcon-2023-okocha-hails-disciplined-super-eagles-display-against-elephants.html",
+      "https://dailytrust.com/47-illegal-tax-collectors-arrested-in-benue-2",
+      "https://thecable.ng/30-teams-to-compete-in-lagos-polo-tournament",
+      "https://thecable.ng/just-in-ekong-scores-penalty-as-super-eagles-defeat-ivory-coast",
+      "https://www.independent.ng/afcon2024-nigeria-secures-first-win-with-troost-ekongs-penalty-against-ivory-coast/",
+      "https://www.dailytrust.com/abducted-fct-district-head-5-others-freed-after-n8m-ransom/",
+      "https://newtelegraphng.com/afcon-2023-egypt-2-2-ghana/",
+      "https://dailytrust.com/3-arrested-as-gunmen-abduct-chief-teenagers-in-kwara",
+      "https://www.punchng.com/afcon-match-against-ivory-coast-big-statement-for-nigeria-osimhen/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "finidi george",
+          "sentiment": "negative"
+        },
+        {
+          "name": "okocha",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cote d ivoire super eagles",
+          "sentiment": "negative"
+        },
+        {
+          "name": "new telegraph",
+          "sentiment": "none"
+        },
+        {
+          "name": "yahoo abducted fct",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "nine states",
+          "sentiment": "none"
+        },
+        {
+          "name": "egypt",
+          "sentiment": "none"
+        },
+        {
+          "name": "ghana",
+          "sentiment": "none"
+        },
+        {
+          "name": "kwara",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-19T14:03:16.430+02:00",
+    "updated": "2024-01-19T14:03:16.430+02:00"
+  },
+  {
+    "uuid": "0e8e8607f2af77b3fca21c42b9bc1c883862765f",
+    "url": "https://www.wionews.com/world/pakistan-caretaker-pm-kakar-announces-ban-on-new-year-celebrations-heres-why-674761",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wion",
+    "published": "2023-12-29T13:32:00Z",
+    "title": "Pakistan caretaker PM Kakar announces ban on New Year celebrations, here's why - World News",
+    "text": "Pakistan caretaker PM Kakar announces ban on New Year celebrations, here's why Story highlights Kakar said Pakistan was making all the necessary efforts to highlight the plight of the Palestinians on various global forums and would continue to do so in future. Kakar said Pakistan was making all the necessary efforts to highlight the plight of the Palestinians on various global forums and would continue to do so in future. Pakistan caretaker Prime Minister Anwaarul Haq Kakar imposed a ban on New Year celebrations in the country in a bid to express solidarity with the people of Gaza amid the ongoing war between Israel and the Palestinian militant group Hamas. Kakar called on the people of his country to show solidarity with the Palestinians and display solemnity and humility on New Year. \"Keeping in mind the seriously concerning situation in Palestine and to show solidarity with our Palestinian brothers and sisters, there will be a strict ban by the government on holding any kind of event for New Year,\" he said in a brief address. trending now He further said that Israeli forces \"crossed all limits of violence and injustice\" by claiming the lives of over 21,000 Palestinians and killing nearly 9,000 children in its counter-offensive. \"The whole Pakistani nation and the Muslim world are in a sheer state of anguish over the massacre of innocent children and genocide of unarmed Palestinians in Gaza and the West Bank.\" He added that his country had sent two aid packages to Palestine with the third one being prepared. He also said that Pakistan was in talks with Jordan and Egypt to ensure timely aid to Palestinians and evacuation of wounded in Gaza. Kakar said Pakistan was making all necessary efforts to highlight the plight of the Palestinians on various global forums and would continue to do so in future. Also read: [Freed Israeli hostage Mia Schem reveals details about 54-day Hamas captivity, says 'went through holocaust'](https://www.wionews.com/world/freed-israeli-hostage-mia-schem-reveals-details-about-54-day-hamas-captivity-says-went-through-holocaust-674751) UN asks Israel to ‘end unlawful killings’ Shelling by Israel near a hospital in Khan Younis late on December 27 claimed the lives of 20 Palestinians, according to the Hamas-run health ministry. The United Nations flagged the human rights situation in the West Bank and urged Israel to \"end unlawful killings\" of the Palestinian population in the West Bank. A report released on Thursday (Dec 28) by the UN demanded an immediate end to the use of military weapons during law enforcement operations as well as an end to arbitrary detention and ill-treatment of Palestinians, and the lifting of discriminatory movement restrictions. \"The use of military tactics and weapons in law enforcement contexts, the use of unnecessary or disproportionate force, and the enforcement of broad, arbitrary and discriminatory movement restrictions that affect Palestinians are extremely troubling,\" UN rights chief Volker Turk said in a statement. \"The intensity of the violence and repression is something that has not been seen in years.\" The report looked at the human rights situation in the West Bank and East Jerusalem since October 7. (With inputs from agencies)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Religion and Belief",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kakar",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kaka",
+          "sentiment": "negative"
+        },
+        {
+          "name": "anwaarul haq kakar",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "pakistan",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "palestine",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T16:01:15.458+02:00",
+    "updated": "2023-12-29T18:38:01.457+02:00"
+  },
+  {
+    "uuid": "3fe7a196009d07e4fd2defadc2fcd7c1a7c37dee",
+    "url": "https://www.thegamer.com/xbox-server-outage-modern-gaming-going-backwards",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Lord of the Rings",
+    "published": "2024-11-14T23:00:00Z",
+    "title": "Xbox's Server Outage Proves Modern Gaming Is Going Backwards",
+    "text": "I tried to play more Dragon Age: The Veilguard last night. Despite its shallow, button-mashing combat and its shallower, boring writing , I’m enjoying it. It doesn’t feel like a Dragon Age game – the accents alone are enough to make me feel that way – but it’s a nice enough fantasy action game to play while I switch my brain off of an evening. The reason I said that I tried to play more Dragon Age last night is because I couldn’t do it. I turned my Xbox on, I pressed ‘A’ on the Dragon Age tile on my home screen, and it booted me out of the game. Error0x80832003. Can’t connect to the server. Great. I couldn’t play Dragon Age: The Veilguard, a game I bought and own. I couldn’t play any games I downloaded from Game Pass either, but that was kind of expected. Microsoft has to check that my subscription hasn’t lapsed or something. But a game I own, that is installed locally on my console and has no online components? Why do I need to connect to the Xbox servers in order to play it? In the end, I turned my Xbox off and went to bed to read my book. My mum would probably be proud of me for doing that, but I really wanted to be playing Dragon Age. I’ve only just finished Act 1, and I’m keen to explore further with Lucanis and Emmrich by my side. What happened to gaming? I know online requirements are nothing new, but it seems like everything is going backwards. I yearn for the days when you could just slam a disc into a drive and get playing. Now we have day one patches to download, updates to install, and prayers to say to the server gods. From my research online, the Xbox servers were down for everyone last night. Could nobody play games? Was every Xbox Series X a £500 brick in every living room? A glorified DVD player, for those weirdos like me who still like physical media. And not even that if you have a Series S. It’s just a shame that my commitment to tangible products hasn’t expanded to video games, or else I would have tried a physical game to see if it worked. Honestly, I doubt it would have. I could launch all the games installed on my Xbox, but was kicked from each when they automatically tried to connect to the Xbox servers. There are a few ways forward here. Firstly, Xbox needs to invest in better servers. More efficient, more consistent, more numerous, whatever. Outages like this are infuriating, and a company that spent $68 billion on acquiring another studio should have the cash to invest in ensuring players can actually experience the games it clearly cares so much about releasing on the platform. Or we could look to the past. Remember the Xbox 360? I could play that without even being connected to WiFi. In fact I did, when I switched off my parents’ router in order to stop procrastinating and study for my A-Levels. I’m not going to tell you how many hours I put into Skyrim during that time, but I did enough revision to get a place in uni, so everything worked out in the end. What I don’t understand is why gaming has regressed so much. What do games companies or console manufacturers gain from requiring you to connect to their servers in order to play a game on their platform? Is it something to do with uploading save files to enable cross-save on different consoles? Is it just because it uploads my screenshots to the cloud? Because I can live without those things. I can live with waiting until I have an internet connection to sync my saves or access my virtual photography on my phone. Gaming has moved forwards over the past decade, but in many ways it has gone backwards, too. We just want to play the games we own, no matter whether Microsoft’s servers are online or not. Is that too much to ask? [Next ](/dragon-age-the-veilguard-regrets-of-the-dreadwolf-revelations-cole-told-us-in-inquisition/) [ Cole Revealed A Big Dragon Age: The Veilguard Twist In Inquisition ](/dragon-age-the-veilguard-regrets-of-the-dreadwolf-revelations-cole-told-us-in-inquisition/) Cole knew about the origins of Elves and Darkspawn all along.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Microsoft",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T02:18:18.860+02:00",
+    "updated": "2024-11-15T02:34:07.193+02:00"
+  }
+]

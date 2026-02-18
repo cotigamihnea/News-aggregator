@@ -1,0 +1,411 @@
+[
+  {
+    "uuid": "c1351ed8a1ae37e8c7468a25217ec09e48267c70",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7367977.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:32:00Z",
+    "title": "光伏50ETF（159864）跌1.44%，半日成交额620.46万元_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，光伏50ETF（159864）跌1.44%，报0.412元，成交额620.46万元。光伏50ETF（159864）重仓股方面， 隆基绿能 截止午盘跌1.37%， 阳光电源 跌2.96%， TCL科技 跌1.37%， 特变电工 跌1.29%， 通威股份 跌2.01%， TCL中环 跌1.37%， 晶科能源 跌1.20%， 正泰电器 跌1.09%， 德业股份 跌3.78%， 晶澳科技 跌3.10%。\n光伏50ETF（159864）业绩比较基准为中证光伏产业指数收益率，管理人为国泰基金管理有限公司，基金经理为黄岳，成立（2021-07-28）以来回报为-58.11%，近一个月回报为-2.85%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Economy, Business and Finance->market and exchange",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:02.320+03:00",
+    "updated": "2025-06-20T05:06:35.000+00:00"
+  },
+  {
+    "uuid": "e3d9a3ef858ff12d398ef15c485e411cd0144f50",
+    "url": "https://www.ozarksfirst.com/washington-dc/house-dems-honor-mass-shooting-victims-urge-gun-laws",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Vinay Simlot",
+    "published": "2024-06-13T20:51:00Z",
+    "title": "House Dems honor mass shooting victims, urge gun laws",
+    "text": "WASHINGTON (NEXSTAR) – Representative Joe Neguse (D-Colo.) and five other Democratic lawmakers held a press conference Thursday to push for tighter gun laws.\n“We are ready to work with anyone in good faith,” Neguse said.\nThe Congressional Gun Violence Protection Task Force called for universal background checks, safe storage laws and preventing the illegal trafficking of guns.\n“We have more mass shootings than we have days in the year,” said Rep. Mike Thompson (D-Calif).\nTheir calls came a day after Congress paused for a moment of silence, to honor the 49 people who died in the Pulse Nightclub shooting in 2016. Wednesday marked eight years since the shooting.\nOn Tuesday, high school graduates in Newtown, Connecticut remembered the 20 classmates who didn’t graduate, because they died in the Sandy Hook shooting in 2012.\n“I do feel like, for the first time, the gun violence prevention movement is stronger than the gun lobby,” said Rep. Maxwell Frost (D-Fla.).\nMeanwhile, last month, former president Donald Trump spoke at the NRA convention, encouraging voters who care about gun rights to vote this November.\n“Let there be no doubt: the survival of our Second Amendment is very much on the ballot,” Trump said. “If the Biden regime gets four more years, they are coming for your guns.”\nDemocrats believe public opinion is on their side about this issue.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joe neguse",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mike thompson",
+          "sentiment": "none"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "maxwell frost",
+          "sentiment": "none"
+        },
+        {
+          "name": "neguse",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nexstar",
+          "sentiment": "negative"
+        },
+        {
+          "name": "congress",
+          "sentiment": "none"
+        },
+        {
+          "name": "congressional gun violence protection task force",
+          "sentiment": "none"
+        },
+        {
+          "name": "nra",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "washington",
+          "sentiment": "none"
+        },
+        {
+          "name": "newtown",
+          "sentiment": "none"
+        },
+        {
+          "name": "connecticut",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-14T01:04:49.528+03:00",
+    "updated": "2024-06-14T01:04:49.528+03:00"
+  },
+  {
+    "uuid": "c4e7059ce30b98ba1a56124a48d817decd6ab447",
+    "url": "https://jordantimes.com/news/local/jordanian-field-hospital-nablus-team-commences-medical-services",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "JT",
+    "published": "2024-09-19T11:50:00Z",
+    "title": "Jordanian Field Hospital in Nablus team commences medical services | Jordan Times",
+    "text": "AMMAN — The Jordanian Field Hospital Nablus team arrived in Nablus on Wednesday to embark on their humanitarian and medical mission in support of the Palestinian people.\nThe team, accompanied by eight trucks carrying essential medical supplies, is set to bolster the hospital’s operational capacity, according to the Jordan News Agency, Petra.\nUpon arrival, the team, comprising a wide range of medical specialists, immediately began preparations to ensure the efficient delivery of humanitarian aid and medical services.\nThe previous Jordanian Field Hospital Nablus team, which recently concluded its mission, treated 39,376 patients, conducted 1,396 major and minor surgeries, and performed 47,517 medical procedures before returning home on Thursday.\nThe Kingdom had previously established two health centres in Ramallah and Jenin, serving tens of thousands of patients in the West Bank, and also established two military field hospitals in Gaza, one in the north of the strip, which was established in 2009, following the Hamas-Israel war in 2008.\nThe second was established in Khan Younis in the south in November 2023 at the peak of the Israeli aggression on the coastal enclave that erupted on October 7.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Jordan News Agency",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Field Hospital Nablus",
+          "sentiment": "none"
+        },
+        {
+          "name": "West Bank",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ramallah",
+          "sentiment": "none"
+        },
+        {
+          "name": "Jenin",
+          "sentiment": "none"
+        },
+        {
+          "name": "Gaza",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:10:07.977+03:00",
+    "updated": "2024-09-20T12:46:59.695+03:00"
+  },
+  {
+    "uuid": "fbce5d0ebaedbe7abb38e0f634a8c26d44e05842",
+    "url": "https://www.elobservador.com.uy/nota/dos-nuevas-fotos-de-guillermo-vilas-conmovieron-a-las-redes-sociales-202417193018",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción",
+    "published": "2024-01-07T22:30:00Z",
+    "title": "Dos nuevas fotos de Guillermo Vilas conmovieron a las redes sociales",
+    "text": "En las últimas horas han salido a la luz nuevas imágenes de Guillermo Vilas, figura máxima del tenis nacional, quien se mantiene desde hace ya años alejado del escenario público. Su esposa Phiangphathu Khumueang posteó las imágenes en su cuenta de Instagram y recibió muchísimos comentarios llenos de emoción. En conmemoración al decimocuarto cumpleaños de Lalindao, una de las hijas del matrimonio, Phiang compartió dos fotografías que despertaron ternura y emoción entre sus seguidores de Instagram, en su mayoría fervientes admiradores del laureado ganador de cuatro torneos de Grand Slam en la década del 70. En la primera imagen presentada, se aprecia al hijo menor de la pareja, Guillermo Jr., prodigando un tierno beso a su padre, aunque solo se distinga parte del rostro del ex tenista. En otra instantánea, detallada con precisión, la pequeña mano del niño reposa sobre una parte del cuerpo de su progenitor. Comentarios como \"Qué hermosa foto, Guillermo y Guillermito Jr. El lazo que los une\", \"Todo el amor para su papá\", \"Es la ternura entre padre e hijo\", \"Guille, ¡el más grande!\" fueron solo algunos de los cientos de elogios que recibió la publicación. Phiang, tras varios meses de silencio en cuanto a la actualidad de Vilas, retomó la iniciativa de compartir momentos familiares. La última vez que había mostrado a su esposo en las redes sociales fue en mayo de 2023. A sus 71 años, el ex tenista se mantiene apartado de los medios y la esfera pública debido a un cuadro de Alzheimer. Vilas y su esposa tailandesa han establecido su hogar en Mónaco desde hace varios años y son padres de cuatro hijos (tres mujeres y un varón): Andanin, Lalindao, Intila y Guillermo Jr.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-08T01:38:16.992+02:00",
+    "updated": "2024-01-08T01:38:16.992+02:00"
+  },
+  {
+    "uuid": "3aa7fd2782c6e9b59371f98c406fc8002a4d8799",
+    "url": "https://energy.economictimes.indiatimes.com/news/renewable/adb-engie-sa-partner-to-build-400-mw-solar-power-plant-in-gujarat/111501309",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "www.ETEnergyworld.com",
+    "published": "2024-07-05T00:19:00Z",
+    "title": "Gujarat Solar Power: ADB, ENGIE SA partner to build 400 MW solar power plant in Gujarat, ET EnergyWorld",
+    "text": "New Delhi: Asian Development Bank (ADB) on Thursday said it has arranged Rs 1,460 crore loan for ENGIE group for constructing a 400-megawatt solar photovoltaic power plant in Surendranagar, Gujarat. ADB was the mandated lead arranger for the entire loan totalling Rs 14.6 billion (approximately USD 175.9 million) with ADB and Asian Infrastructure Investment Bank both providing Rs 7.3 billion, the Manila-based multilateral funding agency said in a statement. The project will support the Government of India's target of achieving at least 500 gigawatts of non-fossil fuel energy capacity by 2030. \\\"The private sector's engagement in the fight against climate change is pivotal for achieving a clean energy transition in Asia and the Pacific,\\\" said ADB Director General for Private Sector Operations Suzanne Gaboury. This project exemplifies how ADB, as the region's climate bank, supports the private sector in developing renewable energy projects through long-term local currency financing typically unavailable in local capital markets, the statement said. This is the second project that ADB has financed for the ENGIE group in India, following the financing of the group's flagship project in the country in 2020, and exemplifies our focus on mobilizing long-term financing from partner organizations. The solar panels will be constructed using locally produced bifacial photovoltaic power modules, thereby diversifying the solar module supply chain and supporting India-based manufacturers, it said. The plant will generate an average of 805 gigawatt-hours annually over the next 25 years, avoiding nearly 662,441 tonnes of carbon dioxide emissions per year, it said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "suzanne gaboury",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "asian development bank",
+          "sentiment": "negative"
+        },
+        {
+          "name": "adb",
+          "sentiment": "negative"
+        },
+        {
+          "name": "government of india",
+          "sentiment": "none"
+        },
+        {
+          "name": "asian infrastructure investment bank",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "gujarat",
+          "sentiment": "none"
+        },
+        {
+          "name": "asia",
+          "sentiment": "none"
+        },
+        {
+          "name": "pacific",
+          "sentiment": "none"
+        },
+        {
+          "name": "surendranagar",
+          "sentiment": "none"
+        },
+        {
+          "name": "manila",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T06:05:09.275+03:00",
+    "updated": "2024-07-05T06:05:09.275+03:00"
+  },
+  {
+    "uuid": "6547d529d62869dd9a3fec8c218bada0efdd0d0f",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-07-31/doc-infiiuaa5972216.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-07-31T03:34:00Z",
+    "title": "创业板综ETF华夏（159563）涨0.14%，半日成交额122.43万元|华夏_新浪财经_新浪网",
+    "text": "7月31日，截止午间收盘，创业板综ETF华夏（159563）涨0.14%，报1.473元，成交额122.43万元。创业板综ETF华夏（159563）重仓股方面， 宁德时代 截止午盘跌2.59%， 东方财富 跌0.80%， 迈瑞医疗 跌0.82%， 中际旭创 涨8.07%， 汇川技术 涨0.25%， 蓝思科技 涨0.44%， 新易盛 涨4.76%， 爱尔眼科 跌0.68%， 胜宏科技 涨3.61%， 阳光电源 跌1.15%。\n创业板综ETF华夏（159563）业绩比较基准为 创业板综合指数 收益率，管理人为华夏基金管理有限公司，基金经理为华龙、孙然晔，成立（2024-02-01）以来回报为47.10%，近一个月回报为6.75%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Economy, Business and Finance->debt market",
+      "Economy, Business and Finance->financial service",
+      "Science and Technology->technology and engineering",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:37:23.114+03:00",
+    "updated": "2025-08-01T08:06:53.000+03:00"
+  },
+  {
+    "uuid": "35852bc6a2efa59254c17443e7279ddc0426dc49",
+    "url": "https://garuda49498.ampedpages.com/harnessing-the-healing-electric-power-nanobubble-hydrotherapy-for-accelerated-wound-therapeutic-51613485",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Garuda",
+    "published": "2023-12-28T18:46:00Z",
+    "title": "Harnessing the Healing Electric power: Nanobubble Hydrotherapy for Accelerated Wound Therapeutic",
+    "text": "Introduction:\nWithin the realm of health care progress, nanotechnology has emerged as being a sport-changer, offering innovative remedies to age-old complications. One particular such breakthrough is Nanobubble Hydrotherapy, a slicing-edge approach that retains huge promise in the sector of wound therapeutic. With its power to market cellular regeneration and expedite the healing approach, Nanobubble Hydrotherapy is revolutionizing common wound care methods.\nComprehension Nanobubble Hydrotherapy:\nNanobubble Hydrotherapy involves the use of very tiny bubbles, commonly starting from one hundred to 500 nanometers in measurement, while in the treatment of wounds. These nanobubbles are created by infusing oxygen or other therapeutic gases into h2o by way of a specialized generator. When placed on the wound web-site, these nanobubbles show amazing properties that aid the therapeutic course of action.\nMechanism of Motion:\nThe efficacy of Nanobubble Hydrotherapy lies in its exclusive system of action. The nanobubbles possess a high surface area location and a lengthy lifespan in comparison to conventional bubbles, making it possible for them to penetrate deep to the wound bed. Because they collapse, they launch energy and develop shockwaves, advertising and marketing increased oxygenation and circulation in the impacted location. This enhanced oxygen supply is essential for cellular metabolism, advertising the growth of recent tissue and accelerating the therapeutic approach.\nAdvantages of Nanobubble Hydrotherapy for Wound Healing:\none. **Enhanced Oxygenation:**\nConsidered one of the key advantages of Nanobubble Hydrotherapy is its ability to produce oxygen straight to the wound internet site. Oxygen can be a vital component in the mobile respiration approach, and by improving its availability, nanobubbles create an exceptional natural environment for cells to thrive. This increased oxygenation accelerates the development of granulation tissue, essential for the therapeutic of Persistent wounds.\ntwo. **Enhanced Nutrient Supply:**\nNanobubble Hydrotherapy not merely provides oxygen and also facilitates the transportation of nutrients towards the wound mattress. The improved circulation induced by nanobubbles makes sure that important nutrients get to the cells involved in the healing process, even further expediting tissue regeneration.\n3. **Diminished Inflammation:**\nChronic wounds in many cases are characterized by persistent inflammation, which often can impede the therapeutic method. Nanobubble Hydrotherapy has long been proven to have anti-inflammatory properties, helping to reduce swelling and endorse a more favorable setting for therapeutic. By modulating the inflammatory reaction, this therapy contributes to some more rapidly and more productive Restoration.\nfour. **Antimicrobial Consequences:**\nNanobubbles have shown antimicrobial properties, producing them productive in preventing and dealing with bacterial infections related to wounds. The mechanical anxiety a result of the collapse of nanobubbles disrupts the mobile membranes of microbes, fungi, and other pathogens, supplying an extra layer of protection for your wound.\n5. **Non-Invasive Nature:**\nUnlike some conventional wound care methods, Nanobubble Hydrotherapy is non-invasive, rendering it a well-tolerated and affected individual-welcoming possibility. The Mild application of nanobubbles allows for the treatment of delicate or agonizing wounds with no leading to further pain.\nsix. **Flexibility in Wound Varieties:**\nNanobubble Hydrotherapy has shown assure in dealing with numerous types of wounds, including diabetic ulcers, force sores, and surgical incisions. Its versatility stems from its ability to tackle the underlying challenges prevalent to distinct wound types, rendering it a versatile and greatly applicable therapeutic solution.\nForeseeable future Implications and Difficulties:\nThough Nanobubble Hydrotherapy holds great guarantee, further exploration is needed to enhance its software and realize its comprehensive variety of benefits. Standardizing treatment method protocols, determining The perfect focus of nanobubbles, and examining extended-expression consequences are crucial techniques in establishing this therapy being a mainstream selection for wound treatment.\nConclusion:\nNanobubble Hydrotherapy represents a paradigm shift in wound healing, presenting a novel and effective approach to deal with the issues affiliated with Persistent wounds. Its capability to enrich oxygenation, endorse nutrient delivery, decrease inflammation, and exert antimicrobial results positions it being a powerful Resource during the arms of Health care gurus. As research\nNanobubble Hydrotherapy for Ichthyosis Within this area carries on to unfold, Nanobubble Hydrotherapy has the prospective to redefine the landscape of wound care, offering hope for more quickly and a lot more prosperous recoveries for clients throughout the world.\nHarnessing the Healing Electric power: Nanobubble Hydrotherapy for Accelerated Wound Therapeutic\nIntroduction:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://www.thewhitewatercompany.com/post/hydrotherapy-for-ichthyosis",
+      "https://thewhitewatercompany.com/post/hydrotherapy-for-ichthyosis"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "healing electric",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:02:45.008+02:00",
+    "updated": "2023-12-29T00:02:45.008+02:00"
+  }
+]

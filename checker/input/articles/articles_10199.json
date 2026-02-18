@@ -1,0 +1,707 @@
+[
+  {
+    "uuid": "7e1fd14fe51ad494c7448e48cc84599c115b4404",
+    "url": "https://www.keysnews.com/news/government/butterfly-poacher-issued-citiation/article_7cd95667-c392-4e0a-a549-903402bd03f1.html",
+    "ord_in_thread": 0,
+    "author": "SPECIAL TO THE CITIZEN",
+    "published": "2025-07-17T04:00:00Z",
+    "title": "Butterfly poacher issued citiation | Government / Politics | keysnews.com",
+    "text": "A Washington state man has been charged with the unlawful take and possession of wildlife in the Upper Keys, according to a news release from the Florida Fish and Wildlife Conservation Commission.\nThe FWC and the U.S. Fish and Wildlife Service (USFWS) had received multiple reports of butterfly poaching within Dagny Johnson Key Largo Hammock Botanical State Park since 2021. The removal of any wildlife from the park is strictly prohibited.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Environment",
+      "Human Interest"
+    ],
+    "topics": [
+      "Crime, Law and Justice->animal abuse",
+      "Environment->conservation",
+      "Environment->endangered species",
+      "Environment->nature"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Dagny Johnson",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Wildlife Conservation Commission",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "USFWS",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "FWC",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:59:04.954+03:00",
+    "updated": "2025-07-17T05:08:19.000+00:00"
+  },
+  {
+    "uuid": "e76ebdef123317f92c7c2bd7f358e7aebb9485bb",
+    "url": "https://thethaiger.com/news/national/fire-at-wat-lat-nam-khao-novice-monk-heroically-rescues-abbot",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Selman Demirdoven, Full Stack Web Developer, https://github.com/demirdoven, sdemirdoven35@gmail.com, selman@thethaiger.com",
+    "published": "2024-06-22T19:32:00Z",
+    "title": "Wat Lat Nam Khao fire: Novice monk heroically rescues abbot | Thaiger",
+    "text": "A fire broke out at Wat Lat Nam Khao in Suphan Buri, with a novice monk smashing a window to rescue Luang Pu Thoop, a revered monk, from the flames. Despite the swift response from local firefighters, the fire consumed the temple’s ancient wooden structures. At 2pm yesterday, Narongsak Palakawong Na Ayudhya, an investigator at Bang Pla Ma Police Station in Suphan Buri, received a report about a fire at Wat Lat Nam Khao, located in Salee Subdistrict. He immediately dispatched rescue teams from various organisations, including Naen Kaew Highway Rescue, Sameukarn Foundation, and Ruamkatanyu Foundation, along with fire trucks from Kok Kram Municipality and nearby local administrative organisations. The local community also joined efforts to extinguish the rapidly spreading fire . Due to the temple’s predominantly wooden architecture, the fire raged intensely and took over four hours to bring under control. Upon investigation, it was revealed that the fire started with a loud electrical short-circuit sound near the monks’ quarters and the prayer hall. A novice monk at the scene heard the noise and saw the flames spreading quickly. He rushed to alert Luang Pu Thoop Yanawaro, the 87 year old abbot, who was resting at the time. Despite knocking on the door, there was no response. The novice then broke a window to rescue Luang Pu Thoop, who sustained minor injuries but was otherwise safe. The fire destroyed the monks’ quarters and the over-50-year-old wooden prayer hall. Valuable artefacts, including ancient Buddha statues and amulets, were also damaged. Initial damage estimates are around 5 million baht (US$136,000). The cause of the fire is suspected to be an electrical short circuit, but further investigation is needed to confirm this. Following the incident, the Facebook page ไม้มงคลพระเครื่อง posted a message and photos of Luang Pu Thoop. The post described the monk’s calm demeanour despite the recent calamity. “A monk who has never known suffering smiles even after a terrible event.” The accompanying image showed Luang Pu Thoop smiling while looking at his burned quarters, reported KhaoSod. “It burned down but we can rebuild it. Thank you for your concern.” This post resonated with many Buddhists, who shared and commented on it extensively, expressing their reverence and support for Luang Pu Thoop. Thailand News",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "suphan buri",
+          "sentiment": "none"
+        },
+        {
+          "name": "luang pu thoop",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "sameukarn foundation",
+          "sentiment": "none"
+        },
+        {
+          "name": "ruamkatanyu foundation",
+          "sentiment": "none"
+        },
+        {
+          "name": "ayudhya",
+          "sentiment": "none"
+        },
+        {
+          "name": "kok kram municipality",
+          "sentiment": "none"
+        },
+        {
+          "name": "naen kaew highway rescue",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "wat lat nam khao",
+          "sentiment": "none"
+        },
+        {
+          "name": "salee subdistrict",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-23T05:54:11.432+03:00",
+    "updated": "2024-06-23T06:09:02.226+03:00"
+  },
+  {
+    "uuid": "7da20f912394540237fec8b45b1e61cdd3f96c1b",
+    "url": "https://www.washingtonexaminer.com/news/crime/us-experiences-record-drop-homicides-2023",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brady Knox, Breaking News Reporter",
+    "published": "2023-12-29T17:51:00Z",
+    "title": "US experiences record drop in homicides in 2023 | Washington Examiner",
+    "text": "T he United States experienced a record drop in homicides in 2023, following a spike after the start of the COVID-19 pandemic and the 2020 riots .\nAccording to data compiled by the FBI and independent criminologists, the U.S. is set to experience a massive drop in homicides compared to the previous year, the reported . In 2020, the country saw the largest increase in murders ever.\nTWELVE DAYS OF WEX-MAS: NEW ROUND OF NUCLEAR PROLIFERATION LOOMS OVER UNSTABLE WORLD ORDER\nAmong nine violent and property crime categories covered by the FBI, only vehicle theft went up, with the rest experiencing a notable decline.\nJeff Asher, a New Orleans-based crime analyst, said that the data show that crime rates are affected by \"big national factors.\"\n“Murder didn’t go up because of things that happened in individual neighborhoods or individual streets,” he said. “It went up because of these big national factors, and I think the big national factors are probably driving it down. The biggest of which is probably COVID going to the background.”\nCLICK HERE FOR MORE FROM THE WASHINGTON EXAMINER\nDespite the decline, however, murder and most other crimes remain higher than they were before 2020.\nThe drop in murder rates and other violent crimes also varies by city. Detroit is on track to record the lowest number of murders since the 1960s, while Philadelphia and Los Angeles experienced particularly notable drops in homicides and shooting victims, respectively. In contrast, Washington, D.C., experienced a two-decade high in murders.\nLatest Florida woman files suit against Hershey for 'deceptive' holiday packaging By: Jenny Goldsberry\nTrump to rally with Roseanne Barr in Iowa one week before caucuses By: Christian Datoc\nTrump survives challenge to remove him from Wisconsin ballot By: Brady Knox\nVideos\nDOE finalizes efficiency rules for fridges and freezers\nMaine Republicans threaten to impeach secretary of state for kicking Trump off the ballot\nDeWine vetoes bill limiting transgender procedures for minors in Ohio\nTrump can appear on California ballots as Democratic official breaks with Colorado and Maine Newsletters\nSign up now to get the Washington Examiner’s breaking news and timely commentary delivered right to your inbox.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://mediadc.brightspotcdn.com/dims4/default/804b9d6/2147483647/strip/true/crop/1600x1600+0+0/resize/65x65!/format/webp/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fa5%2Fcb%2Fe3bbdae541648b503605c8c8224f%2Fwex-staff-13.JPG",
+      "https://cdn.brid.tv/live/partners/19383/sd/1515927.mp4",
+      "https://mediadc.brightspotcdn.com/dims4/default/8ec7efb/2147483647/strip/true/crop/1600x1600+0+0/resize/65x65!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fa5%2Fcb%2Fe3bbdae541648b503605c8c8224f%2Fwex-staff-13.JPG",
+      "https://www.nytimes.com/2023/12/29/us/crime-data-fbi-homicides.html?smid=nytcore-ios-share&referringSource=articleShare",
+      "https://mediadc.brightspotcdn.com/dims4/default/6c81ac6/2147483647/strip/true/crop/2001x2001+362+0/resize/65x65!/format/webp/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fdd%2F7b%2Fdce1177242ee8eab33c70ab5a1ab%2F020923-staff-22.JPG",
+      "https://mediadc.brightspotcdn.com/dims4/default/68e17e7/2147483647/strip/true/crop/2001x2001+501+0/resize/65x65!/format/webp/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Ffc%2Fdf%2F5ccfd2f143d7809b17e22302a2f8%2F020923-staff-9.JPG",
+      "https://mediadc.brightspotcdn.com/dims4/default/d511a10/2147483647/strip/true/crop/2001x2001+362+0/resize/130x130!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fdd%2F7b%2Fdce1177242ee8eab33c70ab5a1ab%2F020923-staff-22.JPG",
+      "https://mediadc.brightspotcdn.com/dims4/default/c92446f/2147483647/strip/true/crop/2001x2001+501+0/resize/130x130!/format/webp/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Ffc%2Fdf%2F5ccfd2f143d7809b17e22302a2f8%2F020923-staff-9.JPG",
+      "https://mediadc.brightspotcdn.com/dims4/default/502b2d8/2147483647/strip/true/crop/2001x2001+501+0/resize/130x130!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Ffc%2Fdf%2F5ccfd2f143d7809b17e22302a2f8%2F020923-staff-9.JPG",
+      "https://mediadc.brightspotcdn.com/dims4/default/78777d8/2147483647/strip/true/crop/2001x2001+362+0/resize/130x130!/format/webp/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fdd%2F7b%2Fdce1177242ee8eab33c70ab5a1ab%2F020923-staff-22.JPG",
+      "https://mediadc.brightspotcdn.com/dims4/default/a89f8f1/2147483647/strip/true/crop/2001x2001+362+0/resize/65x65!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fdd%2F7b%2Fdce1177242ee8eab33c70ab5a1ab%2F020923-staff-22.JPG",
+      "https://mediadc.brightspotcdn.com/dims4/default/7055093/2147483647/strip/true/crop/2001x2001+501+0/resize/65x65!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Ffc%2Fdf%2F5ccfd2f143d7809b17e22302a2f8%2F020923-staff-9.JPG",
+      "https://mediadc.brightspotcdn.com/dims4/default/22e8c84/2147483647/strip/true/crop/1600x1600+0+0/resize/130x130!/format/webp/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fa5%2Fcb%2Fe3bbdae541648b503605c8c8224f%2Fwex-staff-13.JPG",
+      "https://mediadc.brightspotcdn.com/dims4/default/498a5a5/2147483647/strip/true/crop/1600x1600+0+0/resize/130x130!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fa5%2Fcb%2Fe3bbdae541648b503605c8c8224f%2Fwex-staff-13.JPG",
+      "https://www.mediadc.brightspotcdn.com/dims4/default/8ec7efb/2147483647/strip/true/crop/1600x1600+0+0/resize/65x65!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fa5%2Fcb%2Fe3bbdae541648b503605c8c8224f%2Fwex-staff-13.JPG",
+      "https://mediadc.brightspotcdn.com/dims4/default/8ec7efb/2147483647/strip/true/crop/1600x1600+0+0/resize/65x65!/quality/90/",
+      "https://mediadc.brightspotcdn.com/dims4/default/c92446f/2147483647/strip/true/crop/2001x2001+501+0/resize/130x130!/format/webp/quality/90/",
+      "https://nytimes.com/2023/12/29/us/crime-data-fbi-homicides.html?smid=nytcore-ios-share&referringSource=articleShare",
+      "https://www.nytimes.com/2023/12/29/us/crime-data-fbi-homicides.html",
+      "https://mediadc.brightspotcdn.com/dims4/default/78777d8/2147483647/strip/true/crop/2001x2001+362+0/resize/130x130!/format/webp/quality/90/",
+      "https://www.mediadc.brightspotcdn.com/dims4/default/22e8c84/2147483647/strip/true/crop/1600x1600+0+0/resize/130x130!/format/webp/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fa5%2Fcb%2Fe3bbdae541648b503605c8c8224f%2Fwex-staff-13.JPG",
+      "https://www.mediadc.brightspotcdn.com/dims4/default/6c81ac6/2147483647/strip/true/crop/2001x2001+362+0/resize/65x65!/format/webp/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fdd%2F7b%2Fdce1177242ee8eab33c70ab5a1ab%2F020923-staff-22.JPG",
+      "https://mediadc.brightspotcdn.com/dims4/default/804b9d6/2147483647/strip/true/crop/1600x1600+0+0/resize/65x65!/format/webp/quality/90/",
+      "https://www.mediadc.brightspotcdn.com/dims4/default/78777d8/2147483647/strip/true/crop/2001x2001+362+0/resize/130x130!/format/webp/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fdd%2F7b%2Fdce1177242ee8eab33c70ab5a1ab%2F020923-staff-22.JPG",
+      "https://www.mediadc.brightspotcdn.com/dims4/default/7055093/2147483647/strip/true/crop/2001x2001+501+0/resize/65x65!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Ffc%2Fdf%2F5ccfd2f143d7809b17e22302a2f8%2F020923-staff-9.JPG",
+      "https://www.mediadc.brightspotcdn.com/dims4/default/498a5a5/2147483647/strip/true/crop/1600x1600+0+0/resize/130x130!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fa5%2Fcb%2Fe3bbdae541648b503605c8c8224f%2Fwex-staff-13.JPG",
+      "https://www.mediadc.brightspotcdn.com/dims4/default/a89f8f1/2147483647/strip/true/crop/2001x2001+362+0/resize/65x65!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fdd%2F7b%2Fdce1177242ee8eab33c70ab5a1ab%2F020923-staff-22.JPG",
+      "https://www.mediadc.brightspotcdn.com/dims4/default/c92446f/2147483647/strip/true/crop/2001x2001+501+0/resize/130x130!/format/webp/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Ffc%2Fdf%2F5ccfd2f143d7809b17e22302a2f8%2F020923-staff-9.JPG",
+      "https://mediadc.brightspotcdn.com/dims4/default/a89f8f1/2147483647/strip/true/crop/2001x2001+362+0/resize/65x65!/quality/90/",
+      "https://www.mediadc.brightspotcdn.com/dims4/default/d511a10/2147483647/strip/true/crop/2001x2001+362+0/resize/130x130!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fdd%2F7b%2Fdce1177242ee8eab33c70ab5a1ab%2F020923-staff-22.JPG",
+      "https://mediadc.brightspotcdn.com/dims4/default/68e17e7/2147483647/strip/true/crop/2001x2001+501+0/resize/65x65!/format/webp/quality/90/",
+      "https://mediadc.brightspotcdn.com/dims4/default/22e8c84/2147483647/strip/true/crop/1600x1600+0+0/resize/130x130!/format/webp/quality/90/",
+      "https://www.mediadc.brightspotcdn.com/dims4/default/68e17e7/2147483647/strip/true/crop/2001x2001+501+0/resize/65x65!/format/webp/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Ffc%2Fdf%2F5ccfd2f143d7809b17e22302a2f8%2F020923-staff-9.JPG",
+      "https://www.cdn.brid.tv/live/partners/19383/sd/1515927.mp4",
+      "https://mediadc.brightspotcdn.com/dims4/default/498a5a5/2147483647/strip/true/crop/1600x1600+0+0/resize/130x130!/quality/90/",
+      "https://mediadc.brightspotcdn.com/dims4/default/6c81ac6/2147483647/strip/true/crop/2001x2001+362+0/resize/65x65!/format/webp/quality/90/",
+      "https://mediadc.brightspotcdn.com/dims4/default/502b2d8/2147483647/strip/true/crop/2001x2001+501+0/resize/130x130!/quality/90/",
+      "https://www.mediadc.brightspotcdn.com/dims4/default/502b2d8/2147483647/strip/true/crop/2001x2001+501+0/resize/130x130!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Ffc%2Fdf%2F5ccfd2f143d7809b17e22302a2f8%2F020923-staff-9.JPG",
+      "https://mediadc.brightspotcdn.com/dims4/default/7055093/2147483647/strip/true/crop/2001x2001+501+0/resize/65x65!/quality/90/",
+      "https://www.mediadc.brightspotcdn.com/dims4/default/804b9d6/2147483647/strip/true/crop/1600x1600+0+0/resize/65x65!/format/webp/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fa5%2Fcb%2Fe3bbdae541648b503605c8c8224f%2Fwex-staff-13.JPG",
+      "https://mediadc.brightspotcdn.com/dims4/default/d511a10/2147483647/strip/true/crop/2001x2001+362+0/resize/130x130!/quality/90/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jeff asher",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "washington examiner t",
+          "sentiment": "negative"
+        },
+        {
+          "name": "fbi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington",
+          "sentiment": "none"
+        },
+        {
+          "name": "new orleans",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T21:58:17.552+02:00",
+    "updated": "2023-12-30T00:32:55.583+02:00"
+  },
+  {
+    "uuid": "785119ddc6da22b35e8f7994ca844a89800f4c12",
+    "url": "https://www.lagazzettadelmezzogiorno.it/video/italia-tv/1579872/sorsi-di-benessere-una-crema-golosa-e-salutare-alleata-della-pelle.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Italpress Agenzia",
+    "published": "2024-11-07T21:01:00Z",
+    "title": "Sorsi di benessere - Una crema golosa e salutare, alleata della pelle",
+    "text": "Sorsi di benessere - Una crema golosa e salutare, alleata della pelle Venerdì 08 Novembre 2024, 00:01 Sorsi di benessere - Una crema golosa e salutare, alleata della pelle [Giovinazzo, lo sfogo del sindaco: «Mi hanno rubano l'auto e hanno tentato furto in casa mia, state attenti»](https://www.lagazzettadelmezzogiorno.it/news/bari/1579326/giovinazzo-lo-sfogo-del-sindaco-mi-hanno-rubano-l-auto-e-hanno-tentato-furto-in-casa-mia-state-attenti.html) [Bari, il prefetto non chiederà lo scioglimento del Comune. «Ma servono altri interventi su aziende e Polizia municipale»](https://www.lagazzettadelmezzogiorno.it/news/bari/1578755/bari-il-prefetto-non-chiedera-lo-scioglimento-del-comune-ma-servono-altri-interventi-su-aziende-e-polizia-municipale.html) [Sciopero mezzi pubblici dell'8 novembre, ecco cosa accadrà in Puglia e Basilicata: informazioni e fasce garantite](https://www.lagazzettadelmezzogiorno.it/news/primo-piano/1579547/sciopero-mezzi-pubblici-dell-8-novembre-ecco-cosa-accadra-in-puglia-e-basilicata-informazioni-e-fasce-garantite.html) [Puglia, l'accusa di danno erariale a Emiliano per il contratto alla De Simone: ora la Regione valuta se disdirlo](https://www.lagazzettadelmezzogiorno.it/news/primo-piano/1579194/puglia-sul-contratto-di-titti-de-simone-la-regione-e-davanti-a-un-bivio.html) [Roccaforzata, debiti per 1,8 milioni: a rischio gli stipendi dei dipendenti «Abbiamo scritto al Prefetto, ma nessuna risposta»](https://www.lagazzettadelmezzogiorno.it/news/taranto/1579203/roccaforzata-debiti-per-1-8-milioni-a-rischio-gli-stipendi-dei-dipendenti-abbiamo-scritto-al-prefetto-ma-nessuna-risposta.html) [Avetrana, la Disney non molla sul titolo della serie: tra i testimoni del Comune anche il parroco don Mimmo](https://www.lagazzettadelmezzogiorno.it/news/taranto/1578752/avetrana-la-disney-non-molla-sul-titolo-della-serie-tra-i-testimoni-del-comune-anche-il-parroco-don-mimmo.html) [L'Ex Ilva insiste sull'obiettivo di 8 milioni di tonnellate di acciaio l'anno: «L'impatto sulla salute resta accettabile»](https://www.lagazzettadelmezzogiorno.it/news/taranto/1579325/ex-ilva-la-valutazione-con-8-milioni-di-tonnellate-d-acciaio-rischio-impatto-salute-accettabile.html) [Danno fuoco a due auto della Polizia locale e alla facciata del Comune: denunciati due adolescenti a Margherita di Savoia](https://www.lagazzettadelmezzogiorno.it/video/bat/1579192/danno-fuoco-a-due-auto-della-polizia-locale-e-alla-facciata-del-comune-denunciati-due-adolescenti-a-margherita-di-savoia.html) [«Olivieri deve restare in carcere». Il gup: no ai domiciliari per l’ex consigliere regionale: «Fa ancora politica»](https://www.lagazzettadelmezzogiorno.it/news/bari/1579404/olivieri-deve-restare-in-carcere-il-gup-no-ai-domiciliari-per-lex-consigliere-regionale.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Polizia municipale",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Giovinazzo",
+          "sentiment": "none"
+        },
+        {
+          "name": "Basilicata",
+          "sentiment": "none"
+        },
+        {
+          "name": "Puglia",
+          "sentiment": "none"
+        },
+        {
+          "name": "Bari",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T01:12:28.509+02:00",
+    "updated": "2024-11-08T01:12:28.509+02:00"
+  },
+  {
+    "uuid": "7c902a4965f7d6d2978beb96e6facaf206b5ceee",
+    "url": "https://www.wallstreet-online.de/nachricht/19210989-soun-investor-deadline-robbins-geller-rudman-dowd-llp-announces-that-soundhound-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit",
+    "ord_in_thread": 0,
+    "author": "Business Wire (engl.)",
+    "published": "2025-04-09T21:40:00Z",
+    "title": "SOUN INVESTOR DEADLINE: Robbins Geller Rudman & Dowd LLP Announces that SoundHound AI, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - 09.04.2025",
+    "text": "The law firm of Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of SoundHound AI, Inc. (NASDAQ: SOUN) securities between May 10, 2024 and March 3, 2025, both dates inclusive (the “Class Period”), have until May 27, 2025 to seek appointment as lead plaintiff of the SoundHound class action lawsuit. Captioned Liles v. SoundHound AI, Inc. , No. 25-cv-02915 (N.D. Cal.), the SoundHound class action lawsuit charges SoundHound as well as certain of SoundHound’s top executives with violations of the Securities Exchange Act of 1934.\nIf you suffered substantial losses and wish to serve as lead plaintiff of the SoundHound class action lawsuit, please provide your information here:\nhttps://www.rgrdlaw.com/cases-soundhound-ai-inc-class-action-lawsuit.h ...\nYou can also contact attorneys J.C. Sanchez or Jennifer N. Caringal of Robbins Geller by calling 800/449-4900 or via e-mail at info@rgrdlaw.com .\nCASE ALLEGATIONS : SoundHound provides an independent voice AI platform that purportedly enables businesses across industries to deliver high-quality conversational experiences to their customers.\nThe SoundHound class action lawsuit alleges that defendants throughout the Class Period made false and/or misleading statements and/or failed to disclose that: (i) material weaknesses in SoundHound’s internal controls over financial reporting impaired SoundHound’s ability to effectively account for corporate acquisitions; (ii) in addition, SoundHound overstated the extent to which it had remediated, and/or its ability to remediate, the material weaknesses in its internal controls over financial reporting; (iii) as a result of the foregoing material weaknesses, SoundHound’s reported goodwill following its acquisition of Amelia Holdings, Inc. was inflated and would need to be corrected; (iv) further, SoundHound would likely require extra time and expense to effectively account for its SYNQ3 and Amelia acquisitions; and (v) the above increased the risk that SoundHound would be unable to timely file certain financial reports with the U.S. Securities and Exchange Commission.\nThe SoundHound class action lawsuit further alleges that on March 4, 2025, SoundHound disclosed that it would be unable to timely file its annual report for 2024, stating that “[d]ue to the complexity of accounting for [the SYNQ3 and Amelia acquisitions], the Company require[d] additional time to prepare financial statements and the accompanying notes” and that SoundHound “ha[d] identified material weaknesses in its internal control over financial reporting.” On this news, the price of SoundHound stock fell nearly 6%, according to the complaint.\nLesen Sie auch Wall Street in Panik Investor O’Leary fordert 400 Prozent China-Zölle: Börsen weltweit im freien Fall gestern 16:22 Opfer des Handelskrieges Apple-Aktie stürzt brutal ab: Nicht mehr wertvollster Konzern an der Börse gestern 08:14 Wegen Bitcoin MicroStrategy meldet Mega-Verlust gestern 05:44 Weitere 50 % Einbruch drohen \"Trump will den Crash – um die Zinsen zu drücken\", sagt Steve Burns 08.04.25, 16:29 THE LEAD PLAINTIFF PROCESS : The Private Securities Litigation Reform Act of 1995 permits any investor who purchased or acquired SoundHound securities during the Class Period to seek appointment as lead plaintiff in the SoundHound class action lawsuit. A lead plaintiff is generally the movant with the greatest financial interest in the relief sought by the putative class who is also typical and adequate of the putative class. A lead plaintiff acts on behalf of all other class members in directing the SoundHound class action lawsuit. The lead plaintiff can select a law firm of its choice to litigate the SoundHound class action lawsuit. An investor’s ability to share in any potential future recovery is not dependent upon serving as lead plaintiff of the SoundHound class action lawsuit.\nABOUT ROBBINS GELLER : Robbins Geller Rudman & Dowd LLP is one of the world’s leading law firms representing investors in securities fraud and shareholder litigation. Our Firm has been ranked #1 in the ISS Securities Class Action Services rankings for four out of the last five years for securing the most monetary relief for investors. In 2024, we recovered over $2.5 billion for investors in securities-related class action cases – more than the next five law firms combined, according to ISS. With 200 lawyers in 10 offices, Robbins Geller is one of the largest plaintiffs’ firms in the world, and the Firm’s attorneys have obtained many of the largest securities class action recoveries in history, including the largest ever – $7.2 billion – in In re Enron Corp. Sec. Litig. Please visit the following page for more information:\nhttps://www.rgrdlaw.com/services-litigation-securities-fraud.html\nPast results do not guarantee future outcomes.\nServices may be performed by attorneys in any of our offices.\nView source version on businesswire.com: https://www.businesswire.com/news/home/20250408846231/en/\nThe SoundHound AI Registered (A) Stock at the time of publication of the news with a raise of +22,70 % to 8,81 USD on Nasdaq stock exchange (09. April 2025, 23:23 Uhr).\nDiskutieren Sie über die enthaltenen Werte",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->business governance",
+      "Crime, Law and Justice->law",
+      "Crime, Law and Justice->corporate crime",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.rgrdlaw.com/cases-soundhound-ai-inc-class-action-lawsuit.h",
+      "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20250408846231r1&sid=gewll&distro=ftp",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.rgrdlaw.com%2Fcases-soundhound-ai-inc-class-action-lawsuit.html&esheet=54235659&newsitemid=20250408846231&lan=en-US&anchor=J.C.+Sanchez&index=3&md5=33e29f345c6b466dd3f851a0f287c2ea",
+      "https://www.rgrdlaw.com/services-litigation-securities-fraud.html",
+      "https://www.businesswire.com/news/home/20250408846231/en/",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.rgrdlaw.com%2Fcases-soundhound-ai-inc-class-action-lawsuit.html&esheet=54235659&newsitemid=20250408846231&lan=en-US&anchor=Robbins+Geller+Rudman+%26amp%3B+Dowd+LLP&index=1&md5=0039ca67f56a84cd5bf338f3fc7bfe80",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.rgrdlaw.com%2Fcases-soundhound-ai-inc-class-action-lawsuit.html&esheet=54235659&newsitemid=20250408846231&lan=en-US&anchor=Jennifer+N.+Caringal&index=4&md5=165b1dc12567c43f6b4d8d01fef6e88b",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.rgrdlaw.com%2Fservices-litigation-securities-fraud.html&esheet=54235659&newsitemid=20250408846231&lan=en-US&anchor=https%3A%2F%2Fwww.rgrdlaw.com%2Fservices-litigation-securities-fraud.html&index=5&md5=b1929583731c7d9e3642fa29659f0189",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.rgrdlaw.com%2Fcases-soundhound-ai-inc-class-action-lawsuit.html&esheet=54235659&newsitemid=20250408846231&lan=en-US&anchor=https%3A%2F%2Fwww.rgrdlaw.com%2Fcases-soundhound-ai-inc-class-action-lawsuit.html&index=2&md5=0a1ac4e6efc86fc913ec0e7080e960b6",
+      "https://www.cts.businesswire.com/ct/CT?id=bwnews&sty=20250408846231r1&sid=gewll&distro=ftp",
+      "https://rgrdlaw.com/cases-soundhound-ai-inc-class-action-lawsuit.h",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.rgrdlaw.com%2Fcases-soundhound-ai-inc-class-action-lawsuit.html&esheet=54235659&newsitemid=20250408846231&lan=en-US&anchor=Jennifer+N.+Caringal&index=4&md5=165b1dc12567c43f6b4d8d01fef6e88b",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.rgrdlaw.com%2Fcases-soundhound-ai-inc-class-action-lawsuit.html&esheet=54235659&newsitemid=20250408846231&lan=en-US&anchor=Robbins+Geller+Rudman+%26amp%3B+Dowd+LLP&index=1&md5=0039ca67f56a84cd5bf338f3fc7bfe80",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.rgrdlaw.com%2Fcases-soundhound-ai-inc-class-action-lawsuit.html&esheet=54235659&newsitemid=20250408846231&lan=en-US&anchor=J.C.+Sanchez&index=3&md5=33e29f345c6b466dd3f851a0f287c2ea",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.rgrdlaw.com%2Fservices-litigation-securities-fraud.html&esheet=54235659&newsitemid=20250408846231&lan=en-US&anchor=https%3A%2F%2Fwww.rgrdlaw.com%2Fservices-litigation-securities-fraud.html&index=5&md5=b1929583731c7d9e3642fa29659f0189",
+      "https://www.businesswire.com/news/home/20250408846231/en",
+      "https://cts.businesswire.com/ct/CT",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.rgrdlaw.com%2Fcases-soundhound-ai-inc-class-action-lawsuit.html&esheet=54235659&newsitemid=20250408846231&lan=en-US&anchor=https%3A%2F%2Fwww.rgrdlaw.com%2Fcases-soundhound-ai-inc-class-action-lawsuit.html&index=2&md5=0a1ac4e6efc86fc913ec0e7080e960b6",
+      "https://rgrdlaw.com/services-litigation-securities-fraud.html",
+      "https://businesswire.com/news/home/20250408846231/en/"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jennifer N. Caringal",
+          "sentiment": "none"
+        },
+        {
+          "name": "J.C. Sanchez",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Robbins Geller Rudman & Dowd LLP",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:52:42.729+03:00",
+    "updated": "2025-04-10T01:11:27.735+03:00"
+  },
+  {
+    "uuid": "9531f61c7fa3e83bc69a3697aebbf010981d0776",
+    "url": "https://www.nny360.com/communitynews/communitynotes/north-country-battles-round-two-of-blustery-lake-effect-snow/article_fb758c01-54c0-547a-add5-539c3ae8fd9c.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "JONATHON WHEELER",
+    "published": "2024-12-13T00:30:00Z",
+    "title": "North country battles round two of blustery lake-effect snow | Community Notes | nny360.com",
+    "text": "WATERTOWN — The lake-effect snow storm Thursday caused some trouble for north country residents as snow continued to fall in the area through the afternoon and evening.\nDo you have a snowblower? You voted: Yes, it's essential! Nope, a shovel works for me We use a plow on a vehicle I don't handle the snow removal Vote View Results Back A state trooper had to be taken to Samaritan Medical Center for treatment of non-life-threatening injuries Thursday after a multi-vehicle crash forced a portion of Interstate 81 to be shut down.\nPolice said in a news release that the crash occurred in the southbound lane and involved two troop vehicles and a civilian vehicle.\nHigh winds led to blustery conditions across the area, with both Jefferson and Lewis counties issuing travel advisories. In Lewis County, a portion of Route 26 had to be closed in both directions Thursday between Bridge Street and Deer River Road after a tractor trailer struck a pole.\nWind also caused some trees to fall into roadways, emergency dispatchers reported. A wind gust of 53 mph was reported at Watertown International Airport near Dexter.\nThe National Weather Service in Buffalo states on its website that the band off of Lake Ontario was expected to stay near Watertown to Fort Drum through the mid-afternoon before shifting south to the northern part of Tug Hill late Thursday afternoon. Two-to-three inches of snow per hour was expected to fall.\nLater Thursday evening, it was anticipated that the band would then shift back north closer to Watertown and potentially to Watertown overnight.\n“The band will also intensify later (Thursday) evening and overnight, with 3-4” per hour snowfall rates possible,” the report states.\nLate Thursday night the band was anticipated to shift south crossing over the Tug Hill and ending up in northern or central Oswego County.\nThose not in the lake-effect area should expect mainly dry weather with some sunshine on Friday.\nThere is little chance of snow over the weekend with a high of 29 with sunny skies on Saturday, and a chance of showers after 1 p.m. Sunday.\nAs of around 4 p.m. Thursday, 8.5 inches of snow fell in Watertown, according to the National Weather Service with 9.8 inches falling in Black River.\nA lake-effect snow warning for Jefferson and Lewis counties expires at 7 p.m. Friday.\nJohnson Newspapers 7.1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": false,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://ads.empowerlocal.co/adserve/;ID=181918;size=0x0;setID=739228;type=js;sw=",
+      "https://www.ads.empowerlocal.co/adserve/;ID=181918;size=0x0;setID=739228;type=js;sw="
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T03:21:17.863+02:00",
+    "updated": "2024-12-20T05:01:01.487+02:00"
+  },
+  {
+    "uuid": "f6988245936d768225ae05ab6ebafcd6339cc343",
+    "url": "https://greenmedinfo.com/article/icariin-negatively-regulated-lipopolysaccharide-induced-inflammation-and-ameli",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "greenmedinfo",
+    "published": "2023-12-28T22:00:00Z",
+    "title": "Icariin negatively regulated lipopolysaccharide-induced inflammation and ameliorated the odontogenic activity of human dental pulp cells.",
+    "text": "[Icariin negatively regulated lipopolysaccharide-induced inflammation and ameliorated the odontogenic activity of human dental pulp cells.](/article/icariin-negatively-regulated-lipopolysaccharide-induced-inflammation-and-ameli) - GreenMedInfo Summary\nIcariin negatively regulated lipopolysaccharide-induced inflammation and ameliorated the odontogenic activity of human dental pulp cells.\nHeliyon. 2023 Dec ;9(12):e23282. Epub 2023 Dec 3. PMID:\n38144358\nGuo Liu\nAlleviating inflammation and promoting dentine regeneration is critical for the healing of pulpitis. In this study, we investigated the anti-inflammatory, angiogenesis and odontogenesis function of icariin on Human dental pulp cells (HDPCs) under inflammatory state. Furthermore, the underlying mechanisms was also evaluated. Icariin attenuated the LPS-induced pro-inflammatory marker expression, such as interleukin-1β(IL-1β), IL-6 and IL-8. The immunoblotting and immunofluorescence staining results showed that icariin suppressed the inflammatory responses mediated by the protein kinase B (Akt) and nuclear factor kappa-B (NF-κB) signaling cascades. Additionally, icariin also upregulated the expression of odontogenic and angiogenic genes and proteins (namely dentin sialophosphoprotein (DSPP), dentin matrix protein 1 (DMP1), anti-collagenⅠ(COL-Ⅰ), and vascular endothelial growth factor (VEGF) and fibroblast growth factor-1 (FGF-1)), alkaline phosphatase activity, and calcium nodule deposition in LPS-exposed HDPCs. In a word, our findings indicated that icariin attenuated pulp inflammation and promoted odontogenic and angiogenic differentiation in the inflammatory state. Icariin may be a promising vital pulp therapy agent for the regenerative treatment of the inflamed dental pulp.\n[Icariin : CK(10) : AC(7)](/substance/icariin) [Inflammation : CK(9572) : AC(3089)](/disease/inflammation), [Lipopolysaccharide-Induced Toxicity : CK(1764) : AC(1073)](/disease/lipopolysaccharide-induced-toxicity)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Human Interest"
+    ],
+    "external_links": [
+      "http://www.ncbi.nlm.nih.gov/pubmed/38144358",
+      "http://ncbi.nlm.nih.gov/pubmed/38144358"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "icariin",
+          "sentiment": "negative"
+        },
+        {
+          "name": "guo liu",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:43:34.470+02:00",
+    "updated": "2023-12-29T02:43:34.470+02:00"
+  },
+  {
+    "uuid": "81c18be7e6de0c1271c494eb7b389e4a83fd5f00",
+    "url": "https://www.tagesspiegel.de/berlin/kritik-an-bildungssenatorin-gunther-wunsch-entschuldigt-sich-fur-falsche-angaben-13920220.html",
+    "ord_in_thread": 0,
+    "author": "Der Tagesspiegel",
+    "published": "2025-06-26T10:18:00Z",
+    "title": "Kritik an Bildungssenatorin: Günther-Wünsch entschuldigt sich für falsche Angaben",
+    "text": "Die Bildungssenatorin hat frühere Aussagen im Abgeordnetenhaus korrigiert. Im Parlament erklärt sie, wie es dazu gekommen ist. Und sie geht noch einen Schritt weiter.\nHeute, 12:18 Uhr\nBildungssenatorin Katharina Günther‑Wünsch (CDU) hat sich im Berliner Abgeordnetenhaus für falsche Aussagen von ihr im Parlament entschuldigt. „In meiner öffentlichen Erklärung am vergangenen Freitag habe ich öffentlich gemacht, dass ich am Bildungsausschuss am 5. Juni und im Plenum am 12. Juni eine nicht den Tatsachen entsprechende Aussage zum Zeitpunkt eines Schreibens gemacht habe, wann es mir vorgelegen hat“, sagte sie. „Ich möchte heute die Gelegenheit hier und jetzt nutzen und auch ergreifen, um mich sowohl bei der Öffentlichkeit als auch bei Ihnen, sehr geehrte Fraktionäre für diese falsche Erinnerung meinerseits zu entschuldigen.“\nDabei ging es um die Frage, wann sie einen an sie gerichteten Anwaltsbrief im Auftrag des Berliner Lehrers Oziel Inácio-Stech bekommen hat, der an seiner Schule nach eigenen Angaben wegen seiner Homosexualität gemobbt wurde.\nGünther-Wünsch hatte zunächst gesagt, den Brief erst in diesem Mai gelesen zu haben. Am Freitag räumte sie ein, dass ihr das Schreiben vom 4. Dezember 2024 persönlich vorgelegen habe.\nPostbuch verzeichnete das Schreiben nicht „Die von mir gemachten Angaben beruhten auf dem damaligen Stand der internen Prüfung“, sagte die CDU-Politikerin zur Erklärung. „Wir haben ein elektronisches Postbuch - wie wahrscheinlich alle Fachverwaltungen - und diesem elektronischen Postbuch war weder zu entnehmen, dass dieses Schreiben vorlag, noch dass ich es verfügt hätte.“\nEmpfohlener redaktioneller Inhalt\nAn dieser Stelle finden Sie einen von unseren Redakteuren ausgewählten, externen Inhalt, der den Artikel für Sie mit zusätzlichen Informationen anreichert. Sie können sich hier den externen Inhalt mit einem Klick anzeigen lassen oder wieder ausblenden.\nExternen Inhalt anzeigen Ich bin damit einverstanden, dass mir der externe Inhalt angezeigt wird. Damit können personenbezogene Daten an Drittplattformen übermittelt werden. Mehr Informationen dazu erhalten Sie in den Datenschutz-Einstellungen. Diese finden Sie ganz unten auf unserer Seite im Footer, sodass Sie Ihre Einstellungen jederzeit verwalten oder widerrufen können.\nErst eine weitere Prüfung der Akten habe ergeben, dass ihr das Schreiben bereits am 4. Dezember vorgelegen habe. „Und da mir angesichts der Komplexität des Sachverhalts eine Transparenz äußerst wichtig ist, habe ich am selben Tag, an dem mir diese Information zugekommen ist, die Öffentlichkeit informiert“, sagte Günther-Wünsch.\nAkteneinsicht soll Transparenz schaffen Zu der Möglichkeit für Abgeordnete, am Montag Einsicht in die Akten zu nehmen, sagte die Bildungssenatorin, es sei ihr Ziel, höchstmögliche Transparenz herzustellen. „Denn sie ist die Voraussetzung dafür, die notwendigen, aber auch die richtigen Ableitungen aus dem ganzen Sachverhalt zu ziehen.“\nDafür sei es notwendig, Kenntnis des gesamten Sachverhaltes zu haben. Aus ihrer Sicht sei der Sachverhalt nach wie vor sehr komplex. „Und deswegen erhoffe ich mir aus der Aktenansicht zum einen diese Transparenz für alle, zweitens einen tiefgehenden Austausch auch hier im Plenum und drittens eine fundierte Grundlage, die wir alle benötigen zur Bewertung und dann zu treffenden Ableitungen.“\nDie Grünen haben beantragt, am Nachmittag über einen Missbilligungsantrag gegen die Bildungssenatorin wegen der falschen Angaben abstimmen zu lassen.\n© dpa-infocom, dpa:250626-930-720364/1\nDas ist eine Nachricht direkt aus dem dpa-Newskanal.\nZur Startseite\nshowPaywall: false isSubscriber: false isPaid:\nper E-Mail teilen\nauf Facebook teilen\nauf Twitter teilen\nper WhatsApp teilen\nauf Pocket teilen\nper E-Mail teilen Ausblenden",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Education"
+    ],
+    "topics": [
+      "Politics->government",
+      "Politics->political process",
+      "Politics->political parties and movements",
+      "Social Issue->social condition",
+      "Social Issue->demographics",
+      "Social Issue->social services",
+      "Education->teachers",
+      "Education->school",
+      "Education->educational grading"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://getpocket.com/edit?url=https%3A%2F%2Fwww.tagesspiegel.de%2Fberlin%2Fkritik-an-bildungssenatorin-gunther-wunsch-entschuldigt-sich-fur-falsche-angaben-13920220.html&utm_source=pocket_share&utm_campaign=share&utm_content=13920220",
+      "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.tagesspiegel.de%2Fberlin%2Fkritik-an-bildungssenatorin-gunther-wunsch-entschuldigt-sich-fur-falsche-angaben-13920220.html&text=Kritik%20an%20Bildungssenatorin%3A%20G%C3%BCnther-W%C3%BCnsch%20entschuldigt%20sich%20f%C3%BCr%20falsche%20Angaben&via=Tagesspiegel&utm_source=twitter_share&utm_campaign=share&utm_content=13920220",
+      "https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.tagesspiegel.de%2Fberlin%2Fkritik-an-bildungssenatorin-gunther-wunsch-entschuldigt-sich-fur-falsche-angaben-13920220.html&utm_source=facebook_share&utm_campaign=share&utm_content=13920220",
+      "https://api.whatsapp.com/send?text=Kritik%20an%20Bildungssenatorin%3A%20G%C3%BCnther-W%C3%BCnsch%20entschuldigt%20sich%20f%C3%BCr%20falsche%20Angaben%20https%3A%2F%2Fwww.tagesspiegel.de%2Fberlin%2Fkritik-an-bildungssenatorin-gunther-wunsch-entschuldigt-sich-fur-falsche-angaben-13920220.html&utm_source=whatsapp_share&utm_campaign=share&utm_content=13920220",
+      "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.tagesspiegel.de%2Fberlin%2Fkritik-an-bildungssenatorin-gunther-wunsch-entschuldigt-sich-fur-falsche-angaben-13920220.html&utm_source=facebook_share&utm_campaign=share&utm_content=13920220",
+      "https://www.api.whatsapp.com/send?text=Kritik%20an%20Bildungssenatorin%3A%20G%C3%BCnther-W%C3%BCnsch%20entschuldigt%20sich%20f%C3%BCr%20falsche%20Angaben%20https%3A%2F%2Fwww.tagesspiegel.de%2Fberlin%2Fkritik-an-bildungssenatorin-gunther-wunsch-entschuldigt-sich-fur-falsche-angaben-13920220.html&utm_source=whatsapp_share&utm_campaign=share&utm_content=13920220",
+      "https://facebook.com/sharer.php",
+      "https://getpocket.com/edit",
+      "https://www.twitter.com/intent/tweet?url=https%3A%2F%2Fwww.tagesspiegel.de%2Fberlin%2Fkritik-an-bildungssenatorin-gunther-wunsch-entschuldigt-sich-fur-falsche-angaben-13920220.html&text=Kritik%20an%20Bildungssenatorin%3A%20G%C3%BCnther-W%C3%BCnsch%20entschuldigt%20sich%20f%C3%BCr%20falsche%20Angaben&via=Tagesspiegel&utm_source=twitter_share&utm_campaign=share&utm_content=13920220",
+      "https://api.whatsapp.com/send",
+      "https://www.getpocket.com/edit?url=https%3A%2F%2Fwww.tagesspiegel.de%2Fberlin%2Fkritik-an-bildungssenatorin-gunther-wunsch-entschuldigt-sich-fur-falsche-angaben-13920220.html&utm_source=pocket_share&utm_campaign=share&utm_content=13920220",
+      "https://twitter.com/intent/tweet"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Katharina Günther‑Wünsch",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Oziel Inácio-Stech",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "CDU",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_de",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-26T13:29:27.438+03:00",
+    "updated": "2025-06-26T10:33:31.000+00:00"
+  },
+  {
+    "uuid": "13db3f0ce1f4285707172e8004163bfd6269685a",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-07-31/doc-infiiuaa5969922.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-07-31T03:32:00Z",
+    "title": "软件ETF（159852）涨2.12%，半日成交额3.96亿元|软件_新浪财经_新浪网",
+    "text": "7月31日，截止午间收盘，软件ETF（159852）涨2.12%，报0.866元，成交额3.96亿元。软件ETF（159852）重仓股方面， 科大讯飞 截止午盘涨2.87%， 金山办公 涨5.89%， 同花顺 跌0.83%， 恒生电子 跌0.81%， 润和软件 涨0.41%， 三六零 涨9.12%， 软通动力 涨0.71%， 拓维信息 涨1.56%， 指南针 跌0.97%。\n软件ETF（159852）业绩比较基准为中证软件服务指数收益率，管理人为嘉实基金管理有限公司，基金经理为田光远，成立（2021-01-29）以来回报为-15.24%，近一个月回报为4.59%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->market and exchange",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->biotechnology",
+      "Science and Technology->scientific innovation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:43:35.320+03:00",
+    "updated": "2025-08-01T08:08:25.000+03:00"
+  },
+  {
+    "uuid": "f42d10bd05500ca67dc9ece166ad17cecedbf149",
+    "url": "https://www.timescolonist.com/national-news/alberta-premier-smith-says-legislation-on-school-pronouns-coming-after-september-9357363",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Canadian Press",
+    "published": "2024-08-15T21:20:00Z",
+    "title": "Alberta Premier Smith says legislation on school pronouns coming after September",
+    "text": "EDMONTON — Alberta Premier Danielle Smith says her government will introduce legislation on pronouns in schools after classes begin in September. Lisa Johnson, The Canadian Press Aug 15, 2024 4:30 PM Share by Email Share on Facebook Share on X Share on LinkedIn Print Share via Text Message Alberta Premier Daniel Smith speaks at a news conference in Calgary, Alta., Tuesday, July 30, 2024. Smith says her government will introduce legislation on new school pronoun rules after classes begin in September. THE CANADIAN PRESS/Todd Korol EDMONTON — Alberta Premier Danielle Smith says her government will introduce legislation on pronouns in schools after classes begin in September.\nSmith said the new policy requiring parents to consent before children under 16 can change their names or pronouns in schools will be proposed in the fall legislature session that begins in late October.\n\"I don't want to presuppose what the outcome of those deliberations would be, but there will be lots of time to be able to get the policies in place and to implement them, so we have to make sure we have that robust discussion,\" Smith told an unrelated news conference on Thursday.\nHer comments come about three weeks before most kindergarten to Grade 12 schools open their classrooms.\nSmith said she intends to bring legislation forward for a suite of policies she first announced in January.\nThose include restricting transgender youth access to gender-affirming health care, banning transgender participation in female sports, and requiring parental consent or notification on sex education and changes to pronouns and names in schools.\n\"Once you've passed legislation, regulations have to be implemented,\" said Smith, who did not offer specifics about what enforcement would look like.\nLGBTQ+ advocacy groups Egale Canada and Skipping Stone Foundation have said if Alberta moves ahead with the proposed changes, they would bring legal action.\nBefore Smith spoke on Thursday, the province’s two largest school divisions -- the Edmonton Public School Board and the Calgary Board of Education -- said they weren’t clear on what the province will implement and when those changes would arrive.\nOn Wednesday, Alberta Teachers’ Association president Jason Schilling told The Canadian Press that his colleagues are incredibly worried about a chilling effect of new pronoun rules, even if the policy remains in limbo.\n\"It does definitely have a bit of a dark cloud hanging over things,\" he said, noting many teachers worry about being put in the position of having to decide whether to violate the trust and confidence of a student.\n\"They don't want to jeopardize the safety of a student who might trust them enough to share the struggles that they're going through,\" said Schilling.\nThe issue has raised questions over whether Smith’s government would ultimately follow in the footsteps of Saskatchewan's government.\nSaskatchewan invoked the rarely used notwithstanding clause to override sections of the Charter of Rights and Freedoms and Saskatchewan's Human Rights Code for its pronoun legislation last fall.\nSchilling said if the Alberta premier did that, it would be \"a sledgehammer approach,\" and tone deaf.\nMore pressing worries for teachers are a lack of educational assistants, and ballooning class sizes, he said.\nCritics have called Smith's moves an act of appeasement to her far-right United Conservative Party base ahead of a leadership review in early November, but Smith has said the issue of \"parental rights\" is important to her government.\nShe has said she believes there’s nothing wrong with parents wanting to protect their \"child’s innocence as long as possible on issues of sexuality.\"\nFollowing Smith's announcement Thursday, Kristopher Wells, a Canada Research Chair for the public understanding of sexual and gender minority youth at MacEwan University in Edmonton, wrote on social media that the premier's \"obsession\" with the transgender community is \"beyond weird.\"\n\"The fact that she ignores our crumbling health-care system to obsess over what parts people have in their pants is deeply disturbing. This trans panic she is manufacturing is hateful, hurtful and needs to stop,\" Wells wrote on X, formerly known as Twitter.\nSaskatchewan passed a law in October preventing children under 16 from changing their names or pronouns at school without parental consent. Dozens of teachers signed an online petition calling on school divisions not to follow the law. The Saskatchewan Human Rights Commission has said invoking the notwithstanding clause significantly affects the rights of minors.\nHeather Kuttai, a former Saskatchewan human rights commissioner, resigned over the legislation, saying it assaults the rights of gender-diverse children.\nA report from Saskatchewan's child advocate said it violates rights to gender identity and expression.\n— With files from Jeremy Simes in Regina\nThis report by The Canadian Press was first published Aug. 15, 2024.\nLisa Johnson, The Canadian Press\nSee a typo/mistake? Have a story/tip? This has been shared 0 times 0 Shares Share by Email Share on Facebook Share on X Share on LinkedIn Print Share via Text Message",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Education"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "danielle smith",
+          "sentiment": "negative"
+        },
+        {
+          "name": "smith",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "alberta premier smith",
+          "sentiment": "negative"
+        },
+        {
+          "name": "the canadian press",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "saskatchewan",
+          "sentiment": "none"
+        },
+        {
+          "name": "edmonton",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T00:25:09.520+03:00",
+    "updated": "2024-08-16T04:09:33.403+03:00"
+  }
+]

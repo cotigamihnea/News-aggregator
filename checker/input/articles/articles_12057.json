@@ -1,0 +1,567 @@
+[
+  {
+    "uuid": "38d33d02ce32ae740a3e632647d2505b9ecafb77",
+    "url": "https://pc-tablet.com/your-apple-google-facebook-passwords-are-exposed-a-massive-leak-demands-immediate-action",
+    "ord_in_thread": 0,
+    "author": "Ashlyn Fernandes",
+    "published": "2025-06-18T17:45:00Z",
+    "title": "Your Apple, Google, Facebook Passwords Are Exposed: A Massive Leak Demands Immediate Action",
+    "text": "A recent, massive data leak has rattled the digital world, exposing approximately 184 million passwords tied to some of the most widely used online platforms—Apple, Google, Facebook, Microsoft, Instagram, and Snapchat among them. This isn’t just a vague, theoretical concern. Security researchers have examined and verified the data. The threat is very real, and the fallout could be enormous. We’re talking about identity theft, financial fraud, unauthorized account access—real-life consequences that could hit anyone, fast.\nKey Takeaways: An unsecured online database was discovered containing over 184 million plaintext passwords linked to top platforms like Apple, Google, and Facebook. This leak goes far beyond social accounts—it includes login credentials for banks, healthcare providers, and even government services. The data, alarmingly stored in plaintext, poses an elevated threat since it’s instantly usable. Users who recycle passwords across multiple accounts are especially vulnerable to credential stuffing attacks. Urgent steps are advised: change your passwords, turn on multi-factor authentication (MFA), and start using a password manager. Tools like Google’s Password Checkup or Have I Been Pwned can help you identify if your data has been exposed. The discovery was made by cybersecurity expert Jeremiah Fowler, who found the database completely exposed—no passwords, no encryption, just raw, searchable login data. The file reportedly included not only emails and passwords, but also authorization links, all presented in a readable, dangerous format. This included access to banks, financial apps, healthcare systems, and government portals across various countries. Fowler called it “one of the most dangerous discoveries I have found in a very long time,” going so far as to label it a “cybercriminal’s dream working list.”\nThe Anatomy of a Digital Disaster The dataset was roughly 47.42 GB in size and contained over 184 million unique logins and passwords. It’s staggering. This scale surpasses many earlier breaches and paints a worrying picture: our online lives are more interconnected—and more vulnerable—than ever. From casual browsing and social media to managing finances or interacting with public services, everything hinges on credentials that might now be in criminal hands.\nThe likely culprit? Infostealing malware. These are malicious programs that sneak onto devices, steal sensitive data like login credentials, and then funnel it to cybercriminal marketplaces. The hosting provider was informed and has since locked the database down, but there’s no telling how long the data was exposed or who might have accessed it in the meantime.\nThe Clear and Present Danger: Credential Stuffing One of the most immediate dangers is credential stuffing. It’s a simple but frighteningly effective method. Hackers take stolen usernames and passwords from one breach and try them on a bunch of other websites, hoping people reused their login info. And frankly, a lot of us do. That convenience—using the same password for everything—makes this method brutally effective.\nIf successful, the consequences can spiral: Identity Theft : Hackers can impersonate you, open new lines of credit, or access confidential services. Financial Fraud : If they get into your bank account, they can transfer funds or apply for loans. Data Exfiltration : Private messages, sensitive documents, and personal data can be stolen. Further Attacks : Your compromised account could be used to scam your contacts or spread malware. Because this leak includes plaintext credentials—even for high-value targets like financial and government accounts—the stakes are especially high. This isn’t just about losing a Facebook page; it’s about potential financial and personal devastation.\nA Deeper Dive into the Broader Threat Landscape This leak is part of a troubling trend. In 2023, some 353 million people were affected by publicly reported data compromises. By 2024, that number ballooned to more than 5.5 billion. We’ve entered the era of mega-breaches. And the cost of these breaches? An average of $4.88 million per incident—a 10% jump from the year before.\nCloud services, though useful, contribute to this vulnerability. An IBM report noted that 82% of breaches last year involved cloud-stored data. Phishing, ransomware , and malware continue to serve as the primary attack vectors that ultimately lead to large-scale breaches like this one.\nWhat You Must Do Now: Your Essential Action Plan Waiting and hoping you weren’t part of this breach is not a strategy. Take these steps immediately:\nCheck for Exposure\nGoogle Password Checkup : Go to passwords.google.com or your phone’s settings to see if your saved passwords are flagged. Have I Been Pwned : Visit haveibeenpwned.com and enter your email address. Other Tools : Services like Avast Hack Check can provide additional insights. Change Your Passwords – Strategically\nStart with accounts that show signs of compromise. Use unique passwords for every single account. Strong passwords = 12+ characters, a mix of letters, numbers, and symbols. Consider passphrases for easy memory and strong security. Enable Multi-Factor Authentication (MFA)\nMFA adds a second layer of protection. Even if your password is stolen, attackers can’t get in without this extra step. Use app-based authenticators (like Authy or Google Authenticator) instead of SMS for better security. Use a Password Manager\nPassword managers like LastPass, 1Password, Bitwarden, or Google Password Manager help you generate and manage strong, unique passwords. Monitor Your Accounts and Financial Statements\nKeep an eye on your credit card and bank transactions. Watch for unusual login alerts or password change notifications. Be Alert for Phishing\nFollowing big leaks, phishing attempts usually spike. Be cautious of emails or messages asking for personal info. Don’t click suspicious links—visit official sites directly. Consider Freezing Your Credit\nIf your financial info was exposed, freeze your credit with Equifax, Experian, and TransUnion. The Path Forward: A Call for Collective Vigilance This breach isn’t just another blip—it’s a wake-up call. Tech giants like Apple, Google, and Facebook invest billions in security, but that doesn’t make you invulnerable. All it takes is one weak link, one exposed database, and millions are at risk.\nPracticing good cyber hygiene is no longer optional. It’s a responsibility. For individuals, that means strong, unique passwords and enabling MFA everywhere you can. For businesses and governments, it’s about implementing and enforcing serious data security policies—starting with encrypting sensitive user data.\nThis fight isn’t going away. But with awareness, action, and a bit of caution, we can make it harder for bad actors to win.\nFrequently Asked Questions (FAQ) Q1: How do I know if my Apple, Google, or Facebook password was leaked?\nA1: Use Google’s Password Checkup or Have I Been Pwned to check your email against known breaches. If your email shows up, assume any associated password may be compromised.\nQ2: I use different passwords for every site. Am I safe?\nA2: You’re definitely in a better position. If a unique password is compromised, the damage is limited to that single account. But still—change it, and turn on MFA.\nQ3: What exactly is MFA and why should I bother?\nA3: MFA requires a second verification step, like a code or fingerprint. It means even if your password is stolen, the attacker still needs that second factor. It’s one of the most effective defenses you can have.\nQ4: Are password managers really safe to use?\nA4: Yes—if you pick a reputable one. They use strong encryption and keep your login info secure. They also help you break the habit of password reuse.\nQ5: What should I do if my bank info was leaked?\nA5: Contact your bank immediately. Freeze your accounts if needed. Monitor for suspicious activity. Also consider a credit freeze.\nQ6: How often should I update passwords after a breach?\nA6: Change any known-compromised passwords right away. For important accounts, update passwords every few months as a best practice.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->social sciences",
+      "Science and Technology->information technology and computer science",
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Google",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Microsoft",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Facebook",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Apple",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:37:53.948+03:00",
+    "updated": "2025-06-19T04:41:42.000+00:00"
+  },
+  {
+    "uuid": "b99f86aa383d595339cd0f13b770724965510f82",
+    "url": "https://istoe.com.br/whindersson-nunes-se-interna-voluntariamente-em-clinica-psiquiatrica-em-sao-paulo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Thais Fonseca",
+    "published": "2025-02-21T00:33:00Z",
+    "title": "Whindersson Nunes se interna voluntariamente em clínica psiquiátrica em São Paulo",
+    "text": "O influenciador Whindersson Nunes, 30, está internado em uma clínica psiquiátrica no interior de São Paulo. A informação foi confirmada pela empresa Non Stop Produções Artísticas, agência que gerencia a carreira do humorista.\nDe acordo com comunicado divulgado pela agência, o artista teria decidido voluntariamente pela internação, em busca de acompanhamento médico especializado para cuidar da saúde mental.\nA nota diz, ainda, que o artista está bem e que deseja voltar em breve aos palcos.\n“Sempre preocupado com seus fãs e com o público, Whindersson tomou essa decisão visando o cuidado integral de sua saúde. Ele está muito bem, feliz com sua evolução e, em breve, estará de volta aos palcos fazendo o que mais ama”, diz um trecho da nota publicada nas redes sociais.\nWhindersson Nunes já desabafou sobre conviver com depressão e relatou ter se sentido mal no palco quando fazia shows.\n“Primeira vez que a depressão fez eu não me sentir bem com um microfone na mão foi hoje, mas aprendi mais uma. Quando for fazer algo, faça por que quer, não por que está com raiva”, escreveu ela nas redes sociais na ocasião.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Health"
+    ],
+    "topics": [
+      "Health->health facility",
+      "Health->health care approach",
+      "Health->mental health and disorder"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T02:51:14.798+02:00",
+    "updated": "2025-02-21T02:51:14.798+02:00"
+  },
+  {
+    "uuid": "3b14acdae392c9ffa82114c8f450aa36e11ca9b6",
+    "url": "https://www.01net.com/actualites/nintendo-trolle-fans-nouvelle-console-lego.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gabriel Manceau",
+    "published": "2025-01-10T08:00:00Z",
+    "title": "Nintendo trolle ses fans en annonçant une nouvelle console en Lego",
+    "text": "Alors que de nouvelles images 3D de la Switch 2 ont Ã©tÃ© partagÃ©es, Nintendo dÃ©cide de troller ses fans en annonÃ§antâ€¦ un Game Boy en Lego. Cet automne, les deux marques cÃ©lÃ¨breront la console portable grise qui a marquÃ© des gÃ©nÃ©rations.\nUne nouvelle collaboration entre Lego et Nintendo\nNintendo et Lego ne sont pas Ã leur premier coup dâ€™essai. AprÃ¨s le succÃ¨s de leurs prÃ©cÃ©dentes crÃ©ations, notamment un set dÃ©diÃ© Ã la NES et des kits inspirÃ©s de lâ€™univers de Mario, les deux entreprises sâ€™attaquent Ã une autre console culte : le Game Boy. Ce modÃ¨le, conÃ§u en briques Lego, promet de sÃ©duire les nostalgiques autant que les collectionneurs.\nVoir cette publication sur Instagram\nLâ€™annonce sur Instagram, bien que succincte, rÃ©vÃ¨le que le kit sera disponible dÃ¨s octobre 2025. Aucune information dÃ©taillÃ©e nâ€™a encore Ã©tÃ© dÃ©voilÃ©e, mais un communiquÃ© officiel pourrait arriver prochainement. En attendant, les fans sâ€™interrogent sur les fonctionnalitÃ©s possibles de ce modÃ¨le. Sâ€™agira-t-il dâ€™une simple rÃ©plique esthÃ©tique ou inclura-t-il des Ã©lÃ©ments interactifs, comme dans certains sets Mario ? Le mystÃ¨re reste entier.\nNintendo sur tous les fronts\nAlors que les yeux sont rivÃ©s sur la Switch 2, Nintendo multiplie les annonces inattendues. En parallÃ¨le de ce partenariat avec Lego, lâ€™entreprise japonaise a rÃ©cemment ouvert un musÃ©e Ã Kyoto et lancÃ© un service de streaming musical dÃ©diÃ© Ã ses bandes originales. Ã€ cela sâ€™ajoutent des produits insolites comme son rÃ©veil interactif Alarmo.\nCes initiatives montrent une volontÃ© de diversifier les expÃ©riences offertes par Nintendo, bien au-delÃ des consoles traditionnelles. Alors que les joueurs espÃ¨rent encore des nouvelles de la Switch 2, ces projets surprenants entretiennent la curiositÃ© et lâ€™engouement autour de la marque.\nðŸ”´ Pour ne manquer aucune actualitÃ© de 01net, suivez-nous sur\n[Google ActualitÃ©s]et\nSource :\n<a href=\"https://www.theverge.com/2025/1/9/24339971/nintendo-game-boy-lego-release-date-october-2025\">\nThe Verge\n</a>",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Social Issue->communities",
+      "Social Issue->social networking",
+      "Social Issue->social condition",
+      "Economy, Business and Finance->media and entertainment industry"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T11:31:36.312+02:00",
+    "updated": "2025-01-10T11:31:36.312+02:00"
+  },
+  {
+    "uuid": "1501939b4f4b751ae227c466e26eaab298d0d71c",
+    "url": "https://www.theoaklandpress.com/2024/07/05/pet-adoption-appeal-from-oakland-county",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Peg McNichol",
+    "published": "2024-07-05T09:45:00Z",
+    "title": "Pet adoption encouraged by Oakland County’s near-capacity animal shelter – The Oakland Press",
+    "text": "Oakland County’s animal shelter and pet adoption center is busy and close to capacity.\nThere won’t be any special adoption events in the near future, said division manager Bob Gatt.\n“We don’t have an event coming up because we’re so busy,” he said. “Crowd adoption events take time and staff.”\nRelated Articles Local News | Two hurt in separate Oakland County lake incidents on the Fourth of July Local News | Art Fair returns to Royal Oak this weekend Local News | Drew Basile of Birmingham wins spot in Jeopardy! Tournament of Champions Local News | Blast levels pump house at Royal Oak’s Red Run Golf Course Local News | Flare night tradition returns to Lake Orion People can visit the shelter to adopt animals during the six days the office is open, he said.\nThis week the shelter had 151 dogs in the building and 130 cats – including 40 kittens Gatt described as “gorgeous” – plus more cats and dogs being fostered by volunteers in family homes.\n“We’re really, really crowded and we have some great dogs here,” he said.\nPeople who can’t adopt but would like to help in other ways can donate supplies or volunteer to be a foster home to the shelter’s dogs. This improves their social skills and their chances for a permanent home, Gatt said, adding that all food and medical care is supplied free for fostered pets.\nPeople interested in volunteering can visit the shelter during regular hours and talk to a staff member.\nRelated Articles Local News | Keeping dogs and other pets safe during Fourth of July fireworks Local News | Are pet dogs and cats the weak link in bird flu surveillance? Local News | A classic story: Boy meets dog, dog runs away, man and dog are reunited five and a half years later “We want to make sure the house they’re in is good for the animal they want to foster,” Gatt said. “We wouldn’t want to put a Great Dane in an apartment, for example.”\nThe shelter, at 1200 North Telegraph Road, Building 42E in Pontiac, is open 10 a.m. to 5 p.m. Mondays, Wednesdays and Fridays; 10 a.m. to 7 p.m. Tuesdays and Thursdays and 10 a.m. to 4 p.m. Saturdays. Call (248) 858-1070, email petadoption@oakgov.com or visit https://www.oakgov.com/community/pet-adoption to learn more.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Environment",
+      "Lifestyle and Leisure"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.oakgov.com/community/pet-adoption",
+      "https://www.oakgov.com/community/pet-adoption)",
+      "https://oakgov.com/community/pet-adoption",
+      "https://oakgov.com/community/pet-adoption)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bob gatt",
+          "sentiment": "none"
+        },
+        {
+          "name": "gatt",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "oakland press oakland county",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "oakland county",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T14:59:42.593+03:00",
+    "updated": "2024-07-05T15:18:53.447+03:00"
+  },
+  {
+    "uuid": "6a8b300f40b5e3a16372e62dfc4c879be59a8244",
+    "url": "https://themercury.com/ap/respond-cautiously-to-iran-backed-attacks/article_f3851920-6162-549f-9716-a5cc752749a0.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Star Tribune Editorial Board",
+    "published": "2024-02-01T22:13:00Z",
+    "title": "Respond cautiously to Iran-backed attacks | Ap | themercury.com",
+    "text": "An apparent military mix-up resulted in a drone attack at a remote U.S. outpost in Jordan on Sunday that killed three American service personnel and wounded dozens more. The assault was just the latest from Iranian-backed militias sowing terror from Tehran-influenced nations including Lebanon, Syria, Yemen and Iraq.\nIn a statement, President Joe Biden rightly called the assault “despicable and wholly unjust.” He can’t call them unexpected, however, as Iranian proxies have launched about 160 attacks against U.S. military targets across the region since the Israel-Hamas war, which started in response to the Oct. 7 terror attacks that killed about 1,200 Israelis.\nBiden pledged to “hold all those responsible to account at a time and in a manner of our choosing.” The timing, and in particular the manner, will be consequential. First, Biden must not repeat former President Barack Obama’s mistake of backing off a chemical-weapons “red line” he laid down regarding Syria; that flinch only invited more aggression from the homicidal regime in Damascus. But Biden should be prudent and heed the advice that he gave Israel when he visited just days after the Hamas terror attack to not get caught up in a 9/11-era spiral that spills into a wider war.\nAnd, just as important, the U.S. must not set back the chance to help end, or at least suspend, the war raging in Gaza that has killed over 26,000, according to the Hamas-run Ministry of Health. Reports of diplomatic progress are encouraging: Top envoys from the U.S., Israel, Egypt and Qatar are reportedly negotiating an accord that would stop Israel’s campaign for around six weeks and release some Israeli hostages in exchange for some Palestinian prisoners.\nSignificantly, there are also reportedly ongoing efforts to broker a broader regional deal that would finally, rightly, set the conditions for a Palestinian state — run not by Hamas, but by a reformed Palestinian Authority — in exchange for Saudi Arabia diplomatically recognizing Israel. That’s a prospect staunchly opposed by Iran and Hamas, let alone Iranian-backed Hezbollah, which could still yet create a two-front war for Israel along its border with Lebanon.\nThe theocracy in Tehran isn’t just a regional menace, but a global one, as it exports drone and other armaments to Russia that are used to attack Ukrainians, soldier and civilian alike. It’s also supplied weaponry to Houthi militants in Yemen that has been deployed against commercial shipping in the Red Sea, directly endangering lives and indirectly endangering the global economy by necessitating a rerouting of vessels, which adds time and cost that is passed on to already stressed consumers. The administration has responded, repeatedly, to those attacks, but the Houthis have not been deterred.\nThis has inevitably led to calls to directly attack Iranian assets, including from some key congressional Republicans. While Biden should not be goaded into imprudent action, there should also be no illusion regarding Iran. Indeed, under-responding has its own set of risks, too, including more, and more lethal, attacks on U.S. personnel and interests.\nIran “could further unleash some of their proxies, and especially with Hezbollah, which has massive [military] capacity that they’re not using, so there could be an Iranian escalation that would really be the next step toward throwing the region into a chaotic regional war which would affect the global economy,” Thomas Hanson, diplomat-in-residence at the University of Minnesota Duluth, told an editorial writer.\nHanson, a former Foreign Service officer who is now chair of the Committee on Foreign Relations Minnesota, added that while it’s apparent that many of the militias are affiliated with Iran, it’s less certain if they are all directly commanded by them. “The empowerment by Iran is clear,” Hanson said. “The agency of Iran in some of these specific attacks is less clear.”\nOverall, the “reality is that the Iranians are doing everything they can to make this a regional conflict,” Jon Olson, a retired U.S. Navy commander and career intelligence officer who is an adjunct instructor at the University of Minnesota’s Humphrey School as well as Carleton College, told an editorial writer. “The dynamic here is, what’s the least bad choice the administration can make in this situation that punishes Iran?”\nThe answer to that crucial question may have a profound impact on the war in Gaza and could affect the broader conflict between Iran and the U.S. and its regional allies. So while now is the time for Biden to be resolute, it is never the time for him or any commander in chief to be reckless.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "barack obama",
+          "sentiment": "none"
+        },
+        {
+          "name": "biden",
+          "sentiment": "none"
+        },
+        {
+          "name": "joe biden",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "iran",
+          "sentiment": "none"
+        },
+        {
+          "name": "jordan",
+          "sentiment": "none"
+        },
+        {
+          "name": "lebanon",
+          "sentiment": "none"
+        },
+        {
+          "name": "damascus",
+          "sentiment": "none"
+        },
+        {
+          "name": "iraq",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "syria",
+          "sentiment": "none"
+        },
+        {
+          "name": "tehran",
+          "sentiment": "none"
+        },
+        {
+          "name": "yemen",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-02T00:20:44.781+02:00",
+    "updated": "2024-02-02T00:20:44.781+02:00"
+  },
+  {
+    "uuid": "930f409190bb3a0817b2db063ade6d230ae99d95",
+    "url": "https://ground.news/article/mpox-in-the-united-states-fast-facts_d99f18",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ground News",
+    "published": "2023-12-28T22:08:00Z",
+    "title": "Ground News - Mpox in the United States Fast Facts",
+    "text": "Summary by Ground News In 2022, an outbreak was declared a public health emergency of international concern by the World Health Organization (WHO) The virus originated in Africa and is the cousin of the smallpox virus. Anyone can become ill from mpox , but the US Centers for Disease Control and Prevention says that more than 99% of mpox cases in the United States in the 2022 outbreak have been among men who have sex with men. Share menu More\nFilters 1 Articles 1 Articles All Left Center Right\nCNN Lean Left High Factuality Media Conglomerate: Warner Bros. Discovery Mpox in the United States Fast Facts Read CNN's Fast Facts on mpox, formerly monkeypox, in the United States. The virus was declared a public health emergency of international concern by the World Health Organization. The virus originated in Africa and is the cousin of smallpox.\n12 minutes ago · Atlanta, United States Read Full Article\nCNN Lean Left High Factuality Media Conglomerate: Warner Bros. Discovery\nMpox in the United States Fast Facts Read CNN's Fast Facts on mpox, formerly monkeypox, in the United States. The virus was declared a public health emergency of international concern by the World Health Organization. The virus originated in Africa and is the cousin of smallpox.\n12 minutes ago · Atlanta, United States Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Disaster and Accident",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.cnn.com/2022/09/05/health/monkeypox-fast-facts/index.html?utm_source=ground.news&utm_medium=referral",
+      "https://www.cnn.com/2022/09/05/health/monkeypox-fast-facts/index.html",
+      "https://cnn.com/2022/09/05/health/monkeypox-fast-facts/index.html?utm_source=ground.news&utm_medium=referral"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "ground news - mpox",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cnn",
+          "sentiment": "none"
+        },
+        {
+          "name": "world health organization",
+          "sentiment": "none"
+        },
+        {
+          "name": "warner bros",
+          "sentiment": "none"
+        },
+        {
+          "name": "us centers for disease control and prevention",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "atlanta",
+          "sentiment": "none"
+        },
+        {
+          "name": "africa",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:22:59.187+02:00",
+    "updated": "2023-12-29T00:22:59.187+02:00"
+  },
+  {
+    "uuid": "5814cd72bfc0209878820f1e68c23a7663da2297",
+    "url": "https://finance.sina.com.cn/jjxw/2025-03-20/doc-ineqfzcz8076665.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "媒体滚动",
+    "published": "2025-03-19T22:32:00Z",
+    "title": "体育人生｜女赛车手的一天，交织着\"铁豆\"的汗水、泪水与梦想|赛车手_新浪财经_新浪网",
+    "text": "转自：上观新闻\n3月20日，F1中国大奖赛将拉响引擎，与此同时，上海国际赛车场将迎来全部由女性车手参加的F1学院赛季揭幕战。师炜（铁豆）将持外卡参赛，成为首位踏上这项国际赛事舞台的中国车手。\n作为极限运动博主和女赛车手，过年前两天才得知入围消息的师炜推掉了绝大部分工作，专心投入到赛车训练中。她与教练、体能师等团队成员2月开始在宁波国际赛车场集训，为期一个多月。在这里，在此时，铁豆唯一的身份就是女赛车手。本报记者在宁赛用镜头和笔记录了她普通一天的训练生活。\n背山面海的宁波国际赛车场，一早还笼罩在迷雾、鸟鸣和雨声之中。早上9点整，师炜（铁豆）准时走出自己的房车，这里是她自2月10日以来的临时住所。\n“今天要出车，我就不化妆了。”对着镜头，素面朝天的铁豆没有特别的要求。距离铁豆的房车只有几十米远，拉开Absolute Racing（绝对车队）P房的大门，在一楼停泊的十多辆车中，最先映入眼帘的就是门口那辆玫粉色方程式赛车，这是去年铁豆买下的带Halo（俗称“人字拖”的保护系统）、雷诺动力单元的最新款F4赛车。\n沿着钢架楼梯爬上P房二楼，面积虽小，男女卫生间、剪辑室、休息室、理疗室、办公室一应俱全，女赛车手的一天就从这里开始了。\n每天15小时训练时间掰成一分一秒\n理疗室是第一站。\n首先要对师炜的身体进行评估，再决定今天能否出车。康复师兼体能师傅俊皓拿着筋膜枪，首先对准的就是铁豆的肩膀。最近，她的右臂三角肌出现了新状况，“前几天洗脸，我都是用脸去找手。今天终于可以抬起右手了”。右臂的神经水肿导致她已经五天没有出车了。\n“在过年前两天得知能参加F1学院赛的消息后，大概离比赛还有不到两个月的时间，当时我也不能要求教练、康复师、车队技师在过年期间加班，所以就自己在家进行了大量的体能训练和模拟器训练。可是问题在年初十爆发了，当时我的脖子突然就动不了，胳膊也动不了了……”\n作为极限运动博主，铁豆的颈椎此前落下病根，颈椎病急性发作让她有点措手不及。2月10日来到宁波国际赛车场后，铁豆只进行了两天的扎针和电疗，就开始了赛道训练。“开赛车时，肾上腺素飙升，感觉不到疼，可是下了车，疼痛感就会袭来。可是不管怎样，既然来了就舍不得不练。”\n就这样，勉勉强强训练十天后，更大的问题爆发。“前几天上吐下泻，肩背、右臂都处于神经水肿的状态，神经疼到让我丧失了思考和交流能力。”铁豆在医院打了几天点滴，无法出车，桌子上堆满各色药物。好在，这一天，傅俊皓点了头：“今天铁豆的身体状态大概在70分，可以出车。”\n简单吃了点饭团和豆浆，换上赛车服，铁豆迅速下楼，扎好高马尾，做完拉伸，她戴上头套、麦克风、头盔、手套，麻利地跨进驾驶舱。天空不作美，在铁豆发车时，雨势转大，用车队工作人员的话说：“现在的赛道就像小河一样。”\n25分钟一节的练习赛，铁豆跑了五六圈（干地可以跑10多圈）。两位车队技师站在赛道旁，一位用笔在本子上记录数据，另一位用手机观看驾驶舱镜头录下的直播——迷雾和雨水让赛车手的视线一片模糊，铁豆仅凭对赛道的记忆和车感贴地驾驶。“她很心急。”看着铁豆的驾驶情况，技师吴师傅有些心疼和担忧，从去年备战F4大奖赛起服务于铁豆团队，他对这位女生的性格已经有所了解，“她是很要强的女孩，自我要求很高。但毕竟精力有限，要拍摄又要练车，她不能像职业车手那样一心扑在车上。”\n为了备战F1学院赛，“工作狂”铁豆推掉了大部分的商业拍摄，把每天15小时的训练时间掰成一分一秒。“雨天抓地力小，其实没那么累。”驾车回到P房，铁豆摘下还挂着雨水的头盔笑着说，一路小跑上了二楼。\n每天三节练习赛（上午一节，下午两节），赛后到二楼办公室和教练对着录像复盘，然后再到旁边的理疗室进行半小时康复治疗。模拟器训练只能见缝插针。每晚的体能课则要去6公里外的希尔顿酒店健身房。铁豆恨不得自己有分身术，她走路的脚步都带着风。\n“你觉得我应该哄她吗？”\n真正的“暴风雨”在练习赛后的复盘时来临。\n“如果我的线路比干地更窄，我动方向的时机是更早更晚？方向用得多，弯速高还是低？雨地为什么要自己动方向？”铁豆的教练韩坜潮，自己就是一名赛车手，他和铁豆并排坐在办公桌的一边，用严厉发问的方式，逼迫铁豆独立思考并作答。这时，屋子里的沉默就形成了令人窒息的“低气压”。\n据说，“豆姐”常常被“逼”哭。团队中，铁豆被年纪更小的摄影师们称为“豆姐”。为什么这么酷飒的女性不叫作“豆哥”呢？负责跟拍的小谢说：“因为我见她哭的次数太多了。”在铁豆看来，眼泪并不是女性化的标签，考过国家心理咨询师三级的她笑言，自己就是自己的心理辅导师：“哭其实是释放情绪的非常好的方法。你要关注到自己的情绪，然后正确面对自己的情绪。”\n韩坜潮对铁豆的眼泪一点儿都不买账。“你觉得我应该哄她吗？”在韩坜潮眼中，赛车运动不分男女，也就不应该区别对待男女赛车手。“我们锻炼的就是她的情绪。如果没有承受能力的话，开赛车就是很危险的一件事。情绪崩溃了，就很容易出事故。”\n每节练习赛，韩坜潮都会驾驶着那辆蓝色雅马哈牌摩托车，冲上位于宁赛地势较高的观测亭，拿着对讲机对铁豆实时“训话”。当日下午，雨过天晴，韩坜潮决定给铁豆的赛车训练“上难度”，第二节练习赛主攻循迹刹车，第三节抠节奏和细节。“提高进弯速度！飞坡上注意视线！”有时候韩坜潮也会被铁豆的喊声惹急了，大喊：“你是在对我吼吗？！”\n韩坜潮承认，自己的言辞很严厉，“用铁豆的话说，有时甚至有点‘变态’”。铁豆和韩教练不约而同地提到一场边哭边开的比赛。“当年跑领克的统规赛，其中一站是在 鄂尔多斯 赛道，离我家包头不到一个小时车程，所以好多亲朋好友都去看我比赛了。”铁豆回忆道，“赛车就是一项很奇妙的运动，越贪心越没有。你越想要，越得不到。当被这些杂念困扰的时候，那场比赛我就发挥得很差。”\n在现场的韩坜潮知道，那场比赛已然无望，于是他在对讲机里对徒弟“冷嘲热讽”，不断用语言刺激铁豆。“我都被他搞崩溃了，边开边哭，边朝他喊。”师炜记忆犹新，“当时天气很热，我浑身湿透，是快虚脱的状态，下车后就瘫倒在那里。”那种用哭发泄的情绪，当晚就得到了缓解，铁豆说：“当天晚上自己就一个人在那里想了很久，为什么会这样？后来韩教练和我说，故意激怒你，是让你感受一下你会因情绪失去什么，又得到什么，以及心态对你的成绩有多大的影响。”\n在铁豆的赛车训练团队中，韩坜潮和傅俊皓相当于她的左膀右臂，也充当“严父慈母”般的角色。“如果你们在这里待一个月，肯定要去看心理医生，因为压力太大了！”傅俊皓忍不住“吐槽”道，“上周去了三趟医院，我们要权衡她的伤病、训练、车感，韩老师甚至还要买饭。有时候谁的工作量大了，我们就互相安慰一下。我们要把这一个月熬下来，对，就是这个字——熬。”\n一天中的最后三小时依然节奏飞快\n结束当日三节练习赛，完成复盘和康复治疗，太阳已经落山。\n之后的两个小时，铁豆留给了采访和拍摄。夜间8点的宁赛几乎已经看不到任何灯光，只有Absolute Racing车队的P房还开着门。铁豆这时候还不能吃饭，她得空腹去6公里外的健身房训练。\n“近期做得最多的就是颈部的稳定性训练。”在健身房的龙门架上，铁豆头戴颈椎训练器，单边加20公斤的重量，用身体的平行移动训练颈部力量。一用力，她的脸会挤到变形。颈部力量对于赛车手而言至关重要。一旦驾驶赛车高速行进，脖子的受力就要加上重力加速度，过弯时车手的脖子所要支撑的重量更是猛增。“我的脖子比没有训练前，围度粗了三四厘米。去年三个月，就粗了2.5厘米。打个比方说吧，一位女生现在来掐我的话，很难把我掐到无法呼吸。”\n在备战的冲刺阶段，体能已不是铁豆训练的重点。傅俊皓解释说，因为专为女性车手打造的F1学院赛每轮30分钟，并非耐力赛，因此这段时间的训练重点除了颈部训练外，还有视觉训练。健身房里，铁豆戴上频闪视觉训练眼镜，开始与教练玩抛接网球的游戏。“戴上眼镜后的感觉就像断片似的，画面一帧一帧、忽闪忽闪。”铁豆说，在这种情况下接抛球，锻炼的是赛车手快速的视觉反应力。\n在铁豆的“宝箱”中，有一个形如防毒面具的阻氧面罩。使用跑步机训练时戴上面罩，模拟赛车内的低氧环境，迫使身体在缺氧状态下进行呼吸，从而增强心肺功能和耐力。在赛车高速飞驰中，赛车手心率可达每分钟180次，接近心率上限，因此心肺功能的训练必不可少。\n上肢的力量和稳定性训练也颇为重要，“最初接触方程式时，胳膊力量不够，开车会不停摇晃，架不住时胳膊就会不自觉地撑起来，磕到车架，于是手臂上就是一片淤青。”如今铁豆的双臂已经练就了稳定的肌群，也能平稳驾驶赛车。不过，近期右臂神经性水肿的铁豆，在练习高位下拉这个动作时，右臂明显比左臂无力，傅俊皓不得不叫停这项训练。\n日程安排没有随着体能训练结束而收尾。一天中的最后三个小时同样节奏飞快——驱车回P房，简单吃饭，练习模拟器，直到午夜零点离开。为了珍惜每分每秒，铁豆的房车就停在P房后的停车场上，在不到10平方米、不足两米高的狭小空间内，床铺架空在车头一边，“这个架空床晚上可以拖出来，我也不需要太大的空间。”铁豆说。\n宁赛的天空还给了星光，赛道重归寂静，车队P房的最后一扇大门被拉上。\n女赛车手的一天结束了。比赛日来临前，这就是铁豆的日常。\n原标题：体育人生｜女赛车手的一天，交织着“铁豆”的汗水、泪水与梦想\n栏目主编：沈雷 文字编辑：谷苗 题图来源：文汇报 陈龙 图片来源：文汇报 陈龙\n来源：作者：文汇报 吴姝",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->sport event",
+      "Sport->motor car racing",
+      "Lifestyle and Leisure->outdoor recreational activities",
+      "Lifestyle and Leisure->exercise and fitness",
+      "Lifestyle and Leisure->lifestyle",
+      "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T00:50:07.276+02:00",
+    "updated": "2025-03-20T00:50:07.276+02:00"
+  },
+  {
+    "uuid": "14ec3a91444f67b19ecd53159236da48043a9070",
+    "url": "https://www.newsbreak.com/news/3739674629474-the-tri-state-prepares-for-winter-weather-threat",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Emmy Fazenbaker",
+    "published": "2025-01-03T01:29:00Z",
+    "title": "The Tri-State prepares for winter weather threat",
+    "text": "By Emmy Fazenbaker ,\n1 hours ago EVANSVILLE, Ind. (WEVV) — Severe winter weather is fastly approaching the Tri-State, and many people are starting to prepare for it. “There’s a lot of empty shelves. I haven’t found everything I need. There’s some things that I may have to hit other stores on the way home for, but that just becomes a part of it,” says Chip Thompson, a local shopper. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Human Interest->human mishap",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Emmy Fazenbaker",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Chip Thompson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T04:55:19.550+02:00",
+    "updated": "2025-01-03T04:55:19.550+02:00"
+  },
+  {
+    "uuid": "fd210e050bd2203f378743c69f40f7361bc10cf3",
+    "url": "https://www.essentiallysports.com/soccer-football-news-after-loss-to-cristiano-ronaldo-al-nassr-al-ittihad-star-punished-with-hefty-fine-by-disciplinary-committee/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Abhishek Mishra",
+    "published": "2023-12-29T02:33:00Z",
+    "title": "After Loss to Cristiano Ronaldo’s Al Nassr, Al Ittihad Star Punished With Hefty Fine by Disciplinary Committee - EssentiallySports",
+    "text": "Karim Benzema ‘s side isn’t at its best on the domestic front. Tuesday’s 2-5 loss against Cristiano Ronaldo and Co. added more to their misery. But it seems the storm clouds won’t be going away easily, as hours after their shocking defeat against Al Nassr, one Al Ittihad star has found himself in the crosshairs of the disciplinary committee, resulting in a substantial fine.\nAmerica’s Favorite Video Today\nThe player who is currently in the negative limelight is Abderrazak Hamdallah . The Al Ittihad centre forward has been sent a fine notice by the Saudi Pro League disciplinary committee. After the heavy defeat, the 33-year-old was expected to give a post-match interview. However, Hamdallah snubbed the media obligations, heading straight to the tunnel instead. This led the committee to penalize him with a 20,000 riyals, or a $5333 fine.\n🚨🚨🚨 عاجل :\nلجنة الانضباط تغرم عبدالرزاق حمدالله 20 الف ريال لغيابه عن اللقاء التلفزيوني بعد مباراة #النصر .\n— نواف التميمي 📊. (@Nawaf_STATS) December 28, 2023\nADVERTISEMENT\nArticle continues below this ad\nNotably, Hamdallah was the one who notched two goals for Al Ittihad, outshining star player Karim Benzema . Sadly, Cristiano Ronaldo’s penalty double, Anderson Talisca’s strike, and Sadio Mane’s brace sent the striker’s efforts in vain. Things had gone downhill for Al Ittihad as Fabinho was sent off in the 66th minute. With 28 points and sixth place, it is evident that the defending champions won’t be celebrating their New Year in high spirits.\nAl Nassr came into this match with a terrible head-to-head record. They hadn’t won against this opposition since December 21, 2018, and their winless run had lasted eleven games. However, they finally managed to break the five-year spell . On the other hand, the aftermath had a depressing effect on Benzema.\nADVERTISEMENT\nArticle continues below this ad\nKarim Benzema suspends his digital footprint after taking a beating from Cristiano Ronaldo and Co. After the game, keen-eyed fans observed the disappearance of Karim Benzema’s Instagram account. The prolific striker, who had garnered an impressive 76 million followers, has opted to deactivate his account entirely . The specific rationale behind this decision remains undisclosed, with the French striker choosing not to provide any explanation regarding the move.\n’It Happens Because It’s Cristiano Ronaldo”- Otavio Reveals Al Nassr’s Secret Weapon of Exposing Opponents\nADVERTISEMENT\nArticle continues below this ad\nCoincidentally, this happened after the defeat against his former Real Madrid teammate’s side. Additionally, the 36-year-old also became the target of his fanbase , who nicknamed him “Ben-Hazima,” meaning “the son of defeat.” Furthermore, Al Ittihad boss Marcelo Gallardo was even slammed for starting the 2022 Ballon d’Or winner. It seems things have completely gone south for Benzema. Let’s hope the new year turns out well for the Frenchman.\nTrending Cristiano Ronaldo Is NOT Really the Top Scorer of 2023! FIFA’s Controversial Decision Puts Al Nassr Star Behind Harry Kane, Kylian Mbappe & Erling Haaland December 27, 2023 11:20 am EDT\nDavid De Gea Calls Cristiano Ronaldo ‘Animal’ After Al Nassr’s Thumping 5-2 Win Over Al Ittihad December 27, 2023 03:07 am EDT\n“The Passion, the Stadium..” – Cristiano Ronaldo’s Support For Galatasaray Resurfaces Before Turkish Super Cup Final vs Fenerbahce in Riyadh December 28, 2023 10:38 pm EDT\n5 MLS Teams to Get 3rd Kits as Miami Dolphins Inspire Lionel Messi’s Inter Miami’s Adidas Kit December 27, 2023 04:29 pm EDT\nIllarramendi Calls Real Sociedad a Better Team Than PSG; Analyses Soccer in US After Lionel Messi’s Arrival December 28, 2023 08:44 pm EDT\nGet instantly notified of the hottest Soccer stories via Google! Click on Follow Us and Tap the Blue Star.\nFollow Us\nWATCH THIS STORY: Cristiano Ronaldo and All About Their Pets\nProviding feedback will help us make your experience better.\nThe Fan's Perspective\nEnjoyed Your Read? Let us know how likely you are to recommend EssentiallySports to your friends!\n1\n2\n3\n4\n5\nLeast Likely\nMost Likely\nSubmit\nPosts on Related Topics Abderrazak Hamdallah Cristiano Ronaldo Karim Benzema",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://bit.ly/4113QfS",
+      "https://twitter.com/hashtag/%D8%A7%D9%84%D9%86%D8%B5%D8%B1?src=hash&ref_src=twsrc%5Etfw",
+      "https://twitter.com/Nawaf_STATS/status/1740474604773376409?ref_src=twsrc%5Etfw",
+      "https://twitter.com/Nawaf_STATS/status/1740474604773376409",
+      "https://www.twitter.com/Nawaf_STATS/status/1740474604773376409?ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/%D8%A7%D9%84%D9%86%D8%B5%D8%B1",
+      "https://www.bit.ly/4113QfS",
+      "https://www.twitter.com/hashtag/%D8%A7%D9%84%D9%86%D8%B5%D8%B1?src=hash&ref_src=twsrc%5Etfw"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "al nassr",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cristiano",
+          "sentiment": "negative"
+        },
+        {
+          "name": "essentiallysports karim benzema",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cristiano ronaldo",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ronaldo",
+          "sentiment": "none"
+        },
+        {
+          "name": "abderrazak hamdallah",
+          "sentiment": "none"
+        },
+        {
+          "name": "hamdallah",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "disciplinary committee",
+          "sentiment": "negative"
+        },
+        {
+          "name": "al ittihad star",
+          "sentiment": "negative"
+        },
+        {
+          "name": "al ittihad",
+          "sentiment": "none"
+        },
+        {
+          "name": "co.",
+          "sentiment": "none"
+        },
+        {
+          "name": "saudi pro league",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "america",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T04:43:30.354+02:00",
+    "updated": "2023-12-29T04:43:30.354+02:00"
+  }
+]

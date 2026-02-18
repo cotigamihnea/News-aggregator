@@ -1,0 +1,625 @@
+[
+  {
+    "uuid": "1b2416e6c85f1171ef2098d87583ef6add0d26bc",
+    "url": "https://venturebeat.com/ai/simplismart-supercharges-ai-performance-with-personalized-software-optimized-inference-engine",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Shubham Sharma",
+    "published": "2024-10-17T00:00:00Z",
+    "title": "Simplismart supercharges AI performance with personalized, software-optimized inference engine | VentureBeat",
+    "text": "Enterprises are all in on AI. They want their models to run in production environments smoothly and with as high performance as possible to obtain a high return on investment. However, even with all the advanced models available in the market, teams continue to struggle with deployment issues.\nLast year, Peter Bendor-Samuel, the CEO of Everest Group, estimated that 90% of the gen AI pilots started will not make it to production. Even Gartner has predicted that a significant portion of generative AI projects are likely to be abandoned after proof of concept by the end of 2025.\nAmong the hurdles to adoption, the largest one is orchestration. Teams just don’t have the resources to do everything in-house, which leaves them reliant on rigid and expensive third-party APIs. Today, Simplismart AI raised $7 million in funding to address this gap with its end-to-end MLOps platform that accelerates the entire orchestration effort by taking care of everything from fine-tuning models to deployment and observability.\nWhile there are other MLOps solutions in the market, including those from Datadog, what makes this startup different is its personalized software-optimized inference engine. It deploys models at lightning-fast speed, significantly boosting their performance while driving down associated costs.\n“Without any hardware optimization, we’ve unlocked a throughput of 501 tokens per second on the Llama3.1 8B model , which far beats other inference engines. Similarly, we’ve achieved better results across all modalities, including text-to-speech, speech-to-text, text-to-image, image-to-image,” Amritanshu Jain, former Oracle engineer who co-founded the startup with ex-Google techie Devansh Ghatak, tells VentureBeat.\nSolving orchestration gaps with Simplismart optimized inference When deploying AI in-house (for enhanced control and privacy), teams have to deal with several bottlenecks, right from accessing compute power and optimizing model performance to scaling infrastructure, CI/CD pipelines and cost efficiency. Handling everything manually can easily take months. Not to mention, a slight error here or there in the pipeline can hit the performance of the model and lead to high costs and poor ROI.\nWith its end-to-end orchestration platform, Simplismart standardizes this entire workflow, allowing users to fine-tune, deploy and observe highly optimized open-source models – covering different modalities – according to their needs.\n“Users can either use our shared infrastructure or bring their own compute, cloud account to configure their infrastructure and deployments with ease. The intuitive dashboard of the platform allows them to set parameters like GPUs, machine types, scaling ranges, etc. Once the cluster is ready, users can deploy from a wide range of pre-optimized models or import their own… Finally, the observability features come into play and allow users to track SLAs, monitor the performance of the model in the real world and benchmark performance against past numbers…,” Jain explained.\nThe Terraform-like declarative orchestration language of the platform lets enterprises easily manage the entire pipeline, putting complete control back into their hands and reducing their dependency on the DevOps teams. Meanwhile, the personalized, software-optimized inference engine at its heart ensures that the models are deployed to deliver the desired performance and cost results.\n“Simplismart stands out as the platform that can deliver a personalized inference engine tailored to each enterprise’s needs—whether it’s load, SLAs, performance requirements, GPU usage, etc. This helps enterprises strike the right balance between cost and performance,” Jain said.\nHe noted that the inference engine performance is optimized across three main layers.\nFirst, it optimizes application serving with a custom serving layer for ML workloads. Then, it supports infrastructure with rapid upscaling/downscaling and sharding of models across GPUs to maximize hardware utilization. Finally, it optimizes model-GPU interaction with 28 custom kernels using CUDA. This allows the engine to squeeze even more performance out of the hardware being used.\nHe said the optimized inference engine is already running some popular models, including Llama 3.1 8B, OpenAI’s Whisper v2 and SDXL , with a major performance boost.\n“We’ve consistently recorded a throughput of 501 tokens/sec during multiple Llama 3.1 8B runs. That said, this doesn’t mean every single request will achieve that exact figure, as performance can fluctuate within a band, which is typical for all inference engines. In our tests, we observed a median of ~350 tokens/second under sustained load. What’s particularly exciting is that even at this median, our performance band remains significantly higher than any other inference engine on the market,” he noted.\nThe company’s primary competitors in this space are TogetherAI , Baseten , Replicate , Fireworks and Amazon Bedrock .\nPlan to double down on performance Simplismart already has a pipeline of 30 enterprise customers, including Invideo, Dashtoon, Dubverse and Vodex. One pharma marketplace used the company’s platform to deploy InternVL2 models for digitizing hand-written prescriptions and was able to improve spatial configuration detection, processing 2.5x more images at half the cost.\nAs the next step in this work, Simplismart wants to improve the performance of its MLOps platforms further. It will use the fresh funding to fuel R&D and come up with new techniques to increase the speed of AI inference and stay ahead of the competition.\n“The company has tripled revenue in the last four months to reach ~$1M annual revenue run-rate. We aim to scale to $10M ARR in the next 15 months. Our major levers are to target the top 50 AI-first enterprises and drive open-source adoption of our terraform-like orchestration language,” Jain noted.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.simplismart.ai/",
+      "https://www.together.ai/",
+      "https://replicate.com/",
+      "https://aws.amazon.com/bedrock/",
+      "https://www.baseten.co/",
+      "https://www.gartner.com/en/newsroom/press-releases/2024-07-29-gartner-predicts-30-percent-of-generative-ai-projects-will-be-abandoned-after-proof-of-concept-by-end-of-2025",
+      "https://www.financialexpress.com/business/digital-transformation-90-of-generative-ai-pilot-projects-may-not-make-it-to-production-in-2024-3350304/",
+      "https://fireworks.ai/",
+      "https://together.ai/",
+      "https://www.baseten.co",
+      "https://fireworks.ai",
+      "https://simplismart.ai/",
+      "https://www.fireworks.ai/",
+      "https://www.simplismart.ai",
+      "https://www.aws.amazon.com/bedrock/",
+      "https://gartner.com/en/newsroom/press-releases/2024-07-29-gartner-predicts-30-percent-of-generative-ai-projects-will-be-abandoned-after-proof-of-concept-by-end-of-2025",
+      "https://financialexpress.com/business/digital-transformation-90-of-generative-ai-pilot-projects-may-not-make-it-to-production-in-2024-3350304/",
+      "https://www.financialexpress.com/business/digital-transformation-90-of-generative-ai-pilot-projects-may-not-make-it-to-production-in-2024-3350304",
+      "https://aws.amazon.com/bedrock",
+      "https://www.replicate.com/",
+      "https://replicate.com",
+      "https://www.together.ai",
+      "https://baseten.co/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Peter Bendor-Samuel",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Everest Group",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T00:10:49.468+03:00",
+    "updated": "2024-10-25T04:44:19.514+03:00"
+  },
+  {
+    "uuid": "3e4210e012c2595484084bad8bacfcd01bc3c4ad",
+    "url": "https://community.sephora.com/t5/Besides-Beauty/New-Year-s-Resolutions-2024/m-p/6778565",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SportyGirly",
+    "published": "2023-12-28T22:18:00Z",
+    "title": "Re: New Year’s Resolutions 2024",
+    "text": "Services\nFrom makeovers to personalized skincare consultations\nFrom makeovers to personalized skincare consultations\nGet inspired, play with products & learn new skills\nExciting launches, parties & more\nExplore what's hot in your store\nAsk questions, join challenges, and get recommendations from people like you\nDiscover topics tailored to your beauty interests\nAdd your photos and get inspired by fellow beauty lovers\nView activity, savings and benefits\nRedeem items, samples and more\nView and track online orders\nReorder it from in-store and online purchases\nView saved products\nRecommendations from your store visits\nManage your services, classes and events\nComplete your beauty traits for personalized recommendations\nPayments, contact info, addresses and password\nView activity, savings and benefits\nRedeem items, samples and more\nView and track online orders\nReorder it from in-store and online purchases\nView saved products\nRecommendations from your store visits\nManage your services, classes and events\nComplete your beauty traits for personalized recommendations\nPayments, contact info, addresses and password\nAsk questions, join challenges, and get recommendations from people like you\nDiscover topics tailored to your beauty interests\nAdd your photos and get inspired by fellow beauty lovers\nFrom makeovers to personalized skincare consultations\nGet inspired, play with products & learn new skills\nExciting launches, parties & more\nExplore what's hot in your store",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:26:20.600+02:00",
+    "updated": "2023-12-29T00:26:20.600+02:00"
+  },
+  {
+    "uuid": "07a05ebeb306a97af263fb9afc8fe512c4975d8b",
+    "url": "https://www.workercn.cn/c/2025-07-31/8572039.shtml",
+    "ord_in_thread": 0,
+    "author": "刘川",
+    "published": "2025-07-31T04:51:00Z",
+    "title": "中国农科院为新疆注入植物保护科技创新力量 - 时政 - 中工网",
+    "text": "7月30日，中国农业科学院植物保护研究所（以下简称“植保所”）在新疆库尔勒召开科技援疆工作会议，总结自“六五”以来该所科技援疆的工作成效，同时召开新疆植物保护科技高质量发展高层研讨会，邀请院士专家对在疆工作进行咨询建议，擘画该所“十五五”科技援疆工作高质量发展蓝图，为助力新疆农业生产安全提供强力科技支撑。\n新疆地理位置特殊，与八国接壤，边境线长达5700公里，是我国外来生物入侵最严重的地方之一；农业结构特殊，依托独特的光热资源和灌溉技术，形成以棉花、林果、粮食为主的特色产业体系，造就了特殊的病虫害问题。因此，新疆作为祖国“西部粮仓”，长期面临农业生物安全挑战，迫切需要注入植物保护科技创新力量，助力和推动新疆农业高质量可持续发展。\n研讨会邀请新疆维吾尔自治区植物保护检疫站、新疆生产建设兵团农业技术推广总站和新疆维吾尔自治区草原生物灾害防控中心交流新疆农作物病虫害发生新形势新需求，新疆维吾尔自治区农业科学院植物保护研究所、石河子大学和新疆农业大学交流新疆农作物病虫害防控技术研发进展，北京中保绿农科技集团有限公司等4家企业交流新疆农作物病虫害防控产品产业化进展。与会专家围绕新疆独特地理位置和特殊农业生态条件的农业生物安全进行全面咨询指导，提出了保障新疆农业生物安全的科技创新着力点和产业支撑的迫切需求。\n会后，院士专家们前往植保所库尔勒试验基地观摩。植保所向他们全面展示了病虫检测、监测预警、抗性利用技术、理化诱杀、生物防治、化学防治等面向新疆农作物重大病虫害防控产业需求的科技成果。\n当前植保所46个创新任务中22个创新任务的科研工作与新疆有关联。该所最早从“六五”期间开展新疆棉花病虫害防治工作，20世纪90年代后期全面推进外来入侵生物治理、主要农作物病虫害防控和草原有害生物生态防控。针对小麦一号病、马铃薯甲虫、苹果蠹蛾、番茄潜叶蛾、梨火疫病、番茄褐色皱果病毒等重大跨境入侵物种，新疆棉花、西甜瓜、小麦、玉米、蔬菜、果树、向日葵、马铃薯等主要作物病虫害及鼠害，植保所联合全国农业技术推广服务中心及新疆科研、教学、推广、企业等单位，持续开展灾变规律解析、病虫监测预警、防控技术产品研发和技术体系集成与推广应用，创新区域防控对策，探索区域防控技术，推动技术成果在南北疆大面积应用和推广，为新疆有害生物防控提供了强有力科技支撑。（工人日报客户端记者 黄哲雯）\n关于中工网 | 版权声明 | 违法和不良信息举报电话：010-84151598 | 网络敲诈和有偿删帖举报电话：010-84151598\nCopyright © 2008-2025 by www.workercn.cn. all rights reserved",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->biotechnology",
+      "Science and Technology->natural science",
+      "Science and Technology->agricultural technology",
+      "Environment->flowers and plants",
+      "Environment->natural resources",
+      "Environment->sustainability"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:51:00.946+03:00",
+    "updated": "2025-07-31T07:57:29.000+03:00"
+  },
+  {
+    "uuid": "8fbfcdcf9b56bf9f01d244dddd5921b63fe947ce",
+    "url": "https://www.zdnet.com/home-and-office/best-new-years-deals/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kayla Solino",
+    "published": "2024-01-05T20:44:00Z",
+    "title": "The 22 best New Year's deals still live: Smartwatches, headphones, standing desks, and more | ZDNET",
+    "text": "Apple Watch SE (2nd Gen) 40mm | Save $50\nApple Watch SE (2nd Gen) 40mm Save $50 View now View at Best Buy Flexispot Standing Desk | Save $114\nFlexispot Standing Desk Save $114 View now View at Amazon Fitbit Sense 2 Smartwatch | Save $100\nFitbit Sense 2 Smartwatch Save $100 View now View at Amazon Meta Quest 2 | Save $50\nMeta Quest 2 Save $50 View now View at Amazon Beats Studio Buds | Save $50\nBeats Studio Buds Save $50 View now View at Amazon Ember Mug 2 Temperature Control Smart Mug | Save $11\nEmber Mug 2 Temperature Control Smart Mug Save $11 View now View at Best Buy Show more (1 item) New Year's Day has already come and gone, but the first few weeks of 2024 are still upon us. And while any time is a good time to make changes in your life, the start of a new year will always remain the time to do it.\nIt's also a great time to snatch up lingering holiday savings on services or products that may have passed you by in the last 12 months, or purchase new items to help optimize your lifestyle and crush your home, fitness, career, and other personal goals.\nThese are ZDNET's top New Year's deals across major retailers that you can take advantage of before the new year is in full swing, from home essentials to innovative tech, to help you start 2024 on your best foot.\nThe best New Year's deals we've found Apple Watch Series 9 41mm for $349 (save $50 at Amazon) Eero Pro 6 Mesh Wifi Router for $120 (save $80 at Amazon) Kindle Scribe 16GB for $295 (save $75 at Amazon for Prime Members) Insignia 50-inch Smart Fire TV for $230 (save $80 at Amazon) Apple AirPods Pro (2nd Gen) for $189 (save $60 at Walmart) Apple AirTag 4-Pack for $80 (save $19 at Amazon) Fitness, wellness, and health deals There is no denying that the New Year brings on a slew of health- and wellness-derived goals or lifestyle changes. Lucky for you, there are plenty of deals on top smartwatches, fitness gear, and other wellness products you can snag if you're looking to level up your routine. And some of these savings are just as good or close to deals that we saw available during the tail end of 2023's holiday rush.\nApple Watch SE (2nd Gen) 40mm Save $50\nKayla Solino/ZDNET Current price: $199 Original price: $249 If wellness is your goal, then the Apple watch is a popular pick for maximum productivity. And if you're not looking for advanced features offered in the newer Series 8, 9, or Ultra and Ultra 2 models, the watch SE is a great buy with all the essentials, and you'd be surprised how well this model stack up to Apple's other contenders.\nThe Apple Watch SE does offer some of the same health and safety features as the Series 8 and the Ultra, though it doesn't track blood oxygen, do ECG heart checks, or check your temperature.\nAlso: Apple Watch SE (2023) vs. Apple Watch SE (2020)\nZDNET Editor in Chief Jason Hiner noted that the SE (2nd Gen) also makes a great smartwatch to give to someone who doesn't have an iPhone, such as a child or an elderly family member, using Apple's Family Setup.\n\"If you are new to Apple Watch, giving it a try for the first time, and not sure you need all the latest health sensors, then the Apple Watch SE is a great place to get started,\" Hiner says.\nI upgraded from the Series 3 Apple Watch to the SE during the holidays, and I have never been happier with a tech purchase. The SE has all the necessary features without the complicated bells and whistles I didn't want (or need), yet still offers a crisp display, fast response rate, and easy use. I loved my SE upgrade so much, I bought my mom her own for Christmas.\nReview: Apple Watch Series 9: Don't settle\nIf you want to level up your Apple watch experience, the Series 9 offers some more advanced features for a higher cost, though it is also on sale for $50 off following the new year.\nView now at Best Buy View now at Amazon View now at Walmart Flexispot Standing Desk Save $114\nFlexispot/ZDNET Current price: $136 Original price: $250 If movement is at the top of your 2024 goals list, a standing desk is a great option to add to your setup, especially if you work fully remote or hybrid. Standing desks increase the time you're on your feet, and when coupled with under-desk walking pads or treadmills, can be an easy promoter of movement.\nThis adjustable steel desk can be positioned at your ideal working level -- sitting or standing -- and offers a large worktop space to hold all your essentials. If you haven't already jumped into walking and working, I highly encourage it in 2024.\nAlso: The best under-desk treadmills of 2024\nI upgraded my own work from home office in October to include a standing desk and have never looked back. Bye, bye, expensive ergonomic chairs and impractical traditional desks.\nView now at Amazon Fitbit Sense 2 Smartwatch Save $100\nMatthew Miller/ZDNET Current price: $200 Original price: $300 If you're looking for a fitness tracker but don't want to go the Apple route, Fitbit offers tons of options. The Fitbit Sense 2 is the brand's ultimate wearable model, and is now on sale for over 30% off.\nZDNET expert Matthew Miller lauded the watch's timeless experience when he reviewed it in September 2022.\nReview: Fitbit Sense 2\n\"The Fitbit Sense 2 accurately captured my outdoor activities with GPS and indoor activities with heart rate tracking, and noted the details of my sleep and my daily heart rate. It is an excellent health and wellness tracker, with the Fitbit Premium service offering all of the details and guidance you could ask for to help you improve your health,\" Miller said.\nMore: The best Fitbits you can buy\nView now at Amazon\nSave $300 Original Peloton Bike Cycle through your fitness goals with the original Peloton bike.\nView at Amazon\nSave $100 Beats Powerbeats Pro Never lose your groove or your tunes during your workout.\nView at Amazon\nSave $60 Samsung Galaxy Watch 6 A top smartwatch and fitness tracker alternative.\nView at Best Buy Home and lifestyle deals The new year doesn't only have to mean new you. The first month of 2024 is a great time to reorganize and optimize your home, office, day-to-day activities, family experiences, and more. And there are plenty of great deals you can snag now on top of the line tech -- including home essentials you may not have thought you needed.\nMeta Quest 2 Save $50\nJason Hiner/ZDNET Current price: $250 Original price: $300 The Meta Quest 2 virtual reality (VR) headset was ZDNET Editor in Chief Jason Hiner's top tech holiday deal of 2023, and for good reason. The Meta Quest 2 is portable, comfortable, easy to use, and plays virtually all of the content in the Meta Quest ecosystem. In fact, Hiner calls Quest 2 \"the best VR headset you can buy for the money right now,\" despite the Quest 3 being available, too.\nMore: Meta Quest 2 is my pick for best holiday tech\n\"The Quest 2 is a great way to get started with VR and there are a lot of great VR experiences -- far beyond just gaming,\" Hiner said in December 2023. \"The Quest 2 has no cords attached, it's compact, the software is easy to navigate, and the headset and controllers are comfortable to use. I recently wrote about the Supernatural app as a killer app for fitness on the Meta Quest, and it works on the Quest 2 as well as it does on the Quest 3.\"\nView now at Amazon Beats Studio Buds Save $50\nBeats/ZDNET Current price: $100 Original price: $150 If you're looking to upgrade your listening experience for work, the gym, or at home, the Beats Studio Buds offer an inclusive user experience for a great price (an even better one too, right now). The Studio Buds are sculpted to fit in the curvatures of your ear, not needing any stems or hooks to keep them snug.\nMore: Beats Studio Buds vs. Apple AirPods Pro 2\nZDNET Reviews Editor Kerry Wan notes these buds are perfect for individuals looking for character and affordability. These earbuds are available in six colors, including Ocean Blue, Sunset Pink, and the infamous Beats Red, and depending on your colorway of choice, the earbuds' charging case follows suit. And for the fitness guru, these Beats bring efficiency.\n\"Compared to the AirPods Pro's squeeze-based gesture controls, the Beats Studio Buds operate on taps and holds, requiring less effort to play, pause, skip tracks, and pick up phone calls,\" Wan noted in his review .\nAlso: The seven best wireless earbuds\nView now at Amazon Ember Mug 2 Temperature Control Smart Mug Save $11\nEmber/ZDNET Current price: $119 Original price: $130 Listen, I'm all for treating yourself in 2024, especially if your purchases can make your days better, even just a little. The Ember Smart Mug 2 is one of those purchases. Now you can finish your cup of coffee or tea at your own pace, and never worry about finding a lukewarm drink. Just control the temperature with your smartphone, and make every sip like the first. For the avid hot beverage drinker, this is life changing.\nReview: Ember Smart Mug\nDid I need to purchase this a few months ago? No. Has it immensely changed my work from home experience? Yes. No more trips to the microwave for me.\nThe Ember Mug is absolutely one of those things you convince yourself you don't need because it feels absurd to spend over $100 on a mug, but once you try it, you will never go back -- and won't ever think about how expensive of a purchase it was -- I promise.\nView now at Best Buy\nSave $71 Jackery Portable Power Station Explorer 300 Don't just optimize your day, optimize your home this 2024 by making sure it's prepped for power outages or unexpected emergencies with a portable power station.\nView at Amazon\nSave $201 iRobot Braava Jet M6 Robot Mop Enter your Jetson's era in 2024 and rely on the Braava Jet M6 mop to do your floor care.\nView at Amazon\nSave $18 Rocketbook Smart Reusable Notebook Maybe it's fine to take jotting your notes on random scraps of paper shoved into your desk drawer with you into 2024 -- or, you could streamline your note taking into one, smart place.\nView at Amazon Even more New Year's everyday essential deals Deals don't always have to be on top tech or highly sought-after items. Oftentimes you can find great deals on everyday essentials for you or your home, especially right now. And after all, anytime is a good time to save on the little things you use the most.\nSave $30 Waterpik Cordless Water Flosser Clean teeth are never so last year. Upgrade your oral care and save with a new flosser.\nView at Amazon\nSave $12 Levoit Smart Cool Mist 6L Air Humidifier Dry air can stay in 2023. Amp up the humidity in your home or room to prevent dryness this year.\nView at Amazon\nSave $24 iHealth No-Touch Forehead Thermometer A good thermometer is a household staple (especially now, when everyone you know is sick), and if you can't remember when you last bought one or where yours is, it may be time to upgrade to a touchless, smart model.\nView at Amazon\nSave $70 Keurig K-Classic Coffee Maker The classic Keurig will likely never go out of style. And if you're not a coffee fanatic, it's a great basic, quick, and functional option for frequent hot beverage drinkers. Upgrade your kitchen, coffee bar, office, or guest bedroom in 2024 with a fresh Keurig.\nView at Amazon How did we choose these deals? ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.\nWe also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.\nZDNET Recommends\nBest VPN services\nBest robot vacuums and mops\nBest gaming PCs\nBest live TV streaming services\nBest VPN services\nBest robot vacuums and mops\nBest gaming PCs\nBest live TV streaming services Editorial standards",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "http://www.amazon.com/exec/obidos/ASIN/B07QNM91NQ",
+      "https://goto.walmart.com/c/159047/565706/9383?&sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-2023-GPS-40mm-Midnight-Aluminum-Case-with-Midnight-Sport-Band-S-M%2F5054105595%3F&subId1=subid_value",
+      "http://www.amazon.com/exec/obidos/ASIN/B0CHX3Z6KT",
+      "http://www.amazon.com/exec/obidos/ASIN/B075QQ8VZW",
+      "http://www.amazon.com/exec/obidos/ASIN/B018UQ5AMS",
+      "https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fember-temperature-control-smart-mug-10-oz-black%2F6367424.p%3F&publisher_slug=zdnet&article_name=__ARTICLE_NAME__&article_url=__ARTICLE_URL__&exclusive=1&u1=subid_value",
+      "http://www.amazon.com/exec/obidos/ASIN/B082TMBYR6",
+      "http://www.amazon.com/exec/obidos/ASIN/B07R5QD598",
+      "http://www.amazon.com/exec/obidos/ASIN/B01GNVF8S8",
+      "http://www.amazon.com/exec/obidos/ASIN/B099VMT8VZ",
+      "http://www.amazon.com/exec/obidos/ASIN/B07WFVVCLX",
+      "http://www.amazon.com/exec/obidos/ASIN/B0932QJ2JZ",
+      "https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-watch6-aluminum-smartwatch-40mm-bt-graphite%2F6546704.p%3F&publisher_slug=zdnet&article_name=__ARTICLE_NAME__&article_url=__ARTICLE_URL__&exclusive=1&u1=subid_value",
+      "http://www.amazon.com/exec/obidos/ASIN/B0CHX94TKQ",
+      "http://www.amazon.com/exec/obidos/ASIN/B0B4MV1TGL",
+      "http://www.amazon.com/exec/obidos/ASIN/B0C4ZB3WT5",
+      "https://goto.walmart.com/c/159047/565706/9383?&sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FAirPods-Pro-2nd-generation-with-MagSafe-Case-USB-C%2F5020133971%3F&subId1=subid_value",
+      "http://www.amazon.com/exec/obidos/ASIN/B085VNCZHL",
+      "http://www.amazon.com/exec/obidos/ASIN/B09BRZBK15",
+      "http://www.amazon.com/exec/obidos/ASIN/B096SSCV5K",
+      "http://www.amazon.com/exec/obidos/ASIN/B0BTTVRWPR",
+      "https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-se-2nd-generation-gps-40mm-starlight-aluminum-case-with-starlight-sport-band-s-m-starlight%2F6340296.p%3F&publisher_slug=zdnet&article_name=__ARTICLE_NAME__&article_url=__ARTICLE_URL__&exclusive=1&u1=subid_value",
+      "http://www.amazon.com/exec/obidos/ASIN/B08BHPMYGK",
+      "http://www.amazon.com/exec/obidos/ASIN/B08HS45N13",
+      "https://www.goto.walmart.com/c/159047/565706/9383?&sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FAirPods-Pro-2nd-generation-with-MagSafe-Case-USB-C%2F5020133971%3F&subId1=subid_value",
+      "http://amazon.com/exec/obidos/ASIN/B085VNCZHL",
+      "https://goto.walmart.com/c/159047/565706/9383",
+      "http://amazon.com/exec/obidos/ASIN/B01GNVF8S8",
+      "http://amazon.com/exec/obidos/ASIN/B082TMBYR6",
+      "http://amazon.com/exec/obidos/ASIN/B0CHX94TKQ",
+      "https://www.shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-se-2nd-generation-gps-40mm-starlight-aluminum-case-with-starlight-sport-band-s-m-starlight%2F6340296.p%3F&publisher_slug=zdnet&article_name=__ARTICLE_NAME__&article_url=__ARTICLE_URL__&exclusive=1&u1=subid_value",
+      "http://amazon.com/exec/obidos/ASIN/B07R5QD598",
+      "http://amazon.com/exec/obidos/ASIN/B075QQ8VZW",
+      "http://amazon.com/exec/obidos/ASIN/B0B4MV1TGL",
+      "http://amazon.com/exec/obidos/ASIN/B07WFVVCLX",
+      "http://amazon.com/exec/obidos/ASIN/B07QNM91NQ",
+      "http://amazon.com/exec/obidos/ASIN/B0932QJ2JZ",
+      "http://amazon.com/exec/obidos/ASIN/B018UQ5AMS",
+      "https://www.shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fember-temperature-control-smart-mug-10-oz-black%2F6367424.p%3F&publisher_slug=zdnet&article_name=__ARTICLE_NAME__&article_url=__ARTICLE_URL__&exclusive=1&u1=subid_value",
+      "http://amazon.com/exec/obidos/ASIN/B0BTTVRWPR",
+      "http://amazon.com/exec/obidos/ASIN/B0CHX3Z6KT",
+      "http://amazon.com/exec/obidos/ASIN/B0C4ZB3WT5",
+      "https://www.goto.walmart.com/c/159047/565706/9383?&sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-2023-GPS-40mm-Midnight-Aluminum-Case-with-Midnight-Sport-Band-S-M%2F5054105595%3F&subId1=subid_value",
+      "http://amazon.com/exec/obidos/ASIN/B099VMT8VZ",
+      "http://amazon.com/exec/obidos/ASIN/B09BRZBK15",
+      "http://amazon.com/exec/obidos/ASIN/B08BHPMYGK",
+      "http://amazon.com/exec/obidos/ASIN/B096SSCV5K",
+      "http://amazon.com/exec/obidos/ASIN/B08HS45N13",
+      "https://shop-links.co/link/",
+      "https://www.shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-watch6-aluminum-smartwatch-40mm-bt-graphite%2F6546704.p%3F&publisher_slug=zdnet&article_name=__ARTICLE_NAME__&article_url=__ARTICLE_URL__&exclusive=1&u1=subid_value"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "bes",
+          "sentiment": "negative"
+        },
+        {
+          "name": "zdnet",
+          "sentiment": "negative"
+        },
+        {
+          "name": "amazon fitbit sense",
+          "sentiment": "none"
+        },
+        {
+          "name": "amazon meta quest",
+          "sentiment": "none"
+        },
+        {
+          "name": "amazon ember mug",
+          "sentiment": "none"
+        },
+        {
+          "name": "meta quest",
+          "sentiment": "none"
+        },
+        {
+          "name": "flexispot standing desk save",
+          "sentiment": "none"
+        },
+        {
+          "name": "amazon beats studio buds",
+          "sentiment": "none"
+        },
+        {
+          "name": "beats studio buds save",
+          "sentiment": "none"
+        },
+        {
+          "name": "temperature control smart mug save",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:11:37.234+02:00",
+    "updated": "2024-01-06T00:11:37.234+02:00"
+  },
+  {
+    "uuid": "17c66347e899f294e7fa3bccfdf483331976a705",
+    "url": "https://www.elnuevodia.com/magacin/realeza/notas/letizia-y-maxima-unidas-en-favor-de-la-salud-mental",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agencia EFE",
+    "published": "2024-04-18T21:30:00Z",
+    "title": "Letizia y Máxima, unidas en favor de la salud mental - El Nuevo Día",
+    "text": "Las reinas comparten la tragedia del suicidio de sus respectivas hermanas pequeñas 18 de abril de 2024 - 5:30 PM Las reinas comparten la tragedia del suicidio de sus respectivas hermanas pequeñas 18 de abril de 2024 - 5:30 PM Las reinas [Máxima](https://www.elnuevodia.com/topicos/maxima-de-holanda/) y [Letizia](https://www.elnuevodia.com/topicos/reina-letizia/) protagonizaron este jueves en Ámsterdam una agenda paralela a la de sus esposos, Felipe VI y Willem Alexander, en la que mostraron la sintonía que caracteriza su relación desde hace años, en particular, ante un asunto como el de la [salud mental](https://www.elnuevodia.com/topicos/salud-mental/) en el que ambas están especialmente implicadas. En la segunda y última jornada de la visita de Estado de los [reyes de España](https://www.elnuevodia.com/topicos/reyes-de-espana-felipe-y-letizia/) a Países Bajos, los monarcas se desplazaron a La Haya y las consortes se quedaron en la capital para visitar un proyecto enfocado a jóvenes y asistir a un coloquio en el marco del festival de cine español. La primera cita fue en el local del proyecto Lab6, dirigido a ayudar a adolescentes vulnerables con dificultades de adaptación a los que facilitan herramientas para su desarrollo social. En la iniciativa participa la fundación Mind Us, al ser los problemas de salud mental uno de los focos de preocupación crecientes, en especial, tras la pandemia. Rodeadas por ocho jóvenes, algunos musulmanes, las reinas atendieron la explicación de la responsable de Mind Us y de un psiquiatra, quienes incidieron en la importancia de la prevención para detectar síntomas incipientes. 🇳🇱 Encuentro de la Reina y la Reina Máxima de los Países Bajos con responsables del Spanish Film Festival de Ámsterdam, directores, actores y representantes de instituciones educativas.— Casa de S.M. el Rey (@CasaReal) ➡️ [https://t.co/wIvy5wipWE] [pic.twitter.com/GbcjNRcFFj] [April 18, 2024] La esposa de Willem Alexander, presidenta de honor de Minds Us, también aportó sus reflexiones sobre una materia a la que le presta una atención especial en su actividad institucional. Aparte de ser de la misma generación, la argentina Máxima Zorreguieta, de 52 años, y Letizia Ortiz, de 51, tienen en común que integran el grupo de reinas europeas que antes de contraer matrimonio no pertenecían a la realeza. También comparten la tragedia del suicidio de sus hermanas pequeñas. Erika Ortiz se quitó la vida en 2007 cuando tenía 31 años e Inés Zorreguieta lo hizo con dos más en 2018, tras sufrir un trastorno alimenticio que la llevó a estar ingresada en una clínica psiquiátrica. “Mi querida y pequeña hermana Inés estaba enferma. No podía encontrar la felicidad y no podría curarse”, dijo la reina poco después del fallecimiento. Desde Lab6, la reinas se trasladaron al Teatro Tuschinski, sede del X Festival de Cine Español de Ámsterdam, que ha ganado peso gracias al interés creciente entre los neerlandeses por el aprendizaje del español. Al término de la emisión de la película Campeonex, las reinas accedieron al patio de butacas para sorpresa de los espectadores y ocuparon un asiento en la séptima fila para seguir el coloquio en el que intervino el director de la cinta, Javier Fesser. La reina Letizia protagonizó la noche del miércolese una imagen destacada al participar sentada en una silla en el besamanos de la cena de gala en el Palacio Real debido a la dolencia que sufre en su pie izquierdo, conocida como neuroma de Morton. En los dos actos de hoy, la esposa de Felipe VI vistió zapatos de tacón fino corto y se la vio desenvolverse con normalidad. El cierre de la visita de Estado tendrá lugar en el Straat Museum, con el recorrido de los dos matrimonios reales de una exposición de arte urbano y la recepción de despedida que ofrecen don Felipe y doña Letizia a sus anfitriones, en la que volverá a estar la princesa Amalia, heredera del trono neerlandés. Carlos Pérez Gil Te invitamos a descargar cualquiera de estos navegadores para ver nuestras noticias:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Health"
+    ],
+    "external_links": [
+      "https://t.co/wIvy5wipWE",
+      "https://www.t.co/wIvy5wipWE"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-19T01:00:41.664+03:00",
+    "updated": "2024-04-19T01:00:41.664+03:00"
+  },
+  {
+    "uuid": "9379c7b398cc9ff403020fb07bf6e6985cae369b",
+    "url": "https://www.asianage.com:443/sports/watch-virat-kohli-dismissed-for-6-runs-on-ranji-trophy-return-1857899",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Deccan Chronicle",
+    "published": "2025-01-31T06:36:00Z",
+    "title": "Watch: Virat Kohli Dismissed For 6 Runs on Ranji Trophy Return",
+    "text": "Watch: Virat Kohli Dismissed For 6 Runs on Ranji Trophy Return\nStar India cricketer Virat Kohli’s had a dismal return to the Ranji Trophy as he was dismissed for 6 runs on Day 2 of the Ranji Trophy match against Delhi and Railways at the Arun Jaitley Stadium.\nKohli, the star batter, entered the field amidst thunderous applause from his home crowd. However, their cheers were quickly dampened as he was dismissed early by Himanshu Sangwan, castling his off-stump.\nThe former Indian captain hit Sangwan for a boundary but he bowled the next ball. He tried a swipe across the line, but the ball kept low and slid past Kohli’s bat, hitting the off-stump. Soon after Kohli’s dismissal, Delhi lost Sanat Sangwan to Himanshu in his next over.\nAt the end of 32 overs, Delhi stood at 110 runs at the loss of 4 wickets, trailing Railways by 131 runs.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->sports record",
+      "Sport->sport event",
+      "Sport->cricket",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->game",
+      "Lifestyle and Leisure->exercise and fitness"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T09:35:52.335+02:00",
+    "updated": "2025-01-31T09:35:52.335+02:00"
+  },
+  {
+    "uuid": "ac56bdf6504745bb509d3a669f6d8f42e8c750e6",
+    "url": "https://bioengineer.org/greener-methods-for-producing-nitrogen-fertilizer/",
+    "ord_in_thread": 0,
+    "author": "Bioengineer",
+    "published": "2025-07-31T04:12:00Z",
+    "title": "Greener Methods for Producing Nitrogen Fertilizer",
+    "text": "In the quest for sustainable agriculture and climate-friendly industrial processes, ammonia production stands as a critical challenge. Ammonia, the foundation of most fertilizers that sustain global food production, has traditionally been synthesized through the Haber-Bosch process, an energy-hungry method reliant on fossil fuels and methane gas. Now, a breakthrough led by Prof. Nikolay Kornienko at the University of Bonn presents an electrically driven alternative that harnesses water directly as a hydrogen source, offering a pathway toward green ammonia synthesis powered by renewable energy.\nSince its invention in the early 20th century by Fritz Haber and Carl Bosch, the Haber-Bosch process has revolutionized agriculture by enabling large-scale nitrogen fixation—converting abundant atmospheric nitrogen into ammonia. This chemical transformation requires high pressures, sometimes exceeding 150 bar, and temperatures up to 500 degrees Celsius, demanding massive amounts of energy, predominantly from natural gas. This heavy energy footprint entails significant carbon dioxide emissions, making ammonia production one of the largest industrial contributors to greenhouse gases worldwide.\nProf. Kornienko’s team is tackling this issue by redesigning the molecular mechanism underlying ammonia synthesis. Their approach revolves around the lithium-mediated nitrogen reduction reaction (LiNRR), a process where lithium ions are electrochemically reduced to metallic lithium which then reacts with nitrogen gas to form lithium-nitrogen intermediates. These intermediates, upon encountering a hydrogen source, convert into ammonia and recycle lithium ions, theoretically enabling a closed-loop reaction cycle fueled solely by electricity from renewable sources like wind and solar.\n.adsslot_xnZrcdOe4X{width:728px !important;height:90px !important;}\n@media(max-width:1199px){ .adsslot_xnZrcdOe4X{width:468px !important;height:60px !important;}\n}\n@media(max-width:767px){ .adsslot_xnZrcdOe4X{width:320px !important;height:50px !important;}\n}\nADVERTISEMENT\nHowever, conventional LiNRR methods face grave challenges. High cell voltages are required to deposit metallic lithium, limiting energy efficiency to roughly 25 percent. Moreover, lithium’s extreme reactivity demands strict anhydrous and oxygen-free environments, complicating the system’s scalability and practical application. A particularly persistent obstacle has been sourcing hydrogen directly from water rather than sacrificial organic solvents such as alcohols, which degrade and incur higher material costs.\nIn an ingenious experimental design, the team introduced a palladium foil functioning simultaneously as an electrode and a selective hydrogen membrane. Palladium’s unique catalytic properties allow it to dissociate hydrogen molecules and permit atomic hydrogen transport through its lattice, effectively decoupling the water splitting reaction from the lithium-nitrogen chemistry. On one side of the membrane lies an aqueous electrolyte where water electrolysis generates hydrogen atoms; on the other side, a dry lithium environment uses these hydrogen atoms for ammonia synthesis.\nThe adoption of this integrated palladium membrane reactor marks a significant leap, as it enables direct utilization of water as a sustainable hydrogen source in the LiNRR framework. Verification through sensitive techniques such as infrared spectroscopy and mass spectrometry confirmed that hydrogen atoms transferred through the membrane truly participate in ammonia formation. Using deuterium-labeled water (heavy hydrogen), the researchers detected isotopically distinct ammonia molecules, proving beyond doubt the efficacy of the membrane-mediated hydrogen transfer process.\nDespite this success, Prof. Kornienko acknowledges the considerable journey remaining before industrial-scale applications become viable. Current ammonia yields remain exceedingly modest, requiring future enhancements to increase reaction rates and conversion efficiency by orders of magnitude—potentially as much as 1,000 times over present performance. Controlling electron flow precisely toward nitrogen reduction rather than parasitic reactions also remains a major focus for ongoing research.\nBeyond its groundbreaking scientific implications, this research represents a paradigm shift toward decentralized ammonia production, potentially enabling fertilizer synthesis at the point of use powered by locally available clean electricity. Such technology could drastically lower the carbon footprint of fertilizer manufacturing, reduce dependence on fossil fuels, and help mitigate climate change while sustaining agricultural productivity worldwide.\nThe team’s innovation also prompted a patent application, reflecting its novel approach which integrates materials science, electrochemistry, and catalytic engineering. This multidisciplinary strategy epitomizes the type of cutting-edge research needed to solve complex energy and sustainability problems.\nThis pioneering work, published in Nature Communications, opens a promising pathway toward climate-neutral nitrogen fixation. Moving forward, efforts will center on optimizing membrane properties, scaling reactor design, and improving catalytic efficiency to accelerate the practical adoption of this exciting technology.\nIn the broader context, these advances underscore the power of electrochemical methods in transforming traditional chemical processes. Electrifying ammonia synthesis aligns well with global trends toward electrification of industry and utilization of intermittent renewable energy sources, contributing to a circular and sustainable chemical economy.\nAs researchers worldwide grapple with the urgent need to reduce industrial emissions, innovations like the integrated palladium membrane reactor exemplify the fusion of fundamental science with application-driven engineering. The future of fertilizer production—and by extension, global food security—may well hinge on these groundbreaking electrochemical approaches that harness water, electricity, and nitrogen to produce ammonia cleanly and efficiently.\nSubject of Research: Not applicable\nArticle Title: Accelerating lithium-mediated nitrogen reduction through an integrated palladium membrane hydrogenation reactor\nNews Publication Date: 28-Jul-2025\nWeb References: http://dx.doi.org/10.1038/s41467-025-62088-z\nReferences: Hossein Bemana, Hendrik Schumann, Morgan McKee, Senada Nozinovic, Jörg Daniels, Ralf Weisbarth, Nikolay Kornienko: Accelerating lithium-mediated nitrogen reduction through an integrated palladium membrane hydrogenation reactor, Nature Communications\nImage Credits: Image: Nikolay Kornienko\nKeywords: ammonia synthesis, lithium-mediated nitrogen reduction, palladium membrane, renewable energy, green hydrogen, water electrolysis, sustainable fertilizer, electrochemical catalysis, climate-neutral ammonia, nitrogen fixation\nTags: ammonia production methodscarbon footprint of fertilizersenergy-efficient nitrogen synthesisenvironmentally friendly fertilizersgreen ammonia synthesisHaber-Bosch process limitationsindustrial greenhouse gas emissionsinnovative agricultural practiceslithium-mediated nitrogen reductionnitrogen fixation alternativesrenewable energy in fertilizer productionsustainable agriculture",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Environment->climate change",
+      "Environment->sustainability",
+      "Environment->energy resources",
+      "Science and Technology->agricultural technology",
+      "Science and Technology->biotechnology",
+      "Science and Technology->natural science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Nikolay Kornienko",
+          "sentiment": "none"
+        },
+        {
+          "name": "Fritz Haber",
+          "sentiment": "none"
+        },
+        {
+          "name": "Carl Bosch",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "University of Bonn",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "ac56bdf6504745bb509d3a669f6d8f42e8c750e6",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:19:24.908+03:00",
+    "updated": "2025-07-31T08:24:52.000+03:00"
+  },
+  {
+    "uuid": "72c24893bf178d0cd4bf1cd90deb051b1b15cc31",
+    "url": "https://brasil.perfil.com/politica/girao-acusa-governo-lula-de-boicote-a-liberdade-religiosa.phtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Luiza Lopes",
+    "published": "2024-05-24T00:00:00Z",
+    "title": "Girão acusa governo Lula de \"boicote à liberdade religiosa\"",
+    "text": "O senador Eduardo Girão (Novo-CE) criticou a Resolução nº 34 do Conselho Nacional de Política Criminal e Penitenciária (CNPCP), ligado ao Ministério da Justiça , que recomenda a proibição do proselitismo religioso em presídios. Girão informou ter apresentado um projeto de decreto legislativo (PDL 258/2024) para anular os efeitos da resolução e destacou que a medida gerou forte reação entre missionários religiosos. Resolução proíbe práticas em presídios Além disso, a resolução proíbe outras práticas, como a participação de servidores públicos como voluntários religiosos em presídios e o pagamento de dízimo por parte dos presos. “O texto da resolução diz que ‘será assegurada a atuação de diferentes grupos religiosos em igualdade de condições, majoritárias ou minoritárias, vedado o proselitismo religioso e qualquer forma de discriminação, de estigmatização e de racismo religioso’. Uma justificativa da resolução é a de garantir a livre escolha de cada preso, mas, na prática, a resolução cria um cerceamento de uma atividade importante de ressocialização do preso e redescoberta do sentido da vida, bem como uma conversão pessoal e adesão a princípios e valores éticos e morais, que, muitas vezes, transformam suas vidas“, afirmou. O senador ressaltou que a bancada evangélica no Congresso Nacional considera que a resolução dificultará o serviço de evangelização, desestimulando as atividades religiosas nos presídios. Segundo Girão, diversos parlamentares acusam o governo federal de perseguição religiosa e de desrespeito à liberdade das igrejas. “O Ministério da Justiça emitiu uma nota, dizendo que a resolução não proíbe a evangelização e visa a garantir a laicidade do Estado e proteger os direitos dos presos, evitando abusos e manipulações, mas líderes religiosos, tanto católicos como evangélicos e espíritas, dizem que o trabalho de ressocialização e recuperação dos detentos, por meio da fé, deveria ser facilitado e jamais dificultado, como pretende a portaria do governo Lula“, acrescentou.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Politics",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.gov.br/mj/pt-br",
+      "https://gov.br/mj/pt-br"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-24T16:43:29.403+03:00",
+    "updated": "2024-05-24T16:43:29.403+03:00"
+  },
+  {
+    "uuid": "ff7a8c8fb26648252a2312314329772fc4d46bd6",
+    "url": "https://euroweeklynews.com/2024/09/19/denia-u3a-autumn-picnic-in-aid-of-the-red-cross",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Donna Williams",
+    "published": "2024-09-19T19:18:00Z",
+    "title": "Denia U3A picnic for the Red Cross « Euro Weekly News",
+    "text": "On Friday, September 6, 120 members of Denia U3A spent the evening taking advantage of the delicious temperatures by enjoying a picnic together. This picnic was hosted at the beautiful Los Arcos Gardens, and aside from spending time in each other’s company, they were also there to raise money for the Cruz Roja Espanola (Red Cross). As the sun set, they all laid out their picnics, ordered drinks, welcomed friends, and settled to enjoy the evening. The evening included a performance by The Entertainers, who brought a fun and enthusiastic repertoire that had everyone up dancing by the time they had finished eating! Their choice of songs included classics like Knocking on Heaven’s Door, Proud Mary, I know him so well, and Hit the Road Jack. Further demonstrating their versatility, they also performed a wonderful medley from The Phantom of the Opera. The highlight of the evening, which had everyone raucously laughing, was when Marc, a member of The Entertainers, slipped off stage, only to return in a sparkly pink shirt opened to the waist, an oversized gold medallion, and a curly brown wig! He then proceeded to give an inspired performance of Disco Inferno, followed by Staying Alive (minus the wig). Everyone had a fantastic evening, and even better, they raised an impressive €1,500 for their chosen charity. Find more local news, events and profile interviews for Costa Blanca North Share this story Subscribe to our Euro Weekly News alerts to get the latest stories into your inbox! By signing up, you will create a Euro Weekly News account if you don't already have one. Review our Privacy Policy for more information about our privacy practices. Marketer, copywriter, storyteller and President of Samaritans in Spain. They say variety is the spice of life and I am definitely loving life! Your email address will not be published. Required fields are marked * Comment for robots Please empty this comment field to prove you're human. Website By signing up, you will create a Euro Weekly News account if you don't already have one. Review our Privacy Policy for more information about our privacy practices. Download our media pack in either English or Spanish.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://web.whatsapp.com/send?text=https://euroweeklynews.com/2024/09/19/denia-u3a-autumn-picnic-in-aid-of-the-red-cross/",
+      "https://twitter.com/share?url=https://euroweeklynews.com/2024/09/19/denia-u3a-autumn-picnic-in-aid-of-the-red-cross/&#038;text=Denia%20U3A%20autumn%20picnic%20in%20aid%20of%20the%20Red%20Cross",
+      "https://www.facebook.com/sharer/sharer.php?u=https://euroweeklynews.com/2024/09/19/denia-u3a-autumn-picnic-in-aid-of-the-red-cross/",
+      "https://www.linkedin.com/shareArticle?mini=true&#038;url=https://euroweeklynews.com/2024/09/19/denia-u3a-autumn-picnic-in-aid-of-the-red-cross/&#038;title=Denia%20U3A%20autumn%20picnic%20in%20aid%20of%20the%20Red%20Cross",
+      "https://share.flipboard.com/bookmarklet/popout?v=2&#038;url=https://euroweeklynews.com/2024/09/19/denia-u3a-autumn-picnic-in-aid-of-the-red-cross/&#038;title=Denia%20U3A%20autumn%20picnic%20in%20aid%20of%20the%20Red%20Cross",
+      "https://facebook.com/sharer/sharer.php?u=https://euroweeklynews.com/2024/09/19/denia-u3a-autumn-picnic-in-aid-of-the-red-cross/",
+      "https://share.flipboard.com/bookmarklet/popout",
+      "https://web.whatsapp.com/send?text=https://euroweeklynews.com/2024/09/19/denia-u3a-autumn-picnic-in-aid-of-the-red-cross",
+      "https://www.linkedin.com/shareArticle",
+      "https://web.whatsapp.com/send",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.twitter.com/share?url=https://www.euroweeklynews.com/2024/09/19/denia-u3a-autumn-picnic-in-aid-of-the-red-cross/&#038;text=Denia%20U3A%20autumn%20picnic%20in%20aid%20of%20the%20Red%20Cross",
+      "https://www.facebook.com/sharer/sharer.php?u=https://euroweeklynews.com/2024/09/19/denia-u3a-autumn-picnic-in-aid-of-the-red-cross",
+      "https://www.share.flipboard.com/bookmarklet/popout?v=2&#038;url=https://www.euroweeklynews.com/2024/09/19/denia-u3a-autumn-picnic-in-aid-of-the-red-cross/&#038;title=Denia%20U3A%20autumn%20picnic%20in%20aid%20of%20the%20Red%20Cross",
+      "https://twitter.com/share",
+      "https://linkedin.com/shareArticle?mini=true&#038;url=https://euroweeklynews.com/2024/09/19/denia-u3a-autumn-picnic-in-aid-of-the-red-cross/&#038;title=Denia%20U3A%20autumn%20picnic%20in%20aid%20of%20the%20Red%20Cross",
+      "https://www.web.whatsapp.com/send?text=https://www.euroweeklynews.com/2024/09/19/denia-u3a-autumn-picnic-in-aid-of-the-red-cross/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Cruz Roja Espanola",
+          "sentiment": "none"
+        },
+        {
+          "name": "Red Cross",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Gardens",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:09:23.565+03:00",
+    "updated": "2024-09-20T03:00:53.121+03:00"
+  },
+  {
+    "uuid": "b8a039694853747500056313b58a0a42028802ab",
+    "url": "https://g1.globo.com/sp/santos-regiao/noticia/2025/03/05/defesa-civil-de-sp-renova-alerta-de-altas-temperaturas-na-baixada-santista-e-vale-do-ribeira.ghtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "globo.com",
+    "published": "2025-03-05T23:00:00Z",
+    "title": "Defesa Civil de SP renova alerta de altas temperaturas na Baixada Santista e Vale do Ribeira | Santos e Região | G1",
+    "text": "Defesa Civil de SP renovou o alerta para altas temperaturas para todo o estado. A previsão para o calor intenso se estende até domingo (9). Há previsão de mudança no tempo a partir de segunda-feira (10).\nNo Vale do Ribeira as máximas podem alcançar 34°C. Já na Baixada Santista, os termômetros podem marcar 28°C. Na capital, a temperatura pode chegar aos 31°C.\n1 de 1 Defesa Civil de SP renova alerta de altas temperaturas na Baixada Santista e Vale do Ribeira — Foto: Silvio Luiz/A Tribuna Jornal Defesa Civil de SP renova alerta de altas temperaturas na Baixada Santista e Vale do Ribeira — Foto: Silvio Luiz/A Tribuna Jornal\nA Defesa Civil do Estado de São Paulo renovou o alerta para altas temperaturas para todo o território paulista, incluindo, a Baixada Santista e o Vale do Ribeira. A previsão para o calor intenso se estende até domingo (9). Há previsão de mudança no tempo a partir de segunda-feira (10).\n✅ Clique aqui para seguir o novo canal do g1 Santos no WhatsApp.\nDe acordo com o órgão, no Vale do Ribeira as máximas podem alcançar 34°C. Já na Baixada Santista, os termômetros podem marcar 28°C. Na capital, a temperatura pode chegar aos 31°C.\nO órgão estadual informou que, mesmo com o cenário de muito calor, não está descartada a possibilidade de pancadas de chuva isoladas, que podem ser acompanhadas por queda de raios, granizo e rajadas de vento.\nSegundo os meteorologistas do Centro de Gerenciamento de Emergências (CGE) do órgão estadual, a partir de segunda-feira (10), a aproximação de uma frente fria atuará quebrando o bloqueio atmosférico da alta pressão, fazendo com que as temperaturas máximas diminuam, favorecendo o retorno das chuvas.\nCuidados🚨\n🚰 Com as altas temperaturas, o órgão reforça a importância de se manter hidratado, bebendo bastante água, mesmo sem sentir sede.\n🌞 A exposição direta ao sol entre 10h e 16h deve ser evitada sempre que possível.\n😎 Uso de protetor solar, roupas leves, chapéus e óculos escuros ajuda a reduzir os impactos do calor.\n🧓 Crianças, idosos e pessoas com doenças crônicas devem receber atenção especial, pois são mais vulneráveis a problemas decorrentes do calor excessivo.\n🐱 Os animais de estimação também sofrem com as altas temperaturas e precisam de cuidados especiais para evitar problemas como desidratação, queimaduras e superaquecimento.\nVÍDEOS: g1 em 1 Minuto Santos\n50 vídeos",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Environment->climate change",
+      "Environment->population growth",
+      "Social Issue->population and census",
+      "Social Issue->social condition",
+      "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://s2-g1.glbimg.com/3uWYZaEN0DxsDFJ8jJfbl3018B4=/640x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/78/21/13392178",
+      "https://s2-g1.glbimg.com/agjg-ClaqfPzI4L3sdmom3RaLGo=/640x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/49/13394980",
+      "https://s2-g1.glbimg.com/V4dKsUNRhcNQI1oIEk0Vt0MmLwA=/640x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/73/49/13394973",
+      "https://s3.glbimg.com/v1/AUTH_14ce1dbebbe64b1e8e955809a085692d/web-components/teste-ab.html?url=aHR0cHM6Ly9zMy5nbGJpbWcuY29tL3YxL0FVVEhfMTRjZTFkYmViYmU2NGIxZThlOTU1ODA5YTA4NTY5MmQvd2ViLWNvbXBvbmVudHMvcGxheWVyLXdlYi1tdWx0aWNvbnRlbnQvcHJvZC93aWRnZXQuaHRtbD9wcm9kdWN0TmFtZT1nMSZwcm9kdWN0Q29sb3I9JTIzQzQxNzBDJmFydHdvcmtVUkw9aHR0cHMlM0ElMkYlMkZzMy5nbGJpbWcuY29tJTJGdjElMkZBVVRIXzU5ZWRkNDIyYzBjODRhODc5YmQzNzY3MGFlNGY1MzhhJTJGYXVkaW9wdWItcG9kY2FzdHMlMkZicyUyRjIwMjIlMkZxJTJGZyUyRkdHSUFacFM0S2NOeFNWMjBuUExBJTJGY2FwYS1iYWl4YWRhZW",
+      "https://s2-g1.glbimg.com/7td_xufdM80s_OAxTnaRLYxnSl4=/390x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/73/49/13394973",
+      "https://957b0b3a18c149f4814f2525021e644f@web.sentry.globoi.com/786",
+      "https://www.whatsapp.com/channel/0029VaAG5OV72WTsvWpgNE2G",
+      "https://s2-g1.glbimg.com/CzSjm_28ZbDIRiyLVBtOPbKo2DU=/390x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/49/13394980",
+      "https://s2-g1.glbimg.com/CnvPVSDs-gaiE7tyIBEtlkXtSCQ=/650x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/49/13394980",
+      "https://s2-g1.glbimg.com/FKs6ktt4sPwifCLYUXgpaJg-yXk=/416x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/78/21/13392178",
+      "https://s2-g1.glbimg.com/8CSPR-gCzOyoCuSTBayn0k1np_4=/650x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/73/49/13394973",
+      "https://s2-g1.glbimg.com/RNGGSP3I7UbBwv2T4fh8rLo6VPM=/416x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/73/49/13394973",
+      "https://s2-g1.glbimg.com/0Wwm6jOKILG-3iZ-pU4M-vXbPLg=/416x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/49/13394980",
+      "https://s2-g1.glbimg.com/i26RXZIZHpZfO7NDrBmOLudWe2A=/650x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/78/21/13392178",
+      "https://s2-g1.glbimg.com/ZuX3vR7LRJsIZve_HCgqLHc37Q8=/390x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/78/21/13392178",
+      "https://s3.glbimg.com/v1/AUTH_c5dfc0eef7ee40d68bdd0993be881440/coral-custom-style/style.css",
+      "https://www.s2-g1.glbimg.com/CzSjm_28ZbDIRiyLVBtOPbKo2DU=/390x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/49/13394980",
+      "https://www.s2-g1.glbimg.com/RNGGSP3I7UbBwv2T4fh8rLo6VPM=/416x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/73/49/13394973",
+      "https://s3.glbimg.com/v1/AUTH_14ce1dbebbe64b1e8e955809a085692d/web-components/teste-ab.html",
+      "https://www.s2-g1.glbimg.com/0Wwm6jOKILG-3iZ-pU4M-vXbPLg=/416x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/49/13394980",
+      "https://www.s2-g1.glbimg.com/3uWYZaEN0DxsDFJ8jJfbl3018B4=/640x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/78/21/13392178",
+      "https://www.s2-g1.glbimg.com/FKs6ktt4sPwifCLYUXgpaJg-yXk=/416x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/78/21/13392178",
+      "https://www.s2-g1.glbimg.com/CnvPVSDs-gaiE7tyIBEtlkXtSCQ=/650x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/49/13394980",
+      "https://www.s2-g1.glbimg.com/i26RXZIZHpZfO7NDrBmOLudWe2A=/650x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/78/21/13392178",
+      "https://www.s3.glbimg.com/v1/AUTH_c5dfc0eef7ee40d68bdd0993be881440/coral-custom-style/style.css",
+      "https://www.s2-g1.glbimg.com/8CSPR-gCzOyoCuSTBayn0k1np_4=/650x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/73/49/13394973",
+      "https://www.s2-g1.glbimg.com/agjg-ClaqfPzI4L3sdmom3RaLGo=/640x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/49/13394980",
+      "https://www.s2-g1.glbimg.com/V4dKsUNRhcNQI1oIEk0Vt0MmLwA=/640x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/73/49/13394973",
+      "https://whatsapp.com/channel/0029VaAG5OV72WTsvWpgNE2G",
+      "https://www.957b0b3a18c149f4814f2525021e644f@web.sentry.globoi.com/786",
+      "https://www.s2-g1.glbimg.com/ZuX3vR7LRJsIZve_HCgqLHc37Q8=/390x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/78/21/13392178",
+      "https://www.s2-g1.glbimg.com/7td_xufdM80s_OAxTnaRLYxnSl4=/390x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/73/49/13394973",
+      "https://www.s3.glbimg.com/v1/AUTH_14ce1dbebbe64b1e8e955809a085692d/web-components/teste-ab.html?url=aHR0cHM6Ly9zMy5nbGJpbWcuY29tL3YxL0FVVEhfMTRjZTFkYmViYmU2NGIxZThlOTU1ODA5YTA4NTY5MmQvd2ViLWNvbXBvbmVudHMvcGxheWVyLXdlYi1tdWx0aWNvbnRlbnQvcHJvZC93aWRnZXQuaHRtbD9wcm9kdWN0TmFtZT1nMSZwcm9kdWN0Q29sb3I9JTIzQzQxNzBDJmFydHdvcmtVUkw9aHR0cHMlM0ElMkYlMkZzMy5nbGJpbWcuY29tJTJGdjElMkZBVVRIXzU5ZWRkNDIyYzBjODRhODc5YmQzNzY3MGFlNGY1MzhhJTJGYXVkaW9wdWItcG9kY2FzdHMlMkZicyUyRjIwMjIlMkZxJTJGZyUyRkdHSUFacFM0S2NOeFNWMjBuUExBJTJGY2FwYS1iYWl4YWRhZW"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T01:20:59.832+02:00",
+    "updated": "2025-03-06T01:31:52.300+02:00"
+  }
+]

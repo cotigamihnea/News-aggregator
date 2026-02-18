@@ -1,0 +1,594 @@
+[
+  {
+    "uuid": "f656aa5a6ecd1d392bf2d72b58cfd5f4aea95f40",
+    "url": "https://thedailyguardian.com/dense-fog-disrupts-delhi-ncr-flight-and-train-delays-cause-inconvenience/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Priyanka Koul",
+    "published": "2023-12-29T01:01:00Z",
+    "title": "Dense Fog Disrupts Delhi-NCR: Flight and Train Delays Cause Inconvenience - The Daily Guardian",
+    "text": "Delhi-NCR experienced a hazy morning on Friday as the cold wave continued to hold its grip on Northern India, resulting in dense fog. Despite a slight improvement in fog conditions at the Indira Gandhi International Airport, the lowest visibility was recorded at 150 meters, with the Runway Visual Range (RVR) ranging from 400 to 800 meters, according to the India Meteorological Department. The thick fog led to delays in several flights at the Delhi Airport, affecting both arrivals and departures. Additionally, Delhi-bound trains faced delays due to low visibility. The Meteorological Department’s forecast warned of the possibility of visibility reducing to 50 meters in very dense fog and improving to 400 meters in moderate fog at the IGI airport. Passengers voiced their grievances over the inconvenience caused by the delays. A traveller, Mohd Shahrukh, expressed frustration as his flight was delayed by nearly three hours, impacting attendance at an important event. He stated, “A lot of people are facing difficulties due to the delay of flights.” The impact of dense fog extended to trains as well. Subhash, another passenger, highlighted delays affecting eight trains that were supposed to reach the previous night and uncertainty about their arrival times. The low visibility on roads due to dense fog also posed challenges for morning commuters. The India Meteorological Department has issued predictions of dense to very dense fog conditions across North Indian states for the next two days, cautioning travellers and urging caution on the roads.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "northe",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mohd shahrukh",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ncr",
+          "sentiment": "negative"
+        },
+        {
+          "name": "meteorological department",
+          "sentiment": "none"
+        },
+        {
+          "name": "india meteorological department",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "indira gandhi international airport",
+          "sentiment": "none"
+        },
+        {
+          "name": "delhi airport",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T08:19:00.172+02:00",
+    "updated": "2023-12-29T08:19:00.172+02:00"
+  },
+  {
+    "uuid": "a2ec4c43efe552b43ea4946c46ba4ba30b18c74e",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-07-31/doc-infiitzy9195727.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-07-31T03:32:00Z",
+    "title": "物联网ETF工银（159709）涨1.68%，半日成交额332.60万元|物联网_新浪财经_新浪网",
+    "text": "7月31日，截止午间收盘，物联网ETF工银（159709）涨1.68%，报1.031元，成交额332.60万元。物联网ETF工银（159709）重仓股方面， 美的集团 截止午盘跌2.51%， 汇川技术 涨0.25%， 中际旭创 涨8.07%， 北方华创 跌3.18%， 新易盛 涨4.76%， 海康威视 跌0.70%， 中兴通讯 涨0.95%， 科大讯飞 涨2.87%， 歌尔股份 涨0.17%， 紫光股份 涨1.74%。\n物联网ETF工银（159709）业绩比较基准为 深证物联网50指数 收益率，管理人为工银瑞信基金管理有限公司，基金经理为李锐敏，成立（2021-06-18）以来回报为1.68%，近一个月回报为8.53%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service",
+      "Health->medical profession",
+      "Health->health organisation",
+      "Health->health insurance",
+      "Science and Technology->scientific research",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->biotechnology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:44:37.810+03:00",
+    "updated": "2025-08-01T08:07:08.000+03:00"
+  },
+  {
+    "uuid": "dd9076ef7e4cdb043ac82c480301639b19b6d4a0",
+    "url": "https://popularresistance.org/appeal-from-brazilian-women-on-peace-mission-in-the-middle-east",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Terrace",
+    "published": "2024-05-06T03:31:00Z",
+    "title": "Appeal From Brazilian Women On Peace Mission In the Middle East",
+    "text": "Above photo: Protest in São Paulo, Brazil, Nov. 4, 2023. ‘No to the occupation of Gaza. Down with Israel’s genocide of Palestinians.’\nThis appeal was sent by Marcia De Campos Pereira in Brazil, former president of the International Federation of Democratic Women. The women in Brazil who issued it are asking progressive organizations in the U.S. to add their signatures.\nApril 30, 2024. In memory of Mayada Abassi, Former Ambassador of Palestine to Brazil and Secretary of International Relations of the General Union of Palestinian Women (UGMP).\nLetter to the Brazilian Government, entities and leaders of communities in Central America, Latin America and the Caribbean, and the Community of Portuguese-Speaking Countries (CPLP):\nThe Brazilian Union of Women (UBM), the Brazilian Center for Solidarity with the People and Fight for Peace (CEBRAPAZ) and the International Democratic Federation of Women (FDIM), actively listening to “Palestinian Women, the Pillar of Resistance,” engaged in the fight for Peace and in Defense of Palestine, sought to give visibility to Palestinian women because they, together with children, have been more than 70 percent of the people murdered by Israel.\nPalestinian women have always been an integral part of the struggle for freedom and emancipation of their people. The history of Palestinian resistance is full of names of heroines, activists who refused to remain silent and without action while Palestine was colonized.\nIn addition to the many names recorded in Palestinian history, there are thousands of combative and heroic women who have always been “and will still be” part of this history of resistance: they are grandmothers, mothers, sisters, friends, comrades. They are in a permanent struggle and resistance for the right to exist and for their children and grandchildren to live with dignity.\nStop genocide in Palestine! Lula, break relations with Israel! São Paulo, Nov. 4, 2023.\nHowever, Israel refuses to give up the territory it illegally occupies, to dismantle its apartheid system, to respect international law and the rights of the Palestinian people. To this end, it maintains a ruse into which it intends to drag the United States and other allies. Israel’s strategy is to break isolation by attacking disaffected governments, such as Iran, in order to drag the entire region into an unprecedented conflict.\nThe key to avoiding a regional war is a permanent ceasefire in Gaza, allowing humanitarian aid delivery and assistance, recognition of the “Palestinian State” with an end to the Israeli occupation, and a fair peace agreement.\nResponding to the calls for active listening by “Palestinian Women, the Pillar of Resistance” and the outcry of statements from Palestinian institutions and intellectuals, we are making some necessary propositions for immediate and forceful action with the Brazilian government, as well as urging entities and leaders of communities in Central America, Latin America and the Caribbean and the Community of Portuguese-Speaking Countries (CPLP), with the leading role in the “Lula tem Razão!” [Lula is Correct] movement, from the Global South.\nIn this way, we position ourselves against the lies disseminated by “Zionist propaganda” in the mainstream press, which has been distorting the facts and reality of the legitimate and just cause for emancipation and the right to self-determination of the Palestinian People.\nThat said, we echo the calls for “active listening” with this hearing:\n1st Appeal: For harassed and imprisoned women\nThe Israeli army, steadily and daily, is implementing policies of retaliation and revenge against Palestinian women and girls, carrying out beatings, domestic vandalism and humiliation, without taking into account their privacy, by invading homes, especially those of Palestinian women who were detained and recently released. We express our aim to promote a feminist mobilization to support Palestinian women, expose the crimes committed against them by the occupation and exert pressure on governments and parliaments to take responsibility to stop the denial of women’s rights in Palestine, considering that recently there was an escalation in the detentions of Palestinian women and girls, based on reprisals against political-ideological tendencies and the use of the detained as hostages. It is necessary to mention that there are currently 81 women detained in Israeli prisons in precarious health conditions, the majority of them in Damoun prison, without medical assistance and at risk to their lives. 2nd Appeal: To end the supply of weapons to Israel\nThe continuous supply of arms and ammunition from the United States and allied countries to Israel, encouraging it to wage war and aggressive actions, and pledging to protect it militarily and politically, will always encourage Israel to go further in its crimes, which gradually increased to the level of genocide. We call on human rights, humanitarian and civil rights organizations and militants active in countries of the Global North to follow the example of their French counterparts in bringing legal action against European governments that support Israel with weapons, holding them accountable for supporting Israel in its crimes and obliging them to stop exporting weapons and ammunition to Israel and to refrain from providing political cover for their crimes. We demand that governments break contracts for weapons and ammunition, consultancy and provision of services in public security and environmental management with the State of Israel, such as the partnership contracts between Brazil and Argentina with Mekorot (Israel’s main national water agency) in the region of Patagonia for the administration in water management and basic sanitation. 3rd Appeal: To freeze diplomatic relations\nWe appeal to international public opinion to pressure the occupying authority to avoid a catastrophe in Rafah, at a time when the Israeli occupation army continues its bloody attack on all areas of the destroyed Gaza Strip and the West Bank, including occupied Jerusalem. As we address this appeal to the Brazilian government and the leaders of Central America, Latin America and the Caribbean, as well as the Community of Portuguese-Speaking Countries (CPLP), among others that maintain diplomatic relations with Israel, we urge them to freeze their relations with Israel in order to avoid the invasion of Rafah and a military confrontation that could escalate into a war against Iran. Any country that maintains diplomatic relations with this [Israeli] entity, which, under current circumstances, threatens Palestinian existence and all Arab national security, will tarnish its own image. It is an ethical and moral duty of states to suspend relations with a country that violates the norms of international law. 4th Appeal: To the resistance of the working class\nWe call on activists and organizations from around the world to establish May 1, 2024, International Workers Day, as “Palestinian Resistance Workers Day,” aiming to highlight the need to defend the Palestinian resistance in its right to fight for its liberation, strengthening it at a higher level against the oppression of workers around the world. We make this call at this decisive moment in the developing world’s revolt against U.S. imperialism and the countries of the North to affirm that the path for the labor movement to re-establish itself on a global scale as an agent of revolutionary transformation is to courageously ally with the liberation struggles of the Global South and mobilize workers towards this objective. 5th Appeal: For freedom of the press and communication\nThe Freedoms Committee of the Palestinian Journalists Union denounced Israel for continuing to target and close media institutions in occupied Jerusalem, while insisting on the decision preventing satellite TV channels from operating in Jerusalem, in addition to banning journalists from working on press coverage in Jerusalem, around the Al-Aqsa Mosque, in the Occupied West Bank and mainly in Gaza, where journalists have been deliberately targeted in murderous and systemic attacks, including against their families, with the destruction of equipment, work and their homes. It is essential to support and subsidize legally and diplomatically the Palestinian Journalists Union in its tireless efforts and demands to prosecute Israel for its crimes, including murder, aggression and impeding the exercise of journalistic activity in Palestine at all levels, regional and international, while reporting Israel’s crimes that meet the legal requirements of war crimes tribunals and international tribunals, as freedom of the press and expression is a cornerstone of human rights. These are principles that must be respected. 6th Appeal: For academic and scientific freedom\nProfessor Shalhoub-Kevorkian was arrested by Israeli police on April 18, 2024, on suspicion of inciting terrorism and violence because of her unwavering stance against the genocide in Gaza and her insightful analysis of Israeli settler colonialism and its racialized violence. Her arrest, during which she suffered psychological torture and ill-treatment, follows an ongoing campaign of harassment, including a letter demanding that she resign from the Hebrew University of Jerusalem for signing a ceasefire declaration. The treatment of intellectuals and academics in Israeli prisons exemplifies a systematic pattern of “educacide” against Palestinian academics and educational institutions. Furthermore, the fact that an internationally renowned academic is being detained and persecuted in this way will have a chilling effect on academic freedom and solidarity with Palestine. We call on you to sever all ties and cease all collaboration and joint projects of any kind with universities and research institutes that maintain this persecutory pattern against academics, intellectuals and students/researchers until they put an end to their decades-long collaboration with the Israeli occupation and the apartheid system, in defense of academic and scientific freedom. The organizations that produced this letter invite other interested organizations, institutions and groups to sign the letter, in a joint effort to support Palestinian women and promote peace in the region. Interested parties can contact us via email at ubmbrasil.mulheres@gmail.com and editores_recos@terra.com.br to join the initiative.\nAccess the letter in full with the updated list HERE: https://abrir.link/ LGwPc\nThis letter represents a collective effort for justice, solidarity and peace in Palestine, demonstrating the importance of international unity and mobilization in times of conflict and injustice.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.google.com/url?q=https://abrir.link/LGwPc&source=gmail&ust=1714948559151000&usg=AOvVaw1_Tunm9m_GJ71RKa5srrIl",
+      "https://abrir.link/",
+      "https://abrir.link/LGwPc",
+      "https://www.google.com/url",
+      "https://www.abrir.link/LGwPc",
+      "https://google.com/url?q=https://abrir.link/LGwPc&source=gmail&ust=1714948559151000&usg=AOvVaw1_Tunm9m_GJ71RKa5srrIl",
+      "https://www.abrir.link/",
+      "https://abrir.link"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "rael",
+          "sentiment": "none"
+        },
+        {
+          "name": "mayada abassi",
+          "sentiment": "none"
+        },
+        {
+          "name": "marcia de campos pereira",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "general union of palestinian women",
+          "sentiment": "none"
+        },
+        {
+          "name": "international democratic federation of women",
+          "sentiment": "none"
+        },
+        {
+          "name": "center for solidarity",
+          "sentiment": "none"
+        },
+        {
+          "name": "defense of palestine",
+          "sentiment": "none"
+        },
+        {
+          "name": "international federation of democratic women",
+          "sentiment": "none"
+        },
+        {
+          "name": "cplp",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "são paulo",
+          "sentiment": "none"
+        },
+        {
+          "name": "brazil",
+          "sentiment": "none"
+        },
+        {
+          "name": "middle east above",
+          "sentiment": "none"
+        },
+        {
+          "name": "central america",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "caribbean",
+          "sentiment": "none"
+        },
+        {
+          "name": "palestine",
+          "sentiment": "none"
+        },
+        {
+          "name": "latin america",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-06T07:38:04.950+03:00",
+    "updated": "2024-05-06T07:38:04.950+03:00"
+  },
+  {
+    "uuid": "6a883f12a8f70f8eeed7553243b7e8af2dda51ed",
+    "url": "https://www.infobae.com/colombia/deportes/2024/07/25/indignacion-en-el-futbol-colombiano-otro-equipo-historico-cambiaria-de-sede",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Diego Ariza",
+    "published": "2024-07-25T22:16:00Z",
+    "title": "Indignación en el fútbol colombiano: otro equipo histórico cambiaría de sede - Infobae",
+    "text": "Al igual que Alianza Petrolera, otro equipo en Colombia dejará su plaza, en la que tiene muchos hinchas, para buscar un mejor estadio - crédito Colprensa La temporada 2024 del fútbol colombiano se ha llenado de polémicas que continuaron desde 2023, desde disturbios con los aficionados, escándalos de los directivos y con jugadores, así como los problemas por falta de salarios y estadios con malas condiciones.\nRespecto a los escenarios deportivos, uno de los equipos históricos consideraría el cambio de sede para encontrar un estadio con mejor infraestructura , pero sacrificando una buena cantidad de aficionados en su ciudad, así como la tradición que tiene en la región.\nAhora puede seguirnos en nuestro WhatsApp Channel y en Facebook .\nEl caso se parecería al de Alianza, que dejó Barrancabermeja después de 23 años de jugar en el estadio Daniel Villa Zapata para pasar a Valledupar, donde en pocas ocasiones llenó el Armando Maestre, disputó la Copa Sudamericana y al principio sufrió líos por el estado de la gramilla.\nCambio inesperado y polémico Lo que pasó con Alianza, que tenía un estadio remodelado y buena afición en Barrancabermeja, para irse a Valledupar y crear hinchada nuevamente, causó preocupación en el fútbol colombiano porque los dueños de los conjuntos se enfocarían más en la búsqueda de recursos que en los simpatizantes.\nAtlético Huila pasaría por esa situación y dejaría Neiva para jugar en Barrancabermeja , lo que sería un cambio muy polémico para el país porque los opitas se convirtieron en una imagen tanto del departamento como de la cultura y tradición de su gente.\nAsí se encuentra el Estadio Guillermo Plazas Alcid, en su tribuna de occidental - crédito @jmilte7/X El periodista Miler Pinto Cobos, en la emisora Antena 2 , explicó que la razón de esa idea es porque los directivos de los huilenses están inconformes con el estadio Guillermo Plazas Alcid , que desde 2016 detuvo las obras de remodelación por el fallecimiento de cuatro trabajadores por la caída de una placa de concreto en la tribuna de occidental, que actualmente no permite el ingreso de público.\n“Todo está muy encaminado, tiene que pasar algo extraordinario para que eso se caiga. El tema estadio fue fundamental, de seguir así, el cambio sería a partir del 2025″, fue lo que también señaló el diario La Nación , consultando a una fuente cercana al Huila.\nPor el momento, no hay pronunciamiento de los opitas respecto a este caso, que llegaría al estadio Daniel Villa Zapata que no tiene uso desde diciembre de 2023, tiene capacidad para 12.000 personas en dos tribunas con silletería, palcos, camerinos y un buen estado de la cancha.\nEl estadio Daniel Villa Zapata se encuentra listo para volver a recibir partidos del fútbol colombiano - crédito @gomez_deportivo/X Renovación urgente Maruan David Issa, presidente del Atlético Huila, le habría advertido tanto a las autoridades de la Alcaldía de Neiva como a los directivos que si no hay avances en las reparaciones del Guillermo Plazas Alcid, la decisión sería el cambio de sede a un escenario con mejores condiciones.\n“Yo ya hablé con el alcalde y el gobernador, de igual forma hablé con la barra Alta Tensión Sur en Neiva, les hablé algo que va a pasar si no vienen cambios reales ”, dijo el dirigente en junio, citado por La Nación , y que causó preocupación porque sería una decisión tomada.\nFelipe Victoria, director de Inder Huila, le dijo a ese medio que se adelantaron estudios para la renovación de la tribuna de occidental “y unos análisis muy importantes con distintas universidades, entre ellas la Universidad Nacional de Bogotá, la Universidad Nacional de Manizales y la Universidad de Antioquia”.\nPor su parte, el alcalde Germán Casagua mencionó que el objetivo es que se firme la adjudicación para las obras del estadio Guillermo Plazas Alcid en 2024: “Estamos haciendo todo el esfuerzo en conjunto con la Gobernación del Huila para que las obras comiencen este año, dejando adjudicado el contrato y que el 2025 sea pleno de ejecución de obra ”.\nAtlético Huila, cuyos dueños son los mismos del Independiente del Valle, se han esforzado en mejorar las condiciones del estadio Guillermo Plazas Alcid para sus jugadores e hinchas - crédito Atlético Huila “Con la bendición de Dios, esperamos poder estar entregando el estadio a finales del año próximo o a comienzos del 2026 . Quiero aprovechar la oportunidad para expresarle a los neivanos que fue un compromiso de campaña y que estamos plenamente seguros que en este Gobierno, el estadio de Neiva volverá a tener su aforo del 100%”, señaló.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/infobaecolombia",
+      "https://whatsapp.com/channel/0029Va4oNEALikgEL4Y8mb2K",
+      "https://cdn.jwplayer.com/videos/6JIxChWm-cRfOFDLx.mp4",
+      "https://www.whatsapp.com/channel/0029Va4oNEALikgEL4Y8mb2K",
+      "https://www.cdn.jwplayer.com/videos/6JIxChWm-cRfOFDLx.mp4",
+      "https://facebook.com/infobaecolombia"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-26T01:23:16.366+03:00",
+    "updated": "2024-07-26T01:23:16.366+03:00"
+  },
+  {
+    "uuid": "bc78cd7528fb2593822a95e1fe3dff7bc9628dd4",
+    "url": "https://local.newsbreak.com/abc10-524545/3986839449768-sacramento-slides-down-zillow-s-2025-major-housing-market-list",
+    "ord_in_thread": 0,
+    "author": "ABC10",
+    "published": "2025-05-01T00:24:00Z",
+    "title": "Sacramento slides down Zillow's 2025 major housing market list - NewsBreak",
+    "text": "Sacramento\nSacramento slides down Zillow's 2025 major housing market list\n51 minutes ago\nSACRAMENTO, Calif. — Most people would generally expect cities in California to top any real estate list because housing prices and demand are so high, but a recent analysis from Zillow is flipping the long-held expectation on its head. Zillow’s forecast for the hottest 50 U.S. housing markets for...\n1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business and market analysis",
+      "Economy, Business and Finance->construction and property",
+      "Lifestyle and Leisure->house and home"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Zillow",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T04:15:19.363+03:00",
+    "updated": "2025-05-01T01:19:27.000+00:00"
+  },
+  {
+    "uuid": "e092d33124f38931acb1ea33bcd4c2e86c4d3e35",
+    "url": "https://www.semana.com/deportes/articulo/arsenal-pincha-de-local-y-sacude-la-premier-league-liverpool-y-luis-diaz-sonrien/202337/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción Deportes",
+    "published": "2023-12-28T22:49:00Z",
+    "title": "Arsenal pincha de local y sacude la Premier League; Liverpool y Luis Díaz sonríen",
+    "text": "El Arsenal cerró la jornada número 19 de la Premier League 2023/2024 con derrota, y cayó 2-0 en condición de local en el Emirates Stadium ante el West Ham United, perdiendo así la posibilidad de recuperar el liderato de la tabla de posiciones. Pese a que dominaron y tuvieron muchas ocasiones, los dirigidos por Mikel Arteta, en especial Saka, no supieron terminar las jugadas a la hora de definir y se vieron rápidamente en desventaja. Al final, los visitantes sí aprovecharon las pocas oportunidades de gol que generaron y se quedaron con los 3 puntos.Cabe recordar que el Liverpool venció 2-0 el martes pasado al Burnley y quedó como único líder de la liga inglesa durante el tradicional ‘Boxing Day’, en el que el Aston Villa también perdió 3-2 contra el Manchester United, que parece haber superado su crisis.Ante un gran marco en el estadio de Turf Moor, el equipo de Jürgen Klopp abrió el marcador con un ajustado disparo de Darwin Núñez desde la frontal a los 6 minutos, mientras que sobre el final del partido el colombiano Luis Díaz asistió al portugués Diogo Jota , quien aseguró la victoria.Resultados ‘Boxing Day’ Martes Newcastle - Nottingham Forest 1-3.Bournemouth - Fulham 3-0.Sheffield United - Luton 2-3. Burnley - Liverpool 0-2. Manchester United - Aston Villa 3-2. Miércoles Brentford - Wolverhampton 1-4.Chelsea - Crystal Palace 2-1.Everton - Manchester City 1-3. Jueves Brighton - Tottenham 4-2. Arsenal - West Ham 0-2. Tabla de posiciones1. Liverpool - 42 puntos2. Arsenal - 40puntos3. Aston Villa - 39 puntos4. Manchester City - 37 puntos5. Tottenham - 36 puntos6. West Ham - 23 puntos.7. Manchester United - 31 puntos.8. Brighton - 30 puntos.9. Newcastle - 29 puntos10. Chelsea - 25 puntos.En desarrollo...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:56:23.819+02:00",
+    "updated": "2023-12-29T00:56:23.819+02:00"
+  },
+  {
+    "uuid": "a00beaf4f018980141c5e960c91a67b083dd30ad",
+    "url": "https://www.ledevoir.com/politique/canada/816349/apn-ottawa-finalisent-accord-47-8-milliards-protection-enfance",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alessia Passafiume",
+    "published": "2024-07-11T00:00:00Z",
+    "title": "Ottawa versera 47,8 milliards sur 10 ans aux Premières Nations pour réformer la protection de l’enfance | Le Devoir",
+    "text": "L’Assemblée des Premières Nations (APN) et le gouvernement fédéral ont finalisé mercredi soir un accord qui verra le gouvernement fédéral dépenser 47,8 milliards de dollars pour réformer les programmes de protection de l’enfance au cours des 10 prochaines années.\nLa cheffe nationale de l’APN, Cindy Woodhouse Nepinak, a fait cette annonce au dernier jour de l’assemblée générale annuelle de l’APN à Montréal, deux jours seulement après avoir déclaré aux chefs qu’une offre avait été présentée sur la table, mais qu’elle ne pouvait pas encore en discuter publiquement.\nBien que son annonce ait été accueillie avec acclamations, des inquiétudes subsistaient, jeudi, parmi certains qui l’accusaient, elle et l’APN, de travailler en catimini pour finaliser un accord qui affecterait leurs enfants pour les générations à venir.\nL’entente vise à réparer des décennies de discrimination à l’égard des enfants des Premières Nations, retirés de leur famille et placés en famille d’accueil parce que les systèmes de protection de l’enfance dans les réserves n’étaient pas suffisamment financés pour fournir des services susceptibles de maintenir l’unité des familles.\n« Il y a eu tellement de douleur et de préjudices causés par cette politique raciste de protection de l’enfance dans chacune de nos communautés des Premières Nations et dans nos familles », a rappelé M me Woodhouse Nepinak, lors d’une conférence de presse.\nÀ lire aussi La réconciliation entre Ottawa et Autochtones passe par l’exploitation des ressources, plaide Poilievre Le gouvernement fédéral est responsable de la protection de l’enfance dans les réserves, et les gouvernements provinciaux des programmes de protection de l’enfance partout ailleurs. Mais le financement d’Ottawa était à égalité avec celui des provinces en matière de placement familial, car ils devaient payer des agences provinciales pour fournir ce service aux tarifs provinciaux.\nL’APN devrait ratifier l’accord au cours d’une assemblée extraordinaire en septembre.\nChangement fondamental La ministre des Services aux Autochtones, Patty Hajdu, a versé quelques larmes alors que M me Woodhouse Nepinak discutait de l’accord monumental auquel ils étaient parvenus.\n« C’est une tentative d’apporter un peu de paix aux familles, aux communautés et aux peuples des Premières Nations qui ont subi l’odieux du colonialisme à travers ce que je qualifierais de politique la plus cruelle, qui consiste à séparer les familles », a mentionné la ministre.\nLe chef régional de l’Ontario, Abram Benedict, a affirmé que l’accord marque un changement fondamental dans la relation entre les Premières Nations et Ottawa.\n« Je peux vous dire qu’en tant que membre de l’équipe de négociation, nous sommes satisfaits de l’accord que nous avons obtenu. Autrement, nous ne l’aurions pas proposé », a-t-il mentionné, remerciant la ministre Hajdu pour son soutien. « C’est révolutionnaire. »\nIl a ajouté que les peuples des Premières Nations vont maintenant entamer le processus de discussion de l’accord sur ses mérites. « C’est désormais entre les mains de nos communautés. »\nAccord bonifié L’accord vaut plus du double de ce qui avait été initialement promis pour une réforme à long terme dans un accord de règlement résultant d’une plainte âprement disputée en matière de droits humains concernant le sous-financement des services de protection de l’enfance.\nLe Tribunal canadien des droits de la personne a statué que le Canada avait fait preuve de discrimination à l’égard des enfants des Premières Nations en raison du sous-financement chronique des programmes de protection de l’enfance.\nLe montant initial était prévu à 20 milliards de dollars . Un montant distinct de 23 milliards a été réservé pour indemniser les enfants et les familles lésés par le système.\nLes familles qui ont contribué au lancement du procès initial se sont tenues aux côtés du ministre et du chef national pour annoncer la nouvelle.\nPréoccupations et dissidence Le processus visant à parvenir à cet accord historique a été entaché par les préoccupations des chefs de tout le pays, la protection de l’enfance dominant les conservations en marge, les résolutions de dernière minute et les réunions à huis clos, bien qu’elles aient été pour la plupart effacées sur l’ordre du jour initial.\nQuatre chefs régionaux qui siègent aux côtés de M me Woodhouse Nepinak au comité exécutif de l’Assemblée lui ont écrit en juin des lettres dénonçant ses efforts pour parvenir à un accord, affirmant qu’elle outrepassait son mandat en prenant des décisions qui affecteraient directement les enfants et les familles des Premières Nations sans leur consentement.\nLes chefs Bobby Cameron, Terry Teegee, Ghislain Picard et Joanna Bernard représentent plus de la moitié des Premières Nations du Canada.\nIls ont également accusé l’APN d’avoir tenté d’exclure la Société de soutien à l’enfance et à la famille des Premières Nations du processus, bien qu’ils aient déposé conjointement une plainte en matière de droits de la personne concernant le sous-financement par Ottawa des services de protection de l’enfance dans les réserves.\nM me Woodhouse Nepinak a nié ces allégations et a dit que les chefs pourraient consulter l’accord avant qu’il ne soit voté lors d’une assemblée spéciale des chefs à l’automne.\nElle a également promis d’écouter les commentaires qu’elle recevrait.\n« Vous nous avez demandé d’aller chercher un accord avec le Canada. Vous nous avez poussés à maintes reprises à continuer de négocier dans le bon sens, a-t-elle rappelé aux chefs. Je reçois des directives de votre part. Pas des agences, ni de l’APN, ni du personnel, ni de qui que ce soit d’autre, mais des chefs. »\nElle a révélé le montant en dollars lors d’une réunion à huis clos avec les chefs et leurs mandataires , mardi.\nAu cours de cette réunion, elle a parlé des risques politiques de ne pas accepter l’accord qui est sur la table, selon une source présente dans la salle, mais qui a demandé l’anonymat parce qu’elle n’était pas autorisée à partager les détails publiquement.\nCe risque fait référence au fait qu’une élection fédérale se profile à l’horizon et qu’un nouveau gouvernement dirigé par les conservateurs est envisageable.\nLorsqu’on lui a demandé ce qui se passerait en cas de changement de gouvernement l’année prochaine, M me Woodhouse Nepinak a répondu qu’il existe un engagement financier que le prochain gouvernement, « en théorie », ne sera pas en mesure de renier.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-12T00:44:19.087+03:00",
+    "updated": "2024-07-12T00:44:19.087+03:00"
+  },
+  {
+    "uuid": "c576a4714a41548fbbe3aa2160dfc16594623963",
+    "url": "https://www.wallstreet-online.de/nachricht/19697719-novo-nordisks-crash-empire-brand-buildings-skalierung-alibabas-ki-aktien-potenzial",
+    "ord_in_thread": 0,
+    "author": "kapitalerhoehungen.de",
+    "published": "2025-07-31T04:11:00Z",
+    "title": "Novo Nordisks Crash, Empire Brand Buildings Skalierung, Alibabas KI: Drei Aktien mit Potenzial! - 31.07.2025",
+    "text": "2025 jagt eine Marktdynamik die nächste. Während Digitalisierung und disruptive Technologien Branchen umkrempeln entscheiden kluge Wachstumsinvestments über Anlageerfolge. Echte Chancen bieten nur Unternehmen, die mit Innovationen neue Märkte …\nFoto: pixabay.com 2025 jagt eine Marktdynamik die nächste. Während Digitalisierung und disruptive Technologien Branchen umkrempeln entscheiden kluge Wachstumsinvestments über Anlageerfolge. Echte Chancen bieten nur Unternehmen, die mit Innovationen neue Märkte erobern und Risiken intelligent steuern – sei es durch KI-Revolutionen, Nischen-Besetzung oder globale Expansion. Doch wer meistert den Balanceakt zwischen rasantem Upside und plötzlichen Rückschlägen? Bei Novo Nordisk gab es eine Gewinnwarnung. Empire Brand Buildings Ansatz ist skalierungsfähig und Alibaba geht vom E-Commerce mehr und mehr zur Cloud- und KI-Business über. Wo steckt das Potenzial?\nLesen sie den Artikel hier weiter\nDiskutieren Sie über die enthaltenen Werte",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Economy, Business and Finance->financial service",
+      "Science and Technology->scientific research",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->biomedical science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.kapitalerhoehungen.de/kommentare/novo-nordisks-crash-empire-brand-buildings-skalierung-alibabas-ki-drei-aktien-mit-potenzial",
+      "https://kapitalerhoehungen.de/kommentare/novo-nordisks-crash-empire-brand-buildings-skalierung-alibabas-ki-drei-aktien-mit-potenzial"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:11:13.543+03:00",
+    "updated": "2025-07-31T08:31:12.353+03:00"
+  },
+  {
+    "uuid": "d47e7b1f06438214892c51a8c6b8a7c4886fa70e",
+    "url": "https://theplayoffs.news/noticias/nba/nba-registra-maior-audiencia-rodada-de-natal-ultimos-5-anos",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lucca Hoelzle",
+    "published": "2024-12-26T18:44:00Z",
+    "title": "NBA registra maior audiência da rodada de Natal dos últimos 5 anos nos EUA",
+    "text": "Em meio ao debate sobre a queda de audiência da NBA nos Estados Unidos, a liga conseguiu uma grande resposta nesta quarta-feira (25). Isso porque a tradicional rodada de Natal da liga registrou a maior audiência da data nos últimos cinco anos. De acordo com dados da Nielsen Fast Nationals divulgados pela própria liga , a média de espectadores foi de 5,25 milhões. Assim, resultou em um aumento de 84% em relação à rodada de 2023.\nMOST-WATCHED CHRISTMAS DAY IN 5 YEARS 🎁\nThe NBA delivered its most-watched Christmas Day in five years, with viewership up 84% vs. last year across ABC, ESPN, ESPN2, Disney+ and ESPN+. The NBA on Christmas Day averaged 5.25 million viewers per game in the U.S.\nThe matchup… pic.twitter.com/DVviJzMiKa\n— NBA (@NBA) December 26, 2024 Ainda segundo os números, o duelo eletrizante entre Los Angeles Lakers e Golden State Warriors teve a maior audiência. O encontro entre LeBron James e Stephen Curry contou com média de 7,76 milhões de espectadores. Registrou ainda um pico de 8,32 milhões na reta final, que terminou com a vitória dos Lakers após o game winner de Austin Reaves. A partida registrou não só a maior audiência dos últimos cinco anos para um compromisso da rodada de Natal, mas também em relação a qualquer outro jogo de temporada regular no período.\nOutro destaque de peso foi o confronto entre Denver Nuggets e Phoenix Suns , que fechou a noite. Uma média de 3,84 milhões de pessoas assistiram ao duelo de Nikola Jokic e Kevin Durant , registrando a maior audiência da história de uma partida realizada no último horário. Além disso, terminou com um aumento de 161% em relação ao último ano, quando Dallas Mavericks e os próprios Suns se enfrentaram.\n#NBAXmas had it all!\n🎁 A game winner\n🎁 Clutch triples\n🎁 Emphatic slams\n🎁 The closest average margin of victory (5.0) of any 5+ game Christmas Day slate in NBA history\nRelive the best plays from an electric day of hoops! pic.twitter.com/sLgrwKKETp\n— NBA (@NBA) December 26, 2024 Rodada de Natal da NBA bate recordes também nas redes sociais Para além dos excelentes números registrados nas transmissões, a rodada de Natal também teve sucesso absoluto nas redes sociais. A NBA divulgou que os materiais veiculados em seus perfis oficiais atingiram mais de 500 milhões de visualizações. Certamente, a presença das principais estrelas como Luka Doncic, Anthony Edwards, Victor Wembanyama e companhia ajudaram no crescimento das impressões.\nPor fim, para finalizar o relatório, a liga informou que as partidas também alcançaram os melhores números da história do NBA League Pass. As partidas alcançaram 214 países e territórios, e foram transmitidas em 60 línguas diferentes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->basketball",
+      "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://pr.nba.com/nba-christmas-day-2024-viewership/",
+      "https://twitter.com/NBA/status/1872388168072482970?ref_src=twsrc%5Etfw",
+      "https://t.co/sLgrwKKETp",
+      "https://t.co/DVviJzMiKa",
+      "https://twitter.com/NBA/status/1872184070056419452?ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/NBAXmas?src=hash&ref_src=twsrc%5Etfw",
+      "https://twitter.com/NBA/status/1872184070056419452",
+      "https://www.t.co/DVviJzMiKa",
+      "https://www.twitter.com/NBA/status/1872388168072482970?ref_src=twsrc%5Etfw",
+      "https://www.pr.nba.com/nba-christmas-day-2024-viewership/",
+      "https://www.twitter.com/NBA/status/1872184070056419452?ref_src=twsrc%5Etfw",
+      "https://www.t.co/sLgrwKKETp",
+      "https://pr.nba.com/nba-christmas-day-2024-viewership",
+      "https://twitter.com/hashtag/NBAXmas",
+      "https://twitter.com/NBA/status/1872388168072482970",
+      "https://www.twitter.com/hashtag/NBAXmas?src=hash&ref_src=twsrc%5Etfw"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:16:54.162+02:00",
+    "updated": "2024-12-27T00:16:54.162+02:00"
+  },
+  {
+    "uuid": "5758d9e817bf657ee0ceb7c6d72f1aa704dcc62b",
+    "url": "https://news.sky.com/story/escalation-serves-no-one-sir-keir-starmer-calls-on-israel-and-hezbollah-to-agree-ceasefire-in-address-to-un-13222599",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tim Baker",
+    "published": "2024-09-26T00:00:00Z",
+    "title": "'Escalation serves no one': Sir Keir Starmer calls on Israel and Hezbollah to agree ceasefire in address to UN | Politics News | Sky News",
+    "text": "Sir Keir Starmer has called for Israel and Hezbollah to agree to a ceasefire, saying \\\"escalation serves no one\\\". Speaking at the United Nations General Assembly, the prime minister implored the two sides to \\\"step back from the brink\\\". It comes after Israeli Prime Minister Benjamin Netanyahu said his nation's troops would keep \\\"fighting at full force\\\" and that news of a potential ceasefire deal was \\\"not true\\\". Addressing the nations of the world in New York, Sir Keir said: \\\"I call on Israel and Hezbollah: Stop the violence, step back from the brink.\\\" Israel-Hezbollah latest: Follow live updates here The UK prime minister added: \\\"We need to see an immediate ceasefire to provide space for a diplomatic settlement, and we are working with all partners to that end. \\\"Because further escalation serves no one.\\\" In his speech, Sir Keir said the UN needs to \\\"work together for peace, progress and equality\\\" - including \\\"preventing a regional war in the Middle East\\\". More criticism of Russia Earlier in his trip to the UN, Sir Keir criticised Russia for invading Ukraine in a meeting of the security council.Both the UK and Russia are permanent members of the UN Security Council. Addressing the general assembly, Sir Keir hinted at wanting to take further action against Russia for its invasion. He said: \\\"We must put new energy and creativity, into conflict resolution and conflict prevention, reverse the trend towards ever-greater violence, make the institutions of peace fit for purpose, and hold members to their commitments under the UN Charter.\\\" Addressing the security council previously, Sir Keir said: \\\"The greatest violation of the charter in a generation has been committed by one of this council's permanent members.\\\" Pension to be invested in climate change During his speech, the prime minister repeated many of his previous pledges on UK domestic policy. However, he did appear to make one new announcement. Sir Keir pledged to put \\\"billions\\\" from pension and insurance funds into \\\"fighting climate change\\\" and \\\"boosting development\\\". The Labour government has repeatedly said it wants to use more private investment to build growth. Sir Keir added that the plans for pensions and insurance funds would be managed through a new facility at British International Investment - part of the Foreign Office - working alongside the City of London. The prime minister said \\\"innovating\\\", \\\"thinking differently\\\" and \\\"moving faster\\\" were the sort of approaches needed to deliver benefits into the future. 👉 Click to subscribe to the Sky News Daily wherever you get your podcasts 👈 Just before Sir Keir began speaking, it was confirmed he would later be meeting Donald Trump ahead of the US election in November. However, it seems unlikely that he will be able to meet with Democrat Kamala Harris on the current visit.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Keir Starmer",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Benjamin Netanyahu",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Hezbollah",
+          "sentiment": "negative"
+        },
+        {
+          "name": "United Nations General Assembly",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Middle East",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-09-27T01:41:21.359+03:00",
+    "updated": "2024-09-27T01:41:21.359+03:00"
+  }
+]

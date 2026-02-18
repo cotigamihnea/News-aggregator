@@ -1,0 +1,514 @@
+[
+  {
+    "uuid": "01142a89c643b6545a974eb7d54e617b0c9bec6f",
+    "url": "https://freerepublic.com/focus/f-news/4227517/posts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eleutheria5",
+    "published": "2024-03-28T08:19:00Z",
+    "title": "Leading Jewish Democratic group throws support behind George Latimer",
+    "text": "(New York Jewish Week) — The Jewish Democratic Council of America, the leading Jewish organization affiliated with the Democratic Party, endorsed George Latimer in his bid to unseat New York Rep. Jamaal Bowman in the upcoming primary.\nIt also endorsed Wesley Bell in his campaign to unseat Rep. Cori Bush in Missouri, marking the first time that the Jewish Democrats have endorsed primary challengers to Democratic incumbents.\nBoth incumbents have been vocal critics of Israel. In New York’s 16th district, which covers southern Westchester County and a sliver of the northern Bronx and is home to a sizable Jewish community, the Israel-Hamas war has become a focal point of the closely-watched campaign.\nLatimer, a centrist who serves as Westchester County executive, has been firmly supportive of Israel since Hamas’ Oct. 7 attack. Bowman, who is a member of the Squad, the group of progressive Democratic members of Congress, has been harshly critical of the Israeli military campaign in Gaza, accusing Israel of “genocide.”\nThe Jewish Democratic Council of America announced its endorsement of Latimer on Thursday alongside 21 other candidates, including New Yorkers Mondaire Jones in the 17th district and Josh Riley in the 19th district.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "george latimer",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "jamaal bowman",
+          "sentiment": "none"
+        },
+        {
+          "name": "latimer",
+          "sentiment": "none"
+        },
+        {
+          "name": "bowman",
+          "sentiment": "none"
+        },
+        {
+          "name": "cori bush",
+          "sentiment": "none"
+        },
+        {
+          "name": "wesley bell",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "democratic council of america",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "congress",
+          "sentiment": "none"
+        },
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        },
+        {
+          "name": "democratic party",
+          "sentiment": "none"
+        },
+        {
+          "name": "jewish democratic council of america",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "westchester county",
+          "sentiment": "none"
+        },
+        {
+          "name": "missouri",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "bronx",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-29T00:20:37.868+02:00",
+    "updated": "2024-03-29T00:20:37.868+02:00"
+  },
+  {
+    "uuid": "80bc12c311806db01be947aa653e5b737a5678fc",
+    "url": "https://news.rambler.ru/tech/55139181-novosibirsk-vnov-ostalsya-bez-stabilnogo-interneta-14-avgusta",
+    "ord_in_thread": 0,
+    "author": "Bfm.ru Новосибирск",
+    "published": "2025-08-14T06:55:00Z",
+    "title": "Новосибирск вновь остался без стабильного интернета 14 августа - Рамблер/новости",
+    "text": "В России продолжаются масштабные перебои с интернетом, которые уже более суток наблюдаются в том числе в Новосибирске , пишет Сиб.фм. © Bfm.ru Новосибирск\nСогласно последним данным, 91% пользователей сообщают о полном отсутствии доступа в сеть, еще 8% сталкиваются с нестабильной работой мобильных приложений. Особенно остро проблема проявляется при попытках доступа к региональным интернет-ресурсам — за последний час зафиксировано 42 жалобы, а за прошедшие 24 часа их количество достигло 1018. Причины происходящего остаются неясными — ни один из операторов связи пока не дал официальных комментариев. Ранее BFM-Новосибирск писал, что новые базовые станции и улучшенные скорости появились в Мошковском районе.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Social Issue->social problem",
+      "Social Issue->demographics",
+      "Social Issue->discrimination"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://nsk.bfm.ru/news/52434",
+      "https://sib.fm/last/news/2025/08/14/novosibirtsy-fiksiruyut-sboj-interneta-14-avgusta",
+      "https://www.nsk.bfm.ru/news/52434",
+      "https://www.sib.fm/last/news/2025/08/14/novosibirtsy-fiksiruyut-sboj-interneta-14-avgusta"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_de",
+        "top_news_ru",
+        "top_news_ua",
+        "top_news_il",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T12:09:26.728+03:00",
+    "updated": "2025-08-15T13:12:27.000+03:00"
+  },
+  {
+    "uuid": "015fcc545c253410948b0e6532244d6526485ef5",
+    "url": "https://www.meneame.net/story/alemania-casi-toda-baja-sajonia-bajo-agua/c02",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Celsar",
+    "published": "2023-12-29T18:55:00Z",
+    "title": "#2 Alemania: \"Casi toda Baja Sajonia bajo el agua\"",
+    "text": "Menéame\nLogo Menéame\nPortada\nPortada\nNuevas\nArtículos\nPopular\nMás visitadas\n50F0E052-9EF2-4C3C-849B-F46536B96FBF\nNótame\nmis comunidades\nCiencia\nPolítica\nEconomía\nActualidad\nSeries\notras secciones\nComunidades\nFisgona\nlogin\nregístrate\n×\nÚnete a Actualidad\nÚnete a Actualidad\nHace 6 minutos | Por\nWurmspiralmasch...\na\ndw.com\nPublicado hace 6 minutos por\nWurmspiralmaschine\na\ndw.com\nAlemania: \"Casi toda Baja Sajonia bajo el agua\"\ndw.com\nEl servicio meteorológico de Alemania informó este viernes (29.12.2023) que se prevén más lluvias torrenciales en algunas zonas del país, como en Renania del Norte-Westfalia y la Baja Sajonia, afectadas ya durante varios días por graves inundaciones. \"Tenemos una situación muy, muy tensa\", dijo este viernes la Ministra de Interior de Baja Sajonia, Daniela Behrens (del Partido Socialdemócrata o SPD), en la radio Deutschlandfunk. \"Casi toda la Baja Sajonia está bajo el agua\", añadió Bahrens, por lo que se han desplegado cerca de 100.000 bomberos\nEtiquetas\nalemania\ndwd\ninundaciones\nmenéalo\n3\nDE3C548D-E347-406A-A60F-E6BBD322CAB7\n25\n2\nCopiar enlace\nCompartir en X\nCompartir en facebook\nCompartir en telegram\nEmbed\nVoto negativo\nMás información\n<!– /10377667/MNA21-OTROS-ROBA1 –>\nComunidad destacada de hoy\nActualidad\nActualidad y sociedad\n<!– /10377667/MNA21-OTROS-MEGA1 –>\n<!– /10377667/MNA21-OTROS-ROBA1 –>\nLoguéate si deseas escribir\ncomentarios. O crea tu cuenta\naquí.\nComentarios\nMejores hilos\nOrdenados\nHilos\nMejores hilos\nMás valorados\n#1\nmanbobi\nhace 6 minutos\nAhora además de baja, húmeda\n13932D1F-B487-4F84-A70E-083D40FCBE55\nV\n0\nK\n17\n666CDE23-7A1F-454F-9223-AF7ED9EAACA5\nresponder\n<!– /10377667/MNA21-OTROS-ROBA2 –>\n<!– /10377667/MNA21-OTROS-MEGA2 –>\nC\n#2\nCelsar\nhace 56 segundos\neditado\nPues que se muden a la Alta Silesia.\n13932D1F-B487-4F84-A70E-083D40FCBE55\nV\n0\nK\n12\n666CDE23-7A1F-454F-9223-AF7ED9EAACA5\nresponder",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T20:56:27.730+02:00",
+    "updated": "2023-12-29T20:56:27.730+02:00"
+  },
+  {
+    "uuid": "d19c48e083b80795c0761b1a5f9e29a49bad3bcc",
+    "url": "https://www.nbc.com/nbc-insider/jimmy-fallon-shares-50th-birthday-baby-photo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Elizabeth Logan",
+    "published": "2024-09-19T18:15:00Z",
+    "title": "Jimmy Fallon Shares Rare Baby Photo for His 50th Birthday | NBC Insider",
+    "text": "Create a free profile to get unlimited access to exclusive show news, updates, and more! Jimmy Fallon Shares Rare Baby Photo of Himself (as a Blonde) for His 50th Birthday The Tonight Show host shared a sweet picture from his childhood to mark the milestone. Believe it or not, [Tonight Show](https://www.nbc.com/nbc-insider/show/the-tonight-show-starring-jimmy-fallon) host [Jimmy Fallon](https://www.nbc.com/nbc-insider/people/jimmy-fallon) is 50 years old. And it just so happens to be the same time his alma mater, [Saturday Night Live](https://www.nbc.com/nbc-insider/show/saturday-night-live), is [celebrating its own 50th anniversary](https://www.nbc.com/nbc-insider/how-to-watch-snl-50-anniversary-special-2025). To recognize his milestone birthday, Fallon posted a baby picture of himself to Instagram and shared a heartfelt message reflecting on his life. Check it out below. [RELATED: Jimmy Fallon and Wife Nancy Juvonen Tell the Sweet Story of Their First \"I Love You\"](https://www.nbc.com/nbc-insider/jimmy-fallon-wife-nancy-juvonen-interview-of-first-i-love-you) Jimmy Fallon shares throwback photo for his milestone birthday In the throwback photo he posted on September 19, a blonde toddler-aged Fallon beams at the camera from a high chair, wearing a checkered party hat and grabbing what looks like a gift or some cake. In the comments, other celebrities welcomed him to the next chapter of his life. \"The 50s are great @jimmyfallon come on in, the water is fine!\" wrote Oscar winner Octavia Spencer. \"Welcome to the club. It’s fun,\" added Tony winner Kristin Chenoweth, the original [Glinda in Wicked.](https://www.nbc.com/nbc-insider/new-wicked-featurette-shines-light-on-elphaba-glinda-friendship) During a recent appearance on The Tonight Show, [Martin Short, who is 70 years old, poked fun at the host's youthful appearance](https://www.nbc.com/nbc-insider/steve-martin-martin-short-roasted-jimmy-fallon-selena-gomez), while subtly suggesting that it wasn't so youthful after all. \"Jimmy, you know, someone told me you're turning 50 next week,\" Short told Fallon. \"And I thought, 'that can't be right.' And then sitting here... I realized that could be right.\" The comedian dedicated his post to his fans, audience, and entire support system. \"I just want to say thank you for giving me this great life. I’m very lucky. I appreciate the applause, laughter, and support, whether it be at one of my shows, walking down the street, at a basketball game in France, or even stranded and lost in a Bavarian field,\" he wrote, demonstrating just how far and wide his popularity extends. \"I feel the love, and I love you back. Thank you for always supporting any new idea I have. You believing in me makes me believe in me,\" Fallon added. [RELATED: Jimmy Fallon's Parents Nearly Set His In-Laws' House on Fire When They First Met](https://www.nbc.com/nbc-insider/jimmy-fallon-parents-met-nancy-juvonen-in-laws-watch) The Tonight Show host added that he was marking his milestone birthday by giving back, specifically to Feeding America, Long Island Cares, and Bridgehampton Food Pantry. \"I am sending my birthday wish to you all for a great year to come. Thank you,\" he wrote. Happy birthday, Jimmy Fallon!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:42:04.266+03:00",
+    "updated": "2024-09-20T00:42:04.266+03:00"
+  },
+  {
+    "uuid": "c26172745ecfdc50b20888105d05b3a2447cc215",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7368800.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:33:00Z",
+    "title": "工程机械ETF（560280）跌1.57%，半日成交额419.09万元|工程机械_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，工程机械ETF（560280）跌1.57%，报1.252元，成交额419.09万元。工程机械ETF（560280）重仓股方面， 潍柴动力 截止午盘跌1.68%， 三一重工 跌2.02%， 徐工机械 跌2.15%， 恒立液压 涨2.56%， 中联重科 跌1.54%， 柳工 跌1.74%， 江淮汽车 跌1.11%， 安徽合力 跌1.50%， 杭叉集团 跌0.96%， 中铁工业 跌1.91%。\n工程机械ETF（560280）业绩比较基准为同期中证工程机械主题指数收益率，管理人为广发基金管理有限公司，基金经理为姚曦，成立（2023-10-18）以来回报为26.97%，近一个月回报为-1.67%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Economy, Business and Finance",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->market and exchange",
+      "Economy, Business and Finance->financial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:40:09.882+03:00",
+    "updated": "2025-06-20T05:07:37.000+00:00"
+  },
+  {
+    "uuid": "0a5a23070c072e63ce433b7da4f6e7b12942a6f6",
+    "url": "https://kesq.com/cnn-regional/2024/06/21/good-samaritans-help-save-2-men-from-drowning-in-water",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CNN Newsource",
+    "published": "2024-06-21T16:22:00Z",
+    "title": "Good Samaritans help save 2 men from drowning in water",
+    "text": "Good Samaritans help save 2 men from drowning in water\nBy Dani Miskell\nClick here for updates on this story\nSAN DIEGO (\nKGTV) — Two men are lucky to be alive after somehow falling off Sunset Cliffs early Thursday morning.\nThe men were rescued not only by San Diego Lifeguards but also by good Samaritans who happened to be at the right place at the right time.\nThose good Samaritans told ABC 10News that around 1 a.m. they heard the two men screaming in the water and fighting for their lives, so they immediately took action.\nOne of the Samaritans called 911, while the other jumped into the ocean to help with the rescue.\nWitness Zachary Mallak said, “They were getting smashed in the waves and they were dropped into the cave. And when they were brought into the cave, they didn’t respond. So, they could have gotten stuck there for days; like, who knows what would have happened.”\nRyan Miller, who dove into the waters to help with the rescue, said he was certified at a surf school in Hawaii, so he knew exactly what to do.\n“They were dying,” Miller said. “They were going to die if no one came in, so what was I going to do? Sit there and watch?”\nABC 10News photojournalist Paul Anderegg captured the dramatic moments as Miller helped San Diego Fire-Rescue crews get the two men onto surfboards and out of the water.\nOne of the victims who fell in is seen in the video wearing a white T-shirt, and he, along with his friend, were helped up the cliffs where medics rendered aid.\nSarah Hulbert, another witness at the scene and one of the locals who tried helping the two men in the water, said many came to help in the nick of time before rescue crews arrived.\n“They were throwing surfboards over and trying to get everybody out as safely as possible, and it was honestly amazing,” Hulbert said.\nOn Thursday, San Diego Fire-Rescue’s Newsworthy Incident Fact Sheet showed the rescue transpired in just 90 minutes.\nUpdate: The fact sheet was updated Thursday stating that the two men jumped off the cliffs.\nSan Diego Fire-Rescue Department\nPlease note: This content carries a strict local market embargo. If you share the same market as the contributor of this article, you may not use it on any platform.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Health"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.10news.com/news/local-news/good-samaritans-help-save-2-men-from-drowning-in-water-off-sunset-cliffs",
+      "https://10news.com/news/local-news/good-samaritans-help-save-2-men-from-drowning-in-water-off-sunset-cliffs"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "dani miskell click",
+          "sentiment": "negative"
+        },
+        {
+          "name": "miller",
+          "sentiment": "none"
+        },
+        {
+          "name": "ryan miller",
+          "sentiment": "none"
+        },
+        {
+          "name": "zachary mallak",
+          "sentiment": "none"
+        },
+        {
+          "name": "samaritans",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "abc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "san diego lifeguards",
+          "sentiment": "none"
+        },
+        {
+          "name": "san diego",
+          "sentiment": "none"
+        },
+        {
+          "name": "hawaii",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-21T19:46:42.912+03:00",
+    "updated": "2024-06-21T19:46:42.912+03:00"
+  },
+  {
+    "uuid": "31122b7ebbe28fe4ffbcff1cf9afda145b463929",
+    "url": "http://www.lapatilla.com/2023/12/28/desmantela-red-que-falsifico-millones-de-dolares-pesos-y-bolivares-en-cucuta-asi-operaban-en-la-frontera/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EDU",
+    "published": "2023-12-28T23:10:00Z",
+    "title": "Desmantelan red que falsificó millones de dólares, pesos y bolívares en Cúcuta: así operaban en la frontera",
+    "text": "Desde hacía 18 meses, la Policía, la Fiscalía y la Agencia Especial del Servicio Secreto de los Estados Unidos le seguían los pasos a una red criminal que falsificaba dólares y pesos colombianos en Cúcuta, Norte de Santander. Por: [El Tiempo](https://www.eltiempo.com/justicia/delitos/cucuta-la-red-criminal-que-falsifico-millones-de-dolares-pesos-y-bolivares-839688) Labores investigativas e información proporcionada por fuentes humanas dejaron al descubierto que estas personas producían dinero extranjero falso en grandes cantidades. Luego, lo vendían “a un precio inferior al valor del auténtico a traficantes colombianos y venezolanos”. Su objetivo era introducirlo en el comercio de las regiones fronterizas de ambos países. En la mañana de este de 28 de noviembre, las autoridades reportaron que desmantelaron la red en Cúcuta. Le dieron captura a Alirio Castañeda, alias El Ángel, Leonardo Duarte, alias Arturito, José Monroy Jaimes, Daniel Rodríguez, alias Taison y Félix González Joves, alias El Tío; personas que, según la investigación, “poseen gran experiencia en la fabricación y el tráfico de pesos y dólares falsos. Ellos ya presentaban antecedentes en esta modalidad delictiva en la ciudad de Cúcuta y sus alrededores”. En medio de las capturas, les incautaron 34.000 dólares americanos falsos y más de 39 millones de pesos en billetes de 100.000 y 50.000 con acabados similares a los originales que iban a enviar a Venezuela. Puedes leer la nota completa [El Tiempo](https://www.eltiempo.com/justicia/delitos/cucuta-la-red-criminal-que-falsifico-millones-de-dolares-pesos-y-bolivares-839688)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://www.eltiempo.com/justicia/delitos/cucuta-la-red-criminal-que-falsifico-millones-de-dolares-pesos-y-bolivares-839688)",
+      "https://eltiempo.com/justicia/delitos/cucuta-la-red-criminal-que-falsifico-millones-de-dolares-pesos-y-bolivares-839688)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:38:54.627+02:00",
+    "updated": "2023-12-29T01:38:54.627+02:00"
+  },
+  {
+    "uuid": "f6aa4378aa064872d289e0d0cdcb420624c7ef1d",
+    "url": "https://ih.advfn.com/stock-market/stock-news/93640363/rakuten-medicals-poster-presentation-at-aacr-2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "advfn.com",
+    "published": "2024-04-11T19:30:00Z",
+    "title": "Rakuten Medical's Poster Presentation at AACR 2024 Demonstrates Reduction in Photoimmunotherapy-induced Edema in Mice with COX-2 Inhibition",
+    "text": "Prophylactic administration of a selective COX-2 inhibitor reduces the volume of edema associated with photoimmunotherapy by 30-50% Reduced edema volume by 25%, even when administered post photoimmunotherapy Suggested the COX-2 inhibitor may manage edema without compromising anti-tumor efficacy SAN DIEGO , April 11, 2024 /PRNewswire/ -- Rakuten Medical, Inc., a global biotechnology company developing and commercializing precision, cell targeting therapies based on its proprietary Alluminox™ platform, today announced a poster presentation of its study to manage edema following photoimmunotherapy at the 115 th Annual Meeting of the American Association for Cancer Research (AACR 2024) in San Diego, California , on April 8 th , 2024.\nIn the study presented in this poster, Rakuten Medical developed a mouse tumor model to assess edema following photoimmunotherapy and evaluated various steroidal and non-steroidal anti-inflammatory drugs (NSAIDs) for edema reduction using the model. As a result, a reduction in edema was observed when the selective COX-2 inhibitor meloxicam, one of NSAIDs, was administered before or after illumination of photoimmunotherapy (30-50% reduction with prophylactic administration, 25% reduction with post-illumination administration). It was also confirmed that the reduction in edema with meloxicam was not associated with a loss of therapeutic benefit based on measurement of tumor growth.\nRakuten Medical's photoimmunotherapy consists of a drug and a laser light. In pre-clinical studies, local illumination results in highly selective and rapid necrosis of target cells such as tumors. Early clinical studies have shown a manageable safety profile for head and neck cancer. * However, edema is a commonly reported adverse event with severe laryngeal edema noted in some patients, and prophylactic tracheostomy is required if laryngeal edema threatens to obstruct the airway. Thus, new tools to manage edema are needed to reduce the burden on the patient. Based on the results of this study, Rakuten Medical will conduct further research to address the challenges of edema associated with photoimmunotherapy in clinical trials and in clinical practice.\nKey findings presented at AACR 2024\nTitle: Reduction in photoimmunotherapy-induced edema with COX-2 inhibition: Combatting clinically relevant adverse events without compromising efficacy\nAbstract Number: 1415\nAbstract Link: https://www.abstractsonline.com/pp8/#!/20272/presentation/5855\nCohorts of mice bearing syngeneic LL/2 tumors engineered to express Ephrin A2 (EphA2) were administered an anti-EphA2 antibody conjugated to IR700 (conjugate) or saline control and illuminated with light. Control mice did not generate edema, but mice treated with conjugate plus light showed a light-dose dependent increase in edema volume which peaked at 6h post light delivery. Inflammatory cytokine and immune cell populations in the blood and tumor region were then evaluated at the onset (2h post-light), peak (6h), and resolution (24h) of the edema associated with photoimmunotherapy. The results showed a striking increase in neutrophils in the blood at the peak of edema formation (500-fold greater than control mice, n=10, p<0.0001) and a significant increase in IL-6 (n=5, p<0.001) and IL-10 (n=5, p<0.05), indicating the onset of a heightened inflammatory response. To address edema formation, the effect of steroids or NSAIDs including the selective COX-2 inhibitor meloxicam were evaluated. Results showed that steroids did not reduce edema volume. Meloxicam, one of the selective COX-2 inhibitors, on the other hand, resulted in a reduction in edema volume at all time points and light doses evaluated. Prophylactic administration (2h prior to light) of meloxicam resulted in a 30-50% reduction in edema at both 2h and 6h post-light illumination. Post-light administration (2h post light) of meloxicam resulted in a 25% reduction at 6h post-light illumination (all settings, n=10, p<0.0001). The reduction in edema with meloxicam did not have negative impact on tumor growth inhibition. * Cognetti DM, Johnson JM, Curry JM, et al. Phase 1/2a, open-label, multicenter study of RM-1929 photoimmunotherapy in patients with locoregional, recurrent head and neck squamous cell carcinoma. Head Neck . 2021;43(12):3875-3887. doi:10.1002/hed.26885\nAbout Rakuten Medical, Inc.\nRakuten Medical, Inc. is a global biotechnology company developing and commercializing precision, cell targeting therapies based on its proprietary Alluminox™ platform, which, in pre-clinical studies, has been shown to induce rapid and selective cell killing and tumor necrosis. Alluminox therapies have not yet been approved outside of Japan . Rakuten Medical is committed to its mission to conquer cancer by delivering its innovative treatments as quickly as possible to as many patients as possible all over the world. The company has offices in 5 countries/regions, including the United States , where it is headquartered, Japan , Taiwan , Switzerland and India . For more information, visit www.rakuten-med.com.\nAbout Alluminox™ platform\nThe Alluminox™ platform is an investigational technology platform based on a cancer therapy called photoimmunotherapy, which was developed by Dr. Hisataka Kobayashi and team from the National Cancer Institute in the United States . Rakuten Medical is developing the Alluminox platform as a technology consisting of a drug, device, and other related components. The drug component of the platform consists of a targeting moiety conjugated with one or more dyes leading to selective cell surface binding. The device component consists of a light source that locally illuminates the targeted cells with light to transiently activate the drug. Pre-clinical data have shown that this activation elicits rapid and selective necrosis of targeted cells through a biophysical process that compromises the membrane integrity of the targeted cells. Therapies developed on the Alluminox platform may also result in local and systemic innate and adaptive immune activation due to immunogenic cell death of the targeted cancer cells and/or the removal of targeted immunosuppressive cells within the tumor microenvironment. Outside of Japan , Alluminox therapies have not yet been approved by any regulatory authority.\nForward Looking Statements\nThis press release contains forward looking statements that correspond to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These statements include various risks, uncertainties, and assumptions that may cause Rakuten Medical's business plans and results to differ from the anticipated results and expectations expressed in these statements. These \"forward looking statements\" contain information about the status and development of our products, including the Alluminox™ platform, as well as other regulatory and marketing authorization efforts, the potential benefits, efficacy, and safety of therapies created using the Alluminox platform, and the status of regulatory filings. The approval and commercial success of the product may not be achieved. Forward looking statements relate to the potential benefits, efficacy, and safety of our therapies, and the status of regulatory filings. Such statements may include words such as \"expect,\" \"believe,\" \"hope,\" \"estimate,\" \"looks as though,\" \"anticipate,\" \"intend,\" \"may,\" \"suggest,\" \"plan,\" \"strategy,\" \"will,\" and \"do\", and are based on our current beliefs. In addition, this press release uses terms such as \"important,\" \"notable,\" and \"abnormal\" to express opinions about clinical trial data. Ongoing clinical trial studies include various risks and uncertainties, in particular, problems that arise during the manufacturing stage of our therapies, the occurrence of adverse safety events, situations in failure to demonstrate therapeutic benefits, and other various risks and uncertainties, both reasonable and unreasonable. For this reason, actual results, including regulatory approvals and uncertainties in the commercialization process of our therapies, may differ from published information. Except to the extent required by applicable law, we undertake no obligation to publicly update this or any other forward-looking statement, whether because of new information, future developments or events, changes in assumptions, changes in the factors affecting forward-looking statements. If one or more forward-looking statement(s) is updated, no inference should be drawn that additional updates will be made to those or other forward-looking statements.\nContact Us\nView original content to download multimedia:https://www.prnewswire.com/news-releases/rakuten-medicals-poster-presentation-at-aacr-2024-demonstrates-reduction-in-photoimmunotherapy-induced-edema-in-mice-with-cox-2-inhibition-302114857.html\nSOURCE Rakuten Medical, Inc.\nCopyright 2024 PR Newswire",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://www.abstractsonline.com/pp8/#!/20272/presentation/5855",
+      "https://www.prnewswire.com/news-releases/rakuten-medicals-poster-presentation-at-aacr-2024-demonstrates-reduction-in-photoimmunotherapy-induced-edema-in-mice-with-cox-2-inhibition-302114857.html",
+      "https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317",
+      "https://abstractsonline.com/pp8/#!/20272/presentation/5855",
+      "https://www.static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317",
+      "https://prnewswire.com/news-releases/rakuten-medicals-poster-presentation-at-aacr-2024-demonstrates-reduction-in-photoimmunotherapy-induced-edema-in-mice-with-cox-2-inhibition-302114857.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "rakuten medical",
+          "sentiment": "negative"
+        },
+        {
+          "name": "rakuten medical, inc.",
+          "sentiment": "none"
+        },
+        {
+          "name": "american association for cancer research",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "photoimmunotherapy",
+          "sentiment": "none"
+        },
+        {
+          "name": "san diego",
+          "sentiment": "none"
+        },
+        {
+          "name": "san diego",
+          "sentiment": "none"
+        },
+        {
+          "name": "california",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-12T02:39:24.755+03:00",
+    "updated": "2024-04-12T02:39:24.755+03:00"
+  },
+  {
+    "uuid": "a71f4e3e217ec319b5a9db6bdce80f84279ad6be",
+    "url": "https://m.dailyhunt.in/news/india/english/entrepreneurindia-epaper-dh673e471df1934f84bf22b23d9825342b/from+idea+to+lucrative+side+hustle+why+bitcoin+atms+are+the+future+of+currency+exchange+bitcoin+atms+present+a+lucrative+opportunity+the+market+is+projected+to+grow+to+1685+billion+by+2033-newsid-n599470620",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Dailyhuntapp",
+    "published": "2024-04-11T06:03:00Z",
+    "title": "From Idea to Lucrative Side Hustle - Why Bitcoin ATMs Are the Future of Currency Exchange Bitcoin ATMs present a lucrative opportunity - the market is projected to grow to $16.85 billion by 2033.",
+    "text": "Ten years ago, the world welcomed the first Bitcoin ATM at Waves Coffee House in Downtown Vancouver, B.C.Since then, Bitcoin ATMs have grown exponentially. According to Coin ATM Radar, there are currently 37,056 Bitcoin ATMs globally and 31,006 in the U.S. alone. Despite the popularity of online exchanges, these ATMs continue to increase in locations such as gas stations, shopping malls and grocery stores.\nBitcoin ATMs are critical to accelerating crypto adoption and generating revenue for the retailers hosting them. They also present a lucrative money-making opportunity - the Bitcoin ATM market is projected to grow to $16.85 billion by 2033.\nThe significance of Bitcoin ATMs\nBitcoin ATMs are essential to the crypto economy. They serve as an onramp for fiat (dollars) to enter the crypto ecosystem, accelerating crypto adoption and giving unbanked or anti-bank consumers access to financial services. Some Bitcoin ATMs offer the sale of crypto for cash, serving as a fiat offramp and offering fast access to money.\nBitcoin ATMs are neighborhood crypto access points. People can purchase crypto while filling a gas tank or shopping for food. The sign \"Bitcoin Sold Here\" invites curiosity about this new asset class and elicits interest in learning more about crypto.\nDigital currencies like Bitcoin were developed to create a new kind of electronic cash, and Bitcoin ATMs allow people to purchase this new currency and use it for digital payments, remittances, or as a store of value. Imagine if someone made traditional assets like stocks available for purchase in fractional amounts at physical locations with cash. Bitcoin ATMs represent a financial opportunity as Bitcoin&apos;s deflationary store of value is unprecedented.\nThe use cases of Bitcoin ATMs\nThere are a myriad of reasons why people have utilized Bitcoin ATMs. People consider Bitcoin and other cryptocurrencies a speculative store of value or a more efficient medium of exchange. Two digital currencies are popular for these use cases: Bitcoin and USDC. USDC, a U.S. dollar-backed stablecoin, is available through Bitcoin ATMs and is backed one-to-one with the U.S. dollar. Their utilities are highlighted in the following examples of how people use Bitcoin ATMs:\nIn 2014, Bitcoin was valued at only a few hundred dollars each. The people who purchased it at the first licensed Bitcoin ATM in the U.S. launched the same year in Seattle, Washington, have potentially captured significant upside, with Bitcoin now trading closer to $70,000 per coin. A mother sent money to her daughter, who was studying abroad in Italy and needed money ASAP to fix her car. She had found a mechanic but didn&apos;t have enough cash to pay him. The mechanic accepted Bitcoin, so she asked her mom to use a Bitcoin ATM to send her the funds. The mechanic was paid within minutes. Immigrants in the U.S. can purchase USDC with cash at ATMs to send money back home, where the recipient can pick up the money in their local fiat currency. The opportunities of Bitcoin ATMs\nBitcoin ATMs are an excellent opportunity for businesses with a physical retail location. Retailers can earn rent on hosted ATMs and drive additional foot traffic to locations. Alternative arrangements allow retailers to receive a percentage of each transaction fee. Retailers should only work with licensed, insured operators and have proper AML policies and procedures.\nThe most significant benefit of hosting a Bitcoin ATM is the draw of customers to retail locations. Websites like Coin ATM Radar list ATM locations, which is essentially free advertising. Bitcoin ATMs are also searchable via Google Maps and often co-listed at the hosting business. Customers who purchase crypto at ATMs will likely make return visits and buy other items. In this way, they create a win-win partnership between the retailer and the bitcoin ATM operator.\nThe future of Bitcoin ATMs\nThe crypto winter contributed to consolidation within the bitcoin ATM industry and reduced the number of bitcoin ATM operators down to a few key players at the beginning of 2024. However, since the consolidation of bitcoin ATM installations is beginning to increase again, and with analysts touting an optimistic outlook for crypto in 2024, Bitcoin ATMs will likely remain a key pillar for the crypto economy - but what about five to ten years from now?\nDespite the rapid adoption of digital payment methods, cash is still one of the most utilized payment types in the United States. More than 18% of all transactions in the U.S. are still processed in cash. Additionally, money is unique in that there is no charge-back risk. People who use a Bitcoin ATM can access purchased Bitcoin instantly and then send it on-chain as a form of remittance or payment.\nWhile Bitcoin ATMs provide a valuable service, their high cost is the best argument against them. Hardware, retailer rent, software, cash logistics and servicing, among other things, can make operating a profitable Bitcoin ATM very expensive. It can be more cost-effective to crypto-enable existing ATMs and kiosks to let people exchange crypto with cash.\nThis can be done through an API, removing the requirement of deploying crypto-native hardware. Over time, we will see more legacy financial institutions working with the crypto industry to offer crypto purchases and sales to their customers to remain competitive and meet market demand.\nIt&apos;s important to remember that Bitcoin ATMs replaced the humble beginnings of crypto when strangers met in person to trade USB sticks of Bitcoin for cash. In a multi-currency digital currency world, physical and digital channels will be combined to cash in and out of crypto, enabling a seamless experience and removing barriers to a blockchain-based financial system. Bitcoin ATMs will continue to expand in popularity and serve as a vital aspect of this ecosystem for years.\nNeil Bergquist is the co-founder and CEO of Coinme, operating the largest retail exchange network in the world, where people can cash in and out of crypto at over 40,000 retail locations. Neil is also a Guinness World Record Holder and formerly operated the largest tech incubator in the Northwest.\nNeil Bergquist",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "waves coffee house",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "downtown vancouver",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-12T00:03:50.939+03:00",
+    "updated": "2024-04-12T00:03:50.939+03:00"
+  }
+]

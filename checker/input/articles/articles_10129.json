@@ -1,0 +1,565 @@
+[
+  {
+    "uuid": "9739191c687b5cb24b01677d5575c89a6964719f",
+    "url": "https://chiefexecutive.net/tariq-shaukat-on-genai-the-devil-is-in-the-details",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "C.J. Prince",
+    "published": "2024-04-11T17:06:00Z",
+    "title": "Tariq Shaukat On GenAI: ‘The Devil Is In The Details’",
+    "text": "From startups to global giants, the buzz about how to integrate Generative AI into daily operations has become ubiquitous. And it’s not just hype, but a reflection of the potential companies see in AI to revolutionize the way they work, innovate and compete. As stories of successful AI implementation begin to surface, the excitement grows, prompting even the most traditional businesses to take a closer look at how this technology might shape their future.\nTariq Shaukat has been into GenAI from its early days. While president of Google Cloud from 2016 to 2020, he was responsible for, among a wide range of functions, overseeing the company’s AI Solutions Lab. After serving as president of dating app Bumble for three years and helping take the company public, in September he took the role of co-CEO of Sonar, a $4 billion leader in “clean code” solutions, which aims to help companies write their own code in a way that won’t come back to bite them. With AI in the picture, an increasing number of companies—and not just software providers, either—are relying on the technology to create personalized software solutions for their businesses, but that’s opened up a pandora’s box of problems. Shaukat points to a\nStanford University study that found that relying on AI leads to buggier code. “But the software developers believe that it is more secure,” he says. “So you have almost this worst of both worlds here.”\nHe adds that AI has led to “an explosion in the number of software developers and software organizations that are writing code with AI assistance,” and that has led to a huge uptick in business for Sonar, which offers tools to help companies analyze their code and identify where it might have security or reliability issues.\nBut code development is just one of several GenAI use cases companies are now experimenting with. In the following interview, Shaukat, who is also a board member with Gap and Public Storage, talks about where GenAI is likely to have the greatest business impact, how knowledgeable CEOs need to be about the technology, and why it will prove a game-changer for small and midsize businesses.\nHow do you envision GenAI shaping corporate strategies in the near term?\nThere’s a world of potential that it unlocks because now a typical company can do things that were really, really hard to do previously. Take content generation, for example. Photo shoots for ad campaigns were financially out of reach for a lot of small companies. Now with AI, they can generate really custom creative. So the art of the possible has become much more interesting for a lot of companies.\nFor example, at Bumble, we did photo shoots for all of our ad campaigns. That meant you could only end up with one or two or three pieces of creative. Now, using AI, I can come up with creative uniquely targeted to each customer segment. That lets us service our customers better, and it saves money and improves effectiveness.\nSo it’s really a different world. Companies who have not thought of themselves as software companies can start writing a lot more code. They can start doing things that are a lot more sophisticated than they were able to do before in terms of analytics, in terms of data processing, customer engagement, that sort of thing. It really does change the game. And yes, there will be some functions where it will replace the people who are involved with those functions, but it creates new opportunities because of the use cases we’re talking about.\nIn your experience at Google Cloud and Bumble, and now at Sonar, how has AI been instrumental in scaling business operations?\nI think every company over the last 10 years has recognized that data is at the heart of the company. It doesn’t matter if you’re a consumer product company or a car manufacturer or a tech company—data really is at the center. If you go back to the 2012, 2015 timeframe, how you managed and stored that data was the big question, and that’s where you saw a lot of innovation. That’s where cloud really came in to be super useful. As you’ve gotten a handle on all that data and companies have started recognizing that, you start getting to the, what are you going to do about the data? And this is where AI has been really helpful, whether it’s in your supply chain algorithms—like, how do you use AI to optimize the routes that your supply chain is taking—or things like content creation. It kind of levels the playing field in a lot of ways. FedEx could always hire a ton of PhDs to do this, but a typical mom and pop operation could not.\nSo for smaller companies, this is a game-changer.\nYeah. I mean, think about chatbots as an example. Amazon probably could always have written a great chatbot that feels value added. Now any company, even one with two people, you can get a chatbot that sounds like a human, more or less, that is answering your customer service questions. So where you needed a lot of expertise before in certain areas, you don’t need that same expertise now. That creates a lot of opportunity for mid-size companies. I do think the web is an interesting analogy in that, before the web, only Walmart had distribution, but with the web anyone could set up a website and have global distribution. From a knowledge standpoint, AI is very similar. Now anybody can become an expert in a topic or can service people using advanced technology.\nAs AI becomes more and more integrated into operations, how should companies be approaching ethical guidelines?\nOne of the nice things about AI is it’s fairly easy to get access to. One of the downsides of it is it’s fairly easy to get access to. So I am a very strong believer that every company needs to make their AI principles and their AI acceptable use policies incredibly explicit.\nAt Google Cloud, we listed our principles and said, we will not do a deal that does not meet these principles—and we checked every deal against that. At Sonar, we have an acceptable use policy that says, here are the circumstances or the use cases we will allow for AI, here are the ones we won’t, and here’s how you have to do it—with this approved tool, with this enterprise contract, etc. It can’t just be the wild west. I do think companies are almost certainly putting themselves at risk today if they don’t have this acceptable use policy, and again, it needs to be very, very explicit. It can’t just say, you can use this for code development, but not for marketing content. You need to actually start saying, your partners can be Microsoft and Google, because we believe in their enterprise security and their data privacy, but not company X.\nThe devil is really in the details on the implementation of all of this. So being very explicit and taking a risk mitigation mindset is important. At one of the companies I’m on the board of, we’ve said, AI code generation is fine, but it must have a code scanner like Sonar, and it must have a human who reviews the results. So it can’t just be the human, and it can’t just be the tool—it has to be the combination. We are super explicit about that. I think everyone really needs to get to that level of detail.\nWhat are the AI risks CEOs and board members should be most concerned with?\nBecause of the world we live in right now, people are very attuned to cybersecurity risks. So when I talk to people, I find that the majority of the questions they’re asking on AI are to do with cybersecurity and data privacy, as two sides of the same coin. That’s important, but it’s only one dimension.\nYou need to think about the reputational aspects. You need to think about the quality aspects of what you’re getting. The legal aspects, is this infringing on copyrights potentially? And are you comfortable with that? One company I worked with said that they’ll allow AI code generation, but not marketing. And I asked them, why not marketing? And they said, ‘Well, we are a creative company. If it gets out there that we are—accidentally because of the vendors we’re using—infringing on copyright, that tarnishes our brand, our reputation. And that’s not something we can live with.’\nSo every company’s going to value that a little bit differently, and an industrial company may care less about that than a creative company. But approaching this as a 360-degree problem—reputational, legal, ethical, quality, security and privacy—is really important. Don’t let the CISO or the CTO be the only person weighing in on this. This should be a CEO-level topic.\nMost CEOs don’t have a tech background. How up-to-speed do they need to be on the technology?\nThey don’t have to be experts. They should know what questions to ask, and they should be setting the tone of where do we care about reputation? Where do we care about quality? Because there’s no black and white in any of this—a lot of it will be judgment. And the question is, is it a technology judgment or is it a business judgment? In most cases, these are business and brand and governance judgments, not simply technology judgment.\nOn that note, I have heard that some technologists don’t understand the business challenges around this, which can lead them to minimize the risks associated with certain implementations. Is that a thing? And if so, how do you mitigate that?\nIt’s certainly a thing, depending on who you’re talking to. There are a lot of people who will get very wrapped up in, what’s the definition of fair use according to copyright law, and therefore, are you really infringing or not really infringing? Legally, it’s a very interesting debate, but it’s not the most pragmatic debate for a company. So I find that there are some people in the tech world who are trying to understand the letter of the law so they can make sure they abide by it, but they don’t necessarily understand the pragmatic world that some of these businesses live in. So that is an issue.\nOne of the things that we did at Google Cloud was we started hiring a set of industry experts who were not necessarily technologists—in some cases they were, in some cases they weren’t. I hired, for example, the former chief compliance officer of Morgan Stanley to come in and help us work with customers to bridge the gap between technology and compliance. A lot of value was created from that. We hired the former chief digital officer of a large retailer who was not an engineer, but she had run digital operations. I think you’re seeing more and more of that, but it is something the tech world needs to keep doing.\nWhat foundational knowledge do you think CEOs and board members need to have on this?\nI may be extreme on this, but I think AI is going to be central to all parts of every business. I remember back when I used to do work in the manufacturing world, people would say, you can’t become CEO of a manufacturing company if you haven’t spent some time understanding how the manufacturing floor works. I think AI is going to be one of those areas. So again, do you need to be a technologist? No. But understanding the basics of how the models work, what the principles are and the limitations, that’s critical.\nFor example, there is fairly compelling evidence that ‘hallucinations’ are a feature of GenAI, not a bug. Meaning the way the models work, you will always have some level of hallucination. The question is, how do you operate in a world in which you will always have some level of hallucination? For a CEO or a C-suite exec to understand that changes how they approach the problem. Because it’s not, we’re gonna wait until Microsoft figures out how to solve the hallucination problem, because while it can be mitigated, it probably can’t be solved. So you need enough understanding of the foundational elements to have an appreciation for things like that.\nA lot of companies are jumping into AI investment. Is this going to be like the early days of ERPs when companies threw megamillions at implementation and wound up with unwieldy systems that delivered lackluster ROI?\nThere will always be excessive hype, and that will lead to excessive activity in some ways. But I would argue that it’s a little different than ERPs, because of the learning that you will get from a lot of these AI experiments. If you implement an ERP system incorrectly, it’s kind of wasted money, right? You’re not getting partial value. I think with a lot of the efforts around AI, as long as you have a system in place that allows you to learn from what you’re doing, you’ll find it to be additive. It can get quite expensive, so I would make sure, again, that you’ve got governance around this. But I do think this is different because you can take incremental steps and you can learn along the way in a way that’s harder with some of these other big bang types of projects.\nHow can one measure ROI on AI initiatives? Are there any specific metrics to focus on?\nSome of it is just 101. If you’re looking to improve customer service, then you look at handle times and the NPS scores and things like that. Some of this is remembering that the AI should be an enabler of what you do as opposed to something distinct. Almost nobody should start at scale on day one, for obvious reasons. Companies need to recognize and embrace that this is so early that having a real learning agenda around AI is important—and the learning is on the AI itself and how to govern it and how to make sure that you are getting ready to scale. So having a program in place that says, okay, we’re gonna pick a team and that team is going to use GitHub’s copilot to help write software more efficiently. So you can measure developer productivity, etc. But it’s even more interesting to look at how many security issues and how many bugs got through the system and did our system of scanning and human review and quality control work or did it not work? Being very deliberate about this as a step-by-step approach is really how companies should think about it.\nAre there any AI misconceptions or myths you want to bust for us?\nThe one that I hear more often than I would like is that a lot of this is dependent on what tool you choose. So if you go with Open AI or you go with somebody else. But I think companies are missing the more fundamental question of, what is the data that you’re putting in and how is it structured and how well have you maintained it? Where I suspect a lot of people will go wrong is thinking they can just buy that tool off the shelf and it will just work. But you’ll get generic results because you haven’t tailored it for you as a company. So that’s something people should really keep in mind.\nThe second piece is, as cool as these tools are, we really still are in the first innings. There are other parts of machine learning that are much more mature, but on GenAI, people sometimes forget that we are just five, seven years in. It will be really interesting to see how things evolve.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://ee.stanford.edu/dan-boneh-and-team-find-relying-ai-more-likely-make-your-code-buggier",
+      "https://www.ee.stanford.edu/dan-boneh-and-team-find-relying-ai-more-likely-make-your-code-buggier"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "tariq shaukat on genai",
+          "sentiment": "negative"
+        },
+        {
+          "name": "tariq shaukat",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ai solutions lab",
+          "sentiment": "none"
+        },
+        {
+          "name": "google cloud",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-12T00:05:41.747+03:00",
+    "updated": "2024-04-12T00:05:41.747+03:00"
+  },
+  {
+    "uuid": "6fbc88e4532418590d7a227462b55cc8ed6f422c",
+    "url": "https://www.archyde.com/mp-investigates-potential-supply-of-cash-to-deputies-to-approve-finances-enlargement-2024-06-13-215843",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archyde",
+    "published": "2024-06-13T21:58:00Z",
+    "title": "MP investigates potential supply of cash to deputies to approve finances enlargement – 2024-06-13 21:58:43",
+    "text": "He Public ministry informs that they’re carried out proceedings for an investigation about potential presents of cash to deputies .\nThe investigation is carried out by Anti-Corruption Prosecutor’s Workplace and carries out proceedings within the Ministry of Public Funds.\nThat is an investigation initiated by commerce ” on April 23, 2024, resulting from “the potential inventory fee that would fall below crimes of authority abuse y lively bribery ”.\nIn response to the MP, cash was provided to deputies in change for vote in favor of a finances enlargement proposal .\nThe Public Ministry “seeks to gather documentary info that contribute to strengthening analysis ”, he detailed.\n“The investigation derives from info by way of which the potential supply of cash to deputies was identified, in change for voting in favor of a finances enlargement proposal,” defined the MP.\nThe investigation derives from info by way of which the potential supply of cash to deputies was identified, in change for voting in favor of a finances enlargement proposal.\nBy means of the diligence we search to gather documentary info that… pic.twitter.com/XK9WQKw84J\n— MP of Guatemala (@MPguatemala) June 11, 2024\nFinance speaks out The Ministry of Public Finance issued an announcement indicating that Public Ministry personnel arrived on the establishment’s headquarters and “requested the customer entry report guide, in addition to photos from surveillance cameras at degree 18, the place the proprietor “Jonathan Menkos carries out his day by day duties.”\nAdditionally it is indicated that the Public Ministry didn’t specify the rationale for the investigation or the names of the folks being investigated.\n“Due to the above, the MP workers was informed that the Minister of Finance enjoys the proper of pre-trial that the general public workplace entails, by advantage of which they had been reminded that authorized investigations are generated by a grievance or grievance filed earlier than a reliable choose, the place the fee of an act or reality constituting a criminal offense is recorded and never for spurious, political or illegitimate causes,” it was added.\nIn response to Finance, MP workers had been “invited” to go away the scene and don’t rule out taking authorized motion.\nIt was added that the establishment is “prepared to collaborate with the investigations of the Public Ministry, so long as they’re carried out inside the authorized framework.”\n#MinfinSaleAdelante | The Ministry of Public Finance informs that the Minister of Public Finance, Jonathan Menkos Zeissig @jmenkos enjoys the proper of pretrial. @GuatemalaGob @SCSPGT @AGN_noticias @Radio_TGW @BArevalodeLeon pic.twitter.com/IAuSrFyuAW\n— Ministry of Public Finance (@MinfinGT) June 11, 2024\n#investigates #supply #cash #deputies #approve #finances #enlargement",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Economy, Business and Finance",
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/MinfinGT/status/1800668246485397614?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://t.co/XK9WQKw84J?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://twitter.com/jmenkos?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://twitter.com/hashtag/MinfinSaleAdelante?src=hash&#038;ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://twitter.com/AGN_noticias?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://twitter.com/SCSPGT?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://twitter.com/GuatemalaGob?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://twitter.com/MPguatemala/status/1800607128958181714?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://twitter.com/BArevalodeLeon?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://t.co/IAuSrFyuAW?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://twitter.com/Radio_TGW?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://www.twitter.com/MinfinGT/status/1800668246485397614?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://www.twitter.com/SCSPGT?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://www.twitter.com/jmenkos?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://www.twitter.com/Radio_TGW?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://t.co/XK9WQKw84J",
+      "https://twitter.com/jmenkos",
+      "https://www.twitter.com/BArevalodeLeon?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://www.t.co/XK9WQKw84J?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://twitter.com/Radio_TGW",
+      "https://www.t.co/IAuSrFyuAW?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://twitter.com/GuatemalaGob",
+      "https://twitter.com/MPguatemala/status/1800607128958181714",
+      "https://www.twitter.com/hashtag/MinfinSaleAdelante?src=hash&#038;ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://www.twitter.com/MPguatemala/status/1800607128958181714?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://twitter.com/SCSPGT",
+      "https://twitter.com/hashtag/MinfinSaleAdelante",
+      "https://www.twitter.com/AGN_noticias?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://twitter.com/AGN_noticias",
+      "https://twitter.com/BArevalodeLeon",
+      "https://twitter.com/MinfinGT/status/1800668246485397614",
+      "https://www.twitter.com/GuatemalaGob?ref_src=twsrc%5Etfw?utm_source=modulosPL&#038;utm_medium=linkinterno&#038;utm_campaign=ux",
+      "https://t.co/IAuSrFyuAW"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "ministry of public funds",
+          "sentiment": "none"
+        },
+        {
+          "name": "public ministry",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-14T01:03:04.328+03:00",
+    "updated": "2024-06-14T01:03:04.328+03:00"
+  },
+  {
+    "uuid": "c1057efe1cbe7e73244417756d3263f517350469",
+    "url": "https://www.numerama.com/sciences/1880004-starship-vs-new-glenn-le-duel-tant-attendu-des-fusees-titanesques-est-repousse.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Julien Lausson",
+    "published": "2025-01-10T07:58:00Z",
+    "title": "Starship vs New Glenn : le duel tant attendu des fusées titanesques est repoussé - Numerama",
+    "text": "SpaceX et Blue Origin ont chacun annoncé cette semaine le report du décollage des fusées Starship et New Glenn. Les deux lanceurs devaient s’envoler ce vendredi 10 janvier, depuis deux lieux et à deux horaires différents. Le face à face aura lieu un peu plus tard. Ce devait être le grand face à face entre les deux fusées géantes New Glenn et Starship , le duel à distance qui opposera Blue Origin à SpaceX. Finalement, cette confrontation entre les deux grands rivaux de l’aérospatial aux États-Unis aura lieu un peu plus tard. L’un et l’autre ont renoncé à décoller ce vendredi 10 janvier 2025.\nLe premier changement de calendrier est venu de SpaceX le 8 janvier. Dans un message partagé sur X (ex-Twitter), l’entreprise américaine a annoncé une nouvelle date de lancement pour le Starship , désormais fixée au 13. La date du 10 avait été initialement été avancée par Elon Musk, le fondateur de la société. La date est encore susceptible de bouger.\nDétail de la propulsion du premier étage de la fusée Starship. // Source : SpaceX Quant à Blue Origin, le revirement a eu lieu le 9 , en raison de l’état de la mer — l’entreprise souhaite faire la démonstration d’un retour sur Terre du premier étage de la fusée, qui surviendra dans l’océan. Désormais, la société espère pouvoir faire partir son lanceur le 12 janvier. Il s’agira au passage de son vol inaugural.\n« Il faut juste que la mer se calme un peu », a également commenté Dave Limp, le patron de Blue Origin, toujours sur X. Les mauvaises conditions météorologiques sont également un sujet de préoccupation pour SpaceX. Dans son message, l’entreprise a indiqué y prêter attention alors que sont menées les opérations préalables au vol.\nUn duel attendu, mais deux duellistes qui n’ont pas encore la même expérience Ces deux missions font partie des évènements spatiaux les plus attendus en 2025 . L’un parce qu’il s’agira de son tout premier vol, après bien des retards , l’autre en raison de la manœuvre audacieuse qui est prévue : SpaceX veut rattraper le premier étage du Starship avec sa tour de lancement, avant qu’il ne touche le sol. Comme lors du 5e essai .\nBien que les lanceurs New Glenn et Starship n’en sont pas du tout au même stade de développement (le premier n’a pas encore décollé, le second a déjà un historique de vol notable et a franchi plusieurs jalons remarquables ), leur rivalité vient de la forte proximité qu’il y a entre les deux projets : des fusées superlourdes, de taille proche, destinées à resservir.\nPour celles et ceux qui veulent suivre le duel entre New Glenn et Starship, le vol du premier est prévu le dimanche 12 janvier à 7h du matin (heure de Paris). Le second décollage est fixé au lundi 13 janvier à 23h (heure de Paris également).\nDécouvrez les bonus Numerama+\n+ rapide, + pratique, + exclusif\nZéro publicité, fonctions avancées de lecture, articles résumés par l'I.A, contenus exclusifs et plus encore.\nDécouvrez les nombreux avantages de Numerama+.\nS'abonner à Numerama+ Vous avez lu 0 articles sur Numerama ce mois-ci\nIl y a une bonne raison de ne pas s'abonner à Numerama+\nTout le monde n'a pas les moyens de payer pour l'information.\nC'est pourquoi nous maintenons notre journalisme ouvert à tous.\nMais si vous le pouvez,\nvoici trois bonnes raisons de soutenir notre travail :\n1 Numerama+ contribue à offrir une expérience gratuite à tous les lecteurs de Numerama . 2 Vous profiterez d'une lecture sans publicité , de nombreuses fonctions avancées de lecture et des contenus exclusifs . 3 Aider Numerama dans sa mission : comprendre le présent pour anticiper l'avenir. Si vous croyez en un web gratuit et à une information de qualité accessible au plus grand nombre, rejoignez Numerama+.\nS'abonner à Numerama+",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific exploration",
+      "Science and Technology->aerospace engineering",
+      "Politics->government policy",
+      "Politics->political development",
+      "Politics->international relations"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://x.com/blueorigin/status/1877385010304500147",
+      "https://x.com/SpaceX/status/1877058790933102702",
+      "https://www.x.com/SpaceX/status/1877058790933102702",
+      "https://www.x.com/blueorigin/status/1877385010304500147"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T11:29:07.144+02:00",
+    "updated": "2025-01-10T11:29:07.144+02:00"
+  },
+  {
+    "uuid": "1d80ee836a4696f3606d8539aba369b24bcd567a",
+    "url": "https://flipboard.com/article/10u-storm-girls-win-back-to-back-championships/f-3eeda36212%2Flakecountypress.news",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "lakecountypress.news - Kitty Mayo",
+    "published": "2024-02-29T00:00:00Z",
+    "title": "10U Storm girls win back to back championships | Flipboard",
+    "text": "10U Storm girls win back to back championships The Great Lake Skate tourney was held at Sonju Arena in Two Harbors on February 3-4. The 10U girls North Shore Storm played Superior Saturday morning … More stories from [Lake County (Minn.)](/topic/lakecountyminnesota) More stories from [Arrowhead Region (Minn.)](/topic/arrowheadregion) [This Was Brainerd - Feb. 29](/topic/arrowheadregion/this-was-brainerd---feb-29/f-f0fe813369%2Fbrainerddispatch.com) FEBRUARY 29 20 years ago (2004) In the final gymnastics competition of her career the state Class 2A … [Stained glass window history revealed](/topic/arrowheadregion/stained-glass-window-history-revealed/f-fd0d50223d%2Flakecountypress.news) Courtesy of Becky Judd and Ann Laverty Excerpt reprinted with permission for the United Church newsletter, Lighthouse Lite, Feb. 1, 2024 This … [DNR: Abolish Hill Annex Mine State Park to allow for iron ore mining](/topic/arrowheadregion/dnr-abolish-hill-annex-mine-state-park-to-allow-for-iron-ore-mining/f-d64597f9cc%2Fkaxe.org) Hill Annex Mine State Park in Calumet.(Contributed / Minnesota Department of Natural Resources)CALUMET — Hill Annex Mine State Park in Calumet isn’t … Join the flipboard community Discover, collect, and share stories for all your interests [Sign up](/signup) More stories from [Minnesota](/topic/minnesota) [Minnesota weather forecast: Tracking Sunday thunderstorm potential](/topic/minnesota/minnesota-weather-forecast-tracking-sunday-thunderstorm-potential/a-eYtBag_PQJmZ1s57wBHYyQ%3Aa%3A2617321998-1376254d3c%2Fbringmethenews.com) Feb. 29, 2024: Sven Sundgaard is in with the latest Minnesota weather forecast [Florio believes Vikings are 'confident' Cousins won't find better deal](/topic/minnesota/florio-believes-vikings-are-confident-cousins-won-t-find-better-deal/a-YzD4Y34jS8-f3XxNOXqO_A%3Aa%3A2617321998-99c9ada326%2Fsi.com) \"They are very clear-eyed about it. They are very confident.\" If the Vikings want Kirk Cousins back, will they be comfortable if he winds up reaching … [3M's health care spinoff becomes Minnesota's newest public company on April 1](/topic/minnesota/3m-s-health-care-spinoff-becomes-minnesota-s-newest-public-company-on-april-1/f-8977d23362%2Fbrainerddispatch.com) Minnesota's newest public company will make its debut April 1, nearly two years after 3M first announced it would spin off its health care …",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "becky judd",
+          "sentiment": "none"
+        },
+        {
+          "name": "ann laverty",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "lighthouse lite",
+          "sentiment": "none"
+        },
+        {
+          "name": "two harbors",
+          "sentiment": "none"
+        },
+        {
+          "name": "united church",
+          "sentiment": "none"
+        },
+        {
+          "name": "minnesota department",
+          "sentiment": "none"
+        },
+        {
+          "name": "hill annex mine state park",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "sonju arena",
+          "sentiment": "none"
+        },
+        {
+          "name": "great lake skate",
+          "sentiment": "none"
+        },
+        {
+          "name": "abolish hill annex mine state park",
+          "sentiment": "none"
+        },
+        {
+          "name": "calumet",
+          "sentiment": "none"
+        },
+        {
+          "name": "arrowhead region",
+          "sentiment": "none"
+        },
+        {
+          "name": "[lake county",
+          "sentiment": "none"
+        },
+        {
+          "name": "was brainerd",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-01T00:48:56.749+02:00",
+    "updated": "2024-03-01T00:48:56.749+02:00"
+  },
+  {
+    "uuid": "2934379cc2d6e157a35a3689f9932607bcc39800",
+    "url": "https://www.hoy.es/sociedad/tres-afortunados-ganan-370000-euros-primitiva-jueves-20241226230949-nt.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "R. H.",
+    "published": "2024-12-26T20:09:00Z",
+    "title": "Tres afortunados ganan más de 370.000 euros en La Primitiva de este jueves",
+    "text": "Loterías y apuestas\nTres afortunados ganan más de 370.000 euros en La Primitiva de este juevesSecciones\nServicios\nDestacamos\nLoterías y apuestas\nTres afortunados ganan más de 370.000 euros en La Primitiva de este juevesR. H.\nJueves, 26 de diciembre 2024, 23:09\nNecesitas ser suscriptor para acceder a esta funcionalidad.\nLa combinación ganadora del sorteo de 'La Primitiva' celebrado este jueves, 26 de diciembre, ha estado formada por los números 05, 12, 24, 27, 46 y 38. El número complementario es el 26, el reintegro el 7 y 1734291 el Joker. La recaudación del sorteo ascendió a 10.136.262 euros.\nEn el sorteo de La Primitiva de hoy no existen boletos acertantes de Categoría Especial (6 aciertos + Reintegro), por lo que con el bote generado que se pondrá en juego en el próximo sorteo de La Primitiva, un único acertante de Primera Categoría con Categoría Especial podría ganar 25.000.000 de euros.\nDe Primera Categoría (6 aciertos) existen tres boletos acertantes que han sido validados en la Administración de Loterías Nº 9 de Sabadell (Barcelona), en la Nº 16 de Granada y en el Despacho Receptor Nº 98.530 de San Fernando en Henares (Madrid). Cada uno se lleva 372.222,70 euros.\nDe Segunda Categoría (5 aciertos + Complementario) existe un boleto acertante que ha sido validado en la Administración de Loterías Nº 2 de La Roda (Albacete). Se lleva 181.081,31 euros.\nReporta un error en esta noticia",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Human Interest->award and prize",
+      "Economy, Business and Finance->media and entertainment industry",
+      "Economy, Business and Finance->consumer goods",
+      "Lifestyle and Leisure->gaming and lottery"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "La Primitiva",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:15:21.852+02:00",
+    "updated": "2024-12-27T00:15:21.852+02:00"
+  },
+  {
+    "uuid": "fa7896e4b331dc91dd0c53c5e5b8a928ef42b7c0",
+    "url": "https://www.espn.com.ar/futbol/mundial/nota/_/id/14935899/enzo-fernandez-chelsea-argentina-hablo-de-su-deseo-de-volver-algun-dia-a-su-pais",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ESPN com",
+    "published": "2025-03-19T22:20:00Z",
+    "title": "Enzo Fernández habló de su deseo de volver algún día a su país - ESPN",
+    "text": "Enzo Fernández, integrante de la Selección Argentina campeona del Mundo y bicampeona de América, habló con SportsCenter, de ESPN, y contó detalles de su vida en Inglaterra. El mediocampista del Chelsea se prepara con la Albiceleste para los importantes partidos ante Uruguay y Brasil, por las Eliminatorias CONMEBOL para el Mundial de 2026.\nEl jugador de 24 años dialogó en el predio de la AFA en Ezeiza y recordó la etapa de su crecimiento profesional en\nDefensa y Justicia, donde fue dirigido por Sebastián Beccacece, el actual entrenador de Ecuador. Después se destacó en River Plate y ya pasó al fútbol europeo.\n\"Ganamos la Recopa con Beccacece. Es un gran entrenador, muy exigente, un poco loco pero buena persona (sonrisas). Vive a mil cada partido, ha llevado eso a Ecuador y es algo muy lindo, lo vive con intensidad”, dijo Enzo sobre Beccacece, a quien le va bien al frente del seleccionado ecuatoriano, ubicado 3º en las Eliminatorias Sudamericanas, detrás de Argentina y Uruguay.\n\"Cada día de mi vida extraño Argentina. A medida que pasa el tiempo, te vas acostumbrando, pero también extrañás más. Uno disfruta el presente, estamos en un gran país. Extraño mucho donde crecí\", contó Fernández.\nY agregó: \"Llevo cuatro años acá y sigo con la misma mentalidad. Después de dejar el fútbol, volveré a mi país, estoy seguro”. Así, más de un fanático de River y otros equipos podrán ver que, en principio, no regresará al fútbol argentino de forma activa.\nConsultado sobre los looks de Rodrigo De Paul, habitual compañero en la zona media de Argentina, Enzo fue claro: \"Se viste bien, tiene su onda, me gusta la onda que tiene”. Mientras, Enzo continúa a pleno bajo las órdenes de Lionel Scaloni, practicando de cara a los importantes cruces contra Uruguay y Brasil.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->soccer",
+      "Human Interest->celebrity"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:17:00.583+02:00",
+    "updated": "2025-03-20T01:17:00.583+02:00"
+  },
+  {
+    "uuid": "d2d005c7409aecec13f1aad88b2509131dd52e1a",
+    "url": "https://swarajyamag.com/news-brief/mumbai-based-avaada-group-launches-green-hydrogen-project-in-odisha-heres-why-its-important",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nayan Dwivedi",
+    "published": "2024-02-16T04:44:00Z",
+    "title": "Mumbai-Based Avaada Group Launches Green Hydrogen Project In Odisha- Here's Why It's Important",
+    "text": "News Brief\nMumbai-Based Avaada Group Launches Green Hydrogen Project In Odisha- Here's Why It's Important\nNayan Dwivedi\nFeb 16, 2024, 03:14 PM | Updated 03:13 PM IST\nSave & read from anywhere!\nBookmark stories for easy access on any device or the\nSwarajya app.\nIn a significant development, Avaada Group has marked the commencement of its\ngreen hydrogen project at Gopalpur, Odisha.\nThe move is poised to generate around 1,600 direct and 4,000 indirect employment opportunities, according to a statement released by the company.\n\"Foundation stone for Avaada Group's Green Hydrogen project was laid down today by Chief Minister of Odisha Naveen Patnaik in Gopalpur, Ganjam,\" the statement said.\nThe groundbreaking ceremony was attended by Chief Minister Naveen Patnaik along with stakeholders and representatives from various sectors.\nThe establishment of a green ammonia storage facility at Gopalpur will facilitate the export of green hydrogen, contributing to the global pursuit of achieving net-zero emissions, particularly in hard-to-abate sectors such as steel, cement, and petrochemicals.\nAlso Read:\n\"Only One Family Is...\": PM Modi On Why 'Everyone' Is Leaving Congress\nBy harnessing renewable energy sources, the initiative aims to produce green ammonia with minimal environmental impact.\nVineet Mittal, Chairman of Avaada Group, underscored the significance of green ammonia as a clean and renewable alternative across diverse sectors, including agriculture, transportation, and industry.\nAvaada Group's portfolio encompasses solar module manufacturing, renewable power generation, and the development of green hydrogen, green methanol, green ammonia, and sustainable aviation fuel projects.\nAlso, with its renewable power generation arm, Avaada Energy, the group aims to achieve an installed capacity of 11 GW by 2026, solidifying its position in sustainable energy solutions.\nAlso Read:\nTrash To Treasure: Here's Why India Is Seeking Collaboration With Germany In Biofuels Sector\nSave & read from anywhere!\nBookmark stories for easy access on any device or the\nSwarajya app.\nNayan Dwivedi is Staff Writer at Swarajya.\nAn appeal from Swarajya\nDear Reader,\nAt Swarajya, we rely on our readers' support through subscriptions to sustain our media platform. Unlike larger conglomerates, we are unable to relentlessly chase advertising money — our model is largely built on your patronage.\nYour support has never been more crucial. We work tirelessly to deliver 10-15 high-quality articles daily, ensuring you receive insightful content from 7 AM to 10 PM.\nIf you believe India's story has to be articulated in a way it has never been done before without shrugging it off, become a patron (or) subscribe now for ₹̶2̶4̶0̶0̶ ₹1999 and get 12 print issues, unlimited digital access for 1 year, a special India that is Bharat T-shirt (Offer ends soon).\nWe are counting on you!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Environment"
+    ],
+    "external_links": [
+      "https://play.google.com/store/apps/details?id=com.swarajyamag.mobile.android&hl=en&pli=1",
+      "https://www.moneycontrol.com/news/business/avaada-begins-green-hydrogen-project-in-odisha-12271931.html",
+      "https://play.google.com/store/apps/details",
+      "https://moneycontrol.com/news/business/avaada-begins-green-hydrogen-project-in-odisha-12271931.html",
+      "https://www.play.google.com/store/apps/details?id=com.swarajyamag.mobile.android&hl=en&pli=1"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "nayan dwivedi",
+          "sentiment": "none"
+        },
+        {
+          "name": "naveen patnaik",
+          "sentiment": "none"
+        },
+        {
+          "name": "odisha naveen patnaik",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "avaada group launches green hydrogen project in odisha",
+          "sentiment": "negative"
+        },
+        {
+          "name": "avaada group",
+          "sentiment": "none"
+        },
+        {
+          "name": "avaada group's green hydrogen",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "mumbai",
+          "sentiment": "none"
+        },
+        {
+          "name": "ganjam",
+          "sentiment": "none"
+        },
+        {
+          "name": "gopalpur",
+          "sentiment": "none"
+        },
+        {
+          "name": "odisha",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-16T11:50:11.197+02:00",
+    "updated": "2024-02-16T11:50:11.197+02:00"
+  },
+  {
+    "uuid": "be5d309caa730008f10f354df15e8f1c75dd200c",
+    "url": "https://my.ua/news/cluster/2025-06-12-sammit-g7-ne-primet-sovmestnoe-kommiunike-iz-za-raznoglasii-po-ukraine-bloomberg",
+    "ord_in_thread": 0,
+    "author": "MY.UA",
+    "published": "2025-06-12T07:03:00Z",
+    "title": "Саммит G7 не примет совместное коммюнике из-за разногласий по Украине - Bloomberg",
+    "text": "Страны \"Большой семерки\" не будут пытаться достичь консенсуса по поводу совместного коммюнике на саммите лидеров, который состоится 15 – 17 июня в Канаде. Такое решение принято из-за существенных разногласий с США по ряду вопросов, в частности, российско-украинской войне. Об этом сообщает Bloomberg со ссылкой на неназванных собеседников, знающих дискуссии на эту тему.\nПо словам собеседников агентства, вместо единого документа лидеры G7, вероятно, опубликуют отдельные совместные заявления лидеров по разным темам. На саммите планируется обсуждение мировой торговли, искусственного интеллекта, энергетической безопасности, лесных пожаров и глобальных военных конфликтов, в частности, в Украине и на Ближнем Востоке.\nКак отмечает Bloomberg, согласование завершающего коммюнике обычно является ритуалом для лидеров, собирающихся на таких встречах, как саммит G7. Хотя документ не имеет юридической силы, он является изложением принципов и призван продемонстрировать единство участников по глобальному значению.\nНапример, коммюнике того же саммита имело 36 страниц и содержало обещания поддерживать Украину в конфликте с Россией, бороться с изменением климата и способствовать гендерному равенству.\nНо президент США Дональд Трамп изменил политику США по всем этим и многим другим вопросам, отказавшись выразить поддержку Украине в пользу России, отменив инициативы по изменению климата и отвергши гендерные инициативы.\nКроме того, что согласовать общую позицию с США по этим вопросам будет крайне сложно, даже подписанный документ не гарантирует устойчивую позицию лидеров. В 2018 году после саммита G7, также принимавшего Канада, Трамп вышел из совместного коммюнике спустя несколько часов после его подписания, поскольку его раздражили комментарии тогдашнего премьер-министра Джастином Трюдо журналистам.\n- Президент Зеленский присоединится к саммиту G7 вместе с лидерами Индии, Бразилии, Мексики и других стран.\n- Украина ожидает, что на саммите G7 в Канаде главы государств \"Большой семерки\" примут решение о снижении ценового потолка на российскую нефть, конфискации замороженных активов Москвы в пользу Киева и усилении изоляции страны-агрессора.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Politics->political development",
+      "Politics->political crisis",
+      "Politics->international relations",
+      "War, Conflict and Unrest->international military intervention",
+      "War, Conflict and Unrest->peace talks",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.bloomberg.com/news/articles/2025-06-11/group-of-seven-tries-to-avoid-trump-conflict-by-scrapping-joint-communique?srnd=homepage-europe",
+      "https://bloomberg.com/news/articles/2025-06-11/group-of-seven-tries-to-avoid-trump-conflict-by-scrapping-joint-communique?srnd=homepage-europe",
+      "https://www.bloomberg.com/news/articles/2025-06-11/group-of-seven-tries-to-avoid-trump-conflict-by-scrapping-joint-communique"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:15:12.940+03:00",
+    "updated": "2025-06-12T07:28:20.000+00:00"
+  },
+  {
+    "uuid": "6f696c971a049dc3769cdbf49f002e1765d78483",
+    "url": "https://mustsharenews.com/teacher-oral-sex-students",
+    "ord_in_thread": 0,
+    "author": "Thanawut Fasaisirinan",
+    "published": "2025-06-26T07:01:00Z",
+    "title": "Male teacher in Thailand performs lewd act on 5 students, offered them money as reward",
+    "text": "42-year-old Teacher performs oral sex on students & gives them money A teacher in Nonthaburi Province, Thailand, was charged with sexual harassment by performing oral sex on five male students , reports Thai news outlet Workpoint News.\nStudents revealed sexual harassment in school director’s residence Last week, a college professor noticed an anomaly in the electricity meter at the unoccupied residence of the director.\nThe electricity consumption had risen to 23 units, which was unusual compared to 1-2 units in the past.\nConcerned that an outsider might be secretly living there, the professor informed the police, leading to an investigation.\nSubsequently, some students from the college were questioned, and a group of male students confessed to residing there temporarily.\nThey further revealed that a male English teacher had engaged in sexual harassment inside the residence.\nSource: Workpoint News\nFollowing the accusation, the 42-year-old teacher was brought in by the police for investigation.\nTeacher confessed to convincing students to engage in indecent acts The teacher, Mr Suchon (name transliterated from Thai), said the incident occurred at the start of June. He recounted encountering students running from the second floor of the director’s residence and chided them for their actions.\nIn the days that followed, Mr Suchon had private conversations with the students, during which he teased, flirted, hugged, and touched the students’ genitals.\nMr Suchon then convinced two students to let him perform oral sex on them.\nGave students money in return for allowing lewd acts The students were reported to be around 16-17 years old — they were reportedly consenting and open to ‘experimenting’.\nAfter the incidents, Mr Suchon gave the male students money — around 40 baht (S$1.57) to 100 baht (S$4) — and sometimes bought them snacks.\nMr Suchon has since expressed his desire to apologise to the students and their parents for the lewd acts. He also admitted to not thinking through his actions properly.\nThe 42-year-old has been an English teacher at the college for 11 years before the offence.\nCharged with indecent acts against person below the age of 18 Pol. Col. Nattadecha Thanisaphattaraphong, Superintendent of Sai Noi Police Station, stated that the teacher had sexually harassed five students in total and recorded the acts with his phone.\nSource: Workpoint News\nMr Suchon has also been charged with indecent acts against a person below the age of 18.\nThe college will also take disciplinary action against Mr Suchon as he is a civil servant.\nAlso read: Female teacher in Taiwan sexually assaults 12-year-old student, gets pregnant & gives birth to his child\nFemale teacher in Taiwan sexually assaults 12-year-old student, gets pregnant & gives birth to his child\nHave news you must share? Get in touch with us via email at news@mustsharenews.com .\nFeatured image adapted from Workpoint News .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Education",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->judiciary",
+      "Crime, Law and Justice->court",
+      "Crime, Law and Justice->assault",
+      "Education->teachers",
+      "Education->school",
+      "Education->students",
+      "Social Issue->social services",
+      "Social Issue->abusive behaviour",
+      "Social Issue->sexual misconduct"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://workpointnews.com/crime/news/NR0WULK",
+      "https://www.workpointnews.com/crime/news/NR0WULK"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Suchon",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Provinc",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Workpoint News",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_sg",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-26T10:11:36.769+03:00",
+    "updated": "2025-06-27T08:11:35.000+00:00"
+  }
+]

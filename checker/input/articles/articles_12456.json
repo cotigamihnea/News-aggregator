@@ -1,0 +1,555 @@
+[
+  {
+    "uuid": "0493e82522408c468bb511ae0f227f84ec978409",
+    "url": "https://larrybrownsports.com/baseball/mason-miller-broken-pinkie-finger-injury/636630",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Larry Brown",
+    "published": "2024-07-25T21:50:00Z",
+    "title": "All-Star closer suffers broken finger",
+    "text": "All-Star closer suffers broken finger\nAll-Star closer Mason Miller has suffered an injury to one of his fingers.\nThe Oakland A’s announced on Thursday that they had placed Miller on the 15-day injured list retroactive to Tuesday due to a fractured left hand. MLB.com reporter Martin Gallegos initially\nsaid that Miller had broken his left pinkie finger while punching a padded table in the training room. He later clarified that Miller got hurt when he “put his hand down awkwardly on the training table while getting ready to do an exercise.”\nImportant clarification on Mason Miller injury: he did not pound the table out of frustration. He put his hand down awkwardly on the training table while getting ready to do an exercise.\n— Martín Gallegos (@MartinJGallegos)\n[July 25, 2024]\nMiller has been a standout for Oakland this season. The 25-year-old reliever is 1-1 with a 2.21 ERA and 15 saves this season. He has 70 strikeouts in 40.2 innings and is known for being one of the hardest throwers in the world.\nThere was\nsome speculation that Miller could be traded, but his injury will likely complicate things.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://x.com/AthleticsPR/status/1816561380499292589",
+      "https://www.x.com/AthleticsPR/status/1816561380499292589"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "martin gallegos",
+          "sentiment": "none"
+        },
+        {
+          "name": "mason miller",
+          "sentiment": "none"
+        },
+        {
+          "name": "martín gallegos",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "mason miller",
+          "sentiment": "negative"
+        },
+        {
+          "name": "oakland",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "oakland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-26T01:26:24.097+03:00",
+    "updated": "2024-07-26T01:26:24.097+03:00"
+  },
+  {
+    "uuid": "c47df59c753aef7d9b5b24f7d640de10cff5e51e",
+    "url": "https://community.hpe.com/t5/server-management-remote-server/unable-to-determine-booterror-on-proxmox-get-bootlog-via-ilo/m-p/7229896",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RainerZufall_1",
+    "published": "2024-11-21T22:13:00Z",
+    "title": "Unable to determine Booterror on Proxmox | Get Bootlog via ILO?",
+    "text": "[Close](javascript:void(0);)\n-\n[Community Home](/) - >\n-\n[Servers and Operating Systems](/t5/servers-and-operating-systems/ct-p/itrc-122) - >\n-\n[HPE ProLiant](/t5/hpe-proliant/ct-p/proliant) - >\n-\n[Server Management - Remote Server Management](/t5/server-management-remote-server/bd-p/itrc-298) - >\n- Unable to determine Booterror on Proxmox | Get Boo...\nCategories\nCompany\nLocal Language\n[ back]\nForums\nDiscussions\nForums\n[Data Protection and Retention](/t5/data-protection-and-retention/ct-p/data-protection-retention)[Entry Storage Systems](/t5/entry-storage-systems/ct-p/entry-storage-systems)[Legacy](/t5/legacy/ct-p/legacy-storage)[Midrange and Enterprise Storage](/t5/midrange-and-enterprise-storage/ct-p/midrange-enterprise)[Storage Networking](/t5/storage-networking/ct-p/storage-networking)[HPE Nimble Storage](/t5/hpe-nimble-storage/ct-p/nimble-storage)\nDiscussions\nDiscussions\nDiscussions\nDiscussions\nForums\nDiscussions\n[ back]\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\n-\n[BladeSystem Infrastructure and Application Solutions](/t5/bladesystem-infrastructure-and/bd-p/bladescategory08) -\n[Appliance Servers](/t5/appliance-servers/bd-p/bsc-430) -\n[Alpha Servers](/t5/alpha-servers/bd-p/bsc-435) -\n[BackOffice Products](/t5/backoffice-products/bd-p/itrc-180) -\n[Internet Products](/t5/internet-products/bd-p/itrc-181) -\n[HPE 9000 and HPE e3000 Servers](/t5/hpe-9000-and-hpe-e3000-servers/bd-p/itrc-191) -\n[Networking](/t5/networking/bd-p/itrc-239) -\n[Netservers](/t5/netservers/bd-p/itrc-249) -\n[Secure OS Software for Linux](/t5/secure-os-software-for-linux/bd-p/itrc-261) -\n[Server Management (Insight Manager 7)](/t5/server-management-insight/bd-p/itrc-266) -\n[Windows Server 2003](/t5/windows-server-2003/bd-p/itrc-278) -\n[Operating System - Tru64 Unix](/t5/operating-system-tru64-unix/bd-p/itrc-281) -\n[ProLiant Deployment and Provisioning](/t5/proliant-deployment-and/bd-p/itrc-299) -\n[Linux-Based Community / Regional](/t5/linux-based-community-regional/bd-p/itrc-1215) -\n[Microsoft System Center Integration](/t5/microsoft-system-center/bd-p/itrc-1235)\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nDiscussion Boards\nCommunity\nResources\n[ back]\nForums\nBlogs\n[Topic Options](#)\n(/hpeb/rss/message?board.id=itrc-298&message.id=10244) - Mark Topic as New\n- Mark Topic as Read\n- Float this Topic for Current User\n- Bookmark\n- Subscribe\n[Printer Friendly Page](/t5/forums/forumtopicprintpage/board-id/itrc-298/message-id/10244/print-single-message/false/page/1)\n- Mark as New\n- Bookmark\n- Subscribe\n- Mute\nSubscribe to RSS Feed [Permalink](/t5/server-management-remote-server/unable-to-determine-booterror-on-proxmox-get-bootlog-via-ilo/m-p/7229896/highlight/true#M10244)[Print](/t5/forums/forumtopicprintpage/board-id/itrc-298/message-id/10244/print-single-message/true/page/1) [Report Inappropriate Content](/t5/notifications/notifymoderatorpage/message-uid/7229896)\n3 hours ago\n3 hours ago\nUnable to determine Booterror on Proxmox | Get Bootlog via ILO?\nHello,\nI need to switch operating systems. I added another harddrive (SSD) to my server and installed proxmox.\nEverything worked fine but it immediatly jumped to the old os in my boot options.\nIt seems that there is a very short appearance of the error message from proxmox but i can´t figure out how to tell the server to show me this message as it immediatly jumps to secound boot option.\nI am unable to find some bios option like \"halt on errors\" or sth.\nI deleted all other boot options but then the message appears and he jumps back to bios post saying \"no bootable os found\" or sth. like that.\nI already searched some kind of startup log in ILO(4) but i am unable to find.\nCan you help me?\nPhysical access to server is available.\ngreetings\n- Mark as New\n- Bookmark\n- Subscribe\n- Mute\nhttps://community.hpe.com/rss/message?board.id=itrc-298&message.id=10245 [Permalink](/t5/server-management-remote-server/unable-to-determine-booterror-on-proxmox-get-bootlog-via-ilo/m-p/7229902/highlight/true#M10245)[Print](/t5/forums/forumtopicprintpage/board-id/itrc-298/message-id/10245/print-single-message/true/page/1) [Report Inappropriate Content](/t5/notifications/notifymoderatorpage/message-uid/7229902)\n2 hours ago\n2 hours ago\nQuery: Unable to determine Booterror on Proxmox | Get Bootlog via ILO?\nSystem recommended content:\n1. HPE iLO 5 3.06 User Guide | iLO access settings options\n2. HPE iLO 6 1.61 User Guide | iLO access settings options\nPlease click on \"Thumbs Up/Kudo\" icon to give a \"Kudo\".\nThank you for being a HPE valuable community member.\n[Rules of Participation](/t5/custom/page/page-id/rulespage).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T03:31:02.896+02:00",
+    "updated": "2024-11-22T03:31:02.896+02:00"
+  },
+  {
+    "uuid": "5153f158e1c13bb8deac27a5453e91b32a0f102e",
+    "url": "https://www.world-today-news.com/mortgage-renewal-notary-fees-to-increase-significantly-in-quebec",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "world today news",
+    "published": "2024-08-29T23:52:00Z",
+    "title": "Mortgage renewal: notary fees to increase significantly in Quebec?",
+    "text": "According to a new study published Thursday by the Economic Institute of Montreal (IEDM), this change could almost double the cost of mortgage transfers in the province.\nThis text is a translation of an article from CTV News.\nSee also – Doing business with a real estate broker: still important in 2024?\n“This new interpretation of the Notaries Act would give notaries a monopoly to complete mortgage transfer forms,” ​​explained Renaud Brossard, vice president of communications at the MEI.\nHe tells people who are shopping around to get the best rate when renewing their mortgage, that there are “forms to fill out.”\nUntil recently, these legal documents were first completed by a special processing center before being notarized, at a cost of $850.\n“Usually, these documents were completed by legal assistants, then certified by a notary,” explained Mr. Brossard. “Today, notaries are trying to make their own monopoly, which greatly increasing costs”.\nThis means that homeowners who want to transfer their mortgage could soon have to pay nearly $1,500, a 75% increase in cost, according to the MEI.\nThis is what we call “rent seeking,” said Mr. Brossard.\n“What notaries do is they take advantage of the legal framework to get additional income at the expense of the consumer,” he told CTV News. you mortgage, it involves large sums, but notaries try to extract a few hundred dollars from Quebecers.”\nWith interest rates still much higher than a few years ago, Mr. Brossard says not all Quebecers want to pay extra for paperwork.\n“When it comes time to renew, it’s not necessarily the same financial institution that offers the best rates, and this kind of competition between financial institutions has helped keep mortgage rates a little lower ,” he said. “Raising taxes… it’s certainly bad for the consumer, but it’s also bad in another way, by reducing competition.”\nIn addition, Brossard says that different groups interpret the reform differently – and no one knows who is right.\n“Notaries interpret the changes to the law as meaning that they now have a monopoly on filling out these forms. “Treatment centers interpret it differently. They say they can still fill out the forms while they are being checked.”\nHe is aware that the matter is before the courts at the moment.\nCTV News contacted the Chambre des notaires du Québec (CNQ), but has not yet received a response.\n2024-08-29 23:22:46\n#Mortgage #renewal #notary #fees #increase #significantly #Quebec",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://montreal.ctvnews.ca/quebec-homeowners-looking-to-renew-mortgages-could-soon-pay-more-in-notary-fees-mei-1.7018731",
+      "https://www.montreal.ctvnews.ca/quebec-homeowners-looking-to-renew-mortgages-could-soon-pay-more-in-notary-fees-mei-1.7018731"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "renaud brossard",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "economic institute of montreal",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "iedm",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "ctv news",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "quebec",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T11:28:35.137+03:00",
+    "updated": "2024-08-30T11:28:35.137+03:00"
+  },
+  {
+    "uuid": "eea05408455e743835765d98f2288c568b004bb9",
+    "url": "https://www.163.com/dy/article/K4LV671T0549BAP0.html",
+    "ord_in_thread": 0,
+    "author": "网易",
+    "published": "2025-07-17T04:38:00Z",
+    "title": "帕尔梅拉斯主帅：若砸钱能赢球，那大巴黎应该能一直赢吧|米内罗|解放者杯|弗拉门戈|巴黎圣日耳曼|世俱杯半决赛_网易订阅",
+    "text": "北京时间7月17日，巴甲联赛第14轮，帕尔梅拉斯在主场1-1战平米拉索尔。在赛后新闻发布会上，当被问及如今的这支帕尔梅拉斯是否是自2020年11月执教以来最差的球队时，帕尔梅拉斯主帅阿贝尔-费雷拉并不认同，但他承认球队目前确实没有处于最佳状态。\n“这只是你的个人的看法，我不会跟你争论。一个半月前，我们在解放者杯中排名第一，在巴甲联赛中排名第一，国内杯赛中同样是名列前茅。”\n“现在，球队确实不在最佳状态。我们换了12到13名球员，其中有一些年轻球员加入了球队，还有一些新援正处于养伤阶段。我们以3500万欧元的转会费卖掉了一名中后卫，将一名中锋卖给了皇马，埃斯特旺则去了切尔西。”\n“在这些巨额收入中，我们只投入了其中的20%（就将他们引入球队），这是必须的。现在我们要做的就是努力工作，这不单单是一个赢球的话题。如果单靠砸钱就能赢球，那么巴黎圣日耳曼每年投资8.7亿欧元，他们应该能一直赢下去才对吧。”\n“如果帕尔梅拉斯可以进行大手笔的投资，那是因为我们有钱。我们的钱是通过赢得冠军奖杯和出售球员获得的。”\n“问题的关键在于为什么帕尔梅拉斯现在有这么多钱可以投资呢？五年前我们根本做不到，四年前也不行，三年前也是一样。而我们现在能做到了，那是因为我们还清了债务，而且我们出售球员的价格都是非常合理的。”\n“从第一天来到这里起，除了保证我自己的工作质量，以及在我的球员们状态不好的时候帮助他们，我从未做出过任何承诺。五年来，我们通过球员出售赚了超过15亿欧元，我们是一支在国内和国际上都备受他人尊敬和钦佩的球队。欧洲的一些俱乐部甚至想来帕尔梅拉斯参观学习，如果我们真的这么差劲，为什么还有这么多人想挖走我们的球员？为什么他们对里奥斯感兴趣呢？”\n“我必须承认球队今天的表现不够好。如果谎言重复很多遍，球迷们就会开始相信这些谎言。我来巴西已经五年了，我对球迷们充满尊重、喜爱和敬意。但我想说的是，在帕尔梅拉斯俱乐部历史上，球队从未像今天这样在体育竞技和财务方面表现得如此出色。”\n目前，帕尔梅拉斯仍在三线作战，且都保持着强劲的竞争力。他们晋级了解放者杯和巴西杯的16强，在巴甲联赛中排名第五，距离领头羊弗拉门戈仅差四分。\n北京时间7月21日，巴甲联赛第15轮，帕尔梅拉斯将迎战米内罗竞技，比赛地点依然是安联公园球场。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Sport->soccer",
+      "Sport->sport event",
+      "Sport->sports coaching",
+      "Social Issue->demographics",
+      "Social Issue->social condition",
+      "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_vn",
+        "top_news_th",
+        "top_news_nz",
+        "top_news_rs",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news_hk",
+        "top_news_my",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:46:25.650+03:00",
+    "updated": "2025-07-18T05:05:13.000+00:00"
+  },
+  {
+    "uuid": "b7ccee9135f8220d944694561be6d7fdcf51daa7",
+    "url": "https://www.terra.com.br/vida-e-estilo/degusta/receitas/arroz-integral-colorido-para-incluir-mais-nutrientes-na-dieta,8f698d238ae5b14feaebf09132665834zuys9tzm.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Guia da Cozinha",
+    "published": "2024-11-07T20:53:00Z",
+    "title": "Arroz integral colorido para incluir mais nutrientes na dieta",
+    "text": "Arroz integral colorido para incluir mais nutrientes na dieta\nPrático e fácil, esse arroz colorido fica pronto em só 1 hora e serve até 4 porções.\n7 nov\n2024\n- 18h53\n(atualizado em 8/11/2024 às 19h44)\nO arroz branco é parte do cotidiano do brasileiro, e uma refeição sem ele parece incompleta para muita gente. Mas o Guia da Cozinha tem uma dica para melhorar e incrementar esse prato: o arroz integral colorido. Adicionando novos ingredientes, o seu arroz fica mais saboroso e nutritivo.\nEssa receita é uma ótima opção para quem busca incluir mais vegetais na dieta. Prático e fácil, esse arroz colorido fica pronto em só 1 hora e serve até 4 porções.\nFaça para a família toda e receba muitos elogios, o tempero único do prato vai fazer sucesso na sua casa!\nVeja o passo a passo completo abaixo:\nArroz integral colorido\nTempo: 1h\nRendimento: 4 porções\nDificuldade: fácil\nIngredientes:\n- 4 colheres (sopa) de óleo\n- 1 cebola picada\n- 2 dentes de alho amassados\n- 1 cenoura ralada\n- 1/2 xícara (chá) de vagem picada\n- 1 tomate sem sementes picado\n- 6 xícaras (chá) de água\n- Sal a gosto\n- 2 xícaras (chá) de arroz integral\n- 10 ovos de codorna cortados ao meio\n- 10 tomates-cerejas cortados ao meio\nModo de preparo:\n- Em uma panela, aqueça o óleo em fogo médio e refogue a cebola e o alho por 3 minutos.\n- Adicione a cenoura, a vagem e o tomate e refogue por 3 minutos. Junte a água e acerte o sal.\n- Assim que levantar fervura, coloque o arroz.\n- Cozinhe em fogo baixo, com a panela semi tampada até secar a água.\n- Transfira para uma travessa, decore com os ovos de codorna e os tomates-cerejas e sirva.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T00:04:19.000+02:00",
+    "updated": "2024-11-22T21:49:04.989+02:00"
+  },
+  {
+    "uuid": "61096628172f97fa220a8c725a40320fec66e4fc",
+    "url": "https://www.steelorbis.com/steel-news/latest-news/us-steel-mill-shipments-up-98-percent-in-june-2025-1404416.htm",
+    "ord_in_thread": 0,
+    "author": "@SteelOrbis",
+    "published": "2025-08-07T00:00:00Z",
+    "title": "US steel mill shipments up 9.8 percent in June 2025",
+    "text": "The American Iron and Steel Institute (AISI) has reported that in the month of June 2025, US steel mills shipped 7,854,290 net tons, a 9.8 percent increase from the 7,152,135 net tons shipped in June 2024.\nShipments were up 4.6 percent from the 7,507,349 net tons shipped in the previous month, May.\nShipments in the January-June period this year are 45,139,579 net tons, up 3.2 percent compared to shipments of 43,759,681 net tons in the first six months of 2024.\nA comparison of shipments year-to-date in 2025 to the first six months of 2024 shows the following changes: corrosion resistant sheet and strip, up 1 percent, hot rolled sheet and strip, down 2 percent and cold rolled sheet and strip, down 4 percent.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->manufacturing and engineering",
+      "Labor->wages and benefits",
+      "Labor->labour market",
+      "Labor->employment"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "American Iron and Steel Institute",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-07T20:31:10.784+03:00",
+    "updated": "2025-08-07T20:34:17.000+03:00"
+  },
+  {
+    "uuid": "2b0b33dc972f4c730099439c26446b3276363008",
+    "url": "https://www.newsbreak.com/maine-state/3516568135053-watch-for-baby-birds-leaving-their-nests",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bob Duchesne, Good Birding",
+    "published": "2024-07-05T05:00:00Z",
+    "title": "Watch for baby birds leaving their nests",
+    "text": "By Bob Duchesne, Good Birding ,\n3 hours ago This is a particularly amusing week in the bird world.\nFrom the middle of May to the end of June, birds are focused on mating, nesting and feeding. Then the nestlings fledge, right about now, and all heck breaks loose.\nMaybe you’ve noticed. Baby robins are chasing their parents everywhere. Look for their ragged color and spotted breasts.\nGray catbirds had a great nesting season. Catbirds nest low in bushes, often in residential areas. They are shy when nesting. The parents would like to remain shy this time of year, but the kids won’t let them. Young catbirds are chasing their parents everywhere, and noisily.\nOvenbirds, a type of warbler, are off the nest, though males are still singing. Ovenbirds are forest ground-foragers, and they need sufficient territory to feed their young. While their brood is still in the nest, males will challenge intruders solo.\nOnce the young fledge, both parents raise the alarm whenever other ovenbirds or people encroach. Last week, I was scolded trailside by single ovenbirds. This week, they’re coming at me in pairs.\nEuropean starlings raise big broods. Their young are the same size and shape as their parents, but their coloration is much grayer. They’re swarming through yards in big groups now, in plumage that often confuses casual birdwatchers.\nIt’s been two weeks since the baby white-breasted nuthatches in my backyard fledged and began pestering their parents. The parents are getting tired of being chased and nagged for food. Very tired.\nSo are the downy woodpeckers.\nThe pine warblers are showing little sympathy for their exhausted neighbors. Pine warblers sing a lot. They will raise two broods per season, if the weather cooperates. In late June, there was a brief period when I noticed the singing had stopped, but the chatter of parents talking to kids picked up. It was subtle, but there. Then the chattering stopped and the singing resumed.\nSecond brood?\nMourning doves also raise multiple broods annually, each preceded by courtship. I’m not seeing any courtship at the moment.\nChickadees make me chuckle-dee. Both of Maine’s species — black-capped and boreal chickadees — go silent in June while nesting. As soon as the chicks fledge, they make up for lost time. Parents noisily tend their youngsters, and warn the entire forest of anything they think is dangerous, apparently including me.\nRed-eyed vireos are Maine’s champion singers. They sing more than any other bird, and continue all summer. They also make a ZHREEEE call note that can mean a variety of things, but usually signals trouble.\nIn spring, and through nesting season, the vireos don’t offer many ZHREEEs. But the moment their young leave the nest and become more vulnerable, the number of ZHREEE calls increases exponentially.\nVireos despise blue jays, considering them to be nest robbers. If I hear a long, tireless series of ZHREEEs, I know there are blue jays sneaking into my yard. The vireos warn me.\nIn the bird world, there’s a sharp transition between spring and summer, between baby-making and child-rearing. It’s hard to see, but easy to hear. Often, it’s what you don’t hear that matters, like when the chickadees go silent or a warbler stops singing.\nRoughly two dozen warbler species nest in Maine. Each has its own timetable for when it sings and when it doesn’t.\nThe northern waterthrush sings incessantly in spring, but when it stops, it’s done for the season. I haven’t heard a black-and-white warbler in weeks. But I’m still hearing black-throated green and black-throated blue warblers.\nBirds react differently to threats, depending on where they are in the breeding cycle. Prior to nesting, they will challenge potential rivals, but pay little attention to other territorial intruders.\nOnce eggs are in the nest, birds often become quite shy, preferring to draw as little attention as possible. But once chicks leave the nest, the young are both visible and vulnerable to predators. Parents panic at the slightest sign of danger.\n“Pishing” is a noise that people can make to imitate the warning calls of chickadees and titmice. In early summer, songbirds sometimes ignore my pishing sounds. Just one week later, they may charge right in to see what the pishing threat is all about.\nHow they react is often a clue to where they are in the breeding cycle.\nHow did I miss this drama for so many years? It took a long time for me to tune in to these treetop shenanigans. Birds have been telling me their secrets for decades, yet somehow I wasn’t paying attention.\nI am now.\nExpand All Read in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Science and Technology",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://img.particlenews.com/image.php?url=4JwxwL_0uFNCaQF00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4JwxwL_0uFNCaQF00",
+      "https://img.particlenews.com/image.php",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=4JwxwL_0uFNCaQF00",
+      "https://www.img.particlenews.com/image.php?url=4JwxwL_0uFNCaQF00"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bob duchesne",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-05T11:05:04.789+03:00",
+    "updated": "2024-07-05T11:09:37.476+03:00"
+  },
+  {
+    "uuid": "3f2bc98704998c3b3da449e911a2bf319312c2bc",
+    "url": "https://www.theleader.com.au/story/8580645/new-drug-veoza-approved-to-treat-menopausal-symptoms-in-australia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Emily Anderson",
+    "published": "2024-04-04T10:00:00Z",
+    "title": "New drug VEOZA approved to treat menopausal symptoms in Australia | St George & Sutherland Shire Leader | St George, NSW",
+    "text": "Hormone therapy was Sandra Mesic's saving grace when her [menopausal symptoms](https://www.dailyadvertiser.com.au/story/8410865/inquiry-to-examine-wide-ranging-impacts-of-menopause/) became \"horrible\". Now she hopes a new non-hormonal drug will help more women. Australian doctors will be able to prescribe menopausal women the pharmaceutical drug VEOZA from April 5 to treat hot flushes and night sweats that are known as vasomotor symptoms (VMS). Up to 80 per cent of women in menopausal transition will experience VMS. Sandra Mesic from Victoria was one of these women and described hot flushes as \"volcanic\" episodes that she experienced every hour. \"The heat comes from deep within, you can't escape it, it's horrible,\" the 52-year-old from Maldon said. \"Then at night, you're sweating profusely all night. There's no point even trying to sleep, you wake up and you're drenched.\" For years Ms Mesic battled with ineffective medication and experienced other symptoms including irritability, low moods, dryness, tinnitus and severe aches and pains. \"The worst for me was irritability, it's still a miracle that the people around me are still alive,\" she said. \"You're crying constantly, at every pin drop you start balling your eyes out.\" Unable to work and \"feel like a real human being\", Ms Mesic reduced her employment to part-time hours before seeking medical help from her doctor. There are limited treatments available for menopause with menopausal hormonal therapy (MHT) treatments the most common option. However, a significant proportion were unable to take menopausal hormonal therapy (MHT) due to a past history of breast cancer or other vulnerabilities including blood clotting. Other women are [unwilling to take MHT](https://www.dailyadvertiser.com.au/story/8544712/rethinking-menopause-less-medication-more-empowerment/) from personal preference. Ms Mesic went on MHT in July 2023 and said that improvements were instant allowed her to return to full-time work. \"Within three days, my brain just opened up and I was like, 'oh everything is nice,'\" she said. \"For me, the risk of not feeling well today was far greater than any risk associated with any treatment.\" She is a fierce advocate for [menopause awareness](https://www.dailyadvertiser.com.au/story/7987231/menopause-health-hubs-open-in-nsw/) and believes there are still stigmas and misconceptions among people her age and in the health industry. \"I remember going to one pharmacy and he had one box left, but it was down the bottom of this shelf in the corner behind a box. \"And I thought, oh what a great metaphor for women's health - shoved in a corner where nobody knows it exists,\" she said. Ms Mesic is hopeful the new menopause drug VEOZA might increase the options for women who can not take hormonal therapy. The drug owned by Japanese multi-national drug company Astellas is the first of its kind to be approved in Australia. It costs $59.99 per month in Australia and is a prescription-only drug. Head of the education sub-committee of the board of Australasian Menopause Society Dr Elina Safro welcomed the launch of VEOZA in Australia. \"It's a very different way of approaching the treatment which makes us excited and hopeful that it's going to have good uptake and good results,\" the GP said. Dr Safro works as a clinician in Dubbo and has many patients who are unable to receive hormonal therapy for their menopausal symptoms. Around 385,000 Australian women aged 40-64 years of age with moderate to severe VMS were not receiving treatment. \"It's very important for us to have as many treatment options as we can because no two women are the same,\" Dr Safro said. Due to cost pressures and misconceptions, some women sought off-the-shelf treatments. \"Unless it's been registered with the TGA and unless it's recommended as something that's effective and safe, we advise against women using those treatments,\" she said. VEOZA is also approved in the United States, the United Kingdom and in Europe. Individuals should speak with their doctor to discuss what treatment is right for them. Sign up for our newsletter to stay up to date. We care about the protection of your data. Read our [Privacy Policy](/privacy/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.dailyadvertiser.com.au/story/8544712/rethinking-menopause-less-medication-more-empowerment/)",
+      "https://www.dailyadvertiser.com.au/story/8410865/inquiry-to-examine-wide-ranging-impacts-of-menopause/)",
+      "https://www.dailyadvertiser.com.au/story/7987231/menopause-health-hubs-open-in-nsw/)",
+      "https://dailyadvertiser.com.au/story/7987231/menopause-health-hubs-open-in-nsw/)",
+      "https://dailyadvertiser.com.au/story/8410865/inquiry-to-examine-wide-ranging-impacts-of-menopause/)",
+      "https://dailyadvertiser.com.au/story/8544712/rethinking-menopause-less-medication-more-empowerment/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sandra mesic",
+          "sentiment": "negative"
+        },
+        {
+          "name": "maldon",
+          "sentiment": "none"
+        },
+        {
+          "name": "mesic",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "veoza",
+          "sentiment": "negative"
+        },
+        {
+          "name": "st george & sutherland shire",
+          "sentiment": "negative"
+        },
+        {
+          "name": "vms",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "victoria",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-05T00:15:08.036+03:00",
+    "updated": "2024-04-05T01:15:57.570+03:00"
+  },
+  {
+    "uuid": "7bd54a1c2f58c50d0bc2b7cb8c7a93a6450166b7",
+    "url": "https://motorcyclesports.net/intense-showdown-at-miami-open-gauff-pegula-and-keys-compete-for-us-no-1-tennis-rank",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ethan White",
+    "published": "2025-03-19T22:43:00Z",
+    "title": "Intense Showdown at Miami Open: Gauff, Pegula, and Keys Compete for US No. 1 Tennis Rank",
+    "text": "The Miami Open 2025 is in full swing, and the tennis world is on the edge of their seats, watching three American powerhouses compete for the women’s singles title. Coco Gauff, Jessica Pegula, and Madison Keys are not just battling for the prestigious WTA 1000 title, but also for coveted dominance as the US No 1.\nThe rivalry is intense, and the performances over the next nine days will be crucial in determining who will have the upper hand in the forthcoming months. As of now, it’s a close race with Gauff ranking as world No 3, followed by Pegula at No 4, and Keys at her career-best of world No 5.\nGauff, the youngest of the trio, holds a strong lead with 6,063 ranking points, while Pegula and Keys trail behind with 5,361 and 5,004 points respectively. However, it’s worth noting that Gauff’s lead has slightly diminished since the Indian Wells tournament, where she lost 270 points after failing to match her previous semi-final performance.\nIn contrast, both Pegula and Keys managed to boost their standings during the Indian Wells tournament. Pegula earned an additional 110 points, and Keys significantly increased her score by 325 points, thanks to her impressive semi-final run.\nIn the ongoing Miami Open, all three competitors are striving to defend their points. Pegula, the runner-up of the 2024 US Open, has more at stake as she defends 215 ranking points earned from last year’s quarter-final performance. Meanwhile, both Gauff and Keys will be defending their points from the fourth round of the 2024 Miami Open.\nAs things stand, Gauff appears to have the upper hand in Miami. Even if Keys clinches the title, her maximum score of 5,884 points wouldn’t be sufficient to surpass Gauff. On the other hand, Pegula, if triumphant, could accumulate 6,146 points potentially reinstating her as the US No 1, provided Gauff doesn’t make it to the quarter-finals.\nBut the game’s not over yet for Keys. If she manages to win the title, Pegula could find herself back at world No 5 or lower, depending on the results of other players.\nLooking beyond the Miami Open, the clay-court swing comes into play, where Pegula has a potential advantage. She had a successful run at the Charleston Open last year, earning 195 points. However, she missed the rest of the clay swing due to injury. In comparison, Gauff and Keys have significant points to defend, which could provide Pegula an opportunity to regain the top spot.\nDespite the fierce competition, the Miami Open is just the tip of the iceberg for these three contenders. The summer promises to be even more challenging, especially for Pegula, who will be defending her titles at the WTA 500 Berlin Open and WTA 1000 Canadian Open, as well as her runner-up points from the Cincinnati Open and US Open.\nIn conclusion, the race for the US No 1 spot is far from over. With Gauff, Pegula, and Keys each showcasing their talent and determination, tennis fans can look forward to a thrilling season.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->tennis",
+      "Lifestyle and Leisure->exercise and fitness",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->game",
+      "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T00:59:58.900+02:00",
+    "updated": "2025-03-20T00:59:58.900+02:00"
+  },
+  {
+    "uuid": "6fc06e8c21799f5dcbc6111bc5cfde5de53dd482",
+    "url": "https://www.jdnews.com/news/onslow-memorial-hospital-foundation-awards-22-000-grant-to-onslow-radiation-oncology/article_92f4c27c-ffb4-543f-aa0d-dcde2372c75f.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Daily News Staff",
+    "published": "2024-03-14T23:00:00Z",
+    "title": "Onslow Memorial Hospital Foundation awards $22,000 grant to Onslow Radiation Oncology",
+    "text": "The Board of Directors of the Onslow Memorial Hospital Foundation recently announced awarding a $22,000 grant to Onslow Radiation Oncology, according to a Thursday media release.\n[]\nOnslow Memorial Hospital Foundation awards $22,000 grant to Onslow Radiation Oncology\n- By The Daily News Staff\n-\n-\nLatest News\n-\n[No. 4 UNC dominant in rebounding and routs Florida State 92-67 in ACC Tournament quarterfinals](/sports/no-4-unc-dominant-in-rebounding-and-routs-florida-state-92-67-in-acc-tournament/article_383c4ccf-34ca-50c1-8ff3-1ef551a692f0.html)\n-\n[Onslow Memorial Hospital Foundation awards $22,000 grant to Onslow Radiation Oncology](/news/onslow-memorial-hospital-foundation-awards-22-000-grant-to-onslow-radiation-oncology/article_92f4c27c-ffb4-543f-aa0d-dcde2372c75f.html)\n-\n[Private plane lands at Wallace airport after gear malfunction Thursday](/news/private-plane-lands-at-wallace-airport-after-gear-malfunction-thursday/article_58b005db-1812-5112-8cf5-41492a6f9ea7.html)\n-\n[Onslow County Schools grows future educators at Future Teachers of Onslow conference](/news/onslow-county-schools-grows-future-educators-at-future-teachers-of-onslow-conference/article_dc170f34-b456-53e9-b61d-001b1d2fda53.html)\n-\n[Hope For The Warriors Military Lounge to open at Albert J. Ellis airport later this month](/news/hope-for-the-warriors-military-lounge-to-open-at-albert-j-ellis-airport-later-this/article_76fb2fcb-3406-5d66-bdbd-12d68345df82.html)\n-\n[Loaded with talent: Jacksonville girls' soccer putting 'pieces' together to form solid team](/sports/loaded-with-talent-jacksonville-girls-soccer-putting-pieces-together-to-form-solid-team/article_f97fee6d-1b01-5295-9591-5ad0fdf2d9a9.html)\n-\n[Defending girls' lacrosse champion Croatan handles business in win at Swansboro](/sports/defending-girls-lacrosse-champion-croatan-handles-business-in-win-at-swansboro/article_3eb41ae6-31c9-5613-8d87-01b899e0e618.html)\n-\n[Onslow County's adult daycare to close for two years as senior services renovation project begins](/news/onslow-countys-adult-daycare-to-close-for-two-years-as-senior-services-renovation-project-begins/article_ee09a2a7-56c5-5e5f-9bde-1016cdb13751.html)\nMost Popular\n-\n[One arrested after Tuesday morning fire injures three in Sneads Ferry](/news/one-arrested-after-tuesday-morning-fire-injures-three-in-sneads-ferry/article_64c89dfe-c6f8-5672-b365-f2f1d052d12a.html)\n-\n[Is wrong way driving and parking an issue in the city of Jacksonville?](/news/is-wrong-way-driving-and-parking-an-issue-in-the-city-of-jacksonville/article_9927234f-6e7d-5e41-b137-60e3b26e5333.html)\n-\n[Calling all chicken salad fans! Chicken Salad Chick to open in Jacksonville this spring](/news/calling-all-chicken-salad-fans-chicken-salad-chick-to-open-in-jacksonville-this-spring/article_f19095be-2085-5a5b-8126-d597a7168786.html)\n-\n[Portion of Gum Branch Road in Jacksonville to close for improvements](/news/portion-of-gum-branch-road-in-jacksonville-to-close-for-improvements/article_061ce867-f667-5eb5-abc0-80626951fdb0.html)\n-\n[Pirates on the map: Despite fourth-round defeat, Swansboro basketball 'had one heck of a season'](/sports/pirates-on-the-map-despite-fourth-round-defeat-swansboro-basketball-had-one-heck-of-a/article_2c067151-b1e6-5219-b29f-d40cf4d86618.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "onslow memorial hospital foundation",
+          "sentiment": "negative"
+        },
+        {
+          "name": "onslow county schools",
+          "sentiment": "none"
+        },
+        {
+          "name": "onslow radiation oncology",
+          "sentiment": "none"
+        },
+        {
+          "name": "unc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "wallace",
+          "sentiment": "none"
+        },
+        {
+          "name": "onslow",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-15T01:15:50.068+02:00",
+    "updated": "2024-03-15T01:15:50.068+02:00"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "uuid": "7b68f642e8c057dd98bd9a62bebd8ccf9a2aaa58",
+    "url": "https://forum.paradoxplaza.com/forum/threads/crash-to-desktop-during-initialising-game.1701447",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "matty999 (invalid@example.com)",
+    "published": "2024-08-30T09:06:00Z",
+    "title": "Crash to desktop during initialising game",
+    "text": "Hello,\nThe game recently keeps crashing during starting up the game, when it says 'initializing game' it stops after a few minutes and shuts down to desktop without an error message.\nIt hasnt always done this but i cant remember how long ago it started doing it. Other games like CK2 and EU4 still work fine.\nAlso i have looked at fixing this problem and taken a few steps already from the recommendations seen on other threads with the same issue.\nSo far i have;\nUninstalled and reinstalled more than once each time making sure to delete all local files in documents and steam files\nverified game files after each fresh install\nDisabled all mods in the launcher\nTried launching on previous game version\nChecked my firewall allows CK3\nTried ticking disable fullscreen optimisation and in the launcher then selected full screen display mode, vsync off, refresh cap rate 60\nchecked for latest drive updates\nupdated my windows to newest update\nAfter all these things didn't make a difference i tried changing the page file size , i think my laptop has 4gb of ram so i changed it to 8gb size values.\nThe crash still occurs at the same time.\nTheir is nothing in the system or exemptions logs but i have attached the other 3 below.\nThanks\nThe game recently keeps crashing during starting up the game, when it says 'initializing game' it stops after a few minutes and shuts down to desktop without an error message.\nIt hasnt always done this but i cant remember how long ago it started doing it. Other games like CK2 and EU4 still work fine.\nAlso i have looked at fixing this problem and taken a few steps already from the recommendations seen on other threads with the same issue.\nSo far i have;\nUninstalled and reinstalled more than once each time making sure to delete all local files in documents and steam files\nverified game files after each fresh install\nDisabled all mods in the launcher\nTried launching on previous game version\nChecked my firewall allows CK3\nTried ticking disable fullscreen optimisation and in the launcher then selected full screen display mode, vsync off, refresh cap rate 60\nchecked for latest drive updates\nupdated my windows to newest update\nAfter all these things didn't make a difference i tried changing the page file size , i think my laptop has 4gb of ram so i changed it to 8gb size values.\nThe crash still occurs at the same time.\nTheir is nothing in the system or exemptions logs but i have attached the other 3 below.\nThanks",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T12:15:45.638+03:00",
+    "updated": "2024-08-30T12:15:45.638+03:00"
+  },
+  {
+    "uuid": "195fde865fd5204d9ee18279d8701ffccfa9a79f",
+    "url": "https://news.knowledia.com/GB/en/articles/colchester-to-experience-minus-temperatures-in-cold-snap-4572a2f73903d28eb62a342e7833299ffc2328bf?source=rss",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cameron Poole",
+    "published": "2025-01-03T05:03:00Z",
+    "title": "Colchester to experience minus temperatures in cold snap",
+    "text": "TEMPERATURES are set to plumet in Colchester after a weather health alert has been issued and vulnerable residents have been advised to 'stay as… The UK Health Security Agency (UKHSA) has issued a cold weather health alert for six days across Essex from 12pm Thursday until January 8.\nThe alert has prompted leading figures in the city to urge people to check on their elderly and vulnerable neighbours.\nTemperatures on Friday are expected to get down to -3C but could drop even lower across Colchester during the night.\nThe Met Office says it could feel as cold as -7C.\nArea - Colchester High Street (Image: Newsquest) The bitterly cold weather conditions could result in a rise in deaths amongst those aged 65 and over or people with health conditions, the UKHSA has said.\nColchester Council leader Councillor David King said: \"We urge residents particularly the elderly and vulnerable to take extra care.\n\"To take advantage of public warm spaces.\n\"To wrap up warm remembering layers work best. And for us all to look out for each other in tough and bitter…\nCameron Poole",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.gazette-news.co.uk/news/24829591.colchester-experience-minus-temperatures-cold-snap/?ref=rss",
+      "https://www.gazette-news.co.uk/news/24829591.colchester-experience-minus-temperatures-cold-snap/",
+      "https://gazette-news.co.uk/news/24829591.colchester-experience-minus-temperatures-cold-snap/?ref=rss"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Cameron Poole",
+          "sentiment": "none"
+        },
+        {
+          "name": "David King",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Colchester Council",
+          "sentiment": "none"
+        },
+        {
+          "name": "Met Office",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T07:07:15.493+02:00",
+    "updated": "2025-01-03T07:07:15.493+02:00"
+  },
+  {
+    "uuid": "bb7a31f98c44e2d55cf3c6d72bd8fba0ee1c3603",
+    "url": "https://www.medicaldaily.com/national-glaucoma-awareness-month-experts-share-insights-signs-risk-factors-importance-471235",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Suneeta Sunny",
+    "published": "2024-01-05T10:35:00Z",
+    "title": "National Glaucoma Awareness Month: Experts Share Insights On Signs, Risk Factors And Importance Of Screening",
+    "text": "National Glaucoma Awareness Month: Experts Share Insights On Signs, Risk Factors And Importance Of Screening\nJanuary is marked as National Glaucoma Awareness Month to bring attention to an irreversible eye disease that could result in vision loss.\nIn the U.S., around three million people have\nglaucoma, and it is the second leading cause of blindness worldwide. Glaucoma currently has no cure. Nevertheless, early detection and treatment can halt the progression of the disease, potentially preventing blindness.\nDr. Michael de Guzman, a board-certified\nophthalmologist at Simpson Eye Associates in West Dundee, Illinois, describes glaucoma as a group of eye diseases that cause progressive damage to the optic nerve of the eyes.\n\"The optic nerve is responsible for communicating between the eye and the brain to allow us to see,\" he explained.\nThere are four main types of glaucoma:\n1. Open-angle glaucoma - It is the most\ncommon type in the U.S.; nine in 10 people with glaucoma have the open-angle type. The exact cause is not known, but experts believe that it may be caused by pressure building up in the eye.\n2. Angle-closure glaucoma or closed-angle glaucoma - It is caused by a sudden surge in eye pressure when fluid fails to drain out of the front of the eye. The condition requires immediate medical attention as it can lead to blindness in a few days.\n3. Congenital glaucoma - It is a rare form of glaucoma in which babies are born with the condition that prevents fluid from draining normally.\n4. Secondary glaucoma - It occurs due to a known cause such as the use of corticosteroids, eye injury, diabetes and uveitis (inflammation of the uvea or the middle layer of the wall of the eye).\nSigns of Glaucoma\nGlaucoma is often known as the \"silent thief of sight\" as patients typically do not have early symptoms. Half of the people who have the condition are not aware of it.\n\"The signs and symptoms of glaucoma can vary depending on the type of glaucoma. With primary open-angle glaucoma, there are often no early warning signs, and patients are usually not experiencing any symptoms at the time of diagnosis. With acute angle-closure glaucoma, patients often experience blurred vision, pain, and redness in the eye. Over time, if the disease is progressing, one may start to lose their peripheral vision. Without treatment, glaucoma can lead to blindness,\" Dr. Alexa Hecht, an\noptometrist from Toronto, Canada, told Medical Daily.\nBabies born with congenital glaucoma have sensitivity to light, make extra tears and may have abnormally large eyes.\nRisk Factors\n\"Some risk factors for developing glaucoma include age, genetics and family history, race, myopia or hyperopia, systemic hypertension and hypotension, and physical trauma to the eye, to name a few,\" Dr. Hecht said.\nA person who has a first-degree relative with glaucoma, or those with elevated intraocular pressure, advanced age, myopia ('near-sightedness), African-American or Hispanic ethnicity, and a thin central cornea are at higher risk, Dr. De Guzman explained.\nTreatment\n\"Glaucoma treatment varies depending on the severity of the disease and type of glaucoma the patient has but typically begins with prescription eye drops to reduce the eye pressure. There are also surgical interventions to help fluid in the eye drain more efficiently,\" Dr. Hecht said.\nAlthough there is no cure, some treatment options can help reduce the pressure in the eyes, Dr. De Guzman said.\n\"Treatment options are aimed at lowering the intraocular pressure (IOP) of the eye. At this time, eye pressure is the only modifiable risk factor we can address. Lowering pressure can involve eye drops, implantable medicine in the eye, in-office laser procedures, microinvasive glaucoma surgery (MIGS), and traditional surgeries such as trabeculectomies and glaucoma drainage implants. It is best to discuss with your ophthalmologist regarding which treatment is best for you.\"\nWhy is screening important?\nDr. Hecht recommends that everyone, irrespective of their risk factors, should undergo comprehensive dilated eye examinations every year to ensure the eye pressure is within a normal range.\n\"There is no cure for glaucoma but if caught early we can prevent disease progression and vision loss. This is why preventive eye examinations are so important,\" she cautioned.\n\"Everyone who has a family history of glaucoma should be tested. Because people can be the first in their family to develop glaucoma, it is recommended that everyone 40 years or older should have a comprehensive eye exam to detect early signs of glaucoma or other eye conditions,\" Dr. De Guzman said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.instagram.com/dr.alexahecht/?hl=en",
+      "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/glaucoma/types-glaucoma",
+      "https://www.instagram.com/michael.de.guzman/",
+      "https://www.cdc.gov/visionhealth/resources/features/glaucoma-awareness.html",
+      "https://instagram.com/michael.de.guzman/",
+      "https://cdc.gov/visionhealth/resources/features/glaucoma-awareness.html",
+      "https://nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/glaucoma/types-glaucoma",
+      "https://www.instagram.com/dr.alexahecht/",
+      "https://instagram.com/dr.alexahecht/?hl=en",
+      "https://www.instagram.com/michael.de.guzman"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "michael de guzman",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "national glaucoma awareness month",
+          "sentiment": "negative"
+        },
+        {
+          "name": "simpson eye associates",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "west dundee",
+          "sentiment": "none"
+        },
+        {
+          "name": "illinois",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T03:32:24.312+02:00",
+    "updated": "2024-01-06T03:32:24.312+02:00"
+  }
+]

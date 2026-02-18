@@ -1,0 +1,575 @@
+[
+  {
+    "uuid": "591a75a1cf52375ced2b30e8de5e9fb59f2f2370",
+    "url": "https://www.stheadline.com/travel/3410432/%E6%B7%B1%E5%9C%B3%E6%B0%A3%E6%BA%AB%E5%91%A8%E6%9C%AB%E8%B7%8C%E7%A9%BF10%E5%86%B7%E7%A9%BA%E6%B0%A3%E4%BE%86%E8%A5%B2%E6%97%A9%E6%99%9A%E5%AF%92%E5%86%B7%E7%A9%BA%E6%B0%A3%E4%B9%BE%E7%87%A5-%E9%99%844%E6%8B%9B%E4%BF%9D%E6%9A%96%E7%A9%BF%E8%A1%A3%E6%8A%80%E5%B7%A7",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "深圳氣溫周末跌穿10℃！冷空氣來襲早晚寒冷+空氣乾燥 附4招保暖穿衣技巧",
+    "published": "2024-12-13T07:30:00Z",
+    "title": "深圳氣溫周末跌穿10℃！冷空氣來襲早晚寒冷+空氣乾燥 附4招保暖穿衣技巧",
+    "text": "0) { var resizeTimer; $(window).resize(function() { clearTimeout(resizeTimer); resizeTimer = setTimeout(resizeFunction, 1000); }); } function resizeFunction() { const isMobileAds = isMobile() && (typeof adUnits_m === 'object' && adUnits_m.length ===undefined); const isWebAds = !isMobile() && (typeof adUnits === 'object' && adUnits.length ===undefined); const debugLog = message => debug_mode && console.log(\"resizeFunction: \",message); const resizeAds = (selector, adType, isMobile) => { $(selector).each(function () { if ($(this).children().length === 0) { var divid = $(this).attr('id'); const i = $(this).data(`${adType}-index`); if (i in (isMobile ? adUnits_m[adType] : adUnits[adType])) { const a = (isMobile ? adUnits_m[adType] : adUnits[adType])[i]; debugLog(`Resize ${isMobile ? 'MWEB' : 'WEB'} ${adType}: Code:${a.code} DIV: ${a.divid} or ${divid}`); const slot = googletag.defineSlot(a.code, JSON.parse(a.sizes), divid); Object.entries(page_level_kv).forEach(( [key, value]) => { slot.setTargeting(key, value); }); slot.addService(googletag.pubads()); googletag.display(divid); } } }); }; debugLog(`isMobileAds ${isMobileAds} || isWebAds ${isWebAds}`); if (isMobileAds || isWebAds) { debugLog(`Resized? IsMobile=${isMobileAds}`); const adTypes = ['billborad', 'lrec', 'footer', 'popup', '1x1', 'gallery_leaderboard', 'gallery_flipad', 'inarticlebanner']; adTypes.forEach(adType => { debugLog(`For ${adType}: div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`); resizeAds(`div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`, adType, isMobileAds); }); } else { debugLog(\"Do Nothing during resize\"); } const keyimgSelector = isMobile() ? \"#keyimg_m\" : \"#keyimg\"; // if (!isMobile() || ($(keyimgSelector).length && !$(keyimgSelector).attr(\"data-fancybox\"))) { // $(keyimgSelector).attr(\"data-fancybox\", isMobile() ? \"gallery\" : \"\"); // } if(isMobile() && $(keyimgSelector).length ){ $('#keyimg').attr(\"data-fancybox\", \"exclude\"); $('#keyimg_m').attr(\"data-fancybox\", \"gallery\"); }else{ $('#keyimg').attr(\"data-fancybox\", \"gallery\"); $('#keyimg_m').attr(\"data-fancybox\", \"exclude\"); } [\"1\", \"2\", \"3\"].forEach(number => { const id = `#img_gallery_flipad${number}${isMobile() ? '-m' : ''}`; const $element = $(id); if ($element.length && isMobile() !== $element.attr(\"id\").endsWith(\"-m\")) { $element.attr(\"id\", isMobile() ? `${id}-m` : id); } }); if (!isMobile() && $(\".share-box\").is(\":hidden\")) { $(\".share-box\").show(); } } function PreviousPos(sitename,index) { if(checkCookie()){ setCookie(\"PreviousPos\", sitename+\".\"+index, 10); } } function RelatedPos(sitename,index) { if(checkCookie()){ setCookie(\"RelatedPos\", sitename+\".\"+index, 10); } } function cckevent(hamhame,btn,lnk) { window.digitalData = {...ClickAA}; window.digitalData.click.outbound = lnk; //evar 16 window.digitalData.click.clickbutton = btn; //evar 6 window.digitalData.page.hamham = hamhame; //evar 44 if( typeof _satellite !== \"undefined\"){ _satellite.track(\"click\", window.digitalData); } ga_cd_dataE = {...ClickGA}; ga_cd_dataE[\"outbound_links\"] = lnk; //evar 16 ga_cd_dataE[\"clickbutton\"] = btn; //evar 6 ga_cd_dataE[\"hamham\"] = hamhame; //evar 44 dataLayer.push(ga_cd_dataE); } 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 更多 港聞 社會 政情 突發 時事熱話 娛樂 即時娛樂 影視圈 星級品味 中國 即時中國 大國外交 兩岸熱話 奇聞趣事 國際 即時國際 環球拆局 趣聞熱話 星島申訴王 放蛇直擊 我要讚佢 區區申訴 提防騙子 申訴熱話 人人申訴 財經 投資理財 宏觀經濟 商業創科 股市 ESG 區塊鏈 地產 樓市動向 新盤速遞 筍盤推介 海外置業 家居裝修 生活 飲食 好去處 旅遊 時尚購物 生活百科 Art Can 汽車 健康 食用安全 保健養生 減肥運動 醫生教室 教育 教育新聞 升學攻略 高等教育 學習教室 知識轉移 親子 體育 即時體育 足球世界 波盤王 專家點睇 大灣區 跨境理財 置業灣區 灣區教育 吃喝玩樂 馬經 馬圈快訊 名家專欄 晨操動態 TV 時事台 娛樂台 產經台 生活台 直播Live PLUS 專欄 企業 ST+ 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 旗下品牌\n星島網 星島電子報 頭條日報 The Standard 東周刊 親子王 caz buyer 東Touch PCM 電腦廣場 Oh!爸媽 JobMarket 頭條揾工 EDUPLUS 星島環球 頭條金融報 頭條馬網 星島頭條 資訊生活服務平台\n一APP生活「Sync」到 《星島頭條》流動應用程式(APP)是一個結合生活、新聞資訊、視頻、個人化功能及生活實用小工具的綜合平台。 了解更多 關於我們 聯絡我們 隱私政策聲明 使用條款 版權及免責聲明 幫助及反饋 我要爆料 Copyright © 2024 SingTao Ltd.All rights reserved. 主頁 生活 旅遊 深圳氣溫周末跌穿10℃！冷空氣來襲早晚寒冷+空氣乾燥 附4招保暖穿衣技巧 旅遊 更新時間：15:30 2024-12-13\n發佈時間：15:30 2024-12-13 字體大小 深圳氣溫跌穿10℃！根據 深圳天氣 指出，昨日（12日）深圳早上全市氣溫平均為13度至15度，比前一日急跌近攝氏4至6度；而受新一輪冷空氣影響，今個星期日（15日）預計氣溫更會下降至10度以下，有計劃北上深圳的朋友記得帶夠禦寒衣物，注意保暖！\n北上注意！深圳天氣周末氣溫跌穿10℃ 早晚寒冷乾燥 根據深圳市氣象局資料顯示，深圳市昨日（12）早上氣溫較前一日下降4度至6度，普遍為13度至15度；今日（13日）氣溫稍為回升至14度至17度，或有微量降雨。據當局預測，12月14至15日受冷空氣補充影響，雲量增多，氣溫將會進一步下降，15日最低氣溫將會跌至9度左右，早晚寒冷，風力清勁，沿海和高地最大陣風7至8级；至16日，早上起會轉為晴天乾燥，氣温亦回稍為回升，惟早晚仍然較冷。\n當局提醒，在冷空氣影響期間，由於早晚氣溫偏低，需注意添加衣物；南部沿海地區最大陣風可達7至8級，相關地區的人士需注意做好防風措施。\n冬天保暖必學！最強穿衣技巧抵抗嚴寒 點擊睇冬天最強穿衣法則： 延伸閱讀： 保暖方法｜10大禦寒增溫招數：玉米穿衣法/保暖內衣穿法選擇/蓋被方法/暖包怎樣用一文睇清 有計劃趁今個周末北上深圳的朋友，記得做好保暖措施！《星島頭條》記者早前亦精心整理冬季保暖穿衣技巧，幫助大家應對寒冷天氣，除了大家熟知的玉米式穿着法， 原來只要按照次序，4件衣服即可抵禦極寒天氣！ 點擊圖輯看詳情。\n資料來源： 深圳市氣象局\n文：LW\n同場加映： 深圳菊花展2024｜深圳3大菊花展12月開鑼 免費入場賞逾12萬株菊花花海 附交通攻略 ↓立即下載星島頭條App↓\n↓立即下載星島頭條App↓",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.eduplus.hk/",
+      "https://cazbuyer.my-magazine.me/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://weather.sz.gov.cn/qixiangfuwu/yubaofuwu/index.html",
+      "https://www.facebook.com/stheadlinehk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://www.jobmarket.com.hk/",
+      "https://www.youtube.com/c/SingTaoHeadline/",
+      "https://easttouch.my-magazine.me/main/",
+      "https://www.stnn.cc/",
+      "https://www.headlinejobs.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://www.googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://bit.ly/3Ol1S5H",
+      "https://paper.headlinefinance.hk/",
+      "https://www.ohpama.com/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://www.thestandard.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://weather.sz.gov.cn/qixiangfuwu/yubaofuwu/jinmingtianqiyubao/index.html",
+      "https://sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/plus-icon.svg",
+      "https://e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982?src=embed",
+      "https://www.instagram.com/singtaoheadline/",
+      "https://linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://www.weather.sz.gov.cn/qixiangfuwu/yubaofuwu/index.html",
+      "https://instagram.com/singtaoheadline/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://jobmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://easttouch.my-magazine.me/main",
+      "https://www.weather.sz.gov.cn/qixiangfuwu/yubaofuwu/jinmingtianqiyubao/index.html",
+      "https://sb.scorecardresearch.com/p",
+      "https://youtube.com/c/SingTaoHeadline/",
+      "https://www.apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.ohpama.com",
+      "https://www.youtube.com/c/SingTaoHeadline",
+      "https://www.sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://play.google.com/store/apps/details",
+      "https://facebook.com/stheadlinehk/",
+      "https://paper.headlinefinance.hk",
+      "https://www.cazbuyer.my-magazine.me/",
+      "https://www.headlinejobs.hk",
+      "https://www.eduplus.hk",
+      "https://thestandard.com.hk/",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216",
+      "https://ohpama.com/",
+      "https://www.e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982?src=embed",
+      "https://sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.jobmarket.com.hk",
+      "https://www.thestandard.com.hk",
+      "https://stnn.cc/",
+      "https://www.paper.headlinefinance.hk/",
+      "https://www.stnn.cc",
+      "https://headlinejobs.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://cazbuyer.my-magazine.me",
+      "https://www.googletagmanager.com/ns.html",
+      "https://googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk",
+      "https://www.bit.ly/3Ol1S5H",
+      "https://sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982",
+      "https://www.easttouch.my-magazine.me/main/",
+      "https://sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.instagram.com/singtaoheadline",
+      "https://www.facebook.com/stheadlinehk",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98",
+      "https://sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://eduplus.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://pcmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/plus-icon.svg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T09:56:39.515+02:00",
+    "updated": "2024-12-13T09:56:39.515+02:00"
+  },
+  {
+    "uuid": "6ffc5f5b8775a02ea686a39fa219c82e4b57ec50",
+    "url": "https://vietnamnet.vn/en/sinusitis-becoming-more-common-among-city-residents-2354379.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VietNamNet News",
+    "published": "2024-12-20T02:11:00Z",
+    "title": "Sinusitis becoming more common among city residents",
+    "text": "Sinusitis becoming more common among city residents (photo: Linh Thuy)\nAs the year ends and weather conditions change, the sinusitis condition of Bich Ngoc, 25, in HCM City, is worsening. She has suffered from facial pain, especially around the nose, forehead, and eye sockets.\n\"I have trouble in sleeping every night because of a stuffy nose and difficulty breathing. Every morning when I wake up, my nose has thick discharge, and sometimes I lose my sense of smell entirely,\" she complained.\nNgọc discovered she had sinusitis when she moved to HCM City to study at university about 7-8 years ago. At that time, she saw the doctor several times and took medicine, but the illness repeatedly recurs.\nIn recent years, Ngọc frequently experienced sinus pain and a runny nose. However, instead of treating it, she decided to \"live with it\" because she knows the illness is likely to recur if she continues living in HCM City.\n\"Doctors said the environment in HCM City contains a lot of smoke, dust, and allergens. Frequent exposure to these agents makes it difficult to improve my condition and even make it worse. Additionally, sitting all day long in an air conditioned room also makes my nose dry and more sensitive,\" Ngọc said.\nThe office worker said many co-workers of hers also contract sinusitis. One of them had to undergo surgery because of serious illness, which caused frequent headaches, affecting her life and work.\nAccording to Doctor Le Tran Quang Minh, Director of HCM City Otorhinorarynology Hospital, sinusitis is a common condition, especially in major cities.\n\"At our hospital, sinusitis cases account for about 30-35 percent of the total annual patient visits. The disease is increasingly common across various ages, particularly in severely polluted living environments,\" Minh said.\nSinusitis causes symptoms such as runny nose, headaches, and prolonged coughing, affecting health and reducing work efficiency.\nIf patients cannot be properly treated, the disease can lead to serious complications like meningitis, brain abscess, or even blindness due to impact on the eye sockets and nerves.\nMinh said when experiencing symptoms such as runny nose, headache or nasal breathing difficulties, individuals should seek medical consultation promptly for diagnosis and timely treatment.\nSinusitis patients should focus on daily nasal and throat hygiene, wear face masks when going out, and improve their immune systems through a reasonable diet.\nThose with allergic rhinitis should avoid allergens like seafood, beef, cold wind, and dust. If the condition persists, sufferers might consider treatment methods like specific desensitization. This method involves vaccine injections to help the body build antibodies, gradually reducing allergy severity over time.\nLinh Thuy",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->health organisation",
+      "Health->medical condition",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://vads.net.vn/Ad?z=93&w=1&domain={p}&isvast=0",
+      "https://vads.net.vn/Ad?z=92&w=1&domain={p}&isvast=0",
+      "https://www.vads.net.vn/Ad?z=93&w=1&domain={p}&isvast=0",
+      "https://vads.net.vn/Ad",
+      "https://www.vads.net.vn/Ad?z=92&w=1&domain={p}&isvast=0"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Linh Thuy",
+          "sentiment": "positive"
+        },
+        {
+          "name": "Bich Ngoc",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "HCM City",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T04:56:40.974+02:00",
+    "updated": "2024-12-20T04:56:40.974+02:00"
+  },
+  {
+    "uuid": "b3973e800e56e3818dba7d4dff5bd1da6c7614a0",
+    "url": "https://www.terra.com.br/esportes/futebol/internacional/rodinei-renova-contrato-com-o-olympiacos-ate-2027,58a0e185a5f235da1db298c23dcbb0ad4cw83p3f.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "jogada10",
+    "published": "2024-09-19T19:14:00Z",
+    "title": "Rodinei renova contrato com o Olympiacos até 2027",
+    "text": "Rodinei renova contrato com o Olympiacos até 2027 'Avión' tinha vínculo somente até o fim da temporada e ampliou seu compromisso. Brasileiro já tem um gol na temporada O Olympiacos anunciou nesta quinta-feira (19) a renovação de contrato com o lateral-direito Rodinei. O vínculo, que tinha validade até junho de 2025, foi estendido até o fim da temporada 2026/27. O clube grego e o brasileiro fizeram o anúncio em seus perfis nas redes sociais. Rodinei chegou ao Olympiacos no início de 2023, após fazer grande temporada pelo [Flamengo](https://www.terra.com.br/esportes/flamengo/). Afinal, foi um dos principais nomes das conquistas da Libertadores e Copa do Brasil em 2022. Inclusive, na competição nacional, bateu a última penalidade na decisão de pênaltis contra o [Corinthians](https://www.terra.com.br/esportes/corinthians/) e \"foi para a galera\" no Maracanã. Até o momento, Rodinei já disputou 75 partidas no futebol da Grécia, com quatro gols e dez assistências. No período, o lateral foi reserva em apenas três oportunidades e conquistou o título da Liga Conferência com o Olympiacos, o primeiro de um clube grego em uma competição continental na história. Na atual temporada, o Avión já balançou as redes. Foi justamente na estreia da equipe no Campeonato Grego contra o Volos NFC. Após quatro rodadas, o Olympiacos soma dez pontos e divide a liderança da competição com o AEK e o PAOK. Siga nosso conteúdo nas redes sociais: Bluesky, Threads, Twitter, Instagram e Facebook.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-20T00:35:38.878+03:00",
+    "updated": "2024-09-20T00:35:38.878+03:00"
+  },
+  {
+    "uuid": "695776b195ef13019b0836c061aa6946ae477b85",
+    "url": "https://www.militarytimes.com/news/your-navy/2024/01/18/aircraft-carrier-gerald-r-ford-returns-home-after-8-month-deployment/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sarah Sicard",
+    "published": "2024-01-18T19:52:00Z",
+    "title": "Aircraft carrier Gerald R. Ford returns home after 8-month deployment",
+    "text": "The aircraft carrier Gerald R. Ford arrived home in Naval Station Norfolk, Virginia, on Jan. 17 after completing a historic eight-month deployment.\nThe head of the Gerald R. Ford Carrier Strike Group, the carrier extended 76 days beyond its original deployment schedule, having moved to the Mediterranean Sea on the heels of the Oct. 7, 2023 attack on Israel by the Palestinian militant group Hamas.\nRELATED\n“Though extended, we were the right ship at the right time to answer the call, and our sailors performed admirably,” Capt. Rick Burgess, the Ford’s commanding officer, said\nin a release. “Ford sailors honored our namesake’s legacies of hard work, integrity, and courage.”\nWhile extended, the strike group was tasked with deterrence and supporting NATO allies in the region.\nOver the course of 239 days away from Norfolk, “the ship’s crew conducted 43 underway replenishments, logged more than 17,826 flight hours and 10,396 sorties, sailed more than 83,476 nautical miles, and safely transferred 20.7 million gallons of fuel with zero mishaps,” according to the release.\nThe amphibious assault ship Bataan, amphibious transport ship Mesa Verde, and dock landing ship Carter Hall are taking the carrier’s place in the Eastern Mediterranean Sea, Navy officials\npreviously told Navy Times.\nThe Ford has been underway since May. Its strike group consists of Carrier Air Wing Eight, Destroyer Squadron Two, the Ticonderoga-class cruiser Normandy, and the Arleigh Burke-class destroyers Ramage, McFaul, and Thomas Hudner.\nOver the course of the deployment, the carrier made port calls in Croatia, Greece, Italy, Norway and Turkey\n“We excelled during a very challenging deployment, demonstrating the capabilities of a U.S. Navy carrier strike group, assuring our partners and allies, and deterring our adversaries,” Rear Adm. Erik Eslich, the strike group’s commander, said in the release. “I am incredibly proud of every member of the strike group.”\nSarah Sicard is a Senior Editor with Military Times. She previously served as the Digitial Editor of Military Times and the Army Times Editor. Other work can be found at National Defense Magazine, Task & Purpose, and Defense News.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.navy.mil/Press-Office/News-Stories/Article/3648681/gerald-r-ford-carrier-strike-group-returns-from-historic-deployment/#:~:text=%2D%20USS%20Gerald%20R.%20Ford%20(,Forces%20Europe%20area%20of%20operations",
+      "https://navy.mil/Press-Office/News-Stories/Article/3648681/gerald-r-ford-carrier-strike-group-returns-from-historic-deployment/#:~:text=%2D%20USS%20Gerald%20R.%20Ford%20(,Forces%20Europe%20area%20of%20operations"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "gerald r. ford",
+          "sentiment": "negative"
+        },
+        {
+          "name": "rick burgess",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        },
+        {
+          "name": "gerald r. ford carrier strike group",
+          "sentiment": "none"
+        },
+        {
+          "name": "ford",
+          "sentiment": "none"
+        },
+        {
+          "name": "nato",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "naval station norfolk",
+          "sentiment": "none"
+        },
+        {
+          "name": "virginia",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "mediterranean sea",
+          "sentiment": "none"
+        },
+        {
+          "name": "norfolk",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-19T01:05:38.777+02:00",
+    "updated": "2024-01-19T01:05:38.777+02:00"
+  },
+  {
+    "uuid": "62c9cbfcd4fa4064db729353e1bd327cadb54f5f",
+    "url": "https://www.businessinsider.es/samsung-reducira-plantilla-44000-empleados-nivel-global-1404862",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Daniel Ballester",
+    "published": "2024-09-13T06:56:00Z",
+    "title": "Samsung reducirá su plantilla en 44.000 empleados a nivel global",
+    "text": "Samsung reducirá su plantilla en 44.000 empleados a nivel global\n- Las filiales europeas realizan ajustes para ganar en eficiencia operativa. La cifra de personal fuera de Corea del sur ronda los 147.000 efectivos.\n- El plan de reestructuración busca optimizar los recursos de la empresa y mejorar su competitividad a largo plazo.\nSamsung, el gigante surcoreano de la tecnología, ha anunciado un plan de reestructuración que contempla la eliminación de 44.000 empleos, lo que representa casi un tercio de su plantilla internacional. En concreto, el gigante tecnológico aplicará un ajuste de hasta el 30% de su personal en algunas divisiones fuera de Corea del Sur, según apunta Reuters.\nEste recorte se debe a una combinación de factores que incluyen el estancamiento de las ventas de smartphones, la creciente competencia en el mercado tecnológico y los efectos de la incertidumbre económica global.\nSecciones afectadas\nEl plan tiene intención de llevarse a cabo a finales de este año y afectará a puestos en América, Europa, Asia y África. El personal que más reducción verá en sus filas será el de ventas y marketing en un 15% aproximadamente y el personal administrativo hasta en un 30%.\nSamsung Electronics contaba en 2023 con 267.800 trabajadores, de los cuales 147.000, es decir, más de la mitad, trabajan en el extranjero, según su último informe de sostenibilidad.\nEn un comunicado corporativo, Samsung dijo que los ajustes de plantilla realizados en algunas operaciones en el extranjero eran rutinarios y tenían por objeto mejorar la eficiencia.\nA pesar de ser líder en la producción de chips y teléfonos móviles,\nSamsung enfrenta presiones crecientes por parte de competidores como Apple y empresas chinas, así como una desaceleración en la demanda de productos electrónicos tras el auge experimentado durante la pandemia.\nEl plan de reestructuración busca optimizar los recursos de la empresa y mejorar su competitividad a largo plazo. Samsung también ha señalado que esta decisión es parte de una estrategia más amplia que incluye la automatización de procesos, una mayor inversión en inteligencia artificial y 5G, y el fortalecimiento de su división de pantallas.\nSamsung en España\nSamsung, uno de los gigantes tecnológicos a nivel mundial, tiene una fuerte presencia en España, donde ha consolidado su posición como uno de los principales fabricantes de dispositivos móviles, electrodomésticos y productos electrónicos.\nEn los últimos años, la marca ha sido líder en el mercado español de smartphones,\ncon modelos de gama alta como el Galaxy S y el Galaxy Z Fold, pero también con dispositivos más accesibles, lo que le ha permitido captar una amplia cuota de mercado.\nLa compañía cuenta en España con cerca de 400 empleados, donde factura 1.823 millones de al año y tributa por valor de 2,6 millones a través del Impuesto de Sociedades. Según la empresa, la tecnológica genera un empleo directo e inducido de 16.150 puestos, con una aportación al PIB español de 841 millones. El anuncio del ajuste laboral se acompañó de alzas en bolsa del 2,2%.\nLa compañía siempre se ha centrado en adaptarse a las preferencias del consumidor español, con un enfoque en la sostenibilidad y el diseño inteligente en productos como televisores, electrodomésticos y wearables. Además, la marca ha reforzado su apuesta por el comercio online y las experiencias digitales para atraer a un público más conectado.\nEn el futuro, a pesar de los recortes, Samsung España deberá seguir innovando y adaptándose a un mercado en evolución, con la competencia de marcas como\nApple y Xiaomi, y el auge de tecnologías emergentes como la realidad aumentada.\nEste anuncio ha generado preocupación en los mercados, ya que Samsung es considerado un pilar fundamental en la economía global y un referente de innovación tecnológica. Sin embargo, la compañía mantiene su enfoque en la diversificación y la transformación digital para mantenerse competitiva en un panorama cada vez más desafiante.\nConoce\n[cómo trabajamos](/como-trabajamos) en BusinessInsider.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor",
+      "Corporate Governance and CSR"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-13T12:19:40.223+03:00",
+    "updated": "2024-09-13T12:19:40.223+03:00"
+  },
+  {
+    "uuid": "bf904d93e365e0c27cb4999588a065d019ca0076",
+    "url": "https://www.newsbreak.com/wjw-fox-8-news-cleveland-1589949/3712360572216-snow-causes-several-crashes-delays-through-the-day",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-12-12T16:43:00Z",
+    "title": "Snow causes several crashes, delays through the day",
+    "text": "By Danielle Langenfeld ,\n11 hours ago\n*The blog below has been archived and is no longer current*\n(WJW) – Lake effect snow made the Thursday morning commute treacherous with several crashes and some massive traffic delays reported across Northeast Ohio.\nFOX 8 Meteorologist Jenn Harcher said untreated surfaces were icy due to snow followed by a flash freeze. In addition, officials with the Ohio Department of Transportation explained in a post on X that salt isn’t as effective at extremely low temperatures, especially when there is less traffic and the sun isn’t out.\nThe bulk of today’s snowfall is expected along coastal Ashtabula County, with about 5-8″, while Lake and northern Geauga counties could get a few inches in some spots. In addition, wind chills will be in the single digits all day long.\nFORECAST: More snow for some. Sunshine for others. Cold for everyone. A LAKE EFFECT SNOW WARNING is in effect for Ashtabula County (both lakeshore and inland) until 7 a.m. Friday.\nA WINTER WEATHER ADVISORY is in effect for Geauga and Lake County until 7 a.m. Friday.\nBelow you can find live updates on traffic crashes and road conditions:\nCopyright 2024 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to Fox 8 Cleveland WJW.\n6",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://x.com/ODOT_Cleveland/status/1867196465443143925",
+      "https://fox8.com",
+      "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJhdXRvcGxheSI6ZmFsc2UsImV4cGVjdF9wcmVyb2xsIjp0cnVlLCJwbHVnaW5zIjp7ImNvbXNjb3JlIjp7ImNsaWVudElkIjoiNjAzNjQzOSIsImMzIjoiZm94OC5jb20iLCJ2ZXJzaW9uIjoiNS4yLjAiLCJ1c2VEZXJpdmVkTWV0YWRhdGEiOnRydWUsIm1hcHBpbmciOnsiYzMiOiJmb3g4LmNvbSIsIm5zX3N0X3N0Ijoid2p3IiwibnNfc3RfcHUiOiJOZXhzdGFyIiwibnNfc3RfZ2UiOiJXZWF0aGVyLFdlYXRoZXIsRGFpbHkgRm9yZWNhc3RzIiwiYzQiOiJ2b2QifX0sImRmcCI6eyJhZFRhZ1VybCI6Imh0dHBzOlwvXC9wdWJhZHMuZy5kb3VibGVjbGljay5uZXRcL2dhbXBhZFwvYWRzP3N6PTF4MTAwMCZpdT1cLzU2",
+      "https://fox8.com/weather/more-snow-for-some-sunshine-for-others-cold-for-everyone/?ipid=promo-link-block1",
+      "https://img.particlenews.com/image.php?url=3OoBrI_0xNf87T900",
+      "https://ohgo.com/cleveland?lt=41.45&ln=-81.6956&z=11&ls=incident,camera,delay,weather",
+      "https://fox8.com/weather/weather-alerts/",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3OoBrI_0xNf87T900",
+      "https://fox8.com/weather/weather-alerts",
+      "https://img.particlenews.com/image.php",
+      "https://www.w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJhdXRvcGxheSI6ZmFsc2UsImV4cGVjdF9wcmVyb2xsIjp0cnVlLCJwbHVnaW5zIjp7ImNvbXNjb3JlIjp7ImNsaWVudElkIjoiNjAzNjQzOSIsImMzIjoiZm94OC5jb20iLCJ2ZXJzaW9uIjoiNS4yLjAiLCJ1c2VEZXJpdmVkTWV0YWRhdGEiOnRydWUsIm1hcHBpbmciOnsiYzMiOiJmb3g4LmNvbSIsIm5zX3N0X3N0Ijoid2p3IiwibnNfc3RfcHUiOiJOZXhzdGFyIiwibnNfc3RfZ2UiOiJXZWF0aGVyLFdlYXRoZXIsRGFpbHkgRm9yZWNhc3RzIiwiYzQiOiJ2b2QifX0sImRmcCI6eyJhZFRhZ1VybCI6Imh0dHBzOlwvXC9wdWJhZHMuZy5kb3VibGVjbGljay5uZXRcL2dhbXBhZFwvYWRzP3N6PTF4MTAwMCZpdT1cLzU2",
+      "https://www.fox8.com/weather/more-snow-for-some-sunshine-for-others-cold-for-everyone/?ipid=promo-link-block1",
+      "https://fox8.com/weather/more-snow-for-some-sunshine-for-others-cold-for-everyone/",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3OoBrI_0xNf87T900",
+      "https://www.x.com/ODOT_Cleveland/status/1867196465443143925",
+      "https://w3.mp.lura.live/player/prod/v3/anvload.html",
+      "https://ohgo.com/cleveland",
+      "https://www.fox8.com/weather/weather-alerts/",
+      "https://www.img.particlenews.com/image.php?url=3OoBrI_0xNf87T900",
+      "https://www.ohgo.com/cleveland?lt=41.45&ln=-81.6956&z=11&ls=incident,camera,delay,weather",
+      "https://www.fox8.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T00:54:20.336+02:00",
+    "updated": "2024-12-13T00:54:20.336+02:00"
+  },
+  {
+    "uuid": "60e8ca73fdc905aeca5467911bc02d84cf43aec2",
+    "url": "https://www.thedailystar.net/environment/wild-life/news/save-the-bees-3545206",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@dailystarnews",
+    "published": "2024-02-16T03:52:00Z",
+    "title": "Save the bees | The Daily Star",
+    "text": "Save the bees A honey bee was recently seen feasting on the nectar of freshly bloomed Moringa flowers (shojne phul) in Beel Pabla area of Khulna's Dumuria upazila. With spring, comes the blossoming of different varieties of flowers. While for us humans, the flowers in full bloom can be a magnificent sight, their importance is far greater for honey bees – who, in turn, are essential to human survival. They are not only the greatest honey producers in the world, according to bee experts of the UN's Food and Agriculture Organization, a third of the world's food production depends on bees. Their greatest impact on humans is through the pollination of crops, while wildlife can benefit from honey bees through the pollination of many wildland plants. However, bee populations have been declining globally over recent decades due to deforestation, excessive use of pesticides, and air pollution – negatively affecting many of the Earth's ecosystems and posing a threat to a variety of plants critical to human well-being. To save the planet and humankind, the world must first save the bees.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "food and agriculture organization",
+          "sentiment": "none"
+        },
+        {
+          "name": "un",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "beel pabla",
+          "sentiment": "none"
+        },
+        {
+          "name": "khulna",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-16T06:16:06.924+02:00",
+    "updated": "2024-02-16T06:16:06.924+02:00"
+  },
+  {
+    "uuid": "b020e82e927296e130625ef675e727ad247141a9",
+    "url": "https://www.record.com.mx/nfl-bills/todo-por-el-equipo-buffalo-bills-piden-a-sus-aficionados-ayuda-para-palear-nieve-en-el",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@record_mexico",
+    "published": "2024-01-13T04:52:00Z",
+    "title": "¡Todo por el equipo! Buffalo Bills piden a sus aficionados ayuda para palear nieve en el estadio",
+    "text": "¡Todo por el equipo! Bills piden a sus aficionados ayuda para palear nieve en el estadio [Buffalo](https://www.record.com.mx/nfl-bills/sean-mcdermott-confirmo-que-gabe-davis-y-taylor-rapp-se-perderan-el-duelo-ante-steelers) ya se prepara para recibir a los [Acereros de Pittsburgh](https://www.record.com.mx/nfl-bills/sean-mcdermott-confirmo-que-gabe-davis-y-taylor-rapp-se-perderan-el-duelo-ante-steelers) en el juego de [Comodines de los Playoff ](https://www.record.com.mx/nfl-bills/sean-mcdermott-confirmo-que-gabe-davis-y-taylor-rapp-se-perderan-el-duelo-ante-steelers)de la NFL. El equipo se verá las caras con los de Pensilvania el domingo a las 12:00 horas del centro de México, sin embargo, previo al juego han solicitado la ayuda de sus aficionados. En un ambiente típico del norte de Estados Unidos, los Bills han recibido una nevada importante. A dos días del juego, el Highmark Stadium de Nueva York terminó sepultado por la nieve, por lo que el equipo necesita ayuda para dejarlo listo para el juego. “Los Buffalo Bills y Jani-King están pidiendo a cualquier persona interesada en palear nieve dentro del estadio para preparar el lugar para el partido local de los Bills contra los Steelers. Los paleadores pueden palear nieve durante la noche del sábado hasta el domingo por la mañana si es necesario. La tarifa de pago es de $20 por hora. Se proporcionarán alimentos y descansos de cortesía durante los turnos en un área cómoda y cálida. Aquellos interesados en palear deben tener una identificación con fotografía adecuada para trabajar”, reveló el equipo a través de un comunicado. De acuerdo con reportes del clima, durante las siguientes horas estarán cayendo entre 1 y 3 pulgadas de nieves por hora. Ante esta situación el equipo ha solicitado la ayuda para mantener el estadio en buenas condiciones de cara al partido del domingo. Los Bills estarán buscando seguir con su racha ganadora, sin embargo, tendrá que hacer algo que no logran en casi 100 años, vencer a Pittsburgh en un juego de Playoffs. We’re going to need some shovelers to get [@HighmarkStadm]ready for Sunday! How you can help: [https://t.co/Wvx1Pa1ILo] [pic.twitter.com/G6WcRiYofJ] — Buffalo Bills (@BuffaloBills) [January 12, 2024] [TAMBIÉN TE PUEDE INTERESAR: ¡JUNTOS DE NUEVO! RUSSELL WILSON Y PETE CARROLL SE REENCONTRARON](https://www.record.com.mx/nfl-seahawks/juntos-de-nuevo-russell-wilson-y-pete-carroll-se-reencontraron)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Weather",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://t.co/Wvx1Pa1ILo",
+      "https://www.t.co/Wvx1Pa1ILo"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-13T09:18:57.333+02:00",
+    "updated": "2024-01-13T09:18:57.333+02:00"
+  },
+  {
+    "uuid": "e8eed005fde10404d93daf79449512a7fb700188",
+    "url": "https://www.diariodesevilla.es/espana/koldo-pidio-ex-presidenta-adif_0_2003699105.html",
+    "ord_in_thread": 0,
+    "author": "Agencias",
+    "published": "2025-04-09T21:13:00Z",
+    "title": "Koldo pidió a la ex presidenta de Adif que fichara a la ex novia de Ábalos en Ineco: \"Si no José me corta los huevos\"",
+    "text": "Koldo pidió a la ex presidenta de Adif que fichara a la ex novia de Ábalos en Ineco: \"Si no José me corta los huevos\"\nLa UCO dice que el ex asesor \"se prevalió de su relación\" con el ex ministro para que Isabel Pardo de Vera la contratara\nLa UCO cree que Air Europa alquiló una casa para Ábalos como \"contraprestación\" por el rescate\nMadrid/La Unidad Central Operativa (UCO) de la Guardia Civil ha asegurado en un nuevo informe que el ex asesor Koldo García \"se prevalió de su relación\" con el ex ministro José Luis Ábalos para que la entonces presidenta de Adif, Isabel Pardo de Vera, hiciera efectiva la contratación de JRG, ex pareja de Ábalos, en la empresa pública Ineco. Los agentes recogen el mensaje: \"Solo una cosa que llamen a la chica para que inicie los trámites para la contratación como administrativa de yoseba que sino jose me corta los huevos\" (sic).\nEn el informe, la Benemérita precisa que Koldo García envió el mensaje a Pardo de Vera el 11 de febrero de 2019 y considera que su contenido, \"unido al cargo público ocupado tanto por su emisor como destinatario\", es \"revelador\" porque en esa fecha ella era presidenta de Adif, que forma parte del \"órgano rector y deliberante de Ineco\".\n\"En la petición de Koldo a Isabel queda reflejado que Koldo se ampara en Ábalos para consolidar así la fuerza y validez de sus peticiones\", añade. Según la UCO, cuando la presidenta de Adif recibe el mensaje \"desconoce quién es 'la chica'\" a la que se hace referencia, \"por lo que le solicita que en formato papel le remita sus datos a la oficina\".\nLa Guardia Civil apunta también que \"pasados unos días de ese mensaje\" García le consultó a Pardo de Vera si tenía alguna novedad sobre el contrato de JRG. En el atestado consta que ella respondió: \"Están ya con ello, mañana le llaman, no se puede dar de alta sin seguir un procedimiento\".\nSegún los agentes, la ex pareja de Ábalos avisó al entonces asesor ministerial de que no la habían llamado todavía. Así las cosas, García envió otro mensaje a Pardo de Vera, \"quien le informó de que terceras personas habían tratado de contactar con ella a lo largo de la mañana\".\nLa UCO asegura que Koldo García \"compartió\" el contacto de JRG a la presidenta de Adif. \"Casi cuatro horas más tarde, JRG le confirmó a Koldo que acababa de recibir esa llamada\", señala. La que fuera novia de Ábalos precisó: \"Pero es para una entrevista\".\n\"Y se lo dices a José y que llame a quien tenga que llamar\"\nLa Guardia Civil considera que dicha \"aclaración\" parece indicar que \"no contaban con tener que realizar un proceso de selección\". \"De hecho, Koldo le indicó a JRG que no acudiera\", señalan los agentes.\nEn los mensajes intervenidos consta que Koldo le dijo: \"Me encargo yo\". La UCO recalca además que el exasesor afirmó que la acompañaría a la evaluación y que \"sobre él recaía cualquier trámite a realizarse con esa empresa pública\".\nJRG incidió en que llevaba un mes esperando a ser contratada. \"Oye, y si se lo dices a Jose y que llame a quien tenga q llamar (...) Si es tan sencillo que él haga una llamada, seguro que si es por mí la hace encantado\", le dijo la novia de Ábalos a Koldo, quien aseguró que transmitiría el mensaje al entonces ministro.\nSegún la UCO, tras esa conversación García informó a la presidenta de Adif que él y JRG acudirían a las 16.50 horas, en vez de a las 15.30 como desde 'Ineco - Reclutamiento' se había convenido en el correo electrónico enviado a JRG. Pardo de Vera le contestó: \"Está confirmado ok\".\n\"Igualmente, el hecho de que poco tiempo después JRG le comunicara a Koldo que había recibido una llamada de personal de Ineco notificándole la modificación del horario y lugar de reunión indicaba que la petición de Koldo fue transmitida y ejecutada\", subrayan los agentes. De los mensajes intervenidos, la Benemérita deduce que la entrevista finalmente no se celebró ese día, sino el día siguiente.\nEl mensaje a Pardo de Vera: \"Te va a llamar José\"\nLos investigadores destacan también que García llegó a enviar un mensaje a la presidenta de Adif en el que le decía: \"Por cierto, te va a llamar Jose (...) Así que tranquila\".\nLa UCO recuerda que la contratación de JRG en Ineco se formalizó e informa al Supremo de que Pardo de Vera \"también participó en la renovación de su contrato\". Los agentes hacen referencia a un mensaje del 12 de noviembre de 2020 en el que, \"ante la vicisitud de la renovación\", la presidenta de la empresa ferroviaria le comentó a García que estaba pendiente: \"(...) Ya toca revisión de su contrato, lo habló contigo?\".\nEn el informe consta que el exasesor de Ábalos le contestó: \"Sí, sí, lo hablamos tú y yo\". Para la Guardia Civil, esto evidencia que \"este asunto lo abordaban conjuntamente\" Pardo de Vera y García.\nPropuesta para continuar en Tragsatec\nEl 17 de noviembre de 2020, JRG preguntó a García sobre la extensión de su contrato. Él se limitó a responderle \"Febrero\". No obstante, los agentes subrayan que Pardo de Vera avisó días después al asesor del Ministerio de Transportes de que la renovación parecía no ser viable.\n\"Isabel informó a Koldo de que Ignacio Zaldívar García, en ese momento director de gestión administrativa de la empresa Adif, había hablado con JRG y 'le había dejado entrever que es muy difícil encajarla en algún sitio'\", recoge el informe.\nSegún los agentes, Zaldívar luego le envió un correo electrónico en el que \"le comunicó la propuesta de continuar en la empresa pública Tragsatec durante seis meses\". JRG firmó con dicha compañía el 2 de marzo de 2021.\nLa UCO apunta que el presidente de Tragsa, Jesús Casas, dijo ante la comisión de investigación del Senado sobre el 'caso Koldo' que la contratación respondía a \"un encargo a medio propio de Adif\".\n\"Ya no hace falta vayas más\"\nEn el informe, la Guardia Civil incide también en que, según los mensajes intervenidos, \"JRG no habría asistido a su puesto de trabajo en Ineco\" por intermediación de García. Los agentes señalan que Koldo le dijo a la novia de Ábalos que tras un primer encuentro no tenía que volver a acudir a su puesto de trabajo: \"Contesta al correo, dile que el martes vuelves de viaje (...) Y nos pasamos y ya no hace falta que vallas más\" (sic).\nLa UCO apunta además que JRG intentó hacer uso de la tarjeta de comida que ofrece Ineco a sus trabajadores. \"(...) Seguro q la tarjeta estará en algún sobre donde hayamos puesto que trabajo\", dijo la joven a García para luego añadir: \"Dame una dirección y un teléfono porq no sé dónde trabajo\".\nEl entonces asesor de Ábalos le indicó que pusiera la dirección de trabajo de Joseba García, su hermano y jefe la joven en Ineco, quien \"contribuyó a ocultar que JRG no comparecía a su puesto de trabajo\".\nDe las conversaciones analizadas, los agentes también concluyen que Joseba García \"se encargó de cumplimentar los partes de trabajo mensuales de JRG\" y que ambos se \"coordinaban\" para que ella \"registrara cada día una jornada laboral que no había sido realizada\".\nSegún la Guardia Civil, JRG aseguró que no le preocupaba lo que pudiese suceder con su trabajo en Ineco y que, en todo caso, les debería preocupar a Koldo y Joseba. Los agentes aseguran que la joven tampoco acudió a su puesto de trabajo en Tragsatec.\nEn el marco del informe, la UCO insiste en que las evidencias intervenidas en la causa permiten apuntar también a \"la existencia de un vínculo de carácter económico entre (el empresario investigado Víctor de) Aldama y Ábalos, sustentado en el pago del alquiler de una vivienda de JRG\".\nPara los agentes, el pago mensual del piso de Plaza España, en Madrid, sería una \"contraprestación económica\" al exministro de Transportes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "topics": [
+      "Politics->government policy",
+      "Politics->political process",
+      "Crime, Law and Justice->corruption",
+      "Social Issue->dating and relationships",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "José Luis Ábalos",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Isabel Pardo de Vera",
+          "sentiment": "none"
+        },
+        {
+          "name": "Koldo García",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Ineco",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Adif",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Guardia Civil",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Air Europa",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "UCO",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:21:41.355+03:00",
+    "updated": "2025-04-10T00:21:41.355+03:00"
+  }
+]

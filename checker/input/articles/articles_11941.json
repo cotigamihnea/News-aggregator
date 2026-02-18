@@ -1,0 +1,473 @@
+[
+  {
+    "uuid": "ec38afadb31bee3d8102945669a0951702a07fa3",
+    "url": "https://www.merca2.es/2025/08/14/guardia-civil-alerta-sobre-la-wifi-publica-mas-peligrosa-de-espana-consejos-para-proteger-tus-datos-2222480/",
+    "ord_in_thread": 0,
+    "author": "@diegoservente",
+    "published": "2025-08-14T07:20:00Z",
+    "title": "Guardia Civil alerta sobre la WiFi pública más peligrosa de España: consejos para proteger tus datos",
+    "text": "La comodidad de una red WiFi gratuita en una cafetería o un aeropuerto esconde un peligro que la mayoría desconoce por completo. Te conectas para mirar el correo o las redes sociales y, sin que te des cuenta, un desconocido puede estar leyendo tus mensajes privados en tiempo real , una vulnerabilidad inherente a casi cualquier conexión inalámbrica pública que no esté protegida. Lo peor es que no necesitas ser un objetivo importante ni una celebridad; basta con ser un usuario confiado que busca un respiro en su tarifa de datos. La trampa es sutil, silenciosa y, como hemos podido comprobar, terriblemente efectiva. ¿Crees que a ti no te pasaría?\nLa demostración de cómo vulnerar una red WiFi en directo fue escalofriante y nos dejó con una sensación de vértigo digital difícil de olvidar. El experto en ciberseguridad, con solo un teléfono móvil y un pequeño dispositivo en el bolsillo, tardó menos de un minuto en ejecutar el ataque, y el hacker clonó la red del local y en menos de un minuto tenía acceso a las contraseñas guardadas en el móvil de la víctima , todo gracias a la confianza ciega en ese punto de acceso gratuito que prometía internet sin coste. Verlo en acción cambia para siempre la forma en que miras esa pequeña icona de la cobertura en tu pantalla. Es un riesgo real que ignoramos cada día.\n¿EL CAFÉ MÁS CARO DE TU VIDA? LA TRAMPA ESTÁ SERVIDA Fuente Freepik Imagina la escena, porque seguro que la has vivido mil veces: estás de viaje, esperando tu vuelo, o simplemente tomándote un respiro en una terraza, y ves una red abierta con un nombre familiar como «Aeropuerto_Gratis» o «Cafeteria_WIFI». Es una invitación demasiado tentadora para ignorarla, sobre todo cuando la cobertura 4G flaquea, pero esa red podría ser una trampa creada por alguien sentado a pocos metros de ti , esperando pacientemente a que piques el anzuelo y te conectes a su señuelo digital. Para ti es solo internet gratis; para él, es una puerta abierta de par en par a toda tu vida privada y profesional.\nEl problema de fondo con este tipo de WiFi público es que, por defecto, tus datos viajan «al desnudo» a través del aire, como postales sin sobre. Cualquier información que envíes o recibas, desde un simple ‘hola’ por WhatsApp hasta la clave de tu banca online o los datos de tu tarjeta de crédito, puede ser interceptada y leída por cualquiera con los conocimientos técnicos mínimos sin que salte ninguna alarma en tu dispositivo . No hay avisos, no hay alertas. Simplemente ocurre, en un silencio digital que esconde el verdadero peligro de estas conexiones tan cotidianas y aparentemente inofensivas.\nEL ATAQUE DEL «GEMELO MALVADO»: ASÍ ROBAN TUS DATOS EN SEGUNDOS Fuente Freepik La técnica que presenciamos, y una de las más comunes en lugares públicos, se conoce en el argot de la seguridad como ‘Evil Twin’ o ‘gemelo malvado’. Su ejecución es brillante por su simplicidad. El ciberdelincuente crea un punto de acceso WiFi con un nombre idéntico o muy similar al legítimo del establecimiento (por ejemplo, ‘HOTEL_PLAZA_WIFI’ en lugar de ‘Hotel_Plaza_WIFI’), pero esta nueva señal, a menudo más potente para atraer a los dispositivos, está completamente bajo su control . Tu móvil o portátil, diseñado para hacerte la vida más fácil, se conectará a ella sin preguntar.\nEn cuanto tu dispositivo se conecta a la red impostora, el desastre ya ha comenzado aunque todo parezca funcionar con normalidad. Tu móvil, en su afán por conectarse automáticamente a redes conocidas o abiertas, podría elegir la señal falsa por ser más potente, y desde ese instante todo tu tráfico de internet pasa a través del ordenador del atacante , que actúa como un discreto intermediario mientras registra cada pulsación, cada contraseña y cada página que visitas. Es como si un carterista te hubiera puesto un espejo a la espalda para ver el PIN que marcas en el cajero, pero a escala digital y mucho más devastador.\nNO SOLO ES TU BANCO: LAS FOTOS, LOS MENSAJES Y HASTA TU IDENTIDAD Fuente Freepik Mucha gente piensa que el único riesgo al usar una WiFi pública es el robo de los datos bancarios, pero el botín que buscan los delincuentes es mucho más amplio y, a veces, más valioso. Piensa en el acceso a tus redes sociales, tus correos electrónicos personales y de trabajo, tus conversaciones privadas, las fotos de tu galería o incluso la posibilidad de que activen la cámara o el micrófono de tu dispositivo de forma remota para espiarte en tiempo real. El control que pueden llegar a tener es absoluto, una invasión total de la privacidad que va mucho más allá del dinero.\nEl verdadero peligro de una conexión WiFi insegura es la suplantación de identidad, un calvario personal y burocrático. Con las claves de tu correo electrónico y alguna red social importante, un atacante tiene la llave maestra para empezar a solicitar créditos a tu nombre, contratar servicios o estafar a tus propios contactos haciéndose pasar por ti. Resolver un embrollo de este calibre puede llevar meses o incluso años de peleas con bancos, administraciones y empresas, un desgaste emocional y económico que se podría haber evitado con un simple gesto de precaución antes de conectarse.\nLA SOLUCIÓN QUE LOS EXPERTOS LLEVAN AÑOS RECOMENDANDO (Y MUCHOS IGNORAN) Fuente Freepik Llegados a este punto de inquietud, la pregunta es obvia: ¿estamos condenados a no usar nunca más una red pública? ¿Debemos vivir con miedo cada vez que salimos de casa? Afortunadamente, no. La respuesta es sorprendentemente sencilla, accesible y se llama VPN. Una VPN (Red Privada Virtual, por sus siglas en inglés) es una aplicación que crea un túnel cifrado y seguro para tu conexión a internet, de modo que aunque alguien intercepte tus datos, solo verá un galimatías de código informático completamente indescifrable . Es como meter tus postales dentro de un sobre blindado antes de enviarlas.\nLejos de ser una herramienta para informáticos o hackers, usar una VPN hoy en día es tan fácil como abrir una aplicación en tu móvil o portátil y pulsar un gran botón de ‘Conectar’. Es un proceso que no lleva más de cinco segundos. Una vez activada, puedes usar cualquier red WiFi pública con la tranquilidad de saber que toda tu actividad online, desde la consulta del saldo hasta la última serie que ves, está blindada y es anónima , totalmente invisible para los espías que puedan estar al acecho en esa misma red. Transforma una conexión vulnerable en una fortaleza personal.\nUN SIMPLE GESTO PARA BLINDAR TU VIDA DIGITAL PARA SIEMPRE Fuente Freepik Este pequeño gesto de activar la VPN antes de conectarte a un WiFi desconocido debería ser un acto reflejo, tan automático como ponerte el cinturón de seguridad al subir al coche o cerrar la puerta de casa con llave al salir . No se trata de caer en la paranoia, sino de aplicar una capa de higiene digital básica en un mundo donde nuestra vida entera, nuestros secretos, recuerdos y finanzas, está volcada en nuestros dispositivos móviles y portátiles . Ignorar estos riesgos ya no es una opción, es una imprudencia que puede salirnos muy, muy cara.\nLa próxima vez que estés en un hotel, una biblioteca o una estación de tren, tentado por esa prometedora y brillante señal de WiFi gratuita, acuérdate de la demostración del hacker y de su escalofriante facilidad para destrozar la privacidad de alguien. Acuérdate de que con solo dos toques en la pantalla puedes levantar un muro digital infranqueable que te proteja de miradas indiscretas. Al final, la seguridad no consiste en dejar de vivir o de usar la tecnología , sino en usarla de forma inteligente, porque la mejor defensa es siempre la que se anticipa al ataque , convirtiendo cualquier conexión inalámbrica en una fortaleza privada e inexpugnable.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->social sciences",
+      "Social Issue->communities",
+      "Social Issue->social problem",
+      "Social Issue->demographics",
+      "Economy, Business and Finance->business information",
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->consumer goods"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.que.es/gente/",
+      "https://es.wikipedia.org/wiki/Wifi",
+      "https://www.que.es/salir/",
+      "https://que.es/salir/",
+      "https://que.es/gente/",
+      "https://www.que.es/salir",
+      "https://www.es.wikipedia.org/wiki/Wifi",
+      "https://www.que.es/gente"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T12:06:05.486+03:00",
+    "updated": "2025-08-14T12:16:32.000+03:00"
+  },
+  {
+    "uuid": "11931511e0dd9f649191e0886afbc033c3a6e372",
+    "url": "https://menafn.com/1107670516/Govt-Equipping-Armed-Forces-With-Latest-Weapons-To-Face-Challenges-Rajnath-Singh",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MENAFN",
+    "published": "2023-12-30T09:00:00Z",
+    "title": "Govt Equipping Armed Forces With Latest Weapons To Face Challenges: Rajnath Singh | MENAFN.COM",
+    "text": "( MENAFN - IANS) New Delhi, Dec 30 (IANS) Defence Minister Rajnath Singh said on Saturday that the government is equipping the armed forces with the latest weapons and platforms to protect the nation from threats.\nSpeaking during an event organised by an NGO in Surat to honour the valour and sacrifices of the fallen heroes and extend support to their families, Singh assured the nation that the military is ready to face every challenge and it will give a befitting reply to anyone who tries to cast an evil eye.\n\"It is the collective responsibility of the nation to ensure the welfare of the families of the fallen heroes, serving and retired soldiers as well as their dependents, whose unmatched sacrifice, commitment and patriotism is the bedrock of a safe and prosperous India,\" the Defence Ministry said.\nPaying rich tributes to the bravehearts, Singh asserted that the nation will forever remain indebted to the soldiers who safeguard the unity, integrity and sovereignty of the motherland.\nHe commended the Armed Forces personnel for successfully discharging their duties with the government's 'India first, security first' approach, stating that the people are able to contribute to nation building as they know that the borders are secure. He also expressed gratitude to the family members for producing“these diamonds whose shine illuminates the entire country”.\nThe Defence Minister drew parallels between the process of creating diamonds and the transformation of youth into extraordinary soldiers.“Just as very high temperature and pressure transforms carbon atoms into diamonds, the challenging circumstances, under which the soldiers serve the nation, shape the ordinary youth into diamonds. With their shine, these diamonds then protect us from darkness,” he said.\nSingh also took the opportunity to encourage business leaders to prioritise nation building over personal gains, emphasising that money should be viewed as a means and not the ultimate life goal. He also spoke of the historical significance of Gujarat and its role in the progress of the nation.\nHe said,“Gujarat is the birthplace of prominent figures such as poet Narsingh Mehta who united the then society through his devotion and literature; Father of the Nation Mahatma Gandhi whose ideals and principles ensured our freedom, Iron Man of India Sardar Vallabhbhai Patel who strengthened the unity and integrity of the nation, and Prime Minister Narendra Modi who has raised India's stature at the international level and has taken the nation forward on the path of prosperity and security. Last but not the least, it is also the birthplace of countless soldiers who bolster the security of our borders by risking their lives.”\n--IANS\ngcb/sha\nMENAFN30122023000231011071ID1107670516\nLegal Disclaimer:\nMENAFN provides the information “as is” without warranty of any kind. We do not accept any responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article. If you have any complaints or copyright issues related to this article, kindly contact the provider above.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Science and Technology",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://ians.in/detail/equipping-armed-forces-with-latest-weaponry-to-face-challenges-defence-minister--20231230211805/",
+      "https://ians.in/detail/equipping-armed-forces-with-latest-weaponry-to-face-challenges-defence-minister--20231230211805",
+      "https://www.ians.in/detail/equipping-armed-forces-with-latest-weaponry-to-face-challenges-defence-minister--20231230211805/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "rajnath singh",
+          "sentiment": "negative"
+        },
+        {
+          "name": "singh",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ians",
+          "sentiment": "negative"
+        },
+        {
+          "name": "armed forces",
+          "sentiment": "none"
+        },
+        {
+          "name": "defence ministry",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "surat",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T20:18:47.299+02:00",
+    "updated": "2023-12-30T20:18:47.299+02:00"
+  },
+  {
+    "uuid": "f2e0cb63c2934d7d589b1f6fae1a0a6b74ac7aff",
+    "url": "https://awfulannouncing.com/nhl/jeff-marek-sportsnet-departure.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chris Novak",
+    "published": "2024-07-25T18:00:00Z",
+    "title": "Jeff Marek ‘no longer performing duties’ at Sportsnet",
+    "text": "Longtime hockey radio and television personality Jeff Marek has left Sportsnet. The Daily Hive reported the news on Thursday.\nThe Daily Hive said Marek departed due to “unconfirmed draft reasons.”\nA quote cited in the article and posts later by Jonah Siegel said that Marek was “at the 2024 NHL Draft, and then he wasn’t,” and wouldn’t go into any further details at the moment on his departure from the network.\nDetails are scarce but multiple sources tell me that for unconfirmed draft reasons , @JeffMarek will likely be no longer performing duties at Sportnet hockey. Details to follow. This would appear to include his podcast duties too.\n— jonah (@yyzsportsmedia) July 25, 2024\nThere is a ton of speculation as to the cause of the apparent seperation, however all we can confirm is he was at draft & then he wasn’t hasn’t been heard from since & told most likely won’t be back either .\n— jonah (@yyzsportsmedia) July 25, 2024\nMarek had a longtime presence on Sportsnet in Canada, sometimes anchoring the network and having a presence on Sportsnet Radio .\nIt’s unclear what led to his departure now. Siegel’s reference to intensifying speculation suggests that this situation could be much murkier than it appears. Marek’s tenure at the prominent Canadian sports network has ended whatever the case.\n[ Jonah Siegel ; Daily Hive ]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/yyzsportsmedia/status/1816503326521115104?ref_src=twsrc%5Etfw",
+      "https://twitter.com/yyzsportsmedia/status/1816478548078862721?ref_src=twsrc%5Etfw",
+      "https://twitter.com/JeffMarek?ref_src=twsrc%5Etfw",
+      "https://dailyhive.com/vancouver/jeff-marek-gone-sportsnet",
+      "https://www.twitter.com/JeffMarek?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/yyzsportsmedia/status/1816478548078862721?ref_src=twsrc%5Etfw",
+      "https://twitter.com/yyzsportsmedia/status/1816478548078862721",
+      "https://www.dailyhive.com/vancouver/jeff-marek-gone-sportsnet",
+      "https://twitter.com/JeffMarek",
+      "https://www.twitter.com/yyzsportsmedia/status/1816503326521115104?ref_src=twsrc%5Etfw",
+      "https://twitter.com/yyzsportsmedia/status/1816503326521115104"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sportsnet",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jeff marek",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jeff marek ‘",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "jonah siegel",
+          "sentiment": "none"
+        },
+        {
+          "name": "marek",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "sportsnet longtime hockey radio",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nhl",
+          "sentiment": "none"
+        },
+        {
+          "name": "sportsnet radio",
+          "sentiment": "none"
+        },
+        {
+          "name": "daily hive",
+          "sentiment": "none"
+        },
+        {
+          "name": "sportnet",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "canada",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-26T01:47:41.495+03:00",
+    "updated": "2024-07-26T01:47:41.495+03:00"
+  },
+  {
+    "uuid": "a212e75cf489a76a1ec3e66fe912adaae03fb75a",
+    "url": "https://www.dnaindia.com/web-stories/lifestyle/7-foods-to-boost-estrogen-naturally-in-women-tofu-sesame-flax-seeds-peaches-soybean-dried-fruits-1712768509388",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@dna",
+    "published": "2024-04-11T17:41:00Z",
+    "title": "7 foods to boost estrogen naturally",
+    "text": "Apr 11, 2024, 10:41 PM IST Estrogen is the main female sex hormone that has many functions. It plays a key role in the female reproductive system. Eating certain foods, rich in phytoestrogen, can increase estrogen levels in your body. Phytoestrogens may function similarly to estrogen. Soybean: It is rich in phytoestrogens known as isoflavones which can produce estrogen-like activity in the body. Dried fruits: Dates, prunes and dried apricots are potent sources of phytoestrogens. Flax seeds: They are rich in lignans, chemical compounds that function as phytoestrogens. Sesame seeds: They are also rich in phytoestrogens and have other health benefits too. Peaches: Packed with vitamins and minerals, they are also rich in phytoestrogens known as lignans. Berries including strawberries and blackberries are loaded with vitamins, minerals and phytoestrogens. Tofu: It is made from coagulated soy milk and is a rich source of phytoestrogens. Disclaimer: This content including advice gives generic information only and is in no way a substitute for qualified medical opinion.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-12T01:09:58.190+03:00",
+    "updated": "2024-04-12T01:09:58.190+03:00"
+  },
+  {
+    "uuid": "cc7575556e65abdb51b336209a8ab08edb2eadc3",
+    "url": "https://ground.news/article/a-weathered-celebration-augustas-new-years-eve-climate",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ground News",
+    "published": "2023-12-30T04:29:00Z",
+    "title": "Ground News - A Weathered Celebration: Augusta’s New Year’s Eve Climate",
+    "text": "Summary by Ground News The average high temperature for the day is 58 degrees. Augusta has seen some extreme temperatures on New Year's Eve, both high and low. The warmest one was in 1984, when the mercury soared to 80 degrees. The wettestOne was in 1981, when we got a whopping 2.36 inches of rain. Share menu More\nFilters 1 Articles 1 Articles All Left Center Right\nWJBF Center High Factuality Media Conglomerate: Nexstar Media Group A Weathered Celebration: Augusta’s New Year’s Eve Climate Hey, are you ready to say goodbye to 2023 and hello to 2024? I know I am! But before we pop the champagne and watch the fireworks, let’s talk about the weather. How will it affect our New Year’s Eve plans in Augusta? Well, I did some digging and found out some interesting facts about the climate history and the forecast for this year. Average Highs and Overall Trends You might think that New Year’s Eve is always chilly in Augusta, but that’s not…\n2 hours ago Read Full Article\nWJBF Center High Factuality Media Conglomerate: Nexstar Media Group\nA Weathered Celebration: Augusta’s New Year’s Eve Climate Hey, are you ready to say goodbye to 2023 and hello to 2024? I know I am! But before we pop the champagne and watch the fireworks, let’s talk about the weather. How will it affect our New Year’s Eve plans in Augusta? Well, I did some digging and found out some interesting facts about the climate history and the forecast for this year. Average Highs and Overall Trends You might think that New Year’s Eve is always chilly in Augusta, but that’s not…\n2 hours ago Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://www.wjbf.com/weather/a-weathered-celebration-augustas-new-years-eve-climate/?utm_source=ground.news&utm_medium=referral",
+      "https://www.wjbf.com/weather/a-weathered-celebration-augustas-new-years-eve-climate/",
+      "https://wjbf.com/weather/a-weathered-celebration-augustas-new-years-eve-climate/?utm_source=ground.news&utm_medium=referral"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "augusta",
+          "sentiment": "negative"
+        },
+        {
+          "name": "wjbf center high factuality media conglomerate",
+          "sentiment": "none"
+        },
+        {
+          "name": "nexstar media group",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "augusta",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T08:04:32.776+02:00",
+    "updated": "2023-12-30T08:04:32.776+02:00"
+  },
+  {
+    "uuid": "06cec81fa464b2d1941b47338f31a301cc5ebded",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/stock-watch/ashok-leyland-shares-2-11-as-nifty-drops/articleshow/117112576.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "-",
+    "published": "2025-01-10T08:38:00Z",
+    "title": "Ashok Leyland Share Price: Ashok Leyland shares 2.11% as Nifty drops - The Economic Times",
+    "text": "NEW DELHI: Shares of Ashok Leyland Ltd. traded 2.11 per cent in Friday's trade at 01:38PM (IST). Around 300,728 shares changed hands on the counter. The scrip opened at Rs 214.15 and touched an intraday high and low of Rs 214.45 and Rs 207.60, respectively, in the session so far. Shares of the company of Ashok Leyland Ltd. quoted a 52-week high of Rs 264.70 and a 52-week low of Rs 157.65. As per BSE, the total market cap of the Ashok Leyland Ltd. stood at Rs 61797.11 crore at the time of writing this report. Key Financials The company reported consolidated net sales of Rs 11261.8400 crore for the quarter ended 30-Sep-2024, 4.72 per cent from previous quarter's Rs 10754.4300 crore and 1.76 per cent from the year-ago quarter's Rs 11463.0300 crore. The net for latest quarter stood at Rs 705.64 crore, 34.15 per cent from the same quarter a year ago. Shareholding pattern As of 30-Sep-2024, domestic institutional investors held 5.34 per cent stake in the firm, while foreign institutional investors held 24.2 per cent and the promoters 0.0 per cent. Valuation ratio According to BSE data, the stock traded at a price-to-earnings multiple of 23.51 and a price-to-book ratio of 5.58. A higher P/E ratio shows investors are willing to pay a higher price because of better future growth expectations. Price-to-book value indicates the inherent value of a company and is the measure of the price that investors are ready to pay even for no growth in the business. Ashok Leyland Ltd. belongs to the Auto - Cars/UV/CV industry.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->manufacturing and engineering",
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->business reporting and performance",
+      "Science and Technology->economics"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Ashok Leyland",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Ashok Leyland Ltd.",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T10:39:21.276+02:00",
+    "updated": "2025-01-10T10:39:21.276+02:00"
+  },
+  {
+    "uuid": "4ffd02d5ca180233a436a9967680750cbcdae258",
+    "url": "https://www.miragenews.com/strong-plan-slam-dunk-for-basketball-1195323",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mirage News",
+    "published": "2024-03-14T10:52:00Z",
+    "title": "Strong Plan Slam Dunk For Basketball | Mirage News",
+    "text": "Under our 2030 Strong Plan for Tasmania's Future, basketballers in northern Tassie are set to receive a slam dunk. Liberal Candidate for Bass, Rob Fairs said that basketball is a growing sport with more than 3,500 registered participants across 630 teams. \"We know that lack of courts is one of the biggest barriers to Tasmanians playing basketball,\" Mr Fairs said. \"This is why I am proud to announce that a re-elected majority Liberal Government will invest $21.5 million to reinvigorate the Elphin Sports Centre. \"We want to see the nearly 4,000 games of community basketball played in Launceston each year supported and thriving. \"We will do this by not only delivering an upgrade to Elphin - our $43.6 million development of the Hub at Mowbray will mean that even as Launceston grows our sports can keep up too. \"Under our 2030 Strong Plan for Tasmania's Future we're going to keep supporting local sports by making sure that they have the facilities needed to play on!\" [here](/strong-plan-slam-dunk-for-basketball-1195323/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Sport"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "tassie",
+          "sentiment": "negative"
+        },
+        {
+          "name": "rob fairs",
+          "sentiment": "none"
+        },
+        {
+          "name": "mowbray",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "liberal candidate for bass",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "tasmania",
+          "sentiment": "none"
+        },
+        {
+          "name": "elphin",
+          "sentiment": "none"
+        },
+        {
+          "name": "launceston",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-15T00:12:41.329+02:00",
+    "updated": "2024-03-15T00:12:41.329+02:00"
+  },
+  {
+    "uuid": "f7f1de55c83a2e5026f212ea321936976826f285",
+    "url": "https://caracol.com.co/2024/08/30/carlos-alcaraz-sufre-la-peor-derrota-de-su-carrera-en-gran-slams-eliminado-del-us-open",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP\"/>",
+    "published": "2024-08-30T12:59:00Z",
+    "title": "Carlos Alcaraz resultado HOY US Open : Carlos Alcaraz sufre la peor derrota de su carrera en Gran Slams: eliminado del US Open",
+    "text": "¡Palazo en el US Open 2024! Carlos Alcaraz se despidió en la segunda ronda del certamen (Último Grand Slam del año), luego de caer con parciales 6-1, 7-5 y 6-4 con el neerlandés Botic van de Zandschulp , número 74 del ránking mundial. Se trata de su peor derrota en una gran competición.\nBotic van de Zandschulp just knocked Carlos Alcaraz out of the US Open! pic.twitter.com/QK3ZrkoPgx\n— US Open Tennis (@usopen) August 30, 2024 El español encadenaba 15 partidos ganados seguidos en torneos de Grand Slam y aspiraba a ser el tercer tenista en encadenar victorias en Roland Garros, Wimbledon y el US Open, tras su ídolo Rafael Nadal (2010) y el mítico Rod Laver (1969 ). Ahora bien, la racha acabó hecha añicos en una noche aciaga en la que estuvo completamente a merced de Van de Zandschulp , un jugador sin títulos de ATP y con los cuartos de final del US Open en 2021 como mejor resultado en un Grand Slam.\n“Fue una lucha contra mí mismo. En el tenis juegas contra alguien que quiere lo mismo que tú, ganar el partido, pero hoy en mi mente estaba jugando contra el oponente y contra mí mismo. Fueron muchas emociones que no pude controlar ”, reconoció Alcaraz en un ejercicio de autocrítica en la sala de prensa.\n“No estoy bien” A sus 21 años, el prodigio español lucía una fiabilidad a prueba de bombas en los Grand Slams, con nueve torneos consecutivos alcanzando como mínimo los octavos de final. La última vez que el jugador de El Palmar se despidió en una segunda ronda de un torneo grande fue en 2021, el año en que comenzó a competir en los cuadros principales, frente al segundo sembrado de Wimbledon, Daniil Medvedev .\nGracias, Carlitos 🫶🏼 Nos vemos en la siguiente pic.twitter.com/YWdwo26OIO\n— US Open Tennis (@usopen) August 30, 2024 El US Open, además, es un escenario muy especial para Alcaraz donde en 2022 conquistó su primer Grand Slam y se erigió en el número uno más joven de la historia. Pero en esta ocasión el apoyo incondicional del público de Flushing Meadows no le sirvió para recuperarse de su desgaste emocional, después de grandes decepciones sobre todo en los Juegos Olímpicos de París.\nTras París, Alcaraz fue apeado en su estreno en el Masters 1000 de Cincinnati y por primera vez se le vio destrozar una raqueta contra la pista de rabia. “El calendario del tenis es tan apretado. Me tomé un pequeño descanso después de los Juegos y pensé que fue suficiente pero probablemente vine aquí sin tanta energía como la que pensaba ”, afirmó.\nActuación irreconocible Las primeras señales de alarma saltaron en la mayor pista del mundo cuando Alcaraz entregó el primer set en sólo 31 minutos , sin lograr un solo golpe ganador, frente a un Van de Zandschulp muy seguro al servicio y la devolución. “Traía mucha confianza del último partido, en el que jugué muy sólido, y hoy desde el primer golpe creí que tenía una oportunidad”, afirmó el neerlandés.\nLe puede interesar:\nETAPA 12 clasificación general Vuelta a España 2024: Así quedó Tejada y otros colombianos ¡Erica María Castaño gana el segundo oro de Colombia en los Juegos Paralímpicos! En la segunda manga el español recuperó sensaciones y, tras varias brillantes finalizaciones, dejó entrever alguna sonrisa. El público estaba listo para embarcarse en la remontada , pero el juego de Alcaraz seguía irreconocible y Van de Zandschulp conservaba su enorme eficacia.\nCon una doble falta, la primera del partido, Alcaraz le puso en bandeja al neerlandés el quiebre decisivo para anotarse la segunda manga. Con lo anterior, Alcaraz estaba obligado a remontar dos sets en contra por primera vez en su carrera , después de siete intentos fallidos.\nEl español hizo varios amagos de reacción en el tercer set, con puntos que despertaron a los aficionados cuando se acercaba la medianoche, pero resultaron insuficientes para cambiar la dinámica del partido. Van de Zandschulp conservó la sangre fría y la eficacia hasta provocar un terremoto en el último Grand Slam de la temporada, donde Novak Djokovic y Jannik Sinner se quedan como los grandes favoritos al triunfo.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/usopen/status/1829366990630248673?ref_src=twsrc%5Etfw",
+      "https://t.co/QK3ZrkoPgx",
+      "https://t.co/YWdwo26OIO",
+      "https://twitter.com/usopen/status/1829363653553836311?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/usopen/status/1829366990630248673?ref_src=twsrc%5Etfw",
+      "https://twitter.com/usopen/status/1829366990630248673",
+      "https://www.twitter.com/usopen/status/1829363653553836311?ref_src=twsrc%5Etfw",
+      "https://www.t.co/QK3ZrkoPgx",
+      "https://www.t.co/YWdwo26OIO",
+      "https://twitter.com/usopen/status/1829363653553836311"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-30T16:27:54.844+03:00",
+    "updated": "2024-08-30T16:27:54.844+03:00"
+  }
+]

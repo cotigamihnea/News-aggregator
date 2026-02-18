@@ -1,0 +1,452 @@
+[
+  {
+    "uuid": "530216ab66a323ae0e75477771ece276914ae0cf",
+    "url": "https://www.europapress.es/catalunya/noticia-serra-omnium-celebra-regreso-victoria-pais-anima-seguir-independencia-20240712100855.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Europa Press",
+    "published": "2024-07-12T08:08:00Z",
+    "title": "Serra (Òmnium) celebra su regreso como \"victoria de país\" y anima a seguir hacia la independencia",
+    "text": "CANTALLOPS (GIRONA), 12 Jul. (EUROPA PRESS) -\nEl vicepresidente de Òmnium Cultural, Oleguer Serra, ha celebrado su vuelta a Catalunya como \"una victoria de país\" y ha animado textualmente a seguir trabajando para defender el derecho de protesta y para conseguir la independencia.\n\"Lo de hoy demuestra todo lo que vendrá a partir de ahora, porque seguiremos luchando, para defender el derecho de protesta y para defender la libertad de los Països Catalans\", ha dicho durante su discurso en el acto de bienvenida a él y los otros cuatro independentistas que han vuelto de Suiza tras archivarse el caso 'Tsunami': la secretaria general de ERC, Marta Rovira; el diputado de ERC en el Parlament Ruben Wagensberg; el periodista de 'La Directa' Jesús Rodríguez y el activista Josep Campmajó.\nSerra ha agradecido a los cuatro, con los que ha cruzado la frontera de La Jonquera (Girona) este mismo viernes, la \"piscina de amistad\" que le han brindado durante los meses que ha residido en Suiza.\nTambién ha dado las gracias a Òmnium, a su junta y a su presidente, Xavier Antich, por el apoyo, y ha reivindicado que se fueron \"para convertir el exilio en una lucha\" contra una causa que quería silenciarlos, ha dicho.\nTras ser recibidos este viernes en Cantallops, donde se han encontrado con otros investigados por la causa de 'Tsunami Democràtic', seguirán con sus respectivas agendas, como la asistencia de algunos al acto de recibimiento de Òmnium Cultural en Barcelona a las 13 horas.\nLeer más acerca de: Òmnium Cultural",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment",
+      "Politics"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-12T11:11:03.164+03:00",
+    "updated": "2024-07-12T11:11:03.164+03:00"
+  },
+  {
+    "uuid": "2809d24f6112956b6ba32ad75e848c4b39b4a587",
+    "url": "https://lwn.net/Articles/998239",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "bignose",
+    "published": "2024-11-15T05:07:00Z",
+    "title": "PyPI dropped existing support for digital attestations",
+    "text": "PyPI dropped existing support for digital attestations\nPyPI dropped existing support for digital attestations\nPosted Nov 15, 2024 5:07 UTC (Fri) by bignose (subscriber, #40)In reply to:\n[PyPI dropped existing support for digital attestations](/Articles/998238/)by Cyberax\nParent article:\n[PyPI now supports digital attestations](/Articles/998215/)\nI'll take that as confirmation that no, there is no such thing today. Which confirms the issue I raised: the existing community-controlled identity system was dropped (for good reason), with no community-controlled replacement (because the PSF decided centralised, proprietary, platform-controlled solutions are good enough). And no evident plan to fix that, not then and not now.\nThe absence of a new solution is not the PSF's fault nor responsibility. The *removal of the existing system*, while there was and is no equivalent community-controlled replacement, is their responsibility and is the issue I'm glad to see we agree is true.\n> Actually, it was not \"yours\". It belongs to the Python Software Foundation\nThe GnuPG web of trust (https://en.wikipedia.org/wiki/Web_of_trust) is the identity solution we still have but the Python Software Foundation decided to stop supporting (again: for good reasons!) in 2023. If you think that belonged to the Python Software Foundation, I think this discussion isn't going anywhere useful.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://en.wikipedia.org/wiki/Web_of_trust",
+      "https://www.en.wikipedia.org/wiki/Web_of_trust"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T08:25:58.578+02:00",
+    "updated": "2024-11-15T08:25:58.578+02:00"
+  },
+  {
+    "uuid": "f77d299630ca54a5bff5d0e96a4f5cb65600aee3",
+    "url": "https://flipboard.com/topic/malaysianews/billionaire-robert-kuok-malaysian-tycoons-seek-profit-from-data-center-boom/f-a8c5c9c2ef%2Fforbes.com",
+    "ord_in_thread": 0,
+    "author": "Forbes - Jonathan Burgos",
+    "published": "2025-04-16T22:00:00Z",
+    "title": "Billionaire Robert Kuok, Malaysian Tycoons Seek Profit From Data Center Boom | Flipboard",
+    "text": "Billionaire Robert Kuok, Malaysian Tycoons Seek Profit From Data Center Boom This story is part of Forbes’ coverage of Malaysia’s Richest 2025. See the full list here. In the global race to build hyperscale AI data centers, Malaysia has positioned itself as one of the key contenders. A data center boom is underway, the epicenter of which is in the once-sleepy state of Johor …\nForbes - Jonathan Burgos • 9m",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->business financing",
+      "Politics->economic policy",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T01:11:45.509+03:00",
+    "updated": "2025-04-17T01:11:45.509+03:00"
+  },
+  {
+    "uuid": "ba8514c2a4c950aa4f709b9bfedc9d05801399dc",
+    "url": "https://www.montanarightnow.com/news/melii-silicone-baby-spoons-recalled-due-to-choking-hazard/video_eb8e77d0-2057-5aef-8d9c-49cfa7f8d265.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Guest",
+    "published": "2024-12-19T05:00:00Z",
+    "title": "Melii silicone baby spoons recalled due to choking hazard | Montana News | montanarightnow.com",
+    "text": "Melii silicone baby spoons recalled due to choking hazard Dec 19, 2024 Dec 19, 2024 Updated 30 mins ago Facebook Twitter WhatsApp SMS Email Print Copy article link Save A recall alert has been issued for Melii silicone baby spoons sold at Aldi and BuyBuyBaby due to potential choking hazards. Over 85,000 spoons with animal-shaped handles are affected and could break apart during use. Parents and caregivers should stop using these spoons immediately to keep their children safe. As featured on Melii silicone baby spoons recalled due to choking hazard U.S.A. - A recall has been issued for Melii silicone baby spoons sold at Aldi and BuyBuyBaby… More Video Melii silicone baby spoons recalled due to choking hazard $3.5M to provide training services for Montana displaced by Sibanye-Stillwater layoffs U.S. Marshals seek public help in Billings double homicide case Discover the Whoville magic at Josephine Crossing Billings parent combating increase in swatting and hoax calls 0:48 John Martin on scene of house fire Sunday night Facebook Twitter WhatsApp SMS Email Print Copy article link Save Local Weather Currently in Missoula 40° Sunny42° / 29° 5 PM 38° 6 PM 36° 7 PM 35° 8 PM 32° 9 PM 31° 7-Day Radar Alerts Sign Up For Newsletters Success! An email has been sent to with a link to confirm list signup. Error! There was an error processing your request. TOP 3 THINGS - NonStop Local News Tap into Non-Stop News from Montana Right Now! From the Big Story to the 3 Things to Know - we have the moment's essential headlines. NonStop Local Great Falls-Helena Newsletter Local news headlines from NonStop Local in Great Falls and Helena - delivered to your email inbox every weekday. NonStop Local Butte/Bozeman Newsletter Local news headlines from NonStop Local Bozeman and Butte - delivered to your email inbox every weekday. NonStop Local Missoula-Kalispell Newsletter Local news headlines from NonStop Local in Missoula and Kalispell - delivered to your email inbox every weekday. NonStop Local SWX Sports Get the latest headlines on local sports! News from UM, MSU, High School sports and more. You must select at least one email list. Please enter a valid email address. Sign up Manage your lists Download the NonStop Local App Most Popular Articles Videos ArticlesFrontier offers new all-you-can-fly pass from MontanaWinter Storm Alerts issued for snow and ice across MT this weekendGreat Falls man dies in paramotor accidentNew Winter Storm Advisories impact Montana regions with expected snowWhitefish doctor sentenced for defrauding Medicare and other federal health programsCold weather and snow expected in Montana this weekendWoman found dead on Highway 200 identified as 22-year-oldFWP game wardens seek information on stolen signsExcitement for Mellott family as Tommy shines in college footballWinter weather alerts expand with snow and freezing rain expected tonight Videos © Copyright 2024 NonStop Local - ABC FOX 2200 Stephens Avenue, Missoula, MT | Terms of Use | Privacy Policy Powered by BLOX Content Management System from BLOX Digital. {{title}} {{summary}} Notifications Settings You don't have any notifications. Get up-to-the-minute news sent straight to your device. Topics Missoula Breaking News Subscribe Great Falls-Helena Breaking News Subscribe Bozeman-Butte Breaking News Subscribe Weather Alert Subscribe Missoula/Kalispell Top Stories Subscribe Great Falls /Helena Top Stories Subscribe Bozeman/Butte Top Stories Subscribe Wake Up Montana Subscribe\nMelii silicone baby spoons recalled due to choking hazard U.S.A. - A recall has been issued for Melii silicone baby spoons sold at Aldi and BuyBuyBaby…",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health"
+    ],
+    "topics": [
+      "Health->health organisation"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "John Martin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Facebook Twitter",
+          "sentiment": "none"
+        },
+        {
+          "name": "Aldi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Whoville",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T01:19:05.406+02:00",
+    "updated": "2024-12-20T01:19:05.406+02:00"
+  },
+  {
+    "uuid": "92c6f15a1feef46befcfac566a29e3fef42e7279",
+    "url": "https://www.indiatvnews.com/karnataka/karnataka-bill-to-impose-tax-on-temples-income-defeated-in-legislative-council-setback-for-siddaramaiah-congress-govt-bjp-jds-latest-news-2024-02-24-918364",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Shashwat Bhandari",
+    "published": "2024-02-23T23:12:00Z",
+    "title": "Setback for Congress govt in Karnataka as Bill proposing 10 per cent tax on temples defeated",
+    "text": "In a setback for the Siddaramaiah-led Congress government, the Karnataka Hindu Religious Institutions and Charitable Endowments (Amendment) Bill 2024, which proposes to impose 10 per cent tax on temples having revenues above Rs 1 crore failed to pass in the legislative council. Though the bill was passed in the state Assembly, it failed to pass in the legislative council where the BJP has more MLCs than Congress. In the Karnataka legislative council, the BJP has 35 members, Congress 30 and Janata Dal (Secular) has eight. As members of the BJP and the JD(S) raised objections, Deputy Chairman of the Council, MK Pranesh, called for a voice vote, in which the Bill was rejected after the opposition members voted against it. Seven members voted for the Bill, while 18 members voted against it. 'Why only Hindu temples and not other religions?' Yediyurappa questions Siddaramaiah govt Slamming the Congress government, former Chief Minister BS Yediyurappa questioned why only Hindu temples were being scrutinised and not the incomes of other religions. Proposing the Bill in the Council, Transport and Muzrai Minister Ramalinga Reddy said that as per the present rules, the government is getting Rs 8 crore from the temples. After the new rule is passed, the government will earn Rs 60 crore and from these funds, the ‘C’ grade temples would be managed, Reddy said. Stating that there are more than 40,000 priests at the 34,165 ‘C’ grade temples across the state, the minister said, \"We will provide funds to the priests to build homes and provide scholarships to their children. We also provide insurance cover to them.\" Opposing the Bill, the leader of opposition in the Council, Kota Srinivas Poojari, said that it is not tenable to collect 10 per cent from the income of temples. \"If Rs 100 crore is collected, Rs 10 crore has to be given to the government as per the Bill. But, one must first deduct the expenditures and then the government can take its share. The government should grant Rs 200 crore for the development of ‘C’ grade temples in the state,\" Poojari said. BJP MLC N Ravikumar said the state government should not even think of collecting 10 per cent income from the temples. \"Rs 60 crore is not a big amount for the state government. Hindu temples must be allotted with Rs 300 crore for development work,\" he said. After this, Minister Reddy said that he will present the Bill on Monday, which was objected to by Deputy Chairman Pranesh, who called for a voice vote for the Bill to pass. After the Bill was rejected, the BJP members raised ‘Jai Sri Ram’ slogans inside the House, while their Congress counterparts chanted ‘Bharat Mata Ki Jai’ and ‘Jai Bheem’. On Wednesday, the controversial Bill was passed by the Karnataka Legislative Assembly. Meanwhile, taking to social media, the BJP claimed that as per the Bill, persons belonging to other religions can become part of the temple management process. \"This is a malicious intent of Chief Minister Siddaramaiah to dry the coffers of the temples with the help of people from other religions, much the same way he has emptied the state's treasury,\" the BJP alleged. ALSO READ | [Lok Sabha Elections 2024: Mamata Banerjee's TMC to go solo in Bengal in big jolt to Congress](https://www.indiatvnews.com/news/india/mamata-banerjee-tmc-says-it-will-go-solo-contest-all-42-lok-sabha-seats-in-west-bengal-shatters-congress-hopes-derek-o-brien-india-alliance-updates-2024-02-23-918348)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bill",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mk pranesh",
+          "sentiment": "none"
+        },
+        {
+          "name": "yediyurappa",
+          "sentiment": "none"
+        },
+        {
+          "name": "bs yediyurappa",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "congress",
+          "sentiment": "negative"
+        },
+        {
+          "name": "state assembly",
+          "sentiment": "none"
+        },
+        {
+          "name": "bjp",
+          "sentiment": "none"
+        },
+        {
+          "name": "janata dal",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "karnataka",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-24T05:25:04.085+02:00",
+    "updated": "2024-02-24T05:25:04.085+02:00"
+  },
+  {
+    "uuid": "5a313627440ee083afc681d36ae58e902c9be5db",
+    "url": "https://www.mumsnet.com/talk/am_i_being_unreasonable/5137915-to-think-a-3-week-wait-for-emergency-dental-treatment-is-unacceptable",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TheMerryWindow",
+    "published": "2024-08-08T21:26:00Z",
+    "title": "To think a 3 week wait for emergency dental treatment is unacceptable? | Mumsnet",
+    "text": "Please forgive me, but I'm in severe pain and need to vent my frustration. Toothache began on Monday, but it was mild so I thought I'd wait and see if it settled down. By Tuesday morning it was quite bad, so I went through the NHS list online, trying to find a dentist accepting patients. None in my area, so I rang 111, which has a line dedicated to dental queries. Spoke to a lovely lady who said she would refer me for emergency treatment to a dentist about 4 miles away. She said to wait 10 minutes and then ring them, saying it's a 111 referral. When I rang, the receptionist said there weren't any NHS appointments, she'd ring me back when one became available but couldn't give any idea of when that might be. She was very snooty and dismissive. This morning the pain was even worse, so I rang Ms Snooty again. She said there were still no NHS appointments and, when pressed, said it would be 3 weeks or longer before I could expect an emergency appointment! At this point, I rang 111 again and spoke to another lovely lady, who gave me a list of other dentists to try. There was only one on the list who could give me an emergency appointment before next week - 53 miles away! So I'm going tomorrow, but fuming about having to travel such a long way, not to mention being left in pain for so long. I know the NHS is under huge pressure, but surely I'm not being unreasonable to think this is unacceptable?",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "nhs",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:33:42.579+03:00",
+    "updated": "2024-08-09T00:33:42.579+03:00"
+  },
+  {
+    "uuid": "745d97ddf1e62463d9ddda1b7e82d1d138849311",
+    "url": "https://finance.sina.com.cn/jjxw/2025-04-03/doc-inervuvx2844522.shtml",
+    "ord_in_thread": 0,
+    "author": "sina.com.cn",
+    "published": "2025-04-02T23:00:00Z",
+    "title": "河北沃土种业发布玉米新品种和种植新技术|河北省_新浪财经_新浪网",
+    "text": "转自：河北日报\n河北沃土种业发布玉米新品种和种植新技术\n本报讯（陈正、李耀彩）3月15日，河北沃土种业股份有限公司发布“载丰116”“沃玉577”“WY4号”“YY276”4个玉米新品种以及一项玉米种植新技术。\n据了解，新发布的4个玉米新品种在试验田表现出良好的抗锈、抗高温高湿、抗倒伏、抗旱、抗盐碱、稳产高产及广适性。新发布的玉米种植新技术是河北沃土种业股份有限公司与中国农业大学、华中农业大学联合攻关的成果，通过优化玉米株高株型，减少单株空间占用的同时不降低单株产量，从而增加种植密度，提高玉米产量。\n“优势品种和种质资源是沃土种业的核心竞争力，我们致力于生物育种技术创新，将加大研发力度，提升玉米品种优化迭代效率，推出更多抗性强、高产稳产、适销对路的玉米品种，为农业增产、农民增收贡献种子力量。”河北沃土种业股份有限公司董事长柳继凤说。\n位于邯郸市的河北沃土种业股份有限公司是一家以玉米育种为核心，具备育繁推一体化经营资质的现代种子企业，主推品种“沃玉3号”被农业农村部列为全国主导品种，推广面积超1亿亩。去年5月，该公司与华中农业大学、河北省农业农村厅、邯郸市人民政府签约共建华农河北生物育种产业研究院，整合高校科研力量、政府政策支持与企业转化能力，推动生物育种技术产业化。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->agriculture",
+      "Science and Technology->natural science",
+      "Science and Technology->biotechnology",
+      "Science and Technology->agricultural technology",
+      "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:08:37.204+03:00",
+    "updated": "2025-04-03T02:08:37.204+03:00"
+  },
+  {
+    "uuid": "8e1d7217b1a4b149502cac4186fe2a7149d00496",
+    "url": "https://www.timesnownews.com/technology-science/these-adobe-apps-can-put-your-data-at-risk-indian-government-issues-alert-check-full-list-what-to-do-next-article-152463863",
+    "ord_in_thread": 0,
+    "author": "@TIMESNOW",
+    "published": "2025-08-14T09:03:00Z",
+    "title": "These Adobe Apps Can Put Your Data At Risk, Indian Government Issues Alert: Check Full List, What To Do Next",
+    "text": "Technology & Science\nThese Adobe Apps Can Put Your Data At Risk, Indian Government Issues Alert: Check Full List, What To Do Next\nCERT-In has issued a crucial advisory regarding serious vulnerabilities in numerous Adobe products, potentially allowing hackers to execute harmful code, steal sensitive information, or crash systems.\nCERT-In has issued a crucial advisory regarding serious vulnerabilities in numerous Adobe products\nThe Indian Computer Emergency Response Team (CERT-In) has released a high-priority security advisory (CIVN-2025-0173) warning about multiple critical vulnerabilities in a wide range of Adobe products. Issued on August 13, 2025, the alert states that these flaws could allow hackers to bypass security controls, execute malicious code, steal sensitive data, or even crash systems entirely, here's everything you need to know.\nWhich Adobe Products Are Affected?\nThe list of impacted software is extensive and includes widely used creative, design and business tools:Adobe Commerce: Versions 2.4.9-alpha1, 2.4.8-p1 and earlier, 2.4.7-p6 and earlier, down to 2.4.4-p14 and earlier.\nAdobe Commerce B2B: Versions 1.5.3-alpha1, 1.5.2-p1 and earlier, 1.4.2-p6 and earlier, and older releases.\nMagento Open Source: Versions 2.4.9-alpha1 through 2.4.5-p13 and earlier.\nAdobe Substance 3D Suite: Viewer (0.25 and earlier), Modeler (1.22.0 and earlier), Painter (11.0.2 and earlier), Sampler (5.0.3 and earlier), and Stager (3.1.3 and earlier).\nAdobe Animate: 2023 (23.0.12 and earlier) and 2024 (24.0.09 and earlier) for Windows and macOS.\nAdobe Illustrator: 2025 (29.6.1 and earlier) and 2024 (28.7.8 and earlier) for Windows and macOS.\nAdobe Photoshop: 2025 (26.8 and earlier) and 2024 (25.12.3 and earlier) for Windows and macOS.\nAdobe InDesign: ID20.4 and earlier, ID19.5.4 and earlier.\nAdobe InCopy: 20.4 and earlier, 19.5.4 and earlier.\nAdobe FrameMaker: 2020 Release Update 8 and earlier, 2022 Release Update 6 and earlier (Windows).\nAdobe Dimension: Version 4.1.3 and earlier for Windows and macOS.\nWhat’s The Risk?\nAccording to CERT-In, these vulnerabilities could lead to:Remote Code Execution: Hackers could run malicious programs on your device.\nPrivilege Escalation: Attackers might gain higher access rights than intended.\nSensitive Data Theft: Private files and information could be exposed.\nDenial Of Service (DoS): Your system could become unstable or crash completely.\nHow To Protect Yourself\nThe simplest fix is to update your Adobe software immediately. Open your app, check for any available updates, install them and restart your PC or laptop. This will ensure you have the latest security patches.Get\nLatest Newslive on Times Now along with Breaking News and Top Headlines fromTechnology Scienceand around the world.End of Article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->social sciences",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_in",
+        "top_news_ph",
+        "top_news_pk",
+        "top_news_ae",
+        "top_news_za",
+        "top_news_qa",
+        "top_news_sg",
+        "top_news_sa",
+        "top_news_my",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T12:11:40.826+03:00",
+    "updated": "2025-08-14T12:15:59.000+03:00"
+  },
+  {
+    "uuid": "fdd84c2e2976cfcb7a19895332307f1ee68d9a39",
+    "url": "https://elpais.com/gastronomia/2024-07-19/los-videos-de-la-influencer-roro-no-son-de-cocina-sino-exhibicionismo-de-clase.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Maria Nicolau",
+    "published": "2024-07-19T03:25:00Z",
+    "title": "Los vídeos de la ‘influencer’ Roro no son de cocina, sino exhibicionismo de clase | Gastronomía: recetas, restaurantes y bebidas | EL PAÍS",
+    "text": "Esta semana hemos estado entretenidos en las redes comentando el fenómeno Roro, una influencer de 22 años que acumula millones de seguidores en TikTok e Instagram a base de compartir vídeos en los que se la ve sublimar el arte de complacer satisfaciendo los deseos de su novio Pablo. Elabora recetas, cose vestidos, encuaderna libros, y exhibe un combinado de habilidades de artesano renacentista, ropa y accesorios carísimos y voz de minino siamés. La liebre saltó cuando Yolanda Domínguez dio la voz de alarma y enmarcó el contenido de Roro en el movimiento tradwife , contracción de la expresión “esposa tradicional” en inglés, nacido en Estados Unidos y asociado a ideologías de extrema derecha y a grupos cristianos de la vertiente más rancia y conservadora, que defienden el regreso de la mujer al rol de ama de casa sumisa de los años cincuenta. Las tradwife florecen en redes sociales como peonias y marchan como un ejército de doncellas del mal al servicio de este credo. Me interesa poner el foco en lo que hay de gastronómico en este tipo de contenido, porque en los vídeos de Roro y el movimiento tradwife en general se da un fenómeno culinario que ha estado presente de forma constante a lo largo de la Historia: el uso de la cocina como marcador de clase. Cuando Roro decide hacerle a su novio un sándwich de queso, no coge un par de rebanadas de pan del cajón y una loncha de queso de la nevera, sino que amasa brioche desde cero y fabrica tanto la mantequilla de la receta del brioche como el queso del bocadillo, a partir de leche fresca. Cuando a Pablo se le antoja cenar pasta, ella prepara unos pappardelle de ragú de pato a la naranja, haciendo la pasta ella misma y un guiso que, por sí solo, ya implica más de cinco horas de trabajo. Roro presenta la receta de pollo frito coreano con teokk , unos pastelitos de arroz, dice que “es una receta que merece muchísimo la pena porque no se tarda casi nada y está increíble”. Se tarda más de quince horas en tenerlo listo. A Roro y a Pablo les gusta tener siempre algo de picar en casa, así que una vez a la semana ella se dedica a hacer takis , unos snacks crujientes en forma de rizos de maíz picante con sabor a guindilla y lima mexicanos, y regañás caseras que, como ella comenta, se hacen “en un momento”. Ese momento es un día entero. Mientras todo eso sucede, a lo largo de todos los vídeos, ella exhibe manicura impecable, peinado impoluto y vestido de satén. Yo soy un ser muy simple. El miércoles, a la vista de unos cuantos calabacines en la nevera, en vez de ir a tiro fijo y hacer una crema o pasarlos por la plancha, los escaldé, los abrí, los rellené de crema de requesón y nueces y los gratiné. Los llevé a la mesa dispuestos en una fuente de loza con el pelo hecho una boñiga recogido con una goma vieja, pero con la espalda bien recta y porte formidable. Ese día, el mero hecho de haber usado manga pastelera para hacer la comida un miércoles laborable me hizo sentir Bree Van de Kamp en Mujeres Desesperadas . Los años 50 a los que las tradwife quieren volver no fueron iguales para todos. Para las mujeres de clase alta, el trabajo del hogar a menudo significaba simplemente gestionar una pequeña milicia de sirvientes que realizaban el trabajo real, para luego ocupar el tiempo cultivando la vida social y yendo a galas benéficas. En la clase media, las amas de casa propiamente dichas eran las encargadas de cocinar, limpiar, ordenar y cuidar a los niños y a los enfermos ellas mismas. Su exención del trabajo remunerado, algo posible cuando un sueldo bastaba para cubrir las necesidades de una familia entera, las diferenciaba de las mujeres de clase más baja, que tenían que lidiar tanto con las tareas domésticas como con el trabajo asalariado para mantener sus hogares a flote. En 1800, el plato favorito de la familia imperial austríaca era el Tafelspitz-Sulz, un pastel de áspic con intrincados diseños en su interior hechos a base de guisantes y ternera. Lo lucían en cada recepción oficial. Esa preferencia no se debía al sabor ni a la suculencia de la receta. Los ingredientes que la formaban tampoco eran difíciles de conseguir. Pero servir una construcción de gelatina y carne en el 1800 significaba tener no sólo poder adquisitivo, sino el lujo quimérico de contar con algún tipo de refrigeración. En el siglo XX, los pasteles de pescado, las bandejas de aperitivos detallistas, las verduras torneadas y las tartas saladas de hojaldre casero servían para dejar claro a las visitas que en ese hogar se contaba con poderío para costear servicio doméstico, todo robot de cocina que saliera al mercado e ingredientes de primera calidad. Los años cincuenta que muestran las tradwives son los de un reducto privilegiado, blanco y adinerado. La elección de recetas intrincadas y lujosas para sus vídeos de cocina es una demostración de poder traducido en gran cantidad de tiempo libre y capital. No son vídeos de cocina, sino exhibicionismo de clase. Puedes seguir a EL PAÍS Gastro en Instagram y X . ¿Por qué estás viendo esto?",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Politics",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.instagram.com/elpais_gastro/",
+      "https://www.tiktok.com/@roro.bueno?_t=8nztuWYJ8GP&_r=1",
+      "https://twitter.com/elpais_gastro",
+      "https://www.articulo14.es/opinion/por-que-los-medios-ensalzan-a-una-tiktoker-que-prepara-sandwiches-caseros-a-su-novio-20240714.html",
+      "https://tiktok.com/@roro.bueno?_t=8nztuWYJ8GP&_r=1",
+      "https://instagram.com/elpais_gastro/",
+      "https://www.instagram.com/elpais_gastro",
+      "https://articulo14.es/opinion/por-que-los-medios-ensalzan-a-una-tiktoker-que-prepara-sandwiches-caseros-a-su-novio-20240714.html",
+      "https://www.twitter.com/elpais_gastro",
+      "https://www.tiktok.com/@roro.bueno"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-19T06:35:47.386+03:00",
+    "updated": "2024-07-20T00:51:17.913+03:00"
+  }
+]

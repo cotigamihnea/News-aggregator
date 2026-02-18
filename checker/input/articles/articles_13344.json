@@ -1,0 +1,449 @@
+[
+  {
+    "uuid": "053731f8f9f8474117b893dc80ba3777eb61552e",
+    "url": "https://www.cbsnews.com/chicago/video/bitter-cold-to-follow-snow-thursday-night-in-chicago",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CBS Chicago",
+    "published": "2025-01-02T22:33:00Z",
+    "title": "Bitter cold to follow snow Thursday night in Chicago - CBS Chicago",
+    "text": "Chief Meteorologist Albert Ramon has your 5 p.m. First Alert Weather forecast for Thursday, Jan. 2, 2025.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Weather->weather forecast",
+      "Social Issue->social condition",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Albert Ramon",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T02:28:24.783+02:00",
+    "updated": "2025-01-03T02:28:24.783+02:00"
+  },
+  {
+    "uuid": "81e35b15ebdcbfe9f1bedd391c9a7acedf1ae823",
+    "url": "https://www.electronicsforu.com/news/non-fullerene-acceptor-achieves-20-2-efficiency",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Akanksha Gaur",
+    "published": "2024-07-05T04:41:00Z",
+    "title": "Non-Fullerene Acceptor Achieves 20.2% Efficiency",
+    "text": "This material, with its optoelectronic properties, promises to bridge the efficiency gap with traditional silicon-based solar cells, paving the way for more sustainable and cost-effective solar energy solutions.\nEngineers have introduced various photovoltaic (PV) solutions to facilitate sustainable electricity generation globally. These include organic solar cells (OSCs), which use organic molecules or polymers to convert sunlight into electrical power. These solar cells offer high flexibility, lighter weight, and lower fabrication costs. However, their power conversion efficiencies (PCEs) are still significantly lower than those of silicon-based solar cells.\nResearchers at the Chinese Academy of Sciences and Beijing Normal University recently designed a new asymmetric non-fullerene acceptor, a material that can accept and transport electrons, to improve the efficiency of OSCs. This material, described in a paper published in Nature Energy, has advantageous optoelectronic properties, including a high photoluminescence quantum yield (PLQY) and delocalized excitons.\nChallenges in Improving OSC Efficiency “For organic solar cells (OSCs), bridging the gap with Shockley–Queisser limit necessitates simultaneously reducing the energy loss for a high open-circuit voltage, improving light utilization for enhanced short-circuit current density, and maintaining ideal nanomorphology with a high fill factor through molecular design and device engineering,” wrote Yuanyuan Jiang, Shaoming Sun, and their colleagues.\nThe asymmetric non-fullerene acceptor, featuring phenyl-substitution side chains, aims to reduce non-radiative energy losses in solar cells while promoting efficient electrical charge generation and transfer. Its structure minimizes non-radiative energy loss and charge recombination due to delocalized excitons, and the phenyl-substituted alkyl side chain impacts intermolecular interactions, improving film nanomorphology with efficient exciton dissociation and reduced charge recombination.\nPerformance Assessment and Results To assess these acceptors, researchers used them to fabricate single-junction OSCs. The resulting solar cells achieved efficiencies of 20.2% (certified 19.8%), comparable to other OSCs developed in recent years. Through theoretical calculations, the researchers examined the distribution of photon and carrier losses and analyzed the potential for improvement in open-circuit voltage, short-circuit current density, and fill factor, providing guidance for further OSC performance development.\nWhile the results are promising, they still do not match the efficiencies of silicon-based and other non-organic PV technologies. Jiang, Sun, and their colleagues plan to continue designing materials to minimize photon and carrier losses in OSCs, contributing to the development of efficient and scalable OSCs for real-world deployment. Their work could also inspire others in the PV research community to design similar non-fullerene acceptors aimed at reducing photon and carrier losses in cells.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "nature energy",
+          "sentiment": "none"
+        },
+        {
+          "name": "chinese academy of sciences",
+          "sentiment": "none"
+        },
+        {
+          "name": "beijing normal university",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "impro",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T10:16:56.384+03:00",
+    "updated": "2024-07-05T10:16:56.384+03:00"
+  },
+  {
+    "uuid": "1b8618890b5ea200a8f9adedbdc586a938a775af",
+    "url": "https://www.elindependiente.com/espana/2024/01/25/la-reaccion-en-bloque-del-psoe-deja-solo-a-garcia-page",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Juanma Romero",
+    "published": "2024-01-25T21:27:00Z",
+    "title": "La reacción en bloque del PSOE deja solo a García-Page",
+    "text": "\"Hasta ahora, siempre se minimizaba, se optaba por [evitar el choque](https://www.elindependiente.com/espana/2024/01/24/ferraz-se-harta-de-garcia-page-se-ha-pasado-muchas-veces-pero-el-vaso-se-esta-desbordando/) con él. Pero esta vez tocó demasiado los cojones al partido. Estaba mal acostumbrado, pensaba que nunca se le respondería, y por eso se sorprendió de la respuesta. Sentó mal tanto su compadreo con los barones del PP como que dijese que el PSOE está en el extrarradio de la Constitución, porque una cosa reforzaba a la otra. La gente se pregunta a qué juega Emiliano. La [amnistía](https://www.elindependiente.com/etiquetas/amnistia/) es una cuestión controvertida, delicada, está a flor de piel. En el partido se es consciente de la debilidad de nuestra posición, y por eso ha sentado muy mal que venga él y encima eche leña al fuego\". Un alto dirigente socialista de Castilla-La Mancha teje una reflexión que se escucha repetidamente por boca de otros mandos del partido en toda España. El [hartazgo](https://www.elindependiente.com/espana/2024/01/24/ferraz-se-harta-de-garcia-page-se-ha-pasado-muchas-veces-pero-el-vaso-se-esta-desbordando/) total con él, con [Emiliano García-Page](https://www.elindependiente.com/etiquetas/emiliano-garcia-page/), presidente de la Junta de Castilla-La Mancha desde 2015, desde 2019 con mayoría absoluta (revalidada el pasado 28-M) y líder del PSOE en la región desde 2012. Hartazgo, cansancio, indignación con quien ha sido durante los últimos años una voz crítica persistente contra Ferraz y contra [Pedro Sánchez](https://www.elindependiente.com/etiquetas/pedro-sanchez/) y que el miércoles, para muchos de sus compañeros, cruzó una frontera invisible. La gente se pregunta a qué juega Emiliano. La amnistía es una cuestión delicada, y por eso ha sentado mal que venga él y eche leña al fuego”, indica un veterano dirigente Primero, al situar al PSOE en el \" [extrarradio de la Constitución](https://www.elindependiente.com/espana/2024/01/24/ferraz-se-harta-de-garcia-page-se-ha-pasado-muchas-veces-pero-el-vaso-se-esta-desbordando/)\" en un contexto en el que es especialmente vulnerable por la presión continua de Junts y PP en plena tramitación de la ley de amnistía, una iniciativa que a nadie entusiasma en el partido pero que se digiere con dificultad como un \"mal menor\". Era como asumir \"el discurso de Vox\", así lo sintió Ferraz. Y dos, por participar en Fitur en [una minicumbre](https://www.elindependiente.com/espana/2024/01/25/page-a-los-barones-del-pp-a-mi-estan-a-punto-de-extraditarme/) con los presidentes de Andalucía, Juanma Moreno; Comunidad Valenciana, Carlos Mazón, y Murcia, Fernando López Miras, los tres del PP. \"A mí están a punto de extraditarme\", \"lo que ha hecho el PSOE es de una tensión máxima... echar a todo Dios que se le opone\", confesó Page a los barones populares entre risas, en un ambiente de relajación total en el que los cuatro pactaron presionar a Hacienda para que les conceda un fondo de compensación de más [3.000 millones de euros](https://www.elindependiente.com/espana/2024/01/24/ferraz-se-harta-de-garcia-page-se-ha-pasado-muchas-veces-pero-el-vaso-se-esta-desbordando/) por su estatus de comunidades infrafinanciadas. El mismo miércoles la dirección federal del PSOE [saltó](https://www.elindependiente.com/espana/2024/01/24/ferraz-se-harta-de-garcia-page-se-ha-pasado-muchas-veces-pero-el-vaso-se-esta-desbordando/). Y era una novedad, porque hasta entonces había intentado reconducir los desencuentros en privado. Lo hizo el número tres, [Santos Cerdán](https://www.elindependiente.com/etiquetas/santos-cerdan/), el hombre de Sánchez en Ferraz. También el ministro [Óscar Puente](https://www.elindependiente.com/etiquetas/oscar-puente/) —\"Quien está en el extrarradio del PSOE es el señor Page desde hace bastante tiempo. Nosotros estamos en el centro de la Constitución\"—. Este jueves, [el torrente de reprobaciones fluyó desde primera hora de la mañana](https://www.elindependiente.com/espana/2024/01/25/montero-advierte-a-page-buscar-la-notoriedad-a-partir-de-la-discrepancia-no-es-el-camino/). No solo de la cúpula federal, sino de ministros, barones, dirigentes. Una reacción en tromba que evidenciaba la soledad de Page. No hubo defensa pública de sus posiciones y sí muchos reproches por ponérselo fácil al PP. Quien sí sacó la cara por él fue precisamente el jefe de los populares, [Alberto Núñez Feijóo](https://www.elindependiente.com/etiquetas/alberto-nunez-feijoo/). El presidente castellanomanchego buscó no alimentar la tensión y optó por rebajar el tono, sin reproducir sus palabras del día anterior, reconociendo que coincide \"en un 90%\" con las tesis de su partido. Pero no dio marcha atrás: pidió que [se respete su postura, que \"hoy es minoritaria\"](https://www.elindependiente.com/espana/2024/01/25/page-recula-pero-defiende-su-posicion-no-puedo-temer-nada-de-mi-partido/) en el conjunto del PSOE, pero \"a lo mejor el día de mañana no lo es\". La búsqueda de la \"notoriedad\" En Ferraz sintieron el miércoles que el vaso \"se está ya desbordando\". Es decir, que lo que conciben como afrentas de Page hacia el partido estaban colmando su paciencia y que por eso había que frenarlas en seco. Con una reconvención pública. Porque [no hubo llamada ni la va a haber, reconoció Cerdán a los medios](https://www.elindependiente.com/espana/2024/01/25/montero-advierte-a-page-buscar-la-notoriedad-a-partir-de-la-discrepancia-no-es-el-camino/). En la cúpula federal dolió la sucesión de hechos, tanto la conjura de Fitur —así la llamó Mazón— como su afirmación de que el PSOE, tras las [últimas enmiendas a la amnistía](https://www.elindependiente.com/espana/2024/01/24/las-normas-del-congreso-impiden-mas-cambios-en-la-ley-de-amnistia-tras-la-ultima-cesion-del-psoe-a-junts-y-erc/) pactadas con Junts —que incluyen en la medida de gracia los actos de terrorismo salvo cuando se trate de violaciones graves a los derechos humanos—, se sitúa en el \"extrarradio\" de la Carta Magna. \"No comparto una estrategia en la que la notoriedad se hace a partir de la discrepancia. Creo que ese no es el camino\", [aseguró](https://www.elindependiente.com/espana/2024/01/25/montero-advierte-a-page-buscar-la-notoriedad-a-partir-de-la-discrepancia-no-es-el-camino/) la vicepresidenta primera del Gobierno y número dos del PSOE, [María Jesús Montero](https://www.elindependiente.com/etiquetas/maria-jesus-montero/). Las palabras de Page, añadió, \"no se corresponden con la realidad de lo que el Ejecutivo está desarrollando\" en torno a la ley de amnistía. Hay algunos mandos, en Castilla-La Mancha y fuera, que creen que Page podría tener alguna dificultad para ganar unas primarias La también titular de Hacienda aconsejó al barón socialista que [reflexione](https://www.elindependiente.com/espana/2024/01/25/montero-advierte-a-page-buscar-la-notoriedad-a-partir-de-la-discrepancia-no-es-el-camino/). No le estaba señalando la puerta de salida. Ferraz no tiene previsto tomar medidas disciplinarias contra Page. Pero quiere que frene. El siguiente aviso puede llegar en el congreso del PSOE de Castilla-La Mancha que, salvo que se adelante, se celebrará después del cónclave federal, aún no convocado y que no se espera hasta 2025. En ese congreso regional la dirección podría promover un candidato a secretario general alternativo, [como hizo con Ximo Puig en 2017](https://www.elconfidencial.com/espana/comunidad-valenciana/2017-07-16/ximo-puig-rafa-garcia-pedro-sanchez-resultados-primarias-pspv-psoe_1416167/). Y hay veteranos dirigentes, en la federación y fuera de ella, que creen que Page podría tener dificultades para renovar su liderazgo, e incluso que podría \"perder las primarias\" internas, porque su control de su territorio no es total, ya que los militantes \"están con Pedro, como se vio en la consulta del pasado noviembre\", en la que [el 78,57% de las bases respaldaron la estrategia de alianzas con Sumar y los independentistas](https://www.elindependiente.com/espana/2023/11/05/castilla-la-mancha-aragon-asturias-federaciones-psoe-amnistia-valencia-canarias/) del presidente, un porcentaje no obstante inferior al de toda España (87,13%). \"A los afiliados les irrita la situación, y no acaban de comprender lo de Emi. En todos los partidos hay tendencia al cierre de filas\", indica un mando retirado de la primera línea pero muy conocedor de las tripas del partido en Castilla-La Mancha, el quinto territorio socialista en militantes ( [unos 11.400](https://www.elindependiente.com/espana/2023/11/05/castilla-la-mancha-aragon-asturias-federaciones-psoe-amnistia-valencia-canarias/)), tras Andalucía, Comunidad Valenciana, Madrid y el PSC. En la cúpula de Sánchez no van por ahora tan lejos. Le molesta que Page aproveche cada vez que \"va a Madrid\" para lanzar críticas contra Ferraz porque cree que le reporta \"rentabilidad política\". \"Parece que lo único que quiere es que se hable de él. No compartimos esa política y lo hemos dicho respecto a Sumar y a Podemos. Ni compartimos esa manera de hablar del partido. Que lo diga en los órganos. No creo que aporte nada bueno ni para él ni para el PSOE, más que para dar artillería al PP\", señalan fuentes muy próximas al presidente del Gobierno, que insisten en que no se hará \"nada\" contra el barón castellanomanchego, nada más que asumir que es una \"voz discrepante\". Y respecto a la reclamación de ese fondo de compensación, recuerdan en el PSOE y en Hacienda que [ya se abordó en un Consejo de Política Fiscal y Financiera](https://www.elindependiente.com/espana/2024/01/24/ferraz-se-harta-de-garcia-page-se-ha-pasado-muchas-veces-pero-el-vaso-se-esta-desbordando/) y el resto de CCAA rechazó la idea. \"Page lo sabe y lo saben todos. Si quieren hacer fuerza, perfecto, que convenzan al resto de que su propuesta es buena\". En Ferraz asumen que seguirá la pugna con Page y señalan que mostrar diferencias no es “nada bueno ni para el PSOE ni para él”, más que “para dar artillería al PP” A partir de Montero y de Cerdán, se sucedieron distintas declaraciones a la contra de Page. De ministros como [Fernando Grande-Marlaska](https://www.elindependiente.com/etiquetas/fernando-grande-marlaska/) (Interior) —el PSOE \"nunca ha estado en el extrarradio de la Constitución\", sino que ha sido el partido que se ha situado al lado de la Carta Magna \"desde el minuto uno\"— y [Ana Redondo (Igualdad)](https://www.elindependiente.com/espana/2024/01/25/montero-advierte-a-page-buscar-la-notoriedad-a-partir-de-la-discrepancia-no-es-el-camino/): \"Ese tipo de declaraciones fuera no es lo que más conviene ni a Page ni desde luego al Partido Socialista\". Un reproche este último muy recurrente, máxime cuando no acudió este pasado fin de semana a la [convención política del PSOE en A Coruña](https://www.elindependiente.com/espana/2024/01/22/sanchez-cierra-una-convencion-a-su-medida-y-afronta-ahora-una-sucesion-abierta-en-la-comunidad-valenciana/) por un viaje institucional a China. Otra ministra, [Isabel Rodríguez](https://www.elindependiente.com/etiquetas/isabel-rodriguez/), titular de Vivienda, de su propia federación, Castilla-La Mancha, se limitó a decir que el presidente regional \"tiene mucha tarea\" que hacer en su región como el Gobierno la tiene en defender \"el interés general de todos los españoles\". La \" [inmensa mayoría del partido](https://www.elindependiente.com/espana/2024/01/25/montero-advierte-a-page-buscar-la-notoriedad-a-partir-de-la-discrepancia-no-es-el-camino/)\" no piensa como Page, adujo el candidato socialista a la Xunta, José Ramón Gómez Besteiro. \"Estaría [mejor callado](https://www.elindependiente.com/espana/2024/01/25/montero-advierte-a-page-buscar-la-notoriedad-a-partir-de-la-discrepancia-no-es-el-camino/)\", dijo escueta pero contundentemente Pepe Blanco, ex número dos del PSOE. \"No podemos ser simpáticos con quien nos ataca sin piedad\" Pero especialmente duro fue el expresident valenciano y todavía líder del PSPV, [Ximo Puig](https://www.elindependiente.com/etiquetas/ximo-puig/): \"En la vida política mía jamás intenté hacer daño para beneficiarme\". Una acusación rotunda de que Page busca el choque para conseguir votos en su tierra. Y [Luis Tudanca](https://www.elindependiente.com/espana/2024/01/25/montero-advierte-a-page-buscar-la-notoriedad-a-partir-de-la-discrepancia-no-es-el-camino/), barón socialista de Castilla y León, también mostró su malestar desde el \"respeto\": \"Procuro no equivocarme de adversario. No lo hago nunca. Desde luego, mis adversarios no están en el PSOE\", sino en el PP. En el partido también duele que dirija sus dardos contra sus compañeros, y que en cambio sea más condescendiente, creen, con la derecha. \"Emi no tiene defensa posible —señala indignada una responsable de un aparato regional—. Los demás a bregarnos a cara de perro con los gobiernos de PP y Vox, como si no fuera duro. Y él de compadreo con los barones del PP. Infame. Que difiere de la cuestión territorial es conocido. A ninguno nos gusta la amnistía. Pero el compadreo con esos tres... Eso no, ¡eso duele!\". A ninguno nos gusta la amnistía. Pero el compadreo con esos tres barones… Eso no, ¡eso duele!”, indica una responsable que tiene que “bregar” a diario con el PP Las críticas internas a Page se multiplicaron. \"No puedo compartir esa actitud y menos ahora\", sentenciaba una baronesa regional. Otro líder territorial se expresaba en la misma línea: \"Respetamos lo que opine, pero no que le dé munición al PP en su estrategia\". Hay muchas formas de discrepar. \"Inoportuno, inapropiado, indecente\", apuntalaba escueto un jefe de Organización. \"Todo tiene un límite. Y estamos sometidos a mucha presión del PP con esto y no es momento de medias tintas. El PSOE está apostando mucho por la convivencia. Lo normal es cerrar filas, no hacerse el simpático con quien nos ataca sin piedad, llama cáncer al Tribunal Constitucional y nos llama traidores\", observaba un diputado catalán. Para un veterano dirigente que conoce a fondo las entrañas del PSOE, el partido necesita imperiosamente \"consolidar el Gobierno y que las federaciones\", tras el desastre de las pasadas autonómicas y municipales, \"aguanten\", así que \"no hay que echar más leña al fuego\". ¿Se puede comparar la actitud del presidente de la Junta con la que tuvieron, en otros tiempos, barones socialistas contra Ferraz y los gobiernos de Felipe González y [José Luis Rodríguez Zapatero](https://www.elindependiente.com/etiquetas/rodriguez-zapatero/)? Dirigentes históricos apuntan primero, que los momentos son distintos, pero que \"para nada\" son equiparables los reproches que expresidentes como los castellanomanchegos Pepe Bono y José María Barreda hacían a las críticas recurrentes de Page. \"Una cosa es una declaración aislada y otra una campaña permanente\", analiza uno de ellos. \"Aquí hemos protestado cuando se trataba de defender los intereses de la región, pero no entrábamos en confrontaciones ideológicas o contra el partido. Ni hemos entrado a coquetear con el PP\", añade otro exresponsable del partido en Castilla-La Mancha. \"Se ha exagerado mucho todo\", le defiende un barón En el PSOE, por tanto, ha dolido mucho el contexto del doble gesto de Page, la conjura de Fitur y la ubicación de su partido extramuros de la Constitución. Esa combinación fue lo que se hizo insostenible para muchos. No, ciertamente, para todos. Un barón regional sí defiende a su compañero, cree \"se ha exagerado mucho todo\", \"ha dicho más o menos lo de siempre\". Tengo una posición minoritaria, pero respetable, porque lo que hoy es minoritario quizá mañana no lo es” El presidente de la Junta buscó rebajar la intensidad del choque con Ferraz. Desde Toledo, insistió en que [no quiere atizar la polémica](https://www.elindependiente.com/espana/2024/01/25/page-recula-pero-defiende-su-posicion-no-puedo-temer-nada-de-mi-partido/), alabó a Montero y sus políticas, rubricó que está \"en un 90%\" de acuerdo con lo que hace su partido, avisó de que no teme sanciones por parte del PSOE. Pero al tiempo se mantuvo en sus tesis: \"Yo tengo una posición que es minoritaria, claramente minoritaria, pero respetable, en todo caso, porque lo que hoy es minoritario, a lo mejor el día de mañana no lo es\". Page contó que coincide \"y mucho con la política social y económica\" del Gobierno, pero discrepa \"claramente con el tema territorial y con los independentistas\", aunque no fue el miércoles cuando confesaba por primera vez su distanciamiento. De ahí que reclamase poder seguir expresando sus discrepancias, \"con respeto\", porque él no hace ataques personales. \"Mi adversario no es ningún socialista, son los independentistas\", remató. El PSOE espera que las aguas vuelvan a serenarse internamente. Pero la herida lacerante con Page será ya difícil de cerrar, aunque sea de cara a la galería. Ya no. Todas las claves de la actualidad y últimas horas, en el canal de WhatsApp de El Independiente. Únete [aquí](https://whatsapp.com/channel/0029VaGCZ1FCBtx7z3Eqm71s) Te puede interesar 1 Comentarios [Normas ›](https://www.elindependiente.com/aviso-legal-terminos-uso/) Para comentar necesitas registrarte a El Independiente. El registro es gratuito y te permitirá comentar en los artículos de El Independiente y recibir por email el boletin diario con las noticias más detacadas. [Regístrate para comentar](https://usuarios.elindependiente.com/register/) [Ya me he registrado](https://usuarios.elindependiente.com/login) - Quién te ha visto y quien te ve! Que la sra de Hacienda hable de buscar notoriedad es el colmo del cinismo! En todo caso es verdad que en democracia todas las opiniones deberían tener el mismo valor y las respuestas discrepantes deberian ser argumentales y no a coces. Pero.hay especímenes en este gobierno que no conocen otro modo ni lo pueden aprender. He escuchado está mañana una definición mejor de la situación. Como del PSOE ya no queda nada, lo que está en las afueras del PSOE y en el extrarradio de la constitución y del socialismo es el sanchismo este desnortado y complaciente dedicado al alterne y no a la politica Lo más visto - 1 [El PP respalda a Page, pero le recuerda que \"puede parar la ley de amnistía\"](https://www.elindependiente.com/espana/2024/01/25/el-pp-respalda-a-page-pero-le-recuerda-que-puede-parar-la-ley-de-amnistia/?utm_source=web&utm_medium=module&utm_campaign=mv-1) - 2 [Sergio del Molino, el escritor al que Savater llama \"mindundi\", se lleva el Premio Alfaguara](https://www.elindependiente.com/tendencias/cultura/2024/01/25/sergio-del-molino-el-escritor-al-que-savater-llama-mindundi-se-lleva-el-premio-alfaguara/?utm_source=web&utm_medium=module&utm_campaign=mv-2) - 3 [Cuando Pedro Sánchez visitó Barcelona protegido por un subfusil](https://www.elindependiente.com/opinion/2024/01/25/cuando-pedro-sanchez-visito-barcelona-protegido-por-un-subfusil-mp-5/?utm_source=web&utm_medium=module&utm_campaign=mv-3)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://whatsapp.com/channel/0029VaGCZ1FCBtx7z3Eqm71s",
+      "https://www.whatsapp.com/channel/0029VaGCZ1FCBtx7z3Eqm71s"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:29:49.542+02:00",
+    "updated": "2024-01-26T16:35:59.110+02:00"
+  },
+  {
+    "uuid": "e73c703dd020b048ddb9706c2870e9cbde22ff57",
+    "url": "https://itc.ua/en/news/elon-musk-human-data-for-ai-training-is-exhausted-we-need-synthetic-ones-that-the-technology-will-create-itself",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Катерина Даньшина",
+    "published": "2025-01-10T09:04:00Z",
+    "title": "Elon Musk: «Human data for AI training is - exhausted. We need synthetic ones that the technology will create itself»",
+    "text": "Elon Musk confirmed the thoughts of some other experts about the lack of real data for training artificial intelligence — and the deficit formed last year.\n“We have actually exhausted the total amount of human knowledge for AI training,” Musk said during a conversation with Stagwell’s Mark Penn (via TechCrunch ). “This primarily happened last year.”\nMusk essentially reiterated the theses of other researchers. Previously, former OpenAI research scientist Ilya Sutskever noted that the AI sector had reached “peak data” and predicted that the lack of information for training would force a change in the way models are developed, which is used today.\n“The only way to supplement real-world data is with synthetic data, which AI will create itself,” Musk said. “With it, technology will evaluate itself and undergo a self-learning process.”\nIn fact, other tech giants such as Microsoft, Meta, OpenAI, and Anthropic are already using synthetic data to train their flagship models. According to Gartner, in 2024, 60% of the data used for AI and analytics projects was generated artificially.\nAmong other advantages of using synthetic data is significant cost savings. For instance, AI startup Writer says its model, trained on artificially generated data, cost just $700,000 (a similar-sized model from OpenAI, for example, cost about $4.6 million ).\nMeanwhile, some studies predict that using synthetic data may lead to a model collapse , when it becomes less creative and more biased in results.\nIt should be noted that Elon Musk owns an artificial intelligence startup xAI, which, at the time of launch, promoted itself as a company aiming to “understand the true nature of the Universe.” As of November 2024, the valuation of xAI was $50 billion . Currently, the only widely available development of the startup is a chatbot Grok, which trained on Twitter posts. It is integrated into the social network, and as of yesterday, it is available in a separate iOS app (currently only in the USA).\nIt should also be reminded that Musk has repeatedly called for caution with artificial intelligence and even signed an open letter demanding a halt to the development of technology for six months. He also continues to actively criticize OpenAI , which he accuses of focusing on making money and deviating from the original goal of developing artificial intelligence for the benefit of humanity (in fact, earnings at Sam Altman’s company are not so great yet ).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data/",
+      "https://x.com/xai/status/1877536836924424445",
+      "https://techcrunch.com/2025/01/08/elon-musk-agrees-that-weve-exhausted-ai-training-data/?guccounter=1",
+      "https://www.cnbc.com/2024/10/09/ai-startup-writer-launches-new-model-to-compete-with-openai.html",
+      "https://cnbc.com/2024/10/09/ai-startup-writer-launches-new-model-to-compete-with-openai.html",
+      "https://www.techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data/",
+      "https://techcrunch.com/2025/01/08/elon-musk-agrees-that-weve-exhausted-ai-training-data/",
+      "https://www.techcrunch.com/2025/01/08/elon-musk-agrees-that-weve-exhausted-ai-training-data/?guccounter=1",
+      "https://techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data",
+      "https://www.x.com/xai/status/1877536836924424445"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Ilya Sutskever",
+          "sentiment": "none"
+        },
+        {
+          "name": "Mark Penn",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Microsoft",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T12:44:13.654+02:00",
+    "updated": "2025-01-10T12:44:13.654+02:00"
+  },
+  {
+    "uuid": "470c0ec32aebafa8d720f8f1ea45052fb3c284b4",
+    "url": "https://vnexplorer.net/rosie-jones-hits-out-at-same-old-ableism-after-big-fat-quiz-of-the-year-2023-appearance-s697085.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-28T22:13:00Z",
+    "title": "Rosie Jones hits out at ‘same old ableism’ after Big Fat Quiz of the Year 2023 appearance",
+    "text": "Comedian Rosie Jones has condemned the “same old ableism” after she was inundated with abuse following an appearance on Channel 4’s Big Fat Quiz of the Year.\nJones, 33, appeared on the end-of-year comedy panel show alongside host Jimmy Carr and fellow panellists Mo Gilligan, Katherine Ryan, Richard Ayoade, Mel Giedroyc and Kevin Bridges.\nWhile the episode aired, a number of viewers shared negative opinions about Jones on social media, branding her “unfunny” and accusing her of “hindering the pacing of the show”.\nJones, who has cerebral palsy, is a vocal campaigner against ableism and frequently calls out trolls who attack her during TV appearances.\n“Rinse and repeat,” she posted to X/Twitter on Thursday 28 December. “Different telly show, same old ableism. Thanks for the support, but I’m gonna lie low for a bit and sink into the perineum of Christmas and New Year.”\nJones was quote-tweeting a post she’d shared following her spot at The Royal Variety Performance on 17 December.\n“Thank you for all of the lovely messages about The Royal Variety last night, what fun,” she said. “Less of a thanks to the not so lovely ones.\n“Comedy is subjective and it’s ok if I’m not your cup of tea. But please remember the difference between personal preference and downright ableism.”\nCriticism of Jones appeared to be exacerbated by fans defending Ricky Gervais, or those comparing the two. Gervais released his latest comedy special, Armageddon, on Netflix on Christmas Day.\nFollowing her latest post, a number of people leapt to Jones’s defence.\n“The Rosie Jones furore has exposed a depressing reality: a significant number of people in this country really would prefer it for visibly disabled people to hide away at home,” journalist Frances Ryan wrote on X.\n“They’re fine with disabled people, y’know. They just don’t want to have to see or hear them.”\n“Rosie Jones is the best,” comedian and TV presenter Nish Kumar tweeted.\n(PA)\n“What’s with the Rosie Jones witch hunt?” one social media user questioned. “Don’t think she’s funny? Then don’t watch her. Plenty find her funny. There’s no need for everyone to start jumping on about it- have we learnt nothing about how social media can affect people?! What happened to be kind?”\nComedian Mark Grimshaw commented: “Honestly, even if you genuinely don’t like Rosie Jones’ comedy, a lot of you really need to question why you’re getting so irate at a disabled woman who spoke for a grand total of around five minutes across the entire duration of a two-hour-long TV show.”\nIn July, Jones released a one-off programme for Channel 4, the controversially titled Am I a R",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1maj8s.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1maj8s.img"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "rosie jones",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mel giedroyc",
+          "sentiment": "none"
+        },
+        {
+          "name": "jones",
+          "sentiment": "none"
+        },
+        {
+          "name": "kevin bridges",
+          "sentiment": "none"
+        },
+        {
+          "name": "richard ayoade",
+          "sentiment": "none"
+        },
+        {
+          "name": "jimmy carr",
+          "sentiment": "none"
+        },
+        {
+          "name": "mo gilligan",
+          "sentiment": "none"
+        },
+        {
+          "name": "katherine ryan",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "royal variety",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:22:47.080+02:00",
+    "updated": "2023-12-29T00:22:47.080+02:00"
+  },
+  {
+    "uuid": "eda1eb7f0599d12aaa2d89fbb8f22f31bd4bb31a",
+    "url": "https://www.larazon.es/ciencia/nuestros-antepasados-les-gustaba-vivir-pareja-mas-que-creia_202401066598a700cf86730001cb2521.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lucía, Gutiérrez",
+    "published": "2024-01-06T00:04:00Z",
+    "title": "A nuestros antepasados les gustaba vivir en pareja más de lo que se creía",
+    "text": "Previsión\nEstudio científico\nA nuestros antepasados les gustaba vivir en pareja más de lo que se creía\nHace 70 millones de años, en la época de los dinosaurios, los homo sapiens buscaban compañía\nVivir con una pareja es mejor que hacerlo solo. Este principio que sigue en vigor hoy en día para la mayor parte de los humanos era también una aspiración de nuestros antepasados, pese a que hasta ahora se creía que la mayoría de ellos vivía sin compañía.\nAsí lo pone de manifiesto un estudio publicado por la revista científica PNAS y liderado por científicos del Instituto Pluridisciplinar Hubert Curien, que revela que hace unos 70 millones de años, cuando existían los dinosaurios, los\nantepasados de los primates vivían habitualmente en parejas y solo un 15 % de ellos mantuvo un estilo de vida solitario.\nEl descubrimiento, del que da cuenta la agencia científica SINC, cuestiona la hipótesis hasta ahora comúnmente aceptada de que en aquella época los humanos vivían solos y que la vida en pareja se consolidó mucho después.\nSegún este estudio, nuestros antepasados adoptaron formas variables de organización social antes de lo que se pensaba. Los autores consideran probable que la vida en pareja ofreciera ventajas evidentes como una reproducción más fácil y menores costes de termorregulación al ‘acurrucarse’ uno con otro.\nAunque ya se han realizado varias investigaciones sobre la organización social de los antepasados de los\nprimates, esta es la primera que utiliza únicamente observaciones de campo disponibles en la actualidad, destaca SINC.\nAsí, mediante el estudio de 498 poblaciones de 223 especies, el equipo ha construido la base de datos de primates más precisa hasta la fecha. Para los expertos, “este proyecto allana el camino para comprender mejor la evolución social de la especie humana”.\nLa lista del pedófilo",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T03:24:30.531+02:00",
+    "updated": "2024-01-06T03:24:30.531+02:00"
+  },
+  {
+    "uuid": "c97166d00d61793552bcf9ea4cbefc8e7ba736de",
+    "url": "https://www.wbur.org/news/2023/12/28/lynn-shooting-teen-deaths",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "WBUR",
+    "published": "2023-12-28T22:02:00Z",
+    "title": "Two teenagers shot and killed Wednesday in Lynn",
+    "text": "Advertisement Two teenagers shot and killed Wednesday in Lynn Two teenagers were shot and killed Wednesday in Lynn, Massachusetts, according to investigators. At about 10:21 p.m., police received several emergency calls reporting shots fired. Police responding to the address said they found two male victims suffering from gunshot wounds. The two were taken to North Shore Medical Center. The first victim, a 16-year-old, was pronounced dead in the emergency room. The second victim, a 19-year-old male, also died at the hospital. On Tuesday at about 8:32 p.m., Lynn police received a 911 call for three victims suffering from multiple gunshot wounds near a Pizza Hut restaurant. The victims were taken to Massachusetts General Hospital and appear to be in stable condition. Lynn Police Chief Christopher Reddy said the shootings appear to be targeted attacks and asked for the public's help with the investigation. No arrests have been made. Mayor Jared Nicholson called the shootings “devastating, infuriating, and utterly unacceptable.” “We will respond with increased police presence as needed and renewed urgency and clarity in our efforts for peace, justice, and a safer community,” he said in a statement.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "lynn two",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lynn",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jared nicholson",
+          "sentiment": "none"
+        },
+        {
+          "name": "christopher reddy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "massachusetts general hospital",
+          "sentiment": "none"
+        },
+        {
+          "name": "pizza hut",
+          "sentiment": "none"
+        },
+        {
+          "name": "lynn police",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "north shore medical center",
+          "sentiment": "none"
+        },
+        {
+          "name": "massachusetts",
+          "sentiment": "none"
+        },
+        {
+          "name": "lynn",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:06:15.561+02:00",
+    "updated": "2023-12-29T02:08:50.566+02:00"
+  },
+  {
+    "uuid": "7290b458ab0f4612a29c99b65c4f25e72ab1293a",
+    "url": "https://www.infobae.com/peru/2024/06/27/magaly-medina-critica-a-paolo-guerrero-por-desplante-a-periodista-deportivo-que-tal-soberbia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jazmín Marcos",
+    "published": "2024-06-27T22:07:00Z",
+    "title": "Magaly Medina critica a Paolo Guerrero por desplante a periodista deportivo: “Qué tal soberbia” - Infobae",
+    "text": "La conductora de ‘Magaly TV La Firme’ reprochó la actitud del futbolista y resaltó la actitud del entrevistador, quien no se quedó callado | Magaly TV La Firme Paolo Guerrero se convirtió en protagonista de un tenso momento con el periodista deportivo Fernando Egúsquiza tras el encuentro entre Perú vs. Canadá por la Copa América. El reportero de Latina se encontraba en la zona mixta a la espera de la llegada del 9 para conocer sus impresiones tras la derrota, pero el hijo de Doña Peta desde el inicio señaló que no le contestaría.\n“ No te iba a dar una entrevista a ti; lo sabes, ¿no? ”, fue la reacción del deportista, pero el hombre de prensa le aclaró que cumplía con su trabajo y estaba en el futbolista decidir si responder o no: “ Pero te estoy preguntando; si quieres no contestas, no hay ningún problema ”.\nEstas palabras fueron suficientes para que Magaly Medina critique la actitud del novio de Ana Paula Consorte. La presentadora de espectáculos rechazó que Paolo conteste a quién le conviene y sea necio con quienes han tenido alguna crítica con él. Incluso, recordó el momento que tuvo un impase con su reportero en una cafetería.\nMagaly Medina critica a Paolo Guerrero. “Paolo le contesta a quien le da la gana, a quien le ha hecho alguna vez una mala pregunta o le ha hecho una pregunta incómoda, él no contesta, los trata como trató al reportero de mi programa con el que se encontró a la salida de una cafetería. Parece que esta vez recapacitó un momento y corrigió su actitud”, mencionó al inicio. Llamó a Paolo Guerrero un ídolo de barro En su descargo, la figura de ATV mencionó que los futbolistas peruanos están acostumbrados a que siempre se hable bien de ellos, por lo que cuando alguien dice lo contrario, terminan molestos y distantes. “Como están acostumbrados estos ídolos con pies de barro a que todo el tiempo se les sobonee y se les pase la franela, no resisten una crítica, no resisten un mal comentario”, agregó la periodista.\nMagaly Medina critica a Paolo Guerrero. Resaltó también que muchos de los futbolistas tienen pésimas actitudes con la prensa y esto es responsabilidad de los propios futbolistas que no se han hecho respetar.\n“Que tal soberbia que tienen estos jugadores de fútbol, creo que es el único país en el que maltratan así a su prensa deportiva, es porque esa prensa deportiva no se ha hecho respetar”, acotó la popular ‘Urraca’ evidentemente molesta. Además, señaló que muchas de las palabras de los periodistas deportivos en favor de los futbolistas se dan solo porque de esa manera pueden tener los accesos que necesitan para hacer su trabajo. Por esa razón, Medina considera que los integrantes de la selección se molestan con otro tipo de programas que sí critican su desempeño en la cancha.\nMagaly Medina aconsejó a Paolo Guerrero por enfrentamiento con reportero. “Para que le abran la puerta de un estadio, para que le den un acceso a camerinos para que los dejen ir a los partidos, tienen que pelarle los dientes, ponerles frases bonitas a todos estos futbolistas. Así es como se ha movido siempre este sistema del futbol en el Perú, por eso detestan y odian tanto que otros programas que no están bajo su control, los criticamos. Eso es lo que les reviente, los llena de furia y de cólera. Por lo menos este periodista se hizo respetar, fue muy apropiado”, acotó la esposa de Alfredo Zambrano.\nFinalmente, Magaly Medina destacó que Paolo Guerrero haya pensado muy bien antes de actuar y contestara la pregunta del hombre de prensa, mucho más ahora que la selección peruana no está destacando en la Copa América.\n“Pensó por un momento y recalculó y contestó bien porque otra pachotada como al que pasó con mi reportero creo que lo iba a dejar mal parado. Sobre todo ahora en un momento que no tienen de que creerse. ¿El Perú está ganando algo?, ¿está por el sub campeonato de la Copa América?, ¿va por el trofeo de la Copa América? No”, sentenció la periodista.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://cdn.jwplayer.com/videos/dpKCocoa-XEya6GhY.mp4",
+      "https://www.cdn.jwplayer.com/videos/dpKCocoa-XEya6GhY.mp4"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-28T01:18:54.520+03:00",
+    "updated": "2024-06-28T01:18:54.520+03:00"
+  },
+  {
+    "uuid": "35cd7e5e1ee5e20095b00a2c25849f635bdeff87",
+    "url": "https://www.eleconomista.es/actualidad/noticias/13156520/01/25/la-prevision-meteorologica-amenaza-las-cabalgatas-de-reyes-en-extremadura.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "elEconomista.es",
+    "published": "2025-01-03T10:02:00Z",
+    "title": "La previsión meteorológica amenaza las Cabalgatas de Reyes en Extremadura",
+    "text": "[Última hora en elEconomista.es15](/slices/web-slice.php?modulo=392)\nLa amenaza de incesantes lluvias previstas para el domingo 5 de enero hace que los niños y familias estén mirando al cielo para ver si podrán ver como merecen a sus Majestades Los Reyes Magos de Oriente; para garantizar la ilusión y la magia, los Ayuntamientos están realizando cambios de última hora.\nZafra, Almendralejo o Esparragalejo ya han anunciado que se adelanta la comitiva al sábado para evitar males mayores el domingo, mientras que otras esperan a que la predicción meteorológica sea más precisa para tomar decisiones.\nEn Badajoz, el concejal de Festejos, José Antonio Casablanca, ha señalado este jueves en la presentación de la Cabalgata ha reconocido que son \"conscientes\" de que las condiciones climatológicas podrían ser \"adversas\" y que irán viendo cómo evolucionan, de manera tal que la idea es, llegado el momento y cuando tengan una predicción \"completamente fidedigna\" de lo que va a ocurrir, tomar las decisiones al respecto, para lo que apurarán \"hasta el mismo día\".\nAsí, estas pueden pasar por adelantar la hora, aunque es complicado porque hay que coordinar a los padres y a los niños participantes, o por retrasarlo \"un poquito\" o que sea \"más rápido\". Si llueve \"poco\", dispondrán de chubasqueros para los niños como ha ocurrido en otras ocasiones y también de plásticos para cubrir las figuras en el caso de que sea necesario y evitar que se puedan estropear.\nEn el caso de Mérida, se esperará a este viernes para dar a conocer los posibles cambios, en caso de que los haya, en cuanto al recorrido, horarios o fechas.\nEn el caso de Coria, en el caso de que llueva, en lugar del recorrido habitual Melchor, Gaspar y Baltasar recibirían a los niños, y no tan niños, en el Pabellón de Deportes, a partir de las 18,00 horas, y allí se haría la entrega de regalos y de caramelos.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "topics": [
+      "Weather->weather forecast"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "José Antonio Casablanca",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Ayuntamientos",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T12:21:01.655+02:00",
+    "updated": "2025-01-03T12:21:01.655+02:00"
+  }
+]

@@ -1,0 +1,436 @@
+[
+  {
+    "uuid": "f656aa5a6ecd1d392bf2d72b58cfd5f4aea95f40",
+    "url": "https://thedailyguardian.com/dense-fog-disrupts-delhi-ncr-flight-and-train-delays-cause-inconvenience/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Priyanka Koul",
+    "published": "2023-12-29T01:01:00Z",
+    "title": "Dense Fog Disrupts Delhi-NCR: Flight and Train Delays Cause Inconvenience - The Daily Guardian",
+    "text": "Delhi-NCR experienced a hazy morning on Friday as the cold wave continued to hold its grip on Northern India, resulting in dense fog. Despite a slight improvement in fog conditions at the Indira Gandhi International Airport, the lowest visibility was recorded at 150 meters, with the Runway Visual Range (RVR) ranging from 400 to 800 meters, according to the India Meteorological Department. The thick fog led to delays in several flights at the Delhi Airport, affecting both arrivals and departures. Additionally, Delhi-bound trains faced delays due to low visibility. The Meteorological Department’s forecast warned of the possibility of visibility reducing to 50 meters in very dense fog and improving to 400 meters in moderate fog at the IGI airport. Passengers voiced their grievances over the inconvenience caused by the delays. A traveller, Mohd Shahrukh, expressed frustration as his flight was delayed by nearly three hours, impacting attendance at an important event. He stated, “A lot of people are facing difficulties due to the delay of flights.” The impact of dense fog extended to trains as well. Subhash, another passenger, highlighted delays affecting eight trains that were supposed to reach the previous night and uncertainty about their arrival times. The low visibility on roads due to dense fog also posed challenges for morning commuters. The India Meteorological Department has issued predictions of dense to very dense fog conditions across North Indian states for the next two days, cautioning travellers and urging caution on the roads.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "northe",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mohd shahrukh",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ncr",
+          "sentiment": "negative"
+        },
+        {
+          "name": "meteorological department",
+          "sentiment": "none"
+        },
+        {
+          "name": "india meteorological department",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "indira gandhi international airport",
+          "sentiment": "none"
+        },
+        {
+          "name": "delhi airport",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T08:19:00.172+02:00",
+    "updated": "2023-12-29T08:19:00.172+02:00"
+  },
+  {
+    "uuid": "dc2d41a826b2eb1a1d1abba9392b4c123fa861cf",
+    "url": "https://www.mediapost.com/publications/article/402479/publishers-beware-general-invalid-traffic-jumped.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "mediapost.com",
+    "published": "2025-01-10T00:00:00Z",
+    "title": "Publishers, Beware: General Invalid Traffic Jumped By 86% In 2024 01/10/2025",
+    "text": "by Ray Schultz , 2 hours ago The internet suffered an 86% surge in General Invalid Traffic (GIVT) in the second half of 2024, driven by AI scrapers and crawlers, according to a study from DoubleVerify’s Fraud Lab.\nGIVT -- defined as self-declared bots used for search engine indexing, stress testing, AI scraping and other such purposes -- is not inherently malicious, the study says.\nBut it can distort measurement, inflate impression count and cause discrepancies, it adds.\nAI scrapers were especially active during the election period, causing a GIVT spike.\nThe top crawlers and scrapings driving known-Bot GIVT impressions in December 2024 included Googlebot, MetaAI Crawler, GPT Bot, and AppleBot, Double Verify says.\nIn addition to the scrapers that were easily identified, there were “more evasive scrapers operated by individuals/organizations who intentionally disguised them as human visitors,” the study continues. “DV continuously identifies non-transparent scrapers and crawlers based on their behavior and digital telemetry.”\nadvertisement\nadvertisement\nThe study advises advertisers to optimize their campaign settings, understand platform limitations and address possible GIVT challenges with inclusion lists.\nWhy the latter? “Some media-buying partners may advocate for an inclusion-list-only approach or rely primarily on post-bid measurement methods like log file analysis,” the study notes. “These methods fail to proactively address GIVT, especially as new forms emerge in real time.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial and economic news",
+      "Social Issue->social condition",
+      "Social Issue->demographics",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:45:56.997+02:00",
+    "updated": "2025-01-10T05:08:39.645+02:00"
+  },
+  {
+    "uuid": "ac68fc25427986d0646e6f4849c1901c3eb6ffa4",
+    "url": "https://www.tribuna.com.mx/tendencias/2024/12/19/se-agrava-salud-raphael-cancela-conciertos-tras-hospitalizacion-esposa-rompe-el-silencio-389870.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alejandra HolguÍn",
+    "published": "2024-12-19T23:19:00Z",
+    "title": "¿Se agrava salud? Raphael cancela conciertos tras hospitalización; esposa rompe el silencio",
+    "text": "Madrid, España.- La esposa del cantante Raphael, de nombre Natalia Figueroa, recientemente fue captada por varios medios de comunicación, en el que finalmente rompió el silencio con respecto al actual estado de salud, después de que se confirmara que iba a tener que cancelar conciertos que tenía programados, después de haber sido hospitalizado en su natal España, ¿acaso se agravó su salud?\nEl pasado martes 17 de diciembre, se informó que Miguel Rafael Martos Sánchez, mejor conocido solamente como Raphael, fue trasladado de emergencia al hospital tras sufrir un problema cardiovascular mientras grababa el especial navideño de La Revuelta. Ahora, después de varios días y las actualizaciones de su estado, se ha dicho que fue en realidad un accidente cerebrovascular y que no podría ni hablar.\nAunque se dice que esto podría no ser algo grave y estaría todo bajo control, se reveló que el pasado miércoles se le transfirió de hospital, y los médicos de este señalaron que antes de poder dar un diagnostico completo y darle de alta, ya que consideran que es necesario que se le realizaran varios estudios más: \"No obstante será necesaria la realización de más pruebas para determinar el origen del proceso que presenta\".\nPese a estos alentadores comentarios en el que afirman que está bien y que su vida no correría peligro, desgraciadamente el intérprete de temas como Mi Gran Noche ha anunciado que tuvo que cancelar a los últimos conciertos que tenía programados para este final de año, debido a su estado de salud. Su esposa aseguró que esto lo decidió mientras que se resignaba ya que él no quería cancelarlos.\nFinalmente, en Sale el Sol compartieron una entrevista que se le hizo a Natalia su llegada al hospital de Madrid en el que se encuentra el cantante, donde evita dar declaraciones, excepto un \"Todo va muy bien, muy, muy bien\", cuando le cuestionaron como se encontraba su esposo, alejándose lo más rápido posible de todos los medios de comunicación que le lanzaban varias preguntas sobre el futuro del cantante.\nFuente: Tribuna del Yaqui",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->medical condition",
+      "Health->mental health and disorder",
+      "Health->health facility",
+      "Social Issue->social condition",
+      "Human Interest->celebrity"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Natalia Figueroa",
+          "sentiment": "none"
+        },
+        {
+          "name": "Raphael",
+          "sentiment": "none"
+        },
+        {
+          "name": "Miguel Rafael Martos Sánchez",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T02:57:56.495+02:00",
+    "updated": "2024-12-20T02:57:56.495+02:00"
+  },
+  {
+    "uuid": "6923931d02025e96e19c81837a033d7f46143d27",
+    "url": "https://www.walesonline.co.uk/lifestyle/tv/met-office-issues-75mph-wind-28362097",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cathy Owen",
+    "published": "2023-12-29T10:11:00Z",
+    "title": "Met Office issues 75mph wind warning for Wales - Wales Online",
+    "text": "The last few days of 2023 are forecast to be unsettled, with strong winds, rain and even snow featuring in parts of the UK. Yellow warnings for wind and rain have been been issued for a large area of Wales on Saturday and Sunday.\nThe Met Office says that an area of low pressure will push in from the west on Saturday and will be the most dominant feature in the forecast leading up to the new year. During the early hours of Saturday morning a potentially deep area of low pressure will move in from the west to affect Ireland and western parts of the UK.\nAs the system moves eastwards, the boundary between the area of low pressure and the relatively colder conditions further north and east will lead to a band of transient snow across some of the high ground of northern England and Scotland. It is possible this snow could fall to lower levels for a brief period of time across Scotland.\nREAD MORE: Storm Gerrit leaves flooding and destruction around UK\nREAD MORE: Cardiff council scraps Christmas tree collection service\nThe yellow warning for wind in Wales is in place from 11am on Saturday (December 30) until 3pm on Sunday (December 31).\nIt states: \"An active cold front will move east across England and Wales during Saturday and into Sunday and will be characterised by strong winds and some heavy rain. Gusts of 45-50 mph widely, but squally near the cold front with some gusts around 60 mph, whilst the strongest gusts are likely near coasts in the west and south, with 65-75mph in places.\"\nThe challenging conditions brought by Storm Gerrit have now eased after Wales was battered by winds of up to 88mph and supercell thunderstorm that resulted in a tornado hitting Greater Manchester, and the weekend looks set to bring another spell of wet and windy weather .\nThe areas covered by the wind warning are mainly coastal and include:\nBlaenau Gwent Bridgend Caerphilly Cardiff Carmarthenshire Ceredigion Conwy Gwynedd Isle of Anglesey Merthyr Tydfil Monmouthshire Neath Port Talbot Newport Pembrokeshire Powys Rhondda Cynon Taf Swansea Torfaen Vale of Glamorgan The warning for rain is in place from 10am to 6pm on Saturday (December 30). It says: \"An active frontal zone will move east across Wales during Saturday bringing a spell of heavy rain and strong winds. 20-30 mm of rain falling widely and as much as 40-50 mm in the northwest.\"\nThe areas covered by this warning are:\nBlaenau Gwent Bridgend Caerphilly Cardiff Carmarthenshire Ceredigion Conwy Gwynedd Isle of Anglesey Merthyr Tydfil Monmouthshire Neath Port Talbot Newport Pembrokeshire Powys Rhondda Cynon Taf Swansea Torfaen Vale of Glamorgan. Met Office chief forecaster Steven Ramsdale says: \"This system is likely to bring a range of weather including hill snow. Heavy rain will spread across all but the far north on Saturday affecting similar areas previously affected by Storm Gerrit. However, this rainfall will be a step down from that seen during Storm Gerrit.”\nOn Friday morning, Natural Resources Wales had 15 flood alerts in place across the country.\nBBC Weather says: \"Another stormy spell of weather on the cards for the final few days of 2023. A developing area of low pressure in the Atlantic will bring gales, heavy rain and hill snow in the north. Keep an eye on the latest forecast and be prepared for some travel disruption this weekend.\"\nLooking further ahead into 2024, there is low forecast confidence. Met Office deputy chief forecaster Nick Silkstone said: “Through to mid-January, there is a signal for a shift in the pattern compared to the winter so far, with more settled and colder-than-average conditions becoming increasingly likely.”\n ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "external_links": [
+      "https://twitter.com/intent/follow?screen_name=WalesOnline",
+      "https://www.facebook.com/WalesOnline",
+      "https://facebook.com/WalesOnline",
+      "https://twitter.com/intent/follow",
+      "https://www.twitter.com/intent/follow?screen_name=WalesOnline"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "met office",
+          "sentiment": "none"
+        },
+        {
+          "name": "cardiff",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "wales",
+          "sentiment": "none"
+        },
+        {
+          "name": "uk",
+          "sentiment": "none"
+        },
+        {
+          "name": "ireland",
+          "sentiment": "none"
+        },
+        {
+          "name": "england",
+          "sentiment": "none"
+        },
+        {
+          "name": "scotland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T12:18:52.388+02:00",
+    "updated": "2023-12-29T16:48:46.933+02:00"
+  },
+  {
+    "uuid": "f00a6adc27942d358e6768a58df60e3e205a8f96",
+    "url": "https://www.corrieredellosport.it/news/calcio/serie-a/inter/2023/12/29-119634162/perche_il_punto_contro_un_grande_genoa_e_molto_prezioso_per_l_inter",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "La redazione",
+    "published": "2023-12-29T21:54:00Z",
+    "title": "Perché il punto contro un grande Genoa è molto prezioso per l'Inter",
+    "text": "Anche la corazzata Inter può frenare la sua corsa se, lungo la sua navigazione incontra un Grifone combattivo e orgoglioso che gioca una delle migliori partite stagionali proprio contro la capolista. La par condicio genoana è ineccepibile: 1-1 con la Juve il 15 dicembre, 1-1 con l'Inter due settimane più tardi . Se a Torino, nell'ultima partita dell'anno, Allegri batte Mourinho, si porta a -2 da Inzaghi. La partita di Marassi è stata bella , intensa, agonisticamente giocata a un gran ritmo, sino alla fine che sembrava non arrivare mai . Anche perché, nel primo tempo la gara era stata sospesa per quasi dieci minuti a causa del lancio di fumogeni che, in teoria, in uno stadio non potrebbero entrare. Arnautovic ha segnato il secondo gol stagionale, favorito anche dall'errore di Doveri. Nell'azione decisiva, l'arbitro ha sorvolato sull'evidente spinta di Bisseck ai danni di Strootman e ha avuto la presunzione di non andare al Var, quantomeno per rivedere l'episodio. Legittime le proteste dei genoani.\nInter, un punto guadagnato All'austriaco, però, in pieno recupero del primo tempo ha risposto Dragusin, di partita in partita fra i più apprezzati difensori del campionato . Nella circostanza, inopinatamente Impacciato e in ritardo è stato Sommer , colpevole di uno dei pochi errori della stagione. Anche nella ripresa, il confronto è stato equilibrato. Gilardino , al terzo risultato utile consecutivo, ha cercato di vincerlo inserendo Messias, Malinovskyi e Retegui . Al contrario di Barella che, richiamato in panchina, ha preso a calci una bottiglietta in preda a evidente nervosismo, l'Inter consideri il pareggio colto a Fort Marassi un punto guadagnato e non due punti persi . Gilardino chiude in gloria l'anno che l'ha visto riportare il Genoa in Serie A dopo averne assunto il comando il 6 dicembre 2022. Ora lo sta guidando alla grande verso la salvezza . E il 2024 promette nuove soddisfazioni.\nGuarda il video Perché la proroga del Decreto Crescita spinge Guirassy al Milan e Buchanan all’Inter",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-30T01:12:22.095+02:00",
+    "updated": "2023-12-30T01:12:22.095+02:00"
+  },
+  {
+    "uuid": "6d7d1403f505beb256be35262ec30d46a3f0b42c",
+    "url": "https://nyweekly.com/health/dr-james-fraser-transforming-healthcare-through-chiropractic-excellence",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NY Weekly Staff",
+    "published": "2024-03-14T23:04:00Z",
+    "title": "Dr. James Fraser: Transforming Healthcare Through Chiropractic Excellence",
+    "text": "In the realm of healthcare, certain individuals stand out for their unwavering dedication and expertise, and\nDr.James Fraser is undoubtedly one of them. Renowned for his profound knowledge in chiropractic care and his relentless commitment to improving the well-being of his patients, Dr. Fraser has become a prominent figure in the field, reshaping lives and redefining the standards of healthcare. Chiropractic care, a discipline focused on rectifying subluxations and restoring function to the neuromusculoskeletal system, lies at the heart of Dr. Fraser’s practice. With a career spanning several years, his journey is a testament to the pivotal role of chiropractic care in addressing a myriad of health concerns and enhancing overall wellness.\nDr. Fraser’s trajectory in chiropractic care commenced with a solid foundation laid during a preceptorship in Lake City, Florida. This early exposure provided him with invaluable practical experience, shaping his understanding of patient care. Over the years, Dr. James honed his skills, acquiring proficiency in a diverse range of chiropractic techniques, including Gonstead, Diversified, Thompson, Activator, Palmer package, Toggle, Epley, Websters, soft tissue modalities, and physiotherapies. This extensive expertise empowers him to tailor treatments to meet the specific needs of each individual, ensuring optimal outcomes.\nObtaining chiropractic licenses in both Florida and Colorado marked significant milestones in Dr. Fraser’s career, enabling him to practice in multiple locations, including Port Orange, Lake City in Florida, and Lone Tree and Aspen in Colorado. Presently, Dr. Fraser operates his chiropractic practice in Basalt, Colorado, where he continues to serve and enhance the well-being of his patients, becoming an integral part of the local healthcare community.\nDr. James’ expertise transcends routine chiropractic care, extending to the management of complex cases involving patients with multiple medical issues. His proficiency in treating conditions such as severe scoliosis, herniated discs, and chronic pain management is highly regarded, earning him a reputation as a trusted resource for high-complexity cases. Dr. Fraser’s comprehensive skill set, characterized by precise adjustments, accurate diagnoses, and effective treatment plans, underscores his commitment to delivering exceptional patient care.\nThroughout his illustrious career, Dr. James has garnered accolades and recognition for his contributions to the chiropractic field. His receipt of the Clinical Service Award in 2014 and his achievement as an Eagle Scout in 2001 reflect his dedication to excellence and leadership.\nHowever, Dr. Fraser’s impact extends far beyond awards; it resonates deeply within the healthcare domain, where his expertise benefits patients across a broad spectrum of health concerns.\nDr. Fraser’s proficiency also extends to addressing a wide set of diseases, including migraines, temporomandibular joint dysfunction, vertigo, cervical pain, lumbar pain, and sciatica. His ability to navigate and provide solutions for these challenging medical conditions highlights the invaluable role of chiropractic care in promoting holistic well-being and improving the quality of life for patients facing complex health challenges.\nBeyond his professional endeavors, Dr. James finds fulfillment in his personal life, sharing a home with his wife, Brianna Fraser, and their two beloved pet dogs. This harmonious balance between personal and professional commitments underscores his holistic approach to life and healthcare, emphasizing the importance of nurturing both family and patients.\nDr. James’ journey as a medical professional is a testament to his dedication to chiropractic care and his diverse skill set, which has benefited numerous patients over the years. His achievements underscore his commitment to excellence and his significant contributions to the chiropractic field, further cementing his reputation as a respected figure in healthcare.\nIn conclusion, Dr. James Fraser’s journey exemplifies the transformative power of chiropractic care in enhancing health and wellness. His unwavering dedication, comprehensive expertise, and patient-centered approach have reshaped lives and inspired countless individuals. As we reflect on his contributions, we are reminded of the potential benefits that chiropractic care can bring to individuals’ lives, promoting overall well-being and offering a holistic approach to healthcare. Dr. Fraser’s legacy serves as a beacon of hope and healing, guiding individuals on their journey toward better health and a higher quality of life.\nPublished by: Nelly Chavez",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.roaringforkchiropractor.com/",
+      "https://roaringforkchiropractor.com/about-chiro",
+      "https://www.roaringforkchiropractor.com/about-chiro",
+      "https://www.roaringforkchiropractor.com",
+      "https://roaringforkchiropractor.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "james fraser",
+          "sentiment": "negative"
+        },
+        {
+          "name": "dr.james fraser",
+          "sentiment": "none"
+        },
+        {
+          "name": "james",
+          "sentiment": "none"
+        },
+        {
+          "name": "fraser",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "lake city",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-15T01:15:16.049+02:00",
+    "updated": "2024-03-15T01:15:16.049+02:00"
+  },
+  {
+    "uuid": "ece6a68b777508ab82943d2ddced28a812301b4b",
+    "url": "https://thenationaldesk.com/news/americas-news-now/bill-maher-says-harris-must-show-voters-shes-not-part-of-worst-excesses-of-the-left-kamala-trump-presidential-election-november-5th-politics-campaign",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RAY LEWIS | The National News Desk",
+    "published": "2024-10-24T17:22:00Z",
+    "title": "Bill Maher says Harris must show voters she's not part of 'worst excesses of the left'",
+    "text": "WASHINGTON (TNND) — Comedian Bill Maher said in an interview Thursday that Vice President Kamala Harris needs to convince voters undecided on the election that she is not part of the “worst excesses of the left.” “Kamala’s big, I think, challenge here to win over the undecided voters is to convince them that she’s not part of what they suspect she might be, sort of a stealth version of the worst excesses of the left,” the comedian told Joe Scarborough, host of the MSNBC show “Morning Joe.” There are some people who think Harris’s opponent, former President Donald Trump, is less “crazy” than things on the “left” that are “aggressively anti-common sense,” according to Maher. The left side of the political spectrum wasn’t as crazy when former Presidents George Bush and Barack Obama were in office, Maher added, pointing to “cancel culture,” “victim culture” and rising support for Hamas. Harris has campaigned over the past week in swing states like Michigan, Wisconsin and Georgia, which FiveThirtyEight’s data shows are all supporting a candidate by a margin of one percentage point. READ MORE | Bill Maher slams criticism of his attitude toward liberals: 'Your ideas are stupid' Obama gave a speech at a Detroit rally for Harris on Tuesday. The former president recited lyrics from a song by Eminem, who spoke before him. “I gotta say, you know, I have done a lot of rallies, so I don’t usually get nervous, but I was feeling some kind of way following Eminem,” Obama said. “I noticed my palms are sweaty, knees weak, arms are heavy. Vomit on my sweater already, mom’s spaghetti. I’m nervous, but on the surface I look calm and ready to drop bombs, but I keep on forgetting.” Last week, Harris held a rally in La Crosse, Wisconsin, where she told protesters interrupting her speech that they were at the “wrong” rally. The protesters chanted \"Christ is king\" and \"Jesus is Lord\" after the vice president discussed reproductive rights. “I think you meant to go to the smaller one down the street,” she told them. On Thursday, Harris is scheduled to hold a rally in Atlanta with Obama and Bruce Springsteen. Have questions, concerns or tips? Send them to Ray at [ rjlewis@sbgtv.com](mailto:rjlewis@sbgtv.com).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://projects.fivethirtyeight.com/polls/",
+      "https://www.projects.fivethirtyeight.com/polls/",
+      "https://projects.fivethirtyeight.com/polls"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Kamala Har",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Harris",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Bill Maher",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Joe Scarborough",
+          "sentiment": "none"
+        },
+        {
+          "name": "Barack Obama",
+          "sentiment": "none"
+        },
+        {
+          "name": "Donald Trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "George Bush",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Hamas",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:29:13.130+03:00",
+    "updated": "2024-10-25T03:37:31.100+03:00"
+  },
+  {
+    "uuid": "3dc00e0a455b0e7a873c62d8533f4c4d2402dad4",
+    "url": "https://www.clarin.com/internacional/ano-nuevo-2024-limpiar-energias-negativas-vinagre_0_9qmhYKym80.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Clarin.com - Home",
+    "published": "2023-12-29T15:25:00Z",
+    "title": "Año nuevo 2024: cómo limpiar energías negativas con vinagre",
+    "text": "El inicio de un año siempre trae con él la oportunidad de\nrenovación y cambio. Y 2024 no será la excepción: muchas personas buscarán maneras de comenzarlo con energías más positivas y mejores vibraciones.\nLimpiar las energías negativas acumuladas durante algún tiempo es una forma de darle la bienvenida a este nuevo ciclo. Existen muchas maneras de\nalejar las “malas vibras” y todas tienen su significado.\nEl vinagre, un elemento de uso cotidiano y presente en casi todas las cocinas, es valorado por sus propiedades purificadoras, incluso más allá de su poder desinfectante.\nAño nuevo 2024: cómo limpiar energías negativas con vinagre\nQuienes adhieren a las prácticas místicas afirman que las propiedades purificadoras del vinagre se extienden más allá de lo físico y pueden aplicarse al ámbito de la energía.\nEl portal Bioguía sostiene que el vinagre es un poderoso limpiador energético. Al emplearlo de manera consciente, afirma, es posible neutralizar las energías negativas que puedan estar presentes en un lugar determinado.\nExisten diferentes formas de llevar a cabo\n rituales de limpieza con este líquido como ingrediente principal. Este medio digital especializado en sustentablidad propone un recurso muy sencillo y efectivo.\nAntes de realizarlo, se debe barrer bien toda la casa con una escoba, de adentro hacia afuera. Luego, llenar un recipiente con agua y agregar una cantidad generosa de vinagre.\nCon esa preparación se trapea el piso de todo el hogar, también de adentro hacia afuera. “Si quieres una limpieza más profunda, puedes pasar este líquido también en vidrios, azulejos y cristales”, recomienda.\nOtra práctica común es, a la mezcla de vinagre y agua, agregarle otros ingredientes, como hierbas bien conocidas por sus propiedades purificadoras. Es el caso de la salvia.\nAl combinarse con el agua y la salvia, el vinagre tendría más “potencia” para eliminar las energías negativas y, en contraposición, atraer las energías positivas.\nPara que esto funcione, hay que colocar parte de la mezcla en puntos estratégicos de la casa, como los rincones y las puertas.\nUna simple mezcla de vinagre blanco y sal marina o gruesa también resultará muy poderosa para un ritual de limpieza de energía.\nEn general, son suficientes un puñado de sal y una taza de vinagre. Distribuir la preparación con una escoba o un trapeador desde la parte más alejada de la casa, por todas las habitaciones.\nMientras se pasa la mezcla por el piso es conveniente recitar una oración o repetir una afirmación. Por ejemplo: “Que esta mezcla purifique y renueve la energía de este hogar, eliminando todas las energías negativas y atrayendo la luz y la positividad”.\nDejar que la mezcla descanse entre 15 y 20 minutos y luego limpiar y ventilar la casa. Al abrir puertas y ventanas se asegurará de que las energías negativas sean expulsadas.\nAunque la limpieza energética con vinagre puede parecer improbable para algunos, muchos otros afirman haber experimentado cambios significativos en la atmósfera de sus hogares después de realizada.\nLos testimonios coinciden en que la limpieza con vinagre es seguida de una sensación de ligereza, calma y positividad en el ambiente.\nNewsletter Clarín",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Religion and Belief",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T17:30:22.799+02:00",
+    "updated": "2023-12-29T17:30:22.799+02:00"
+  }
+]

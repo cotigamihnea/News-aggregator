@@ -1,0 +1,535 @@
+[
+  {
+    "uuid": "99f07fd71bb595c2796de04f5e18539803b9fede",
+    "url": "https://lemmy.ml/post/24620622",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "https://caneandable.social/users/RareBird15",
+    "published": "2025-01-10T04:11:00Z",
+    "title": "Hi everyone! How are you all doing tonight? I just had a frustrating experience trying to set up a free #domain or #subdomain for my #SelfHosted services. Unfortunately, I can't use my",
+    "text": "Hi everyone! How are you all doing tonight? I just had a frustrating experience trying to set up a free #domain or #subdomain for my #SelfHosted services. Unfortunately, I can’t use my laniecarmelo.tech domain because its current configuration doesn’t allow me to add subdomains.\nI discovered EU.org, which offers free domains, and decided to give it a try. However, they require you to have authoritative #DNS #nameservers before requesting a domain. I tried using #Cloudflare, but it wasn’t authoritative. Then I looked into Hostry.com, Hurricane Electric DNS, and FreeDNS.\nHostry requires you to add DNS records for your domain before using their service—but how can I do that when my domain doesn’t exist yet? 🤦♀️ As for FreeDNS and Hurricane Electric, both have inaccessible #CAPTCHAs on their registration forms with no audio alternatives! 😡\nAt this point, I’m so frustrated that I’ve decided to take a break from figuring this out. If anyone has tips for setting up a free domain or knows of accessible DNS services, I’d really appreciate your advice! 🙏\n#Accessibility #TechFrustration #WebHosting #BlindTech #blind #DisabilityInTech #tech #Technology #SelfHosting\n@selfhost @selfhosting @selfhosted @mastoblind @main\nlog in or registerto comment.\n@RareBird15@selfhost@selfhosting@selfhosted@mastoblind@mainAlso, having to add NS entries before registering the domain is the usual way. Most registrars even check that on registration, I’d say\n@RareBird15@selfhost@selfhosting@selfhosted@mastoblind@main\nI’m assuming by “current configuration” you have a DNS host that doesn’t allow adding NS records? One thing you might be able to do is create records like:host1.subdomain.laniecarmelo.tech A 1.2.3.4\nhost2.subdomain.laniecarmelo.tech A 1.2.3.5In my DNS host I can create a host1.subdomain A record without creating an actual subdomain (e.g. creating a subdomain.laniecarmelo.tech NS record).\n@virtuous_sloth@selfhost@selfhosting@selfhosted@mastoblind@mainNo, my situation is weird. My domain is hosted onPorkbun.combut its nameservers point toVultr.com, where my WordPress install is hosted on a friend’s server. Porkbun won’t let me edit DNS records or do much of anything with my domain unless I change back to the default nameservers, which would break my WordPress setup.@RareBird15@selfhost@selfhosting@selfhosted@mastoblind@main\nah, gotcha. I do hope that you find a solution.\nThis seems overly complicated. Why not just get a domain on cloud flare for $10? Are free domains even a thing outside github pages\niirc, cloudflare domains are literally at cost.\nI’ve only hosted public sites for a year or so but cloudflare, cloudflare proxy, pointing at my servers is very easy :)\n.coms are the cheapest at 10.44 I think",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Social Issue->communities",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Hurricane Electric",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:42:36.840+02:00",
+    "updated": "2025-01-10T08:42:36.840+02:00"
+  },
+  {
+    "uuid": "8aaefdf547e6adcc446723e1d1aa4dadafd3c6e4",
+    "url": "https://www.world-today-news.com/ukraine-announced-the-creation-of-a-military-command-post-in-the-kursk-region-2024-08-15-132508",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "world today news",
+    "published": "2024-08-15T16:44:00Z",
+    "title": "Ukraine announced the creation of a military command post in the Kursk region – 2024-08-15 13:25:08",
+    "text": "Ukraine’s Supreme Commander-in-Chief Oleksandr Syrsky said on Thursday that Kiev had set up a military command post in the occupied part of Russia’s Kursk region, where he said his forces were still advancing and had taken up to 1.5 km in the past 24 hours, Reuters quoted him as saying.\nColonel-General Oleksandr Sirsky reported to President Volodymyr Zelensky in a video released by the Ukrainian leader that Kiev forces had advanced 35km into the Kursk region after invading the Russian region last week. Kiev’s assault on Russian territory last week surprised Moscow, taking the initiative away from Russian forces who have been making small but steady gains in eastern Ukraine all year.\nSirsky said Ukrainian forces took control of 82 settlements during the incursion and an area of ​​1,150 square kilometers.\nHe announced that he was appointing Major General Eduard Moskalev as the head of the military commandant in the Kiev-controlled part of western Russia.\n“We are moving forward in the Kursk region. A military commandant’s office has been established, which must ensure order and also all the needs of the local population,” Sirski said in a written statement on his Telegram channel.\nUkraine’s Deputy Prime Minister Iryna Verechuk said on Wednesday that the Defense Forces plan to form a “security zone” in the Kursk region, where the offensive of the Ukrainian armed forces is taking place. According to Verechuk, quoted by Ukrainian media, the “security zone” includes conducting humanitarian operations to support the civilian population in the zone, opening humanitarian corridors for the evacuation of civilians to both Russia and Ukraine, and admitting international humanitarian organizations in this area.\nUkrainian special forces said they captured a group of more than 100 Russian soldiers on Wednesday, including from the elite Chechen Akhmat formation, who were part of the 488th Guards Motorized Rifle Regiment.\nUkraine’s human rights commissioner Dmytro Lubinets said this week that he had held talks with his Russian counterpart about exchanging prisoners of war taken in the Kursk region. news.bg\n#Ukraine #announced #creation #military #command #post #Kursk #region",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Social Issue",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "oleksandr syrsky",
+          "sentiment": "negative"
+        },
+        {
+          "name": "volodymyr zelensky",
+          "sentiment": "none"
+        },
+        {
+          "name": "eduard moskalev",
+          "sentiment": "none"
+        },
+        {
+          "name": "sirsky",
+          "sentiment": "none"
+        },
+        {
+          "name": "oleksandr sirsky",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "reuters",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "kiev",
+          "sentiment": "none"
+        },
+        {
+          "name": "moscow",
+          "sentiment": "none"
+        },
+        {
+          "name": "russia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T01:04:39.408+03:00",
+    "updated": "2024-08-16T01:04:39.408+03:00"
+  },
+  {
+    "uuid": "eb4f397741f0853d9fa4d5d73acb72017dedbd99",
+    "url": "https://www.infobae.com/america/agencias/2024/12/19/el-exfutbolista-peruano-hugo-sotil-es-internado-en-cuidados-intensivos-en-un-hospital-de-lima",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Newsroom Infobae",
+    "published": "2024-12-19T22:45:00Z",
+    "title": "El exfutbolista peruano Hugo Sotil es internado en cuidados intensivos en un hospital de Lima - Infobae",
+    "text": "Lima, 19 dic (EFE).- El exfutbolista peruano Hugo 'Cholo', jugador del FC Barcelona en los años setenta -en una época en la que coincidió con el astro holandés Johan Cruyff-, ha sido internado en la unidad de cuidados intensivos (UCI) de un hospital de Lima tras sufrir un problema de salud durante la madrugada de este jueves, informaron fuentes oficiales.\nSotil, de 75 años, fue ingresado en el servicio de emergencia del Hospital Dos de Mayo, donde recibió \"atención especializada inmediata\" y actualmente está \"monitoreado constantemente\" en cuidados intensivos, señaló el Ministerio de Salud (Minsa) en un comunicado.\nEl Minsa añadió que \"por pedido expreso de la familia\" del exinternacional peruano \"no se brindará mayores detalles sobre su estado de salud\", por lo que pidió a los medios de comunicación y a la ciudadanía \"respetar esta decisión, así como la privacidad del paciente y su entorno cercano\".\n\"El Hospital Dos de Mayo garantiza la atención médica especializada que requiere el Sr. Hugo Sotil\", concluyó.\nEl exdelantero, quien anotó el gol del 1-0 que le dio a Perú el título de la Copa América de 1975 frente a Colombia, participó el pasado 29 de noviembre en la gala celebrada en el Gran Teatro del Liceo de Barcelona por el 125 aniversario de la entidad azulgrana.\nSotil conformó junto con el holandés Johan Cruyff una de las delanteras más recordadas del Barcelona, que en la temporada 1973-1974 logró una goleada por 0-5 frente al Real Madrid en el estadio Bernabeu.\nDurante su reciente visita a Barcelona, el exjugador se declaró feliz de haber regresado \"a casa\" y dijo que el nuevo estadio del club catalán \"es hermoso\".",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->health facility",
+      "Health->hospital",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Johan Cruyff-,",
+          "sentiment": "none"
+        },
+        {
+          "name": "Sotil",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "EFE",
+          "sentiment": "negative"
+        },
+        {
+          "name": "FC Barcelona",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Ministerio de Salud",
+          "sentiment": "none"
+        },
+        {
+          "name": "Minsa",
+          "sentiment": "none"
+        },
+        {
+          "name": "UCI",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T00:59:40.414+02:00",
+    "updated": "2024-12-20T00:59:40.414+02:00"
+  },
+  {
+    "uuid": "47e390522c159e62e1651263783fc4baa33d6058",
+    "url": "https://www.debate.com.mx/tecnologia/Sextorsion-Mark-Zuckerberg-anuncio-una-nueva-funcion-para-proteger-las-fotos-intimas-20240411-0164.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EFE Agencias",
+    "published": "2024-04-11T21:19:00Z",
+    "title": "¿Sextorsión?: Mark Zuckerberg anunció una nueva función para proteger las fotos íntimas",
+    "text": "[Tecnología](https://www.debate.com.mx/seccion/tecnologia/) ¿Sextorsión?: Mark Zuckerberg anunció una nueva función para proteger las fotos íntimas El fundador de Facebook, Mark Zuckerberg, emitió un comunicado donde anunció que está trabajando para detectar las posibles estafas de \"sextorsión\", donde los delincuentes extorsionan a las personas con sus fotos íntimas [Un hombre quedó paralizado tras un paseo en una playa de México: Una ola le rompió el cuello](https://www.debate.com.mx/mundo/Un-hombre-quedo-paralizado-tras-un-paseo-en-una-playa-de-Mexico-Una-ola-le-rompio-el-cuello-20240411-0080.html) [Video: Mujer intenta envenenar a su esposo poniendo cloro en su café: Quería cobrar el seguro](https://www.debate.com.mx/viral/Video-Mujer-intenta-envenenar-a-su-esposo-poniendo-cloro-en-su-cafe-Queria-cobrar-el-seguro-20240411-0100.html) [Video: Perro que había sido reportado como perdido, fue descubierto con una familia de osos](https://www.debate.com.mx/viral/Video-Perro-que-habia-sido-reportado-como-perdido-fue-descubierto-con-una-familia-de-osos-20240411-0125.html) [Indignante: Mujer golpea con un palo a una perrita que acababa de dar a luz](https://www.debate.com.mx/mundo/Indignante-Mujer-golpea-con-un-palo-a-una-perrita-que-acababa-de-dar-a-luz-20240411-0146.html) Nueva York.- El gigante [tecnológico](https://www.debate.com.mx/seccion/tecnologia/) Meta, fundado por Mark Zuckerberg, anunció este jueves que está probando nuevas funciones en su red social para proteger a los jóvenes de la 'sextorsión' y el abuso de imágenes íntimas, y para hacer más difícil que los delincuentes potenciales encuentren e interactúen con los adolescentes. En un comunicado publicado en su página web, la empresa matriz de Facebook, WhatsApp o Instagram indicó que también está probando nuevas formas de ayudar a las personas a detectar posibles estafas de 'sextorsión', animarlas a denunciarlas y empoderarlas para decir no a cualquier cosa que les haga sentir incómodas en las redes sociales. La 'sextorsion' o extorsión sexual implica chantajear a una víctima de la que se tienen imágenes íntimas y es un fenómeno cada vez más extendido en las redes sociales y afecta especialmente a los jóvenes. Según Meta, la 'sextorsión' \"es un crimen horrible. Hemos pasado años trabajando estrechamente con expertos, incluidos aquellos con experiencia en la lucha contra estos delitos, para comprender las tácticas que utilizan los estafadores para encontrar y extorsionar a las víctimas en línea, de modo que podamos desarrollar formas efectivas de ayudar a detenerlos\". Por ello, están probando \"nuevas herramientas\" para \"hacer que sea lo más difícil posible para los estafadores encontrar objetivos potenciales, en las aplicaciones de Meta y en Internet. También estamos probando nuevas medidas para ayudar a los jóvenes a reconocer y protegerse de las estafas de 'sextorsión'\", precisó la compañía. Entre las nuevas herramientas, el gigante de las redes sociales confirmó que comenzará a probar un filtro de desnudez en los mensajes directos en Instagram. Esta función, llamada protección contra la desnudez, estará activada de forma predeterminada para los menores de 18 años y desenfocará automáticamente las imágenes enviadas a los usuarios que se detecten que contienen desnudez, protegiendo mejor a los usuarios de ver desnudos no deseados en sus mensajes directos. Entre las medidas también se incluye configurar de forma predeterminada los perfiles de adolescentes para que no puedan recibir mensajes de nadie con quien no estén conectados. Y mostrarán avisos de seguridad a los adolescentes que ya están en contacto con posibles cuentas fraudulentas ofreciendo la opción de realizar denuncias. El gigante de las redes sociales señaló que \"las empresas tienen la responsabilidad de garantizar la protección de los menores que utilizan sus plataformas\" califica de \"alentadoras\" estas medidas tomadas para el uso de sus redes. - ¿No te has dado una vuelta por Amazon? Mira en [ESTE ENLACE](https://amzn.to/442uyXx)sus mejores productos [¡Únete a la comunidad del canal de Debate en WhatsApp y recibe lo más relevante!](https://whatsapp.com/channel/0029Va2VOoSEgGfKeOYnUB36) [Síguenos en](https://news.google.com/publications/CAAqBwgKMI66_wowu_H4Ag?utm_source=nota_standard&utm_medium=fullamp&utm_campaign=banner_googlenews) Comparte esta noticia Los editores recomiendan - {{#section-name}} [{{section-name}}]({{section-url}}){{/section-name}} [{{title-article}}]({{link-url}}) {{/news}}",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://amzn.to/442uyXx",
+      "https://news.google.com/publications/CAAqBwgKMI66_wowu_H4Ag?utm_source=nota_standard&utm_medium=fullamp&utm_campaign=banner_googlenews",
+      "https://whatsapp.com/channel/0029Va2VOoSEgGfKeOYnUB36",
+      "https://www.amzn.to/442uyXx",
+      "https://news.google.com/publications/CAAqBwgKMI66_wowu_H4Ag",
+      "https://www.news.google.com/publications/CAAqBwgKMI66_wowu_H4Ag?utm_source=nota_standard&utm_medium=fullamp&utm_campaign=banner_googlenews",
+      "https://www.whatsapp.com/channel/0029Va2VOoSEgGfKeOYnUB36"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-12T00:32:42.621+03:00",
+    "updated": "2024-04-12T00:41:30.313+03:00"
+  },
+  {
+    "uuid": "9aefd68237c13b1cba607d0e2ded7c676b5fca9a",
+    "url": "https://g1.globo.com/ce/ceara/noticia/2025/04/09/homem-marca-encontro-em-app-de-relacionamento-e-tem-casa-invadida-por-criminosos.ghtml",
+    "ord_in_thread": 0,
+    "author": "globo.com",
+    "published": "2025-04-09T21:16:00Z",
+    "title": "Homem marca encontro em app de relacionamento e tem casa invadida por criminosos | Ceará | G1",
+    "text": "Um homem marcou um encontro através de um aplicativo de relacionamento e teve a casa roubada nesta terça-feira (8) na cidade de Sobral, interior do Ceará. A Delegacia Municipal de Sobral investiga o caso.\nA dupla anunciou o assalto, revirou a casa do rapaz e levou televisão, notebook, celular, dinheiro e mais objetos pessoais.\nHomem marca encontro em app de relacionamento e tem casa assaltada\nUm h omem marcou um encontro através de um aplicativo de relacionamento e teve a casa roubada nesta terça-feira (8) na cidade de Sobral , interior do Ceará. A Delegacia Municipal de Sobral investiga o caso.\nDe acordo com informações policiais, a vítima começou a conversar com um perfil do aplicativo sem saber que eram dois criminosos disfarçados.\nLEIA TAMBÉM:\n1 de 3 A dupla anuniciou o assalto, revirou a casa do rapaz e levou televisão, notebook, celular, dinheiro e mais objetos pessoais. — Foto: Reprodução A dupla anuniciou o assalto, revirou a casa do rapaz e levou televisão, notebook, celular, dinheiro e mais objetos pessoais. — Foto: Reprodução\nEle marcou o encontro em sua casa, localizada no Bairro Belchior, e ao receber a visita se deparou com dois homens armados. A dupla anunciou o assalto, revirou a casa do rapaz e levou televisão, notebook, celular, dinheiro e outros objetos pessoais.\nApós o roubo, os suspeitos pediram um carro de aplicativo para fugir. O motorista, no entanto, não tem envolvimento com o crime.\nA dupla foi perseguida por equipes policiais, mas somente um deles - um adolescente - foi apreendido . O outro suspeito continua sendo procurado. O adolescente vai responder por ato infracional análogo a roubo e tem antecedentes por lesão corporal e receptação.\n2 de 3 Encontro amoroso termina em assalto no CE. — Foto: Reprodução/TV Verdes Mares Encontro amoroso termina em assalto no CE. — Foto: Reprodução/TV Verdes Mares\n3 de 3 Encontro amoroso termina em assalto no CE. — Foto: TV Verdes Mares Encontro amoroso termina em assalto no CE. — Foto: TV Verdes Mares\nAssista aos vídeos mais vistos do Ceará:\n50 vídeos Sobral",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->robbery and theft",
+      "Human Interest->human mishap",
+      "Social Issue->juvenile delinquency",
+      "Social Issue->dating and relationships",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://s2-g1.glbimg.com/ix_LITXvgfhlgehd3bmuSek3S54=/640x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/41/31/13493141",
+      "https://s2-g1.glbimg.com/kyp5zcNuE9JBykNRv9oloNdrKeY=/650x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/34/23/13502334",
+      "https://s2-g1.glbimg.com/_rmeBUEADRNBwaUdl15cNcunDmc=/390x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/70/13497080",
+      "https://s2-g1.glbimg.com/V0FyDkFGpiqm9SADjgwVkZjydwg=/650x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/41/31/13493141",
+      "https://s2-g1.glbimg.com/W6KmcxSBtnd3xCBpdu64-p13wNw=/640x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/34/23/13502334",
+      "https://s2-g1.glbimg.com/ah20f1T-B4xzgW0CZI06A539-yY=/416x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/41/31/13493141",
+      "https://s2-g1.glbimg.com/Fzbw_xLLIxd1pa5VhadUhHvQ7Xg=/640x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/70/13497080",
+      "https://s2-g1.glbimg.com/EryUnPCxKLZRlh2dF3jD5r3dqJE=/650x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/70/13497080",
+      "https://s3.glbimg.com/v1/AUTH_14ce1dbebbe64b1e8e955809a085692d/web-components/teste-ab.html?url=aHR0cHM6Ly9zMy5nbGJpbWcuY29tL3YxL0FVVEhfMTRjZTFkYmViYmU2NGIxZThlOTU1ODA5YTA4NTY5MmQvd2ViLWNvbXBvbmVudHMvcGxheWVyLXdlYi1tdWx0aWNvbnRlbnQvcHJvZC93aWRnZXQuaHRtbD9wcm9kdWN0TmFtZT1nMSZwcm9kdWN0Q29sb3I9JTIzQzQxNzBDJmFydHdvcmtVUkw9aHR0cHMlM0ElMkYlMkZzMy5nbGJpbWcuY29tJTJGdjElMkZBVVRIXzU5ZWRkNDIyYzBjODRhODc5YmQzNzY3MGFlNGY1MzhhJTJGYXVkaW9wdWItZXBpc29kZXMlMkZicyUyRjIwMjUlMkY4JTJGcyUyRnFBcTd4WlR6Njg2Y2dUMUQ0aDJ3JTJGbmF0dXphLWNhcGEuan",
+      "https://s2-g1.glbimg.com/8ftZrdMIRvkwwDZ_r6vmYvv9ijc=/416x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/70/13497080",
+      "https://s2-g1.glbimg.com/2DxDG7sLgMnpY3BCqGjg4J3Emfw=/416x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/34/23/13502334",
+      "https://957b0b3a18c149f4814f2525021e644f@web.sentry.globoi.com/786",
+      "https://s2-g1.glbimg.com/H9IrZPGslLp0vWFe4rU5Z3EBUAA=/390x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/34/23/13502334",
+      "https://s2-g1.glbimg.com/x4QHi6h7uH3nvoDzO9dts7KV-2E=/390x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/41/31/13493141",
+      "https://s3.glbimg.com/v1/AUTH_c5dfc0eef7ee40d68bdd0993be881440/coral-custom-style/style.css",
+      "https://www.s2-g1.glbimg.com/V0FyDkFGpiqm9SADjgwVkZjydwg=/650x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/41/31/13493141",
+      "https://www.s2-g1.glbimg.com/ah20f1T-B4xzgW0CZI06A539-yY=/416x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/41/31/13493141",
+      "https://s3.glbimg.com/v1/AUTH_14ce1dbebbe64b1e8e955809a085692d/web-components/teste-ab.html",
+      "https://www.s2-g1.glbimg.com/Fzbw_xLLIxd1pa5VhadUhHvQ7Xg=/640x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/70/13497080",
+      "https://www.s2-g1.glbimg.com/EryUnPCxKLZRlh2dF3jD5r3dqJE=/650x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/70/13497080",
+      "https://www.s2-g1.glbimg.com/ix_LITXvgfhlgehd3bmuSek3S54=/640x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/41/31/13493141",
+      "https://www.s2-g1.glbimg.com/W6KmcxSBtnd3xCBpdu64-p13wNw=/640x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/34/23/13502334",
+      "https://www.s2-g1.glbimg.com/2DxDG7sLgMnpY3BCqGjg4J3Emfw=/416x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/34/23/13502334",
+      "https://www.s2-g1.glbimg.com/kyp5zcNuE9JBykNRv9oloNdrKeY=/650x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/34/23/13502334",
+      "https://www.s2-g1.glbimg.com/8ftZrdMIRvkwwDZ_r6vmYvv9ijc=/416x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/70/13497080",
+      "https://www.s2-g1.glbimg.com/H9IrZPGslLp0vWFe4rU5Z3EBUAA=/390x0/smart/filters:strip_icc()/s03.video.glbimg.com/deo/vi/34/23/13502334",
+      "https://www.s2-g1.glbimg.com/x4QHi6h7uH3nvoDzO9dts7KV-2E=/390x0/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/41/31/13493141",
+      "https://www.s3.glbimg.com/v1/AUTH_14ce1dbebbe64b1e8e955809a085692d/web-components/teste-ab.html?url=aHR0cHM6Ly9zMy5nbGJpbWcuY29tL3YxL0FVVEhfMTRjZTFkYmViYmU2NGIxZThlOTU1ODA5YTA4NTY5MmQvd2ViLWNvbXBvbmVudHMvcGxheWVyLXdlYi1tdWx0aWNvbnRlbnQvcHJvZC93aWRnZXQuaHRtbD9wcm9kdWN0TmFtZT1nMSZwcm9kdWN0Q29sb3I9JTIzQzQxNzBDJmFydHdvcmtVUkw9aHR0cHMlM0ElMkYlMkZzMy5nbGJpbWcuY29tJTJGdjElMkZBVVRIXzU5ZWRkNDIyYzBjODRhODc5YmQzNzY3MGFlNGY1MzhhJTJGYXVkaW9wdWItZXBpc29kZXMlMkZicyUyRjIwMjUlMkY4JTJGcyUyRnFBcTd4WlR6Njg2Y2dUMUQ0aDJ3JTJGbmF0dXphLWNhcGEuan",
+      "https://www.957b0b3a18c149f4814f2525021e644f@web.sentry.globoi.com/786",
+      "https://www.s3.glbimg.com/v1/AUTH_c5dfc0eef7ee40d68bdd0993be881440/coral-custom-style/style.css",
+      "https://www.s2-g1.glbimg.com/_rmeBUEADRNBwaUdl15cNcunDmc=/390x0/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/80/70/13497080"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:38:21.172+03:00",
+    "updated": "2025-04-10T00:39:02.124+03:00"
+  },
+  {
+    "uuid": "ef8fa00831a5f53c7c798c4bda0c8b38ea215e2f",
+    "url": "https://timesofindia.indiatimes.com/home/science/severe-solar-storm-to-hit-earth-could-disrupt-communications-produce-northern-lights-in-us/articleshow/110017294.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TOI Science Desk",
+    "published": "2024-05-10T00:00:00Z",
+    "title": "Severe solar storm to hit Earth; could disrupt communications, produce northern lights in US - Times of India",
+    "text": "NEW DELHI: A potent solar storm is on its way towards Earth, which would potentially bring forth northern lights across the United States while also posing a threat to communication systems. The National Oceanic and Atmospheric Administration (NOAA) has issued a rare geomagnetic storm watch, marking the first such warning in almost two decades. This watch will be in effect starting Friday and extending throughout the weekend.According to NOAA, the sun has been emitting intense solar flares since Wednesday, resulting in five significant outbursts of plasma. These eruptions, known as coronal mass ejections, have the capacity to disrupt satellites orbiting Earth and interfere with power grids. Each of these eruptions may contain billions of tons of solar plasma.NOAA emphasizes the unusual nature of this event, noting that the flares appear to be linked to a sunspot that is 16 times the diameter of Earth. The agency recalls the impact of an extreme geomagnetic storm in 2003, which caused power outages in Sweden and inflicted damage on power transformers in South Africa.Forecasters anticipate that the impending storm could lead to the appearance of northern lights as far south as Alabama and Northern California in the US, as per NOAA.(With agency inputs)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "noaa",
+          "sentiment": "none"
+        },
+        {
+          "name": "national oceanic and atmospheric administration",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "earth",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "sweden",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T19:20:34.890+03:00",
+    "updated": "2024-05-10T19:20:34.890+03:00"
+  },
+  {
+    "uuid": "6ff75c2bcdc1910c1823835814623c673680a789",
+    "url": "https://www.inmaricopa.com/two-adults-found-dead-in-desert-cedars-home-police-investigating",
+    "ord_in_thread": 0,
+    "author": "David Iversen, Reporter",
+    "published": "2025-04-09T21:20:00Z",
+    "title": "Two adults were found dead in a Desert Cedars home. Police are investigating",
+    "text": "Two adults were found dead inside a home this morning after Maricopa police responded to a welfare check on Cypress Lane in Desert Cedars.\nOfficers arrived at the residence at approximately 11 a.m. this morning and discovered the bodies inside, according to a statement from the Maricopa Police Department spokesperson, Monica Williams.\nDetectives have launched a death investigation. Authorities said the cause and manner of death are currently under review in coordination with the Pinal County Medical Examiner’s Office.\nPolice said there is no indication of an ongoing threat to the community but offered no further information about the deceased or the circumstances surrounding their deaths.\nThe identity of the homeowner is known to InMaricopa , but we’re withholding the information as the investigation is ongoing.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "topics": [
+      "Crime, Law and Justice->homicide",
+      "Crime, Law and Justice->investigation (criminal)",
+      "Crime, Law and Justice->law enforcement",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Monica Williams",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Pinal County Medical Examiner",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Maricopa Police Department",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:36:49.930+03:00",
+    "updated": "2025-04-10T04:28:06.615+03:00"
+  },
+  {
+    "uuid": "b5ddec2870bad6853e8f442c4cb61426ced55399",
+    "url": "https://bitcoinist.com/solana-sol-and-avalanche-avax-among-the-top-gainers-this-year-inqubeta-emerges-as-the-best-ico-of-2023/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bitcoinist",
+    "published": "2023-12-28T20:00:00Z",
+    "title": "Solana (SOL) and Avalanche (AVAX) among the top gainers this year, InQubeta emerges as the best ICO of 2023 | Bitcoinist.com",
+    "text": "In the constantly changing world of cryptocurrencies, 2023 has turned out to be a year filled with amazing gains and big breakthroughs. Standing out in the crowd, two top altcoins, Solana (SOL) and Avalanche (AVAX), have made a name for themselves as the big winners. They’ve managed to sail through all sorts of regulatory hurdles and market ups and downs with incredible toughness. Yet, even amidst these giants, InQubeta, a new ICO, has carved out its own niche, earning the title of the best ICO of the year. It’s a narrative that intertwines the relentless pursuit of innovation with the undying spirit of the crypto community. InQubeta: A Story of Vision and Triumph [InQubeta’s](https://qube.la/bit327) journey to becoming the best ICO of 2023 reads like a tale of ambition meeting opportunity. Picture a world where AI’s endless potential is no longer confined to tech behemoths but shared with a community of enthusiastic investors, each contributing to and benefiting from this technological revolution. This is the world InQubeta envisioned and is successfully bringing to life. InQubeta has really changed the game by making it possible for pretty much anyone to invest in AI startups with their QUBE tokens. It’s like opening the door to a world that used to be hard to get into. Now, imagine being part of groundbreaking AI innovations that could change entire industries, transform how consumers experience things or even tackle some of the biggest problems facing humanity. That’s the kind of opportunity InQubeta is offering its investors. The platform’s success in its ICO, having raised over $7.6 million, is more than just hitting a financial goal. It’s proof of the belief and excitement of a whole community that’s come together to support this vision. Each QUBE token holder is not just an investor but a pioneer in a movement that blends finance with futuristic technology, charting a course towards a more equitable and innovative future. Solana’s Resilient Ascent Solana’s journey in 2023, marked by its ascent over Ripple (XRP) in market capitalization, is a story of resilience and innovation. Despite facing SEC’s scrutiny, SOL’s value and community support remained unshaken, a testament to the robustness of its technology and the loyalty of its user base. The success of this top crypto coin is a narrative of defying odds, harnessing the power of decentralized finance, and creating an ecosystem that resonates with developers and investors alike. Avalanche’s Phoenix-Like Rise Avalanche’s rebound post the FTX crisis is nothing short of a phoenix rising from the ashes. It’s a story of a blockchain platform reaffirming its strength and utility in the DeFi space, attracting renewed interest and investment. AVAX’s recovery and growth reflect the resilience of the crypto market and the unwavering belief in decentralized solutions’ potential to transform finance. Closing Thoughts 2023 has been a standout year, especially with Solana and Avalanche showing how flexible and resilient cryptocurrencies can be, even when things get tough. But the real star of the show has been InQubeta. Their cryptocurrency ICO wasn’t just a financial win; it really caught the attention and imagination of people all around the world. InQubeta’s story goes way beyond just the numbers. It’s about paving the way for the future of AI and making this game-changing tech accessible to everyone. Disclaimer: This is a paid release. The statements, views and opinions expressed in this column are solely those of the content provider and do not necessarily represent those of Bitcoinist. Bitcoinist does not guarantee the accuracy or timeliness of information available in such content. Do your research and invest at your own risk.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://qube.la/bit327)",
+      "https://www.qube.la/bit327)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "solana",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "avax",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:09:52.201+02:00",
+    "updated": "2023-12-29T01:09:52.201+02:00"
+  },
+  {
+    "uuid": "98e658cff0a28cb9ccf5df9a3e040b51a9c38724",
+    "url": "https://www.lne.es/tendencias21/2024/11/22/ia-ocupando-puestos-trabajo-111840305.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Pablo Javier Piacente",
+    "published": "2024-11-22T08:00:00Z",
+    "title": "La IA ya está ocupando puestos de trabajo",
+    "text": "Tecnología y sociedad\nLa IA ya está ocupando puestos de trabajo: chatbots y profesionales freelance\nLos chatbots han reducido en un 21% la demanda de profesionales freelance, sobretodo en tareas más rutinarias que creativas\nPablo Javier Piacente\nDesde el auge de la Inteligencia Artificial (IA), y más aún luego de la popularización de ChatGPT y otras aplicaciones de chatbot, la demanda de algunas especialidades laborales relacionadas con la creación de contenidos, la programación o la entrada de datos ha sufrido un importante descenso, según un nuevo estudio. Los resultados confirman que se requerirá una combinación de nuevas estrategias profesionales por parte de los trabajadores y de iniciativas de seguridad social encaradas por estados y organizaciones civiles para reducir el impacto de los cambios.\nUn equipo de científicos de la Universidad de Harvard, en Estados Unidos, el Instituto Alemán de Investigación Económica y el Imperial College de Londres, en el Reino Unido, estudiaron casi un millón y medio de puestos de trabajo solicitados en un importante portal de profesionales independientes a nivel global, desde julio de 2021 hasta julio de 2023, y revelaron que la demanda de las posiciones freelance propensas a la automatización cayó un 21%, solamente ocho meses después del lanzamiento de ChatGPT, a fines de 2022.\nEl documento, publicado en OpenRead y SSRN, analiza el impacto de las tecnologías de Inteligencia Artificial (IA) en la demanda de trabajadores independientes online utilizando un gran conjunto de datos de una plataforma líder, cuyo nombre no fue revelado. Los científicos identificaron los tipos de trabajos que se ven más afectados por la IA generativa y cuantificaron la magnitud del impacto en ese mercado laboral específico.\nUn fuerte impacto\nLos hallazgos muestran una disminución del 21% en el número de puestos de trabajo con posibilidad de ser automatizados mediante la IA, principalmente en las tareas de carácter más rutinario ligadas a la creación y redacción de contenidos, la codificación y programación, el diseño y el ingreso de datos, entre otras especialidades.\nAnalizando en concreto algunos detalles, observaron que la introducción de tecnologías de https://www.levante-emv.com/tendencias21/2024/09/16/ia-cambiar-opinion-creyentes-fervorosos-108219108.html para la generación de imágenes condujo a una disminución significativa del 17% en el número de puestos de trabajo relacionados con la producción visual para proyectos digitales. A través de la herramienta Google Trends, pudieron demostrar que la disminución más pronunciada en la demanda de profesionales freelance dentro de los secores indicados se relaciona directamente con el crecimiento de la popularidad y el concimiento de las potencialidades de ChatGPT y otros sistemas similares.\nDesafíos y nuevas oportunidades al mismo tiempo\nSegún un artículo publicado en Fast Company, los especialistas sostienen que los responsables de políticas públicas y directores de organizaciones sociales deberán promover el acceso equitativo a oportunidades de educación y capacitación, apoyar a los trabajadores desplazados a través de redes de seguridad social y llevar adelante programas de reempleo, entre otras posibles medidas.\nPor último, TechRadar informa que los investigadores subrayaron en el estudio que aunque el mercado laboral parece sombrío para algunas especialidades, al mismo tiempo surgirán nuevas profesiones, como ya ha sucedido durante cambios tecnológicos previos. Al mismo tiempo, muchos profesionales lograrán adaptar sus habilidades al nuevo entorno y mantendrán sus empleos, saliendo incluso fortalecidos al volcarse a tareas más creativas o analíticas, que la IA aún no logra dominar.\nReferencia\nWho is AI Replacing? The Impact of ChatGPT on Online Freelancing Platforms. Ozge Demirci, Jonas Hannane and Xinrong Zhu. OpenRead / SSRN (2024). DOI:https://doi.org/10.2139/ssrn.4602944\nMarta estalla contra Matamoros tras su viaje a Asturias: 'Que me ayude con la crianza, lo estoy haciendo yo solaControlado el pavoroso incendio en varias naves de Silvota: levantan el confinamiento a los vecinosYa hay fecha para reabrir (parcialmente) el Huerna... 'si el tiempo acompaña', aclara el ministro Óscar PuentePedro Pascal y Joseph Quinn: la increíble visita sorpresa de dos de Los Cuatro Fantásticos a un colegio ovetenseFallece una mujer tras salirse de la vía con su coche y caer a un prado junto a las vías del tren, en AllerPreocupación por el estado de salud de Makoke tras desaparecer en las redes sociales: 'He estado bastante malHacienda ya avisa a los mayores de 65 años con un piso o una casa en propiedad sobre el IRPFOrtega Cano sorprende con su nueva imagen en su reaparición pública tras su aparatoso accidente: 'Que me quede como estoy",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T12:42:10.289+02:00",
+    "updated": "2024-11-22T12:42:10.289+02:00"
+  }
+]

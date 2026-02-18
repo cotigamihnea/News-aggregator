@@ -1,0 +1,476 @@
+[
+  {
+    "uuid": "38057b6620bdeb2fbaa678391dc0d6bcebec3c6a",
+    "url": "https://www.trendmicro.com/en_fi/research/25/a/how-cracks-and-installers-bring-malware-to-your-device.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Maglaque; Jay Nebre; Allixon Kristoffer Francisco Read time",
+    "published": "2025-01-09T15:00:00Z",
+    "title": "How Cracks and Installers Bring Malware to Your Device | Trend Micro (FI)",
+    "text": "Key Takeaways\n- Attackers use platforms such as YouTube and social media to share download links for fake installers to capitalize on user trust and drive clicks to malicious sites.\n- Threat actors often use reputable file hosting services like Mediafire and Mega.nz to conceal the origin of their malware and make detection and removal more difficult.\n- Many malicious downloads are password-protected and encoded, which complicates analysis in security environments such as sandboxes and allows malware to evade early detection.\n- Once infected, malware collects sensitive data from web browsers to steal credentials. This situation shows the serious risks of exposing your personal information by unknowingly downloading fraudulent software.\nIntroduction\nThe increase of fake installers bundled with info stealers is a growing threat for users looking for pirated software. These malicious programs disguise themselves as legitimate applications, often appearing in search results or [comments on platforms like GitHub](https://www.gendigital.com/blog/news/innovation/lumma-stealer-github). Unfortunately, many users fall prey to these tricks. The [Trend Micro™ Managed XDR](https://www.trendmicro.com/en_fi/business/services/managed-xdr.html) service frequently sees the fallout, with the Lumma stealer being a prominent example. This highlights the hidden dangers of piracy that can jeopardize personal security and data integrity.\nInfo stealers are a type of malware that is designed to steal sensitive information from an infected system. This can include credentials, financial information, personal data, and other sensitive information that can be used for identity theft, fraud, or other malicious purposes.\nHow they lure their victims\nInfo stealers operate deceptively, luring victims into downloading the malware disguised as legitimate software installers. These download links often originate from fake websites or are shared as a link in messages from social platforms, as discussed in our [previous blog](https://www.trendmicro.com/en_fi/research/23/j/beware-lumma-stealer-distributed-via-discord-cdn-.html).\nIn this blog, we want to highlight and break down how a typical user may stumble upon these download links of fake installers.\nVictims are lured into piracy by individuals posing as guides on popular video-sharing platforms like YouTube. These deceitful actors create a pretense of offering legitimate software installation tutorials to entice viewers to click on malicious links in the video descriptions or comments. This compromises users' devices and promotes a culture of theft. Here is an example.\nUpon accessing the link, a separate post on YouTube opens, revealing the download link for the fake installer.\nIn the following example, it leads to a download of the file from the Mediafire file hosting site:\nIn another case, the threat was uploaded to another file-hosting site called Mega.nz.\nIt's clear that the threat utilizes known file hosting services as another layer to obscure its download further and evade detection.\nIn the cases we will discuss in this blog, we observed that these threats are often distributed as fake installers or cracked software, which victims inadvertently encounter while searching for them on search engines.\nIn the sample below, specific keywords trigger search results for these entries.\nThe third item in the search results (refer to screenshot above) comes from OpenSea (an NFT marketplace), which is unusual because it hosted a downloadable file. The entry contains a shortened link that redirects to the actual link. One assumption is that they use shortened links to prevent scraping sites from accessing the download link.\nThe following link will prompt you for the actual download link and the zip file's password. Password-protecting the files can help prevent sandbox analysis of the initial file upon arrival, which can be a quick win for an adversary.\nThe fourth and last entry in the search results (refer to the search results screenshot above) came from SoundCloud, a music-sharing platform that hosted the download link with a corresponding description. In this case, the download link was shortened using Twitter.\nThe same user also posted additional entries that include means to download a specific file.\nContent from another entry made by the same user.\nSimilar to the first case, another site displays the download link and password.\nIn one of our download links, we discovered evidence of other entries they are attempting to fake, as shown in VirusTotal (VT).\nInfection analysis as seen by Managed XDR (post download)\nIn the next section, we will discuss instances where the download was successful and the content was executed. This case sample highlights the activities observed on the host.\nCase 1\nOne observation about the unpacked file is that its size is 900 MB. This large file size helps defense evasion and allows it to bypass sandbox analysis to appear more legitimate as an installer. Moreover, it is restricted from submission in VT.\nThe infection sequence is triggered upon executing the .exe file contained within the zip file.\nA threat has been detected involving the execution of batch files. The content of the batch file was sourced and, while different from the Managed XDR case, is still functionally similar.\nThe batch file contains obfuscated entries.\nThe first cleanup involves removing garbage entries.\nThe next step is to replace the variables, resulting in a clearer script.\nAccording to the batch file, it builds the AutoIt script by combining the multiple created files and executes it. Upon execution, we observed that it dropped several additional files.\nProcesses may be injected with its code, and a new legitimate binary is sometimes introduced for process injection.\nCollecting and preparing sensitive data from browser environments for credential access was completed through a copy file operation.\nThe process introduced by threat is also seen to establish connections to multiple command and control (C&C) addresses.\nBesides accessing its C&C, our investigation observed the threat committing a series of queries related to Domain Generation Algorithm (DGA) domains.\nCase 2\nIn this second case, the infection started when a user downloaded a compressed file from a known file hosting site. Once downloaded, the user unpacks the file, which would require a password, and executes the installer. Upon execution, it proceeds to do a series of suspicious events, such as spawning a legitimate process and injecting its code into it. The threat also introduces a known scripting tool, AutoIt, to further obfuscate its execution, and later, it connects to its C&C to download and execute additional malware, typically different variants of infostealer.\nA snippet of the content of the zip file shows that, at a quick glance, it is just a standard application installer.\nSetup.exe is a version of rustdesk.exe, an open-source remote desktop access software identified on VirusTotal.\nThe zip file contains a trojanized file for rustdesk.exe, where one of the DLLs is tampered with. For this specific sample, the tampered DLL that was loaded by Setup.exe was flutter_gpu_texture_renderer_plugin.dll.\nWhen the file is executed, it displays an error but is already running in the background.\nIn the background, the following events have already taken place.\nInjecting malicious code into legitimate binaries, such as more.com, StrCmp.exe, SearchIndexer.exe, and explorer.exe, to evade detection by security defenses.\nIt drops additional files that are information stealers or malware from a different family.\nCreates autorun registry entry and scheduled tasks to ensure ongoing persistence.\nInjected processes were later observed, which initiated C&C communication.\nBundle of Stealers/Loaders\nThis time, it's not just a single info stealer but an army of recent noisy ones. This is not new, as it was also observed before with [raccoon stealers](https://threatpost.com/raccoon-stealer-google-seo/168301/).\nObserved stealers in the cases:\n- LUMMASTEALER\n- PRIVATELOADER\n- MARSSTEALER\n- AMADEY\n- PENGUISH\n- VIDAR\nRecap of the different methods of defense evasion observed in the case:\n- Utilization of large file size – a means to bypass sandbox capabilities\n- A password-protected zip file hinders content scanning and can complicate investigations if the password is unavailable.\n- The files are uploaded to known media-sharing sites, which most antivirus programs would only detect if the exact link is discovered before the download.\n- In some cases, download links are shortened, preventing scraping from sites.\n- The operation uses legitimate files and employs DLL sideloading or process injection to execute its payload.\nHow Managed XDR helps in the case of an info-stealer infection from fake installers\nDefense-in-depth is an important strategy that organizations use to protect their environments. In situations where a threat might have evaded some of these defense layers, Managed XDR can detect these incidents in real time. It offers the necessary analysis and actions to effectively contain the threat.\n- Threat hunting and human analyst augmented alerting - Some activities may not be captured by alerts or could generate low-severity alerts, which Trend Vision One users might overlook. Threat hunting proactively searches for known tactics, techniques, and procedures (TTPs) or emerging threats, ensuring that alerts are issued. Additionally, Managed Detection and Response (MDR) analysts can determine whether certain detections require further attention from the customer, reducing the burden on Trend Vision One users to check every alert.\n- Understanding the context of the alert – When a threat activity generates a detection, further correlation is necessary to provide context and capture the complete narrative of the events. Upon linking our findings to the initial alert, it becomes evident that most of the findings in the draft are not included in a single alert or detection. Additionally, some instances lack any related detection and were only connected through further investigation using the search application. As illustrated in the case findings shared earlier, these insights are obtained through the MXDR analyst's deeper investigation of the initial triggers, which may include threat hunting or alerts generated from a workbench.\n- Implementing response actions – As the fake installer infection progresses, MXDR analysts can initiate response actions to contain the threat on behalf of the customer. In the case we are dealing with, we have isolated the affected machines to prevent further spread. Indicators of Compromise (IOCs) have been added to the Suspicions Objects (SO) list to block any additional execution, and the suspicious files have been submitted to the analysis team for accurate detection.\nConclusion\nThreat actors continue to use social engineering tactics to target its victims and apply different methods to avoid security defenses, including: DLL sideloading, using large installer files, password-protected ZIP files, process injection into legitimate processes, connections to legitimate websites, and creating copies of files and renaming them to appear benign.\nIt is important to stay updated on current threats and to remain vigilant regarding detection and alert systems. Visibility is important because solely relying on detection can result in many malicious activities going unnoticed. Organizations should consider the following to stay ahead of these threats:\n- Implement a multi-layered defense approach for in-depth defense.\n- Provide user education.\n- Establish an incident response plan.\n- Engage in threat hunting.\n- Use a Managed Security Service Provider (MSSP).\nOrganizations can take advantage of [Trend Vision One™ – Endpoint Security](https://www.trendmicro.com/en_fi/business/products/endpoint-security.html) for prevention, detection, and response for user endpoints, servers, cloud workloads, and data centers.\nManaged XDR offers a 24/7 managed detection and response (MDR) for email, endpoint, server, cloud workloads, and networks from our world-class MDR team\nTrend Vision One Threat Intelligence\nTo stay ahead of evolving threats, Trend Micro customers can also access a range of Intelligence Reports and Threat Insights within [Trend Vision One](https://www.trendmicro.com/en_fi/business/products/one-platform.html). Threat Insights helps customers stay ahead of cyber threats before they happen and be better prepared for emerging threats. It offers comprehensive information on threat actors, their malicious activities, and the techniques they use. By leveraging this intelligence, customers can take proactive steps to protect their environments, mitigate risks, and respond effectively to threats.\nTrend Vision One Intelligence Reports App [IOC Sweeping]\n- How Cracks and Installers Bring Malware to Your Device\nTrend Vision One Threat Insights App\n- Emerging Threats:\n[How Cracks and Installers Bring Malware to Your Device](https://portal.xdr.trendmicro.com/index.html#/app/ti/intelligence_insights?name=How%20Cracks%20and%20Installers%20Bring%20Malware%20to%20Your%20Device)\nHunting Queries\nTrend Vision One Search App\nTrend Vision One customers can use the Search App to match or hunt the malicious indicators mentioned in this blog post with data in their environment.\nPotential autoit script construction\nparentCmd:(\"*.exe\") AND processCmd:(\"*/c move*.cmd*&*.cmd\") AND objectCmd:(\"*/c copy /b ..\\*+ ..\\*\")\nMore hunting queries are available for Trend Vision One customers with [Threat Insights Entitlement enabled](https://www.trendmicro.com/en_fi/business/products/one-platform/threat-insights.html).\nIndicators of Compromise (IoC)\nDownload the full list of IOCs [here](https://documents.trendmicro.com/assets/txt/Fakeinstallers-IOCswCQX6fX.txt).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Social Issue->social problem",
+      "Social Issue->discrimination"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.gendigital.com/blog/news/innovation/lumma-stealer-github",
+      "https://threatpost.com/raccoon-stealer-google-seo/168301/",
+      "https://www.threatpost.com/raccoon-stealer-google-seo/168301/",
+      "https://gendigital.com/blog/news/innovation/lumma-stealer-github",
+      "https://threatpost.com/raccoon-stealer-google-seo/168301"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T11:50:29.506+02:00",
+    "updated": "2025-01-10T11:50:29.506+02:00"
+  },
+  {
+    "uuid": "9a98f2f620b594adf7759c071f1e326949527e47",
+    "url": "https://brasil.perfil.com/brasil/chuvas-intensas-e-vendavais-ameacam-o-sul-do-brasil-neste-fim-de-semana.phtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Larissa Silva",
+    "published": "2024-12-13T09:35:00Z",
+    "title": "Chuvas intensas e vendavais ameaçam o sul do Brasil neste fim de semana",
+    "text": "Nos próximos dias, a região Sul do [Brasil](https://portal.inmet.gov.br/) enfrentará um período de instabilidade climática, marcado pela formação de áreas de baixa pressão atmosférica e até mesmo a possível evolução de ciclones. Essa configuração promete um clima volátil, com chuvas que podem ser localmente intensas, ventos e até tempestades.\nApesar de os próximos dias começarem com algum predomínio de sol, a situação muda rapidamente com o avanço das áreas de instabilidade. Esse fenômeno climático iniciará a partir desta sexta-feira, afetando particularmente o Rio Grande do Sul, Santa Catarina e o Paraná.\nQuais são as expectativas para o clima no fim de semana?\nSegundo as previsões, esta sexta-feira começará com sol em diversas partes do Sul do Brasil, mas as nuvens e a chuva farão seu retorno ao longo do dia, principalmente a partir da tarde. No sábado, a instabilidade se espalha, trazendo chuva para a maioria das regiões, embora de forma não uniforme.\nO domingo promete um alívio temporário, com sol e nuvens em grande parte da região, mas novas áreas de instabilidade devem se formar da tarde para a noite, ocasionando chuvas isoladas novamente.\nSerá que o ciclone trará mais tempestades para o Sul do Brasil?\nOs modelos meteorológicos indicam um cenário complexo com a possibilidade de duas áreas de baixa pressão, sendo que uma pode evoluir para um ciclone. A primeira baixa pressão se moverá do norte da Argentina em direção ao Sul do Brasil, causando instabilidade e tempestades em etapas.\nEspera-se que este fenômeno se desenvolva em um ciclone na costa, trazendo riscos localizados de chuvas fortes, especialmente no Sul do país. Além disso, uma segunda baixa pressão, mais fraca e restrita ao Uruguai e ao Sul do Brasil, poderá contribuir com a instabilidade.\nComo as chuvas e ventos afetarão as regiões?\nO padrão climático causado por esses sistemas resultará em [precipitações intensas](https://brasil.perfil.com/brasil/nova-frente-fria-trara-chuvas-e-tempestades-ao-rio-grande-do-sul.phtml) em áreas isoladas, especialmente no Sul gaúcho, onde acumulados superiores a 100 mm não são descartados. Entretanto, várias outras regiões devem apresentar níveis de chuva mais moderados.\nEm termos de vento, enquanto a projeção atual não sugere ventos amplamente significativos, algumas localidades, como o litoral sul do Rio Grande do Sul e as costas do Uruguai, podem experimentar rajadas mais intensas. Esse cenário, no entanto, é passível de alteração conforme novas atualizações dos modelos meteorológicos.\nO Paraná está preparado para os vendavais previstos?\nO Paraná está particularmente em risco de condições severas com a passagem da primeira baixa pressão. A formação de uma linha de instabilidade pode gerar vendavais significativos ao atravessar o estado de Oeste a Leste.\nApesar do cenário desafiador, as equipes de meteorologistas monitoram atentamente a evolução dos fenômenos para fornecer previsões e alertas precisos, promovendo a segurança nas regiões potencialmente afetadas.\n[Siga a gente no Google Notícias](https://news.google.com/publications/CAAqBwgKMOHtoAsw-fe4Aw?hl=pt-BR&gl=BR&ceid=BR%3Apt-419)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://news.google.com/publications/CAAqBwgKMOHtoAsw-fe4Aw?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "https://portal.inmet.gov.br/",
+      "https://portal.inmet.gov.br",
+      "https://news.google.com/publications/CAAqBwgKMOHtoAsw-fe4Aw",
+      "https://www.portal.inmet.gov.br/",
+      "https://www.news.google.com/publications/CAAqBwgKMOHtoAsw-fe4Aw?hl=pt-BR&gl=BR&ceid=BR%3Apt-419"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T12:08:36.832+02:00",
+    "updated": "2024-12-13T12:08:36.832+02:00"
+  },
+  {
+    "uuid": "52dfe4d41033f9612e727741d2ac2ab4d85d40fb",
+    "url": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr23%E6%97%A5%E4%B8%8A%E6%BC%B20-22%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%853-24-%E6%8A%98%E5%8F%B0%E8%82%A145-62%E5%85%83-214644835.html",
+    "ord_in_thread": 0,
+    "author": "中央社",
+    "published": "2025-04-23T21:46:00Z",
+    "title": "聯電ADR23日上漲0.22美元漲幅3.24%折台股45.62元",
+    "text": "中央社財經 聯電ADR23日上漲0.22美元漲幅3.24%折台股45.62元 閱讀全文\n中央社 2025年4月24日 上午12:46 (中央社台北2025年 4月24日電)聯電在NYSE掛牌 ADR以7.02美元作收，上漲0.22美元，漲幅 3.24%。\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 4月23日新台幣匯市收盤價32.492元計算，相當台股聯電每股為 45.62元。\n最近10個交易日行情如下：\n聯電 ADR 近十個交易日行情\n交易日\n收盤價\n漲跌\n漲跌幅%\n匯率\n折台股\n04/23\n7.02\n0.22\n3.24\n32.492\n45.6\n04/22\n6.80\n0.08\n1.19\n32.498\n44.2\n04/21\n6.72\n-0.09\n-1.32\n32.460\n43.6\n04/17\n6.81\n-0.04\n-0.58\n32.531\n44.3\n04/16\n6.85\n-0.06\n-0.87\n32.520\n44.5\n04/15\n6.91\n0.03\n0.44\n32.516\n44.9\n04/14\n6.88\n0.01\n0.15\n32.510\n44.7\n04/11\n6.87\n0.33\n5.05\n32.705\n44.9\n04/10\n6.54\n-0.23\n-3.40\n32.868\n42.9\n04/09\n6.77\n0.65\n10.62\n33.002\n44.6",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Economy, Business and Finance->foreign exchange market",
+      "Economy, Business and Finance->financial service",
+      "Health->health organisation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.cna.com.tw/",
+      "https://www.facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Ftw.stock.yahoo.com%2Fnews%2F%25E8%2581%25AF%25E9%259B%25BBadr23%25E6%2597%25A5%25E4%25B8%258A%25E6%25BC%25B20-22%25E7%25BE%258E%25E5%2585%2583%25E6%25BC%25B2%25E5%25B9%25853-24-%25E6%258A%2598%25E5%258F%25B0%25E8%2582%25A145-62%25E5%2585%2583-214644835.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://lineit.line.me/share/ui?url=https%3A%2F%2Ftw.stock.yahoo.com%2Fnews%2F%25E8%2581%25AF%25E9%259B%25BBadr23%25E6%2597%25A5%25E4%25B8%258A%25E6%25BC%25B20-22%25E7%25BE%258E%25E5%2585%2583%25E6%25BC%25B2%25E5%25B9%25853-24-%25E6%258A%2598%25E5%258F%25B0%25E8%2582%25A145-62%25E5%2585%2583-214644835.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dli",
+      "https://www.facebook.com/dialog/feed",
+      "https://lineit.line.me/share/ui",
+      "http://www.cna.com.tw",
+      "http://cna.com.tw/",
+      "https://www.lineit.line.me/share/ui?url=https%3A%2F%2Ftw.stock.yahoo.com%2Fnews%2F%25E8%2581%25AF%25E9%259B%25BBadr23%25E6%2597%25A5%25E4%25B8%258A%25E6%25BC%25B20-22%25E7%25BE%258E%25E5%2585%2583%25E6%25BC%25B2%25E5%25B9%25853-24-%25E6%258A%2598%25E5%258F%25B0%25E8%2582%25A145-62%25E5%2585%2583-214644835.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dli",
+      "https://facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Ftw.stock.yahoo.com%2Fnews%2F%25E8%2581%25AF%25E9%259B%25BBadr23%25E6%2597%25A5%25E4%25B8%258A%25E6%25BC%25B20-22%25E7%25BE%258E%25E5%2585%2583%25E6%25BC%25B2%25E5%25B9%25853-24-%25E6%258A%2598%25E5%258F%25B0%25E8%2582%25A145-62%25E5%2585%2583-214644835.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:32:32.810+03:00",
+    "updated": "2025-04-24T01:32:32.810+03:00"
+  },
+  {
+    "uuid": "35e9162121caf588a659dc1dfc13a781e80d03e7",
+    "url": "https://rcei.rutgers.edu/scientists-rutgers-research-shows-promise-of-agrivoltaics/",
+    "ord_in_thread": 0,
+    "author": "Edith Zhao",
+    "published": "2025-07-30T20:24:00Z",
+    "title": "Scientists Rutgers Research Shows Promise of Agrivoltaics",
+    "text": "Hay testing at Snyder Research and Extension Farm, Pittstown. Photo Credit: The Rutgers Agrivoltaics Program. In a stunning blend of agriculture, technology, and energy, the Rutgers Agrivoltaics Program is moving further along with testing the compatibility of solar power panels alongside major commodity crops. Led by RCEI affiliate David Specca , the program has implemented tests with hay in Pittstown, livestock in New Brunswick, soybeans and other vegetables in Cumberland County, and more. So far, the results are promising, with the production of soybeans significantly increasing in areas where solar panels were also established, as opposed to the control plots. In order to maximize power, the panels are even built with trackers that follow the sun, always adjusting into the most optimal position. Possible future improvements include adding further automation to reduce the risk of tractor-panel collisions, but thus far an accident has yet to happen, and the financial benefit of producing not just essential food and fiber, but essential energy as well, far outweighs the minor inconvenience of driving a bit slower in the fields.\nRead more at the full article published by Lancaster Farming.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->scientific research",
+      "Science and Technology->agricultural technology",
+      "Science and Technology->biotechnology",
+      "Environment->energy resources",
+      "Environment->sustainability",
+      "Environment->natural resources",
+      "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.lancasterfarming.com/farming-news/field-crops/rutgers-research-shows-promise-of-agrivoltaics/article_088f94cf-8ca5-48eb-9ed5-8aa020b4b642.html",
+      "https://lancasterfarming.com/farming-news/field-crops/rutgers-research-shows-promise-of-agrivoltaics/article_088f94cf-8ca5-48eb-9ed5-8aa020b4b642.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "David Specca",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Pittstown",
+          "sentiment": "none"
+        },
+        {
+          "name": "County",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Snyder Research and Extension Farm",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Rutgers Agrivoltaics Program",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": null,
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": "local_news",
+        "city": [
+          "The College of New Jersey"
+        ],
+        "state": [
+          "New Jersey"
+        ],
+        "country": [
+          "US"
+        ],
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:38:00.980+03:00",
+    "updated": "2025-07-31T07:43:36.000+03:00"
+  },
+  {
+    "uuid": "094308acdc5dfab1c733206cc4e4935404663b02",
+    "url": "https://www.india.com/business/pradeep-chintale-pioneers-self-onboarding-internet-system-empowering-100-million-americans-and-inspiring-global-adoption-7645195",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gazi Abbas Shahid",
+    "published": "2025-02-27T16:59:00Z",
+    "title": "Pradeep Chintale Pioneers Self-Onboarding Internet System, Empowering 100 Million Americans and Inspiring Global Adoption",
+    "text": "Philadelphia, PA: As the COVID-19 pandemic forced millions of Americans to work, study, and access essential services from home, reliable internet connectivity became more essential than ever before. At the forefront of ensuring uninterrupted access was Pradeep Chintale, a Sr. DevOps and Cloud Engineer at Comcast, whose pioneering work on the Xfinity self-onboarding system enabled millions of households to set up their internet independently—without human intervention, revolutionizing digital transformation and setting a new industry standard.\nWith the surging demand for high-speed internet, traditional installation processes faced unprecedented challenges. Sending technicians for physical router installations was not only logistically difficult but also posed health risks during pandemic-induced lockdowns. Recognizing the urgency, Chintale played a pivotal role in designing, developing, and deploying a fully automated system that allowed users to activate and configure their routers seamlessly—without requiring any manual setup or technician visits.\n“When millions of people suddenly became dependent on their home internet for work, education, and even healthcare, we had to act fast. Our goal was to ensure that no home or business suffered due to installation delays,” said Pradeep Chintale . “By automating the onboarding process, we empowered users to set up their services instantly, eliminating barriers and keeping America connected.”\nTransforming Internet Accessibility Through Automation The Comcast Xfinity WiFi Team and Cloud and DevOps Lead Pradeep Chintale, developed and scaled this groundbreaking system, which provided:\nSelf-onboarding for 100 million users—enabling instant router activation. End-to-end automation, removing the need for technician visits. Seamless scalability to support an unprecedented surge in internet demand. Zero-touch provisioning, ensuring fast and reliable connectivity for new subscribers. This system enabled Comcast to rapidly onboard millions of new customers, ensuring uninterrupted access to essential services like virtual classrooms, remote work environments, and telehealth consultations.\nAdoption of Self-Onboarding Technology by Other Internet Providers The success of Comcast’s self-onboarding solution, pioneered by Pradeep Chintale, did not go unnoticed. Other leading internet service providers (ISPs) in the U.S. and worldwide began adopting similar models, recognizing the efficiency, scalability, and cost-effectiveness of the solution.\nSeveral of Comcast’s competitors in the U.S. integrated self-onboarding methodologies, leveraging automation to streamline their customer onboarding processes. This helped reduce reliance on technician visits, enabling ISPs to scale their services rapidly and meet the skyrocketing demand for internet connectivity during the pandemic.\nBeyond the U.S., self-onboarding models gained traction among major ISPs across Europe, Asia, and Latin America, ensuring uninterrupted internet access in regions where technician support was limited due to lockdowns. Many internet providers worldwide leveraged AI-powered, cloud-based self-onboarding frameworks to enhance customer experiences, reduce activation time, and improve service efficiency.\n“The impact of this innovation extended far beyond Comcast. It transformed the way ISPs worldwide approached digital service delivery,” said Pradeep Chintale. “By integrating DevOps, AI-driven automation, and cloud-native solutions, global internet providers were able to keep millions connected during a critical time.”\nResearch and Innovation in Self-Onboarding Technology Building upon his expertise in cloud-based automation and DevOps, Pradeep Chintale further explored scalable self-onboarding solutions through his academic research. His work has been documented in the following peer-reviewed research papers:\n“Scalable and Cost-Effective Self-Onboarding Solutions for Home Internet Users Utilizing Google Cloud’s SaaS Framework” This paper outlines an innovative approach to cost-efficient, cloud-powered self-onboarding using Google Cloud’s SaaS framework, ensuring minimal operational costs while maximizing scalability. Read the full research paper here: Link to paper “Designing a Secure Self-Onboarding System for Internet Customers Using Google Cloud SaaS Framework” This research focuses on the security aspects of self-onboarding and how Google Cloud’s SaaS-based architecture can be leveraged to enhance cybersecurity while maintaining efficiency in automated internet setups. Read the full research paper here: Link to paper These research papers further validate Chintale’s contributions to cloud automation and self-onboarding technologies, providing insights into scalable, cost-effective, and secure internet deployment solutions for millions of users worldwide.\nA Pandemic-Proof Internet Solution for the Community As students, professionals, and families adjusted to a remote-first world, Pradeep Chintale’s contributions played a crucial role in sustaining digital access for millions. With schools transitioning to online learning, businesses shifting to remote operations, and healthcare services depending on virtual consultations, the self-onboarding solution helped bridge the digital divide during a time of crisis.\n“The pandemic reshaped how the world operates, and internet connectivity was the backbone of that transition. This was more than just an engineering challenge—it was a responsibility to keep people connected, learning, and working,” Chintale explained.\nThis innovation cemented Comcast’s leadership in digital transformation, setting new industry standards for internet service automation and scalability. The success of this project demonstrated the power of DevOps, cloud automation, and AI-driven network optimizations, laying the groundwork for the future of internet service deployment.\nAbout Pradeep Chintale\nWith deep expertise in Cloud Architecture, DevOps, AI/ML, and Infrastructure Automation, Pradeep Chintale has been instrumental in driving large-scale technology solutions across the telecom, cloud, and cybersecurity sectors. His contributions to Comcast’s Xfinity WiFi team during the pandemic underscore his ability to leverage cutting-edge technology to solve real-world challenges.\nConclusion\nPradeep Chintale’s groundbreaking work in self-onboarding solutions not only transformed Comcast’s internet services but also set a new global standard for digital connectivity. By pioneering an automated, scalable, and secure system, he empowered millions of users worldwide to access the internet effortlessly. His vision and technical expertise continue to shape the future of telecom, cloud automation, and DevOps-driven innovations.\nFirst Publishing : 3 rd June 2021",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->social sciences",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.researchgate.net/profile/Pradeep-Chintale/publication/384472585_Designing_a_secure_self-onboarding_system_for_internet_customers_using_Google_cloud_SaaS_framework/links/66fb76c79e6e82486ffc2e9b/Designing-a-secure-self-onboarding-system-for-internet-customers-using-Google-cloud-SaaS-framework.pdf",
+      "https://www.researchgate.net/profile/Pradeep-Chintale/publication/384471784_SCALABLE_AND_COST-EFFECTIVE_SELF-ONBOARDING_SOLUTIONS_FOR_HOME_INTERNET_USERS_UTILIZING_GOOGLE_CLOUD",
+      "https://researchgate.net/profile/Pradeep-Chintale/publication/384471784_SCALABLE_AND_COST-EFFECTIVE_SELF-ONBOARDING_SOLUTIONS_FOR_HOME_INTERNET_USERS_UTILIZING_GOOGLE_CLOUD",
+      "https://researchgate.net/profile/Pradeep-Chintale/publication/384472585_Designing_a_secure_self-onboarding_system_for_internet_customers_using_Google_cloud_SaaS_framework/links/66fb76c79e6e82486ffc2e9b/Designing-a-secure-self-onboarding-system-for-internet-customers-using-Google-cloud-SaaS-framework.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Pradeep Chintale",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Comcast",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "094308acdc5dfab1c733206cc4e4935404663b02",
+      "first_syndicated": true
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:19:56.382+02:00",
+    "updated": "2025-02-28T00:19:56.382+02:00"
+  },
+  {
+    "uuid": "b4849be44a87ea840296757b0aa7f917444473dd",
+    "url": "https://www.wbay.com/2024/03/22/first-alert-weather-day-2-5-snow-likely-causing-slippery-travel",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@WBAY",
+    "published": "2024-03-22T10:28:00Z",
+    "title": "FIRST ALERT WEATHER DAY: 2-5″ OF SNOW LIKELY CAUSING SLIPPERY TRAVEL",
+    "text": "FIRST ALERT WEATHER DAY: 2-5″ OF SNOW LIKELY CAUSING SLIPPERY TRAVEL Friday is a FIRST ALERT WEATHER DAY as light to moderate wet snow falls over northeast Wisconsin! Most recent snowfall models still indicate 2-5″ of snow for most of us while further north looks to get slightly less. The further south you go, the more snow you could see! A Winter Weather Advisory has been issued for ALL of northeast Wisconsin besides Florence and Menominee County in Michigan until 1 PM Friday. The heaviest snow will happen in the early morning hours then things calm down by mid morning. Scattered snow showers will continue off & on throughout the day creating an additional inch of snow for some areas. Your evening commute should be much better compared to the morning drive, but slippery roads are still likely. Highs will be in the mid 30s. Saturday will be mostly sunny and cool in the mid 30s for highs, but don’t get too comfortable because another stronger system will impact Wisconsin for multiple days. On Sunday, we will see another chance for snow coming in bringing an additional 1-3″. Once a warm front passes over Wisconsin on Monday, temperatures will warm up enough to convert the snow to a wintry mix then rainfall. Temperatures will warm back up into the lower to mid 40s next week reaching us back to normal highs. Check it out, we’ve reorganized your favorite weather graphics. They’re now in our new First Alert Map Room, which can be found here: [Go to the First Alert Map Room](https://www.wbay.com/weather/map-room/) You can always keep our forecast handy with our free weather app. Look for the WBAY First Alert Weather App in the Apple app store and Google Play ( [click here](https://onelink.to/g349n3) on your mobile device). WIND FORECAST: TODAY: ESE 5-15 MPH SATURDAY: N 5-10 MPH TODAY: Widespread wet snow, 2-5+” of snow. Cool with calm winds. HIGH: 36 TONIGHT: Mostly cloudy with scattered snow. Late gradual clearing. LOW: 18 SATURDAY: Mostly sunny, cool. HIGH: 35 LOW: 24 SUNDAY: Overcast, more chances of snow. 1-3″ of additional snow. HIGH: 36 LOW: 29 MONDAY: Overcast, mix of rain and snow possible. Warmer. HIGH: 47 LOW: 38 TUESDAY: Mostly cloudy, scattered showers possible. HIGH: 46 LOW: 25 WEDNESDAY: Mostly sunny, slightly cooler. HIGH: 40 LOW: 23 THURSDAY: Mostly sunny, warming back up. HIGH: 48 Copyright 2024 WBAY. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "external_links": [
+      "https://onelink.to/g349n3)",
+      "https://www.onelink.to/g349n3)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "menominee county",
+          "sentiment": "none"
+        },
+        {
+          "name": "florence",
+          "sentiment": "none"
+        },
+        {
+          "name": "wisconsin",
+          "sentiment": "none"
+        },
+        {
+          "name": "michigan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-22T13:08:37.523+02:00",
+    "updated": "2024-03-22T13:08:37.523+02:00"
+  },
+  {
+    "uuid": "3e25c175491fcd4cf87497de2c8788f5d565a9ce",
+    "url": "https://vnexplorer.net/el-te-que-cura-todo-tiene-propiedades-antioxidantes-potencia-la-memoria-y-previene-enfermedades-cardiacas-s698973.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-29T01:11:00Z",
+    "title": "El té que \"cura todo\": tiene propiedades antioxidantes, potencia la memoria y previene enfermedades cardíacas",
+    "text": "Mantener un cuerpo sano no solo se trata de realizar ejercicios, sino que gran parte tener un cuerpo óptimo se trata de tener una alimentación saludable que provea al organismo de los nutrientes esenciales.\nJapón es conocido por ser uno de los países con mayor expectativa de vida, y esto se debe a que los ciudadanos cuidan su dieta de forma muy disciplinada. Allí existe desde hace años una bebida muy popular que mejora la salud de las personas, y que poco a poco se vuelve más popular en Argentina.\nQué es lo que cambia en nuestro cuerpo a partir de los 40 años y cómo podés mantenerlo saludable\nEstudio científico\nQué es lo que cambia en nuestro cuerpo a partir de los 40 años y cómo podés mantenerlo saludable\nLa proporción perfecta que debe tener tu plato, según expertos de Harvard\nPara tener en cuenta\nLa proporción perfecta que debe tener tu plato, según expertos de Harvard Té de matcha: la bebida milenaria que trae innumerables beneficios al cuerpo El té de matcha es el té verde más consumido en Japón y según la página oficial del Instituto DYN Dietética, Nutrición y Salud está lleno de antioxidantes, vitaminas y minerales que proceden del molido de las hojas.\nSus polifenoles y catequinas tienen propiedades antioxidantes que reducen el riesgo de sufrir patologías crónicas y lesiones celulares. Además, al ser consumido con frecuencia mejor el sistema renal y por consecuencia la eliminación de toxinas por su efecto diurético.\nTambién, sus compuestos antiinflamatorios y antisépticos traen beneficios para la piel.\nContiene L-Teanina, por lo que incrementa los niveles de dopamina y serotonina, por lo que ayuda a recudir la ansiedad, el estrés e incrementan la motivación.\nLa BEBIDA MÁGICA que actúa contra el ALZHEIMER: puedes hacerlo en casa\nBienestar\nLa BEBIDA MÁGICA que actúa contra el ALZHEIMER: puedes hacerlo en casa\nLa infusión japonesa que es 10 veces mejor que el té verde y te ayudará a adelgazar en solo una semana\nSalud\nLa infusión japonesa que es 10 veces mejor que el té verde y te ayudará a adelgazar en solo una semana ¿De dónde proviene el té de matcha? En un inicio, el té de matcha era consumido en China por sus propiedades médicas. Hacia los años 900 y 800 después de Cristo los monjes japoneses llevaron a las semillas de la planta.\nFue en este país que las técnicas de cultivo de la camellia sinensis fueron desarrolladas y se popularizaron a lo largo de la isla.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1maodl.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mae1l.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mae1f.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mae1q.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mapqI.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mae1f.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mapqI.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mae1q.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mae1l.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1maodl.img"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T03:22:18.375+02:00",
+    "updated": "2023-12-29T03:22:18.375+02:00"
+  },
+  {
+    "uuid": "bd264554521ed8347935a533a7de74b6d7789bed",
+    "url": "https://lbbonline.com/news/clear-channels-vertical-meadows-promote-green-infrastructure",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Clear Channel UK",
+    "published": "2024-07-19T10:45:00Z",
+    "title": "Clear Channel's Vertical Meadows Promote Green Infrastructure",
+    "text": "Clear Channel continues to champion the restoration of biodiversity in urban areas by launching the\nVertical Meadow. The green wall system is designed to integrate biodiversity into urban landscapes and underscores Clear Channel's commitment to enhancing the natural environment through innovative advertising solutions.\nThe UK is one of the most\nnature-depleted countries in the world, with nearly one in six species threatened with extinction. Insects crucial for pollination and ecosystem support, are disappearing at an alarming rate, with 41% of species facing extinction. Additionally, a newly released report by the British Trust for Ornithology reveals that 80% of butterfly species in the UK have declined since the 1970s, and half of our remaining butterfly species are at risk of extinction in Britain. Habitat loss, exacerbated by urban development, is a major factor in this decline as 97% of wildflower meadows are gone in the UK.\nClear Channel’s response to these challenges is The Vertical Meadow, whose revolutionary design means that plants are grown from a unique seeded mat without needing a mains water connection, in situ, rather than in a greenhouse. The seed mix, developed by The Wildlife Trusts and Buglife, features 25 types of native wildflowers and grasses, carefully selected to boost local biodiversity.\nThe\nWorld Wide Fund for Nature (WWF) reports that on a single summer day, one acre of wildflower meadow can host three million flowers, producing 1kg of nectar sugar - sufficient to support nearly 96,000 honeybees daily. This means the 9m2 Vertical Meadow system could contain over 6,500 flowers supporting over 200 bees per day in the height of summer.\nDue to this the Vertical Meadow is regarded as a valuable contributor to national programmes as they bolster wildlife corridors and bring natural beauty to urban environments with their changing seasonal colours. They can also help clean the air by trapping pollutants, reducing urban heat, mitigating rainwater runoff, and offering acoustic insulation when mounted to buildings. Furthermore, the lush greenery promotes mental and physical well-being, offering city dwellers a much-needed connection to nature.\nVertical Meadow joins Clear Channel's portfolio of green infrastructure solutions, including the highly successful\nLiving Roof, both crafted from sustainable and upcycled materials. Moreover, they’re the only products of their kind endorsed by the Wildlife Trusts for their substantial biodiversity benefits. Initiatives like these support the UK's Nature Recovery Networks, aligning with the UK Government's 2020 Environment Bill goals of enhancing biodiversity through urban greening.\nClear Channel’s launch of Vertical Meadows aligns with the\n2024 Big Butterfly Count, a nationwide citizen science project aimed at helping assess the health of our environment, which encourages members of the public to help scientists track the impacts of climate change on butterflies in monitoring butterfly populations – a key indicator for biodiversity levels.\nBy integrating Vertical Meadows into urban landscapes, Clear Channel is not only beautifying cities but also creating sustainable habitats that support a healthier environment. With 30 Vertical Meadows installed, nationwide, this innovative solution is a significant step forward in the effort to protect and enhance biodiversity in our urban areas.\nWill Ramage, managing director at Clear Channel, says, \"As a platform for good, we're dedicated to pioneering solutions that address the urgent biodiversity and ecological challenges our cities face. Following the success of our Living Roofs, the launch of Vertical Meadows marks another significant step in our mission to integrate nature into urban spaces. By creating vibrant, sustainable habitats that support local wildlife, we not only enhance the beauty of our urban environments but also contribute to the well-being of our communities. We believe innovative green infrastructure like Vertical Meadows is crucial for building a healthier, more resilient future for everyone.\"\nAlistair Law, founder of Vertical Meadow, says, “The goal of Vertical Meadow is to help tackle the biodiversity crisis in a cost-effective way by increasing the awareness of native wildflowers and their role in supporting nature recovery. We are very excited by the collaboration with Clear Channel as it helps move living walls from a luxury feature on high-end buildings to something that is accessible to everyone. This is very important if we want to truly address the nature crisis.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.clearchannel.co.uk/partners/superior-products/vertical-meadows?utm_source=outlook&utm_medium=press_release&utm_campaign=vertical_meadows",
+      "https://www.clearchannel.co.uk/partners/superior-products/livingroofs?utm_source=outlook&utm_medium=press_release&utm_campaign=vertical_meadows",
+      "https://bigbutterflycount.butterfly-conservation.org/",
+      "https://www.wwf.org.uk/wildflowers/why-we-need-wildflowers",
+      "http://www.youtube.com/watch?v=ZToE9tDNdTo",
+      "https://naturalengland.blog.gov.uk/2023/09/29/state-of-nature/",
+      "https://clearchannel.co.uk/partners/superior-products/livingroofs?utm_source=outlook&utm_medium=press_release&utm_campaign=vertical_meadows",
+      "https://bigbutterflycount.butterfly-conservation.org",
+      "https://www.bigbutterflycount.butterfly-conservation.org/",
+      "https://wwf.org.uk/wildflowers/why-we-need-wildflowers",
+      "https://naturalengland.blog.gov.uk/2023/09/29/state-of-nature",
+      "http://youtube.com/watch?v=ZToE9tDNdTo",
+      "https://www.naturalengland.blog.gov.uk/2023/09/29/state-of-nature/",
+      "https://www.clearchannel.co.uk/partners/superior-products/livingroofs",
+      "http://www.youtube.com/watch",
+      "https://clearchannel.co.uk/partners/superior-products/vertical-meadows?utm_source=outlook&utm_medium=press_release&utm_campaign=vertical_meadows",
+      "https://www.clearchannel.co.uk/partners/superior-products/vertical-meadows"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "clear channel's vertical meadows promote green infrastructure clear channel",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "british trust for ornithology",
+          "sentiment": "none"
+        },
+        {
+          "name": "clear channel",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "uk",
+          "sentiment": "none"
+        },
+        {
+          "name": "britain",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-19T14:03:27.922+03:00",
+    "updated": "2024-07-19T14:03:27.922+03:00"
+  }
+]

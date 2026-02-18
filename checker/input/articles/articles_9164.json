@@ -1,0 +1,89 @@
+[
+  {
+    "uuid": "d6b9939ea994db4e48bcddb693547631e8a07022",
+    "url": "https://pantagraph.com/news/local/weather/slick-snowy-roads-causing-crashes-in-bloomington-normal/article_bd19104c-b8c8-11ef-89f7-9f1db4f3213b.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Allison Petty, Kaitlyn Klepec, Mateusz Janik",
+    "published": "2024-12-12T04:00:00Z",
+    "title": "Slick, snowy roads causing crashes in Bloomington-Normal",
+    "text": "BLOOMINGTON — Drivers are advised to take extra time and caution as snow continues to fall across Central Illinois, leaving slick roads that have led to weather-related crashes.\nPolice in Bloomington responded to six crashes between 9 a.m. and 2:30 p.m., according to BPD Public Information Officer Bryce Janssen. Sgt. Rob Cherry of the Normal Police Department said officers had responded to eight crashes as of 2:30 p.m., all of which occurred after 12:15 p.m.\n\"The main thing is to take your time while driving and increase following distance to allow time to stop when roads are slick,\" Janssen said.\nCherry agreed, and added to \"make sure to turn on your lights, and signal turns,\" to help prevent accidents during winter weather.\nPublic Works crews in Normal were busy throughout the town on Thursday afternoon, removing snow from major roadways before switching later to residential areas, said Cathy Oloffson, the town's communication's director.\nPeople are also reading…\nCrews have been salting the roads since noon and all roads will be salted by Thursday night, she added.\nShortly after 1 p.m. Thursday, the National Weather Service at Lincoln said a band of light to moderate snow was expected to lift northeast across the region, affecting areas near the Interstate 74 corridor for the next several hours.\nDrivers should expect snow-covered, slippery roads and reduced visibility, the weather service said.\nAnother weather system will bring precipitation back to Central Illinois on Friday night and into Saturday, the weather service said. Most of this will be rain, but a brief period of wintry mix is possible north of the Illinois River.\nThis is a developing story that will be updated.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": false,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T01:15:07.135+02:00",
+    "updated": "2024-12-13T01:15:07.135+02:00"
+  },
+  {
+    "uuid": "f72561a7805610181f4fc9e42d3c814612726f20",
+    "url": "https://www.fox7austin.com/video/1603918",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "no author",
+    "published": "2025-03-05T22:07:00Z",
+    "title": "Strong winds leave behind damage in Jarrell | FOX 7 Austin",
+    "text": "Strong winds leave behind damage in Jarrell\nTuesday’s windstorm left a mess for some residents in Jarrell. Homeowners spent the day picking up debris littered across yards.\nTuesday’s windstorm left a mess for some residents in Jarrell. Homeowners spent the day picking up debris littered across yards.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Environment->natural resources",
+      "Environment->environmental clean-up",
+      "Environment->climate change",
+      "Social Issue->communities",
+      "Social Issue->social condition",
+      "Social Issue->social problem",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T06:22:28.067+02:00",
+    "updated": "2025-03-06T06:22:28.067+02:00"
+  }
+]

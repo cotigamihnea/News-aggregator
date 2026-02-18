@@ -1,0 +1,298 @@
+[
+  {
+    "uuid": "a5f2d50238a2423bebb630bddf332203eb58ea87",
+    "url": "https://www.diariandorra.ad/esports/250724/els-old-bocs-pengen-bronze-santander_177351.html",
+    "ord_in_thread": 0,
+    "author": "Redacció",
+    "published": "2025-07-24T03:12:00Z",
+    "title": "Els 'old bocs' es penjen la medalla de bronze al torneig de rugbi platja a Santander",
+    "text": "RUGBI\nEls Old Bocs es pengen el bronze a Santander\nEls Old Bocs, l’equip de veterans de la Federació Andorrana de Rugbi, van penjar-se la medalla de bronze a la 18a edició del Torneig Internacional de Rugbi Platja de Santander. Els tricolors van sumar dues victòries i dues derrotes, i van acabar pujant als llocs d’honor amb una tercera posició a la capital de Cantàbria.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "catalan",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Sport->rugby",
+      "Human Interest->record and achievement",
+      "Social Issue->social networking",
+      "Social Issue->diversity, equity and inclusion",
+      "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:42:55.318+03:00",
+    "updated": "2025-07-24T07:48:34.000+03:00"
+  },
+  {
+    "uuid": "b70c27a40ce0ae2e96fc23655f9c61795f3d5615",
+    "url": "https://rivercountry.newschannelnebraska.com/story/50286965/walmart-recalls-magnetic-balls-after-cpsc-warns-of-choking-and-injury-hazards",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Thursday; December",
+    "published": "2023-12-28T00:00:00Z",
+    "title": "Walmart recalls magnetic balls after CPSC warns of choking and injury hazards - RIVER COUNTRY - NEWS CHANNEL NEBRASKA",
+    "text": "Walmart recalls magnetic balls after CPSC warns of choking and injury hazards By Ramishah Maruf, CNN New York (CNN) — Regulators have issued a recall for high-powered magnetic balls after the US Consumer Product Safety Commission [ issued several warnings](https://www.cnn.com/2023/12/07/business/magnetic-ball-recall-warning/index.html) for the toy kits, citing the risk of injury or even death. Walmart recalled the “Relax 5mm Science Kit, Large Hematite Magnets Magnetic Stones Building Blocks,” sold exclusively on the site through Joybuy. Earlier in December, CPSC said these magnets, often marketed for children, are small enough to fit into the CPSC’s [small parts cylinder](https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Small-Parts-for-Toys-and-Childrens-Products) (which simulates the width of a child’s throat), and are also magnetically stronger than permitted. If swallowed, the high-powered magnets can attract to each other or to other metals inside the digestive system, leading to “perforations, twisting and/or blockage of the intestines, infection, blood poisoning and death.” The agency broadly estimated 2,500 emergency room visits over magnet ingestions from 2017-2021 and seven deaths, two of which were outside of the United States. The recall affects about 4,240 units. [The CPSC said](https://www.cpsc.gov/Recalls/2024/High-Powered-Magnetic-Balls-Recalled-Due-to-Ingestion-Hazard-Sold-Exclusively-on-Walmart-com-through-Joybuy) customers should take away the balls from children immediately and contact Joybuy for a pre-paid label to return the recalled products for a full refund. The toy kit was sold from February 2022 through April 2023 for between $14 and $15 and is made of small magnetic balls in purple, black, green, blue, orange and red. The-CNN-Wire ™ & © 2023 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health"
+    ],
+    "external_links": [
+      "https://www.cpsc.gov/Recalls/2024/High-Powered-Magnetic-Balls-Recalled-Due-to-Ingestion-Hazard-Sold-Exclusively-on-Walmart-com-through-Joybuy)",
+      "https://www.cnn.com/2023/12/07/business/magnetic-ball-recall-warning/index.html)",
+      "https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Small-Parts-for-Toys-and-Childrens-Products)",
+      "https://cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Small-Parts-for-Toys-and-Childrens-Products)",
+      "https://cpsc.gov/Recalls/2024/High-Powered-Magnetic-Balls-Recalled-Due-to-Ingestion-Hazard-Sold-Exclusively-on-Walmart-com-through-Joybuy)",
+      "https://cnn.com/2023/12/07/business/magnetic-ball-recall-warning/index.html)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ramishah maruf",
+          "sentiment": "negative"
+        },
+        {
+          "name": "joybuy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cnn",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cpsc",
+          "sentiment": "negative"
+        },
+        {
+          "name": "walmart",
+          "sentiment": "negative"
+        },
+        {
+          "name": "us consumer product safety commission",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "nebraska",
+          "sentiment": "none"
+        },
+        {
+          "name": "new york",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:44:36.779+02:00",
+    "updated": "2023-12-29T00:44:36.779+02:00"
+  },
+  {
+    "uuid": "d8360e2133b424dbedd97e8acb96b1d12d028f97",
+    "url": "https://news.knowledia.com/fr/en/articles/south-of-midnight-blue-prince-and-more-coming-to-xbox-game-pass-soon-f9f669e0386073908b767b4fec923b7d93459fb8",
+    "ord_in_thread": 0,
+    "author": "Zachary McAuliffe",
+    "published": "2025-04-02T23:44:59Z",
+    "title": "South of Midnight, Blue Prince and More Coming to Xbox Game Pass Soon",
+    "text": "Subscribers can play these games and more with a Game Pass subscription. Southern folklore, stop-motion animation and a giant catfish all come together to create the whimsical and magical world of South of Midnight. Game Pass subscribers can play South of Midnight and more games in April.\nXbox Game Pass Ultimate -- a CNET Editors' Choice award pick -- offers hundreds of games you can play on your Xbox Series X, Xbox Series S, Xbox One, and PC or mobile device for $20 a month. A subscription gets you access to a large library of games, with new titles like Avowed added every month, plus other benefits, such as online multiplayer and deals on non-Game Pass titles.\nRead more: Microsoft's Developer Direct Proved Game Pass Is Xbox's New Norm\nHere are the games that Microsoft is adding to Xbox Game Pass in April. You can also check out the other titles Microsoft recently added to the service, such as Atmofall.\nBorderlands 3 Ultimate Edition\nComing to Game Pass Ultimate, PC Game Pass and Game Pass Standard on April 3.\nBest Buy\nGet ready to loot, shoot and laugh your way through the latest entry in the absurd Borderlands series. In this entry, a cult called the Children of the Vault is spreading throughout the universe. It's up to you and your crew of vault-hunting friends to put a stop to it. Play as one of four new vault hunters, each with unique skills; meet up with characters from past games; and get ready to shoot your way through the galaxy.\nAll You Need is Help\nComing to Game Pass Standard on April 3.\nWhile the game's title sounds vaguely menacing -- even threatening -- this is a quirky co-op puzzle game filled with fluffy cube-shaped creatures that smile and laugh with you. You'll work with others, either online or in couch co-op, to solve puzzles together. This game is perfect for a fun game night with a significant other, children or anyone else.\nStill Wakes the…\nZachary McAuliffe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->social sciences",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->media and entertainment industry",
+      "Economy, Business and Finance->products and services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.cnet.com/tech/services-and-software/south-of-midnight-blue-prince-and-more-coming-to-xbox-game-pass-soon/#ftag=CAD590a51e",
+      "https://cnet.com/tech/services-and-software/south-of-midnight-blue-prince-and-more-coming-to-xbox-game-pass-soon/#ftag=CAD590a51e"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Atmofall",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Avowed",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Zachary McAuliffe",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "South",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "CNET",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Xbox Series S",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Xbox One",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Microsoft",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Xbox Game Pass",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:44:59.433+03:00",
+    "updated": "2025-04-03T02:44:59.433+03:00"
+  },
+  {
+    "uuid": "abe91789919e3e0686d97ca8e6fde955b8a18462",
+    "url": "https://larepublica.pe:443/deportes/2025/01/16/sport-boys-suena-con-el-titulo-en-liga-1-2025-se-refuerza-con-un-integrante-de-la-generacion-dorada-de-chile-felipe-gutierrez-871232",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eddy Bejarano",
+    "published": "2025-01-16T21:31:00Z",
+    "title": "Sport Boys sueña con el título en 2025: se refuerza con un integrante de la generación dorada de Chile",
+    "text": "Sport Boys sueña con el título en 2025: se refuerza con un integrante de la generación dorada de Chile\nEl cuerpo técnico de la Misilera, liderado por Cristian Paulucci, incorporó a un exseleccionado chileno que logró la Copa América 2015 y disputó el Mundial Brasil 2014.\nSport Boys del Callao, después de un 2024 en el que no logró clasificar a un torneo internacional, espera ser un equipo protagonista en 2025. Para esa tarea, se reforzó con jugadores como Carlos López, quien fue pretendido por Alianza Lima, Alejandro Hohberg y Luis Urruti. Sin embargo, su fichaje bomba se encuentra en su comando técnico, ya que se reforzó con un mundialista con la selección chilena que formó parte de su generación dorada.\nSe trata de Felipe Gutiérrez, quien colgó los chimpunes en 2024 con la camiseta de Universidad de Concepción, a los 34 años. De esta manera, el cuerpo técnico liderado por Cristian Paulucci contará con un asistente que ha sabido disputar como futbolista al Mundial Brasil 2014 y campeonar la Copa América 2015. Esta decisión busca fortalecer el plantel de cara a la Liga 1 2025.\nPUEDES VER:\n[Entradas Universitario vs Inter Miami: precios confirmados y dónde comprarlas para ver a Messi]\nSport Boys anuncia a Felipe Gutiérrez como refuerzo para su cuerpo técnico\nEl último 15 de enero, a través de sus redes sociales, la Misilera anunció a Felipe Gutiérrez como nuevo miembro de su comando técnico liderado por Cristian Paulucci.\n\"Felipe Gutiérrez, exjugador de fútbol y exmundialista con la selección chilena, se suma al comando técnico del primer equipo del Club Sport Boys del Callao para la temporada 2025 como asistente del profesor Cristian Paulucci\", se lee en el comunicado.\nSport Boys comunicó la incorporación de Felipe Gutiérrez a su cmando técnico para el 2025. Foto: Sport Boys/X\nGutiérrez, quien se retiró del fútbol profesional en mayo de 2024 debido a problemas físicos, encontró en la dirección técnica una nueva pasión. En una reciente entrevista para ESPN Chile, expresó su deseo de dirigir y su motivación por trabajar en el fútbol. “Encontré otro camino, quiero dirigir y ya tengo cuerpo técnico”, afirmó el exmediocampista.\nSu experiencia en la academia del Real Betis en Chile le ha permitido desarrollar una metodología de trabajo que ahora aplicará en el primer equipo de Sport Boys. Esta transición de jugador a entrenador representa un nuevo capítulo en su carrera, en el que espera dejar una huella significativa.\nSport Boys: el camino hacia la Liga 1 2025\nSport Boys se prepara para una temporada desafiante en la Liga 1 2025, certamen en el que buscará no solo la clasificación a torneos internacionales, sino también pelear por el título nacional. Con la llegada de Gutiérrez, el club espera contar con un cuerpo técnico sólido que impulse al equipo hacia el éxito.\nEl calendario de partidos ya está definido y los hinchas del conjunto rosado están ansiosos por ver cómo se desempeñará el equipo bajo la dirección de Paulucci y la nueva incorporación de Gutiérrez. La primera fecha enfrentará a Sport Boys contra Juan Pablo II, recién ascendido a la máxima categoría.\nFichajes de Sport Boys para la Liga 1 2025\nEn relación con los jugadores que ya han sido anunciados por las redes sociales del Sport Boys para la próxima temporada, se destaca la confirmación de Carlos López y Luis Urruti.\n- Carlos López (delantero).\n- Jefferson Nolasco (arquero)\n- Alejandro Hohberg (extremo)\n- Rodrigo Colombo (defensa)\n- Matías Almirón (defensa)\n- Nicolás Da Campo (mediocampista)\n- Erick Gonzáles (pivote)\n- Juan Gonzáles (extremo)\n- Oslimg Mora (extremo)\n- Sebastian Aranda (lateral).\n- Luis Urruti (delantero)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "topics": [
+      "Sport->soccer",
+      "Sport->sports management and ownership",
+      "Sport->sport achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Cristian Paulucci",
+          "sentiment": "none"
+        },
+        {
+          "name": "Alejandro Hohberg",
+          "sentiment": "none"
+        },
+        {
+          "name": "Felipe Gutiérrez",
+          "sentiment": "none"
+        },
+        {
+          "name": "Carlos López",
+          "sentiment": "none"
+        },
+        {
+          "name": "Luis Urruti",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Universidad de Concepción",
+          "sentiment": "none"
+        },
+        {
+          "name": "Alianza Lima",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:13:59.688+02:00",
+    "updated": "2025-01-17T00:13:59.688+02:00"
+  }
+]

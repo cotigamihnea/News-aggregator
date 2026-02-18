@@ -1,0 +1,403 @@
+[
+  {
+    "uuid": "7e8a1535f9aac2c22013a4bc9c6e24e53212c24d",
+    "url": "https://www.electro-tech-online.com/threads/rtc-slows-down-after-a-few-minutes-and-doesnt-keep-the-correct-time-pace.167274",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dabi_Aljv",
+    "published": "2025-01-31T02:59:32Z",
+    "title": "RTC slows down after a few minutes and doesn't keep the correct time pace | Electronics Forum (Circuits, Projects and Microcontrollers)",
+    "text": "Hello everyone.\nI'm working on an automatic irrigation system using Arduino Mega 2560, TFT screen ILI9488, RTC module DS3231 and a KY-023 joystick module in a physical assembly (schematics are shown below).\nEverything works fine. The problem is that the RTC doesn't keep the correct time. When the system is switched on, after a few minutes it starts to get delayed by seconds. The more time it is on, the more delay it gets. I'll leave the code I used here. It's a long code, mainly because of the screen part (it's also in Spanish, as it's my first language, you could ask some AI to translate the comments for you, sorry for that).\nI would be very grateful for your help. Thanks in advance.\nI'm working on an automatic irrigation system using Arduino Mega 2560, TFT screen ILI9488, RTC module DS3231 and a KY-023 joystick module in a physical assembly (schematics are shown below).\nEverything works fine. The problem is that the RTC doesn't keep the correct time. When the system is switched on, after a few minutes it starts to get delayed by seconds. The more time it is on, the more delay it gets. I'll leave the code I used here. It's a long code, mainly because of the screen part (it's also in Spanish, as it's my first language, you could ask some AI to translate the comments for you, sorry for that).\nI would be very grateful for your help. Thanks in advance.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "RTC",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T04:59:32.927+02:00",
+    "updated": "2025-01-31T04:59:32.927+02:00"
+  },
+  {
+    "uuid": "2b1b1a3824f74a399a3c29ef07bc859fb48e8536",
+    "url": "https://markets.businessinsider.com/news/stocks/cosmos-health-appoints-dimitrios-trafalis-as-head-of-oncology-1034174454",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tipranks",
+    "published": "2024-12-26T18:35:00Z",
+    "title": "Cosmos Health appoints Dimitrios Trafalis as head of oncology",
+    "text": "Cosmos Health appoints Dimitrios Trafalis as head of oncology\nCosmos Health ([COSM](https://www.tipranks.com/stocks/cosm?utm_source=markets.businessinsider.com&utm_medium=referral)) announced the appointment of Professor Dimitrios Trafalis as Head of Oncology at the company’s Research and Development division. Trafalis currently serves as a Professor of Pharmacology and Clinical Pharmacology at the Faculty of Medicine, National and Kapodistrian University of Athens. Trafalis will lead research initiatives focusing on the design and execution of preclinical and clinical development strategies, regulatory support, and studies aimed at addressing critical oncology challenges. Specifically, his role includes overseeing preclinical and clinical protocols, making strategic decisions in research, and presenting key developments at global medical conferences and in international scientific journals.\nDon't Miss Our Christmas Offers:\n- Discover the latest stocks recommended by top Wall Street analysts, all in one place with\n[Analyst Top Stocks](https://www.tipranks.com/screener/analysts-top-stocks?utm_source=markets.businessinsider.com&utm_medium=referral) - Make smarter investments with\n[weekly expert stock picks from the Smart Investor Newsletter](https://lp.tipranks.com/christmas-2024-smartinvestor/?sku=3483380&custom3=smart-investor-screener&custom18=smart-investor&timer=on&coupon=EOY24p40per&utm_source=markets.businessinsider.com&utm_medium=referral)\nPublished first on [TheFly](https://thefly.com/?utm_source=markets.businessinsider.com&utm_medium=referral) – the ultimate source for real-time, market-moving breaking financial news. [Try Now>>](https://thefly.com/?utm_source=markets.businessinsider.com&utm_medium=referral)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Economy, Business and Finance",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->cancer",
+      "Health->medical profession",
+      "Health->health organisation",
+      "Economy, Business and Finance->healthcare industry"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.tipranks.com/stocks/cosm?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "https://www.tipranks.com/screener/analysts-top-stocks?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "https://lp.tipranks.com/christmas-2024-smartinvestor/?sku=3483380&custom3=smart-investor-screener&custom18=smart-investor&timer=on&coupon=EOY24p40per&utm_source=markets.businessinsider.com&utm_medium=referral",
+      "https://thefly.com/?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "https://www.tipranks.com/screener/analysts-top-stocks",
+      "https://tipranks.com/stocks/cosm?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "https://www.tipranks.com/stocks/cosm",
+      "https://thefly.com/",
+      "https://tipranks.com/screener/analysts-top-stocks?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "https://www.lp.tipranks.com/christmas-2024-smartinvestor/?sku=3483380&custom3=smart-investor-screener&custom18=smart-investor&timer=on&coupon=EOY24p40per&utm_source=markets.businessinsider.com&utm_medium=referral",
+      "https://www.thefly.com/?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "https://lp.tipranks.com/christmas-2024-smartinvestor/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Dimitrios Trafalis",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Cosmos Health",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Kapodistrian University of Athens",
+          "sentiment": "none"
+        },
+        {
+          "name": "’s Research and Development",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:20:29.442+02:00",
+    "updated": "2024-12-27T00:20:29.442+02:00"
+  },
+  {
+    "uuid": "5b810ff40d8e0ba7c271c1753fcafd13b6c966f1",
+    "url": "https://finance.sina.com.cn/stock/aiassist/pzzd/2025-06-19/doc-infaqrft3925832.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:27:00Z",
+    "title": "东方证券跌2.10%，成交额1.60亿元，主力资金净流出3506.24万元|东方证券_新浪财经_新浪网",
+    "text": "6月19日， 东方证券 盘中下跌2.10%，截至11:27，报9.32元/股，成交1.60亿元，换手率0.23%，总市值791.89亿元。\n资金流向方面，主力资金净流出3506.24万元，特大单买入212.16万元，占比1.33%，卖出2017.65万元，占比12.61%；大单买入2347.34万元，占比14.67%，卖出4048.09万元，占比25.29%。\n东方证券今年以来股价跌11.74%，近5个交易日跌2.51%，近20日跌0.75%，近60日跌5.48%。\n资料显示，东方证券股份有限公司位于上海市黄浦区中山南路119号东方证券大厦,中国上海市黄浦区中山南路318号2号楼3-6层、12层、13层、22层、25-27层、29层、32层、36层、38层,香港中环皇后大道中100号第28至29层，成立日期1997年12月10日，上市日期2015年3月23日，公司主营业务涉及证券经纪业务、投资银行业务、资产管理业务、自营业务、研究咨询业务、期货业务、证券金融业务、其他业务。主营业务收入构成为：财富及资产管理64.31%，机构及销售交易18.83%，国际及其他业务15.90%，投行及另类投资7.09%。\n东方证券所属申万行业为：非银金融-证券Ⅱ-证券Ⅲ。所属概念板块包括：参股基金、期货概念、大盘、融资融券、破净股等。\n截至3月31日，东方证券股东户数19.19万，较上期减少0.78%；人均流通股0股，较上期增加0.00%。2025年1月-3月，东方证券实现营业收入0.00元；归母净利润14.36亿元，同比增长62.00%。\n分红方面，东方证券A股上市后累计派现142.99亿元。近三年，累计派现53.03亿元。\n机构持仓方面，截止2025年3月31日，东方证券十大流通股东中，香港中央结算有限公司位居第五大流动股东，持股2.34亿股，相比上期减少2920.71万股。国泰中证全指证券公司ETF（512880）位居第十大流动股东，持股8897.82万股，为新进股东。华泰柏瑞沪深300ETF（510300）退出十大流通股东之列。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->market and exchange",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:35:47.093+03:00",
+    "updated": "2025-06-20T05:06:06.000+00:00"
+  },
+  {
+    "uuid": "5f01d5c91fab300f044d6357ddcfe0a01fbbba06",
+    "url": "https://driveteslacanada.ca/news/musk-reveals-fsd-beta-v12-passing-through-extra-testing-in-anticipation-of-wider-release/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Samuel Bryant",
+    "published": "2023-12-29T00:07:00Z",
+    "title": "Musk reveals FSD Beta V12 passing through extra testing in anticipation of wider release",
+    "text": "If you are awaiting the FSD [Beta V12](https://driveteslacanada.ca/tag/fsd-v12/) update, Tesla CEO Elon Musk has good news: the new update is undergoing extra testing before a wider release. The boss explained why extra testing is required on X (formerly known as Twitter). Musk said the new version is already running on a lot of cars. However, due to being a completely different architecture, the software update has to be tested more than usual. According to Musk, the FSD Beta V12 update already works well in California but needs more training for areas with higher precipitation. https://x.com/elonmusk/status/1740189939936248225?s=20 FSD Beta V12 takes the navigation software from a rules-based to a network-path-based AI method, meaning it will function based on human driving data rather than rules programmed into the software. One Tesla staff member on the FSD team boasted the new update will ensure an autonomous car never gets involved in a collision, “even in unstructured environments.” Interestingly, this version might be the last to carry the Beta tag. Tesla [employees have been testing Beta V12 since last month](https://driveteslacanada.ca/news/tesla-fsd-v12-releases-to-employees-could-be-included-in-holiday-update/), according to Musk. More employees got the update in December. According to estimates, more than 15,000 Tesla employees have been running the update, with a general release expected toward the end of January 2024. [FSD may soon be available to Tesla users in China](https://driveteslacanada.ca/news/tesla-is-making-gradual-progress-in-bringing-fsd-to-china/). [click here to get 6 months of free Supercharging](https://www.tesla.com/referral/darryn55317)and a three month trial of Full Self-Driving (FSD).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://www.tesla.com/referral/darryn55317",
+      "https://x.com/elonmusk/status/1740189939936248225?s=20",
+      "https://www.x.com/elonmusk/status/1740189939936248225?s=20",
+      "https://x.com/elonmusk/status/1740189939936248225",
+      "https://tesla.com/referral/darryn55317"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "musk",
+          "sentiment": "negative"
+        },
+        {
+          "name": "elon musk",
+          "sentiment": "negative"
+        },
+        {
+          "name": "tesla",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "tesla",
+          "sentiment": "negative"
+        },
+        {
+          "name": "fsd",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "california",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:26:34.290+02:00",
+    "updated": "2023-12-29T12:06:16.395+02:00"
+  },
+  {
+    "uuid": "8dc5c51730785647937dd92e1071a42d35e2c6b4",
+    "url": "https://www.marca.com/en/nfl/los-angeles-chargers/2024/12/26/676dd324e2704e639f8b45a4.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "J. Arturo Trujillo",
+    "published": "2024-12-26T20:05:00Z",
+    "title": "Justin Herbert gave luggage and gift cards to the Chargers OL for Christmas | Marca",
+    "text": "The Los Angeles Cargers QB has a 5 year contract for 262.5 million dollars\nJ. ARTURO TRUJILLO 26/12/2024 - 16:05 CST\nCompartir en Facebook\nCompartir en Twitter\nCompartir en Telegram\nCompartir en Whatsapp\nEnviar por email NFL. Jayden Daniels believes Travis Hunter can shine both ways in the NFL Houston Texans. CJ Stroud hasn't been the same player since giving advice to Bears rookie I t seems to be a tradition between the NFL quarterbacks to give something back to the most underrated players on the field; the OL.\nEarliert this hollidays we have seen gifts like the one from Brock Purdy to his teammates, even when he still has a rookie contract. This time, the Chargers QB. Justin Herbert, gave to his whole OL a nice small gift.\nRashawn Slater sends his thanks to Justin Herbert after receiving cheap X-mas gift\nHe give a luggage and a $5K Delta giftcard , which social media started making jokes and comparissons with other QBs gifts around the X-mas season.\nJustin Herbert tired of the Chargers? Chargers fans, known for their passionate support, were disappointed when quarterback Justin Herbert, despite his recent signing of a massive $262 million contract, allegedly displayed less than generous tipping behavior.\nVer esta publicación en Instagram This perceived stinginess sparked a wave of playful posts in online comment sections, with fans jokingly questioning Herbert's 'Christmas spirit' and playfully accusing him of 'penny-pinching.'\nFor the last weeks, they have been plenty of temas that have been related to the young QB, Oregon alumni. One of them the Seattle Seahawks who need to fill out the position with a true winner.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "topics": [
+      "Human Interest->celebrity"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.instagram.com/p/DEDecfOysQQ/?utm_source=ig_embed&utm_medium=loading",
+      "https://www.instagram.com/p/DEDecfOysQQ/",
+      "https://instagram.com/p/DEDecfOysQQ/?utm_source=ig_embed&utm_medium=loading"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Justin Herbert",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Rashawn Slater",
+          "sentiment": "none"
+        },
+        {
+          "name": "Brock Purdy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NFL",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:13:16.947+02:00",
+    "updated": "2024-12-27T03:45:27.530+02:00"
+  },
+  {
+    "uuid": "27a14961ec57e58340a5bac4eb333970a5b83ce2",
+    "url": "https://www.telam.com.ar/notas/202312/650997-tormentas-provincias-norte.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TÉLAM",
+    "published": "2023-12-29T00:00:00Z",
+    "title": "Alertas por tormentas severas en 10 provincias del norte del país",
+    "text": "Sociedad 29-12-2023 09:39 - el tiempo Alertas por tormentas severas en 10 provincias del norte del país Se esperan lluvias severas, con ráfagas y granizo, en sectores de Misiones, Corrientes, Salta, Jujuy y Tucumán. Y de menor intensidad en gran parte de Santa Fe, Misiones, Corrientes, Chaco, Santiago del Estero, Catamarca y Jujuy. El Servicio Meteorológico Nacional (SMN) lanzó este viernes una alerta naranja por tormentas severas con ráfagas y granizo en sectores de Misiones, Corrientes, Salta, Jujuy y Tucumán, a la vez que rigen alertas de nivel amarillo por lluvias y tormentas de menor intensidad en gran parte de Santa Fe, Misiones, Corrientes, Chaco, Santiago del Estero, Catamarca y Jujuy. Este viernes también se encontraba vigente una alerta amarilla por calor en el oeste de Córdoba y en el extremo noreste de San Luis, en las zonas bajas de Chacabuco, Junín y Libertador General San Martín. La alerta naranja por tormentas que implica \"fenómenos meteorológicos peligrosos para la sociedad, la vida, los bienes y el medio ambiente\" afectaba la mañana de este viernes al Litoral en el centro y sur de Misiones, y en el este de Corrientes, según informó el SMN. También comprendía al centro y este de Salta, al sureste de Jujuy y a casi todo el territorio de la provincia de Tucumán. El área será afectada por tormentas, algunas localmente fuertes o severas, que estarán acompañadas por fuerte actividad eléctrica, intensas ráfagas, caída de granizo de diversos tamaños, y abundante caída de agua en cortos períodos. El organismo nacional estimó para esas zonas valores de precipitación acumulada entre 50 y 110 milímetros (mm), pudiendo ser superados en forma puntual. Por el nivel naranja el SMN recomendó a la población permanecer en construcciones cerradas como casas, escuelas o edificios; mantenerse lejos de artefactos eléctricos y evitar el uso de teléfonos con cable; y quedarse en el interior del vehículo en caso de estar viajando. También pidió evitar circular por calles inundadas o afectadas y, si hay riesgo de que el agua ingrese en las viviendas, cortar el suministro eléctrico. ⚠ SAT | ALERTAS— SMN Alertas (@SMN_Alertas) [#SiHayAlertaEstateAlerta] Información actualizada el 29 de diciembre de 2023 a las 07:01 h 👉Más detalles en [https://t.co/AgvDHAWzAt] [pic.twitter.com/OHdSIKuQgt] [December 29, 2023] Por tormentas de menor intensidad regían alertas amarillas para el resto de las provincias de Misiones y Corrientes; el norte y centro de Santa Fe; todo el territorio de Chaco; el oeste de Formosa; el norte y este de Santiago del Estero; el centro de Jujuy; y el centro de Catamarca. Las tormentas tendrán ráfagas intensas, fuerte actividad eléctrica, ocasional caída de granizo y abundante caída de agua en cortos períodos con valores de precipitación acumulada entre 20 y 80 mm. Para la población bajo alerta amarilla el SMN recomendó no sacar la basura; retirar objetos que impidan que el agua escurra; evitar actividades al aire libre; no refugiarse cerca de árboles y postes de electricidad que puedan caerse; no permanecer en playas, ríos, lagunas o piletas; y prestar atención ante la posible caída de granizo. El nivel amarillo implica \"posibles fenómenos meteorológicos con capacidad de daño y riesgo de interrupción momentánea de actividades cotidianas\", explicó el SMN.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://t.co/AgvDHAWzAt",
+      "https://www.t.co/AgvDHAWzAt"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T15:36:57.295+02:00",
+    "updated": "2023-12-29T15:36:57.295+02:00"
+  },
+  {
+    "uuid": "1a20cb91d7a306042ba1c2357ee5521592861c3f",
+    "url": "https://www.newsbreak.com/express-u-s--316349130/4058717781602-rite-aid-to-close-another-100-stores-across-11-states-after-bankruptcy-filing",
+    "ord_in_thread": 0,
+    "author": "Housnia Shams",
+    "published": "2025-06-19T02:53:00Z",
+    "title": "Rite Aid to close another 100 stores across 11 states after bankruptcy filing - NewsBreak",
+    "text": "Rite Aid is set to close 100 more stores in several US states after the struggling drugstore chain filed for bankruptcy protection for the second time. The latest closures were listed in court documents last week. It includes stores across California, Connecticut, New York, New Jersey, Pennsylvania, Maryland, New Hampshire, Virginia, Washington, Delaware and Ohio. It's unclear when the stores will shut their doors, but Rite Aid has indicated that all locations will eventually close or be sold to a new owner. The company runs more than 1,200 stores in 15 US states. Rite Aid filed for bankruptcy protection for a second time in May, with its CEO Matt Schroeder citing \"financial challenges intensified by the rapidly evolving retail and healthcare landscapes.\" \"We are encouraged by meaningful interest from a number of potential national and regional strategic acquirors,\" Schroeder said in May. \"As we move forward, our key priorities are ensuring uninterrupted pharmacy services for our customers and preserving jobs for as many associates as possible.\" Rite Aid said it was using the Chapter 11 process to \"pursue a sale of its prescriptions, pharmacy and front-end inventory, and other assets.\" Customers can continue to shop online and in stores in the meantime, including accessing prescriptions and immunizations. Rite Aid said it was working to transfer customer prescriptions to other pharmacies. The company secured nearly $2 billion from lenders to help fund it through bankruptcy. Rite Aid first filed for bankruptcy in October 2023, and emerged from Chapter 11 nearly a year later as a private company. Like many other drugstore chains, Rite Aid has faced several challenges including theft, court settlements over opioid prescriptions and the rise of online shopping.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business restructuring",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->business governance",
+      "Social Issue->poverty",
+      "Social Issue->social problem",
+      "Social Issue->homelessness",
+      "Crime, Law and Justice->corporate crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://img.particlenews.com/image.php?url=33WKLf_11vewYIT00",
+      "https://www.the-express.com/news/health/171409/listeria-outbreak-prepared-foods-sick",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=33WKLf_11vewYIT00",
+      "https://www.the-express.com/finance/business/172564/restaurant-mass-store-closures-bankruptcy",
+      "https://img.particlenews.com/image.php",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=33WKLf_11vewYIT00",
+      "https://the-express.com/finance/business/172564/restaurant-mass-store-closures-bankruptcy",
+      "https://www.img.particlenews.com/image.php?url=33WKLf_11vewYIT00",
+      "https://the-express.com/news/health/171409/listeria-outbreak-prepared-foods-sick"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Matt Schroeder",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "fake_news"
+      ],
+      "top_news": [],
+      "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:36:27.127+03:00",
+    "updated": "2025-06-19T04:43:10.000+00:00"
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "uuid": "cb2fb57cecf0e2b97f0aef8abe442ce6499c767f",
+    "url": "https://dailystar.com.lb/israel-intensifies-gaza-airstrikes-conflict-persists",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Stoil Stoil",
+    "published": "2024-06-27T19:53:00Z",
+    "title": "Israel intensifies Gaza airstrikes as conflict persists",
+    "text": "Israel launched air strikes on Gaza Thursday, continuing the conflict despite Prime Minister Benjamin Netanyahu’s recent comments that the “intense phase” of the war was nearing its end. Overnight and early Thursday, Israeli strikes killed at least five people in Gaza City and one in Beit Lahia, according to Hamas officials and medics.\nHeavy fighting and shelling were reported in northern Gaza’s Shujayia market, causing significant displacement of residents. Israeli forces also targeted buildings in Rafah and a school complex in Khan Younis.\nThe conflict, which began with Hamas’ October 7 attack on southern Israel, has resulted in significant casualties. Israel’s retaliatory strikes have killed at least 37,765 people in Gaza, mostly civilians, while 1,195 people, primarily civilians, died in the initial Hamas attack, according to Israeli figures.\nThe humanitarian crisis in Gaza is dire, with hospitals struggling and essentials in short supply. Efforts for a ceasefire and hostage release deal have yet to succeed, as Israel rejects Hamas’ demands for a permanent end to fighting and troop withdrawal.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "benjami",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "khan younis",
+          "sentiment": "none"
+        },
+        {
+          "name": "netanyahu",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza city",
+          "sentiment": "none"
+        },
+        {
+          "name": "beit lahia",
+          "sentiment": "none"
+        },
+        {
+          "name": "rafah",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-28T01:58:15.321+03:00",
+    "updated": "2024-06-28T01:58:15.321+03:00"
+  },
+  {
+    "uuid": "af9014e45073a1834952cd2ef0d634294295c17f",
+    "url": "https://abruzzoweb.it/napoli-calcio-caruso-nostro-turismo-cresce-con-ritiro-aumento-presenze-oltre-media-nazionale/",
+    "ord_in_thread": 0,
+    "author": "Azzurra Caldi",
+    "published": "2025-08-07T14:30:00Z",
+    "title": "NAPOLI CALCIO: CARUSO, \"NOSTRO TURISMO CRESCE CON RITIRO, AUMENTO PRESENZE OLTRE MEDIA NAZIONALE\"",
+    "text": "CASTEL DI SANGRO – “Il territorio dell’Alto Sangro registra una crescita significativa, oltre la media nazionale, in termini economici, turistici e infrastrutturali e a trainare questo sviluppo è anche il ritiro estivo del Napoli Calcio, che dal 2020 si svolge regolarmente a Castel di Sangro, trasformandosi in un volano per l’attrattività e la visibilità del comprensorio”.\nÈ quanto emerso dalla conferenza stampa di questa mattina a Castel di Sangro (L’Aquila), in concomitanza con il ritiro della squadra partenopea nel centro montano dell’Aquilano, tenuta dal sindaco, Angelo Caruso , dal presidente della Regione, Marco Marsilio , e dal consigliere regionale Daniele D’Amario, sottosegretario alla presidenza della Regione con delega al Turismo.\n“Un risultato storico per tutta la regione – ha spiegato Caruso -. I dati economici e statistici sono eccezionali, non fosse altro perché la media italiana non registra un tasso di crescita dell’8% su base annuale. C’è stata una affluenza straordinaria, prevista e auspicata e gli effetti si propagano per almeno 50 chilometri, coinvolgendo l’intero comprensorio. I numeri dimostrano che in un contesto in cui la competizione turistica non dà tregua, siamo riusciti a fare ciò che le regioni del Nord fanno da decenni, sdoganando l’Abruzzo dai vecchi pregiudizi in tema di ritiri calcistici”.\nIl primo cittadino ha parlato di una “invasione pacifica”.\n“Mai si sono registrati contrasti, anzi, Castel di Sangro ha accolto con entusiasmo i tifosi azzurri. La nostra storia è legata da sempre al rapporto con Napoli. Molte famiglie del nostro territorio sono di origine campana, e anche storicamente eravamo considerati la ‘Porta d’Abruzzo’. Questo sistema relazionale e culturale conferma quanto il nostro popolo sappia essere realmente forte e gentile”.\nIl sindaco ha sottolineato anche “il privilegio di aver ospitato tre trofei nazionali, due Scudetti e una Coppa Italia, grazie anche all’impegno del presidente Marsilio”, rimarcando il fatto che “l’attenzione mediatica è stata straordinaria, e che gli effetti promozionali non si esauriscono nel periodo del ritiro”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->tourism and leisure industry",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Social Issue->demographics",
+      "Social Issue->population and census",
+      "Labor->self-employment",
+      "Labor->labour market",
+      "Labor->employment"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Marco Marsilio",
+          "sentiment": "none"
+        },
+        {
+          "name": "Angelo Caruso",
+          "sentiment": "none"
+        },
+        {
+          "name": "Daniele",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Alto Sangro",
+          "sentiment": "none"
+        },
+        {
+          "name": "Castel",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Napoli Calcio",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Regione",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-07T20:33:46.064+03:00",
+    "updated": "2025-08-07T22:24:13.109+03:00"
+  },
+  {
+    "uuid": "26d011a4033bddb2700ea3ea392ac8c335533f3d",
+    "url": "https://www.baltimoresun.com/2023/12/29/2023-marylander-of-the-year-wilson/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Baltimore Sun Editorial Board",
+    "published": "2023-12-29T10:24:00Z",
+    "title": "2023 Marylander of the Year: C.T. Wilson | STAFF COMMENTARY – Baltimore Sun",
+    "text": "When the Maryland General Assembly passed the [Child Victims Act](https://www.baltimoresun.com/2023/04/11/lawmakers-advocates-celebrate-child-victims-act-being-signed-into-law-by-gov-wes-moore/) this spring, survivors of childhood sexual abuse heralded it as a landmark achievement, cementing their right to hold their tormentors accountable in civil court on their schedules. Many of them had advocated for years for the legislation, which removes an unreasonable limit on when such lawsuits can be filed. And those efforts, coupled with the momentum created by the appalling [Attorney General’s Report on Child Sexual Abuse in the Archdiocese of Baltimore](https://www.marylandattorneygeneral.gov/news%20documents/OAG_redacted_Report_on_Child_Sexual_Abuse.pdf) — which was released days before the governor signed the act, but had been expected for months — helped push the legislation across the finish line. Nearly all involved, however, recognize that at the heart of the effort to bring this particular measure of justice to this long-suffering group of individuals is one man: C.T. Wilson. He is The Baltimore Sun’s Marylander of the Year. The Democratic delegate representing Charles County first championed the legislation in 2015, surprising even himself when he stepped forward to [testify](https://www.baltimoresun.com/2015/03/27/in-hope-of-helping-others-delegate-reveals-abuse-as-child/) before his lawmaker colleagues about his own years of being repeatedly beaten and violated by his adoptive father. He had not intended to speak, much less describe how the abuse destroyed so much of his life, including a marriage, and how long it took him to come to a place where he could even talk about it. His abuser died in 1999 and will never face justice, civil or criminal. But Wilson, understanding that most survivors hide their abuse and don’t come to grips with what happened to them until an [average age of 52](https://www.baltimoresun.com/2020/03/10/protecting-children-from-sex-predators-commentary/), made it his mission to ensure others had the chance to seek justice when they were ready. When he began the fight, the cutoff to file a lawsuit was age 25; in 2017, he negotiated an extension to the age of 38; and this year, he won the war, removing the age limit. But the victory comes with no joy. “I’m very proud of the work I’ve done and believe as an elected official, it’s my job to give it my all,” Wilson said in an interview with the editorial board. “But it was very costly personally. … Every time I testify about this, it takes years off my life.” In the three months since the law took effect Oct. 1, lawsuits have been filed on behalf of dozens of individuals against multiple Maryland institutions, generally for abuse alleged to have occurred decades ago, including at the [Key School](https://www.baltimoresun.com/2023/12/05/key-school-survivor/) in Annapolis and several facilities overseen by the state’s Department of Juvenile Services. The Archdiocese of Baltimore, which filed for bankruptcy to limit its liability in such lawsuits after the AG report found more than 600 abuse victims dating back to the 1940s, has said it expects hundreds of complaints to be lodged against it. Already, several organizations are seeking to overturn the law by questioning its constitutionality in cases that are expected to reach the state’s Supreme Court. Regardless of the outcome, the fact that the law passed and was implemented has made Wilson a hero for many. When The Sun sought suggestions for the 2023 Marylander of the Year designation, nominations poured in for him from the public making the case: “His courage provided support and hope to others.” “He has tirelessly advocated for survivors of child sexual abuse for years.” “He led the David and Goliath fight. Maryland is forever changed for the good because of Delegate C.T. Wilson.” “We all owe Delegate Wilson a deep debt of gratitude for his efforts.” Wilson, 51, finds the support humbling. The only reason he told his story, he says, is because he “wanted people to know they’re not alone.” He never wanted to be known for this, and still doesn’t. He’s spent a lifetime accumulating other achievements: He served in the U.S. Army for seven years, graduated cum laude with a psychology degree, earned a J.D. from Howard Law School, opened a law practice, wrote a memoir about his childhood, fathered three daughters he’s tremendously proud of and, 13 years ago, became the first Black man to be elected delegate in Charles County. In that role, he’s credited with creating a licensing structure for recreational cannabis in Maryland and shepherding reform legislation through the legislature this year. “I know that I am blessed that my story and my pain actually made a difference,” he said. But “I don’t think that I’m that special. I’ve just met so many more amazing people than me, so many more survivors. … I don’t feel at all deserving of this.” Baltimore Sun editorial writers offer opinions and analysis on news and issues relevant to readers. They operate separately from the newsroom.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://www.marylandattorneygeneral.gov/news%20documents/OAG_redacted_Report_on_Child_Sexual_Abuse.pdf)",
+      "https://marylandattorneygeneral.gov/news%20documents/OAG_redacted_Report_on_Child_Sexual_Abuse.pdf)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "c.t. wilson",
+          "sentiment": "negative"
+        },
+        {
+          "name": "wes-moore",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "maryland general assembly",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "baltimore",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T12:25:29.638+02:00",
+    "updated": "2023-12-29T12:25:29.638+02:00"
+  }
+]

@@ -1,0 +1,479 @@
+[
+  {
+    "uuid": "4b7847e0296e580557819192392560ac08188d8e",
+    "url": "https://sicnoticias.pt/mundo/2024-08-22-video-sem-eua-a-conseguir-acordo-de-cessar-fogo-foi-mais-um-dia-de-mortes-em-gaza-fba72671",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Aurélio Faria",
+    "published": "2024-08-22T20:48:00Z",
+    "title": "Sem EUA a conseguir acordo de cessar-fogo, foi mais um dia de mortes em Gaza",
+    "text": "Abdel Shami Hamouda, de 70 anos,perdeu onze membros da família no último bombardeamento israelita a Beit Lahia, no norte da Faixa de Gaza.\n“Estou sentado sobre os destroços da minha casa e os restos mortais dos meus filhos”, descreve.\nNa Cidade de Gaza, uma escola refúgio para centenas de civis foi outro dos alvos. No sul de Gaza, houve novas ordens de evacuação de Khan Younis. As tropas israelitas justificam a retirada com mais operações para evitar o reagrupamento doscombatentes do Hamas.\nEm Israel, centenas de pessoas estiveram nos funerais dos reféns recuperados esta semana em Gaza. A imprensa revela que os corpos teriam marcas de balas e de projéteis. Diz que os seis cativos podem ter sido vítimas de disparos dos militares israelitas.\nCom as negociações para um cessar-fogo adiadas até nova ordem dos mediadores, a embaixadora dos Estados Unidos na\nONU fez um apelo desesperado ao Conselho de Segurança.\n“Este é um momento decisivo”, insistiu Linda Thomas-Greenfield. “Todos os membros deste conselho deviam continuar a enviar mensagens fortes a outros atores na região para evitar ações que nos afastem da finalização deste acordo.\nCom o bloqueio das negociações sobre Gaza, aumentou a escalada de tensão na região. As tropas israelitas mataram três palestinianos, num bombardeamento ao campo de refugiados de Tulkarm, na Cisjordânia ocupada.\nO primeiro-ministro e o ministro da Defesa visitaram uma base aérea no norte de Israel. Anunciaram a prontidão militar para qualquer tipo de ameaças e cenários de guerra.\nEsta quinta-feira,a força aérea israelita voltou a entrar no espaço aéreo do Líbano, e bombardeou alvos do movimento xiita Hezbollah.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://unric.org/pt/",
+      "https://www.unric.org/pt/",
+      "https://unric.org/pt"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T00:55:13.804+03:00",
+    "updated": "2024-08-23T00:55:13.804+03:00"
+  },
+  {
+    "uuid": "bba504612769c6a7d5159ab2232ff3cbcac9dcfd",
+    "url": "https://www.hackster.io/news/an-innovative-diy-watch-that-you-may-actually-want-to-wear-0bccb32576ff",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cameron Coward",
+    "published": "2024-10-17T21:23:00Z",
+    "title": "An Innovative DIY Watch That You May Actually Want to Wear - Hackster.io",
+    "text": "We’ve covered a lot of watch projects here on the Hackster blog. But, if we’re being honest, not many of them were designs that an average person would want to wear. Style and features are definitely factors, but bulk is arguably the biggest problem with DIY designs. The miniaturization needed to shove a bunch of tech into a tiny watch package requires resources that are out of the reach of most hobbyists. But Drfailov managed to pull it off and built this impressive ESP32-based watch that you may actually want to wear .\nDrfailov’s DRM Watch 3 looks fantastic. It is, admittedly, quite wide, but that’s a result of the screen Drfailov chose and that screen is what makes the watch so appealing. However, Drfailov’s packaging is extremely impressive and this watch is pretty darn slim. And it is a nice-looking watch that doesn’t at all give off “DIY” vibes — if we had told you that this was a consumer device that just hit the market, you would have believed us.\nThe key component is that awesome display, which is a 2.7” Sharp Memory Display that combines some of the best features of LCDs and e-ink displays. Sharp Memory Displays just recently started gaining traction in the maker community over the past couple of years. They use very little power and are quite readable in sunlight (like an e-ink display), but refresh at a fast rate (like an LCD). For devices that need to keep power consumption at a minimum without sacrificing refresh rate, they’re a great choice. They also have a distinct black-on-gray appearance that looks neat.\nMost Sharp Memory Displays, including this one, don’t have a backlight and so Drfailov had to add one. He made it using an electroluminescent panel cut to size to match the footprint of the display.\nThat display-backlight sandwich fits on top of the custom PCB that is densely packed with all of the components necessary to make the watch work. That includes, most importantly, an ESP32-S2 microcontroller. The ESP32-S2 has Wi-Fi for connecting to networks and Bluetooth for connecting to a user’s smartphone. Power comes from a 450mAh lithium battery and Drfailov says that it is good for about two weeks of use between charges.\nThe enclosure is 3D-printable, but the front panel can also be CNC-machined out of aluminum, steel, or more exotic metals for a premium appearance.\nwearables smartwatch Cameron Coward Follow Writer for Hackster News. Proud husband and dog dad. Maker and serial hobbyist. Check out my YouTube channel: Serial Hobbyism",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.instructables.com/DIY-ESP32-Wearable-DRM-Watch-3/",
+      "https://instructables.com/DIY-ESP32-Wearable-DRM-Watch-3/",
+      "https://www.instructables.com/DIY-ESP32-Wearable-DRM-Watch-3"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T00:56:41.516+03:00",
+    "updated": "2024-10-18T00:56:41.516+03:00"
+  },
+  {
+    "uuid": "81582721f06b6aed71e18d1732ffee6a8c9c04c2",
+    "url": "https://ca.news.yahoo.com/john-howard-society-dedicated-sheltering-035154198.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Weather Network",
+    "published": "2024-01-13T02:51:00Z",
+    "title": "John Howard Society dedicated to sheltering homeless during cold snap",
+    "text": "Local Journalism Initiative John Howard Society dedicated to sheltering homeless during cold snap Read full article Local Journalism Initiative January 13, 2024 at 5:51 a.m. · 2 min read COLD LAKE - In the midst of the biting cold weather that has blanketed Cold Lake, the John Howard Society's services are proving to be a crucial refuge for those without a place to call home.\nWith temperatures plummeting in the –50C range with the windchill, and harsh winter conditions setting in, the shelter has opened its doors to anyone seeking warmth.\nProgram Manager Leona Heisler, shares insights into the non-profit's commitment to providing shelter and support during extreme weather conditions.\nThe shelter's open-door policy ensures that no one is left out in the cold.\n“They just come in, it’s kind of a first come, first serve, but in this weather, we don’t turn anybody away,” says Heisler.\nThe surge in demand during extreme weather poses challenges in maintaining an orderly and comfortable environment within the shelter. Despite facing slight overcrowding, the John Howard Society remains committed to addressing the needs of those in need.\n“We have been having people sleep by the door, in the boot room, and by the entrance, there are benches there,” says Heisler.\nIn instances where a person's behaviour becomes uncontrollable or if the shelter becomes overcapacity, rather than leaving individuals outside in the cold, the shelter contacts local police for an appropriate resolution.\nHeisler explains the shelter's mission and its compassionate approach, stating, \"We are harm reduction, so they don't have to be sober to come in here. They can't use on-site, but as long as you are keeping the peace, you can stay here even if you are intoxicated.”\nHeisler notes that the behaviour of the individuals staying at the shelter hasn't been as challenging as in previous instances, attributing this change to the cold weather conditions.\n“When it's cold like this, usually they are pretty tired.”\nHeisler adds that the community's response to the extreme weather conditions has been appreciated, with an outpouring of support in the form of donations.\nStory continues “We've had a lot of donations in the last couple of days with the cold weather - some cold weather gear, those hand warmer things - and lots of calls with people donating, so it's been really good.”\nDespite the support, the shelter emphasizes a continued need for winter gear and welcomes community involvement.\n“We don’t want to become a secondhand store, but right now we could use winter gear.”\nChantel Downes, Local Journalism Initiative Reporter, Lakeland This Week\nTRENDING 1. B.C.'s infamous fast ferries are on Facebook Marketplace, and if they aren't bought they'll be destroyed 2. Patient may be source of chemical smell that caused Saskatchewan hospital evacuation 3. Cospital? Old Costco site will be one-stop shop for health care, but won't increase system's capacity 4. 'Aggressive' driver causes truck rollover that closed QEW in Beamsville, Ont.: OPP 5. Toronto police chief reverses course, identifies 'terrorist flag' waved at demonstration",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://s.yimg.com/os/creatr-uploaded-images/2021-03/66809040-81d9-11eb-bcfe-1ea41cfca2b0",
+      "https://lji-ijl.ca/",
+      "https://s.yimg.com/ny/api/res/1.2/Xc_PhniTVGaNyGJhiEgpfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE5NDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2021-03/66809040-81d9-11eb-bcfe-1ea41cfca2b0",
+      "https://www.lji-ijl.ca/",
+      "https://www.s.yimg.com/os/creatr-uploaded-images/2021-03/66809040-81d9-11eb-bcfe-1ea41cfca2b0",
+      "https://lji-ijl.ca",
+      "https://www.s.yimg.com/ny/api/res/1.2/Xc_PhniTVGaNyGJhiEgpfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE5NDtoPTQ4/https://www.s.yimg.com/os/creatr-uploaded-images/2021-03/66809040-81d9-11eb-bcfe-1ea41cfca2b0"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "john howard society",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cold lake",
+          "sentiment": "none"
+        },
+        {
+          "name": "leona heisler",
+          "sentiment": "none"
+        },
+        {
+          "name": "heisler",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "john howard society",
+          "sentiment": "none"
+        },
+        {
+          "name": "john howard society remains commi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-13T06:02:24.130+02:00",
+    "updated": "2024-01-13T06:02:24.130+02:00"
+  },
+  {
+    "uuid": "3b43b5059abae72241b20a8872e14e375ce55e58",
+    "url": "https://gbtimes.com/how-to-get-rid-of-activate-windows-watermark-reddit",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "GB Times",
+    "published": "2024-08-30T10:21:00Z",
+    "title": "How to get rid of activate windows watermark Reddit?",
+    "text": "How to Get Rid of Activate Windows Watermark: A Step-by-Step Guide\nAre you tired of seeing the \"Activate Windows\" watermark on your screen? This frustrating and persistent issue can be caused by various reasons, including expired or non-active Windows license, pirated or unauthorized Windows installation, or conflicts with software applications. In this article, we’ll provide you with a comprehensive guide on how to get rid of the \"Activate Windows\" watermark and keep your Windows operating system active and genuine.\nUnderstanding the Reason Behind the Watermark\nBefore we dive into the solution, it’s essential to understand the root cause of the watermark. In most cases, the watermark appears because the Windows license is either expired or invalid. This can happen when you install pirated or unauthorized Windows copies, upgrade from a previous version, or face hardware-related issues.\nGetting Rid of Activate Windows Watermark Reddit\nTable of Contents\nToggle\nMethod 1: Activate Your Windows License **Using the Built-in Activation Options** Method 2: Change Your Windows Key **Using the New Product Key** Method 3: Perform a Clean Installation of Windows **Reinstalling Windows from Scratch** Method 4: Use a Windows Activator **Third-Party Solutions and Potential Risks** Frequently Asked Questions Method 1: Activate Your Windows License\n**Using the Built-in Activation Options**\nIf your Windows license is not activated, you can use the built-in activation options to resolve the issue. Follow these steps:\nClick on the \"Start\" menu and select \"Settings\"\nIn the Settings window, click on \"Update & Security\"\nSelect \"Activation\" from the left sidebar\nClick on the \"Update license\" button\nFollow the on-screen instructions to activate your Windows license\nIf the built-in activation options don’t work, you may need to contact your system administrator or Microsoft support for further assistance.\nMethod 2: Change Your Windows Key\n**Using the New Product Key**\nSometimes, you may need to replace your Windows product key with a new one. You can do this by following these steps:\nOpen the Command Prompt as an administrator\nType the following command: slmgr -rearm\nPress the \"Enter\" key\nFollow the on-screen instructions to activate your Windows license with the new product key\nMethod 3: Perform a Clean Installation of Windows\n**Reinstalling Windows from Scratch**\nIf the above methods don’t work, you may need to perform a clean installation of Windows. This will remove all existing data, applications, and settings, so make sure to back up your important files and data before proceeding.\nBoot from a legitimate Windows installation media\nFollow the installation wizard to complete the clean installation process\nActivate your Windows license during the installation process\nMethod 4: Use a Windows Activator\n**Third-Party Solutions and Potential Risks**\nCaution: We recommend against using third-party Windows activators as they may pose a significant risk to your system’s security and integrity.\nUsing a Windows activator can violate Microsoft’s licensing agreements and result in legal consequences.\nThird-party activators may contain malware or other viruses that can compromise your system’s security.\nActivation of your Windows license should be done using official channels, such as purchasing a genuine product key from Microsoft or contacting your system administrator for further assistance.\nFrequently Asked Questions\nQuestion\nAnswer\nHow to get rid of the activate windows watermark Reddit?\nUse one of the above-mentioned methods to resolve the issue.\nWhy does my Windows license not activate?\nThis may be due to a variety of reasons, including pirated or non-genuine copies, hardware conflicts, or expired licenses.\nIs it safe to use third-party Windows activators?\nNo, it is not recommended as it poses significant risks to your system’s security and integrity.\nConclusion\nGetting rid of the \"Activate Windows\" watermark is a straightforward process. By using the above-mentioned methods, you can resolve the issue and keep your Windows operating system active and genuine. Remember to prioritize system security and integrity by using only official channels to activate your Windows license.\nIf you’re experiencing issues with activating your Windows license or require further assistance, consider consulting Microsoft support or your system administrator for personalized guidance.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T16:43:48.846+03:00",
+    "updated": "2024-08-30T16:43:48.846+03:00"
+  },
+  {
+    "uuid": "db2706335caa40983beeb741cb185c584ca6b3a6",
+    "url": "https://vanguardia.com.mx/noticias/es-un-desastre-humanitario-el-flujo-migratorio-desborda-la-frontera-de-eu-KM10583898",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "the new york times",
+    "published": "2023-12-28T16:16:00Z",
+    "title": "‘Es un desastre humanitario’: el flujo migratorio desborda la frontera de EU",
+    "text": "‘Es un desastre humanitario’: el flujo migratorio desborda la frontera de EU En un lugar remoto del desierto de Arizona, cerca de una brecha que se abría en el muro fronterizo, decenas de migrantes se acurrucaban junto a unas hogueras de leña Por Natalie Kitroeff Los encuentros con migrantes vuelven a alcanzar niveles históricos y ponen a prueba la capacidad de las fuerzas de seguridad estadounidenses para contener el aumento de cruces ilegales. En un lugar remoto del desierto de [Arizona](https://en.wikipedia.org/wiki/Arizona), cerca de una brecha que se abría en el muro fronterizo, decenas de migrantes se acurrucaban junto a unas hogueras de leña. TE PUEDE INTERESAR: [‘Enferman’ ciberataques al sector salud en 2023](https://vanguardia.com.mx/noticias/enferman-ciberataques-al-sector-salud-en-2023-LM10580964) Tras huir de la guerra en Sudán, de bandas violentas en Centroamérica o de los cárteles mexicanos, todos habían cruzado de manera ilegal hacia Estados Unidos, caminaron a pie por terrenos accidentados durante horas y habían llegado a este punto exhaustos, hambrientos y con frío. Querían entregarse a las autoridades para pedir asilo, pero se quedaron varados aquí, a kilómetros de la ciudad más cercana, Sásabe. El martes por la noche, cuando descendieron las temperaturas, llegó un grupo de agentes de la Patrulla Fronteriza, metió a los hombres en una camioneta para procesarlos y se marchó a toda velocidad, en busca de más personas que necesitaban ser rescatadas. “No estamos equipados para hacer frente a esto”, dijo Scott Carmon, comandante de guardia de la Patrulla Fronteriza, mientras revisaba el campamento. “Es un desastre humanitario”. Esta es la crisis que se está experimentando en la frontera sur, cuando los encuentros con migrantes vuelven a alcanzar niveles históricos y ponen a prueba la capacidad de las fuerzas de seguridad estadounidenses para contener un aumento de cruces ilegales con repercusiones de gran envergadura para el gobierno de Biden. Todos los días llegan a la frontera miles de migrantes procedentes de los confines del planeta, desde África a Asia y Sudamérica, impulsados por la violencia implacable, la desesperación y la pobreza. En mayo, el gobierno de Biden celebró el descenso fugaz de los cruces, incluso después de que se eliminaran las restricciones fronterizas pandémicas y mientras muchos temían que la frontera se desbordara. Pero las cifras han aumentado en los últimos meses, lo que ha generado críticas duras de los dos partidos políticos estadounidenses y temores al interior del gobierno por la posibilidad de que este tema afecte el futuro electoral de los demócratas. La semana pasada, el número de detenciones llegó a más de 10.000, una cifra que puso a prueba los recursos de la Patrulla Fronteriza y desbordó a las pequeñas ciudades de ambos lados de la frontera, por donde los traficantes han canalizado a la gente para establecer nuevas rutas para eludir la captura por parte de las autoridades de EE. UU. “En términos de flujo de migrantes por día, diciembre de 2023 es mayor que cualquier media que hayamos visto nunca”, dijo Adam Isacson, experto en migración de la Oficina en Washington para Asuntos Latinoamericanos. “Todos los funcionarios que lo comentan, a todos los niveles, dicen que están cerca o más allá del límite”. Mientras las autoridades estadounidenses seguían el trayecto de una caravana de más de 2000 migrantes que avanzaba hacia Estados Unidos a través del territorio mexicano, el secretario de Estado de EE. UU., Antony Blinken, y otros altos funcionarios viajaron a México el miércoles para hablar sobre el repunte de la migración con el presidente Andrés Manuel López Obrador. Según los expertos, es poco probable que la caravana llegue a Estados Unidos, pero ha generado atención mediática sobre los migrantes que ya han cruzado la frontera de manera masiva. México ha cumplido de manera fiel las restricciones fronterizas de EE.UU., y ha detenido a un número récord de migrantes este año, como muestran las cifras del gobierno. Pero en diciembre, el Instituto Nacional de Migración, un organismo gubernamental, suspendió las deportaciones de migrantes del país por falta de recursos, según un funcionario del instituto que no estaba autorizado a hablar públicamente. Los expertos y las autoridades aún están tratando de entender a qué se debe exactamente el reciente flujo migratorio. Entre las principales teorías están: un mayor número de mexicanos que parecen estar huyendo de las luchas territoriales de los cárteles por todo el país; rumores sobre el fin de una vía legal clave que puede haber provocado la premura por cruzar, y traficantes que han hecho que personas desesperadas de todas las nacionalidades traten de cruzar por zonas cada vez más remotas de la frontera. “Si te trasladas a un lugar remoto, no habrá muchos agentes trabajando y eso aumenta tus posibilidades de ser liberado en EE. UU.”, dijo Isacson. “No hay espacio para poner a la gente. No pueden retenerte”. El martes, Izzeddin, un migrante sudanés de 32 años, se encontraba entre una decena de hombres de su país en aquel campamento de Arizona. Sorbía café azucarado que les dio una organización humanitaria, No Más Muertes, que ha ayudado a los migrantes con mantas, alimentos y llamadas al 911 para tratar lesiones potencialmente mortales. “Venimos aquí porque necesitamos protección”, dijo Izzeddin, quien pidió que se le identificara solo por su nombre de pila, por temor a represalias contra su familia. Una cruenta guerra civil en Sudán ha expulsado a millones de personas de sus hogares, entre ellas, estos hombres, quienes dijeron que perdieron a miembros de su familia y dejaron a sus seres queridos en campos de refugiados para ir a Estados Unidos. Izzeddin dijo que, en Sudán, vio “cómo mataban y violaban a la gente”. Él y sus acompañantes, dijo, esperaban una cosa: “Que la patrulla fronteriza venga a recogernos y nos otorgue protección”. A menudo, los migrantes que llegan a Estados Unidos y solicitan asilo —protección frente a la persecución política o de otro tipo en su país de origen— no logran que sus solicitudes sean examinadas a su llegada. Debido a la capacidad limitada para detener a personas en la frontera, muchos son puestos en libertad con una cita para que un juez evalúe sus casos. El proceso puede durar años. A principios de diciembre, las autoridades fronterizas cerraron un puerto de entrada clave para los cruces legales en Arizona y así centrarse en los cruces ilegales. Carmon, comandante de guardia de la Patrulla Fronteriza, pidió más recursos. “Denos más ayuda, denos recursos de Agencia Federal para el Manejo de Emergencias”, dijo. La semana pasada, trabajadores de No Más Muertes evacuaron a migrantes atrapados en un aguacero a unas instalaciones de la Patrulla Fronteriza cercanas, dijo una portavoz del grupo. “Si tuviéramos una ciudad inundada y se tuviera que evacuar a la gente, enviarían camiones de la [Guardia Nacional](https://vanguardia.com.mx/noticias/a-dos-dias-de-inauguracion-aceleran-trabajos-para-terminar-megafarmacia-KC10568424), esos grandes camiones de ganado, y meterían en ellos a nuestros ciudadanos”, dijo Carmon. “Por qué no están aquí ayudándonos a transportar a estas personas a un lugar seguro y cálido, no lo sé”. Para Izzeddin, estar expuesto a los elementos en el desierto le parecía mucho más seguro que permanecer en Sudán. “No importa si hace frío”, dijo. “Aquí hay paz”. c. 2023 The New York Times Company",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://en.wikipedia.org/wiki/Arizona),",
+      "https://www.en.wikipedia.org/wiki/Arizona),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:12:50.011+02:00",
+    "updated": "2023-12-29T00:12:50.011+02:00"
+  },
+  {
+    "uuid": "b9619127d5d68376924258f90b7c51f51345f516",
+    "url": "https://punchng.com/afdb-eyes-120-million-tonnes-of-additional-food-by-2025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Daniel Adaji",
+    "published": "2024-10-03T22:51:00Z",
+    "title": "AfDB eyes 120 million tonnes of additional food by 2025",
+    "text": "The African Development Bank plans to produce an additional 120 million tonnes of food by 2025.\nThis announcement was made by the Director General of the AfDB Nigeria Country Department, Abdul Kamara, during a side event at the 2024 West and Central Africa Regional Wheat Summit in Abuja on Thursday.\nHe emphasised the urgent need for enhanced wheat production in West and Central Africa.\nThe summit, themed “Prioritising Policy, Innovative Technologies, and Investments in Wheat Transformation towards Sustainable Food Security and Economy”, highlighted the critical issues facing the region’s agricultural sector.\nKamara noted the rising demand for wheat driven by population growth and urbanisation.\nDespite this demand, he pointed out that domestic production had not kept pace, leading to heavy reliance on imports.\nAccording to Kamara, the recent geopolitical tensions, particularly the conflict between Russia and Ukraine, have further exacerbated this situation, increasing vulnerability in the region’s food supply.\nIn response to those challenges, Kamara outlined the AfDB’s Feed Africa initiative, launched in 2016.\nHe said the 10-year strategy aimed to transform agriculture across the continent into a competitive agribusiness sector.\n“The Feed Africa’s Technologies for African Agricultural Transformation is a major initiative that aims to boost agricultural productivity in all parts of Africa. This will produce an additional 120 million tons of food and lift 130 million people out of poverty,” he stated.\nHe added that the initiative was designed to assist over 40 million farmers by 2025, aiming to double the productivity of crops, livestock, and fisheries.\n“Wheat is a staple food for millions across Africa and plays an essential role in ensuring food security and driving economic growth,” he noted.\nKamara urged a shift towards self-sufficiency, saying, “We must work towards reducing this import dependency and bolster local wheat production to secure our region’s food future.”\nHead of the TAAT Clearinghouse, Dr Solomon Gizaw, highlighted the pressing demand for wheat, noting that wheat consumption in Sub-Saharan Africa has surged by over 6 per cent in the past decade.\nHe emphasised the need for strategic investments in the wheat value chain, pointing out that nations like Nigeria and Cameroon were formulating National Wheat Road Maps to enhance domestic production.\nGizaw added, “Over the past six years, TAAT has successfully distributed heat-tolerant wheat varieties and other crops to over 12 million farmers, leading to an estimated increase in crop production of 25 million tonnes.”\nJigawa State Governor, Umar Namadi, shared the challenges and successes of wheat production in his state.\n“We believe in our land, our people, and our determination,” he said, reflecting on efforts to allocate 40,000 hectares for wheat cultivation.\nHe noted that his administration had implemented programmes to support farmers, resulting in a significant increase in land dedicated to wheat production.\nThe Managing Director of Nile Sun Seed Company Ltd and Chairman of the Sudan Seed Trade Association, Mr Elzubeir Ibrahim, echoed those sentiments.\nHe stated the opportunities presented by heat-tolerant wheat varieties and the growing market demand.\n“This demand creates a pathway for success that we can leverage,” he remarked.\nKamara expressed optimism about the future of wheat production, stating, “Together, we can turn the challenges we face into opportunities and create a prosperous wheat sector that serves the needs of our people.”\nHe encouraged stakeholders to engage in discussions aimed at building resilient agricultural systems capable of supporting Africa’s food security and economic growth.\nThe two-day summit aims to foster partnerships among governments, research institutions, and the private sector to create a sustainable wheat industry in the region.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Abdul Kamara",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "AfDB Nigeria Country Department",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T03:26:04.159+03:00",
+    "updated": "2024-10-04T15:08:01.945+03:00"
+  },
+  {
+    "uuid": "fc9d09987e3e481d82731c6eaf4b78a52ffb0c0a",
+    "url": "https://www.zocalo.com.mx/fiscal-de-veracruz-evita-informar-sobre-cuerpos-en-tuxpan-hay-entre-cinco-y-siete-detenidos-dice/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Grupo Zócalo",
+    "published": "2024-02-01T15:18:00Z",
+    "title": "Fiscal de Veracruz evita informar sobre cuerpos en Tuxpan; hay ‘entre cinco y siete’ detenidos, dice",
+    "text": "Veracruz.- La fiscal general de Veracruz , Verónica Hernández Giadáns, evitó informar sobre el hallazgo de múltiples cuerpos en la ciudad de Tuxpan .\nCuestionada sobre el número de víctimas halladas en dos vehículos el pasado 28 de enero , y las amenazas presuntamente firmadas por el Cártel Jalisco Nueva Generación ( CJNG ), la funcionaria apuntó que las investigaciones están en curso.\nAsimismo, expuso que hay “entre cinco y siete” personas detenidas , posiblemente relacionadas con los hechos.\n“ Por el momento no quisiera yo dar ninguna información, ya en unos días tendremos información para compartir”, señaló ante medios de comunicación.\nSin embargo, la fiscal no descartó que los cuerpos pudieran tener relación con víctimas de secuestro , toda vez que en Tuxpan hay varias carpetas de investigación en curso por el delito de privación ilegal de la libertad.\nMedios locales apuntan a que serían migrantes las personas muertas halladas en una camioneta de redilas y un auto compacto.\nCon información de López-Dóriga Digital",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "external_links": [
+      "https://lopezdoriga.com/nacional/veracruz-fiscal-evita-informar-cuerpos-tuxpan",
+      "https://lopezdoriga.com/nacional/veracruz-fiscal-evita-informar-cuerpos-tuxpan/",
+      "https://www.lopezdoriga.com/nacional/veracruz-fiscal-evita-informar-cuerpos-tuxpan/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-02T00:42:58.433+02:00",
+    "updated": "2024-02-02T00:42:58.433+02:00"
+  },
+  {
+    "uuid": "11ee82fa8a48b1e4243f5016a9305c6e534398e7",
+    "url": "https://cadenaser.com/galicia/2024/06/21/canada-rinde-un-emotivo-homenaje-a-las-victimas-del-pitanxo-con-el-descubrimiento-de-una-placa-con-el-nombre-de-los-21-fallecidos-radio-pontevedra",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jacobo Conde",
+    "published": "2024-06-21T15:52:00Z",
+    "title": "Canadá rinde un emotivo homenaje a las víctimas del Pitanxo con el descubrimiento de una placa con el nombre de los 21 fallecidos | Actualidad | Cadena SER",
+    "text": "[Sociedad](/actualidad/sociedad/) Canadá rinde un emotivo homenaje a las víctimas del Pitanxo con el descubrimiento de una placa con el nombre de los 21 fallecidos Las familias reviven la tragedia “con tristeza” dos años después de lucha para conocer la verdad del hundimiento del “Villa de Pitanxo” La localidad canadiense de San Juan de Terranova ha homenajeado a las víctimas del naufragio del pesquero gallego 'Villa de Pitanxo' con la instalación de una placa con los nombres de los 21 fallecidos en la tragedia. Al igual que hicieron el resto de municipios donde residían los marineros que perdieron la vida en el buque, ahora, más de dos años después del hundimiento, el gobierno canadiense también ha querido realizar un homenaje a todos los tripulantes que murieron a 450 kilómetros de su costa en la madrugada del 15 de febrero de 2022. Hasta allí se han desplazado familiares de las víctimas, acompañados por representantes de Pesca de la Xunta de Galicia y del Gobierno de España para descubrir la placa con el nombre de las 21 víctimas y una escultura homenaje. “No pudo haberse elegido un sitio mejor para honrar a los nuestros. Estamos muy agradecidos. El sitio mira al mar en línea recta hacia donde pasó la desgracia y todo ha sido elegido con mucho mino. Si lo hubiésemos hecho las familias, no hubiese quedado tan bien”, ha manifestado la portavoz de las familias, María José de Pazo. El homenaje de este viernes contó con la participación de autoridades de Terranova y del Gobierno de Canadá, entre otras, como la patrulla 'Tarifa' de la Armada Española que también estuvo presente. En su discurso, María José de Pazo ha puesto en valor el significado de la placa instalada en Terranova, que muestra el “sacrificio” de las víctimas. “Esta placa es como las otras nueve que se han colocado en España, la primera fue en Marín, de donde el buque 'Villa de Pitanxo' zarpó por última vez y esta es la última, mirando al mar donde reposa el barco y doce de los 21 fallecidos. Es también un tributo a los pescadores y a los valores que encarnan”. San Juan de Terranova es el lugar a donde llegaron los tres supervivientes y los cuerpos recuperados, además de la ciudad de donde partió el buque Ártabro para acometer la misión de bajada al barco.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-21T21:13:13.878+03:00",
+    "updated": "2024-06-21T21:13:13.878+03:00"
+  },
+  {
+    "uuid": "348a89cf862cbc6d1a7b539170919556800041fc",
+    "url": "https://www.dailyexcelsior.com/new-military-axis",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Daily Excelsior",
+    "published": "2024-06-27T17:44:00Z",
+    "title": "New Military Axis",
+    "text": "By Girish Linganna\nRussia is now working more closely with Iran, North Korea, and China, sharing sensitive technology that could pose a threat to the United States. and its allies even after the Ukraine war ends, say American defense and intelligence officials. The rapid growth and strength of security ties between U.S. adversaries have surprised even American intelligence analysts. According to reports from WSJ, Russia and its Axis allies have put aside past disagreements to challenge what they see as a US-dominated global system.\nIn a sign of their growing military relationship, Russian President Vladimir Putin and North Korean leader Kim Jong Un announced on June 19, in Pyongyang, that they had agreed to help each other if either country was attacked. Their relationship is an alliance between the two authoritarian nations. Russia started increasing its cooperation with North Korea, Iran, and China after Russia invaded Ukraine in February 2022. Early losses on the battlefield and Western sanctions forced Russia to seek new sources of weapons. These partnerships have evolved into joint production deals, technology sharing, and providing workers. The agreements are boosting Moscow’s long-term capabilities and could also benefit Tehran, Pyongyang, and Beijing.\nFor decades, the former Soviet Union exported billions of dollars in weapons to the developing world. Now the relationship is partially reversed, as Moscow scours the globe for material to sustain its Ukraine war, now in its 28th month.\nNATO Secretary-General Jens Stoltenberg said on Tuesday, alongside Secretary of State Antony Blinken, that Russia’s war in Ukraine is supported by China, North Korea, and Iran. According to the Wall Street Journal, he mentioned that these countries want the US and NATO to fail. If Russia wins in Ukraine, it could make the West more vulnerable and the world more dangerous.\nIran has helped set up a factory in Russia’s Tatarstan region to produce deadly armed drones. US officials believe this factory is now running and can make thousands of Iranian-designed Shahed-136 drones each year. They also expect it to start producing other types of drones. A US defense official stated that Russia will still have this capability after the war. What started as a simple deal has now turned into a sharing of knowledge.\nIran can see how well its drones, which Russia is using against Ukraine, perform in actual combat. The worry is that Iran might bring all the lessons learned from this back to the Middle East. A senior Biden administration official said that China and Russia are also collaborating to produce nonlethal drones within Russia. The thing is, it’s deniable because it is just sharing technology and the production of commercially available drones.\nOn June 19, when Putin and Kim announced their closer military ties, they didn’t specify whether the new agreement means they will fight for each other in a war or if it simply promises other types of support. The United States and South Korea believe Russia might give North Korea space technology and other advanced systems in exchange for artillery shells and short-range ballistic missiles. They believe North Korea has already supplied these weapons to support Russia’s war on Ukraine. It is believed that North Korea is also sending workers to Russia to help run weapons production lines. In return, Russia has been giving North Korea large amounts of fuel oil. The worry is that Russia’s support could include military help in the future.\nCurrent and former U.S. officials said that the growing security ties between Russia, North Korea, Iran, and China do not yet form a formal military alliance like NATO in the West. Instead, these ties involve separate bilateral agreements between Russia and each of the three other countries. Sue Mi Terry, a former CIA and White House official, recently said that for Russia, North Korea, and even China, such cooperation is more a convenient arrangement based on shared interests and goals right now, rather than a deep alliance. However, the beginnings of a new alliance are forming, showing signs of wider strategic and diplomatic cooperation.\nAccording to Western officials and customs data, China has been leading efforts to strengthen trade ties with countries sanctioned by the US, such as Russia, Iran, and Venezuela, as a way to protect them against Washington’s financial actions. Last month, US Director of National Intelligence Avril Haines told lawmakers that China and Russia are conducting military exercises for the first time that seem to focus on Taiwan, the self-governing island that Beijing claims as its territory.\nIn March, Moscow used its veto in the U.N. Security Council to stop the United Nations from continuing to monitor international sanctions on North Korea. This move was to avoid scrutiny of the weapons pipeline between Pyongyang and Moscow. According to a US defense official, the weapons pipeline from Tehran is proving to be the most helpful to Moscow, making Iran Russia’s main weapons supplier. Besides helping build the drone factory in Tatarstan, Iran has sent hundreds of drones and other weapons to Russia. The two countries are in advanced talks for Iran to sell short-range ballistic missiles to Russia.\nIran has, however, denied supplying weapons to Russia. But Behnam Ben Taleblu, a senior fellow at the Foundation for Defense of Democracies in Washington, said that in many areas where Iran was once the student, it is now becoming the master. For the first time in history, Iran is more than just a junior partner to Russia.\nCurrent and former U.S. officials said that China has done everything except supply weapons to Russia. Washington has warned that providing weapons would lead to American economic sanctions. US officials said that help from Beijing allowed Russia’s defense production to recover faster than American intelligence agencies expected after Moscow’s early setbacks in Ukraine and Western sanctions aimed at restricting its access to weapons.\nOfficials said that China has sent large amounts of dual-use equipment to Russia, including machine tools, microelectronics for the defense industry, optics for tanks and armoured vehicles, and turbo engines for cruise missiles. China is helping Russia enhance its satellite and other space-based capabilities for use in Ukraine. “They are very careful, but they are coming very close to crossing the line,” a defense official said. “They have been doing everything they can to support the Russians, mindful of the consequences.” (IPA Service",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "girish linganna russia",
+          "sentiment": "negative"
+        },
+        {
+          "name": "vladimir putin",
+          "sentiment": "none"
+        },
+        {
+          "name": "kim jong",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "wsj",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "iran",
+          "sentiment": "none"
+        },
+        {
+          "name": "china",
+          "sentiment": "none"
+        },
+        {
+          "name": "north korea",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "pyongyang",
+          "sentiment": "none"
+        },
+        {
+          "name": "russia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-28T01:46:17.543+03:00",
+    "updated": "2024-06-28T01:46:17.543+03:00"
+  },
+  {
+    "uuid": "2849cfe8dab637b95fa8d1a3ea57bc379e8022ea",
+    "url": "https://www.wcjb.com/2024/05/10/power-lines-trees-down-thunderstorms-move-through-north-central-florida",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wcjb20",
+    "published": "2024-05-10T14:11:00Z",
+    "title": "Power lines, trees down as thunderstorms move through North Central Florida",
+    "text": "Power lines, trees down as thunderstorms move through North Central Florida GAINESVILLE, Fla. (WCJB) - Emergency crews are responding to downed trees and power lines causing power outages and blocking roadways in North Central Florida as thunderstorms move through the area. Alachua County Emergency Management officials are reporting downed powerlines throughout the county. They warn residents to never handle downed power lines. Weather Forecast: [Stormy at Times Today; Nice Weekend Ahead!](https://www.wcjb.com/2024/05/10/weather-forecast-stormy-times-today-nice-weekend-ahead/) Columbia County Sheriff’s deputies responded to reports of a tree on a mobile home off Country Club Road. The tree split the home in half, thankfully no one was hurt. Emergency crews are responding to damage throughout the county. In Suwannee County, Superintendent Ted Rough announced the school district will release school early due to the severe storms and resulting power outages. Bus routes will begin to run at 12:30 p.m. Student drivers will be dismissed. As of 11 a.m. on Friday, more than 200,000 households in North Florida were [ without power](https://poweroutage.us/area/state/florida). In the city of Alachua, officers notified residents of a large tree blocking County Road 235A about a mile north of Santa Fe High School. [Click here](https://www.wcjb.com/newsletter/) to subscribe to our newsletter. Copyright 2024 WCJB. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "columbia county sheriff’s",
+          "sentiment": "none"
+        },
+        {
+          "name": "times today",
+          "sentiment": "none"
+        },
+        {
+          "name": "santa fe high school",
+          "sentiment": "none"
+        },
+        {
+          "name": "alachua county emergency management",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "north central florida gainesville",
+          "sentiment": "none"
+        },
+        {
+          "name": "fla.",
+          "sentiment": "none"
+        },
+        {
+          "name": "north central florida power",
+          "sentiment": "none"
+        },
+        {
+          "name": "alachua",
+          "sentiment": "none"
+        },
+        {
+          "name": "county road",
+          "sentiment": "none"
+        },
+        {
+          "name": "north central florida",
+          "sentiment": "none"
+        },
+        {
+          "name": "country club road",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T17:35:40.595+03:00",
+    "updated": "2024-05-10T19:26:52.464+03:00"
+  }
+]

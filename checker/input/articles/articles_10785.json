@@ -1,0 +1,257 @@
+[
+  {
+    "uuid": "fc8edc034c2e923086cd1a348458e87cd14eed8e",
+    "url": "https://lemm.ee/post/47937783",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "https://lemmy.world/u/trespasser69",
+    "published": "2024-11-21T14:40:00Z",
+    "title": "Microsoft tries to convince Windows 10 users to buy a new PC with full-screen prompts",
+    "text": "[log in or register](/login)to comment.\nThose aren’t prompts. Those are ads. Call a spade a spade. “Microsoft tries to convince Windows 10 users to buy a new PC with full-screen ads”\nI use Linux at home but my work computer uses windows. Work just bought me a new laptop with windows 11 pre-installed and I got ads to upgrade to a new “AI capable computer” on the login screen. This computer is maybe 3 months old and there are already ads telling me I need to get a new one.\nyou don’t use windows enterprise at work?\nMy aging windows tower and retired work laptop were both struggling to keep up with my photo and video editing. Linux asnt an option for Capture One and Davinci Resolve, and the writing was on the wall for what Windows is becoming.\nCombined with the failures in Intel Raptor/Alder lake CPUs, I took an unexpected leap into the realm of Apple silicon with an M4 Pro Mac Mini.\nApple is not a perfect company, but this new machine processes video faster than anything I’ve ever used, and for the first time since the 2010s it has replaceable (proprietary) storage.\nI’m no fan of apples, but I have to admit, their switch to arm silicon is really cool!\nI say this in a lot of threads lately but, here I go again:\nI’m so glad I swapped to linux\nWhich distro?\nArch (well right now more precisely cachyos)\nI’ve been using Linux on my homeserver (debian) and on previous laptops (arch) for almost a decade, but I only swapped my main desktop over this spring when nVidia sorted out waylaid explicit sync\nI love how they advertise it as they’re doing you such a great big favor by allowing easy access to transferring files to the new system\nTalk about creating a problem that way they can sell you the solution, they completely treat it as if they weren’t the original cause of having everyone have to buy new systems for the next windows in the first place.\nI’m just curious how much more shitty they can make it. I laugh every time they announce some new “feature”. Makes me appreciate Linux Mint more and more each time.\nI don’t need a new motherboard. TPM got accidentally turned off and I keep forgetting to turn it back on. Darn.\nI recently installed Linux because windows pissed me off and I laughed out loud at this…\nAnd it’s worked on my brother in law who’s announced he’s buying new PCs for the whole family specifically to upgrade to 11. jFC.\nHe should donate the old ones to Linux enthusiasts\nNO\nI’m about to rebuild my dev box and I’m seriously considering a Kinoite host with a Windows 10 LTS guest. Anyone have a good Fedora-centric guide to kvm?\nOn my kinoite computer i just create a fedora distrobox container, install qemu on it, and boot my vms off that, works quite well, no fiddling with the filesystem or systemd services\nTy! I’ll do some research in that direction.\nMicro$oft doesn’t understand that these full-screen new Win11 PCs are actually Linux ads!\nI’m praising Valve right now for all the work they’ve put into Proton.\nYes, because of Proton, I’m seriously considering dumping Microsoft now. My big holdup was my library of Steam games. I just found out about Proton a couple of weeks ago, and as it turns out, most of my games are pretty compatible.\nDo it! I just made the switch (using PopOS as my distro, AMD CPU, 1080ti GPU) and haven’t had much trouble with my extensive Steam collection. The biggest issue so far was Bioshock Infinite which actually runs native and I had to edit some configs for texture pools. SteamVR / Index has been a little unstable but seems to generally work (I don’t use it enough to be sure if it’s Linux or my hardware getting old).\nSteamDB has been a excellent resource for checking compatibility and game specific tweaks.\nCiv6 also has issues with the Linux version due to Aspyr slacking. A bunch of the newer content hasn’t been ported yet. Fortunately, you can force Steam to install the Windows version and run it with Proton.\n95% of my games work on Linux. Quite a few windows specific programs too. Praise proton and the wine team!\nThis whole Win 11 mess is what finally convinced me to switch. I still can’t get over that Settings hasn’t reached feature parity with Control Panel yet. Figured if I have to re-learn how to do settings for the 10th time, I might as well do it in an OS that isn’t shoving ads in my face.\nI was simply trying to format a disk and so searched in the start bar expecting a suitable control panel item to pop up any would have happened in any sane era of windows. Instead fucking bing opened and it brought me back web results for “format disk” as well as unrelated ads. fucking web results!\ngargh\nTry Fedora! I find it it just works out of the box and the little I don’t know I can Google, tho im Linux newby myself\nI think for people who like Out-Of-The-Box, Fedora is ideal. It’s the only OS I didn’t have to troubleshoot the Bluetooth immediately.\nI put it on my grandmothers computer and she hasn’t had any major complaints in 2 years 🤞\nI have started switching my parents. Last year before all this really started getting crazy and I bought my mother a used HP elitebook laptop and set her up with Linux on it. Just to get her to test it out and use it. And replace her older laptops. There’s very little she does that actually depends on windows. Everything tends to be in the browser. There was only one odd application that’s odd even under windows. But it has an Android version that I got running with waydroid.\nIn the last month and I got my father a new used office PC that was about 10 Generations newer than what he had processor-wise. And set it up with Linux out of the box. He’s been enjoying using it it’s so much faster snappier and less spammy. And here this month when I have time. Getting my mother’s desktop PC converted over to dual boot at least with Linux as primary. I’ve had far fewer tech support issues since I’ve done it too.\nBetween system 76, framework, tuxedo, and a few other sellers. There are actually a few options now offering Linux out of the box. Next time I buy a PC it will likely be from one of them depending upon what I’m looking for. And if anyone asked me for recommendations they will be the only ones I will recommend. Apart from ordering used office machines and repurposing them LOL. Unless you want to do current gym Triple A games at 4K etc. You can get six generation i7 systems for around $100 and use graphic cards for 50 to 100. And play most games and have a great time. It’s actually kind of hilarious I have a couple of Verizon systems from the last 4 to 5 years. The system I spend more time on is a 6th generation i7 Lenovo business Tower. Largely because it’s running Linux and the others are running Windows.\nLINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX LINUX\nBro you literally spammed Linux on my other older posts. Stop it\nHoly crap it’s a full-page ad!\nHey I remember you from that other post where you also spammed LINUX. :p\nBtw.\nI am concerned that most users won’t understand that either\nThey won’t. The vast majority of consumers aren’t even aware Linux exists.\nHas anybody found a way to turn Microsoft’s ads off yet? I’m tired of dismissing their prompts to switch to Edge and Office 365 every few months.\nI run a local account and toggled off all the telemetry stuff during installation nine years ago. Never saw one of those. Didn’t even get toggled on with updates. Only problem I had was Copilot getting added a few weeks ago. By that time, Win10 had become the compatibility fallback for Linux, though.\nSo, create a local account, go into Settings, and toggle off everything that could maybe be telemetry related.\nAs an experiment I revoked the certificate that is used for code verification on the executable responsible for the popups. So far the only thing I broke was the .net installer. But no more pop-ups. :D\nYes, but you won’t like to hear it…\nI installed Linux one time and now im a cat girl\nGo on….\nDon’t listen to them, I installed Linux multiple times and I‘m still a fat nerd\n…go on…\nsigh\ngets his\nVentoy USB driveready for a new ISO…\nWindows 10 LTSC currently has an EoL date of 2027-01-12.\nNo store, no cortana, much less bullshit in general.\nLTSC is the only current windows version I even remotely consider having.Paying Microsoft more money so they can give you less Windows is a very Microsoft thing to do.\nI stopped paying Microsoft a long time ago.\nI’d bet this is pirateable tho\nSuit yourself, I don’t trust Windows already so, adding a third-party to that process doesn’t intrigue me in the slightest.\nWindows 10 LTSC (Long-Term Servicing Channel) is a specialized version of Windows 10 that’s all about reliability and stability. It’s tailored for specific use cases like medical devices, ATMs, industrial systems, and other environments where updates could mess with critical operations.\nKey Points About Windows 10 LTSC: Minimal Updates: LTSC skips the frequent feature updates you see with regular Windows 10 and sticks to just security updates and critical fixes. Each version gets 10 years of support—5 years mainstream and 5 years extended. Stripped-Down Version: This version ditches all the extra stuff like Cortana, the Microsoft Store, Edge, and bundled games, making it lightweight and focused. Stability Above All: It’s designed to be rock-solid and isn’t about chasing the latest features. Release Schedule: New LTSC versions come out every 2-3 years, tied to specific Windows 10 feature updates (like Windows 10 LTSC 2021). Who It’s For: It’s for specialized devices and setups where you can’t afford sudden changes. It’s not something you’d typically use on your daily home or work PC. How You Get It: LTSC is available through volume licensing and is really meant for businesses and enterprises. Misconceptions: It’s not for regular use, like avoiding updates or keeping things ultra-simple on a personal PC. It doesn’t support a lot of modern hardware and features, so unless you have a very specific need, you’re better off sticking with the regular versions of Windows 10.\nIf you’re thinking about LTSC, make sure it actually fits what you’re trying to do—its limitations could end up being a headache if you’re not using it in the right way.\nFunny, when I think of Windows, reliability and stability are the last things on my mind. I mean, if they could build a reliable release then why isn’t that shipped with all computers? You know, like with linux, the stable version is also the current release. Basically your description makes it sound like what’s really making Windows so unreliable is all the crapware that Microsoft forces down your throat.\nYes, exactly, because it’s all that crapware and bloatware that makes you inadvertently sign up for wholly unnecessary subscriptions to crap Services that nobody needs or wants. Plus all the advertisements. Lennox would seem to be a far better solution for a point of sale system or inventory management system or something like that\nSounds like a great sales pitch… “PoS machines, but unlike Windows-based devices ours continue to work after the first six months!”\nWait…Wait a minute… What about…MCDONALD’S ICE CREAM MACHINES!!!\nIf they switched to linux the ice cream would be colder and even smoother.\nAnd if you use IoT LTSC, its even more lean\nI hate how microsoft seems to think they own the term PC now and it can mean anything they want. Some of the “Copilot+ PCs” they’re advertising on things like this have ARM CPUs which means they aren’t PCs. I would even argue that a lot of x86 computers aren’t PCs now because they only support UEFI booting so aren’t PC compatible. They need to just call them computers or come up with a new term\nDoesn’t PC just mean personal computer though?\nYes, but ironically the PC was a reaction to the more authoritarian IBM server/terminal model. The PC was really about owning and being able to hack your own shit. It seems like cloud+device lockdown is just reinventing servers and terminals…\nI mean, they’re not called International Personal Machines, are they? The server-terminal system worked well for a large organisation, and it’s not far away from how many companies still do things.\nYup, I go out of my way to call any personal computer a PC. For example:\n- Macbook Pro PC running macOS for work\n- Thinkpad PC running Linux at home\n- desktop PC running Linux for gaming\n- desktop PC running Linux as a NAS\n- handheld PC running GrapheneOS for a phone\n- handheld PC running SteamOS for gaming\n- wearable PC running WearOS as a watch\nThey’re all PCs, because I can run whatever I want on them. My Switch isn’t a PC because I can’t run whatever I want, but everything else in that list absolutely is. Yeah, I get weird looks sometimes, but I’m stubborn.\nhave ARM CPUs which means they aren’t PCs\nWhy on earth would architecture have anything to do with it?\nonly support UEFI booting so aren’t PC compatible.\nOh wow, I don’t think anyone using the term “PC” this century was referring to “IBM PC-Compatible” like it’s 1981. The only vestages of that is that the term excludes Mac even today.\nThey may not have realized it, but until UEFI-only computers started becoming common, people mostly were still effectively drawing the line at IBM compatibility\nWhat’s the fundamental difference between an Intel Macbook and my old 2018 Lenovo laptop? Either of them can run modern Windows, Linux, whatever. For most modern uses, they’re basically equivalent. The one thing that makes the Lenovo different though is its firmware. The Lenovo has BIOS support and the Mac doesn’t.\nIf you then add my current Framework laptop, which is UEFI-only, to the comparison though, it gets kind of fuzzy. It’s clearly not a Mac, but what is there to really define it as a PC? It can’t run MacOS, but that doesn’t really work to separate it because plenty of PCs can run MacOS. It’s not made by Apple, but if that’s all it takes then is a Chromebook or one of the Talos POWER workstations a PC too? It’s kind of hard to say the Framework is a PC without including so many other things that the term PC kind of loses all meaning.\nI think the term PC has just outlived its usefulness and we need to move on to saying more specific things than that to describe computers. In most modern contexts, all that matters is what architecture a computer is and what operating systems will run on it, and PC just isn’t really a great term to convey that information anymore.\nPC = a computer that you use to do computer stuff on. Windows PC, Linux PC, MacBook or a Chromebook, it’s all PC.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "fc8edc034c2e923086cd1a348458e87cd14eed8e",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-22T07:58:30.615+02:00",
+    "updated": "2024-11-22T07:58:30.615+02:00"
+  },
+  {
+    "uuid": "3a257e796dd8600696317950267cebea242b3969",
+    "url": "https://www.abccolumbia.com/2024/10/10/aurora-borealis-makes-an-appearance-in-south-carolina",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rochelle Dean",
+    "published": "2024-10-11T03:55:00Z",
+    "title": "Aurora Borealis makes an appearance in South Carolina",
+    "text": "Columbia, SC (WOLO) — Northern lights! Pictures from around our area seeing the Aurora Borealis Thursday night in the Midlands. just a few quick pictures from some viewers out at the Lake Murray Dam and also from viewers in Lexington. Very cool! They are best seen until about 1-2 a.m and suggested to be observed with the least light pollution and in rural areas.How was it possible for us to see the Northern Lights here in the Palmetto state? According to the National Oceanic Atmospheric Association (NOAA), the colorful lights that were visible throughout the state Thursday night are due to a “severe” geomagnetic storm.According to NOAA’S Space Weather Prediction Center, a geomagnetic storm takes place when there is a “major disturbance of the Earth’s magnetosphere that occurs when there is a very efficient exchange of energy from the solar wind into the space environment surrounding Earth.”Regardless, the cause of the light show was the last thing many South Carolinians were in awe over. For many it was the images covering the night sky giving some a rare glimpse at more than a moon lit sky.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "National Oceanic Atmospheric Association",
+          "sentiment": "none"
+        },
+        {
+          "name": "NOAA",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Lake",
+          "sentiment": "none"
+        },
+        {
+          "name": "Dam",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-11T07:19:36.766+03:00",
+    "updated": "2024-10-11T07:57:41.333+03:00"
+  },
+  {
+    "uuid": "afcebdcb2a6605767a979b382c615bc1b1234fea",
+    "url": "https://www.diariocordoba.com/deportes/2025/02/20/wembanyama-dice-adios-temporada-nba-114528302.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EFE",
+    "published": "2025-02-20T22:19:00Z",
+    "title": "Wembanyama dice adiós a la temporada en la NBA por un coágulo sanguíneo en el hombro",
+    "text": "Baloncesto\nWembanyama dice adiós a la temporada en la NBA por un coágulo sanguíneo en el hombro\nLos San Antonio Spurs informaron de que la trombosis venosa fue detectada tras el regreso del jugador del All-Star del pasado fin de semana\nEFE\nEl pívot y estrella francesa de los San Antonio Spurs Victor Wembanyama se perderá el resto de la temporada de la NBA por un coágulo sanguíneo en el hombro derecho, según informó este jueves la franquicia texana.\nLos Spurs indicaron que la trombosis venosa fue detectada tras el regreso de Wembanyama del All-Star, que se disputó el pasado fin de semana en San Francisco (California).\nDe acuerdo con ESPN, los Spurs creen que se trata de un \"problema aislado\" para Wembanyama, que fue elegido como número 1 del 'draft' de 2023, 'rookie' del año de la NBA en 2024 y que había sido llamado por primera vez para el All-Star.\nEl pívot francés promediaba esta temporada 24,3 puntos, 11 rebotes, 3,7 asistencias y 3,8 tapones por partido.\nCon estos números, Wembanyama era el favorito para hacerse con el premio de defensor del año al final de la temporada regular.\nLos Spurs, con la baja de Wembanyama, prácticamente se despiden de sus opciones de 'play-off', pues actualmente suman 23 victorias y 29 derrotas y son duodécimos en el Oeste.\nRRSS WhatsApp\nRRSS Facebook\nRRSS Twitter\nRRSS email\nCopiar URL)\nNoticia guardada en tu perfil",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Health",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->basketball",
+      "Health->medical condition",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.diariocordoba.com/deportes/2025/02/20/wembanyama-dice-adios-temporada-nba-114528302.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://api.whatsapp.com/send?text=Wembanyama%20dice%20adi%C3%B3s%20a%20la%20temporada%20en%20la%20NBA%20por%20un%20co%C3%A1gulo%20sangu%C3%ADneo%20en%20el%20hombro%20https://www.diariocordoba.com/deportes/2025/02/20/wembanyama-dice-adios-temporada-nba-114528302.html%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://twitter.com/intent/tweet?original_referer=https://www.diariocordoba.com/deportes/2025/02/20/wembanyama-dice-adios-temporada-nba-114528302.html&text=Wembanyama%20dice%20adi%C3%B3s%20a%20la%20temporada%20en%20la%20NBA%20por%20un%20co%C3%A1gulo%20sangu%C3%ADneo%20en%20el%20hombro%20%20https://www.diariocordoba.com/deportes/2025/02/20/wembanyama-dice-adios-temporada-nba-114528302.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share%20a%20trav%C3%A9s%20de%20%40cordoba",
+      "https://twitter.com/intent/tweet?original_referer=https://diariocordoba.com/deportes/2025/02/20/wembanyama-dice-adios-temporada-nba-114528302.html&text=Wembanyama%20dice%20adi%C3%B3s%20a%20la%20temporada%20en%20la%20NBA%20por%20un%20co%C3%A1gulo%20sangu%C3%ADneo%20en%20el%20hombro%20%20https://diariocordoba.com/deportes/2025/02/20/wembanyama-dice-adios-temporada-nba-114528302.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share%20a%20trav%C3%A9s%20de%20%40cordoba",
+      "https://api.whatsapp.com/send?text=Wembanyama%20dice%20adi%C3%B3s%20a%20la%20temporada%20en%20la%20NBA%20por%20un%20co%C3%A1gulo%20sangu%C3%ADneo%20en%20el%20hombro%20https://diariocordoba.com/deportes/2025/02/20/wembanyama-dice-adios-temporada-nba-114528302.html%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://facebook.com/sharer/sharer.php?u=https://diariocordoba.com/deportes/2025/02/20/wembanyama-dice-adios-temporada-nba-114528302.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://api.whatsapp.com/send",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T00:27:30.005+02:00",
+    "updated": "2025-02-21T00:27:30.005+02:00"
+  },
+  {
+    "uuid": "6685c2faac66483ae02e8b778dae54b365c0cb08",
+    "url": "https://www.openpr.com/news/3984751/refurbished-medical-equipment-market-to-hit-usd-24-41-billion",
+    "ord_in_thread": 0,
+    "author": "ABNewswire",
+    "published": "2025-04-23T21:51:26Z",
+    "title": "Refurbished Medical Equipment Market to Hit USD 24.41 Billion",
+    "text": "Refurbished Medical Equipment Market to Hit USD 24.41 Billion by 2029 with 7.6% CAGR | MarketsandMarkets Trademark 04-23-2025 11:30 PM CET | Health & Medicine\nPress release from: ABNewswire Refurbished medical equipment market, the following players hold maximum value shares. They are: GE Healthcare. is headquartered in United States, Philips Healthcare (Netherlands), Siemens Healthineers (Germany), Block Imaging International,Inc. (US), Som\nBrowse 427 market data Tables and 62 Figures spread through 411 Pages and in-depth TOC on \"Refurbished Medical Equipment Market by Product (Imaging (MRI, CT), Patient Monitor, Defibrillator, Dialysis, Lithotripsy, Ventilator, Incubators, Operating & Surgical Equipment), Application (CVS, Cancer, Ob/Gyn), Enduser - Global Forecast to 2029\nThe global [ https://www.marketsandmarkets.com/Market-Reports/refurbished-medical-devices-market-770.html?utm_source=abnewswire.com&utm_medium=paidpr&utm_campaign=refurbishedmedicaldevicesmarket ] is expected to grow to USD 24.41 Billion by 2029, up from USD 16.93 Billion in 2024, at a CAGR of 7.6% over the forecast period. Some driving the growth of the refurbished medical equipment market include the different causes such as the increased demand for affordable healthcare, shortage of newly procured medical devices, particularly in low-income areas, demand for affordable and high-quality refurbished equipment that bridge the gap. This has enhanced the funding support offered by the government.\nDownload PDF Brochure: [ https://www.marketsandmarkets.com/pdfdownloadNew.asp?id=770&utm_source=abnewswire.com&utm_medium=paidpr&utm_campaign=refurbishedmedicaldevicesmarket ]\nBrowse in-depth TOC on \"Refurbished Medical Equipment Market\"\n400 - Tables\n250 - Figures\n420 - Pages\nNotably, the refurbished medical devices have an advantage in terms of cost efficiency, so hospitals can manage their budgets much better, particularly in poorly funded healthcare systems or Enhanced Software Integration. The new-age refurbishment, with new components, makes the medical devices more durable. For example, refurbished ventilators are made from durable parts that extend their years of usage: Avante Health Solutions refurbishes their ventilators with durable parts. There are improved Regulatory Compliance, for instance, refurbished medical devices by Siemens and Philips already meet the requirements set forth by the FDA, as well as the EU MDR standards. Some updated safety features among refurbished equipment include advanced alarms and monitoring systems, along with user interfaces like some systems from Soma Tech and Meridian Medical that come with upgraded safety protocols for Refurbished patient monitors. These advances, coupled with changes on the regulatory front which simplify the pathway of refurbished products approvals.\nBased on the product segment, the Refurbished medical equipment market is segmented into - medical imaging equipment, operating room & surgical equipment, patient monitors, cardiology equipment, urology equipment, neurology equipment, intensive care equipment, endoscopy equipment, intravenous therapy systems, and other medical equipment. Among them, medical imaging equipment account for the largest share in the Refurbished medical equipment market. This is possible as refurbished medical imaging machines save cost as compared to newly purchased models and allow hospitals and clinics to strengthen their practices in an advanced diagnostic setting economically. The need for imaging procedures across specialties, including but not limited to cardiology and oncology, has kept the market for quite steady refurbished equipment alive. Such equipment has permitted those healthcare systems in developing countries to improve their infrastructure without incurring the high upfront costs of new machines.\nOn the basis of application, the Refurbished medical equipment market is divided into diagnostic applications, therapeutic applications, and other applications. The diagnostic application segment holds the largest share of the market in 2023 as modern refurbished diagnostics are able to perform like brand-new diagnostics with the latest introduction of technology. This includes MRI systems, among many others, that use modern imaging techniques and software. Refurbished equipment helps address the growing need in affordable diagnostic devices as the healthcare infrastructure develops in emerging countries without compromising quality. The hospital can perform high-level diagnostic imaging procedures now, at a fraction of the cost of entirely new equipment, thereby improving diagnosis and care for patients while remaining budget-wise. Refurbished medical supplies are gaining greater acceptance in various parts of the world as regulatory agencies embrace their use. The FDA, for instance, has laid down specific regulations regarding the use and marketing of refurbished medical equipment.\nRequest Sample Pages: [ https://www.marketsandmarkets.com/requestsampleNew.asp?id=770&utm_source=abnewswire.com&utm_medium=paidpr&utm_campaign=refurbishedmedicaldevicesmarket ]\nProminent players in the Refurbished medical equipment market include GE Healthcare (United States), Philips Healthcare (Netherlands), Siemens Healthineers (Germany), Block Imaging International,Inc. (US), Soma Technology, Inc. (US), Avante Health Solutions (US), and Canon Medical Systems Corp. (Japan), Mindray Medical International (China), Dragerwerk AG & Co. KGAA (Germany), Whittemore Enterprises (U.S.), Stryker (US), Directmed Parts & Services (US), Medline Industries (U.S.), Traco Medical (U.S.), and Nihon Kohden Corporation (Japan).\nThese players have a wide range of products and also hold a strong global presence across North America, Europe, Asia Pacific, Latin America and Middle East & Africa. Key players in the market for Refurbished medical equipment address a strategic priority in numerous ways to grow in this market. The first involves research and development expenditure to offer newest technology in refurbished products such as integration with AI in refurbished imaging systems. Second, waste reduction and contingently minimizing all the environmental impact caused due to manufacturing new devices is aligned with a favouring trend, thus propelling growth in this market. These companies provide innovative products and services globally. They concentrate on acquisitions, partnerships and collaborations to expand their market share.\nGE Healthcare (US): The refurbished medical equipment by GE Healthcare are all part of the total healthcare solutions that intend to offer cost-efficiency to healthcare providers without compromising quality. It may be helpful to mention the major drivers in the refurbished equipment market, which include improvement in diagnostic imaging and therapeutic equipment- oncology and cardiology among them- as well as increasing global affordability for reliable equipment in the healthcare setting. The refurbishment of such equipment is part and parcel of developing the larger agenda of precision health and digital transformation in healthcare. Refurbished products such as Optima CT660 go through an intense process ranging from very extensive inspection and testing. Such refurbished devices continue serving clinical settings, thus avoiding the need for fresh appliances, thereby cutting down waste.\nPhilips Healthcare (Netherlands): Philips Healthcare has made a major breakthrough in focusing on the refurbishment of quality, sustainable systems-mainly medical equipment-as a result of its \"Circular Edition\" processes. The systems have introduced totally new-their own brands of MRI, CT, Ultrasound, and Mobile C-arms-to give high-performance imaging at a cost reduced by about 25% from that for wholly new systems. Thus, healthcare facilities will have the opportunity to acquire premium high-technology equipment with high savings in total cost of ownership, while still offering these facilities every advantage that comes with such technology. Their refurbished systems go through seven rigorous steps to ensure that they meet the same standard as new ones. These include replacing faulty parts with original Philips components and making the latest software upgrades.\nSiemens Healthineers (Germany): Siemens Healthineers frequents the lead in refurbished medical equipment, which has witnessed tremendous growth due to cost-containment pressures and a surge in demand for high-quality equipment in newer markets. Siemens has continued to add refurbished medical devices under diverse business segments such as medical imaging and patient monitoring equipment. The company thrives on making high quality, low-cost equipment available especially for hospitals and health care providers in North America which has increased the usage of refurbished devices owing to the extremely high costs of healthcare. In addition, the company is increasing its footprints in regions like APAC and Latin America where refurbished devices can serve as economical alternatives. Expectedly, Siemens Healthineers is a successful company into the refurbished space owing to its brand as well as all the cost benefits that accrue from refurbishing equipment while being at the same performance horizons.\nFor more information, [ https://www.marketsandmarkets.com/Enquiry_Before_BuyingNew.asp?id=770&utm_source=abnewswire.com&utm_medium=paidpr&utm_campaign=refurbishedmedicaldevicesmarket ]\nMedia Contact\nCompany Name: MarketsandMarkets Trademark Research Private Ltd.\nContact Person: Mr. Rohan Salgarkar\nEmail:Send Email [ https://www.abnewswire.com/email_contact_us.php?pr=refurbished-medical-equipment-market-to-hit-usd-2441-billion-by-2029-with-76-cagr-marketsandmarkets ]\nPhone: 18886006441\nAddress:1615 South Congress Ave. Suite 103, Delray Beach, FL 33445\nCity: Florida\nState: Florida\nCountry: United States\nWebsite: https://www.marketsandmarkets.com/Market-Reports/in-vitro-fertilization-market-89198891.html\nLegal Disclaimer: Information contained on this page is provided by an independent third-party content provider. ABNewswire makes no warranties or responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article. If you are affiliated with this article or have any complaints or copyright issues related to this article and would like it to be removed, please contact retract@swscontact.com\nThis release was published on openPR.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->healthcare industry",
+      "Health->health treatment and procedure",
+      "Health->health facility",
+      "Health->medical service",
+      "Science and Technology->medical research",
+      "Science and Technology->biomedical science",
+      "Science and Technology->scientific publication"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://opr.li/com/9a383647b63823fddf1f2c5294785ae1/",
+      "https://www.marketsandmarkets.com/Market-Reports/refurbished-medical-devices-market-770.html?utm_source=abnewswire.com&utm_medium=paidpr&utm_campaign=refurbishedmedicaldevicesmarket",
+      "https://opr.li/com/98f6c419271edda76ef0ee5177ea6def/",
+      "https://www.marketsandmarkets.com/Enquiry_Before_BuyingNew.asp?id=770&utm_source=abnewswire.com&utm_medium=paidpr&utm_campaign=refurbishedmedicaldevicesmarket",
+      "https://opr.li/com/e6f1dac19b0fe9c5efadfb783e5012ab/",
+      "https://www.marketsandmarkets.com/requestsampleNew.asp?id=770&utm_source=abnewswire.com&utm_medium=paidpr&utm_campaign=refurbishedmedicaldevicesmarket",
+      "https://www.marketsandmarkets.com/Market-Reports/in-vitro-fertilization-market-89198891.html",
+      "https://www.abnewswire.com/email_contact_us.php?pr=refurbished-medical-equipment-market-to-hit-usd-2441-billion-by-2029-with-76-cagr-marketsandmarkets",
+      "https://www.marketsandmarkets.com/pdfdownloadNew.asp?id=770&utm_source=abnewswire.com&utm_medium=paidpr&utm_campaign=refurbishedmedicaldevicesmarket",
+      "https://opr.li/com/f8bd75c1eeee617583cb1894f20350d1/",
+      "https://opr.li/com/cf23396bf524780c2784d31e87313ff2/",
+      "https://opr.li/com/110e84c434ce54f8928dc461f6661a30/",
+      "https://www.marketsandmarkets.com/requestsampleNew.asp",
+      "https://abnewswire.com/email_contact_us.php?pr=refurbished-medical-equipment-market-to-hit-usd-2441-billion-by-2029-with-76-cagr-marketsandmarkets",
+      "https://marketsandmarkets.com/Enquiry_Before_BuyingNew.asp?id=770&utm_source=abnewswire.com&utm_medium=paidpr&utm_campaign=refurbishedmedicaldevicesmarket",
+      "https://opr.li/com/e6f1dac19b0fe9c5efadfb783e5012ab",
+      "https://www.opr.li/com/9a383647b63823fddf1f2c5294785ae1/",
+      "https://marketsandmarkets.com/pdfdownloadNew.asp?id=770&utm_source=abnewswire.com&utm_medium=paidpr&utm_campaign=refurbishedmedicaldevicesmarket",
+      "https://www.marketsandmarkets.com/Market-Reports/refurbished-medical-devices-market-770.html",
+      "https://www.opr.li/com/e6f1dac19b0fe9c5efadfb783e5012ab/",
+      "https://www.opr.li/com/f8bd75c1eeee617583cb1894f20350d1/",
+      "https://www.opr.li/com/cf23396bf524780c2784d31e87313ff2/",
+      "https://www.marketsandmarkets.com/pdfdownloadNew.asp",
+      "https://opr.li/com/110e84c434ce54f8928dc461f6661a30",
+      "https://www.abnewswire.com/email_contact_us.php",
+      "https://www.opr.li/com/110e84c434ce54f8928dc461f6661a30/",
+      "https://opr.li/com/9a383647b63823fddf1f2c5294785ae1",
+      "https://marketsandmarkets.com/requestsampleNew.asp?id=770&utm_source=abnewswire.com&utm_medium=paidpr&utm_campaign=refurbishedmedicaldevicesmarket",
+      "https://marketsandmarkets.com/Market-Reports/in-vitro-fertilization-market-89198891.html",
+      "https://www.opr.li/com/98f6c419271edda76ef0ee5177ea6def/",
+      "https://opr.li/com/cf23396bf524780c2784d31e87313ff2",
+      "https://marketsandmarkets.com/Market-Reports/refurbished-medical-devices-market-770.html?utm_source=abnewswire.com&utm_medium=paidpr&utm_campaign=refurbishedmedicaldevicesmarket",
+      "https://opr.li/com/f8bd75c1eeee617583cb1894f20350d1",
+      "https://opr.li/com/98f6c419271edda76ef0ee5177ea6def",
+      "https://www.marketsandmarkets.com/Enquiry_Before_BuyingNew.asp"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Philips Healthcare",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "GE Healthcare",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T00:51:26.911+03:00",
+    "updated": "2025-04-24T00:51:26.911+03:00"
+  }
+]

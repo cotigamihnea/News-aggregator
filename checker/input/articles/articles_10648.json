@@ -1,0 +1,207 @@
+[
+  {
+    "uuid": "2a95ffe04f702a8552766a50fc34ff9f6cb19744",
+    "url": "https://www.askvg.com/microsoft-re-adds-beta-channel-to-windows-10-insiders-program",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VG",
+    "published": "2024-11-15T12:55:00Z",
+    "title": "Microsoft Shuts Down Windows 10 Insider Beta Channel Again",
+    "text": "Microsoft Shuts Down Windows 10 Insider Beta Channel Again\nUPDATE: Microsoft has officially closed the Beta channel of Windows 10 Insiders program. The last Windows 10 build released to Beta channel was 19045.5194 (KB5046714). The existing beta channel testers will be automatically moved to the Release Preview channel.\nHere is a great news for Windows 10 users who want to stick with their OS and don’t want to upgrade to Windows 11. Microsoft has re-added the good old “Beta Channel” to Windows 10 Insiders program which will allow interested Windows 10 users to early test drive new features and changes which will become a part of Windows 10 in future.\nAddition of the Beta channel to Windows Insiders program proves that Microsoft hasn’t forgotten Windows 10 and the company has plans to add new features to Windows 10 in coming months and years which also indicates that Windows 10 might get the support time extended in future.\nExisting Windows 10 users who don’t want to receive new Windows 11 features, might not like this news. Many people consider the Windows 11 ported features as bloatware which might slow down Windows 10 devices.\nAnyway, Microsoft made an official announcement about it yesterday at Windows Insiders blog. In this article, we’ll discuss all the important points in details and easy language.\nTable of Contents\n[Windows 10 Gets the Beta Channel Back on Windows Insiders Program](#windows_10_gets_the_beta_channel_back_on_windows_insiders_program)[Microsoft Wants to Port Windows 11 Features and Changes to Windows 10](#microsoft_wants_to_port_windows_11_features_and_changes_to_windows_10)[What New Features can be Expected to Arrive in Windows 10 in Future?](#what_new_features_can_be_expected_to_arrive_in_windows_10_in_future)[Important Things to Know About New Beta Channel of Windows 10 Insiders Program](#important_things_to_know_about_new_beta_channel_of_windows_10_insiders_program)[Windows 10 Insiders Program also Displays Dev and Canary Channels But!](#windows_10_insiders_program_also_displays_dev_and_canary_channels_but)[How to Join Beta Channel of Windows 10 Insiders Program?](#how_to_join_beta_channel_of_windows_10_insiders_program)\nWindows 10 Gets the Beta Channel Back on Windows Insiders Program\nWhen Windows 11 didn’t exist and Windows 10 was the latest Windows version, Microsoft was using the Windows Insiders program to early test the new features and changes in the OS before making them available to general public.\nWindows Insiders program is a testing program which can be joined for free to help Microsoft in testing early builds of Windows operating system and provide feedback and suggestions to Microsoft. This program helps Microsoft in fixing bugs and issues and improving the OS.\nIn past, Windows 10 Insiders program had 3 channels or rings to choose from while joining the Insiders program:\n- Dev channel or Fast & Skip Ahead ring\n- Beta channel or Slow ring\n- Release Preview channel or ring\nUnderstanding New Windows 10 Insiders Channels: Dev, Beta and Release Preview\nUnderstanding Windows 10 Insider Preview Branches, Rings and Release Channels\nWhen Windows 11 was released, Microsoft decided to stop working on Windows 10 OS and removed Dev (fast & skip ahead) and Beta (slow) channels from the Windows 10 Insiders program. After that, Windows 10 Insiders program had only one channel or ring to select i.e. Release Preview channel.\nMicrosoft was regularly releasing small updates for the latest Windows 10 22H2 version on the Release Preview channel. We have a dedicated article to inform the readers about new Windows 10 Insider Preview builds at following link:\nNew Windows 10 22H2 Insider Preview Build Released to Preview Channel\nNow Microsoft has announced that the company has restored the previous Beta channel to Windows 10 Insiders program. Here is a small part of the official announcement:\nAt the end of last year, we announced a change in approach for Windows 10 to make sure everyone can get the maximum value from their current Windows PC. To bring new features and more improvements to Windows 10 as needed, we need a place to do active feature development with Windows Insiders. So today, we are opening the Beta Channel for Windows Insiders who are currently on Windows 10. This will allow us to try out new features for Windows 10, version 22H2, with Insiders before releasing them to all Windows 10 customers.\nMicrosoft Wants to Port Windows 11 Features and Changes to Windows 10\nThe re-addition of Beta channel to Windows 10 Insiders program makes one thing very clear to all i.e. Microsoft has plans to add new functionality to Windows 10 specially the new features and changes available in Windows 11.\nRecently Microsoft added or ported Copilot feature to Windows 10. In past, Microsoft specifically announced that the company will not add any new feature to Windows 10 and no feature update will be released to Windows 10 but Microsoft changed this decision and started adding new features to Windows 10 again.\nHere are a few Windows 11 exclusive features which were recently ported to Windows 10:\nCopilot AI feature- The “\nGet the latest updates as soon as they’re available” toggle feature on Windows Updates page Weather forecast information on Windows 10 Lock ScreenMicrosoft Account notifications on Start Menu and Settings homepageWindows Spotlight Feature on DesktopNew search box experiencepowered by Bing on Taskbar\nNow the launch of Beta channel indicates that the company wants to add more big features to Windows 10 which will require thorough testing before making them available to the public.\nWhat New Features can be Expected to Arrive in Windows 10 in Future?\nMicrosoft has already ported Copilot program and other few features to Windows 10. Following are a few other important or Windows 11 exclusive features which might come to Windows 10 in our opinion:\n- New windowed mode in Copilot where it acts like a normal application window which can be resized and moved around the screen.\n- Native support for reading additional archive file formats such as .tar, .rar, .7z, etc using the libarchive open-source project.\n- New File Explorer powered by WinUI 3\n- Modernized Details Pane in File Explorer (\nMore info) - Revamped Widgets Board experience\n- Revamped Settings app experience\n- Redesigned\nTask Managerexperience Microsoft AccountandInternet connection requirementsat Windows 10 installation similar to Windows 11- Windows 11 UI features such as\ncontext menus,Start MenuandTaskbar\nAbove mentioned features might come to Windows 10 as they were added to Windows 11 Insider Preview builds in past. If you want to take a look at all testing features which have been added to Windows 11 Insider Preview builds and might be added to Windows 10 in coming months, here are the links of our exclusive changelog articles for your reading pleasure:\nWindows 11 Dev Insider Preview Builds Changelog\nWindows 11 Canary Insider Preview Builds Changelog\nImportant Things to Know About New Beta Channel of Windows 10 Insiders Program\nIf you are excited about the new testing channel of Windows 10 and want to join it, here are a few important things to keep in mind:\n- Any Windows 10 user can join or switch to Windows Insiders program for free using the existing license key.\n- Even if your device meets the\nsystem requirements for Windows 11, your Windows 10 device will not be automatically upgraded to Windows 11 after switching to Beta channel. Windows 11 upgrade will be shown as optional update on Windows Updates page and the user can decide to upgrade or not. - Windows 10 end of support date is still\nOctober 14, 2025and remains unchanged. But the addition of Beta channel gives a hope to all Windows 10 users. - All new features and changes introduced on Beta channel might come or not to public depending upon the feedback received from the insiders/testers.\n- Interested users can join or switch to Beta channel right now using the steps given below in this article.\nWindows 10 Insiders Program also Displays Dev and Canary Channels But!\nWindows 10 Insiders program page now shows four channels available to choose from, which are as following:\n- Canary channel\n- Dev channel\n- Beta channel\n- Release Preview channel\nDon’t get confused about the Canary and Dev channels. These channels are available for Windows 11 Insider Preview builds only. If you select Canary or Dev channel, you’ll be registered to Windows 11 Insider program and your device will be upgraded to Windows 11 Insider Preview build.\nPS: Canary and Dev channel will appear only if your device meets Windows 11 minimum system requirements.\nSo remember only Beta and Release Preview channels are available for Windows 10 Insider Preview builds.\nHow to Join Beta Channel of Windows 10 Insiders Program?\nIf you are ready to switch to Beta channel and want to test early testing builds of Windows 10 operating system, you can join the new Beta channel or Release Preview channel using following steps:\nSTEP 1: Open Settings app from https://www.askvg.com/windows-10-start-menu-review-tips-n-tricks-and-customization/ or by pressing WIN+I keys together.\nSTEP 2: Now click on Update & Security section present on the homepage.\nSTEP 3: Now click on Windows Insider Program section present in the left sidebar.\nSTEP 4: Now you can join the Windows 10 Insiders program. If you are already registered, you can change the channel by selecting any desired option given on the page.\nSTEP 5: Now go to Windows Update page and click on Check for updates button. Windows 10 will check for new builds and once a new Insider Preview build becomes available, you can click on Download now button to start downloading the new update build of Windows 10.\nAfter downloading the build, your computer will automatically restart to install the new update. The download size will be around 2 or 3 GB depending upon the computer architecture (32-bit or 64-bit) and system language.\nIf you want to download and install Windows 10 Beta Insider Preview builds in your computer, following article will help you:\nNew Windows 10 Insider Preview Build Released to Beta Channel\nAlso Check:\nDownload Windows 10 Insider Preview Build Offline ISO Files\n[[Tip] Direct Download Links of Windows 10 Offline ISO Files]https://www.askvg.com/tip-get-direct-download-links-of-windows-10-iso-from-microsoft/\n[[Tip] How to Go Back to Windows 10 After Upgrade to Windows 11]https://www.askvg.com/tip-how-to-go-back-to-windows-10-after-upgrade-to-windows-11/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://blogs.windows.com/windows-insider/2024/11/14/releasing-windows-10-build-19045-5194-to-beta-and-release-preview-channels/",
+      "https://blogs.windows.com/windows-insider/2024/06/04/opening-the-beta-channel-for-windows-insiders-on-windows-10/",
+      "https://blogs.windows.com/windows-insider/2024/06/04/opening-the-beta-channel-for-windows-insiders-on-windows-10",
+      "https://www.blogs.windows.com/windows-insider/2024/11/14/releasing-windows-10-build-19045-5194-to-beta-and-release-preview-channels/",
+      "https://blogs.windows.com/windows-insider/2024/11/14/releasing-windows-10-build-19045-5194-to-beta-and-release-preview-channels",
+      "https://www.blogs.windows.com/windows-insider/2024/06/04/opening-the-beta-channel-for-windows-insiders-on-windows-10/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T16:30:56.263+02:00",
+    "updated": "2024-11-15T16:30:56.263+02:00"
+  },
+  {
+    "uuid": "411ad01edfc35e09326dbc08ccc465e2ca8e300a",
+    "url": "https://www.cmjornal.pt/mundo/detalhe/portugal-entre-30-paises-que-pedem-retorno-da-onu-e-fim-de-impasse-politico-na-venezuela",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lusa",
+    "published": "2024-09-26T22:13:00Z",
+    "title": "Portugal entre 30 países que pedem retorno da ONU e fim de impasse político na Venezuela - Mundo - Correio da Manhã",
+    "text": "MP vai investigar origem dos cinco milhões de euros de António Mexia Morreu a mulher que deu à luz em casa e escondeu o feto morto num armário Alarme junto de escolas no Restelo: Homem pratica atos de exibicionismo e mostra órgãos genitais Português que matou sogra à machadada em Maiorca já esteve preso por agressões a polícias 16 anos de cadeia por matar português à facada na Suíça Assassinos do polícia Fábio Guerra perdem último recurso. Queriam penas aplicadas por ofensas à integridade física PS quer IRS Jovem a valorizar salários baixos Polémica em Itália: homem admite na TV ter estrangulado mãe até à morte Procuradora-geral da República e bruxo de Fafe juntos em Cabo Verde William Carvalho recupera com o carinho da família Catherine Zeta-Jones nua para assinalar 80 anos do marido Lage afina estratégia para brilhar na Champions “Este é o meu melhor sporting”: Rúben Amorim reconhece o crescimento da equipa Reviravolta nos pés de Bruma dá vitória ao Sp. Braga na Liga Europa Marisa Cruz regressa à SIC 20 anos depois Mulher desaparece de restaurante, como se fosse raptada por extraterrestres Quer receber as últimas notícias no seu telemóvel ainda mais rápido? Siga aqui o ALERTA CM Portugal entre 30 países que pedem retorno da ONU e fim de impasse político na Venezuela Signatários reuniram-se para reiterar apoio ao respeito pelos princípios democráticos e à defesa dos direitos humanos no país. Lusa 26 de Setembro de 2024 às 23:13 Venezuela FOTO: Ueslei Marcelino/File Photo/ REUTERS Portugal e 30 outros países, além da União Europeia, pediram esta quinta-feira o \"regresso imediato\" à Venezuela do Gabinete do Alto Comissariado das Nações Unidas para os Direitos Humanos (ACNUDH) e o fim do impasse político do país. À margem da Assembleia-Geral da ONU, em Nova Iorque, os signatários reuniram-se para discutir as \"graves preocupações sobre a situação urgente na Venezuela\" e reiterar apoio ao respeito pelos princípios democráticos e à defesa dos direitos humanos no país, segundo um comunicado conjunto divulgado pelo Departamento de Estado norte-americano.\n\"Passaram-se quase dois meses desde a eleição, e os apelos por transparência eleitoral, tanto dos venezuelanos quanto da comunidade internacional, continuam sem resposta\", diz o comunicado.\nArgentina ordena detenção de Nicolás Maduro. Caracas diz ser retaliação ONG alerta para perseguição sem precedentes de jornalistas na Venezuela",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.vidas.pt/redirect-to?token=EiEnOjA%2FNiB3amtiYGN3Z2B3ZWBrZWFqY2ZgamNnampqZGtl",
+      "https://www.vidas.pt/redirect-to?token=EiEnOjA%2FNiB3amtiYGB3Z2B3ZWBrZWFqZ2phY2NlYWpnY2Nl",
+      "https://whatsapp.com/channel/0029VaEc0mX2P59fYdyEV53o",
+      "https://www.vidas.pt/redirect-to",
+      "https://www.whatsapp.com/channel/0029VaEc0mX2P59fYdyEV53o",
+      "https://vidas.pt/redirect-to?token=EiEnOjA%2FNiB3amtiYGB3Z2B3ZWBrZWFqZ2phY2NlYWpnY2Nl",
+      "https://vidas.pt/redirect-to?token=EiEnOjA%2FNiB3amtiYGN3Z2B3ZWBrZWFqY2ZgamNnampqZGtl"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T02:00:58.527+03:00",
+    "updated": "2024-09-27T03:39:49.273+03:00"
+  },
+  {
+    "uuid": "fe694c9f6246ea6037de58f1243eb207bd5aa1db",
+    "url": "https://consumer.healthday.com/1703256788688.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Milen Nedev; TheHealthCast Team",
+    "published": "2023-12-28T20:53:00Z",
+    "title": "Too Few Cancer Patients Get Palliative Care When Urinary Blockages Arise",
+    "text": "THURSDAY, Dec. 28, 2023 (HealthDay News) — The prognosis is poor for many cancer patients who develop serious urinary blockages, but researchers say less than half receive palliative care.\nPalliative care aims to relieve pain and other symptoms of serious illness. Hospice care, one type of palliative care, is an option for patients who are expected to live no more than six months.\nHospice care can make patients comfortable and head off aggressive treatments for patients with malignant ureteral obstruction (MUO) who are nearing the end of life, said lead researcher\nDr. Michael Felice, of Loyola University Medical Center in Maywood, Ill.\nMUO is a serious blockage of the urinary tract caused by advanced cancer. It causes urine to accumulate in the kidneys, and while decompression treatments using stents or tubes can relieve the build-up, the prognosis is typically poor. The treatments are also invasive, complications are common and benefits are sometimes questionable, researchers report.\nIn the January issue of the journal\nUrology Practice, Felice’s team looked at the use of palliative and hospice care among 115 MUO patients. They were diagnosed between 2014 and 2020.\nRecords showed that a minority of those patients — 39% — received palliative care. The average delay between MUO diagnosis and palliative care evaluation was two months. Researchers said just five of 45 patients were referred to palliative care before making decisions about decompression treatment.\n“Earlier referral to palliative care might help to promote informed decisions about preferences for care among patients with MUO,” Felice said in a journal news release.\nIn all, 54% of patients received hospice care. Median delay after MUO diagnosis was 144 days, meaning half entered hospice care sooner, half later. Once entering hospice, patients lived a median of 12 days.\nMedian time from MUO diagnosis to death was 141 days and survival was similar whether patients were in palliative care or not.\nOf patients who died, the study found 43% had high use of health care, including repeated hospitalizations or emergency room visits. Of those who did not enter hospice, 86% had high end-of-life health care use.\n“This highlights the impact of hospice in facilitating end-of-life discussion and enabling patients to decide how and where they spend their last days,” the study said.\nHospice patients were 97% less likely to have high health care use at the end of their lives.\nMUO patients “are ideal candidates for palliative care consultation, to help navigate the complexities of multidisciplinary care and guide decision-making,” the authors wrote.\nBecause 8 in 10 study patients saw a urologist at some point during their MUO care, researchers said these specialists are well positioned to begin conversations about palliative care.\nMore information\nThe National Hospice and Palliative Care Organization outlines the similarities and differences between\nthe two types of MUO care.\nSOURCE: Wolters Kluwer Health, news release, Dec. 21, 2023\nCopyright ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Disaster and Accident",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.researchgate.net/scientific-contributions/Michael-Felice-2156433768",
+      "https://www.caringinfo.org/types-of-care/what-is-the-difference-between-palliative-care-and-hospice-care/#:~:text=Palliative%20care%20focuses%20on%20easing,receive%20this%20type%20of%20care?",
+      "https://caringinfo.org/types-of-care/what-is-the-difference-between-palliative-care-and-hospice-care/#:~:text=Palliative%20care%20focuses%20on%20easing,receive%20this%20type%20of%20care?",
+      "https://researchgate.net/scientific-contributions/Michael-Felice-2156433768",
+      "https://www.auajournals.org/doi/10.1097/UPJ.0000000000000472",
+      "https://auajournals.org/doi/10.1097/UPJ.0000000000000472",
+      "https://www.caringinfo.org/types-of-care/what-is-the-difference-between-palliative-care-and-hospice-care/#:~:text=Palliative%20care%20focuses%20on%20easing,receive%20this%20type%20of%20care"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "michael felice",
+          "sentiment": "none"
+        },
+        {
+          "name": "felice",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "loyola university medical center",
+          "sentiment": "none"
+        },
+        {
+          "name": "urology practice",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "maywood",
+          "sentiment": "none"
+        },
+        {
+          "name": "ill",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:09:23.735+02:00",
+    "updated": "2023-12-29T00:09:23.735+02:00"
+  },
+  {
+    "uuid": "bae3666fde80fe685c341c2290c4b119886f2e95",
+    "url": "https://www.dongchedi.com/article/7486775022002913833",
+    "ord_in_thread": 0,
+    "author": "热爱生活的小马达",
+    "published": "2025-03-28T08:31:00Z",
+    "title": "【长图】一周2万人失业！车企裁员大盘点_懂车帝",
+    "text": "原创 丁楠 上观车行 2025年03月28日 15:32 上海\n次阅读 评论 赞同 收藏 分享",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->layoffs",
+      "Economy, Business and Finance->business governance",
+      "Labor->employment",
+      "Labor->labour market",
+      "Labor->unemployment",
+      "Social Issue->social problem",
+      "Social Issue->demographics",
+      "Social Issue->population and census"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-28T13:28:23.673+03:00",
+    "updated": "2025-03-28T13:28:23.673+03:00"
+  }
+]

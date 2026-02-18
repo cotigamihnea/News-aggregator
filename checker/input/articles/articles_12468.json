@@ -1,0 +1,407 @@
+[
+  {
+    "uuid": "490e971d63b33f448e48cbbf3c3c2b2268690300",
+    "url": "https://www.herald-dispatch.com/business/steel-dynamics-reports-stronger-earnings-in-second-quarter/article_879603be-efd3-4084-8c39-c001bf63d279.html",
+    "ord_in_thread": 0,
+    "author": "JIM ROSS jross@hdmediallc.com",
+    "published": "2025-07-30T09:00:00Z",
+    "title": "Steel Dynamics reports stronger earnings in second quarter",
+    "text": "HUNTINGTON — Steel Dynamics, the parent company of Steel of West Virginia, last week reported an uptick in earnings from the first quarter of this year to the second, but this year’s second-quarter earnings still lagged behind last year’s.\nSteel Dynamics reported net income of $299 million in the second quarter, up from $217 million in the first quarter but still down from $428 million in the 2024 second quarter.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Human Interest",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->manufacturing and engineering",
+      "Labor->employer",
+      "Labor->wages and benefits",
+      "Labor->labour market"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Steel Dynamics",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": null,
+      "top_news": [],
+      "bias": "center",
+      "source": {
+        "type": "local_news",
+        "city": [
+          "Huntington"
+        ],
+        "state": [
+          "West Virginia"
+        ],
+        "country": [
+          "US"
+        ],
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-07T16:07:56.239+03:00",
+    "updated": "2025-08-07T16:12:05.000+03:00"
+  },
+  {
+    "uuid": "611515234baca070922107f6cabe0791723e4cff",
+    "url": "https://www.citizen.co.za/highway-mail/news-headlines/local-news/2025/08/14/city-probes-fault-in-service-app/",
+    "ord_in_thread": 0,
+    "author": "sandilezulu",
+    "published": "2025-08-14T07:46:00Z",
+    "title": "City probes fault in service App | Highway Mail",
+    "text": "THE eThekwini Municipality said that it is investigating an error on its mobile App which resulted in a delay in resolving a resident’s complaint.\nThe municipality’s spokesperson Gugu Sisilana said the “root cause of this error” is being probed “to prevent a recurrence”.\nThis follows Waterfall resident Anthony Drimmie’s complaint about non-functional or broken streetlights on his road which he lodged on June 25 via the municipality’s mobile App.\nJust over a month later, nothing had been done about the streetlights, which prompted a frustrated Drimmie to contact the Highway Mail.\nDrimmie said four streetlights on the road they reside on were broken and that after lodging the complaint on the App, he received a reference number and a two to 24 hours time frame to rectify the issue.\nAlso read: Councillor urges residents to report broken streetlights\nSisilana said the municipality “extends its sincere apologies to” Drimmie and added that an unfortunate “technical system error” resulted with this resident’s reference number being “incorrectly linked in our database to a different street”.\n“This meant that the customer’s fault report was not flagged for action in the correct location, resulting in a delay in service. A technician has now been dispatched to carry out the necessary repairs. We are investigating the root cause of this error to prevent a recurrence. We would like to assure residents that this should not discourage them from using the city’s updated mobile App and other available platforms to report faults,” said Sisilana.\nOn Tuesday, Drimmie confirmed that technicians had begun working on the streetlights and thanked the Highway Mail for its intervention.\nDrimmie had contacted the Highway Mail in response to an article about the municipality’s PR councillor urging residents to make use of the mobile App to report service delivery issues.\nHe had questioned why residents should make use of the App when there was a delay with his complaint which he had lodged just over a month prior.\nFor more from the Highway Mail, follow us on Facebook , X and Instagram. You can also check out our videos on our YouTube channel or follow us on TikTok .\nClick to subscribe to our newsletter here",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering",
+      "Social Issue->social services",
+      "Social Issue->communities",
+      "Crime, Law and Justice->law enforcement",
+      "Crime, Law and Justice->investigation (criminal)"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/highwaymail",
+      "https://www.tiktok.com/@caxtonlocalmedia?lang=en",
+      "https://www.instagram.com/highwaymail/",
+      "https://twitter.com/HighwayMail%20",
+      "https://www.youtube.com/channel/UCSmU6DSqenIWZiyblWdmXgA",
+      "https://www.instagram.com/highwaymail",
+      "https://www.tiktok.com/@caxtonlocalmedia",
+      "https://youtube.com/channel/UCSmU6DSqenIWZiyblWdmXgA",
+      "https://www.twitter.com/HighwayMail%20",
+      "https://facebook.com/highwaymail",
+      "https://instagram.com/highwaymail/",
+      "https://tiktok.com/@caxtonlocalmedia?lang=en"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Anthony Drimmie",
+          "sentiment": "none"
+        },
+        {
+          "name": "Gugu Sisilana",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [
+        "top_news_za",
+        "top_news"
+      ],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T11:38:47.214+03:00",
+    "updated": "2025-08-15T12:10:31.000+03:00"
+  },
+  {
+    "uuid": "676dc4def9578d47f0db05df2964c09d44ce150a",
+    "url": "https://www.eluniversal.com.co/cartagena/siguen-llegando-las-ayudas-a-los-damnificados-del-incendio-en-henequen-NN9708168",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "REDACCIÓN CARTAGENA",
+    "published": "2023-12-28T22:00:00Z",
+    "title": "Siguen llegando las ayudas a los damnificados del incendio en Henequén | EL UNIVERSAL - Cartagena",
+    "text": "Tras el devastador incendio que arrasó con 11 viviendas en Henequén, dejando a más de 40 personas sin hogar, las ayudas por parte de entidades de la Alcaldía de Cartagena y empresas privadas no han faltado para los afectados. El martes 26 de diciembre, un día después de la fuerte conflagración, la Oficina Asesora para la Gestión del Riesgo de Desastres (Oagrd) llegó al sitio con ayudas alimentarias y frazadas para apoyar a las familias que lo perdieron todo. [Lea: Distrito entregará ayudas a 11 familias afectadas por incendio en Henequén](https://www.eluniversal.com.co/cartagena/distrito-entregara-ayudas-a-11-familias-afectadas-por-incendio-en-henequen-DL9692137) Según la Oagrd, pese a que los afectados quedaron en la calle, estos no pueden aplicar al subsidio de arriendo que se brinda en estas emergencias, ya que un requisito para optar a dicho beneficio es la legalidad de la posesión de las viviendas, lo cual no se cumple en este caso. “No se puede porque se trata de un asentamiento irregular; sin embargo, se les han garantizado otros apoyos y se puso el caso en conocimiento de diversas entidades, incluyendo el Instituto Colombiano de Bienestar Familiar (ICBF), el Plan de Emergencia Social (PES), la Secretaría de Participación y la Secretaría del Interior, con el objetivo de coordinar y agilizar más ayuda para los damnificados”, explicaron desde la Oagrd. [Video: Fuerte incendio consume varias viviendas en Henequén](https://www.eluniversal.com.co/sucesos/video-fuerte-incendio-consume-varias-viviendas-en-henequen-HM9691988) La Alcaldía de la Localidad 3 Industrial y de la Bahía, en cabeza del alcalde Juan Carlos De la Espriella, también se ha mantenido atenta a la situación para garantizar el amparo a las familias perjudicadas y en la mañana de este jueves 28 de diciembre sus funcionarios estuvieron nuevamente en la zona brindando más apoyo. La jornada de solidaridad incluyó la entrega de ropa en buen estado, recolectada con la participación de trabajadores y contratistas, así como donaciones alimentarias. La ropa es de todas las tallas para que niños, jóvenes y adultos puedan tener con qué vestirse en estos días decembrinos y en los venideros. El alcalde enfatizó en que todo es mediante donación de personas de buen corazón, lo que no compromete los recursos del Fondo de Desarrollo Local. [Lea: Así comenzó el incendio que arrasó con 11 casas en Henequén: 40 afectados](https://www.eluniversal.com.co/sucesos/asi-comenzo-el-incendio-que-arraso-con-11-casas-en-henequen-40-afectados-GJ9694282) Además, elementos esenciales como estibas y láminas de zinc para la reconstrucción de techos han sido proporcionados por la fundación Traso. De igual manera, el alcalde De la Espriella se mostró complacido porque la respuesta ciudadana ha sido vital para la implementación de una olla comunitaria diaria, en la que se preparan alimentos con las donaciones recibidas que benefician principalmente a menores de edad y adultos mayores. “La olla comunitaria es posible gracias a la contribución que todos están haciendo, y nosotros estaremos monitoreando y respaldando a los afectados permanentemente hasta el 31 de diciembre, día en que finaliza nuestra administración”, puntualizó el alcalde local.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:09:22.637+02:00",
+    "updated": "2023-12-29T00:32:53.257+02:00"
+  },
+  {
+    "uuid": "f565046d76606f68c9b1fe4510df47b9e0660c20",
+    "url": "http://business.decaturdailydemocrat.com/decaturdailydemocrat/article/issuewire-2023-12-30-collette-nlemchi-illuminates-divine-majesty-in-new-book-god-is-the-light",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Decatur Daily Democrat",
+    "published": "2023-12-30T00:00:00Z",
+    "title": "Collette Nlemchi Illuminates Divine Majesty in New Book 'God Is the Light' | News | decaturdailydemocrat.com",
+    "text": ": A Revelation of God's Timeless Power and Compassion Wilmington, Delaware Dec 29, 2023 ( Issuewire.com ) - In her enlightening new book, God Is the Light, Collette Nlemchi invites readers into a profound exploration of the divine, serving as a beacon of wisdom and understanding for those seeking to deepen their connection with the creator of the universe. God Is the Light aims to inform the world that the God portrayed within its pages is the Universal Commander, a deity without beginning or end, whose name is truly endless. Nlemchi emphasizes that no power or principalities can be compared with the divine, showcasing the uniqueness and compassion that define the character of the Almighty. The book delves into the extraordinary ways of God, offering a perspective that goes beyond human comprehension. Nlemchi passionately conveys that the creation of the Almighty is beyond mere understanding--it is, in her words, \"TOO MUCH.\" The author's devotion to praising and exalting the divine is evident throughout the narrative, reflecting a profound reverence for the creator's ways and attributes. In God Is the Light, the author, Collette Nlemchi, dedicates her life to illuminating the majesty of God and conveying the compassionate nature of the Almighty. The book serves as a testament to the unparalleled attributes of the divine, highlighting the profound ways in which God's creation surpasses human understanding. Nlemchi's devotion to praising and exalting the divine shines through every page, offering readers a unique perspective on the boundless compassion and wisdom of the Universal Commander. God Is the Light by Collette Nlemchi is a captivating exploration of the divine that transcends traditional understanding. Nlemchi's writing skillfully communicates the profound attributes of God, emphasizing the uniqueness and compassion that set the Almighty apart. The author's devotion to praising and exalting God adds a personal touch to the narrative, creating a powerful and enlightening reading experience. The book serves as a reminder that, in a world filled with complexities, there exists a divine force that is beyond compare. God Is the Light is an illuminating journey that invites readers to reflect on the mysteries of creation and the compassionate nature of the Universal Commander. Readers may get a copy of this compelling book through Amazon, Barnes & Noble, and other leading online platforms. Grab your copy today! Buy the book at: God Is the Light: Nlemchi, Collette: Books ISBN: 978-1664203938 Book Title: God Is the Light Author: Collette Nlemchi Publisher: Westbow Press Represented by: Great Writers Media Published Date: September 30, 2020 Book Genre: Christian, Spirituality, Religion, Spirituality, Christianity, Personal Reflection, Personal Transformation, Spiritual Growth, Spiritual Poetry Media Contact Great Writers Media 1-877-556-0487 24A Trolley Square #1580 Source :Great Writers Media This article was originally published by IssueWire. Read the original article here.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://www.issuewire.com/",
+      "http://www.amazon.com/exec/obidos/ASIN/1664203931",
+      "https://www.issuewire.com/collette-nlemchi-illuminates-divine-majesty-in-new-book-god-is-the-light-1786631866625947",
+      "https://issuewire.com/collette-nlemchi-illuminates-divine-majesty-in-new-book-god-is-the-light-1786631866625947",
+      "https://issuewire.com/",
+      "https://www.issuewire.com",
+      "http://amazon.com/exec/obidos/ASIN/1664203931"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "collette nlemchi illuminates divine majesty",
+          "sentiment": "negative"
+        },
+        {
+          "name": "collette nlemchi",
+          "sentiment": "none"
+        },
+        {
+          "name": "nlemchi",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "timeless power and compassion wilmington",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "delaware",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T06:03:00.483+02:00",
+    "updated": "2023-12-30T06:03:00.483+02:00"
+  },
+  {
+    "uuid": "6332045cbc40305497526de19ac46f83e4b5c9c2",
+    "url": "https://nybreaking.com/san-franciscos-obesity-czar-claims-eating-less-cake-is-oppression",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Liam",
+    "published": "2024-12-19T19:43:00Z",
+    "title": "San Francisco’s obesity czar claims eating less cake is “oppression.”",
+    "text": "San Francisco’s new “fat positivity” expert, hired to combat weight stigma in the city, is making waves before she’s even sunk her teeth into the job.\nA newly surfaced clip from Virgie Tovar, who describes herself as a “leading expert on weight-based discrimination and body positivity,” shows her how cutting back on cake is a form of oppression.\nIn the video, titled ‘No, I won’t cut you a smaller piece of cake’, the 42-year-old plus-size woman calls out people who are ‘ruining everything’ by asking for less cake while attending events.\nShe goes on to call this phenomenon a ‘Cake Related Fatphobic Incident (CRFI)’.\nShe explains what this concept means and tells viewers: ‘A Cake Related Fatphobic Incident or CRFI is when it’s time to eat delicious cake and this is interrupted by a moralizing impulse.\n‘Inevitably there is always someone at the party who has to publicly declare that their share is too big and that the person cutting the cake (almost always a woman) has to do a disproportionate amount of work to satisfy their need to feel superior . .’\nThe video, from 2018, then shows three female actors playing a CRFI.\nOne woman, playing the role of “annoying” partygoer, as explained by Ms. Tovar, says: “Can you put a little piece of cake… like, can you scrape all the frosting off and cut it in half and give me two forks , because I share.’\nA newly surfaced clip from Virgie Tovar shows her how skimping on cake is a form of oppression\nYour browser does not support iframes.\nAnother female appears, repeating similar demands and continually adjusting her piece of pie to become smaller.\nThe third goes one step further and whines at the camera: ‘Can you just cut my piece into twelve equal, symmetrical pieces and put each piece in a small Tupperware container, so that I can have a snack for each month of 2018. Thank you!’\nMs. Tovar then continues her monologue about CRFI.\nShe says, “Let’s take a step back and look at what’s happening through a critical feminist lens.\n‘CRFI usually occurs in environments where there are mainly or exclusively women.\n“Women are disproportionately negatively affected by diet culture because diet culture feeds into sexism, as do many parts of diet culture.\n‘There is an important performance component: you have to show others that you are good.\n“Controlling how much you eat is part of what it means to be a ‘good woman.’\n“This type of behavior is a way for people to control other people through food moralization, surveillance and policing.”\nIn the video, titled “No, I won’t cut you a smaller piece of cake,” Ms Tovar slams women who “ruin everything” by asking for less cake while attending events. Stock image\nVirgie Tovar, a self-described “anti-weight discrimination,” announced her appointment to the San Francisco Department of Public Health on her Instagram, calling it “an absolute dream come true.”\nShe continues, “These are the mechanisms at the heart of diet culture and weight management. The idea that you can position yourself as superior to others through self-control and self-denial is super sexist.\n“CRFI has a history of creating a hierarchy among women and ultimately enforcing misogynistic expectations.”\nThe video was shared on Ms Tovar’s Facebook page in 2018, but the link no longer works. This week it was shared again End Wokeness’ X account.\nIn a caption for the YouTube clip, Ms Tovar wrote: ‘Statistics indicate that 104 percent of women will experience a cake-related fatphobic incident (CRFI) before the end of 2018.’\nAlthough the clip is no longer on Ms. Tovar’s page, it has recently made the rounds on social media, with many commenters outraged by her “fat acceptance.”\n@EndWokeness posted the video to\nThis week it was announced that the San Francisco Department of Public Health had hired Ms. Tovar as a consultant on “weight stigma and weight neutrality,” even as the city was in the midst of a battle against rampant homelessness, open-air drug use and violent crime.\nShe announced her appointment on her Instagram, calling it “an absolute dream come true.”\n“I am incredibly proud to serve the city I have called home for almost twenty years in this way!” Mrs. Tovar wrote.\n“This consultancy is an absolute dream come true, and it is my greatest hope and belief that weight neutrality will be the future of public health.”\nCritics argue that San Francisco has much bigger problems to deal with than how people feel about their weight.\nAs the city struggles to address homelessness, drug addiction and public safety concerns, prioritizing a weight stigma counselor feels tone-deaf, they say.\n“Is this real?” tweeted Elon Musk when he heard the news, believing it could be satire.\n‘So the goal is not to solve any problems. Just to make people feel better about having them,” one user surmised.\n“San Francisco is just making their problems worse,” another added.\nMs. Tovar is a prominent advocate for fat positivity and body acceptance\nIn another Instagram post, she held up a sign that read “I don’t want Ozempic,” explaining that she didn’t want to take the drug because it wouldn’t address “weight bias.”\n‘You have the right to stay fat, but that doesn’t mean it’s healthy!’ joked a fourth.\nAdvocates see the move as typical of progressive politics and emphasize the importance of addressing weight-based discrimination as part of broader public health goals.\nMs. Tovar, who wrote a book titled You have the right to stay fat positions itself as a leading voice against weight discrimination.\nHer website describes her as a “major Latina author, teacher and body positivity expert with over a decade of experience.”\nShe has managed to build a career as an outspoken advocate against diet culture and traditional health metrics like body mass index, or BMI.\nHer published works and social media presence often criticize society’s beauty standards and ‘fatphobia’.\nIn an online video, she reflected on her own struggles with “disordered eating,” describing how medical professionals pressured her to lose weight from a young age.\n“I really believed this was about my health,” she said. “I really believed my doctor was right, so I used the language of ‘getting better,’ but I was actually deep in the throes of anorexia.”\nMs. Tovar has been vocal on social media about reshaping workplace conversations around food and body image.\nIn another Instagram post, she held up a sign that read “I don’t want Ozempic,” explaining that she didn’t want to take the drug because it wouldn’t address “weight bias.”\nWhile Ms. Tovar’s advisory role is official, the details remain unclear as the San Francisco Department of Public Health has not yet disclosed the specific nature of her responsibilities or how much she is paid.\nThe department also has not specified how its consulting firm will impact its programs or how success will be measured.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Health->diet",
+      "Health->mental health and disorder",
+      "Social Issue->diversity, equity and inclusion",
+      "Social Issue->social condition",
+      "Social Issue->discrimination",
+      "Politics->political development",
+      "Politics->civil rights",
+      "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://x.com/EndWokeness/status/1869539589045858596",
+      "https://i.dailymail.co.uk/i/html_modules/Annie/tests/240905-healthsubheading-finalversion/index.html",
+      "https://www.i.dailymail.co.uk/i/html_modules/Annie/tests/240905-healthsubheading-finalversion/index.html",
+      "https://www.x.com/EndWokeness/status/1869539589045858596"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Virgie Tovar",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T03:24:08.014+02:00",
+    "updated": "2024-12-20T03:24:08.014+02:00"
+  },
+  {
+    "uuid": "036722430836901abf9199f2bc64daa0e9b73a0d",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrft3927599.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:31:00Z",
+    "title": "民企ETF（159973）跌0.90%，半日成交额7.92万元|ETF_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，民企ETF（159973）跌0.90%，报1.316元，成交额7.92万元。民企ETF（159973）重仓股方面， 宁德时代 截止午盘跌1.13%， 美的集团 跌0.65%， 比亚迪 跌1.40%， 东方财富 跌2.19%， 恒瑞医药 跌0.66%， 立讯精密 跌0.58%， 寒武纪 涨0.31%， 汇川技术 跌0.05%， 三一重工 跌2.02%， 韦尔股份 涨0.27%。\n民企ETF（159973）业绩比较基准为 国证民企领先100指数 收益率，管理人为弘毅远方基金管理有限公司，基金经理为马佳，成立（2019-07-16）以来回报为30.57%，近一个月回报为-0.73%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->market and exchange"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:40:42.637+03:00",
+    "updated": "2025-06-19T04:49:26.000+00:00"
+  },
+  {
+    "uuid": "eb9abd4813c1821475596f33093ec9e44b86854a",
+    "url": "https://www.iamexpat.de/expat-info/german-expat-news/top-14-passwords-germany-are-guessable-less-1-second",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Wedia",
+    "published": "2024-11-22T00:00:00Z",
+    "title": "Top 14 passwords in Germany are guessable in less than 1 second",
+    "text": "Top 14 passwords in Germany are guessable in less than 1 second\nNordPass’s annual analysis of personal and corporate passwords in 44 countries has revealed that people in Germany, along with just about everyone else, desperately need to get more creative with their passwords.\nMost common password in Germany is 123456\nAn analysis done by the password management system NordPass has found that the dangerously simple “123456” is the most common password in Germany today. The company estimates that it would take hackers less than one second to crack the common code.\nThe rest of the findings were similarly predictable and insecure. Slightly more patient users created the second-most popular password “123456789”, followed by “12345678” in third place and “1234567” in fourth.\nOnly with the fifth-most popular password do people opt for the cryptic word “password” and in sixth place, it's back to the numbers, but with a twist, “1234567890”. “123123”, “111111”, “abc123” and “000000” rounded out the top 10 most common codes, all of which would take hackers less than one second to crack.\nUsers got more imaginative after the top 10, but “dragon”, “iloveyou”, “password1” and “monkey” are all still considered weak by NordPass and take less than one second to crack.\nUnited by uselessness, “123456”, “123456789” and “12345678” were named as the top three most common passwords across the 44 countries included in the analysis.\nWhat makes a password secure?\n“After analysing six years' worth of data, we can say there hasn't been much improvement in people's password habits,” NordPass wrote in its study. Not only that, but things are getting worse. The [international company](https://www.iamexpat.de/career/working-in-germany/information-international-companies) put this down to people having too many passwords to remember, estimating that on average a single person has 168 personal logins and 87 logins for [work](https://www.iamexpat.de/career/working-in-germany).\nSo if you're looking to learn, what makes a secure password? According to the company, “a password should be at least 20 characters long and include a mix of uppercase and lowercase letters, numbers, and special symbols”.\n“Steer clear of easily guessable information like birthdays, [names](https://www.iamexpat.de/expat-info/german-expat-news/german-names), or common words,” they explained, review your passwords and never reuse them across multiple sites and services.\nThumb image credit: Giulio_Fornasar / [Shutterstock.com](https://www.shutterstock.com/de/)\nBy clicking subscribe, you agree that we may process your information in accordance with our privacy policy. For more information, please\n[visit this page](/legal/privacy/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.shutterstock.com/de/",
+      "https://shutterstock.com/de/",
+      "https://www.shutterstock.com/de"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T07:40:32.065+02:00",
+    "updated": "2024-11-27T10:03:09.826+02:00"
+  }
+]

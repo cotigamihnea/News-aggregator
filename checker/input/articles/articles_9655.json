@@ -1,0 +1,232 @@
+[
+  {
+    "uuid": "427405c26d84de53cf082a965eaa45c2eda67be0",
+    "url": "https://siliconangle.com/2025/01/09/ivanti-discloses-critical-vpn-vulnerability-actively-targeted-hackers",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Maria Deutscher",
+    "published": "2025-01-09T23:46:00Z",
+    "title": "Ivanti discloses critical VPN vulnerability being actively targeted by hackers - SiliconANGLE",
+    "text": "Hackers are actively targeting deployments of some Ivanti Inc. software products using a newly discovered security vulnerability.\nThe company disclosed the exploit, which is tracked as CVE-2025-0282, on Wednesday.\nIvanti is a major provider of infrastructure management and cybersecurity software with more than 40,000 customers. According to the company, those customers include several U.S. government agencies. CVE-2025-0283 affects three Ivanti products: Secure Connect, Neurons for ZTA Gateways and Policy Secure.\nSecure Connect is a virtual private network, or VPN, tool for enterprise. It enables workers to remotely log into their company’s systems via an encrypted connection. Ivanti says that Connect Secure is one of the most widely-used products in its category.\nNeurons for ZTA, the second tool affected by the vulnerability, is likewise designed to let workers securely log into business applications. It can be used together with Secure Connect. The third affected product, Policy Secure, enables administrators to centrally manage workers’ access to the corporate network.\nHackers began exploiting the vulnerability in mid-December, Google LLC’s Mandiant cybersecurity unit detailed in a blog post . Its researchers analyzed several of the Secure Connect appliances that the hackers had breached. On one of the appliances, they discovered a malware strand associated with a China-linked hacking group tracked as UNC5337.\n“Mandiant suspects with medium confidence that UNC5337 is part of UNC5221,” the Google unit’s researchers wrote. “UNC5221 is a suspected China-nexus espionage actor that exploited vulnerabilities CVE-2023-46805 and CVE-2024-21887, which impacted Ivanti Connect Secure VPN and Ivanti Policy Security appliances as early as December 2023.”\nThe new vulnerability detailed this week has received a severity score of 9 out of the maximum possible 10. It bypasses the affected Ivanti products’ authentication mechanism, which means hackers don’t have to obtain login credentials to gain access. This makes it significantly easier to launch cyberattacks.\nAccording to Ivanti, CVE-2025-0282 is a so-called stack overflow vulnerability. Such exploits enable hackers to write more data to a section of a system’s memory than it’s meant to hold. This causes the data to overflow to adjacent memory sections, overwriting their contents with malicious code.\nMandiant’s researchers determined that cyberattacks targeting CVE-2025-0282 generally unfold in phases.\nFirst, hackers log into a vulnerable Ivanti Connect appliance and disable the underlying Linux server’s SELinux feature. This is a component of the Linux kernel that prevents programs from accessing sensitive operating system features and data. After disabling SELinux, the malware blocks a second Linux component that sends data about system activity to administrators.\nAfter the initial phase of the cyberattack, the hackers install malicious code on the targeted appliance. They then delete the system logs created as part of the process and turn SELinux back on.\nIvanti has released a patch for Connect Secure to fix CVE-2025-0282 and CVE-2025-0283, a second vulnerability disclosed in conjunction. Few technical details are available about the latter flaw. The company plans to patch Neurons for ZTA Gateways and Policy Secure on Jan. 21.\nThe discovery of the vulnerabilities comes less than a year after researchers uncovered a different set of zero-day exploits in Connect Secure and Policy Secure. It’s estimated that hackers used those flaws to breach more than 2,000 customer deployments.\nImage: Ivanti",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Crime, Law and Justice->law",
+      "Crime, Law and Justice->corporate crime",
+      "Crime, Law and Justice->cyber crime",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day/",
+      "https://www.ivanti.com/products/ivanti-neurons-healing",
+      "https://techcrunch.com/2024/02/01/cisa-federal-agencies-disconnect-ivanti-vpn/",
+      "https://www.techcrunch.com/2024/02/01/cisa-federal-agencies-disconnect-ivanti-vpn/",
+      "https://techcrunch.com/2024/02/01/cisa-federal-agencies-disconnect-ivanti-vpn",
+      "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day",
+      "https://www.cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day/",
+      "https://ivanti.com/products/ivanti-neurons-healing"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Ivanti Inc.",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ZTA",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:52:39.289+02:00",
+    "updated": "2025-01-10T02:52:39.289+02:00"
+  },
+  {
+    "uuid": "f324d80604bc5f5c4361cfffd0ea9da07cbb829a",
+    "url": "https://www.devdiscourse.com/article/law-order/2760709-indo-canadian-man-arrested-for-multiple-break-ins-and-thefts-at-hindu-temples-in-canada",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PTI",
+    "published": "2023-12-29T06:49:00Z",
+    "title": "Indo-Canadian man arrested for multiple break-ins and thefts at Hindu temples in Canada | Law-Order",
+    "text": "Indo-Canadian man arrested for multiple break-ins and thefts at Hindu temples in Canada [PTI](/pti-stories)| Toronto | Updated: 29-12-2023 14:49 IST | Created: 29-12-2023 14:49 IST - Country: - Canada A 41-year-old Indo-Canadian man has been arrested for multiple break-ins and thefts at Hindu temples in Canada's Durham Region and Greater Toronto Area, police said. However, the offences do not appear to be hate crimes or motivated by hate, Durham Regional Police said in a press release on Thursday. The police identified the man as Jagdish Pandher from Brampton city. According to the press release, in the early hours of October 8, police responded to a break-and-enter at a Hindu temple in the area of Bayly Street and Krosno Boulevard in Pickering. Pandher was seen on security surveillance breaking into the temple and taking a large quantity of cash from the donation boxes. He fled the area before police arrival, it said. He was ''seen on surveillance footage later that morning committing additional break-and-enters at Hindu temples in Pickering and Ajax,'' the release said. Police say the suspect has been linked to numerous other break-and-enters at Hindu temples throughout the year. ''These break-and-enters occurred in Durham Region and around the Greater Toronto Area,'' they said. Pandher has been charged with four counts of break-and-enter among other charges, the release said. (This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.) ALSO READ [China condemns Canada's support for Philippines on South China Sea incidents](/article/law-order/2745359-china-condemns-canadas-support-for-philippines-on-south-china-sea-incidents) [China condemns Canada's support for Philippines over South China Sea incidents](/article/law-order/2745330-china-condemns-canadas-support-for-philippines-over-south-china-sea-incidents) [UPDATE 1-China condemns Canada's support for Philippines on South China Sea incidents](/article/law-order/2746113-update-1-china-condemns-canadas-support-for-philippines-on-south-china-sea-incidents) [Implemented 'parity' in Canada's diplomatic presence under provisions of Vienna Convention: Govt](/article/education/2746085-implemented-parity-in-canadas-diplomatic-presence-under-provisions-of-vienna-convention-govt) [Canada to create citizenship path for undocumented immigrants- Globe and Mail](/article/education/2746536-canada-to-create-citizenship-path-for-undocumented-immigrants--globe-and-mail)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "pandher",
+          "sentiment": "none"
+        },
+        {
+          "name": "jagdish pandher",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "pti",
+          "sentiment": "negative"
+        },
+        {
+          "name": "hindu",
+          "sentiment": "negative"
+        },
+        {
+          "name": "durham region and greater toronto area",
+          "sentiment": "none"
+        },
+        {
+          "name": "durham regional police",
+          "sentiment": "none"
+        },
+        {
+          "name": "ajax",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "brampton",
+          "sentiment": "none"
+        },
+        {
+          "name": "bayly street",
+          "sentiment": "none"
+        },
+        {
+          "name": "pickering",
+          "sentiment": "none"
+        },
+        {
+          "name": "krosno boulevard",
+          "sentiment": "none"
+        },
+        {
+          "name": "toronto",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T11:21:01.201+02:00",
+    "updated": "2023-12-29T11:21:01.201+02:00"
+  },
+  {
+    "uuid": "33e9a3bbd8f4d67f3d40ed9d7b4be586a28acaa7",
+    "url": "https://www.newsbreak.com/pittsburgh-pa/3290148359957-oneil-cruz-provides-promising-injury-update",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-01-07T23:40:00Z",
+    "title": "Oneil Cruz provides promising injury update",
+    "text": "There’s some good news coming out of Pittsburgh Pirates camp. After fracturing his left fibula in April of last season, Pirates shortstop Oneil Cruz, via interpreter Stephen Morales said he’s, “All good. 100% now. Everything’s like it’s supposed to be.” Cruz appeared to have no imitations with that left leg, also. The serious injury occurred when Cruz attempted to slide into home plate when he banged into Chicago White Sox catcher Seby Zavala. The play sparked a bench-clearing brawl at PNC Park and Cruz left the game. He also was ruled out of the regular season officially in September. The shortstop made strong progress during his rehabilitation process at the Pirates’ academy in the Dominican Republic which included some sliding drills. He mastered those rather seamlessly. Morales watched Cruz’s progress saying it was as if he were “riding a bike” through it. Cruz was promoted to the big-league club in June 2022 and had his 6-foot-7 frame that possessed the most power in the organization. The combination of his defensive and offensive skills made those following his minor-league career salivate. Additionally, he only looks to improve on those skills. It helped things with the team desperate for a shortstop. Cruz was signed by the Dodgers in 2015 and was acquired by the Pirates in 2017 in a trade for Tony Watson. [ MLB.com ] The post Pirates’ Oneil Cruz offers positive update after devastating leg injury appeared first on The Comeback: Today’s Top Sports Stories & Reactions .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://thecomeback.com/mlb/pirates-oneil-cruz-offers-positive-update-after-devastating-leg-injury.html",
+      "https://thecomeback.com/mlb/pirates-oneil-cruz-horrible-injury-news-reacts.html",
+      "https://www.mlb.com/news/oneil-cruz-recovered-from-fractured-fibula",
+      "https://thecomeback.com",
+      "https://www.thecomeback.com",
+      "https://www.thecomeback.com/mlb/pirates-oneil-cruz-offers-positive-update-after-devastating-leg-injury.html",
+      "https://mlb.com/news/oneil-cruz-recovered-from-fractured-fibula",
+      "https://www.thecomeback.com/mlb/pirates-oneil-cruz-horrible-injury-news-reacts.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "oneil cruz",
+          "sentiment": "positive"
+        },
+        {
+          "name": "stephen morales",
+          "sentiment": "none"
+        },
+        {
+          "name": "cruz",
+          "sentiment": "none"
+        },
+        {
+          "name": "morales",
+          "sentiment": "none"
+        },
+        {
+          "name": "seby zavala",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "pittsburgh pirates",
+          "sentiment": "positive"
+        },
+        {
+          "name": "chicago white sox",
+          "sentiment": "none"
+        },
+        {
+          "name": "pnc park",
+          "sentiment": "none"
+        },
+        {
+          "name": "pirates",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "dominican republic",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-08T01:55:59.328+02:00",
+    "updated": "2024-01-08T01:55:59.328+02:00"
+  }
+]

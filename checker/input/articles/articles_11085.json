@@ -1,0 +1,504 @@
+[
+  {
+    "uuid": "ed7500de800b3d4f599c62581a52747eeb85efeb",
+    "url": "https://www.mondaq.com/unitedstates/healthcare/1645846/the-state-of-reproductive-healthcare-privacy",
+    "ord_in_thread": 0,
+    "author": "Michael D. Sutton",
+    "published": "2025-07-03T03:57:00Z",
+    "title": "The State Of Reproductive Healthcare Privacy",
+    "text": "Since the Dobbs v. Jackson Women's Health Organization decision (which overturned the landmark Roe v. Wade decision), the healthcare industry has continued to grapple with renewed concerns over patient privacy and reproductive healthcare. Legislators and regulators have not been idle, establishing a patchwork of authorities which require careful navigation and consideration. It is worth noting that reproductive healthcare privacy is not a concern exclusive to women. Rather, such privacy concerns also apply to services traditionally received by men, such as testosterone replacement and male fertility treatments.\nFederal Treatment of Reproductive Healthcare Privacy\nIn April of 2024, the Office of Civil Rights (\"OCR\")\nissued a Final Rule (the \"Reproductive Final\nRule\") to expand HIPAA's protections around reproductive\nhealth privacy.1 The Reproductive Final Rule was issued\nin response to Executive Order 14076, which directed the U.S.\nDepartment of Health and Human Services (\"HHS\") to\nconsider ways to strengthen privacy protections for reproductive\nhealthcare services, following the Supreme Court's ruling in\nDobbs. Under the Reproductive Final Rule, the use or\ndisclosure of protected health information (\"PHI\") was\nprohibited where such use or disclosure was for the purpose of a\ncriminal, civil, or administrative investigation into, or\nproceeding against, any person seeking, obtaining, providing, or\nfacilitating lawful reproductive healthcare.2 Similarly,\nthe Reproductive Final Rule also prohibited use or disclosure of\nPHI to impose criminal, civil, or administrative liability on any\nperson for seeking, obtaining, providing, or facilitating\nreproductive healthcare.3\nThe Reproductive Final Rule is currently the target of several\nlawsuits, including one filed by the Texas Attorney General as well\nas another filed by fifteen (15) State Attorneys\nGeneral.4 The foregoing lawsuits center on arguments\nthat OCR exceeded the scope of its rulemaking authority in enacting\nthe Reproductive Final Rule. Significantly, on June 18, 2025, the\nU.S. District Court for the North District of Texas issued an order vacating the Reproductive Final Rule,\nholding that \"HHS lacked clear delegated authority to fashion\nspecial protections for medical information produced by politically\nfavored medical procedures.\"5 It is unclear whether\nthe ruling will be appealed, but it is anticipated that HHS will\nlikely not pursue further action.\nSeparately, an Executive Order issued on January 24, 2025,\nrepealed several previously-issued Executive Orders which were\nintended to protect patient access to reproductive healthcare\nservices following the Dobbs decision (including Executive\nOrder 14076 which served as one of the bases for the Reproductive\nFinal Rule). Notably, this Executive Order instructs the Director\nof the Office of Management and Budget to promulgate guidance\nrelated to the implementation of the Executive Order, which has not\nyet been published.\nState Treatment of Reproductive Healthcare Privacy\nSeveral states have taken steps to protect healthcare providers, patients, and others involved in reproductive healthcare. Although state laws vary across jurisdictions, generally they limit (or outright prohibit) the disclosure of information related to reproductive healthcare that was lawfully received by a patient and furnished by a healthcare provider. For example:\n- California amended its Confidentiality of Medical Information Act to prohibit disclosure of medical information related to an individual seeking or obtaining an abortion in response to a subpoena or even to law enforcement for purposes of enforcing a state's laws that interfere with the patient's rights under the Reproductive Privacy Act, among other prohibitions.6\n- In November 2024, New York voters approved Proposition One,\nwhich amended the\nNew York State Constitutionto explicitly protect against discrimination based on reproductive healthcare decisions and to recognize reproductive autonomy as a fundamental right in New York.\nWith individual states adopting their own unique approaches to reproductive health privacy, regulated parties must now navigate a web of authorities in an already sensitive environment.\nConclusion\nThe world of reproductive healthcare privacy remains increasingly complex due to competing federal and state interests, a shifting political landscape, as well as evolving technologies and delivery methods. While the Reproductive Final Rule faces an uncertain future, state laws and consumer privacy regulations are filling the gap by creating an overlapping and sometimes conflicting patchwork of legal authorities. It is important for healthcare providers, insurers, and digital health platforms to ensure compliance with both federal requirements and state level regulations as well as taking proactive steps to have clear policies on data sharing and privacy audits, as well as engage in strategic communication with legal counsel.\nFootnotes\n1. HIPAA Privacy Rule to Support Reproductive Health Care Privacy, 89 Fed. Reg. 32976 (Apr. 26, 2024) (to be codified at 42 C.F.R. Parts 160 and 164).\n2. 45 C.F.R. § 164.502(a)(5)(iii)(A)(1).\n3. 45 C.F.R. § 164.502(a)(5)(iii)(A)(2).\n4. State of Texas v. U.S. Department of Health and Human Services, et al., Case No. 5:24-cv-00204-H (N.D. Tex.); State of Tennessee, et al. v. U.S. Department of Health and Human services, et. al., Case No. 3:25-cv-00025 (E.D. Tenn.)\n5. Purl v. U.S. Dep't of Health and Human Servs., et al., No. 2:24-cv-00228-Z (N.D. Tex. 2025).\n6. Cal. Civ. Code § 56.108.\nThe content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health"
+    ],
+    "topics": [
+      "Health->health organisation",
+      "Health->health care approach",
+      "Health->medical profession"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.whitehouse.gov/presidential-actions/2025/01/enforcing-the-hyde-amendment/",
+      "https://www.federalregister.gov/documents/2024/04/26/2024-08503/hipaa-privacy-rule-to-support-reproductive-health-care-privacy",
+      "https://litigationtracker.law.georgetown.edu/wp-content/uploads/2024/10/Purl_2025.06.18_MEMORANDUM-OPINION-AND-ORDER.pdf",
+      "https://dos.ny.gov/system/files/documents/2025/01/constitution-january-1-2025.pdf",
+      "https://whitehouse.gov/presidential-actions/2025/01/enforcing-the-hyde-amendment/",
+      "https://www.dos.ny.gov/system/files/documents/2025/01/constitution-january-1-2025.pdf",
+      "https://www.whitehouse.gov/presidential-actions/2025/01/enforcing-the-hyde-amendment",
+      "https://federalregister.gov/documents/2024/04/26/2024-08503/hipaa-privacy-rule-to-support-reproductive-health-care-privacy",
+      "https://www.litigationtracker.law.georgetown.edu/wp-content/uploads/2024/10/Purl_2025.06.18_MEMORANDUM-OPINION-AND-ORDER.pdf"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T08:13:15.649+03:00",
+    "updated": "2025-07-03T05:15:02.000+00:00"
+  },
+  {
+    "uuid": "cbafd64e8408921efa2c8d72865d593a3b916315",
+    "url": "https://acento.com.do/rfi/cancelan-las-fiestas-sirias-de-navidad-en-solidaridad-con-gaza-9284551.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Frontaly",
+    "published": "2023-12-24T11:07:00Z",
+    "title": "Cancelan las fiestas sirias de Navidad en solidaridad con Gaza | Acento",
+    "text": "Las calles de Siria no se animarán este año por las fiestas navideñas y las principales iglesias se limitan a sesiones de oración. Con AFP “En Palestina, lugar de nacimiento de Jesucristo, la gente sufre” declaró el arzobispo católico de Alep, Mons. Dionysius Antoine Shahda. El barrio de Azizia, en el norte de Siria, acoge tradicionalmente un mercado de navidad concurrido y colorido. Pero en 2023, las luces y cantos han dejado espacio al silencio. “Hemos anulado las celebraciones oficiales y recepciones en nuestras iglesias, para solidarizarnos con las víctimas de los bombardeos en Gaza”, explica el arzobispo. “Dada las circunstancias, en particular en Gaza”, las principales iglesias sirias declararon en un comunicado común la anulación de las fiestas navideñas, limitándose a ceremonias religiosas. Antes del estallido de la guerra civil en 2011, Siria contaba con 1,2 millones de cristianos, muchos de los cuales han huido del país. Aunque las festividades habían retomado progresivamente en los últimos años gracias a la recuperación de muchas zonas por parte del gobierno, la guerra ha hecho mella. En Damasco, reina una atmósfera morosa, y las fiestas se limitan a un solo mercado. La catedral Mariamita de Damasco, una de las más antiguas iglesias y sede de las Iglesia ortodoxa griega de Oriente, decoró modestamente su patio, donde colocó un pequeño arbolito.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-24T13:30:36.549+02:00",
+    "updated": "2023-12-24T13:30:36.549+02:00"
+  },
+  {
+    "uuid": "af828ca8eb6a0740b257a1fe232d380287b793b7",
+    "url": "https://www.radioformula.com.mx/estilo-de-vida/2023/12/28/gran-barata-de-invierno-liverpool-los-tenis-negros-originales-en-remate-por-menos-de-mil-pesos-795577.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Itzel García",
+    "published": "2023-12-28T22:43:00Z",
+    "title": "Gran Barata de Invierno Liverpool: Los tenis negros originales en remate por menos de mil pesos | Radio Fórmula",
+    "text": "La Gran Barata de Invierno de Liverpool está a todo lo que da, por eso ya te hablamos de [los 8 pares de tenis que se vende con más del 40% de descuento en las sucursales.](https://www.radioformula.com.mx/estilo-de-vida/2023/12/26/gran-barata-de-invierno-liverpool-remata-pares-de-tenis-mas-del-40-de-descuento-795357.html) Ahora tenemos información sobre otra rebaja, pues resulta que la tienda rosa vende pares de tenis originales y de color negro en menos de mil pesos. Esta es tu oportunidad para adquirir un par y estar preparada o preparado para estrenar durante los festejos del Año Nuevo 2024 ¡Aprovecha los descuentos! ¿Cuáles son los tenis negros originales que Liverpool tiene en remate por menos de mil pesos? En la página web de la tienda departamental hay varios modelos que puedes consultar, aunque a continuación te mostraremos algunos que te podrían llamar la atención. Te podría interesar - El primer modelo es un tenis de la marca RBCollection para mujer, de la colección OI23 || Código de Producto: 99962867546|| Estos ejemplares pasaron de costar 1689 pesos a tan sólo 999 pesos. Esto quiere decir que Liverpool les aplicó una rebaja de 690 pesitos. Están disponibles en los números 23, 24, 25, 26 y 27. Son de tipo deportivo con exterior textil, interior textil y suela sintética. La plataforma es de 6 centímetros y están adornados con pedrería. - El segundo modelo es un tenis de la marca K-Swiss para mujer, de la colección Alice V || Código de Producto: 1107565058 || Estos ejemplares tienen un costo de 999 pesos. Están disponibles en los números 22 y 23. Son estilo choclo y están hechos en material sintético. Aunque son en su mayoría negros, la suela es de color blanco. - El tercer modelo es un tenis de la marca DC Shoes para hombre, de la colección Method SN || Código de Producto: 1141678739 || Estos ejemplares pasaron de costar 999 pesos a tan sólo 699 pesos. Esto quiere decir que Liverpool les aplicó una rebaja de 300 pesitos. Este par está construido en material sintético ligero, flexible y resistente, perfecto para patinar. “Lleva costuras que refuerzan las zonas donde se requiere. Cuenta con lengüeta y cordones de ajuste. Su suela de goma ranurada favorece la flexión y mejora el agarre en la tabla y superficie”, se refiere en la descripción del producto. - El cuarto modelo es un tenis de la marca Levi’s para hombre || Código de Producto: 1102899179 || Estos ejemplares pasaron de costar 1299 pesos a tan sólo 909 pesos. Esto quiere decir que Liverpool les aplicó una rebaja de 390 pesitos. En la página de venta, estos pares son definidos como “casuales, elaborados con materiales de tacto suave. Es un diseño clásico y monocolor que podrás combinar con tus jeans favoritos”. ¡Sigue la cuenta de Twitter de Radio Fórmula!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:56:31.418+02:00",
+    "updated": "2023-12-29T00:56:31.418+02:00"
+  },
+  {
+    "uuid": "77f7d6ac7304c87e0397042667cc77f3d2e02472",
+    "url": "https://abc17news.com/cnn-regional/2024/01/07/a-man-avoiding-drinking-driving-on-new-years-eve-recovers-from-being-hit-by-car/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CNN Newsource",
+    "published": "2024-01-07T19:51:00Z",
+    "title": "A man avoiding drinking & driving on New Year’s Eve, recovers from being hit by car",
+    "text": "A man avoiding drinking & driving on New Year’s Eve, recovers from being hit by car\nBy Grace Smith\nClick here for updates on this story\nBLUE SPRINGS, Missouri (\nKCTV) — A man is recovering after being hit by a car while walking home from a New Year’s Eve party with friends and family.\nScott Arni told KCTV5 that his best friend, Mike Menteer, decided to walk home instead of drinking and driving. Menteer was hit alongside NE Jefferson St and left in a ditch, barely breathing.\n“Mike was trying to do the right thing, like most of us, after spending time with friends and family on New Year’s Eve and chose the road that most of us would hope people would and decided to walk home instead of drive,” Arni said. “On his walk, which wasn’t very far, someone hit him going 60-65 miles an hour and then left him for dead.”\nPolice said they’re still looking for the driver, who they believe is in a ‘07 or ‘08 silver BMW 3 series. According to police, the car should be damaged on the passenger side and missing the passenger side sideview mirror. If you have any information, call\n[816.228.0151](tel:8162280151).\n“It’s like trying to find a needle in the haystack if someone doesn’t come forward,” Arni said.\nArni said it wasn’t until 7 a.m. on New Year’s Day when a Good Samaritan saw Menteer and called 911.\n“With the last ounce of strength he had, he was able to pull himself up and flag someone down,” Arni said. “He had bleeding on the brain, there was swelling on his spine, we don’t know if he’s going to have the use of his left side. He still can’t move his left arm, and we are not sure how his leg is going to do.”\nArni created a GoFundMe to help Menteer on his long road to recovery.\n“Mike’s got five kids; he’s a family man,” Arni said. “He is Kansas City. He’s the guy that opens the door for you at QuikTrip, he’s the guy that helps you with your groceries at the grocery store. Being here my whole life, I know how Kansas City pulls through together. We are just hoping for the community to come help one of their own.”\nPlease note: This content carries a strict local market embargo. If you share the same market as the contributor of this article, you may not use it on any platform.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.kctv5.com/2024/01/07/man-avoiding-drinking-driving-new-years-eve-recovers-being-hit-by-car/",
+      "https://kctv5.com/2024/01/07/man-avoiding-drinking-driving-new-years-eve-recovers-being-hit-by-car/",
+      "https://www.kctv5.com/2024/01/07/man-avoiding-drinking-driving-new-years-eve-recovers-being-hit-by-car"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "grace smith",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mike",
+          "sentiment": "none"
+        },
+        {
+          "name": "jefferson st",
+          "sentiment": "none"
+        },
+        {
+          "name": "arni",
+          "sentiment": "none"
+        },
+        {
+          "name": "menteer",
+          "sentiment": "none"
+        },
+        {
+          "name": "mike menteer",
+          "sentiment": "none"
+        },
+        {
+          "name": "scott arni",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kctv",
+          "sentiment": "none"
+        },
+        {
+          "name": "bmw",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "missouri",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-08T00:08:41.849+02:00",
+    "updated": "2024-01-08T00:08:41.849+02:00"
+  },
+  {
+    "uuid": "99252f00042a93128854e46a54620bbbb66d5a0a",
+    "url": "https://sanangelolive.com/news/crime/2024-01-25/perv-indicted-recording-underaged-girl-shower",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "jamesb",
+    "published": "2024-01-25T20:33:00Z",
+    "title": "Perv Indicted for Recording Underaged Girl in the Shower",
+    "text": "SAN ANGELO— An Early man has been indicted for trying to record an underage girl in the shower.\nA Tom Green County Grand Jury indicted Christopher Constancia, 34, for Attempting to Possess Child Pornography after he was caught trying to record an underage girl in the shower.\nAccording to court documents, on May 26, 2023, San Angelo Police responded to the 1900 block of West Concho Avenue regarding an invasive visual recording call. Once the officer arrived, he spoke with all the parties including Constancia, who waived his rights and agreed to speak about the incident.\nConstancia allegedly admitted to taking a recording of the underage victim while she was in the shower using his cell phone. The victim said that she saw the shower curtain move in a slight manner a few times before sticking her head out and seeing Constancia using his cellphone to record her.\nConstancia was arrested and booked into the Tom Green County Jail on May 26, 2023, and was released on May 27, 2023, on $30,000 bond. He is next due in court on February 21, 2024, for post indictment reporting. Attempting to Possess Child Pornography is a state jail felony and carries a possible sentence of no more than two years or less than 180 days in prison.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "constancia",
+          "sentiment": "none"
+        },
+        {
+          "name": "christopher constancia",
+          "sentiment": "none"
+        },
+        {
+          "name": "poss",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "angelo",
+          "sentiment": "negative"
+        },
+        {
+          "name": "possess child pornography",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "tom green county jail",
+          "sentiment": "none"
+        },
+        {
+          "name": "west concho avenue",
+          "sentiment": "none"
+        },
+        {
+          "name": "san angelo police",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:39:39.857+02:00",
+    "updated": "2024-01-26T00:39:39.857+02:00"
+  },
+  {
+    "uuid": "5c0dee2a949834fb00f5ec0b3b41c9b6d996cff7",
+    "url": "https://clutchpoints.com/royals-receive-brutal-vinnie-pasquantino-injury-update",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Owen Crisafulli",
+    "published": "2024-08-30T15:39:00Z",
+    "title": "Royals receive brutal Vinnie Pasquantino injury update",
+    "text": "The Kansas City Royals have emerged from out of nowhere as a serious contender to win the American League Central this season, as they find themselves just 1.5 games behind the Cleveland Guardians for first place in their division. Unfortunately, their huge playoff push was dealt a pretty crushing blow on Friday morning, as Vinnie Pasquantino received a tough injury update. Pasquantino has been the Royals starting first baseman this year, and he’s put together a solid season as a key part of their lineup (.262 BA, 19 HR, 97 RBI, .760 OPS). Pasquantino was involved in a collision with Yainer Diaz in Kansas City’s 6-3 loss against the Houston Astros on Thursday night, though, and tests revealed that he had suffered a broken thumb, which will sideline him for 6-8 weeks. Via Bob Nightengale: “The Kansas City Royals, who are having one of the greatest turnarounds in baseball history after losing 106 games last season, suffer huge blow with 1B Vinnie Pasquantino (19 homers, 97 RBI) diagnosed with broken thumb that sidelines him 6-8 weeks.” Royals hoping Vinnie Pasquantino can return in the postseason Mandatory Credit: Thomas Shea-USA TODAY Sports This is a crushing injury update, as it effectively ends Pasquantino’s regular season campaign. The slugging first baseman had been putting up some big numbers, so losing him is going to leave a pretty sizable hole in their lineup. His production cannot be overlooked among all of the Royals other contributors, and they will be scrambling to try and find someone to fill his shoes. The good news is that the Royals already have their plan for replacing Pasquantino in place. Salvador Perez, who is typically their starting catcher, can play first base, while Freddy Fermin, who is having a really strong season (.296 BA, 6 HR, 36 RBI, .753 OPS) can fill in at catcher. It’s clear, though, that the lineup would be in a much better spot with Pasquantino healthy. With a six-to-eight week timeline, Pasquantino could return if the Royals go on a deep playoff run this season, but there’s a decent chance he’s already played his last game for the team this season. Kansas City will do everything in their power to help Pasquantino heal as quickly as possible and stay alive for as long as possible to give him a shot at returning. His status will certainly bear watching, but for now, things aren’t looking that great.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "vinnie pasquantino",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "bob nightengale",
+          "sentiment": "none"
+        },
+        {
+          "name": "yainer diaz",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kansas city royals",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "cleveland guardians",
+          "sentiment": "none"
+        },
+        {
+          "name": "houston astros",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "kansas city",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T18:59:39.327+03:00",
+    "updated": "2024-08-30T18:59:39.327+03:00"
+  },
+  {
+    "uuid": "3cefa4b15fff7cf7e12e839d8733a96818b91bbb",
+    "url": "https://www.jornada.com.mx/noticia/2024/07/18/estados/quintana-roo-recibe-distintivos-en-calidad-y-sustentabilidad-6988",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Patricia Vázquez, corresponsal",
+    "published": "2024-07-19T04:42:00Z",
+    "title": "La Jornada - Quintana Roo recibe distintivos en calidad y sustentabilidad",
+    "text": "El estado de Quintana Roo es líder nacional en banderas Blue Flag con 47 ejemplares, así como primer lugar a nivel mundial en embarcaciones sustentables, las cuales representan educación, limpieza, calidad y cuidado del medio ambiente, afirmó el director ejecutivo de Foundation For Environmental Education (FEE) México, Joaquín Díaz Ríos, al entregar dichos distintivos en la playa del hotel Flamingos, en la zona hotelera de Cancún.\nLa gobernadora Mara Lezama Espinosa recibió las certificaciones Blue Flag para el municipio de Benito Juárez, junto con cinco empresas de iniciativa privada, e izó la bandera distintiva en las playas, con lo que se dio inicio a la Temporada Blue Flag 2024-2025\nEn una ceremonia que se llevó a cabo en la playa, la alcaldesa morenista de Benito Juárez, Ana Paty Peralta de la Peña afirmó que Quintana Roo afirmó que trabajando en conjunto con los tres niveles de gobierno y la iniciativa privada, el municipio logra obtener el primer lugar nacional con sitios Blue Flag y primer lugar internacional con embarcaciones con dicho galardón con un total de 36 embarcaciones para la empresa Cancún Sailing.\nDicho galardón internacional que otorga anualmente la Fundación Europea para la Educación Ambiental (FEE) a las playas, marinas y embarcaciones que cumplen con los 33 criterios englobados en cuatro categorías: Educación Ambiental, Calidad de Agua, Gestión y Manejo Ambiental y Seguridad y Servicios.\nLa presidenta municipal reconoció el compromiso con el turismo como generador de progreso, bienestar y prosperidad compartida, por lo que la entrega de estos distintivos motivará a otros hoteles a tener enfoques de sostenibilidad y sustentabilidad en la Nueva Era del Turismo que promueve la gobernadora Mara Lezama.\nEl director ejecutivo de FEE México, Joaquín Díaz Ríos, entregó estas certificaciones para Playa Delfines, los hoteles Fiesta Americana Condesa, Live Aqua, Flamingo, Iberostar y a la empresa de embarcaciones Cancún Sailing.\nJoaquín Díaz destacó que Quintana Roo es la entidad con más playas y embarcaciones con certificaciones Blue Flag, y eso habla de responsabilidad, de cuidado, de una funcionalidad en conjunto no solamente para tener playas limpias, sino ambientalmente responsables.\nIndicó que para la temporada 2024-2025 el municipio de Benito Juárez logró la renovación de 43 galardones y a estos se incrementaron cuatro más, con lo que se tienen un total de 47.\nPor su parte, la gobernadora Mara Lezama agradeció el trabajo conjunto con los empresarios, como lo señala el Nuevo Acuerdo por el Bienestar y Desarrollo de Quintana Roo, en esta Nueva Era del Turismo, por dar el mejor servicio del mundo sino también para cuidar el entorno.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-19T08:24:20.540+03:00",
+    "updated": "2024-07-19T08:24:20.540+03:00"
+  },
+  {
+    "uuid": "4cf018cb80815b0c4b76c24af0fd71531d25dcaf",
+    "url": "https://www.terra.com.br/esportes/futebol/internacional/ex-inter-lucas-ramos-fala-sobre-bom-momento-na-letonia,7a40a5f9cf280f0436a2027e3b1df6ebxxw300po.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redação Jogada10",
+    "published": "2024-09-05T00:00:00Z",
+    "title": "Ex-Inter, Lucas Ramos fala sobre bom momento na Letônia",
+    "text": "Meia brasileiro vive seu melhor momento dentro de campo desde sua chegada ao Auda, em janeiro desta temporada Emprestado pelo Internacional ao FK Auda, da Letônia, Lucas Ramos está no país do leste europeu desde janeiro e vive seu melhor momento dentro de campo desde sua chegada. Nos últimos dez jogos, entre a Liga e Copa nacionais, e a Conference League, o meia soma três gols e três assistências em apenas 408 minutos em campo, com uma média de uma participação direta em gol a cada 68 minutos. \"Acredito que a minha adaptação ao futebol local fez com que os meus números subissem bastante e também minha dedicação no dia a dia para me acostumar com o fator do jogo em si, dos árbitros, dos adversários, até dos meus próprios companheiros. Então acredito que isso foi tudo construído à base de trabalho\", disse o jovem de 23 anos. Sem jogos desde o fim de agosto, o Auda só retorna a campo após a data Fifa, no sábado (14), ficando quase um mês sem atuar. Para Lucas, apesar do longo período sem partidas e do 'risco' de perder o ritmo de jogo, a pausa é benéfica. \"Essa pausa da Data Fifa aqui é muito boa, a gente ganha alguns dias de folga e consegue dar uma descansada mental e fisicamente. Mas a comissão também trabalha para que a gente não perca o ritmo de jogo, procura fazer amistosos e jogos-treino entre nós mesmos. Então, acredito que foi boa essa parada para descansar mental e fisicamente\", afirmou. Lucas Ramos fala sobre possibilidade de título na temporada Restando dez rodadas para o término da liga o Auda é o 4º colocado. No entanto, já não sonha mais com o título, já que são 29 pontos de diferença para o RFS, líder da competição. Entretanto, a equipe do brasileiro está na semifinal da copa nacional e sonha em terminar a temporada com um título. \"Infelizmente, o Riga e o RFS abriram uma vantagem muito longa, impossível de alcançar, mas o principal objetivo na Liga é conseguir a melhor posição. Se tivermos a oportunidade de alcançar o Vamiera na terceira, que está a 14 pontos, fica perfeito, mas nosso principal foco é a Copa. Estamos na semifinal, buscamos uma classificação para a final. Copa é Copa, é um jogo diferente, então a gente vai em busca do título da Copa\", finalizou o meia. O Auda volta a campo no sábado (14), quando recebe o Riga, vice-líder, em seu estádio, o Skonto. Siga nosso conteúdo nas redes sociais: Bluesky, Threads, Twitter, Instagram e Facebook.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-06T01:03:10.885+03:00",
+    "updated": "2024-09-06T01:03:10.885+03:00"
+  },
+  {
+    "uuid": "43b5c986ecc343c08279cc9ebac087b124cf0b1f",
+    "url": "https://dev.to/rafikke_lion/5-best-crms-for-workflow-automation-in-2024-1fg1",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@",
+    "published": "2023-12-29T18:01:00Z",
+    "title": "5 Best CRMs for Workflow Automation in 2024 - DEV Community",
+    "text": "Automation can tremendously improve productivity in sales and marketing as it saves a lot of time and resources by taking over tasks like sending emails, tracking leads, and managing documents. Artificial intelligence (AI) has transformed the sales CRM industry, making processes more efficient. AI-driven automation is now necessary for effective workflow management in sales. Below are five top CRMs leading the way in this revolution. [ ](#1-monday-sales-crm) 1. monday sales CRM [monday sales CRM](https://monday.com/crm/?utm_source=devto&utm_medium=organic&utm_campaign=5_best_crms_for_workflow_automation_in_2024&utm_term=queueVTA_link_1) is a customer relationship management platform designed by [Monday.com](http://monday.com/?utm_source=devto&utm_medium=organic&utm_campaign=5_best_crms_for_workflow_automation_in_2024&utm_term=queueVTA_link_2) for sales teams. It is not just a CRM but a complete work operating system (WorkOS) when used in combination with other monday.com platforms such as: - [monday dev](https://monday.com/dev/?utm_source=devto&utm_medium=organic&utm_campaign=5_best_crms_for_workflow_automation_in_2024&utm_term=queueVTA_link_3)(for product development teams) - monday work management (for project and work management) - monday sales CRM (for customer relationship management) Whether you are a small team or an enterprise, you can scale the platform’s functionality to meet the needs of all the teams within your organization. Below are some ideas for how you can use monday sales CRM to automate your workflows: - Automate the assignment of leads to appropriate team members when specific stage goals are completed - Set up automations for task management, like archiving completed tasks and alerting employees about upcoming deadlines - Set up automations for managing documents, such as notifying sales reps of new resources, requiring manager approvals, and organizing documents like quotes and contracts for easy access. - Automate report generation to evaluate team performance and make data-driven decisions. - Set up CRM automations like notifying key personnel when a customer ticket is submitted and tracking the time spent on each ticket This is one of the most affordable CRMs (particularly considering its range of features), with plans starting at just $10/seat/month. However, be prepared for a minimum of 3 users on premium plans. - $10/seat/month - 14-day free trial available [ ](#2-zoho-crm) 2. Zoho CRM Zoho CRM is ideal for startups and small businesses seeking a comprehensive sales, marketing, and customer service platform. Some of the automation features offered by Zoho CRM are: - Assignment rules for record distribution - Approval processes for managerial approvals - Workflow rules for automating regular tasks like updating lead statuses It's budget-friendly, with a free plan for 3 users. But the AI assistant and extra support come at a premium. - $14/user/month - 15-day free trial [ ](#3-hubspot-crm) 3. HubSpot CRM It is a good choice for scaling small businesses looking to unify sales, marketing, and customer service. Some of the automaton features offered by HubSpot CRM are: - Personalized email sequences - Automatic logging of customer interactions - Customer service automation through chatbots Enjoy a central dashboard and seamless email tracking, but limited free plan functionality and customization might hold you back. - $20/month - 14-day free trial [ ](#4-salesforce-sales-cloud) 4. Salesforce Sales Cloud Salesforce Sales Cloud is ideal for medium to large businesses, offering deep customization, process management, and AI-powered insights. Below are some of the key automation features offered by Sales Cloud: - Activity management for capturing engagement activities in CRM, - Lead and account management for streamlined sales tracking - Forecast management for accurate real-time forecasts - Pipeline management, and automated reports & dashboards Be prepared for a steeper learning curve and time-consuming setup compared to more user-friendly alternatives. - $25/user/month - 14-day free trial [ ](#5-freshsales-crm) 5. Freshsales CRM: If lead management is your top priority, Freshsales delivers with pipeline tools, AI insights, and automation. Key workflow automation features include: - Automated lead qualification and updating contact statuses. - Sending personalized welcome emails to new leads. - Automated invoicing and lead progression without manual intervention. - Scheduling SMSs, emails, and reminders for follow-ups and appointments. - Setting up renewal reminders for subscriptions and sending personalized greetings on special occasions. It's easy to get started and offers a free plan, but advanced features and customization might leave some teams wanting more. - $15/user/month - 21-day free trial [ ](#in-conclusion) In Conclusion… In summary, integrating AI into CRM systems is a major advancement in sales and marketing. These five CRMs lead the way with AI-powered automation, revolutionizing workflow management. By automating routine tasks, they save time and resources for sales teams to concentrate on more strategic aspects of their work. As we embrace the digital age, these AI-driven CRMs play a crucial role in evolving sales and marketing strategies to keep businesses ahead in a competitive market. Ultimately, the best CRM depends on your specific needs and budget. Consider factors like team size, features you need most, ease of use, and growth potential before deciding. The CRM system you choose should be scalable and able to adapt as your business grows. It should also be cost-effective, offering a good balance between cost and features. Additionally, it should incorporate technological advancements like artificial intelligence to enhance efficiency and productivity. Which CRM are you using to automate your workflow? Let me know in the comments!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Labor"
+    ],
+    "external_links": [
+      "http://monday.com)",
+      "https://monday.com/crm)",
+      "https://monday.com/dev)(for",
+      "https://www.monday.com/crm)",
+      "https://www.monday.com/dev)(for",
+      "http://www.monday.com)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-30T08:39:27.718+02:00",
+    "updated": "2024-01-28T07:29:21.795+02:00"
+  },
+  {
+    "uuid": "cc5f9e043ca8b36b43ad6f37b4a55afdb3630af0",
+    "url": "https://www.heraldtribune.com/story/news/2024/04/18/taylor-swift-florida-tortured-poets-department-album-release/73367248007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", Sarasota Herald-Tribune",
+    "published": "2024-04-18T00:00:00Z",
+    "title": "Taylor Swift could have big Florida plans. Fans have theories",
+    "text": "Taylor Swift is beloved by her devoted clan of fans for many reasons other than just her music. Miss Americana is known and loved by her fans for the smart clues she leaves in her outfits, music videos , Instagram posts and even nail polish colors. These clues, or Easter eggs, point to what the pop star might be working on or planning to do next. And with a new Taylor Swift album on the way this weekend, Swift's social media accounts have been active and have her fans hunting for Easter eggs. One recent theory places the spotlight on Florida. Here's a quick guide to how Swift drops Easter eggs for her projects and why Swifties think Florida might be the epicenter of her next big announcement, whatever that may be. First, what are 'Easter eggs' and why is Taylor Swift associated with them? What if we told you she's a Mastermind? But seriously, Swift is known for hiding well-placed clues in her songs, promotional messages and even her outfits and nail polish, for fans to uncover and guess what she could be doing next. Taylor herself told The Washington Post in 2022, \"When I was 15 and putting together my first album, I decided to encode the lyrics with hidden messages using capital letters. That's how it started, and my fans and I have since descended into color coding, numerology, word searches, elaborate hints, and Easter eggs.\" Here are some examples of her best Easter eggs: - 13 - As her lucky number (born on Dec. 13, 1989), you'll not only spot it in music videos or in her posts but fans have found 13-second intros at the start of her songs or 13 capitalized letters in an Instagram post that lead to a larger clue. - Snakes - Fueled by Kim Kardashian calling her a \"snake,\" Swift has included the imagery for her Reputation album and used the symbol when hinting at her past feuds. - \"Nils Sjoberg\" - In the \"Look What You Made Me Do\" music video, she is next a grave of Nils Sjoberg. It's the fake name Taylor used while working on ex Calvin Harris and Rihanna's song, \"This Is What You Came For.\" - \"Not a lot going on at the moment\" - Her post in April 2020 seemed to poke fun at the pandemic at the time but really, she was working on two of her albums \"Folklore\" and \"Evermore,\" which released later that year. - The Summer I Turned Pretty - Did you know she actually announced her album \"Midnights\" way before the MTV Music Awards? In a post about Amazon Prime's The Summer I Turned Pretty using her new song, she specifically says it will come out at \"m i d n i g h t.\" Why do fans think Taylor Swift is leaving hints about Florida before album release? There was a globe set up at a Spotify event for Taylor's new album and this TikTok creator (@swiftiesweetheart) pointed out that there was a pin in the globe, placed on Florida. \"I think this globe just revealed everything...\" she said in the TikTok video. She pointed out that there is a song on the track list for Taylor's new album titled \"Florida!!!\" Taylor is also known for playing around with numbers and fake error codes on her website. On the night that she announced her new album at the Grammys, her website went black and had an error code up that read \"Error 321 backend fetch failed.\" There was also a massive QR code put up in Chicago, as promotion for her album, that led anyone who scanned it to another \"Error 321\" message in the form of a short video on Taylor's YouTube account. This creator and some other Swifties are theorizing that the \"321\" sequence could be a nod to a Florida area code, as it's an area code for the Orlando area. Think this is a stretch? It's probably one of the most simple Swiftie theories yet. What is 'The Tortured Poet's Department' song 'Florida!!!' about? While there’s no confirmation on what “Florida!!!” is about, fans have taken to social media with their theories. Fans theorize that \"Florida!!!\" is about her Eras Tour shows at Raymond James Stadium from April 13 to 15, 2023 — which would have been when details of Swift and Joe Alwyn, her boyfriend of six years, break up were made public, according to People . Since the track list was revealed, fans looked back at moments from the Tampa shows and noticed the popstar seemed upset when performing songs about her past relationship. Who is 'Florence + the Machine' featuring on 'Florida!!!' track? Florence Welch is the powerhouse lead vocalist for the English indie rock band \"Florence + the Machine.\" Welch is known for several hits over the past decade, such as 2009's \"Dog Days are Over,\" 2011's \"Shake it Out\" and 2015's \"Sweet Nothings\" collaboration with Calvin Harris. \"Florida!!!\" is the first time Swift and Welch have collaborated on a song together. See the entire 'The Tortured Poet's Department' track list - \"Fortnight (feat. Post Malone)\" - \"The Tortured Poets Department\" - \"My Boy Only Breaks His Favorite Toys\" - \"Down Bad\" - \"So Long, London\" - \"But Daddy I Love Him\" - \"Fresh Out the Slammer\" - \"Florida!!!\" (feat. Florence + The Machine) - \"Guilty as Sin?\" - \"Who's Afraid of Little Old Me?\" - \"I Can Fix Him (No Really I Can)\" - \"loml\" - \"I Can Do It With a Broken Heart\" - \"The Smallest Man Who Ever Lived\" - \"The Alchemy\" - \"Clara Bow\" - Bonus Track: \"The Manuscript\" There are also three different variants that come with a different album cover and bonus track — The Bolter edition, The Albatross edition and The Black Dog edition. ‘Tortured Poet’s Department’ almost here Here’s where Florida Swifties can find it When does 'The Tortured Poets Department' come out? When can I stream Taylor Swift's new album? After receiving her 13th Grammy, Swift announced her new album “Tortured Poets Department” would come out Friday, April 19. The album also will be available to stream on most streaming platform, such as Apple Music and Spotify , on that date.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [
+      "https://www.washingtonpost.com/arts-entertainment/2022/10/20/taylor-swift-midnights-easter-eggs/",
+      "https://www.nbcnews.com/pop-culture/pop-culture-news/live-blog/taylor-swift-album-tortured-poets-live-updates-rcna147489",
+      "https://www.palmbeachpost.com/story/news/2024/02/06/taylor-swift-tortured-poets-department-album-songs-florida-florence-machine-post-malone/72487681007/",
+      "https://www.news-press.com/story/entertainment/music/2024/02/05/taylor-swift-left-fans-easter-eggs-for-tortured-poets-department/72483002007/",
+      "https://presave.umusic.com/tsthetorturedpoetsdepartment",
+      "https://people.com/music/taylor-swift-joe-alwyn-break-up-after-6-years-together/",
+      "https://www.news-press.com/story/news/2024/04/17/taylor-swift-tortured-poets-department-album-preorder-florida/73352702007/",
+      "https://nbcnews.com/pop-culture/pop-culture-news/live-blog/taylor-swift-album-tortured-poets-live-updates-rcna147489",
+      "https://www.palmbeachpost.com/story/news/2024/02/06/taylor-swift-tortured-poets-department-album-songs-florida-florence-machine-post-malone/72487681007",
+      "https://washingtonpost.com/arts-entertainment/2022/10/20/taylor-swift-midnights-easter-eggs/",
+      "https://www.presave.umusic.com/tsthetorturedpoetsdepartment",
+      "https://news-press.com/story/entertainment/music/2024/02/05/taylor-swift-left-fans-easter-eggs-for-tortured-poets-department/72483002007/",
+      "https://www.news-press.com/story/entertainment/music/2024/02/05/taylor-swift-left-fans-easter-eggs-for-tortured-poets-department/72483002007",
+      "https://www.people.com/music/taylor-swift-joe-alwyn-break-up-after-6-years-together/",
+      "https://palmbeachpost.com/story/news/2024/02/06/taylor-swift-tortured-poets-department-album-songs-florida-florence-machine-post-malone/72487681007/",
+      "https://www.news-press.com/story/news/2024/04/17/taylor-swift-tortured-poets-department-album-preorder-florida/73352702007",
+      "https://people.com/music/taylor-swift-joe-alwyn-break-up-after-6-years-together",
+      "https://www.washingtonpost.com/arts-entertainment/2022/10/20/taylor-swift-midnights-easter-eggs",
+      "https://news-press.com/story/news/2024/04/17/taylor-swift-tortured-poets-department-album-preorder-florida/73352702007/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "taylor swift",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "swifties",
+          "sentiment": "none"
+        },
+        {
+          "name": "taylor",
+          "sentiment": "none"
+        },
+        {
+          "name": "swift",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "instagram",
+          "sentiment": "none"
+        },
+        {
+          "name": "the washington post",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "florida",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-19T00:18:55.197+03:00",
+    "updated": "2024-04-19T12:04:58.825+03:00"
+  }
+]

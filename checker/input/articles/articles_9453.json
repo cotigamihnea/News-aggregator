@@ -1,0 +1,592 @@
+[
+  {
+    "uuid": "76d885f95321bf7d7ebc7e59ed79ebabc098ccfb",
+    "url": "https://80.lv/articles/the-internet-compares-microsoft-s-bing-wallpaper-app-to-malware",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Theodore McKenzie",
+    "published": "2024-11-22T02:02:00Z",
+    "title": "The Internet Compares Microsoft's Bing Wallpaper App to Malware",
+    "text": "The new app's shenanigans with default browser settings didn't sit well with some users.\nA few days ago, Microsoft officially launched Bing Wallpaper for Windows 10 and 11, an app featuring \"a collection of beautiful images from around the world\" that change daily and provide a delightful visual treat every time you boot up your PC. Innocuous and, frankly speaking, not particularly notable at first glance, the app did manage to attract some attention online – but unfortunately, not for its intended purpose.\nMicrosoft\nAs noticed by Engineer [Rafael Rivera](https://x.com/WithinRafael/status/1858769565054062772) (via [Neowin](https://www.neowin.net/news/microsofts-free-bing-wallpaper-app-for-windows-is-borderline-malware/)), the seemingly harmless application hides several unpleasant caveats, leading to comparisons to a typical malware you could encounter back in the day when downloading files online – not necessarily harmful, but incredibly annoying.\nAccording to Rafael, Bing Wallpaper automatically installs Bing Visual Search and includes code to examine and decrypt your cookie files in Firefox, Edge, and Chrome. As if that weren't enough, the app also includes a web geolocation API, reportedly attempts to change your default search engine to Bing, and pushes users toward setting Microsoft Edge as the preferred browser.\nTo top it all off, after you close your default browser, Bing Wallpaper will reopen it with a new tab saying that \"you've already installed Microsoft Bing Search extension\" and try to trick the user into completing the process by enabling the extension in the browser settings. The listed shenanigans, Rafael noted, are just a modest selection of the \"many nasty tricks Bing Wallpaper employs.\"\nPreviously, Microsoft was lambasted for a similar reason when they [unveiled Recall](https://80.lv/articles/windows-11-s-new-ai-feature-will-make-screenshots-of-everything-you-do), an Orwellian piece of technology that takes screenshots of everything you do and uses generative AI along with the NPU to process this data into a searchable timeline, which raised concerns that users could be spied on and their files used for generative AI training and other shady purposes. Thankfully, the program [has been confirmed to be uninstallable](https://80.lv/articles/microsoft-confirms-its-screenshot-taking-ai-feature-is-optional-can-be-uninstalled/), meaning that if, for some inexplicable reason, you don't want any app, website, document, or email you've opened on your computer to be screenshotted, you can either opt-out or delete Recall altogether.\nDon't forget to join our [80 Level Talent platform](https://80.lv/talent) and our [new Discord server](https://discord.gg/80lv), follow us on [Instagram](https://www.instagram.com/eighty_level/), [Twitter](https://x.com/80Level), [LinkedIn](https://www.linkedin.com/company/80-lv), [Telegram](https://t.me/LevelEightyNews), [TikTok](https://www.tiktok.com/@eightylevel), and [Threads](https://www.threads.net/@eighty_level), where we share breakdowns, the latest news, awesome artworks, and more.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.neowin.net/news/microsofts-free-bing-wallpaper-app-for-windows-is-borderline-malware/",
+      "https://x.com/80Level",
+      "https://www.linkedin.com/company/80-lv",
+      "https://discord.gg/80lv",
+      "https://www.threads.net/@eighty_level",
+      "https://www.tiktok.com/@eightylevel",
+      "https://www.instagram.com/eighty_level/",
+      "https://x.com/WithinRafael/status/1858769565054062772",
+      "https://t.me/LevelEightyNews",
+      "https://linkedin.com/company/80-lv",
+      "https://www.discord.gg/80lv",
+      "https://www.instagram.com/eighty_level",
+      "https://instagram.com/eighty_level/",
+      "https://www.x.com/WithinRafael/status/1858769565054062772",
+      "https://neowin.net/news/microsofts-free-bing-wallpaper-app-for-windows-is-borderline-malware/",
+      "https://www.t.me/LevelEightyNews",
+      "https://threads.net/@eighty_level",
+      "https://www.neowin.net/news/microsofts-free-bing-wallpaper-app-for-windows-is-borderline-malware",
+      "https://tiktok.com/@eightylevel",
+      "https://www.x.com/80Level"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Bing Wallpaper",
+          "sentiment": "none"
+        },
+        {
+          "name": "Rafael Rivera",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Microsoft",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T09:44:44.605+02:00",
+    "updated": "2024-11-22T09:44:44.605+02:00"
+  },
+  {
+    "uuid": "a2fc17c67933f8c38709fe31afcefd6a8aa66d70",
+    "url": "https://mag.elcomercio.pe/respuestas/sencillos-pasos-hacer-cera-depilatoria-casera-azucar-trucos-caseros-hacks-nndamn-noticia/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Marcelo López Chavez",
+    "published": "2024-01-07T21:53:00Z",
+    "title": "La fórmula secreta para hacer una cera depilatoria casera con azúcar",
+    "text": "Existe gran cantidad de personas que no les agrada visualizar el vello corporal en diversas partes del cuerpo como brazos, piernas o el torso y deciden depilarse. Esta tarea se tiene que realizar cuidadosamente para no sufrir algún tipo de lesión en la piel; por ello, es recomendable que un especialista se encargue de este proceso. No obstante, aquí en Mag te brindaré la posibilidad de que lo ejecutes tú mismo con una cera depilatoria casera que cuenta [como ingrediente principal la azúcar](https://mag.elcomercio.pe/respuestas/por-que-debes-poner-punado-azucar-mesa-noche-cerca-cama-trucos-caseros-rituales-hacks-nnda-nnni-noticia/). Quizás dirigirte a un profesional para que te retire los vellos no deseados sea sumamente caro y, posiblemente, obtengas resultados adversos, pues los productos que utilizan podrían contener ingredientes que serían irritantes en la piel y te causaría un gran dolor. En este caso, podrás crear el nombrado producto casero realizando una escasa inversión y con total facilidad, pues no te tomará más de 15 minutos. A parte de la azúcar, necesitarás de las propiedades del limón y del agua. ¿Cómo elaborar esta cera depiladora con tus manos? Conoce los pasos en las siguientes líneas. ¿Cómo crear una cera depiladora casera de forma simple? Toma una olla y, en su interior, debes verter las siguientes cantidades de estos ingredientes: 1/4 de cuchara de azúcar, 1/4 de cuchara de zumo de limón y una cuchara completa de agua. Mézclalos y trasladas el recipiente de metal al fuego para que hierva por un máximo de 10 minutos. Eso sí, no olvides de remover esta concentración con la ayuda de una cuchara de madera. Cuando haya cumplido la cantidad de tiempo que te he indicado, debes vaciar el contenido preparado sobre un recipiente de vidrio y espera un aproximado de 10 minutos para que esté a temperatura ambiente. Un punto importante a resaltar es que esta pasta debe presentar una textura similar a un gel. Antes de aplicarte esta cera casera, no olvides de exfoliar tu piel para que no sientas dolor o se irrite al realizar la depilación. Notarás que este tip recomendado será igual de efectivo como lo realizan los profesionales de estética. ¿Qué debes tener en cuenta al momento de depilarte? - No apliques la cera sobre la piel que está irritada o con heridas. - En caso de sentir dolor, deja realizar esta acción. - No utilices la cera más de dos veces en la misma zona. ¿Este [truco casero](https://mag.elcomercio.pe/respuestas/trucos-caseros-el-truco-para-ablandar-frijoles-sin-remojarlos-hacks-nndamn-noticia/) te pareció interesante y aprendiste un poco más sobre el cuidado de tu piel sin invertir mucho dinero? Como este ‘hack’, hay otro tipo de utilitarios que serán de tu agrado. Te invitamos a conocerlos y ponerlos en práctica. Para ello, solo tienes que entrar en el siguiente enlace para más trucos caseros en [Mag](https://mag.elcomercio.pe/noticias/trucos-caseros/), y listo. ¿Te animas?",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Health",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-08T00:08:00.740+02:00",
+    "updated": "2024-01-08T00:17:39.166+02:00"
+  },
+  {
+    "uuid": "2dd0d4f5b2d8ac696cd1b27a2c72ba850c631e0d",
+    "url": "https://www.meneame.net/story/atentado-islamista-durante-misa-navidad-deja-mas-160-cristianos/c076",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "jacinto9999",
+    "published": "2023-12-29T14:58:00Z",
+    "title": "#76 Un atentado islamista durante la misa de Navidad deja más de 160 cristianos asesinados en Nigeria",
+    "text": "Portada\nmis comunidades\notras secciones\n[#0](c0#c-0) Ese titular es tendencioso y confuso, y probablemente seas consciente. El ataque no fue durante una misa, como quiere dar a entender, si no que se atacó una serie de aldeas de manera coordinada. Y además, el factor religioso no es el único relevante, y tampoco está plenamente confirmado.\nHay fuentes mucho más serias, informadas y rigurosas que la que has mandado...\n[#10](c10#c-10) Resulta difícil creer que puedan existir fuentes más serias leyendo maravillas cosas como:\nLa reciente matanza sucedida en Navidad confirma lo que anuncian las estadísticas: el cristianismo es la religión más perseguida en el mundo. Y no se limita solamente a esta región de África, sino que ocurre en Asia y Medio Oriente. Hace poco a cristianos perseguidos por el régimen comunista chino se les negó asilo en la España de Pedro Sánchez y el PSOE. Solo una lo pudo obtener porque su salud le impedía subir al avión donde la deportaban.\nTodo ello, mientras las pateras siguen llegando a España, posiblemente con insurgentes tan radicales como los que masacran a los cristianos en Nigeria y sin el amparo para los cristianos que huyen de estos.\n[#65](c65#c-65) Las muertes no son sensacionalistas, la noticia es sensacionalista, y su falta de rigor, una falta de respeto a los que han sido asesinados. Además de aprovechar que el Pisuerga pasa por Valladolid para seguir esparciendo odio y desinformación...\nNo sé tú, pero yo este tipo de cosas ni las tolero ni me quedo callada, prefiero no ser cómplice de estas miserias.\nMira, igual en que en Gaza, pero estos no lo llaman masacre.\nhttps://www.lavanguardia.com/internacional/20231217/9456963/iglesia-denuncia-israel-mato-sangre-fria-dos-feligresas-gaza.html\nhttps://es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia/\n[#53](c53#c-53) ridiculizarlo si quieres.... Pero con Israel tenemos todo tipo de relaciones y bien estrechas, vamos de aliados, van de ser occidente, medio entran en europa, sobre todo socialmente, democracia plena etc etc ... No tiene absolutamente nada que ver.\nEsto es una masacre genocida por supuesto, ejem\n[#2](c2#c-2) .... Pro no es comparable. Si acaso, comparable a la masacre de Hamas.\n[#61](c61#c-61) Con Israel si, con Gaza no, mediáticamente deberíamos estar recibiendo un bombardeo de lavado de cara de Israel, pero es al contrario. Lo que esté bien o mal no me meto, no soy experto, pero la actitud de los medios ha cambiado y eso me inquieta.\nEs como si dentro de un mes encontramos todos los medios diciendo que Aznar ha sido el peor presidente, que hipotecó a España para décadas. Sería inquietante, llevan décadas lavándole la cara a Aznar y que cambien de rumbo significaría que algo ha pasado o que está habiendo algún cambio de poderes de influencia.\n[#9](c9#c-9) bueno. Entérate quién financio al valeroso pueblo de Afganistán y sus valerosos guerreros los muyahidines( les dedicaron Rambo iii y todo), o quien armó y financio a Irak, a estos que ves ahora este terrible atentado de la noticia, quien los organizo y financió, ... Después nos vuelves a contar estás cosas. Y si sigues pensando que está irán detrás de todo pq es omnipresente vale. Si ves q algún otro estado puede estar implicado, fijate quién lo arma y financia. Un saludo.\n[#13](c13#c-13) lo se y lo he criticado 100 millones de veces, dinero de EEUU y Arabia Saudita y Pakistán.\nPero eso no les importa para llamarlos partisanos, \"que en Europa les habría llamado partisanos y que habrían luchado contra los nazis\"\nEso es mierda, el fanatismo religioso no atiende a razones.\nAl menos tu comentario muestra algo de vergüenza de esa gente... Algo es algo.\n[#20](c20#c-20) pues mira otra vez la captura que mandas, pq es exactamente lo que estoy diciendo. Afganistán era un país más adelantado que España y las mujeres iban sin velo. El tío Sam puso a la derecha religiosa conservadora, o lo que viene a ser los fascistas de toda la vida, pero en musulmán, a levantarse en armas... Cómo en Irak, libia, Egipto, Ucrania... Mismo proceder en todos lados, mismo resultado en todos lados. Países de mierda con gobiernos autoritarios y la población paupérrima y reprimida. Eso es el tío Sam.\n[#30](c30#c-30) Claro, Afganistan era un paraiso...\nhttps://es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992)\nTienes una vision de la historia bastante distorsionada. China tambien dio armas a los talibanes para luchar contra la URSS, entre otros tantos paises....\nClaaaaaaro, todo culpa del tio sam...\n[#31](c31#c-31) entérate lo que era Afganistán antes del 92.\nEra un estado laico. En el año 90 la mayoría del profesorado eran mujeres, por ejemplo, que estaba integrada en el mundo laboral.\nY la revolución hostigada por el tío Sam puso a los integristas islámicos. Los valerosos muyahidines, como dijeron en Rambo 3, que les dedicaron.\nInfórmate tú un poquito, antes de hablar sin saber.\n[#32](c32#c-32) tengo entendido dos cosas : Rambo III estaba dedicada a “the galant people of Afghanistan” , lo otro es un bulo . Pero la info en internet se contradice en todas partes acerca de esto , asi que no sé.\nSegundo:\nLo de que Afghanistan era laico , mujeres sin velo etc . se ha mostrado erróneo, solo era en Khabul . En las zonas agrarias (el resto del país) era anticuado respecto a esto .\nPero es un lío y al final no sabes lo que es verdad o no , internet está lleno de información contradictoria .\n[#20](c20#c-20)\nSi pudieras comprenden lo que lees, eso se refiere a la guerra contra rusia, a los muyaidines, por la independencia de Afganistán.\nDESPUÉS de que se retiraran los rusos, Pakistán, Irán, armaron a los grupos islamistas radicales, los talibanes, e inició una guerra civil, que ganaron, eliminando a los grupos anteriores.\n[#13](c13#c-13) Se financian infinitud de proyectos e ideologías en los 5 continentes, para bien y para mal, y solo los “amigos de las cabras” son los que a posteriori se dedican al terrorismo.\n[#56](c56#c-56) con lo de los amigos de las cabras supongo q te refieres a los valerosos guerreros muyahidines, que junto a los USA liberaron del yugo comunista a Afganistán y lo convirtieron en la tierra de libertades que es hoy. No? O te refieres a las primaveras árabes? O a liberar libia? Iraq? El maidan de Ucrania?\n[#57](c57#c-57) La noticia habla de un atentado islamista. ¿ Tu de que crees que hablo ? P.S. No tengo nada contra las cabras.\n[#13](c13#c-13) \"les dedicaron Rambo iii y todo\"\nLeyenda urbana:\nhttps://www.indy100.com/showbiz/rambo-iii-afghanistan-mujahideen-taliban-b1904082\n[#69](c69#c-69) Esos ojitos no han podido ver algo que jamás ha ocurrido:\nhttps://en.wikipedia.org/wiki/Rambo_III#Dedication (apartado \"Dedication\")\nThe film ends with the on-screen caption, \"This film is dedicated to the gallant people of Afghanistan.\" At some point after the September 11 attacks, an urban legend began that the dedication had actually read \"... to the brave Mujahideen fighters\" when the film was released in theaters, but then changed to \"the gallant people of Afghanistan\" after the 2001 attacks, since the Mujahideen were now associated to some extent with the Taliban. This urban legend has been repeated by some scholars. However, this is untrue, and some reviews of the film upon its release even mentioned the \"gallant people of Afghanistan\" dedication.\nEs decir, o bien crees haberlo visto (podría ser efecto Mandela) o bien simplemente estás mintiendo.\n[#71](c71#c-71) Pues entonces estás mintiendo. No hay ninguna versión de la película en la que aparezca dicho texto, y si te fijas la captura que se comparte online en la que sale el texto de los muyhidines siempre es la misma en el mismo frame exacto. Eso es debido a que la gente siempre comparte la misma captura editada.\nEstos son los que en Francia, España e Italia eran llamados partisanos por que no se que mierdas de las circunstancias? O estos los podemos llamar terroristas?\nLa yihad se lleva a cabo con muerte de infieles y el miedo a serlo.\nNo se trata de liberar nada, cada ataque sirve para atraer radicales y causar estragos en los no creyetes.\nQuien apoya a yihadistas es tan asesino como ellos.\n[#3](c3#c-3) Estos son los que llevan EEUU y UK financiando más de un siglo\nA lo más fundamentalista y extremista\nAquí cuando iban a la casa blanca a recibir paguitas\nhttps://es.m.wikipedia.org/wiki/Archivo:Reagan_sitting_with_people_from_the_Afghanistan-Pakistan_region_in_February_1983.jpg\n[#8](c8#c-8) bajo ninguna circunstancia son culpables de sus actos, siempre es otro, la culpa siempre será de EEUU, de UK, de la sociedad, de la Bernarda, pero nunca ellos y su fanatismo religioso serán los culpables para vosotros.\nVuestra fijación por defender o tapar cada asesino terrorista con escusas es repugnante y os rebaja como... Voy a decir seres humanos.\nEs decir para vosotros el fanatismo islámico viene de un supuesto apoyo de EEUU a hamas y no de irán...\nBoko haram es un paso de baile radicalizado por EEUU.\nLos talibanes son partisanos radicalizados por EEUU.\nLos hermanos musulmanes se radicalizado jugando call of duty.\nPero jamás lobbys, poderes y dinero de países radicales apoyan a estos grupos de mierda.\nAsí es vuestro mundo.\n[#9](c9#c-9) ¿En qué parte de su comentario dice eso? \"no son culpables de sus actos\" y toda la mierda que sigue. O qué parte de su comentario te ha llevado a esa conclusión, si es que necesitas algo más de margen.\nAunque es posible que esa respuesta no tenga nada que ver con su comentario y simplemente sea una patética y lamentable pataleta porque no te ha gustado su respuesta.\n[#17](c17#c-17) \"por no sé que historia\".\n¿O por \"no quiero saber\"? Te dan la oportunidad de aprender, no la desperdicies.\n[#19](c19#c-19) tienes algún comentario de crítica o de repudio a esta atrocidad? O vienes aquí a adoctrinar me sobre lo malo que es eeuu?\nEs una noticia de 160 muertos a manos de yihadistas por ser infieles.\nEntre tu y yo? Es duro entrar aquí a un noticia tan trágica y ponerte a discutir sobre si la culpa es o no es de occidente o ya estás curado de eso?\nEntras aquí a recalcar que \"no quiero saber\" tu verdad... Que ascazo.\n[#21](c21#c-21) Eres tú quien ha introducido este tema. Igual esperabas otro tipo de respuestas y ahora te arrepientes de haberte puesto a chapotear con intención de salpicar a los demás.\n[#23](c23#c-23) en todo momento denunció:\n1* las atrocidades de grupos islamistas radicales, no como tantos aquí que aprendieron que eran los talibanes hace 2 meses y ahora los llaman partisanos. Asesinos es su nombre, como es el del gobierno de irán o Arabia Saudita ente otros.\n2* crítico a los que claramente ocultan y defienden a estos asesinos bajo un pretexto de victimismo en Palestina.\nUn terrorista es un terrorista y lo es con 0 muertos en Palestina y con un millón de muertos.\n[#27](c27#c-27) 1a parte todo bien. Segunda, ya no tanto ¿Cómo que terrorista se es y punto?\n¿Crees de verdad que si a esta gente nadie estuviera tocándole los huevos en su casa harían lo mismo?\nIr a la raíz del problema, a las causas, e intentar desenredar un tema complejo no es defender a nadie.\n[#12](c12#c-12) pero si tu pecas de lo mismo.\nA quien coño quieres dar lecciones?\nEEUU: apoyo yihadistas para quitarse de en medio a un enemigo común.\nTu: apoyas yihadistas para quitarte de en medio un enemigo común.\nEso que tienes ahí llamando nazis es la bandera de Israel no? Imagino que no eres simpatizante, pues eso.\nLa única deferencia entre EEUU y vosotros es que a EEUU sólo le movía la política, a vosotros os pierde el fanatismo.\nSabes lo que más me revienta de vosotros? Que no vais a ser vosotros quien caiga en esa oscuridad por vuestra culpa.\nHabrá niños de 15 que se sentirán libertadores, partisanos, defensores poniendo bombas para un estado islámico por vuestra culpa y vuestros comentarios.\n[#14](c14#c-14) Yo no apoyo yihadistas, eso es Israel que apoya a DAESH\nYo soy de izquierdas, no apoyo a la extrema derecha\nNo es muy dificil de entender, ánimo\n[#18](c18#c-18) otro comentario más de \"la culpa es de todos menos de la yihad y los países de mierda donde reina la sharia\"\nHoy te estás coronado máquina.\nQue lastima que estes aquí criticando a occidente para tapar mierdas de asesinos fanatizados y no allí al revés como los verdaderos mártires que si luchan por denunciar atrocidades de países islámicos, ahí veríamos lo valiente que eres con tu reinvidicacion de sofa y tu bandera nazi con la israelí en la foto de perfil.\n[#25](c25#c-25) Financiasteis a los talibanes para combatir a los rusos y ahora estamos pagando los platos\nFinanciar ISIS para destruir oriente medio\nFinanciar siempre lo peor para seguir con los genocidios, apartheid, limpieza étnica...\n[#26](c26#c-26) \"Financiasteis a los talibanes\"\nyo no financie a nadie, manipulador de pacotilla. Típico de esos de la bandera de tu perfil.\nMuestras muchos decíamos que la primavera árabe está plagado de fanáticos religiosos que apoyaban las reveliones, tantos otros decían que \"callate, hacen lo que deberíamos estar haciendo en Europa, es una revolución\". Ahora a gente como tú, si tu, que estás criticando a los críticos con el yihadismo de hamas se le avisa que apoyar grupos terroristas que hacen matanzas públicas es una barbaridad y que esto les embalentona y atrae a más fanáticos y que será la perdición de Palestina no escucháis. Dentro de 10 años saldrán muchos de Europa que han visto gritos de Allahu adbak y tontos en Internet diciendo que el único error de hamas es no haber actuado antes... Luego habrán chavales que pensarán que están siendo héroes en un Isis o unos talibanes dando su vida por puercos que vienen a cuerpo de rey con 4 mujeres y esclavas sexuales.\n[#18](c18#c-18) para tí seguro que extrema derecha es alguien de izquierdas que no compre el pack correntista de turno.\n[#8](c8#c-8) Reagan murió hace 20 años y dejó la presidencia hace 35... De verdad tu argumento más solido es usar una foto de hace 40 años? Alguna prueba que adjuntar a la afirmación de la financiación de EEUU y UK a los culpables de este atentado?\nAcaso guarda alguna relación Reagan reuniéndose con los muyahidines hace 40 años con este atentado en Nigeria y yo no me he enterado?\nAquí cuando iban a la casa blanca a recibir paguitas\nEstos terroristas de Nigeria? Un pelín racista por tu parte hacer un batiburrillo basándote únicamente en que son integristas musulmanes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Crime, Law and Justice",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992)",
+      "https://www.lavanguardia.com/internacional/20231217/9456963/iglesia-denuncia-israel-mato-sangre-fria-dos-feligresas-gaza.html",
+      "https://es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia/",
+      "https://www.indy100.com/showbiz/rambo-iii-afghanistan-mujahideen-taliban-b1904082",
+      "https://en.wikipedia.org/wiki/Rambo_III#Dedication",
+      "https://indy100.com/showbiz/rambo-iii-afghanistan-mujahideen-taliban-b1904082",
+      "https://www.es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia/",
+      "https://www.es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992)",
+      "https://www.en.wikipedia.org/wiki/Rambo_III#Dedication",
+      "https://lavanguardia.com/internacional/20231217/9456963/iglesia-denuncia-israel-mato-sangre-fria-dos-feligresas-gaza.html",
+      "https://es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T18:01:29.807+02:00",
+    "updated": "2023-12-29T18:01:29.807+02:00"
+  },
+  {
+    "uuid": "7ed1851fe73187744af6e0cabde7f6c0ed84d9a2",
+    "url": "https://www.lanazione.it/la-spezia/cronaca/il-rio-maggio-e-piu-sicuro-ultimo-passaggio-dei-lavori-intervento-da-sei-milioni-0cb61e67",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "La Nazione",
+    "published": "2024-10-04T02:36:00Z",
+    "title": "Il Rio Maggio è più sicuro. Ultimo passaggio dei lavori. Intervento da sei milioni",
+    "text": "Ultimo passaggio dei lavori sul Rio Maggio a Romito con la chiusura, ieri mattina, della parte strutturale dell’adeguamento idraulico del tratto focivo del torrente. L’operazione è avvenuta durante un sopralluogo del Commissario per le opere contro il dissesto idrogeologico e assessore regionale alla Protezione civile e Difesa del suolo Giacomo Raul Giampedrone, insieme ai tecnici della ditta appaltatrice, ai consiglieri comunali Gino Pavero e Brunella Righi: presenti anche alcuni abitanti della zona, che in passato hanno fatto i conti con le esondazioni e con questi lavori finalmente vedono la fine di un incubo.\nE’ stato fatto l’ultimo getto della soletta della copertura nel tratto tombato, con l’utilizzo di una gigantesca pompa di 30 metri, a conclusione dell’intervento di messa in sicurezza idraulica del corso d’acqua rispetto alla piena duecentennale del fiume Magra, la sezione della foce del canale è praticamente triplicata. L’investimento complessivo è stato di 5,8 milioni di euro di fondi stanziati dal dipartimento nazionale di Protezione Civile rispetto all’emergenza del 2018 e del ministero dell’Ambiente attraverso Regione Liguria. Nel corso dei lavori, come ha spiegato il direttore Daniele Guerrieri, con la ditta che ha eseguito i lavori ci sono stati alcuni problemi per le interferenze riscontrate, ma il cronoprogramma è stato rispettato e alla fine del mese il cantiere sarà smantellato. Si tratta di un’area a rigurgito sulle piene del Magra, ma grazie all’opera svolta adesso è stata ridotta sensibilmente l’area di rischio a cui seguiranno poi le altre arginature, tutte nell’ottica della prevenzione e della sicurezza, per primo luogo a Battifollo, per un investimento complessivo di decine di milioni di euro. Tutte opere commissariali, che passeranno di competenza al nuovo assessore nominato dopo le elezioni regionali.\nCristina Guala",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.lanazione.it/la-spezia/cronaca/il-rio-maggio-e-piu-sicuro-ultimo-passaggio-dei-lavori-intervento-da-sei-milioni-0cb61e67&t=Il%20Rio%20Maggio%20%C3%A8%20pi%C3%B9%20sicuro.%20Ultimo%20passaggio%20dei%20lavori.%20Intervento%20da%20sei%20milioni",
+      "https://x.com/share?url=https://www.lanazione.it/la-spezia/cronaca/il-rio-maggio-e-piu-sicuro-ultimo-passaggio-dei-lavori-intervento-da-sei-milioni-0cb61e67&text=Il%20Rio%20Maggio%20%C3%A8%20pi%C3%B9%20sicuro.%20Ultimo%20passaggio%20dei%20lavori.%20Intervento%20da%20sei%20milioni",
+      "https://web.whatsapp.com/send?text=Il%20Rio%20Maggio%20%C3%A8%20pi%C3%B9%20sicuro.%20Ultimo%20passaggio%20dei%20lavori.%20Intervento%20da%20sei%20milioni%20https://www.lanazione.it/la-spezia/cronaca/il-rio-maggio-e-piu-sicuro-ultimo-passaggio-dei-lavori-intervento-da-sei-milioni-0cb61e67",
+      "https://x.com/share",
+      "https://facebook.com/sharer/sharer.php?u=https://lanazione.it/la-spezia/cronaca/il-rio-maggio-e-piu-sicuro-ultimo-passaggio-dei-lavori-intervento-da-sei-milioni-0cb61e67&t=Il%20Rio%20Maggio%20%C3%A8%20pi%C3%B9%20sicuro.%20Ultimo%20passaggio%20dei%20lavori.%20Intervento%20da%20sei%20milioni",
+      "https://web.whatsapp.com/send",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://web.whatsapp.com/send?text=Il%20Rio%20Maggio%20%C3%A8%20pi%C3%B9%20sicuro.%20Ultimo%20passaggio%20dei%20lavori.%20Intervento%20da%20sei%20milioni%20https://lanazione.it/la-spezia/cronaca/il-rio-maggio-e-piu-sicuro-ultimo-passaggio-dei-lavori-intervento-da-sei-milioni-0cb61e67",
+      "https://x.com/share?url=https://lanazione.it/la-spezia/cronaca/il-rio-maggio-e-piu-sicuro-ultimo-passaggio-dei-lavori-intervento-da-sei-milioni-0cb61e67&text=Il%20Rio%20Maggio%20%C3%A8%20pi%C3%B9%20sicuro.%20Ultimo%20passaggio%20dei%20lavori.%20Intervento%20da%20sei%20milioni"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Giacomo Raul Giampedrone",
+          "sentiment": "none"
+        },
+        {
+          "name": "Brunella Righi",
+          "sentiment": "none"
+        },
+        {
+          "name": "Gino Pavero",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Protezione civile",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Romito Ma",
+          "sentiment": "none"
+        },
+        {
+          "name": "fiume Magra",
+          "sentiment": "none"
+        },
+        {
+          "name": "Rio Maggio",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T06:43:39.233+03:00",
+    "updated": "2024-10-04T12:31:19.682+03:00"
+  },
+  {
+    "uuid": "befae26b2597d3aeca11a26f7fb4cc644544b0bf",
+    "url": "https://www.clarin.com/ciudades/clima-hoy-alerta-amarilla-tormentas-buenos-aires-provincias_0_jpWCUckFhA.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción Clarín",
+    "published": "2024-12-13T11:23:00Z",
+    "title": "Clima hoy: alerta amarilla por tormentas en Buenos Aires y otras provincias",
+    "text": "La semana cerrará con tormentas en la Ciudad y el conurbano bonaerense. Después de varios días de sol y calor la jornada de este viernes arrancó inestable y seguirá desmejorando con el correr de las horas. El Servicio Meteorológico Nacional (SMN) emitió un alerta para Buenos Aires y otras diez provincias.La advertencia nivel amarillo comprende el Área Metropolitana de Buenos Aires además de toda la zona que abarca noreste y sureste de la provincia. El SMN incluyó también a Entre Ríos Misiones Santa Fe Tucumán Jujuy y Salta.El pronóstico prevé un panorama peor en Santiago del Estero Formosa Corrientes y Chaco donde las tormentas golpearán con más fuerza por lo que el organismo oficial elevó el nivel de alerta a naranja.Según el SMN una alerta amarilla indica “posibles fenómenos meteorológicos con capacidad de daño y riesgo de interrupción momentánea de actividades cotidianas” mientras que una alerta naranja anticipa “fenómenos meteorológicos peligrosos para la sociedad la vida los bienes y el medio ambiente”.En la Ciudad de Buenos Aires este viernes arrancó con cielo nublado y una temperatura de 20 grados que tocará una máxima de 27º. Se esperan tormentas fuertes durante la mañana y la tarde mientras que la intensidad irá bajando hacia la noche donde habrá algunos chaparrones.El clima mejorará recién este sábado donde por momentos se verá el sol. Se esperan mínimas de 19º y máximas de 28º. No obstante según el pronóstico extendido el domingo a la madrugada podrían llegar algunas lluvias aisladas.Las provincias mas comprometidasEl norte y el este del país tendrá un viernes comprometido con el agua. Es que allí puso el foco el SMN con respecto a las tormentas. En Chaco el del norte será afectada por lluvias y tormentas fuertes. Las mismas podrán estar acompañadas por actividad eléctrica significativa caída de granizo ráfagas intensas y especialmente abundante caída de agua en cortos períodos.Se prevén valores de precipitación acumulada entre 50 y 90 mm. En el este los valores podrían estar cercanos a los 150 mm.En Corrientes puntualmente en el sector noroeste también se focaliza una alerta naranja. En este caso las tormentas podrán estar acompañadas por actividad eléctrica significativa caída de granizo ráfagas intensas y especialmente abundante caída de agua en cortos períodos. Se prevén valores de precipitación acumulada entre 50 y 90 mm pudiendo ser superados en forma puntual. En el noroeste los valores podrían estar cercanos a los 150 mm.En tanto Santiago del Estero será otra de las provincias afectadas por las tormentas pero el foco de mayor riesgo está en el centro. Situación similar que se repetiría en Formosa con abundante caída de agua y ocasional caía de granizo.El temporal ya causó destrozos en localidades bonaerensesEl temporal que se espera que pasado el mediodía llegue con fuerza al AMBA ya causó destrozos en algunas localidades de Buenos Aires. En Bragado por ejemplo los fuertes vientos provocaron voladuras de techos y hasta el desprendimiento de una carpa instalada para una fiesta de egresados. Al menos ocho personas resultaron heridas y fueron atendidas por personal de emergencias médicas detalló Bragado Informa.Por otro lado el mismo medio indicó que autos que se encontraban cerca sufrieron daños por la caída de estructuras metálicas. Los bomberos trabajaban en otros puntos de la ciudad donde se registraron voladuras de techos en viviendas.Situación similar se dio en lugares cercanos como Chivilcoy 9 de Julio y Junín.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Servicio Meteorológico Nacional",
+          "sentiment": "none"
+        },
+        {
+          "name": "SMN",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Área Metropolitana de",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ciudad de",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T14:06:03.099+02:00",
+    "updated": "2024-12-13T14:06:03.099+02:00"
+  },
+  {
+    "uuid": "204a66072f06c2d12b45c3dc834d311231ec5168",
+    "url": "https://flipboard.com/article/volunteers-are-needed-to-help-clean-the-james-river-and-lake-springfield-this-ea/f-26e2bc90a1%2Fksmu.org",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ksmu.org - Courtney Skornia",
+    "published": "2024-04-18T00:00:00Z",
+    "title": "Volunteers are needed to help clean the James River and Lake Springfield this Earth Day | Flipboard",
+    "text": "Volunteers are needed to help clean the James River and Lake Springfield this Earth Day Sign up continues for the 2024 Earth Day Cleanup hosted by James River Partnership.\nksmu.org - Courtney Skornia • 1h",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "blake griffin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "bruins",
+          "sentiment": "none"
+        },
+        {
+          "name": "james river partnership",
+          "sentiment": "none"
+        },
+        {
+          "name": "boston celtics",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "james river",
+          "sentiment": "none"
+        },
+        {
+          "name": "lake springfield",
+          "sentiment": "none"
+        },
+        {
+          "name": "td garden",
+          "sentiment": "none"
+        },
+        {
+          "name": "massachusetts",
+          "sentiment": "none"
+        },
+        {
+          "name": "new england",
+          "sentiment": "none"
+        },
+        {
+          "name": "america",
+          "sentiment": "none"
+        },
+        {
+          "name": "boston",
+          "sentiment": "none"
+        },
+        {
+          "name": "america",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-19T00:31:25.928+03:00",
+    "updated": "2024-04-19T00:40:19.619+03:00"
+  },
+  {
+    "uuid": "342e9bc5d9e20a0191dd50546a4d2ca21a4ccb6d",
+    "url": "https://hitconsultant.net/2024/12/05/how-pharma-can-enhance-infusion-clinic-operations-and-patient-care",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Our Thought Leaders",
+    "published": "2024-12-05T14:49:00Z",
+    "title": "How Pharma Can Enhance Infusion Clinic Operations and Patient Care",
+    "text": "Patty Trainor, Sr. Director KS&R Infusion Clinics (ICs) face a delicate balancing act. They must strive for operational excellence while simultaneously navigating the realities of competition, patient care challenges, and compliance requirements. It’s a difficult challenge, and as ICs adapt to evolving demands, there’s a growing need for pharmaceutical manufacturers to step up with tailored support.\nFrom streamlining medication access to advocating for policy changes, manufacturers can significantly impact how ICs manage patient experience, operational efficiencies, and compliance. Helping ICs to improve productivity should be important to manufacturers due to the shared goal of ensuring patients have access to their medications and stay on them for better treatment outcomes. And both providers and ICs likely prefer to work with manufacturers that provide additional support. Here are actionable recommendations for ICs that can foster collaboration, enhance clinic performance, and ultimately improve patient outcomes.\n1. Focus on the patient experience\nSpecialty pharmacies and pharmacy benefit managers (PBMs) sometimes require medications to be processed elsewhere, creating competition for ICs. This results in lost margins to the IC, who can counter this where possible by hiring pharmacists for in-house pharmacy.\nICs can draw patients to their facilities by focusing on improving the patient experience and going the extra mile by offering “white glove” treatment. This includes finding ways to reduce wait times, assisting with travel to and from appointments, quickly setting up translators when needed, and providing private rooms—specially tailored for families and children. Clinics that excel at noticing body language cues and troubleshooting problems patients may not openly share also stand out.\nAdditionally, creating a comfortable atmosphere and simply being a good human can go a long way. Recognizing the patient experience—often filled with intimidation, needle sticks, long appointments, and boredom—helps ease fears and builds trust.\nThere are additional measures ICs can take to further improve the patient experience:\nAI Integration : While artificial intelligence is still slow to adoption for most ICs, it has potential to significantly improve scheduling processes. Staff Training : The importance of having well-trained staff cannot be overstated. Soft skills are crucial for effective communication and building patient trust. Prior Authorization Expertise : Having a PA expert in-house is essential. They possess deep knowledge of insurance coverage, coding, and more. It’s risky to discover coverage issues after administering an infusion. Addressing Scheduling Challenges : Frequent changes in scheduling can lead to operational inefficiencies, such as the potential waste of medications if they are mixed too soon and the appointment is rescheduled. Ensure Compliance\nEnsuring compliance involves having the right external support to maintain education (HIPAA included!), validate processes, and monitor adherence to checkpoints. Getting any of these aspects wrong can have significant financial implications.\nThe Balance Between Ideal and Practical Operations\nFor those directly involved either working with or at ICs, much of this may seem obvious. However, what stands out was the constant tension between striving for an ideal operation and making the best of current resources. Change can be daunting and may require a step back before progress is made.\nHere are suggestions for how pharmaceutical manufacturers can better support Infusion Clinics:\nStreamline Access to Medications\nSimplify the Prior Authorization Process : Work directly with payers to streamline the prior authorization (PA) process. Developing templates or tools that help ICs quickly gather the necessary documentation could reduce delays in treatment. Understand Payer Nuances : Recognize the differences between major payers and their requirements. For example, knowing that certain payers often deny a PA on the first attempt can prepare ICs to persist rather than give up. Enhance Communication and Collaboration\nDedicated Support Teams : Establish dedicated support teams for ICs that provide quick access to information about medications, coverage issues, and patient support programs. Regular Updates and Training : Offer regular updates on any changes in medication protocols, reimbursement codes, or regulatory requirements. Providing ongoing training to IC staff on these topics can help them stay informed and compliant. Offer HR Training : This could take the form of human resources tips and tools for hiring people with the right technical capabilities and soft skills. Advocate for Favorable Policies\nEngage in Policy Advocacy : Actively engage in advocacy efforts to support policies that benefit ICs and their patients, such as ensuring fair reimbursement rates and reducing regulatory burdens. Support Access to Care : Advocate for broader access to infusion therapies, particularly for underserved or rural populations. This could involve lobbying for better insurance coverage or expanding Medicare/Medicaid benefits for infusion services. Facilitate Networking and Best Practice Sharing\nOrganize Workshops and Conferences : Host or sponsor workshops, webinars, and conferences (like NICA) that bring together IC professionals to share best practices, discuss common challenges, and network with peers. Create a Knowledge Exchange Platform : Develop an online platform where ICs can share their experiences, solutions, and innovations, fostering a community of practice. Tailor Solutions to IC Needs\nCustomization of Support : Recognize that not all ICs are the same. Offer customized support and solutions based on the specific needs of different clinics, whether they are small, independent operations or part of a larger healthcare system. Responsive Feedback Loops : Establish channels for ICs to provide feedback on pharmaceutical products and services. Use this feedback to continuously improve offerings and address any emerging challenges they face. By implementing these recommendations, even in part, pharmaceutical manufacturers can play a crucial role in enhancing the effectiveness, efficiency, and sustainability of Infusion Clinics, ultimately leading to better patient care and outcomes. Both providers and ICs could benefit from this added support, while also putting the manufacturer in a more competitive position from those that do not have this partner mindset.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Education",
+      "Science and Technology"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-06T03:09:14.398+02:00",
+    "updated": "2024-12-06T03:09:14.398+02:00"
+  },
+  {
+    "uuid": "dfc0da2621c8dd1e574c0adc417fbcc9b37e3761",
+    "url": "https://es.clickpetroleoegas.com.br/Los-arque%C3%B3logos-han-encontrado-un-epitafio-de-m%C3%A1rmol-de-2-a%C3%B1os-de-antig%C3%BCedad-en-una-antigua-necr%C3%B3polis-romana",
+    "ord_in_thread": 0,
+    "author": "Fabio Lucas Carvalho",
+    "published": "2025-04-02T22:51:00Z",
+    "title": "Los arqueólogos han descubierto un epitafio de mármol de 2.200 años de antigüedad en una antigua necrópolis romana - CPG Click Petroleo e Gas",
+    "text": "En una necrópolis romana, los arqueólogos han hecho un descubrimiento sorprendente: un epitafio de mármol de 2.200 años de antigüedad dedicado a un gladiador. La antigua inscripción proporciona información valiosa sobre la vida, la muerte y los rituales que rodeaban a estos luchadores en la Antigua Roma, además de revelar aspectos poco conocidos de la cultura funeraria de la época.\nMás de dos mil años después del apogeo de Roma, arqueólogos Encontré un pedazo olvidado de la historia. Un epitafio grabado en mármol, que marca la tumba de un gladiador, ha sido descubierto en una antigua necrópolis de la ciudad de Liternum, en la costa oeste de Italia.\nLa ciudad, que una vez fue el hogar del famoso general romano Cornelio Escipión el Africano, Hoy es un parque arqueológico lleno de ruinas e historias.\nLiternum\nFundada por la República de Roma hace más de 2.200 años, Liternum era una colonia estratégica al norte de la actual Nápoles.\nCon el tiempo se convirtió en escenario de batallas, conquistas y también en el lugar de descanso final de muchos romanos, algunos ilustres, otros no tanto. Entre ellos, ahora se sabe, uno gladiador.\nEl descubrimiento fue realizado por un equipo dirigido por la arqueóloga Simona Formola, en un trabajo supervisado por la Superintendencia de Arqueología, Bellas Artes y Arquitectura del Paisaje de Nápoles.\nEn la antigua necrópolis de Liternum se excavaron dos grandes tumbas decoradas y docenas de entierros más pequeños.\nTumbas lujosas y entierros humildes\nLas dos tumbas principales encontradas estaban decoradas con yeso blanco y pintura roja. Entre ellos, un profundo pozo de piedra, posiblemente con función ritual, separaba los recintos.\nUno de ellos albergaba un mausoleo cuadrado, de aproximadamente 9 metros cuadrados, realizado en opus reticulatum, un tipo de mampostería típica de la época. La estructura utilizó toba, una roca volcánica, común en tumbas de personas de alto nivel social.\nEn el interior de este mausoleo, los arqueólogos encontraron nichos tallados en las paredes, probablemente para almacenar urnas que contenían restos mortales.\nSegún los investigadores, los objetos allí encontrados indican que las tumbas fueron utilizadas desde finales del siglo I a.C. hasta el siglo III d.C., lo que coincide con el inicio del Imperio Romano, bajo el gobierno de Augusto.\nDispersos por los alrededores había unos veinte enterramientos más, incluidas tumbas de capuchina (comunes entre los romanos pobres) hechas de tejas de arcilla con forma de tienda.\nTambién se encontraron enterramientos enquitrísticos, en los que los cuerpos eran colocados dentro de grandes tinajas de cerámica. Había también tumbas de ladrillo, rectangulares y bien trabajadas.\nUn gladiador en la necrópolis\nEl descubrimiento más sorprendente, sin embargo, fue una losa de mármol con un epitafio grabado. Indicaba que allí estaba enterrado un gladiador.\nEstos hombres, generalmente esclavizados o condenados, fueron obligados a luchar hasta la muerte para el entretenimiento del pueblo romano. Aunque algunos alcanzaron fama, como Espartaco, la mayoría fueron utilizados como mero espectáculo, desechable.\nEl epitafio se considera un registro raro y conmovedor de la presencia de estos luchadores en Roma. Como escribió un representante local en las redes sociales, se trata de un “testimonio raro y conmovedor de la memoria de estos luchadores”. Pocos gladiadores conservaron sus nombres.\nMuchos murieron sin dejar rastro. Por tanto, la inscripción representa más que un descubrimiento arqueológico. Es un recordatorio silencioso de aquellos que han sido olvidados.\nLa necrópolis como ventana al pasado\nLa excavación también sacó a la luz otros objetos importantes, como monedas, lámparas y pequeños jarrones. Cada elemento ayuda a reconstruir el rompecabezas de la vida y la muerte en Liternum. El sitio continúa revelando prácticas funerarias, creencias y formas de vida de la antigua Roma.\nEn 2024, el mismo equipo ya había abierto la llamada “Tumba de Cerbero”, donde se encontraron frescos que representan al perro mitológico de Hades y centauros marinos. Las pinturas muestran que, incluso en la muerte, los romanos buscaban símbolos e historias para marcar su final.\nSegún Mariano Nuzzo, superintendente responsable del área, la necrópolis de Liternum está viviendo un momento especial para la arqueología. “Esta necrópolis, gracias a sus estructuras murarias y tumbas excelentemente conservadas, añade una pieza importante a nuestro conocimiento sobre la historia de la colonia de Liternum”, dijo.\nLa historia aún no ha terminado de ser contada. El suelo de Liternum sigue ocultando recuerdos. Y cada excavación puede sacar a la luz otro nombre, otro rostro perdido en el tiempo.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+      "Science and Technology->history",
+      "Science and Technology->archaeology",
+      "Arts, Culture and Entertainment->monument and heritage site",
+      "Arts, Culture and Entertainment->culture"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Cornelio Escipión el Africano",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Simona Formola",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Augusto",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Hades",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Mariano Nuzzo",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "La antigua inscripción",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Antigua Roma",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Un epitafio grabado en mármol",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Italia",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Hoy es un parque arqueológico lleno de ruinas",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "República de Roma",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Nápoles",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Entre ellos",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Tumbas lujosas y entierros humildes\nLas dos tumbas principales encontradas estaban decoradas con yeso blanco y pintura roja",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "La estructura utilizó toba",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Imperio Romano",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Dispersos",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Espartaco",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Por tanto",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "El sitio",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Tumba de Cerbero",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Las pinturas",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "El suelo de Liternum",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Superintendencia de Arqueología, Bellas Artes y Arquitectura del Paisaje de Nápoles",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:33:07.136+03:00",
+    "updated": "2025-04-03T02:33:07.136+03:00"
+  },
+  {
+    "uuid": "765885b9f2bf8068fdc845c49a86bfbb3dc8ca61",
+    "url": "https://newstral.com/es/article/es/1261871790/por-primera-vez-la-guardia-nacional-se-involucra-en-el-control-de-ambulantes-del-ch-de-puebla",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Newstral.com",
+    "published": "2025-01-02T00:00:00Z",
+    "title": "lajornadadeoriente.com.mx: «Por primera vez, la Guardia Nacional se involucra en el control de ambulantes del CH de Puebla» - Artículos tematicamente parecidos - Newstral.com",
+    "text": "Open Menu\nIniciar sesión\nRegistrar\nInicio\nRegional\nGente\nMaps\nNewstral\nArtículo\nDel ticker\nL\nlajornadadeoriente.com.mx\nel\n2025-01-02 22:43\nPor primera vez, la Guardia Nacional se involucra en el control de ambulantes del CH de Puebla\nNoticias relacionadas\n×\nShare Page Snippet\nLink:\nNewstral.com utiliza cookies para personalisar la lengua y favoritos entre otros. También servicios de terceros aplican cookies para personalizar publicidad (Adsense, ...) y estatisticas (G. Analytics).\nMás información.\nEntendido",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": [
+      "Social Issue->demographics",
+      "Social Issue->communities",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Guardia Nacional",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T00:34:42.081+02:00",
+    "updated": "2025-01-03T00:34:42.081+02:00"
+  }
+]

@@ -1,0 +1,444 @@
+[
+  {
+    "uuid": "73b880700fdcfc61b33a9b994ae0aca495e181da",
+    "url": "https://hznews.hangzhou.com.cn/jingji/content/2025-04/03/content_8966000.htm",
+    "ord_in_thread": 0,
+    "author": "汪浩",
+    "published": "2025-04-02T22:49:25Z",
+    "title": "杭州科技企业为何集体押注大模型开源？",
+    "text": "首页/\n城市/\n新政/\n经济/\n社会/\n文化/\n体育+/\n科教卫\n霸榜全球开源模型前三\n杭州日报讯 4月2日，全球AI开源圈炸锅了——杭州的3个大模型直接包揽Hugging Face榜单前三！阿里通义千问Qwen2.5-Omni凭“能看能听能说”的全模态能力登顶全球开源模型榜首，深度求索DeepSeek的V3-0324在代码生成上碾压GPT-4.5，群核科技的SpatialLM把三维空间认知玩出了花。\n如今，杭州已经成了全球范围内少有的，同时拥有3个世界顶级开源模型的城市。在达摩院首席科学家赵德丽看来，大模型开源是杭州从这一轮AI技术变革浪潮中脱颖而出的关键，“3年时间，杭州用别人几乎十分之一的算力成本，跑出了10倍的模型迭代速度。”\n技术突破与生态构建双轮驱动\n在近期的开源大模型领域，DeepSeek和通义千问Qwen表现尤为突出。DeepSeek推出的DeepSeek-V3-0324在3月26日凌晨进行了迭代更新，带来了推理能力、代码生成、中文写作和搜索能力的显著提升。官方报告显示，该模型不仅全面超越了Claude-3.7-Sonnet和Qwen-Max等优质模型，还在数学和代码类评测集上胜过了GPT-4.5。经过测试，其代码能力超过了DeepSeek-R1。\n阿里巴巴在其后24小时内开源了其首个端到端全模态大模型通义千问Qwen2.5-Omni-7B。这个模型能够同时处理文本、图像、音频和视频等多种输入，并实时生成文本和自然语音合成输出。用户可以像打电话或视频通话一样与通义千问Qwen聊天，甚至能识别音视频中人物的情绪。在复杂任务中，通义千问Qwen2.5-Omni-7B能提供更智能、更自然的反馈与决策。在权威的多模态融合任务OmniBench等测评中，通义千问Qwen2.5-Omni-7B刷新了业界纪录，全维度超越了Google的Gemini-1.5-Pro等同类模型，从开源到登上榜单第一仅用了不到一周时间。\n相比之下，SpatialLM是一个相对较新的模型。它来自因“杭州六小龙”而声名鹊起的群核科技。尽管在大模型领域资历尚浅，但SpatialLM从发布、开源到登上榜单只用了不到10天的时间。\n硬核实力与接地气智慧的结合\n杭州搞开源，背后是实打实的硬核实力与接地气的智慧。\n在算力层面，杭州走的是“农村包围城市”的路线。阿里巴巴豪掷3800亿元人民币用于AI基础设施建设，通过领先的云计算技术，进一步榨干GPU集群的性能，大幅提升算力效率。深度求索则以“四两拨千斤”的巧劲，用十分之一的算力实现了超越GPT-4.5的性能，就像别人开着豪车堵在路上，而它骑着共享单车却率先抵达终点。\n在场景应用上，杭州玩的是“田忌赛马”的策略。通义千问Qwen在直播间帮商家写段子、SpatialLM给机器人装上“空间定位仪”，有鹿机器人直接用通义千问Qwen-7B给扫地机器人装上“最强大脑”。这些看似“土味”的应用，却让模型在实际运用中越练越强，数据反馈越积越厚，形成了技术迭代的良性循环。\n杭州的开源文化更带着股“江湖豪气”。魔搭社区广纳了4万多个模型，谁都能下、谁都能改。阿里云是国内最早开源自研大模型的大厂，也是全球唯一全方位开源的云计算厂商。自2023年8月以来，通义千问累计开源200余个模型，Qwen系列的全球下载量突破2亿，衍生模型数量突破10万个，超越Meta的Llama系列，成为世界最大的生成式语言模型族群。这种“你开源，我共建”的模式，不仅让技术普惠成为现实，更让杭州在全球AI开源生态中稳稳占据了C位。\n杭州改写了全球AI的游戏规则\n如今，杭州的开源“打法”，正在彻底改写全球AI游戏规则。它不仅让高高在上的技术变得触手可及，还让整个产业生态发生了翻天覆地的变化。\n首先是“降维打击式普惠”，让技术门槛直接“坍塌”。印度程序员用DeepSeek-R1开发医疗影像诊断工具；非洲创业者用它构建本土语言助手；越南的开发者用通义千问模型开发出最优的越南语大模型，甚至连孟加拉国的小团队都能基于通义千问模型开发出本地化的教育应用。\n其次是“产业洗牌式重构”。传统软件公司不再靠堆人头搞开发，阿里云的智能体生态让“调用AI的效率”直接影响了企业竞争力。通义千问在全球开源社区有10万余个衍生模型，涉及各种应用场景和领域，让企业有更好的基础模型进行业务再创新。\n最后是“跨国抱团式创新”。杭州的开源生态让全球技术合作变得比竞争还热闹。例如，苹果与阿里合作，将提供更懂中国用户需求的AI功能和服务；DeepSeek蒸馏了4个通义千问小尺寸模型，将R1的能力迁移到小模型上与开源社区共享。这种技术协作不仅加速了模型迭代，还让全球开发者共同受益。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->biotechnology",
+      "Science and Technology->scientific innovation",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T01:49:25.514+03:00",
+    "updated": "2025-04-03T01:49:25.514+03:00"
+  },
+  {
+    "uuid": "b003d5931a72e5064ac8e282a0fea5c444630d8c",
+    "url": "https://news.nestia.com/detail/Clash-of-Johans%3A-M%E2%80%99sian-Jojo-eyes-KO-victory-against-Colombian-Estupinan-at-ONE-170/13223728",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Borneo Post - Sports",
+    "published": "2025-01-23T22:00:00Z",
+    "title": "Clash of Johans: M'sian Jojo eyes KO victory against Colombian Estupinan at ONE 170 | Nestia",
+    "text": "KUCHING (Jan 23): Malaysian teenage muaythai sensation Muhammad Johan “Jojo” Ghazali is determined to defeat Colombian fighter Johan Estupinan in tomorrow’s (Jan 24) ONE 170 fight at the Impact Arena in Bangkok, Thailand.The 18-year-old from Kuching’s Rentap Muaythai Gym is upbeat ahead of the showdown and aims to deliver a knockout (KO) blow to his opponent in a pro bout that will be broadcast live on ONE Championship YouTube channel and Facebook, reaching over 190 countries.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->martial arts",
+      "Sport->sport achievement",
+      "Sport->sport event",
+      "Human Interest->record and achievement",
+      "Lifestyle and Leisure->exercise and fitness",
+      "Lifestyle and Leisure->game"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Johan Estupinan",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:11:20.575+02:00",
+    "updated": "2025-01-24T00:11:20.575+02:00"
+  },
+  {
+    "uuid": "a7379102a168987de6be58a4ff1e6645bfd9b620",
+    "url": "https://kfgo.com/2024/02/01/cloudflare-says-state-backed-hackers-tried-to-burrow-into-its-global-network",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Syndicated Content",
+    "published": "2024-02-01T21:59:00Z",
+    "title": "Cloudflare says state-backed hackers tried to burrow into its global network",
+    "text": "By Raphael Satter\nWASHINGTON (Reuters) – Internet firm Cloudflare said in a statement on Thursday that an advanced group of hackers tried to burrow deep into its global network late last year but were thwarted.\nThe company, which did not identify the hackers, said in a blog post that it had discovered the intruders on Thanksgiving in late November and ejected them the following day. The spies were able to access “some documentation and a limited amount of source code” but Cloudflare said the operational impact of the intrusion was “extremely limited.”\n“Based on our collaboration with colleagues in the industry and government, we believe that this attack was performed by a nation state attacker with the goal of obtaining persistent and widespread access to Cloudflare’s global network.”\nCloudflare said it had called in cybersecurity firm CrowdStrike to help remediate the breach and that the company confirmed that the last evidence of “threat activity” was left on Nov. 24.\nCrowdStrike did not immediately respond to a request for comment. The FBI and the American cyber watchdog agency CISA also did not immediately respond to a message seeking comment.\nCloudflare offers a suite of web and application services, including content delivery and network protection. A large chunk of the internet relies on the San Francisco-based company to deliver its web content to users, so any disruption to its network can have serious knock-on effects.\n(Reporting by Raphael Satter; Editing by Bill Berkrot)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "raphael satter",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cloudflare",
+          "sentiment": "negative"
+        },
+        {
+          "name": "crowdstrike",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "reuters",
+          "sentiment": "negative"
+        },
+        {
+          "name": "fbi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "washington",
+          "sentiment": "none"
+        },
+        {
+          "name": "cloudflare",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-02T00:22:26.779+02:00",
+    "updated": "2024-02-02T00:22:26.779+02:00"
+  },
+  {
+    "uuid": "406ce9c10135158e7524f3e5b0e7024ea99f7d08",
+    "url": "https://dnyuz.com/2024/03/10/its-a-way-of-life-women-make-their-mark-in-the-ukrainian-army",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "New York Times",
+    "published": "2024-03-10T07:45:00Z",
+    "title": "‘It’s a Way of Life’: Women Make Their Mark in the Ukrainian Army",
+    "text": "On the front line just outside Bakhmut, Ukraine, a 32-year-old commander of a Ukrainian artillery platoon rocked to and fro in the passenger seat of a beat-up Lada, as another soldier navigated the car through a thick forest, sometimes mowing down young trees. When they reached their destination, a small village less than two miles from Russian lines, all that was left were destroyed houses, their shattered roofs visible in the moonlight.\nThe commander, a female soldier who uses the call sign Witch, is a former lawyer who, along with two of her brothers and her mother, joined the military the day after Russia invaded in February 2022. Her first experience in combat was in the outskirts of Kyiv that year, and much of what she has learned about weapons systems since has been self-taught and on the fly.\nSince early 2023, Witch has been with her platoon in the 241st Brigade in the area around Bakhmut, supervising all of the artillery systems. She is resolute about staying in the military even if the war ends. “People who want to join the armed forces must understand that it’s a way of life,” she said.\nAs Ukraine struggles against fierce Russian assaults and its losses mount, there has been a surge of women who have enlisted, and they are increasingly volunteering for combat roles. The Ukrainian military has also\nmade a concerted effort to recruit more women to fill its ranks.\nAbout 65,000 women are currently serving in the Ukrainian Armed Forces, about a 30 percent increase since the war began. Roughly 45,000 serve as military personnel, and the rest hold civilian positions, according to the Defense Ministry of defense. Just over 4,000 are in combat positions.\nUnlike for Ukrainian men, there is no mandatory draft for women; however, women who have medical or pharmaceutical degrees must register for the service.\nThese women fill a growing number of positions in the military: combat medics in assault units; senior gunners; snipers; commanders of tank units and artillery batteries; and at least one co-pilot on a medevac team who dreams of becoming Ukraine’s first female helicopter combat pilot. Dozens have been wounded in battle, and some have been killed or captured.\nAlong the front line, they operate under the same blanket of fear and hardship as male soldiers. In the dank, fortified shelter where Witch and one of her mortar teams spent most of their days, they waited in near darkness in the basement. Turning on lights would mean the crew could not quickly adjust their eyes to the dark if they had to go out and fire.\nFarther north, a commander with the call sign Tesla, a former Ukrainian folk singer, sat hunched on a stool in the bare house serving as the field headquarters for the 32nd Mechanized Brigade. Russian forces in the Kupiansk region were sending barrages of artillery raining down on Ukrainian lines.\nTesla was simultaneously sending texts and voice notes to the soldiers in her unit while speaking to the second in command about the battlefield plan. Her oversized pants were rolled up, revealing neon orange socks with cartoon avocados on them.\nShe was trying to redirect Russian fire on a different battalion to her own soldiers’ position, so that the other unit could evacuate a comrade who had been badly wounded. “Three tourniquets on three different limbs,” came the information on a voice message, she said.\n“Send one more,” Tesla ordered over a voice note, giving the command to her soldiers to fire again. “When you finish, inform me.”\nShortly after a Russian assault began in October, overwhelming Ukrainian lines, 24 of her soldiers trained in artillery were ordered to reinforce the infantry troops, which are always situated closest to Russian lines. Tesla spoke to them before they deployed, feeling helpless.\n“The worst thing is that I instructed them on completely different things in artillery, and then they get sent to the infantry,” she said. “And, imagine, they’re standing there looking at you as their commander, knowing that they will be sent into the worst possible situation.”\nOf the 24 sent forward, 15 were wounded, Tesla said, and one was captured in the fighting. The incident stayed on Tesla’s conscience, but she kept her worries to herself. Her mother still did not know that Tesla was leading an artillery battery, thinking her daughter was working as an instructor at an academy, a safe distance from the front.\nUntil 2018, women were prohibited from holding combat positions in the Ukrainian military, though a few ignored the rules. Restrictions have been relaxed since Russia’s invasion. The enlistment of thousands more female service members in the military has largely been seen as a welcome step for the country, whose bids to join NATO and the European Union are still under review.\nThe downside is that the military has not been able to adapt quickly enough to accommodate them. Female soldiers say there is still a dire lack of women’s fatigues and boots, correctly fitted body armor, and feminine hygiene products. That leaves women to acquire many items on their own.\nAs a result, organizations like Veteranka and Zemliachky have helped fill the gap by raising money to provide items tailored to women.\nBut the problems go deeper, into issues of gender-based inequality and discrimination.\nMany women serving in combat roles said that male soldiers and direct superiors largely did not discriminate by gender — though there are still sexual innuendoes and inappropriate comments.\nRather, it is senior commanders, often holdovers from the Soviet-era, who look down on women in the military, especially those in combat roles. In some cases, women are choosing to join newly formed brigades with younger, more dynamic commanders.\n“I didn’t want to join a brigade that was established many years ago because I knew they wouldn’t listen to me as a young officer, and as a woman,” Tesla said.\nIn one instance, a brigade commander was so incensed by a woman commanding an artillery battery that he belittled her directly. “You will be crawling back to me on your knees begging to leave when you realize the job is too difficult, and I won’t allow you to leave your post,” she recalled him saying, requesting anonymity to speak frankly about a sensitive subject.\nClaims of sexual harassment have also surfaced. According to some women, there have been no official channels for reporting harassment other than to battalion commanders, who then have to decide whether to follow up. In some cases, female soldiers said, witnesses may decline to testify for fear of repercussions.\nThose impediments, as well as the potential for hurting their military careers, discourage women from reporting harassment, female soldiers said.\nDiana Davitian, a spokeswoman for the Defense Ministry, said that on Jan. 1, the military launched a hotline where soldiers can report sexual harassment. The reports would be investigated, she said, and measures would be taken if the accusations were found to be true.\nThe ministry also said it planned to create a separate unit dedicated to ensuring gender equality and providing educational programs, including one focused on combating sexual violence related to the war.\nBack in the basement, Tesla took a call from the command post: It was time to fire. The team scrambled into a partly covered yard a few feet away where a mortar barrel was readied.\nA silence descended as Kuzya, 20, a senior gunner with the mortar platoon, looked through the scope and read out the coordinates on her phone. “Fire!” someone called out. Several more rounds were sent off before the team scrambled back into the basement, awaiting a potential return from the Russians.\nOnly months earlier, Kuzya’s boyfriend was killed in the fighting. She and Witch, who has a 7-year-old son she has barely seen in the past year, seemed to find solace in each other’s company. The two women trained in the same judo club in Kyiv, the capital, and the day after the invasion, they went to the enlistment office together to sign up.\nFor many women, war and the desire to be in combat feels like something they have prepared for for years. Foxy, 24, a former barista turned gunner and medic, volunteered to make camouflage nets after school throughout her teenage years, before she worked with injured veterans. She joined the military last year after weeks of training.\nHer battalion commander gave her two options: “You’re a woman. You can work with documents or cook borscht,” Foxy recalled. “I had no choice but to handle paperwork until I switched battalions.”\nShe then became part of a mortar team in some of the most intense fights on the front line in Bakhmut, and was treated as an equal by her team. “While I faced some degree of sexism early on,” she said, “I feel like I don’t need to prove anything or convince anyone of what I can do.”\nThat is a sentiment echoed by Kateryna, 21, a lieutenant and a pilot of an Mi-8 medical evacuation helicopter. Kateryna has yet to fly her first medevac mission, but she hopes to become Ukraine’s first female combat pilot.\nUkrainian society is also gradually overcoming its skepticism of women serving in the military. For now, it is up to the new generation of women and their allies who will also be better placed to address discrimination and sexual harassment.\nThe post\n ‘It’s a Way of Life’: Women Make Their Mark in the Ukrainian Army appeared first on New York Times.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://www.nytimes.com/",
+      "https://www.nytimes.com/2023/11/08/world/europe/ukraine-war-army-women.html?searchResultPosition=1",
+      "https://www.nytimes.com/2023/11/08/world/europe/ukraine-war-army-women.html",
+      "https://nytimes.com/2023/11/08/world/europe/ukraine-war-army-women.html?searchResultPosition=1",
+      "https://nytimes.com/",
+      "https://www.nytimes.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "lada",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ukrainian army",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "bakhmut",
+          "sentiment": "none"
+        },
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "russia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-10T10:07:34.459+02:00",
+    "updated": "2024-03-10T10:07:34.459+02:00"
+  },
+  {
+    "uuid": "6ce5c260e615b6aa0cba0fba833616efec1aa0d6",
+    "url": "https://vnexplorer.net/nicaragua-arrests-two-high-ranking-catholic-priests-with-close-ties-to-cardinal-s701587.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-29T06:02:00Z",
+    "title": "Nicaragua arrests two high-ranking Catholic priests with close ties to cardinal",
+    "text": "By Ismael Lopez\nSAN JOSE, Dec 28 (Reuters) – Nicaraguan police detained on Thursday two senior Catholic priests who are close to the country’s top church leader, a person with knowledge of the matter said, raising to at least six the number of clergymen detained this week.\nThe source, who declined to be named for fear of arrest, said the two priests were detained for publicly praying for jailed Bishop Rolando Alvarez, the most prominent critic of President Daniel Ortega.\nLocal media outlet Confidencial named the priests as Carlos Aviles and Hector Treminio, and noted that their arrest brings to at least six the number of priests detained over the past week, adding that two of the clerics had already been released.\nThe government’s press office did not immediately respond to a request for comment.\nOver the past few years, Ortega’s government has targeted members of the Catholic church, a crackdown officials have in the past said was needed to punish treasonous behavior or other alleged crimes.\nAviles is the second-highest ranking cleric in the Archdiocese of Managua, led by Cardinal Leopoldo Brenes, while Treminio is its treasurer.\nAlvarez, the bishop of Matagalpa, forcefully criticized the government’s deadly response to mass protests that broke out in 2018, and was convicted of treason and sentenced to a 26-year prison term earlier this year.\nLast week, police arrested Bishop Isidro Mora of the Siuna diocese, making him the second bishop to be detained after Alvarez’s detention in 2022.\nMany of the latest clergymen detained were arrested because they publicly offered prayers for Alvarez, according to the source and local media, but the government has not issued any statements explaining the priests’ alleged crimes.\nNicaraguan Bishop Silvio Baez, who has been living in exile in Florida since 2019 and is the second-ranking leader of the archdiocese, called for the priests to be released.\n“I ask God to protect them and that they be freed immediately!” wrote in a post on X on Thursday.\nAccording to exiled Nicaraguan researcher Martha Patricia Molina, who publishes records of what she describes as the persecution of the Catholic Church under Ortega, the number of bishops, priests and seminarians behind bars in the country currently stands at nine. (Reporting by Ismael Lopez; Writing by David Alire Garcia and Miral Fahmy)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ismael lopez",
+          "sentiment": "negative"
+        },
+        {
+          "name": "catho",
+          "sentiment": "negative"
+        },
+        {
+          "name": "hector treminio",
+          "sentiment": "none"
+        },
+        {
+          "name": "rolando alvarez",
+          "sentiment": "none"
+        },
+        {
+          "name": "ortega",
+          "sentiment": "none"
+        },
+        {
+          "name": "cardinal l",
+          "sentiment": "none"
+        },
+        {
+          "name": "carlos aviles",
+          "sentiment": "none"
+        },
+        {
+          "name": "daniel ortega",
+          "sentiment": "none"
+        },
+        {
+          "name": "aviles",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "reuters",
+          "sentiment": "negative"
+        },
+        {
+          "name": "confidencial",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "san jose",
+          "sentiment": "none"
+        },
+        {
+          "name": "nicaragua",
+          "sentiment": "none"
+        },
+        {
+          "name": "managua",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T08:15:16.297+02:00",
+    "updated": "2023-12-29T08:15:16.297+02:00"
+  },
+  {
+    "uuid": "480741106e783ca658d1cbad35e4faf56330c22b",
+    "url": "https://larepublica.pe/agencias/2025/04/09/dominicana-cierra-rescates-en-escombros-de-discoteca-con-al-menos-124-muertos-817770",
+    "ord_in_thread": 0,
+    "author": "Agencia AFP",
+    "published": "2025-04-09T21:05:00Z",
+    "title": "Dominicana cierra rescates en escombros de discoteca con al menos 124 muertos",
+    "text": "Dominicana cierra rescates en escombros de discoteca con al menos 124 muertos\nLos socorristas dominicanos cierran este miércoles las labores de rescate en la discoteca que colapsó en Santo Domingo con la extracción de los que estiman serán los 20 últimos cuerpos hallados entre los escombros.\nAl saldo oficial de fallecidos de 124 deben sumarse los cuerpos encontrados en las últimas horas en la zona de desastre.\nLos familiares de los desaparecidos se aglomeraban en los alrededores de la discoteca Jet Set, que se derrumbó el martes 8 de abril en pleno concierto del popular cantante de merengue Rubby Pérez, quien falleció en el incidente.\nTambién acudían a hospitales y a la morgue a la espera de noticias o identificación de sus parientes. Un listado con nombres de víctimas fue colocado sobre la lona de una tienda de campaña aledaña a donde trasladan los cuerpos.\n\"Estamos haciendo una extracción de 20 cuerpos que visualizamos y ya tenemos 12 afuera\", dijo el general José Luis Frómeta Herasme, jefe del Cuerpo de Bomberos del Distrito Nacional.\n\"El día de hoy culminamos las labores de rescate, dejando limpio el ambiente\".\nDesde el aire puede apreciarse la estructura con el enorme agujero que dejó el techo colapsado.\nMás de 300 socorristas trabajaron entre los escombros de ladrillos, láminas de zinc y barras de acero de la discoteca. Una grúa de construcción apoyaba la retirada de bloques, también usaron martillos hidráulicos.\nBrigadistas de Puerto Rico e Israel ayudaron en las operaciones.\n- \"Angustia y mucho dolor\" -\nEl saldo de heridos se mantuvo desde el martes en 150. El jefe de las operaciones, Juan Manuel Méndez, descartó el hallazgo de sobrevivientes.\n\"Hasta el momento, desafortunadamente, no hemos rescatado a personas con vida\", dijo a la prensa. \"Si estamos y siempre vamos a estar esperanzados en que pueda aparecer, pero hasta el momento no\".\nMercedes López tiene un hijo desaparecido. Dijo a la AFP sentir \"angustia y mucho dolor\". \"No lo hemos encontrado en los listados ni tampoco en los hospitales\", señaló cuando acudía a la carpa en busca de información.\nLarissa Minier espera novedades de su hermano: \"Tenemos la esperanza de que Dios lo va a sacar de allí vivo\".\nUn primer extranjero fallecido fue confirmado: el jefe de la diplomacia de Estados Unidos, Marco Rubio, informó en X sobre la \"desafortunada muerte de al menos un ciudadano estadounidense\".\nLa autoridades habilitaron desde el martes bancos de sangre para recibir donaciones.\n- Voz del merengue -\nNo hay un balance oficial sobre el número de asistentes al concierto de Rubby Pérez, una de las voces más emblemáticas del merengue con éxitos como \"Volveré\", \"Enamorado de Ella\" o \"Buscando tus besos\".\nLa discoteca tiene capacidad para 700 personas en mesas y unas 1.000 de pie.\nMéndez dijo que el cuerpo del cantante fue recuperado en la madrugada.\nEl gobierno le rendirá homenaje en el Teatro Nacional el jueves.\nLa gobernadora de la provincia de Monte Cristi, Nelsy Cruz, también murió en el siniestro.\nTambién fallecieron los exbeisbolistas de Grandes Ligas Octavio Dotel y Tony Blanco.\nEs una de las mayores tragedias en este país. En 2023 murieron 38 personas en una explosión en San Cristóbal, a media hora en auto de Santo Domingo. Dos décadas antes, 136 presos de una cárcel en Higüey (este) fallecieron en un incendio.\nbur-jt/val/mbj/dga\nundefined",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "topics": [
+      "Crime, Law and Justice->investigation (criminal)",
+      "Crime, Law and Justice->homicide",
+      "Disaster and Accident->disaster",
+      "Disaster and Accident->structural failure",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "José Luis Frómeta Herasme",
+          "sentiment": "none"
+        },
+        {
+          "name": "Rubby Pérez",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Cuerpo de Bomberos del Distrito Nacional",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:24:35.024+03:00",
+    "updated": "2025-04-10T00:24:35.024+03:00"
+  },
+  {
+    "uuid": "bd4c10a88a7f2fbb13070b285df28427f8885f0c",
+    "url": "https://www.aberdeennews.com/story/sports/college/south-dakota-state-university/2024/01/07/south-dakota-state-football-takes-down-montana-wins-fcs-national-title-consecutive-ncaa-frisco-texas/72088965007/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jonathan Fernandez",
+    "published": "2024-01-07T22:07:00Z",
+    "title": "South Dakota State football takes down Montana, wins FCS national title",
+    "text": "South Dakota State football dominates Montana, wins second-straight FCS national title [Jonathan Fernandez](https://www.argusleader.com/staff/11823420002/jonathan-fernandez/) It wasn't pretty in the first half but when the dust settled, the South Dakota State football team won their 29th consecutive game and was standing on the podium for the second consecutive year after defeating Montana, 23-3, in the FCS national championship game. First-year head coach Jimmy Rogers was the first to hoist the trophy over his head as the sea of Jackrabbits fans that overtook the field cheered him on. \"That first one was just really, really sweet because it was the first one and we got to see the other team do it three years ago, be up on that stage where we weren't,\" quarterback Mark Gronowski said after the game. \"And all the guys that have put in so much work. As coach was saying earlier, we have so many six-year guys that gave so much to this program and to do it for them is probably the sweetest part of it.\" South Dakota State took an early 7-0 lead but never looked comfortable in the first half. Montana put together a strong first drive, carving up the typically smothering Jackrabbits defense, and was a yard away from scoring on fourth down before Adam Bock came up with the stop of the game right outside the end zone. \"Jason (Freeman) did a good job of setting that edge there, and I knew I had the next fit after that,\" Bock said of the game-changing play. \"I've been on too many of the wrong side of those. It was just huge to come up with that in a big-time game.\" A few plays later, Gronowski threw an uncharacteristic interception and Montana capitalized on great field position with a field goal. After that field goal, it became a defensive showdown with neither team able to score in the rest of the first half. The Jackrabbits' defense was largely stellar throughout the game, apart from that first Montana drive, but the offense finally started to get going in the second half. On the second drive of the third quarter, Gronowski drilled a 34-yard pass to Zach Heins to get SDSU in the red zone. Then Gronowski ran it in himself on the next play from 10 yards out, increasing the SDSU lead to 14-3. On their following possession, Gronowski completed a 23-yard touchdown pass to Jadon Janke to seemingly put the game out of reach. \"We just gave up too many explosives, too many big plays,\" Montana senior linebacker Braxton Hill said postgame. Gronowski was named the most outstanding player in the FCS national championship game for the second consecutive season. He completed 13 of his 21 passes for 175 yards and one touchdown. He was also the second-leading rusher with 62 yards and a score on eight carries. The SDSU defense continued to perform at the highest level, forcing a fumble on Montana's drive after the Janke score and the offense quickly added a field goal to give the Jackrabbits their largest lead of the game, 23-3. South Dakota State completely shut down the Grizzlies rushing attack. The Jackrabbits held Montana to only 61 rushing yards. Rogers said after the game that this was the best overall team in South Dakota State history and that he'd put this year's defense up against any other in FCS history. They allowed only 15 total points, 12 to Villanova and 3 to Montana, in their four-game championship run. That's unheard of. \"This is the best defense in FCS history,\" Rogers said. \"And I'm proud of that. (I'm) proud of this football team, proud to go back-to-back, proud to do it with these guys. I'm blessed to be head coach.\" This was the last game for many fixtures in the South Dakota State starting lineup such as Mason McCormick, Garret Greenfield, Jaxon and Jadon Janke among others. Rogers said what he'll miss most about this year and this team is the people. \"I coached a lot of these guys in the linebacker room, and we're going to be missing several of them (next year),\" Rogers said. \"That's probably the hardest thing for me is saying goodbye to people. (I'm) just glad we didn't let them down. We did what we said we would do.\" Jonathan Fernandez covers high school and college sports for the Argus Leader. Contact him at [jfernandez1@argusleader.com](mailto:jfernandez1@argusleader.com). Follow him on Twitter at [@JFERN31](https://twitter.com/JFERN31)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://twitter.com/JFERN31)",
+      "https://www.argusleader.com/staff/11823420002/jonathan-fernandez/)",
+      "https://argusleader.com/staff/11823420002/jonathan-fernandez/)",
+      "https://www.twitter.com/JFERN31)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jonathan fer",
+          "sentiment": "negative"
+        },
+        {
+          "name": "adam bock",
+          "sentiment": "none"
+        },
+        {
+          "name": "mark gronowski",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "south dakota state",
+          "sentiment": "negative"
+        },
+        {
+          "name": "fcs",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "montana",
+          "sentiment": "none"
+        },
+        {
+          "name": "south dakota state",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-08T01:43:45.369+02:00",
+    "updated": "2024-01-08T05:33:50.664+02:00"
+  }
+]

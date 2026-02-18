@@ -1,0 +1,449 @@
+[
+  {
+    "uuid": "be955de2079bbe4f3ee14ea672130dd1ec5a4429",
+    "url": "https://www.fudzilla.com/news/ai/61537-deepseek-s-r2-model-delayed",
+    "ord_in_thread": 0,
+    "author": "Nick Farrell",
+    "published": "2025-08-14T07:33:00Z",
+    "title": "DeepSeek's R2 model delayed",
+    "text": "The startup had been nudged by Beijing’s tech commissars to ditch Nvidia kit and embrace the Ascend processor when developing its R2 model. According to three insiders, the company gamely gave it a go after launching its R1 in January. It didn’t go well.\nPersistent technical hiccups meant training the model on Ascend was a non-starter. In the end, DeepSeek reverted to Nvidia silicon for training and stuck with Huawei’s gear for inference. That halfway house solution was only chosen after the Ascend effort faceplanted completely.\nOne source familiar with the mess said the training failures were the main reason the R2 launch was kicked past May, costing the company valuable time in an AI arms race where seconds matter.\nTraining, for the record, is the bit where an AI sucks up vast data sets like a digital hoover. Inference is when it tries to sound clever in response to user questions, which is what your average chatbot does when it’s not hallucinating.\nHuawei sent in the cavalry, dispatching engineers to DeepSeek’s office to try and get the Ascend-based model working. It didn’t help. Even with on-site support, DeepSeek still couldn’t get through a single successful training run.\nThe case lays bare what most people in the industry already know: China’s chip contenders still trail the US in areas that matter. Huawei and Cambricon may fly the red flag, but their silicon lags behind Nvidia’s kit in terms of software, speed and general reliability.\nThat’s despite Beijing ramping up pressure on domestic companies to stop handing wads of cash to Nvidia. The Financial Times reported that Chinese firms have now been told to justify any orders for Nvidia’s H20 chip, the last export-legal GPU it can flog to China.\nInsiders say Huawei’s Ascend chips are still prone to gremlins and dodgy interconnect speeds. The software isn’t up to scratch either. None of that is especially helpful if you're trying to train a next-gen large language model.\nDeepSeek is said to be working with Huawei to get Ascend working for inference at least. Internally, founder Liang Wenfeng has apparently made it known he’s less than thrilled with R2’s progress and wants more time to push for a stronger follow-up model to keep ahead in the AI race.\nAnother source said the launch was also delayed by a data-labelling bottleneck, though Chinese media reckons the model might still crawl out of the lab sometime soon.\nMeanwhile, competition is heating up. AI researcher Ritwik Gupta from the University of California, Berkeley, pointed out that Alibaba’s Qwen3 model nicked DeepSeek’s best ideas and made them work.\n“Models are commodities that can be easily swapped out,” Gupta said. He added that Ascend chips are still in the growing pains phase but might catch up later.\n“Just because we’re not seeing leading models trained on Huawei today doesn’t mean it won’t happen in the future. It’s a matter of time,” he said.\nNvidia, for its part, doesn’t appear too rattled. It recently cut a deal to hand over a slice of China revenue to the US government in order to keep selling H20 chips to the Middle Kingdom.\n“Developers will play a crucial role in building the winning AI ecosystem,” said Nvidia, while politely reminding Washington that throwing China to the wolves might not be the best look for American national security.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->biotechnology",
+      "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Ascend",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Huawei",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T11:17:11.342+03:00",
+    "updated": "2025-08-14T11:28:33.000+03:00"
+  },
+  {
+    "uuid": "a99d26c13fffa20d21fbc1522968b38c1a616496",
+    "url": "https://www.qatar-tribune.com/article/99986/sports/south-africa-crush-listless-india-to-win-opening-test-at-centurion",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Qatar Tribune",
+    "published": "2023-12-28T22:08:12Z",
+    "title": "South Africa crush listless India to win opening Test at Centurion - Read Qatar Tribune on the go for unrivalled news coverage",
+    "text": "Agencies\nVirat Kohli’s defiant 76 failed to save India from being thrashed by an innings and 32 runs by South Africa in the first Test at Centurion.\nIndia lost seven second-innings wickets in the evening session as they were bowled out for just 131 in 34.1 overs.\nKohli and Shubman Gill (26) were the only India batters into double figures as Nandre Burger (4-33) and Marco Jansen (3-36) did the damage.\nThe second and final Test starts on 3 January at Newlands in Cape Town.\nIndia captain Rohit Sharma said his side’s performance after a defeat inside three days was “not good enough” and they “failed” to “come together collectively”.\n“Guys have come here before, we understand what to expect from the conditions. Every individual has his own plan,” Rohit said.\n“Our batters were challenged at different times. We didn’t adapt well. We didn’t bat well both times which is why we stand here.” Earlier in the day, South Africa had posted a commanding 408 in response to India’s first-innings total of 245.\nDean Elgar, who announced he would retire from international cricket after the series against India, played freely to make a classy 185 while Jansen hit an unbeaten 84.\nIndia were 62-3 at tea with Kagiso Rabada, who took 5-59 in the first innings, capturing the key wicket of India skipper Rohit.\nHowever, the tourists lost seven wickets for just 59 runs in the evening session as South Africa’s seamers ran through their middle order.\nKohli made a determined 76 from 82 balls but he was last man out - caught brilliant by Rabada off Jansen - as extras third top-scored for India with eight runs.\nPlayer of the match Elgar said: “You need fast bowlers and a spinner, potentially, to take 20 wickets. You need guys firing.\n“Kagiso Rabada was amazing, and a guy like Nandre just came to the fore. It was a really great team performance.”\n Copy 29/12/2023 10",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "virat kohli",
+          "sentiment": "negative"
+        },
+        {
+          "name": "shubman gill",
+          "sentiment": "none"
+        },
+        {
+          "name": "rohit",
+          "sentiment": "none"
+        },
+        {
+          "name": "dean elgar",
+          "sentiment": "none"
+        },
+        {
+          "name": "kohli",
+          "sentiment": "none"
+        },
+        {
+          "name": "rohit sharma",
+          "sentiment": "none"
+        },
+        {
+          "name": "marco jansen",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "centurion - read qatar tribune",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "south africa",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "centurion",
+          "sentiment": "none"
+        },
+        {
+          "name": "cape town",
+          "sentiment": "none"
+        },
+        {
+          "name": "newlands",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:08:16.493+02:00",
+    "updated": "2023-12-29T00:08:16.493+02:00"
+  },
+  {
+    "uuid": "6133511bacff5f0023a719385446211f5478da5c",
+    "url": "https://skift.com/2024/09/13/boeing-production-crisis-deepens-as-workers-begin-strike",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gordon Smith",
+    "published": "2024-09-13T07:50:00Z",
+    "title": "Boeing Production Crisis Deepens as Workers Begin Strike",
+    "text": "Boeing’s already fragile airliner production chain is facing renewed jeopardy. Late on Thursday, workers overwhelmingly rejected a tentative deal agreed between union representatives and company management. More than 30,000 unionized staff in Washington and Oregon are now on strike.\nMembers of the International Association of Machinists and Aerospace Workers (IAM) turned down a package that included a 25% pay rise.\nThe affected sites produce some of Boeing’s most important planes including the 737 Max and the larger 777 widebody jet. Employees downed tools at midnight Pacific Time on Friday in the first strike of its kind in 16 years.\nPressure on Ortberg The strike is a huge blow to Boeing and comes just weeks after Kelly Ortberg was appointed its new CEO. In the days leading to the vote, Ortberg toured local production facilities and met with workers on the factory floor.\nAs part of a last-minute rallying call to staff, the CEO said: “I ask you not to sacrifice the opportunity to secure our future together, because of the frustrations of the past.”\nIn a video message to staff on Sunday, Stephanie Pope, President of Boeing Commercial Airplanes highlighted the benefits of the package: “The contract offer provides the largest-ever general wage increase, lower medical cost share to make healthcare more affordable, greater company contributions toward your retirement, and improvements for a better work-life balance.”\nPope also committed to building Boeing’s next-generation plane – often dubbed the ‘797’ – in the Pacific Northwest. The planemaker has another major production site in South Carolina, however this facility is non-unionized.\nIn a statement, the IAM described the “unwavering solidarity of our membership.” The union said it will “regroup and begin planning the next steps on securing an agreement that our membership can approve.”\nThe IAM said 94% of its members voted to reject the contract, with 96% voting for strike action.\nAnother Headache for Boeing The high-stakes labor dispute is the latest headache for the U.S. planemaker.\nBoeing’s reputation was seriously damaged by two deadly crashes involving the 737 Max in 2018 and 2019. A further accident in January 2024 saw a door plug on an Alaska Airlines 737 Max 9 plane blow-out in midair. While there were no casualties, it led to the temporary grounding of the type and renewed scrutiny of Boeing’s production oversight.\nIn June, the National Transportation Safety Board sanctioned Boeing after the company shared “non-public investigative information” with the media. The planemaker later acknowledged that some of its comments had “overstepped the NTSB’s role.”\nOrtberg and his team will likely have 2008 in their minds. This was the last time Boeing faced a major labor negotiation with the IAM.\nDrawn out negotiations resulted in a 57-day strike that crippled output and cost Boeing around tens of millions of dollars a day. In 2014, the two sides agreed to extend the deal, which expired at midnight.\nSkift has contacted Boeing for comment.\nAirlines Sector Stock Index Performance Year-to-Date What am I looking at? The performance of airline sector stocks within the ST200 . The index includes companies publicly traded across global markets including network carriers, low-cost carriers, and other related companies.\nThe Skift Travel 200 (ST200) combines the financial performance of nearly 200 travel companies worth more than a trillion dollars into a single number. See more airlines sector financial performance .\nRead the full methodology behind the Skift Travel 200.\nReach new heights in aviation November 12 in Dallas See Who's Onboard",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-13T11:59:24.910+03:00",
+    "updated": "2024-09-13T11:59:24.910+03:00"
+  },
+  {
+    "uuid": "deaad918939695fc4a3d575970e06eb38db3dcf0",
+    "url": "https://news.nestia.com/detail/Woman-Takes-In-A-Tiny-Shelter-Kitten-After-LA-Wildfires-%7C-The-Dodo/13223755",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "宠物志",
+    "published": "2025-01-23T22:01:00Z",
+    "title": "Woman Takes In A Tiny Shelter Kitten After LA Wildfires | The Dodo | Nestia",
+    "text": "Here's a very sweet way to help LA shelters right now 💛Keep up with @KittenLady and learn more about @SanDiegoHumane",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Environment",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Human Interest->human mishap",
+      "Environment->animal",
+      "Environment->sustainability",
+      "Lifestyle and Leisure->hobby",
+      "Lifestyle and Leisure->wellness",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:11:53.818+02:00",
+    "updated": "2025-01-24T00:11:53.818+02:00"
+  },
+  {
+    "uuid": "25be9688b2d096d80c3314e556ac3db758924bf5",
+    "url": "https://www.startribune.com/jessie-diggins-wins-second-international-tour-de-ski-title-nordic-cross-country-skiing-afton/600333061/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rachel Blount",
+    "published": "2024-01-07T21:37:00Z",
+    "title": "Afton's Jessie Diggins continues to make history with second Tour de Ski title",
+    "text": "Jessie Diggins won the women's overall title at the Tour de Ski, finishing in sixth place in Sunday's final stage to wrap up the championship in the multi-stage cross-country skiing event.\nIt was the second Tour de Ski title for the Afton native, who is the only American ever to capture the overall crown. Diggins won by 31.6 seconds over Heidi Weng of Norway, with Finland's Kerttu Niskanen third. The Tour de Ski spanned seven stages over nine days in Italy and Switzerland.\nSunday's race in Val di Fiemme, Italy was a 10k freestyle that ended with a grinding ascent up Alpe Cermis, one of the toughest courses in cross-country skiing. Diggins started the day with a 43-second lead for the overall title.\nThough she was dealing with hip pain from a fall Thursday, she remained within the top eight throughout Sunday's race, moving up to third at the 7.5k mark. Diggins struggled a bit on the final 495-meter climb up an Alpine ski slope, but her time was fast enough to hold off her challengers for the overall championship.\nDiggins' American teammate Sophia Laukli won Sunday's race in 38 minutes, 16.5 seconds, earning her first World Cup victory. Diggins' time was 39:05.\n\"It was really painful,\" Diggins told FIS-ski.com. \"I'm excited for some time to rest.\"\nDuring the seven stages of the Tour de Ski, Diggins reached the podium four times, showcasing her versatility. She won a 20k freestyle pursuit and added third-place finishes in a 10k classic, a freestyle sprint and a 20k classic pursuit.\nShe leads the World Cup overall standings with 1,402 points, 308 more than second-place Linn Svahn of Sweden. Diggins has three World Cup victories this season, tying her career best, and her eight podium finishes also equal her career high.\nNext month, Diggins is expected to return to Minnesota for the World Cup races at Wirth Park in Minneapolis. The Feb. 17-18 event, the first World Cup in the United States since 2001, includes a freestyle sprint and a 10k freestyle for men and women.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "afton",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jessie diggins",
+          "sentiment": "negative"
+        },
+        {
+          "name": "sophia laukli",
+          "sentiment": "none"
+        },
+        {
+          "name": "kerttu niskanen",
+          "sentiment": "none"
+        },
+        {
+          "name": "diggins",
+          "sentiment": "none"
+        },
+        {
+          "name": "heidi weng",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "norway",
+          "sentiment": "none"
+        },
+        {
+          "name": "finland",
+          "sentiment": "none"
+        },
+        {
+          "name": "italy",
+          "sentiment": "none"
+        },
+        {
+          "name": "val di fiemme",
+          "sentiment": "none"
+        },
+        {
+          "name": "switzerland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-08T00:47:02.162+02:00",
+    "updated": "2024-01-08T00:47:02.162+02:00"
+  },
+  {
+    "uuid": "bf90b99d2da01be94d8e7c817ef14c4a4bd0d628",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfsp/2025-08-14/doc-infkxuai3811722.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-08-14T07:05:00Z",
+    "title": "中证A500指数ETF（563880）跌0.37%，成交额2.22亿元|ETF_新浪财经_新浪网",
+    "text": "8月14日，汇添富中证A500ETF（563880）收盘跌0.37%，成交额2.22亿元。\n中证A500指数 ETF（563880）成立于2024年11月18日，基金全称为汇添富中证A500交易型开放式指数证券投资基金，基金简称为汇添富中证A500ETF。该基金管理费率每年0.15%，托管费率每年0.05%。中证A500指数ETF（563880）业绩比较基准为中证A500指数收益率。\n规模方面，截止8月13日，中证A500指数ETF（563880）最新份额为40.40亿份，最新规模为43.48亿元。回顾2024年12月31日，中证A500指数ETF（563880）份额为92.90亿份，规模为91.52亿元。即该基金今年以来份额减少56.51%，规模减少52.49%。\n流动性方面，截止8月14日，中证A500指数ETF（563880）近20个交易日累计成交金额55.27亿元，日均成交金额2.76亿元。\n中证A500指数ETF（563880）现任基金经理为孙浩。孙浩自2024年11月18日管理（或拟管理）该基金，任职期内收益7.60%。\n最新定期报告显示，中证A500指数ETF（563880）重仓股包括 贵州茅台 、 宁德时代 、 中国平安 、 招商银行 、 兴业银行 、 长江电力 、 美的集团 、 紫金矿业 、 比亚迪 、 东方财富 ，持仓占比如下。 股票代码 股票名称 持仓占比 持仓股数（股） 持仓市值（元） 600519 贵州茅台 3.86% 15.79万 2.23亿 300750 宁德时代 2.89% 66.24万 1.67亿 601318 中国平安 2.60% 270.08万 1.50亿 600036 招商银行 2.47% 310.59万 1.43亿 601166 兴业银行 1.69% 417.11万 9735.35万 600900 长江电力 1.60% 307.02万 9253.58万 000333 美的集团 1.54% 123.37万 8907.13万 601899 紫金矿业 1.40% 413.41万 8061.49万 002594 比亚迪 1.31% 22.70万 7534.36万 300059 东方财富 1.27% 317.35万 7340.31万\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->economy",
+      "Social Issue->social condition",
+      "Social Issue->demographics",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->biotechnology",
+      "Science and Technology->economics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T10:14:14.635+03:00",
+    "updated": "2025-08-14T10:18:04.000+03:00"
+  },
+  {
+    "uuid": "8c6db9d04f7b398bdf13b23824dff7dccadfa62f",
+    "url": "https://flipboard.com/topic/student/this-professor-studies-dictatorships-he-helped-convince-harvard-to-stand-up-to-/a-HwJgUhrwQEyDNhPaI6r6sA%3Aa%3A460011909-130e243471%2Flatimes.com",
+    "ord_in_thread": 0,
+    "author": "Los Angeles Times - Kate Linthicum",
+    "published": "2025-04-16T21:06:00Z",
+    "title": "This professor studies dictatorships. He helped convince Harvard to stand up to Trump | Flipboard",
+    "text": "This professor studies dictatorships. He helped convince Harvard to stand up to Trump CAMBRIDGE, Mass. — In the days after Donald Trump’s reelection as president, Harvard political scientist Steven Levitsky was despondent. “I was in the fetal position,” he said. “I just wanted to put on sweat pants, eat ice cream and watch hockey.” Levitsky had spent two decades studying authoritarian …\nLos Angeles Times - Kate Linthicum • 1h",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Education",
+      "Social Issue"
+    ],
+    "topics": [
+      "Politics->political candidates",
+      "Politics->political process",
+      "Education->teachers",
+      "Education->college and university",
+      "Social Issue->social services",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T01:11:47.472+03:00",
+    "updated": "2025-04-17T01:11:47.472+03:00"
+  }
+]

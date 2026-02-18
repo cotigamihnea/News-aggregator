@@ -1,0 +1,513 @@
+[
+  {
+    "uuid": "ee8cf3d8eafa2a759c06236bc71a7e3d550bf423",
+    "url": "https://bvmsports.com/2025/01/16/iconic-moment-in-new-york-jets-history-was-14-years-ago-today",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nick Wojton",
+    "published": "2025-01-16T21:42:00Z",
+    "title": "Iconic moment in New York Jets history was 14 years ago today",
+    "text": "Iconic moment in New York Jets history was 14 years ago today\nIt has somehow been 14 years since this gem of a moment in recent New York Jets history. After reaching the AFC Championship the year prior, no one was believing the Jets would do it in back-to-back fashion. The 14-2 New England Patriots were on the docket, who beat the Jets 45-3 just a few weeks prior in December. This all created the perfect storm for Bart Scott. The former linebacker said… screamed, “Can’t wait!” at ESPN’s field reporter Sal Paolantonio as the Jets upset the Patriots, 28-21. Scott was so pumped up about it, he produced an iconic moment....\nRead more at Jets Wire",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Sport->sports honour",
+      "Sport->sport achievement",
+      "Sport->american football",
+      "Human Interest->anniversary"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://jetswire.usatoday.com/2025/01/16/iconic-moment-new-york-jets-history-14-years-ago-bart-scott-cant-wait-nfl/",
+      "https://jetswire.usatoday.com/2025/01/16/iconic-moment-new-york-jets-history-14-years-ago-bart-scott-cant-wait-nfl",
+      "https://www.jetswire.usatoday.com/2025/01/16/iconic-moment-new-york-jets-history-14-years-ago-bart-scott-cant-wait-nfl/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Sal Paolantonio",
+          "sentiment": "none"
+        },
+        {
+          "name": "Bart Scott",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ESPN",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:28:22.960+02:00",
+    "updated": "2025-01-17T00:28:22.960+02:00"
+  },
+  {
+    "uuid": "2919c5e8724b2073bf5f083f740a21039b400930",
+    "url": "https://hackernoon.com/maximizing-business-value-with-strategic-multi-cloud-connectivity",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dipti",
+    "published": "2024-04-11T00:00:00Z",
+    "title": "Maximizing Business Value with Strategic Multi-cloud Connectivity. | HackerNoon",
+    "text": "In 2022, Fortune 500 companies in North America unlocked a business value of $1 trillion by adopting cloud technologies. 86% of these organizations utilized multiple cloud providers for their operations. With a Total Addressable Market (TAM) of $8.6 billion in 2023, the multi-cloud market size is projected to expand to $50 billion (28.6% CAGR) by 2030. Multi-cloud is becoming increasingly popular among large enterprises and Managed Service Providers (MSPs). It enables organizations to optimize costs, bolster regulatory compliance, improve the performance of cloud applications, and speed up innovation. Organizations can leverage the best features and pricing of different cloud providers to increase flexibility and reduce costs. By selecting technologies that are widely supported across providers, they can develop vendor-neutral applications. By adhering to security best practices and selecting suitable deployment regions, organizations can strengthen regulatory compliance, enhance resilience, and reduce the latency of their applications. Finally, by lowering technological, cost, and security barriers, organizations can accelerate engineering innovation. If you are a network engineer, cloud architect, or business leader devising a multi-cloud strategy for your organization, this article introduces you to high-level options to interconnect your multi-cloud. Interconnecting cloud deployments is complicated. Multi-cloud environments typically involve a mix of public and hybrid clouds customized to an organization's particular needs and goals. Achieving low latency, high performance, and cost-effective connectivity between applications, databases, and clients across different clouds can be a considerable challenge. What complexity arises, you ask? Consider a scenario where a database is hosted on one cloud platform while a streaming application operates on another. The challenge is establishing a reliable, secure connection between the database and the application servers without any data loss. Each public cloud offers unique networking capabilities and topologies, which complicates centralized management and orchestration. Cloud providers lack standardized models for inter-cloud connectivity, possibly to discourage customers from using multiple providers, as improved connectivity might reduce customer loyalty. Nevertheless, methods do exist to facilitate interconnection between different clouds. There are multiple ways to interconnect cloud environments. You can use your enterprise’s data center as a hub. An enterprise's data center functions as a hub routing traffic between public clouds or forwarding traffic from on-prem to the cloud. You have two options. Use a VPN tunnel between the cloud endpoints and the data center to send traffic over the internet securely. Alternatively, you can use dedicated connections- like AWS Direct Connect, Azure ExpressRoute, or GCP Dedicated Interconnect- between the cloud and the enterprise’s data center. Since colocation providers -such as Equinix, Digital Reality, and CoreSite interconnect the cloud to the Enterprise’s on-prem DC through their data centers, the process for creating these connections is time-consuming and expensive. Use a carrier-managed MPLS circuit for multi-cloud and hybrid-cloud connectivity. Public cloud providers like AWS, GCP, and Azure partner with internet service providers (ISPs) like Verizon, AT\\u0026T, and Orange to provide MPLS connectivity, allowing enterprises to link their cloud environments through these carriers. While specific steps vary between cloud providers, the process consists of two parts. First, enterprises create a dedicated connection to a colocation provider like EQUNIX. Next, they peer the connection with the partner's customer edge route using eBGP. After peering with eBGP, the inter-cloud traffic flows over the partner’s MPLS circuit. Use a virtual cloud router. Network as a Service Provider (NaaS) provides connectivity between clouds and the on-prem DC. They abstract the underlying Public cloud provider-specific connectivity features, making the orchestration, management, and monitoring of connections seamless. An enterprise creates a virtual router using the NaaS provider’s console and adds its dedicated cloud connections and datacenter gateway to the virtual router. This allows the router to route traffic between clouds and the enterprise’s data center. Which connectivity option should you choose? Each option has its advantages and disadvantages. Internet connectivity to the cloud is most practical for low-bandwidth scenarios. For legacy cloud applications that don't demand high availability, VPN tunnels are a sensible choice. They are simple to manage and cost-effective. Private connectivity is often essential for business-critical applications. The enhanced security, network performance, and reliability justify the additional expense for systems like your internal ERP or CRM, which require secure private access for compliance purposes. MPLS circuits, known for their reliability and predictability, are generally reserved for mission-critical applications. However, due to their costly and inflexible nature, marked by long-term contracts and extensive setup and removal periods, private connectivity offers a more flexible alternative. NaaS providers provide pricing flexibility via Pay-Per-User rates and are easy to manage. If you are considering reaping the many benefits of a multi-cloud strategy, choose the connectivity model appropriate for your business objectives. Links to blogs used for research: Insights from CTOs on cloud strategies | McKinseyMulti-Cloud\\nManagement Market Size, Share | Report [2030] (fortunebusinessinsights.com) aws-network-connectivity-over-mpls.pdf (awsstatic.com) Who is selling NaaS, and what do you get? | Network World Multicloud Connectivity: A Complete Guide | Megaport Disclaimer: I am not affiliated with any of the businesses mentioned in this blog, nor do I represent them. The blog is written to educate the audience about the benefits of multi-cloud and networking options. It does not promote any specific company or vendor. In 2022, Fortune 500 companies in North America unlocked a business value of $1 trillion by adopting cloud technologies. 86% of these organizations utilized multiple cloud providers for their operations. With a Total Addressable Market (TAM) of $8.6 billion in 2023 , the multi-cloud market size is projected to expand to $50 billion (28.6% CAGR) by 2030. Multi-cloud is becoming increasingly popular among large enterprises and Managed Service Providers (MSPs). It enables organizations to optimize costs, bolster regulatory compliance, improve the performance of cloud applications, and speed up innovation. Organizations can leverage the best features and pricing of different cloud providers to increase flexibility and reduce costs. By selecting technologies that are widely supported across providers, they can develop vendor-neutral applications. By adhering to security best practices and selecting suitable deployment regions, organizations can strengthen regulatory compliance, enhance resilience, and reduce the latency of their applications. Finally, by lowering technological, cost, and security barriers, organizations can accelerate engineering innovation. Total Addressable Market (TAM) of $8.6 billion in 2023 If you are a network engineer, cloud architect, or business leader devising a multi-cloud strategy for your organization, this article introduces you to high-level options to interconnect your multi-cloud. Interconnecting cloud deployments is complicated. Multi-cloud environments typically involve a mix of public and hybrid clouds customized to an organization's particular needs and goals. Achieving low latency, high performance, and cost-effective connectivity between applications, databases, and clients across different clouds can be a considerable challenge. What complexity arises, you ask? Consider a scenario where a database is hosted on one cloud platform while a streaming application operates on another. The challenge is establishing a reliable, secure connection between the database and the application servers without any data loss. Each public cloud offers unique networking capabilities and topologies, which complicates centralized management and orchestration. Cloud providers lack standardized models for inter-cloud connectivity, possibly to discourage customers from using multiple providers, as improved connectivity might reduce customer loyalty. Nevertheless, methods do exist to facilitate interconnection between different clouds. There are multiple ways to interconnect cloud environments. You can use your enterprise’s data center as a hub. An enterprise's data center functions as a hub routing traffic between public clouds or forwarding traffic from on-prem to the cloud. You have two options. You can use your enterprise’s data center as a hub. Use a VPN tunnel between the cloud endpoints and the data center to send traffic over the internet securely. Alternatively, you can use dedicated connections- like AWS Direct Connect, Azure ExpressRoute, or GCP Dedicated Interconnect- between the cloud and the enterprise’s data center. Since colocation providers -such as Equinix, Digital Reality, and CoreSite interconnect the cloud to the Enterprise’s on-prem DC through their data centers, the process for creating these connections is time-consuming and expensive. Use a carrier-managed MPLS circuit for multi-cloud and hybrid-cloud connectivity. Public cloud providers like AWS, GCP, and Azure partner with internet service providers (ISPs) like Verizon, AT\\u0026T, and Orange to provide MPLS connectivity, allowing enterprises to link their cloud environments through these carriers. While specific steps vary between cloud providers, the process consists of two parts. First, enterprises create a dedicated connection to a colocation provider like EQUNIX. Next, they peer the connection with the partner's customer edge route using eBGP. After peering with eBGP, the inter-cloud traffic flows over the partner’s MPLS circuit. Use a carrier-managed MPLS circuit for multi-cloud and hybrid-cloud connectivity. Use a virtual cloud router. Network as a Service Provider (NaaS) provides connectivity between clouds and the on-prem DC. They abstract the underlying Public cloud provider-specific connectivity features, making the orchestration, management, and monitoring of connections seamless. An enterprise creates a virtual router using the NaaS provider’s console and adds its dedicated cloud connections and datacenter gateway to the virtual router. This allows the router to route traffic between clouds and the enterprise’s data center. Use a virtual cloud router. Which connectivity option should you choose? Each option has its advantages and disadvantages. Internet connectivity to the cloud is most practical for low-bandwidth scenarios. For legacy cloud applications that don't demand high availability, VPN tunnels are a sensible choice. They are simple to manage and cost-effective. Private connectivity is often essential for business-critical applications. The enhanced security, network performance, and reliability justify the additional expense for systems like your internal ERP or CRM, which require secure private access for compliance purposes. MPLS circuits, known for their reliability and predictability, are generally reserved for mission-critical applications. However, due to their costly and inflexible nature, marked by long-term contracts and extensive setup and removal periods, private connectivity offers a more flexible alternative. NaaS providers provide pricing flexibility via Pay-Per-User rates and are easy to manage. If you are considering reaping the many benefits of a multi-cloud strategy, choose the connectivity model appropriate for your business objectives. Links to blogs used for research: Insights from CTOs on cloud strategies | McKinsey Multi-Cloud\\nManagement Market Size, Share | Report [2030] (fortunebusinessinsights.com) Insights from CTOs on cloud strategies | McKinsey Multi-Cloud\\nManagement Market Size, Share | Report [2030] (fortunebusinessinsights.com) aws-network-connectivity-over-mpls.pdf (awsstatic.com) aws-network-connectivity-over-mpls.pdf (awsstatic.com) Who is selling NaaS, and what do you get? | Network World Who is selling NaaS, and what do you get? | Network World Multicloud Connectivity: A Complete Guide | Megaport Multicloud Connectivity: A Complete Guide | Megaport Disclaimer: I am not affiliated with any of the businesses mentioned in this blog, nor do I represent them. The blog is written to educate the audience about the benefits of multi-cloud and networking options. It does not promote any specific company or vendor.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "north america",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-12T00:02:32.333+03:00",
+    "updated": "2024-04-12T00:20:12.226+03:00"
+  },
+  {
+    "uuid": "cd71763efed45b81f87cc41e8b735af772434312",
+    "url": "https://www.columbiatribune.com/story/sports/college/tiger-extra/2025/01/16/missouri-football-tabs-miami-derek-nicholson-as-next-linebackers-coach/77655471007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", Columbia Daily Tribune",
+    "published": "2025-01-16T21:37:00Z",
+    "title": "Missouri football tabs Miami LBs, co-DC Derek Nicholson as next linebackers coach | Report",
+    "text": "Mizzou’s staff is reportedly whole again. Missouri football is expected to hire Miami’s Derek Nicholson as its next linebackers coach, per a report Thursday morning from ESPN’s Pete Thamel. Nicholson had been the linebackers coach for the Hurricanes since 2023 and added the title of co-defensive coordinator in 2024.Nicholson will fill the open position vacated by D.J. Smith, who took the defensive coordinator position with Appalachian State on Dec. 30. Smith was with Mizzou for five seasons and is the only assistant coach who has been hired away from the program so far this offseason.That means, with Nicholson coming on board, Mizzou will again have filled its assistant coaching staff.Nicholson, a Winston Salem, North Carolina native, was hired by Miami in 2023. He is a Florida State alum, playing for the Seminoles from 2006-09 before being signed as an undrafted free agent by the Atlanta Falcons.\nHis stay in the league was short because of a career-ending knee injury, and he got into coaching at Oak Ridge Military Academy in his home state of North Carolina. Since then, Nicholson has spent one season as the linebackers coach at Akron, one season as the defensive line coach at Alcorn State, four seasons at Southern Mississippi, two as the defensive line coach and two as the linebackers coach and co-defensive coordinator, and three seasons at Louisville on Scott Satterfield’s staff as the inside linebackers coach.Miami recently hired a new defensive coordinator in Minnesota’s Corey Hetherman, who also coached linebackers while with the Golden Gophers.\nMizzou will have some significant turnover at the linebacker position in 2025, with at least two of the Tigers ’ core four-player rotation moving on due to eligibility after last season.\nChuck Hicks and Corey Flagg Jr. both graduated from the program, and Missouri is still waiting on a decision to return from Triston Newson, who previously was expected to run out of eligibility but can now play another year due to a recent waiver from the NCAA for former junior college players, which Newson once was.\nKhalil Jacobs is eligible to return after sustaining a season-ending injury midway through the 2024 season, as are freshmen Nicholas Rodriguez, Jeremiah Beasley and Brian Huff.Mizzou has signed two linebackers out of the transfer portal, with West Virginia’s Josiah Trotter and Nebraska’s Mikai Gbayor signed to join the roster. Missouri added two linebackers in it Class of 2025, four-star Dante McClellan and three-star Jason King. Both players are expected to enroll early and be on campus in the spring.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->sport organisation",
+      "Sport->american football",
+      "Sport->sports coaching",
+      "Lifestyle and Leisure->club and association",
+      "Lifestyle and Leisure->game"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.courier-journal.com/story/sports/college/louisville/2020/05/15/louisville-football-derrick-nicholsons-find-joy-early-adversity/3041117001/",
+      "https://sportsdata.usatoday.com/football/ncaaf/teams/missouri-tigers/3428/",
+      "https://sportsdata.usatoday.com/football/ncaaf/teams/missouri-tigers/3428",
+      "https://www.courier-journal.com/story/sports/college/louisville/2020/05/15/louisville-football-derrick-nicholsons-find-joy-early-adversity/3041117001",
+      "https://www.sportsdata.usatoday.com/football/ncaaf/teams/missouri-tigers/3428/",
+      "https://courier-journal.com/story/sports/college/louisville/2020/05/15/louisville-football-derrick-nicholsons-find-joy-early-adversity/3041117001/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Derek Nicholson",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Pete Thamel",
+          "sentiment": "none"
+        },
+        {
+          "name": "D.J. Smith",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Appalachian State",
+          "sentiment": "none"
+        },
+        {
+          "name": "Atlanta Falcons",
+          "sentiment": "none"
+        },
+        {
+          "name": "Mizzou",
+          "sentiment": "none"
+        },
+        {
+          "name": "ESPN",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:24:36.546+02:00",
+    "updated": "2025-01-17T01:50:33.345+02:00"
+  },
+  {
+    "uuid": "d31f815a282776c4c32baa4ebf4146efa9e1c14f",
+    "url": "https://fitsmallbusiness.com/dialpad-vs-zoom/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sam Dadofalza",
+    "published": "2023-12-28T19:20:00Z",
+    "title": "Dialpad vs Zoom: Which Is Better for Small Business?",
+    "text": "Our Dialpad vs Zoom comparison shows that Zoom is superior to Dialpad, as it offers more affordable subscription plans, powerful call management and artificial intelligence (AI) tools, and seamless connectivity with third-party apps. Dialpad, on the other hand, is an excellent choice if you need various business phone numbers. Upon completing our evaluation, we concluded that the best use cases for Dialpad vs Zoom are as follows:\nZoom: Better for streamlining unified communications Dialpad: Better for establishing a strong locational presence\nIf you want to focus more on handling phone calls, go for a voice-over-internet-protocol (VoIP) system with extensive call management tools. One with a centralized interface for accepting incoming calls and managing extensions’ presence.\nRingCentral: Best for efficient call management\nDialpad vs Zoom Compared\nMonthly Pricing\n$23 per user**\n$15.99 per user*\nFree Trial\n14 days\n✕\nFree Plan\n✕\n✓\nUnlimited Domestic Calling\n✓\n✓\nMulti-level\nAuto-attendant\n✓\n✓\nCall Analytics\nPowered by AI\nQueue analytics requires an extra fee (Zoom Power Pack)\nShort Messaging Service (SMS)\nIncludes international SMS\n✓\nUptime Guarantee\n100%\n99.999%\nSecurity Certifications\nLearn More\nFor More Information\n*Save up to 21% with annual billing.\n**Pay $15 only when you choose annual billing.\nBest Alternatives\nDialpad and Zoom are excellent\nunified communications solutions, but their limitations may be deal breakers for some businesses. If you’re looking for a platform with an extensive set of call management tools, a built-in customer relationship management (CRM) system, or affordable international calling plans, consider these Zoom and Dialpad alternatives: RingCentral: This popular business phone system is the best option for those handling large volumes of calls, given its robust call management features. Aside from the essential VoIP capabilities like call forwarding, call screening, and extensions, it features a Heads-up Display (HUD) that allows you to see active calls, take incoming calls on behalf of team members, and check user extensions’ statuses. Subscribe to RingCentral for only $30 per user monthly. Nextiva: If you want to streamline CRM activities like lead generation and nurturing, this is the ideal solution, as it has a built-in CRM tool that lets you customize sales pipelines. Sales agents track deals more easily and adjust strategies for pushing leads to the closing stage more effectively. The monthly subscription to Nextiva costs $30.95 per user. 8×8: This is the most suitable VoIP platform if you want to maintain communications with a global audience. 8×8 supports unlimited international calling to 48 countries, including Australia, China, Germany, Japan, Mexico, and Russia. Contact the provider to know their exact subscription rates.\nBest for Pricing: Zoom\nPlans are paid monthly; save 21% with annual billing. When you subscribe to Business Plus, you can mix types of plans in an account.\nPlans are paid monthly. Pay $15 and $25 per user for the Standard and Pro plans when you choose annual billing.\nIn the pricing battle between Zoom vs Dialpad, Zoom wins as it offers more affordable, flexible subscription plans. Its base-level package is $15.99 per user, while Dialpad starts at $23 per user. It can be argued that Zoom’s entry-level subscription doesn’t include business phone features, and companies must upgrade to Business Plus, which costs $25 per user to unlock the call management features.\nHowever, the difference between Zoom’s Business Plus and Dialpad’s Standard plans is minimal: $25 per user vs $23 per user monthly. Moreover, the Business Plus package offers the flexibility of mixing different types of plans in an account. If there are team members who won’t need VoIP features, you have the option to settle with lower-tier packages for specific users and enjoy cheaper rates.\nOn top of this, when you choose annual billing, you’ll secure $50 savings per user yearly with Business Plus. Similarly, Dialpad offers annual billing discounts. The monthly base-level subscription lowers to $15 per user (from $23) and the second-tier plan drops to $25 per user (from $35).\nBest for Virtual Phone Numbers: Dialpad\nEvaluating the virtual numbers offered by both solutions, we saw that Dialpad has a slightly better advantage than Zoom, given the types of numbers provided and country coverage. Dialpad offers local, toll-free, and vanity numbers, with one local number per user included in all subscription plans. It has local numbers in about 70 countries, including Germany, Mexico, Australia, the United Kingdom, and France.\nDialpad’s extension numbering has a maximum length of five digits. If you plan to keep your existing phone numbers, the provider offers number porting free of charge.\nSimilarly, Zoom offers local, toll-free, and vanity numbers. However, the vanity numbers are limited to toll-free, not local. Its country coverage for international numbers only includes 49 locations. But the extension numbering features a maximum length of six digits. It’s unclear whether or not Zoom charges for its number porting process.\nZoom alternatives. We have recommendations for different use cases, including streamlined project management, excellent audio and video quality, and large-scale meetings.\nBest for Call Management: Zoom\nTo settle the Zoom vs Dialpad debate on call management, we listed their shared and unique features, favoring the one with valuable capabilities for handling different volumes of inbound calls. We found that Zoom is superior to Dialpad for call management because it offers the options of metered and unlimited outbound calling and the ability to monitor and elevate conversations to a meeting.\nGiven Zoom’s metered and unlimited calling, businesses effectively manage communication costs depending on the present customer service demand. It features various call monitoring tools, such as whisper, barge, and takeover, enabling managers to evaluate agent performance in real time and provide coaching, if necessary. At the same time, moving a phone call to a meeting is useful for providing detailed, visual assistance for customer support.\nDialpad has unique call management features, which are hunt groups and unlimited ring groups. With a ring group, multiple team members’ phone numbers will simultaneously ring when an incoming call comes through, keeping you from missing any important calls. Hunt groups, on the other hand, locate the most equipped agent to handle a specific concern.\nWhile Zoom offers call monitoring tools in its unified communications subscription packages, Dialpad’s call monitoring tools are locked behind its contact center plans, which start at $80 per user monthly.\nBest for Artificial Intelligence: Zoom\nZoom bested Dialpad in the area of AI as it offers a broader range of tools that are beneficial for making different communications in various channels easier. The AI Companion for video meetings features meeting intent detection. When team members mention specific phrases in chats alluding to a future meeting, Zoom automatically displays a scheduling button. Similarly, it suggests and curates whiteboard ideas to help you kick-start brainstorming sessions.\nAfter the session, Zoom sends a meeting summary, detailing the key points of the discussion. The smart recordings are divided into smart chapters, so referring to certain information and listing action steps becomes faster and easier. On top of the AI tools for meetings, the provider has intelligent features for instant messaging and emails. Essentially, it offers reply recommendations.\nIf you plan to use AI for phone calls only, Dialpad is the better option. While Zoom is still working on AI applications for recorded calls, Dialpad already offers real-time call transcriptions and post-call summaries. The call summary includes a searchable transcript and Key Moments, which outline action items, sentiment analysis, and call purpose categories. Use this information to adjust communication strategies and agent training.\nBest for Video Communications: Zoom\nOn the aspect of video communications, Zoom had more robust features than Dialpad. For one, Zoom accommodates up to 1,000 attendees (Enterprise Plus plan) and 30 hours of duration in one meeting. Dialpad only allows a maximum of 10 participants and five hours of duration. Additionally, Zoom’s in-meeting collaboration tools are more extensive than Dialpad’s.\nWhile both share virtual backgrounds, chat, screen sharing, and reactions, Zoom takes its offering up a notch with spotlight and pin participants, co-host and alternate host, and meeting scheduler assignments. It allows users to launch polls and quizzes to increase engagement among attendees. Users have the option to enable the “original sound for musicians” feature to activate professional audio settings.\nDialpad’s unique video meeting features include the countdown timer and social profiles. The countdown timer tells participants how much time is left before the supposed end time of the session. Social profiles display an attendee’s company affiliation, email address, and CRM information.\nBest for Third-party Integrations: Zoom\nZoom is the clear winner for connectivity with external apps because it works with over 2,000 solutions. Regardless of the subscription package you choose, you have access to these third-party integrations. Some popular apps included in Zoom’s marketplace are Google Workspace, Slack, Microsoft Teams, Asana, and monday.com. Lead management becomes easier as Zoom links to Salesforce, HubSpot, Pipedrive, Zoho CRM, and other CRM tools.\nOn top of the extensive range of apps, Zoom emerged as the winner in this round because when you choose the paid plans, you get access to premium Zoom apps for an entire year without extra charge. These include the game-based learning platform Kahoot, collaborative solution Coda, and Prezi Video.\nIn contrast, Dialpad only works with over 60 third-party business tools. You must upgrade to the higher-tier plans to unlock more integrations. The single sign-on solutions, for instance, are locked behind the most expensive plan, which comes with custom pricing.\nHow We Evaluated Dialpad vs Zoom\nTo objectively compare the software solutions, we listed criteria points representing small business priorities when selecting a unified communications solution. These include affordability, functionality, and user-friendliness. Here’s a complete breakdown of these factors:\n- Pricing: To determine how accessible the pricing point is, we evaluated the cost of entry-level plans. We considered if the provider offers discounts for annual billing and volume users. We looked at the availability of a free plan and the free trial duration.\n- General Features: The essential VoIP tools we included in our evaluation were unlimited domestic calling, multi-level auto-attendant, call recording, and call analytics. We checked the provider’s uptime guarantee.\n- Ease of Use: For this category, we measured ease of use by looking into how intuitive the interface is. We determined how easy it is for users to manage phone calls, message team members, and launch video meetings.\n- Expert Score: Our expert score includes an assessment of the provider’s value for money, standout features, and level of popularity. We studied third-party review websites to know how real-world users perceive the software solutions.\nFrequently Asked Questions (FAQs)\nYes, there’s a dial pad in Zoom that users will see when they click the Phone tab from the platform’s main menu. Above the actual number pad, you’ll find an input field for entering a name or a phone number. A drop-down menu of contacts will appear if the text you type matches a record in your database.\nYes, Dialpad is better than Google Voice for streamlining call management with the help of AI tools. However, Google Voice is more suitable if you already use products from the Google Workspace suite, like Gmail and Google Meet, as the phone solution seamlessly integrates with such apps.\nYes, Dialpad is safe to use as it offers in-transit and at-rest encryption, allowing administrators to control access to specific features at a company, office, department, or user level. Moreover, it integrates with single sign-on solutions like Okta, Azure, and OneLogin. Dialpad compiles with HIPAA, SOC2 Type II, and GDPR standards.\nBottom Line\nIn our assessment of Dialpad vs Zoom, Zoom emerged as the clear winner for being the better solution in five out of six categories: pricing, call management, AI, messaging and video, and third-party integrations. In summary, it’s suitable for budget-conscious companies looking to make customer and team communications more efficient.\nOn the other hand, Dialpad is an excellent option for establishing a strong local, national, and international presence because of its various virtual phone number offerings and wide country coverage. Sign up for Zoom’s free plan or Dialpad’s 14-day free trial to know which solution fits your business requirements best.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://go.performi.com/goto/zoom-dialpad-vs-zoom?p=dialpad-vs-zoom",
+      "https://go.performi.com/goto/ringcentral-dialpad-vs-zoom?p=dialpad-vs-zoom",
+      "https://go.performi.com/goto/8x8?p=dialpad-vs-zoom",
+      "https://go.performi.com/goto/dialpad?p=dialpad-vs-zoom",
+      "https://go.performi.com/goto/nextiva-dialpad-vs-zoom?p=dialpad-vs-zoom",
+      "https://go.performi.com/goto/zoom-dialpad-vs-zoom",
+      "https://go.performi.com/goto/nextiva-dialpad-vs-zoom",
+      "https://go.performi.com/goto/dialpad",
+      "https://www.go.performi.com/goto/ringcentral-dialpad-vs-zoom?p=dialpad-vs-zoom",
+      "https://www.go.performi.com/goto/dialpad?p=dialpad-vs-zoom",
+      "https://www.go.performi.com/goto/8x8?p=dialpad-vs-zoom",
+      "https://go.performi.com/goto/ringcentral-dialpad-vs-zoom",
+      "https://go.performi.com/goto/8x8",
+      "https://www.go.performi.com/goto/nextiva-dialpad-vs-zoom?p=dialpad-vs-zoom",
+      "https://www.go.performi.com/goto/zoom-dialpad-vs-zoom?p=dialpad-vs-zoom"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "dialpad",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:09:46.355+02:00",
+    "updated": "2023-12-29T00:09:46.355+02:00"
+  },
+  {
+    "uuid": "2c0b3219a700e7b9e1388aa56e308ce7f2c71134",
+    "url": "https://thecritic.co.uk/the-west-should-stop-indulging-delusions-on-ukraine",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anthony J. Constantini",
+    "published": "2024-08-23T01:00:00Z",
+    "title": "The West should stop indulging delusions on Ukraine",
+    "text": "After more than two and a half years of conflict, it is becoming abundantly clear that Ukraine is not going to win the Russo-Ukrainian War. While it is also apparent that Russia will not achieve its maximalist goal of regime change in Kyiv, Ukraine will almost certainly fail to reconquer Crimea, the Donbas and most of the land occupied by Russia. The Ukrainian government, however, has refused to accept this reality and — with the tacit support of the West — has, out of desperation, engaged in a dangerous cycle of escalations. The latest, and most concerning of these, has been their recent invasion of Kursk. Perplexingly, many throughout the West have cheered the Kursk incursion. Some seem to believe that it will weaken Vladimir Putin’s standing in Moscow, while others have suggested that the Ukrainian government could use occupied Kursk as a bargaining chip to get their own occupied lands back whenever Russia and Ukraine engage in serious negotiations. Finally, some simply seem to enjoy watching Russia flail and struggle. Let us dispense with the latter first. Russia is indeed flailing and it is obviously embarrassing that Ukraine was able to punch so far into Russian territory. But the West should not let something akin to childish glee override their sense of strategy in any conflict (much less one now involving the invasion of a nuclear power). Those cheering should also keep in mind that Ukraine attacking areas with Russian civilians has hindered its ability to complain about attacks on its own civilians. As for Kursk being used as a bargaining chip, it beggars belief that Russia will ever allow that plan to come to fruition. It does not take a Kremlinologist to understand that there is no universe in which Russia will crawl to the table, begging Ukraine for its land back. Ukraine’s government has, of course, made similar statements about refusing to negotiate for their own land. But Russia has significantly more money, people and therefore time to slowly take back their territory. Ukraine does not. Which brings us to the idea that Putin will somehow be weakened by this incursion. Just last year Yevgeny Prigozhin was able to lead a rogue army into the Moscow region; Putin emerged politically unaffected. If anything, this attack will inflame the passions of Russians who had previously either ignored the war or silently wished it to end. What makes this move all the more dangerous is that Ukraine is effectively a client state of the West. While there is no public confirmation that the West knew about this incursion beforehand, it is almost laughable to suggest that they had no knowledge. NATO is in the process of appointing a representative in Kyiv, military trainers are operating within Ukrainian borders and it is an open secret that there are a good few people with American accents running around Kyiv. When combined with the fact that Ukraine has been waging this war with Western weapons, and has likely embarked upon this attack with Western foreknowledge, a concerning picture emerges: there is a possibility the West acceded to, funded, and may have even helped plan an attack on Russian territory itself. Until now, Russia has mostly looked the other way as Ukraine and the West have burned through its red lines. Russia has not yet targeted Western military trainers in Ukraine, nor have they responded with force to Ukraine’s use of long range missiles to strike deep into Russia’s territory. But occasional Ukrainian strikes and a couple hundred Western military officials in Western Ukraine pale in comparison to the presence of foreign boots on Russian soil. Correlation does not equal causation, and just because Russia has not responded in the past does not mean it will not respond now. There is a laundry list of actions Russia could have taken which it has yet to try. For example, the country has not seriously tried to kill Ukrainian President Volodymyr Zelenskyy, even though he has frequently traveled to the front and was well within range of Russian missiles. Likewise they have not targeted NATO bases or key checkpoints through which Western military aid has passed. It has not done so, because the West has made clear that these are red lines. However, if the West continues to push past Russia’s red lines, it is only a matter of time until Russia decides to ignore the West’s as well. Ukraine’s desperation in fighting a losing war is understandable, but it is not understandable nor is it acceptable for the West to play along. Games of nuclear one-upmanship are exceedingly dangerous, and they are especially foolish when fought over lost causes. Hard as it may be for Ukraine to accept, they are likely not getting back most of the land now occupied by Russia. Anyone who believes otherwise is deluding themselves. The West should not delude itself too. Enjoying The Critic online? It's even better in print Try five issues of Britain’s newest magazine for £10 Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.aljazeera.com/amp/news/2024/7/9/nato-to-appoint-representative-in-kyiv-to-deepen-ukraine-ties-us-official",
+      "https://www.thehill.com/policy/defense/4824231-russia-evacuates-kursk-putin-ukraine/amp/",
+      "https://aljazeera.com/amp/news/2024/7/9/nato-to-appoint-representative-in-kyiv-to-deepen-ukraine-ties-us-official",
+      "https://thehill.com/policy/defense/4824231-russia-evacuates-kursk-putin-ukraine/amp/",
+      "https://thecritic.imbmsubscriptions.com",
+      "https://www.thecritic.imbmsubscriptions.com/",
+      "https://thehill.com/policy/defense/4824231-russia-evacuates-kursk-putin-ukraine/amp",
+      "https://thecritic.imbmsubscriptions.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "vladimir putin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "ukraine ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "russia",
+          "sentiment": "none"
+        },
+        {
+          "name": "donbas",
+          "sentiment": "none"
+        },
+        {
+          "name": "crimea",
+          "sentiment": "none"
+        },
+        {
+          "name": "moscow",
+          "sentiment": "none"
+        },
+        {
+          "name": "kyiv",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T04:40:26.910+03:00",
+    "updated": "2024-08-23T09:03:37.697+03:00"
+  },
+  {
+    "uuid": "87f6cb77708fae0cad514023436650b9f29f7df3",
+    "url": "https://dnyuz.com/2024/01/07/93-year-old-grandma-goes-viral-for-dating-life-more-exciting-than-most-millennials/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Fox News",
+    "published": "2024-01-07T22:53:00Z",
+    "title": "93-year-old grandma goes viral for dating life ‘more exciting’ than most millennials",
+    "text": "A 93-year-old viral grandma with millions of followers revealed that she was one of the successful dating stories of 2023. It was a big transformation for granny from previously swearing off men a few years prior.\nIn 2021, Grandma Droniak responded to a user who asked about her boyfriend status in a viral video with 72 million views.\n“I don’t have a boyfriend and I don’t want it. And if I wanted it I could have four or five of them… I don’t want to associate with nobody.”\nBut a lot has changed since then. Granny now has a boyfriend, she announced.\n“I can’t believe I have a boyfriend,” she said after her one-month anniversary on Dec. 18. “And he has all his teeth.”\n“He is so cute. I like him, but he likes me more. And he is the best kisser since my husband passed away.”\nGranny also dished on the “red flags” her boyfriend has .\n“He snores while he is awake,” she said. “He’s always bringing up his ex. What do I want to hear about her for? All I know is that I am prettier.”\nAnother flag according to granny is that her boyfriend is a “lightweight” since one beer and he’s “drunk.”\nGranny’s followers were very happy for her dating success of the year, but some noted the 93-year-old was fairing better than they were on the single scene after she posted her “dating wrapped” video.\nThe “dating wrapped” trend started in 2022 and continued into 2023. People on TikTok create PowerPoint presentations of their dating life at the end of the year describing their wins and fails. Users share how many dates they went on, how many kisses they had, how many situationships they were in and how many of their dates turned into actual relationships.\n“We got a lot to cover. I went on five first dates… I met one at a funeral and he was cute, one was from Instagram, I met one at a bar, and two at bingo. You might be wondering how many I kissed. I kissed all of them!” granny said.\nGranny was in two situationships, and she insists “They were losers.”\n“This is what happened to them. One wasn’t honest, one died, I ghosted two and one became my boyfriend ,” she said.\n“Your dating wrapped was better than mine,” one comment with 110K likes said.\n“Better luck next year,” granny responded.\n“Well, you did better than me,” a comment with 21K likes said.\n“Grandma, your dating life is more exciting than mine at 31,” another comment said.\nThe post 93-year-old grandma goes viral for dating life ‘more exciting’ than most millennials appeared first on Fox News .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://www.foxnews.com/lifestyle/oxford-university-press-chooses-rizz-2023-word-year",
+      "https://www.foxnews.com/category/food-drink/drinks/beer",
+      "https://www.foxnews.com/media/orange-peel-theory-trend-suggests-ultimate-sign-loving-partner",
+      "https://www.tiktok.com/@grandma_droniak/video/7317371424967068970",
+      "https://www.foxnews.com/category/media/culture-trends",
+      "https://www.foxnews.com/category/lifestyle/relationships",
+      "https://www.foxnews.com/media/93-year-old-grandma-goes-viral-dating-life-more-exciting-most-millennials",
+      "https://foxnews.com/category/lifestyle/relationships",
+      "https://foxnews.com/media/orange-peel-theory-trend-suggests-ultimate-sign-loving-partner",
+      "https://foxnews.com/lifestyle/oxford-university-press-chooses-rizz-2023-word-year",
+      "https://foxnews.com/category/food-drink/drinks/beer",
+      "https://tiktok.com/@grandma_droniak/video/7317371424967068970",
+      "https://foxnews.com/media/93-year-old-grandma-goes-viral-dating-life-more-exciting-most-millennials",
+      "https://foxnews.com/category/media/culture-trends"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "grandma droniak",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-08T00:54:35.066+02:00",
+    "updated": "2024-01-08T06:16:11.379+02:00"
+  },
+  {
+    "uuid": "215ca3ae57afbd9ad93ab4aa554e8176cd23c783",
+    "url": "https://www.elespanol.com/quincemil/articulos/economia/amancio-ortega-llega-por-primera-vez-a-los-100-000-millones-de-dolares-en-la-lista-forbes",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gabriel Muñoz",
+    "published": "2023-12-28T19:01:00Z",
+    "title": "Amancio Ortega llega por primera vez a los 100.000 millones de dólares en la lista Forbes",
+    "text": "Amancio Ortega llega por primera vez a los 100.000 millones de dólares en la lista Forbes A Amancio Ortega también le ha tocado, a su manera, la Lotería de Navidad. El fundador de Inditex [no solamente ha sido abuelo por sexta vez hace unos días](https://www.elespanol.com/quincemil/articulos/actualidad/marta-ortega-da-a-luz-a-su-tercer-hijo-en-a-coruna), sino que además su fortuna ha superado en las últimas horas por primera vez los 100.000 millones de dólares de valoración, según el seguimiento en tiempo real de los multimillonarios que hace la publicación americana Forbes. La multinacional textil está teniendo unos últimos meses espectaculares en bolsa y en las últimas semanas ha superado en varias ocasiones su máximo valor histórico, la última de ellas hoy mismo. Este hito de Inditex, en combinación con la fortaleza del euro respecto al dólar (en estos momentos 1 euro es 1,11 dólares), ha hecho que su máximo accionista vea [cómo su patrimonio crezca notablemente para las estimaciones de Forbes](https://www.forbes.com/profile/amancio-ortega/?list=rtb/&sh=4503039d116c). La fortuna de Ortega se encuentra ahora mismo de duodécima a nivel mundial valorada en 100.300 millones de dólares (91.200 millones de euros al cambio actual), justo por debajo de los 104.500 millones del mexicano Carlos Slim, compañero de partidas de dominó en Avión (Ourense). La valoración de Inditex llega a un nuevo máximo histórico Este hito para Ortega, de 87 años de edad, se consigue en paralelo a que Inditex haya superado en varias jornadas de este mes su récord de valoración bursátil. La acción de Inditex comenzó diciembre en 38,31 euros y ha cerrado este 28 de diciembre a 39,38 euros, superando el récord que batió ayer, 27 de diciembre, cuando la acción cerró a 39,25 euros. El valor en bolsa de la compañía es en estos momentos de 124.050 millones de euros. Amancio Ortega posee el 59,294% de las acciones, por lo que Inditex aporta a su fortuna 73.554 millones de euros. El resto son activos inmobiliarios que gestiona Pontegadea, su sociedad patrimonial. La multinacional textil con sede en Arteixo está a punto de terminar un año en el que se ha revalorizado en bolsa un 53,83%. Las acciones de Inditex han subido y bajado como una montaña rusa en los últimos cuatro años: en febrero y marzo de 2020 se desplomaban por el temor a los efectos del Covid y, cuando a finales de 2021 parecían volver a su valor habitual de alrededor de 30 euros, la dimisión de Pablo Isla provocó que la cotización bursátil del emporio textil comenzase a descender hasta llegar a un mínimo de 20,11 euros el día que Marta Ortega asumió la presidencia no ejecutiva. Había dudas sobre la sucesión. El tándem Marta Ortega-García Maceiras bate récords Desde esos primeros días de la primavera de 2022, la acción de la multinacional gallega comenzó a recuperarse a medida que los resultados trimestrales mostraban la fortaleza del modelo de negocio y los éxitos de la nueva gestión encabezada por Óscar García Maceiras, el nuevo consejero delegado. La acción de Inditex cerró diciembre de 2022 cotizando a 24,85 euros, superó en noviembre el máximo histórico de 36,42 euros, que databa de mayo de 2017, y termina el año rozando los 40 euros por título.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://www.forbes.com/profile/amancio-ortega/?list=rtb/&sh=4503039d116c).",
+      "https://www.forbes.com/profile/amancio-ortega/",
+      "https://forbes.com/profile/amancio-ortega/?list=rtb/&sh=4503039d116c)."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:05:45.070+02:00",
+    "updated": "2023-12-29T00:05:45.070+02:00"
+  },
+  {
+    "uuid": "91f005c323cce74813f1a89b7c3ed52b6d4c68c9",
+    "url": "https://menafn.com/1108989231/Cold-Wave-Conditions-In-Five-Bengal-Districts-Says-Met-Office",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MENAFN",
+    "published": "2024-12-13T09:15:00Z",
+    "title": "Cold Wave Conditions In Five Bengal Districts, Says Met Office",
+    "text": "( MENAFN - IANS) Kolkata, Dec 13 (IANS) The Regional Meteorological Office in Kolkata has predicted cold wave conditions in five districts of West Bengal for the next two days.\nThese five districts are East Burdwan, West Burdwan, Bankura, Purulia and Birbhum. Cold wave is a situation when either temperature after sunset scales down below 10 degrees Celsius or minimum temperature is below the normal levels by 5 degrees Celsius.\nAt the same time, dense fog has been predicted in the next few days in the five districts in the northern sector of West Bengal namely Darjeeling, Jalpaiguri, Alipurduar, Cooch Behar and North Dinajpur. Fog has also been predicted in certain districts in South Bengal -- Purulia, Bankura and West Burdwan -- in the early morning hours.\nEven the state capital Kolkata has started to feel the pinch of cold wind since Thursday. The maximum temperature in Kolkata on Thursday was 24.3 degrees Celsius, which was 2.7 degrees lower than the normal level.\nThe minimum temperature in Kolkata on Thursday was 13.8 degrees Celsius, which was 2.3 degrees lower than the normal level. The maximum and minimum relative humidity in the city on Thursday were 96 per cent and 40 per cent respectively.\nThe Regional Meteorological Office has predicted maximum and minimum temperatures in Kolkata to scale down further during the next couple of days. As per weather office productions, on Friday the maximum and minimum temperatures in Kolkata will be around the same as it was on Thursday.\nMeanwhile, the latest average Air Quality Index (AQI) index in Kolkata has been recorded at 285, which comes in the“purple” or“very unhealthy” category.\nEnvironmentalists and doctors have advised children and people with respiratory problems to avoid outdoor activities during this period as far as possible. The AQI levels, like every year, started deteriorating after Kali Puja and Diwali in October and the deterioration is continuing.\nMENAFN13122024000231011071ID1108989231",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Cooch Behar",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Regional Meteorological Office",
+          "sentiment": "negative"
+        },
+        {
+          "name": "IANS",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Kolkata",
+          "sentiment": "none"
+        },
+        {
+          "name": "South Bengal",
+          "sentiment": "none"
+        },
+        {
+          "name": "West Burdwan",
+          "sentiment": "none"
+        },
+        {
+          "name": "West Bengal",
+          "sentiment": "none"
+        },
+        {
+          "name": "Alipurduar",
+          "sentiment": "none"
+        },
+        {
+          "name": "Purulia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T12:05:00.403+02:00",
+    "updated": "2024-12-13T12:05:00.403+02:00"
+  },
+  {
+    "uuid": "590d7fb048a9a845df559e6cc0028035767f1a7c",
+    "url": "https://markets.financialcontent.com/stocks/article/getnews-2024-3-14-jafar-jafari-master-jeff-sets-the-bar-high-as-he-enables-success-among-go-getters-worldwide",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Get News",
+    "published": "2024-03-14T21:22:00Z",
+    "title": "Jafar Jafari “Master Jeff” Sets the Bar High as He Enables Success Among Go-Getters Worldwide | FinancialContent Business Page",
+    "text": "Personal development has always been an area of concern by millions of people across the world. It may not be considered a priority for some, but our human nature amplifies the importance of seeking growth. While discovering one’s self may sound easy on paper, it remains to be a confusing path to trudge on, especially when most of us do not know how to carve an arduous journey or even where to begin. Jafar Jafari, a certified master life coach, has made it his mission to bridge such an incredible gap.\nWidely recognized in the scene as Master Jeff, Jafar Jafari stands at the forefront of the industry, enabling success and delivering results to many people from all walks of life. His diligent efforts of carving success-enabling paths have earned acclaim from countless established authorities, industry powerhouses, and peers, cementing a reputable stance across the trade. On a mission to help people transform into better versions of themselves, Master Jeff banks on his unparalleled expertise to become people’s instrument of hope.\nJafar Jafari has managed to stand out among a plethora of mentors from the get-go because of his firsthand encounters of trials, hardships, and failures. Unlike other widely-acclaimed gurus who bank their teachings only on theory, this reputable coach is intimately aware of what it means to struggle. “I suffered from communication anxiety when I was young,” shared Master Jeff. “But instead of allowing this setback to overpower me, I transformed this weakness into the ultimate source of strength,” he added. From standing as a supporting character of one’s own story to becoming a leader of various trailblazing initiatives, he has come a long way and has become one of the must-watch forces across the realms of training and coaching.\nAnyone who is looking for a wake-up call can ultimately find comfort and achieve growth in Master Jeff’s scientifically-backed personal development strategies. He illuminates the pathway of many dreamers and go-getters worldwide, guiding them throughout their journey to success. “I do not only aim to educate people about the ropes behind their triumphs, but I also seek to walk with them side-by-side and allow them to unleash their potential in the years to come,” he added.\nThrough his guidance and all-out approach, Jafar Jafari has successfully served more than 100,000 individuals and trained over 5,000 coaches worldwide. On top of that, he has been chosen by Yahoo News as one of the top ten entrepreneurs of 2021 and has been hailed as a top entrepreneur by Forbes, and Entrepreneur Magazine. He is also one of the top 20 most-followed Instagram accounts, according to New York Wire. Proving worthy of his reputable name, Master Jeff has also been featured in a number of respected mediums such as MSNBC, Fox News, ABC, NBC, IMDB, Reuters, and many more.\nApart from his widely acclaimed initiatives, more can be expected from Jafar Jafari in the coming years. Armed with big plans, he aims not only to transform himself into a household name but also to deliver success among dreamers, aspirants, and go-getting individuals worldwide.\nTo know more about Jafar Jafari, you may follow him on Instagram @masterjeffofficial\nMedia Contact\nCompany Name: Buildgoal\nContact Person: Jafar Jafari\nEmail: Send Email\nPhone: 3102200800\nCountry: United States\nWebsite: www.buildgoal.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Human Interest",
+      "Education"
+    ],
+    "external_links": [
+      "http://www.buildgoal.com",
+      "https://tracking.newsrpm.com/pixel?slug=getnews-2024-3-14-jafar-jafari-master-jeff-sets-the-bar-high-as-he-enables-success-among-go-getters-worldwide",
+      "http://www.universalpressrelease.com/?pr=jafar-jafari-master-jeff-sets-the-bar-high-as-he-enables-success-among-gogetters-worldwide",
+      "https://www.getnews.info/press_stat.php?pr=jafar-jafari-master-jeff-sets-the-bar-high-as-he-enables-success-among-gogetters-worldwide",
+      "http://universalpressrelease.com/?pr=jafar-jafari-master-jeff-sets-the-bar-high-as-he-enables-success-among-gogetters-worldwide",
+      "https://getnews.info/press_stat.php?pr=jafar-jafari-master-jeff-sets-the-bar-high-as-he-enables-success-among-gogetters-worldwide",
+      "http://buildgoal.com",
+      "https://tracking.newsrpm.com/pixel",
+      "https://www.getnews.info/press_stat.php",
+      "http://www.universalpressrelease.com/",
+      "https://www.tracking.newsrpm.com/pixel?slug=getnews-2024-3-14-jafar-jafari-master-jeff-sets-the-bar-high-as-he-enables-success-among-go-getters-worldwide"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jafar jafari",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jeff",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-15T00:02:47.414+02:00",
+    "updated": "2024-03-15T00:02:47.414+02:00"
+  }
+]

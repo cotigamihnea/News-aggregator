@@ -1,0 +1,469 @@
+[
+  {
+    "uuid": "c87c0a43d44ecf3ce24549aaa102476955753219",
+    "url": "https://data.public.lu/fr/reuses/outil-destimation-indicative-de-la-valeur-dun-bien-immobilier",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Open Data Lëtzebuerg",
+    "published": "2024-05-24T10:17:00Z",
+    "title": "Outil d'estimation indicative de la valeur d'un bien immobilier - Portail Open Data",
+    "text": "Outil d'estimation indicative de la valeur d'un bien immobilier Publié le 24 mai 2024 [ Open Data Lëtzebuerg ](https://data.public.lu/fr/organizations/open-data-letzebuerg/) Official account of the Open Data Portal of Luxembourg. 19 jeux de données 11 réutilisations Informations - Type - Application - Thématique - Population et société - ID - 66505b17dc5de0806b41c7d9 Publication Intégrer sur votre site URL stable Description Une application qui permet d'avoir rapidement une estimation du prix d'un bien immobilier ou foncier basé sur des données du STATEC et de l'observatoire de l'habitat. Jeux de données utilisés 4 Discussion entre l'organisation et la communauté à propos de cette réutilisation. Plus de réutilisations Découvrez davantage de réutilisations. - [Whispers of the wheel](https://data.public.lu/fr/reuses/whispers-of-the-wheel/) Visualisation Publié le 14 juin 2024 par [Open Data Lëtzebuerg](/fr/organizations/open-data-letzebuerg/) - [EU-Wahlen: Briefwahl und eingeschriebene Ausländer*innen](https://data.public.lu/fr/reuses/eu-wahlen-briefwahl-und-eingeschriebene-auslander-innen/) Article de presse Publié le 30 mai 2024 par Joël Adami - [Outil d'estimation indicative de la valeur d'un bien…](https://data.public.lu/fr/reuses/outil-destimation-indicative-de-la-valeur-dun-bien-immobilier/) Application Publié le 24 mai 2024 par [Open Data Lëtzebuerg](/fr/organizations/open-data-letzebuerg/) - [Use of languages in the 34th Chamber of Deputies…](https://data.public.lu/fr/reuses/use-of-languages-in-the-34th-chamber-of-deputies-luxembourg-2018-2023/) Visualisation Publié le 17 mai 2024 par Sime Jurlina",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-24T14:29:46.417+03:00",
+    "updated": "2024-06-22T10:30:51.308+03:00"
+  },
+  {
+    "uuid": "3ef744b0e013b8b1f812c60344e5b2de4a9f0ef5",
+    "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2025-07-31/doc-infiitzw7499202.shtml",
+    "ord_in_thread": 0,
+    "author": "新浪港股",
+    "published": "2025-07-31T03:58:00Z",
+    "title": "英诺赛科午前涨逾4% 与联合电子宣布成立氮化镓技术联合实验室|英诺赛科_新浪财经_新浪网",
+    "text": "英诺赛科（02577）午前股价上涨3.82%，现报44.90港元，成交额1.06亿港元。\n　　据英诺赛科官微消息，7月29日，公司与联合电子宣布成立联合实验室，利用GaN技术在尺寸、重量和效率方面的优势，开发先进的新能源汽车电力电子系统。得益于GaN技术相较于传统硅基功率器件的优势，GaN功率器件在电动汽车、可再生能源系统、人工智能及数据中心电源领域应用广泛。与传统硅相比，采用GaN的转换器和逆变器功率损耗可降低高达10倍，显著提升了效率、功率密度并降低系统成本，实现体积更小、重量更轻的优势，并减少二氧化碳排放。\n　　据介绍，GaN由于其材料特性，可在功率转换中实现系统性能的新标准，显著降低损耗，从而提高效率、减小体积、减轻重量，从而降低系统BOM成本。GaN功率器件的应用范围已远远超出消费电子产品，在数据中心、工业和光伏设备中已实现量产，并被应用于电动汽车电力电子系统。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific innovation",
+      "Science and Technology->biotechnology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:20:44.261+03:00",
+    "updated": "2025-07-31T08:23:27.000+03:00"
+  },
+  {
+    "uuid": "b0ed7e9e4857b62d5aabe820dc77f0c4a010184d",
+    "url": "https://www.latitude38.com/lectronic/wet-weekend-weather-king-tides",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "John Arndt",
+    "published": "2024-12-13T17:00:00Z",
+    "title": "Wet Weekend Weather and King Tides Return",
+    "text": "Saturday looks likely to bring classic conditions for flooding in Sausalito and other North Bay estuaries. There’s a rainy storm that will arrive with strong winds and a king tide that will peak at the Golden Gate at 0945. These are the conditions that put Gate 5 Road and many other areas of Richardson Bay underwater. Though now there are far fewer resident boats on Richardson Bay, those that remain will face the winter storm conditions that have damaged so many others.\nThis photo was taken on a calm king-tide day in Sausalito. Adding strong southerly winds can make these situations much worse. © 2024 Robert Sanford https://www.flickr.com/groups/cakingtides/pool/with/27715607109/ The California Coastal Commission is again asking anyone who’s out braving the elements to submit photos of king tides that will be occurring today through Sunday. You can submit king-tide photos to the Coastal Commission here . Woody Skoriak caught some great photos in Sausalito during a November king-tide weekend with much nicer weather. The rain and southerly wind could make it more dramatic this weekend.\nUnfortunately, the Saturday weather also looks like as if it will be challenging for midwinters and Saturday night lighted yacht parades. We hope everyone makes the best of it and has dock lines, fenders and chafing gear ready for the winter weather.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.coastal.ca.gov/kingtides/participate.html",
+      "https://coastal.ca.gov/kingtides/participate.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-14T01:56:52.880+02:00",
+    "updated": "2024-12-14T01:56:52.880+02:00"
+  },
+  {
+    "uuid": "1029d3bd3342c62ef80b190342d2ea36bbe51b2a",
+    "url": "https://bvmsports.com/2025/03/19/lsu-football-recruiting-five-star-prospect-tristen-keys-commits-as-tigers-land-no-1-wr-in-2026-class",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BVM Sportsdesk",
+    "published": "2025-03-19T22:33:00Z",
+    "title": "LSU football recruiting: Five-star prospect Tristen Keys commits as Tigers land No. 1 WR in 2026 class",
+    "text": "LSU football recruiting: Five-star prospect Tristen Keys commits as Tigers land No. 1 WR in 2026 class\nLSU secured a significant commitment for their 2026 recruiting class with five-star wide receiver Tristen Keys, who has opted for the Tigers over other top programs. Keys is recognized as the No. 1 wide receiver and the fourth overall player in his class by 247Sports. Standing at 6-foot-3 and weighing 180 pounds, he possesses the potential to significantly impact college and NFL play. His recruitment marks LSU's highest-rated wide receiver pickup since Early Doucet in 2004 and places them among the top five recruiting classes nationally. Keys believes LSU is the best environment for his future, both on and off the field.\n- Tristen Keys is ranked as the No. 1 wide receiver and No. 4 overall player in the 2026 class by 247Sports.\n- He's the highest-rated wide receiver recruit for LSU since 2004.\n- With Keys' commitment, LSU has solidified a top-five recruiting class in 2026.\n- Keys joins other recruits including Top247 receiver Kenny Darby and three-star Jakai Anderson.\nAs the season progresses, LSU aims to leverage this recruiting momentum to attract more elite talent as they build towards a national championship run in the coming years.\nBottom LineTristen Keys’ commitment signifies a major boost for LSU's football program, enhancing their recruitment strategy and championship aspirations while establishing Baton Rouge as a key destination for elite talent.\nRead more at CBSSports.com\nThe summary of the linked article was generated with the assistance of artificial intelligence technology from OpenAI",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->sports transaction",
+      "Sport->soccer",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->game"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.cbssports.com/college-football/news/lsu-football-recruiting-five-star-prospect-tristen-keys-commits-as-tigers-land-no-1-wr-in-2026-class/",
+      "https://cbssports.com/college-football/news/lsu-football-recruiting-five-star-prospect-tristen-keys-commits-as-tigers-land-no-1-wr-in-2026-class/",
+      "https://www.cbssports.com/college-football/news/lsu-football-recruiting-five-star-prospect-tristen-keys-commits-as-tigers-land-no-1-wr-in-2026-class"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:29:08.634+02:00",
+    "updated": "2025-03-20T01:29:08.634+02:00"
+  },
+  {
+    "uuid": "8403ef7621b7321836958777d9ce2366a916ee05",
+    "url": "https://www.kxxv.com/news/local-news/in-your-neighborhood/mclennan-county/waco/waco-mpo-receives-1-44m-federal-grant-to-test-ai-technology-at-traffic-intersections",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bella Popadiuk",
+    "published": "2025-02-27T22:06:00Z",
+    "title": "Waco MPO receives $1.44M federal grant to test AI technology at intersections",
+    "text": "WACO, Texas (KXXV) — Waco's MPO received 1.44 million dollars for the Strengthening Mobility and Revolutionizing Transportation— or SMART grant.\nWith the federal money– it will test existing AI technology to sense traffic conditions at intersections in real-time. Traffic flow will then be adjusted accordingly. While the grant has been awarded some questions remain regarding federal funding right now. The MPO is waiting until there are clear instructions to move forward. And there could be a bit of a delay in implementing the technology. Watch a quick explanation of how it works:\nHow new traffic control devices will work in Waco BROADCAST TRANSCRIPT:\nWaco's MPO received 1.44 million dollars for the Strengthening Mobility and Revolutionizing Transportation, or SMART grant.\nWith the federal money– it will test existing AI technology to sense traffic conditions at intersections in real-time. Traffic flow will then be adjusted accordingly.\n\"Right now, it all works on timing, but it does not take into account how the traffic changes during the daytime,\" MPO Director Mukesh Kumar said. \"So morning and the evening rush hour, traffic that does not signal, don't have to behave the same way throughout the day. This is another example where, with these AI based sensors, we can adjust it so that a maximum amount of traffic can flow through.\"\nWaco's MPO Director Mukesh Kumar tells 25 News with this, each intersection will become its own decision-making unit.\n\"So with this technology, what we can do is that we can look about 100 yards on all four sides of the intersection and measure the exact amount of volume of traffic that we are expecting at any location,\" he said. \"Then also notice what is happening here at the intersection and make the timing of the signal itself adjust according to the traffic condition.\"\nOne example of how this could be used is when there are events in our neighborhood.\n\"In the downtown area, let's say there is an event, or there are lots of festivities happening, and we want to prioritize pedestrian movement over everything else. So you want all the traffic lights throughout the downtown at that moment, for that specific period, to prioritize pedestrian movement.\"\nKumar tells 25 News —that the grant is only the first step to demonstrate and test the technology around town.\nIn the future, he says they would like to extend it throughout McLennan County.\nFollow Bella on social media!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific research",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->transport"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:41:32.070+02:00",
+    "updated": "2025-03-07T09:07:01.712+02:00"
+  },
+  {
+    "uuid": "76125af67d9a273c9f4d63dae98bf7e503d1980d",
+    "url": "https://investorshangout.com/revolutionizing-metastatic-colorectal-cancer-treatments-ahead-270663-",
+    "ord_in_thread": 0,
+    "author": "Caleb Price",
+    "published": "2025-04-23T21:39:00Z",
+    "title": "Revolutionizing Metastatic Colorectal Cancer Treatments Ahead",
+    "text": "Revolutionizing Metastatic Colorectal Cancer Treatments Ahead\nCaleb PriceUpdated: 04-23-2025 05:39 PM\nTransformative Growth in Metastatic Colorectal Cancer Care\nThe metastatic colorectal cancer (mCRC) market is witnessing remarkable growth, primarily because of innovative advancements in therapies that focus on targeted treatments, immunotherapies, and personalized medicine. The rising incidence of colorectal cancer, combined with an increasing emphasis on early detection and treatment, has been a driving force behind the demand for pioneering treatment options.\nUnderstanding Metastatic Colorectal Cancer\nColorectal cancer is highly prevalent, standing as the third most common form of cancer worldwide. When it progresses to the metastatic stage, it often leads to significantly higher mortality rates. The liver and peritoneum are the primary sites where this cancer spreads. Unfortunately, for many patients diagnosed with metastatic CRC, the disease remains incurable, complicating treatment beyond typical approaches. Common metastatic sites include the liver, lungs, lymph nodes, and peritoneum, posing considerable challenges for effective intervention.\nImpact of KRAS Mutations\nKras mutations occur in about 45% of colorectal cancer patients and have a profound impact on treatment outcomes. These mutations often result in a more aggressive disease progression and present resistance to both chemotherapy and targeted therapies, which ultimately lead to lower survival rates.\nTrends in Treatment Approaches\nIn 2024, the number of metastatic colorectal cancer cases across major patient markets was estimated at around 294,000. This figure is anticipated to grow significantly by 2034. Traditional therapies such as surgical interventions play a crucial role in treating resectable cases, whereas mistreatment commonly involves chemotherapy, radiotherapy, and immunotherapy. However, many of these established treatments often lack specificity, which can result in detrimental effects on healthy cells.\nWhen it comes to mCRC, patients typically navigate through multiple lines of therapy. First-line treatments (1L) consist of chemotherapy combinations such as FOLFOX, FOLFIRI, and CAPEOX, combined with anti-angiogenic agents and advanced targeted therapies like VECTIBIX and ERBITUX. New therapies, including KEYTRUDA and BRAFTOVI, have gained approval for first-line use when paired with ERBITUX and mFOLFOX6. Treatment options broaden significantly in the second-line setting (2L), offering agents like OPDIVO, JEMPERLI, and TUKYSA, among others. For third-line (3L) approaches, medications such as STIVARGA and FRUZAQLA become part of the strategy.\nNew Therapeutic Innovations\nOne promising medication, FRUZAQLA (fruquintinib), is an oral capsule developed by Takeda Pharmaceuticals, specifically for patients previously treated with various chemotherapy regimens. As a kinase inhibitor, it selectively targets and inhibits key receptors involved in tumor growth.\nThe introduction of OPDIVO QVANTIG—a groundbreaking subcutaneous injection therapy—offers a potent treatment for adults with MSI-H or dMMR mCRC, vastly improving administration timelines from approximately 30 minutes to just a few minutes.\nEmerging Competitive Landscape\nThe landscape of the metastatic colorectal cancer market remains intensely competitive, with ongoing research into investigational therapies like amivantamab, zanzalintinib, and vactosertib, which promise more effective treatment options. These breakthroughs reflect a commitment to identifying innovative therapies that can modify resistant cancer conditions, ensuring a more favorable treatment future.\nCompanies including Johnson & Johnson Innovative Medicine, Shanghai Henlius Biotech, and Cardiff Oncology are actively participating in this dynamic market landscape, developing therapies aimed at addressing unmet patient needs.\nGrowth Projections for the Future\nDelveInsight projects the metastatic colorectal cancer market in major patient enteric areas will grow from an estimated USD 13 billion in 2024, with significant potential for compounded growth leading up to 2034. Advancements in precision medicine, particularly through targeted therapies and immunotherapies, are pivotal in enhancing patient outcomes and shaping the future of treatment pathways.\nThe latest comprehensive market report sheds light on which therapeutic options are predicted to capture the most substantial market share. This report provides thorough insights into country-specific treatment guidelines, patient pool dynamics, and epidemiological forecasts, uncovering vital opportunities and evaluating market potential.\nFrequently Asked Questions\nWhat is the main cause of metastatic colorectal cancer?\nMetastatic colorectal cancer primarily occurs when cancer cells from the colon or rectum spread to other parts of the body, commonly the liver and lungs, making treatment more complex.\nHow does KRAS mutation affect treatment options?\nKRAS mutations are known to contribute to treatment resistance, making it more challenging to achieve effective outcomes with standard chemotherapy and targeted therapies.\nWhat are the newest therapies for mCRC?\nLatest therapies include FRUZAQLA and OPDIVO QVANTIG, which provide novel approaches to address treatment-resistance issues in patients with metastatic colorectal cancer.\nWhat is the expected market growth for mCRC treatments?\nThe mCRC treatment market is projected to grow significantly, potentially reaching USD 13 billion by 2024, with a robust CAGR anticipated over the following decade.\nWhat role do emerging companies play in mCRC treatment development?\nEmerging companies are crucial in developing new therapies and innovative solutions, working to meet the unmet needs in metastatic colorectal cancer care and drive advancements in treatment.\nAbout The Author\nContact Caleb Price privately here. Or send an email with ATTN: Caleb Price as the subject to contact@investorshangout.com.\nAbout Investors Hangout\nInvestors Hangout is a leading online stock forum for financial discussion and learning, offering a wide range of free tools and resources. It draws in traders of all levels, who exchange market knowledge, investigate trading tactics, and keep an eye on industry developments in real time. Featuring financial articles, stock message boards, quotes, charts, company profiles, and live news updates. Through cooperative learning and a wealth of informational resources, it helps users from novices creating their first portfolios to experts honing their techniques. Join Investors Hangout today: https://investorshangout.com/\nThe content of this article is based on factual, publicly available information and does not represent legal, financial, or investment advice. Investors Hangout does not offer financial advice, and the author is not a licensed financial advisor. Consult a qualified advisor before making any financial or investment decisions based on this article. This article should not be considered advice to purchase, sell, or hold any securities or other investments. If any of the material provided here is inaccurate, please contact us for corrections.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Health->cancer",
+      "Health->health treatment and procedure",
+      "Science and Technology->medical research",
+      "Science and Technology->biomedical science",
+      "Science and Technology->scientific innovation",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->healthcare industry",
+      "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T00:46:53.209+03:00",
+    "updated": "2025-04-24T00:46:53.209+03:00"
+  },
+  {
+    "uuid": "65c7c8ec04bad099f9514437b02ed7584ddb8a2e",
+    "url": "https://www.yenisafak.com/en/news/israel-restricts-palestinians-access-to-al-aqsa-mosque-for-12th-friday-in-a-row-3675360",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Yeni Şafak",
+    "published": "2023-12-29T12:38:00Z",
+    "title": "Israel restricts Palestinians' access to Al-Aqsa Mosque for 12th Friday in a row | Politics",
+    "text": "Israeli authorities barred Palestinians from entering the Al-Aqsa Mosque in occupied East Jerusalem for the 12th consecutive Friday.\nA large number of Israeli police personnel were deployed throughout the city to restrict worshipers' access to the mosque, witnesses told Anadolu.\nFor the 12th Friday in a row since the beginning of the Israeli war on Gaza on Oct. 7, the Israeli police are imposing severe restrictions that have prevented tens of thousands of people from reaching Al-Aqsa Mosque to offer prayers.\nWitnesses said that the Israeli police set up barriers at the entrances to the Old City and allowed only the elderly to reach Al-Aqsa Mosque.\nThe Israeli police also set up checkpoints at the outer gates of Al-Aqsa Mosque.\nHundreds of people performed Friday prayers in the streets near the Old City, after they were prevented from reaching the mosque.\nA large number of police forces were also deployed in the Wadi al-Joz neighborhood near the Old City, and prevented worshipers from reaching the mosque, witnesses added.\nIsrael has launched air and ground attacks on the Gaza Strip in retaliation for the Hamas attack, killing at least 21,320 Palestinians, mostly children and women, and injuring 55,603 others, according to health authorities in the enclave.\nAuthorities claim the Hamas attacks have killed around 1,200 Israelis.\nThe Israeli onslaught has left Gaza in ruins, with 60% of the enclave's infrastructure damaged or destroyed and nearly 2 million residents displaced amid acute shortages of food, clean water, and medicines.\n# Al-Aqsa Mosque # Gaza # Israel # JERUSALEM",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "anadolu",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "al-aqsa mosque",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "east jerusalem",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "old city",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza strip",
+          "sentiment": "none"
+        },
+        {
+          "name": "wadi al-joz",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T14:55:06.378+02:00",
+    "updated": "2023-12-29T14:55:06.378+02:00"
+  },
+  {
+    "uuid": "42b9a4fca208877f4d1dcddbfeb3221f00a4b531",
+    "url": "https://www.colombia.com/futbol/colombianos-en-el-exterior/richard-rios-anoto-en-la-victoria-del-palmeiras-sobre-el-santos-de-brasil-502808",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Carlos Guevara",
+    "published": "2025-01-23T22:28:00Z",
+    "title": "Richard Ríos sigue en modo 'animal': marcó un golazo en el primer clásico paulista del año",
+    "text": "Carlos Guevara• Colombia.com\nRichard Ríos sigue en modo ‘animal’: marcó un golazo en el primer clásico paulista del año\nEl antioqueño sigue aumentando su valor de cara al final de la temporada.\nEl antioqueño sigue aumentando su valor de cara al final de la temporada.\nEl mediocampista oriundo de Vegachí sigue consolidándose como una pieza clave en el equipo 'Verdao', reafirmando su gran momento en el fútbol brasileño tras su más reciente actuación, el pasado 22 de enero, en la victoria 2-1 de su equipo ante Santos, en el marco de la tercera ronda del Torneo Paulista.\nEn un duelo que comenzó cuesta arriba para Palmeiras, ya que Santos tomó la ventaja en el marcador durante el primer tiempo, Ríos jugó un papel determinante al sellar la remontada del equipo en un dificil encuentro en el que Guilherme fue el encargado de romper el empate inicial con un potente disparo desde fuera del área, dejando sin respuesta al portero rival.\nComo lo indicó el portal Win Sports, la segunda mitad trajo consigo una mejora en el juego colectivo de Palmeiras, lo que se reflejó en el empate, tras una gran jugada colectiva que culminó en el 1-1, devolviendo las esperanzas al equipo visitante.\nY ya en el tiempo añadido, Richard Ríos apareció con una genialidad que cambió el destino del partido. La jugada decisiva se originó en el minuto 90+1, tras un tiro de esquina que generó un rebote dentro del área. La defensa de Santos intentó despejar el peligro, pero el balón quedó en el aire, y Ríos, mostrando su técnica y determinación, conectó un potente disparo que dejó sin opciones al arquero rival.\n?????? GOL de Richard Rios para darle la victoria a Palmeiras ???? ante Santos en el minuto 90+2’ del primer clásico paulista de la temporada.— Julián Capera (@JulianCaperaB)\n[pic.twitter.com/OXJslnr6nX] [January 23, 2025]\nEl gol de Ríos no solo le dio la victoria a Palmeiras, sino que también aseguró el liderato del grupo D del Torneo Paulista, con siete puntos en las primeras tres fechas. Este resultado refuerza la condición del equipo como uno de los favoritos en el inicio del campeonato.\n¿Cuándo será el próximo partido de Palmeiras?\nEl próximo desafío para Richard Ríos y Palmeiras será el sábado 25 de enero, cuando enfrenten a Novorizontino en la cuarta jornada del torneo. Con actuaciones como la de este encuentro, el colombiano sigue demostrando su calidad y ganándose el reconocimiento de la afición del Palmeiras y aumentando su número de pretendientes en Europa.\nTranquilo, nem tanto, mas favorável... BAILA, REELS! ????— SE Palmeiras (@Palmeiras)\n[pic.twitter.com/svdgSgN8Mg] [January 23, 2025]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->regular competition",
+      "Sport->soccer",
+      "Sport->sport event",
+      "Human Interest->record and achievement",
+      "Lifestyle and Leisure->game",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:43:28.852+02:00",
+    "updated": "2025-01-24T00:43:28.852+02:00"
+  },
+  {
+    "uuid": "56502565d4ecf99c0bf67bede17dd48e20970ac8",
+    "url": "https://www.newsbreak.com/gpb-news-georgia-public-broadcasting--512998/3774643691873-southside-residents-celebrate-the-grassroots-effort-that-built-atlanta-s-newest-skatepark",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Amanda Andrews",
+    "published": "2025-01-23T20:11:00Z",
+    "title": "Southside residents celebrate the grassroots effort that built Atlanta's newest skatepark - NewsBreak",
+    "text": "By Amanda Andrews ,\n1 hours ago Residents and city leaders recently celebrated the grand opening of Ruby Harper Skatepark, which, for many in the neighborhood, represents the power of working together and investing in the community. GPB’s Amanda Andrews reports. Not far from Atlanta's Hartsfield-Jackson International Airport, community members braved the cold to celebrate the... Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Human Interest->ceremony",
+      "Social Issue->diversity, equity and inclusion",
+      "Social Issue->communities",
+      "Social Issue->social networking",
+      "Lifestyle and Leisure->hobby",
+      "Lifestyle and Leisure->outdoor recreational activities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Amanda Andrews",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "GPB",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Hartsfield-Jackson International Airport",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:11:53.654+02:00",
+    "updated": "2025-01-24T00:11:53.654+02:00"
+  }
+]

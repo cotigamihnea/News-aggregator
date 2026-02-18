@@ -1,0 +1,22 @@
+[
+  {
+    "uuid": "a-004",
+    "title": "Beta",
+    "author": "Dave",
+    "url": "http://example.com/a-004",
+    "text": "Banana and apple collide on the field; they're quick, resilient, creative, and wildly entertaining to watch this evening under lights.",
+    "published": "2025-01-04T10:00:00Z",
+    "language": "english",
+    "categories": ["Sport"]
+  },
+  {
+    "uuid": "a-005",
+    "title": "Lisboa Economia",
+    "author": "Eva",
+    "url": "http://example.com/a-005",
+    "text": "Mercado português cresce; inovação acelera, empresas estão confiantes e consumidores atentos, enquanto tendências mudam rapidamente nesta semana dinâmica.",
+    "published": "2025-01-05T10:00:00Z",
+    "language": "portuguese",
+    "categories": ["Economy, Business and Finance"]
+  }
+]

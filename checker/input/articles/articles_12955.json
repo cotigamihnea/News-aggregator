@@ -1,0 +1,414 @@
+[
+  {
+    "uuid": "5e9256fd619cad95a2f7e69508aa875c9e0ccb68",
+    "url": "https://winaero.com/windows-11-build-23612-dev-adds-dynamic-weather-to-the-lock-screen/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@winreview",
+    "published": "2024-01-03T19:06:00Z",
+    "title": "Windows 11 Build 23612 (Dev) adds dynamic weather to the Lock screen",
+    "text": "The first Dev channel build of this year, Windows 11 Build 23612, adds richer weather experience on the lock screen, several Voice Access improvements, fixes the Start menu, File Explorer and Widgets. Advertisеment What's new in Windows 11 Build 23612 (Dev) Richer weather experience on the lock screen The lock screen will now display more detailed weather information. Hovering your mouse over the card will reveal more information, and clicking on it will open Microsoft Edge with a full weather forecast from MSN Weather. This change is enabled by default for Dev Channel Insiders using US English. Make sure that under Settings > Personalization > Lock Screen > Lock screen status, the Weather option is selected. If you do not want to see this block, then select the “Nothing” option. It does not depend on the selected lock screen personalization option, regardless of what you set there, Spotlight, Photos or Slideshow. Note. This change is only available to users using the system in English (US), which means that not all Insiders on the Dev channel will see it. Microsoft wants to gather feedback from a small group of users before the change is rolled out to all Insiders. Voice Access Enhanced language support Enhanced language support: We have expanded voice access to include additional languages such as French (France), French (Canada), German, Spanish (Spain), and Spanish (Mexico). Upon activating voice access for the first time, you will be prompted to download a speech model to enable on-device recognition of voice data. If voice access cannot find a speech model that matches your display language, you can still choose to proceed and use voice access in English (United States). You can easily switch to a different language by navigating to Settings > Language on the voice access bar. Support for multiple displays You can now use all voice access features on multiple displays, including overlays of numbers and grids, which were previously only available on the primary display. The grid overlay feature has been enhanced to allow interaction not only with the current screen but also the ability to swiftly switch to another display. You can also use the drag and drop feature to move files, apps, and documents between displays. After invoking the grid overlay, use the alphabet or NATO phonetic in your command to quickly shift focus to another display. For example, \"B\" or \"Bravo\" would both be valid, as illustrated in the above screenshot. You can also use the accelerated command \"mouse grid ..\" to swiftly move your mouse to a specific point on a specific display. As shown in the above screenshot, we used \"mousegrid A 114.\" Voice shortcuts Introducing voice shortcuts or custom commands, allowing you to create your own unique commands. Currently available when using voice access in English. Creating commands that map to a single action, such as opening a URL, or a series of actions performed in sequence is simple. To begin, say \"what can I say\" and click on the \"Voice shortcuts\" tab in the left panel, or use the command \"show voice shortcuts\" to directly access the voice shortcuts page. Then, click on the \"Create Command\" button to initiate the process. Create a command using your voice or any other input method. Provide a name, select one or multiple actions, fill in the necessary information, and then click \"Create.\" Your command is now ready for use. You can view all the voice shortcuts you have created either from the command help page or by using the command \"show voice shortcuts\". Fixes Start Menu Fixed an issue that caused the text input indicator to float when opening the Start menu. File Explorer - Made a change to address an issue where the space between icons on the desktop was becoming too large. - Fixed an issue where explorer.exe could crash when opening the context menu in Explorer if multiple files are selected. Widgets - Fixed an issue that caused the panel to delay loading when re-enabling the Microsoft Start ribbon. - Fixed an issue where enabling or disabling the Microsoft Start ribbon would not automatically close and reopen the widget panel. Note. Some of the fixes listed above may be included in cumulative updates for release versions of Windows 11. Known Issues Copilot for Windows When you first launch or after updating Copilot, when using Voice Control, you must use the Show grid command to then move to the Ask me anything field. Widgets - Notifications from the Microsoft Start ribbon still appear on the taskbar even if the ribbon is disabled. - Navigation using the keyboard from widget settings pages to the main settings section does not work. - Some pages use incorrect spacing and fonts. Support us Winaero greatly relies on your support. You can help the site keep bringing you interesting and useful content and software by using these options: If you like this article, please share it using the buttons below. It won't take a lot from you, but it will help us grow. Thanks for your support! Advertisеment",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure",
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "dev channel insiders",
+          "sentiment": "none"
+        },
+        {
+          "name": "msn",
+          "sentiment": "none"
+        },
+        {
+          "name": "voice access",
+          "sentiment": "none"
+        },
+        {
+          "name": "microsoft",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-03T22:03:01.980+02:00",
+    "updated": "2024-01-03T22:03:01.980+02:00"
+  },
+  {
+    "uuid": "1ff4a43ff722e7edbc064ecb7658aa9aadde0c18",
+    "url": "https://www.theleader.com.au/story/8904577/2025-deepal-e07-review/?cs=34616",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alborz Fallah",
+    "published": "2025-02-27T22:00:00Z",
+    "title": "2025 Deepal E07 review",
+    "text": "In a world where most new mainstream vehicles are built to fit a mould, the Deepal E07 brings with it a sense of innovation and risk-taking that Western manufacturers have long forgotten about.\nThe Chinese are definitely entering their golden era of automotive engineering. Like the Americans, Europeans, and Japanese before them, they are still willing to take risks, break away from tradition, and throw away the so-called rule books to bring to market cars that nobody asked for – but many may love.\nThe Deepal E07 is the sort of car that we can see being rejected at the boardrooms of so many automotive manufacturers (except the one-man show at Tesla). Still, the Chinese government-owned Changan group – which wholly owns Deepal – gave their engineers and designers the go-ahead to create what is essentially an SUV and a small ute all in one, and it's coming to Australia.\nIt may not be the best SUV, and it certainly won't be the most practical ute, but if you want a vehicle that is a coupe-like shape with a big tray, there is really no other option until the Tesla Cybertruck gets here (which will be significantly more expensive).\nWe flew to Deepal's base in Chongqing, China, to inspect what can only be described as a world-class production facility and drive the brand's new fleet of models heading to Australia, which include the Deepal S05 and the E07 (plus we anticipate the G318, a G-Wagen clone, will also find its way to our shores in the near future).\nWe saw the incredibly vast and detailed testing facility that Changan uses to develop its range of vehicles – which includes an incredible array of road loops, surfaces from all around the world and endless engineering validation that far surpasses many of those belonging to Western, Japanese, and even Korean manufacturers.\nThe Chinese government funds this particular facility, which is available not only to Changan but also other Chinese manufacturers such as BYD, which also develops its vehicles there. The point? The engineering going into today's Chinese cars is lightyears away from where the country was even 10 years ago. It makes us wonder where they will be in another 10 years. But back to the Deepal E07 for now.\nWhat strikes us first about the Deepal E07 is that it looks rather nice on the road. Photos don't do it justice and that cyberpunk-style front digital display won't pass our antiquated ADRs, but while it's very easy to make concept-looking cars look cool, to get it to production and keep some of its inherent character is a challenge that Deepal has overcome.\nIn the Chinese market, the E07 is available as a pure EV (RWD and AWD) and as a range-extender. Australian specs for the vehicle that will come here will be confirmed in the next few weeks.\nYes it's a cool car and the idea is great, but the real question for the E07 is whether any Australian will actually want to open their wallet for it? We spent a few hours with a Chinese-market E07 to get a better idea if they will.\nHow much does the Deepal E07 cost?\nThere is no price for the vehicle yet, but we suspect it will start in the $70,000s for the entry-level variant, and stretch will into the $80,000s or beyond for the top-spec flagship, although we hope to be pleasantly surprised.\nWhat is the Deepal E07 like on the inside?\nThe Deepal E07's interior is perhaps unsurprisingly great. It's very typical of Chinese OEMs, with a 15.4-inch infotainment screen that is super high-quality and an operating system that is effective. Everything just seems to work – except Apple CarPlay, which is also not surprising for some Chinese OEMs.\nThe surfaces across the seats, doors and dashboard feel nice and supple to touch, and everything we could see and examine was finished with great alignment and attention to detail. Although we would need more time with the E07 to determine these factors comprehensively, we found the seats (front and rear) to be comfortable and supportive.\nThe 'zero-gravity' front seats are designed to take the pressure off the occupant's spine during long drives and come equipped with heating and cooling.\nWe especially loved that you can engage different seating modes for your passengers, such as cinema mode, which allows the front passenger-side mounted screen to come down and allows your passenger to enjoy a movie in a relaxed setting with the front seat reclining dramatically.\nOf course, Australian automotive design rules are such that some miserable government bureaucrat probably decided long ago – for no good reason – that this feature won't be legal in Australian-delivered cars. But we can dream.\nThe E07's real party trick is, of course, the transforming boot. The rear-end incorporates a vertical tailgate and an electrically powered retractable cover, enabling swift transformation into a ute or pickup truck configuration in about 10 seconds. You simply press a button and everything transforms, leaving you with a very accessible tray.\nDeepal Australia is looking for a metal tray option to make the rear space practical for our market. As it stands right now, you wouldn't want to get it too dirty, given it's so beautifully carpeted.\nIn terms of dimensions, the E07 measures a substantial 5045mm in length, 1996mm in width, and 1680mm in height, with a substantial wheelbase of 3120mm. In SUV mode, the trunk offers 638 litres of space, expanding to 1860 litres in pickup mode (with the second-row seats folded flat).\nOther features of the E07's digital platform include over-the-air (OTA) updates, a 50W wireless phone charger, remote car control, in-car monitoring system, NFC card key and a digital key.\nThe benefit of so many Chinese OEMs being almost forced to work together by the state is that these digital platforms have been tested on scale, and so reliability has become a non-issue.\nMany prospective buyers will no doubt wonder where their data is going, if their car is listening to them and whether they can trust a vehicle that is manufactured by a company owned by the Chinese government. If you are looking to us for an answer – we haven't got one. It's a personal question for each buyer.\nWhat's under the bonnet?\nIn the Chinese market, the fully-electric E07 is offered with rear- and all-wheel drive configurations. The RWD variant is equipped with a single permanent magnet synchronous motor, delivering 252kW of power and 342Nm of torque, enabling claimed 0-100km/h acceleration in 6.7 seconds.\nAdditional performance is available via the all-wheel-drive version, which adds an asynchronous front motor, increasing the total output to 440kW and 645Nm – enough for Deepal to claim 0-100 km/h sprint time of just 3.96 seconds. The RWD tops out at 201km/h, while the AWD reaches 210km/h.\nBoth variants are powered by a 89.98kW ternary lithium battery, offering an estimated range of up to 640km on a single charge for the RWD and 590km for the AWD. The 800V electrical architecture supports fast-charging capabilities, allowing the battery to charge at 240kW on a DC charger. Strangely, the AC charging speed is capped at 7kW rather than the 11kW we would like to see.\nThe range-extender plug-in hybrid E07 (still to be confirmed for Australia) couples a 1.5-litre turbo-petrol engine with two electric motors utilising a 39kWh battery. Total system output of that variant is 362kW and it can manage around 230km of pure EV driving range, with total of 1130km in combined mode.\nHow does the Deepal E07 drive?\nThe E07 is a big car, and for our brief drive we didn't get an opportunity to really test the transformer ute out in the manner that would give us the confidence to recommend without pause. First impressions were very positive, but we will reserve judgement until the vehicle shows up on Australian roads and we can see how it goes with tackling some typical Australian roads and managing the extensive potholes we all have to put up with.\nAlthough not confirmed for our market, the E07 sold overseas has a kerb weight of 2230kg for the RWD EV and 2325kg for the plug-in hybrid. For comparison, the Toyota HiLux SR5 4×4 has a kerb weight of 2165 kg.\nThe E07's adjustable air suspension provides ground clearance of 183mm – which isn't what many would need for their use cases – so this is definitely a suburban-friendly SUV/ute and not a car you would take on outback adventures.\nOur test vehicle rode on massive 21-inch wheels and never felt harsh or jarring in its ride. We were also impressed by the steering system, which gave plenty of feedback and made the driving experience far more enjoyable than we had perhaps anticipated from an EV.\nIs the Deepal E07 safe?\nThere is no independent safety data for the E07 at this time.\nHowever, Deepal's other vehicles have so far scored very well across numerous safety tests and, as such, we suspect the E07 is also likely to carry through that high standard when and if it gets crash-tested.\nHow much does the Deepal E07 cost to run?\nNo price is currently available for the E07's servicing costs.\nHowever, like the S07, we believe that service intervals for the E07 will be set at 20,000km, with a time-based interval of 12 months. Like other EVs, but not the potential range-extender variant, this seems more in line with keeping the dealer network happy and busy, rather than any requirements for the vehicle itself.\nCarExpert's Take on the Deepal E07\nOur minimal time in China with the Deepal E07 was a very positive experience. Put simply, we love the idea, and we love the execution. We remain very much open-minded about the possibility that the E07 won't translate well to Australian roads, but that is taking an extremely cynical view.\nOur gut feel is that if Deepal distributor Inchcape can get the price right, the E07 will be a runaway success. But that's a big if.\nMORE: Everything Deepal\nContent originally sourced from: CarExpert.com.au",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->products and services",
+      "Science and Technology->scientific innovation",
+      "Science and Technology->technology and engineering",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.carexpert.com.au",
+      "https://www.carexpert.com.au/deepal",
+      "https://carexpert.com.au",
+      "https://carexpert.com.au/deepal"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "1ff4a43ff722e7edbc064ecb7658aa9aadde0c18",
+      "first_syndicated": true
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:09:57.929+02:00",
+    "updated": "2025-02-28T00:09:57.929+02:00"
+  },
+  {
+    "uuid": "75a3590b732b7796e998b980f6643a31389e94ca",
+    "url": "https://www.topspeed.com/reasons-the-mv-agusta-superveloce-1000-is-worth-the-70000-price-tag",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "staff@topspeed.com (Punya Sharma)",
+    "published": "2024-07-18T22:05:00Z",
+    "title": "10 Reasons The MV Agusta Superveloce 1000 Is Worth The $70,000 Price Tag",
+    "text": "The last time when MV Agusta showcased a new liter-class sports bike, the world was a different place. We were still in the 2010s, electric motorcycles were nowhere near being mainstream, and many of us didn’t even know what a pandemic was. Six long years later, the Italian giant has finally entered the liter-class superbike segment yet again.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.rizoma.com/en/categoria-prodotto/mirrors/",
+      "https://www.ohlins.com/",
+      "https://www.ohlins.com",
+      "https://rizoma.com/en/categoria-prodotto/mirrors/",
+      "https://www.rizoma.com/en/categoria-prodotto/mirrors",
+      "https://ohlins.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "serie oro",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "agusta",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-19T01:39:35.625+03:00",
+    "updated": "2024-07-19T23:21:14.451+03:00"
+  },
+  {
+    "uuid": "dd6c9f8980f61c3ec3eedcb07308a2713001448c",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-06-19/doc-infaqrft3932722.shtml",
+    "ord_in_thread": 0,
+    "author": "飞象网",
+    "published": "2025-06-19T03:41:00Z",
+    "title": "Check Point：供应商接入成为制造业网络安全新隐患|网络安全|制造业_新浪科技_新浪网",
+    "text": "在数字化浪潮席卷全球制造业的当下，网络安全风险已不再仅仅来自企业自身内部系统，第三方访问正在成为制造企业不可忽视的重要隐患。根据 IBM《数据泄露成本报告》显示，近 20% 的数据泄露事件与第三方供应商接入相关联。相比于其他类型的数据泄露，涉及第三方访问的事件平均需要多花 26 天才能被发现，且造成的经济损失更高——每起事件平均损失达 446 万美元，高于全球平均水平的 435 万美元。\n制造企业的运作高度依赖于复杂的合作伙伴网络——从供应商、承包商，到远程维护团队与物流服务商，企业上下游之间的频繁互联互通成为生产高效运转的保障。然而，任何一个外部接入环节一旦被攻破，都可能迅速引发连锁反应，导致生产中断、敏感数据泄露，乃至核心 OT 环境的直接暴露。即便是部署了完备内部防御体系的企业，也往往因为合作伙伴系统成为新的入侵入口而措手不及。更令人担忧的是，很多企业在第三方访问管理中仍然存在“便利性优先”的侥幸心理，将外部接入视作例外，缺乏与内部用户同等严格的安全管控措施，从而为攻击者埋下隐患。\n数字化制造快速发展进一步加剧了这种风险。根据来自第三方的行业报告指出，2024 年中国制造业数字化转型市场规模已突破 1.55 万亿元，预计 2025 年将增长至 1.76 万亿元，复合年均增长率约为 14%。与此同时，工业信息安全市场亦在快速扩容，2024 年规模已达 392 亿元人民币，并保持 20% 以上的年均增速。然而，伴随生产协作边界的持续拓展，第三方接入带来的盲区依旧广泛存在，成为制造业数字化跃迁过程中日益突出的安全挑战。\n面对日益复杂的威胁形势，制造业首席信息安全官（CISO）应该将第三方访问风险纳入核心管控范畴，逐步构建以身份验证、最小权限授权、实时会话可视、自动化撤权为核心要素的访问安全新架构。第三方连接不再只是“开关”式授权，而是全流程、动态可控的精细管理体系。尤其对于动辄数千家供应商、业务遍布全球的制造企业而言，这样的动态管控能力已不再是锦上添花，而成为维系业务韧性的基本保障。\n作为全球领先的网络安全厂商，Check Point 正在帮助制造企业通过统一架构全面防御第三方访问风险。基于 Infinity 架构，Check Point 可在生产现场的 OT 设备、企业 IT 系统以及供应链延伸链路的各个环节实现统一安全策略调度。企业可以实时识别每一个连接用户的身份、访问位置、设备状态及操作意图，确保每一次访问均在可控范围之内。同时，通过融合 ThreatCloud AI 的智能威胁检测引擎，用户可在发现异常行为时第一时间自动阻断潜在攻击，最大限度降低安全事件的破坏范围。\n在实际运维中，Check Point 以其统一控制台极大提升了运维效率，避免了多工具并行管理所导致的策略冲突与响应滞后。同时，依托 SASE（安全访问服务边缘）架构，Check Point 将安全能力从传统数据中心无缝延展至边缘节点，无论是工厂现场工程师、远程维护承包商还是跨境协作团队，皆可在获得安全验证的前提下灵活访问授权资源，充分兼顾安全性与生产连续性。\n在制造业数字化、智能化发展迅猛的大背景下，网络安全的重要性亦在不断凸显。Check Point 将持续以全球领先的安全能力与本地化实践经验，助力中国制造业客户在数字化转型道路上稳健前行，打造既智能高效、又安全可信的未来制造体系。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->economics",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Economy, Business and Finance->manufacturing and engineering",
+      "Social Issue->social services",
+      "Social Issue->social problem",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:43:47.459+03:00",
+    "updated": "2025-06-20T05:05:15.000+00:00"
+  },
+  {
+    "uuid": "b460af5ff88b3752b7bc287aa72087fec4a4939e",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7369484.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:34:00Z",
+    "title": "现金流ETF基金（159225）跌1.05%，半日成交额339.83万元|现金流_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，现金流ETF基金（159225）跌1.05%，报1.035元，成交额339.83万元。现金流ETF基金（159225）重仓股方面， 美的集团 截止午盘跌0.65%， 中国海油 跌0.78%， 中国铝业 跌1.88%， 中煤能源 跌2.45%， 潍柴动力 跌1.68%， 上海电气 跌0.96%， 振华重工 跌2.11%， 浙江龙盛 跌0.40%， 华新水泥 跌0.58%， 中国动力 跌1.21%。\n现金流ETF基金（159225）业绩比较基准为 国证自由现金流指数 收益率，管理人为银华基金管理股份有限公司，基金经理为王帅，成立（2025-04-09）以来回报为4.70%，近一个月回报为1.15%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->debt market"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:36:51.352+03:00",
+    "updated": "2025-06-20T05:11:43.000+00:00"
+  },
+  {
+    "uuid": "94da68945dced8c0ce717a2840352f89b82e05c0",
+    "url": "https://www.azfamily.com/2024/06/22/retired-police-sergeant-vacation-with-family-rescues-couple-sinking-car",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brenda Ordonez",
+    "published": "2024-06-22T00:00:00Z",
+    "title": "Retired police sergeant on vacation with family rescues couple from sinking car",
+    "text": "CINCINNATI ( WXIX /Gray News) - A retired Cincinnati police sergeant and his family saved an Ohio couple who just happened to be vacationing in the same area in Florida. The Ramsey family is from Ohio, while the Bell family lives in northern Kentucky. Up until June 11, the two families had no idea they lived so close to one another. Some might call it a coincidence. Others will say it’s luck, but these two families call it a miracle. Dean and Shana Ramsey recall the moment they said they almost drowned while vacationing in Siesta Key, Florida. Several streets flooded that day after the area received more than 11 inches of rain, an abnormal amount, according to Sarasota County officials. “You couldn’t see anything but rain and water,” Dean Ramsey recalled. With several cars stalled on the road, the couple said they tried to pull off on what they thought was land. “The water sucked us right into that lagoon and that was it,” Dean Ramsey explained. Watching in horror from their condo was retired Cincinnati Police Department sergeant Mike Bell, his wife Ginger Bell and their three young kids. The Bell family responded. “We were able to stop, slow things down, and assess and make some decisions on how we were going to move forward,” Mike Bell said. That plan started with Mackenzie Bell giving valuable information to 911. “I remembered they needed to know the address, so that’s the first thing I told her and then I told her a car is in the pond and there was two people in there,” Mike’s and Ginger’s daughter, Mackenzie Bell, Mike and Ginger Bell’s daughter, said. Meanwhile, the retired sergeant and his wife, who is an emergency medical doctor, took action. “I went over to the edge of the water and realized it wasn’t sinking immediately, so I have a few minutes,” Mike Bell recounted from that moment. “At that time, Ginger exited the front door next to the pond. I look at her and said, ‘We need flotation devices.’” That’s where little Hank Bell came in. “I didn’t want them to die, so I ran as fast as I could,” Hank Bell explained. “I went up the elevator, which is extremely slow, and I knew there were stairs that were faster. So, I ran down the stairs.” Flotation devices in hand, the Bell kids handed them to their parents who were already in the water. “He went into the lady’s side and I went into the man’s side,” Ginger Bell said. “She was able to climb out on her own, but I put the boogie board right in front of her. She got her body on the boogie board and that’s when I started paddling and we kicked over to the side.” Ginger Bell ran into some issues helping Dean Ramsey. “When he was trying to get out, his foot got stuck, so he was on his back with one foot out and one foot stuck in the steering wheel,” Ginger Bell remembered. “I looked at her and I said, ‘I’m stuck, I can’t,’” Dean Ramsey remembered. “At that time, I was like, ‘I’m going down with the car,’ but she’s like, ‘Get out of this car! You got to get out! Kick your leg!’ I started thrashing my leg and my foot popped out.” The rescue took about five minutes. Back on dry land, the Ramsey family saw their rescuers as “guardian angels.” The families say they have plans to reunite in the near future. The Bell family wants to remind residents to always be mindful of their surroundings and assess a situation before getting involved. They said if your car is going in a body of water, roll down the windows or punch them out by hitting the corners. Those tactics could save a life. Copyright 2024 WXIX via Gray Media Group, Inc. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Lifestyle and Leisure"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.fox19.com/2024/06/21/retired-cpd-sergeant-family-rescue-unknown-tri-state-couple-during-florida-vacation/",
+      "https://www.fox19.com/2024/06/21/retired-cpd-sergeant-family-rescue-unknown-tri-state-couple-during-florida-vacation",
+      "https://fox19.com/2024/06/21/retired-cpd-sergeant-family-rescue-unknown-tri-state-couple-during-florida-vacation/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ginger bell",
+          "sentiment": "none"
+        },
+        {
+          "name": "shana ramsey",
+          "sentiment": "none"
+        },
+        {
+          "name": "mike bell",
+          "sentiment": "none"
+        },
+        {
+          "name": "dean ramsey",
+          "sentiment": "none"
+        },
+        {
+          "name": "ramsey",
+          "sentiment": "none"
+        },
+        {
+          "name": "dean",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cincinnati police department",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "cincinnati",
+          "sentiment": "none"
+        },
+        {
+          "name": "ohio",
+          "sentiment": "none"
+        },
+        {
+          "name": "kentucky",
+          "sentiment": "none"
+        },
+        {
+          "name": "sarasota county",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-22T13:01:00.856+03:00",
+    "updated": "2024-06-22T13:01:00.856+03:00"
+  },
+  {
+    "uuid": "7309667ffa5cf447739a70c25b1d85656098619a",
+    "url": "https://www.ithome.com/0/872/006.htm",
+    "ord_in_thread": 0,
+    "author": "作者： 浩渺",
+    "published": "2025-07-31T03:50:00Z",
+    "title": "我国大模型应用个人用户注册超 31 亿",
+    "text": "感谢IT之家网友\n山有扶苏的线索投递！IT之家 7 月 31 日消息，据中国新闻网报道，记者从国家网信办获悉，当前 AI 正通过网页、移动应用、API 接口、本地部署、云服务部署等多种方式为用户提供服务。据不完全统计，大模型应用的个人用户注册总数已超过 31 亿，API 调用用户总数超过 1.59 亿。\nIT之家注意到，今年以来我国基础大模型的迭代速度加快，大模型在电子、原材料、消费品等行业加快落地。此前有报道称，当前全球已发布的大模型总数达到 3755 个，其中，我国企业贡献了 1509 个（IT之家注：占比达 40%），数量居全球首位。\n《中国互联网络发展状况统计报告》显示，一是我国在人工智能领域影响力显著提升。截至 3 月，共有 346 款生成式人工智能服务在国家互联网信息办公室完成备案。用户方面，截至 6 月，用户利用生成式人工智能产品回答问题的比例最高，达 80.9%。产业方面，2024 年我国人工智能产业规模突破 7000 亿元，连续多年保持 20% 以上的增长率。\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->scientific research",
+      "Science and Technology->biomedical science",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->business information",
+      "Social Issue->social networking",
+      "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:01:23.864+03:00",
+    "updated": "2025-07-31T08:05:21.000+03:00"
+  }
+]

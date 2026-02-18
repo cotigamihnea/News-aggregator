@@ -1,0 +1,298 @@
+[
+  {
+    "uuid": "5c48d958d10628aa77a90722060b9e11e125dd85",
+    "url": "http://www.godlikeproductions.com/forum1/message5608973/pg1",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anonymous Coward User ID",
+    "published": "2023-12-29T06:24:00Z",
+    "title": "How I know God is a Woman",
+    "text": "Users Online Now:\n1,198\n(\nWho's On?\n)\nVisitors Today:\n122,787\nPageviews Today:\n225,686\nThreads Today:\n63\nPosts Today:\n1,157\n03:00 AM\nDirectory\nAdv. Search\nTopics\nForum\nBack to Forum\nPost New Thread\nReply\nView Favorites\nJoin Now, Free! (& No Ads!)\nForgot Your Password?\nEmail\nPassword\nRemember\nRate this Thread\nAbsolute BS\nCrap\nReasonable\nNice\nAmazing\nPage\n1\nBottom\nSearch Replies\nPrevious Page\nNext Page\nSearch Terms:\nHighlight Matches\nHow I know God is a Woman\nAnonymous Coward\nUser ID: 84220535\nUnited States\n12/29/2023 01:41 AM\nReport Abusive Post\nReport Copyright Violation\nHow I know God is a Woman\nAriana Grande told me so.\n[\nlink to youtube.com (secure)\n]\nAnonymous Coward\nUser ID: 85616933\nUnited States\n12/29/2023 01:42 AM\nReport Abusive Post\nReport Copyright Violation\nRe: How I know God is a Woman\nBubbles pop\nAG, never heard of\nSorry, don't know what you mean\nNever heard one song. I did here that one though, not bad\nMakes me think maybe/ gods a woman too\nCrash_Override\nUser ID: 85959288\nUnited States\n12/29/2023 01:44 AM\nReport Abusive Post\nReport Copyright Violation\nRe: How I know God is a Woman\nS/HE\nH/ER\nFAT/HER\nBROT/HER\nSIS/HER\nMOT/HER\nToiletology.org\nAnonymous Coward\nUser ID: 86687459\nUnited States\n12/29/2023 01:53 AM\nReport Abusive Post\nReport Copyright Violation\nRe: How I know God is a Woman\nThere’s a father and a mother\nAnonymous Coward\nUser ID: 86356455\nMalaysia\n12/29/2023 02:24 AM\nReport Abusive Post\nReport Copyright Violation\nRe: How I know God is a Woman\nThere’s a father and a mother\nQuoting:\nAnonymous Coward 86687459\nThe mother is below the father.\nThey are not equal.\nPage\n1\nTop\nPrevious Page\nNext Page\nBack to Forum\nPost New Thread\nReply\nView Favorites\nRelated Threads\n1\nHow I know God is Not a Woman\n1h 24m\n2\nWhy can't god bless me with a woman already?\n12h 58m\n3\nMen are truly pathetic when it comes to being preyed upon by a predatory Woman. A woman knows the power of her sexuality\n03/25/23\n4\n\"...For a man is the image and glory of God; but the woman is the glory of man.\" 1 Corinthians 11:7\n06/30/13\n5\nA woman who I went out with turn on me randomly. She placed a restraining order and I don’t know why\n12/03/23\n6\nGod The Woman God The Man God The Gezzer Fillin A Garbage Can God The Caretaker God The Chef God The Midwife Tenderness God The Child GodGrowedUp\n11/16/23\n7\n\"Jesus, When are you gonna send me a Godly woman?\"\n11/01/23\n8\nImagine if God was a woman and denied men entry to heaven\n11/02/23\n9\nA woman did more than 100 stool transplants to treat her ulcerative colitis — and it worked. What to know about fecal microbiota transplantation\n11/15/23\n10\nWhen do you know when a woman has hit the wall?\n11/03/23\nDisclaimer / Copyright Info\n-\nPrivacy Policy\n-\nTerms Of Use\n-\nCancellation Policy / Billing Help\nMail\nWebmaster\nwith questions or comments about this site.\nCopyright © 1999 - 2023 Godlikeproductions.com\nPage generated in 0.025s (7 queries)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ariana grande",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ag",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "united states",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T10:01:01.357+02:00",
+    "updated": "2023-12-29T10:01:01.357+02:00"
+  },
+  {
+    "uuid": "79efeaeb3f0a6955c6d7aa3ea92efaced8a91048",
+    "url": "https://discuss.streamlit.io/t/error-could-not-install-packages-due-to-an-oserror-errno-13-permission-denied/85729",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Abdelrahman1",
+    "published": "2024-11-15T13:27:00Z",
+    "title": "ERROR: Could not install packages due to an OSError: [Errno 13] Permission denied",
+    "text": "Hello everyone, i am a beginner on streamlit and I need your help with fixing an issue that I couldn’t fix even with ChatGPT\nI am having an issue with deploying my Streamlit app. i am trying to use a spaCy model with my streamlit app and here is the code: ‘’’ try: nlp = spacy.load(“en_core_web_md”) except: spacy.cli.download(‘en_core_web_md’) nlp = spacy.load(“en_core_web_md”) ‘’’\nthe purpose of this part of the code is to import the spaCy library then check if the “en_core_web_md” model is installed or not and if not it should install it.\nThe code runs smoothly on my local machine with no errors, however, when I uploaded my files to github and deployed the app I get this error message\nInstalling collected packages: en-core-web-md ERROR: Could not install packages due to an OSError: [Errno 13] Permission denied: '/home/adminuser/venv/lib/python3.12/site-packages/en_core_web_md' Check the permissions.\nhow can I fix this issue? Thank you in advance.\nI tried installing it locally, and noticed that the url that actually gets installed is this one\nIf you try pip install https://github... with that url, it should work\npip install https://github...\nSo, to make it accessible on streamlit community cloud, you can add that url https://....whl to your requirements.txt along with spacy. It’s not the ideal solution, but should work.\nhttps://....whl\nrequirements.txt\nThanks for stopping by! We use cookies to help us understand how you interact with our website. By clicking “Accept all”, you consent to our use of cookies. For more information, please see our privacy policy.\nThese cookies are necessary for the website to function and cannot be switched off. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us understand how visitors move around the site and which pages are most frequently visited.\nThese cookies are used to record your choices and settings, maintain your preferences over time and recognize you when you return to our website. These cookies help us to personalize our content for you and remember your preferences.\nThese cookies may be deployed to our site by our advertising partners to build a profile of your interest and provide you with content that is relevant to you, including showing you relevant ads on other websites.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T18:42:19.795+02:00",
+    "updated": "2024-11-15T18:42:19.795+02:00"
+  },
+  {
+    "uuid": "08064deb6fe042fa4dd9d928613616b5de8f4b8a",
+    "url": "https://dnyuz.com/2023/12/28/justice-dept-threatens-to-sue-texas-over-migrant-arrest-law/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "New York Times",
+    "published": "2023-12-28T19:01:00Z",
+    "title": "Justice Dept. Threatens to Sue Texas Over Migrant Arrest Law – DNyuz",
+    "text": "The Justice Department on Thursday threatened to sue Texas if it enforced a sweeping new law that would allow the state and local police to arrest migrants who enter the United States from Mexico without authorization, setting up the first significant legal showdown over federal immigration enforcement.\nGov. Greg Abbott of Texas signed the measure , known as Senate Bill 4, this month in his most direct challenge yet to the Biden administration’s handling of immigration. Immigrant-rights groups and Hispanic organizations had opposed the legislation, arguing that it would violate the U.S. Constitution and encourage racial profiling.\nIn a letter obtained by The New York Times, Brian M. Boynton, an assistant attorney general with the D.O.J., gave Mr. Abbott until Wednesday to retract his intention to enforce the law, which takes effect in early March. Otherwise, he said, “the Department of Justice intends to bring a lawsuit to enforce the supremacy of federal law and to enjoin the operation of S.B. 4.”\nIn the letter, which was addressed to Mr. Abbott, a third-term Republican, and Ken Paxton, the state attorney general, Mr. Boynton cited a 2012 U.S. Supreme Court case, Arizona v. United States, in which the court narrowly decided in favor of the power of the federal government to set immigration policy.\n“S.B. 4 therefore intrudes into a field that is occupied by the federal government and is pre-empted,” he wrote in the letter, which was first reported by The Houston Chronicle . “Indeed, the Supreme Court has confirmed that ‘the removal process’ must be ‘entrusted to the discretion of the federal government.’”\nThe legal threat came a day after Secretary of State Antony J. Blinken and other top American officials met with Mexico’s president , Manuel López Obrador, to discuss ways to slow illegal crossings, which have overwhelmed U.S. border towns and Democratic-run cities like New York , Chicago and Denver.\nIn recent weeks, the large number of migrants has also forced border officials to temporarily shut down several railway crossings in Texas and close the port of entry in Lukeville, Ariz., in order to redirect personnel and respond to hot spots.\nThe D.O.J.’s threat is one of several challenges to the Texas law. This month, El Paso County and two immigrant-rights groups, represented by the American Civil Liberties Union and the Texas Civil Rights Project, filed a lawsuit in an effort to halt the measure , echoing the Justice Department’s argument that immigration laws could be enforced only by federal agents.\nThat lawsuit, filed in federal court in Austin, names as defendants the Texas Department of Public Safety, whose officers would be tasked with arresting migrants, and the district attorney for El Paso County, Bill Hicks, whose office would file state charges.\nMr. Abbott’s office did not respond to a request for comment on the D.O.J. letter. He has said that he was anticipating the legal challenges, and has made clear his intention to defend the law before the Supreme Court.\nSince 2021, Mr. Abbott has been testing the legal limits of what a state can do to enforce immigration law as part of a multibillion strategy known as Operation Lone Star, which has included the use of concertina wire and buoys along the banks of the Rio Grande.\nHe has also defended the need to arrest unauthorized migrants as a response to what he has called the failure of President Biden to control the southern border, where as many as 10,000 crossings have been recorded in a single day.\n“In his absence, Texas has the constitutional authority to secure our border through historic laws like S.B. 4,” Mr. Abbott has said.\nIn his Thursday letter, Mr. Boynton expressed his intention to argue the merits of the state’s objections before the case reached a courtroom.\n“To the extent you believe there are any facts or law supporting the validity of S.B. 4, we urge you to promptly bring them to our attention,” he wrote.\nThe post Justice Dept. Threatens to Sue Texas Over Migrant Arrest Law appeared first on New York Times .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "abbott",
+          "sentiment": "none"
+        },
+        {
+          "name": "greg abbott",
+          "sentiment": "none"
+        },
+        {
+          "name": "ken pax",
+          "sentiment": "none"
+        },
+        {
+          "name": "biden",
+          "sentiment": "none"
+        },
+        {
+          "name": "brian m. boynton",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "justice dept.",
+          "sentiment": "negative"
+        },
+        {
+          "name": "justice department",
+          "sentiment": "negative"
+        },
+        {
+          "name": "senate",
+          "sentiment": "none"
+        },
+        {
+          "name": "new york times",
+          "sentiment": "none"
+        },
+        {
+          "name": "department of justice",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "texas",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "mexico",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:04:00.272+02:00",
+    "updated": "2023-12-29T01:04:00.272+02:00"
+  },
+  {
+    "uuid": "a5dbf8f697980148cd968b282d0eab1ddd7c4542",
+    "url": "https://www.diariodecuyo.com.ar/tecnologia/whatsapp-todos-los-celulares-que-se-quedan-sin-la-app-desde-septiembre-de-2024-1655418.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción Diario de Cuyo",
+    "published": "2024-08-30T00:00:00Z",
+    "title": "WhatsApp: todos los celulares que se quedan sin la app desde septiembre de 2024 | Diario de Cuyo",
+    "text": "WhatsApp, la plataforma de mensajería más utilizada en el mundo, es una herramienta esencial para la comunicación diaria de millones de personas. Debido a su importancia, los usuarios suelen preocuparse periódicamente por la posible incompatibilidad de sus dispositivos móviles con la aplicación, lo que podría limitar su capacidad de comunicación. La compatibilidad de WhatsApp con los dispositivos depende en gran medida del sistema operativo que utilicen. Según la compañía, en el caso de los teléfonos iPhone, la aplicación es compatible con versiones de iOS 12 y posteriores. Por otro lado, los dispositivos que operan con Android deben contar con la versión 5.0 o superior para seguir utilizando la aplicación sin inconvenientes. Estos requisitos aseguran que los usuarios puedan seguir disfrutando de las funciones de WhatsApp, siempre y cuando mantengan sus sistemas operativos actualizados. Lista de móviles iPhone sin WhatsApp La lista de iPhone que no son compatibles con iOS 12 y por tanto no tienen acceso a WhatsApp son: iPhone (Primera generación) iPhone 3G iPhone 3GS iPhone 4 iPhone 4S iPhone 5 iPhone 5c Lista de teléfonos Android sin WhatsApp Dado que WhatsApp es compatible únicamente con Android 5.0 (Lollipop) o versiones posteriores, los teléfonos que no pueden actualizarse a esta versión o superior quedarían incompatibles con la aplicación. A continuación se enumeran algunos modelos de teléfonos Android que no pueden actualizarse a Android 5.0: Samsung Galaxy S2: Fue lanzado con Android 2.3 (Gingerbread) y no es actualizable a Android 5.0. Samsung Galaxy S3: Se presentó con Android 4.0 (Ice Cream Sandwich) y no recibe actualización oficial a Android 5.0. Samsung Galaxy Nexus: Opera con Android 4.0 y no tiene soporte oficial para la versión compatible con WhatsApp. LG Optimus G: También se ejecuta con Android 4.0. Sony Xperia S: Cuenta con Android 2.3 y no se actualiza 5.0. HTC One X: Tiene la posibilidad de ejecutarse bajo Android 4.0 y versiones anteriores. Motorola Droid Razr: Fue lanzado con Android 2.3 y no tiene actualización a Android 5.0 o versiones posteriores. Nexus 4: Aunque tiene la posibilidad de actualizarse a Android 5.0, no recibe soporte oficial para versiones posteriores. Estos dispositivos, entre otros más antiguos o de gama baja, no pueden acceder a las actualizaciones necesarias para mantener la compatibilidad con WhatsApp. Por lo tanto, los usuarios de estos modelos podrían ver limitada su capacidad para usar la aplicación. Cómo actualizar iOS Abrir la aplicación Configuración de iPhone. Ir a General y luego a Actualización de software. Si hay una actualización disponible, aparecerá en pantalla. Tocar ‘Descargar e instalar’. Una vez descargada, pulsar ‘Instalar ahora’. El dispositivo se reiniciará y comenzará el proceso de actualización. Cómo actualizar mi versión de Android Ir a Ajustes del celular. Dirigirse a Acerca del teléfono y luego a Información del software. Verificar si hay una actualización pendiente e instalar. Qué pasa si no puedo actualizar el sistema operativo de mi celular Cuando un celular no puede actualizar su sistema operativo a una versión más reciente, enfrenta varias consecuencias que pueden afectar tanto su seguridad como su funcionalidad. En primer lugar, puede haber incompatibilidad con aplicaciones, ya que muchas, como WhatsApp, requieren versiones mínimas del sistema operativo para funcionar. El rendimiento también puede verse afectado, ya que las nuevas versiones de aplicaciones están diseñadas para funcionar en sistemas operativos más recientes. Además, un dispositivo sin actualizaciones de sistema operativo deja de recibir parches de seguridad, lo que lo hace vulnerable a amenazas como malware y otros ataques cibernéticos. Esto pone en riesgo la información personal del usuario. Otro inconveniente es la incompatibilidad con nuevas funciones. Las actualizaciones de los sistemas operativos suelen incluir mejoras y nuevas características, por lo que un dispositivo que no se puede actualizar queda excluido de estas novedades.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-30T19:02:27.385+03:00",
+    "updated": "2024-08-30T19:02:27.385+03:00"
+  },
+  {
+    "uuid": "54460880b050c93fc2a18cce91018b5cb9bbfe58",
+    "url": "https://www.diariolibre.com/economia/consumo/2024/08/15/aumento-de-precio-por-escasez-de-pollo/2820218",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Diario Libre",
+    "published": "2024-08-15T17:43:00Z",
+    "title": "Aumento de precio por escasez de pollo - Diario Libre",
+    "text": "El pollo , uno de los principales productos de la canasta básica en la República Dominicana , está registrando una escasez y un aumento de precio en el mercado municipal de Higüey, provincia La Altagracia, según dijeron comerciantes y consumidores consultados en los puestos de venta.\nAnte esta situación, personas entrevistadas reportaron que están comprando la libra de pollo a precios que oscilan entre 85 y 100 pesos, cuando anteriormente la adquirían por 70 o 75 pesos. \"Las cosas van subiendo porque la situación no está muy buena, no hay circulante en la calle, no hay dinero, la cosa está más dura ahora. Es a rajatabla que estamos, es cogiendo lucha\", expresó un comprador del mercado .\nSin embargo, es importante destacar que dentro del mercado la libra de pollo se vende a precios variados, con algunos comerciantes ofreciéndola a 75, 85 y hasta 100 pesos.\nVendedores consultados, que prefirieron no revelar sus nombres, indicaron que el producto ha presentado escasez en los últimos meses, lo que ha provocado un aumento en su precio al consumidor. Uno de los vendedores afirmó que están vendiendo el pollo a 75 pesos, tanto al por mayor como al detalle, manteniendo un solo precio .\nOtra vendedora explicó que vende la libra de pollo a 78 y 75 pesos, mientras que antes la ofrecía a 60 pesos, aunque no precisó cuánto ha subido en total. Otro comerciante mencionó que la libra de pollo se vende entre 85 y 100 pesos, dependiendo de cuánto les cuesta adquirir el producto .\nTodos los entrevistados coincidieron en que el alza en el precio del pollo se debe a la escasez que afecta actualmente al sector.\nSobre este tema, Juan Trinidad, secretario general del Sindicato de Mercaderes del Mercado Municipal de Higüey, señaló que la escasez de pollo ha generado situaciones difíciles, ya que este es uno de los productos más consumidos en la dieta de la población. \"Cuando no hay abastecimiento, menos personas acuden al mercado . Ahora mismo, el pollo no está apareciendo, y cuando aparece, la cantidad no es suficiente para cubrir la demanda. Tanto el pollo como la gallina vieja están en escasez \", comentó.\nTrinidad indicó que cuando el pollo está disponible, la libra se vende entre 80 y 85 pesos, y en algunos casos, hasta 100 pesos. Aseguró que las ventas han disminuido en un 50% debido a la falta de producto , señalando que actualmente llegan al mercado aproximadamente cinco patanas de pollo , lo que no es suficiente y provoca que los precios se disparen.\nEn su opinión, esta situación se debe a la falta de colaboración del gobierno con los granjeros , ya que, según él, cuando el gobierno trabaja de la mano con ellos, siempre hay suficiente pollo . Además, mencionó que, ante la escasez de pollo , las personas han recurrido a consumir otros productos como cerdo, res y, en algunos casos, vegetales.\nFinalmente, cuestionó qué no se entiende la escasez de pollo , si los huevos no presentan desabastecimiento.\nTEMAS - escasez de pollo Seguir Tema + Siguiendo ✓ República Dominicana Seguir Tema + Siguiendo ✓ Canasta básica Seguir Tema + Siguiendo ✓ Patricia Heredia Periodista egresada de la UASD. Docente universitaria, con especialidad en Educación y Nuevas Tecnologías.\nEn portada Ver todos Actualidad Trasladan al Inacif el cadáver del exdiputado Manuel Díaz, hallado muerto en su casa",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T01:08:38.706+03:00",
+    "updated": "2024-09-10T07:09:34.635+03:00"
+  },
+  {
+    "uuid": "8a76375db2e54abb4e47b51995359252d2c3667d",
+    "url": "https://civileats.com/2021/11/05/op-ed-boosting-snap-will-put-more-food-on-millions-of-tables-it-will-also-prevent-depression-and-anxiety",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "cdaniel",
+    "published": "2024-04-04T19:41:00Z",
+    "title": "Boosting SNAP Will Put More Food on Millions of Tables. It Will Also Prevent Depression and Anxiety",
+    "text": "The first food-assistance increase in a generation will also help prevent the mental health challenges that come with food insecurity.\nThe first food-assistance increase in a generation will also help prevent the mental health challenges that come with food insecurity.\nNovember 5, 2021\nIn October, the U.S. Department of Agriculture (USDA) substantially increased Supplemental Nutrition Assistance Program (SNAP) benefits for the first time in 45 years. SNAP serves\n1 in 8 Americans, reducing food insecurity and child hunger. But anti-hunger advocates often criticized the program for relying on an outdated formula, one that understated the cost of food while overstating families’ free time to cook. The result: too little money for a healthy diet.\nNow, SNAP’s\nformula has been updated to address these shortfalls. As a consequence, benefits have risen by 21 percent, or an average of $36 per person per month. This change promises to boost food security and health, SNAP’s top two goals. It also has the potential to yield another, less discussed dividend: improved mental health.\nResearch consistently finds connections between food insecurity and\npoor mental health, including depressive symptoms, anxiety, hopelessness, and distress. I have observed this link firsthand. As I wrapped up high school and moved away for college, my father was left debilitated and jobless by a routine infection gone rogue. When his income dissolved and hard-earned savings ran dry, he began to fret over food. Away for college, I didn’t live through this food scarcity every day. But on visits home, I too faced an empty refrigerator, and I saw a kind and caring person reduced by the inability to satisfy one of our most basic needs—to feed ourselves and the ones we love.\nThis experience, in part, motivated me to research how parents decide what to feed their children in families, rich and poor. For nearly four years, I crisscrossed the Boston area talking with mothers about their feeding priorities and their\nfood realities. I tagged along as they shopped for groceries. And in the process, I saw families’ lives up close. As I watched poor mothers take their first bite of food for the day well past noon and remove food from the checkout conveyor belt because they came up short, it became clear that food insecurity not only affects what people eat; it also takes a psychic toll.\nFood insecurity—by its very definition—breeds anxiety and stress.\nNinety percent of food-insecure Americans report worrying that food in the house will run out before there is money for more. The parents I talked to were no different. Some lost sleep—or their appetites—fretting about food. Faced with cavernous cupboards, others felt lonely and depressed. Parents bore the double strain of trying to make things seem okay. Some admitted to breaking into tears while their children slept. Others spoke of running their faucets to drown out their midday sobs while fending off their children’s innocent inquiries about why mommy was taking a shower again.\nThe emotional toll of food insecurity is about more than material deprivation. It’s about social exclusion, too.\nExperts argue that in wealthy nations like ours, poverty is best defined as the inability to afford a typical standard of living. Unwillingly deviating from the norm sends a message that one stands outside society, corroding one’s self-regard and their mental health in turn.\nLike\n80 percent of food-insecure Americans, the families I met couldn’t always afford balanced meals. Balance might seem like a purely nutritional issue. But eating cupboard-remnant hodgepodge means defying widely-shared definitions of a “proper” meal. Straying from the norm to keep everyone fed made many of the parents I spoke to feel like outsiders, adding emotional insult to poverty’s economic injury. As one mother said, bemoaning her son’s breakfast of leftover pork chops with mac and cheese, “I’d rather get my kids waffles or pancakes, the little things they used to do. Honestly, those are the little things I do cry about.”\nFood is also deeply intertwined with the rituals and rites of social life, setting special occasions apart from the mundane. Drippy popsicles welcome summer, hot cider augers autumn, and candle-topped cakes say, “We’re so glad you were born.” Food makes experience fuller. But for struggling parents, trying to afford food beyond the basics often spawned anxiety. While most families tracked down holiday sweets and special treats, doing so often came at a cost: many could not afford to have their cake and eat kale, too.\n“It is crucial to recognize the potential mental health gains of an expanded SNAP: by leaving them out of the equation, we risk understating the true impact of this policy change.”\nRoutine social interactions also center on food, and low-income people can’t always take part. Unable to feed an extra mouth, the parents I spoke to seldom invited friends over to eat. When others shared, many couldn’t return the favor in kind. Some parents even curtailed their children’s play dates for want of a snack. Sharing food strengthens ties. But those who were unable engage in such exchange felt isolated and ashamed instead.\nThese emotional burdens hit food-insecure parents with particular force. Beyond falling short of “normal,” they risked falling short of the social duty they valued most: providing for their child. This is especially true when our conception of a “good” childhood includes not just basic needs, but\nfun “extras.” And even in poor households, providing the trappings of a good childhood was essential to parents’ self-regard. “I gotta make it work,” one mother said as she detailed a convoluted grocery-shopping routine that freed up money for treats. “They gotta be happy.”\nSome\nconservatives object to expanding SNAP, saying it won’t spur healthier choices. Quelling hunger, they claim, takes cheap, plain pasta and better budgeting. But these arguments miss a key point: food shapes our health not just through flesh and blood, but also through psyche and self. The COVID-19 pandemic has exposed just how much our mental health hinges on peace of mind, social bonds, and an existence we deem “normal.” These are not luxuries. While dignity and inclusion may seem like lofty philosophical issues, they powerfully influence our health. Feeling continually unable take part in society disrupts our metabolism through a cascade of stress hormones, and triggers inflammation that wears on the body and brain, ultimately increasing the risk of chronic disease.\nIt is crucial to recognize the potential mental health gains of an expanded SNAP: by leaving them out of the equation, we risk understating the true impact of this policy change. But bolstering SNAP shouldn’t detract from efforts to address poverty’s deeper roots. Poverty takes its own toll on\nmental health and social well-being. Policies such a living wage, a guaranteed basic income, universal health care, and free childcare can reduce fundamental economic insecurity, and along with it, the stress, stigma, and exclusion that financial insecurity breeds. SNAP plays an essential role in softening poverty’s blows. Ultimately, we must push for a world where we no longer need it.\nFebruary 12, 2024\nApril 3, 2024\nIn this week’s Field Report, we explore media coverage of a climate study on growing food in cities. Plus: food system impacts of the Key Bridge collapse, a new approach to rice farming, and more.\nMarch 20, 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Health"
+    ],
+    "external_links": [
+      "https://frac.org/wp-content/uploads/thrifty_food_plan_2012.pdf",
+      "https://www.heritage.org/testimony/reducing-hunger-and-very-low-food-security",
+      "https://www.nytimes.com/2016/02/16/opinion/why-poor-children-cant-be-picky-eaters.html",
+      "https://www.fns.usda.gov/news-item/usda-0179.21,%20https:/www.fns.usda.gov/snap/supplemental-nutrition-assistance-program",
+      "https://academic.oup.com/jn/article/136/1/177/4664106",
+      "https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/definitions-of-food-security.aspx",
+      "https://www.ucpress.edu/book/9780520258440/longing-and-belonging",
+      "https://www.bloomsbury.com/uk/status-syndrome-9781408834190/",
+      "https://www.mentalhealth.org.uk/sites/default/files/Poverty%20and%20Mental%20Health.pdf",
+      "https://republicans-agriculture.house.gov/uploadedfiles/20210813_gao_thriftyfoodplan.pdf",
+      "https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780195385878.001.0001/acprof-9780195385878",
+      "https://www.fns.usda.gov/news-item/usda-0179.21",
+      "https://ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/definitions-of-food-security.aspx",
+      "https://bloomsbury.com/uk/status-syndrome-9781408834190/",
+      "https://www.bloomsbury.com/uk/status-syndrome-9781408834190",
+      "https://heritage.org/testimony/reducing-hunger-and-very-low-food-security",
+      "https://www.republicans-agriculture.house.gov/uploadedfiles/20210813_gao_thriftyfoodplan.pdf",
+      "https://www.academic.oup.com/jn/article/136/1/177/4664106",
+      "https://www.oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780195385878.001.0001/acprof-9780195385878",
+      "https://fns.usda.gov/news-item/usda-0179.21",
+      "https://ucpress.edu/book/9780520258440/longing-and-belonging",
+      "https://nytimes.com/2016/02/16/opinion/why-poor-children-cant-be-picky-eaters.html",
+      "https://www.frac.org/wp-content/uploads/thrifty_food_plan_2012.pdf",
+      "https://fns.usda.gov/news-item/usda-0179.21,%20https:/www.fns.usda.gov/snap/supplemental-nutrition-assistance-program",
+      "https://mentalhealth.org.uk/sites/default/files/Poverty%20and%20Mental%20Health.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "u.s. department of agriculture (usda",
+          "sentiment": "none"
+        },
+        {
+          "name": "supplemental nutrition assistance program",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-05T02:12:26.253+03:00",
+    "updated": "2024-04-05T02:12:26.253+03:00"
+  }
+]

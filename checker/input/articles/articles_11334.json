@@ -1,0 +1,244 @@
+[
+  {
+    "uuid": "823a60a3bcfb01da371fcc80bab177f5cf9c9a02",
+    "url": "https://www.elciudadanoweb.com/sigue-rodando-argentina-se-enfrenta-a-paises-bajos-por-la-segunda-fecha-del-mundial",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bianca Ossola",
+    "published": "2024-09-05T15:14:00Z",
+    "title": "Sigue rodando: Argentina se enfrenta a Países Bajos por la segunda fecha del Mundial",
+    "text": "Esta noche, la Selección Argentina Sub 20 Femenina disputará la segunda fecha del Mundial de la categoría ante Países Bajos. El encuentro, que comenzará a las 22.00, contará con el arbitraje de Veronika Bernatskaia (Kirguistán) y se disputará en el Estadio Pascual Guerrero, mismo escenario donde la Albiceleste debutó el lunes ante Corea del Norte.\n“Vamos a enfrentar al subcampeón europeo, que tiene otras cualidades diferentes a Corea del Norte. Hace una semana empató con España, que es el vigente campeón mundial. Es una zona muy difícil pero bienvenido sean esta clase de partidos. Es una experiencia única para las chicas para poder seguir creciendo en el futbol femenino”, analizó el técnico Christian Meloni en la previa al cruce de esta noche.\nEn la primera fecha, el rival derrotó 2-0 a Costa Rica, con tantos de Buurman y Oude Elberink. Con tres unidades, comparte el liderazgo de la zona junto con Corea del Norte, que el lunes venció 6-2 al combinado albiceleste en el debut.\n[Paulina Aprile, la arquera rosarina de la Selección Argentina que juega su primer Mundial]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-06T00:03:27.840+03:00",
+    "updated": "2024-09-06T00:03:27.840+03:00"
+  },
+  {
+    "uuid": "b6100b163afbb9c1f20a779993e30c9db9de5184",
+    "url": "https://www.eurasiareview.com/19072024-optogpt-for-improving-solar-cells-smart-windows-telescopes-and-more",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eurasia Review",
+    "published": "2024-07-18T22:14:00Z",
+    "title": "OptoGPT For Improving Solar Cells, Smart Windows, Telescopes And More",
+    "text": "Solar cell, telescope and other optical component manufacturers may be able to design better devices more quickly with AI.\nOptoGPT, developed by University of Michigan engineers, harnesses the computer architecture underpinning ChatGPT to work backward from desired optical properties to the material structure that can provide them.\nThe new algorithm designs optical multilayer film structures—stacked thin layers of different materials—that can serve a variety of purposes. Well-designed multilayer structures can maximize light absorption in a solar cell or optimize reflection in a telescope. They can improve semiconductor manufacturing with extreme UV light, and make buildings better at regulating heat with smart windows that become more transparent or more reflective depending on temperature.\nOptoGPT produces designs for multilayer film structures within 0.1 seconds, almost instantaneously. In addition, OptoGPT’s designs contain six fewer layers on average compared to previous models, meaning its designs are easier to manufacture.\n“Designing these structures usually requires extensive training and expertise as identifying the best combination of materials, and the thickness of each layer, is not an easy task,” said L. Jay Guo, U-M professor of electrical and computer engineering and corresponding author of the study published in Opto-Electronic Advances.\nFor someone new to the field, it’s difficult to know where to start. To automate the design process for optical structures, the research team tailored a transformer architecture—the machine learning framework used in large language models like OpenAI’s ChatGPT and Google’s Bard—for their own purposes.\n“In a sense, we created artificial sentences to fit the existing model structure,” Guo said.\nThe model treats materials at a certain thickness as words, also encoding their associated optical properties as inputs. Seeking out correlations between these “words,” the model predicts the next word to create a “phrase”—in this case a design for an optical multilayer film structure—that achieves the desired property such as high reflection.\nResearchers tested the new model’s performance using a validation dataset containing 1,000 known design structures including their material composition, thickness and optical properties. When comparing OptoGPT’s designs to the validation set, the difference between the two was only 2.58%, lower than the closest optical properties in the training dataset at 2.96%.\nSimilar to how large language models are able to respond to any text-based question, OptoGPT is trained on a large amount of data and able to respond well to general optical design tasks across the field.\nIf researchers are focused on a task, like designing a high-efficiency coating for radiative cooling, they can use local optimization—adjusting variables within bounds to achieve the best possible outcome—to further fine-tune the thickness to improve accuracy. During testing, the researchers found fine-tuning improves accuracy by 24%, reducing the difference between the validation dataset and OptoGPT responses to 1.92%.\nTaking analysis a step further, the researchers used a statistical technique to map out associations that OptoGPT makes.\n“The high-dimensional data structure of neural networks is a hidden space, too abstract to understand. We tried to poke a hole in the black box to see what was going on,” Guo said.\nWhen mapped in a 2D space, materials cluster by type such as metals and dielectric materials, which are electrically insulating but can support an internal electric field. All dielectrics, including semiconductors, converge upon a central point as the thickness approaches 10 nanometers. From an optics perspective, the pattern makes sense as light behaves similarly regardless of material as they approach such small thicknesses, helping further validate OptoGPT’s accuracy.\nKnown as an inverse design algorithm because it starts with the desired effect and works backward to a material design, OptoGPT offers more flexibility than previous inverse design algorithm approaches, which were developed for specific tasks. It enables researchers and engineers to design optical multilayer film structures for a wide breadth of applications.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "university of michigan",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-19T01:42:17.849+03:00",
+    "updated": "2024-07-19T01:42:17.849+03:00"
+  },
+  {
+    "uuid": "bbca957e6c38a282a427651c5a625586f797aae9",
+    "url": "https://www.wvtm13.com/article/savannah-cat-missing-in-bluff-park-1704665049/46306387",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lisa Crane",
+    "published": "2024-01-07T23:01:00Z",
+    "title": "Missing cat hybrid safely returns to Hoover home",
+    "text": "Missing cat hybrid safely returned home in Hoover\nVideo above was a report before the cat returned home\nAn African Savannah cat is back home Sunday afternoon after an eight-day search when he went on the prowl in Hoover.\nThis big cat hybrid is a woman's pet. He managed to jerk his leash from his owner’s hand more than a week ago during a walk.\nHis name is Viper. He looks more like an African serval than a house cat, but he's a mix of both. To owner Suzzan Fant, he's a part of the family.\nYour neighborhood:\nLocal coverage from WVTM 13\nShe was desperate to find him.\n“I'm trying to be strong, but the longer it goes, the more I'm realizing I might not see him again,\" she said.\nFant had already brought in a team of bloodhounds to track the cat on Sunday when a neighbor reported seeing him in the same area where he disappeared in Bluff Park.\nShe said the neighbors saw him in their front yard stuck somewhere.\n\"They grabbed his leash, but he wiggled out of it with his collar,\" Fant said.\nThey told her which direction he went and she was able to find him.\nFant posted a video and photos on social media.\n“I don't have kids, so they're like my babies. They're my kids,” Fant said.\nThey're very expensive animals, costing upward of $10,000 each. Fant says they're wonderful house pets. She has three of them.\n>> FOLLOW US ON SOCIAL:\nInstagram | YouTube\n“They're extremely intelligent and they're very playful. They're amazing hunters. They're very loyal to usually one member of the family,\" she said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.instagram.com/wvtm13/",
+      "https://www.youtube.com/@WVTM13",
+      "https://instagram.com/wvtm13/",
+      "https://youtube.com/@WVTM13",
+      "https://www.instagram.com/wvtm13"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "hoover",
+          "sentiment": "negative"
+        },
+        {
+          "name": "fant",
+          "sentiment": "none"
+        },
+        {
+          "name": "suzzan fant",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "wvtm",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "savannah",
+          "sentiment": "none"
+        },
+        {
+          "name": "bluff park",
+          "sentiment": "none"
+        },
+        {
+          "name": "hoover",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-08T01:15:09.880+02:00",
+    "updated": "2024-01-08T01:15:09.880+02:00"
+  },
+  {
+    "uuid": "705e4fc991bf2cfe7835d77821e53f5cc0abd805",
+    "url": "https://www.merca2.es/2025/02/18/opus-dei-docuserie-max-2143065",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@LaimaInc",
+    "published": "2025-02-18T05:07:00Z",
+    "title": "El Opus Dei al desnudo, la docuserie de Max que lo cuenta todo",
+    "text": "El Opus Dei, es una organización católica que promueve la búsqueda de Cristo dentro de las acciones más cotidianas, como el trabajo, o dentro de cualquier círculo familiar; a pesar de tener una buena misión dentro del mundo, dentro de Max se encuentra una docuserie que le demuestra a sus seguidores, el lado más oscuro de esta organización religiosa y como los derechos humanos de sus integrantes, pueden quedar vulnerados .\nPara lograr aumentar la veracidad de este proyecto de Max, los responsables detrás de él, cosecharon un importante número de mujeres que lograron romper todo vínculo con el Opus Dei, las cuales dieron su testimonio para desenmascarar el lado oculto de esta organización; sin embargo, luego del estreno de sus primeros episodios, el Opus Dei no se quedó de brazos cruzados y salió a hablar, con el fin de detener la gran polémica que se está armando a su al rededor.\nMax genera una gran polémica internacional y religiosa gracias al estreno de “ El minuto heroico: yo también dejé el Opus Dei ” El 7 de febrero de este año, Max estrenó la docuserie , El minuto heroico: yo también dejé el Opus Dei , la cual en cuestión de días, desencadenó una gran polémica internacional, pues en cada uno de sus episodios, se presentan el testimonio de diferentes mujeres, las cuales buscan destruir el lado amable de esta organización; esta serie comienza su investigación partiendo del testimonio de 13 mujeres, las cuales tienen sangre europea, latinoamericana y estadounidense , que formaron parte de esta organización ocupando el rol de numerarias, numerarias auxiliares o agregadas.\nAunque estas mujeres no comparten una misma lengua, estas compartieron un mismo drama , pues sostienen que cuando formaban parte del Opus Dei, eran víctimas de un trato abusivo laboral, psicológico y espiritual; además de contar con el testimonio de estas mujeres, los espectadores de la docuserie serán testigos del análisis e investigación de prestigiosos periodistas y profesionales de salud , como Antonia Cundy , periodista del Financial Times, o Vega González, psicóloga clínica y directora gerente del Centro de Asistencia e Investigación de Socioadicciones.\nLa respuesta del Opus Dei Fuente: Max.com Esta intrigante docuserie de Max, estuvo a cargo de la periodista española, Mònica Terribas , quien recibió el apoyo económico de la productora nacional, Mediapro Studio ; antes de destripar públicamente al Opus Dei, Terribas es conocida dentro de la industria periodística nacional, por haber sido la Directora de Televisió de Catalunya (2008-2012) y en la actualidad, es la vicepresidenta primera de la plataforma independentista Òmnium Cultural. Esta serie documental no es la primera producción de Mediapro Studio dentro de Max, pues esta productora fue la responsable detrás de series como The Head (2020) o Las Bravas F.C (2022) las cuales pueden encontrarse dentro del catálogo de la plataforma.\nDurante la semana de estreno de esta propuesta española, el Opus Dei, mediante un comunicado en su página oficial, salió a defender sus principios , sosteniendo que “ el enfoque que la docuserie asume no representa la realidad del Opus Dei ”; por otro lado, la organización dio a entender que los testimonios que se presentan en cada episodio, no es ninguna novedad, pues estos ya se dieron a conocer en el pasado y afirman que se encuentran trabajando en mejorar sus condiciones, gracias a estas palabras.\nSin dudarlo ni un instante, pues se ha juzgado negativamente su trabajo, luego de la publicación del comunicado de la organización, Mònica Terribas se presentó en el programa de Jordi Basté y salió a responder, destruyendo y cuestionando el planteamiento de que estas denuncias, ya eran de público conocimiento: “ Si eran conocidas, ¿por qué no hay desde hace décadas una manera sistemática de reparar económicamente los daños psicológicos que se han hech o?”; por otro lado, la periodista felicitó el hecho de que el Opus Dei salió a pedir disculpas, pero indicó que eso no es suficiente : “… Cuando hay una vulneración de derechos no estamos hablando de perdón, sino de repararlo desde un punto de vista económico, jurídico, etc ”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "topics": [
+      "Politics->cultural policies",
+      "Politics->freedom of religion",
+      "Social Issue->values",
+      "Social Issue->religious discrimination",
+      "Religion and Belief->religious ritual",
+      "Religion and Belief->religious leader"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.youtube.com/embed/F2W8nnFqAcU?feature=oembed",
+      "https://es.wikipedia.org/wiki/M%C3%B2nica_Terribas",
+      "https://www.youtube.com/embed/F2W8nnFqAcU",
+      "https://youtube.com/embed/F2W8nnFqAcU?feature=oembed",
+      "https://www.es.wikipedia.org/wiki/M%C3%B2nica_Terribas"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-18T07:38:37.040+02:00",
+    "updated": "2025-02-18T07:38:37.040+02:00"
+  },
+  {
+    "uuid": "0d2b512ae1c44390ac8ee713268ec9b6ced2277a",
+    "url": "https://www.meteoweb.eu/2024/11/malaria-bambini-africani-resistenti-farmaco/1001692257",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Filomena Fotia",
+    "published": "2024-11-15T13:55:00Z",
+    "title": "Malaria, bambini africani resistenti al farmaco",
+    "text": "Uno studio condotto in Uganda ha rivelato la presenza di resistenza parziale al farmaco antimalarico artemisinina in bambini africani con malaria grave. La ricerca, pubblicata sul Journal of the American Medical Association e presentata all’Annual Meeting of the American Society of Tropical Medicine and Hygiene, ha documentato che 11 bambini su 100, tra i 6 mesi e i 12 anni, non hanno mostrato una completa risposta al trattamento con artesunato, un derivato dell’artemisinina. Inoltre, 10 pazienti hanno avuto una recidiva di malaria causata dallo stesso ceppo, suggerendo che il trattamento non aveva eliminato completamente i parassiti. Questo è il primo studio che evidenzia una resistenza parziale nei bambini africani con malaria complicata. La resistenza all’artemisinina, che era già emersa in Asia, sta ora mostrando segni di diffusione in Africa, dove la malaria è la principale causa di morte, soprattutto tra i bambini. Sebbene tutti i pazienti siano guariti, i ricercatori sono preoccupati che il farmaco stia perdendo efficacia, con la possibilità che i parassiti sviluppino resistenze simili a quelle osservate nel Sud/Est asiatico. Questo fenomeno potrebbe compromettere gravemente i progressi nella lotta contro la malaria.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": " Journal of the American Medical Associatio",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Uganda",
+          "sentiment": "none"
+        },
+        {
+          "name": " Afric",
+          "sentiment": "none"
+        },
+        {
+          "name": " Asi",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T16:24:25.764+02:00",
+    "updated": "2024-11-15T16:24:25.764+02:00"
+  }
+]

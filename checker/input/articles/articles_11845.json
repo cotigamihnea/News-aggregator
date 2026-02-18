@@ -1,0 +1,396 @@
+[
+  {
+    "uuid": "c8e3f2a482d3ba91e28158e00173bd11b7d00e96",
+    "url": "https://www.francebleu.fr/infos/insolite/un-pompier-sarthois-sauve-un-homme-de-la-noyade-a-nice-2851576",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nicolas Georgeault",
+    "published": "2024-06-23T09:15:00Z",
+    "title": "Un pompier sarthois sauve un homme de la noyade à Nice - France Bleu",
+    "text": "Un pompier sarthois sauve un homme de la noyade à Nice Jéréméy Diguer, un sapeur-pompier volontaire sarthois, a sauvé un septuagénaire, nommé Garo, de la noyade ce mercredi 19 juin à Nice. Ce mercredi 19 juin, Jérémy Diguer, alias [Iron'Pinpon](https://www.facebook.com/IronPinpon) sur les réseaux sociaux, a sauvé un homme de la noyade. C'est lors d'un footing que ce sapeur-pompier volontaire du Mans, a vu un homme en train de se noyer. Il est alors intervenu avec un sauveteur d'une plage privée, ramenant l'arménien de 71 ans sain et sauf sur la terre ferme. \"Ce matin, lors de mon dernier footing matinal de 18km sur la promenade des anglais suite à l’ [IRONMAN de Nice](https://www.francebleu.fr/emissions/ils-sont-fous-ces-bretons/cette-maman-bretonne-se-lance-a-l-assaut-d-un-ironman-3705817) il y a 3 jours, j’ai eu la chance d’être là au bon moment. Une mer [méditerranéenne](https://www.francebleu.fr/theme/mediterranee) déchaînée, des vagues plus grandes que moi avec un vent de dingue et j’aperçois un homme à 250/300m emporté par le large sur le point de se noyer. Quelques secondes plus tard, emporté par l’euphorie, je jette tout ce que j’ai et en avant sauver ce monsieur… Rejoins par un sauveteur d’une plage privée, c’est donc très heureux que nous ramenons cet Arménien de 71 ans vraiment mal-en-point\" raconte le pompier sur sa page sportive. Un long message de remerciement L'homme de 71 ans sauvé par Jérémy Diguer lui a adressé un SMS dans lequel il décrit ce qu'il lui est arrivé : \"Je ne sais pas comment vous remercier à vous et au secouriste de Radisson. En train d'essayer de sortir par deux fois de l'eau les petits galets ont glissé sous mon pied avec les vagues. Je me suis retourné et j'étais déjà en une seconde à 100 mètres de la côte. Je n'arrivais pas à avancer en nageant. J'ai essayé de rester flotter pour ne pas trop me fatiguer. [...] Un miracle que vous étiez à Nice et que vous passiez par là.\" Dans ce long message, il remercie ensuite chaleureusement le sapeur-pompier volontaire \"Votre promptitude était incroyable, remarquable. C'est Dieu qui vous a fait passer par là.\" Finalement, tout est bien qui finit bien. Garo accepte même de prendre en charge les réparations du portable de Jérémy Diguer, qui s’est cassé sur les galets lors de l’intervention. « Merci à ce monsieur qui a la gentillesse de prendre en charge les réparations, même si on aurait préféré que ça se passe autrement, mais c’est ça aussi la solidarité et l’entraide ! » Ma France : Améliorer le logement des Français Quelles sont vos solutions pour aider les Français à bien se loger ? En partenariat avec [Make.org](https://make.org/FR), France Bleu mène une consultation citoyenne à laquelle vous pouvez participer ci-dessous.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Health"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://make.org/FR),",
+      "https://www.facebook.com/IronPinpon)",
+      "https://facebook.com/IronPinpon)",
+      "https://www.make.org/FR),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-23T12:22:21.463+03:00",
+    "updated": "2024-06-23T12:22:21.463+03:00"
+  },
+  {
+    "uuid": "fc7240c17b9ca09541dd35d0df0da866bf83e5e7",
+    "url": "https://economictimes.indiatimes.com/nri/latest-updates/indian-users-can-now-pay-abroad-and-on-foreign-e-commerce-sites-using-upi-via-paypal-world/articleshow/122852976.cms",
+    "ord_in_thread": 0,
+    "author": "-",
+    "published": "2025-07-22T19:00:00Z",
+    "title": "Indian users can now pay abroad and on foreign e-commerce sites using UPI via PayPal World - The Economic Times",
+    "text": "Indian users can now use the Unified Payments Interface (UPI) for international transactions through PayPal, marking a significant development in cross-border digital payments. PayPal has launched \\\"PayPal World\\",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->foreign exchange market",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->financial service",
+      "Social Issue->social services",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->biotechnology"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Economic Times",
+          "sentiment": "neutral",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        },
+        {
+          "name": "UPI",
+          "sentiment": "neutral",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        },
+        {
+          "name": "PayPal",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "PYPL",
+              "exchange": "NASDAQ"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": null,
+      "top_news": [
+        "top_news_nz",
+        "top_news_au",
+        "top_news_ae",
+        "top_news_us",
+        "top_news_gb",
+        "top_news_th",
+        "top_news_sa",
+        "top_news_sg",
+        "top_news_ph",
+        "top_news_hk",
+        "top_news_nl",
+        "top_news_qa",
+        "top_news_ie",
+        "top_news_pk",
+        "top_news_id",
+        "top_news_dk",
+        "top_news_eg",
+        "top_news_za",
+        "top_news_my",
+        "top_news_kw",
+        "top_news_be",
+        "top_news_in",
+        "top_news_ca",
+        "top_news_iq",
+        "top_news"
+      ],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:47:24.975+03:00",
+    "updated": "2025-08-01T08:07:09.000+03:00"
+  },
+  {
+    "uuid": "d7c143e17ca46dabd0b1fa7552ec216e6b0f7115",
+    "url": "https://www.archyde.com/its-a-call-for-solidarity-to-protect-others-but-to-protect-yourself-assures-yavnie-caille-founder-of-the-renaloo-association/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archyde",
+    "published": "2024-01-07T23:48:00Z",
+    "title": "“It’s a call for solidarity to protect others but to protect yourself” assures Yavnie Caillé, founder of the Renaloo association",
+    "text": "2024-01-06 10:30:52\nSolidarity mask operation: “It’s a call for solidarity to protect others but to protect yourself” assures Yavnie Caillé, founder of the Renaloo association\nOn the same subject\n1:41\nVisit of the Minister of Health to an anti-abortion institute: “It’s quite scandalous” reacts Mathilde Panot\n2:50\n“Sober January”: a month of introspection – 07/01\n1:42\nSpain: masks compulsory again in hospitals in three regions, facing an increase in cases of flu and Covid\n1:18\nIncrease in cases of flu and Covid: associations of immunocompromised people call for the wearing of masks to protect the most vulnerable\nread\nSolidarity mask operation: “It’s a call for solidarity to protect others but to protect yourself” assures Yavnie Caillé, founder of the Renaloo association\n2:46\nCold/Virus: is the mask back this winter? – 06/01\n1:18\nWearing a mask: “It is no longer for restriction but it is a mask that is both altruistic and individual” assures Benjamin Davido, infectious disease specialist\n1:53\nFaced with the virus, should we put the mask back on? – 06/01\n1:18\nOnly 15% of French people wear a mask in the presence of vulnerable people, according to Public Health France\n1:31\nWeight loss, better sleep, better concentration… What is this new challenge of “no added sugar month”?\n0:30\nPain au chocolat or chocolatine: Emmanuel Macron gives his opinion during the Galette de l’Élysée\n1:28\nEmergencies in Lyon: too much waiting, the firefighters angry\n1:35\nBuzzing, whistling, cicada noises… where does tinnitus come from?\n1:18\nAfter “Dry January, here is the new trend for this alcohol-free month: “Damp January”\n1704671289\n#call #solidarity #protect #protect #assures #Yavnie #Caillé #founder #Renaloo #association",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "yavnie caillé",
+          "sentiment": "negative"
+        },
+        {
+          "name": "benjamin davido",
+          "sentiment": "none"
+        },
+        {
+          "name": "mathilde panot",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "solidarity",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "spain",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-08T01:51:00.994+02:00",
+    "updated": "2024-01-08T01:51:00.994+02:00"
+  },
+  {
+    "uuid": "22a8e156fe6f746679b19bae7b4c93f22dc5fe87",
+    "url": "https://www.benzinga.com/economics/macro-economic-events/25/03/44291804/gold-stock-flashing-bullish-pennant-breakout-move",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Joshenomoto@benzinga.com",
+    "published": "2025-03-12T22:06:00Z",
+    "title": "Surging Precious Metals Demand Could Lift Lagging Barrick Gold - Barrick Gold (NYSE:GOLD)",
+    "text": "Zinger Key Points\n- Precious metals demand is skyrocketing amid broader economic fears, boding well for miner Barrick Gold.\n- While GOLD stock has lagged the namesake asset, a technical formation broadcasts a catchup move.\nFind out which stock just plummeted to the bottom of the new Benzinga Rankings. Updated daily—spot the biggest red flags before it’s too late.\nWhile economic concerns triggered by President Donald Trump's tariffs represent one of the biggest sources for global headlines, the precious metals sector has been a cynical beneficiary. As anxieties have risen, demand for gold has skyrocketed, potentially boding well for the mining complex. Intriguingly, despite earlier choppiness, resource producer Barrick Gold Corp GOLD appears to be signaling an imminent breakout move.\nFundamentally, bullishness toward GOLD stock makes plenty of sense. Historically, the underlying precious metal has performed well as a safe-haven asset, absorbing capital from investors seeking wealth protection or stability. Right now, gold demand is simply on fire, with major banks buying bullion bars abroad and transporting them back home via commercial jets.\nIt's not just affluent individual customers that are contributing to the modern-day gold rush. Earlier this year, the World Gold Council reported that total gold demand — which includes central banks — set fresh records. Further, with key inflation data coming in lower than expected, the Federal Reserve theoretically has a path toward interest rate cuts. Such a dynamic could also be net bullish for the metal.\nTo be fair, while gold has soared to blistering heights, the mining complex has lagged the asset, largely due to rising costs squeezing profitability. Nevertheless, as the metal continues to march higher due to the fear trade, the pressure on the bottom line may ease. If so, GOLD stock appears to be a compelling idea, both as a near-term transaction and a longer-term investment.\nSpeculators Could Front Run a Breakout in GOLD Stock\nPerhaps the most compelling argument for future upside in GOLD stock isn't in the fundamental narrative but rather the technical. At this juncture, the equity appears to be charting a bullish pennant formation.\nSomewhat resembling a sideways triangle pointing to the right, a bullish pennant is a three-phase pattern, featuring an initial rally, a subsequent consolidation (which forms the iconic pennant shape) and the eventual breakout move. In the case of GOLD stock, the first phase appears to have materialized in late January. It also appears that the security is in the final section of the second phase just prior to a possible breakout.\nNow, what makes the pennant in GOLD stock so enticing is the volume. Under a classic pennant formation, volume rises in conjunction with the stock price during the initial rally. In the consolidation phase, the volume fades. That's exactly what's on the chart as of this writing.\nOf course, there's no guarantee as to what might happen next. Still, with the combination of compelling fundamental catalysts and a strong technical setup, GOLD stock certainly should be on the radar.\nOn a final note, GOLD stock as a baseline carries a largely neutral bias. Using pricing data over the past six years, a long position held for any eight-week period has a 50/50 chance of being profitable. However, during those eight weeks, the median positive return is 11.29% while the median negative return is 8.91%. Therefore, the bulls tend to have a slight edge in the risk-reward department.\nUnder circumstances of modest upside (weekly returns up to 5%), a long position over eight weeks also carries a 50/50 success ratio. However, bullish sentiment tends to be pushed forward, with long odds peaking at nearly 61% in the third week following a modest upside.\nConsidering that GOLD stock has been steadily marching higher since late February, this framework also adds to the equity's speculative appeal.\nCharting a Bullish Strategy for Barrick Gold\nWhile the storyline surrounding Barrick Gold is arguably attractive, it all comes down to practicality. Attempting to front-run a technical pattern is challenging because it's a matter of good old-fashioned guesswork.\nThat said, one basic approach is to consider buying a call option straight up. Specifically, speculators may be interested in the $20 call expiring June 20 of this year. At the time of writing, the premium (ask) for this derivative is 81 cents (or $81 when applying the 100-share option multiplier). This means 81 cents needs to be added to the current share price for the trade to break even or about $19.25.\nGiven the implications of the bullish pennant formation, GOLD stock may aim for the prior high in October last year, which was just above $21.\nAnother riskier trade is to utilize the leverage of options and buy a bull call spread for the options chain expiring April 11. The highest-reward trade available that still makes rational sense based on statistical data is arguably the 18.50/19.50 bull spread.\nThe above transaction requires GOLD stock to be at or above the $19.50 short call strike at expiration. Should the bullish pennant materialize as speculated, this could be a very lucrative transaction, considering its maximum payout of almost 133%.\nRead Next:\nPhoto: Shutterstock\nGOLDBarrick Gold Corp$18.33-0.65%\nEdge Rankings\nPrice Trend\nMarket News and Data brought to you by Benzinga APIs\n© 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.\nTrade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.\nJoin Now: Free!\nSign in",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Environment"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->market and exchange",
+      "Social Issue->social condition",
+      "Social Issue->social problem",
+      "Environment->energy resources",
+      "Environment->sustainability",
+      "Environment->population growth"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Donald Trump",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Barrick Gold Corp",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T00:44:32.275+02:00",
+    "updated": "2025-03-13T00:44:32.275+02:00"
+  },
+  {
+    "uuid": "57fd7c4806cdc2e4555641f3677c8f19c0586969",
+    "url": "https://www.newsbreak.com/washington-state/3361603431361-nhl-trade-deadline-winners-include-golden-knights-panthers-hurricanes-and-kyle-okposo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-03-09T09:00:00Z",
+    "title": "NHL trade deadline winners include Golden Knights, Panthers, Hurricanes and Kyle Okposo",
+    "text": "11 minutes ago NHL teams combined to make 23 trades on Friday, dealing a total of 33 players and more than 20 draft picks, before the league’s deadline with some teams and players seeming to win — and some seeming to lose.\nThe defending Stanley Cup champion Vegas Golden Knights, the three-time defending Metropolitan Division-champion Carolina Hurricanes and league-leading Florida Panthers appear to have made the most of the opportunity.\n“Some of the teams at the top were very aggressive — and it looks like a real arms race,” Red Wings general manager Steve Yzerman said.\nThe San Jose Sharks, Detroit and Pittsburgh Penguins, meanwhile, chose a different and questionable approach at the potentially pivotal point of the season.\nPlayers, too, fell on one side or the other when they were traded to a contending team or ended up stuck with a struggling squad.\nHere’s a look how the aforementioned fared upon further review of the NHL trade deadline.\nGOLDEN KNIGHTS Shooting to win a second straight Cup in their seventh season, Vegas put more chips on the table with a series of trades.\n“We wanted to help our team,” said general manager Kelly McCrimmon said. “Our recent play hasn’t been good enough.”\nThe Golden Knights acquired two-time All-Star center Tomas Hertl from the Sharks in perhaps the biggest deal on Friday. Earlier in the week, they acquired point-producing defenseman Noah Hanifin from Calgary and 29-year-old forward Anthony Mantha, who has 20 goals this season for the third time in his career, in another deal with Washington.\nMcCrimmon said he anticipates Hertl, who is recovering from knee surgery, to be available in the regular season to help with the franchise’s push for playoff positioning.\nHURRICANES Shooting to go from good to great in the playoffs, Carolina boosted its chances to score and contend by acquiring two players who have hoisted the Cup.\nThe Hurricanes added center Jake Guentzel, who is averaging more than a point per game, from the Penguins on the eve of the deadline. They followed that bold move by adding even more depth at center, getting Evgeny Kuznetsov in a trade with Washington.\nPANTHERS Florida flourished in the days and hours leading up to the deadline, helping the franchise keep up with the Hurricanes.\nThe Panthers added more help up front with scoring winger Vladimir Tarasenko from Ottawa and on the blue line with Kyle Okposo from Buffalo.\nOKPOSO The 35-year-old defenseman can be deemed a winner, getting away from the Sabres, whose postseason drought dates to 2011, and landing with one of the Stanley Cup favorites — along with Edmonton — according to FanDuel Sportsbook.\nSHARKS Unless team doctors don’t think Hertl can bounce back from his knee surgery, San Jose may regret giving up a player possibly in his prime that was under contract through the 2029-30 season.\nThe Sharks, who are at the bottom of the league-wide standings with Chicago, did get top prospect David Edstrom and a 2025 first-round pick in exchange for Hertl. There’s a good chance Edstrom or the prospect chosen, though, won’t be as good as Hertl.\nRED WINGS Yzerman’s cautious approach has finally started to show some promising results, putting the once-proud franchise in a position to be in the playoffs for the first time since 2016.\nThe Hockey Hall of Fame player, who built Tampa Bay into a Stanley Cup winner, was arguably too passive at the deadline.\nWhile he chose to stand pat, Yzerman did say what some of the top teams chose to do was interesting.\n“For everybody following the league — fans, media, all of us in it— it’s going to be a very exciting right down the wire, all the way through the Stanley Cup Finals, just to see how this all plays out,” he said.\nPENGUINS Sensing a second straight season without a postseason appearance, Pittsburgh pulled the plug and was a seller at the deadline even though the Sidney Crosby-led team is potentially in the hunt for a wild-card spot.\nThe Penguins dealt Guentzel, their ninth all-time leading goal scorer, for forward Michael Bunting and some prospects to Carolina and veteran defenseman Chad Ruhwedel to the New York Rangers for a fourth-round pick in 2027.\nPACIORETTY The 35-year-old winger could have chased a Cup and possibly added to his value as a free agent, but the Capitals were unable to deal him and he will play out the season with a team that will have to make a surprisingly strong finish just to make the playoffs.\n___ Expand All Read in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kyle okposo",
+          "sentiment": "negative"
+        },
+        {
+          "name": "steve yzerman",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nhl",
+          "sentiment": "negative"
+        },
+        {
+          "name": "san jose sharks",
+          "sentiment": "none"
+        },
+        {
+          "name": "carolina hurricanes",
+          "sentiment": "none"
+        },
+        {
+          "name": "vegas",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida panthers",
+          "sentiment": "none"
+        },
+        {
+          "name": "metropolitan division",
+          "sentiment": "none"
+        },
+        {
+          "name": "pittsburgh penguins",
+          "sentiment": "none"
+        },
+        {
+          "name": "vegas golden knights",
+          "sentiment": "none"
+        },
+        {
+          "name": "red wings",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "golden knights",
+          "sentiment": "none"
+        },
+        {
+          "name": "detroit",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-09T11:11:39.069+02:00",
+    "updated": "2024-03-09T11:11:39.069+02:00"
+  },
+  {
+    "uuid": "eb6a954b6e0b339e074b69d1cc848a6f71b2c02f",
+    "url": "https://www.em.com.br/colunistas/fabiano-moraes/2024/11/6983835-telemedicina-ao-alcance-de-todos-conheca-a-franquia-nextgo-saude.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Fabiano Moraes",
+    "published": "2024-11-08T00:16:00Z",
+    "title": "Telemedicina ao Alcance de Todos: Conheça a Franquia NextGo Saúde - Estado de Minas",
+    "text": "Divulgação\ncrédito: Divulgação Em meio à crescente demanda por serviços de saúde acessíveis, o Grupo NextGo lança a Franquia NextGo Saúde , estabelecendo um novo patamar no setor de telemedicina. A iniciativa visa democratizar o acesso a atendimentos médicos de qualidade em todas as regiões do Brasil.\nPensada para oferecer soluções inovadoras, a NextGo Saúde facilita o acesso ao atendimento médico por meio da telemedicina, proporcionando cuidados eficientes e acessíveis a todos. O modelo de franquia apresenta-se como uma excelente oportunidade para empreendedores que desejam ingressar no crescente mercado de saúde, contribuindo para uma transformação significativa no cenário nacional.\nOs franqueados recebem suporte contínuo e acesso à tecnologia avançada do Grupo NextGo , o que garante a satisfação dos pacientes e a eficácia no atendimento. O CEO do grupo, Jonatas Moreira, destaca: “Nosso objetivo é tornar a saúde acessível a todos, e a Franquia NextGo Saúde é um passo importante nessa direção. Queremos que a telemedicina faça parte do cotidiano das pessoas, especialmente em regiões com difícil acesso a serviços médicos.”\nAlém de seu impacto social, a Franquia NextGo Saúde oferece um modelo de negócio atraente, com estrutura operacional eficiente e retorno rápido sobre o investimento. Israel Miranda, CEO de Operações da NextGo, comenta: “Estamos comprometidos em oferecer suporte integral aos nossos franqueados, garantindo que eles tenham todas as ferramentas necessárias para proporcionar um atendimento médico de excelência. Isso é crucial para que possamos alcançar nossa missão de melhorar a saúde no Brasil de forma significativa.”\nCom esta iniciativa, o Grupo NextGo reforça seu compromisso com a inovação contínua e a melhoria da saúde no Brasil, assegurando que mais brasileiros possam acessar atendimentos médicos de forma prática e eficaz. O lançamento da Franquia NextGo Saúde marca um avanço significativo, não apenas expandindo o alcance do grupo, mas também promovendo um futuro onde o acesso à saúde é universal e sem barreiras.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Health"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://franquianextgo.com",
+      "https://www.instagram.com/gruponextgo/profilecard/?igsh=bm9lczE1aXJ2NTZk",
+      "https://www.franquianextgo.com",
+      "https://instagram.com/gruponextgo/profilecard/?igsh=bm9lczE1aXJ2NTZk",
+      "https://www.instagram.com/gruponextgo/profilecard/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T03:24:27.572+02:00",
+    "updated": "2024-11-08T03:24:27.572+02:00"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "uuid": "b0e88d940bdaf077b72d6142b8d8c07b77bc4ed3",
+    "url": "https://discuss.circleci.com/t/selenium-tests-with-chromium-google-chrome-failing-with-execlp-failed-error-after-server-release-4-6-1/51786",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@caco3 CaCO3",
+    "published": "2024-11-15T00:11:00Z",
+    "title": "Selenium tests with chromium / google-chrome failing with \"execlp failed\" error after Server release 4.6.1",
+    "text": "Our scheduled CI build started failing on the 23rd of August. We use capybara + selenium + chromedriver to run some integration tests in chromium, and these tests started breaking:\nRSpec::Core::MultipleExceptionError \\e[1mFailure/Error: \\e[0mUnable to find matching line from backtrace session not created: Chrome failed to start: exited normally. (session not created: DevToolsActivePort file doesn't exist) (The process started from chrome location /home/deploy/.cache/selenium/chrome/linux64/128.0.6613.84/chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.) session not created: Chrome failed to start: exited normally. (session not created: DevToolsActivePort file doesn't exist) (The process started from chrome location /home/deploy/.cache/selenium/chrome/linux64/128.0.6613.84/chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nI saw a CircleCI changelog entry on this day, for “Server release 4.6.1”.\nI tried installing google-chrome instead of chromium, but we are getting the same crash. Running google-chrome manually from an SSH session gives me a “execlp failed” error:\nroot@c49f0749511c:/home/circleci/project# /usr/bin/google-chrome --help [0827/022314.971585:FATAL:chrome_main_delegate.cc(436)] execlp failed: No such file or directory (2) Trace/breakpoint trap (core dumped)\nNote that the tests are all passing when I run them locally on my machine using the exact same Docker image. So the issue appears to be a Docker permission that was recently removed when running the images on CI.\nI found a blog post that describes a similar error: Chrome in docker | Public Notes\nOtherwise I haven’t been able to find too much on Google. Has anyone else run into this? Is there something I can change in my CircleCI config, or in capybara/selenium? Thanks!\nSorry I’ve just realized that selenium was downloading it’s own version of chrome instead of using the one that I had already installed in the container. Apparently newer versions of selenium come with “selenium manager” and it downloads it’s own browser.\nThese failed CI builds coincide with the release of Chrome 128. So it looks like I need to downgrade Chrome to <= 127 until selenium is updated. It looks like I might be able to do this by setting the SE_BROWSER_VERSION environment variable.\nSE_BROWSER_VERSION\nHi @ndbroadbent\nWhere you able to solve this issue? How did you solve it?\nI have a native host (Debian Bullsey) which uses chromium 126 and it works fine. How ever I need to run it within a docker container which is Debian Bookworm based and uses chromium 130.\nI am not sure how I would have to use the mentioned SE_BROWSER_VERSION.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T08:10:05.308+02:00",
+    "updated": "2024-11-15T08:10:05.308+02:00"
+  },
+  {
+    "uuid": "cc504f4de422c37cb82e2890a300982b554d0c03",
+    "url": "https://www.newsbreak.com/cbs-san-francisco-500227/3714529213995-strong-storm-to-smack-bay-area-with-heavy-rain-damaging-winds",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-12-13T19:32:00Z",
+    "title": "Strong storm to smack Bay Area with heavy rain, damaging winds",
+    "text": "By Carlos Castañeda ,\n4 hours ago\nFriday afternoon First Alert Weather forecast 12/13/24 02:13\nHeading into the weekend, the Bay Area was set to receive another heavy dose of rain accompanied by gusty and damaging winds beginning Friday evening.\nThe National Weather Service said in its daily forecast discussion for the Bay Area that \"impactful\" rain would return Friday evening into Saturday with flooding concerns through Sunday. A flood watch was in effect from 2 p.m. Friday through 4 p.m. Sunday for the North Bay because excessive rain runoff could flood rivers, creeks, streams, and other low-lying and flood-prone areas.\nWhile most of the flood concerns were in the North Bay, a combination of high surf and king tides also prompted the Weather Service to issue a coastal flood advisory for both the low-lying regions of the North Bay and the San Francisco Bay shoreline until 1 p.m. Monday.\nKPIX First Alert Weather: Current conditions, alerts, maps for your area\nFarther north in Mendocino County, a flood warning was in effect from late Friday to Sunday morning for the Russian River near Hopland. The Weather Service said the river will rise above flood stage to 17.2 feet early Saturday afternoon. The flood stage is 15 feet.\nThe arrival of the next storm front will be accompanied by gusty winds from the south, beginning Friday night and into Saturday, especially along coastal areas, The Weather Service said the winds were expected to blow down trees and power lines, resulting in widespread power outages.\nA high wind warning was issued for the hills in Marin County and western Sonoma County, the North Bay coast, San Francisco, and the Peninsula coast from 10 p.m. Friday to 7 a.m. Saturday. South winds were expected between 25 to 35 mph with gusts of up to 60 mph. The wind warning was preceded by a wind advisory in effect from 1 p.m. to 10 p.m. Friday for winds expected in the 20 to 30 mph range and gusts of up to 50 mph.\nFollowing fairly low rainfall totals early to mid-Friday morning of a few hundredths to a few tenths of an inch, a more widespread band of showers was moving into the Northern California coast late Friday morning and early afternoon. The showers were going to start in the North Bay and spread to the rest of the Bay Area throughout the late afternoon and evening, reaching the Central Coast overnight Friday and into Saturday.\nThe Weather Service said the most intense rain was expected overnight Friday into Saturday with the highest totals across far northern Sonoma County. Rain totals in the North Bay between Friday and Saturday were expected to be 2 to 3 inches and between 3 to 5 inches across North Bay coastal and interior mountains.\nFor the rest of the Bay Area, rain totals will range from 0.5 to 1 inch, slightly higher across the coastal mountain ranges.\nWhile drier conditions were expected by Sunday, more rainfall chances were expected on Monday with generally lower amounts of precipitation than the weekend storm.\n7",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3XFcrJ_0xPqo3TX00",
+      "https://img.particlenews.com/image.php?url=3XFcrJ_0xPqo3TX00",
+      "https://forecast.weather.gov/wwamap/wwatxtget.php?cwa=MTR&wwa=high%20wind%20warning",
+      "https://kpix.com/weather",
+      "https://amp-static.cbsnews.com/amp/embed/video/?feature%5Bconsent%5D=0&setDevice=mobile&v=564e83c5974b3893ba1bcac5fe5947af1734132238&usprivacy=null#xVd7b9tGEv8qAv%2B8mhKXy6eAQ8%2BJYzS4IHUeboAzC2H2QWkrvrC7lKxL%2FN1vlqJkySnQOk1xCKAsZ3feM78Zf%2Fagt21Xwc6bW93LC0%2BZl21VQWcUq6Q3L6EySBVyozh%2BenXLFNIvvI0SsvXmnz1lZW28%2Bd1nz%2B4692TTCrxXAo80yRMgceYHKcn8iAP1WRARH5JURIQmkgYRvq27%2B%2FeyfO041p39zyeq%2B1e79e1tl%2FZv333cvrvufsmyj%2F9dv6NbfN1qtVTNK6GsahtkMSUSTdUv8VxqJWDnQ2mlbtq28UuljfWhktr6Wwl2JbVftlpyQDIJCQ2dAVZZ56x3PbBPjuyTa",
+      "https://forecast.weather.gov/wwamap/wwatxtget.php?cwa=MTR&wwa=coastal%20flood%20advisory",
+      "https://forecast.weather.gov/wwamap/wwatxtget.php?cwa=MTR&wwa=flood%20watch",
+      "https://forecast.weather.gov/wwamap/wwatxtget.php?cwa=MTR&wwa=wind%20advisory",
+      "https://forecast.weather.gov/wwamap/wwatxtget.php?cwa=MTR&wwa=flood%20warning",
+      "https://www.forecast.weather.gov/wwamap/wwatxtget.php?cwa=MTR&wwa=high%20wind%20warning",
+      "https://www.forecast.weather.gov/wwamap/wwatxtget.php?cwa=MTR&wwa=wind%20advisory",
+      "https://www.forecast.weather.gov/wwamap/wwatxtget.php?cwa=MTR&wwa=flood%20warning",
+      "https://www.forecast.weather.gov/wwamap/wwatxtget.php?cwa=MTR&wwa=flood%20watch",
+      "https://www.kpix.com/weather",
+      "https://img.particlenews.com/image.php",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3XFcrJ_0xPqo3TX00",
+      "https://www.forecast.weather.gov/wwamap/wwatxtget.php?cwa=MTR&wwa=coastal%20flood%20advisory",
+      "https://forecast.weather.gov/wwamap/wwatxtget.php",
+      "https://www.amp-static.cbsnews.com/amp/embed/video/?feature%5Bconsent%5D=0&setDevice=mobile&v=564e83c5974b3893ba1bcac5fe5947af1734132238&usprivacy=null#xVd7b9tGEv8qAv%2B8mhKXy6eAQ8%2BJYzS4IHUeboAzC2H2QWkrvrC7lKxL%2FN1vlqJkySnQOk1xCKAsZ3feM78Zf%2Fagt21Xwc6bW93LC0%2BZl21VQWcUq6Q3L6EySBVyozh%2BenXLFNIvvI0SsvXmnz1lZW28%2Bd1nz%2B4692TTCrxXAo80yRMgceYHKcn8iAP1WRARH5JURIQmkgYRvq27%2B%2FeyfO041p39zyeq%2B1e79e1tl%2FZv333cvrvufsmyj%2F9dv6NbfN1qtVTNK6GsahtkMSUSTdUv8VxqJWDnQ2mlbtq28UuljfWhktr6Wwl2JbVftlpyQDIJCQ2dAVZZ56x3PbBPjuyTa",
+      "https://www.img.particlenews.com/image.php?url=3XFcrJ_0xPqo3TX00",
+      "https://amp-static.cbsnews.com/amp/embed/video/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-14T01:45:02.813+02:00",
+    "updated": "2024-12-14T01:45:02.813+02:00"
+  },
+  {
+    "uuid": "924d901669fd14e586239600b4ec3cf1dc7e20a7",
+    "url": "https://www.aninews.in/news/national/general-news/five-lakh-lavender-plants-cultivated-in-j-ks-udhampur20240719082622",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "aninews.in",
+    "published": "2024-07-19T03:26:00Z",
+    "title": "Five lakh lavender plants cultivated in J-K's Udhampur",
+    "text": "Five lakh lavender plants cultivated in J-K's Udhampur ANI | Updated: Jul 19, 2024 08:26 IST\nANI News Join our Whatsapp channel\nUdhampur (Jammu and Kashmir) [India], July 19 (ANI): In a significant development for the agricultural sector of Udhampur district in Jammu and Kashmir, the Department of Agriculture has successfully cultivated approximately five lakh lavender mother plants at Incha village in Ramnagar tehsil.\nThis initiative marks the first-ever introduction of lavender cultivation in Udhampur , as the region's climatic conditions and soil composition have been deemed suitable for this aromatic plant.\nThe department has utilized around 100 kanals of land in Incha village to nurture the lavender mother plants, which will soon be distributed among local farmers , promising a double-edged benefit.\nThis will not only boost their income, but it will also provide a much-needed respite from the menace of monkeys. The region has been grappling with a significant monkey population, which often damages crops like maize, causing substantial losses to farmers .\nLavender cultivation is expected to be a game-changer for Udhampur 's farmers as it offers a lucrative alternative to traditional crops.\nWith a high demand for lavender products on the market, farmers can expect substantial profits from this venture. Moreover, the aromatic plant is known to repel pests, further enhancing its appeal among farmers .\nAnju Devi, a local from Incha village of Udhampur District, said that in the village of Incha, the department has provided lavender mother plants, and the flowers have already begun to bloom. She expressed her delight at the initiative. We had heard a lot about limited farming earlier.\nPrime Minister Narendra Modi and Dr Jitendra Singh of the PMO have launched several government schemes to empower women. The primary motivation behind these schemes is to make women self-reliant.\n\"I believe that lavender farming presents a great opportunity for women to become financially independent,\" she added.\nShe mentioned that previously, only maize was cultivated in their village, but wild animals like monkeys would often destroy the crops. She added that maize cultivation wasn't very profitable.\n\"Therefore, lavender farming , being more profitable and less susceptible to damage from wild animals, is a much better option for them. It will provide a good source of employment in the future,\" she said.\nShe appealed to all the women to take up lavender farming and earn more money.\nRafiq Ahamed Jaral Sub Divisional Magistrate (SDM) Ramnagar , said that lavender cultivation is of great importance and that there are many areas in our Ramnagar tehsil that have a suitable climate, making them perfect for lavender farming .\nHe mentioned that a nursery has been established in Ichha village of Ramnagar tehsil, where at least five lakh lavender saplings have been prepared.\n\"These saplings will be distributed to farmers in the next one or two months so that they can plant them in their fields and earn a good income,\" he added.\nHe said that people here traditionally cultivate crops that are often damaged by monkeys.\nHowever, lavender is a good alternative. By cultivating lavender, farmers can not only get rid of the monkey menace but also double their income.\nHe urged the farmers to stay in touch with the agriculture department. Whenever lavender saplings are distributed, they will be provided to all farmers in Ichha and nearby villages where the climate is suitable for lavender cultivation . This will help farmers increase their income quickly.\nSaloni Rai (IAS) Deputy Commissioner Udhampur said that under the Indian government's initiative, 'Purple Revolution', lavender plantations is being carried out in the Udhampur district.\n\"Approximately 5 lakh lavender saplings have been prepared in 100 kanals of land in Ichha village of Ramnagar tehsil, and we are planning to plant another 5 lakh this year. These mother plants of lavender will also be distributed to farmers so that they can cultivate them in their fields and earn more income,\" she said. (ANI)\nTags lavender cultivation\nJammu and kashmir\nRamnagar\nIncha Village\nUdhampur\nfarming\nlavender farming\nfarmers\nLoading... Related News Karnataka Lokayukta conducts multiple raids across state against officials\nUpdated: Jul 19, 2024 09:57 IST\n\"Strictest action will be taken\": Naveen Jindal after woman accuses Jindal Steel CEO of allegedly sexually assaulting her\nUpdated: Jul 19, 2024 09:36 IST\nMSME launches Yashaswini Initiative to support women entrepreneurs\nUpdated: Jul 19, 2024 09:33 IST\nUjjain: BJP youth leader shot in front of policemen\nUpdated: Jul 19, 2024 09:25 IST\nDarjeeling: People pay last respects to mortal remains of Capt Brijesh Thapa, killed in Doda encounter\nUpdated: Jul 19, 2024 09:20 IST\nSecurity forces foil infiltration bid in J-K's Keran; 2 terrorists killed\nUpdated: Jul 19, 2024 08:59 IST\nGonda train accident: SDRF, NDRF teams deployed for relief work\nLoading...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "department of agriculture",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "kashmir",
+          "sentiment": "none"
+        },
+        {
+          "name": "udhampur udhampur",
+          "sentiment": "none"
+        },
+        {
+          "name": "jammu",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "udhampur",
+          "sentiment": "none"
+        },
+        {
+          "name": "incha",
+          "sentiment": "none"
+        },
+        {
+          "name": "ramnagar",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-19T07:29:55.211+03:00",
+    "updated": "2024-07-19T08:24:21.281+03:00"
+  },
+  {
+    "uuid": "2c0a5ecf7d3278ce3877419053eafd38a8e8eb2b",
+    "url": "https://www.prnewswire.com/news-releases/streaming-analytics-market-to-increase-by-usd-23-6-billion-between-2022-to-2027--increasing-adoption-of-iot-based-devices-boosts-the-market---technavio-302026183.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Technavio",
+    "published": "2024-01-05T22:35:00Z",
+    "title": "Streaming Analytics Market to increase by USD 23.6 billion between 2022 to 2027, Increasing adoption of IoT-based devices boosts the market - Technavio",
+    "text": "NEW YORK , Jan. 5, 2024 /PRNewswire/ -- The streaming analytics market by deployment (cloud and on premise), type (software and services), and geography ( North America , APAC, Europe , Middle East and Africa , and South America ) - Forecast and Analysis 2023-2027 report has been added to technavio offering. With ISO 9001:2015 certification, Technavio has proudly partnered with more than 100 Fortune 500 companies for over 16 years. The potential growth difference for the streaming analytics market between 2023 and 2027 is USD 23.6 billion . The increasing adoption of IoT-based devices drives the market growth. There is a growing use of connected devices across the globe. As a result, this makes the task of managing, monitoring, and maintaining the data in an organization more difficult. Hence, IoT devices make managing, monitoring, and maintaining easier which drives the market growth.\nContinue Reading\nTechnavio has announced its latest market research report titled Global Streaming Analytics Market 2023-2027\nGet deeper insights into the market size, current market scenario, future growth opportunities, major growth driving factors, the latest trends, and much more. Buy the full report here\nMarket Challenge\nData privacy and security concerns is a major challenge hindering the market growth. As digitalization spreads across all industries, privacy and security issues are becoming more difficult. In addition, concerns regarding data privacy and security will increase as traditional models are replaced by digital ones which negatively impacts the market. Learn about additional key drivers, trends, and challenges available with Technavio. Read a Free Sample PDF Report Now\nThe streaming analytics market has been segmented by deployment (cloud and on premise), type (software and services), and geography ( North America , APAC, Europe , Middle East and Africa , and South America ).\nThe market growth by the cloud segment is significant during the forecast period. The users of the cloud segment deployment benefit from the streamlining of business intelligence procedures. In addition, to make decision-making more effective, it facilitates gathering, integrating, analyzing, and presenting derived insights in real-time. North America accounts for 33% of the market growth during the forecast period. The region is a key market for streaming analytics as it is an early adopter of sophisticated technology and a global leader in the intensive production and consumption of data. In addition, the market for advanced analytics is fuelled by the enormous volumes of data produced in this region, which are analyzed to find insightful relationships and insights. Furthermore, the region is also technologically advanced, and its industrial sector is fully developed, which makes it simple to adopt cutting-edge software solutions to boost productivity and efficiency Hence, such factors are driving the market growth in North America . View the Free Sample Report for insights into the contribution of all the segments and regional opportunities in the report.\nKey Companies in the Streaming Analytics Market:\nAdobe Inc., Alphabet Inc., Altair Engineering Inc., Amazon.com Inc., Cloudera Inc., Conviva Inc., Coralogix Ltd., Hewlett Packard Enterprise Co., Impetus Technologies Inc., Informatica Inc., Intel Corp., International Business Machines Corp., Microsoft Corp., Mphasis Ltd., Oracle Corp., SAP SE, SAS Institute Inc., Software AG, Striim International Inc., Teradata Corp., and TIBCO Software Inc.\nRelated Reports:\nThe blockchain technology in BFSI market size is estimated to grow at a CAGR of 67.84% between 2023 and 2028. The market size is forecast to increase by USD 48,213.34 million .\nThe enterprise information management (EIM) market size is estimated to grow at a CAGR of 17.01% between 2023 and 2028. The market size is forecast to increase by USD 88.02 billion .\nStreaming Analytics Market Scope\nReport Coverage\nDetails\nBase year\n2022\nHistoric period\n2017-2021\nForecast period\n2023-2027\nGrowth momentum & CAGR\nAccelerate at a CAGR of 28.89%\nMarket growth 2023-2027\nUSD 23.6 billion\nMarket structure\nFragmented\nYoY growth 2022-2023 (%)\n25.79\nRegional analysis\nNorth America, APAC, Europe, Middle East and Africa, and South America\nPerforming market contribution\nNorth America at 33%\nKey countries\nUS, Canada, China, Japan, and UK\nCompetitive landscape\nLeading Vendors, Market Positioning of Vendors, Competitive Strategies, and Industry Risks\nKey companies profiled\nAdobe Inc., Alphabet Inc., Altair Engineering Inc., Amazon.com Inc., Cloudera Inc., Conviva Inc., Coralogix Ltd., Hewlett Packard Enterprise Co., Impetus Technologies Inc., Informatica Inc., Intel Corp., International Business Machines Corp., Microsoft Corp., Mphasis Ltd., Oracle Corp., SAP SE, SAS Institute Inc., Software AG, Striim International Inc., Teradata Corp., and TIBCO Software Inc.\nMarket dynamics\nParent market analysis, Market growth inducers and obstacles, Fast-growing and slow-growing segment analysis, COVID-19 impact and recovery analysis and future consumer dynamics, and Market condition analysis for the forecast period.\nCustomization purview\nIf our report has not included the data that you are looking for, you can reach out to our analysts and get segments customized.\nToC:\nExecutive Summary\nMarket Landscape\nMarket Sizing\nHistoric Market Sizes\nFive Forces Analysis\nMarket Segmentation by Deployment\nMarket Segmentation by Type\nMarket Segmentation by Geography\nCustomer Landscape\nGeographic Landscape\nDrivers, Challenges, & Trends\nCompany Landscape\nCompany Analysis\nAppendix\nAbout Technavio\nTechnavio is a leading global technology research and advisory company. Their research and analysis focus on emerging market trends and provide actionable insights to help businesses identify market opportunities and develop effective strategies to optimize their market positions. With over 500 specialized analysts, Technavio's report library consists of more than 17,000 reports and counting, covering 800 technologies, spanning across 50 countries. Their client base consists of enterprises of all sizes, including more than 100 Fortune 500 companies. This growing client base relies on Technavio's comprehensive coverage, extensive research, and actionable market insights to identify opportunities in existing and potential markets and assess their competitive positions within changing market scenarios.\nContacts\nTechnavio Research Jesse Maida Media & Marketing Executive US: +1 844 364 1100 UK: +44 203 893 3200 Email: [email protected] Website: www.technavio.com\nSOURCE Technavio",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://www.technavio.com/report/enterprise-information-management-market-industry-analysis?utm_source=prnewswire&utm_medium=pressrelease&utm_campaign=T2023_dcs_wk1_2024_TI_021_rr2&utm_content=IRTNTR45528",
+      "https://www.technavio.com/talk-to-us?report=IRTNTR45528&type=sample&rfs=epd&src=report&utm_source=prnewswire&utm_medium=pressrelease&utm_campaign=T2023_dcs_wk1_2024_TI_021_rfs1&utm_content=IRTNTR45528",
+      "https://technavio.com/",
+      "https://www.technavio.com/index.php?route=checkout%2Fcart%7Caddtocart&sku=IRTNTR45528&utm_source=prnewswire&utm_medium=pressrelease&utm_campaign=T2023_dcs_wk1_2024_TI_021_buy&utm_content=IRTNTR45528",
+      "https://www.technavio.com/report/blockchain-technology-market-in-bfsi-sector-industry-analysis?utm_source=prnewswire&utm_medium=pressrelease&utm_campaign=T2023_dcs_wk1_2024_TI_021_rr1&utm_content=IRTNTR45528",
+      "https://www.technavio.com/report/streaming-analytics-market-industry-analysis?utm_source=prnewswire&utm_medium=pressrelease&utm_campaign=T2023_dcs_wk1_2024_TI_021_rep&utm_content=IRTNTR45528",
+      "https://www.technavio.com/talk-to-us?report=IRTNTR45528&type=sample&rfs=epd&src=report&utm_source=prnewswire&utm_medium=pressrelease&utm_campaign=T2023_dcs_wk1_2024_TI_021_rfs2&utm_content=IRTNTR45528",
+      "https://technavio.com",
+      "https://technavio.com/report/enterprise-information-management-market-industry-analysis?utm_source=prnewswire&utm_medium=pressrelease&utm_campaign=T2023_dcs_wk1_2024_TI_021_rr2&utm_content=IRTNTR45528",
+      "https://technavio.com/talk-to-us?report=IRTNTR45528&type=sample&rfs=epd&src=report&utm_source=prnewswire&utm_medium=pressrelease&utm_campaign=T2023_dcs_wk1_2024_TI_021_rfs1&utm_content=IRTNTR45528",
+      "https://www.technavio.com/index.php",
+      "https://technavio.com/report/streaming-analytics-market-industry-analysis?utm_source=prnewswire&utm_medium=pressrelease&utm_campaign=T2023_dcs_wk1_2024_TI_021_rep&utm_content=IRTNTR45528",
+      "https://www.technavio.com/talk-to-us",
+      "https://www.technavio.com/report/enterprise-information-management-market-industry-analysis",
+      "https://www.technavio.com/",
+      "https://www.technavio.com/report/streaming-analytics-market-industry-analysis",
+      "https://technavio.com/report/blockchain-technology-market-in-bfsi-sector-industry-analysis?utm_source=prnewswire&utm_medium=pressrelease&utm_campaign=T2023_dcs_wk1_2024_TI_021_rr1&utm_content=IRTNTR45528",
+      "https://www.technavio.com/report/blockchain-technology-market-in-bfsi-sector-industry-analysis",
+      "https://technavio.com/talk-to-us?report=IRTNTR45528&type=sample&rfs=epd&src=report&utm_source=prnewswire&utm_medium=pressrelease&utm_campaign=T2023_dcs_wk1_2024_TI_021_rfs2&utm_content=IRTNTR45528",
+      "https://technavio.com/index.php?route=checkout%2Fcart%7Caddtocart&sku=IRTNTR45528&utm_source=prnewswire&utm_medium=pressrelease&utm_campaign=T2023_dcs_wk1_2024_TI_021_buy&utm_content=IRTNTR45528"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "technavio",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "continue reading technavio",
+          "sentiment": "none"
+        },
+        {
+          "name": "apac",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "technavio new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "middle east",
+          "sentiment": "none"
+        },
+        {
+          "name": "south america",
+          "sentiment": "none"
+        },
+        {
+          "name": "europe",
+          "sentiment": "none"
+        },
+        {
+          "name": "africa",
+          "sentiment": "none"
+        },
+        {
+          "name": "north america",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T01:03:39.312+02:00",
+    "updated": "2024-01-06T01:03:39.312+02:00"
+  }
+]

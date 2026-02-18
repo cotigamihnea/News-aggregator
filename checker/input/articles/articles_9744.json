@@ -1,0 +1,489 @@
+[
+  {
+    "uuid": "b48ccbf1ddfacfa7bfdc58043bb93f489b5ddb66",
+    "url": "https://www.globenewswire.com/news-release/2024/04/11/2861938/0/en/First-clinical-trial-of-vosoritide-for-children-with-hypochondroplasia-shows-increased-growth.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Children's National Hospital",
+    "published": "2024-04-11T00:00:00Z",
+    "title": "First clinical trial of vosoritide for children with",
+    "text": "WASHINGTON, April 11, 2024 (GLOBE NEWSWIRE) -- Vosoritide’s first global phase 2 study showed an average increased growth rate of 1.8 cm per year in...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "andrew dauber",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "children’s national hospital",
+          "sentiment": "none"
+        },
+        {
+          "name": "children’s national",
+          "sentiment": "none"
+        },
+        {
+          "name": "biomarin",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "washington",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-12T02:38:08.779+03:00",
+    "updated": "2024-04-12T03:38:27.874+03:00"
+  },
+  {
+    "uuid": "3b99310b2f1e56794baf915c33a0be8342e03569",
+    "url": "https://www.eepw.com.cn/article/202508/473100.htm",
+    "ord_in_thread": 0,
+    "author": "作者： 时间：",
+    "published": "2025-08-14T00:00:00Z",
+    "title": "英伟达否认 Rubin 延迟传闻，AMD MI450 刺激重新设计猜测",
+    "text": "英伟达否认 Rubin 延迟传闻，AMD MI450 刺激重新设计猜测\n随着其专注于中国的 H20 仍面临美国批准的不确定性，NVIDIA 的下一代 AI 芯片 Rubin 在延迟传闻中再次引起关注。但该公司告诉 巴伦周刊 和 雪球 ，这些说法是假的，并补充说 Rubin 仍按计划进行。\n报道，援引富邦研究的数据，警告称 NVIDIA 的 Rubin 可能会因为重新设计以应对 AMD 即将推出的 MI450 而延迟。尽管 Rubin 首次在 6 月份完成流片，但据引用的研究报告称，预计在 9 月底或 10 月进行的第二次流片将导致 2026 年的产量有限。\n根据 wccftech 的报道，如果传言属实，Rubin 延迟了四到六个月。然而，NVIDIA 否认了这些说法，称 Rubin 及其 GPU 仍按照公司的年度发布周期进行。根据 NVIDIA 的路线图，Rubin 预计将在 2026 年推出，Rubin Ultra 则将在 2027 年推出，这是根据 Tom’s Hardware 报道的。\n值得注意的是，Tom’s Hardware 的报道指出，Rubin 将进行 HBM 升级，从 HBM3/HBM3e 过渡到 HBM4，而 Rubin Ultra 将采用 HBM4e。每张 GPU 的内存容量仍将保持在 288GB，与 B300 相同，但带宽将增加到 13 TB/s，从 8 TB/s 提升。此外，NVLink 的速度将翻倍，报道补充道。\n如 TrendForce 观察，NVIDIA 正在以惊人的速度推进其 AI 路线图。虽然当前的 Blackwell Ultra (GB300) 刚刚进入生产阶段，下一代“Vera Rubin”架构已经接近设计完成，预计将在 2026 年下半年推出。Rubin 预计将标志一个重大的技术飞跃，采用台积电的 3nm 工艺、HBM4 以及 NVIDIA 首次采用的芯片设计。然而，TrendForce 指出，如此紧凑的产品周期给供应链的适应能力带来了巨大挑战。\nAMD 的 MI400：一个更强劲的挑战者\n另一方面，正如 Barron’s 指出的，AMD 即将推出的 MI400 系列，包括 MI450，将标志着 AMD 首款机架级 AI 服务器，配备 72 个处理器——这可能是对 NVIDIA 的一个远比之前型号更强劲的挑战者。\n根据 TechPowerUp 的报道，每个 MI400 预计将配备十二个 HBM4 堆栈，总共拥有高达 432 GB 的片上内存和近 19.6 TB/s 的带宽。Wccftech 补充说，AMD 的模块化设计，通过以太网使用 Infinity Fabric，也使得机架部署更加容易——这促使 NVIDIA 考虑新的 Rubin 配置，尽管目前仍属猜测。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->biomedical science",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T10:28:01.866+03:00",
+    "updated": "2025-08-14T10:31:15.000+03:00"
+  },
+  {
+    "uuid": "0e72b63a8ab8c842d883a02265a024d39c566153",
+    "url": "https://flipboard.com/topic/cynthialummis/tesla-stock-is-soaring-for-the-funniest-possible-reason/f-476680373c%2Ffuturism.com",
+    "ord_in_thread": 0,
+    "author": "futurism.com - Noor Al-Sibai",
+    "published": "2025-04-02T21:38:00Z",
+    "title": "Tesla Stock Is Soaring for the Funniest Possible Reason | Flipboard",
+    "text": "Tesla Stock Is Soaring for the Funniest Possible Reason What a coincidence! Tesla released some terrible news about sales this morning, but then a funny thing happened: after an initial crash, its stock …\nfuturism.com - Noor Al-Sibai • 48m",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Social Issue->social condition",
+      "Social Issue->social networking",
+      "Science and Technology->economics",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Noor Al-Sibai •",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Tesla Stock Is Soaring",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T01:28:39.179+03:00",
+    "updated": "2025-04-03T01:28:39.179+03:00"
+  },
+  {
+    "uuid": "9f67554e45995ab5111c380e969f0f832bef4693",
+    "url": "https://ch.zonebourse.com/cours/matiere-premiere/WTI-2355639/actualite/Le-petrole-grimpe-apres-que-l-Arabie-Saoudite-ait-augmente-ses-prix-46632967/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Zonebourse",
+    "published": "2024-05-06T05:20:00Z",
+    "title": "Le pétrole grimpe après que l'Arabie Saoudite ait augmenté ses prix - Zonebourse",
+    "text": "Les contrats à terme sur le pétrole ont grimpé lundi après que l'Arabie saoudite a augmenté les prix du brut de juin pour la plupart des régions et que la perspective d'un accord de cessez-le-feu à Gaza est apparue faible, ravivant les craintes que le conflit entre Israël et le Hamas ne s'aggrave encore dans la principale région productrice de pétrole. Les contrats à terme du Brent ont gagné 34 cents, soit 0,4%, à 83,30 dollars le baril à 0518 GMT, tandis que les contrats à terme du brut américain West Texas Intermediate étaient à 78,45 dollars le baril, en hausse de 34 cents, soit 0,4%.\nL'Arabie Saoudite a augmenté les prix de vente officiels (OSP) pour son brut vendu à l'Asie, à l'Europe du Nord-Ouest et à la Méditerranée en juin, signalant les attentes d'une forte demande cet été.\n\"Après avoir chuté d'un peu plus de 7,3 % la semaine dernière en raison de l'apaisement des tensions géopolitiques, le Brent ICE a commencé la nouvelle semaine de négociation sur des bases plus solides, en ouvrant à la hausse\", a déclaré Warren Patterson, responsable de la recherche sur les matières premières chez ING, dans une note.\nCette hausse intervient après que l'Arabie saoudite a augmenté les prix de vente de juin pour la plupart des régions, dans un contexte de resserrement de l'offre au cours du trimestre, a-t-il ajouté.\nEn Chine, le plus grand importateur de brut au monde, l'activité des services est restée en expansion pour le 16ème mois consécutif, tandis que la croissance des nouvelles commandes s'est accélérée et que le climat des affaires s'est solidement amélioré, renforçant les espoirs d'une reprise économique soutenue.\nLa semaine dernière, les deux contrats à terme ont enregistré leur plus forte perte hebdomadaire en trois mois, le Brent chutant de plus de 7 % et le WTI de 6,8 %, les investisseurs ayant pris en compte la faiblesse des données sur l'emploi aux États-Unis et le calendrier possible d'une réduction des taux d'intérêt de la Réserve fédérale.\nLa prime de risque géopolitique sur les prix du pétrole s'est également atténuée alors que les négociations pour un cessez-le-feu à Gaza sont en cours.\nToutefois, les perspectives d'un accord semblaient minces dimanche, le Hamas ayant réitéré sa demande de mettre fin à la guerre en échange de la libération d'otages, alors que le Premier ministre israélien Benjamin Netanyahu a catégoriquement exclu cette possibilité.\n\"La nouvelle selon laquelle Israël souhaite aller de l'avant et étendre son opération à Rafah risque de faire échouer un accord de cessez-le-feu potentiel et de raviver les tensions géopolitiques au Moyen-Orient qui semblaient s'apaiser\", a déclaré Tony Sycamore, analyste des marchés chez IG.\nLa plupart des positions longues sur le pétrole ayant été liquidées la semaine dernière, les risques semblent être que les prix du WTI rebondissent vers les 80 dollars en début de semaine, a-t-il ajouté.\nSigne que l'offre pourrait se resserrer, les compagnies énergétiques américaines ont réduit le nombre de plates-formes de forage de pétrole et de gaz naturel pour la deuxième semaine consécutive la semaine dernière. Le nombre de plates-formes pétrolières a diminué de sept pour s'établir à 499, ce qui représente la plus forte baisse hebdomadaire depuis novembre 2023, a indiqué Baker Hughes dans un rapport publié vendredi. (Rapport de Florence Tan ; Rédaction de Sonali Paul)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics",
+      "Economy, Business and Finance"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-06T08:38:53.803+03:00",
+    "updated": "2024-05-06T08:38:53.803+03:00"
+  },
+  {
+    "uuid": "60b7f9b80ef04294700e1f9d93b497cefa3cb109",
+    "url": "https://dialogosdosul.operamundi.uol.com.br/eleicoes-nos-eua-os-preocupantes-indicadores-para-kamala-harris",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "João Pimentel",
+    "published": "2024-10-24T20:27:00Z",
+    "title": "Elei\\u00e7\\u00f5es nos EUA: os preocupantes indicadores para Kamala Harris - Di\\u00e1logos do Sul Global",
+    "text": "Conteúdo da página [Toggle](#) Duas semanas antes da eleição presidencial nos EUA, a ligeira vantagem da candidata democrata [Kamala Harris](https://kamalaharris.com/) sobre o republicano [Donald Trump](https://pt.wikipedia.org/wiki/Donald_Trump) nas pesquisas foi reduzida a menos de 1% nos sete estados que determinarão o resultado nacional, com indicadores particularmente preocupantes sobre a erosão do apoio aos democratas entre os setores-chave de [latinos](https://pt.wikipedia.org/wiki/Latinos#:~:text=Os%20latinos%20foram%20um%20povo,territ%C3%B3rio%20it%C3%A1lico%2C%20em%20ondas%20sucessivas.), [afro-americanos](https://pt.wikipedia.org/wiki/Afro-americanos) e [árabe-americanos](https://pt.wikipedia.org/wiki/Categoria:Norte-americanos_de_ascend%C3%AAncia_%C3%A1rabe). Nestes dias, ambos os candidatos dedicaram tempo e recursos ao setor latino do eleitorado. Na terça-feira (22), Trump continuou fazendo discursos cada vez mais caóticos, desta vez em um fórum com líderes latinos em um de seus hotéis em Miami, onde declarou que, [se Harris vencer](https://www.cnnbrasil.com.br/internacional/eleicoes-nos-eua-2024/trump-diz-que-pode-ser-a-ultima-eleicao-dos-eua-se-kamala-harris-vencer/), será o fim da democracia e os Estados Unidos se parecerão com “uma Venezuela com esteroides”, e terminou reiterando que teve uma relação amorosa com os latinos durante sua presidência; “eu os amo, e eles me amam”. A campanha de Harris emitiu uma série de [propostas econômicas](https://www.opeu.org.br/2024/10/10/kamala-harris-e-a-economia-da-oportunidade-uma-agenda-para-resgatar-o-sonho-americano/) dedicadas aos latinos que prometem “reduzir custos, aumentar a oferta de moradia, ampliar oportunidades de emprego e assegurar que os latinos e suas famílias possam alcançar suas aspirações e realizar seu sonho americano”. Mas sua mensagem, até agora, parece não ter grandes resultados. Uma pesquisa nacional divulgada pelo USA Today é a primeira sondagem a sugerir que Trump está conquistando uma [vantagem entre os latinos](https://oglobo.globo.com/mundo/eleicoes-eua/noticia/2024/10/21/pesquisas-mostram-trump-com-pequena-vantagem-sobre-kamala-mas-sem-favoritismo-acompanhe-os-numeros-no-tracker-do-globo.ghtml) por uma ampla margem de 49% a 38%, embora outras pesquisas continuem registrando uma margem substancialmente maior para Harris nesse setor. No entanto, o nível de apoio dos latinos para Harris continua abaixo do alcançado por [Joe Biden](https://pt.wikipedia.org/wiki/Joe_Biden) e, antes, por [Barack Obama](https://pt.wikipedia.org/wiki/Barack_Obama). O voto latino pode ser decisivo em alguns dos sete estados-chave, incluindo Nevada, Arizona, Geórgia e Carolina do Norte. Situação piorou com Biden e Kamala Harris Trump conseguiu obter um nível inesperado de apoio, não só entre homens latinos e afro-americanos, em grande parte devido aos temas econômicos. Além disso, uma nova pesquisa da Arab News/YouGov sugere que Trump está vencendo entre árabe-estadunidenses, indicando os [custos políticos](https://congressoemfoco.uol.com.br/area/mundo-cat/o-amargo-custo-do-apoio-irrestrito-de-biden-a-netanyahu/) do apoio do governo de Biden e Harris à [guerra de Israel em Gaza](https://pt.wikipedia.org/wiki/Guerra_Israel-Hamas), sobretudo no estado-chave de [Michigan](https://pt.wikipedia.org/wiki/Michigan) (com a maior população árabe-estadunidense do país), onde a eleição pode ser determinada por alguns milhares de votos, reportou a Al Jazeera. Outra má notícia para a candidata democrata, que também é vice-presidente no governo Biden, é que uma pesquisa Gallup este mês revelou que mais da [metade dos estadunidenses](https://valor.globo.com/mundo/noticia/2023/02/08/metade-dos-americanos-diz-que-vive-situacao-financeira-pior-que-ha-um-ano-mostra-pesquisa.ghtml) (52%) afirmam que eles e suas famílias estão em pior situação econômica do que há quatro anos – ou seja, durante o governo democrata em vigor atualmente – e 39% acreditam que estão em melhor situação. Este é o nível mais alto de pessoas que dizem estar pior desde 1992, informou a Gallup. [Subversivos: o riso e a sátira como antídotos ao caos político nos EUA] Enquanto isso, Trump foi criticado pela filha do falecido astro do golfe profissional [Arnold Palmer](https://pt.wikipedia.org/wiki/Arnold_Palmer) por comentários em que fez [referência](https://www.publico.pt/2024/10/20/mundo/noticia/trump-escolhe-falar-penis-golfista-morto-comicio-pensilvania-2108661) ao tamanho do pênis do golfista; não é a primeira vez que o ex-presidente expressa sua aparente admiração. Ao mesmo tempo, sobreviventes de [violência sexual](https://pt.wikipedia.org/wiki/Viol%C3%AAncia_sexual) e aliados publicaram um anúncio de página inteira no New York Times na segunda-feira (21) para lembrar ao público que um tribunal declarou [Trump responsável por abuso sexual](https://www.brasildefato.com.br/2023/05/10/donald-trump-e-condenado-por-abuso-sexual-e-difamacao): “ele é um abusador comprovado. Não é uma questão de opinião; é um fato”. Concluem: “não aceitaremos isso, exigimos algo melhor”. O anúncio é assinado por mais de 100 pessoas, incluindo a atriz [Viola Davis](https://pt.wikipedia.org/wiki/Viola_Davis), a líder sindical de trabalhadoras domésticas [Ai-jen Poo](https://en.wikipedia.org/wiki/Ai-jen_Poo) e [Cecile Richards](https://www.instagram.com/cecilerichards/), ex-presidente da organização de saúde para mulheres [Planned Parenthood](https://www.plannedparenthoodaction.org/), entre outras. Violência política ameaça eleições A [violência política nos Estados Unidos](https://dialogosdosul.operamundi.uol.com.br/violencia-politica-nos-eua-pais-registrou-mais-de-8-mil-ameacas-a-legisladores-em-2023/), que atingiu níveis não vistos em 50 anos, ameaça ensanguentar as eleições nacionais que serão celebradas em duas semanas, e não se pode descartar um período pós-eleitoral violento. Os incidentes de violência política desde o [assalto ao Capitólio](https://pt.wikipedia.org/wiki/Ataque_ao_Capit%C3%B3lio_dos_Estados_Unidos_em_2021) por fanáticos de Donald Trump em 6 de janeiro de 2021, cujo objetivo era anular a eleição, são o maior e mais constante aumento desde os anos 1970, segundo estimativa realizada pela Reuters. A análise de incidentes detectou pelo menos 300 casos de violência política desde o início de 2021, incluindo [mais de 50](http://pesquisa nacional divulgada pelo USA Today é a primeira sondagem a sugerir que Trump está conquistando uma vantagem entre os latinos por uma ampla margem) só este ano. A maioria dos casos monitorados pela Reuters provém da direita, assinalam especialistas. [Violência política nos EUA: país registrou mais de 8 mil ameaças a legisladores em 2023] Nos últimos meses, foram registrados [dois atentados contra Trump](https://www.youtube.com/watch?v=XDG-NGT9unU) – embora seja importante notar que, em ambos os casos, os responsáveis eram indivíduos aparentemente influenciados por correntes direitistas –, assim como incidentes locais, incluindo o [uso de armas de fogo no Arizona](https://www.estadao.com.br/internacional/arizona-nao-tem-regras-estritas-para-posse-de-armas/), entre outros lugares. “Alguns legisladores republicanos e democratas estão preocupados de que a violência política com mortes em massa possa interromper a continuidade governamental” durante este ciclo eleitoral, escrevem os ex-funcionários da Casa Branca [Steve Simon](https://www.instagram.com/stevesimon/) e [Jonathan Stevenson](https://www.iiss.org/people/editors/jonathan-stevenson/) na edição mais recente do New York Review of Books. Por sua vez, o Departamento de Segurança Interna, em sua avaliação anual sobre ameaças à segurança nacional, alerta para “respostas violentas extremistas” durante este ciclo eleitoral. Retórica de Trump: agressiva e mentirosa Outros especialistas reiteram advertências de que esta conjuntura eleitoral pode ser caótica e violenta, destacando a r[etórica agressiva de Trump](https://www.estadao.com.br/economia/fernando-dantas/a-retorica-violenta-de-trump/) e seus aliados, que declaram que esta eleição é para “salvar” a América dos perigosos “esquerdistas radicais” – o próprio candidato republicano e ex-presidente sugeriu que talvez os militares deveriam ser usados para confrontar essa “ameaça” – além de se posicionar contra os imigrantes que estariam “invadindo” o país. Repetidas vezes, ele usou linguagem violenta para atacar seus detratores políticos, incluindo a mídia, que classifica como “inimigos” dos Estados Unidos, e os juízes e promotores que lideram vários [casos criminais contra ele](https://g1.globo.com/jornal-nacional/noticia/2023/08/24/trump-e-alvo-de-91-acusacoes-em-4-processos-criminais.ghtml). Nunca antes na história dos Estados Unidos havia sido interrompida a transição do Poder Executivo após uma eleição, até janeiro de 2021, quando Trump incitou seus fanáticos a tomar de assalto o Capitólio para frear a certificação da eleição nacional. A violência, incluindo ameaças de assassinar à então presidenta da Câmara dos Deputados, [Nancy Pelosi](https://pt.wikipedia.org/wiki/Nancy_Pelosi), e ao próprio vice-presidente de Trump, [Mike Pence](https://pt.wikipedia.org/wiki/Mike_Pence), obrigou a evacuação de emergência deles e de todos os legisladores do Capitólio. Trump indicou recentemente que foi um “dia de amor” e reiterou que possivelmente perdoará as centenas de participantes que foram julgados e encarcerados. Além disso, Trump, mais uma vez, (se recusou a aceitar o resultado da última eleição) não tem se comprometido a respeitar os resultados desta eleição. Portanto, especialistas advertem que o período pós-eleitoral, sobretudo se a margem de diferença entre os dois candidatos for tão estreita como por ora sugerem as pesquisas, poderia ser muito volátil, incluindo expressões violentas. [ Assine nossa newsletter e receba este e outros conteúdos direto no seu e-mail.](https://bit.ly/3yLEZ6g) Há meses, setores da direita têm nutrido o ambiente de violência política, declarando que, se Trump não ganhar, uma “[guerra civil](https://pt.wikipedia.org/wiki/Guerra_civil)” será desencadeada nos Estados Unidos, e algumas seitas e grupos de direita têm se preparado para isso. Eles contam com apoio de amplos segmentos do universo republicano. Uma pesquisa recente do PRRI revela que quase um terço dos republicanos acreditam que “patriotas” poderiam ter que recorrer à violência para “salvar o país”, e um em cada cinco opina que, se Trump perder a eleição, ele deveria declará-la inválida e fazer “o que for preciso” para assumir a presidência. [ Conheça, acompanhe e participe das redes da Diálogos do Sul Global.](https://bit.ly/45747jY) Embora especialistas debatam se os atos de violência política aumentaram, não incluem em seus cálculos as ameaças de violência, incluindo de morte, contra funcionários públicos, autoridades eleitorais, juízes e jornalistas — algo que disparou, sobretudo contra aqueles que são percebidos como opositores de Trump e de seu movimento. Especialistas assinalam que essas ameaças poderiam se transformar em ações rapidamente, já que este é um país “onde, em qualquer dia, há milhares de pessoas caminhando pelas ruas que estão abertamente armadas e apoiam a ideia de cometer violência política”, comentou [Galen Wintemute](https://en.wikipedia.org/wiki/Garen_Wintemute), diretor do Programa de Prevenção de Violência da Universidade da Califórnia em Davis, em entrevista recente ao New York Times. Armas demais nos EUA Vale recordar que, nos Estados Unidos, dizem que [há armas suficientes para armar toda a população do país](https://www.thetrace.org/2023/03/guns-america-data-atf-total/) — entre 300 e 400 milhões, embora não haja números oficiais precisos. A violência política não se limita ao cenário eleitoral. Desde sua primeira campanha presidencial em 2016 até hoje, defensores de direitos e liberdades civis têm advertido que a retórica de Trump e de seus aliados, incluindo vários governadores e legisladores, tem justificado e nutrido grupos e movimentos direitistas e desatado ações de ódio em várias partes do país contra minorias. A [mensagem anti-imigrantes](https://www.cnnbrasil.com.br/internacional/eleicoes-nos-eua-2024/trump-diz-que-ha-muitos-genes-ruins-entre-imigrantes-nos-eua/) central da campanha de Trump tem alimentado ataques contra imigrantes ao promover a ideia de que eles são invasores que vêm para assassinar, estuprar e roubar estadunidenses – até mesmo comer animais de estimação – e que estão “envenenando o sangue” deste país. [“Plano” de Trump para expulsar imigrantes custaria US$ 66 bi/ano e aumentaria miséria nos EUA] Ao mesmo tempo, segundo um novo informe do [Center for Strategic and International Studies](https://pt.wikipedia.org/wiki/Center_for_Strategic_and_International_Studies), o número de ataques e complôs de terrorismo doméstico contra agências governamentais, funcionários, políticos eleitos, candidatos e representantes dos partidos nos últimos cinco anos é quase o triplo do registrado nos últimos 25 anos combinados. Mas, como sempre, os Estados Unidos repetem que há um [inimigo externo](https://noticiabrasil.net.br/20150524/1103538.html), inclusive em relação à violência política interna. Nesta terça-feira (22), funcionários das agências de inteligência do governo Biden alertaram que a Rússia e o Irã poderiam tentar nutrir a violência durante o período eleitoral estadunidense para “debilitar” a democracia e minar a confiança no resultado, reportou o Wall Street Journal. “Alguns atores externos têm a capacidade de nutrir protestos e tomar ações violentas durante este período”, disse um funcionário de inteligência ao apresentar essa avaliação a jornalistas. La Jornada, especial para Diálogos do Sul – Direitos reservados.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://noticiabrasil.net.br/20150524/1103538.html),",
+      "https://pt.wikipedia.org/wiki/Ataque_ao_Capit%C3%B3lio_dos_Estados_Unidos_em_2021)",
+      "https://bit.ly/45747jY)",
+      "https://www.plannedparenthoodaction.org/),",
+      "https://www.brasildefato.com.br/2023/05/10/donald-trump-e-condenado-por-abuso-sexual-e-difamacao):",
+      "http://www.youtube.com/watch?v=XDG-NGT9unU)",
+      "https://en.wikipedia.org/wiki/Ai-jen_Poo)",
+      "https://pt.wikipedia.org/wiki/Categoria:Norte-americanos_de_ascend%C3%AAncia_%C3%A1rabe).",
+      "https://pt.wikipedia.org/wiki/Guerra_Israel-Hamas),",
+      "https://www.opeu.org.br/2024/10/10/kamala-harris-e-a-economia-da-oportunidade-uma-agenda-para-resgatar-o-sonho-americano/)",
+      "https://oglobo.globo.com/mundo/eleicoes-eua/noticia/2024/10/21/pesquisas-mostram-trump-com-pequena-vantagem-sobre-kamala-mas-sem-favoritismo-acompanhe-os-numeros-no-tracker-do-globo.ghtml)",
+      "https://www.instagram.com/stevesimon/)",
+      "https://g1.globo.com/jornal-nacional/noticia/2023/08/24/trump-e-alvo-de-91-acusacoes-em-4-processos-criminais.ghtml).",
+      "https://www.instagram.com/cecilerichards/),",
+      "https://www.publico.pt/2024/10/20/mundo/noticia/trump-escolhe-falar-penis-golfista-morto-comicio-pensilvania-2108661)",
+      "https://en.wikipedia.org/wiki/Garen_Wintemute),",
+      "https://pt.wikipedia.org/wiki/Donald_Trump)",
+      "https://www.estadao.com.br/economia/fernando-dantas/a-retorica-violenta-de-trump/)",
+      "https://www.cnnbrasil.com.br/internacional/eleicoes-nos-eua-2024/trump-diz-que-ha-muitos-genes-ruins-entre-imigrantes-nos-eua/)",
+      "https://pt.wikipedia.org/wiki/Afro-americanos)",
+      "https://pt.wikipedia.org/wiki/Arnold_Palmer)",
+      "https://pt.wikipedia.org/wiki/Barack_Obama).",
+      "https://pt.wikipedia.org/wiki/Mike_Pence),",
+      "https://www.estadao.com.br/internacional/arizona-nao-tem-regras-estritas-para-posse-de-armas/),",
+      "https://pt.wikipedia.org/wiki/Latinos#:~:text=Os%20latinos%20foram%20um%20povo,territ%C3%B3rio%20it%C3%A1lico%2C%20em%20ondas%20sucessivas.),",
+      "https://pt.wikipedia.org/wiki/Viola_Davis),",
+      "https://valor.globo.com/mundo/noticia/2023/02/08/metade-dos-americanos-diz-que-vive-situacao-financeira-pior-que-ha-um-ano-mostra-pesquisa.ghtml)",
+      "https://kamalaharris.com/)",
+      "https://pt.wikipedia.org/wiki/Center_for_Strategic_and_International_Studies),",
+      "https://pt.wikipedia.org/wiki/Nancy_Pelosi),",
+      "https://pt.wikipedia.org/wiki/Joe_Biden)",
+      "https://www.cnnbrasil.com.br/internacional/eleicoes-nos-eua-2024/trump-diz-que-pode-ser-a-ultima-eleicao-dos-eua-se-kamala-harris-vencer/),",
+      "https://pt.wikipedia.org/wiki/Michigan)",
+      "https://www.thetrace.org/2023/03/guns-america-data-atf-total/)",
+      "https://bit.ly/3yLEZ6g)",
+      "https://www.iiss.org/people/editors/jonathan-stevenson/)",
+      "https://pt.wikipedia.org/wiki/Viol%C3%AAncia_sexual)",
+      "https://pt.wikipedia.org/wiki/Guerra_civil)”",
+      "https://www.kamalaharris.com/)",
+      "https://instagram.com/cecilerichards/),",
+      "https://thetrace.org/2023/03/guns-america-data-atf-total/)",
+      "https://www.pt.wikipedia.org/wiki/Afro-americanos)",
+      "https://cnnbrasil.com.br/internacional/eleicoes-nos-eua-2024/trump-diz-que-ha-muitos-genes-ruins-entre-imigrantes-nos-eua/)",
+      "https://estadao.com.br/internacional/arizona-nao-tem-regras-estritas-para-posse-de-armas/),",
+      "https://www.pt.wikipedia.org/wiki/Michigan)",
+      "https://www.pt.wikipedia.org/wiki/Guerra_civil)”",
+      "https://www.bit.ly/3yLEZ6g)",
+      "http://youtube.com/watch?v=XDG-NGT9unU)",
+      "https://cnnbrasil.com.br/internacional/eleicoes-nos-eua-2024/trump-diz-que-pode-ser-a-ultima-eleicao-dos-eua-se-kamala-harris-vencer/),",
+      "https://www.pt.wikipedia.org/wiki/Latinos#:~:text=Os%20latinos%20foram%20um%20povo,territ%C3%B3rio%20it%C3%A1lico%2C%20em%20ondas%20sucessivas.),",
+      "https://www.pt.wikipedia.org/wiki/Mike_Pence),",
+      "https://www.pt.wikipedia.org/wiki/Guerra_Israel-Hamas),",
+      "https://www.pt.wikipedia.org/wiki/Viola_Davis),",
+      "https://plannedparenthoodaction.org/),",
+      "https://www.noticiabrasil.net.br/20150524/1103538.html),",
+      "https://www.oglobo.globo.com/mundo/eleicoes-eua/noticia/2024/10/21/pesquisas-mostram-trump-com-pequena-vantagem-sobre-kamala-mas-sem-favoritismo-acompanhe-os-numeros-no-tracker-do-globo.ghtml)",
+      "https://www.pt.wikipedia.org/wiki/Nancy_Pelosi),",
+      "https://www.en.wikipedia.org/wiki/Garen_Wintemute),",
+      "https://www.pt.wikipedia.org/wiki/Viol%C3%AAncia_sexual)",
+      "https://www.pt.wikipedia.org/wiki/Center_for_Strategic_and_International_Studies),",
+      "https://opeu.org.br/2024/10/10/kamala-harris-e-a-economia-da-oportunidade-uma-agenda-para-resgatar-o-sonho-americano/)",
+      "https://brasildefato.com.br/2023/05/10/donald-trump-e-condenado-por-abuso-sexual-e-difamacao):",
+      "https://www.pt.wikipedia.org/wiki/Barack_Obama).",
+      "https://www.pt.wikipedia.org/wiki/Categoria:Norte-americanos_de_ascend%C3%AAncia_%C3%A1rabe).",
+      "https://publico.pt/2024/10/20/mundo/noticia/trump-escolhe-falar-penis-golfista-morto-comicio-pensilvania-2108661)",
+      "https://www.pt.wikipedia.org/wiki/Donald_Trump)",
+      "https://www.en.wikipedia.org/wiki/Ai-jen_Poo)",
+      "http://www.youtube.com/watch",
+      "https://www.pt.wikipedia.org/wiki/Joe_Biden)",
+      "https://www.bit.ly/45747jY)",
+      "https://www.g1.globo.com/jornal-nacional/noticia/2023/08/24/trump-e-alvo-de-91-acusacoes-em-4-processos-criminais.ghtml).",
+      "https://estadao.com.br/economia/fernando-dantas/a-retorica-violenta-de-trump/)",
+      "https://instagram.com/stevesimon/)",
+      "https://www.pt.wikipedia.org/wiki/Arnold_Palmer)",
+      "https://www.valor.globo.com/mundo/noticia/2023/02/08/metade-dos-americanos-diz-que-vive-situacao-financeira-pior-que-ha-um-ano-mostra-pesquisa.ghtml)",
+      "https://iiss.org/people/editors/jonathan-stevenson/)",
+      "https://www.pt.wikipedia.org/wiki/Ataque_ao_Capit%C3%B3lio_dos_Estados_Unidos_em_2021)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:02:00.117+03:00",
+    "updated": "2024-10-25T00:02:00.117+03:00"
+  },
+  {
+    "uuid": "dd1bf371a33248db38ad34246ca65235b39178fb",
+    "url": "https://www.futbolred.com/otras-ligas-de-futbol/san-diego-fc-sufrio-una-derrota-por-1-0-ante-toronto-fc-con-el-gol-de-penal-de-theodor-corbeanu-251254",
+    "ord_in_thread": 0,
+    "author": "Casa Editorial El Tiempo",
+    "published": "2025-07-17T04:50:00Z",
+    "title": "San Diego FC sufrió una derrota por 1-0 ante Toronto FC con el gol de penal de Theodor Corbeanu | Otras Ligas de Fútbol | Futbolred",
+    "text": "El partido válido por la semana 21 de la MLS finalizó a favor de Toronto FC quien venció a San Diego FC por 1 a 0. En el minuto 19 del primer tiempo, Theodor Corbeanu pudo sellar el destino del encuentro para Toronto FC al ejecutar con éxito un tiro desde el punto de penal.\nEl desempeño Theodor Corbeanu lo posicionó como el jugador más destacado del encuentro. El delantero de Toronto FC mostró su mejor nivel al marcar 1 gol y rematar 3 veces al arco contrario.\nLa presencia defensiva Kevin Long fue notable en el partido. El defensa de Toronto FC fue importante por rechazar 7 pelotas peligrosas.\nEl DT de San Diego FC, Michael Anthony Varas, presentó una disposición táctica 4-3-3 con Pablo Sisniega en el arco; Oscar Verhoeven, Christopher McVey, Ian Pilcher y Franco Negri en la línea defensiva; Onni Valakari, Luca de la Torre y Jeppe Tverskov en el medio; y Anders Dreyer, Tomás Ángel y Alex Mighten en el ataque.\nPor su parte, el conjunto de Robin Fraser salió con una disposición táctica 5-3-2 con Sean Johnson bajo los tres palos; Richie Laryea, Kevin Long, Kosi Thompson, Sigurd Rosted y Raoul Petretta en defensa; Matty Longstaff, Maxime Dominguez y Alonso Coello en la mitad de cancha; y Theodor Corbeanu y Ola Brynhildsen en la delantera.\nAllen Chapman fue el árbitro escogido para el partido en el Snapdragon Stadium.\nEn la próxima fecha, San Diego FC recibirá a Vancouver Whitecaps FC y Toronto FC jugará de visitante frente a Los Angeles FC.\nCambios en San Diego FC- 59' 2T - Salieron Tomás Ángel por Hirving Lozano, Alex Mighten por Emmanuel Boateng y Franco Negri por Luca Bombino\n- 78' 2T - Salió Oscar Verhoeven por Manu Duah\n- 39' 1T Luca de la Torre (Sujetar al rival para impedirle avanzar), 44' 1T Onni Valakari (Sujetar al rival para impedirle avanzar), 19' 2T Luca Bombino (Sujetar al rival para impedirle avanzar), 45' 2T Ian Pilcher (Sujetar al rival para impedirle avanzar) y 46' 2T Emmanuel Boateng\n- 30' 1T - Salió Raoul Petretta por Tyrese Spicer\n- 69' 2T - Salió Theodor Corbeanu por Derrick Etienne Jr.\n- 70' 2T - Salió Ola Brynhildsen por Deandre Kerr\n- 73' 2T - Salió Matty Longstaff por Jonathan Osorio\n- 47' 1T Theodor Corbeanu (Sujetar al rival para impedirle avanzar), 48' 2T Alonso Coello (Sujetar al rival para impedirle avanzar) y 49' 2T Kevin Long (Conducta antideportiva)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->sport event",
+      "Sport->soccer"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Michael Anthony Varas",
+          "sentiment": "none"
+        },
+        {
+          "name": "Christopher McVey",
+          "sentiment": "none"
+        },
+        {
+          "name": "Theodor Corbeanu",
+          "sentiment": "none"
+        },
+        {
+          "name": "Luca de la Torre",
+          "sentiment": "none"
+        },
+        {
+          "name": "Oscar Verhoeven",
+          "sentiment": "none"
+        },
+        {
+          "name": "Pablo Sisniega",
+          "sentiment": "none"
+        },
+        {
+          "name": "Jeppe Tverskov",
+          "sentiment": "none"
+        },
+        {
+          "name": "Sigurd Rosted",
+          "sentiment": "none"
+        },
+        {
+          "name": "Kosi Thompson",
+          "sentiment": "none"
+        },
+        {
+          "name": "Richie Laryea",
+          "sentiment": "none"
+        },
+        {
+          "name": "Franco Negri",
+          "sentiment": "none"
+        },
+        {
+          "name": "Alex Mighten",
+          "sentiment": "none"
+        },
+        {
+          "name": "Robin Fraser",
+          "sentiment": "none"
+        },
+        {
+          "name": "Sean Johnson",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ian Pilcher",
+          "sentiment": "none"
+        },
+        {
+          "name": "Tomás Ángel",
+          "sentiment": "none"
+        },
+        {
+          "name": "Kevin Long",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "MLS",
+          "sentiment": "neutral",
+          "tickers": [
+            {
+              "ticker": "MLS",
+              "exchange": "WSE"
+            }
+          ]
+        },
+        {
+          "name": "DT de San Diego FC",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:55:52.448+03:00",
+    "updated": "2025-07-17T05:00:34.000+00:00"
+  },
+  {
+    "uuid": "d9d1dfa3619eb9be263853616110ca534223b0cd",
+    "url": "https://www.telam.com.ar/notas/202312/650964-abuso-sexual-san-isidro-condena-monja.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TÉLAM",
+    "published": "2023-12-28T00:00:00Z",
+    "title": "Condenaron a 10 años a una monja por abuso sexual contra cinco adolescentes en San Isidro",
+    "text": "Sociedad 28-12-2023 19:23 - los hechos sucedieron entre 2017 y 2021 Condenaron a 10 años a una monja por abuso sexual contra cinco adolescentes en San Isidro María Tellez Fajardo fue encontrada culpable de \"abuso sexual gravemente ultrajante agravado\" contra cinco adolescentes de entre 12 a 17 años en el Hogar Hermanas Trinitarias de Boulogne, en el partido bonaerense de San Isidro. La justicia condenó este jueves a 10 años de prisión a la monja Tellez Fajardo por el delito de \"abuso sexual gravemente ultrajante agravado\" contra cinco adolescentes con quienes convivió en el Hogar de las Hermanas Trinitarias de Boulogne, en el partido bonaerense de San Isidro. La sentencia a cargo del Tribunal Oral en lo Criminal 1 de San Isidro, integrado por los jueces Sebastián Urquijo, Alberto Ortolani y Gonzalo Aquino recayó sobre María Tellez Fajardo (Sor Marina), de nacionalidad colombiana, quien se encontraba con prisión preventiva. Según el fallo al que tuvo acceso Télam, Tellez Fajardo fue encontrada culpable por ser \"autora penalmente responsable del delito de abuso sexual gravemente ultrajante agravado por tratarse de una persona encargada de la guarda y contra menores de 18 años y aprovechando la situación de convivencia preexistente, su relación de autoridad y que las víctimas no haya podido consentir libremente el accionar\". Los abusos se produjeron contra cinco adolescentes de entre 12 a 17 años durante 2017 y 2021 en el Hogar ubicado en la calle Carlos Tejedor número 348. En noviembre, la querella había solicitado una condena de 15 años de prisión y la fiscalía, otra de 10. Atención especializada sobre los derechos de niñas, niños y adolescentes - Por llamada gratuita y confidencial a la [Línea 102](tel:102). - Si sos víctima de violencia familiar o sexual, llamá a la [Línea 137](tel:137). - Si no te podes comunicar, [buscá las áreas de niñez de tu provincia](https://www.argentina.gob.ar/desarrollosocial/linea102/areasninez). El juez Aquino consideró en la sentencia que \"lo que ha quedado probado aquí es que la imputada no protagonizó un acto aislado, fugaz, discontinuo o sorpresivo en perjuicio de sus víctimas\". \"Inexorablemente tal circunstancia configura una mayor ofensa a la dignidad e integridad sexual, moral y personal de las damnificadas, que sufrieron un grado de degradación o vejación superior al del abuso sexual simple\", remarcó el magistrado al referirse al período de entre \"2 y 5 años\". Para el magistrado, \"es evidente que María Tellez Farjado actuó desde una posición de aprovechamiento de convivencia preexistente con las menores desde que eran nada menos que niñas institucionalizadas en un Hogar de la Congregación de la cual la misma era parte, y que los abusos se consumaban en la propia casa - Hogar donde la imputada junto\" a las víctimas \"compartían la vida en común\". Esta situación \"permitió la comisión de los hechos ventilados en el presente legajo y de la cual se valió la primera para lograr sus objetivos en ocasión que se encontraba a solas con las criaturas\". Testimonio de las víctimasUna de las víctimas que en ese momento tenía 14 años, declaró en el juicio oral y público que los \"cinco o seis\" hechos de abuso ocurrieron en la cocina donde ella trabajaba. La abogada de una de las víctimas relató que la adolescente le había comentado lo ocurrido a la directora del hogar -Sor Silvia Challu- y que ella \"le respondió que iban a esperar una señal divina que le indiquen que era lo que tenían que hacer, una señal de Dios\". De acuerdo a los declarado en el debate por la licenciada en Psicología del Centro de Atención a la Víctima de la Fiscalía General de San Isidro, Sonia Oettel, otra de las víctimas \"describió que la actitud del hogar era de tapar todo, que ella había recurrido a Sor Silvia para contarle lo de Marina pero que descreyó de ella y la trató de mentirosa\". Todas las víctimas relataron que los abusos se daban en la cocina del Hogar y en una dependencia dentro del mismo predioOtra de las víctimas señaló, según el testimonio de Oettel, que todas las jóvenes le hablaron \"de la misma persona denunciada\" y que los abusos se daban en la cocina del Hogar y en una dependencia que el lugar tenía por fuera dentro del mismo predio. En uno de los casos, la adolescente, luego de sufrir dos episodios de abusos, dijo haberse sentido muy triste tras lo ocurrido y comenzó a \"autoagredirse a través de cortes en sus brazos\", por lo que tuvo que ser hospitalizada. El 12 de abril de 2022 el fiscal Marcelo Fuenzalida, titular de la Unidad Funcional de Instrucción y Juicio Especializada en Violencia de Género de San Isidro, firmó el pedido de elevación a juicio de la causa por abusos sexuales contra Sor Marina. Sor Marina llegó a esa residencia en mayo de 2017 y en abril de 2021 se concretó la primera denuncia. Fue detenida el 10 de junio de 2022Fuenzalida hizo el pedido a la jueza Andrea Rodríguez Mentasty, titular del Juzgado de Garantías 3 de San Isidro, quien denegó el pedido de sobreseimiento solicitado por la defensa. Tellez Fajardo estuvo cinco días en la DDI de San Isidro y después fue trasladada a la Alcaidía de La Plata N° 3, donde permaneció durante seis meses en el pabellón femenino. Sor Marina llegó a esa residencia en mayo de 2017 y en abril de 2021 se concretó la primera denuncia y fue detenida el 10 de junio de 2022. Otras acusaciones y condenas de monjas de ese mismo hogarSegún describen en su página web, el trabajo de las Hermanas Trinitarias \"en Argentina se ha desarrollado básicamente en hogares, de menores adolescentes y de jóvenes\" y \"el sentido de estos ha sido, desde los orígenes, ofrecer una casa, hogar y familia, a aquellas jóvenes que debían dejar la suya o no la tenían\". La comunidad de religiosas fue fundada el 2 de febrero de 1885 en Madrid. En 2019, la justicia argentina condenó a tres años de prisión a la monja Luisa Ester Toledo en 2019, pero por privación ilegítima de la libertad agravada bajo la utilización de violencia y amenazas contra otras dos monjas de inferior rango en Paraná. En octubre de 2023, fueron absueltas, junto a otros siete acusadas, las monjas Kumiko Kosaka y Asunción Martínez acusadas por abusos sexuales contra niños hipoacúsicos o por omitir denunciar esos hechos ocurridos en el Instituto Próvolo de Mendoza.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://www.argentina.gob.ar/desarrollosocial/linea102/areasninez).",
+      "https://argentina.gob.ar/desarrollosocial/linea102/areasninez)."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:43:29.068+02:00",
+    "updated": "2023-12-29T00:43:29.068+02:00"
+  }
+]

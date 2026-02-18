@@ -1,0 +1,549 @@
+[
+  {
+    "uuid": "01f18aad3063a5ef1e6306bdf491bbd6046101ea",
+    "url": "https://www.heraldtribune.com/story/weather/hurricane/2024/10/12/midnight-pass-reopens-after-hurricane-milton/75636687007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", Sarasota Herald-Tribune",
+    "published": "2024-10-12T16:00:00Z",
+    "title": "Midnight Pass flows again following Hurricane Milton, to the delight of boaters",
+    "text": "Midnight Pass flows again following Hurricane Milton, to the delight of boaters",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Brian Martel",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Caribbean",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-12T23:56:21.855+03:00",
+    "updated": "2024-10-13T16:21:36.544+03:00"
+  },
+  {
+    "uuid": "a67b79d08b7863ae596d20f83422f2e9dc6269a4",
+    "url": "https://www.cnet.com/science/nasa-teams-up-with-ai-to-spot-a-record-breaking-stellar-trio",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@CNET",
+    "published": "2024-10-03T20:53:00Z",
+    "title": "NASA Teams Up With AI to Spot a Record-Breaking Stellar Trio - CNET",
+    "text": "The group has the fastest orbit of any trio of stars ever observed by humans. The universe is full of oddities and formations that range from magnetars to solar systems with four stars . One of those oddities is the stellar trio, where two stars orbit each other and then a third star orbits the other two. A group of professional and amateur astromers used NASA's TESS satellite and AI to find a stellar trio unlike any of the others observed so far. The trio of stars, which has been given the catchy name of TIC 290061484, is special because its orbits are extremely fast. Two of the stars orbit each other every 1.8 days while the third member of the trio orbits the other two every 24.5 days. For reference, Earth orbits the sun every 365 days, and Mercury orbits the sun every 88 days. The sun completes its orbit around the center of the Milky Way galaxy once every 225 million Earth years. Read more: Get Outside and Catch a Meteor Shower: Here Are All the Ones Left in 2024 According to The Astrophysical Journal , the fastest stellar trio previously observed involved an outer star orbiting its duo in 33.02 days. That makes TIC 2900061484 the fastest such trio of stars ever observed by humans. The trio was discovered by astronomers using NASA's TESS satellite, along with AI. Initially, the satellite observed flickers of starlight. Since the system is flat when viewed from TESS, the star with the longer orbit would eclipse the two smaller stars, causing the flickers. Astronomers used machine learning to sift through large sets of starlight data to identify when the eclipses occurred, and a smaller team of citizen astronomers filtered the data further to find the trio. Read more: October 2024 Skygazing Stars Include a Supermoon and a Rare Comet NASA uploaded a video of TESS observing the stellar triplets on YouTube . As the stars orbit one another, one passes in front of the other. Creating an eclipse event can help astronomers identify a duo or trio of stars on a flat plane. Notably, from 1:05 to 1:15 in the video, you can watch all three stars eclipse each other as their orbits take them around. That's the type of information the astronomers were looking for when filtering the data. \"Thanks to the compact, edge-on configuration of the system, we can measure the orbits, masses, sizes, and temperatures of its stars,\" Veselin Kostov, a research scientist at NASA's Goddard Space Flight Center in Greenbelt, Maryland, and the SETI Institute in Mountain View, California, said in a statement. \"And we can study how the system formed and predict how it may evolve.\" While it's unusual to see a trio of stars with such small orbits -- all three orbit each other in a space smaller than Mercury's orbit around the sun -- the orbit appears to be stable. All three stars orbit on a flat plane, which signals that their gravitational pulls don't upset the orbits of the other stars. For the time being, all three stars should remain in orbit with each other in perpetuity. However, as the stars age, that's when the fireworks are set to begin. Read more: Watch for the Northern Lights to Put On a Dazzling Show This Week \"As the inner stars age, they will expand and ultimately merge, triggering a supernova explosion in around 20 [million] to 40 million years,\" NASA says . Currently, this trio has the shortest orbit of any trio of stars observed, but it may not be for long. NASA's Nancy Grace Roman Space Telescope captures more detailed imagery than TESS, which will allow astronomers to see deeper into the Milky Way galaxy with more clarity. This could uncover previously undiscovered trios with even shorter orbits. \"We don't know much about a lot of the stars in the center of the galaxy except for the brightest ones,\" said Brian Powell, a co-author of the study and Goddard data scientist. \"Roman's high-resolution view will help us measure light from stars that usually blur together, providing the best look yet at the nature of star systems in our galaxy.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.youtube.com/watch?v=wFGxtEBBbfg",
+      "https://iopscience.iop.org/article/10.3847/1538-4357/ad7368),",
+      "https://www.nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/).",
+      "http://www.youtube.com/watch",
+      "https://nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/).",
+      "http://youtube.com/watch?v=wFGxtEBBbfg",
+      "https://www.iopscience.iop.org/article/10.3847/1538-4357/ad7368),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T00:10:45.978+03:00",
+    "updated": "2024-10-04T08:25:41.607+03:00"
+  },
+  {
+    "uuid": "26731e8e366dd2308009a5120f0e71a35be4473c",
+    "url": "https://www.telemundo47.com/el-tiempo/noticias-del-tiempo/octubre-mes-mas-seco-registrado-nyc-tras-sequia/2513483",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "La Autoridad en el Tiempo",
+    "published": "2024-11-01T01:31:00Z",
+    "title": "Octubre termina como el mes más seco registrado en NYC, la sequía continúa en el área",
+    "text": "NUEVA YORK — Llevamos semanas diciéndolo y cada día suena más cierto: este ha sido un otoño excepcionalmente seco.\nEn septiembre tuvimos unos 3.5 centímetros de lluvia, la mayor parte de los cuales se produjeron a finales de mes. Octubre ha sido aún más seco, con semanas sin que cayera una sola gota de lluvia en Central Park. Y las consecuencias de un período seco tan persistente están siendo significativas.\nDesde 1869, cuando se empezaron a recopilar registros en Central Park, nunca hemos pasado un mes entero sin lluvia medible. El martes, a los 29 días de iniciado el mes, finalmente logramos acumular la cantidad mínima de lluvia medible: 0.01 pulgadas.\nEso es todo lo que vamos a tener para el mes, y hace que octubre de 2024 sea el mes más seco del calendario registrado, superando a junio de 1949, cuando tuvimos 0.02 pulgadas.\nUn octubre completamente seco precedido por un septiembre árido nos ha dejado con un déficit de siete pulgadas en lo que va de temporada en los dos meses. Este es el comienzo más seco del otoño desde el siglo XIX (para los aficionados a la historia, se remonta a la administración de Benjamin Harrison).\nLa falta de lluvia está pasando factura, sobre todo en forma de sequía. A principios de septiembre no hubo sequía en la región. Según la última actualización del monitor de sequía del 31 de octubre, todo el estado de Nueva Jersey se encuentra ahora en condiciones de sequía al menos moderada. Más de la mitad del estado se encuentra ahora en una sequía grave.\nPara ponerlo en perspectiva, las condiciones de sequía grave no han cubierto el 50% de Nueva Jersey desde 2002.\nLa creciente sequía está generando una mayor preocupación por los incendios en los tres estados. Las ráfagas de viento, la humedad relativa y la escasez de lluvias son factores que afectan el peligro de incendios en un lugar determinado. Nuestro paisaje reseco por sí solo ha promovido un alto peligro de incendios durante la mayoría de los días de las últimas dos semanas.\nLa falta de lluvia produce matorrales secos como yesca que están listos para la combustión. La baja humedad hace que los incendios se inicien fácilmente y los vientos racheados hacen que los incendios se propaguen rápidamente. Cuando todos estos factores actúan juntos, crean condiciones de peligro de incendios extremos.\nActualmente, tanto los vientos como la humedad están bajo control. Nuestro principal peligro de incendio es la maleza seca, que se ha vuelto cada vez más abundante debido a la falta de lluvia. Y este ha sido el principal factor impulsor que ha provocado el alto, y a veces extremo, peligro de incendio en toda la región triestatal.\nSe han emitido advertencias de bandera roja para casi toda la zona triestatal para el viernes, ya que la combinación de ráfagas de viento, baja humedad y suelo seco crean un peligro extremo de incendio.\nEl clima del jueves no ayudó en nada a mejorar la situación: el clima más seco se combinó con temperaturas que igualaron o rompieron récords de temperaturas altas por la tarde.\nIslip, en Long Island, alcanzó los 80 grados ese día, rompiendo el récord anterior de 73 de hace dos décadas. Los récords de temperaturas máximas de 1946 se rompieron en el Aeropuerto LaGuardia, el Aeropuerto Newark y Poughkeepsie, mientras que Central Park igualó su récord de temperaturas máximas establecido en este día hace 78 años.\nLas preocupaciones por los incendios solo van a empeorar a medida que nuestro déficit de lluvia siga aumentando. El viernes por la mañana es nuestra próxima oportunidad de lluvia, pero apenas se registrará en el pluviómetro. Tendremos suerte si recogemos más de una centésima de pulgada. Eso no es suficiente para hacer mella en nuestro déficit.\nY, por mínima que sea, esta podría ser nuestra última oportunidad de ver lluvia en un tiempo, ya que esperamos entrar en otro período seco prolongado la próxima semana.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Central Park",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T04:08:08.190+02:00",
+    "updated": "2024-11-01T04:08:08.190+02:00"
+  },
+  {
+    "uuid": "46ba5a1ce55a32c8bd8591d57bbcaad505024b4a",
+    "url": "https://uk.sports.yahoo.com/news/arsenal-denied-return-premier-league-222009824.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Glasgow Times",
+    "published": "2023-12-28T00:00:00Z",
+    "title": "Arsenal denied a return to Premier League summit as they are beaten by West Ham",
+    "text": "PA Media: Sport Arsenal lose to West Ham and miss chance to return to Premier League summit Read full article Mark Mann-Bryans, PA 29 December 2023 at 0:29 am · 3-min read\nArsenal missed the chance to return to the top of the Premier League as they slipped to a disappointing defeat to West Ham amid more VAR controversy.\nThe Gunners needed victory to replace Liverpool at the summit but lost 2-0 on a night where Hammers boss David Moyes finally landed a victory at the Emirates Stadium.\nWest Ham lost Kurt Zouma ahead of the game and Lucas Paqueta after just over half an hour but hit the front through Tomas Soucek ’s strike, awarded after VAR could not determine whether the whole ball had gone out of play in the build-up.\nA second-half header from former Arsenal defender Konstantinos Mavropanos secured the points and things could have been even better for the visitors had Said Benrahma not seen a last-gasp penalty saved by David Raya .\nA massive result for West Ham ⚒️ #ARSWHU pic.twitter.com/JLAN9CInMV\n— Premier League (@premierleague) December 28, 2023\nMoyes had failed to secure victory in his previous 72 Premier League away games at Arsenal, Chelsea , Liverpool or Manchester United , so this was a long time coming for the Scot.\nArsenal laboured when they needed to continue their recent winning run in London derbies to go back to the top of the table.\nInstead, only captain Martin Odegaard could hold his head high on a night where their defence creaked and Gabriel Jesus was guilty of missing a couple of very good chances.\nIt was a big win for David Moyes (Adam Davy/PA) Arsenal started well, with some great touches in and around the West Ham box from Odegaard in particular.\nBut at the other end their defending left a lot to be desired, as Oleksandr Zinchenko and Gabriel Magalhaes failed to deal with a simple ball into the middle.\nJarrod Bowen capitalised by latching onto the miscue and teed up Soucek to finish – the goal surviving a lengthy VAR check which could not ultimately make a call on if the ball had not gone out of play before Bowen’s cutback.\nStory continues Tomas Soucek, number 28, opened the scoring (Adam Davy/PA) Arsenal looked to respond although the goal gave West Ham something to defend, although Jesus found a way in behind with a subtle flick into Bukayo Saka , whose header was brilliantly saved by Alphonse Areola .\nPaqueta had been hurt in the warm-up and lasted just over half an hour, with his fellow Brazilian Gabriel Martinelli curling an effort just wide for Arsenal as they continued in vain to find a leveller.\nThe hosts were getting closer, West Ham gifting possession as two passes saw Arsenal in on goal once more, this time Saka hitting the base of the post from an acute angle.\nBukayo Saka came close to an equaliser (Adam Davy/PA) Former West Ham captain Declan Rice fired just over from 25 yards but it was another player coming back to haunt his former club who would find the back of the net soon after.\nMavropanos made just seven league starts in three years as an Arsenal player but returned to the Premier League last summer with the Hammers and headed them two goals ahead before the hour.\nJesus then headed straight at Areola before sending another fine chance well over the bar moments after Arteta introduced Eddie Nketiah and Reiss Nelson off the bench.\nAreola was on hand again to keep out a Leandro Trossard effort, with Vladimir Coufal clearing a William Saliba header off the line from the resulting corner.\nRice had come off the bench during a 3-0 Carabao Cup defeat on his return to West Ham earlier in the season and endured another night to forget here as he conceded a late penalty for tripping Emerson Palmieri in the box – only for Raya to keep out substitute Benrahma’s tame spot-kick.\nTRENDING 1. Experience: I’m a world champion pea thrower 2. The 10 greatest commentary moments in sports history 3. When is Dancing on Ice 2024 and who are the hosts? 4. At least 30 E.coli cases could be linked to recalled cheese, say health officials 5. Strictly Come Dancing star John Whaite pulls out of stage role due to illness",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport"
+    ],
+    "external_links": [
+      "http://www.pressassociation.com/sport.html",
+      "https://twitter.com/intent/tweet?text=Arsenal%20denied%20a%20return%20to%20Premier%20League%20summit%20as%20they%20are%20beaten%20by%20West%20Ham&url=https%3A%2F%2Fuk.sports.yahoo.com%2Fnews%2Farsenal-denied-return-premier-league-222009824.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dtw%26tsrc%3Dtwtr&via=Yahoo",
+      "https://www.facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fuk.sports.yahoo.com%2Fnews%2Farsenal-denied-return-premier-league-222009824.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://s.yimg.com/ny/api/res/1.2/59JBD0Lptn8kC58BvlVnWw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE2NDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2021-03/5b459fb0-8bf5-11eb-afdf-e12ef998abfb",
+      "https://s.yimg.com/os/creatr-uploaded-images/2021-03/5b459fb0-8bf5-11eb-afdf-e12ef998abfb",
+      "https://s.yimg.com/ny/api/res/1.2/wbl51qN7y__YLBPgrYgRBA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/pa-sport.com/0ad0f8ba1ffedc74a3de87aaea807461",
+      "https://s.yimg.com/ny/api/res/1.2/Um_9JI0ySNy.zhq7lbF1Lw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/pa-sport.com/0ad0f8ba1ffedc74a3de87aaea807461",
+      "https://www.facebook.com/dialog/feed",
+      "https://www.twitter.com/intent/tweet?text=Arsenal%20denied%20a%20return%20to%20Premier%20League%20summit%20as%20they%20are%20beaten%20by%20West%20Ham&url=https%3A%2F%2Fuk.sports.yahoo.com%2Fnews%2Farsenal-denied-return-premier-league-222009824.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dtw%26tsrc%3Dtwtr&via=Yahoo",
+      "https://www.s.yimg.com/ny/api/res/1.2/59JBD0Lptn8kC58BvlVnWw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE2NDtoPTQ4/https://www.s.yimg.com/os/creatr-uploaded-images/2021-03/5b459fb0-8bf5-11eb-afdf-e12ef998abfb",
+      "https://www.s.yimg.com/ny/api/res/1.2/Um_9JI0ySNy.zhq7lbF1Lw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://www.media.zenfs.com/en/pa-sport.com/0ad0f8ba1ffedc74a3de87aaea807461",
+      "https://facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fuk.sports.yahoo.com%2Fnews%2Farsenal-denied-return-premier-league-222009824.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "http://pressassociation.com/sport.html",
+      "https://www.s.yimg.com/os/creatr-uploaded-images/2021-03/5b459fb0-8bf5-11eb-afdf-e12ef998abfb",
+      "https://twitter.com/intent/tweet",
+      "https://www.s.yimg.com/ny/api/res/1.2/wbl51qN7y__YLBPgrYgRBA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://www.media.zenfs.com/en/pa-sport.com/0ad0f8ba1ffedc74a3de87aaea807461"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "david raya",
+          "sentiment": "none"
+        },
+        {
+          "name": "moyes",
+          "sentiment": "none"
+        },
+        {
+          "name": "konstantinos mavropanos",
+          "sentiment": "none"
+        },
+        {
+          "name": "tomas soucek",
+          "sentiment": "none"
+        },
+        {
+          "name": "kurt zouma",
+          "sentiment": "none"
+        },
+        {
+          "name": "said benrahma",
+          "sentiment": "none"
+        },
+        {
+          "name": "mark mann",
+          "sentiment": "none"
+        },
+        {
+          "name": "david moyes",
+          "sentiment": "none"
+        },
+        {
+          "name": "lucas paqueta",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "premier league",
+          "sentiment": "negative"
+        },
+        {
+          "name": "pa",
+          "sentiment": "none"
+        },
+        {
+          "name": "liverpool",
+          "sentiment": "none"
+        },
+        {
+          "name": "var",
+          "sentiment": "none"
+        },
+        {
+          "name": "arsenal",
+          "sentiment": "none"
+        },
+        {
+          "name": "manchester united",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "emirates stadium",
+          "sentiment": "none"
+        },
+        {
+          "name": "west ham",
+          "sentiment": "none"
+        },
+        {
+          "name": "chelsea",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:28:52.969+02:00",
+    "updated": "2023-12-29T12:06:19.032+02:00"
+  },
+  {
+    "uuid": "f962a1f2921f621a6e2f771c90403f12ecc605ac",
+    "url": "https://sites.libsyn.com/19181/mark-may-be-right",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Joe Esposito",
+    "published": "2025-01-10T00:00:00Z",
+    "title": "Mark May Be Right",
+    "text": "Jan 9, 2025\nToday on the 5: Mark Zuckerberg recently announced that Meta is ending third party fact checking on their platforms. The CEO claimed that this move would benefit end users, and I he may be right...just not in the way he thinks.\nDONATE VIA PAYPAL\nDONATE VIA PATREON\nVISIT OUR ZAZZLE STORE\nBUY LANDO'S BOOKS\nJOE'S LINKTREE\nSHOW YOUTUBE CHANNEL\nTwin Engines Of Destruction: Gentle Arts Of Conversation Punctuated With Bloody Power Tools\nHaving trouble logging in?",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->social sciences",
+      "Social Issue->social problem",
+      "Social Issue->values",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Mark Zuckerberg",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:52:26.698+02:00",
+    "updated": "2025-01-10T02:52:26.698+02:00"
+  },
+  {
+    "uuid": "8947112de008d6bd899933ac2ca9e7513b890bb8",
+    "url": "https://themercury.com/news/national/tears-of-joy-as-venezuelan-migrants-return-from-salvadoran-prison-hell/article_b75e289b-9891-5707-b5dd-63697e8f8c2f.html",
+    "ord_in_thread": 0,
+    "author": "Ramon Veliz, with Margioni Bermudez in Maracaibo AFP",
+    "published": "2025-07-22T23:07:00Z",
+    "title": "Tears of joy as Venezuelan migrants return from Salvadoran prison 'hell' | National | themercury.com",
+    "text": "Tears of joy and relief flowed freely Tuesday as Venezuelan Maikel Olivera returned home to his mother's embrace after four months of \"hell\" in a Salvadoran prison.\nThe 37-year-old is one of 252 Venezuelan migrants flown home last Friday from a notorious \"anti-terrorism\" prison where they were sent by the United States in March in a fear-inducing crackdown on undocumented migrants.\nFamily and friends waited impatiently for Olivera to be released by Venezuelan officials after days of medical tests and questioning, breaking out in tearful cheers and waving Venezuelan flags as they saw a police car finally approaching his family home Tuesday.\n\"You've come back to life, my love!\" Olivera's mother Olivia Rojas exclaimed, hugging her son and lovingly stroking his face before taking a step back to look him up and down for any visible signs of distress.\nCars honked in celebration and one person in the crowd wore a T-shirt with the slogan: \"Migrating is not a crime.\"\nWhen the clamor died down, Olivera described the CECOT prison he and his compatriots were held at as \"real hell.\"\n\"There were beatings 24 hours a day,\" he told AFP of the experience.\n\"They told us: 'you will rot here, you will be imprisoned for 300 years.' I thought I would never return to Venezuela again.\"\nThe CECOT was built by Salvadoran President Nayib Bukele to house dangerous criminals in a successful but much-criticized war on gangs.\nBukele accepted payment of millions of dollars from Donald Trump's administration to add migrants deported from the US to his prison population in a move widely denounced by human rights groups.\nOlivera was arrested in the United States just days short of his second month there, accused of being a gang member, held for five months and then sent to El Salvador with 251 other Venezuelans.\nAfter four months incommunicado at the CECOT, Olivera and the others were finally freed in a prisoner exchange deal with Washington.\nAnd not a minute too soon.\nCaracas -- itself under investigation for alleged rights violations in its own prisons -- says the men were beaten, shot with rubber bullets, sexually abused and given rotten food to eat during their incarceration.\n- 'They raped him' - The men had been sent to El Salvador despite US officials not providing any evidence for claims that they were gang members, and without any due process on American soil.\nThe last they were heard of was when Bukele shared images of the men arriving at CECOT in chains, their heads shorn.\nOlivera said they were not allowed to receive visits from lawyers or family members.\n\"I had a friend who was gay, they raped him,\" he said. \"They beat us just for taking a shower.\"\nOlivera was delivered Tuesday by authorities to the city of Barquisimeto, a more than four-hour drive west from the capital Caracas where the men arrived in two planes last week.\nAnother four hours west, Mervin Yamarte, 29, broke down in tears when he arrived to see his young wife Jeannelys Parra, their six-year-old daughter, and his mother, Mercedes, among an excited, 300-strong welcoming committee.\n\"It was complete torture what we were enduring, I have many marks on my body,\" he told AFP.\nMercedes Yamarte, 46, had worked for days to prepare a special meal and decorate her humble home with balloons in the colors of the Venezuelan flag.\nShe had raised a banner outside reading: \"Welcome to your homeland, you were missed.\"\nAlso in Maracaibo,\nYarelis Herrera, 45, was overcome at being reunited with her son Edwuar Hernandez, who she said appeared \"very changed\" by his experience. \"He looks more like a man now.\"\nHe is 23.\nOlivera, Yamarte, Hernandez and many others risked the dangerous journey to the United States to find work and send money home to economic and political crisis-riddled Venezuela.\nThe South American country has lost about a quarter of its population -- some eight million people -- to emigration under President Nicolas Maduro, whose claims to victory in two successive elections are widely considered illegitimate.\n\"They have no record of criminal activity, nothing. Humble people seeking a better future who ended up in this nightmare,\" Mervin Yamarte's younger brother Jonferson told AFP of the migrants' grim fate.\nHe had escaped a similar fate by returning home from the United States on a humanitarian flight organized by Caracas.\nmbj-jt/mlr/sla\nOriginally published on doc.afp.com , part of the BLOX Digital Content Exchange .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Social Issue->social condition",
+      "Social Issue->immigration",
+      "Social Issue->discrimination",
+      "Crime, Law and Justice->human smuggling and trafficking"
+    ],
+    "ai_allow": false,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.bloxdigital.com/products_services/cen/",
+      "https://doc.afp.com",
+      "https://www.doc.afp.com",
+      "https://bloxdigital.com/products_services/cen/",
+      "https://www.bloxdigital.com/products_services/cen"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Maikel Olivera",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Olivia Rojas",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": null,
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": "local_news",
+        "city": [
+          "Bala",
+          "Manhattan",
+          "Herkimer",
+          "Bremen"
+        ],
+        "state": [
+          "Kansas"
+        ],
+        "country": [
+          "US"
+        ],
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:39:49.724+03:00",
+    "updated": "2025-07-24T07:44:46.000+03:00"
+  },
+  {
+    "uuid": "e4d9bd4b098963b3ddc2c00b60e0f31731ebf485",
+    "url": "https://www.ilgiornale.it/news/entertainment-e-servizi/lalgoritmo-amazon-potrebbe-spiarci-meglio-2401701.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Massimiliano Parente",
+    "published": "2024-11-22T00:00:00Z",
+    "title": "L'algoritmo di Amazon potrebbe spiarci meglio - il Giornale",
+    "text": "Sono partiti gli sconti, c’è solo un problema: ci spiano, non la CIA ma come sappiamo per la vendita dei nostri dati, che è il motivo per cui tutte le app che usiamo, da Whatsapp a Telegram a Istangram, sono gratis. Il che non mi disturba, per quanto mi riguarda potrebbero ascoltare anche le mie telefonate, i miei lettori resterebbero delusi rispetto a quello che scrivo di me stesso. Però, dico, spiateci meglio.\nInsomma, io cosa compro prevalentemente? Magliette con supereroi, sì, a cinquantaquattro anni, come fossi un sedicenne (ho lottato per essere infantile, è un diritto acquisito), magliette di Freddie Mercury, accessori per videogiochi, libri (quelli giusti), statue da collezione (tipo la testa di Alien in scala uno a uno che spunta fuori dal mio muro), i fagioli di Bud Spencer, gadget delle mie serie tv preferite, cose così.\nQuindi immagino l’algoritmo che, spiandomi, avendo i miei dati, avendo il tracking delle mie ricerche, mi proponga oggetti affini a quelli che cerco, qualcosa a cui non avevo pensato e la vedo e penso: oh, toh, la voglio, pure scontata! Invece ecco cosa mi appare nella lista dei consigliati per me delle più famose piattaforme online e sui social: Fifa, scontato del 9%, quando ho sempre giocato a un gioco solo, Call of Duty, e odio il calcio. Una Yankee Candle, una candela profumata al profumo di Natale (non sento i profumi, non uso candele e odio il Natale peggio del Grinch). Un set di lamette da barba di ricambio convenientissimo, 32% di sconto, quando uso un rasoio elettrico e quindi cosa dovrei farci. Uno Smartwatch tarocco (19 euro, cosa ci hanno messo dentro non lo so), quando ho da anni un Apple Watch e uso solo prodotti Apple. Delle scarpe Clarks, mai portate in vita mia, io solo Nike (e della Nike non mi viene proposto niente), e mutande imbottite con su stampata la foto di un pene (cosa vorreste insinuare?)\nE poi una piastra per capelli che sembra un vibratore, un distruggi documenti e fogli come quelli che si usano per far sparire le prove, perfino un set per il fai da te, a me, che per attaccare un quadro chiamo il rumeno tuttofare. Ah, ho anche una prova, questa mirata, per provare un apparecchio acustico, scontatissima e consigliatissima per chi ha tra i 50 e i 54 anni (si diventa sordi anagraficamente prima durante il Black Friday? Credevo di sentirci bene).\nNon so cosa pensare, nel caso a voi capitasse la stessa cosa ma al contrario, cioè vi serve tutto ciò che propongono a me mentre voi avete scontatissima una statua di Batman a dimensioni reali e vi chiedete perché a voi, mettiamoci in contatto, forse ci spiano ma poi dobbiamo trovarci tra di noi e rivenderci gli acquisti.\n- dal lunedì al venerdì dalle ore 10:00 alle ore 20:00\n- sabato, domenica e festivi dalle ore 10:00 alle ore 18:00.\n[netiquette](https://it.wikipedia.org/wiki/Netiquette).\n[Qui](#)le norme di comportamento per esteso.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://img.ilgcdn.com/sites/default/files/styles/xl/public/foto/2024/07/23/1721730981-img-2354.jpeg?_=1721730981",
+      "https://img.ilgcdn.com/sites/default/files/styles/lg/public/foto/2024/07/23/1721730981-img-2354.jpeg?_=1721730981&format=webp",
+      "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/11/19/1731993421-aznahuutprnebn5uebid-filippo-attili-palazzo-chigi.jpeg?_=1731993421",
+      "https://img.ilgcdn.com/sites/default/files/styles/sm/public/foto/2024/07/23/1721730981-img-2354.jpeg?_=1721730981&format=webp",
+      "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/11/19/1731993421-aznahuutprnebn5uebid-filippo-attili-palazzo-chigi.jpeg?_=1731993421&format=webp",
+      "https://img.ilgcdn.com/sites/default/files/text-to-speech/2024/11/22/news-2401701.mp3",
+      "https://img.ilgcdn.com/sites/default/files/styles/th/public/foto/2024/11/19/1731993421-aznahuutprnebn5uebid-filippo-attili-palazzo-chigi.jpeg?_=1731993421&format=webp",
+      "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.ilgiornale.it%2Fnews%2Fentertainment-e-servizi%2Flalgoritmo-amazon-potrebbe-spiarci-meglio-2401701.html%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare_ilg&title=L%27algoritmo%20di%20Amazon%20potrebbe%20spiarci%20meglio",
+      "https://twitter.com/share?url=https%3A%2F%2Fwww.ilgiornale.it%2Fnews%2Fentertainment-e-servizi%2Flalgoritmo-amazon-potrebbe-spiarci-meglio-2401701.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dshare_ilg&text=L%27algoritmo%20di%20Amazon%20potrebbe%20spiarci%20meglio&via=ilgiornale",
+      "https://it.wikipedia.org/wiki/Netiquette",
+      "https://api.whatsapp.com/send?text=L%27algoritmo%20di%20Amazon%20potrebbe%20spiarci%20meglio",
+      "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/07/23/1721730981-img-2354.jpeg?_=1721730981&format=webp",
+      "https://img.ilgcdn.com/sites/default/files/styles/xl/public/foto/2024/07/23/1721730981-img-2354.jpeg?_=1721730981&format=webp",
+      "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.ilgiornale.it%2Fnews%2Fentertainment-e-servizi%2Flalgoritmo-amazon-potrebbe-spiarci-meglio-2401701.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare_ilg",
+      "https://img.ilgcdn.com/sites/default/files/styles/th/public/foto/2024/07/23/1721730981-img-2354.jpeg?_=1721730981&format=webp",
+      "https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.ilgiornale.it%2Fnews%2Fentertainment-e-servizi%2Flalgoritmo-amazon-potrebbe-spiarci-meglio-2401701.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare_ilg",
+      "https://www.img.ilgcdn.com/sites/default/files/styles/sm/public/foto/2024/07/23/1721730981-img-2354.jpeg?_=1721730981&format=webp",
+      "https://img.ilgcdn.com/sites/default/files/styles/sm/public/foto/2024/07/23/1721730981-img-2354.jpeg",
+      "https://www.linkedin.com/shareArticle",
+      "https://www.it.wikipedia.org/wiki/Netiquette",
+      "https://twitter.com/share",
+      "https://linkedin.com/shareArticle?url=https%3A%2F%2Fwww.ilgiornale.it%2Fnews%2Fentertainment-e-servizi%2Flalgoritmo-amazon-potrebbe-spiarci-meglio-2401701.html%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare_ilg&title=L%27algoritmo%20di%20Amazon%20potrebbe%20spiarci%20meglio",
+      "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/07/23/1721730981-img-2354.jpeg",
+      "https://www.img.ilgcdn.com/sites/default/files/styles/xl/public/foto/2024/07/23/1721730981-img-2354.jpeg?_=1721730981&format=webp",
+      "https://www.img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/07/23/1721730981-img-2354.jpeg?_=1721730981&format=webp",
+      "https://img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/11/19/1731993421-aznahuutprnebn5uebid-filippo-attili-palazzo-chigi.jpeg",
+      "https://www.img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/11/19/1731993421-aznahuutprnebn5uebid-filippo-attili-palazzo-chigi.jpeg?_=1731993421&format=webp",
+      "https://www.facebook.com/sharer.php",
+      "https://api.whatsapp.com/send",
+      "https://img.ilgcdn.com/sites/default/files/styles/xl/public/foto/2024/07/23/1721730981-img-2354.jpeg",
+      "https://www.img.ilgcdn.com/sites/default/files/styles/lg/public/foto/2024/07/23/1721730981-img-2354.jpeg?_=1721730981&format=webp",
+      "https://www.img.ilgcdn.com/sites/default/files/text-to-speech/2024/11/22/news-2401701.mp3",
+      "https://www.img.ilgcdn.com/sites/default/files/styles/th/public/foto/2024/07/23/1721730981-img-2354.jpeg?_=1721730981&format=webp",
+      "https://www.img.ilgcdn.com/sites/default/files/styles/xl/public/foto/2024/07/23/1721730981-img-2354.jpeg?_=1721730981",
+      "https://www.img.ilgcdn.com/sites/default/files/styles/th/public/foto/2024/11/19/1731993421-aznahuutprnebn5uebid-filippo-attili-palazzo-chigi.jpeg?_=1731993421&format=webp",
+      "https://www.img.ilgcdn.com/sites/default/files/styles/md/public/foto/2024/11/19/1731993421-aznahuutprnebn5uebid-filippo-attili-palazzo-chigi.jpeg?_=1731993421",
+      "https://www.twitter.com/share?url=https%3A%2F%2Fwww.ilgiornale.it%2Fnews%2Fentertainment-e-servizi%2Flalgoritmo-amazon-potrebbe-spiarci-meglio-2401701.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dshare_ilg&text=L%27algoritmo%20di%20Amazon%20potrebbe%20spiarci%20meglio&via=ilgiornale",
+      "https://img.ilgcdn.com/sites/default/files/styles/lg/public/foto/2024/07/23/1721730981-img-2354.jpeg",
+      "https://img.ilgcdn.com/sites/default/files/styles/th/public/foto/2024/07/23/1721730981-img-2354.jpeg",
+      "https://www.api.whatsapp.com/send?text=L%27algoritmo%20di%20Amazon%20potrebbe%20spiarci%20meglio",
+      "https://img.ilgcdn.com/sites/default/files/styles/th/public/foto/2024/11/19/1731993421-aznahuutprnebn5uebid-filippo-attili-palazzo-chigi.jpeg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T14:46:06.151+02:00",
+    "updated": "2024-11-22T17:31:26.429+02:00"
+  },
+  {
+    "uuid": "70e3fda6961f6b8503bf63f01e2a0b4e35471b7c",
+    "url": "https://unn.ua/en/news/scholz-supports-the-use-of-frozen-russian-assets-to-purchase-weapons-for-ukraine",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Julia Kotvitskaya",
+    "published": "2024-05-07T01:19:00Z",
+    "title": "Scholz supports the use of frozen russian assets to purchase weapons for Ukraine | УНН",
+    "text": "The joy of victories and the bitterness of defeats: how Ukraine performed at Eurovision [Exclusive](/en/news/its-time-to-withdraw-ukrainian-land-from-corrupt-management-of-the-national-academy-of-agrarian-sciences-and-give-it-to-the-armed-forces-expert) It's time to withdraw Ukrainian land from corrupt management of the National Academy of Agrarian Sciences and give it to the Armed Forces - expert Russian army damaged a power facility in Sumy region, equipment was turned off in Kharkiv region amid Russian attacks - Ukrenergo [Exclusive](/en/news/how-to-break-the-fast-without-harming-the-body-and-not-pounce-on-junk-food-tips-from-a-gastroenterologist) How to break the fast without harming the body and not \"pounce\" on junk food: tips from a gastroenterologist [Exclusive](/en/news/compensation-to-ukrainians-for-property-destroyed-by-the-enemy-kyiv-scientific-research-institute-of-forensic-expertise-explained-how-the-amount-of-damage-is-determined) Compensation to Ukrainians for Property Destroyed by the Enemy: Kyiv Scientific Research Institute of Forensic Expertise explained how the amount of damage is determined [Exclusive](/en/news/the-case-of-minister-solsky-nabu-must-suspect-more-than-a-thousand-ato-soldiers-or-drop-all-charges) \"The case of Minister Solsky\": NABU must \"suspect\" more than a thousand ATO soldiers or drop all charges [Exclusive](/en/news/more-than-218-thousand-devices-delivered-to-ukrainian-students-and-teachers-for-learning-in-war-conditions) More than 218 thousand devices delivered to Ukrainian students and teachers for learning in war conditions [Exclusive](/en/news/setup-and-political-persecution-mps-on-the-minister-solskyi-case) Setup and political persecution: MPs on the \"Minister Solskyi case\" [Exclusive](/en/news/excise-stamp-examinations-biological-and-trace-evidence-kyiv-scientific-research-institute-of-forensic-expertise-told-how-to-identify-smuggled-cigarettes-and-counterfeits-of-well-known-brands) Excise stamp examinations, biological and trace evidence: Kyiv Scientific Research Institute of Forensic Expertise told how to identify smuggled cigarettes and counterfeits of well-known brands [Exclusive](/en/news/approximately-every-eighth-development-on-the-brave1-platform-uses-ai) Approximately every eighth development on the Brave1 platform uses AI Scholz supports the use of frozen russian assets to purchase weapons for Ukraine Israeli tanks enter Rafah near the border with Egypt Ukrainian archer Mykhailo Usach wins first Olympic license in archery for Paris 2024 kremlin indoctrination: a new history textbook is being presented in the occupied territories of Ukraine Sibiga discusses Ukraine Recovery Conference and Inaugural Peace Summit with German Ambassador Pentagon sees no changes in russia's strategic nuclear forces - Pentagon spokesman Patrick Ryder Cyberattack on the UK Ministry of Defense: hackers hacked servers Occupants advance near Novopokrovske in Donetsk region - DeepState Lithuania will send Ukraine the necessary air defense systems Galushchenko and Simson hold a meeting on preparing the energy sector for the heating season Popular A large-scale fire broke out at a brick factory in the Russian city of Smolensk: witnesses heard two explosions Defense forces are in control of the situation: Voloshyn on Chasiv Yar Occupants strike again at energy facilities in Sumy region: consumers are urged to save money Journalist: Six dead found in Tysa overnight who tried to illegally cross the border Zelenskyy invites leaders of Lithuania, Poland, Canada and Estonia to the Peace Summit Publications What is wrong with the attempted assassination of the acting deputy head of the State Tax Service of Ukraine Holy fire: miracle or hoax? And where to watch the broadcast of the descent of fire \"The Minister's Case: Supreme Court resolves dispute over land that, according to NABU, ATO soldiers \"squeezed\" from agrarian academy A million-dollar gift could not be hidden: how a wife \"betrayed\" her husband's wealth NAAS land bank was empty before privatization: negligence of \"agrarian scientists\" was to blame Scholz supports the use of frozen russian assets to purchase weapons for Ukraine German Chancellor Olaf Scholz supports the use of up to 90% of frozen russian assets to finance arms purchases for Ukraine. Israeli tanks enter Rafah near the border with Egypt Israeli tanks entered the city of Rafah in the southern Gaza Strip, coming within 200 meters of the Egyptian border, despite Hamas's acceptance of a ceasefire offer from Egypt and Qatar. Ukrainian archer Mykhailo Usach wins first Olympic license in archery for Paris 2024 Mykhailo Usach won Ukraine's first Olympic license for the 2024 Games in archery, defeating the silver medalist from Italy at the European qualifying tournament in Essen, Germany. kremlin indoctrination: a new history textbook is being presented in the occupied territories of Ukraine The russian federation presents a new history textbook in the temporarily occupied Ukrainian territories to introduce its ideology and form a \"historical narrative\" that legitimizes the occupiers' power. Sibiga discusses Ukraine Recovery Conference and Inaugural Peace Summit with German Ambassador With German Ambassador Martin Jaeger, First Deputy Foreign Minister of Ukraine Andriy Sybiga discussed preparations for the conference on Ukraine's recovery in Berlin and the Inaugural Peace Summit. Pentagon sees no changes in russia's strategic nuclear forces - Pentagon spokesman Patrick Ryder The Pentagon sees no changes in russia's strategic nuclear forces, despite Moscow's \"irresponsible rhetoric\" about nuclear exercises. Cyberattack on the UK Ministry of Defense: hackers hacked servers A large-scale data breach at the UK Ministry of Defense has led to the leakage of confidential personal and financial data of military personnel, which could potentially be linked to a cyberattack from China. Occupants advance near Novopokrovske in Donetsk region - DeepState In Donetsk region, the enemy advanced near Novopokrovske. Lithuania will send Ukraine the necessary air defense systems Lithuania will provide Ukraine with air defense systems, joining Germany in providing additional military support. Galushchenko and Simson hold a meeting on preparing the energy sector for the heating season The High Level International Advisory Council discussed cooperation with partners to help Ukraine's energy sector prepare for the next heating season amid the serious consequences of russian attacks on energy infrastructure.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Economy, Business and Finance",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "scholz",
+          "sentiment": "negative"
+        },
+        {
+          "name": "olaf scholz",
+          "sentiment": "none"
+        },
+        {
+          "name": "josep borrell",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "eu",
+          "sentiment": "none"
+        },
+        {
+          "name": "euroclear",
+          "sentiment": "none"
+        },
+        {
+          "name": "unn",
+          "sentiment": "none"
+        },
+        {
+          "name": "european union",
+          "sentiment": "none"
+        },
+        {
+          "name": "reuters",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "eu",
+          "sentiment": "none"
+        },
+        {
+          "name": "belg",
+          "sentiment": "none"
+        },
+        {
+          "name": "west",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-07T04:41:03.662+03:00",
+    "updated": "2024-05-07T06:29:30.898+03:00"
+  }
+]

@@ -1,0 +1,453 @@
+[
+  {
+    "uuid": "6ec5db5a4bcef4df700ef44cde6f69798678b09f",
+    "url": "https://www.zebulon.fr/actualites/effacement-securise-fichiers.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@zebulonfr",
+    "published": "2024-11-21T20:21:00Z",
+    "title": "Pourquoi effacer un fichier et vider la corbeille, ce n’est pas suffisant pour le faire disparaître (et comment y remédier)",
+    "text": "Ah, le fameux « Supprimer » ! Avec un simple clic droit, on envoie nos fichiers dans l’abîme numérique, la corbeille. Puis, on la vide avec un certain plaisir. Bye-bye, fichiers gênants ou inutiles… ou du moins, c’est ce que vous pensez. Spoiler alert : vos fichiers ne sont pas vraiment partis ! C’est un peu comme si, au lieu de brûler une lettre compromettante, vous la jetiez dans une poubelle transparente au milieu de la rue. Pas très malin, hein ? Mais pourquoi cela se produit-il ? Et surtout, que faire pour les effacer pour de bon ? Plongeons dans les entrailles du stockage numérique pour comprendre !\nQue se passe-t-il vraiment quand on “supprime” un fichier ? Imaginez votre disque dur comme un immense livre avec un index. Chaque fichier est une page, et l’index vous dit où il se trouve. Lorsque vous supprimez un fichier, vous ne déchirez pas la page. Vous vous contentez de rayer la ligne de l’index. Résultat : le fichier est toujours là, bien au chaud, jusqu’à ce que vous écriviez autre chose à sa place (ce qui peut prendre des semaines, voire jamais si vous n’utilisez pas tout l’espace disque).\nPourquoi vider la corbeille ne suffit-il pas non plus ? La corbeille, c’est un peu comme un bac de recyclage : tant que vous ne le videz pas, le fichier reste accessible. En vidant la corbeille, vous supprimez l’index de ces fichiers dans le système. Mais les données brutes, elles, restent intactes sur le disque dur. Elles sont simplement marquées comme “espaces disponibles”, prêtes à être écrasées… mais pas encore écrasées.\nEn termes simples : votre disque dur est comme un tableau blanc. Supprimer un fichier, c’est effacer son nom de la liste, mais l’écriture est encore visible si on regarde de près.\nLe problème : la récupération de données Ces données restantes sont une aubaine pour les logiciels de récupération. Oui, il existe des programmes, gratuits ou payants, capables de scanner votre disque pour retrouver ces données fantômes. Un mot de passe oublié, une photo compromettante, un document confidentiel ? Si quelqu’un y met du sien, il peut facilement les récupérer. Et si vous vendez ou donnez votre ordinateur, c’est encore pire. Vous ne voudriez pas qu’un parfait inconnu mette la main sur vos souvenirs de vacances ou vos relevés bancaires, n’est-ce pas ?\nAlors, comment effacer un fichier de façon sécurisée ? La solution est simple : il faut écraser les données ! Imaginez que, sur votre tableau blanc, vous passez une éponge et que vous gribouillez par-dessus jusqu’à ce qu’il soit méconnaissable. C’est exactement ce que font les logiciels d’effacement sécurisé. Voici les méthodes les plus courantes :\nÉcrasement simple On remplace les anciennes données par des zéros ou des uns (ou une combinaison des deux). C’est rapide, mais pas toujours suffisant pour des données ultra-sensibles.\nÉcrasement multiple (méthode DoD 5220.22-M) Ce standard militaire (oui, rien que ça !) écrase vos données plusieurs fois avec des motifs différents. Un peu long, mais diablement efficace.\nMéthodes avancées (Gutmann, Schneier, etc.) Ces algorithmes écrasent vos fichiers jusqu’à 35 fois avec des motifs aléatoires. C’est comme une tempête de sable dans vos données : impossible de retrouver quoi que ce soit.\nStellar File Eraser : une solution ultime pour une suppression sécurisée Ah, si seulement effacer un fichier était aussi simple que de le jeter à la poubelle et de siffler en s’éloignant… Mais dans le monde numérique, c’est rarement le cas. C’est là qu’intervient Stellar File Eraser , votre allié pour effacer vraiment vos fichiers, pas juste les envoyer en vacances sur votre disque dur.\nUn ninja pour vos données Stellar File Eraser ne se contente pas de dire “ciao” à vos fichiers. Il leur fait littéralement oublier qu’ils ont existé ! En utilisant des techniques d’écrasement avancées, ce logiciel écrase vos données plusieurs fois avec des schémas différents. Résultat ? Même les logiciels de récupération les plus futés n’y retrouveraient pas un pixel ou un bit.\nEffacer les fichiers et les dossiers\nPlus qu’un simple effacement : un vrai ménage numérique Vous pensez que supprimer des fichiers suffit ? Pas vraiment ! Stellar File Eraser nettoie également les traces que vous laissez derrière vous : historique de navigation, cookies, fichiers temporaires… Bref, tout ce qui pourrait raconter votre vie à quelqu’un d’autre. Avec ce logiciel, c’est comme effacer vos empreintes digitales après avoir mangé des cookies (oui, les vrais cette fois).\nLe côté pratique d’un chef d’orchestre Et si on pouvait automatiser tout ça ? Bonne nouvelle : Stellar File Eraser propose une fonction de planification d’effacement. Vous choisissez quand, où et quoi effacer, et il s’occupe du reste pendant que vous continuez à binge-watcher votre série préférée.\nEffacer vos traces\nSimple comme bonjour Pas besoin d’un diplôme d’ingénieur pour utiliser Stellar File Eraser. Avec son interface intuitive, effacer des fichiers sensibles devient un jeu d’enfant. Quelques clics suffisent, et hop, terminé ! Même votre grand-oncle fan de Windows 95 pourrait s’en sortir sans problème.\nPolyvalent et sans chichis Fichiers sur HDD, SSD, clés USB, ou même sur un disque externe ? Stellar File Eraser gère tout ça sans broncher. Peu importe le support, il fait disparaître vos données comme par magie.\nEffacer vos données supprimées\nConclusion : Effacer, c’est protéger Effacer un fichier ne devrait jamais être pris à la légère, surtout quand il s’agit de données sensibles. Comme nous l’avons vu, la simple suppression ou le vidage de la corbeille ne suffisent pas à garantir que vos fichiers ont réellement disparu. Pour effacer vos données de manière définitive, il faut des outils spécialisés.\nAvec Stellar File Eraser , vous avez une solution fiable et accessible pour faire disparaître vos fichiers sans laisser de traces. Grâce à ses algorithmes d’écrasement avancés, sa compatibilité avec différents supports, et ses fonctionnalités comme le nettoyage des traces numériques ou la planification, ce logiciel s’impose comme un choix incontournable pour tous ceux qui veulent protéger leur vie privée et sécuriser leurs informations.\nQue ce soit pour des besoins personnels ou professionnels, Stellar File Eraser offre une garantie essentielle : une fois que vous avez effacé vos fichiers, ils sont réellement effacés. Dans un monde où les données valent de l’or, c’est une tranquillité d’esprit qui n’a pas de prix.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.stellarinfo.com/fr/wipe-fichier.php",
+      "https://stellarinfo.com/fr/wipe-fichier.php"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T01:25:27.509+02:00",
+    "updated": "2024-11-22T01:25:27.509+02:00"
+  },
+  {
+    "uuid": "2f1e8a4d384abdc9b96d73badf6f9647d46f94c5",
+    "url": "https://www.staradvertiser.com/2024/05/09/breaking-news/south-braces-for-severe-weather-after-3-days-of-deadly-storms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "New York Times",
+    "published": "2024-05-09T00:00:00Z",
+    "title": "South braces for severe weather after 3 days of deadly storms | Honolulu Star-Advertiser",
+    "text": " MARK ZALESKI / THE TENNESSEAN / USA TODAY NETWORK\nGov. Bill Lee surveys a storm-damaged home on Blackburn Lane, today, in Columbia, Tenn. Severe weather and tornadoes caused damage in Tennessee on Wednesday.\nA relentless wave of stormy weather will again bring heavy rain, hail and the possibility of tornadoes — this time to parts of the South — today in the fourth consecutive day of severe weather across the United States.\nThe storms this week have killed at least four people from the Plains to the East Coast and have damaged and flooded communities in at least 10 states. Here’s what you need to know for today:\n— More than 17 million people from central Texas to the Georgia coast were under an enhanced risk for severe weather, the third level of risk out of five, today, according to the National Weather Service’s Storm Prediction Center.\n— Beginning in the afternoon, the nearly 180,000-square-mile region will face a variety of weather threats, including large hail, damaging winds — some potentially greater than 75 mph — and the possibility of tornadoes.\n— More than 5 million people in parts of Alabama, Georgia and South Carolina were under a tornado watch this afternoon.\n— After storms overnight Wednesday into this morning, more than 180,000 customers across five states — Georgia, Alabama, North Carolina, South Carolina and Tennessee — were without power, according to PowerOutage.Us.\nThe storms in the Midwest and South on Wednesday killed at least three people and brought intense rain, winds and hail to some areas. The previous day, widespread storms tore through the Midwest, and tornadoes ripped through Michigan.\nOne storm-related death was reported in Gaston County, North Carolina, just west of Charlotte, while another person was killed in Claiborne County, in northeast Tennessee, after a tree fell on a vehicle. A third person died Wednesday evening in Maury County, Tennessee, after a large tornado was spotted near Spring Hill, about 35 miles south of Nashville.\nMultiple cities across the region have also faced heavy rain that flooded roads and set off a wave of flood warnings and watches.\nEarlier this week, over a dozen tornadoes ripped through the Midwest, including in Michigan, where storms damaged nearly 200 mobile homes and temporarily trapped dozens of FedEx workers inside a building. One tornado that was up to 2 miles wide ripped through a community in Barnsdall, Oklahoma, a city about 40 miles northwest of Tulsa, killing one person.\nThis week, the atmosphere has created the right ingredients for tornadoes. That includes warm, moist air close to the ground and cool, dry air higher up, along with vertical wind sheer, which is the change in wind speed or direction.\nTornado outbreaks like those over the last few days have become more common in recent decades, and scientists have been studying why they have been coming in bunches.\nResearchers are hesitant, however, to blame tornadoes’ clustering behavior on human-caused climate change.\nThis article originally appeared in The New York Times .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.nytimes.com/2024/05/09/us/storms-weather-tornado-south.html",
+      "https://nytimes.com/2024/05/09/us/storms-weather-tornado-south.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "honolulu star",
+          "sentiment": "negative"
+        },
+        {
+          "name": "national weather service",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "east coast",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "texas",
+          "sentiment": "none"
+        },
+        {
+          "name": "georgia",
+          "sentiment": "none"
+        },
+        {
+          "name": "alabama",
+          "sentiment": "none"
+        },
+        {
+          "name": "south carolina",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T02:03:11.365+03:00",
+    "updated": "2024-05-11T04:33:42.065+03:00"
+  },
+  {
+    "uuid": "1d881ddb0c3d7c90fe576a9848cf99139a94174c",
+    "url": "https://www.tameteo.com/actualites/previsions/nouvelle-goutte-froide-le-week-end-prochain-vers-de-violentes-intemperies-dans-le-sud-est-de-la-france-inondations-pluies.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Guillaume Woznica",
+    "published": "2024-11-01T10:00:00Z",
+    "title": "Nouvelle goutte froide le week-end prochain : vers de violentes intempéries dans le sud-est de la France ?",
+    "text": "Nouvelle goutte froide le week-end prochain : vers de violentes intempéries dans le sud-est de la France ?\nSi une situation de blocage est attendue au cours de la 1ère quinzaine de novembre, de nouvelles gouttes froides pourraient circuler en Méditerranée. Le week-end prochain est ainsi d'ores et déjà sous haute surveillance.\nCes prochains jours seront marqués par l'omniprésence des hautes pressions sur l'Europe de l'ouest avec une véritable succession d'anticyclones, si bien que cette situation de blocage pourrait perdurer au-delà de la mi-novembre. Durant cette période, le temps sera le plus souvent sec mais pas forcément ensoleillé en raison d'une grisaille parfois récalcitrante.\nAu cours de ces deux prochaines semaines, aucune perturbation atlantique ne parviendra donc jusqu'à nous. Il faudra en revanche se méfier de l'évolution de la situation en Méditerranée avec de possibles minimums dépressionnaires de style goutte froide. C'est justement ce qu'il semble se dessiner pour le prochain week-end avec un fort risque de précipitations abondantes pour les départements du sud-est.\nDe nouvelles pluies méditerranéennes à surveiller de près\nSelon les derniers scénarios de prévisions, c'est en fin de semaine prochaine que la situation devrait se dégrader dans ces régions, à l'approche d'une énième goutte froide. Ainsi, des pluies remonteront de Méditerranée en direction de la Corse, d'une part, et du golfe du Lion, d'autre part. S'il est encore trop tôt pour évoquer de quelconques cumuls, la situation devra être surveillée de près en raison du risque de phénomène violent qui peut rapidement survenir dans ce genre de situation.\nAvec un flux s'orientant au secteur sud-est, les pluies pourraient s'étendre et s'intensifier au cours du samedi 9 et du dimanche 10 novembre. Le Languedoc, la Provence et la Côte d'Azur pourront alors être concernés à un moment ou à un autre, laissant craindre de nouvelles crues et/ou inondations après les différents épisodes d'intempéries subis par ces secteurs au cours des dernières semaines.\nUne fiabilité encore assez limitée à cette échéance\nSi l'inquiétude est réelle alors que cet automne a déjà apporté plusieurs épisodes d'intempéries en Italie, en France et plus récemment en Espagne, n'oublions pas que la fiabilité de cette situation demeure assez limitée à cette échéance. En effet, ce genre de dépression étant de petite taille, les incertitudes sur sa trajectoire exacte ne seront pas dissipées moins de 24 ou 48 heures avant son passage.\nSa position sera déterminante, non seulement pour déterminer les zones touchées précisément mais aussi pour l'intensité des précipitations associées à la dégradation. Un autre paramètre important est à prendre en considération : il s'agit de la vulnérabilité des territoires. En effet, après les différents épisodes de pluies parfois intenses, les sols de certaines régions sont fragilisés, de même que certaines infrastructures telles que des ponts ou des passages à gué.\nCes éléments seront à prendre en compte lors des éventuels bulletins de vigilance qui pourront être émis en fin de semaine prochaine. Quoiqu'il en soit, l'évolution des prévisions sera à suivre de près tout au long de la semaine prochaine, et en particulier pour ces régions du sud-est.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T13:20:04.967+02:00",
+    "updated": "2024-11-01T13:20:04.967+02:00"
+  },
+  {
+    "uuid": "19adae5437c813079b46349d6c99e5f31f5e8608",
+    "url": "https://elcomercio.pe/politica/congreso/gustavo-adrianzen-en-interpelacion-no-podemos-admitir-que-las-medidas-para-la-lucha-contra-la-delincuencia-hayan-fracasado-ultimas-noticia",
+    "ord_in_thread": 0,
+    "author": "Redacción El Comercio Perú",
+    "published": "2025-04-09T21:07:00Z",
+    "title": "Gustavo Adrianzén en interpelación: \"No podemos admitir que las medidas para la lucha contra la delincuencia hayan fracasado\"",
+    "text": "Saber más\nGustavo Adrianzén, presidente del Consejo de Ministros, durante la interpelación ante el Congreso negó que se pueda considerar que las medidas que han tomado desde el Ejecutivo contra la inseguridad como un fracaso.\nEsto, al responder el pliego de 43 preguntas que fueron incluidas en la moción que fue aprobada para que el primer ministro acuda a responder ante el pleno, las primeras de ellas enfocadas en cuestionar los resultados en materia de lucha contra la delincuencia.\nLEE TAMBIÉN:[EN VIVO | Pleno del Congreso interpela a primer ministro, Gustavo Adrianzén]\nAnte la pregunta sobre si es consciente que declarar estado de emergencia y sacar a las Fuerzas Armadas a las calles han sido medidas que han fracasado, Adrianzén aseguró que la duda se formuló sobre “hechos que han acontecido aproximadamente hace tres semanas”.\n“No podemos admitir que las medidas que adoptamos con anterioridad para la lucha contra el crimen organizado y la delincuencia urbana hayan fracasado. Se trata más bien, a nuestro entender de un proceso integral, un proceso multisectorial y multigubernamental. Él éxito se vine observando progresivamente”, explicó ante los legisladores.\nGustavo Adrianzén agregó que el estado de emergencia permitió mejorar la eficiencia en la labor policial y garantizó que esta medida ha permitido incrementar las operaciones, número de detenidos y bandas criminales desbaratadas.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "topics": [
+      "Politics->government",
+      "Politics->political process",
+      "Politics->political candidates",
+      "Crime, Law and Justice->investigation (criminal)",
+      "Crime, Law and Justice->law enforcement",
+      "Social Issue->juvenile delinquency",
+      "Social Issue->demographics",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Gustavo Adrianzén",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Consejo de Ministros",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Fuerzas Armadas",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Ejecutivo",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Congreso",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:20:23.369+03:00",
+    "updated": "2025-04-10T00:20:23.369+03:00"
+  },
+  {
+    "uuid": "13357cea7b7873a93f26d84de3af9101084a9760",
+    "url": "https://www.curetoday.com/view/immunotherapy-improves-survival-in-metastatic-bladder-cancer",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ashley Chan",
+    "published": "2024-04-04T21:00:00Z",
+    "title": "Immunotherapy Improves Survival in Metastatic Bladder Cancer",
+    "text": "\\n\\nTreatment for patients with metastatic bladder cancer is “evolving quickly,” which has “dramatically changed” first-line treatment, an expert told CURE®.\\n\\nIn a recent study published in JAMA Network Open, researchers determined that the PD-L1 expression in patients with metastatic bladder cancer was associated with better survival outcomes. They found that using immunotherapy via immune checkpoint inhibitors especially helped patients with metastatic bladder cancer with PD-L1 expressions.\\n\\nImproved outcomes in patients are notable because this type of immunotherapy “specifically blocks the PD-L1,” Dr. Lin Mei said. Mei is a medical oncologist and assistant professor of clinical medicine in hematology-oncology at Penn Medicine in Philadelphia.\\n\\nBenefits of Immune Checkpoint Inhibitors for Metastatic Bladder Cancer\\n\\n“Using immune checkpoint inhibitors … [can] lead to improved outcomes because it helps the immune system to better recognize the cancer and kill [the cancer cells],” Mei explained. “It is very different than traditional cytotoxic chemotherapy. Traditional chemotherapy goes into the body and destroys the DNA of the cancer cell but also affects normal cells. That’s why it causes side effects.\\n\\n“Immune checkpoint inhibitors don’t directly cure cancer, it has the immune system attack the cancer, which leads to fewer side effects and more durable responses.”\\n\\nPD-L1, or programmed death-ligand 1, is a protein that “acts as a kind of ‘brake,’” according to the National Cancer Institute. The function of the “brake” is to control and regulate the body’s immune responses. This type of protein is found in abnormally high amounts on the surface of certain cancer cells.\\n\\nNegative outcomes may arise when cancer cells express PD-L1, said Mei.\\n\\n“For example, [the cancer may become] less responsive to the traditional treatment and sometimes have shorter survival than other cells, which have not had a PD-L1 expression. So this overall allows the cancer cells to evade detection and survive in the body.”\\n\\nREAD MORE: Trodelvy-Keytruda Combo Shows High Promise in Metastatic Bladder Cancer\\n\\nMei also noted that in recent years, “the treatment of metastatic bladder cancer is evolving so quickly,” and has “dramatically changed first-line treatment.” He explained that in the past, standard-of-care treatment consisted of platinum-based chemotherapy, which led to resistance in nearly all patients.\\n\\n“Right now, with adding an immune checkpoint inhibitor, the overall survival in general prolongs about a year as compared to traditional chemotherapy,” Mei said. Overall survival is defined as the time from diagnosis or the start of treatment that patients with cancer are alive, according to the National Cancer Institute.\\n\\nSide Effects of Immune Checkpoint Inhibitors and Chemotherapy\\n\\nDepending on the treatment, there are different side effects, Mei explained. Immune checkpoint inhibitors are “better tolerated,” compared with chemotherapy, he said.\\n\\n“Immune checkpoint inhibitors also have some specific side effects. It doesn’t cause significant nausea or vomiting or hair loss, but sometimes it can over-activate the immune system,” Mei said. “For example, it can cause skin rash, which means that the immune system attacks the skin. It can also cause diarrhea, which causes inflammation of the bowel. And it can affect thyroid function, which is inflammation in the thyroid gland.”\\n\\nREAD MORE: Getting Newly Approved Cancer Drugs May ‘Take A Village,’ Experts Say\\n\\nHe stated that these side effects are manageable in general, but more severe side effects require stopping treatments. In some cases, he said that offering patients immunosuppressants, such as steroids, may help with side effects.\\n\\n“For patients with metastatic bladder cancer, it is very important that patients have a discussion with their provider or their oncologist about their treatment goals based on the different [performance] status [and stage of cancer],” Mei said. “We have to also consider patients’ different goals and their wishes and what they're aiming to gain from the treatment. We have to understand that at least right now, the majority of metastatic bladder cancer is still incurable, though it is treatable.”\\n\\nFor more news on cancer updates, research and education, don’t forget to subscribe to CURE®’s newsletters here.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mei",
+          "sentiment": "none"
+        },
+        {
+          "name": "lin mei",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "penn medicine",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "philadelphia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-05T00:29:26.817+03:00",
+    "updated": "2024-04-05T01:51:19.622+03:00"
+  },
+  {
+    "uuid": "aaf5960a5be14fc42cb98178c8e9ee080815c594",
+    "url": "https://www.europapress.es/asturias/noticia-acertante-aviles-asturias-gana-mas-11-millones-sorteo-primitiva-20231228233024.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Europa Press",
+    "published": "2023-12-28T22:30:00Z",
+    "title": "Un acertante en Avilés (Asturias) gana más de 1,1 millones en el sorteo de 'La Primitiva'",
+    "text": "MADRID, 28 Dic. (EUROPA PRESS) -\nEl dueño de un boleto de 'La Primitiva' validado en Avilés (Asturias) percibirá más 1,1 millones de euros al haber sido el único acertante de Primera Categoría en el sorteo celebrado este jueves, según informó Loterías y Apuestas del Estado.\nEl boleto ganador ha sido validado en la Administración de Loterías número 3 de Avilés (Asturias), situada en avenida Santa Apolonia. Su propietario cobrará en total de 1.123.054,41 euros.\nLa combinación ganadora del sorteo de la Primitiva celebrado este jueves, 28 de diciembre, ha estado formada por los números 3, 11, 23, 45, 47 y 48. El número complementario es el 19 y el reintegro, el 1. El Joker ha sido 6750664 y la recaudación ha ascendido a 10.533.676,00 euros.\nEn el sorteo de La Primitiva de hoy no existen boletos acertantes de Categoría Especial, por lo que con el bote generado que se pondrá en juego en el próximo sorteo de La Primitiva, un único acertante de Primera Categoría con Categoría Especial podría ganar 4 millones de euros.\nDe Segunda Categoría (cinco aciertos más complementario) existen cinco boletos acertantes que han sido validados en la Administración de Loterías número 270 de Barcelona; en la número 4 de Bilbao; en la número 50 de Murcia; en la número 65 de Sevilla y en el Despacho Receptor número 81.935 de Alaquàs (Valencia).\nMás información Lotería Primitiva",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:49:56.641+02:00",
+    "updated": "2023-12-29T00:49:56.641+02:00"
+  },
+  {
+    "uuid": "59ad249f218c4d4ee60c34d2dfae627e79299617",
+    "url": "https://www.meneame.net/story/alemania-casi-toda-baja-sajonia-bajo-agua/c01",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "manbobi",
+    "published": "2023-12-29T17:49:00Z",
+    "title": "#1 Alemania: \"Casi toda Baja Sajonia bajo el agua\"",
+    "text": "Menéame\nLogo Menéame\nPortada\nPortada\nNuevas\nArtículos\nPopular\nMás visitadas\n50F0E052-9EF2-4C3C-849B-F46536B96FBF\nNótame\nmis comunidades\nCiencia\nPolítica\nEconomía\nActualidad\nSeries\notras secciones\nComunidades\nFisgona\nlogin\nregístrate\n×\nÚnete a Actualidad\nÚnete a Actualidad\nHace 7 minutos | Por\nWurmspiralmasch...\na\ndw.com\nPublicado hace 7 minutos por\nWurmspiralmaschine\na\ndw.com\nAlemania: \"Casi toda Baja Sajonia bajo el agua\"\ndw.com\nEl servicio meteorológico de Alemania informó este viernes (29.12.2023) que se prevén más lluvias torrenciales en algunas zonas del país, como en Renania del Norte-Westfalia y la Baja Sajonia, afectadas ya durante varios días por graves inundaciones. \"Tenemos una situación muy, muy tensa\", dijo este viernes la Ministra de Interior de Baja Sajonia, Daniela Behrens (del Partido Socialdemócrata o SPD), en la radio Deutschlandfunk. \"Casi toda la Baja Sajonia está bajo el agua\", añadió Bahrens, por lo que se han desplegado cerca de 100.000 bomberos\nEtiquetas\nalemania\ndwd\ninundaciones\nmenéalo\n3\nDE3C548D-E347-406A-A60F-E6BBD322CAB7\n27\n2\nCopiar enlace\nCompartir en X\nCompartir en facebook\nCompartir en telegram\nEmbed\nVoto negativo\nMás información\n<!– /10377667/MNA21-OTROS-ROBA1 –>\nComunidad destacada de hoy\nActualidad\nActualidad y sociedad\n<!– /10377667/MNA21-OTROS-MEGA1 –>\n<!– /10377667/MNA21-OTROS-ROBA1 –>\nLoguéate si deseas escribir\ncomentarios. O crea tu cuenta\naquí.\nComentarios\nMejores hilos\nOrdenados\nHilos\nMejores hilos\nMás valorados\n#1\nmanbobi\nhace 8 minutos\nAhora además de baja, húmeda\n13932D1F-B487-4F84-A70E-083D40FCBE55\nV\n0\nK\n17\n666CDE23-7A1F-454F-9223-AF7ED9EAACA5\nresponder\n<!– /10377667/MNA21-OTROS-ROBA2 –>\n<!– /10377667/MNA21-OTROS-MEGA2 –>\nC\n#2\nCelsar\nhace 3 minutos\neditado\nPues que se muden a la Alta Silesia.\n13932D1F-B487-4F84-A70E-083D40FCBE55\nV\n0\nK\n12\n666CDE23-7A1F-454F-9223-AF7ED9EAACA5\nresponder",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T20:58:47.774+02:00",
+    "updated": "2023-12-29T20:58:47.774+02:00"
+  },
+  {
+    "uuid": "7101a1ddad8594729fb49f83f1a460a40fc5b6f2",
+    "url": "https://vnexplorer.net/widespread-heatwave-likely-to-linger-into-the-new-year-heres-how-to-stay-safe-amid-soaring-temperatures-s701601.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-29T06:02:00Z",
+    "title": "Widespread heatwave likely to linger into the New Year. Here's how to stay safe amid soaring temperatures",
+    "text": "Locals try to cool off in outback town Boulia, as the mercury heads towards 45C. (Supplied: Zacahary Hart)\nScorching temperatures are hitting communities across the east coast of Australia with even hotter conditions and severe storms expected later on Friday and over the weekend.\nMuch of northern Australia is sweltering through heatwave conditions set to peak in some areas on Saturday and endure into the new year.\nOn Queensland’s coast, many residents will ring in 2024 displaced from ruined homes amid a colossal clean-up in the aftermath of this week’s severe storms in the south-east and ex-tropical cyclone Jasper.\nBureau of Meteorology data showed many towns across Queensland sweltering through near-40-degree Celsius heat at 10am on Friday, with hotter temperatures expected over the weekend for some communities.\nOn the coast, Brisbane had reached 37.5C at 1:00pm on Friday while the Gold Coast was expecting to hit 33C, but a seabreeze kept temperatures closer to 30C.\nFurther inland, the mercury rose, with Emerald reaching 36.9C at 1.54pm and Roma topping out at 39.2C at 1.38pm..\nIn the outback, temperatures were tipped to skyrocket to 47C in Birdsville.\nLongreach will be in record-breaking territory if it reaches more than 47C as expected over the weekend —beating the previous maximum temperature of 47.3 from January, 1990.\n“This weekend, a number of locations will reach above 40C, and into the mid-to-high 40s,” said the BOM’s Claire Yeo.\nWest and central Queensland as well as the Top End were set to suffer some of the most extreme heat with Marble Bar in Western Australia expecting the hottest temperature in the country — 48C on Saturday, the Bureau said.\nHealth warnings for the vulnerable Queensland Ambulance Service officer Brad Hardy said hospitals around the state were bracing for an uptick in heat-related illnesses.\nHe urged those susceptible to the heat — the elderly, children and pregnant women — to be aware of signs of heat stress.\n“As soon as you start sweating you’re losing fluids and can rapidly become dehydrated if you’re in these really hot temperatures,” Superintendent Hardy said.\n“You can become restless, flushed in the skin to the point where you stop sweating.\n“That’s extremely dangerous and can be fatal … your organs can start to shut down to keep your brain working and that damage can be immense and irreversible.”\nFor more tips on how to stay safe in a heatwave visit the ABC Emergency website here.\nResidents get creative to keep cool Tried and tested methods like keeping ice blocks handy, hauling out the paddle pool, buckets of water and cool drinks were the go-to for residents trying to stay cool.\nTradesmen in the outback town of Cloncurry used their water trucks to spray neighbours cooling off in backyards and the Gold Coast council offered free entry to the local pools.\nFire stations at Mount Tamborine opened their doors to people who needed an air-conditioned place to cool down.\nIn Birdsville, ranger Don Rowlands said locals had a few tricks for dealing with the hottest time of the year.\n“You start your day early and by 10am, everyone retires to the lounge room and puts on a good movie in the air-conditioning,” he said.\n“The kids run down to the river early in the morning and come home late at night … they’re just swimming all day.”\nNicole Liu, in the outback town of Mount Isa, where temperatures were set to reach 45C over the weekend, said she had to bring her kids to the pool early to beat the stifling heat.\n“You have to come early otherwise you just can’t enjoy it. We’re here at 9.30am and it already feels like you’re standing in an oven,” she said.\nAs an outback local, Ms Liu said residents expected temperatures to be high this time of year, but that the heat “still hits you pretty hard”.\n“We hang around the pool and keep ice blocks handy, crank the aircon…I’m not looking forward to my electricity bill,” she said.\nIced coffees were in hot demand at Nambour cafe Small Change Espresso this morning, with the town expected to reach 37C.\nWorker Alex Atkins said he had noticed fewer customers opting to dine in.\n“A lot more iced coffees than usual,” he said.\n“Because of the heat people are getting takeaways because it’s too hot to sit in here.”\nHe said the store had several large fans running but they were doing little to bring the temperature down.\n“We’ve stocked our fridges with cold water, people are asking for water as soon as they walk in,” he said.\n“It was already hot as soon as we got here and we’ve got fans to work with.”\nHelping animals beat the heat Grazier Josie Angus from the central Queensland community of Clermont was helping her cattle get through 39C temperatures.\nShe said her stock was northern bred and used to high temperatures, but it was still difficult to keep them cool.\n“It’s always an extra challenge,” Ms Angus said.\n“All of our cattle are on heat-load rations and we cool down their ration a bit just to make sure that they’re going to cope with it.”\nThe RSPCA recommends multiple sources of water in shady spots for pets.\nCooling matts, paddle pools and frozen treats are another way to help your furry friend beat the heat.\n“Never leave your dog tied up in the yard or in a hot car during a heatwave,” the RSPCA website warns.\nRain on the way but heat to endure While the hottest day for the northern half of Australia will be Saturday, temperatures will not drop by much over the coming week, the BOM says.\nStorms and rain were predicted for parts of the central west and east coast over the weekend while a chance of rain was forecast for western and north-west Queensland mid-to-late next week.\nWhile the rain would bring some reprieve, it would not do much to ease the heat, Ms Yeo said.\n“Central and western Queensland maximum temperatures unfortunately do not fall below 40 degrees for the remainder of the week.”\nSuperintendent Hardy urged all those in heat-affected areas to take it easy.\n“Temperatures are not just a few degrees above average, they’re up to many degrees above average,” he said.\n“Stay cool and take the risk of heat stress very seriously.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Weather"
+    ],
+    "external_links": [
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mb6Zj.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mb6Zj.img"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "zacahary",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "jasper",
+          "sentiment": "none"
+        },
+        {
+          "name": "hart",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "bureau of meteorology",
+          "sentiment": "none"
+        },
+        {
+          "name": "roma",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "boulia",
+          "sentiment": "none"
+        },
+        {
+          "name": "gold coast",
+          "sentiment": "none"
+        },
+        {
+          "name": "brisbane",
+          "sentiment": "none"
+        },
+        {
+          "name": "south-east",
+          "sentiment": "none"
+        },
+        {
+          "name": "australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "queensland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T08:14:50.670+02:00",
+    "updated": "2023-12-29T08:14:50.670+02:00"
+  },
+  {
+    "uuid": "078a31e6d58fbe4b08ff181918d6b9a000f26437",
+    "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2024/10/10/ibovespa-fecha-em-alta-de-030-aos-1303-mil-pontos-com-petroleo-e-foco-nos-eua.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "UOL",
+    "published": "2024-10-10T20:55:00Z",
+    "title": "Ibovespa fecha em alta de 0,30%, aos 130,3 mil pontos, com petróleo e foco nos EUA",
+    "text": "Economia Ibovespa fecha em alta de 0,30%, aos 130,3 mil pontos, com petróleo e foco nos EUA São Paulo 10/10/2024 17h50 Assim como o dólar, o Ibovespa manteve variação contida ao longo da tarde e conseguiu retomar a linha de 130 mil pontos, cedida no fechamento anterior pela primeira vez desde o começo de agosto. Nesta quinta-feira, 10, contou com o apoio não apenas de Petrobras (ON +1,67%, PN +1,16%) e de Vale (ON +0,48%) como também da maioria das ações de grandes bancos (Itaú PN +0,55%, Bradesco ON +0,84%) à exceção de BB (ON -0,87%). Ao fim, o índice da B3 mostrava ganho de 0,30% na sessão, aos 130.352,86 pontos, entre mínima de 129.835,42 e máxima de 130.418,47 nesta quinta-feira.\nO giro financeiro se enfraqueceu na sessão, a R$ 17,2 bilhões. Na semana, o Ibovespa cai 1,09% e, no mês, cede 1,11%. No ano, recua 2,86%.\nO prosseguimento das tensões entre Israel e Irã, no Oriente Médio, manteve os preços do petróleo sob pressão de alta nesta quinta-feira, reaproximando o barril do Brent, a referência global, do limiar de US$ 80.\nRelatos de que Israel decidirá ainda nesta quinta sobre eventual ataque ao Irã, e de que os presidentes iraniano e da Rússia devem se reunir para discutir o conflito na região, sustentaram as cotações da commodity ao longo da sessão, em alta acima de 3,5% em Londres e Nova York.\nNa ponta do Ibovespa, destaque nesta quinta para Cteep (+5,34%), Prio (+2,70%), Lojas Renner (+2,61%) e PetroReconcavo (+2,43%). No lado oposto, Azul (-5,99%), Carrefour (-2,71%), Klabin (-2,53%) e CSN (-2,47%). Em Nova York, os principais índices de ações fecharam em leve baixa, entre -0,05% (Nasdaq) e -0,21% (S&P 500).\nTambém na pauta desta quinta-feira, \"os números de inflação em setembro nos Estados Unidos divulgados se mostraram mais pressionados do que o mercado antecipava. A leitura reforça a percepção de que o Federal Reserve (Fed, o banco central norte-americano) deve manter cautela com relação ao ritmo de corte de juros, na ordem de 25 pontos-base, especialmente depois de um relatório de empregos também acima do esperado\", diz Rodrigo Ashikawa, economista da Principal Claritas.\n\"A leitura acima do esperado para a inflação americana em setembro contribuía para apreciação adicional do dólar, que ontem já havia subido quase a R$ 5,59, no maior nível em quase um mês\", diz Patrícia Krause, economista-chefe para América Latina da Coface, referindo-se à tendência de alta para a moeda americana frente ao real, pela manhã, quando foram divulgados os dados de inflação nos EUA. No fechamento o dólar se estabilizou, sem variação, a R$ 5,5870.\nEm outro importante desdobramento do dia, o presidente do Federal Reserve de Atlanta, Raphael Bostic, disse estar aberto a manter as taxas de juros nas próximas duas reuniões, em novembro e dezembro, caso os dados sugiram esta como a escolha adequada. Em entrevista a The Wall Street Journal nesta quinta-feira, ele observou ter apoiado \"completamente\" o corte de 50 pontos-base na mais recente reunião do Fed, em 18 de setembro, e que tal posição já não é mais apropriada.\nApós os comentários de Bostic, o mercado voltou a ampliar, nesta tarde, a chance de manutenção dos juros pelo Fed em novembro, quando a instituição volta a deliberar sobre a política monetária. Segundo ferramenta de monitoramento do CME Group, ainda assim, a chance de redução dos juros em 25 pontos-base nesta reunião permanece majoritária.\nA ferramenta do CME Group registrou um avanço na probabilidade de manutenção dos juros, de 11,6% para 17,8% no fim da tarde, depois de atingir um pico superior a 22%. Já para o fim do ano, a probabilidade de um único corte de 25 pontos-base subiu de 13,4%, no começo da tarde, para 18,8% no fim do dia.\nNa agenda doméstica, o ministro da Fazenda, Fernando Haddad, confirmou que o governo apresentou quatro cenários com propostas para a reforma da renda ao presidente Luiz Inácio Lula da Silva, que incluem a tributação mínima para milionários.\nO ministro disse que os textos serão avaliados por Lula, que exige uma reforma neutra do ponto de vista arrecadatório. \"Eu não tomo nenhuma pressão sobre esse assunto porque há alguns critérios que o presidente faz questão que a medida tenha\", disse. Além da neutralidade de arrecadação, outro objetivo é seguir os passos dados na reforma sobre consumo, também equilibrada sob esta ótica, apontou o ministro.\nE, por fim, o de se aproximar da tributação média da Organização para a Cooperação e Desenvolvimento Econômico (OCDE) para a tributação da renda, assim como ocorreu com os impostos sobre consumo.\nSakamoto\nBolsonaristas e centrão tentam golpe\nJosias de Souza\nRejeição de 58% torna Boulos inelegível em SP\nJuca Kfouri\nUm presente de grego em Wembley\nRaquel Landim\nBolsonaro marca ida a SP para campanha com Nunes\nComunicar erro Veja também Deixe seu comentário Só para assinantes",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Weather",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-11T01:22:13.092+03:00",
+    "updated": "2024-10-11T01:22:13.092+03:00"
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "uuid": "d2edc371a302addef0a42dcffd042c15cae891d9",
+    "url": "https://www.bucksfreepress.co.uk/news/national/24016267.two-people-die-car-collides-ambulance-transporting-elderly-man/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PA News Agency",
+    "published": "2023-12-28T21:31:00Z",
+    "title": "Two people die after car collides with ambulance transporting elderly man | Bucks Free Press",
+    "text": "Two people are dead after a collision between a car and an ambulance transporting an elderly man in Suffolk. Emergency services were called to the B1506 Bury Road, between Newmarket and Kentford, at about 7.30pm on December 19. One of those killed was a woman in her 70s, who was driving the car, a blue Volkswagen Golf. The other was a man in his 90s, a passenger in the ambulance, who died after being taken to Addenbrooke’s Hospital, Suffolk Police said. The female ambulance driver suffered serious injuries and was also taken to hospital. Police are appealing for witnesses, who can call 101, quoting SC-19122023-302. Comments: Our rules We want our comments to be a lively and valuable part of our community - a place where readers can debate and engage with the most important local issues. The ability to comment on our stories is a privilege, not a right, however, and that privilege may be withdrawn if it is abused or misused. Please report any comments that break our rules. [Read the rules here](/misc/comments) Comments are closed on this article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "suffolk police",
+          "sentiment": "none"
+        },
+        {
+          "name": "volkswagen golf",
+          "sentiment": "none"
+        },
+        {
+          "name": "addenbrooke’s hospital",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "newmarket",
+          "sentiment": "none"
+        },
+        {
+          "name": "kentford",
+          "sentiment": "none"
+        },
+        {
+          "name": "misc",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:00:05.678+02:00",
+    "updated": "2023-12-29T00:00:05.678+02:00"
+  },
+  {
+    "uuid": "5cc1d4e70152ae73168a89a55d74597852a50a78",
+    "url": "https://www.timesnownews.com/auto/car-news/ai-made-tata-sierra-ad-goes-viral-and-its-not-from-tata-motors-article-152378528",
+    "ord_in_thread": 0,
+    "author": "@TIMESNOW",
+    "published": "2025-07-31T04:15:00Z",
+    "title": "AI-Made Tata Sierra Ad Goes Viral, And It's Not From Tata Motors",
+    "text": "Car News\nAI-Made Tata Sierra Ad Goes Viral, And It’s Not From Tata Motors\nAn AI-generated TVC for the upcoming Tata Sierra has gone viral online. Created by a YouTube user, the cinematic video showcases the SUV across ice, desert, and coastal terrains.\nAI-Made Tata Sierra Ad Goes Viral, And It’s Not From Tata Motors (Credits: Kapil Dev Anand / YouTube)\nWhile we wait for Tata Motors to officially launch the new Tata Sierra in India, an AI-generated TV commercial is making waves online, and it’s not from the company itself.\nThe SUV, first revealed in a near-production avatar at the 2025 Auto Expo, has already caught the attention of fans. Now, a YouTube channel named Kapil Dev Anand has uploaded what looks like an unofficial promo video for the Sierra, and it’s grabbing eyeballs for all the right reasons.\nThe video kicks off with a dramatic close-up of the Sierra’s front end, focusing on its headlamp. Then, in a surprising twist, the SUV smashes into a huge ice boulder, sending shards flying everywhere.\nThe next scene shifts to a desert landscape, where the Sierra is shown parked with sand dramatically flowing off its bonnet. Then we’re back in snowy terrain, where the SUV is seen powering through a bend on a snow-covered road, kicking up snow in style.\nFrom there, the video takes us to high-altitude dirt trails, followed by scenes of the Sierra taking on sand dunes, complete with an action-packed shot of it jumping over one. A scenic drive along a coastal road, surrounded by palm trees (possibly somewhere in Kerala), follows next.\nIt all wraps up with a peaceful shot of the Sierra parked on a cliff, rear section facing the ocean, overlooking the sea. Though this AI-generated ad isn’t an official Tata Motors production, it certainly manages to capture the adventurous vibe the brand is going for with the new Sierra. And if nothing else, it’s got fans even more excited for what’s to come.\n(Source: Kapil Dev Anand / YouTube)\nAyush Arya author\nAyush's love for automobiles started with his grandfather's old Suzuki. This early initiation transformed into a passion for cars and anything with an...View More\nEnd of Article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->automotive",
+      "Economy, Business and Finance->media and entertainment industry",
+      "Social Issue->diversity, equity and inclusion",
+      "Social Issue->social networking",
+      "Social Issue->demographics",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->biomedical science"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Kapil Dev Anand",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Tata Motors",
+          "sentiment": "negative",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_in",
+        "top_news_ph",
+        "top_news_pk",
+        "top_news_ae",
+        "top_news_za",
+        "top_news_qa",
+        "top_news_sg",
+        "top_news_sa",
+        "top_news_my",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:36:41.940+03:00",
+    "updated": "2025-08-01T08:04:22.000+03:00"
+  },
+  {
+    "uuid": "4b1c35626ca9e4eb323195fada564b96e9362a52",
+    "url": "https://item.btime.com/41q1saht4pc9jlrtqr2kjj4btl3",
+    "ord_in_thread": 0,
+    "author": "北京卫视",
+    "published": "2025-07-24T03:05:00Z",
+    "title": "死字旗背后的家国大义_北京时间",
+    "text": "凝视中国人民抗日战争纪念馆里的死字旗，墨色的“死”字遒劲有力。寥寥数语，写尽一位父亲对儿子的嘱托，更写透一个民族在危难时刻的不屈风骨。这面旗，是家书，是战书，更是无数先烈用生命捍卫家国的见证。如今硝烟散尽，但“死”字背后的担当与勇气，永远刻在民族的记忆里。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Politics->civil rights",
+      "Human Interest->ceremony",
+      "Social Issue->social condition",
+      "Social Issue->values",
+      "Social Issue->national or ethnic minority"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:39:53.818+03:00",
+    "updated": "2025-07-24T07:43:26.000+03:00"
+  },
+  {
+    "uuid": "60c8e60438c8d5821af4c8ab75f538fa3454633b",
+    "url": "http://stock.10jqka.com.cn/20250313/c666667778.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "翔宇医疗官微",
+    "published": "2025-03-12T22:39:00Z",
+    "title": "国家医保局为脑机接口服务价格单独立项！翔宇医疗\"脑机接口\"迎来新机遇",
+    "text": "2025年3月12日，国家医保局发布《神经系统类医疗服务价格项目立项指南》，其中专门为脑机接口新技术单独立项，设立了侵入式脑机接口置入费、取出费，非侵入式脑机接口适配费等价格项目。这意味着，一旦脑机接口技术成熟，快速进入临床应用的收费路径已经铺好。\n　　此次，国家医保局从打通创新技术向临床治疗转化通道的角度，全面梳理、规范神经系统类医疗服务价格项目，为脑机接口等前沿技术设立项目，充分支持高水平医疗技术的价值实现，各地对接落实立项指南后，脑机接口医疗收费将有规可依。\n　　脑机接口即是在大脑与外部设备之间建立直接连接的通路。简单说，大脑在思维活动时产生脑电波，脑机接口则通过识别脑电波特征直接读取大脑意图，将其转化为计算机指令，实现人与机器或外部环境之间的交互联通，通过转换脑信号，创造让瘫痪者行走、让失语者“说话”、让盲人“复明”等奇迹。\n　　翔宇医疗布局脑机接口较早，为现阶段的重点研发方向。技术方面，拥有核心算法知识产权，自主研发高精度多模态脑机接口康复设备，立足解决临床适用需求。\n　　目前，翔宇医疗已成立Sun-BCI Lab脑机接口实验室，并打造四大类产品体系，涵盖了脑电采集装置（Sun Link）、脑控产品（Sun Brain）、生活场景类产品（Sun Live）、自研算法（Sun Dip）。\n　　2025年3月7日，翔宇医疗参与了脑机接口产业联盟“2025年标准化工作专题会”。作为脑机接口联盟会员单位，未来翔宇医疗还将积极参与脑机接口行标、团标的编写发布，共同完善我国脑机接口产业标准体系。\n　　在未来3至5年内，公司研发重点将围绕AI算法、脑机接口技术、具身智能机器人、多传感器融合技术、VR/MR技术、以及端到端解决方案等核心技术展开。脑机接口领域，公司还将重点研发神经反馈、认知筛查、睡眠障碍干预、新生儿脑电监测等方向的设备，同时推动现有运动康复类产品和认知类产品的智能化升级迭代，引领智能医疗新未来。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health",
+      "Environment"
+    ],
+    "topics": [
+      "Science and Technology->biomedical science",
+      "Science and Technology->scientific innovation",
+      "Science and Technology->medical research",
+      "Health->health treatment and procedure",
+      "Health->health organisation",
+      "Health->medical specialisation",
+      "Environment->sustainability"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T00:45:31.517+02:00",
+    "updated": "2025-03-13T00:45:31.517+02:00"
+  },
+  {
+    "uuid": "c9b16219af222b1bb004989dfa326df68ce5ab1e",
+    "url": "https://www.arabnews.pk/node/2607659/middle-east",
+    "ord_in_thread": 0,
+    "author": "@Arab_News",
+    "published": "2025-07-10T18:28:00Z",
+    "title": "KSrelief extends fire aid to 600 families in Syrian villages, distributes winter kits in Pakistan",
+    "text": "DAMASCUS: The King Salman Humanitarian Aid and Relief Center has expanded its emergency response operations, delivering critical assistance to fire-affected communities in Syria while simultaneously addressing winter shelter needs for displaced populations in Pakistan.\nRelief workers distributed emergency supplies to 600 families impacted by fires across rural Latakia province in Syria, reaching 13 villages: Al-Midan, Aysha Banar, Shaqraa, Beit Fares, Beit Awan, Al-Husainiya, Al-Ramadiya, Al-Rawda, Qastal Maaf, Al-Tamima, Beit Sheikh Wali, Beit Al-Wadi and Beit Hussein.\nIn parallel operations, the center provided 2,012 emergency shelter kits to vulnerable populations across Kashmir region in Pakistan, reaching 14,921 people through its 2025 shelter materials and winter supplies distribution program.\nThe operations form part of Saudi Arabia’s broader humanitarian framework, delivered through the center’s established networks, to support affected communities globally.\nYou are here\nHome- KSrelief extends fire aid to 600 families in Syrian villages, distributes winter kits in Pakistan",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Health"
+    ],
+    "topics": [
+      "Disaster and Accident->fire",
+      "Disaster and Accident->emergency response",
+      "Health->health organisation",
+      "Health->government health care",
+      "Health->emergency care"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_pk",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T23:56:47.457+03:00",
+    "updated": "2025-07-10T21:02:14.000+00:00"
+  },
+  {
+    "uuid": "995105015ae3f5f64a0f30544148fae27cae8382",
+    "url": "https://williamsonsource.com/brentwood-police-participating-in-national-prescription-drug-take-back-day-april-26",
+    "ord_in_thread": 0,
+    "author": "Source Staff",
+    "published": "2025-04-23T21:20:00Z",
+    "title": "Brentwood Police Participating in National Prescription Drug Take-Back Day April 26",
+    "text": "The Brentwood Police Department will again partner with the Drug Enforcement Administration in its National Prescription Drug Take-Back Day. This one-day event will make it convenient for the public to rid their homes of potentially dangerous prescription drugs.\nOn Saturday, April 26, 2025, from 10 a.m.-2 p.m., representatives from the Brentwood Police Department and the Williamson County Anti-Drug Coalition will stand by at the Brentwood Police Department where residents will be able to drop off their expired, unused and unwanted prescription drugs.\nPlease note liquids, needles and sharps of any kind will not be accepted. Vape pens without batteries will be accepted.\nPlease join our FREE Newsletter",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Health->medical service",
+      "Health->health organisation",
+      "Health->prescription drug",
+      "Social Issue->communities",
+      "Social Issue->social services",
+      "Crime, Law and Justice->law enforcement",
+      "Crime, Law and Justice->drug related crimes"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Brentwood Police Department",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Drug Enforcement Administration",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Williamson County Anti-Drug Coalition",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:10:03.081+03:00",
+    "updated": "2025-04-24T01:10:03.081+03:00"
+  },
+  {
+    "uuid": "a5ff3bd7874c6f899fa1881db25121a1f02e666e",
+    "url": "https://www.world-today-news.com/worsening-flood-situation-in-pattani-province-leaves-thousands-in-distress/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "world today news",
+    "published": "2023-12-29T09:32:00Z",
+    "title": "Worsening Flood Situation in Pattani Province Leaves Thousands in Distress - World Today News",
+    "text": "29 Dec. 2023 – The flood situation in Pattani province is still worrying. Masses of water from Yala Province continue to flow into the Pattani River. And the mass of water from Narathiwat continued to flow to join the Sai Buri water, causing all 8 districts and over 19,500 households to suffer. For Mueang Pattani District that receives water from Yala Province The flooding was more widespread than yesterday, especially Pakaharang Subdistrict, where the Asian Route bridge area was submerged. Making traveling difficult There were cars traveling from Narathiwat stuck in the area. As for the entrance to the village, a distance of 3 km, there was high flooding. The village road is 1-2 meters underwater. Only boats can be used to get out onto the Asian road. Ban Pakaharang School Which is at the entrance to the village, there was flood water 1 meter 60 cm high inside the school building. Some teaching materials were damaged. Because the water came quickly this time, we were unable to lift the items up high in time. Only some parts can be lifted in time. This school has been closed for teaching since last Wednesday. Meanwhile, in Changa Village, Pakaharang Subdistrict, which is next to the Pattani River, there was flood water 3 meters high, inundating the lower floors of the houses. The villagers had to live on the second floor, while some single-story houses had to evacuate to relatives’ houses. Like Chu Mo Village, Pakaharang Subdistrict, next to the Pattani River. Water has flooded many boat houses. At this time, a total of 6 houses were found to have sunk. Villagers had to be evacuated to temporary shelters prepared by the Subdistrict Administrative Organization. There were also electrical appliances that were damaged. As for some pickup trucks, they were not moved in time, causing them to be submerged in water, which both villages mentioned. It is the village that has been hit hardest in Mueang Pattani District in the past 18 years, with more than 600 households in distress. The villagers say in one voice that they have never experienced flooding of this magnitude before. Read more: Nice closing scene! Muay Thai festival \"Nueng Ubon\" swings \"American Girl\" to win the royal trophy Ms. Widad Masa and villagers revealed that In previous years, the floods were not heavy. But this year is very difficult. Some villagers don’t have boats and can’t get out. Must stay at home As for helping, right now many villagers are in trouble. Because the items were not distributed evenly. This person can get it but the other person can’t. In Pakaharang Subdistrict Janga village was the hardest hit, with flood waters up to 3 meters high. This time the water came quickly. Catching everyone off guard In fact, before this, the villagers were able to cope. Some of them were in time to lift things up high. But the water came quickly like this. causing some things to not be lifted in time 2023-12-29 08:43:47 #Mueang #Pattani #subdistricts #experienced #worst #flooding #years #Villagers #revealed #water #coming #quickly #couldnt #escape #time #transport",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "yala",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "sai buri",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "mueang pattani district",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "pattani",
+          "sentiment": "none"
+        },
+        {
+          "name": "pattani river",
+          "sentiment": "none"
+        },
+        {
+          "name": "narathiwat",
+          "sentiment": "none"
+        },
+        {
+          "name": "yala province",
+          "sentiment": "none"
+        },
+        {
+          "name": "asian route",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T11:35:18.661+02:00",
+    "updated": "2023-12-29T11:35:18.661+02:00"
+  }
+]

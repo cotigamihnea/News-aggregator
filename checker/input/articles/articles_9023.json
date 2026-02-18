@@ -1,0 +1,375 @@
+[
+  {
+    "uuid": "71d60c2f03a27a400ca55619b661bc306618a3fd",
+    "url": "https://flipboard.com/topic/newyorkstatepolitics/-/a-9Lcp8hDgSrKcWpXNLfwI_Q%3Aa%3A1938891281-%2F0",
+    "ord_in_thread": 0,
+    "author": "Jalopnik - Amber DaSilva",
+    "published": "2025-04-02T21:25:00Z",
+    "title": "New York City's New Subway Map Is So Beautiful, So Clean | Flipboard",
+    "text": "New York City's New Subway Map Is So Beautiful, So Clean New York City's subway map has been largely unchanged since 1979, when a committee led by the Metropolitan Transit Authority laid those now instantly …\nJalopnik - Amber DaSilva • 2h",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle",
+      "Social Issue->demographics",
+      "Social Issue->public housing",
+      "Social Issue->social condition",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "New York City's",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "New Subway Map",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "the Metropolitan Transit Authority",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:28:56.722+03:00",
+    "updated": "2025-04-03T02:28:56.722+03:00"
+  },
+  {
+    "uuid": "34c623610b0f0d97e57e76af5ccc3986df2d1ffa",
+    "url": "https://dnyuz.com/2024/06/27/dojs-2-7-billion-health-care-fraud-crackdown-what-we-know",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Newsweek",
+    "published": "2024-06-27T21:20:00Z",
+    "title": "DOJ’s $2.7 Billion Health Care Fraud Crackdown: What We Know",
+    "text": "The U.S. Justice Department said Thursday it filed criminal charges against 193 people, including 76 doctors and other medical professionals, across the country over health care schemes that could have caused $2.75 billion in losses.\nThe actual losses amounted to $1.6 billion, the government said in a statement. Authorities managed to seize more than $200 million cash, luxury cars, gold and other assets in the 2024 National Health Care Fraud Enforcement Action.\n“It does not matter if you are a trafficker in a drug cartel or a corporate executive or medical professional employed by a health care company, if you profit from the unlawful distribution of controlled substances, you will be held accountable,” U.S. Attorney General\nMerrick Garland said in the statement. “The Justice Department will bring to justice criminals who defraud Americans, steal from taxpayer-funded programs, and put people in danger for the sake of profits.”\nThe cases include a $900 million scheme that involved amniotic wound grafts. The DOJ alleged that four suspects filed false claims to Medicare for the treatment that targeted terminally ill elderly patients.\n“In just 16 months, Medicare paid two defendants more than $600 million as a result of their fraud scheme, paying on average more than a million dollars per patient for these unnecessary grafts,” the DOJ said.\nOther charges involved a nurse practitioner in Florida who is accused of prescribing 1.5 million Adderall and other pills to patients across the country without engaging with the patients through a servicer’s auto-refill policy.\n“This policy allowed patients to obtain continued prescriptions after an initial encounter without any further audio or visual interaction with a medical professional,” the government said. “This allegedly resulted in the nurse practitioner prescribing Adderall and other stimulants to individuals suffering from drug addiction and continuing to issue Adderall prescriptions for months after the overdose deaths of patients.”\nOther scams involved a wire fraud conspiracy worth close to $90 million that involved selling misbranded HIV drugs, which led to some unsuspecting individuals being sold the wrong drugs.\n“Patients received bottles labeled as their prescription medication, but the bottles contained a different drug entirely, with one patient passing out and remaining unconscious for 24 hours after taking an anti-psychotic drug thinking it was his prescribed HIV medication,” the DOJ said.\nAnother case involved false claims for addiction services worth $146 million, while another, worth $1.1 billion, accused 36 people of filing false Medicare claims through a telemedicine scheme.\n“Those who steal from these programs are stealing from the American families who rely on them and putting patients at risk,” Department of Health and Human Services Deputy Secretary Andrea Palm said in the statement. “We won’t stop until all those who try to defraud the federal government are caught and held accountable.”\nUncommon Knowledge\nNewsweek is committed to challenging conventional wisdom and finding connections in the search for common ground.\nNewsweek is committed to challenging conventional wisdom and finding connections in the search for common ground.\nThe post\nDOJ’s $2.7 Billion Health Care Fraud Crackdown: What We Know appeared first on Newsweek.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Politics",
+      "Health"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.newsweek.com/topic/merrick-garland",
+      "https://www.newsweek.com/www-newsweek-com-doj-billions-health-care-fraud-crackdown-1918474",
+      "https://newsweek.com/topic/merrick-garland",
+      "https://newsweek.com/www-newsweek-com-doj-billions-health-care-fraud-crackdown-1918474"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "merrick garland",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "u.s. justice department",
+          "sentiment": "negative"
+        },
+        {
+          "name": "doj",
+          "sentiment": "negative"
+        },
+        {
+          "name": "national health care fraud enforcement action",
+          "sentiment": "none"
+        },
+        {
+          "name": "justice department",
+          "sentiment": "none"
+        },
+        {
+          "name": "medicare",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-28T01:09:10.989+03:00",
+    "updated": "2024-06-28T01:09:10.989+03:00"
+  },
+  {
+    "uuid": "aecb798ca92b11e6b06c873052f81b9e564c529c",
+    "url": "https://dnyuz.com/2024/05/03/china-launches-change-6-lunar-probe-revving-up-space-race-with-u-s/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NBC News",
+    "published": "2024-05-03T10:00:00Z",
+    "title": "China launches Chang’e 6 lunar probe, revving up space race with U.S.",
+    "text": "‘A force to be reckoned with’\nIf successful, the Chang’e mission will be a crucial step in realizing the country’s goals of\nlanding Chinese astronauts on the moon by 2030 and eventually building a base on the lunar surface.\nThe outcome of the mission will also have implications far beyond China’s borders. A slew of spacefaring nations, including Russia, India, Japan and the U.S., also have their sights set on the moon, creating what some experts have likened to a new kind of space race.\n“China is trying to prove that it’s a force to be reckoned with, and so it’s always that China is competing against everyone in space,” said Clayton Swope, deputy director of the Aerospace Security Project at the Center for Strategic and International Studies in Washington.\nA successful Chang’e 6 mission would demonstrate how sophisticated China’s lunar exploration program has become in a relatively short time.\n“Twenty-five years ago, they had very rudimentary space capabilities,” said Todd Harrison, a senior fellow at the American Enterprise Institute, a public policy think tank based in Washington. “Going from that to where they are today — I think they’ve clearly exceeded Russia and their space capabilities are really only second to the United States.”\nChina achieved its first moon landing in 2013 with the Chang’e 3 mission, which set a lander and rover on the lunar surface to study the moon’s terrain. Before that, only the U.S. and the former Soviet Union had successfully landed spacecraft on the moon.\nIn 2019, China notched another historic milestone with its Chang’e 4 flight, becoming the\nfirst country to land a probe on the far side of the moon, the part that permanently faces away from Earth.\nThe following year, in 2020, China returned to the moon’s near side, which always faces Earth,\n landing the Chang’e 5 spacecraft on a volcanic plain known as Oceanus Procellarum. The probe retrieved samples there and brought them back to Earth, representing a big technological leap forward.\nThe China National Space Administration (CNSA) has invited scientists from the U.S., Europe and Asia to apply to borrow the lunar samples for their own research, holding a pitch meeting last week in the Chinese city of Wuhan. Researchers funded by NASA received rare approval from Congress to submit proposals, raising the possibility of high-level U.S.-China space cooperation that is otherwise prohibited by U.S. law.\nThis time, the Chang’e 6 spacecraft is aiming to land and retrieve samples from the South Pole-Aitken basin, an ancient and sprawling impact crater on the far side of the moon.\nThe post\nChina launches Chang’e 6 lunar probe, revving up space race with U.S. appeared first on NBC News.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Science and Technology"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.nbcnews.com/mach/news/chinese-spacecraft-makes-first-landing-moon-s-far-side-ncna954066",
+      "https://www.nbcnews.com/science/space/china-launches-change-6-lunar-probe-revving-space-race-us-rcna143985",
+      "https://www.nbcnews.com/science/space/china-plans-land-astronauts-moon-2030-expand-space-station-bring-forei-rcna86654",
+      "https://www.nbcnews.com/video/china-s-chang-e-5-lunar-probe-lands-on-the-moon-96977989792",
+      "https://nbcnews.com/science/space/china-plans-land-astronauts-moon-2030-expand-space-station-bring-forei-rcna86654",
+      "https://nbcnews.com/science/space/china-launches-change-6-lunar-probe-revving-space-race-us-rcna143985",
+      "https://nbcnews.com/mach/news/chinese-spacecraft-makes-first-landing-moon-s-far-side-ncna954066",
+      "https://nbcnews.com/video/china-s-chang-e-5-lunar-probe-lands-on-the-moon-96977989792"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "chang",
+          "sentiment": "negative"
+        },
+        {
+          "name": "clayton swope",
+          "sentiment": "none"
+        },
+        {
+          "name": "todd harrison",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "aerospace security project",
+          "sentiment": "none"
+        },
+        {
+          "name": "american enterprise institute",
+          "sentiment": "none"
+        },
+        {
+          "name": "center for strategic and international studies",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "china",
+          "sentiment": "none"
+        },
+        {
+          "name": "japan",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington",
+          "sentiment": "none"
+        },
+        {
+          "name": "russia",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-03T13:05:08.315+03:00",
+    "updated": "2024-05-03T13:05:08.315+03:00"
+  },
+  {
+    "uuid": "b408ac3b6a7ae1bd7763dd92c6f764d9bd3251ff",
+    "url": "https://www.kdrv.com/weather/soggy-and-windy-night-ahead-for-southern-oregon-and-northern-california/article_8ff1d5c0-74bc-11ec-afc8-ef496a7321be.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "By: Matt Hoffman & Sara Kress",
+    "published": "2025-01-03T02:30:00Z",
+    "title": "Soggy and windy night ahead for Southern Oregon and Northern California",
+    "text": "Tonight: Rain and wind continues as we switch over to the night. Wind will crank up even more, especially for areas along the coast, in our higher elevations, and in the Shasta valley. Rain will also pick up and snow levels will remain higher. Areas west and along the Cascades, heaviest rates near coastal areas. It will remain mild overnight with highs in the upper 40s for the coast and the mid 40s for the westside valleys. East of the Cascades it will be chilly but not as cold with lows in the mid to upper 30s.\nExtended: Wet weather will continue through Friday, but we will see lower snow levels. More rounds of precipitation will carry through Friday and Saturday. With the lower snow levels, expect some slippery travel into the weekend for higher passes.\nOn Sunday, we should see a little break in the action for most of the region. It's possible we could get one last round of rain and mountain snow Monday night into Tuesday before we begin a drier weather pattern through the rest of next week.\nKDRV.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Human Interest"
+    ],
+    "topics": [
+      "Weather->weather forecast",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T06:52:21.796+02:00",
+    "updated": "2025-01-03T06:52:21.796+02:00"
+  },
+  {
+    "uuid": "d588214fbfce9185796489fef2359489d3d116b2",
+    "url": "https://timesofindia.indiatimes.com/city/kolkata/west-bengal-police-goes-green-1450-e-bicycles-to-transform-law-enforcement/articleshow/113920174.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Krishnendu Bandyopadhyay",
+    "published": "2024-10-03T22:17:00Z",
+    "title": "E-Bicycles: West Bengal Police Goes Green: 1,450 E-Bicycles to Transform Law Enforcement | Kolkata News - Times of India",
+    "text": "Kolkata: As urban sprawl challenges law enforcement agencies in navigating congested lanes, Bengal has come up with a solution—e-bicycles, which will curb pollution as well as allow cops to access narrow stretches without hindrance. The West Bengal pollution control board has partnered with Bengal Police for the green initiative, under which PCB will provide 1,450 e-bicycles to police across the state. WBPCB chairman Kalyan Rudra recently presented 25 e-bicycles to DGP Rajeev Kumar in the presence of Rajesh Kumar, principal secretary of the environment department and member secretary of WBPCB. Rajesh Kumar said, “Cycles provide a sustainable and efficient solution for law enforcement. They produce zero emission, cutting down on air as well as noise pollution. Their lower maintenance costs and reduced fuel consumption bring significant savings, while the speed on e-cycles allows for faster response times, especially in crowded or narrow space.”Echoing him, Rudra said, “E-bicycles will help cops patrol vast areas efficiently without physical strain. At the same time, with e-cycles, they will cut down on particulate pollution and carbon emissions.” This initiative is part of National Clean Air Programme. While this was a promising start, Rajesh Kumar said large-scale use would be key to maximizing its advantage.We also published the following articles recentlyMeghalaya, Bihar beat Delhi in air pollutionByrnihat, a small town on the Meghalaya-Assam border, faces severe air pollution due to its clustered industries, heavy interstate truck movement, and construction activities. Despite pollution levels higher than Delhi, locals work in these industries for sustenance. Experts and officials call for collaborative efforts to address the situation immediately to safeguard public health.113832354Moon Phases and Physical Performance: How Lunar Cycles Affect AthletesAncient beliefs and some modern athletes suggest that the moon's phases influence physical performance and recovery. During the new moon, focus on rest and recovery; the waxing moon boosts energy for intense training. Full moon phases are ideal for peak performance and competitive events, while the waning moon calls for reflection and rebuilding.11390473915-year-old Virat fan pedals on bicycle from Unnao to Green ParkKartikeya, a 15-year-old Virat Kohli fan, cycled for 7 hours from Unnao to Kanpur's Green Park to see his idol. His dedication, starting the journey at 4 AM, highlights his passion. His family was aware of his plans. His story is gaining traction on social media, inspiring widespread support and admiration.113748323",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T01:57:22.648+03:00",
+    "updated": "2024-10-04T01:57:22.648+03:00"
+  },
+  {
+    "uuid": "f5d91c6b544adc78b16887a385120dd2de15f438",
+    "url": "https://ground.news/article/espn-anchor-laura-rutledge-offers-update-after-7-month-old-son-jack-was-airlifted-to-hospital",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "E! News",
+    "published": "2023-12-28T20:15:00Z",
+    "title": "Ground News - ESPN Anchor Laura Rutledge Offers Update After 7-Month-Old Son Jack Was Airlifted to Hospital",
+    "text": "Summary by E! News Laura Rutledge is feeling extra grateful this holiday season. The ESPN anchor offered an update on her and husband Josh Rutledge's 7-month-old son Jack Alexander several days after revealing the... Share menu More\nFilters 3 Articles 3 Articles All Left Center Right\nE! News Center Mixed Factuality Individual: Roberts Family ESPN Anchor Laura Rutledge Offers Update After 7-Month-Old Son Jack Was Airlifted to Hospital Laura Rutledge is feeling extra grateful this holiday season. The ESPN anchor offered an update on her and husband Josh Rutledge's 7-month-old son Jack Alexander several days after revealing the...\n2 hours ago · United States Read Full Article\nE! News Center Mixed Factuality Individual: Roberts Family\nESPN Anchor Laura Rutledge Offers Update After 7-Month-Old Son Jack Was Airlifted to Hospital Laura Rutledge is feeling extra grateful this holiday season. The ESPN anchor offered an update on her and husband Josh Rutledge's 7-month-old son Jack Alexander several days after revealing the...\n2 hours ago · United States Read Full Article NBC News Lean Left High Factuality Individual: Roberts Family ESPN host Laura Rutledge shares update on 7-month-old son airlifted to hospital on Christmas ESPN host Laura Rutledge said Wednesday her son has \"a long recovery ahead\" after he was airlifted to a South Carolina hospital on Christmas Day.\n1 hour ago · United States Read Full Article\nNBC News Lean Left High Factuality Individual: Roberts Family\nESPN host Laura Rutledge shares update on 7-month-old son airlifted to hospital on Christmas ESPN host Laura Rutledge said Wednesday her son has \"a long recovery ahead\" after he was airlifted to a South Carolina hospital on Christmas Day.\n1 hour ago · United States Read Full Article The Messenger Center Mixed Factuality ESPN Anchor Shares Update on 7-Month-Old Son's Health After Being Airlifted to Hospital ‘I write this grateful for the miracle that occurred for him while also knowing so many of these stories don’t have happy endings,’ ESPN’s Laura Rutledge shared in her latest update\n1 hour ago · New York, United States Read Full Article\nThe Messenger Center Mixed Factuality\nESPN Anchor Shares Update on 7-Month-Old Son's Health After Being Airlifted to Hospital ‘I write this grateful for the miracle that occurred for him while also knowing so many of these stories don’t have happy endings,’ ESPN’s Laura Rutledge shared in her latest update\n1 hour ago · New York, United States Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Health"
+    ],
+    "external_links": [
+      "https://www.nbcnews.com/pop-culture/pop-culture-news/espn-host-laura-rutledge-shares-update-7-month-old-son-airlifted-hospi-rcna131522?utm_source=ground.news&utm_medium=referral",
+      "https://themessenger.com/entertainment/espn-anchor-laura-rutledge-health-update-baby-boy-jack?utm_source=ground.news&utm_medium=referral",
+      "https://www.eonline.com/news/1392143/espn-anchor-laura-rutledge-offers-update-after-7-month-old-son-jack-was-airlifted-to-hospital?utm_source=ground.news&utm_medium=referral",
+      "https://themessenger.com/entertainment/espn-anchor-laura-rutledge-health-update-baby-boy-jack",
+      "https://www.nbcnews.com/pop-culture/pop-culture-news/espn-host-laura-rutledge-shares-update-7-month-old-son-airlifted-hospi-rcna131522",
+      "https://eonline.com/news/1392143/espn-anchor-laura-rutledge-offers-update-after-7-month-old-son-jack-was-airlifted-to-hospital?utm_source=ground.news&utm_medium=referral",
+      "https://www.themessenger.com/entertainment/espn-anchor-laura-rutledge-health-update-baby-boy-jack?utm_source=ground.news&utm_medium=referral",
+      "https://nbcnews.com/pop-culture/pop-culture-news/espn-host-laura-rutledge-shares-update-7-month-old-son-airlifted-hospi-rcna131522?utm_source=ground.news&utm_medium=referral",
+      "https://www.eonline.com/news/1392143/espn-anchor-laura-rutledge-offers-update-after-7-month-old-son-jack-was-airlifted-to-hospital"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "laura rutledge",
+          "sentiment": "positive"
+        },
+        {
+          "name": "jack",
+          "sentiment": "positive"
+        },
+        {
+          "name": "jack was airlifted",
+          "sentiment": "none"
+        },
+        {
+          "name": "jack alexander",
+          "sentiment": "none"
+        },
+        {
+          "name": "josh rutledge",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "espn",
+          "sentiment": "positive"
+        },
+        {
+          "name": "roberts family espn",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "united states",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:42:57.255+02:00",
+    "updated": "2023-12-29T00:42:57.255+02:00"
+  }
+]

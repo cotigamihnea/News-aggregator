@@ -1,0 +1,280 @@
+[
+  {
+    "uuid": "0dd3e20e2c9643393bd9aba5c2d1bbedcab342a1",
+    "url": "https://vnexplorer.net/hackham-west-stabbing-three-women-in-hospital-after-violent-altercation-in-adelaide-s697439.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-28T22:46:00Z",
+    "title": "Hackham West stabbing: Three women in hospital after violent altercation in Adelaide",
+    "text": "Women injured in stabbing brawl Police are investigatingOne of several stabbing in recent days\nThree women have been rushed to hospital after a violent stabbing brawl erupted in the early hours of Friday morning.\nPolice were called to the altercation in Hackham West in Adelaide’s south at 4am and found three injured women suffering from stab wounds.\nA woman, 21, suffering from multiple wounds was rushed to Flinders Medical Centre in a serious but stable condition.\nA second 21-year-old woman and another woman were also taken to hospital with minor injuries.\n‘Investigations are continuing and police will be speaking with the three women and other people who were involved or witnessed this incident,’ police said on Friday.\n‘Police wish to reassure the local community that this was not a random incident and all people involved are known to each other.’\nThe wild brawl broke out at Hackham West in Adelaide’s south on Friday morning\nThe brawl broke out at Radom Court, and the intersection of Majorca Rd and Warsaw Crescent was closed to traffic while police examined the crime scene.\nThe incident adds to a sudden blast of brutal knife violence that has hit Australia this week.\nOn Wednesday, real estate agent Julie Seed was allegedly murdered in a random daylight stabbing in the Adelaide suburb of Plympton.\nOn Thursday, Brisbane was hit with two stabbings.\nParamedics rushed a 46-year-old man to Princess Alexandra Hospital in Brisbane just after 8am in a serious condition.\nA man was also found at a petrol station with multiple stab wounds in the suburb of Annerley.\nA short time later that morning, a woman was allegedly murdered in a stabbing attack in the Brisbane suburb of Hamilton.\nThree women were stabbed in an early-morning brawl in Radom Court in Hackham West\nJulie Seed was allegedly stabbed to death in a random attack in Adelaide on Wednesday.\nQueensland police were called to an Oxford St address in the leafy suburb east of the CBD after reports of a disturbance.\nThey allege a 55-year-old woman entered a unit and stabbed the 43-year-old resident.\nThe alleged victim sustained several serious stab wounds and was transported to Royal Brisbane and Women’s Hospital, where she later died, police said.\n‘Police will allege the two women were known to each other but not in a familial setting,’ the police said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "radom court",
+          "sentiment": "none"
+        },
+        {
+          "name": "warsaw crescent",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "adelaide",
+          "sentiment": "none"
+        },
+        {
+          "name": "hackham west",
+          "sentiment": "none"
+        },
+        {
+          "name": "majorca",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:51:37.661+02:00",
+    "updated": "2023-12-29T00:51:37.661+02:00"
+  },
+  {
+    "uuid": "63d745f7a3dd37754d0eec6862357a50586ef314",
+    "url": "https://securityboulevard.com/2024/11/the-persistent-threat-of-ransomware-and-how-businesses-can-protect-themselves",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alberto Casares",
+    "published": "2024-11-21T14:38:00Z",
+    "title": "The Persistent Threat of Ransomware and How Businesses Can Protect Themselves",
+    "text": "Introduction: Ransomware Landscape for Businesses In recent years, ransomware has become one of the most pervasive cybersecurity threats , inflicting substantial losses on businesses globally. With an increasing number of organizations, from manufacturing to healthcare, falling victim to cyber extortion schemes, attackers are evolving their strategies to maximize impact. Notably, many of these attacks leverage infostealers—a type of malware designed to covertly harvest sensitive information, which is later used to facilitate ransomware operations. This blog delves into recent trends in ransomware, examining how cybercriminals exploit stolen data and the potential costs for organizations that become ensnared in these schemes.\nConstella’s Analysis on Recent Ransomware and Data Exposures Overview of Breaches and Infostealers Ransomware attacks have escalated across various high-value industries, exploiting their unique vulnerabilities:\nManufacturing : Among the most affected sectors due to its reliance on complex data flows and interdependent supply chains. Disruptions in this industry can lead to cascading operational failures across global supply networks. Healthcare : A prime target for its critical systems containing life-saving information and sensitive patient data. Ransomware in this sector poses heightened risks, as providers are often forced to pay ransoms to restore services promptly. Technology : Targeted for its valuable intellectual property and business-critical information. Breaches can disrupt innovation, compromise trade secrets, and damage competitive advantages, as well as compromise access to key security tools relied upon by other companies, amplifying the ripple effect of such attacks. Retail and Finance : Cybercriminals exploit these sectors for their vast repositories of consumer data and financial assets. Stolen data is often sold on the dark web or used for fraud and identity theft. Ransomware incidents have a global footprint, with certain countries and regions experiencing elevated risks:\nUnited States : The most affected country, facing frequent ransomware incidents across critical infrastructure, financial institutions, and healthcare systems. Extensive digital connectivity and high concentrations of essential services make the U.S. an attractive target for cybercriminals. Disruptions not only impact economic stability but also compromise key security platforms, potentially weakening defenses across industries. India : Rapidly expanding digital infrastructure creates multiple vulnerabilities, offering attackers numerous points of entry. Growth in technology and finance sectors increases exposure to ransomware threats. Canada, United Kingdom, and Australia : These countries share similar dependencies on digital infrastructure as the U.S., making them attractive targets for cybercriminals. Critical industries and public services in these nations are frequently disrupted by ransomware attacks, with increasing concerns about attackers exploiting security software providers. Germany : A significant manufacturing hub, Germany’s strong industrial sector makes it particularly susceptible to supply chain disruptions caused by ransomware. Breaches in Germany’s tech-driven industries could compromise tools essential for securing other companies, magnifying the impact of an attack. The analysis further indicates that breaches involving stolen credentials—many gathered through infostealers—affect more than 86% of recently compromised companies. Specifically, 34.6% of breached organizations reported exposure to infostealer infections, illustrating how attackers infiltrate networks via seemingly legitimate entry points. This data underscores the necessity for robust cybersecurity measures to counteract these sophisticated threats.\nHow Infostealers Facilitate Ransomware Deployment Within Organizations Infostealers play a pivotal role in ransomware operations, acting as the silent enablers that pave the way for attackers to infiltrate and compromise organizations. By harvesting credentials and other sensitive information, infostealers provide the initial access points necessary for deploying ransomware.\nInfostealers frequently collect session cookies, allowing attackers to bypass authentication mechanisms entirely. This facilitates a rapid ransomware deployment process by giving attackers immediate access to critical systems without triggering security alerts.\nOn the other hand, infostealers extract credentials for VPNs, remote desktops, email accounts, and administrative tools. These credentials are often used to bypass security measures, such as firewalls and multi-factor authentication, granting attackers unrestricted access to an organization’s internal systems. Once inside, they can escalate privileges and move laterally across the network to identify valuable data and critical systems.\nBelow are real-world examples that highlight how infostealers are weaponized to infiltrate various organizational systems:\nVPN Access :\nCompromised VPN credentials can grant hackers a secure entry point into a company’s internal network. A notable example is the $22 million Change Healthcare ransomware incident , where attackers leveraged stolen VPN credentials to infiltrate the network, escalate privileges, and exfiltrate sensitive data before executing the ransomware. Corporate Webmail:\nHackers exploit stolen email credentials to extract confidential information from employee mailboxes. A high-profile case involved the Argentine police , where hackers obtained over 12,000 police contact details using compromised webmail access. Collaboration Tools:\nPlatforms like GitHub, Confluence, and Slack house critical company data. The EA Sports breach , which resulted in the theft of 780 GB of source code, exemplifies the risks associated with infostealer-compromised collaboration accounts. Cloud Services :\nAs businesses increasingly rely on cloud platforms, credentials for AWS, GCP, and Azure have become prime targets. A large-scale breach involving Snowflake impacted 165 organizations, including major firms such as AT&T , affecting millions of end users worldwide. Economic Impact and Costs of Ransomware Attacks The financial toll of ransomware extends beyond ransom payments, impacting business operations, customer trust, and regulatory compliance. In the case of Change Healthcare, the breach’s overall cost reached an estimated $22 million. Globally, ransomware has already cost organizations billions, with damages encompassing lost productivity, legal fees, and system recovery expenses. The threat is also reputational, as customers and stakeholders scrutinize data protection efforts following a breach.\nHow Constella Helps Companies Protect and Prevent Attacks Infostealers are increasingly being used as a precursor to ransomware attacks, making early detection and mitigation critical to organizational security. Constella’s comprehensive approach ensures that any compromised credentials from infostealer infections, including compromised session cookies, are detected and alerted before they can be leveraged by attackers. By identifying these threats early, Constella.ai helps prevent credential abuse and cookie session hijacking attacks, which are commonly used to bypass authentication and escalate ransomware operations.\nBy combining advanced monitoring , real-time alerts , and proactive defense measures , Constella empowers organizations to protect their networks, data, and reputation from the dual threats of infostealers and ransomware, ensuring a robust line of defense against these evolving cyber threats.\n*** This is a Security Bloggers Network syndicated blog from Constella Intelligence authored by Alberto Casares . Read the original post at: https://constella.ai/the-persistent-threat-of-ransomware/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://constella.ai",
+      "https://constella.ai/the-resurgence-of-infostealers/",
+      "https://constella.ai/insider-threats-the-disconnect-between-cybersecurity-threats-and-the-actual-risk-posed-by-malicious-insiders/",
+      "https://constella.ai/the-persistent-threat-of-ransomware/",
+      "https://constella.ai/insider-threats-the-disconnect-between-cybersecurity-threats-and-the-actual-risk-posed-by-malicious-insiders",
+      "https://constella.ai/the-resurgence-of-infostealers",
+      "https://www.constella.ai/the-persistent-threat-of-ransomware/",
+      "https://www.constella.ai/the-resurgence-of-infostealers/",
+      "https://www.constella.ai",
+      "https://constella.ai/the-persistent-threat-of-ransomware",
+      "https://www.constella.ai/insider-threats-the-disconnect-between-cybersecurity-threats-and-the-actual-risk-posed-by-malicious-insiders/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T03:51:14.697+02:00",
+    "updated": "2024-11-22T03:51:14.697+02:00"
+  },
+  {
+    "uuid": "ba96d4cdb24cfd9d71e3eebfdd9390dcc81b8b69",
+    "url": "https://www.time.news/meiji-christmas-new-year-sale-up-to-75-discount-on-digital-gadgets-and-home-appliances/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "time news",
+    "published": "2023-12-28T23:00:00Z",
+    "title": "Meiji Christmas-New Year Sale: Up to 75% Discount on Digital Gadgets and Home Appliances!",
+    "text": "2023-12-28 22:30:00\nMeiji Christmas-New Year Sale Offers Up to 75% Discount on Electronics and Appliances\nKozhikode: Meiji, the popular digital gadgets and home appliances network, is celebrating the Christmas season with a spectacular sale at its over 100 showrooms. The ongoing sale, which extends to the New Year, offers customers the opportunity to avail of discounts of up to 75% across all product segments.\nOne of the main attractions of the sale is the special offer of Rs 1500 cashback with every mobile and tablet purchase of Rs 10,000 or more. This offer is applicable to all major mobile phone and tablet brands, including Samsung, Apple, Redmi, Vivo, Oppo, Nokia, and One Plus, all of which are available at discounted prices.\nIn addition to the discounts on mobile phones and tablets, Meiji is also offering special prices on all laptop models. Customers can avail low Meiji special prices on laptops, with select models providing an additional Rs 4,000 cashback and a two-year warranty. Furthermore, consumers can also enjoy affordable prices on printers during the sale.\nFor those in need of new kitchen appliances, Meiji is providing special prices on various products, as well as a cashback offer of Rs 2000 on all models of single-door refrigerators.\nThe ongoing Christmas-New Year sale at Meiji is a great opportunity for customers to upgrade their electronic devices and household appliances at unbeatable prices. For more information and details on the special offers, customers are encouraged to contact Meiji at the provided phone number: 9249001001. Don’t miss out on these amazing discounts and cashback offers this holiday season.\n#Meiji #ChristmasNew #Year #sale #continues #business",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "vivo",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "apple",
+          "sentiment": "none"
+        },
+        {
+          "name": "samsung",
+          "sentiment": "none"
+        },
+        {
+          "name": "meiji",
+          "sentiment": "none"
+        },
+        {
+          "name": "nokia",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "kozhikode",
+          "sentiment": "none"
+        },
+        {
+          "name": "meiji",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:02:55.229+02:00",
+    "updated": "2023-12-29T01:02:55.229+02:00"
+  },
+  {
+    "uuid": "2ca5309428cd46cf9bafe65fe5c78316dca547ba",
+    "url": "https://www.finanzen.net/nachricht/aktien/usher-syndrome-market-to-exhibit-growth-at-a-cagr-of-10-55-by-2034-delveinsight-13414148",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Importer",
+    "published": "2024-04-11T00:00:00Z",
+    "title": "Usher Syndrome Market to Exhibit Growth at a CAGR of 10.55% by 2034 | DelveInsight | finanzen.net",
+    "text": "The dynamics of the Usher syndrome market are anticipated to change rapidly in the coming years owing to the anticipated launch of emerging therapies that have shown positive outcomes in clinical trials. Key players, such as LABORATOIRES THÉA, NACUITY PHARMACEUTICALS, AAVANTGARDE BIO, and others that are under phases III, II, and I of clinical development have the potential to create a significant positive shift in the Usher Syndrome market size. LAS VEGAS, April 11, 2024 /PRNewswire/ -- DelveInsight's Usher Syndrome Market Insights report includes a comprehensive understanding of current treatment practices, Usher syndrome emerging drugs, market share of individual therapies, and current and forecasted market size from 2020 to 2034, segmented into 7MM [the United States, the EU4 (Germany, France, Italy, and Spain) and the United Kingdom, and Japan].Key Takeaways from the Usher Syndrome Market ReportAccording to DelveInsight's analysis, the market size for Usher syndrome reached USD 76.48 million in 2023 across the 7MM.Among the 7MM, the US accounted for the highest prevalent cases of Usher syndrome in 2023, with around 21K cases; these cases are expected to increase during the forecast period.Leading Usher syndrome companies such as LABORATOIRES THÉA, NACUITY PHARMACEUTICALS, AAVANTGARDE BIO, ODYLIA THERAPEUTICS, ELI LILLY AND COMPANY, ATSENA THERAPEUTICS, CLEARSIDE BIOMEDICAL, and others are developing novel Usher syndrome drugs that can be available in the Usher syndrome market in the coming years.The promising Usher syndrome therapies in the pipeline include ULTEVURSEN, NPI-001, DUAL ADENO-ASSOCIATED VIRUS-BASED USHER SYNDROME TYPE 1B GENE THERAPY, AAV- USH1C, AK-CLRN1, and ATSN-301, among others.In January 2020, the FDA granted Rare Pediatric Disease (RPD) designation for QR-421a for the treatment of patients with mutations in exon 13 of the USH2A gene.Discover which therapies are expected to grab the major Usher syndrome market share @ Usher Syndrome Market ReportUsher Syndrome OverviewUsher syndrome stands as the most prevalent deaf-blind syndrome, affecting half of those with deaf-blindness below the age of 65. This condition, rooted in genetics, manifests as a combination of hearing loss, retinopathy, and vestibular areflexia, each with varying forms and onset times. It is an autosomal recessive disorder, meaning it passes from parents to offspring, impacting the crucial senses of vision, hearing, and balance. Some cases also exhibit balance disorders and bilateral vestibular areflexia. USH is categorized into three primary clinical types - 1, 2, and 3 - each stemming from mutations in different genes and further subdivided into distinct subtypes.The diagnosis of Usher syndrome involves detailed inquiries into the individual's medical history alongside assessments of hearing, balance, and vision. Audiologic examinations gauge the range and volume of sounds perceivable by the individual. An electroretinogram measures the retina's light-sensitive cell response to electrical stimuli. Additionally, a retinal examination is conducted to inspect the retina and other eye structures. Various tests are employed to assess vestibular (balance) function, evaluating different aspects of the balance system. Most genes linked to Usher Syndrome can be clinically tested through genetic testing.Usher Syndrome Epidemiology SegmentationThe Usher syndrome epidemiology section provides insights into the historical and current Usher syndrome patient pool and forecasted trends for the 7MM. It helps recognize the causes of current and forecasted patient trends by exploring numerous studies and views of key opinion leaders.The Usher syndrome market report proffers epidemiological analysis for the study period 2020–2034 in the 7MM segmented into:Total Prevalent Cases of Usher SyndromeType-specific Prevalence of Usher SyndromeAge-specific Prevalence of Usher SyndromeDiagnosed and Treated Cases of Usher SyndromeUsher Syndrome Treatment Market Presently, there is no known cure for Usher syndrome. The most effective approach involves early detection. Handling and addressing the condition entails managing issues related to hearing, vision, and balance. Typically, strategies for addressing hearing problems encompass the use of hearing aids, assistive listening devices, cochlear implants, or alternative methods of communication. Some eye specialists suggest that a substantial dosage of vitamin A palmitate might slow down, though not stop, the advancement of retinitis pigmentosa. Other avenues such as gene therapy, medication-based treatments, and artificial organ replacements are currently at the forefront. Ongoing studies into the role of Usher proteins in the function of auditory and visual cells will play a crucial role in pinpointing the most effective target for gene replacement therapy.Results from a lengthy clinical trial, backed by the National Eye Institute and the Foundation Fighting Blindness, suggest that Vitamin A could potentially decelerate the advancement of retinitis pigmentosa. The research indicates that adults with a prevalent type of retinitis pigmentosa might find advantages in taking a daily 15,000 IU (international units) supplement of vitamin A in its palmitate form. At present, there are limited and experimental treatments for retinal degeneration, all focused on postponing the full loss of photoreceptors.Gene therapy appears to be a promising treatment option for retinal degeneration in Usher syndrome due to its typically monogenic recessive inheritance. Moreover, since Usher syndrome patients often have impaired hearing from birth, they can be identified early on through newborn screening programs before retinal degeneration sets in. Exploring nanoparticles as a delivery mechanism holds potential as another valuable area for research.To know more about Usher syndrome treatment guidelines, visit @ Usher Syndrome Management Usher Syndrome Pipeline Therapies and Key CompaniesULTEVURSEN: LABORATOIRES THÉANPI-001: NACUITY PHARMACEUTICALSRESEARCH PROGRAM: DUAL ADENO-ASSOCIATED VIRUS BASED USHER SYNDROME TYPE 1B GENE THERAPY: AAVANTGARDE BIOAAV- USH1C: ODYLIA THERAPEUTICSAK-CLRN1: ELI LILLY AND COMPANYATSN-301: ATSENA THERAPEUTICSRESEARCH PROGRAM: GENE THERAPY: CLEARSIDE BIOMEDICALLearn more about the FDA-approved drugs for Usher syndrome @ Drugs for Usher Syndrome Treatment Usher Syndrome Market DynamicsThe dynamics of the Usher syndrome market are expected to change in the coming years. As a frequently used modality for cancer treatment, Usher syndrome presents a huge market to any new entrant, with a huge population suffering from the disorder, easily diagnosed due to its clear clinical presentation. Advances in radiation delivery technology, such as intensity-modulated radiation therapy, can help minimize radiation-induced skin toxicity, particularly in certain tumor types like breast cancer.Prophylactic application of a topical steroid is favored for high-risk patients, while topical steroids are commonly used for acute cases. While there is interest in topical antioxidants or oral enzymes for prevention, no clear benefit has been shown. There is a significant interest in understanding mechanismsof dermal injury to mitigate the dermatologic effects of radiation therapy, although prospective data for intervention guidance are currently limited.Furthermore, many potential therapies are being investigated for the treatment of Usher syndrome, and it is safe to predict that the treatment space will significantly impact the Usher Syndrome market during the forecast period. Moreover, the anticipated introduction of emerging therapies with improved efficacy and a further improvement in the diagnosis rate are expected to drive the growth of the Usher Syndrome market in the 7MM.However several factors may impede the growth of the Usher Syndrome market. Impairment of the skin barrier function carries the risks of wound formation, loss of immune function, and infection. Further, radiation can also damage the microvascular system, increasing the risk of tissue hypoxia and fibrosis and activating an inflammatory cascade, leading to acute and chronic skin changes. Depending on the severity and location of chronic skin changes after RT, there is potential for decreased quality of life due to pain, recurrent wounds, decreased range of motion, and cosmetic dissatisfaction. Despite technological advances in radiation delivery and growing interest in managing skin reactions, there is no gold standard in Usher syndrome management. There are limited prospective randomized data on the use of pharmacologic or supportive care agents, topical or non-topical, to prevent and treat Usher syndrome. Several off-label treatment options are currently available in the market, which will capture a huge market share and thus present tough competition to any new entrant. There has been a steady rise in alternatives for Usher syndrome in the oncology space, potentially decreasing the prevalence of Usher syndrome.Moreover, Usher Syndrome treatment poses a significant economic burden and disrupts patients' overall well-being and QOL. Furthermore, the Usher Syndrome market growth may be offset by failures and discontinuation of emerging therapies, unaffordable pricing, market access and reimbursement issues, and a shortage of healthcare specialists. In addition, the undiagnosed, unreported cases and the unawareness about the disease may also impact the Usher Syndrome market growth.Usher Syndrome Market Report MetricsDetailsStudy Period2020–2034Coverage7MM [the United States, the EU4 (Germany, France, Italy, and Spain) and the United Kingdom, and Japan].Usher Syndrome Market CAGR10.55 %Usher Syndrome Market Size in 2023USD 76.48 millionKey Usher Syndrome CompaniesLABORATOIRES THÉA, NACUITY PHARMACEUTICALS, AAVANTGARDE BIO, ODYLIA THERAPEUTICS, ELI LILLY AND COMPANY, ATSENA THERAPEUTICS, CLEARSIDE BIOMEDICAL, and othersKey Pipeline Usher SyndromeTherapiesULTEVURSEN, NPI-001, RESEARCH PROGRAM: DUAL ADENO-ASSOCIATED VIRUS-BASED USHER SYNDROME TYPE 1B GENE THERAPY, AAV- USH1C, AK-CLRN1, ATSN-301, RESEARCH PROGRAM: GENE THERAPY, and othersScope of the Usher Syndrome Market ReportTherapeutic Assessment: Usher Syndrome current marketed and emerging therapiesUsher Syndrome Market Dynamics: Key Market Forecast Assumptions of Emerging Usher Syndrome Drugs and Market OutlookCompetitive Intelligence Analysis: SWOT analysis and Market entry strategiesUnmet Needs, KOL's views, Analyst's views, Usher Syndrome Market Access and ReimbursementDiscover more about Usher Syndrome drugs in development @ Usher Syndrome Clinical TrialsTable of Contents1.Usher Syndrome Key Insights2.Usher Syndrome Report Introduction3.Usher Syndrome Overview at a Glance4.Usher Syndrome Executive Summary5Usher Syndrome Key Events6Epidemiology and Market Forecast Methodology6.Disease Background and Overview7.Usher Syndrome Treatment and Management8.Usher Syndrome Guidelines9.Usher Syndrome Epidemiology and Patient Population10.Patient Journey11.Key Endpoints in Usher Syndrome 12.Usher Syndrome Marketed Drugs13.Usher Syndrome Emerging Drugs14.7MM Usher Syndrome Market Analysis15.Market Access and Reimbursement16.KOL Views17.Unmet Needs18.SWOT Analysis19.Appendix20.DelveInsight Capabilities21.Disclaimer22.About DelveInsightRelated ReportsUsher Syndrome PipelineUsher Syndrome Pipeline Insight – 2024 report provides comprehensive insights about the pipeline landscape, pipeline drug profiles, including clinical and non-clinical stage products, and the key Usher syndrome companies, including Laboratoires Théa, Nacuity Pharmaceuticals, Eli Lilly and Company, Odylia Therapeutics, among others.Usher Syndrome Type 2 Epidemiology ForecastUsher Syndrome Type 2 Epidemiology Forecast – 2032 report delivers an in-depth understanding of the disease, historical and forecasted Usher syndrome type 2 epidemiology in the 7MM, i.e., the United States, EU5 (Germany, Spain, Italy, France, and the United Kingdom), and Japan.Retinitis Pigmentosa MarketRetinitis Pigmentosa Market Insights, Epidemiology, and Market Forecast – 2034 report deliver an in-depth understanding of the disease, historical and forecasted epidemiology, as well as the market trends, market drivers, market barriers, and key gene therapy In retinitis pigmentosa companies, including Johnson & Johnson Innovative Medicine, MeiraGTx, Beacon Therapeutics, Nanoscope Therapeutics, Gensight Biologics, 4D Molecular Therapeutics, Coave Therapeutics, Ocugen, Bionic Sight, jCyte, Endogena Therapeutics, ProQR Therapeutics, Aldeyra Therapeutics, among others.Retinitis Pigmentosa PipelineRetinitis Pigmentosa Pipeline Insight – 2024 report provides comprehensive insights about the pipeline landscape, pipeline drug profiles, including clinical and non-clinical stage products, and the key retinitis pigmentosa companies, including Acucela Inc, Allergan Plc, Amarantus Bioscience Holdings Inc, Amgen Inc, Applied Genetic Technologies Corp, Asklepios BioPharmaceutical Inc, Astellas Pharma Inc, Caladrius Biosciences Inc, Dompe Farmaceutici SpA, GenSight Biologics SA, Grupo Ferrer Internacional SA, IDPharma Co Ltd, Janssen Pharmaceutical, MeiraGTx, Anabasis Pharma, Allegro Ophthalmics, Nacuity Pharmaceuticals, ReNeuron, jCyte, Editas Medicine, SanBio, NightstarTherapeutics, Biogen, OiDE OptoEye, among others.About DelveInsightDelveInsight is a leading Business Consultant and Market Research firm focused exclusively on life sciences. It supports pharma companies by providing comprehensive end-to-end solutions to improve their performance. Get hassle-free access to all the healthcare and pharma market research reports through our subscription-based platform PharmDelve.Contact UsShruti Thakurinfo@delveinsight.com+14699457679www.delveinsight.comLogo: https://mma.prnewswire.com/media/1082265/DelveInsight_Logo.jpg View original content:https://www.prnewswire.co.uk/news-releases/usher-syndrome-market-to-exhibit-growth-at-a-cagr-of-10-55-by-2034--delveinsight-302112986.html",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://www.prnewswire.co.uk/news-releases/usher-syndrome-market-to-exhibit-growth-at-a-cagr-of-10-55-by-2034--delveinsight-302112986.html",
+      "https://prnewswire.co.uk/news-releases/usher-syndrome-market-to-exhibit-growth-at-a-cagr-of-10-55-by-2034--delveinsight-302112986.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "las vegas",
+          "sentiment": "none"
+        },
+        {
+          "name": "nacuity pharmaceuticals",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "japan",
+          "sentiment": "none"
+        },
+        {
+          "name": "italy",
+          "sentiment": "none"
+        },
+        {
+          "name": "united kingdom",
+          "sentiment": "none"
+        },
+        {
+          "name": "france",
+          "sentiment": "none"
+        },
+        {
+          "name": "germany",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        },
+        {
+          "name": "spain",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-12T01:34:09.882+03:00",
+    "updated": "2024-04-12T01:34:09.882+03:00"
+  },
+  {
+    "uuid": "51d33b70e55796afc3aedc867e22a60f166bfe0d",
+    "url": "https://discuss.rubyonrails.org/t/explaining-thruster-a-new-37signals-gem-that-speeds-up-your-app/85567",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brenogazzola",
+    "published": "2024-04-11T21:31:00Z",
+    "title": "Explaining Thruster, a new 37signals gem that speeds up your app",
+    "text": "Last month, 37Signals introduced Thruster, a “zero-config” gem that makes your web pages load faster by solving various problems that would otherwise require changes in multiple places in your infrastructure.\nThis post explains what those problems are, how Thruster solves them, and why you might want to use it even if you have a CDN like Cloudflare in front of your app, which already implements all the features that Thruster offers.\nBoth web and application servers work by receiving requests and responding with content. The difference between them lies in the type of content they specialize in:\nSo, when a user types the URL of your app (e.g., https://vinklo.com.br), Puma does a great job at generating and returning the HTML, but when the browser starts requesting the assets it needs to actually render the page… not so much.\nThe problem is that Puma does not support two critical features of web servers:\nWithout this, browsers are forced to request one asset at a time per connection. And since they are limited to 6-8 connections per domain and most pages have dozens of assets, this means they need to make multiple round trips to fetch everything they need.\nWhen transferring an asset, Puma has to copy its content from the disk to its memory, and then copy it again from its memory to the network. While this is happening, one of Puma’s threads is “stuck” handling the copy, using CPU time and memory.\nA web server like Nginx handles the transfer by leveraging a Linux kernel command called sendfile(). When it receives the request, instead of handling the copy itself, Nginx tells the OS to handle it, which allows it to immediately handle the next request. The OS, in turn, uses the DMA controller to set up a transfer directly between the disk and the network.\nsendfile()\nThis not only saves CPU time and memory but is also much faster. Some files get transferred in less than one-third of the time.\nNow that we know why forcing Puma to serve files is a bad idea, the question is, how do we solve this problem?\nIf you have control of your infrastructure, one option is to use Nginx as your load balancer and enable object caching for the assets and active storage routes. This way, when a new file is requested for the first time, Nginx will create a copy of the content Puma returned in its disk and start serving it for future requests.\nDownsides: You can’t use this if you are on Heroku; you need to use Nginx as your load balancer for the best performance; you need to know how to configure Nginx; and it’s one more piece in your infrastructure.\nUpload your files to a storage service (e.g., S3), and then let the cloud provider CDN (e.g., Cloudflare) handle serving the files instead of your servers.\nDownsides: Extra setup work; your deploy process is more complicated because you have to upload new CSS/JS files to the CDN; and your Active Storage will place extra load on your database because you will have to use public URLs.\nThe easiest option. Just use Cloudflare as your DNS server and enable proxy mode. You won’t have to change anything in your app, there will be no extra piece of infrastructure to monitor, and you will even get automatic compression for your assets, including images.\nDownsides: They only start caching files on the third request, and the cache is not shared between data centers. So instead of 1 request for application.js, Puma will potentially have to handle 600 of them (300 Cloudflare PoP * 2 requests each). If you are operating an image-heavy app that relies on Active Storage, Puma will basically never stop serving images since retention and freshness are different things.\napplication.js\nEven though it’s distributed as a gem, Thruster is almost entirely written in Go. If you add it to your Gemfile and run bundle open thruster in your terminal, you will see this directory tree:\nbundle open thruster\nthruster\n|-- exe\n| |-- x86_64-darwin\n| | |-- thrust\n| +-- thrust.rb\n+-- lib\n|-- thruster\n| |-- version.rb\n+-- thruster.rb\n|-- MIT-LICENSE\n|-- README.md\nAside from the thrust.rb file, which is what you must execute to initialize Thruster, the only other thing the gem contains is an executable for the platform you have the gem installed on. This means that all configuration environment variables must be set as UNIX environment variables, not Ruby environment variables (e.g., .rbenv-vars).\nthrust.rb\n.rbenv-vars\nThis executable is a proxy server that sits between Puma and your load balancer, providing all the features that are missing in Puma/Rails:\nThe answer to that will depend on what your infrastructure looks like:\nYes, I’m tracking a bug and one possible bug:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://vinklo.com.br),",
+      "https://www.vinklo.com.br),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "cloudflare",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "puma",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-12T01:41:12.954+03:00",
+    "updated": "2024-04-12T01:41:12.954+03:00"
+  }
+]

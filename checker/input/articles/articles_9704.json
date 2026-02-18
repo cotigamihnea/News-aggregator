@@ -1,0 +1,122 @@
+[
+  {
+    "uuid": "57a865b92c953809ea6e5c994a7ac1a1e157f887",
+    "url": "https://community.sophos.com/sophos-xg-firewall/f/discussions/148051/invalid-traffic-invalid-tcp-state-no-routing-issue",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gerhard Sauer",
+    "published": "2024-11-21T15:08:00Z",
+    "title": "Invalid Traffic / Invalid TCP state (no routing issue) - Discussions - Sophos Firewall - Sophos Community",
+    "text": "Hello,\nI have a problem with mainly HTTPS connections showing up in the log as Invalid Traffic / Invalid TCP state. See screenshots below.\nexample domain is [https://telekom.de](https://telekom.de)\nI have 2 Internet connections with separate NAT and SD-WAN routes. Routing shows correctly and see workaround below, works for both lines, if TCP Seq Checking is disabled.\nSo there seems to be an issue with TCP checking not routing. Especially, because most websites do work, even if it is turned on.\nInteresting to mention, both internet connections are with the same provider and run through the same router. 1 I checked with packet capturing multiple times, that no routing issue persist. Many connections do work, but with the example of telekom.de it does not work at all on the second line... But if TCP Seq checking is on, the second line works in many cases nevertheless. Packet capture also shows no other packets being delivered somewhere else.\nThe 80... IP is telekom.de and both internet connections are internally rereferred to as 192.168.12.12 or 192.168.10.10\nCurrent work around is to disable \"TCP Seq Checking\", then it works.\nIssue persists with\nSFOS 21.0.0 GA-Build169\nand\nSFOS 20.0.2 MR-2-Build378\nIs something like this a known issue?\nHow can this be troubleshootet further?\nThank you.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://telekom.de",
+      "https://www.telekom.de"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T02:42:48.546+02:00",
+    "updated": "2024-11-22T02:42:48.546+02:00"
+  },
+  {
+    "uuid": "842e34a56d1f15786ad01dbb75d651a4b0ba9d05",
+    "url": "https://www.pressherald.com/2023/12/28/in-reversal-u-s-to-heighten-efforts-to-collect-billions-in-unpaid-covid-loans/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tony Romm - The Washington Post",
+    "published": "2023-12-28T21:55:00Z",
+    "title": "In reversal, U.S. to heighten efforts to collect billions in unpaid COVID loans",
+    "text": "The Biden administration plans to more aggressively pursue thousands of small businesses with past-due pandemic loans, reversing an earlier policy that saw the U.S. government stop short of trying to collect an estimated $30 billion in delinquent debt. The new approach, announced Thursday, arrives months after federal watchdogs and congressional lawmakers first blasted the administration for its leniency, warning that the government risked breaking the law – and exacerbating its losses – if it didn’t try harder to get the money back. At the height of the coronavirus pandemic, Congress created two generous stimulus programs to help cash-starved firms stay afloat: the COVID-19 Economic Injury Disaster Loan, known as EIDL, and the Paycheck Protection Program, or PPP. Over their life spans, the lending initiatives provided more than $1 trillion in assistance to companies large and small, helping to blunt the worst economic crisis since the Great Depression. Congress allowed borrowers to request their PPP loans be forgiven, while those who obtained aid under EIDL were supposed to repay the money. Before most of those EIDL bills became due, however, the Small Business Administration quietly enacted a policy in April 2022 to halt some collection activities on past-due loans of $100,000 or less, The Washington Post first reported earlier this year. Explaining its policy, SBA officials said at the time it would have cost too much money to refer each delinquent loan to the Treasury Department, which can impose the toughest punishments on late borrowers, including wage garnishment. But the rationale troubled the agency’s inspector general, Hannibal “Mike” Ware, whose office in September warned that the SBA policy “could incentivize other COVID-19 EIDL recipients to stop paying on their loans.” In its investigation, the watchdog estimated that there were about $62 billion in past-due EIDL loans worth $100,000 or less as of this March. Earlier, the inspector general found an additional $1.1 billion in unpaid PPP loans that the government had charged off as a loss and never referred to the Treasury Department for collection activities. By its measurement, the SBA on Thursday estimated there are about $30 billion in PPP and EIDL loans worth up to $100,000 that could be subject to stiffer sanctions next year. The potentially staggering loss amounts to about 2.5% of those programs’ total portfolios, the agency said. “The Small Business Administration constantly assesses the implementation of its programs and makes data-driven decisions to ensure the agency remains a responsible steward of taxpayer money in supporting America’s 33.5 million small businesses,” a spokesperson said in a statement. “The SBA’s longstanding policy is to use all cost-effective methods to collect on all pandemic-era loans as required by law,” the agency added, “and we will refer PPP and COVID EIDL loans less than $100,000 to Treasury by a recent, updated analysis demonstrating that this final collection step will be cost-effective for the government.” The new policy is unlikely to assuage some Republicans on Capitol Hill, who have previously castigated the agency for its handling of the EIDL and PPP programs, which began under former President Donald Trump. Rep. Roger Williams, R-Texas, the chairman of the House Small Business Committee, threatened to subpoena the SBA earlier this year for records related to its repayment policies. The dispute underscores the unique and expensive challenges that plague SBA more than three years after Congress tasked the agency to manage an aid portfolio that was larger than its annual budget. Its generosity and haste early in the pandemic may have saved millions of small businesses, but it also came at a steep cost to federal taxpayers, with losses from fraud alone that may now exceed $200 billion. That figure does not include borrowers who have fallen behind on their bills by 30 days or more, either as a result of economic hardship or negligence. Under a 1996 federal law, the SBA is supposed to take aggressive action to pursue these debts – or demonstrate that it would be prohibitively expensive for the government to do so. The agency adopted the latter approach with PPP and EIDL in April 2022, concluding in an analysis later that year that a full federal crackdown would result in a net loss for the government, according to SBA. Instead, the SBA opted to place 75.2 million phone calls, send 7 million emails, and mail 1.6 million letters to borrowers who had fallen behind on their EIDL bills, the agency said Thursday. Before revising its policy, it also put delinquent businesses on an official list that prohibits them from obtaining federal loans and other related aid in the future. And SBA reported the late debts to credit-ratings bureaus – though federal watchdogs later found that the government had failed to do so in a timely, appropriate way. Starting in 2024, SBA plans to refer delinquent pandemic borrowers to the Treasury Department after a 60-day grace period that will end in early March. The agency has the power to levy the harshest of sanctions, and it can retain a portion of a taxpayer’s refund or deduct amounts from other federal aid just to recover unpaid government debt. The SBA previously considered other approaches to manage its beleaguered EIDL portfolio, at one point hiring an outside consultant that later recommended the agency sell its fuller stable of loans in a bid to minimize its losses. But the agency ultimately opted against that idea, according to its inspector general, which raised the prospect in a September report that the SBA “risks” violating the law by not trying to collect the debts. Success. Please wait for the page to reload. If the page does not reload within 5 seconds, please refresh the page. Enter your email and password to access comments. Invalid username/password. Please check your email to confirm and complete your registration. Use the form below to reset your password. When you've submitted your account email, we will send an email with a reset code. [Send questions/comments](/feedback-form/) to the editors. [AI craze is driving Nasdaq’s best run since 1999](https://www.pressherald.com/2023/12/28/ai-craze-is-driving-nasdaqs-best-run-since-1999/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "biden",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "congress",
+          "sentiment": "none"
+        },
+        {
+          "name": "ppp",
+          "sentiment": "none"
+        },
+        {
+          "name": "eidl",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:21:25.360+02:00",
+    "updated": "2023-12-29T00:22:48.640+02:00"
+  },
+  {
+    "uuid": "171fdc17edf00ad2f9bf00cb15ad42b93f68f882",
+    "url": "https://www.meon.com.br/noticias/litoral-norte/alerta-para-ondas-de-ate-3-metros-em-sao-sebastiao",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Escrito por Meon",
+    "published": "2024-03-22T12:21:00Z",
+    "title": "Alerta para ondas de até 3 metros em São Sebastião",
+    "text": "A Marinha do Brasil emitiu alerta para a passagem de uma frente fria que poderá afetar a faixa litorânea do Estado de São Paulo com ventos de direção Sul a Sudeste e intensidade de até 60 km/h no Litoral Norte.\n+ Leia mais notícias do Litoral Norte [+ Receba as notícias pelo Canal do Meon no WhatsApp](+ Receba as notícias pelo Canal do Meon no WhatsApp)\nEsse sistema deve provocar ressaca com ondas de direção Sudoeste a Sudeste e altura de até 3 metros, entre a tarde de sexta-feira (22) e madrugada de domingo (24).\nAos navegantes, a orientação é que consultem essas informações antes de irem ao mar, principalmente as comunidades de pesca e esporte e recreio.\nChuvas fortes\nA Defesa Civil de São Sebastião alerta a população para mudança brusca no tempo. No município, há possibilidades de ventos de até 50 km/h, além de uma precipitação que pode ultrapassar os 250 mm em algumas áreas. Com isso, há risco de danos em edificações, corte de energia elétrica, queda de árvores, descargas elétricas, alagamentos e enxurradas.\nAlém dos ventos e chuvas fortes, São Sebastião deve sofrer também uma queda abrupta nas temperaturas. Nesta sexta (22), não deve ultrapassar os 27ºC, uma diferença de pelo menos 9ºC.\nPor conta dessas possibilidades, a Defesa Civil de São Sebastião já está atenta e de prontidão acompanhando as mudanças climáticas. Entre as medidas do órgão, está o acionamento do Plano de Contingência (PLANCON), que tem o objetivo de orientar e minimizar os estragos de causas naturais, especialmente nas áreas mais vulneráveis.\nAté o dia 31 de março, o órgão também mantém em vigência o Plano Preventivo da Defesa Civil (PPDC).\nEm casos de emergência, a população pode acionar os órgãos de Defesa do município, por meio do telefone 199, da Polícia Municipal (153) ou Corpo de Bombeiros (193).\nOs comentários e avaliações são de responsabilidade exclusiva de seus autores e não representam a opinião do site.\nBoleto\nReportar erro!\nComunique-nos sobre qualquer erro de digitação, língua portuguesa, ou de uma informação equivocada que você possa ter encontrado nesta página:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-22T15:24:31.497+02:00",
+    "updated": "2024-03-22T15:24:31.497+02:00"
+  }
+]

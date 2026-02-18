@@ -1,0 +1,391 @@
+[
+  {
+    "uuid": "de1c901fbc33518566b06c4f17910b8557f5f0ce",
+    "url": "https://www.pagina12.com.ar/790152-los-destrozos-que-provoco-el-temporal-en-bragado-como-sigue-",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Página|12",
+    "published": "2024-12-13T15:09:00Z",
+    "title": "Los destrozos que provocó el temporal en Bragado: cómo sigue el clima este viernes | Ocho provincias con alerta meteorológica | Página|12",
+    "text": "Un severo temporal durante la madrugada de este viernes en la ciudad bonaerense de Bragado provocó que ocho personas resultaran heridas y causó graves destrozos . La empresa distribuidora EDEN informó que se vio afectado el suministro eléctrico en diferentes zonas urbanas y rurales por la caída de más de 30 postes de líneas de media y baja tensión . Asimismo, las autoridades municipales indicaron que iniciaron los trabajos de normalización de la ciudad , al tiempo que pidieron a los vecinos no circular por calles anegadas ni tocar cables cortados o retirar ramas de los tendidos de electricidad .\nClima en Buenos Aires: el pronóstico del tiempo para este viernes 13 de diciembre Durante la mañana se viralizaron en las redes las imágenes tomadas por los vecinos de la localidad bonaerense en la que se aprecia el fuerte viento que arrasó durante la madrugada y que causó voladuras de techos , de árboles , y hasta el desprendimiento de una carpa instalada para una fiesta de egresados.\nhttps://geo.dailymotion.com/player/xt5ee.html?video=x9aqmkq El director general de Seguridad y Defensa Civil, Mario Busto, confirmó a Bragado Informa que el violento temporal produjo inconvenientes en la infraestructura de las calles , arboleda y daños cuantiosos a empresas privadas en la zona de la Pista de Ciclismo. Además, afirmó que la tormenta ocasionó tres voladuras de techos en casas particulares del barrio Fátima, cuya asistencia corre por cuenta del área de Desarrollo Social.\nEn este marco, Busto precisó que se decidió colocar una guardia permanente en las áreas afectadas. También consignó que el Municipio no llegó a prever la tormenta debido a que el alerta se emitió minutos antes de que se iniciara.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://geo.dailymotion.com/player/xt5ee.html?video=x9aqmkq",
+      "https://www.geo.dailymotion.com/player/xt5ee.html?video=x9aqmkq",
+      "https://geo.dailymotion.com/player/xt5ee.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "EDEN",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T18:11:09.805+02:00",
+    "updated": "2024-12-13T18:11:09.805+02:00"
+  },
+  {
+    "uuid": "f1dfb95821f9cf2be3021d6439a126c6bce0be98",
+    "url": "https://siliconangle.com/2025/04/02/cyberhaven-nabs-100m-ai-powered-data-protection-platform",
+    "ord_in_thread": 0,
+    "author": "Maria Deutscher",
+    "published": "2025-04-02T21:19:00Z",
+    "title": "Cyberhaven nabs $100M for its AI-powered data protection platform - SiliconANGLE",
+    "text": "Data security startup Cyberhaven Inc. today announced that it has closed a $100 million funding round to support its growth efforts.\nThe Series D investment was led by StepStone Group with participation from Schroders and Industry Ventures. The raise values Cyberhaven at more than $1 billion, or about seven times what it was worth following its previous funding round last June.\nCyberhaven’s platform detects when a company’s employees use internal data in an unauthorized manner. The software could, for example, spot if a developer attempts to copy code into a cloud-based debugging tool that hasn’t been approved by the cybersecurity team. Cyberhaven also identifies risks to other types of data such as business documents.\nAfter identifying cybersecurity issues, the company’s platform ranks them by severity. It generates a summary of each incident and displays remediation suggestions. For example, file activity that indicates an employee account has been hacked might prompt the software to suggest that administrations revoke the account’s system access.\nUnder the hood, Cyberhaven’s platform is powered by two technologies called Trail and Linea AI.\nBefore administrators can check whether a sensitive record is managed securely, they have to find it, which isn’t always straightforward in a large enterprise. Cyberhaven’s technology promises to ease the task. It can keep track of a sensitive record even if it’s moved between systems, split into multiple files or combined with other information.\nCyberhaven uses several different methods to collect information on file usage. It connects to a company’s business applications and monitors how the data they contain is accessed by employees. Additionally, a browser extension enables Cyberhaven to detect when users move sensitive data into services that aren’t approved by the information technology team.\nThe billions of data flows recorded for an organization are analyzed by Linea AI, the second core component of the platform. It’s powered by a custom artificial intelligence model designed to detect unauthorized data access. The AI maps out the file usage patterns of a company’s employees and finds unusual activity that may create cybersecurity risks.\nCyberhaven refers to its AI as a large lineage model, or LLiM. The training workflow through which it was developed centered not on language datasets but rather data flows. The LLiM uses a large language model to generate explanations of the data risks it identifies.\n“We’re giving organizations complete visibility and real-time control over their data, regardless of how it transforms or where it flows,” said Chief Executive Officer Howard Ting.\nThe company will use the $100 million round to extend its platform’s feature set. Cyberhaven intends to do so through a combination of in-house engineering and acquisitions. It also plans to invest in go-to-market programs.\nImage: Cyberhaven",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->economics",
+      "Science and Technology->scientific innovation",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Economy, Business and Finance->business financing",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.cyberhaven.com/press-releases/cyberhaven-raises-100-million-series-d-at-1-billion-valuation",
+      "https://cyberhaven.com/press-releases/cyberhaven-raises-100-million-series-d-at-1-billion-valuation"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T00:24:26.357+03:00",
+    "updated": "2025-04-30T14:17:52.202+03:00"
+  },
+  {
+    "uuid": "0741393dfabc14f3f331d52bef62ce59a30d40e0",
+    "url": "https://medicaldialogues.in/pediatrics-neonatology/news/glp1r-treatment-linked-to-low-suicidal-ideation-in-adolescents-with-obesity-jama-137405",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dr Riya Dave",
+    "published": "2024-11-08T01:00:00Z",
+    "title": "GLP1R Treatment Linked to low Suicidal Ideation in Adolescents with Obesity: JAMA",
+    "text": "GLP1R Treatment Linked to low Suicidal Ideation in Adolescents with Obesity: JAMA Written By : Dr Riya Dave | Medically Reviewed By : Dr. Kamal Kant Kohli Published On 2024-11-08T06:00:33+05:30 | Updated On 8 Nov 2024 2:28 PM IST Researchers found that adolescents treated with a glucagon-like peptide 1 receptor agonist (GLP1R) for obesity experienced lower risk for suicide ideation or attempts. A recent study was published in the journal JAMA Pediatrics conducted by Liya Kerem and Joshua Stokar. The study aimed to investigate the psychiatric safety of GLP1R treatment in adolescents.\nThis was a retrospective cohort study using the data from the TriNetX global federated network that aggregated electronic health records from 120 health care organizations. Obese adolescents aged 12 to 18 years were selected. One group was subjected to GLP1R treatment while the other group was the control, only receiving lifestyle interventions with no GLP1R. The number of adolescents selected in the GLP1R group was 4052, and the number selected for the control group was 50,112. After propensity score matching, the cohorts matched. From both groups, 3456 participants' outcomes were compared.\nThe main exposure was the initiation of GLP1R treatment for obesity, compared to a control group who received lifestyle interventions but no GLP1R. The main outcome measured was the incidence of suicidal ideation or attempts within 12 months of treatment, evaluated through ICD-10 codes from patient electronic health records. Gastrointestinal symptoms were also explored as a positive control and upper respiratory tract infections (URTI) as a negative control to validate the findings.\n• GLP1R treatment was linked to a 33% reduced risk of suicidal ideation or attempts relative to control (1.45% vs 2.26%; hazard ratio [HR], 0.67; 95% CI, 0.47-0.95; p = 0.02).\n• This finding suggests that GLP1R may be associated with a favorable psychiatric safety profile for adolescents who are obese, thereby decreasing the anxiety related to its increased predisposition to suicidality.\n• Greater rates of gastrointestinal symptoms were found in the GLP1R arm (6.9% vs 5.4%; HR, 1.41; 95% CI, 1.12-1.78; p = 0.003).\n• No group differences were observed for the rates of URTI diagnoses; this supports the idea that the study's design was appropriate to control for unrelated health outcomes.\nIn conclusion, the study demonstrated that obese adolescents treated with GLP1R resulted in reduced suicidal ideation or attempts, thereby ensuring that the psychiatric safety profile is favourable. These results reassure the consideration of GLP1R agonists in the management of obesity but underscore the importance of further research in the mental health consequences of obesity treatment. Future studies will help clear up the higher-order effects of GLP1R on adolescent well-being and help more clearly refine treatment approaches for obesity management.\nReference:\nKerem, L., & Stokar, J. (2024). Risk of suicidal ideation or attempts in adolescents with obesity treated with GLP1 receptor agonists. JAMA Pediatrics. https://doi.org/10.1001/jamapediatrics.2024.3812 JAMA Pediatrics GLP1 receptor agonists obesity adolescents suicidal ideation psychiatric safety gastrointestinal symptoms Source : JAMA Pediatrics Dr Riya Dave Dr Riya Dave has completed dentistry from Gujarat University in 2022. She is a dentist and accomplished medical and scientific writer known for her commitment to bridging the gap between clinical expertise and accessible healthcare information. She has been actively involved in writing blogs related to health and wellness.\nDr. Kamal Kant Kohli Dr Kamal Kant Kohli-MBBS, DTCD- a chest specialist with more than 30 years of practice and a flair for writing clinical articles, Dr Kamal Kant Kohli joined Medical Dialogues as a Chief Editor of Medical News. Besides writing articles, as an editor, he proofreads and verifies all the medical content published on Medical Dialogues including those coming from journals, studies,medical conferences,guidelines etc. Email: drkohli@medicaldialogues.in. Contact no. 011-43720751\nShow Full Article Next Story",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://doi.org/10.1001/jamapediatrics.2024.3812",
+      "https://www.doi.org/10.1001/jamapediatrics.2024.3812"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Joshua Stokar",
+          "sentiment": "none"
+        },
+        {
+          "name": "Liya Kerem",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T03:05:05.275+02:00",
+    "updated": "2024-11-08T15:45:47.884+02:00"
+  },
+  {
+    "uuid": "b49e31579fe0a6ee3714fd6e3cd3cb3bf27211f3",
+    "url": "https://lancasteronline.com/sports/barnstormers/stormers-take-another-gut-punch-from-york-lose-4-3-in-12-innings/article_5832b2f8-4af7-11ef-a436-5babbd573820.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MIKE GROSS | Sports Writer",
+    "published": "2024-07-26T02:32:00Z",
+    "title": "Stormers take another gut-punch from York, lose 4-3 in 12 innings | Lancaster Barnstormers | lancasteronline.com",
+    "text": "July 25, 2024 71° Close Buy Now Stormers third baseman Trace Loehr (6) gets the FerryHawks Luis Castro (6) to end the first inning of an Atlantic League baseball game at Clipper Magazine Stadium in Lancaster on Thursday June 27, 2024.\nCHRIS KNIGHT | Staff Photographer Facebook Twitter WhatsApp SMS Email Print Copy article link Stormers take another gut-punch from York, lose 4-3 in 12 innings MIKE GROSS | Sports Writer Jul 25, 2024 13 mins ago Facebook Twitter WhatsApp SMS Email Buy Now Stormers third baseman Trace Loehr (6) gets the FerryHawks Luis Castro (6) to end the first inning of an Atlantic League baseball game at Clipper Magazine Stadium in Lancaster on Thursday June 27, 2024.\nCHRIS KNIGHT | Staff Photographer Facebook Twitter WhatsApp SMS Email Print Copy article link In the long daily grind of a baseball season there are mileposts, good and bad.\nThe Lancaster Stormers had their second bad one in three days Thursday.\nYork’s Jacob Rhinesmith singled home designated runner David Washington on the top of the 12th inning, and the Revolution edged Lancaster, 4-3 before 3,695 at Clipper Magazine Stadium.\nThe Stormers came in having won eight in a row, and come out having lost two of three, both gut-wrenchers, to the team they want and need to beat most.\nThey are now 2-13 on the season against the Revolution.\nThe Stormers hit and pitched well enough in all three games. It was the little things, …\nThey overcame four errors to win Thursday, 4-3. In Tuesday’s game one, Lancaster gave away critical outs on the bases and squandered an elite starting pitching performance by Noah Bremer.\nThat part repeated Thursday. Starter Matt Swarmer got his team into the seventh inning with the lead, allowed one earned run and struck out 13, tying a club record for Ks in a game also shared by Eric Junge (2010) and Bryan Evans (2016).\nSwarmer, a Governor Mifflin High School and Kuztown University product, pitched 34 innings for the Chicago Cubs in 2022. This season, he has struck out 23 in his last 13 and two-thirds innings.\nYork whiffed 18 times Thursdays against six Lancaster pitchers. And won anyway.\nIsan Diaz’ two-run homer in the fifth gave the Stormers a 2-0 lead. York tied it with single runs in the sixth (two singles and a sac fly) and seventh (a seeing-eye RBI single by Alfredo Reyes on Swarmer’s last pitch of the night.\nThe Revs went to the ninth inning with the lead thanks mostly to three wild pitches, the second of which bounced and spun to rest no more than five feet from the plate. It allowed speedy York leadoff man Rudy Martin, who had walked and stole second, to fly home safe on a close play.\nDrama was coming. Lancaster’s Joe Carpenter erased that deficit and ignited the crowd with a solo homer to right center with one out in the ninth.\nBoth bullpens made big pitehes to drag the game wo the 12th, in which Rhinesmith delivered the game-winner, an opposite-field liner to left.\nThe Stormers are still in first place in the Atlantic League’s North Division, two games ahead of York, which won the first half\nLancaster now hits the road for a nine-game swing through the New York City metroplex, starting with a weekend three-game series at Long Island. Lefty Brady Tedesco (0-2) gets the start on the mound Friday.\nNewsletter Success! An email has been sent to with a link to confirm list signup.\nError! There was an error processing your request.\nSports Our daily sports newsletter, delivered at 6 a.m. Please enter a valid email address. Sign up By opting into newsletters you are agreeing to our privacy policy . What to Read Next <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB JCAQAAACRI2S5AAAAEklEQVR42mP8X8+AFzCOKgADAJ1vDXivFXd/ ElFTkSuQmCC\" srcset=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB JCAQAAACRI2S5AAAAEklEQVR42mP8X8+AFzCOKgADAJ1vDXivFXd/ ElFTkSuQmCC\" sizes=\"(min-width: 1200px) 171px, (min-width: 768px) calc(15.00vw - 30px), 100vw\" width height alt=\"{{title}}\" class=\"img-responsive full white\" loading=\"lazy\"}\"> {{hammer}} {{kicker}} {{title}} {{subhead}} {{byline}} Dec 31, 1969 Facebook Twitter WhatsApp SMS Email Print Copy article link",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flancasteronline.com%2Fstormers-vs-ferryhawks---atlantic-league-baseball%2Fimage_6c3015d4-34ea-11ef-9322-73a7d8cf34cb.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share",
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flancasteronline.com%2Fsports%2Fbarnstormers%2Fstormers-take-another-gut-punch-from-york-lose-4-3-in-12-innings%2Farticle_5832b2f8-4af7-11ef-a436-5babbd573820.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share",
+      "https://wa.me/?text=https://lancasteronline.com/sports/barnstormers/stormers-take-another-gut-punch-from-york-lose-4-3-in-12-innings/article_5832b2f8-4af7-11ef-a436-5babbd573820.html",
+      "https://wa.me/?text=https://lancasteronline.com/stormers-vs-ferryhawks---atlantic-league-baseball/image_6c3015d4-34ea-11ef-9322-73a7d8cf34cb.html",
+      "https://twitter.com/intent/tweet?&text=Stormers%20take%20another%20gut-punch%20from%20York%2C%20lose%204-3%20in%2012%20innings&via=lancasteronline&url=https%3A%2F%2Flancasteronline.com%2Fsports%2Fbarnstormers%2Fstormers-take-another-gut-punch-from-york-lose-4-3-in-12-innings%2Farticle_5832b2f8-4af7-11ef-a436-5babbd573820.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share",
+      "https://api.parsely.com/v2/similar?apikey=lancasteronline.com&url=https://lancaster",
+      "https://api.parsely.com/v2/related?apikey=lancasteronline.com&url=https://lancaster",
+      "https://twitter.com/intent/tweet?&text=Stormers%20vs.%20FerryHawks%20-%20Atlantic%20League%20baseball&via=lancasteronline&url=https%3A%2F%2Flancasteronline.com%2Fstormers-vs-ferryhawks---atlantic-league-baseball%2Fimage_6c3015d4-34ea-11ef-9322-73a7d8cf34cb.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share",
+      "https://japfg-trending-content.uc.r.appspot.com/trxtwo.php?s=10247&v=1&q=4&i=21",
+      "https://www.googletagmanager.com/gtag/js?id=",
+      "https://ads.empowerlocal.co/adserve/;ID=181918;size=0x0;setID=514232;type=js;sw=",
+      "https://www.googletagmanager.com/gtag/js",
+      "https://www.twitter.com/intent/tweet?&text=Stormers%20vs.%20FerryHawks%20-%20Atlantic%20League%20baseball&via=lancasteronline&url=https%3A%2F%2Flancasteronline.com%2Fstormers-vs-ferryhawks---atlantic-league-baseball%2Fimage_6c3015d4-34ea-11ef-9322-73a7d8cf34cb.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share",
+      "https://www.api.parsely.com/v2/related?apikey=lancasteronline.com&url=https://www.lancaster",
+      "https://www.wa.me/?text=https://www.lancasteronline.com/sports/barnstormers/stormers-take-another-gut-punch-from-york-lose-4-3-in-12-innings/article_5832b2f8-4af7-11ef-a436-5babbd573820.html",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.japfg-trending-content.uc.r.appspot.com/trxtwo.php?s=10247&v=1&q=4&i=21",
+      "https://www.api.parsely.com/v2/similar?apikey=lancasteronline.com&url=https://www.lancaster",
+      "https://googletagmanager.com/gtag/js?id=",
+      "https://wa.me/",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Flancasteronline.com%2Fstormers-vs-ferryhawks---atlantic-league-baseball%2Fimage_6c3015d4-34ea-11ef-9322-73a7d8cf34cb.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Flancasteronline.com%2Fsports%2Fbarnstormers%2Fstormers-take-another-gut-punch-from-york-lose-4-3-in-12-innings%2Farticle_5832b2f8-4af7-11ef-a436-5babbd573820.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share",
+      "https://www.wa.me/?text=https://www.lancasteronline.com/stormers-vs-ferryhawks---atlantic-league-baseball/image_6c3015d4-34ea-11ef-9322-73a7d8cf34cb.html",
+      "https://www.ads.empowerlocal.co/adserve/;ID=181918;size=0x0;setID=514232;type=js;sw=",
+      "https://api.parsely.com/v2/similar",
+      "https://japfg-trending-content.uc.r.appspot.com/trxtwo.php",
+      "https://www.twitter.com/intent/tweet?&text=Stormers%20take%20another%20gut-punch%20from%20York%2C%20lose%204-3%20in%2012%20innings&via=lancasteronline&url=https%3A%2F%2Flancasteronline.com%2Fsports%2Fbarnstormers%2Fstormers-take-another-gut-punch-from-york-lose-4-3-in-12-innings%2Farticle_5832b2f8-4af7-11ef-a436-5babbd573820.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share",
+      "https://api.parsely.com/v2/related",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "luis cast",
+          "sentiment": "negative"
+        },
+        {
+          "name": "loehr",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lancaster",
+          "sentiment": "none"
+        },
+        {
+          "name": "jacob rhinesmith",
+          "sentiment": "none"
+        },
+        {
+          "name": "luis castro",
+          "sentiment": "none"
+        },
+        {
+          "name": "david washington",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "facebook twitter",
+          "sentiment": "none"
+        },
+        {
+          "name": "atlantic league",
+          "sentiment": "none"
+        },
+        {
+          "name": "clipper magazine stadium",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "lancaster",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-26T05:45:30.271+03:00",
+    "updated": "2024-07-26T05:45:30.271+03:00"
+  },
+  {
+    "uuid": "6b0e8051a34e58837a2a66af2812f6bfe2776222",
+    "url": "https://www.cronista.com/espana/pc-movil/adios-gmail-youtube-y-drive-google-dara-de-baja-todas-las-cuentas-que-no-cumplan-con-este-requisito",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "El Cronista",
+    "published": "2024-11-15T14:38:00Z",
+    "title": "Adi\\u00f3s Gmail, YouTube y Drive: Google dar\\u00e1 de baja todas las cuentas que no cumplan con este requisito",
+    "text": "Google ha tomado una medida drástica que afecta a todos sus usuarios: eliminará las cuentas que permanezcan inactivas durante más de dos años. Esto significa la pérdida de acceso a plataformas como YouTube, Meet, Calendar, Google Fotos, Drive y otros.La empresa estadounidense ha aclarado que eliminará las cuentas que permanezcan inactivas por más de dos años. Es decir, si un usuario no accede ni utiliza su cuenta en ese período, tanto la cuenta como toda la información vinculada podrían ser eliminadas.El gigante estadounidense implementará un cambio significativo que acabará en la eliminación de muchas cuentas de usuarios. (Imagen: archivo)Te puede interesar:Inmuebles Ley de alquileres: el casero está obligado, aunque no quiera, a hacer reparaciones en una vivienda en mal estado Salud El hábito diario que debes abandonar para mejorar la digestión y prevenir el colon irritable después de los 40 Google informó por correo que la medida de eliminación de cuentas inactivas comenzó el 1 de diciembre de 2023. Desde entonces, todas las cuentas personales inactivas podrían ser eliminadas por completo, con excepción de las cuentas pertenecientes a organizaciones como centros educativos o empresas.\"Este cambio se aplicará a cualquier cuenta de Google inactiva; es decir, una cuenta que lleve dos años sin utilizarse o sin que se haya iniciado sesión en ella\", indica la compañía tecnológica.Google no eliminará todas las cuentas: ¿cuáles son las excepciones?Según el comunicado, esta medida no afectará a las cuentas de empresas ni de instituciones educativas. Tampoco se aplicará a aquellas cuentas inactivas que tengan \"canales, vídeos o comentarios en YouTube\", ni las que tengan una tarjeta regalo con saldo o una aplicación publicada en una tienda de apps, como Play Store.Adiós Gmail, YouTube y Drive: Google dará de baja todas las cuentas que no cumplan con este requisito. (Imagen: archivo)¿Cómo evitar que eliminen tu cuenta de Gmail?Para que Google no elimine tu cuenta, tendrás que volver a hacerla activa. La compañía tecnológica considera que un perfil es activo cuando se realizan alguna de las siguientes actividades:Leer o escribir un correo electrónico.Usar Google Drive.Ver un vídeo en YouTube.Descargar una app desde la Play Store.Hacer una búsqueda en Google.De todos modos, Google notificará a los usuarios con varios meses de anticipación antes de eliminar una cuenta inactiva.RENFE lanza abonos gratuitos para viajar en noviembre por toda España: cómo obtenerlos¿Adiós Temu? El gigante chino podría tener los días contados dentro de la UE por vender productos ilegalesEl objetivo principal de esta medida es permitir a los usuarios mantener sus cuentas activas si así lo desean, brindándoles la oportunidad de tomar las acciones necesarias para evitar su eliminación.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T17:55:45.212+02:00",
+    "updated": "2024-11-28T02:20:13.599+02:00"
+  },
+  {
+    "uuid": "ff81e7d3b2a362f3d93c9da7735d9f9f289ba982",
+    "url": "https://www.nation.com.pk/12-Jan-2024/swat-s-winter-wonderland-draws-record-tourists",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "APP",
+    "published": "2024-01-11T22:13:00Z",
+    "title": "Swat’s winter wonderland draws record tourists",
+    "text": "PESHAWAR - Swat district, known as the “Switzerland of Pakistan,” has emerged as a premier winter tourism destination, captivating adventure and snow sports enthusiasts with its seven unique features. These include snowfall, ice skiing, snow-capped mountainous valleys, and trout fish. Umar Khayam, a tourist from Nowshera, expressed excitement during his honeymoon visit to Kalam Valley, enchanted by the beauty of Malam Jabba, Bahrain, Madain, and Gabin Jabba. Swat’s popularity lies in its diverse offerings, from river rafting and adventure snow to ice hockey and easy accessibility through the Swat motorway. The district boasts a rich historical legacy, being home to the primitive Gandhara civilization. Bakht Zada Khan, a senior research officer, highlighted the archaeological significance of Swat, attracting Buddhists, monks, and archaeologists from around the world. Tourists from various cities, including Peshawar, Lahore, and Islamabad, flock to Kalam, Malam Jabba, and Bahrain, seeking the thrill of snowfall. Unique to Swat is the annual skiing event at Malam Jabba, setting it apart from other destinations in the country. The Swat River, stretching 150 kilometres, provides adventure sports enthusiasts with a day trip filled with opportunities. Suitable areas like Fazagut, Fatehpur, Barikot, and Chakdara could become key attractions if developed for water rafting. Mahodand Lake, among over 50 high-altitude lakes, stands out as a major tourist attraction. With its blue waters and boat rides amid winter snowfall, it offers a unique experience. The snow-clad peaks of Falakser, Mankial, and Elum provide challenges for mountaineers and trekkers. In 2023, a record-breaking 16,988,946 tourists visited KP, including the Swat and Hazara divisions, emphasizing the province’s growing global recognition. To further boost tourism, an Rs238 million project is underway, focusing on winter sports and tourism events in various districts, including Swat. Additionally, the government is investing heavily in road infrastructure, connecting tourism hotspots with the Swat motorway. Operational tourism police in Malakand and Hazara divisions aim to facilitate tourists, with a special focus on the winter season. Travellers are advised to pack warm clothes and sweaters when visiting Upper Swat due to the chilly weather, ensuring a comfortable and enjoyable experience in this winter wonderland.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "umar khayam",
+          "sentiment": "none"
+        },
+        {
+          "name": "bakht zada khan",
+          "sentiment": "none"
+        },
+        {
+          "name": "kalam",
+          "sentiment": "none"
+        },
+        {
+          "name": "malam jabba",
+          "sentiment": "none"
+        },
+        {
+          "name": "gabin jabba",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "peshawar",
+          "sentiment": "none"
+        },
+        {
+          "name": "pakistan",
+          "sentiment": "none"
+        },
+        {
+          "name": "switzerland",
+          "sentiment": "none"
+        },
+        {
+          "name": "kalam valley",
+          "sentiment": "none"
+        },
+        {
+          "name": "lahore",
+          "sentiment": "none"
+        },
+        {
+          "name": "peshawar",
+          "sentiment": "none"
+        },
+        {
+          "name": "nowshera",
+          "sentiment": "none"
+        },
+        {
+          "name": "madain",
+          "sentiment": "none"
+        },
+        {
+          "name": "bahrain",
+          "sentiment": "none"
+        },
+        {
+          "name": "islamabad",
+          "sentiment": "none"
+        },
+        {
+          "name": "gandhara",
+          "sentiment": "none"
+        },
+        {
+          "name": "malam jabba",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-12T04:07:21.943+02:00",
+    "updated": "2024-01-12T04:07:21.943+02:00"
+  }
+]

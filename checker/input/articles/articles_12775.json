@@ -1,0 +1,426 @@
+[
+  {
+    "uuid": "ef4ead3b74a0ee141747a847b6a4003068bdabc8",
+    "url": "https://www.lesnumeriques.com/intra-ecouteur-true-wireless/airpods-pro-2-des-hackers-debloquent-l-aide-auditive-d-apple-avec-une-cage-de-faraday-n228857.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Arthur Letang",
+    "published": "2024-11-15T15:05:00Z",
+    "title": "AirPods Pro\\u00a02\\u00a0: des hackers d\\u00e9bloquent l'aide auditive d'Apple avec une cage de Faraday",
+    "text": "AirPods Pro 2 : des hackers débloquent l'aide auditive d'Apple avec une cage de Faraday [Arthur Letang](/auteur/662/arthur-letang) Uniquement disponible aux États-Unis, la fonction d'aide auditive des AirPods Pro 2 est verrouillée partout ailleurs dans le monde. Toutefois, dans un souci de nécessité, des ingénieurs Indiens ont trouvé un moyen de l'activer en contournant le système de géolocalisation d'Apple. À l’occasion du lancement du système d’exploitation iOS 18, Apple annonçait le déploiement d’une solution d’aide auditive complète réservée aux AirPods Pro 2. Si les écouteurs haut de gamme d’Apple sont désormais officiellement considérés comme des appareils auditifs par la FDA aux Etats-Unis, ce n’est toujours pas de cas dans le reste du monde. En effet, grâce à son système de géolocalisation, Apple bloque automatiquement cette fonction dans les pays dont la réglementation ne l’autorise pas. Si les Français sont bien sûr concernés par ces restrictions, les Indiens semblent particulièrement contrariés de ne pas y avoir accès. Une solution pour palier les aides auditives trop chères En Inde, les appareils auditifs sont hors de portée pour la plupart des utilisateurs, avec des prix oscillant entre 600 € et 10 000 € selon les modèles. Vendus autour de 279 €, les AirPods Pro 2 seraient donc une alternative moins onéreuse pour aider les personnes malentendantes. C’est le type d'économies que Rithwik Jayasimha a tenté de réaliser pour résoudre les problèmes d’audition de sa grand-mère, avant de constater l’indisponibilité de la fonction dans son pays. Mais en tant qu’ingénieur et passionné de technologie, il s'est attelé en compagnie de deux amis à contourner le système de géolocalisation d’Apple afin de déverrouiller la solution. Une cage de Faraday et un micro-ondes pour déverrouiller la fonction d'Apple Ensemble, ils sont parvenus à tromper Apple en faisant croire que leurs AirPods Pro 2 se trouvaient aux Etats-Unis grâce à un système ingénieux. Cela n’a pas été une mince affaire, puisque l’iPad utilisé pour la configuration était toujours localisé en Inde malgré une adresse IP masquée et des paramètres régionaux modifiés. En effet l’iPad utilise également les SSID Wi-Fi des routeurs aux alentours afin de déterminer précisément sa position malgré des données cellulaires désactivées. Afin d’isoler l’iPad des réseaux environnants, le groupe d’ingénieur l’a tout d’abord placé dans une cage de Faraday de fortune, conçue avec une boite en carton doublée de papier aluminium. Ils y ont par ailleurs logé une carte de simulation de localisation Wi-Fi, qui parcourt des centaines de réseaux situés à Menlo Park, en Californie. Afin de renforcer l’installation et brouiller plus efficacement les réseaux locaux, ils ont également fait fonctionner un micro-ondes à pleine puissance juste au-dessus de la cage. Pour réaliser cette opération, ils ont utilisé un MacBook pour demander à l’iPad enfermé dans la cage de redémarrer puis de réactiver son antenne Wi-Fi. Après de nombreux échecs et quelques réajustements de l’installation, ils sont enfin parvenus à lancer la configuration de l’aide auditive sur les AirPods Pro 2. Une expérience mise à profit pour les personnes malentendantes Maitrisant désormais le processus, les trois amis ont construit une véritable cage afin de le répéter dans de meilleures conditions. Ils ont ensuite déployé ce nouveau système au sein d'un \"camp de déverrouillage\", puis invité les propriétaires d’AirPods Pro 2 de la région de Bangalore à s'y rendre pour débloquer la fameuse solution d'aide auditive. Apple AirPods Pro (2e génération) Également très attendue aux quatre coins du monde, la solution d'Apple pourrait soulager de nombreuses personnes malentendantes n'ayant jamais passé le cap des aides auditives traditionnelles. En plus d'être coûteuses, l'allure de ces dernières rappelle souvent celles d'appareils médicaux. Plus accessible, un produit de consommation grand public comme station d'accueil permettrait donc aux personnes atteintes de pertes d'audition d'être moins complexées lors de leurs soins. Toutefois, il faut rappeler que les AirPods Pro 2 se présentent comme un complément n'ayant aucune prétention de remplacer les aides médicales. Suivez toute l'actualité des Numériques sur Google Actualités et sur la chaîne WhatsApp des Numériques",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://whatsapp.com/channel/0029VaF6vbW1t90TjSTDUy3s",
+      "https://news.google.com/publications/CAAqBwgKMJPPoQkw_umWAg?hl=fr&gl=FR&ceid=FR%3Afr",
+      "https://www.whatsapp.com/channel/0029VaF6vbW1t90TjSTDUy3s",
+      "https://www.news.google.com/publications/CAAqBwgKMJPPoQkw_umWAg?hl=fr&gl=FR&ceid=FR%3Afr",
+      "https://news.google.com/publications/CAAqBwgKMJPPoQkw_umWAg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T18:23:40.674+02:00",
+    "updated": "2024-11-15T18:23:40.674+02:00"
+  },
+  {
+    "uuid": "28a9584c657bec6c102d4785d5e39a2b799b2409",
+    "url": "https://www.bostonglobe.com/2024/09/05/sports/bruins-joonas-korpisalo-goaltender",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jim McBride",
+    "published": "2024-09-05T00:00:00Z",
+    "title": "New goaltender Joonas Korpisalo believes he’ll fit well with the Bruins - The Boston Globe",
+    "text": "Hug No. 1 from the No. 1 hugger is in the books.\n“I had one yesterday, so, finally,” Joonas Korpisalo said of his first interaction with fellow Bruins goalie Jeremy Swayman following Thursday’s captain’s practice at Warrior Arena.\nKorpisalo was acquired in June from the Senators along with forward Mark Kastelic and a 2024 first-round draft pick ( Dean Letourneau ) for Linus Ullmark , Swayman’s former hugging partner.\n“It came as a surprise, but as days went by, I was really happy,” said Korpisalo. “I am excited to get back here and just get to work with the boys.\n“Things happen for a reason. I’m here right now and super excited.”\nA nine-year veteran, Korpisalo is slated to be Swayman’s primary backup, though he could be thrust into a bigger role in the unlikely event that Swayman, currently a restricted free agent, can’t come to terms on a new contract.\nAdvertisement\n“I don’t know, we’ll see,” Korpisalo said. “We both do our best and I think the coaches know more. We just do our stuff, so we’ll see.”\nGet Starting Point A guide through the most important stories of the morning, delivered Monday, Wednesday, and Friday. Enter Email Sign Up Korpisalo (115-107-29, 3.06 goals against average) is particularly interested in working with goalie coach Bob Essensa , who has helped guide three Bruins netminders ( Tim Thomas , Tuukka Rask , and Ullmark) to Vezina Trophies.\n“Seeing how the Boston goalies play here, I’m really excited to see Bob and get to work with him and see what’s on his mind to make my game better,” said Korpisalo. “We’ve been talking a lot. He’s not here yet but we’ve been catching up with each other throughout the summer.”\nIdeally, the Bruins would love to see Korpisalo regain the form he flashed during a late-season run with the Kings in 2023 after he was traded by the Blue Jackets.\nBased largely on that performance, Korpisalo landed a five-year, $20 million deal with Ottawa. The Senators are paying 25 percent of that contract, which runs through 2027-28.\n“That was a good stretch,” said Korpisalo. “It was a good team. I got there pretty late, 10-15 games before the playoffs. But there’s something to learn from the playoffs. We didn’t go through. But I’ve had good stretches before, too. It’s just being myself. That’s pretty much it.”\nAdvertisement\nHe isn’t very worried about fitting into the Bruins’ systems.\n“We get only one job, it’s to stop the puck, so that’s the same in every team,” said Korpisalo. “Obviously how the defensemen play and what the play calls for when playing the puck. I think that’s the biggest thing for a goalie and special teams.”\nKorpisalo, who spent part of the summer in his native Finland, wore a vintage Bruce Springsteen “Born in the USA” concert t-shirt in the locker room.\n“I was in Helsinki a month ago, that’s where I bought this,” said Korpisalo, who listed “Born in the USA,” as his favorite Boss song. “Oh yeah, he came to Helsinki. He hasn’t been there many times. [I saw him] the first time in 2012 and again this summer.”\nKeeping busy Thursday’s session was broken into two parts, featuring a lot of on three-on-three work, leading to plenty of work for Swayman, Korpisalo, and Brandon Bussi ... Assistant coach John McLean ran the troops through some conditioning sprints (think Herb Brooks in Norway: “Again.”) just before the break ... The Bruins may have stumbled upon a new secret shootout weapon, as defenseman Drew Bavaro showed some nifty moves in beating Swayman on three consecutive attempts before Swayman thwarted the rook on back-to-back efforts ... Similar to Tuesday, captain Brad Marchand skated before the practice as he continues to ramp up his conditioning following three summer surgeries (elbow, groin, sports hernia) ... New Bruin Elias Lindholm was once a linemate of Johnny Gaudreau with the Flames. The deaths of Johnny and his brother Matthew Gaudreau last week were painful for Lindholm. “It’s been tough,” he said. “I’ve only talked to my wife about it. It gives me chills right now talking about it. It’s kind of emotional. He was a good friend. Yeah, it’s tough.” … Kristian Kostadinski , whom the Bruins drafted in the seventh round in 2023, has committed to Boston College for the 2025-26 academic year. The 6-foot-6-inch Swedish defenseman is set to play for Dubuque in the USHL this season. “I am extremely grateful and honored to announce my commitment to play Division 1 hockey at Boston College,” he wrote on Instagram.\nAdvertisement",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-06T00:46:45.370+03:00",
+    "updated": "2024-09-13T07:26:54.963+03:00"
+  },
+  {
+    "uuid": "31daf21f9b3bf00c8e1846d5361b7ad789f924cf",
+    "url": "https://www.herald.co.zw/police-red-flag-rogue-beer-outlets/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Herald",
+    "published": "2023-12-28T20:03:00Z",
+    "title": "Police red flag rogue beer outlets - The Herald",
+    "text": "Police red flag rogue beer outlets\nFreeman Razemba Crime Reporter\nPOLICE have identified and are conducting investigations on some unscrupulous beer outlets and individuals countrywide who were allegedly selling alcohol to juveniles on Christmas Day.\nAccording to police, the law will take its course on some of these beer outlets, including having their licences cancelled.\nThis comes after there are several videos circulating on social media in which children can be seen abusing alcohol. In one of the incidents which occurred in the city, police have since identified two of the children while investigations to identify the other eight are still in progress.\nIn an interview, national police spokesperson Assistant Commissioner Paul Nyathi confirmed that they had received reports on some beer outlets who were letting children buy and consume alcohol.\nHe said the beer outlets owners were likely to face prosecution once investigations have been completed.\n“There are allegations that there were some beer outlets who were letting in children to buy alcohol at their premises and we are investigating such cases,” he said.\nOn Wednesday, police said they had identified two minors aged 13 and 11 years who were part of a group of children seen abusing alcohol in a video clip that has gone viral on social media.\nThe footage was taken in central Harare and investigations into how the minors got the alcohol have intensified.\nTheir parents have also been located while investigations are also in progress to identify the other children.\nPolice said investigations have also revealed that these children had earlier on been seen interacting with some women who were sitting nearby and they suspect that they could have been their mothers.\nAlthough it is still not clear, police suspect that their mothers could have been the ones who have been bringing them to the city to conduct street begging, vending and other misdemeanours.\nIn most cases their mothers are the ones who benefit mostly from such activities.\n“We strongly suspect that the women these children were interacting with, could have been their mothers who sometimes send their children to beg for money and we are investigating all these issues,” Asst Comm Nyathi said.\nIn a statement this week, Asst Comm Nyathi confirmed that some of these children have been identified.\n“Reference is made to the social media videos which went viral on 26th December 2023 showing minors drinking alcohol in Harare Central Business District and subsequent police investigations into the incident.\n“The Zimbabwe Republic Police reports that the identity of two minors aged 13 and 11 years is now known. Their mother and father have also been identified.”\nHe said the father and mother separated in November 2022 with the two minors being taken into the custody of their mother in the Epworth area, Harare.\nIt is alleged that they later left home and engaged in street begging, vending and some misdemeanours in Harare Central Business District with other “street kids”.\nAsst Comm Nyathi said on Christmas Day, the two minors who were in the company of eight other children, obtained alcohol through a person who is yet to be identified by the police.\n“The minors sat on the veranda of a cellphone shop along Inez Terrez near a prominent food outlet. They consumed alcohol openly in public. The Zimbabwe Republic Police has also identified a local businessperson who recorded the viral social media video. He is currently assisting the Police to get full facts on the incident.\n“The Zimbabwe Republic Police is still pursuing the identity of the other minors who were in the company of the two and allegations that there were some women who were seated at the corner of Speke and Inez Terez Street who interacted with the minors.\n“It has also been confirmed that the minors were drinking alcohol while eating some chips and chicken,” Asst Comm Nyathi said.\nThe Southern African Alcohol Policy Alliance in Zimbabwe (SAAPA ZW) this week also said it was deeply concerned about the video circulating on social media showing children drinking alcohol in the streets of Harare on Christmas Day.\nThis is a grave violation of the Liquor Act, which regulates the trade in liquor in the country.\nThey called upon the authorities to take swift action and enforce the Liquor Act and also demanded that the authorities should uphold the law and punish the offenders.\nAn appeal was also made to the parents, guardians, teachers, religious leaders, and community members to play their role in educating and protecting the children from alcohol harm.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "paul nyathi",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "herald police",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:22:24.042+02:00",
+    "updated": "2023-12-29T00:22:24.042+02:00"
+  },
+  {
+    "uuid": "7f65f28bd4a323354c660772579c10f1b6ad00c2",
+    "url": "https://www.tycsports.com/san-lorenzo/san-lorenzo-inhibicion-fifa-gordillo-id555506.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TyC Sports.com",
+    "published": "2023-12-28T22:15:00Z",
+    "title": "BOMBA: la FIFA inhibió a San Lorenzo por una deuda con un exjugador del club - TyC Sports",
+    "text": "La FIFA inhibió a San Lorenzo por una deuda con Yeison Gordillo y no podrá realizar incorporaciones El jugador que en su momento fue pedido por el entonces técnico del Ciclón, Diego Dabove, jugó 34 partidos en el club y marcó dos goles. La Federación Internacional de Fútbol Asociación (FIFA) inhibió a San Lorenzo este jueves por la tarde por una deuda con Yeison Gordillo, el mediocampista fue comprado por el club a principios de 2021, por lo que no podrán realizar incorporaciones. El monto que adeuda el Ciclón es por un millón y medio de dólares, más intereses, y la notificación le llegó al club en octubre. La cifra se debe a un plan de pagos que el club acordó con el jugador en agosto de 2022, cuando con el pase en su poder se fue a Junior, debido a una deuda del sueldo. El mediocampista fue comprado cuando Diego Dabove estaba como técnico de San Lorenzo y lo pagaron 1.2 millones de dólares por el 80 por ciento de su pase. Sin embargo, un tiempo más tarde realizó un reclamo en Agremiados por falta de pago. Finalmente, arregló con el Ciclón y pasó al conjunto colombiano tras rescindir contrato. ¿Fanático del Ciclón? Enterate [todas las noticias de San Lorenzo](https://www.tycsports.com/san-lorenzo.html) a través de [TyC Sports](https://www.tycsports.com/). Seguí nuestra página en [Google News](https://news.google.com/publications/CAAqBwgKMNCPkwsw-8GoAw?oc=3&ceid=AR:es-419?utm_source=pienotaseo&utm_medium=sanlorenzo&utm_campaign=googlenews). También podés registrarte gratis e indicar tus [preferencias para recibir notificaciones](https://www.tycsports.com/cognito_blank.html) en tu browser o bajate nuestra APP (disponible en [Android](https://play.google.com/store/apps/details?id=com.mustmobile.tycmundial) & [iOS](https://itunes.apple.com/ar/app/tyc-sports/id887613794?mt=8?utm_source=pienotaseo&utm_medium=sanlorenzo&utm_campaign=ios)). Accedé a todas las [estadísticas de La liga profesional](https://tycsports.com/estadisticas/liga-profesional-de-futbol.html) No te pierdas nada",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Sport"
+    ],
+    "external_links": [
+      "https://itunes.apple.com/ar/app/tyc-sports/id887613794?mt=8?utm_source=pienotaseo&utm_medium=sanlorenzo&utm_campaign=ios)).",
+      "https://play.google.com/store/apps/details?id=com.mustmobile.tycmundial)",
+      "https://news.google.com/publications/CAAqBwgKMNCPkwsw-8GoAw?oc=3&ceid=AR:es-419?utm_source=pienotaseo&utm_medium=sanlorenzo&utm_campaign=googlenews).",
+      "https://news.google.com/publications/CAAqBwgKMNCPkwsw-8GoAw",
+      "https://itunes.apple.com/ar/app/tyc-sports/id887613794",
+      "https://www.itunes.apple.com/ar/app/tyc-sports/id887613794?mt=8?utm_source=pienotaseo&utm_medium=sanlorenzo&utm_campaign=ios)).",
+      "https://www.play.google.com/store/apps/details?id=com.mustmobile.tycmundial)",
+      "https://www.news.google.com/publications/CAAqBwgKMNCPkwsw-8GoAw?oc=3&ceid=AR:es-419?utm_source=pienotaseo&utm_medium=sanlorenzo&utm_campaign=googlenews).",
+      "https://play.google.com/store/apps/details"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:37:02.468+02:00",
+    "updated": "2023-12-29T00:37:02.468+02:00"
+  },
+  {
+    "uuid": "f212968067dd5395cdb042a5962c9a99b9402427",
+    "url": "https://www.peoplematters.in/article/employee-relations/the-indian-labour-code-2030-a-futuristic-vision-and-hope-29492",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Vikram Shroff",
+    "published": "2023-12-29T03:00:00Z",
+    "title": "Article: The Indian Labor Code 2030? A futuristic vision and hope — People Matters",
+    "text": "Its 2030. India is now the most populated and labor-intensive country in the world!\nRobots have taken over in India…albeit only the regular, menial, routine tasks. Designer babies at home, driverless electric cars & bikes on the road, drones in the sky, are the norm. The Indian economy is fully digitized. Other countries have started receiving FDI from India. Foreign companies list on Indian stock exchanges. Indian cryto-rupee, the world’s strongest currency, is used for international trade. The first trillion-rupee company is Indian. The upcoming Avengers 2030 game has primarily Indian cast. The 2032 Olympics will be held in India. India is finally at # 1 in World Bank’s Ease of Doing Business survey. And the list goes on…\nSo what will India’s labor and employment scenario look like in 2030? Here’s my vision as I time travel and go back to the future!\nIndia has further consolidated its 4 labor codes and implemented only one labor code - the Indian Labor Code 2030 (Labor Code). The Labor Code not only covers all forms of employee arrangements but also contract labor, consultants, retainers, apprentices, interns, gig & platform workers etc. Thanks to the Labor Code, unemployment in India is a myth.\nThe services sector remains the largest employment generating workforce and contributes over 75% of India’s GDP. The Labor Code contains specific provisions to address the needs of that sector. There is no longer any confusion on whether a technology company is an industrial establishment or whether a techie is a worker.\nThanks to the Labor Code, the employer-employee relationship continues to constantly thrive and break new frontiers. A 3-page document (which can be digital signed and maintained) with colourful pictures and video links has replaced the 25-page employment contract and 100-page employee handbook. Litigation under the Labor Code is online and concluded within 6 months.\nIndia is no longer a 9 to 6 job economy. While employees have a right to disconnect, they have voluntarily chosen to remain connected in a globalized world! Bots have replaced offices. Tele-working, flexi-working, remote working, etc. are common across workplaces. Infact, India has become the hub of new age employment practices. India exports best HR practices.\nIts not just about a workman becoming a worker. The provisions of the Labor Code are completely gender neutral. For example, the (erstwhile) law on prevention of sexual harassment at the workplace protects not just women but also men and LGBTIQ. Pay equity has finally been achieved in India.\nThe Labor Code focuses on ensuring employee health, safety, welfare, well-being and social security. Employers can choose private health insurance coverage although most prefer to continue with the world-class ESI administered hospitals.\nNot just reverse brain drain, but there is a constantly increasing demand of foreigners to work in India. Our immigration regime for work visas remains supportive. India has realized that its economy will continue to grow by attracting and retaining talent from world over. Several countries are wanting India to sign social security agreements.\nPerformance evaluation is no longer annual - there is real time feedback thanks to technology. Companies are truly merit driven and performers are rewarded instantly. HR’s role has progressed towards building culture, promoting ethics and making the organisations a better place to work. The entire ecosystem supports and encourages entrepreneurship, innovation and internal venture capitalism.\nThe employment relationship has become trust-based. The Labor Code does not specify annual leave or work hours. In fact, employers are no longer tracking annual leave. Parental leave is 52 weeks - not just maternity but also paternity leave - a strong message that starting a family is equal responsibility.\nEmployee data privacy provisions have become relevant, progressive and realistic - an example for the world to follow. Data localization is no longer mandatory and infact does not matter since most leading companies are India headquartered. Aadhaar has become the single source of employee identification.\nCompliances under the Labor Code are fully online. Employers can self certify. Labor inspectors have truly become facilitators. There is significant harmony between employers and trade unions - it is no longer an us v. them mindset.\nIt's an easy come, easy go environment. There is no longer a need for government approval to close down an establishment - instead, notice period and severance amounts have been enhanced to compensate for job loss, there is unemployment insurance and health benefits continues until new employment.\nComing back to the present, the country needs to continue to focus on labor reforms and strike the right balance between the employer and employee interests. The journey will need to involve all stakeholders including the labor unions by building a mindset that we are all equal partners in India’s growth story.\nPlus Ultra (+U), a fictional secret society featured in the Hollywood movie Tomorrowland, comprised of the greatest minds throughout history. Their motto is \"Cras es Noster\" which means \"Tomorrow is Ours\". By creating Tomorrowland, members hoped to build a technologically and scientifically advanced world without hindrance or interference. Put our country’s best thinkers together and a comprehensive and futuristic labor code can soon become a reality. Its time to put aside our differences and self-interest, and focus on progress and innovation. Hopefully that journey begins now.\nThe above ideas are just an indicative list. It's time to reimagine a global India. The need of the hour is a brave new labor law for a brave new India.\nThis article was first published in May 2021.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Labor",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "world bank",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T05:14:05.415+02:00",
+    "updated": "2023-12-29T05:14:05.415+02:00"
+  },
+  {
+    "uuid": "bbd717835102c527ce381ee6d6fa3f25ba0e7dd6",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrft3929952.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:34:00Z",
+    "title": "沪深300自由现金流ETF摩根（563900）跌1.06%，半日成交额1126.86万元|沪深300_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，沪深300自由现金流ETF摩根（563900）跌1.06%，报1.029元，成交额1126.86万元。沪深300自由现金流ETF摩根（563900）重仓股方面， 上港集团 截止午盘跌1.03%。\n沪深300自由现金流ETF摩根（563900）业绩比较基准为沪深300自由现金流指数收益率，管理人为摩根基金管理(中国)有限公司，基金经理为毛时超，成立（2025-04-24）以来回报为3.91%，近一个月回报为1.56%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Economy, Business and Finance->market and exchange",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service",
+      "Social Issue->demographics",
+      "Social Issue->social services",
+      "Social Issue->population and census"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:36:44.618+03:00",
+    "updated": "2025-06-20T05:05:05.000+00:00"
+  },
+  {
+    "uuid": "d04332e893b385fcebe52bc16bf40d576d353a76",
+    "url": "https://it.reseauinternational.net/netanyahou-se-fait-damer-le-pion-par-le-ruse-biden-non-cest-biden-qui-est-manipule/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alastair Crooke",
+    "published": "2023-12-28T07:33:00Z",
+    "title": "Netanyahu viene sconfitto dall’“astuto” Biden? No, è Biden ad essere manipolato",
+    "text": "- supporto Réseau International Abbiamo bisogno di te da Alastair Crook Biden potrebbe credere che la sua “lunga esperienza” lo metta dalla “parte buona” quando si tratta di giudicare gli eventi, ma la sua esperienza viene da un’altra epoca. Biden ha sorriso e ha risposto “Lo so” quando a [gli disse l'ospite](https://www.haaretz.com/israel-news/2023-12-19/ty-article/.premium/biden-knows-that-netanyahu-is-not-a-partner-at-all-for-postwar-gaza/ 18c-81e8-d301-a3ac-87e9da380000?utm_source=mailchimp&utm_medium=Content&utm_campaign=daily-brief&utm_content=cf92cd82d2) che Netanyahu stava trascinando gli Stati Uniti in un conflitto di civiltà – e che Netanyahu incolpava lui (Biden), lamentandosi del fatto che la Casa Bianca voleva impedire a Israele di andare alla radice del problema, ribattendo i problemi di Gaza e \"il giorno dopo \". In pratica, Netanyahu sta semplicemente mettendo in scena una classica manovra di fiancheggiamento, tentando di aggirare Biden evidenziando il “conflitto più ampio” con l’Iran: “Perché tormentarmi su Gaza quando infuria un conflitto monumentale”, suggerisce Biden con esasperazione. «Questa è una battaglia contro l'asse iraniano che ora minaccia di chiudere lo stretto marittimo di Bab el-Mandeb... Questo è l'interesse... dell'intera comunità civileNetanyahu ha detto – non molto sottilmente. La reazione di Biden è un sorriso compiaciuto, suggerendo che pensa di poter superare Netanyahu (“la volpe”). Questo è l’approccio di Biden: cerca di sminuire l’accusa di Netanyahu secondo cui gli Stati Uniti sono ostruttivi organizzando una sfilata di visite ad alto livello che ribadiscono il loro incrollabile sostegno a Israele – e di prevenire Bibi insistendo sul fatto che lui (Biden) si prenderà cura dei problemi che non riguardano Gaza (Hezbollah, Yemen, ecc.). Quindi gli Stati Uniti riuniscono una forza marittima per affrontare Ansarullah nello Yemen; l’amministrazione Biden adotterà misure per sanzionare i coloni violenti in Cisgiordania; avverte Baghdad di allineare Hashad al Sha’abi; e i suoi inviati a Beirut stanno cercando di stringere un “accordo diplomatico” che includa il ritiro delle forze Radwan di Hezbollah attraverso il fiume Litani nel Libano meridionale e affronti anche le controversie irrisolte sul confine tra Israele e Libano. Biden si vanta di essere un giocatore molto esperto in politica estera e crede di essere troppo astuto per i trucchi di Bibi. Ma forse Netanyahu, nonostante i suoi tanti difetti, comprende meglio la regione? Biden è chiaramente preso di mira. Anche se non lo riconosce. Netanyahu sa che è “fuori discussione” che Hezbollah deponga le armi e si ritiri a nord del Litani. Lui lo sa e può quindi aspettare il fallimento diplomatico di Biden prima di dire che i circa 70 cittadini israeliani sfollati dalle città del nord dopo il 000 ottobre devono “tornare a casa” e che se gli Stati Uniti non riusciranno a rimuovere Hezbollah dalla recinzione di confine, allora lo farà Israele. . Netanyahu sta utilizzando l'iniziativa diplomatica libanese di Biden per costruire una giustificazione europea per un'operazione israeliana in poche settimane per allontanare Hezbollah dal confine con Israele. (Dall’inizio della guerra di Gaza è stata pianificata un’operazione israeliana contro Hezbollah). Netanyahu sa anche che il controllo della violenza dei coloni in Cisgiordania non è sua responsabilità, ma quella dei suoi partner, vale a dire i ministri Ben Gvir e Smotrich. Né lui né Biden possono dettare cosa dovrebbero fare: da mesi stanno aumentando silenziosamente la pressione sui palestinesi della Cisgiordania. Infine, Netanyahu conosce gli Houthi: non si faranno scoraggiare dalla flottiglia marittima di Biden. Saranno invece felici di trascinare l’Occidente nel pantano del Mar Rosso. Piaccia o no, la tattica di Biden, che consiste nel contenere e anticipare l'escalation regionale facendo degli stessi Stati Uniti l'attore principale - al posto di Israele -, sta chiaramente trascinando gli Stati Uniti più in profondità nel conflitto. Biden crede che gli Houthi se ne andranno in silenzio perché la Gerald Ford è ancorata al largo di Bab Al-Mandeb, o che Hezbollah accetterà le istruzioni di Amos Hochstein? Il secondo motivo per cui Biden è fuori controllo è che vede il problema di Israele come il problema di Bibi, impegnandosi quindi in una politica personale. Naturalmente, è vero che il Primo Ministro israeliano modella la politica israeliana in base alle proprie esigenze di sopravvivenza, ma fermatevi un attimo a ciò che il presidente Herzog ha detto martedì durante un [manutenzione](https://s2.washingtonpost.com/3c2932e/6582784c5f58251d29722894/596a495a9bbc0f0e09e976aa/11/60/) organizzato dall’Atlantic Council, un importante think tank con sede a Washington. Herzog è stato a lungo considerato decisamente “conciliante” e “di sinistra” dall’establishment della politica estera di Beltway – prima della guerra – rispetto a Netanyahu. Nell’intervista, Herzog ha detto: “Intendiamo prendere il controllo dell’intera Striscia di Gaza e cambiare il corso della storia\". Ha detto che l’attuale conflitto è uno scontro tra “un insieme di valori di civiltà\" e ha chiamato Hamas (in termini puramente manichei) \"forza del male\", aggiungendo che Israele non tollererebbe più che Gaza fosse una \"piattaforma per l’Iran – trascinando tutti nell’abisso dello spargimento di sangue e della guerra'. La convergenza tra Herzog e Bibi riflette forse un cambiamento più ampio in Israele – un cambiamento strategico che va ben oltre l’ossessione personale di Biden per Bibi: Dal 7 ottobre il [New York Times](https://www.nytimes.com/2023/12/19/world/middleeast/israel-oct-7-left-wing-peace.html) e [Jerusalem Post](https://www.jpost.com/arab-israeli-conflict/gaza-news/article-774822) riferiscono che il 36% degli israeliani si è spostato decisamente a destra su una serie di questioni politiche, compreso il sostegno ai coloni della Cisgiordania, il sostegno ai politici di estrema destra e persino il trasferimento degli insediamenti all’interno della Striscia di Gaza. Anche se l’opinione pubblica nei confronti di Netanyahu sta cambiando [crollare](https://www.nytimes.com/2023/12/02/world/middleeast/israel-netanyahu-hamas-war.html), non si prevede che il suo governo cada. E anche se ciò dovesse accadere, il punto più importante da comprendere è che il sostegno alle politiche sostenute dal governo della destra radicale di Netanyahu sta crescendo, e rapidamente. La destra israeliana [crede](https://www.jpost.com/arab-israeli-conflict/gaza-news/article-774822) in generale al controllo israeliano della Cisgiordania e di Gaza, e molti israeliani di destra sono contrari al principio di uno Stato palestinese che esista accanto a Israele. Ciò si riflette in molte delle attuali politiche del governo, che hanno contribuito ad espandere gli insediamenti israeliani in Cisgiordania e a rendere la Striscia di Gaza invivibile per i palestinesi. Dall’altro lato dello spettro c’è la sinistra israeliana. IL Jerusalem Post rileva che la sinistra è ampiamente convinta che Israele “occupa” la Cisgiordania e che la fine del conflitto può essere raggiunta solo ponendo fine all’occupazione e consentendo una soluzione a due Stati. Ma nessuno è esplicito riguardo all’ubicazione di questo secondo Stato: uno Stato palestinese. Legalmente si tratterebbe di Gaza, della Cisgiordania e di parte di Gerusalemme. Ma chi potrebbe imporlo? Chi espellerebbe i coloni dalla Cisgiordania? Per molti israeliani, lo stato di occupazione dell’“apartheid” degli ultimi 30 anni era la “soluzione praticabile dei due Stati”, ma i suoi pilastri (separazione strutturale, imposizione militare e deterrenza), che sembravano promettere a molti israeliani la “tranquillità” che avevano quanto sperato è andato in frantumi il 7 ottobre. «Il trauma causato dagli eventi del 7 ottobre ha scosso la società israeliana. Li ha portati a mettere in discussione i principi fondamentali della sicurezza nelle loro case“, ha dichiarato l’editorialista israeliano Tal Schneider: «Ora chiedono di più: più soldati, più protezione, politiche più dure'. «Molte persone di destra' [scritto](https://www.jpost.com/arab-israeli-conflict/gaza-news/article-774822) Ariella Marsden nel Jerusalem Post\"e una minoranza di persone a sinistra, hanno visto nel 7 ottobre la prova che la pace con i palestinesi è impossibile\". Non sorprende che l'attenzione si sia concentrata sul ritiro della popolazione, che va di pari passo con il tema della “nuova guerra d'indipendenza” di Netanyahu. In breve, Biden potrebbe credere che la sua “lunga esperienza” lo metta dalla “parte buona” quando si tratta di giudicare gli eventi. Tuttavia, la sua esperienza risale ad un'altra epoca. L’Israele politico che conosceva è finito: ha raggiunto la fine del percorso per quanto riguarda il vecchio paradigma del suo modus vivendi palestinese. La demografia non spinge più a “dare” uno Stato ai palestinesi, ma piuttosto a liberare la terra da tutte le “popolazioni ostili”. Gli israeliani stanno cercando la loro nuova soluzione. E proprio come la resistenza di Hamas ha messo in luce nuovi modi di condurre la guerra, la “lunga esperienza” di Biden, esemplificata dall’invio di portaerei e navi degli anni ’1960 a rimanere al largo, nell’era dei droni intelligenti e agili, spesso irrintracciabili e dei missili a ricerca, evidenzia qualcosa di altrettanto passato. . Gli Stati Uniti sono oggi direttamente impegnati in Yemen, Libano, Cisgiordania, Iraq e Siria. E più a lungo si estenderà la guerra, più gli Stati Uniti saranno ritenuti almeno parzialmente responsabili: hai deliberatamente lasciato che Gaza venisse distrutta, e ciò che viene distrutto è tuo. Ciò che verrà successivamente distrutto apparterrà anche a te. Due milioni di abitanti di Gaza indigenti saranno tutti rifugiati senza un governo che fornisca funzioni e servizi di base. Netanyahu ha capito? Certo. Alla stragrande maggioranza degli israeliani importa? NO. Ma il resto del mondo si preoccupa e vede una macchia oscura diffondersi sulla mappa e infiltrarsi in Occidente. Basteranno la flottiglia statunitense sul Mar Rosso, gli sforzi diplomatici in Libano, gli appelli frenetici alla Cina per chiedere aiuto nel contenere l’Iran e gli sforzi a Baghdad per fermare il piano dell’Asse? No – la Resistenza deve vedere che gli Stati Uniti stanno annaspando e che Israele – sopraffatto dalla rabbia – sta invitando positivamente al prossimo passo verso l’escalation di un conflitto più ampio, diffuso e progressivo. fonte: [Fondazione per la cultura strategica](https://strategic-culture.su/news/2023/12/25/netanyahu-outsmarted-by-wily-biden-no-biden-one-being-played/) traduction [Réseau International](https://it.reseauinternational.net/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://strategic-culture.su/news/2023/12/25/netanyahu-outsmarted-by-wily-biden-no-biden-one-being-played/)",
+      "https://www.haaretz.com/israel-news/2023-12-19/ty-article/.premium/biden-knows-that-netanyahu-is-not-a-partner-at-all-for-postwar-gaza/0000018c-81e8-d301-a3ac-87e9da380000?utm_source=mailchimp&utm_medium=Content&utm_campaign=daily-brief&utm_content=cf92cd82d2)",
+      "https://www.nytimes.com/2023/12/19/world/middleeast/israel-oct-7-left-wing-peace.html)",
+      "https://www.nytimes.com/2023/12/02/world/middleeast/israel-netanyahu-hamas-war.html),",
+      "https://s2.washingtonpost.com/3c2932e/6582784c5f58251d29722894/596a495a9bbc0f0e09e976aa/11/60/)",
+      "https://www.jpost.com/arab-israeli-conflict/gaza-news/article-774822)",
+      "https://jpost.com/arab-israeli-conflict/gaza-news/article-774822)",
+      "https://www.haaretz.com/israel-news/2023-12-19/ty-article/.premium/biden-knows-that-netanyahu-is-not-a-partner-at-all-for-postwar-gaza/0000018c-81e8-d301-a3ac-87e9da380000",
+      "https://nytimes.com/2023/12/19/world/middleeast/israel-oct-7-left-wing-peace.html)",
+      "https://nytimes.com/2023/12/02/world/middleeast/israel-netanyahu-hamas-war.html),",
+      "https://www.s2.washingtonpost.com/3c2932e/6582784c5f58251d29722894/596a495a9bbc0f0e09e976aa/11/60/)",
+      "https://haaretz.com/israel-news/2023-12-19/ty-article/.premium/biden-knows-that-netanyahu-is-not-a-partner-at-all-for-postwar-gaza/0000018c-81e8-d301-a3ac-87e9da380000?utm_source=mailchimp&utm_medium=Content&utm_campaign=daily-brief&utm_content=cf92cd82d2)",
+      "https://www.strategic-culture.su/news/2023/12/25/netanyahu-outsmarted-by-wily-biden-no-biden-one-being-played/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:09:39.166+02:00",
+    "updated": "2023-12-29T02:09:39.166+02:00"
+  },
+  {
+    "uuid": "de2ec93dcf9aef64e3fe868bd3d3ec0847fb9d87",
+    "url": "https://www.advfn.com/stock-market/stock-news/94739127/qai-launches-quantum-computing-courses-with-1-mil",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "advfn.com",
+    "published": "2024-10-17T17:12:00Z",
+    "title": "QAI launches Quantum Computing Courses with $1 million grant from the National Security Consortium (NCC)",
+    "text": "New courses will educate business leaders on quantum computing and teach technology professionals how to prepare for potential quantum cyber security threats.\nSURREY, BC , Oct. 17, 2024 /CNW/ - The Quantum Algorithms Institute (QAI) has been awarded an up to $1 million grant by the National Cybersecurity Consortium for its training resources in the commercial quantum computing space.\nThe training, offered by QAI cybersecurity experts, aims to equip cybersecurity professionals and industry leaders across different sectors with the knowledge they require on the emerging quantum sector and best practices needed to ensure they are properly protected from emerging quantum cyber security threats.\nThe resources are being developed by QAI cybersecurity and professional development teams in collaboration with Field Effect, the Canadian Information Processing Society (CIPS), Beauceron Security and Durham College.\n\"This support is a welcome and exciting development in protecting Canada's quantum future\" stated Louise Turner , Chief Executive Officer at QAI. \"As industries increase adoption of commercial quantum computing technologies, industry leaders and sectors need to ensure their quantum assets are properly protected. This grant allows us to put the right tools into the right hands to build a strong commercial quantum computing space here in BC and across Canada .\"\nThis training resource is part of a suite of comprehensive resources offered by QAI. These include:\nIntro to Quantum Computing for STEM Professionals (Live and accepting applicants) Quantum Technology for Non-Techies (qTNT) (Live and accepting applicants) D-Wave Quantum Computing @ QAI IBM Quantum System One Access @ QAI Quantum Software Engineering Bootcamp \"This is at the heart of what we do at QAI,\" explained Turner. \"Through our expertise, we give professionals the literacy and best-practices they need to securely adopt quantum technologies for their organization, industry or sector.\"\nThe courses and resources QAI provides vary in size and scope and cover topics ranging from technology adoption to innovation and cybersecurity preparedness. This latest funding announcement ensures that QAI experts can properly equip the Canadian business community with the knowledge and tools to keep their technology secure.\nFor more information about QAI, its work around quantum technology adoption, and how its resources could benefit your organization or industry, visit QAI's website.\nAbout Quantum Algorithms Institute (QAI)\nThe Quantum Algorithms Institute is a collaboration between government, the academic community, and Canada's growing sector of quantum computing companies. The Quantum Algorithms Institute works with companies and academic institutions to help unlock the benefits of real-world applications of quantum solutions to increase quantum literacy and grow the quantum talent pool in BC As a non-profit organization with an inclusive approach across quantum technologies, the Quantum Algorithms Institute is your trusted source for stepping into the quantum future: making the adoption of quantum technologies accessible, tangible, and collaborative for everyone.\nSOURCE Quantum Algorithms Institute\nCopyright 2024 Canada NewsWire",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+      "https://www.static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "de2ec93dcf9aef64e3fe868bd3d3ec0847fb9d87",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-10-18T00:35:39.555+03:00",
+    "updated": "2024-10-18T00:35:39.555+03:00"
+  },
+  {
+    "uuid": "9ffa83e9beacf71e541c3a96e4734e386ff59024",
+    "url": "https://ground.news/article/lindsay-lohan-embracing-her-postpartum-body-is-a-lesson-on-self",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "E! News",
+    "published": "2024-03-14T00:00:00Z",
+    "title": "Ground News - Lindsay Lohan Embracing Her Postpartum Body Is a Lesson on Self",
+    "text": "You'll want to hear these confessions of a new mom. In fact, Summary by E! News Lindsay Lohan —who welcomed 7-month-old son Luai with husband Bader Shammas—is opening up about why she's embracing her postpartum... 1 Articles 1 Articles All Left Center Right [] E! News You'll want to hear these confessions of a new mom. In fact, Lindsay Lohan—who welcomed 7-month-old son Luai with husband Bader Shammas—is opening up about why she's embracing her postpartum... 5 hours ago·United StatesRead Full Article Think freely.Subscribe and get full access to Ground NewsSubscriptions start at $9.99/year [Subscribe](/subscribe) Not enough coverage to generate an Article Assistant. Ground News Article Assistant Coverage Details Total News Sources0Leaning Left0Leaning Right0Center1Last Updated3 hours agoBias Distribution 100% Center Bias Distribution - 100% of the sources are Center 100% Center C 100% Factuality To view factuality data please Upgrade to Premium Ownership To view ownership data please Upgrade to Vantage Sources are mostly out of (0)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "lindsay lohan",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "luai",
+          "sentiment": "none"
+        },
+        {
+          "name": "bader shammas",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "·united",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-15T00:23:30.602+02:00",
+    "updated": "2024-03-15T00:23:30.602+02:00"
+  },
+  {
+    "uuid": "c8834faaeeb6ac523606f7f9527b0dc4dc6270e0",
+    "url": "https://gbtimes.com/why-does-mcdonalds-hurt-my-stomach",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "GB Times",
+    "published": "2024-08-30T06:49:00Z",
+    "title": "Why does mcdonalds hurt my stomach?",
+    "text": "Why Does McDonald’s Hurt My Stomach?\nAs a convenient and affordable fast-food option, McDonald’s is a popular choice for many. However, for some individuals, a trip to McDonald’s can lead to unpleasant stomach discomfort. If you’re one of the many people who experience stomach pain or discomfort after eating at McDonald’s, you’re not alone. In this article, we’ll explore the reasons behind this phenomenon and offer some insights on how to alleviate the symptoms.\nWhat’s in McDonald’s Food?\nBefore we dive into the possible reasons why McDonald’s might be hurting your stomach, let’s take a closer look at what’s in their food. McDonald’s menu items typically contain a combination of processed meats, high-sodium condiments, artificial preservatives, and refined carbohydrates . Here are some examples:\nBurgers : Made with 100% beef patties, processed cheese, pickles, and onions on a sesame seed bun.\nFries : Cooked in a blend of 75% vegetable oil and 25% beef tallow.\nSalads : Tossed with high-sodium dressings, topped with croutons, cheese, and processed meats.\nBreakfast items : Featuring scrambled eggs, processed sausage, and hash browns cooked in a blend of oil and lard.\nCommon Culprits Behind Stomach Discomfort\nSo, what could be the reasons behind the stomach discomfort? Here are some possible explanations:\nHigh Sugar and Salt Content : McDonald’s food is notoriously high in sugar and salt. A single Big Mac can contain over 1,000mg of sodium and 40g of sugar! Excessive sugar and salt intake can lead to digestive issues, such as bloating, gas, and stomach cramps.\nProcessed Ingredients : As mentioned earlier, McDonald’s menu items often contain processed meats, artificial preservatives, and refined carbohydrates. These ingredients can be difficult for the body to digest, leading to stomach discomfort and potentially even symptoms like diarrhea or constipation.\nLack of Fiber and Nutrients : Fast food tends to be low in fiber and essential nutrients. A diet lacking in fiber can disrupt the balance of gut bacteria, leading to digestive issues. McDonald’s food may also be low in vitamins, minerals, and antioxidants, which are crucial for maintaining a healthy digestive system.\nFood Allergies and Intolerances : Some individuals may be allergic or intolerant to certain ingredients found in McDonald’s food, such as soy, gluten, or lactose. A reaction to these ingredients can cause symptoms like stomach pain, bloating, and diarrhea.\nThe Science Behind McDonald’s and Stomach Discomfort\nResearch has shed some light on the mechanisms behind why McDonald’s might be affecting your stomach. Here are some findings:\nGut-Brain Connection : The gut microbiome plays a crucial role in digestive health and is linked to the central nervous system. An imbalance of gut bacteria can lead to symptoms like stomach discomfort, bloating, and irritable bowel syndrome (IBS).\nInsulin Resistance : Consuming high amounts of sugar and refined carbohydrates can lead to insulin resistance, a precursor to metabolic disorders like type 2 diabetes and obesity. Insulin resistance can also cause digestive issues, such as bloating, gas, and stomach pain.\nChronic Inflammation : A diet high in processed foods and low in nutrients can lead to chronic inflammation, which is linked to various health problems, including digestive issues.\nWhat Can You Do About It?\nIf you’re experiencing stomach discomfort after eating at McDonald’s, here are some strategies to help alleviate the symptoms:\nRead Labels : Be mindful of the ingredients in your food and choose items with whole, unprocessed ingredients.\nEat in Moderation : Enjoy fast food in moderation and balance it with whole, nutrient-dense meals.\nDrink Plenty of Water : Staying hydrated can help alleviate digestive issues.\nConsider Alternative Options : Try healthier fast-food options or cooking meals at home using whole, fresh ingredients.\nConclusion\nMcDonald’s food may be convenient and affordable, but it’s not always the best choice for our stomachs. By understanding the possible reasons behind stomach discomfort and implementing some simple strategies, you can reduce the symptoms and maintain a healthier digestive system.\nHere’s a summary of the key points:\nBenefits of a Balanced Diet\nProvides essential nutrients and fiber\nSupports healthy gut bacteria\nReduces chronic inflammation\nLowers risk of chronic diseases\nTips for a Healthier Fast-Food Experience\nRead labels and choose whole, unprocessed ingredients\nEat in moderation and balance with whole meals\nDrink plenty of water\nConsider alternative options\nBy being mindful of the ingredients and making conscious choices, you can enjoy fast food without compromising your stomach health. Remember, a healthy gut is the foundation of overall well-being – take care of it!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "mcdonald’s food",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T10:49:52.482+03:00",
+    "updated": "2024-08-30T10:49:52.482+03:00"
+  }
+]

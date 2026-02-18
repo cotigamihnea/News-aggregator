@@ -1,0 +1,334 @@
+[
+  {
+    "uuid": "203e3be0283a03305f543d43a8278390f1481a0c",
+    "url": "https://www.bluradio.com/salud/gobierno-actualiza-plataforma-digital-para-verificar-vacuna-de-fiebre-amarilla-rg10",
+    "ord_in_thread": 0,
+    "author": "Yessica Gutiérrez",
+    "published": "2025-04-23T22:30:00Z",
+    "title": "MiVacuna, la plataforma para verificar vacuna de fiebre amarilla",
+    "text": "Ante la creciente preocupación por el brote de fiebre amarilla\n en diversas regiones del país y la declaratoria de emergencia sanitaria, el Ministerio de Salud y Protección Social ha actualizado la plataforma digital anteriormente utilizada para consultar el carné de vacunación contra el COVID-19.\n Esta herramienta, ahora denominada MiVacuna #FiebreAmarilla se ha transformado para facilitar el acceso a la información relacionada con la inmunización contra esta enfermedad, tanto para ciudadanos colombianos como para extranjeros vacunados dentro del territorio nacional.\nEl ministro de Salud, Guillermo Alfonso Jaramillo, informó que esta plataforma ya integra el registro de más de 14 millones de personas que han recibido la vacuna contra la fiebre amarilla\n desde el año 2013. A través de la plataforma, los usuarios pueden consultar su carné digital ingresando algunos datos básicos, aceptando los términos de uso y accediendo a un documento oficial que certifica su estado vacunal.\nUna de las principales novedades de esta actualización es el rol que ahora cumplen las Instituciones Prestadoras de Salud (IPS). Estas entidades son responsables de registrar en línea los datos de vacunación de cada paciente. La plataforma se actualiza entre 24 y 48 horas después de la aplicación de la vacuna, permitiendo así mantener actualizada la base de datos nacional. No obstante, si una persona cuenta con su carné físico,\n pero su información no aparece en la plataforma, podrá acudir al punto de vacunación donde recibió la dosis para solicitar la incorporación manual de sus datos. Este proceso garantiza que nadie quede por fuera del sistema digital y que el control epidemiológico sea más preciso y eficiente.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Health->vaccine",
+      "Health->communicable disease",
+      "Health->public health",
+      "Social Issue->social services",
+      "Social Issue->public housing",
+      "Politics->government policy",
+      "Politics->public inquiry",
+      "Politics->healthcare policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Guillermo Alfonso Jaramillo",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Ministerio de Salud y Protección Social",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Instituciones Prestado",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:31:31.817+03:00",
+    "updated": "2025-04-24T01:31:31.817+03:00"
+  },
+  {
+    "uuid": "99e8c56ffd3088f1bd9b4116bd78f68288e59db8",
+    "url": "https://www.jahannews.com/news/940499/تصویری-خانواده-ای-ژن-برتر",
+    "ord_in_thread": 0,
+    "author": "jahannews.com",
+    "published": "2025-07-17T04:52:53Z",
+    "title": "تصویری از خانواده‌ای با ژن برتر | جهان نيوز",
+    "text": "یکی از کاربران توئیتری تصویری از شهید باقری، همسر و دختر وی که هر سه در حملات رژیم صهیونیستی به شهادت رسیدند را منتشر کرده است.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "persian",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "topics": [
+      "War, Conflict and Unrest->act of terror",
+      "Human Interest->funeral and memorial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:52:53.955+03:00",
+    "updated": "2025-07-17T05:00:03.000+00:00"
+  },
+  {
+    "uuid": "df561c0d3321dd2f0d8499dd78e92f5eb0dc8527",
+    "url": "https://www.noticiasaominuto.com/lifestyle/2718061/limite-o-consumo-destes-alimentos-podem-aumentar-a-ansiedade",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Notícias ao Minuto",
+    "published": "2025-01-31T06:02:00Z",
+    "title": "Limite o consumo destes alimentos. Podem aumentar a ansiedade",
+    "text": "Pode estar a ficar mais ansioso e a culpa é da sua alimentação. Existem algumas sugestões que afetam o organismo a vários níveis. O melhor é limitar o consumo de alguns alimentos prejudiciais.\nNa sua conta de TikTok, Jin Macaranas revelou alguns alimentos que podem ser prejudiciais. Conheça-os.\nCafeína\n\"Pode aumentar a frequência cardíaca e desencadear nervosismo.\"\n'Fast food'\n\"São ricos em açúcar e gorduras não saudáveis, o que pode levar a mudanças de humor.\"\nÁlcool\n\"Interrompe os neurotransmissores cerebrais e leva a emoções negativas.\"\nFritos e gorduras\n\"Pode aumentar o risco de ansiedade ao afetar as bactérias intestinais, causar inflamação e prejudicar a função cognitiva.\"\nBebidas açucaradas\n\"Podem causar picos e quedas rápidas de açúcar no sangue e aumentar a ansiedade.\"\nLeia Também: Combata a falta de vitamina D no inverno com estes alimentos comuns",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Health->diet",
+      "Health->mental health and disorder",
+      "Social Issue->social services",
+      "Social Issue->social condition",
+      "Lifestyle and Leisure->wellness",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T09:21:56.378+02:00",
+    "updated": "2025-01-31T09:21:56.378+02:00"
+  },
+  {
+    "uuid": "dc5fddecdc8d68a5e34750188b283d1976706a6e",
+    "url": "https://www.orientaldaily.com.my/news/business/2025/07/17/747601",
+    "ord_in_thread": 0,
+    "author": "黄丽珍",
+    "published": "2025-07-17T04:47:00Z",
+    "title": "收购案破局　7-11母企股价重挫逾9%",
+    "text": "（东京17日讯）加拿大便利超商巨头Alimentation Couche-Tard（ACT）周三（16日）以“持续缺乏诚信”为由，宣布撤回对7-11母企、日本零售商Seven & i控股（Seven & i Holdings）470亿美元（约1995亿令吉）收购要约。受收购案破局消息冲击，Seven & i 今日（17日）股价重挫逾9%。\n谈判一年 没诚意不沟通\n综合媒体报导，ACT周三指责Seven & i控股在近一年收购谈判中，未曾展现出任何诚意或建设性的沟通，来推动任何提案的推进，并以Seven & i控股“持续缺乏诚信”为由，宣布撤回对Seven & i提出的470亿美元收购要约。\n对于ACT单方面撤回收购要约，Seven & i控股发声明回应，表示对ACT的决定感到失望。\nSeven & i因ACT撤回收购要约一事，公司股票在今日东京股市开盘前被暂停交易，但在当地时间上午10点16分恢复交易。\n受收购案破局消息冲击，Seven & i 今日（17日）盘中股价一度重挫9.6%，最低触及1998日圆，随后跌幅收缓，股价暂报2047日圆，跌幅7.38%。\n要看最快最熱資訊，請來Follow我們 《東方日報》WhatsApp Channel.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Economy, Business and Finance->mergers and acquisitions",
+      "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "http://odn.my/wachannel",
+      "http://www.odn.my/wachannel"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_sg",
+        "top_news_my",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T08:07:15.278+03:00",
+    "updated": "2025-07-18T06:05:40.000+00:00"
+  },
+  {
+    "uuid": "f4f382cc3304243c1241df157510997c558c6054",
+    "url": "https://www.thenews.com.pk/print/1197663-a-nation-without-rationality",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kamila Hyat",
+    "published": "2024-06-06T16:00:00Z",
+    "title": "A nation without rationality",
+    "text": "It is in many ways a requisite of both day-to-day life and governance that an elemental rationality guides the direction taken by ordinary people and those who wield power. In our nation, that rationality appears to have vanished. We have a situation, where even within the government, there is profound confusion. A glaring example of irrationality is seen in our economic policies. The government’s frequent changes in taxation laws without proper consultation with stakeholders create an environment of uncertainty and mistrust. Businesses are unable to plan long-term investments due to the unpredictable nature of these policies. This not only hampers economic growth but also discourages foreign investment. Rational decision-making would involve thorough analysis and stakeholder engagement before implementing any major economic changes. Yet, we continue to see abrupt decisions that leave businesses scrambling to adapt, often at significant financial losses. Our education system, too, suffers from a lack of rationality. Curriculum changes are made without adequate input from educators and experts, leading to confusion among students and teachers alike. The frequent shifts in educational policy reflect a lack of coherent strategy and understanding of what is truly needed to improve learning outcomes. Rational policymaking would entail a stable, long-term vision for education, developed in consultation with those who are directly involved in the field. Instead, we witness a haphazard approach that ultimately undermines the quality of education our children receive. We see the same absence of rationality in other decisions as well. The news that electricity bills will soon be increased is not difficult to accept given the typical IMF manner of dealing with the government. But the question is whether it could have been held back by proposing other ideas, such as a cut in administrative spending to spare the already heavily burdened people from further strain and dismay. Clearly, this is not a priority. We also have a small set of people who become rational thinkers or promote rationality. In most countries, it is generally expected that most of those who speak in public, including academics, journalists, politicians and others, will be rational. In our country, they have to be distinctly defined. These people appear on podcasts, on discussion programmes hosted by various organizations, and in other places, putting forward rationality. But this rationality should of course come from virtually everyone in the country at whatever level and not just from a few selected individuals who have already made a name for themselves as rational thinkers. There is also a distinct lack of rational behaviour in people’s actions. Groups of young people behind closed doors will fight over issues of political hatred and cult-like worship of a certain leader who is currently in prison. The lack of rationality underlying this discourse is almost frightening to witness. It comes from both sides, and there is no willingness to sort out matters or to reach any kind of understanding. Comments by Imran Khan and his closest allies that he is being held in a death cell are also irrational. Everyone knows precisely what a death cell is like, with an open, sometimes, uncurtained, toilet and very few other facilities apart from a bed in one corner of the tiny room. Imran’s quarters are made up of two prison cells, and the allowance to exercise daily in the area outside this does not constitute the usual treatment of a prisoner on death row. Yet he insists before the court that this is where he is being held. In the same way, other statements, lacking all logic, come from his supporters. Other parties that have no links to this are guilty of doing precisely the same. We have far too many statements that make very little sense coming from the leaders of all our major parties and adding to the air of despondency and hatred we already see on the political horizon everywhere in the country. In some places, it has deepened even further, as is the case in smaller provinces and is now spreading in parts of the country such as Gilgit-Baltistan once known for its peace and harmony. The irrationality does not come from politicians or politically motivated groups alone. It also comes from the actions of ordinary people. We have cases where persons are shot dead for no apparent reason and perhaps simply out of anger. We have other actions which seem to stem from similar reasons. There have been cases in which traffic police officers and members of the motorway police have simply been driven over by angry drivers. Perhaps these people suffer from mental conditions of various kinds. But the same problems with the same thinking are also seen in battles on the street, in rows over tiny matters, and even fights take place within houses over the most trivial issues. This, in so many ways, explains the kind of nation we have become without the ability to work together and at the very least listen to each other, even if there is to be no agreement and no consensus at the end of this discussion. Sane people can after all agree to differ. This is, or should be, a fundamental human quality. We saw the same kind of irrationality when people attacked a young woman for having Arabic script on her clothes, even though they were unable to read precisely what was written or what the word meant. The same irrationality is depicted in our adaptation of our language to conform to its Arabic counterpart. Surely it does not matter what we call a particular occasion or tradition. Far more important is the spirit in which it is undertaken and how it is to be credited by the person carrying it out. In the same way, on podcasts and talk shows everywhere, we have the most ridiculous assertions from those who term themselves ‘influencers’ in various fields as well as other persons. We have these so-called men of tradition and those who focus their attention on other fields of life. This is a growing problem. If we are to ever solve the many problems of our country, we need to adopt an approach that is, in the first place, rational and encourages us to think logically and with reason. The process must begin at school and carry through to higher learning and beyond this. Unfortunately, this approach is not adopted, and perhaps this is one of the reasons for the irrationality that runs through every strain and every thread of our national life. The writer is a freelance columnist and former newspaper editor. She can be reached at: kamilahyat@hotmail.com Domestically, climate policy must be established based on equity and justice Construction of Ram Mandir, where once historical Babri Masjid was located, was seen as a symbol of BJP's commitment... For the first time, Indian Prime Minister Narendra Modi will have to work with coalition partners From floods to relentless heatwaves and severe droughts, our nation stands at front lines of climate change Our land is the only source of our survival providing food, water, air, and shelter Birds, insects, and their beautiful and melodious sounds associated with these trees and forests would captivate the...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-07T00:55:53.027+03:00",
+    "updated": "2024-06-07T00:55:53.027+03:00"
+  },
+  {
+    "uuid": "04e897800c1cef500b966b8a030e5be00203be4d",
+    "url": "https://vnexplorer.net/z/940382.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-06-21T22:41:00Z",
+    "title": "Large Elephant Herd Spotted Swimming Across Brahmaputra River",
+    "text": "large elephant herd spotted swimming across brahmaputra river Breathtaking aerial footage shows a large elephant herd swimming to cross Brahmaputra river in Assam. The sighting was captured in Jorhat district. Sachin Bharali, a landscape photographer, documented the mass movement as about 100 elephants navigated the waters at Nimati Ghat, one of the major river ports in Assam. Indian elephant herds typically have 5-15 members, but can be much larger depending on the climate, terrain, family size and availability of resources –case in point, the river-crossing gentle giants. Senior Indian Forest Service (IFS) officer Sudha Ramen reshared the clip on X, formerly Twitter. Related News | Elephant Calves Sleep in ‘Z++ Security’ as Herd Stands Guard Elephant Calves Sleep in ‘Z++ Security’ as Herd Stands Guard Optical Illusion Personality Test: What You See First Reveals Whether You&#039;re Easily Angered or Naturally Composed Optical Illusion Personality Test: What You See First Reveals Whether You&#039;re Easily Angered or Naturally Composed “Elephants are incredible swimmers!,” the conservationist said in her post’s caption. “These stunning images captured by Mr.Sachin Bharali show a majestic herd with a good number of infants swim across the flowing Brahmaputra River. A remarkable display of their strength and adaptability.” IFS Susanta Nanda, quote-tweeting Ramen, gave his own insight. Related News | Chennai: Traffic Diversions Due to Metro Work at Strahans Road on June 15-17, Read Full Advisory Chennai: Traffic Diversions Due to Metro Work at Strahans Road on June 15-17, Read Full Advisory Assam Floods: Death Toll Rises To 35, More Than 1.6 Lakh People Affected Assam Floods: Death Toll Rises To 35, More Than 1.6 Lakh People Affected “Just figure out where the calves are in this formation. Teaching them real lessons of life with wall around them,” he explained. Baby elephants nurse for at least six months and up to four years. Even after being weaned, they continue to stay with the herd, which includes a mother several females known as nannies, and is typically led by a matriarch, until their teens. After attaining sexual maturity, juvenile males leave the herd to lead solitary lives or join other bulls. Beyond this point, they only mingle with females when in musth, a period characterised by increased aggression and unpredictability that can be put down to testosterone surges. Assam has an estimated elephant population of over 5,700, making it a key conservation area for the Indian gentle giants. Karnataka, is the only state with more elephants - 6,395.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sachin bharali",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "forest service",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "brahmaputra river",
+          "sentiment": "none"
+        },
+        {
+          "name": "brahmaputra",
+          "sentiment": "none"
+        },
+        {
+          "name": "assam",
+          "sentiment": "none"
+        },
+        {
+          "name": "jorhat",
+          "sentiment": "none"
+        },
+        {
+          "name": "nimati ghat",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-22T09:51:14.298+03:00",
+    "updated": "2024-06-22T09:51:14.298+03:00"
+  }
+]

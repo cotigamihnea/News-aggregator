@@ -1,0 +1,727 @@
+[
+  {
+    "uuid": "b875dd89859e52bd53ed33632c6a4a4355917657",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-04-03/doc-inervuvx2851028.shtml",
+    "ord_in_thread": 0,
+    "author": "sina.com.cn",
+    "published": "2025-04-02T23:39:00Z",
+    "title": "AI的疯狂三月：本地能力再提升，云上掀起动漫风|AI|图像_新浪科技_新浪网",
+    "text": "飞象原创（魏德龄/文）刚刚过去的三月，人工智能的功能升级可谓一个爆款接着又一个爆款，无论是面向本地部署的Gemma，还是ChatGPT在社交媒体平台上掀起的日式动漫风。假如说以前的人工智能领域还是每年春节一爆款的话，这次则是直接开启了“疯狂三月”。\n本地能力再提升\n27B的参数量能力却可以超过671B的模型，只需一张H100显卡，就能在本地实现媲美云端的高效推理。谷歌开源的最新多模态大模型Gemma-3在这个3月成为很多用户的最新本地AI部署尝试。\nGemma 3提供四种不同参数规模的选项，分别为1B、4B、12B和27B参数。除了1B外，其他三种均支持多模态，轻松构建能够分析图像、文本和短视频的应用，开启交互式智能应用的新可能。这一小参数量的特性能够让包括手机、笔记本电脑和工作站等设备在本地运行高性能的模型。\n从上图不难发现，Gemma 3在同等规模下展现了业界领先的性能，在LMArena榜单评估中超越了Llama3-405B、DeepSeek-V3和o3-mini。这意味着可以在单个GPU或TPU上部署媲美甚至超越云端AI的体验。\n此外，Gemma 3具有强大的语言处理能力。其原生支持35种语言，并且预训练支持140多种语言，帮助开发者构建全球化的AI应用。Gemma 3的128k-token超长上下文窗口，使得AI模型能够理解和处理更加复杂和海量的信息。这一能力的提升，使得本地AI能够在处理长文本、大规模数据分析等任务时，展现出更强的处理能力，为需要高精度和高效能的行业应用提供了有力支持。\nGemma 3还支持函数调用和结构化输出，帮助开发者构建智能工作流，进一步简化AI应用的开发过程。这使得开发者能够更容易地构建出符合特定需求的AI应用，快速实现业务自动化和智能化，提高工作效率。\n阿里巴巴最近发布并开源的Qwen2.5-Omni大模型同样带来了本地AI能力的又一次提升，作为首个端到端的全模态大模型，Qwen2.5-Omni能够同时处理文本、图像、音频和视频等多种输入，并实时生成文本与自然语音合成输出，显著提升了AI在多维度、多感官的认知与交互能力。\n轻量级的设计同样是Qwen2.5-Omni的一大亮点，能够以仅7B参数的小尺寸展现了同样强大的性能，即便在手机上，也能轻松部署和应用Qwen2.5-Omni模型。当前，Qwen2.5-Omni已在魔搭社区和Hugging Face同步开源。\n根据测试成绩显示，Qwen2.5-Omni全维度超Google的Gemini-1.5-Pro等同类模型，刷新业界纪录。这一表现意味着，Qwen2.5-Omni不仅具备强大的处理能力，还能更智能、更自然地应对复杂任务。在面对多感官输入时，Qwen2.5-Omni能够模拟人类的认知方式，通过音视频识别情绪，做出更加精准、富有情感的反馈与决策。\n端侧AI继续着着小规模高性能的目标前进，而云端AI更是在3月成为网红级别的存在，在全网掀起了一波又一波的P图秀。\n云上掀起动漫风\n其实在ChatGPT 4o掀起线上动漫风之前，Google在扩大了Gemini 2.0 Flash模型图像生成功能的访问权限后，就已经让人们感受了AI修图的强大实力。其中一项重大功能便是能够去除图片中的水印，对于水印过多的图片，甚至还能尝试填补因水印删除而产生的空白区域。\n当然，这一强大的功能也引来了业界对于版权问题的担忧，其中一大问题就在于付费照片的销售。一些线上拍照服务，会以水印的形式呈现给用户照片图片，通过后续付费来解锁无水印的原图。然而随着这一高效且强大的去水印功能出现，无疑会让很多公司产生疑虑。\n同样是在3月，ChatGPT 4o也带来了一波图像能力的升级更新，推出基于GPT-4o模型的原生图像生成功能，不再调用独立的DALL-E文生图模型。利用GPT-4o的多模态能力，ChatGPT在图像生成时能更加精确地遵循指示、更精确地渲染图像上的文字，同时支持多轮迭代优化图像时保持角色形象一致。\n随之被用户发掘出最吸引人的功能便在于可以将用户上传的图片，重新绘制成其他绘画风格的作品，其中尤以漫画风格最为讨喜，于是，转换生成的吉卜力风格作品瞬间引爆互联网，用户们不仅将自己的日常生活照片进行转换，还将重要历史时刻、网络梗图同样进行了转换，ChatGPT 4o均能做到传神般的写照。\n此外，转换出来的动漫图片，还能配合其他AI视频生成工具，重制一些电影内容，制作出新的动画短片。例如，国外AI影片创作者PJAce先通过ChatGPT 4o生成了102张魔戒电影预告片的转换图片，随后又利用可灵进行动画处理器，最终完整重现了一部吉卜力风格的《魔戒首部曲：魔戒现身》预告片。\n巨大的使用热情也让ChatGPT的算力开始不堪重负，OpenAI CEO Sam Altman在28日时表示：“该功能开始暂时受限，我们的GPU正在‘融化’，Open AI正在尝试优化效率。”随即，很多用户也发现该功能已经无法长时间使用，甚至可能会直接拒绝生成以“吉卜力”为关键词指令的请求。\n人工智能上演的疯狂三月，显然大有一石激起千层浪的势头，端侧模型的能力升级，可能又将进一步推动一些企业的本地部署进程。云端图像能力的提升，仿佛又打开了AI应用的新世界的大门，不过版权问题也随之而来，修图应用公司也可能开始心里发慌，但对于众多使用者来说，无疑也度过了一个兴奋尝试的满足三月。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->scientific innovation",
+      "Science and Technology->biomedical science",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:44:43.812+03:00",
+    "updated": "2025-04-03T02:44:43.812+03:00"
+  },
+  {
+    "uuid": "c90615cd30eb4fe59feaed0ef6b3660473223a72",
+    "url": "https://www.newsbreak.com/news/3367990860483-stelter-independent-voter-chooses-incumbent",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-03-14T21:37:00Z",
+    "title": "Stelter: Independent voter chooses incumbent",
+    "text": "2 hours ago\nAs an independent, I have decided to vote for Joe Biden for President, not because I fully endorse his policies. It is that Donald Trump does not deserve support.\nMr. Trump has shown that he should not be President because he promoted an attack on our Capitol, undermined our legal system and refused to accept his legal, documented defeat at the polls. He says he has reasons and facts for his actions. He doesn’t. His immaturity and irrationality are clearly outlined in a book by his niece.\nThat is enough not to support Mr. Trump — ever.\nHere a few more:\nAs a man, I cannot vote for someone who has mistreated women for decades.\nAs a Christian, I cannot support someone who has exhibited so many unChristian and immoral values. I know the Biblical story of casting the first stone, however, I have admitted many of my own sins and errors. But, Mr. Trump, to my knowledge, has never admitted being wrong. That shows a very serious lack of character and extreme immorality.\nAs a veteran, I cannot vote for someone who has ridiculed veterans, including a war hero like the late Sen. John McCain. That behavior by Mr. Trump is particularly shameful because he got out of serving through a minor medical deferment.\nFinally, as the brother of a disabled man, I will never support — and am having trouble forgiving — someone who mocked and laughed at a disabled reporter in front of a nationwide audience. Mr. Trump never apologized. His action is reprehensible, showing his true character — or the lack of it.\nMr. Trump is not worthy of my support, and I trust others across the country agree. I ask them to speak out and be heard.\nStan Stelter\nBISMARCK, ND\nExpand All Read in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Politics"
+    ],
+    "external_links": [
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=387AEK_0rsfVBud00",
+      "https://img.particlenews.com/image.php?url=387AEK_0rsfVBud00",
+      "https://img.particlenews.com/image.php",
+      "https://www.img.particlenews.com/image.php?url=387AEK_0rsfVBud00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=387AEK_0rsfVBud00"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "stelter",
+          "sentiment": "negative"
+        },
+        {
+          "name": "joe biden",
+          "sentiment": "negative"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "j",
+          "sentiment": "none"
+        },
+        {
+          "name": "trump",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "capitol",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-15T00:34:39.955+02:00",
+    "updated": "2024-03-15T02:17:52.636+02:00"
+  },
+  {
+    "uuid": "7aa3975fb3b5baa2383f3af4ad82fee130917bb8",
+    "url": "https://www.gmanetwork.com/news/scitech/weather/906399/pagasa-danger-level-heat-index-in-27-areas-on-may-11/story",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "GMA Integrated News",
+    "published": "2024-05-10T11:14:00Z",
+    "title": "PAGASA: Danger level heat index in 27 areas on May 11 | GMA News Online",
+    "text": "weather bureau PAGASA said 27 areas would have a heat index in the danger level on Saturday. According to PAGASA's heat index forecast as of 5 p.m. Friday, the following areas will have heat indexes between 42°C and 46°C.\n42°C:\nNAIA, Pasay City Sinait, Ilocos Sur MMSU, Batac, Ilocos Norte Iba, Zambales Cubi Point, Subic Bay, Olongapo City Sangley Point, Cavite Legazpi City, Albay Cuyo, Palawan Masbate City, Masbate Iloilo City, Iloilo Catbalogan, Samar Tacloban City, Leyte Zamboanga City, Zamboanga del Sur Davao City, Davao del Sur\n43°C:\nTuguegarao City, Cagayan ISU Echague, Isabela San Jose, Occidental Mindoro CBSUA-Pili, Camarines Sur Dumangas, Iloilo Catarman, Northern Samar Guiuan, Eastern Samar\n44°C:\nLaoag City, Ilocos Norte Aparri, Cagayan Puerto Princesa City, Palawan Roxas City, Capiz\n45°C:\nDagupan City, Pangasinan\n46°C:\nVirac (Synop), Catanduanes\nBaguio City and Benguet State University, La Trinidad, Benguet will continue to have the lowest heat index at 26°C.\nAccording to PAGASA, areas with a heat index of 42°C to 51°C fall within the danger level. Individuals exposed to heat in said areas are in danger of heat cramps, heat exhaustion, and heat stroke.\nPAGASA advised the public to limit outdoor activity, remain hydrated, and wear fresh clothes to avoid heat-related illnesses. — Jiselle Anne Casucian\\/VBL, GMA Integrated News",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ilocos norte aparri",
+          "sentiment": "none"
+        },
+        {
+          "name": "albay cuyo",
+          "sentiment": "none"
+        },
+        {
+          "name": "iloilo catarman",
+          "sentiment": "none"
+        },
+        {
+          "name": "benguet",
+          "sentiment": "none"
+        },
+        {
+          "name": "samar guiuan",
+          "sentiment": "none"
+        },
+        {
+          "name": "subic bay",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "pagasa",
+          "sentiment": "negative"
+        },
+        {
+          "name": "benguet state university",
+          "sentiment": "none"
+        },
+        {
+          "name": "eastern samar",
+          "sentiment": "none"
+        },
+        {
+          "name": "ilocos norte iba",
+          "sentiment": "none"
+        },
+        {
+          "name": "occidental mindoro cbsua",
+          "sentiment": "none"
+        },
+        {
+          "name": "cagayan isu echague",
+          "sentiment": "none"
+        },
+        {
+          "name": "naia",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "pasay city sinait",
+          "sentiment": "none"
+        },
+        {
+          "name": "masbate iloilo city",
+          "sentiment": "none"
+        },
+        {
+          "name": "zamboanga del sur davao city",
+          "sentiment": "none"
+        },
+        {
+          "name": "palawan roxas city",
+          "sentiment": "none"
+        },
+        {
+          "name": "iloilo catbalogan",
+          "sentiment": "none"
+        },
+        {
+          "name": "leyte zamboanga city",
+          "sentiment": "none"
+        },
+        {
+          "name": "davao",
+          "sentiment": "none"
+        },
+        {
+          "name": "laoag city",
+          "sentiment": "none"
+        },
+        {
+          "name": "zambales cubi point",
+          "sentiment": "none"
+        },
+        {
+          "name": "camarines sur dumangas",
+          "sentiment": "none"
+        },
+        {
+          "name": "palawan masbate city",
+          "sentiment": "none"
+        },
+        {
+          "name": "isabela san jose",
+          "sentiment": "none"
+        },
+        {
+          "name": "olongapo city sangley point",
+          "sentiment": "none"
+        },
+        {
+          "name": "la trinidad",
+          "sentiment": "none"
+        },
+        {
+          "name": "ilocos sur mmsu",
+          "sentiment": "none"
+        },
+        {
+          "name": "tuguegarao city",
+          "sentiment": "none"
+        },
+        {
+          "name": "pili",
+          "sentiment": "none"
+        },
+        {
+          "name": "catanduanes baguio city",
+          "sentiment": "none"
+        },
+        {
+          "name": "batac",
+          "sentiment": "none"
+        },
+        {
+          "name": "dagupan city",
+          "sentiment": "none"
+        },
+        {
+          "name": "samar tacloban city",
+          "sentiment": "none"
+        },
+        {
+          "name": "cavite legazpi city",
+          "sentiment": "none"
+        },
+        {
+          "name": "capiz",
+          "sentiment": "none"
+        },
+        {
+          "name": "cagayan puerto princesa city",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T14:19:11.096+03:00",
+    "updated": "2024-05-10T14:19:11.096+03:00"
+  },
+  {
+    "uuid": "1b16a3929cabb8d1522e8ade975ebb49d0b73aed",
+    "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108274.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ignacio Escolar",
+    "published": "2024-06-06T22:25:00Z",
+    "title": "Diana Riba (Ahora Repúblicas): \"Si volvemos a los recortes, no podremos hacer la transición verde\"",
+    "text": "La candidata de Ahora Repúblicas, Diana Riba, ha cuestionado que muchos de los partidos de los candidatos presentes en el debate votaron “las futuras políticas de austeridad” en el último pleno del Parlamento Europeo y ha exigido “seguir estas políticas expansivas, para llegar a estas transiciones ecológicas”. “Si volvemos a los recortes, no podremos hacer la transición verde. Si volvemos a los recortes, tendremos que cerrar escuelas, hospitales, infraestructuras...”, ha argumentado Riba, que ha dicho que “no nos va a quedar nada” para la transición ecológica si “vamos dando millones de euros a la industria armamentística”.\nCopiar enlace Lo último, minuto a minuto 00:20 h\nBuxadé (Vox) asegura que “Marruecos ha vaciado sus cárceles para mandar a los delincuentes a Europa” En candidato de Vox al Parlamento Europeo, Jorge Buxadé, ha vuelto a insistir durante su intervención en el debate europeo celebrado este jueves en RTVE que el principal problema de seguridad ahora mismo sobre la inmigración ilegal está en “la frontera sur” y en “el tráfico de personas desde el Estrecho”. “Bruselas ha dejado abandonadas las fronteras de Europa en Ceuta y en Melilla”, ha lamentado Buxadé, para sentenciar luego que “Marruecos vacía sus cárceles y manda a los delincuentes a Europa”.\nPor todo ello el candidato de Vox ha reiterado que su grupo no va a apoyar a Ursula von der Leyen para que vuelva a ser la presidenta de la Comisión Europea.\nCopiar enlace 00:19 h\nMontserrat (PP) asegura que la política exterior del Gobierno busca \"tapar la corrupción\" del Gobierno y \"del entorno\" de Sánchez Justo al final del debate a nueve de los candidatos a las elecciones europeas del domingo, el PP ha introducido con calzador las acusaciones contra la esposa del presidente del Gobierno, Pedro Sánchez, investigada por un juez por su actividad profesional y que tendrá que declarar en el juzgado el próximo 5 de julio.\nLa candidata de los populares, Dolors Montserrat, ha acusado al Gobierno de mantener una política exterior “unilateral” para “tapar”, según ha dicho, “la corrupción del Gobierno y del entorno del presidente”.\nCopiar enlace 00:17 h\nAleix Sarri (Junts) a Dolors Montserrat: \"No habrá delito de alta traición a nivel europeo. Fracasarán\" El candidato de Junts+ a las elecciones europeas, Aleix Sarri, ha cuestionado la propuesta del Partido Popular de modificar las euroórdenes para que el delito de “traición” sea un eurodelito: “No cambiarán las euroordenes, seguirán siendo rechazadas”, ha dicho Sarri, quien asegura que “fracasarán”.\nAdemás, el candidato independentista ha afirmado que “hay ministros del PP que han ganado millones” con el repostaje de buques de guerra rusos en Ceuta y les ha pedido que “revisen su historial” antes de hablar de Rusia.\nCopiar enlace 00:02 h\nGalán (Sumar) acusa al PSOE de \"abandonar\" al pueblo saharaui Estrella Galán, candidata de Sumar a las elecciones europeas, ha pedido este jueves durante el debate de RTVE al PSOE que aplique en la UE políticas en favor del pueblo saharaui en cumplimiento de las resoluciones de la ONU y de la responsabilidad española recogida en los textos internacionales sobre ese territorio.\nA su juicio, los habitantes del Sáhara Occidental son “los grandes abandonados” en la UE. “Los hemos dejado en una esquina cuando son un pueblo sobre el que tenemos una gran responsabilidad”, ha remachado.\nCopiar enlace 23:58 h, ayer\nMontserrat (PP) acusa al Gobierno de crear crisis con otros países \"de forma unilateral\" Dolors Montserrat, candidata del PP a las elecciones europeas, ha acusado este jueves al Gobierno de “crear crisis con otros países de forma unilateral”, en alusión a los conflictos diplomáticos con la Argentina de Javier Milei o con el Gobierno israelí de Benjamín Netanyahu, ante la masacre perpetrada por las fuerzas israelíes en Gaza.\n“La política exterior es algo muy serio y siempre se tiene que hacer desde el consenso y el diálogo del Congreso”, ha asegurado Montserrat durante el debate de los candidatos organizado por RTVE. “Siempre vamos a continuar con esa política consensuada en el Congreso”, ha zanjado.\nCopiar enlace 23:56 h, ayer\nJordi Cañas (Cs): \"Tengo yo más inmigrantes a la puerta de casa que tú\" El candidato de Ciudadanos, Jordi Cañas, ha declarado que “es muy bonito el buenismo cuando uno vive en un chalet en Galapagar, pero es muy diferente cuando uno vive en un barrio popular o en un barrio obrero”, en referencia a la intervención anterior de Irene Montero sobre inmigración, cuando ha sido interrumpido por la candidata de Ahora Repúblicas que ha dicho “como el Born”, en referencia a su lugar de residencia.\n“Tengo yo más inmigrantes a la puerta de casa, que tú en la tuya seguro, ¿vale? O sea que a mi no me des lecciones tú tampoco. Vente un día a mi casa”, ha respondido Cañas visiblemente enfadado.\nCopiar enlace 23:48 h, ayer\nEl PNV alerta de la necesidad de implementar más políticas de \"ciberseguridad\" en la UE Oihane Agirregoitia, cabeza de lista de la coalición CEUS y representante del PNV, ha pedido este jueves durante el debate de RTVE de cara a las europeas que en la próxima legislatura se implementen más políticas de “ciberseguridad” en la Unión Europea.\n“Europa debe ser un agente de paz [...] Los derechos humanos deben de ser defendidos en todo el mundo, no podemos hacer diferencias entre guerras”, ha añadido.\nCopiar enlace 23:47 h, ayer\nJordi Cañas (Cs), a Irene Montero: \"Que venga toda África\" La candidata de Podemos ha defendido que el caso de los migrantes sin papeles es “una falta administrativa” y ha descrito como “gravísimo” que por una falta de este tipo “no puedas acceder a derechos que son fundamentales” como la vivienda, las ayudas para las víctimas de violencia de género o al trabajo. Montero también ha exigido el cierre de los CIES.\nMientras argumentaba esto frente a Jorge Buxadé, de Vox, el candidato de Ciudadanos, Jordi Cañas, ha interrumpido su discurso diciendo sarcásticamente: “¡Que venga todo el mundo aquí! ¡Que venga toda África a España!”\nCopiar enlace 23:39 h, ayer\nGalán (Sumar), a Vox: \"Llevo 25 años trabajando en la UE y la única amenaza son ustedes, la ultraderecha\" Estrella Galán, candidata de Sumar a las elecciones europeas, ha reprochado este jueves a su contrincante de Vox, Jorge Buxadé, el discurso xenófobo con el que se presenta a los comicios de este domingo. Ella ha recordado que lleva “25 años trabajando” en el seno de la UE en materia de inmigración, como directora de la Comisión de Ayuda al Refugiado (CEAR).\n“La única amenaza con la que está Europa en una situación grave son ustedes, la ultraderecha”, le ha dicho Galán a Buxadé. “Las personas migrantes aportan una gran riqueza a nuestras sociedades”, ha zanjado.\nCopiar enlace 23:30 h, ayer\nTeresa Ribera pide al PP que se disculpe por sus \"discursos xenófobos y racistas\" Teresa Ribera, vicepresidenta tercera y candidata del PSOE a las elecciones europeas, ha exigido este jueves a la candidata del PP, Dolors Montserrat “disculpas” por “sus discursos xenófobos y racistas” tanto durante la campaña de las elecciones catalanas como en la actual campaña del 9J. En las últimas semanas los populares habían relacionado inmigración y delincuencia asumiendo parte del discurso de la extrema derecha.\n“Sus pactos con Vox les acaba convirtiendo en esa ultraderecha”, le ha reprochado Ribera a Montserrat durante el tercer bloque del debate organizado por la radiotelevisión pública.\nCopiar enlace 23:22 h, ayer\nRiba (Ahora Repúblicas) a Buxadé (Vox): \"Las mujeres no necesitamos a personas como usted\" La candidata de la coalición Ahora Repúblicas que engloba a EH Bildu, ERC y BNG, ha reprochado al representante de Vox en el debate de RTVE de cara a las europeas, Jorge Buxadé, su discurso antiinmigración echándole en cara sus lecciones hacia las mujeres.\n“Las mujeres no necesitamos que personas como usted nos defienda, necesitamos que nos dejen hacer políticas”, le ha dicho, mientras criticaba la pretensión de la extrema derecha de convertir a Europa “en una fortaleza”. “Ser racista es muy caro”, le ha espetado.\n“La Unión Europea ha regalado 400 millones de euros a Marruecos, Mauritania y Túnez para que ellos hagan las vulneraciones de derechos humanos que quieren hacer ustedes”, ha añadido ante el portavoz de Vox, para después agregar “dejemos de regalar dinero, dejemos de trasladar los muros de esta Europa fortaleza y pongámonos a trabajar para una integración humana como se necesita en las grandes crisis humanitarias”.\nCopiar enlace 23:18 h, ayer\nBuxadé acusa al PP y al PSOE de \"abrir las puertas de Europa a los productos de Marruecos y a esas fresas regadas con aguas fecales” El candidato de Vox al Parlamento Europeo, Jorge Buxadé, ha cargado, durante el debate celebrado este jueves en RTVE, contra la Agenda 2030 y contra el Pacto Verde Europeo que, según ha dicho, “votaron todos los partidos” y como consecuencia de él “100.000 trabajadores del sector primario ya no tienen trabajo”. “Por cada fábrica que se cierra en España se abren diez en China o en Marruecos. Nos llevan a la ruina”, ha afirmado.\nEl dirigente de Vox ha vuelto a acusar al PP y al PSOE de formar una “coalición” en Bruselas votando conjuntamente el 90% de las medidas impulsadas por el Parlamento Europeo, medidas que en su opinión “han hecho a los españoles más pobres porque ceden ante los burócratas del norte de Europa”. “Son políticas que han llevado a la ruina a los españoles y la responsabilidad es suya”, ha insistido Buxadé.\n“Nos llevan a la ruina y abren las puertas de Europa a los productos de Marruecos y a esas fresas regadas con aguas fecales o a esas cebollas de Senegal…” ha proseguido el candidato de Vox, que ha concluido acusando a ambos partidos de “haber destruido ya todo el sector productivo del campo español”.\nCopiar enlace 23:16 h, ayer\nGalán (Sumar) recuerda a Vox que Europa \"ha acogido a siete millones de personas\" por la guerra de Ucrania \"y no ha pasado nada\" La candidata de Sumar a las elecciones europeas, Estrella Galán, ha querido refutar este jueves el discurso antiinmigración de Vox recordando que Europa, en los últimos años, “ha acogido a siete millones de personas”, entre otras, refugiadas de la guerra de Ucrania sin que haya habido un incremento en la delincuencia como sostiene la extrema derecha.\n“Dejen de mentir”, le ha dicho Galán a Jorge Buxadé, el representante de Vox en el debate de RTVE, al que ha recordado que pese a esa llegada de inmigrantes “no ha pasado nada”. La representante de Sumar también ha acusado a la extrema derecha de querer “romper la convivencia” en la UE.\nCopiar enlace 23:12 h, ayer\nIrene Montero acusa a Jordi Cañas de querer hacerle un \"mansplaining\" y él le responde: \"¿Qué es un mansplaining?\" El debate de RTVE estaba abordando el segundo bloque, centrado en las políticas económicas de la UE, cuando la candidata de Podemos, Irene Montero, pedía “transformar el modelo económico liberal” para garantizar la igualdad de los ciudadanos“. ”No podemos afrontar la transición energética ni la emergencia climática si no transformamos el modelo económico neoliberal: hace falta que los fondos buitre no puedan comprar vivienda ni abrir nuevasmacrogranjas“, ha dicho.\nA renglón seguido tomaba la palabra el candidato de Ciudadanos, Jordi Cañas, que le reprochaba a Montero estar equivocada. “No me haga un 'mansplaining'”, le ha dicho la exministra al representante del partido que se dice liberal, en alusión al término que denuncia el machismo de los hombres que tratan de dar lecciones argumentales a las mujeres. “¿Qué es el 'mansplaining'?” se ha preguntado Cañas, aparentemente desconocedor del término.\nCopiar enlace Estás leyendo... 23:09 h, ayer\nDiana Riba (Ahora Repúblicas): \"Si volvemos a los recortes, no podremos hacer la transición verde\" La candidata de Ahora Repúblicas, Diana Riba, ha cuestionado que muchos de los partidos de los candidatos presentes en el debate votaron “las futuras políticas de austeridad” en el último pleno del Parlamento Europeo y ha exigido “seguir estas políticas expansivas, para llegar a estas transiciones ecológicas”.\n“Si volvemos a los recortes, no podremos hacer la transición verde. Si volvemos a los recortes, tendremos que cerrar escuelas, hospitales, infraestructuras...”, ha argumentado Riba, que ha dicho que “no nos va a quedar nada” para la transición ecológica si “vamos dando millones de euros a la industria armamentística”.\nCopiar enlace 23:02 h, ayer\nRibera (PSOE) acusa al PP de querer \"recortar\" la PAC y otras ayudas agrarias La vicepresidenta tercera del Gobierno y candidata del PSOE a las elecciones europeas, Teresa Ribera, ha acusado este jueves al PP y al resto de formaciones de derechas de querer recuperar una política de “recortes” en la UE en la legislatura que surja de las elecciones europeas de este domingo.\n“Ustedes y sus amigos quieren recortar las partidas presupuestarias y las más importantes son la PAC y las ayudas agrarias”, le ha dicho Ribera a Dolors Montserrat, la candidata del PP las europeas, haciendo también alusión a Vox y a otras formaciones con las que pactan los de Alberto Núñez Feijóo.\nCopiar enlace 23:00 h, ayer\nEstrella Galán (Sumar) pide ser \"firmes\" para no bonificar a los grandes oligopolios La candidata de Sumar, Estrella Galán, ha defendido la descarbonización de la economía acompañada de una limitación del “control” de las grandes multinacionales eléctricas y energéticas que, según ha dicho, “tienen en su mano el control de los precios de la energía”.\n“Hay que desplegar una revolución energética”, ha dicho Galán, que ha pedido “ser firmes” para no bonificar a los grandes oligopolios. “Me consta que usted está por esa bonificación”, ha dicho dirigiéndose a la candidata socialista, Teresa Ribera, aunque luego ha añadido que “es un detalle” ante los gestos de Ribera, que no ha contestado.\nCopiar enlace 22:54 h, ayer\nMontserrat (PP): \"Yo evité que los socialistas pusieran una etiqueta como la del tabaco en el vino\" Dolors Montserrat, candidata del PP a las elecciones europeas, ha acusado este jueves al PSOE de “dar la espalda al campo” durante la última legislatura en el Parlamento Europeo. Es más, la dirigente popular ha hecho mención a dos productos, el vino y el arroz, a los que según ella pretendieron perjudicar los socialistas españoles en la UE.\n“Yo evité que los socialistas pusieran una etiqueta como la del tabaco en el vino”, ha asegurado Montserrat, que ha pedido “luchar contra la competencia desleal”, así como “defender al campo” bajando el IVA a la carne y el pescado.\nCopiar enlace 22:51 h, ayer\nDolors Montserrat: \"El 80% de las iniciativas en el Parlamento Europeo son del PP\" La candidata del PP ha rebatido las acusaciones de Jorge Buxadé, de Vox, de que 'populares' y socialdemócratas votan “siempre” juntos asegurando que “el 80%” de las iniciativas presentadas en el Europarlamento parten de su partido y le ha exigido que diga la verdad y que “forman parte del gobierno de Europa con Úrsula Von der Leyen con un comisario de agricultura que es de Vox”.\nMontserrat también ha cargado contra el candidato de Ciudadanos, Jordi Cañas, diciéndole que “Europa también es la defensa del estado de derecho”.\nCopiar enlace 22:47 h, ayer\nIrene Montero: \"Este país tiene que decir alto y claro 'no a la guerra'\" La candidata de Podemos a las elecciones europeas, la exministra Irene Montero, ha considerado este jueves, durante el debate a nueve de RTVE con motivo del 9J que una de las prioridades de los próximos meses tiene que ver con un compromiso antibelicista de la sociedad española tanto por la situación en Gaza como por la guerra en Ucrania.\n“Este país tiene que decir alto y claro 'no a la guerra' y votar por la paz”, ha insistido Montero en un breve rifirrafe con el candidato de Ciudadanos, Jordi Cañas, que se ha resistido a calificar de “genocidio” la masacre perpetrada por Israel en Gaza.\nCopiar enlace Ver siguientes",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108279.html&text=Teresa%20Ribera%20pide%20al%20PP%20que%20se%20disculpe%20por%20sus%20%22discursos%20xen%C3%B3fobos%20y%20racistas%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108279.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108278.html&text=Riba%20%28Ahora%20Rep%C3%BAblicas%29%20a%20Buxad%C3%A9%20%28Vox%29%3A%20%22Las%20mujeres%20no%20necesitamos%20a%20personas%20como%20usted%22",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108269.html&text=Irene%20Montero%3A%20%22Este%20pa%C3%ADs%20tiene%20que%20decir%20alto%20y%20claro%20%27no%20a%20la%20guerra%27%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108283.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108280.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108272.html&text=Estrella%20Gal%C3%A1n%20%28Sumar%29%20pide%20ser%20%22firmes%22%20para%20no%20bonificar%20a%20los%20grandes%20oligopolios",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108278.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108272.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108270.html&text=Dolors%20Montserrat%3A%20%22El%2080%25%20de%20las%20iniciativas%20en%20el%20Parlamento%20Europeo%20son%20del%20PP%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108270.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108285.html&text=Gal%C3%A1n%20%28Sumar%29%20acusa%20al%20PSOE%20de%20%22abandonar%22%20al%20pueblo%20saharaui",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108288.html&text=Buxad%C3%A9%20%28Vox%29%20asegura%20que%20%E2%80%9CMarruecos%20ha%20vaciado%20sus%20c%C3%A1rceles%20para%20mandar%20a%20los%20delincuentes%20a%20Europa%E2%80%9D",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108282.html&text=El%20PNV%20alerta%20de%20la%20necesidad%20de%20implementar%20m%C3%A1s%20pol%C3%ADticas%20de%20%22ciberseguridad%22%20en%20la%20UE",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108276.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108288.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108276.html&text=Gal%C3%A1n%20%28Sumar%29%20recuerda%20a%20Vox%20que%20Europa%20%22ha%20acogido%20a%20siete%20millones%20de%20personas%22%20por%20la%20guerra%20de%20Ucrania%20%22y%20no%20ha%20pasado%20nada%22",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108280.html&text=Gal%C3%A1n%20%28Sumar%29%2C%20a%20Vox%3A%20%22Llevo%2025%20a%C3%B1os%20trabajando%20en%20la%20UE%20y%20la%20%C3%BAnica%20amenaza%20son%20ustedes%2C%20la%20ultraderecha%22",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108284.html&text=Montserrat%20%28PP%29%20acusa%20al%20Gobierno%20de%20crear%20crisis%20con%20otros%20pa%C3%ADses%20%22de%20forma%20unilateral%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108277.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108285.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108274.html&text=Diana%20Riba%20%28Ahora%20Rep%C3%BAblicas%29%3A%20%22Si%20volvemos%20a%20los%20recortes%2C%20no%20podremos%20hacer%20la%20transici%C3%B3n%20verde%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108273.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108281.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108286.html&text=Aleix%20Sarri%20%28Junts%29%20a%20Dolors%20Montserrat%3A%20%22No%20habr%C3%A1%20delito%20de%20alta%20traici%C3%B3n%20a%20nivel%20europeo.%20Fracasar%C3%A1n%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108275.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108271.html&text=Montserrat%20%28PP%29%3A%20%22Yo%20evit%C3%A9%20que%20los%20socialistas%20pusieran%20una%20etiqueta%20como%20la%20del%20tabaco%20en%20el%20vino%22",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108283.html&text=Jordi%20Ca%C3%B1as%20%28Cs%29%3A%20%22Tengo%20yo%20m%C3%A1s%20inmigrantes%20a%20la%20puerta%20de%20casa%20que%20t%C3%BA%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108282.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108274.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108284.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108281.html&text=Jordi%20Ca%C3%B1as%20%28Cs%29%2C%20a%20Irene%20Montero%3A%20%22Que%20venga%20toda%20%C3%81frica%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108286.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108271.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108269.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108275.html&text=Irene%20Montero%20acusa%20a%20Jordi%20Ca%C3%B1as%20de%20querer%20hacerle%20un%20%22mansplaining%22%20y%20%C3%A9l%20le%20responde%3A%20%22%C2%BFQu%C3%A9%20es%20un%20mansplaining%3F%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108287.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108273.html&text=Ribera%20%28PSOE%29%20acusa%20al%20PP%20de%20querer%20%22recortar%22%20la%20PAC%20y%20otras%20ayudas%20agrarias",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108277.html&text=Buxad%C3%A9%20acusa%20al%20PP%20y%20al%20PSOE%20de%20%22abrir%20las%20puertas%20de%20Europa%20a%20los%20productos%20de%20Marruecos%20y%20a%20esas%20fresas%20regadas%20con%20aguas%20fecales%E2%80%9D",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108287.html&text=Montserrat%20%28PP%29%20asegura%20que%20la%20pol%C3%ADtica%20exterior%20del%20Gobierno%20busca%20%22tapar%20la%20corrupci%C3%B3n%22%20del%20Gobierno%20y%20%22del%20entorno%22%20de%20S%C3%A1nchez",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108271.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108275.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108269.html&text=Irene%20Montero%3A%20%22Este%20pa%C3%ADs%20tiene%20que%20decir%20alto%20y%20claro%20%27no%20a%20la%20guerra%27%22",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108280.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108286.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108284.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108270.html&text=Dolors%20Montserrat%3A%20%22El%2080%25%20de%20las%20iniciativas%20en%20el%20Parlamento%20Europeo%20son%20del%20PP%22",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108286.html&text=Aleix%20Sarri%20%28Junts%29%20a%20Dolors%20Montserrat%3A%20%22No%20habr%C3%A1%20delito%20de%20alta%20traici%C3%B3n%20a%20nivel%20europeo.%20Fracasar%C3%A1n%22",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108285.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108281.html&text=Jordi%20Ca%C3%B1as%20%28Cs%29%2C%20a%20Irene%20Montero%3A%20%22Que%20venga%20toda%20%C3%81frica%22",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108287.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108277.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108281.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108282.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108283.html&text=Jordi%20Ca%C3%B1as%20%28Cs%29%3A%20%22Tengo%20yo%20m%C3%A1s%20inmigrantes%20a%20la%20puerta%20de%20casa%20que%20t%C3%BA%22",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108273.html&text=Ribera%20%28PSOE%29%20acusa%20al%20PP%20de%20querer%20%22recortar%22%20la%20PAC%20y%20otras%20ayudas%20agrarias",
+      "https://twitter.com/intent/tweet",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108278.html&text=Riba%20%28Ahora%20Rep%C3%BAblicas%29%20a%20Buxad%C3%A9%20%28Vox%29%3A%20%22Las%20mujeres%20no%20necesitamos%20a%20personas%20como%20usted%22",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108288.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108287.html&text=Montserrat%20%28PP%29%20asegura%20que%20la%20pol%C3%ADtica%20exterior%20del%20Gobierno%20busca%20%22tapar%20la%20corrupci%C3%B3n%22%20del%20Gobierno%20y%20%22del%20entorno%22%20de%20S%C3%A1nchez",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108279.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108271.html&text=Montserrat%20%28PP%29%3A%20%22Yo%20evit%C3%A9%20que%20los%20socialistas%20pusieran%20una%20etiqueta%20como%20la%20del%20tabaco%20en%20el%20vino%22",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108275.html&text=Irene%20Montero%20acusa%20a%20Jordi%20Ca%C3%B1as%20de%20querer%20hacerle%20un%20%22mansplaining%22%20y%20%C3%A9l%20le%20responde%3A%20%22%C2%BFQu%C3%A9%20es%20un%20mansplaining%3F%22",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108272.html&text=Estrella%20Gal%C3%A1n%20%28Sumar%29%20pide%20ser%20%22firmes%22%20para%20no%20bonificar%20a%20los%20grandes%20oligopolios",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108282.html&text=El%20PNV%20alerta%20de%20la%20necesidad%20de%20implementar%20m%C3%A1s%20pol%C3%ADticas%20de%20%22ciberseguridad%22%20en%20la%20UE",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108276.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108274.html&text=Diana%20Riba%20%28Ahora%20Rep%C3%BAblicas%29%3A%20%22Si%20volvemos%20a%20los%20recortes%2C%20no%20podremos%20hacer%20la%20transici%C3%B3n%20verde%22",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108273.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108269.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108278.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108274.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108280.html&text=Gal%C3%A1n%20%28Sumar%29%2C%20a%20Vox%3A%20%22Llevo%2025%20a%C3%B1os%20trabajando%20en%20la%20UE%20y%20la%20%C3%BAnica%20amenaza%20son%20ustedes%2C%20la%20ultraderecha%22",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108284.html&text=Montserrat%20%28PP%29%20acusa%20al%20Gobierno%20de%20crear%20crisis%20con%20otros%20pa%C3%ADses%20%22de%20forma%20unilateral%22",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108270.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108279.html&text=Teresa%20Ribera%20pide%20al%20PP%20que%20se%20disculpe%20por%20sus%20%22discursos%20xen%C3%B3fobos%20y%20racistas%22",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108272.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108288.html&text=Buxad%C3%A9%20%28Vox%29%20asegura%20que%20%E2%80%9CMarruecos%20ha%20vaciado%20sus%20c%C3%A1rceles%20para%20mandar%20a%20los%20delincuentes%20a%20Europa%E2%80%9D",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108283.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108276.html&text=Gal%C3%A1n%20%28Sumar%29%20recuerda%20a%20Vox%20que%20Europa%20%22ha%20acogido%20a%20siete%20millones%20de%20personas%22%20por%20la%20guerra%20de%20Ucrania%20%22y%20no%20ha%20pasado%20nada%22",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108285.html&text=Gal%C3%A1n%20%28Sumar%29%20acusa%20al%20PSOE%20de%20%22abandonar%22%20al%20pueblo%20saharaui",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108277.html&text=Buxad%C3%A9%20acusa%20al%20PP%20y%20al%20PSOE%20de%20%22abrir%20las%20puertas%20de%20Europa%20a%20los%20productos%20de%20Marruecos%20y%20a%20esas%20fresas%20regadas%20con%20aguas%20fecales%E2%80%9D"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-07T01:29:26.199+03:00",
+    "updated": "2024-06-07T01:29:26.199+03:00"
+  },
+  {
+    "uuid": "d40ca5a0c76adf520f612b60a247a35e32f07792",
+    "url": "https://www.hellenicshippingnews.com/napa-and-union-marine-management-services-enter-agreement-on-voyage-optimization-and-cii-simulator-deployment",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hellenicshippingnews",
+    "published": "2024-07-04T21:00:00Z",
+    "title": "NAPA and Union Marine Management Services enter agreement on Voyage Optimization and CII simulator deployment",
+    "text": "New partnership on digital integration will help reduce emissions and support compliance for an initial 55 bulk carriers.\nNAPA’s Voyage Optimization and CII Simulator digital systems will be deployed on an initial 55 bulk carriers in the fleet managed by Union Marine Management Services (UMMS), under a new agreement between the Finnish maritime software provider and the Singapore-based ship management company.\nThe use of NAPA Voyage Optimization on board has the potential to reduce greenhouse gas (GHG) emissions by an estimated average of 5-10% for the fleet of bulk carriers, ranging between 25,000 and 180,000 deadweight tonnage (DWT) and operated globally.\nUnder the agreement, NAPA’s Voyage Optimization and CII Simulator systems were integrated into UMMS’s existing in-house ship management web portal, IntuitShip, and are now accessible for shipowners directly on the platform. Formal contracts have already been confirmed with individual shipowners for the two NAPA tools to be used on 55 vessels.\nThis will enable around 20 shipowners whose fleets are managed by UMMS to use NAPA Voyage Optimization to reduce fuel consumption and associated GHG emissions from their vessels. Using real-time data on weather and sea conditions, the system proposes the best possible routes and speed profiles to minimize costs and the vessel’s environmental footprint, while ensuring safety.\nNAPA and Union Marine Management Services enter agreement on Voyage Optimization and CII simulator deployment.\nIn addition, the NAPA CII Simulator will allow owners to predict the CII rating of each vessel for any sea passage, chartering period or at the end of the year, and model the impact of different measures on the vessel’s rating. This will enable these shipowners to proactively manage their ships’ CII and keep them within targets amid tightening regulation, as well as predict EU ETS cost.\nVinay Gupta, Managing Director at Union Marine Management Services (UMMS), said: “With the introduction of new regulations such as CII, EU ETS, and soon FuelEU Maritime, shipowners are increasingly interested in digital technologies that can reduce fuel consumption and greenhouse gas emissions immediately. This is why we are partnering with NAPA to integrate their ready, proven solutions into our existing platform and provide proactive support for our shipowner clients in their decarbonization journey. Operational improvements achieved through voyage optimization and simulation tools represent a low-hanging fruit yet are essential to future-proofing fleets, ensuring compliance and maintaining thriving businesses.”\nPekka Pakkanen, Executive Vice President for Shipping Solutions at NAPA, said: “Digitalization is critical to the success of decarbonization because it offers pragmatic, practical and immediate solutions to reduce greenhouse gas emissions from fleets. Taking this to the next level, there is a huge opportunity to collaborate with providers of digital solutions. This will enable us to enhance our wealth of insights and create truly integrated solutions that respond to the industry’s needs, from bridge to boardroom, and act as a catalyzer for decarbonization efforts within the maritime industry.”\nSource: Union Marine Management Services (UMMS)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Corporate Governance and CSR",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "cii",
+          "sentiment": "negative"
+        },
+        {
+          "name": "napa",
+          "sentiment": "negative"
+        },
+        {
+          "name": "union marine management services",
+          "sentiment": "negative"
+        },
+        {
+          "name": "napa voyage optimization",
+          "sentiment": "none"
+        },
+        {
+          "name": "napa voyage",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "singapore",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T03:51:05.755+03:00",
+    "updated": "2024-07-05T03:51:05.755+03:00"
+  },
+  {
+    "uuid": "e2cc783c51e776fb08fba54d0c958352a4dd24c3",
+    "url": "https://www.courant.com/2023/12/31/love-the-idea-of-a-cozy-winter-vacation-but-hate-the-actual-cold-these-spots-are-perfection/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chicago Tribune",
+    "published": "2023-12-31T11:04:00Z",
+    "title": "Love the idea of a cozy winter vacation but hate the actual cold? These spots are perfection.",
+    "text": "Danielle Braff | Chicago Tribune\nPerhaps you love the concept of a cozy winter wonderland — the snow, the hot chocolate, the fireplace, the fluffy blankets — but you’re not so wild about treading through the actual snow, and bracing the frigid temperatures to get to the good stuff. You’re more of an après-ski type of a person than a skier. There’s no shame in that.\nWe’ve got a few suggestions for spots to try this winter if you want all that cozy goodness sans the chill.\nFairmont Scottsdale Princess in Arizona\nIce skating is always more fun when your toes don’t go numb from the cold. Experience this at\nFairmont Scottsdale Princess, where 6 million sparkling lights pave the way to their own version of a winter wonderland: a 6,000-square-foot outdoor rink in Arizona with real ice (this is a true Christmas miracle), a Ferris wheel, fire pits, s’mores, igloos and even an ice lounge. Yes, the ice lounge is actually cold, but they provide you with faux fur parkas, hot craft cocktails and the chance to take the perfect holiday selfie before returning to the heat.\nGreat Wolf Lodge in Gurnee\nWhen the weather outside is frightful, it’s time to celebrate the season at\nGreat Wolf Lodge, a chain of indoor water parks. For those who want to stay local, we love arriving at the Gurnee location clad in just our bathing suits and dashing into the lobby, where the real snow gives way to fake snowflakes, a gigantic fireplace and Spiked Sleigh Ride Sippers (vodka, pineapple juice, orange juice, watermelon purée and club soda). They bring the outdoors in with daily snow showers and a visit from Santa. Because the hotel rooms, the restaurants, the dry activities (everything from arcades to an immersive Harry Potter-like game) are indoors, there’s no reason to put on a coat until it’s time to leave.\nCoeur d’Alene Resort in Idaho\nSure, you could head to\nthis golfing resort in the summer during peak season. But we’d forgo that to witness the million-plus lights illuminate Idaho’s slushy Lake Coeur d’Arlene. Dine outdoors in heated igloos; take a festive lake cruise to visit Santa and his elves; and view the indoor Travolta Christmas show, hosted by Ellen Travolta, John’s older sister.\nTwin Farms in Vermont\nIf you want to feel like royalty for a few days, this is the place to be. At the\n18th century farmhouse formerly owned by Sinclair Lewis, a Nobel Prize-winning author, there are various accommodations that are all adults-only perfection. There are cottages, a lodge and the aforementioned farmhouse that come complete with food and drinks in the dining room or ordered directly to bed by dialing 125 (also dial this number if you need someone to top off your fireplace, to add more blankets to your bed or to draw you a bath). Emerge from your room only to take a pasta-making class (and eat it, obviously) or to take a dip into the 104-degree water inside the cedar bathhouse within the woods.\nThe Ranch at Rock Creek in Montana\nSink into the luxurious high-end duvets inside a rustic 19th century barn in Philipsburg, Montana. It’s all about the massive tub, the layered textures, the king-size bed topped with blankets and the upholstered furniture. Or stay in a private home or cabin — or inside the lodge, complete with a spa, fireplaces and Jacuzzi. They offer an all-exclusive experience here, so you never need to leave\nthe ranch for food, entertainment or anything you could want during your stay. Stay cozy with an outdoor hot tub or in the spa’s cedar sauna. Even if you skip the horseback riding excursion, you can book a Saddle Sore Soak at the spa, where you’ll be surrounded by candles while you soak in minerals from Montana’s geothermal springs.\nFrench Quarter Inn in South Carolina\nThis year, winter like a southern socialite in Charleston at the\nFrench Quarter Inn. In South Carolina, where the average high temperature in December is 61, relax in the Sleigh Bell Suite, where there’s ample mistletoe, garland, freshly baked cookies and bourbon-spiced eggnog. Oh, and a fireplace. Step into the lobby, which has a 15-foot tree and complimentary gingerbread cookies and hot chocolate. And while you’re in Charleston, view their traditional Holiday Boat Parade, tour Charleston’s holiday homes and take a holiday sleigh ride through downtown, no hats and scarves necessary.\nMohonk Mountain House in New York\nLegend has it that Stephen King’s “The Shining” was inspired by his many stays at\nthis resort, but Mohonk denies credit for this esteemed attribution. Nevertheless, envision an imposing Victorian castle lurching out of the snow in the Hudson Valley, nestled in the forest. If this sounds more cozy than terrifying to you, book this resort to experience the height of isolated perfection. Three gourmet meals are included with your stay; the indoor pool has floor-to-ceiling windows overlooking that snowy forest and frozen lake; and the entire home feels like a warm cup of tea during the winter months. There’s a gingerbread competition, plenty of Christmas trees, lots of fireplaces, afternoon teas, lobby “Nutcracker” performances and more.\nStein Eriksen Lodge in Utah\nPerhaps your family is torn: Some want to ski while others want to après and nothing else. This is where you need to go. While the World Ski Awards voted\nStein Eriksen Lodge in Park City as the United States’ best ski hotel in 2023, we like to come here sans ski tickets. All rooms come with plush robes, slippers, a hot tub and a fireplace. There are three on-site restaurants, a fantastic spa and a lounge that serves cheese fondue and mulled wine.\nLake Placid Lodge in New York\nHead to the Adirondacks and step inside your cabin (or suite or guest room).\nThe lodge’s theme is rustic chic, and there are stone fireplaces, wooden beds and frozen lake views. It’s all about hunkering down: Meals are steps from your room (no need to pack a coat); there’s a wood-paneled pub complete with local beers and billiard tables; and you can wander through the lodge’s Olympic Center and Museum. The area was host to the 1932 and 1980 Winter Olympics.\nDunton Hot Springs in Colorado\nThey had us at “hot springs,” but there’s so much more to this Colorado Rockies\nghost town resort. Situated in a former mining town in southwest Colorado, across from Telluride, guests stay in authentic hand-built restored log cabins. Our favorite is the Well House cabin because it has a private hot spring and cold plunge — and it’s pet friendly! But other cabins have wood-burning fireplaces, and they all include meals and drinks. Spend your holiday in the Dunton Hot Springs’ restored 19th century bathhouse, which ranges from 85 to 106 degrees. Emerge to sit by the fire and play board games, drink hot cocoa and take a long nap.\nDanielle Braff is a freelancer.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://www.duntondestinations.com/hot-springs/",
+      "https://www.cdaresort.com/",
+      "https://www.christmasincharleston.com/tours/",
+      "https://oldsouthcarriage.com/carriage-tours/christmas-carriage-ride/",
+      "https://theranchatrockcreek.com/",
+      "https://www.steinlodge.com/",
+      "https://www.visit-historic-charleston.com/charleston-holiday-boat-parade.html",
+      "https://www.twinfarms.com/",
+      "https://www.scottsdaleprincess.com/",
+      "https://www.mohonk.com/",
+      "https://www.opalcollection.com/lake-placid-lodge/",
+      "https://fqicharleston.com/",
+      "https://www.greatwolf.com/illinois?ctcampaign=7347&ctkwd=great%20wolf%20lodge%20gurnee&ctmatch=e&ctcreative=413078558787&ctadpos=&ctplacement=&ctlocid=9021712&cttrgtid=kwd-336767651183&ctfeedid=&ctnwk=g&ctdevice=c&ctadgroup=52176878846&hxc_id=5097&gad_source=1&gclid=CjwKCAiA1MCrBhAoEiwAC2d64Qhkx1yFeEACN7no7VwytSL8r51rh--ZR6-QeHRj2pXKqqecDxgCiRoCmvoQAvD_BwE&gclsrc=aw.ds",
+      "https://fqicharleston.com",
+      "https://scottsdaleprincess.com/",
+      "https://cdaresort.com/",
+      "https://twinfarms.com/",
+      "https://www.theranchatrockcreek.com/",
+      "https://www.christmasincharleston.com/tours",
+      "https://www.opalcollection.com/lake-placid-lodge",
+      "https://www.greatwolf.com/illinois",
+      "https://mohonk.com/",
+      "https://www.twinfarms.com",
+      "https://visit-historic-charleston.com/charleston-holiday-boat-parade.html",
+      "https://www.fqicharleston.com/",
+      "https://theranchatrockcreek.com",
+      "https://christmasincharleston.com/tours/",
+      "https://www.oldsouthcarriage.com/carriage-tours/christmas-carriage-ride/",
+      "https://greatwolf.com/illinois?ctcampaign=7347&ctkwd=great%20wolf%20lodge%20gurnee&ctmatch=e&ctcreative=413078558787&ctadpos=&ctplacement=&ctlocid=9021712&cttrgtid=kwd-336767651183&ctfeedid=&ctnwk=g&ctdevice=c&ctadgroup=52176878846&hxc_id=5097&gad_source=1&gclid=CjwKCAiA1MCrBhAoEiwAC2d64Qhkx1yFeEACN7no7VwytSL8r51rh--ZR6-QeHRj2pXKqqecDxgCiRoCmvoQAvD_BwE&gclsrc=aw.ds",
+      "https://www.cdaresort.com",
+      "https://www.steinlodge.com",
+      "https://www.scottsdaleprincess.com",
+      "https://opalcollection.com/lake-placid-lodge/",
+      "https://steinlodge.com/",
+      "https://www.duntondestinations.com/hot-springs",
+      "https://oldsouthcarriage.com/carriage-tours/christmas-carriage-ride",
+      "https://duntondestinations.com/hot-springs/",
+      "https://www.mohonk.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "danielle braff",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "chicago tribune",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "fairmont scottsdale princess",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gurnee",
+          "sentiment": "none"
+        },
+        {
+          "name": "great wolf lodge",
+          "sentiment": "none"
+        },
+        {
+          "name": "arizona",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-31T16:18:39.271+02:00",
+    "updated": "2023-12-31T16:18:39.271+02:00"
+  },
+  {
+    "uuid": "67dbbe73ee37dc3d464193c539d9f30cf3217317",
+    "url": "https://gazette.com/news/us-world/venezuelas-maduro-slams-deployment-of-british-warship-to-guyana/article_1f1b8108-1a12-57a2-9ad3-8a28954dbf32.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MIRAFLORES PALACE",
+    "published": "2023-12-28T05:00:00Z",
+    "title": "Venezuela's Maduro slams deployment of British warship to Guyana | U.S. & World | gazette.com",
+    "text": "CARACAS (Reuters) - Venezuelan President Nicolas Maduro on Thursday said the deployment of a British warship to waters off the coast of Guyana breaches the \"spirit\" of an agreement reached between Venezuelan and Guyanese authorities. Guyana and Venezuela agreed earlier this month to avoid the use of force and avoid increasing tensions in the long border dispute over the oil-rich Essequibo territory. The 160,000-square-km (62,000-square-mile) Essequibo region is generally recognized as part of Guyana, but in recent years Venezuela has revived its claim to the territory and to offshore areas after major oil and gas discoveries. Royal Navy patrol vessel HMS Trent is visiting Guyana, a British ally and former colony, as part of a series of engagements in the region, the UK's defense ministry said in a statement earlier this month, without referring to Venezuela or the border dispute. \"It is the breaking of the spirit of dialogue, diplomacy and peace of the agreements,\" Maduro said on Thursday. He said the deployment was \"practically a military threat from London.\" Maduro has ordered \"the activation of a joint defensive action of the Bolivarian National Armed Forces\" off the coast of Essequibo, he said in a state televised broadcast, but did not give more information. Military leaders in Venezuela's east said during the broadcast that 5,600 uniformed personnel were ready for the operation. In a statement, Venezuela's Foreign Ministry said the country \"reserves all actions, within the framework of the Constitution and International Law, to defend its maritime and territorial integrity.\" (Reporting by Vivian Sequera and Mayela Armas; Writing by Oliver Griffin; Editing by Leslie Adler)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "maduro",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nicolas maduro",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "reuters",
+          "sentiment": "negative"
+        },
+        {
+          "name": "royal navy",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "venezuela",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "caracas",
+          "sentiment": "none"
+        },
+        {
+          "name": "guyana",
+          "sentiment": "none"
+        },
+        {
+          "name": "uk",
+          "sentiment": "none"
+        },
+        {
+          "name": "london",
+          "sentiment": "none"
+        },
+        {
+          "name": "essequibo",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:11:15.093+02:00",
+    "updated": "2023-12-29T00:11:15.093+02:00"
+  },
+  {
+    "uuid": "85475ac1a22106cf889fce6f28c5be68f9aa7592",
+    "url": "https://www.diariodecadiz.es/vivir_en_cadiz/san-fernando-vejer-municipios-acumularon-jueves-espana_0_2002702961.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción Cádiz",
+    "published": "2024-11-01T07:52:00Z",
+    "title": "San Fernando y Vejer, entre los municipios que más lluvia acumularon el jueves en toda España",
+    "text": "San Fernando y Vejer, entre los municipios que más lluvia acumularon el jueves en toda España La DANA comienza a perder fuerza en la provincia aunque aún se viven los efectos de las lluvias intensas [La DANA en Cádiz: estos son los municipios de la provincia donde más ha llovido](https://www.diariodecadiz.es/noticias-provincia-cadiz/dana-cadiz-son-municipios-provincia_0_2002697691.html) La DANA lleva dejando lluvias intensidas en la provincia desde el pasados miércoles, jornada en la que incluso la [Agencia Estatal de Meteorología](https://www.aemet.es/es/portada) llegó a activar el aviso rojo por riesgo extremo en Jerez, parte de la Sierra y la Janda. Finalmente, en esas horas no llovió pero sí lo hizo al día siguiente ([sí lo había hecho con mucha fuerza previamente en Jerez](https://www.diariodejerez.es/jerez/dana-deja-jerez-record-historico_0_2002702308.html)), el jueves 31, cuando la provincia se encontraba bajo el aviso naranja por acumulados que podrían llegar a superar los 120 litros por metro cuadrado. Hubo localidades que, sin llegar a ese registro, sí vivieron situaciones muy complicadas, con calles completamente inundadas y la lluvia afectando a puntos críticos como colegios y hospital. [San Fernando fue el mejor ejemplo de ello](https://www.diariodecadiz.es/sanfernando/san-fernando-peores-temporales-lluvia-ultimos-anos_0_2002700164.html). Según los datos de la estación meteorológica del Real Instituto y Observatorio de la Armada (ROA), el peor momento llegó a las 8:40 horas, después de una noche de temporal, con 82,8 litros por metro cuadrado a la hora. A las diez y media de la mañana, el dato de la lluvia acumulada alcanzaba ya los 106,7 litros por metro cuadrado. Los datos que recoge la Agencia Estatal de Meteorología rebajan un poco esa cifra pero siguen mostrando unas [cantidades ingentes de agua sobre el municipio](https://www.diariodecadiz.es/sanfernando/imagenes-efectos-dana-calles-casas-san-fernando_3_2002697669.html). Según su estación pluviométrica, San Fernando fue el tercer municipio de España donde más llovió ayer, con 98 litros. La Isla solo fue superada el jueves por Valderrobres, en Teruel, donde se registraron 127 litros, y Torreblanca, en Castellón, con 100 litros. También se vivió una situación complicada en Vejer, con hasta 96 litros acumulados según Aemet. Según informa el Ayuntamiento en su cuenta de Facebook, el mayor desperfecto causado por el temporal fue el [hundimiento de la avenida Federico García Lorca](https://www.facebook.com/ayuntamiento.vejer), sobre la que el alcalde ya ha anunciado su inmediato arreglo por vía de urgencia al tratarse de una de las vías de acceso más importante del municipio. Especialmente afectada fue la pedanía de Los Naveros, donde el desbordamiento del arroyo causó la entrada de agua en las aulas, lo que obligó a la suspensión de las clases para garantizar la seguridad de los escolares. Además también se vio afectado el centro de barrio, quedando todo limpio por la tarde. El resto de pedanías se han mantenido bajo control gracias a la rápida intervención de los servicios municipales, en coordinación con la Policía Local y la Guardia Civil. A lo largo del día, prácticamente todas las vías que tuvieron que ser cortadas debido a la acumulación de fango han sido reabiertas entre ellas Catalina Pérez, Fuente Juan Cubierta y la Avenida Buenavista, gracias al esfuerzo de los equipos de limpieza y mantenimiento. \"Quiero agradecer el esfuerzo y la dedicación de todas las personas que, de manera incansable, han trabajado para devolver la normalidad a nuestras calles y pedanías. Gracias a la Policía Local, Guardia Civil, Protección Civil, los operarios del Ayuntamiento, empresas locales y voluntarios, que han trabajado para mitigar los efectos de la Dana en nuestro pueblo\", afirmaba el alcalde. Finalmente el Ayuntamiento de Vejer solicitará a otras administraciones supramunicipales canales de financiación para hacer frente al perjuicio meteorológico causado en todo el término territorial por el temporal. Lo que llovió el jueves en Cádiz Según los registros de las estaciones que Aemet tiene dispersas por la provincia, estos fueron los datos de lluvia acumulada en 24 horas durante la jornada del jueves: - Barbate: 44.0 - Cádiz: 61.8 - Chipiona: 0.4 - El Bosque: 24.4 - Grazalema: 48.2 - Jerez de la Frontera Aeropuerto: 57.1 - Jimena de la Frontera: 28.0 - Medina Sidonia: 38.0 - Olvera: 22.0 - Rota, Base Naval: 18.0 - San Fernando: 98.0 - San José del Valle: 46.0 - San Roque: 18.8 - Tarifa: 18.2 - Vejer de la Frontera: 96.3 También te puede interesar Lo último",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.aemet.es/es/portada)",
+      "https://www.diariodejerez.es/jerez/dana-deja-jerez-record-historico_0_2002702308.html)),",
+      "https://www.facebook.com/ayuntamiento.vejer),",
+      "https://aemet.es/es/portada)",
+      "https://diariodejerez.es/jerez/dana-deja-jerez-record-historico_0_2002702308.html)),",
+      "https://facebook.com/ayuntamiento.vejer),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T12:17:23.945+02:00",
+    "updated": "2024-11-01T12:17:23.945+02:00"
+  },
+  {
+    "uuid": "a4e40d2f89e4c26d4637ca82fb7b71f041e9b533",
+    "url": "http://www.godlikeproductions.com/forum1/message5608727/pg1",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "THE WAKANDA FILES User ID",
+    "published": "2023-12-28T22:00:00Z",
+    "title": "WAKANDA DOOM - 40 PEOPLE BURN TO DEATH IN LIBERIA - Gas Truck overturns, people come to get FREE gas",
+    "text": "Users Online Now:\n1,774\n(\nWho's On?\n)\nVisitors Today:\n671,318\nPageviews Today:\n1,280,653\nThreads Today:\n460\nPosts Today:\n10,261\n06:12 PM\nDirectory\nAdv. Search\nTopics\nForum\nBack to Forum\nPost New Thread\nReply\nView Favorites\nJoin Now, Free! (& No Ads!)\nForgot Your Password?\nEmail\nPassword\nRemember\nRate this Thread\nAbsolute BS\nCrap\nReasonable\nNice\nAmazing\nPage\n1\nBottom\nSearch Replies\nPrevious Page\nNext Page\nSearch Terms:\nHighlight Matches\nWAKANDA DOOM - 40 PEOPLE BURN TO DEATH IN LIBERIA - Gas Truck overturns, people come to get FREE gas\nTHE WAKANDA FILES\nUser ID: 79906169\nSingapore\n12/28/2023 05:41 PM\nReport Abusive Post\nReport Copyright Violation\nWAKANDA DOOM - 40 PEOPLE BURN TO DEATH IN LIBERIA - Gas Truck overturns, people come to get FREE gas\nhttps://twitter.com/_/status/1740404662342467949\nAnonymous Coward\nUser ID: 86560861\nUnited States\n12/28/2023 05:45 PM\nReport Abusive Post\nReport Copyright Violation\nRe: WAKANDA DOOM - 40 PEOPLE BURN TO DEATH IN LIBERIA - Gas Truck overturns, people come to get FREE gas\nLiberia is one of the few African nations that wasn't colonized. Can't blame those problems on the \"colonizers\".\nAnonymous Coward\nUser ID: 81206028\nUnited States\n12/28/2023 05:53 PM\nReport Abusive Post\nReport Copyright Violation\nRe: WAKANDA DOOM - 40 PEOPLE BURN TO DEATH IN LIBERIA - Gas Truck overturns, people come to get FREE gas\nHO LEE POLESMOKERR\nAnonymous Coward\nUser ID: 81206028\nUnited States\n12/28/2023 05:54 PM\nReport Abusive Post\nReport Copyright Violation\nRe: WAKANDA DOOM - 40 PEOPLE BURN TO DEATH IN LIBERIA - Gas Truck overturns, people come to get FREE gas\nLiberia is one of the few African nations that wasn't colonized. Can't blame those problems on the \"colonizers\".\nQuoting:\nAnonymous Coward 86560861\nIt was colonized before it was Liberia, no?\nEthiopia is the only one I thought.\nAnonymous Coward\nUser ID: 86403379\nCanada\n12/28/2023 05:57 PM\nReport Abusive Post\nReport Copyright Violation\nRe: WAKANDA DOOM - 40 PEOPLE BURN TO DEATH IN LIBERIA - Gas Truck overturns, people come to get FREE gas\nReminds me of that one from Mexico a few years ago. Always remember: if there is free gasoline to be had, take a pass. If you do choose to participate, keep in mind those immortal words, stop, drop and roll.\nAnonymous Coward\nUser ID: 86453392\nUnited States\n12/28/2023 05:58 PM\nReport Abusive Post\nReport Copyright Violation\nRe: WAKANDA DOOM - 40 PEOPLE BURN TO DEATH IN LIBERIA - Gas Truck overturns, people come to get FREE gas\nWhy do these particular incidents almost always take place in sub-Saharan Africa?\nThe recurrence of these incidents is as certain as the sun rising and setting.\nAnonymous Coward\nUser ID: 86403379\nCanada\n12/28/2023 05:59 PM\nReport Abusive Post\nReport Copyright Violation\nRe: WAKANDA DOOM - 40 PEOPLE BURN TO DEATH IN LIBERIA - Gas Truck overturns, people come to get FREE gas\nLiberia is one of the few African nations that wasn't colonized. Can't blame those problems on the \"colonizers\".\nQuoting:\nAnonymous Coward 86560861\nHad it been colonized, the Great White Father would have taught them to stay away from the overturned gasoline tanker. Colonization is not all bad.\npeterpeccary\nUser ID: 73847342\nUnited States\n12/28/2023 06:00 PM\nReport Abusive Post\nReport Copyright Violation\nRe: WAKANDA DOOM - 40 PEOPLE BURN TO DEATH IN LIBERIA - Gas Truck overturns, people come to get FREE gas\nLiberia is one of the few African nations that wasn't colonized. Can't blame those problems on the \"colonizers\".\nQuoting:\nAnonymous Coward 86560861\nIt was colonized before it was Liberia, no?\nEthiopia is the only one I thought.\nQuoting:\nAnonymous Coward 81206028\nYou can start with Marcus Garvey and UNIA.......Liberia was set up for freed slaves.....\nPage\n1\nTop\nPrevious Page\nNext Page\nBack to Forum\nPost New Thread\nReply\nView Favorites\nRelated Threads\n1\nWakanda invented everything - all science and culture, and they civilized White people\n10/24/23\n2\nWakanda engineer helps push truck...while standing in the truck bed..\n09/24/18\n3\nUniversity California Santa Barbara’s Black Student Union Holds Segregated Movie Screening Marvel BLACK PANTHER Wakanda White People Not Welcome\n11/18/22\n4\nEvery time the Ice Cream Truck comes to Wakanda. . .THIS HAPPENS (warning graphic)\n03/01/23\n5\n>FIRE FIGHTERS IN WAKANDA TRY TO SAVE BUILDING FROM BURNING . . .(Updated fire fighting methods being used). . .\n03/01/23\n6\nLAUNDRY DOOM: Partially evolved primates fight at Wakanda's self service Laundry for a dryer\n04/03/23\n7\nBlack Liberation: Deranged White Liberals Ready for the Good Life in Free Wakanda\n07/16/18\n8\nPrediction... Death Wish is gunna blow the Black Panther back to Wakanda\n02/19/18\n9\nWhat would Cesar do if he saw all these people from Wakanda coming to Italy?\n04/28/23\n10\nIslamic Peoples Republic of Wakanda (i.e., Palestine) Are Killing Gazans\n05/14/21\nDisclaimer / Copyright Info\n-\nPrivacy Policy\n-\nTerms Of Use\n-\nCancellation Policy / Billing Help\nMail\nWebmaster\nwith questions or comments about this site.\nCopyright © 1999 - 2023 Godlikeproductions.com\nPage generated in 0.696s (8 queries)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://twitter.com/_/status/1740404662342467949",
+      "https://www.twitter.com/_/status/1740404662342467949"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "tod",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "liberia",
+          "sentiment": "none"
+        },
+        {
+          "name": "liberia",
+          "sentiment": "none"
+        },
+        {
+          "name": "singapore",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:12:32.819+02:00",
+    "updated": "2023-12-29T01:12:32.819+02:00"
+  }
+]

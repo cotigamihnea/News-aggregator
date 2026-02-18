@@ -1,0 +1,462 @@
+[
+  {
+    "uuid": "0e20b4d5839af14e026a8c9afecf4f80932b2199",
+    "url": "https://www.lavozdegalicia.es/noticia/internacional/2024/10/24/autoritarismo-trump-vuelve-primera-linea-campana-estados-unidos/00031729802496431143207.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "lavozdegalicia",
+    "published": "2024-10-24T18:44:00Z",
+    "title": "El autoritarismo de Trump vuelve a primera línea de campaña en Estados Unidos",
+    "text": "A menos de dos semanas de que EE.UU. elija a su próximo presidente, Donald Trump , con cerca de un 50 % de posibilidades de imponerse en las urnas, continúa afirmando que usará la presidencia para castigar a sus enemigos políticos . El último objetivo del magnate ha sido el fiscal especial, Jack Smith, al que Trump ha dicho que despedirá «en dos segundos» si vuelve a ocupar la Casa Blanca. Las declaraciones del magnate sobre Smith, a cargo de las investigaciones en su contra por el intento de revertir las elecciones del 2020 y por conservar cientos de documentos clasificados, implican que, de ganar las elecciones, Trump buscará acabar políticamente con sus problemas legales . Una posibilidad en la que está enrocado desde que presentó su candidatura en el 2022 y que sus rivales presentan como una prueba más de su carácter autoritario.\nEsta última semana ese autoritarismo ha estado muy presente en la campaña. Aunque los demócratas siempre han señalado este rasgo del magnate, ahora ha cobrado una nueva relevancia tras las afirmaciones del exjefe de gabinete de Trump, John Kelly, que el miércoles definió a su exjefe como un fascista. Kamala Harris lo corroboró.\nDurante su primer mandato, Trump , que no oculta su admiración por otros líderes autoritarios, también habría elogiado al dictador venezolano Nicolás Maduro , según desvelaba a Efe Olivia Troye exasesora de la Casa Blanca. Según ella, Trump habría expresado su admiración por el carácter de «hombre fuerte» de Maduro, a pesar de mantener una postura crítica contra el chavista en público.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Donald Trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "John Kelly",
+          "sentiment": "none"
+        },
+        {
+          "name": "Jack Smith",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Casa Blanca",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:07:49.564+03:00",
+    "updated": "2024-10-25T00:07:49.564+03:00"
+  },
+  {
+    "uuid": "dc2379e2cbb4ee42139fa3a7379ac64a23bed781",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7367598.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:32:00Z",
+    "title": "畜牧ETF（159867）跌1.16%，半日成交额1016.45万元|ETF_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，畜牧ETF（159867）跌1.16%，报0.599元，成交额1016.45万元。畜牧ETF（159867）重仓股方面， 海大集团 截止午盘跌0.14%， 温氏股份 跌0.58%， 牧原股份 跌0.56%， 新希望 跌1.27%， 梅花生物 跌0.09%， 大北农 跌0.99%， 圣农发展 跌0.90%， 生物股份 跌2.55%， 唐人神 跌1.67%， 天康生物 跌1.29%。\n畜牧ETF（159867）业绩比较基准为中证畜牧养殖指数收益率，管理人为鹏华基金管理有限公司，基金经理为陈龙，成立（2021-02-25）以来回报为-39.50%，近一个月回报为1.17%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:14.835+03:00",
+    "updated": "2025-06-20T05:11:10.000+00:00"
+  },
+  {
+    "uuid": "04a28483336392d66691e1c7870ad9a20d26775c",
+    "url": "https://www.patriotledger.com/story/news/nation/2024/10/17/sun-solar-maximum-25-northern-lights-aurora/75717034007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", The Patriot Ledger",
+    "published": "2024-10-17T18:18:00Z",
+    "title": "The sun is now in its solar maximum, meaning more aurora activity",
+    "text": "The sun is now in its solar maximum, meaning more aurora activity The sun is now in its solar maximum, when activity such as the northern lights will be at its peak. This year has given stargazers plenty of opportunities to catch the colorful auroras of the northern lights flicker across the night sky, and that is expected to continue as the sun is now in its solar maximum – the peak of its 11 year solar cycle. Representatives from NASA, the National Oceanographic and Atmospheric Administration (NOAA) and the international Solar Cycle Prediction Panel made the [announcement](https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/) at a news conference Tuesday. \"During solar maximum, the number of sunspots, and therefore, the amount of solar activity, increases,” Jamie Favors, director of NASA's Space Weather Program said. “This increase in activity provides an exciting opportunity to learn about our closest star — but also causes real effects at Earth and throughout our solar system.” This peak of activity is expected to last for another year, according to NASA. What is Solar Cycle 25? The sun, and the intense magnetic activity it generates that causes the northern lights, waxes and wanes on an 11-year-long solar cycle. The peak of activity – the solar maximum – occurs when the sun's north and south magnetic poles flip. As the solar cycle reaches its zenith, solar flares, solar system's [largest explosive events](https://www.nasa.gov/image-article/what-solar-flare/), increase, causing phenomenon such as May's [solar storm](https://science.nasa.gov/science-research/heliophysics/how-nasa-tracked-the-most-intense-solar-storm-in-decades/), the largest observed by NASA in decades. Scientists have observed the sun's solar cycles since 1755, and on observations, the sun has already been at its solar maximum for a couple of years. “This announcement doesn’t mean that this is the peak of solar activity we’ll see this solar cycle,” Elsayed Talaat, director of space weather operations at NOAA [said](https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/) on Tuesday. “While the Sun has reached the solar maximum period, the month that solar activity peaks on the Sun will not be identified for months or years.” More: [Peak northern lights activity coming soon: What to know as sun reaches solar maximum](https://www.usatoday.com/story/news/nation/2024/10/01/northern-lights-solar-maximum-auroras/75449249007/) Solar flares emit radiation, mostly in the form of ultraviolet light and X-rays, that can hurtle toward Earth at the speed of light. Some of these flares can be accompanied by coronal mass ejections, or clouds of plasma and charged particles, that emerge from the sun's outermost atmosphere, the corona. These ejections can collide with Earth’s magnetosphere, the barrier protecting humanity from the harshest impacts of space weather, to produce [geomagnetic storms](https://www.swpc.noaa.gov/phenomena/geomagnetic-storms). Geomagnetic storms can spark northern lights to appear That may sound scary, and due to[ the elevated risk for things like disrupted satellite signals](https://www.usatoday.com/story/news/nation/2023/06/28/nasa-internet-apocalypse-solar-storm-prep/70361827007/), radio communications, internet and electrical power grids, it could be. But the heightened potential[ for more geomagnetic storms](https://www.usatoday.com/story/news/nation/2024/08/12/aurora-forecast-2024-northern-lights/74769465007/) also may mean more impressive northern lights displays. In May, a [powerful geomagnetic storm](https://www.usatoday.com/story/news/nation/2024/05/10/severe-solar-storm-2024/73642315007/) was responsible for some reports of power grid irregularities and interference with GPS signals – even [farming equipment](https://www.usatoday.com/story/news/nation/2024/05/14/northern-lights-solar-storms-farmers-tractors-gps/73687368007/). On the bright side, it did also unleash[ spectacular views of the northern lights](https://www.usatoday.com/story/news/nation/2024/05/11/aurora-borealis-photos-northern-lights-seen-us-europe/73652013007/) in parts of the country where auroras are not often visible. The celestial show came after NOAA [issued a rare storm watch](https://www.swpc.noaa.gov/news/g4-watch-effect-may-11) for the first time in 19 years for a geomagnetic storm classified as a G4 – a single level away from being the most severe solar storm possible. Amid the solar activity, the sun even emitted[ an explosive burst of radiation](https://www.usatoday.com/story/news/nation/2024/05/15/sun-solar-flare-nasa-geometric-storm/73697831007/) that became the [largest solar flare](https://science.nasa.gov/science-research/heliophysics/how-nasa-tracked-the-most-intense-solar-storm-in-decades/) detected since 2017, according to [the NOAA](https://www.swpc.noaa.gov/news/region-3664-not-done-yet-produces-x87-flarelargest-solar-cycle). The phenomenon, which has [made several recent appearances](https://www.usatoday.com/story/news/nation/2024/09/16/northern-lights-forecast-us/75251765007/) across the U.S. was also [notably visible again in August](https://www.usatoday.com/story/news/world/2024/08/12/perseid-meteor-shower-northern-lights-photos/74764377007/) during the Perseids, considered among astronomers to be [the best meteor shower of the year](https://www.usatoday.com/story/news/nation/2024/08/10/perseids-meteor-shower-peak/74702674007/). What causes auroras? The auroras are[ a natural light display in Earth's sky](https://www.usatoday.com/story/news/nation/2024/05/10/northern-lights-aurora-when-time/73638964007/) that are famously best seen in high-latitude regions of the northern and southern hemispheres. The phenomenon is caused when electrically charged particles from space enter Earth's atmosphere and collide with [molecules and gasses like oxygen and nitrogen](https://www.usatoday.com/story/graphics/2024/05/18/northern-lights-colors-explained/73731506007/), causing the atmospheric particles to gain energy. To return to their normal state, the particles release that energy in the form of light, according to the [University of Alaska at Fairbanks, Geophysical Institute](https://www.gi.alaska.edu/monitors/aurora-forecast) website, which tracks the phenomenon. As auroras form, Earth's magnetic field redirects the particles toward the poles through a process that produces a stunning display of rays, spirals and flickers that has fascinated humans for millennia. Whether hues of green, red, blue and even pink dance about in the sky is due to altitude in which the collisions occur, as well as the composition and density of the atmosphere at the time. Solar activity to continue in 2025 “Solar Cycle 25 sunspot activity has slightly exceeded expectations,” said Lisa Upton, co-chair of the Solar Cycle Prediction Panel. “However, despite seeing a few large storms, they aren’t larger than what we might expect during the maximum phase of the cycle.” Predicted just when and where one might see the northern lights remains difficult, but NOAA does maintain [an aurora dashboard](https://www.swpc.noaa.gov/communities/aurora-dashboard-experimental) that should help skygazers track the phenomenon. Max Hauptman is a Trending Reporter for USA TODAY. He can be reached at MHauptman@gannett.com. Eric Lagatta covers breaking and trending news for USA TODAY. Reach him at elagatta@gannett.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.usatoday.com/story/news/nation/2023/06/28/nasa-internet-apocalypse-solar-storm-prep/70361827007/),",
+      "https://www.nasa.gov/image-article/what-solar-flare/),",
+      "https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/)",
+      "https://www.usatoday.com/story/news/nation/2024/08/12/aurora-forecast-2024-northern-lights/74769465007/)",
+      "https://www.usatoday.com/story/graphics/2024/05/18/northern-lights-colors-explained/73731506007/),",
+      "https://www.swpc.noaa.gov/communities/aurora-dashboard-experimental)",
+      "https://science.nasa.gov/science-research/heliophysics/how-nasa-tracked-the-most-intense-solar-storm-in-decades/),",
+      "https://www.usatoday.com/story/news/world/2024/08/12/perseid-meteor-shower-northern-lights-photos/74764377007/)",
+      "https://www.usatoday.com/story/news/nation/2024/08/10/perseids-meteor-shower-peak/74702674007/).",
+      "https://www.swpc.noaa.gov/news/region-3664-not-done-yet-produces-x87-flarelargest-solar-cycle).",
+      "https://www.usatoday.com/story/news/nation/2024/09/16/northern-lights-forecast-us/75251765007/)",
+      "https://science.nasa.gov/science-research/heliophysics/how-nasa-tracked-the-most-intense-solar-storm-in-decades/)",
+      "https://www.usatoday.com/story/news/nation/2024/05/10/severe-solar-storm-2024/73642315007/)",
+      "https://www.usatoday.com/story/news/nation/2024/05/11/aurora-borealis-photos-northern-lights-seen-us-europe/73652013007/)",
+      "https://www.usatoday.com/story/news/nation/2024/05/15/sun-solar-flare-nasa-geometric-storm/73697831007/)",
+      "https://www.swpc.noaa.gov/news/g4-watch-effect-may-11)",
+      "https://www.swpc.noaa.gov/phenomena/geomagnetic-storms).",
+      "https://www.usatoday.com/story/news/nation/2024/05/14/northern-lights-solar-storms-farmers-tractors-gps/73687368007/).",
+      "https://www.usatoday.com/story/news/nation/2024/10/01/northern-lights-solar-maximum-auroras/75449249007/)",
+      "https://www.usatoday.com/story/news/nation/2024/05/10/northern-lights-aurora-when-time/73638964007/)",
+      "https://www.gi.alaska.edu/monitors/aurora-forecast)",
+      "https://usatoday.com/story/news/nation/2024/05/15/sun-solar-flare-nasa-geometric-storm/73697831007/)",
+      "https://www.science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/)",
+      "https://usatoday.com/story/news/nation/2024/09/16/northern-lights-forecast-us/75251765007/)",
+      "https://swpc.noaa.gov/news/region-3664-not-done-yet-produces-x87-flarelargest-solar-cycle).",
+      "https://nasa.gov/image-article/what-solar-flare/),",
+      "https://usatoday.com/story/news/nation/2024/10/01/northern-lights-solar-maximum-auroras/75449249007/)",
+      "https://usatoday.com/story/news/nation/2024/05/10/northern-lights-aurora-when-time/73638964007/)",
+      "https://www.science.nasa.gov/science-research/heliophysics/how-nasa-tracked-the-most-intense-solar-storm-in-decades/),",
+      "https://usatoday.com/story/news/nation/2024/05/10/severe-solar-storm-2024/73642315007/)",
+      "https://www.science.nasa.gov/science-research/heliophysics/how-nasa-tracked-the-most-intense-solar-storm-in-decades/)",
+      "https://gi.alaska.edu/monitors/aurora-forecast)",
+      "https://usatoday.com/story/news/world/2024/08/12/perseid-meteor-shower-northern-lights-photos/74764377007/)",
+      "https://usatoday.com/story/news/nation/2024/05/14/northern-lights-solar-storms-farmers-tractors-gps/73687368007/).",
+      "https://swpc.noaa.gov/phenomena/geomagnetic-storms).",
+      "https://swpc.noaa.gov/communities/aurora-dashboard-experimental)",
+      "https://usatoday.com/story/news/nation/2024/08/12/aurora-forecast-2024-northern-lights/74769465007/)",
+      "https://usatoday.com/story/news/nation/2023/06/28/nasa-internet-apocalypse-solar-storm-prep/70361827007/),",
+      "https://swpc.noaa.gov/news/g4-watch-effect-may-11)",
+      "https://usatoday.com/story/graphics/2024/05/18/northern-lights-colors-explained/73731506007/),",
+      "https://usatoday.com/story/news/nation/2024/05/11/aurora-borealis-photos-northern-lights-seen-us-europe/73652013007/)",
+      "https://usatoday.com/story/news/nation/2024/08/10/perseids-meteor-shower-peak/74702674007/)."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jamie Favors",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "National Oceanographic and Atmospheric Administration",
+          "sentiment": "none"
+        },
+        {
+          "name": "NASA",
+          "sentiment": "none"
+        },
+        {
+          "name": "NOAA",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "04a28483336392d66691e1c7870ad9a20d26775c",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-10-18T00:07:13.709+03:00",
+    "updated": "2024-10-18T00:07:13.709+03:00"
+  },
+  {
+    "uuid": "9f7a6e27369f44c545fb0255445cfc74d5328c2b",
+    "url": "https://www.moneytimes.com.br/soja-sobe-em-chicago-com-dolar-mais-fraco-e-ameacas-tarifarias-precificadas-pads",
+    "ord_in_thread": 0,
+    "author": "Reuters",
+    "published": "2025-04-16T22:21:00Z",
+    "title": "Soja sobe em Chicago com dólar mais fraco e ameaças tarifárias precificadas",
+    "text": "Soja sobe em Chicago com dólar mais fraco e ameaças tarifárias precificadas\nOs contratos futuros da soja em Chicago ganharam força nesta quarta-feira (16), devido ao enfraquecimento do dólar e a um relatório de que a China estaria aberta a negociações comerciais com os EUA, embora a grande oferta da América do Sul e a demanda chinesa quase inexistente por grãos americanos continuassem a pairar sobre o mercado, disseram os analistas.\nOs futuros do milho e do trigo subiram, também apoiados por um novo enfraquecimento do dólar americano, o que torna as exportações dos EUA mais competitivas.\nO contrato de soja mais ativo subiu 2,75 centavos, para US$10,3875 por bushel.\n- Nvidia e relatório de produção da Vale (VALE3) no radar do Ibovespa;\nveja o que mais mexe com as bolsas globais no Giro do Mercado de hoje:\nO milho ganhou 2,25 centavos, para US$4,9175 por bushel, e o trigo subiu 5 centavos, para US$5,61 por bushel.\nO índice do dólar voltou a se aproximar das mínimas de três anos atingidas depois que o presidente dos EUA, Donald Trump, anunciou suas políticas tarifárias.\nA China, de longe o maior comprador de soja dos EUA, impôs tarifas retaliatórias aos Estados Unidos, o que tornará mais cara a importação de safras americanas.\nNo entanto, a situação “baixista” da guerra comercial em curso já foi considerada no mercado, disseram os analistas. Na quarta-feira, uma reportagem da Bloomberg afirmando que o governo chinês estaria aberto a negociações comerciais criou um sentimento positivo no mercado e fortaleceu os futuros da soja.\n“Isso está aumentando o otimismo de que talvez as negociações comerciais possam começar mais cedo ou mais tarde”, disse Randy Place, analista da Hightower Report.\nO excesso de chuva e as inundações no Meio-Oeste dos EUA retardaram o plantio de milho e deram suporte aos futuros.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->economy",
+      "Economy, Business and Finance->commodity market",
+      "Politics->economic policy",
+      "Social Issue->social condition",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.youtube.com/watch?v=q_MwHTO2F80",
+      "http://www.youtube.com/watch",
+      "http://youtube.com/watch?v=q_MwHTO2F80"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T01:51:59.652+03:00",
+    "updated": "2025-04-17T01:51:59.652+03:00"
+  },
+  {
+    "uuid": "3811b72c257f0fc81af975f39e611d3a57884b5b",
+    "url": "https://www.independent.ie/irish-news/temperatures-to-plummet-over-new-years-weekend/a6149910.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ralph Riegel",
+    "published": "2023-12-29T02:30:00Z",
+    "title": "Temperatures to plummet over New Year’s weekend",
+    "text": "Temperatures to plummet over New Year’s weekend\nNew Year’s weekend revellers will need to wrap up as strong winds, heavy rain and even ice and frost are set to make travel conditions potentially challenging.\nMet Éireann said the first week of 2024 also looks likely to prove quite unsettled as a low-pressure weather front will bring blustery conditions with rainfall expected to be well above early January norms.\nDespite the unsettled weather expected for the weekend, there will be patches of bright sunshine at times, but those attending outdoor New Year’s Eve celebrations are urged to dress warmly.\nTemperatures will drop by six degrees overnight, with frost, ice and possibly snow on higher ground over the weekend.\nThe good news is that calmer weather is expected from January 8 thanks to a high-pressure front arriving in the Atlantic, although there will still be some showers around.\nA status orange alert was lifted from four southern and western counties, providing some relief for local authorities that gust-related damage was not as severe as initially feared.\nBoth Cork County Council and Kerry County Council said there was no serious property or infrastructure damage in the wake of Storm Gerrit.\nMet Éireann said there was the potential for very challenging driving conditions over the next 24 hours.\n“Friday will be rather windy for a time, with some sunshine and scattered showers,” a spokesperson said.\n“The showers won’t be as widespread as Wednesday, Thursday. However, rain will continue in parts of the north and the north-west, some of it heavy, with a chance of localised flooding.\n“Showers will persist through Friday night and rain will spread from the north-east overnight with the potential for some areas of higher ground to get sleet or even snow.\n“Temperatures will sink to as low as minus 2C or even minus 3C in some areas. Saturday will be windy or very windy with rain clearing to sunny spells and scattered showers.”\nMet Éireann said winds would ease over tomorrow night, although showers would persist in many areas.\nSome areas – particularly those on higher ground – could see frost and ice.\n“Sunday will probably be a breezy and chilly day with scattered showers and moderate to fresh north-west winds and highest temperatures of 5C to 8C,” the spokesperson added.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "met éireann",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cork county counci",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "atlantic",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T04:52:53.687+02:00",
+    "updated": "2023-12-29T04:52:53.687+02:00"
+  },
+  {
+    "uuid": "989a35ae18f0d7f6982b137dfb77d9d1a6fe1a3f",
+    "url": "https://cornellbigred.com/news/2024/9/19/womens-soccer-ristianto-feature.aspx",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@CornellWSoccer",
+    "published": "2024-09-19T20:00:00Z",
+    "title": "Achieving a Life-Long Dream: Kayla Ristianto '27",
+    "text": "Caroline Sherman/Cornell Athletics Achieving a Life-Long Dream: Kayla Ristianto '27 9/19/2024 3:00:00 PM ITHACA, N.Y. — Playing soccer at the national level has always been a dream for Cornell women’s soccer sophomore defender Kayla Ristianto.After being invited to a couple of United States Youth National Team clinics as a 15- and 16-year-old, Ristianto realized there was a real possibility of playing for a national team. She wasn’t sure if it was going to be for the United States or Indonesia, where both of her parents grew up before immigrating to America for their collegiate studies before starting their family of five, which includes Kayla, her older sister, Zasca, and younger brother, Razi.Ristianto’s life-long goal of playing for a national team came to fruition this past summer when she received the call to honor her Indonesian heritage and play on Indonesia’s Women’s National Soccer Team in a pair of friendlies against Hong Kong this past July. Kayla Ristianto enters the stadium prior to one of the matches with Hong Kong this past summer.(Photo Courtesy of Kayla Ristianto) Indonesia has always been a part of my home. Even though I didn't grow up there, I was very grateful to experience it. Kayla Ristianto '27 “If anyone in their athletic career gets to be called up for a national team, it's obviously a big deal,” Ristianto said, “but for me, it just felt more surreal. Indonesia has always been a part of my home. Even though I didn't grow up there, I was very grateful to experience it.”Ristianto experienced a quick turnaround with earning the nomination for the Indonesian National Team as she was visiting a family friend in neighboring Singapore.“I was in Jakarta for two weeks before I was actually called up,” she said. “I was in Singapore for the weekend visiting my mom's friend when I was called up. I flew out that night to go back to Jakarta, trained the next morning with the team, and got selected that day. The next morning, we flew out to Hong Kong. It was a very quick turnaround, but I really didn't have that much time to adjust. I was just thrown in there, but it was very exciting and obviously an opportunity that doesn't come twice.” Kayla Ristianto (second from left) poses with the Indonesian starting XI prior to one of the matches with Hong Kong this past July.(Photo courtesy of Kayla Ristianto) Hong Kong, which hosted both contests, came away with 3-2 and 4-1 victories over Indonesia, handing the country its first pair of losses in a international friendlies since dropping a pair of contests to Thailand in May of 2018.Despite the results, the experience is what Ristianto will cherish forever and never take for granted.“There was definitely nerves,” Ristianto stated. “There’s always a saying, ‘If you’re nervous, you care.’ I thought it was very special and an opportunity that nobody really gets ever.”Receiving the call to play on the Indonesian Women’s National Soccer Team is one of her proudest moments of her soccer career so far. Paired with playing at the national level, another goal of Ristianto’s was having the chance to play Division I soccer. Kayla Ristianto dribbles a soccer ball during match action against Syracuse on Sept. 1, 2024, on Berman Field in Ithaca, N.Y.(Caroline Sherman/Cornell Athletics) I remember initially getting called up, my teammates, coaches, the staff, reached out to me, congratulating me, even my friends on different teams. Reaching out was special and feel like it attests to the Big Red community. Kayla Ristianto '27 “I feel like all the girls that go through club in American soccer, the end goal is to obviously play Division I soccer,” Ristianto said. “Getting to play Division I soccer at Cornell has been a big achievement of mine. I'm super grateful to be playing here. I love the campus, I love the people. It's been a great time and I'm really excited for the future.”Upon receiving the call to the Indonesian National Team, Ristianto received numerous calls and text messages from her teammates, coaches, staff members, and even other student-athletes on campus. The outpouring support she received after earning the nod solidified what makes Cornell such a special place.“That’s the special thing about Cornell,” she said. “I remember initially getting called up, my teammates, coaches, the staff, reached out to me, congratulating me, even my friends on different teams. Reaching out was special and feel like it attests to the Big Red community.” Kayla Ristianto high-fives members of the Cornell women's soccer team prior to a match against Boston College on Sept. 5, 2024.(Lance Haupricht/Cornell Athletics) Although just a sophomore on the Big Red women’s soccer team, Ristianto has already made an indelible impact on the team, earning the honor of being one of two sophomores to this year’s leadership council. Along with the pair of sophomores, two juniors are also named to the leadership council and work in coordination with the trio of captains — seniors Ava Laden, Maddie Leroy, and Cecily Pokigo — to help lead the entire program for the season.“Going into this season, we've set a goal to qualify for the Ivy League Tournament, and we've been striving [to finish in the top four of the Ivy League] this season,” Ristianto said. “Personally, for me, I feel like being a good teammate and setting a standard, especially for the freshmen, is really important for me and the team.”Setting a standard for the freshmen class is one of the reasons why Ristianto was voted by her teammates to be one of two sophomores to this year’s leadership council.“She’s very positive, outgoing, bubbly, happy personality,” Ferguson said. “Those are infectious and traits you want around the team. I think the teammates looked at her when they made those votes, and I’m sure those things stood out.“On the field, work rate is excellent and top-notch. She’ll put her body on the line. She’s undersized for a player at this level, but it’s not recognizable because of the intensity and commitment she has.” Read More 09.18.24 Women's Soccer Headed to California For First Time Since 1991 09.15.24 Gallman Nets Equalizer as Women's Soccer Draws With Villanova 09.12.24 St. John's Offense Powers Past Women's Soccer 09.10.24 Women's Soccer Set to Face St. John's, Villanova",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Education"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Caroline Sherman",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Kayla Ristianto",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Cornell Athletics",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:07:22.380+03:00",
+    "updated": "2024-09-20T00:07:22.380+03:00"
+  },
+  {
+    "uuid": "83970f120f5835e2ef69069781abd26c804a0a87",
+    "url": "https://finance.sina.com.cn/stock/relnews/cn/2025-04-03/doc-inervqpz2956843.shtml",
+    "ord_in_thread": 0,
+    "author": "证券之星",
+    "published": "2025-04-02T21:12:00Z",
+    "title": "中国电信新注册《文物安全巡查上报统计系统V1.0》项目的软件著作权|中国电信_新浪财经_新浪网",
+    "text": "证券之星消息，近日 中国电信 （601728）新注册了《文物安全巡查上报统计系统V1.0》项目的软件著作权。今年以来中国电信新注册软件著作权43个，较去年同期增加了760%。结合公司2024年年报财务数据，2024年公司在研发方面投入了145.27亿元，同比增11.3%。\n数据来源：企查查\n以上内容为证券之星据公开信息整理，由智能算法生成（网信算备310104345710301240019号），不构成投资建议。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->computing and information technology",
+      "Science and Technology->scientific research",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T00:33:12.770+03:00",
+    "updated": "2025-04-03T00:33:12.770+03:00"
+  },
+  {
+    "uuid": "8b789f67277786e3306f8172586b11676f694eb2",
+    "url": "https://www.pharmacytimes.com/view/researchers-develop-adc-combination-therapy-to-target-trbc1-expressed-hematologic-cancers",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gillian McGovern, Assistant Editor",
+    "published": "2024-04-11T00:00:00Z",
+    "title": "Researchers Develop ADC Combination Therapy to Target TRBC1-Expressed Hematologic Cancers",
+    "text": "Research published in Nature demonstrates that a treatment for leukemias and lymphomas that come from immune system T cells was found to be effective at killing these cancers in mice with human T-cell tumors. The therapy, an antibody drug conjugate (ADC), combines an antibody which targets the TRBC1 protein that is expressed on T-cell cancers’ surfaces with an anti-cancer drug, SG3249. The ADC uses the antibody to detect cells that express TRBC1, and when the TRBC1-expressing cells ingest ADC, SG3249 is released to kill the cancer cells.1\\n\\n\\n\\n“Developing treatments for T-cell leukemias and lymphomas is much more difficult than for leukemias and lymphomas arising from immune system B cells,” said senior study author Suman Paul, MBBS, PhD, assistant professor of oncology at the Johns Hopkins University School of Medicine, in a press release.1\\n\\nThe authors emphasize that effective therapies for B-cell cancers must wipe out both cancerous and noncancerous B cells, but patients still do well even without the immune system B cells fighting infections. If similar approaches were to be used and a treatment wiped out both normal and cancerous T cells, it would leave patients without a functioning immune system. This would cause a high risk of death from infections.1\\n\\nAlthough antibody and chimeric antigen receptor (CAR) T cell-mediated targeted therapies have improved survival in patients with solid or hematologic malignancies, adults who specifically have T cell leukemias and lymphomas typically have shorter survivals and lack these targeted therapies. Patients who have relapsed T-cell cancers have limited therapeutic options, and according to the authors, 5-year survival rates of approximately 7% to 38%.1,2\\n\\n“Not much drug development has happened in this space of T-cell leukemias and lymphomas,” said Paul in the press release. “We need new therapies for these cancers, but whatever therapies we develop in the space have to be [specific to the cancer]. We have to preserve some of the normal T cells and wipe out cancerous T cells at the same time.”1\\n\\nT-cell cancers express either TRBC1 or TRBC2, whereas normal T cells express a mix of both, which can make selective targeting of TRBC1 difficult and lead to the potential eradication of the normal and cancerous T cells which express TRBC1, while preserving normal T cells expressing TRBC2. A prior study that attempted to target TRBC1 cancers using CAR T-cell therapy showed that the CAR T cells were not persisting inside the treated patients, which is necessary to kill cancer cells.1\\n\\nIn the current study, the authors demonstrate that CAR T cells are typically lost due to the elimination of normal T cells in the patient, therefore reducing their efficacy. To bypass the issue, the ADC was developed to kill TRBC1 cells in vitro to cure human T cell cancers in mouse models. The findings demonstrated that after 1 treatment with the anti-TRBC1-SG3249 ADC combination, signs of cancer elimination were present within a week and the cancers were eventually undetectable. The authors note that the tumors did not come back even after following the mouse models for about 200 days.1,2\\n\\n“Witnessing the successful elimination of T-cell cancers while sparing normal T cells in preclinical models was truly gratifying,” said study co-author Jiaxin Ge, third-year PhD student in the Ludwig Center, in the press release. “We believe this approach has the potential to address a critical unmet need in oncology, and we’re committed to advancing it through further research.”1\\n\\nThe authors note that additional research will be conducted to confirm the findings. Further, the investigators have an industry partner to initiate early-phase clinical trials to test the safety and efficacy in human patients.1\\n\\n“There are so many lessons to learn from the clinic and it has been exciting to be a part of the iterative process of drug discovery,” said first author Tushar Nichakawade, fourth-year PhD student at the Ludwig Center, in the press release. “Every therapy has its pros and cons, but the preclinical efficacy of our ADC gives me hope that it can make a difference for patients suffering from these terrible cancers.”1\\n\\n\\n\\nReferences\\n\\n1. Johns Hopkins Medicine. Johns Hopkins investigators develop novel treatment for T-cell leukemias and lymphomas. News release. April 2, 2024. Accessed April 3, 2024. https://www.eurekalert.org/news-releases/1039800\\n\\n2. Nichakawade, TD, Ge, J, Mog, BJ, et al. TRBC1-targeting antibody–drug conjugates for the treatment of T cell cancers. Nature (2024) doi:10.1038/s41586-024-07233-2",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health"
+    ],
+    "external_links": [
+      "https://www.eurekalert.org/news-releases/1039800\\n\\n2.",
+      "https://eurekalert.org/news-releases/1039800\\n\\n2."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "suman paul",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hematologic cancers research",
+          "sentiment": "negative"
+        },
+        {
+          "name": "adc",
+          "sentiment": "none"
+        },
+        {
+          "name": "johns hopkins university school of medicine",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-12T01:13:06.880+03:00",
+    "updated": "2024-04-12T01:13:06.880+03:00"
+  }
+]

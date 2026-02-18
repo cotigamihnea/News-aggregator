@@ -1,0 +1,724 @@
+[
+  {
+    "uuid": "89d31d931d26ad1e3bbee3e2d031582ee6f756ba",
+    "url": "https://www.theregister.com/2024/11/15/lenovo_china_slow_laptop",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Simon Sharwood",
+    "published": "2024-11-15T03:24:00Z",
+    "title": "Lenovo China makes slow ThinkPad X1 Carbon clone • The Register",
+    "text": "Lenovo's Chinese operation has created a premium laptop based around a slow and out-of-date x86-compatible processor – but at least it's locally designed.\nChinese state media report that the machine – dubbed the Kaixian X1 G1d – weighs in at 990 grams, boasts a 2800x1800 display, three USB-C ports, one USB-A slot, and an unspecified capacity for DDR4 memory.\nThe Zhaoxin KX-6000G chip powering the laptop offers just four cores and runs four threads. While Lenovo has apparently juiced the 3.6GHz processor to run at 3.8GHz, tests of the processor rate it as inferior to Intel and AMD desktop chips released three to five years ago.\nLenovo has nonetheless used premium packaging for the machine, which is said to resemble the ThinkPad X1 Carbon that has long been the PC leader's flagship business laptop.\nThe Lenovo Kaixian X1 G1d laptop - Click to enlarge\nPrices start at around $1,500.\nBut don't try buying it from Lenovo.com.cn – it's not there. The machine is being sold at third party online stores, while Lenovo China's own online store is full of machines packing more recent and powerful Intel and AMD processors.\nBut the box does feature on the website of Shanghai Zhaoxin Integrated Circuit Co., Ltd – the silicon slinger that made its processor, using tech derived from the x86 license it acquired years ago from Taiwan's Via Technologies, which made its own modest range of processors before quitting the CPU biz and heading for other markets.\nChinese chipmaker Loongson now just three to five years off the pace on the desktop China's top Office clone copies Microsoft again – with an inconvenient outage China Telecom's next 150,000 servers will mostly use local processors Lenovo turns to India as source of AI servers What gives? Why has Lenovo created – and seemingly hidden – a premium-look laptop with a poor processor?\nTo answer that question, remember that China wants locals to use more tech designed and built within its borders. Earlier this year Beijing even excluded AMD and Intel from a list of approved CPUs, and has also emphasized the use of locally developed operating systems.\nKnow, too, that Zhaoxin has Beijing's favor, and that Chinese media is hailing this laptop as the first time the chip design firm's wares have been packaged into a product.\nZhaoxin, however, has already bettered the KX-6000G. Just last week it showed off its KX-7000 series processors in a desktop PC from local box builder Tongfang Computer.\nOne market that could be receptive to a pretty but underpowered laptop is China's government, which has been asked to lead the transition to local tech by example.\nBut overall, this one is a head-scratcher. ®\nGet our Tech Resources",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_onprem/publicsector&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzbEgiqfLBQIO550D_8rJQAAARM&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+      "https://finance.sina.com.cn/tech/roll/2024-11-14/doc-incvzseh7096351.shtml",
+      "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_onprem/publicsector&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzbEgiqfLBQIO550D_8rJQAAARM&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+      "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_onprem/publicsector&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzbEgiqfLBQIO550D_8rJQAAARM&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+      "https://www.zhaoxin.com/spzx_view.aspx?nid=2&typeid=174&id=1728",
+      "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_onprem/publicsector&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzbEgiqfLBQIO550D_8rJQAAARM&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+      "https://www.zhaoxin.com/news_view.aspx?nid=2&typeid=277&id=1726",
+      "https://pc.watch.impress.co.jp/docs/column/hothot/1626253.html#",
+      "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_onprem/publicsector&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzbEgiqfLBQIO550D_8rJQAAARM&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+      "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_onprem/publicsector&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzbEgiqfLBQIO550D_8rJQAAARM&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+      "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_onprem/publicsector&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzbEgiqfLBQIO550D_8rJQAAARM&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+      "https://zhaoxin.com/news_view.aspx?nid=2&typeid=277&id=1726",
+      "https://pubads.g.doubleclick.net/gampad/ad",
+      "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_onprem/publicsector&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzbEgiqfLBQIO550D_8rJQAAARM&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+      "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_onprem/publicsector&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzbEgiqfLBQIO550D_8rJQAAARM&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+      "https://www.finance.sina.com.cn/tech/roll/2024-11-14/doc-incvzseh7096351.shtml",
+      "https://zhaoxin.com/spzx_view.aspx?nid=2&typeid=174&id=1728",
+      "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_onprem/publicsector&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzbEgiqfLBQIO550D_8rJQAAARM&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+      "https://www.pc.watch.impress.co.jp/docs/column/hothot/1626253.html#",
+      "https://www.zhaoxin.com/spzx_view.aspx",
+      "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_onprem/publicsector&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzbEgiqfLBQIO550D_8rJQAAARM&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+      "https://pubads.g.doubleclick.net/gampad/jump",
+      "https://www.zhaoxin.com/news_view.aspx",
+      "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_onprem/publicsector&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzbEgiqfLBQIO550D_8rJQAAARM&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Lenovo",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Intel",
+          "sentiment": "none"
+        },
+        {
+          "name": "AMD",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T05:50:53.234+02:00",
+    "updated": "2024-11-15T05:50:53.234+02:00"
+  },
+  {
+    "uuid": "df393f23daf1081d95c097e35cfa6b4d383a3a42",
+    "url": "https://www.citizen.co.za/news/south-africa/weather/weather-forecast-saturday-2-november-2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chulumanco Mahamba",
+    "published": "2024-11-01T12:17:00Z",
+    "title": "Most of SA under heatwave until Monday and fire danger warnings | The Citizen",
+    "text": "Find out what the latest weather forecast from the SA Weather Service means for your region. Picture: Canva\nThe South African Weather Service (Saws) has released its latest weather forecast for Saturday, 2 November 2024.\nThe weather service has warned of a heatwave with persistently high temperatures across most of the provinces until Monday and high fire danger in four provinces. Here’s what you need to know.\n🌡️Heatwave with persistently high temperatures is expected over Limpopo, Mpumalanga, Gauteng, Free State, North West, as well as the north-eastern areas of Eastern Cape & KwaZulu-Natal, from Saturday (02-04 November 2024) until Monday. #saws #weatheroutlook #southafricanweather pic.twitter.com/L6F1BIxWom\n— SA Weather Service (@SAWeatherServic) November 1, 2024 Weather warnings, 2 November Fire danger warnings Extremely high fire danger conditions are expected over the central and eastern parts of the Northern Cape, the northern interior of the Eastern Cape, and the central and western parts of both the Free State and North West provinces.\nAdvisories The weather service has warned of a heat wave with persistently high temperatures expected over Gauteng, Mpumalanga, Limpopo, the North West, the Free State, and the northern and north-western parts of KwaZulu-Natal until Monday but over the north-eastern interior of the Eastern Cape until Sunday.\nRead more Gauteng heatwave: Residents warned to stay out of the sun this weekend Extremely hot conditions are also expected in the Lowveld and Western Bushveld of Limpopo and the Lowveld of Mpumalanga on Sunday.\nALSO READ : Gauteng heatwave: Residents warned to stay out of the sun this weekend\nProvincial weather forecast Here’s what to expect in your province on Saturday, 2 November:\nGauteng:\nResidents of Gauteng can expect fine and hot weather, becoming partly cloudy in the south in the afternoon. It will be very hot in the north.\nThe region’s expected UVB sunburn index is “very high.”\nResidents should take the necessary precautions against prolonged sun exposure.\nGauteng Tomorrow 's Weather overview: 02/11/2024 pic.twitter.com/tZWoM7eF18\n— SA Weather Service (@SAWeatherServic) November 1, 2024 Mpumalanga:\nMpumalanga residents can expect morning fog patches along the escarpment; otherwise, it will be fine and hot, becoming partly cloudy on the Highveld in the afternoon. It will be very hot in the Lowveld.\nMpumalanga Tomorrow 's Weather overview: 02/11/2024 pic.twitter.com/a9tjT33Czj\n— SA Weather Service (@SAWeatherServic) November 1, 2024 Limpopo:\nThe day will be fine and hot to very hot.\nLimpopo Tomorrow 's Weather overview: 02/11/2024 pic.twitter.com/dtWyRckBAz\n— SA Weather Service (@SAWeatherServic) November 1, 2024 North-West province:\nFine and hot to very hot conditions await North West residents, becoming partly cloudy with isolated thundershowers in the west.\nNorth West Tomorrow 's Weather overview: 02/11/2024 pic.twitter.com/IwZWm3dB1g\n— SA Weather Service (@SAWeatherServic) November 1, 2024 Free State:\nResidents of the Free State will see fine and hot to very hot weather, becoming partly cloudy with isolated thundershowers except in the south.\nFree State Tomorrow 's Weather overview: 02/11/2024 pic.twitter.com/pvTdJfCAV8\n— SA Weather Service (@SAWeatherServic) November 1, 2024 Northern Cape:\nThe day will start with morning fog patches along the coast where it will be cool; otherwise, it will be fine and warm to hot but very hot over the central and eastern parts. It will become partly cloudy in the northeast with isolated afternoon thundershowers.\nNorthern Cape Tomorrow 's Weather overview: 02/11/2024 pic.twitter.com/19p3T7QilC\n— SA Weather Service (@SAWeatherServic) November 1, 2024 Western Cape:\nWestern Cape residents can expect partly cloudy conditions along the coast where it will be cool; otherwise, it will be fine and warm but hot over the Central Karoo.\nThe region’s expected UVB sunburn index is “extreme.”\nResidents should take the necessary precautions against prolonged sun exposure.\nWestern Cape Tomorrow 's Weather overview: 02/11/2024 pic.twitter.com/YKCRulwEGI\n— SA Weather Service (@SAWeatherServic) November 1, 2024 Eastern Cape (western half):\nThere will be morning fog patches in the south; otherwise, it will be partly cloudy and hot to very hot but cool along the coast.\nEastern Cape (eastern half):\nThere will be morning fog patches south of the escarpment; otherwise, it will be fine and warm to hot but cool along the coast. It will become partly cloudy in the afternoon.\nEastern Cape Tomorrow 's Weather overview: 02/11/2024 pic.twitter.com/7Ugdb2ODYm\n— SA Weather Service (@SAWeatherServic) November 1, 2024 KwaZulu-Natal:\nResidents of KwaZulu-Natal can look forward to morning fog patches over the interior; otherwise, it will be partly cloudy and hot to very hot.\nThe region’s expected UVB sunburn index is “extreme.”\nResidents should take the necessary precautions against prolonged sun exposure.\nKwazulu Natal Tomorrow 's Weather overview: 02/11/2024 pic.twitter.com/ETCpIO60W7\n— SA Weather Service (@SAWeatherServic) November 1, 2024\nRead more on these topics South African Weather Service (Saws) weather warnings For more news your way Download our app and read this and other great stories on the move. Available for Android and iOS.\nEDITOR'S CHOICE South Africa A first for SA: Parliament votes for committee to oversee Presidency’s functions Courts Amantle Samane’s alleged killer hospitalised after ‘assault’ in custody [VIDEO] Courts Corruption charges against Zizi Kodwa withdrawn [VIDEO] Opinion A VIEW OF THE WEEK: Forget the promises and push the panic button on crime News Mashatile on why the country is hiring foreigners while millions of South Africans are jobless For more news your way Download The Citizen App for IOS and Android\nClick here to get The Citizen news and updates on Whatsapp.\nFind out more 1 Newsletters Do not miss a single story.\nGet all the latest news in your inbox.\nSubscribe RELATED ARTICLES Weather Gauteng heatwave: Residents warned to stay out of the sun this weekend 5 hours ago Weather Hot weather tomorrow: Temperatures well into 30s before weekend heatwave 23 hours ago Weather Hot and sunny conditions across SA and high fire danger 1 day ago Weather Fine weather expected tomorrow after some fog and rain at the coast 2 days ago About us Contact us Our team Newsletters Code of conduct Jobs at The Citizen Advertising rate card Privacy policy Terms and conditions NEWS PREMIUM BUSINESS SPORT PHAKAAATHI LIFESTYLE ENTERTAINMENT TRAVEL MULTIMEDIA MOTORING HORSES COMPETITIONS",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/SAWeatherServic/status/1852290326980927914?ref_src=twsrc%5Etfw",
+      "https://twitter.com/SAWeatherServic/status/1852290331770831086?ref_src=twsrc%5Etfw",
+      "https://twitter.com/SAWeatherServic/status/1852290301475299467?ref_src=twsrc%5Etfw",
+      "https://twitter.com/SAWeatherServic/status/1852290307741626743?ref_src=twsrc%5Etfw",
+      "https://t.co/ETCpIO60W7",
+      "https://t.co/19p3T7QilC",
+      "https://twitter.com/SAWeatherServic/status/1852290321842860300?ref_src=twsrc%5Etfw",
+      "https://t.co/dtWyRckBAz",
+      "https://t.co/IwZWm3dB1g",
+      "https://twitter.com/SAWeatherServic/status/1852290344462791043?ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/weatheroutlook?src=hash&ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/southafricanweather?src=hash&ref_src=twsrc%5Etfw",
+      "https://www.weathersa.co.za/",
+      "https://twitter.com/SAWeatherServic/status/1852315336239898969?ref_src=twsrc%5Etfw",
+      "https://t.co/tZWoM7eF18",
+      "https://t.co/a9tjT33Czj",
+      "https://twitter.com/SAWeatherServic/status/1852290337965797452?ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/saws?src=hash&ref_src=twsrc%5Etfw",
+      "https://t.co/L6F1BIxWom",
+      "https://t.co/YKCRulwEGI",
+      "https://twitter.com/SAWeatherServic/status/1852290312871313699?ref_src=twsrc%5Etfw",
+      "https://twitter.com/SAWeatherServic/status/1852290317615087639?ref_src=twsrc%5Etfw",
+      "https://t.co/7Ugdb2ODYm",
+      "https://t.co/pvTdJfCAV8",
+      "https://twitter.com/hashtag/saws",
+      "https://www.twitter.com/SAWeatherServic/status/1852290317615087639?ref_src=twsrc%5Etfw",
+      "https://twitter.com/SAWeatherServic/status/1852290317615087639",
+      "https://www.twitter.com/SAWeatherServic/status/1852290321842860300?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/SAWeatherServic/status/1852290344462791043?ref_src=twsrc%5Etfw",
+      "https://twitter.com/SAWeatherServic/status/1852290344462791043",
+      "https://www.t.co/tZWoM7eF18",
+      "https://www.t.co/pvTdJfCAV8",
+      "https://twitter.com/SAWeatherServic/status/1852290312871313699",
+      "https://twitter.com/SAWeatherServic/status/1852315336239898969",
+      "https://www.t.co/19p3T7QilC",
+      "https://www.weathersa.co.za",
+      "https://www.twitter.com/SAWeatherServic/status/1852290337965797452?ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/weatheroutlook",
+      "https://www.twitter.com/SAWeatherServic/status/1852315336239898969?ref_src=twsrc%5Etfw",
+      "https://twitter.com/SAWeatherServic/status/1852290326980927914",
+      "https://www.t.co/dtWyRckBAz",
+      "https://www.twitter.com/hashtag/saws?src=hash&ref_src=twsrc%5Etfw",
+      "https://weathersa.co.za/",
+      "https://www.t.co/ETCpIO60W7",
+      "https://www.t.co/7Ugdb2ODYm",
+      "https://www.t.co/YKCRulwEGI",
+      "https://www.twitter.com/SAWeatherServic/status/1852290307741626743?ref_src=twsrc%5Etfw",
+      "https://twitter.com/SAWeatherServic/status/1852290301475299467",
+      "https://www.twitter.com/hashtag/southafricanweather?src=hash&ref_src=twsrc%5Etfw",
+      "https://twitter.com/SAWeatherServic/status/1852290321842860300",
+      "https://twitter.com/SAWeatherServic/status/1852290307741626743",
+      "https://www.twitter.com/SAWeatherServic/status/1852290312871313699?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/SAWeatherServic/status/1852290326980927914?ref_src=twsrc%5Etfw",
+      "https://twitter.com/SAWeatherServic/status/1852290337965797452",
+      "https://www.t.co/a9tjT33Czj",
+      "https://www.twitter.com/SAWeatherServic/status/1852290331770831086?ref_src=twsrc%5Etfw",
+      "https://www.t.co/L6F1BIxWom",
+      "https://twitter.com/SAWeatherServic/status/1852290331770831086",
+      "https://twitter.com/hashtag/southafricanweather",
+      "https://www.twitter.com/SAWeatherServic/status/1852290301475299467?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/hashtag/weatheroutlook?src=hash&ref_src=twsrc%5Etfw",
+      "https://www.t.co/IwZWm3dB1g"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T16:26:09.578+02:00",
+    "updated": "2024-11-02T10:21:45.934+02:00"
+  },
+  {
+    "uuid": "61c72c74e225a6a13e850d88f0ed999da85bb935",
+    "url": "https://flipboard.com/article/blue-bloods-star-vanessa-ray-welcomes-baby-boy-with-husband-landon-beard-quite/f-6f96b8489f%2Fpeople.com",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "People - Hannah Sacks",
+    "published": "2024-02-29T00:00:00Z",
+    "title": "Blue Bloods Star Vanessa Ray Welcomes Baby Boy with Husband Landon Beard: 'Quite a Whirlwind' (Exclusive) | Flipboard",
+    "text": "Blue Bloods Star Vanessa Ray Welcomes Baby Boy with Husband Landon Beard: 'Quite a Whirlwind' (Exclusive) Vanessa Ray's family has grown by one more! The actress, who is currently starring in her tenth season of Blue Bloods, welcomed a baby boy via adoption with husband Landon Beard, she exclusively tells PEOPLE. \"Isaac Ray Beard was born on November 7th and he kind of came into our life, it was quite a … [People](/@people) flipped this story into [All Stories](/@people/all-stories-l1gknn9dz)•12h Related storyboards Related articles [Kanye West's Wife Bianca Censori Leaves Little to the Imagination in Another Completely Sheer Outfit](/@parademag/trending-news-qm8c6108z/kanye-west-s-wife-bianca-censori-leaves-little-to-the-imagination-in-another-com/a-bJw_HQ1lQLqkgPC47fyfJw%3Aa%3A3253265302-e5fbefb3b3%2Fparade.com) The 29-year-old model has been showing off her latest risqué looks at Fashion Week in Paris. Bianca Censori has been pulling out some of her most … [Beyoncé Is Officially On The Red Hair Wave & It Suits Her Impossibly Well](/@thezoereport/beauty-6m129ifaz/beyonc-is-officially-on-the-red-hair-wave-it-suits-her-impossibly-well/a-SxvcIH6CRnmONT9I727DFA%3Aa%3A1787989846-dfefc8a0e4%2Fthezoereport.com) Hot, hot, hot. Anyone else too grateful for this Leap Year? It’s an extra day to hang with loved ones sure, but it also allowed for an extra 24 hours … Join the flipboard community Discover, collect, and share stories for all your interests [Sign up](/signup) More stories from [Celebrity News](/topic/celebritynews) [Donald Trump Sparks Health Concerns Over Dragging Leg in Another Viral Video: 'It Looks Like Middle-Stage Dementia'](/topic/celebritynews/donald-trump-sparks-health-concerns-over-dragging-leg-in-another-viral-video-i/a-q3umwLTfTsiu8FlKYt0kpQ%3Aa%3A3477624312-447ab55af2%2Fokmagazine.com) In a video circulating on social media, Donald Trump was seen dragging his right leg, prompting concerns and speculation about his health status. This … [Gal Gadot Had Jimmy Kimmel Turning Red After She Asked The Host About Her \"Chest Area\"](/topic/celebritynews/gal-gadot-had-jimmy-kimmel-turning-red-after-she-asked-the-host-about-her-chest/a-2QixfUSVRI-ukVVQlQBrNQ%3Aa%3A3039078443-6f73490743%2Fthethings.com) After Jimmy Kimmel asked a question about comic book fans, Gal Gadot completely flipped the script. Fans have noticed Jimmy Kimmel getting flustered in …",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "vanessa ray welcomes baby boy",
+          "sentiment": "negative"
+        },
+        {
+          "name": "landon beard",
+          "sentiment": "negative"
+        },
+        {
+          "name": "isaac ray beard",
+          "sentiment": "none"
+        },
+        {
+          "name": "bianca censori",
+          "sentiment": "none"
+        },
+        {
+          "name": "bianca-censori",
+          "sentiment": "none"
+        },
+        {
+          "name": "vanessa ray",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "fashion week",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "paris",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-01T00:51:01.544+02:00",
+    "updated": "2024-03-01T00:51:01.544+02:00"
+  },
+  {
+    "uuid": "9ca856321fb68eac0f7d13227b181552a5764ddf",
+    "url": "https://vnexplorer.net/why-are-some-areas-colder-despite-extreme-heat-pagasa-explains-s2709561.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-05-10T04:27:00Z",
+    "title": "Why are some areas 'colder' despite extreme heat? PAGASA explains",
+    "text": "This is from scitech selected image. Dry weather, exacerbated by the El Niño phenomenon, has left many Filipinos drenched in sweat. But for Silvestre Aben, who grew up in La Trinidad, Benguet, it remains cool up north despite the extreme heat in most parts of the country. “For this time, mga 26 degrees Celsius. Kung sa hapon, bababa pa ng mga 24°C to 25°C. Talagang ganito ang temperature dito sa Benguet,” he told GMA News Online. (For this time, it’s 26 degrees Celsius. In the afternoon, it reaches between 24°C and 25°C. This is how the temperature is here in Benguet.) “Walang pinagbago. Talagang ganun ang weather dito sa Benguet. Kapag aakyat ka pa sa north, mas malamig doon,” Aben added. (Nothing really changed. That’s how the weather is in Benguet. If you go up north, it’s colder there.) State weather bureau PAGASA has recorded dangerous levels of heat indexes across the country since March. Heat index is the measure of the temperature that a person feels in contrast to the actual air temperature. It is computed by factoring in the humidity and the air temperature, according to the state weather bureau. On April 28, the heat index in Iba, Zambales, rose to an extremely dangerous level of 53°C — the highest in the country so far this year. Around 25 areas also reported dangerous levels of heat indexes of up to 45°C on May 9. Topography But despite the extreme heat, some areas remained relatively cooler, reporting lower heat indexes. These include Baguio City, La Trinidad, Benguet, and Tanay, Rizal. In the last five days, La Trinidad reported heat indexes of 25°C (May 9), 27°C (May 8), 29°C (May 7), 26°C (May 6), and 27°C (May 5). Meanwhile, Baguio monitored heat indexes of 25°C (May 9), 27°C (May 8), and 28°C (May 5 to May 7). The municipality of Tanay experienced heat indexes of 34°C (May 9), 32°C (May 8), 33°C (May 7), 32°C (May 6), and 33°C (May 5). John Manalo, a PAGASA weather specialist, explained that an area’s terrain has an impact on the heat index. “Maraming factors na nagpapataas o nagpapababa ng heat index measurements na nao-obserbahan natin. Isa po dito ay ‘yung elevation or ‘yung topography,” said Manalo. (There are many factors affecting heat index measurements. One of the factors is elevation, or the area’s topography.) “’Yung mga lugar na nasa highly-elevated o ‘yung matataas gaya ng Baguio…relatively, mas malamig o lower ‘yung temperature..as compared sa mga low-lying areas, halimbawa, Metro Manila,” he added. (Highly elevated areas such as Baguio City experience lower temperatures compared to low-lying areas like Metro Manila.) “May role din ang distance from the nearest body of water…Kung sa Manila Bay, the more na mas malapit sa body of water, mas may tendency na mas mataas ang relative humidity dahil sa moisture content na dala ng mga body of water,” Manalo said. (An area’s distance to the nearest body of water also plays a role. Coastal areas such as Manila Bay have higher relative humidity due to the moisture content of the body of water.) Warmer Baguio Although Baguio is known for its cold climate, Sam Silverio noticed that today’s heat is different from the previous years. “Hindi ganun kainit compared sa Manila, pero mainit pala compared to usual Baguio weather,” she told GMA News Online. (It’s not that hot compared to Manila, but this is hotter compared to the usual Baguio weather.) “Gumigising na ako madalas basa ng pawis eh (I now often wake up sweating).” Rachel Santos said that the heat in Tanay is still bearable compared to Metro Manila, but she also noticed that it is different from the past. “As compared sa mga nagdaang summer season, iba talaga yung init ngayon kahit saan,” she told GMA News Online. (As compared to the previous summer seasons, it is very hot anywhere else.) PAGASA said the infrastructure and establishments in an area can also influence the heat index. Dubbed the “urban heat island effect,” cities record warmer indexes than rural areas due to the buildings and establishments around them. “Ang urban areas ay relatively mas warmer compared sa nearby rural areas niya dahil sa differences sa structures and materials na nakikita natin sa urban areas,” said Manalo. (Urban areas are relatively warmer than rural areas because of the differences in structures and materials.) “Ang main difference nila ay heat capacity…Mas maraming buildings, mas may tendency na ma-hold nila yung warm air. Unlike sa rural na magdi-dissipate agad ang warm air, sa rural naga-accumulate siya and imbis na mapunta sa upper part ng atmosphere, nagt-transfer pa siya from one building to another o hino-hold pa siya ng asphalt o concrete or metals na meron kadalasan sa urban areas,” he added. (The main difference is the heat capacity. Buildings tend to hold warm air, unlike in rural areas where the warm air easily dissipates. The warm air in urban areas accumulates and even transfers from one building to another. The asphalt, concrete, and metal materials in urban areas also hold warm air.) In Benguet, Aben said that it’s much cooler back in the day when there were still more trees. “Nung bata pa kami, malamig na malamig nun. Kasi marami pang kahoy nun, pero ngayon wala na, naubos na ang kahoy,” he said. (When we were young, it was very cold then. Because there were still many trees, but there are fewer of them now.) — VBL, GMA Integrated News This article Why are some areas ‘colder’ despite extreme heat? PAGASA explains was originally published in GMA News Online.\" } Global US CH SE DK NO NL BE UK DE FR FI IT AT ES PT PL IE GR CZ TR AE CA JP KR AR BR IN\nPH Why are some areas 'colder' despite extreme heat? PAGASA explains 10/05/2024\nThis is from scitech selected image.\nDry weather, exacerbated by the El Niño phenomenon, has left many Filipinos drenched in sweat.\nBut for Silvestre Aben, who grew up in La Trinidad, Benguet, it remains cool up north despite the extreme heat in most parts of the country.\n“For this time, mga 26 degrees Celsius. Kung sa hapon, bababa pa ng mga 24°C to 25°C. Talagang ganito ang temperature dito sa Benguet,” he told GMA News Online.\n(For this time, it’s 26 degrees Celsius. In the afternoon, it reaches between 24°C and 25°C. This is how the temperature is here in Benguet.)\n“Walang pinagbago. Talagang ganun ang weather dito sa Benguet. Kapag aakyat ka pa sa north, mas malamig doon,” Aben added.\n(Nothing really changed. That’s how the weather is in Benguet. If you go up north, it’s colder there.)\nState weather bureau PAGASA has recorded dangerous levels of heat indexes across the country since March.\nHeat index is the measure of the temperature that a person feels in contrast to the actual air temperature. It is computed by factoring in the humidity and the air temperature, according to the state weather bureau.\nOn April 28, the heat index in Iba, Zambales, rose to an extremely dangerous level of 53°C — the highest in the country so far this year.\nAround 25 areas also reported dangerous levels of heat indexes of up to 45°C on May 9.\nTopography\nBut despite the extreme heat, some areas remained relatively cooler, reporting lower heat indexes. These include Baguio City, La Trinidad, Benguet, and Tanay, Rizal.\nIn the last five days, La Trinidad reported heat indexes of 25°C (May 9), 27°C (May 8), 29°C (May 7), 26°C (May 6), and 27°C (May 5).\nMeanwhile, Baguio monitored heat indexes of 25°C (May 9), 27°C (May 8), and 28°C (May 5 to May 7).\nThe municipality of Tanay experienced heat indexes of 34°C (May 9), 32°C (May 8), 33°C (May 7), 32°C (May 6), and 33°C (May 5).\nJohn Manalo, a PAGASA weather specialist, explained that an area’s terrain has an impact on the heat index.\n“Maraming factors na nagpapataas o nagpapababa ng heat index measurements na nao-obserbahan natin. Isa po dito ay ‘yung elevation or ‘yung topography,” said Manalo.\n(There are many factors affecting heat index measurements. One of the factors is elevation, or the area’s topography.)\n“’Yung mga lugar na nasa highly-elevated o ‘yung matataas gaya ng Baguio…relatively, mas malamig o lower ‘yung temperature..as compared sa mga low-lying areas, halimbawa, Metro Manila,” he added.\n(Highly elevated areas such as Baguio City experience lower temperatures compared to low-lying areas like Metro Manila.)\n“May role din ang distance from the nearest body of water…Kung sa Manila Bay, the more na mas malapit sa body of water, mas may tendency na mas mataas ang relative humidity dahil sa moisture content na dala ng mga body of water,” Manalo said.\n(An area’s distance to the nearest body of water also plays a role. Coastal areas such as Manila Bay have higher relative humidity due to the moisture content of the body of water.)\nWarmer Baguio\nAlthough Baguio is known for its cold climate, Sam Silverio noticed that today’s heat is different from the previous years.\n“Hindi ganun kainit compared sa Manila, pero mainit pala compared to usual Baguio weather,” she told GMA News Online.\n(It’s not that hot compared to Manila, but this is hotter compared to the usual Baguio weather.)\n“Gumigising na ako madalas basa ng pawis eh (I now often wake up sweating).”\nRachel Santos said that the heat in Tanay is still bearable compared to Metro Manila, but she also noticed that it is different from the past.\n“As compared sa mga nagdaang summer season, iba talaga yung init ngayon kahit saan,” she told GMA News Online.\n(As compared to the previous summer seasons, it is very hot anywhere else.)\nPAGASA said the infrastructure and establishments in an area can also influence the heat index. Dubbed the “urban heat island effect,” cities record warmer indexes than rural areas due to the buildings and establishments around them.\n“Ang urban areas ay relatively mas warmer compared sa nearby rural areas niya dahil sa differences sa structures and materials na nakikita natin sa urban areas,” said Manalo.\n(Urban areas are relatively warmer than rural areas because of the differences in structures and materials.)\n“Ang main difference nila ay heat capacity…Mas maraming buildings, mas may tendency na ma-hold nila yung warm air. Unlike sa rural na magdi-dissipate agad ang warm air, sa rural naga-accumulate siya and imbis na mapunta sa upper part ng atmosphere, nagt-transfer pa siya from one building to another o hino-hold pa siya ng asphalt o concrete or metals na meron kadalasan sa urban areas,” he added.\n(The main difference is the heat capacity. Buildings tend to hold warm air, unlike in rural areas where the warm air easily dissipates. The warm air in urban areas accumulates and even transfers from one building to another. The asphalt, concrete, and metal materials in urban areas also hold warm air.)\nIn Benguet, Aben said that it’s much cooler back in the day when there were still more trees.\n“Nung bata pa kami, malamig na malamig nun. Kasi marami pang kahoy nun, pero ngayon wala na, naubos na ang kahoy,” he said.\n(When we were young, it was very cold then. Because there were still many trees, but there are fewer of them now.) — VBL, GMA Integrated News\nThis article Why are some areas ‘colder’ despite extreme heat? PAGASA explains was originally published in GMA News Online.\nNews Related Recall Just Announced For Popular Cookies Featured In Holiday Gift Baskets Anyone who&#8217;s purchased gift baskets to hand out to loved ones this holiday season might need to find a backup present after the latest food recall that involves festive cookies. Gift basket company Wine Country Gift Baskets just announced that it is voluntarily recalling all gift baskets that feature Acorn Baking ...\nSee Details: Recall Just Announced For Popular Cookies Featured In Holiday Gift Baskets Eagles rally past Bills in overtime as Chiefs win LOS ANGELES: Quarterback Jalen Hurts ran in an overtime touchdown to give the Philadelphia Eagles a 37-34 NFL win over the Buffalo Bills Sunday (Monday in Manila) and move them to 10-1 on the season. The Eagles, who lost the Super Bowl to Kansas City last season, trailed at half-time ...\nSee Details: Eagles rally past Bills in overtime as Chiefs win Reality bites the green energy agenda Yen Makabenta First word WHILE UN Secretary-General Antonio Guterres and other promoters of the climate emergency are preparing to convene the 28th conference of the parties (COP28) of the UN Framework Convention on Climate Change (UNFCCC) in the United Arab Emirates, starting on November 30 and stretching to December 12, ...\nSee Details: Reality bites the green energy agenda Sandigan orders Marcos Sr. pal to pay workers Sandigan orders Marcos Sr. pal to pay workers The Sandiganbayan has ordered the enforcement of a July 2023 ruling ordering a Marcos Sr. associate to pay a lumber company’s workers P2.1 million in damages as well as return 60 percent of their company’s shares and pay all unpaid benefits. The ...\nSee Details: Sandigan orders Marcos Sr. pal to pay workers DSWD: Shear line, LPA affect 1.2 million people; over 18,000 families evacuated DSWD: Shear line, LPA affect 1.2 million people; over 18,000 families evacuated MANILA, Philippines – More than 18,000 families have fled to evacuation centers across flood-affected regions in the country due to the impact of the shear line and low pressure area. Department of Social Welfare and Development (DSWD) gave ...\nSee Details: DSWD: Shear line, LPA affect 1.2 million people; over 18,000 families evacuated The mayor of Paris is making a loud exit from X, calling the platform a 'gigantic global sewer' Paris mayor Anne Hidalgo and X owner and chief technology officer Elon Musk Chesnot and Kirsty Wigglesworth &#8211; WPA Pool via Getty Images Paris Mayor Anne Hidalgo says she&#8217;s leaving X after 14 years on the platform. In a lengthy farewell post, she said the platform has become a &#8220;gigantic global ...\nSee Details: The mayor of Paris is making a loud exit from X, calling the platform a 'gigantic global sewer' Rain showers, thunderstorms over Luzon, including Metro Manila — Pagasa MANILA, Philippines: The entire Luzon, including Metro Manila, is expected to experience isolated rain showers and thunderstorms as the northeast monsoon (&#8220;amihan&#8221;) and easterlies will be affecting the country over the next 24 hours, the state-run weather agency said on Tuesday. Weather specialist Patrick del Mundo of the Philippine Atmospheric ...\nSee Details: Rain showers, thunderstorms over Luzon, including Metro Manila — Pagasa 'Naruto' live-action film adaptation is in the works Attention, Naruto fans! You can soon watch the famous anime&#8217;s live-action adaptation as it finally has a confirmed writer. According to a Variety report, the beloved manga and anime series is set to head to big screens for its live-action adaptation under Lionsgate. It will be written by Tasha Hao, ...\nSee Details: 'Naruto' live-action film adaptation is in the works NASA Highlights Stingray Nebula Attention, Naruto fans! You can soon watch the famous anime&#8217;s live-action adaptation as it finally has a confirmed writer. According to a Variety report, the beloved manga and anime series is set to head to big screens for its live-action adaptation under Lionsgate. It will be written by Tasha Hao, ...\nSee Details: NASA Highlights Stingray Nebula Manila's Lagusnilad underpass opens Attention, Naruto fans! You can soon watch the famous anime&#8217;s live-action adaptation as it finally has a confirmed writer. According to a Variety report, the beloved manga and anime series is set to head to big screens for its live-action adaptation under Lionsgate. It will be written by Tasha Hao, ...\nSee Details: Manila's Lagusnilad underpass opens China probes debt-ridden financial giant Attention, Naruto fans! You can soon watch the famous anime&#8217;s live-action adaptation as it finally has a confirmed writer. According to a Variety report, the beloved manga and anime series is set to head to big screens for its live-action adaptation under Lionsgate. It will be written by Tasha Hao, ...\nSee Details: China probes debt-ridden financial giant China's VUCA situation Attention, Naruto fans! You can soon watch the famous anime&#8217;s live-action adaptation as it finally has a confirmed writer. According to a Variety report, the beloved manga and anime series is set to head to big screens for its live-action adaptation under Lionsgate. It will be written by Tasha Hao, ...\nSee Details: China's VUCA situation Unraveling the mystery that is diabetes Attention, Naruto fans! You can soon watch the famous anime&#8217;s live-action adaptation as it finally has a confirmed writer. According to a Variety report, the beloved manga and anime series is set to head to big screens for its live-action adaptation under Lionsgate. It will be written by Tasha Hao, ...\nSee Details: Unraveling the mystery that is diabetes Bangladesh's nuke plant is not going to steal PH investments Attention, Naruto fans! You can soon watch the famous anime&#8217;s live-action adaptation as it finally has a confirmed writer. According to a Variety report, the beloved manga and anime series is set to head to big screens for its live-action adaptation under Lionsgate. It will be written by Tasha Hao, ...\nSee Details: Bangladesh's nuke plant is not going to steal PH investments Ruru Madrid takes on Ogie Diaz's viral acting workshop Top-seeded Mapua Cardinals blow past Benilde to reach NCAA Finals LeBron says 'a lot' needs to change for Lakers after worst loss of career DOF's Diokno says PH employment situation 'bright' Seat Sale Alert: Fly to Boracay, Bohol, Palawan, + More for as Low as P399 For less than P500, you can purchase these great Steam games Phivolcs: No tsunami alert raised after 6.6 magnitude earthquake in Papua New Guinea Novotel Manila ushers in season of joy with Christmas tree-lighting Cardinals legend helped St. Louis pull off Sonny Gray deal in major way Fears grow over mystery illness that has killed at least 14 people in Uganda OTHER NEWS Aliw Awards nominations out ALIW Awards Foundation Inc. President Alice H. Reyes has released the names of finalists for the 2023 Aliw Awards to be presented on Dec. 11, 2023, at the Manila Hotel ... Read more » WhatsApp Web gains the feature of single-view photos and videos WhatsApp Web gains the feature of single-view photos and videos (Photo: Unsplash) The WhatsApp Web, the desktop version of the popular messaging app from Meta, has received an update allowing ... Read more » Young athletes’ time to shine in Siklab Awards Young athletes’ time to shine in Siklab Awards MANILA, Philippines — The future heroes of Philippine sports will be honored during the third Siklab Youth Sports Awards on Dec. 4 ... Read more » Local exec says 5-10 barangays still isolated in Northern Samar Graphics by Jannielyn Ann Bigtas A local government official said Monday that five to 10 barangays in Northern Samar are still isolated following the massive flooding in the area last ... Read more » App made by ex-jeepney driver will let you pay PUV fare, book tricycles DyipPay app lets you pay jeepney fare, book tricycles “Barya lang po sa umaga.” Everyone who rides jeepneys knows this rule: it may not be an actual law, but it’s ... Read more » Updated In-Season Tournament Bracket ahead of pool play finale Updated In-Season Tournament Bracket ahead of pool play finale Tuesday will mark the last day of pool play for the inaugural NBA In-Season Tournament. From there, six first-place teams and ... Read more » PCG forms teams for maritime emergency response PCG forms teams for maritime emergency response MANILA, Philippines — Recent incidents of fishermen lost in the waters off Southern Tagalog have prompted the Philippine Coast Guard (PCG) to form ... Read more » NEWS RELATED Southern Luzon, eastern Visayas to experience rainfall due to easterlies — Pagasa Tech demo farms set up by convicts to have harvests next month LEED, Berde-certified DATEM-built sustainable structures lead carbon footprint reduction Maynilad sets water interruption in Las Piñas, Cavite Romualdez warns traders vs price manipulation, profiteering Crazy stat shows just how advanced Victor Wembanyama already is on defense Exercise, proper diet help prevent fatty liver disease A year after launch, DepEd helpline gets 213 cases of abuse of students Britain detects first human case of flu strain similar to pig virus What La Salle greats had to say about MVP frontrunner Kevin Quiambao Bucks roar back to beat Blazers Fitch Ratings assigns ‘BBB’ to Philippines’ maiden Sukuk bonds Embracing a more connected lifestyle with BIDA Fiber powered by Converge S&P raises Philippines 2023 growth to 5.4 percent Hontiveros files reso urging Marcos admin to cooperate with ICC Power co-op unwittingly cuts off internet service to 2,000 subscribers in Agusan del Sur Embiid, hot-shooting Sixers embarrass Lakers in a 44-point romp 5 rebels surrender in Mindanao Bolts to pick EASL imports Senate nod needed to rejoin ICC, says Senator De la Rosa Global US CH SE DK NO NL BE UK DE FR FI IT AT ES PT PL IE GR CZ TR AE CA JP KR AR BR IN VERIFIED NEWS EXPLORER CHANNEL Email: Admin: Privacy Policy Privacy Policy\nOpen Source Info › 2024 VNExplorer Network Non Profit Project (Open the World)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBxy9.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kD3hm.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kDP9i.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kCX6U.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kE2TX.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kD5KE.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kzLyL.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBUIw.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBJNP.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBJNI.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kDJGk.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBtbB.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBQSe.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kCMC8.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15dDhp.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kCPid.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1hnKcs.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ky8uM.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kDRag.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kD9X7.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kDvZd.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kDoFp.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBOQG.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1m9z9E.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBZs7.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kCHlG.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBvNv.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kEg8K.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kCkdZ.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kEptu.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1jOSS6.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kCwff.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB10RbD4.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1bVLpI.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBJ06.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBOQI.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kDfFU.img",
+      "https://vneass.newsexplorer.info/assets/img/logo.svg?ver=2023",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kDvZ2.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kD9sS.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBF9q.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBZs7.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kE2TX.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kzLyL.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBUIw.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBtbB.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kDvZ2.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1hnKcs.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kCwff.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1jOSS6.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kCPid.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kDoFp.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBOQG.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kEg8K.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kDfFU.img",
+      "https://vneass.newsexplorer.info/assets/img/logo.svg",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBJNI.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBJNP.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kCMC8.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kD5KE.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kCkdZ.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1m9z9E.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kEptu.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ky8uM.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBJ06.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1bVLpI.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBQSe.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kDP9i.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kD9sS.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBxy9.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBOQI.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kDRag.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kDvZd.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kCX6U.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBF9q.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kBvNv.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kD3hm.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/BB10RbD4.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15dDhp.img",
+      "https://www.vneass.newsexplorer.info/assets/img/logo.svg?ver=2023",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kDJGk.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kCHlG.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kD9X7.img"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "silvestre aben",
+          "sentiment": "none"
+        },
+        {
+          "name": "aben",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "el niño",
+          "sentiment": "negative"
+        },
+        {
+          "name": "pagasa",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "la trinidad",
+          "sentiment": "none"
+        },
+        {
+          "name": "benguet",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T15:55:51.673+03:00",
+    "updated": "2024-05-10T15:55:51.673+03:00"
+  },
+  {
+    "uuid": "d974ae5964f20bebf85c8087c64ec203f015808b",
+    "url": "https://uk.marketscreener.com/quote/stock/EMBRAER-S-A-6492875/news/EMBRAER-S-A-delivers-30-aircraft-in-the-1st-quarter-of-2025-20-more-than-in-1Q24-49514155",
+    "ord_in_thread": 0,
+    "author": "MarketScreener",
+    "published": "2025-04-02T21:44:00Z",
+    "title": "EMBRAER S A : delivers 30 aircraft in the 1st quarter of 2025, 20% more than in 1Q24 | MarketScreener UK",
+    "text": "São Paulo (SP), Brazil, April 2, 2025 - Embraer (NYSE: ERJ / B3: EMBR3), a global leader in the aerospace industry, delivered 30 aircraft in the first quarter of 2025. The result is 20% higher than that recorded in the first quarter of last year (1Q24), when 25 aircraft were delivered.\nIn comparison to the same period in 2024, Commercial Aviation volumes were stable in the quarter, with 7 aircraft delivered. Executive Aviation volumes were higher year over year: 23 jets were delivered in 1Q25 versus 18 in 1Q24 - an increase of 28%.\nThe company's guidance foresees between 77 and 85 deliveries in Commercial Aviation in 2025 (midpoint 10% higher in the annual comparison), and 145 to 155 in Executive Aviation (midpoint 15% higher year over year).\nCheck out full document: https://embraer.bynder.com/m/5288f31ec7194221/original/20250402-Release-Deliveries-1Q25-ENG.pdf\nAbout Embraer\nA global aerospace company headquartered in Brazil, Embraer has businesses in Commercial and Executive aviation, Defense and Security, and Agricultural Aviation. The company designs, develops, manufactures, and markets aircraft and systems, providing Services and Support to customers after-sales.\nSince it was founded in 1969, Embraer has delivered more than 9,000 aircraft. On average, about every 10 seconds an aircraft manufactured by Embraer takes off somewhere in the world, transporting over 150 million passengers a year.\nEmbraer is the leading manufacturer of commercial jets with up to 150 seats and the main exporter of high value-added goods in Brazil. The company maintains industrial units, offices, service, and parts distribution centers, among other activities, across the Americas, Africa, Asia, and Europe.\nShare: Attachments\nOriginal document Permalink Disclaimer\nEmbraer SA published this content on April 02, 2025 , and is solely responsible for the information contained herein. Distributed via , unedited and unaltered, on April 02, 2025 at 21:43 UTC .\nShare © Publicnow - 2025",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->manufacturing and engineering",
+      "Economy, Business and Finance->business reporting and performance",
+      "Science and Technology->aerospace engineering",
+      "Social Issue->mankind",
+      "Social Issue->population and census",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FEMBRAER-S-A-6492875%2Fnews%2FEMBRAER-S-A-delivers-30-aircraft-in-the-1st-quarter-of-2025-20-more-than-in-1Q24-49514155%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://telegram.me/share/url?url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FEMBRAER-S-A-6492875%2Fnews%2FEMBRAER-S-A-delivers-30-aircraft-in-the-1st-quarter-of-2025-20-more-than-in-1Q24-49514155%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://twitter.com/intent/tweet?text=EMBRAER",
+      "https://embraer.bynder.com/m/5288f31ec7194221/original/20250402-Release-Deliveries-1Q25-ENG.pdf",
+      "https://wa.me/?text=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FEMBRAER-S-A-6492875%2Fnews%2FEMBRAER-S-A-delivers-30-aircraft-in-the-1st-quarter-of-2025-20-more-than-in-1Q24-49514155%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FEMBRAER-S-A-6492875%2Fnews%2FEMBRAER-S-A-delivers-30-aircraft-in-the-1st-quarter-of-2025-20-more-than-in-1Q24-49514155%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=EMBRAER",
+      "https://www.telegram.me/share/url?url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FEMBRAER-S-A-6492875%2Fnews%2FEMBRAER-S-A-delivers-30-aircraft-in-the-1st-quarter-of-2025-20-more-than-in-1Q24-49514155%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://telegram.me/share/url",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FEMBRAER-S-A-6492875%2Fnews%2FEMBRAER-S-A-delivers-30-aircraft-in-the-1st-quarter-of-2025-20-more-than-in-1Q24-49514155%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.twitter.com/intent/tweet?text=EMBRAER",
+      "https://www.linkedin.com/shareArticle",
+      "https://wa.me/",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.embraer.bynder.com/m/5288f31ec7194221/original/20250402-Release-Deliveries-1Q25-ENG.pdf",
+      "https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FEMBRAER-S-A-6492875%2Fnews%2FEMBRAER-S-A-delivers-30-aircraft-in-the-1st-quarter-of-2025-20-more-than-in-1Q24-49514155%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=EMBRAER",
+      "https://www.wa.me/?text=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FEMBRAER-S-A-6492875%2Fnews%2FEMBRAER-S-A-delivers-30-aircraft-in-the-1st-quarter-of-2025-20-more-than-in-1Q24-49514155%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://twitter.com/intent/tweet"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "EMBR3",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Americas",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Africa",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Asia",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Europe",
+          "sentiment": "negative"
+        },
+        {
+          "name": "São Paulo",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Brazil",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NYSE",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "ERJ",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Commercial Aviation",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Executive Aviation",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Defense and Security",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Agricultural Aviation",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Services and Support",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Embraer SA",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "UTC",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:34:20.866+03:00",
+    "updated": "2025-04-03T02:34:20.866+03:00"
+  },
+  {
+    "uuid": "0218e5c341a0926f2b41ebe750715926673b5289",
+    "url": "https://www.oursportscentral.com/services/releases/keys-finish-seven-game-road-trip-with-loss-against-spikes/n-6128271",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Frederick Keys",
+    "published": "2024-07-25T21:07:00Z",
+    "title": "Keys Finish Seven-Game Road Trip with Loss against Spikes",
+    "text": "Keys Finish Seven-Game Road Trip with Loss against Spikes\nJuly 25, 2024 -\nMajor League Baseball Draft League (MLBDL) Frederick Keys News Release\nState College, PA- The Frederick Keys fell in the series finale to the State College Spikes Thursday afternoon, losing the third game of the series by a score of 14-7 at Medlar Field at Lubrano Park.\nThe Keys used a six-run top of the seventh to cut the lead to as small as two, but an early eight-run advantage for the Spikes after the sixth inning handed them the series sweep at home, as Frederick returns back to the Key City for their first home game coming up on Friday against the Mahoning Valley Scrappers.\nFrederick started strong with a run in the top of the first courtesy of a wild pitch that brought home Tremayne Cobb Jr. (Troy) from third, giving the visitors an early 1-0 lead after the first half inning.\nState College got an RBI single of their own in the bottom of the first to tie the game up at one heading into the second, with each side allowing two hits in the first inning of play Thursday afternoon.\nAfter each team went scoreless in the second, the Spikes took their first lead of the day off a solo homer from Cooper Hext in the third, as State College earned a 2-1 lead entering the fourth as a result.\nFollowing a scoreless bottom of the fourth inning thrown by Harold Baez (Bethune-Cookman), Baez followed it up with a 1-2-3 fifth inning, keeping the Keys down by only one heading into the sixth at Medlar Field at Lubrano Park.\nThe Spikes added to their lead in the bottom of the sixth off two RBI singles and back-to-back bases loaded walks, while a bases clearing double bumped up the lead to eight at 9-1 approaching the seventh in Happy Valley.\nHowever, the Keys responded with six runs in the top of the seventh, after several bases loaded walks and an RBI single from Christian Jackson made it a 9-7 game entering the bottom of the seventh.\nState College came back with two runs in the bottom of the seventh off a wild pitch and an RBI groundout, but Ga'Von Wray (Georgia Southern) finished the inning strong with a strikeout, as the Spikes took an 11-7 lead going into the eighth Thursday afternoon.\nThe Spikes tacked on three more runs in the bottom of the eighth off two RBI base hits and a wild pitch, bringing the lead back up to seven for the Spikes at 14-7 heading into the ninth, with the Keys looking for another late rally.\nIn the ninth, the Keys went scoreless and fell to the Spikes in the series finale, as State College earned a home series sweep Thursday afternoon by winning the series finale 14-7.\nThe Keys return home for the first time in the second half Friday night, when they host the Mahoning Valley Scrappers at 7 p.m. at Nymeo Field at Harry Grove Stadium.\nFriday's game will represent Wrestling Night at the ballpark, with WWE Hall of Famer Jeff Jarrett present at the game. Jarrett will be available before the game for fans to meet, and there will be postgame fireworks at the conclusion of the contest.\nFrederick Keys Statistics\n• Discuss this story on the\nMajor League Baseball Draft League message board...\nMajor League Baseball Draft League Stories from July 25, 2024\nKeys Finish Seven-Game Road Trip with Loss against Spikes- Frederick Keys\nThe opinions expressed in this release are those of the organization issuing it, and do not necessarily reflect the thoughts or opinions of OurSports Central or its staff.\nOther Recent Frederick Keys Stories\nKeys Finish Seven-Game Road Trip with Loss against Spikes Keys Fall in Game Two of Three-Game Series to Spikes Keys Suffer Series Opening Loss to Spikes on the Road Keys Drop Series Finale to Crosscutters Sunday Afternoon Keys Take Down Crosscutters for Second Straight Win",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.statscrew.com/minorbaseball/stats/t-fk11618/y-2019",
+      "https://statscrew.com/minorbaseball/stats/t-fk11618/y-2019"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "frederick",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "mahoning valley scrappers",
+          "sentiment": "none"
+        },
+        {
+          "name": "state college spikes",
+          "sentiment": "none"
+        },
+        {
+          "name": "frederick keys news release state college",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "key city",
+          "sentiment": "none"
+        },
+        {
+          "name": "lubrano park",
+          "sentiment": "none"
+        },
+        {
+          "name": "medlar field",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-26T00:07:36.893+03:00",
+    "updated": "2024-07-26T00:07:36.893+03:00"
+  },
+  {
+    "uuid": "5f4643939df461d4c704fa16ccb3d1d6edcc2276",
+    "url": "https://www.bbc.com/news/articles/cx2yz5wv08jo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BBC News",
+    "published": "2025-01-03T07:12:00Z",
+    "title": "Delhi: Fog disrupts life and travel in northern India",
+    "text": "A thick blanket of fog has engulfed Delhi and adjoining areas in northern India, leading to travel delays and chaos.\nAccording to tracking app flightradar24, at least 28 flights were delayed at the Delhi airport on Friday, with an average delay of 10 minutes. Reports say dozens of trains have also been rescheduled, or are running late.\nIndia's weather department has said that foggy conditions are likely to continue for the next few days.\nDense fog is common at this time of the year in Delhi and other parts of northern India, as the region grapples with an intense cold wave.\nPhotos and videos showed several cities shrouded in dense mist and haze.\nAround nine airports including the one in Delhi experienced zero visibility on Friday morning, the India Meteorological Department (IMD) said.\nThe Delhi airport has issued an advisory to passengers, warning them of significant delays.\n\"While landing and take-off continue at Delhi airport, flights that are not CAT III compliant may get affected,\" the airport said in a statement, referring to the radar system that enables automatic landings when there is very low visibility.\nSeveral airlines have also issued statements urging travellers to check flight schedules before planning their journeys.\nIMD considers fog \"dense\" if visibility drops below 200m and \"very dense\" if it falls below 50m.\nThe weather department has said that Delhi may experience light to moderate rainfall on 6 January, which is likely to further lower temperatures.\nFollow BBC News India on Instagram , YouTube , Twitter and Facebook",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue"
+    ],
+    "topics": [
+      "Weather->weather phenomena",
+      "Social Issue->social condition",
+      "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.instagram.com/bbcnewsindia/",
+      "https://x.com/BBCIndia",
+      "https://www.youtube.com/@bbcnewsindia/featured",
+      "https://www.facebook.com/bbcindia/",
+      "https://www.x.com/BBCIndia",
+      "https://www.facebook.com/bbcindia",
+      "https://facebook.com/bbcindia/",
+      "https://instagram.com/bbcnewsindia/",
+      "https://youtube.com/@bbcnewsindia/featured",
+      "https://www.instagram.com/bbcnewsindia"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "5f4643939df461d4c704fa16ccb3d1d6edcc2276",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-03T09:17:42.270+02:00",
+    "updated": "2025-01-03T09:17:42.270+02:00"
+  },
+  {
+    "uuid": "a8f6b503a5a77337fa0a06272222366534d7e560",
+    "url": "https://www.rtve.es/noticias/20240712/pedro-sanchez-celebra-vox-pactos-pp/16183070.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RTVE.es",
+    "published": "2024-07-12T00:27:00Z",
+    "title": "Sánchez celebra la salida de Vox de los gobiernos autonómicos",
+    "text": "Sánchez celebra la salida de Vox de los gobiernos autonómicos: \"Es un gran día para España\" - El presidente asegura que el PP tiene una gran oportunidad en \"la reforma de la ley de extranjería\" - Defiende la \"experiencia acreditada\" de Escrivá para el Banco de España El presidente Pedro Sánchez ha celebrado este jueves la ruptura de los acuerdos autonómicos de Vox y el PP a raíz del reparto voluntario de menores migrantes no acompañados. \"Hoy es un gran día para España\", ha afirmado el jefe del Ejecutivo durante una rueda de prensa en la que ha trasladado su \"alegría\" por la salida de la ultraderecha de los gobiernos regionales y ha llamado a los 'populares' a reformar la ley de extranjería. Sánchez, que ha comparecido desde Washington para hacer un balance del evento de la cumbre de la OTAN, se ha referido en esos términos a la decisión del partido de Santiago Abascal de romper los pactos con el PP en Extremadura, Baleares, Aragón, Comunidad Valenciana, Castilla y León y Murcia. \"La estrategia del PP de gobernar con la ultraderecha ha fracasado\", ha destacado. Preguntado por los periodistas por la noticia, el presidente ha incidido en que el PP debe abordar \"una decisión trascendental\": ser una \"oposición destructiva\" o \"de Estado\", dando \"respuesta a los problemas\" de la ciudadanía. \"La pregunta que debe hacerse es si está dispuesto a romper con las políticas que ha aprobado con Vox. Tiene una gran oportunidad y es la ley de extranjería; es la prueba del algodón\", ha sostenido, refiriéndose a la reforma que el Gobierno ha planteado para que la acogida de menores sea obligatoria. \"Toda esta crisis viene provocada por el rechazo tanto de PP como de Vox a la solidaridad con Canarias\", ha criticado Sánchez, que ha vuelto a pedir a los 'populares' que \"deroguen\" las \"contrarreformas\" aprobadas y romper también con la ultraderecha a nivel local. Desliga el retorno de Rovira de una investidura en Cataluña Preguntado por el regreso a España de la secretaria general de ERC, Marta Rovira, tras haber sido archivado el caso 'Tsunami Democràtic', el presidente ha remarcado que su vuelta se producirá gracias a la ley de amnistía aprobada por su Gobierno y ha señalado que, a su juicio, una investidura de Salvador Illa (PSC) no tiene por qué estar vinculada a la medida de gracia. \"Una cosa no tiene nada que ver con la otra\", ha defendido. En este contexto, ha apelado a la \"responsabilidad\" de ERC para lograr un acuerdo para la investidura de Illa como nuevo presidente catalán. \"Estamos hablando de un acuerdo de gobierno para echar a andar la legislatura en Cataluña. Y yo confío, evidentemente, en la responsabilidad y en el compromiso de todas las formaciones políticas\", ha señalado. Defiende la \"experiencia acreditada\" de Escrivá para el Banco de España Por otro lado, Sánchez ha defendido la \"experiencia acreditada en materia de política monetaria\" del exminitro José Luis Escrivá para gobernador del Banco de España en sustitución de Pablo Hernández de Cos, cuyo mandato expiró a comienzos del mes de junio, si bien ha confirmado que siguen las negociaciones con el PP. \"Por tanto, se impone una cierta discreción por parte de los negociadores\", ha explicado. No obstante, el presidente ha recordado la tradición en otros países en nombrar a exministros como gobernadores de sus bancos centrales, subrayando que Luis de Guindos (PP) \"pasó de ser ministro de Economía\" en España a vicepresidente del Banco Central Europeo. Para el jefe del Ejecutivo, \"lo importante\" es que la persona que se proponga para el puesto de gobernador del Banco de España \"cumpla o no con los requisitos y la cualificación\" para un puesto de estas características \"en un contexto de tanta incertidumbre económica y geopolítica\". Así, ha apuntado que Escrivá fue presidente de la Autoridad Independiente de Responsabilidad Fiscal (AIREF) y después estuvo al frente del Ministerio de Seguridad Social donde, entre los méritos que defiende Sánchez, \"ha reconstruido el Pacto de Toledo\". \"Y, fundamentalmente, si uno mira su currículum, creo que hay pocas personas en España que tengan el conocimiento de política monetaria que tiene José Luis Escrivá\", ha zanjado.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Politics"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-12T03:40:55.558+03:00",
+    "updated": "2024-07-12T03:40:55.558+03:00"
+  },
+  {
+    "uuid": "7f939daddf336ce0af0d98927a4bbce1efc6950a",
+    "url": "https://www.wkyt.com/2024/06/22/missing-hiker-found-alive-after-being-lost-10-days-mountains",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "KSBW via CNN Newsource",
+    "published": "2024-06-22T00:00:00Z",
+    "title": "Missing hiker found alive after being lost for 10 days in mountains",
+    "text": "SANTA CRUZ COUNTY, Calif. (KSBW) - A missing hiker was finally rescued after he was lost for 10 days in the Santa Cruz Mountains of California.\nThe 34-year-old man was only going for a three-hour hike when he disappeared.\n“I didn’t bring anything because I thought I was doing a three-hour hike to go to work,” Lukas McClish, the rescued hiker, said.\nHe was lost in the woods for nine nights and 10 days, shirtless with only a flashlight and folding scissors.\nIt would be more than a week before the raggedy-looking hiker would be found.\n“So, I kind of just hiked. Each day, I go up a canyon, down a canyon to the next waterfall, sit down by the waterfall, drink water out of my boot,” Lukas McClish recalled.\nIt was a Tuesday when Lukas McClish went for a hike in Boulder Creek and ended up getting lost.\n“I felt comfortable the whole time I was out there. I wasn’t worried about it,” Lukas McClish said. “I had a mountain lion that was following me, but it was cool. It kept its distances. I think it was just somebody watching over me.”\nThe problem was that Lukas McClish didn’t tell anyone where he was going.\nBy the time Father’s Day rolled around on Sunday, his family started worrying and filed a missing person’s report.\nThe search was on then.\n“Some nights, although, I just had to trust God that he was going to be OK, and that was hard to do some nights when we would go to bed at night because I would worry about where he was, where he was sleeping and how cold he was and where he was if he was alive,” Diane McClish, the hiker’s mother, said.\nLukas McClish drank from water from creeks, ate wild berries and slept on a wet bed of leaves all while yelling for help and thinking of his next meal.\n“‘Just help. Help, I’m over here.’ Or, ‘Is anybody out there?’” Lukas McClish remembered saying while he was lost. “I want a burrito or a taco bowl. That’s what I thought about every day when I, after the first five days, when I started to kind of realize that I might be in over my head.”\nBut on Thursday afternoon, someone finally heard his cries for help.\nThe Boulder Creek Fire Department deployed a drone and spotted his location.\nA K-9 tracked him down and Lukas McClish was escorted out of a remote canyon, finally reunited with family.\n“Met a lot of people because I had more people come to me and tell me how much they love my son and how they just hoped that we would find him,” Diane McClish said. “I didn’t realize that so many people in this town love Luke.”\nFortunately, Lukas McClish had no major injuries.\nCopyright 2024 KSBW via CNN Newsource. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "lukas mcclish",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ksbw",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "calif.",
+          "sentiment": "none"
+        },
+        {
+          "name": "boulder creek",
+          "sentiment": "none"
+        },
+        {
+          "name": "santa cruz mountains of california",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-22T12:57:16.642+03:00",
+    "updated": "2024-06-22T12:57:42.715+03:00"
+  }
+]

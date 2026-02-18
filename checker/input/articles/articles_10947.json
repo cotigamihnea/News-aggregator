@@ -1,0 +1,502 @@
+[
+  {
+    "uuid": "1002ab6fa39b8aca557738161ccf6c81ed00678c",
+    "url": "https://www.infosecurity-magazine.com/news/manufacturing-advanced-email",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "James Coker",
+    "published": "2024-11-22T09:15:00Z",
+    "title": "Manufacturing Sector in the Crosshairs of Advanced Email Attacks - Infosecurity Magazine",
+    "text": "Advanced email attacks, including phishing and business email compromise (BEC), are surging in the manufacturing sector as cybercriminals target an industry with a low tolerance for downtime.\nPhishing attacks in the sector have surged 83% in the past 12 months, with Generative AI technologies enabling threat actors create greater volumes of sophisticated email attacks.\nMike Britton, CIO at Abnormal Security, told Infosecurity that the spike in phishing activity is partly due to generative AI tools ensuring these messages lack the characteristics most commonly associated with phishing emails, such as poor spelling and grammar.\n“Now, even inexperienced petty criminals can leverage widely accessible tools like ChatGPT to craft perfectly written, personalized, and seemingly realistic emails, making them exponentially more difficult for employees to identify,” he explained.\nBritton added that attackers are now able to use AI to scale and layer in additional specificity and customization into phishing emails at ease, making such attempts “nearly impossible” for legacy email controls, such as secure email gateways, to stop.\nPhishing attacks targeting manufacturers. Source: Abnormal Security Manufacturing Especially Vulnerable to BEC and VEC Attacks The study by Abnormal Security also found that business email compromise (BEC) attacks targeting manufacturing firms increased by 56% from September 2023 to September 2024.\nBEC attacks see threat actors masquerade as trusted parties, such as a senior manager within an organization, often by compromising a legitimate account or using a spoofed email address.\nThese attacks involve significant research and monitoring of the individual and organization’s communication patterns.\nThe researchers said that manufacturing firms are particularly susceptible to BEC attacks due to a low tolerance for downtime in the sector. This means employees more likely to fulfill requests quickly.\nRead now: Manufacturing Firm Loses $60m in BEC Scam\nAdditionally, vendor email compromise (VEC) attacks targeting manufacturing rose by 24% over the same period.\nThese attacks differ from BEC as the threat actors poses as an external third party to dupe their victim into paying phony invoices, updating bank details for future transactions or initiating fraudulent wire transfers.\nAbnormal Security said that VEC attacks can be especially difficult to spot as vendor-client relationships are inherently financial and often managed via email, so requests asking for payment or requesting updates to bank account information may not raise any initial red flags.\nManufacturing firms tend to have complicated supply chains that involve numerous smaller vendors and suppliers.\n“Unfortunately, many of these smaller suppliers often don't run the same level of security as larger organizations. This leads to attackers being able to compromise, spoof, or otherwise leverage the implicit trust that companies have in their supply chain,” said Britton.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://x.com/intent/tweet?url=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fmanufacturing-advanced-email%2f",
+      "https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fmanufacturing-advanced-email%2f",
+      "https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fmanufacturing-advanced-email%2f",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://x.com/intent/tweet",
+      "https://www.x.com/intent/tweet?url=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fmanufacturing-advanced-email%2f"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Mike Britton",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "BEC",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T11:53:14.610+02:00",
+    "updated": "2024-11-27T12:39:31.786+02:00"
+  },
+  {
+    "uuid": "dc334e6ef797fb744c61dc9c06632dff76ce192c",
+    "url": "https://flipboard.com/topic/universityofnorthcarolina/-/a-cHnhNx5cTJuYjUAIl4XwTw%3Aa%3A3199657-%2F0",
+    "ord_in_thread": 0,
+    "author": "SFGate - Drew Magary",
+    "published": "2025-04-30T22:32:00Z",
+    "title": "Bill Belichick and his new girlfriend/publicist are delivering maximum ewwww | Flipboard",
+    "text": "Bill Belichick and his new girlfriend/publicist are delivering maximum ewwww SFGATE columnist Drew Magary on the many controversies surrounding Belichick and his new 24-year-old girlfriend I should not be hearing about Bill Belichick right now. It’s late spring, which means that the Great American Hobgoblin should be sequestered in his film dungeon right now, fastidiously …\nSFGate - Drew Magary • 52m",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Human Interest->celebrity",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T02:27:34.096+03:00",
+    "updated": "2025-04-30T23:31:30.000+00:00"
+  },
+  {
+    "uuid": "764142651bc03223928ee22efcc52c756222c96a",
+    "url": "https://www.ran.de/sports/radsport/tour-de-france/news/lipowitz-glaenzte-auch-als-biathlet-quot-im-schiessen-richtig-gutquot--569569",
+    "ord_in_thread": 0,
+    "author": "SID",
+    "published": "2025-07-24T03:16:00Z",
+    "title": "Lipowitz glänzte auch als Biathlet: \"Im Schießen richtig gut\"",
+    "text": "Sport Allgemein Radsport\nLipowitz glänzte auch als Biathlet: \"Im Schießen richtig gut\"\nBei der Tour de France steuert Radprofi Florian Lipowitz auf Podestkurs, doch auch als Biathlet hätte der Ulmer das Zeug zum Weltklasse-Athleten gehabt. Das glaubt zumindest sein einstiger Trainer. \"Ja, mit Sicherheit. Zumal er auch im Schießen richtig gut war\", sagte Florian Steirer dem Münchner Merkur und tz.\nSteirer hatte Lipowitz einst im renommierten Skigymnasium Stams in Österreich trainiert. \"Es gibt in Stams Leistungstests im Schießen. Was denken Sie, wer immer noch den Rekord im Liegendschießen hält? Das ist Lipowitz Florian. Von 300 möglichen Ringen hat er da, glaube ich, 292 geschossen\", sagte Steirer.\nLipowitz hatte im Alter von acht Jahren mit dem Biathlon begonnen und war als Schüler deutscher Meister und Mitglied des Nationalkaders. Sein Bruder Philipp wurde 2021 sogar Junioren-Weltmeister.\nLipowitz habe vor allem mit seinem Willen überzeugt. \"Er ist ein Gestörter im positivsten Sinn. So was Fokussiertes siehst du selten\", sagte Steirer: \"Ich habe als Trainer schon mit einigen Athleten gearbeitet. Ich kann es gar nicht erklären, was das ist, aber eine Handvoll war anders. Zwei waren Weltmeister: Denise Herrmann und Laura Dahlmeier. Einer war der Flo.\"\nAls Teenager konzentrierte Lipowitz sich dann ganz auf den Radsport - mit Erfolg.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Sport->biathlon",
+      "Sport->sports honour",
+      "Sport->sport achievement",
+      "Human Interest->record and achievement",
+      "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Lipowitz Florian",
+          "sentiment": "none"
+        },
+        {
+          "name": "Florian Lipowitz",
+          "sentiment": "none"
+        },
+        {
+          "name": "Florian Steirer",
+          "sentiment": "none"
+        },
+        {
+          "name": "de France",
+          "sentiment": "none"
+        },
+        {
+          "name": "Philipp",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Österreich",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Sport Allgemein Radsport\nLipowitz",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Münchner Merkur",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "münchner merkur",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:48:59.964+03:00",
+    "updated": "2025-07-24T07:52:47.000+03:00"
+  },
+  {
+    "uuid": "cb3091d940ec34268d7e427a932c81fdbf4d8bec",
+    "url": "http://business.times-online.com/times-online/article/abnewswire-2023-12-28-ela-vashishthas-digital-medical-pad-promises-efficient-care-anywhere",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Valley City Times-Record",
+    "published": "2023-12-28T00:00:00Z",
+    "title": "Ela Vashishtha’s Digital Medical Pad Promises Efficient Care Anywhere | User | times-online.com",
+    "text": "Digital Media Pad prototype The healthcare landscape is constantly evolving, demanding innovative solutions to address challenges faced by patients and medical professionals alike. In this pursuit of progress, health resources and strategy leader Ela Vashishtha has emerged as a pioneer, spearheading the development of a groundbreaking invention: the Digital Medical Pad. More than just a technological innovation, this patented device embodies Ms. Vashishtha's deep understanding of healthcare complexities, honed through her vast experience managing a $3 billion portfolio and driving data-driven initiatives across 25+ hospitals in her state of residency. This expertise shines through in every facet of the Digital Medical Pad, designed to address critical issues plaguing healthcare systems, particularly in resource-constrained settings. Secure Access, Streamlined Processes At the heart of the invention lies a secure biometric scanner. Gone are the days of misplaced charts and stolen identities; fingerprints grant authorized personnel instant access to a patient's medical history, ensuring both privacy and efficient care delivery. Medication management takes a leap forward with the pad's ability to display medication history and facilitate digital order creation. This not only reduces waiting times but also minimizes errors and potential drug interactions. Real-Time Intelligence Powering Decisions The Digital Medical Pad transcends mere data storage. Embedded AI and machine learning algorithms work synergistically with real-time data to empower healthcare professionals. Imagine a scenario where a doctor, upon entering a patient's fever symptom, receives treatment suggestions tailored to the patient's unique medical profile, considering factors like co-existing conditions and potential allergies. This level of real-time decision support enhances diagnostic accuracy and optimizes treatment plans, paving the way for personalized, effective care. Bridging the Global Healthcare Divide Ms. Vashishtha's vision extends beyond borders. Recognizing the immense potential of the Digital Medical Pad in resource-limited countries, she is leading the charge in adapting the technology for these specific contexts. The device's affordability and portability make it ideal for rural areas, where access to quality healthcare has traditionally been limited. By eliminating paper records and cumbersome processes, the pad promises to revolutionize care delivery in underprivileged regions, democratizing access to crucial medical information and services. Partnerships for Progress The journey towards widespread adoption of the Digital Medical Pad is underway. Ms. Vashishtha is actively seeking partnerships with multiple entities in India, aiming to pilot the device in rural areas and smaller cities. These collaborations will serve as testaments to the pad's effectiveness and pave the way for its broader implementation across developing nations. Currently, she is partnering with and providing strategic advice on product advancement ideas, market strategies, future iterations of testing the pad in Indian healthcare market. A Beacon of Hope Ela Vashishtha's Digital Medical Pad opens the possibility of a future where healthcare is accessible, efficient, and personalized in developing and developed worlds alike. By harnessing the power of technology and focusing on real-world needs, Ms. Vashishtha is trying to forge a path towards a healthier, more equitable world. This innovation holds the potential to bridge healthcare divides, empower medical professionals, and improve the lives of millions, making it a truly transformative force in the global healthcare landscape. Media Contact Company Name: CompuRx Contact Person: Ela Vashishtha Email: Send Email Country: United States Website: www.compurxinfotech.com/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://www.abnewswire.com/companyname/compurxinfotech.com/_127619.html",
+      "http://www.compurxinfotech.com/",
+      "https://www.abnewswire.com/email_contact_us.php?pr=ela-vashishthas-digital-medical-pad-promises-efficient-care-anywhere",
+      "https://abnewswire.com/email_contact_us.php?pr=ela-vashishthas-digital-medical-pad-promises-efficient-care-anywhere",
+      "https://www.abnewswire.com/email_contact_us.php",
+      "https://abnewswire.com/companyname/compurxinfotech.com/_127619.html",
+      "http://compurxinfotech.com/",
+      "http://www.compurxinfotech.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ela vashishtha",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "vashishtha",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:43:46.687+02:00",
+    "updated": "2023-12-29T00:43:46.687+02:00"
+  },
+  {
+    "uuid": "67dd11c11583f74ac1654f4369d69698ae110111",
+    "url": "https://flipboard.com/topic/kimmulkey/-/a-ZoxaqUcoRI2d4qApnR0CVw%3Aa%3A3195382-%2F0",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ESPN - Eli Lederman",
+    "published": "2025-03-19T22:16:00Z",
+    "title": "Receiver Tristen Keys, No. 16 recruit for '26, commits to LSU | Flipboard",
+    "text": "Receiver Tristen Keys, No. 16 recruit for '26, commits to LSU Five-star wide receiver Tristen Keys, ESPN's No. 16 overall prospect in the 2026 class, committed to LSU over Alabama, Tennessee and Texas A&M, his …\nESPN - Eli Lederman • 1h",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "topics": [
+      "Sport->sport organisation",
+      "Sport->sports transaction",
+      "Sport->soccer"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Tristen Keys",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Eli Lederman",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Texas A&M",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "ESPN",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:24:42.742+02:00",
+    "updated": "2025-03-20T01:24:42.742+02:00"
+  },
+  {
+    "uuid": "666cec71414d00c0a7369b2c4bd0c9c0f59b0702",
+    "url": "https://www.wcax.com:443/2023/12/28/96-year-old-handwrites-8000-christmas-cards-military-members/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eli Higgins, KAKE",
+    "published": "2023-12-28T20:10:00Z",
+    "title": "96-year-old handwrites 8,000 Christmas cards to military members",
+    "text": "MCPHERSON, Kan. (KAKE) – A 96-year-old Kansas woman isn’t letting her age stop her from spreading holiday cheer in a big way.\nFor the last few years, Mary Peterson has hand written thousands of greeting cards and sent them to members of the military who cannot make it home to be with their families.\nPeterson said the first year, she sent 7,000 Christmas cards. By this year, she increased her numbers to 8,000.\nSince she started in 2020, Peterson has sent 24,000 cards to military members all around the world.\nPeterson said when she was in high school, her older brother served overseas, and she wrote to him every single week.\nLater, her husband fought in World War II, so she knows very well how lonely the holidays can be for people in the military.\n“There’s so many heartaches and broken homes and people went to the service because it was something else for them to do. And they won’t hear from family because they’ve lost their connection,” Peterson said.\nThankfully, the community members help Peterson by donating thousands of blank holiday cards for her to write in. After she’s done filling them out, Peterson takes them to the Fort Riley base, where they then get sent out to active-duty members in different parts of the world.\nEach card shares the same sweet message: “God bless you and keep you safe. That is my prayer for you. Grandma Mary, McPherson, Kansas.”\nPeterson said she averages writing about 50 cards per day, which means she has to start mid-summer to get them done in time.\nThe 96-year-old said as long as God keeps her hand steady enough to write in beautiful cursive, she’ll never stop sending these letters.\n“I hope that makes them realize that there’s somebody that still loves them and loves what they’re doing,” Peterson said.\nCopyright 2023 KAKE via CNN Newsource. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mcpherson",
+          "sentiment": "negative"
+        },
+        {
+          "name": "” peterson",
+          "sentiment": "none"
+        },
+        {
+          "name": "mary peterson",
+          "sentiment": "none"
+        },
+        {
+          "name": "peterson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "kan.",
+          "sentiment": "none"
+        },
+        {
+          "name": "kansas",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:09:44.987+02:00",
+    "updated": "2023-12-29T00:09:44.987+02:00"
+  },
+  {
+    "uuid": "2c4232597d8519431f8ef77fc052bf17f45f0929",
+    "url": "https://es.marketscreener.com/cotizacion/divisas/EURO-ISRAELI-NEW-SHEKEL-E-60037304/noticia/Harris-cierra-convenci-n-dem-crata-con-un-llamamiento-a-poner-fin-a-la-guerra-en-Gaza-47714113",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MarketScreener",
+    "published": "2024-08-23T03:36:00Z",
+    "title": "Harris cierra convención demócrata con un llamamiento a poner fin a la guerra en Gaza - MarketScreener",
+    "text": "Por Nandita Bose, Trevor Hunnicutt y Jeff Mason\nCHICAGO, EEUU, 22 ago (Reuters) -La vicepresidenta Kamala Harris aceptó formalmente el jueves la candidatura de su partido a la presidencia con un encendido llamamiento a poner fin a la guerra en Gaza y a luchar contra la tiranía en todo el mundo, estableciendo un agudo contraste con el republicano Donald Trump.\n\"En la eterna lucha entre la democracia y la tiranía, sé cuál es mi posición y cuál es el lugar de Estados Unidos\", dijo Harris, acusando a Trump de acercarse a los dictadores.\nEn la última y más esperada noche de la convención, Harris, de 59 años, trató de redefinirse a sí misma para Estados Unidos, cuando ella y Trump entran en las 11 semanas finales de una campaña muy reñida.\nTras varios días de protestas de los partidarios Palestina, decepcionados por no haber conseguido que su palabra se escuchara en la convención, Harris se comprometió a proteger Israel, traer a los rehenes de Gaza y poner fin a la guerra en el enclave palestino.\n\"Ahora es el momento de llegar a un acuerdo sobre los rehenes y un alto el fuego\", dijo entre vítores. \"Y que quede claro, siempre defenderé el derecho de Israel a defenderse y siempre me aseguraré de que Israel tenga la capacidad de defenderse\".\n\"Lo que ha ocurrido en Gaza en los últimos 10 meses es devastador. Tantas vidas inocentes perdidas, gente desesperada y hambrienta huyendo una y otra vez en busca de seguridad. La magnitud del sufrimiento es desgarradora\", afirmó.\n\"El presidente Biden y yo estamos trabajando para poner fin a esta guerra de modo que Israel esté seguro, los rehenes sean liberados, el sufrimiento en Gaza termine y el pueblo palestino pueda hacer realidad su derecho a la dignidad, la seguridad, la libertad y la autodeterminación\".\nHarris surgió como candidata demócrata hace poco más de un mes, cuando los aliados del presidente Joe Biden, de 81 años, le obligaron a abandonar la carrera. Si lo consigue, hará historia como la primera mujer elegida presidenta de Estados Unidos.\nDescribió las elecciones del 5 de noviembre como una \"oportunidad preciosa y fugaz de dejar atrás el rencor, el cinismo y las batallas divisivas del pasado. Una oportunidad para trazar un nuevo camino hacia delante\".\nHarris trazó una serie de contrastes con Trump, acusándole de no luchar por la clase media, de planear una subida de impuestos con sus propuestas arancelarias y de haber puesto en marcha el fin del derecho constitucional al aborto con sus nombramientos para la Corte Suprema de Estados Unidos.\nHarris señaló la reciente sentencia del Tribunal Supremo sobre la inmunidad presidencial y los riesgos que engendraría si Trump volviera a acceder al poder.\n\"Imagínense a Donald Trump sin frenos\", dijo.\nTrump, que había prometido responder al discurso de Harris en tiempo real, publicó mensajes en la red Truth Social mientras ella hablaba de él, entre ellos: \"Ella representa la Incompetencia y la Debilidad - ¡Se están riendo de nuestro País en todo el Mundo!\" y \"¡Nunca será respetada por los Tiranos del Mundo!\".\n(Reporte de Nandita Bose, Trevor Hunnicutt, Stephanie Kelly, Jeff Mason, Andrea Shalal, Steve Holland, Jarrett Renshaw, Julio-Cesar Chavez; contribución de Nathan Layne; edición en español de Javier López de Lérida)\nComparte © Reuters - 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://wa.me/?text=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Fdivisas%2FEURO-ISRAELI-NEW-SHEKEL-E-60037304%2Fnoticia%2FHarris-cierra-convenci-n-dem-crata-con-un-llamamiento-a-poner-fin-a-la-guerra-en-Gaza-47714113%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Fdivisas%2FEURO-ISRAELI-NEW-SHEKEL-E-60037304%2Fnoticia%2FHarris-cierra-convenci-n-dem-crata-con-un-llamamiento-a-poner-fin-a-la-guerra-en-Gaza-47714113%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://cdn.zonebourse.com/static/resize/464/261//images/reuters/2024-08/2024-08-23T033801Z_1_LYNXMPEK7M04Z_RTROPTP_3_USA-ELECTION-DEMOCRATS.JPG",
+      "https://twitter.com/intent/tweet?text=Harris",
+      "https://telegram.me/share/url?url=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Fdivisas%2FEURO-ISRAELI-NEW-SHEKEL-E-60037304%2Fnoticia%2FHarris-cierra-convenci-n-dem-crata-con-un-llamamiento-a-poner-fin-a-la-guerra-en-Gaza-47714113%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Fdivisas%2FEURO-ISRAELI-NEW-SHEKEL-E-60037304%2Fnoticia%2FHarris-cierra-convenci-n-dem-crata-con-un-llamamiento-a-poner-fin-a-la-guerra-en-Gaza-47714113%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=Harris",
+      "https://www.wa.me/?text=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Fdivisas%2FEURO-ISRAELI-NEW-SHEKEL-E-60037304%2Fnoticia%2FHarris-cierra-convenci-n-dem-crata-con-un-llamamiento-a-poner-fin-a-la-guerra-en-Gaza-47714113%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.cdn.zonebourse.com/static/resize/464/261//images/reuters/2024-08/2024-08-23T033801Z_1_LYNXMPEK7M04Z_RTROPTP_3_USA-ELECTION-DEMOCRATS.JPG",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.telegram.me/share/url?url=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Fdivisas%2FEURO-ISRAELI-NEW-SHEKEL-E-60037304%2Fnoticia%2FHarris-cierra-convenci-n-dem-crata-con-un-llamamiento-a-poner-fin-a-la-guerra-en-Gaza-47714113%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Fdivisas%2FEURO-ISRAELI-NEW-SHEKEL-E-60037304%2Fnoticia%2FHarris-cierra-convenci-n-dem-crata-con-un-llamamiento-a-poner-fin-a-la-guerra-en-Gaza-47714113%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://wa.me/",
+      "https://www.twitter.com/intent/tweet?text=Harris",
+      "https://www.linkedin.com/shareArticle",
+      "https://telegram.me/share/url",
+      "https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Fdivisas%2FEURO-ISRAELI-NEW-SHEKEL-E-60037304%2Fnoticia%2FHarris-cierra-convenci-n-dem-crata-con-un-llamamiento-a-poner-fin-a-la-guerra-en-Gaza-47714113%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=Harris",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T06:53:11.095+03:00",
+    "updated": "2024-08-23T06:53:11.095+03:00"
+  },
+  {
+    "uuid": "92953fd5b34298c313a914c80b47ff6badfe59fb",
+    "url": "https://www.sportingnews.com/us/nfl/pittsburgh-steelers/news/roman-wilson-injury-update-pittsburgh-steelers-good-news/63e5fbd2265ae40e51ea344d",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mike Moraitis",
+    "published": "2024-09-19T20:00:00Z",
+    "title": "Roman Wilson injury update: Pittsburgh Steelers get good news on rookie WR | Sporting News",
+    "text": "The [Pittsburgh Steelers](https://www.sportingnews.com/us/nfl/pittsburgh-steelers) need all the help they can get on the offensive side of the ball after a slow start to the season, and they may get at least one reinforcement in Week 3. According to the team's [injury report on Thursday](https://www.steelers.com/team/injury-report/week/REG-3), rookie wide receiver Roman Wilson logged a full practice, which was an upgrade from Wednesday when he was limited. This is the second full practice for Wilson since the season began. Of course, we know the full practice doesn't guarantee that Wilson will play, as he logged one full session on Thursday last week before he was limited on Friday and was ultimately ruled out. Fingers crossed that won't be the case this time, though. Pretty clean injury report for the Steelers.— Mike DeFabo (@MikeDeFabo) Russell Wilson limited but Tomlin already said there preparing Fields the same as last week. Roman Wilson back to full. MyCole Pruitt (knee) DNP, which is why Rodney Williams was promoted earlier this week. [pic.twitter.com/jGHOuKFm2z] [September 19, 2024] Wilson [suffered an ankle injury](https://steelerswire.usatoday.com/2024/08/04/steelers-training-camp-roman-wilson-ankle-injury-nfl/) in late July, which forced him to miss a ton of training camp, all of the preseason and the first two games of the regular season. Before suffering the injury, Wilson appeared to be making inroads to landing himself a role early on in the season, as he was having a strong camp. However, he's unlikely to do much if he does make his debut in Week 3, as he's missed a ton of practice time. The hope is that Wilson will eventually take the slot role, a job that currently belongs to Calvin Austin, who isn't doing much to secure it. In fairness to Austin, nobody on the Steelers is doing much through the air, and his snaps have been limited with the Steelers utilizing multiple tight ends often.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://steelerswire.usatoday.com/2024/08/04/steelers-training-camp-roman-wilson-ankle-injury-nfl/)",
+      "https://www.steelers.com/team/injury-report/week/REG-3),",
+      "https://www.steelerswire.usatoday.com/2024/08/04/steelers-training-camp-roman-wilson-ankle-injury-nfl/)",
+      "https://steelers.com/team/injury-report/week/REG-3),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Rodney Williams",
+          "sentiment": "none"
+        },
+        {
+          "name": "Russell Wilson",
+          "sentiment": "none"
+        },
+        {
+          "name": "MyCole Pruitt",
+          "sentiment": "none"
+        },
+        {
+          "name": "Roman Wilson",
+          "sentiment": "none"
+        },
+        {
+          "name": "Mike DeFabo",
+          "sentiment": "none"
+        },
+        {
+          "name": "Tomlin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Pittsburgh Steelers",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:17:35.378+03:00",
+    "updated": "2024-09-20T00:17:35.378+03:00"
+  }
+]

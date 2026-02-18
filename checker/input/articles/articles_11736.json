@@ -1,0 +1,158 @@
+[
+  {
+    "uuid": "fff5129cc4a9073bb0d5fd04c8dd8342205771a1",
+    "url": "https://www.climatempo.com.br/noticia/2024/10/13/chuva-aumenta-no-nordeste-6666",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Climatempo",
+    "published": "2024-10-13T14:35:00Z",
+    "title": "Chuva aumenta no Nordeste",
+    "text": "Oferecido por O avanço de uma frente fria nesta segunda-feira, 14 de outubro, aumenta as condições de chuva já neste início de semana no sul da Bahia. Na terça-feira (15), o sistema avança ainda em alto mar na altura do estado, reforçando as instabilidades. O tempo fica bem mais instável na região do Recôncavo baiano e há previsão de bastante chuva, especialmente ao da terça e da quarta-feira (16). Foto: Getty Images A partir da quarta, o padrão de circulação atmosférica muda e o tempo vai começar a ficar mais instável, também, no interior do Nordeste, com condição das pancadas de chuva começarem a se espalhar mais, avançando até mesmo em pontos do interior do Pernambuco, Paraíba e parte do sul do Ceará. Foto: Acumulado de chuva entre os dias 13 a 17/10/2024 Há risco de ocorrer pancadas fortes de chuva, com volumes pontualmente elevados no oeste da Bahia, centro-sul do Piauí e do Maranhão. Lembrando que a maioria destas regiões ainda estarão com temperaturas bem altas e o risco de transtornos aumenta até o final desta semana.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-13T17:51:40.963+03:00",
+    "updated": "2024-10-13T23:56:53.048+03:00"
+  },
+  {
+    "uuid": "292f26321f75497b1e953ef6f198d529572d4490",
+    "url": "https://www.informacion.es/vida-y-estilo/tecnologia/2024/11/22/openai-planea-crear-navegador-web-111938110.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Carles Planas Bou",
+    "published": "2024-11-22T09:44:00Z",
+    "title": "OpenAI planea crear un navegador web con IA para competir con Google",
+    "text": "Carles Planas Bou\nBarcelona 22 NOV 2024 11:44 Semana de malas noticias para Google . Si el miércoles supo que el Departamento de Justicia de Estados Unidos quiere obligarla a vender el negocio de Chrome para acabar con su monopolio , el jueves se filtró que OpenAI , su rival y fabricante de ChatGPT , estudia la posibilidad de desarrollar un navegador web propio para desbancarla.\nSegún publica The Information, la start-up de inteligencia artificial financiada por Microsoft se plantea crear un producto de navegación por Internet que combinaría con su chatbot, si bien esa posibilidad está aún lejos de materializarse.\nCon este movimiento, OpenAI podría tratar de plantar cara a Google. Chrome es el navegador más popular del mundo, pues concentra un 67% de ese mercado, según datos de Statcounter, muy por delante de rivales como Safari , Edge o Firefox . Competir con Google es una misión titánica, pero eso podría cambiar si la justicia estadounidense termina obligando a la compañía a desprenderse de su navegador.\nAmbas noticias han hecho que la capitalización de Google se resienta en bolsa . En las últimas 24 horas, sus acciones se han devaluado un 4,56%.\nBuscador contra Google No es la primera vez que OpenAI reta a Google. A finales de julio, la empresa capitaneada por Sam Altman anunció el lanzamiento de SearchGPT , el prototipo de un motor de búsqueda que se sirve de IA para dar respuesta a las consultas de los usuarios. Un año antes, Microsoft integró esa tecnología en su buscador Bing y en su navegador Edge a través de Copilot , un asistente conversacional que acompaña al usuario durante la navegación web.\nEl dominio de Google en ese campo es aún más abrumador, pues su servicio concentra casi el 90% del mercado mundial de las búsquedas web. Aun así, las maniobras de Microsoft y OpenAI han obligado a Google a mover ficha. A finales de 2023, el gigante tecnológico dirigido por Sundar Pichai lanzó su propio modelo de IA, Gemini , y lo integró a sus servicios para tratar de mejorar las búsquedas y neutralizar a sus rivales.\nOpenAI también está buscando otras fórmulas para ganar terreno a Google. Según The Information, la firma está estudiando la posibilidad de potenciar las funciones de IA en los móviles y tabletas fabricados por la surcoreana Samsung , tradicional socio comercial de Google. En junio, la creadora de ChatGPT anunció una nueva alianza para alimentar los dispositivos de Apple , que cobra unos 12.000 millones de dólares anuales de Google para que su navegador y su buscador estén instalados por defecto.\nTEMAS",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Departamento de Justicia de Estados Unidos",
+          "sentiment": "none"
+        },
+        {
+          "name": "Microsoft",
+          "sentiment": "none"
+        },
+        {
+          "name": "Firefox",
+          "sentiment": "none"
+        },
+        {
+          "name": "Chrome",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T13:01:43.333+02:00",
+    "updated": "2024-11-22T13:01:43.333+02:00"
+  },
+  {
+    "uuid": "7b7ef16202dc367cb82a5e95c8d5206e400f18c8",
+    "url": "https://www.elperiodico.com/es/economia/20241101/dana-valencia-5-pasos-seguir-111123907",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "P. G.",
+    "published": "2024-11-01T13:11:00Z",
+    "title": "DANA en Valencia: los 5 pasos a seguir si has sufrido daños por las lluvias torrenciales",
+    "text": "El paso de la DANA por la Comunidad Valenciana, Castilla La Mancha y parte de Andalucía ha provocado estragos en miles de hogares, automóviles, ciudades e incluso en infraestructuras viarias y ferroviarias. Las autoridades han contabilizado una suma superior a los 155 fallecidos por las lluvias torrenciales y el Gobierno tiene previsto aprobar el próximo martes en el Consejo de Ministros la declaración de zona catastrófica por este motivo, además de tres días de luto. Si eres uno de los afectados por el temporal intenso de la DANA, la Organización de Consumidores y Usuarios (OCU) explica el proceso a seguir para reclamar las indemnizaciones pertinentes. Conocer los pasos a seguir es crucial para que los seguros, o el Consorcio de Compensación de Seguros (CCS), te indemnice por los daños sufridos: Consulta tu seguro y determina la cobertura: Si tienes daños en tu vivienda o vehículo, revisa el tipo de seguro que has contratado. En casos de \\\"riesgos extraordinarios\\\" (como inundaciones y fuertes tormentas), el Consorcio de Compensación de Seguros, un organismo público, se hace cargo de las indemnizaciones. Este organismo responde únicamente si previamente tienes un seguro contratado y en el caso de automóviles, incluso si es solo de Responsabilidad Civil. Recopila pruebas y documentos: Reúne cualquier evidencia del daño, como fotos, informes de emergencia y noticias, para respaldar tu reclamación. Estos documentos son esenciales tanto para el Consorcio como para tu aseguradora, si fuera aplicable.\\n Comunica el siniestro: Si el daño parece provenir de un riesgo extraordinario, notifícalo al Consorcio de Compensación de Seguros. En caso de duda, comunícalo también a tu aseguradora.\\n Solicita la declaración de zona catastrófica: OCU y otras entidades están solicitando esta declaración al Gobierno para que las zonas más afectadas puedan recibir ayudas adicionales. En caso de ser aprobadas, estas ayudas serían independientes del seguro y, en muchos casos, cubrirían bienes no asegurados.\\n Viajes cancelados: Si tenías un viaje programado y este fue cancelado por el temporal, tienes derecho a ser transportado a tu destino lo antes posible o a recibir el reembolso del billete. Para orientación y reclamaciones, OCU ha puesto a disposición de los afectados el teléfono 91 300 91 46, disponible de lunes a viernes de 9 a 18 horas.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T16:20:31.632+02:00",
+    "updated": "2024-11-01T16:20:31.632+02:00"
+  },
+  {
+    "uuid": "a74d137a043dbdf624e0d6ae26ce22cecf436a47",
+    "url": "https://www.adnkronos.com/spettacoli/paolo-taviani-regista-film-morto-oggi_6eovycN4e4QrETQsnL84jJ",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Adnkronos",
+    "published": "2024-02-29T21:11:00Z",
+    "title": "Addio a Paolo Taviani, il regista aveva 92 anni",
+    "text": "Con il fratello Vittorio ha formato la coppia più celebre del cinema italiano del secondo Dopoguerra. Il ministro della Cultura Sangiuliano: \"Era un maestro del cinema e un narratore di qualità\". Pupi Avati: \"Era ancora pieno di entusiasmo, mi mancherà\". Giancarlo Giannini: \"Persona di rara gentilezza\"\nPaolo Taviani (Fotogramma/Ipa) E' morto il regista e sceneggiatore Paolo Taviani, che con il fratello Vittorio ha formato la coppia più impegnata e importante del cinema italiano del secondo dopoguerra. Si è spento nella clinica Villa Pia a Roma a 92 anni, dopo una breve malattia. Accanto a lui fino all'ultimo la moglie Lina Nerli, costumista di fiducia dei due fratelli registi e di tanti altri film, e i figli Ermanno e Valentina. Lunedì 4 marzo si terrà la cerimonia laica funebre alla Promototeca del Campidoglio dalle 10 alle 13.\nPaolo Taviani, chi era Era nato a San Miniato l'8 novembre 1931 nel pisano ed era di poco più di due anni più grande di Vittorio, scomparso all'età di 88 anni il 15 aprile 2018. 'I fratelli Taviani' sono diventati nel tempo un vero e proprio 'marchio cinematografico'. Nel 1967 iniziarono un'attività autonoma, dirigendo, da allora sempre insieme. Il primo film fu 'I sovversivi'. Coerenti interpreti di un cinema civilmente impegnato, nella seconda fase della loro carriera, pur continuando a rappresentare la necessità e il rimpianto dell'utopia, si sono dedicati soprattutto alla rievocazione del passato e alla trascrizione filmica di opere letterarie.\nI film di maggior successo Tra i film di maggior successo dei fratelli Taviani figurano: 'Sotto il segno dello Scorpione' (1969); 'San Michele aveva un gallo' (1971); 'Allonsanfàn' (1974); 'La notte di San Lorenzo' (1982); 'Kaos' (1984), ispirato alle novelle di Luigi Pirandello; 'Fiorile' (1993); 'Le affinità elettive' (1996) dall'originale romanzo omonimo di Goethe; 'Tu ridi' (1998). Nella loro filmografia spicca 'Padre padrone' (1977), dal libro-simbolo dello scrittore sardo Gavino Ledda, vincitore della Palma d'Oro e del Premio della Critica al Festival di Cannes con Roberto Rossellini presidente della giuria. La pellicola ottenne anche il Gran Prix al Festival di Berlino, il David di Donatello speciale e il Nastro d'Argento per la miglior regia.\nDel 2007 è 'La masseria delle allodole', tratto dall'omonimo bestseller della scrittrice Antonia Arslan che racconta il genocidio del popolo armeno durante la prima guerra mondiale, mentre nel 2012 i due registi hanno diretto 'Cesare deve morire', dramma carcerario ambientato a Rebibbia che nello stesso anno è stato insignito dell'Orso d'oro al Festival di Berlino ed è valso ai Taviani i due maggiori premi ai David di Donatello, quelli di miglior film e di migliore regista.\nNel 2015 i fratelli sono tornati alla regia con 'Maraviglioso Boccaccio', liberamente ispirato al Decamerone, cui ha fatto seguito nel 2017 'Una questione privata'. Nel 2016 hanno ricevuto il David di Donatello Speciale per il 60° anniversario della cerimonia.\nFigli di un avvocato che sotto la dittatura fascista aveva incontrato le ostilità del regime per le sue idee politiche, in gioventù Paolo e Vittorio, assieme a un amico partigiano, Valentino Orsini, organizzarono degli spettacoli e delle proiezioni cinematografiche a Pisa e Livorno, dando presto vita al Cineclub di Pisa. I tre amici inseparabili nel 1954 iniziarono a realizzare una serie di documentari a sfondo sociale, largamente ispirati al Neorealismo e in particolar modo alla pellicola di Roberto Rossellini 'Paisà', come 'San Miniato, luglio '44' (1954) con la collaborazione di Cesare Zavattini, e 'L'Italia non è un paese povero' (1960) di Joris Ivens.\nCon Valentino Orsini i fratelli Taviani firmarono i film 'Un uomo da bruciare' (1962) e 'I fuorilegge del matrimonio' (1963). Il primo film autonomo dei Taviani fu 'I sovversivi' (1967), con il quale anticipavano gli avvenimenti del '68. Con Gian Maria Volonté raggiunsero il grande successo con 'Sotto il segno dello scorpione' (1969) in cui s'avvertono gli echi di Brecht, Pasolini e Godard. Era l'inizio di una filmografia più unica che rara del cinema italiano.\nLa tematica della rivoluzione è poi presente sia in 'San Michele aveva un gallo' (1972), adattamento del racconto di Lev Tolstoj 'Il divino e l'umano', film molto apprezzato dalla critica, vincitore del premio Interfilm a Berlino, che nel film sulla Restaurazione 'Allonsanfàn' (1974) in cui si rilegge l'epoca attraverso la lente di una differente coscienza storica per segnalare il tradimento della classe proletaria: protagonista è Marcello Mastroianni, attorniato da Laura Betti e Lea Massari. In entrambe le pellicole sono presenti i loro attori feticcio Giulio Brogi e Renato Scarpa.\nMa è con 'Padre padrone', autobiografia di Gavino Ledda, ex pastore sardo diventato scrittore e filologo, che nel 1977 i fratelli Taviani guadagnarono fama internazionale grazie alla Palma d'Oro e al Premio della Critica al Festival di Cannes.\nLa filmografia dei Taviani è continua con 'Il prato' (1979), in cui si riscontrano echi neorealistici, e 'La notte di San Lorenzo' (1982) che ha aggiunto un attore feticcio in più alla loro lista: Omero Antonutti che ben si è destreggiato nella storia di un gruppo di uomini e donne che fuggono dai tedeschi nel tentativo di raggiungere una zona occupata dagli alleati. La musica di Nicola Piovani accompagnava questo film sulla speranza e profondamente antibellico che fruttò alla coppia di registi il Gran Premio della Giuria a Cannes, nonché i conseguenti David e Nastri d'Argento per la regia e sceneggiatura.\nMembri della giuria al Festival di Venezia nel 1984, quello stesso anno i fratelli Taviani adatteranno quattro novelle di Luigi Pirandello in 'Kaos' (1984), vincendo il David di Donatello e il Nastro d'Argento per la sceneggiatura, scritta a sei mani con Tonino Guerra.\nIl Leone d'Oro alla carriera della Mostra del Cinema di Venezia nel 1986 li invogliò a continuare il loro percorso artistico con 'Good Morning, Babilonia' (1988), con Vincent Spano e Joaquin De Almeida, 'Il sole anche di notte' (1990), 'Fiorile' (1993) e 'Le affinità elettive' (1996). Due anni più tardi, i fratelli Taviani realizzano 'Tu ridi' (1998), film a episodi con Antonio Albanese e Sabrina Ferilli, successivamente seguito, nel 2001, dalle miniserie televisiva 'Resurrezione', con Stefania Rocca, e Luisa Sanfelice (2004) con Laetitia Casta e Adriano Giannini, mentre nel 2007 continuarono a parlare dell'uomo e della sua esistenza, fra violenza e innocenza ne 'La masseria delle allodole' (2007) con Paz Vega, Angela Molina e Alessandro Preziosi, tratto dall'omonimo romanzo di Antonia Arslan.\nAncora attivissimi, nonostante l'età avanzata, Vittorio e Paolo hanno vinto l'Orso d'Oro a Berlino 2012 per 'Cesare deve morire'. Il film racconta la preparazione e la messa in scena dell'opera di William Shakespeare da parte di alcuni detenuti nel carcere di Rebibbia. Ancora una volta i fratelli trionfarono nell'impegno sociale e nella qualità cinematografica, ottenendo anche il David di Donatello per il miglior film e il David di Donatello per il miglior regista.\nNel 2017 sono tornati al cinema, per l'ultima volta in coppia, con il film 'Una questione privata', tratto dal romanzo omonimo di Beppe Fenoglio, presentato in anteprima al Festival del Cinema di Roma. Dopo la morte del fratello Vittorio , Paolo ha scritto e diretto da solo \"Leonora addio\" (2022), ispirato da una novella di Luigi Pirandello.\nNel 1996 la città natale di San Miniato, in provincia di Pisa aveva intitolato ai due fratelli un centro di cultura cinematografica: il Centro Cinema Paolo e Vittorio Taviani.\nUn film sull'Italia del Covid, l'ultimo progetto incompiuto Il regista Paolo Taviani aveva annunciato di recente il progetto di un nuovo film dal titolo 'Il canto delle meduse' con Kasia Smutniak come attrice protagonista. Ambientato in uno dei periodi della storia recente più bui, la trama intreccia quattro racconti legati alla traiettoria narrativa della pandemia del 2020 . Tra le vicende raccontate spicca quella di Valeria, una donna che, prima di morire a causa del Covid-19, esprime alle sue amiche il forte desiderio di essere sepolta da sola, e non nella tomba di famiglia insieme al marito che odia da sempre.\nSangiuliano: \"Maestro del cinema e un narratore di qualità\" \"Con la morte di Paolo Taviani perdiamo un maestro del cinema e un narratore di qualità, protagonista assoluto, fino alla fine, della settima arte\" dichiara il ministro della Cultura Gennaro Sangiuliano. \"Alla sua famiglia e ai suoi cari le mie più sentite condoglianze\".\nBorgonzoni: \"Talento e passione, ha dato lustro al cinema italiano nel mondo\" \"Dopo Vittorio, perdiamo anche Paolo. Saremo sempre riconoscenti ai Fratelli Taviani per aver dato lustro nel mondo al cinema italiano con il loro talento e la loro passione, regalandoci film entrati nella storia\" ha detto il sottosegretario alla Cultura Lucia Borgonzoni. \"Mi stringo ai suoi familiari, le mie più sentite condoglianze\".\nGiani: \"Ha dipinto l'Italia con toni di autenticità e profonda umanità\" \"La Toscana piange la scomparsa del grande regista Paolo Taviani, figlio della nostra amata San Miniato e sempre legato con passione e talento alla Toscana\" ha detto Eugenio Giani, il presidente della Regione Toscana. \"Lascia un vuoto incolmabile non solo nel mondo del cinema, ma nel cuore di tutti noi che abbiamo condiviso con lui le origini, ma anche l'amore per questa terra, le sue tradizioni e la sua gente. Paolo, insieme a suo fratello Vittorio, ha dipinto il nostro paese con toni di autenticità e profonda umanità. La tua arte e il tuo spirito continueranno a guidarci, come faro di creatività e passione, che la terra ti sia lieve Paolo\".\nPupi Avati: \"Era ancora pieno di entusiasmo e progetti, mi mancherà\" \"Io avevo una consuetudine telefonica con lui negli ultimi tempi. Era stato dimesso da poco, doveva incominciare a fare un film, era pieno di entusiasmo, io lo caricavo perché per lui, come per me, il lavoro era la vita, non ci sono alternative\". A parlare all'Adnkronos è Pupi Avati che, raggiunto telefonicamente, ricorda commosso il collega regista Paolo Taviani scomparso oggi a 92 anni. \"Erano telefonate nella prospettiva del futuro malgrado l'età che lui aveva e io ho -dice Avati- Voleva fare un film importante con le energie che gli stavano tornando. Forse chiamava me per questo, perché fra i colleghi ero quello più vicino a lui anagraficamente. Ho la sensazione che ci volessimo proprio bene, che ci confidassimo a livelli molto intimi e personali come prima non era mai accaduto\". Le conversazioni fra i due maestri del cinema abbracciavano tanti temi. \"Le sue telefonate erano veramente uno scambio di rassicurazione reciproca\", ricorda commosso il regista bolognese. Che tiene a sottolineare: \"Voglio ricordare le ingiustizie che ha patito, le emarginazioni che ha subito nel suo lavoro, 'Leonora Addio' è un film meraviglioso che non ha preso nessun riconoscimento e la cosa mi scandalizzò\".\n\"Era considerato una persona che ormai non faceva più parte del circolo attivo del cinema italiano, invece aveva una prospettiva nitida e tanti progetti. Il rammarico è enorme, non ci posso credere. Mi mancherà moltissimo\", conclude Avati.\nGiancarlo Giannini: \"Grande regista e persona di rara gentilezza\" \"Sono davvero molto dispiaciuto. Avevo lavorato con lui al doppiaggio di un film, 'Le Affinità Elettive'. Lo ricordo non solo come un regista che ha fatto dei film bellissimi insieme al fratello Vittorio, ma anche come una persona di rara gentilezza\" dice all'Adnkronos Giancarlo Giannini che aveva prestato la voce come narratore in 'Le affinità Elettive' del 1996.\nMazzeo: \"Con il fratello ha segnato la storia del cinema italiano\" \"Paolo Taviani insieme al fratello Vittorio ha segnato la storia del cinema italiano\" scrive sui social Antonio Mazzeo, presidente del Consiglio regionale della Toscana. \"La sua scomparsa è una grande perdita per tutti il mondo della cultura. Alla moglie Lina, ai figli Ermanno e Valentina, le più sentite condoglianze a nome mio e del Consiglio regionale della Toscana. Paolo e Vittorio hanno mantenuto sempre un profondo legame con la Toscana e con la loro San Miniato\".\nGualtieri: \"Ha firmato film indimenticabili\" \"Con Paolo Taviani ci lascia un grande Maestro del cinema italiano\" scrive su X il sindaco di Roma Roberto Gualtieri. \"Insieme al fratello Vittorio, ha firmato film indimenticabili, profondi, impegnati, che hanno saputo entrare nell’immaginario collettivo e nella Storia del cinema. Un abbraccio affettuoso alla famiglia\".\nComune di Sciara: \"Orgogliosi di aver ospitato il loro primo film\" \"Con la morte del maestro Paolo Taviani si chiude una pagina importantissima della storia del cinema mondiale\" afferma l'Amministrazione Comunale di Sciara nel palermitano, dove nel 1962 fu girato \"Un uomo da bruciare\", il primo film diretto da Valentino Orsini insieme ai fratelli Taviani, liberamente ispirato alla vita del sindacalista socialista Salvatore Carnevale. \"Siamo orgogliosi del fatto che i fratelli Paolo e Vittorio scelsero Sciara come location del loro primo film per raccontare la storia del nostro Salvatore Carnevale. Il loro ricordo rimarrà sempre vivo nella memoria storica, e nei cuori di tutti noi sciaresi. Tutti noi, porgiamo le nostre più sentite condoglianze ai figli e alla famiglia\".\nSbarigia (Cinecittà): \"Paolo e Vittorio sodalizio unico del cinema mondiale\" \"Apprendo con commozione la notizia della scomparsa di Paolo Taviani, che con il fratello Vittorio ha costituito un sodalizio unico del nostro cinema, e del cinema mondiale\". Lo dichiara Chiara Sbarigia, Presidente di Cinecittà. \"Un’opera tra le più impegnate, riconosciute e premiate in Europa, che ha saputo scrivere il romanzo intimo della nostra storia -prosegue Sbarigia- Voglio ricordare due momenti recenti: l’ultimo film di Paolo Taviani, 'Leonora addio', girato anche nei nostri Studi di Cinecittà, una prova da maestro di toccante lucidità dall’amato Pirandello, premiata a Berlino; e il recentissimo straordinario omaggio del British Film Institute, in collaborazione con Cinecittà, alla carriera dei Fratelli\". \"Paolo Taviani assieme a Vittorio Taviani ha raccontato e fatto la storia del nostro cinema; sappiamo che il futuro riserva loro un posto privilegiato nelle teste e nei cuori degli spettatori\", conclude il presidente di Cinecittà.\nIl paese natale San Miniato: \"Siamo orfani\" \"La scomparsa di Paolo Taviani rende San Miniato orfana. Con il fratello Vittorio, ha portato nel mondo il nome della nostra Città e raccontato le loro origini, che sono anche le nostre. Con Paolo si chiude definitivamente un pezzo di quell'arte che solo una città straordinaria come la nostra può concepire\". Lo affermano, in una nota congiunta, il sindaco Simone Giglioli e l'assessore alla cultura Loredano Arzilli di San Miniato (Pisa), il comune dove i fratelli Taviani erano nati e a cui hanno dedicato il film 'La notte di San Lorenzo' (1982). \"Ho ancora vivo nella mente il ricordo dell'ultima volta che è venuto nella Città della Rocca, nel settembre scorso, la prima dopo la scomparsa di Vittorio, cinque anni fa, per la consegna del premio dedicato proprio al fratello, quando l'amministrazione - ricorda il sindaco Giglioli - ha inaugurato la statua dell'artista Marcello Scarselli, 'Cecilia', installata nella piazzetta Mazzini, per rendere omaggio ai 40 anni dall'uscita de 'La notte di San Lorenzo'. Nel 2015 l'amministrazione comunale volle, con entusiasmo, conferire ai fratelli Taviani la cittadinanza onoraria, un tributo doveroso che sancisce il profondo ed inscindibile legame con questa terra e con la nostra comunità. Emozionante fu anche nel 2022, durante il Palio di San Rocco, quando fu organizzata la proiezione dell'ultimo film di Paolo Taviani, il primo che lo vedeva da solo alla regia, 'Leonora addio', in una piazza Buonaparte gremita di concittadini e amici, durante la quale ci collegammo con lui dalla sua casa di Roma, e rimase colpito dalla grande testimonianza di affetto che San Miniato ebbe ed ha ancora per questi due maestri del cinema italiano\".\n\"San Miniato oggi piange la scomparsa di Paolo e si stringe commossa alla moglie Lina, ai figli Ermanno e Valentina. Ciao Paolo, riabbraccia Vittorio e grazie per tutto quello che ci avete regalato, San Miniato vi porterà per sempre nel cuore e terrà vivo il vostro ricordo\", concludono il sindaco Giglioli e l'assessore Arzilli.\nMarti: \"Cordoglio per scomparsa Taviani, perdiamo un grande maestro\" \"Con la scomparsa di Paolo Taviani, perdiamo un grande maestro del cinema italiano\" ha detto il senatore della Lega Roberto Marti, presidente della commissione Cultura a Palazzo Madama. \"Esprimo il mio cordoglio e mi stringo al dolore della sua famiglia e di tutti i suoi cari\".\nLeggi anche Paolo Taviani, il ricordo di Pupi Avati: \"Era ancora pieno di entusiasmo, mi mancherà\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-01T00:25:01.343+02:00",
+    "updated": "2024-03-01T02:00:49.504+02:00"
+  }
+]

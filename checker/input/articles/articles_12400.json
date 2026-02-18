@@ -1,0 +1,155 @@
+[
+  {
+    "uuid": "838348920758b590c0245d07211384f6e62431b7",
+    "url": "https://www.rfi.fr/cn/%e4%b8%ad%e5%9b%bd/20250402-%e4%b8%ad%e5%9b%bd%e4%bc%81%e4%b8%9a%e6%96%a5%e8%b5%84160%e4%ba%bf%e7%be%8e%e5%85%83%e8%ae%a2%e8%b4%ad%e8%8b%b1%e4%bc%9f%e8%be%be%e6%96%b0%e6%ac%be%e8%8a%af%e7%89%87",
+    "ord_in_thread": 0,
+    "author": "安娜",
+    "published": "2025-04-02T21:35:00Z",
+    "title": "中国企业斥资160亿美元订购英伟达新款芯片",
+    "text": "中国/美国/英伟达/芯片\n中国企业斥资160亿美元订购英伟达新款芯片\n路透社消息，据《信息报》（The Information）周三(4月2日）援引两位知情人士的消息报道，包括字节跳动、阿里巴巴集团和腾讯控股在内的中国企业，今年前三个月已向英伟达订购至少160亿美元的H20服务器芯片。\n发表时间：\n3 分钟\n广告\nH20是目前在美国出口管制下，中国市场上能合法购买的最先进人工智能（AI）处理器。今年2月，路透社曾报道，由于中国初创公司DeepSeek推出的低成本AI模型需求激增，H20芯片的订单量大幅增长。\n美国自2018年以来持续收紧对中国半导体行业的限制，特别是在高性能计算和人工智能（AI）领域。2019年，美国将华为列入“实体清单”，禁止美企供应芯片及相关技术，随后扩大限制范围，封锁先进芯片制造设备的出口。随后，美国商务部于2022年10月出台严格的《芯片出口新规》，禁止向中国出口高端GPU及AI芯片，并限制美国企业和人员参与中国的芯片制造。美国2023年进一步升级管控，禁止英伟达A100、H100等高性能芯片对华出口，甚至封锁专门为中国市场设计的改良版A800、H800。今年，英伟达推出受限地区可合法采购的H20芯片，以应对出口管制。\n电邮新闻头条新闻就在您的每日新闻信里\n订阅",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Environment"
+    ],
+    "topics": [
+      "Science and Technology->biomedical science",
+      "Science and Technology->scientific innovation",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->business financing",
+      "Economy, Business and Finance->foreign exchange market"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:31:49.206+03:00",
+    "updated": "2025-04-03T02:31:49.206+03:00"
+  },
+  {
+    "uuid": "a67d7cff07679d7f7e17e583bbe1000b7bf9e86e",
+    "url": "https://www.lemondeinformatique.fr/actualites/lire-bercy-degage-moins-d-economies-que-prevus-avec-l-ia-95255.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reynald Fléchaux",
+    "published": "2024-11-15T08:14:00Z",
+    "title": "Bercy dégage moins d'économies que prévus avec l'IA - Le Monde Informatique",
+    "text": "Depuis 2015, le ministère des Finances teste et exploite des systèmes à base d'IA. Certains d'entre eux ont bénéficié d'une certaine exposition médiatique, comme Signaux Faibles (détection des difficultés des entreprises dès l'apparition de signes avant-coureurs) ou Fonciers Innovants (identification de biens non déclarés, à commencer par les piscines). D'autres, en revanche, sont moins connus du grand public, mais jouent un rôle non négligeable, comme le ciblage de la fraude et la valorisation des requêtes (CFVR) qui alimentent la programmation des contrôles fiscaux. Mais quel est le bilan, notamment en termes d'efficacité de l'action publique, de ces initiatives ? C'est tout l'objet d'un rapport que la Cour des comptes, publié le 22 octobre dernier.\nDans ce bilan, l'institution publique recense, au sein du MEFSIN (ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique) 35 systèmes d'intelligence artificielle à fin 2023, 13 d'entre eux étant déployés ou exploités à ce jour, les autres étant au stade du projet, de l'étude de faisabilité ou de la réflexion.\nDeux projets majeurs à la DGFiP\nReposant dans un cas sur deux sur des technologies de traitement du langage naturel, ces applications effectuent des analyses de textes ou de sentiments - dans 11 cas -, fournissent des prédictions - dans 10 cas - ou permettent de répondre aux questions des agents ou usagers - 4 chatbots sont ainsi en service. La lutte contre les fraudes (fiscalité, douanes, droit de la consommation) et contre le blanchiment regroupe 16 systèmes d'IA sur 35, soit 46 % du total.\nD'après les éléments recueillis par la Cour, l'ensemble de ces applications à base IA ont coûté 66,3 M€ en coûts de développement sur la période 2015-2023, en totalisant les dépenses en prestations et les ressources mobilisées au sein de l'administration. Dans ce total, la DGFiP pèse lourd, 91% du total, selon les calculs de la Cour des comptes. Avec deux projets représentant l'essentiel des investissements : Foncier innovant (pour 27,3 M€) et CFVR (pour 26,5 M€).\nProgrammation du contrôle fiscal : l'IA remplace plus de 400 ETP\nComme le notent les Sages de la rue Cambon, ces applications affichent des objectifs divers : réduction des coûts à périmètre constant, amélioration du service rendu ou encore augmentation des volumes d'activité sans augmentation des dépenses. « Ainsi, CFVR a diminué les coûts de programmation du contrôle fiscal sans modifier le volume ou les objectifs de cette programmation. Le nombre de dossiers proposés au contrôle reste stable, mais ce résultat est obtenu en mobilisant 427 ETP de moins en 2023 par rapport à 2018 : 50 % de la programmation concernant les professionnels et 30 % de la programmation concernant les particuliers reposent désormais sur une équipe de 32 personnes assistées par le datamining, contre environ 500 personnes en 2018 », souligne le rapport .\nDe son côté, Foncier innovant a permis de générer de nouvelles recettes. En 2022, ces gains se sont élevés à 4,4 M€ de nouvelles recettes et à 5,7 M€ concernant la rectification d'impositions antérieures, sur les neuf départements ayant expérimenté le dispositif. Sur ces territoires, plus de 20 000 piscines non déclarées ont été identifiées (soit une progression de 5,7% du nombre d'installations imposables). « La DGFiP estime [...] que 40 M€ de recettes pérennes devraient être apportés par le dispositif après sa généralisation en 2023 », ajoute la Cour des comptes.\nL'IA pour des tâches inaccessibles auparavant\nDe son côté, le robot conversationnel ClaudIA, conçu pour accompagner la généralisation de l'interface Chorus Pro à l'ensemble des fournisseurs de l'État, a permis de passer de 20 000 à 100 000 sollicitations par mois sans mobiliser d'effectifs supplémentaires. Mieux : « les gains de productivité réalisés ont été supérieurs aux besoins générés par l'extension de Chorus Pro, permettant la restitution d'emplois et une baisse des dépenses par rapport à leur niveau antérieur à l'implémentation du système d'IA », note même la Cour.\nEnfin, la rue Cambon mentionne le cas de systèmes permettant « d'accomplir des tâches qui ne seraient pas réalisables à une échelle significative sans recourir à l'IA », comme la détection précoce des difficultés des entreprises avec le programme Signaux faibles ou celle des colis suspects sans ouverture de ceux-ci qu'envisage la DGDDI (Direction générale des douanes et des droits indirects). « S'ils ne libèrent pas d'emplois par rapport à la situation antérieure, ces systèmes d'IA peuvent générer des gains de productivité indirects et des économies budgétaires à moyen terme », écrivent les auteurs du rapport.\nAnticipations trop optimistes\nBref, des gains sont bel et bien mesurables. Mais pas au niveau attendu, souligne la Cour des comptes. Les cinq projets visant une diminution des dépenses ont ainsi permis de dégager 20 M€ d'économies par an à partir de 2022, alors que la cible s'élevait à 46,6 M€ à cette échéance. Notons d'ailleurs que les cinq projets en question sont censés se traduire par des économies encore plus significatives en 2024, en remplaçant plus de 1 000 ETP par rapport au niveau de 2019, soit une économie de 60,7 M€ en année pleine. Dans ce total, CFVR est censé à lui seul représenter 500 ETP, 300 autres provenant de Foncier innovant.\nSelon les auteurs du rapport, cet écart résulte d'un suivi incomplet des projets. Mais aussi d'hypothèses jugées « élevées et peu justifiées » des effets budgétaires des systèmes d'IA. Ces anticipations trop optimistes valent d'ailleurs aussi pour les gains de recettes fiscales, la DGFiP ayant estimé, dans un premier temps, que le projet Foncier Innovant pourrait lui rapporter 130 M€ supplémentaires par an. Un total que l'administration a divisé par plus de trois.\nAttention à l'effet rebond\nPar ailleurs, la Cour des comptes souligne les effets induits de la mise en production des systèmes d'IA, des effets de bord pas forcément bien anticipés par Bercy : « L'intégration d'un système d'IA au sein d'un processus déforme généralement la nature de l'activité en amont et en aval de la chaîne de travail », observent les auteurs du rapport. Exemple, une fois encore avec Foncier innovant, qui accroît la charge de travail des agents - du fait de ses capacités de traitement -, mais génère également de « nombreux faux positifs qu'il revient aux agents d'exclure du processus ».\nIl s'agit là d'une concrétisation de l'effet rebond, souvent associé à l'introduction de nouvelles technologies. « Le recours à un SIA (système d'intelligence artificielle, NDLR), en diminuant le coût de la détection, conduit la DGFiP à disposer d'un plus grand nombre de biens dont la situation doit être vérifiée puis régularisée par les agents, ce qui augmente in fine la charge de travail des équipes », détaille le rapport.\nEt le constat pourrait, à l'avenir, concerner également CFVR, dont les perfectionnements doivent déboucher sur le signalement d'une plus grande proportion de dossiers en situation de fraude. Donc augmenter la charge de travail des équipes, même à nombre de contrôles inchangé, « car les contrôles se traduiraient plus souvent par la détection de fraudes, le rappel de droits et les procédures contentieuses et de recouvrement qui s'y attachent ». Conclusion : pour la Cour, l'effet rebond est susceptible, dans certains cas, de consommer tout ou partie des emplois libérés par l'IA. A tel point que l'administration limite les capacités de certains outils afin de ne pas noyer ses équipes. C'est le cas pour CFVR, qui propose aux agents chargés des contrôles fiscaux un nombre de dossiers constant alors qu'il pourrait faire davantage, ou de la détection des cas de blanchiment, dont le volume est calibré sur les capacités de traitement des enquêteurs.\nRepositionnement sur des tâches à plus forte valeur ajoutée ? Voire\nD'ailleurs, la Cour des comptes regrette que les phases d'étude et de développement des projets du ministère se concentrent sur les aspects techniques, faisant peu de cas des implications en termes de productivité, d'emplois, de formation ou encore de conditions de travail. « La preuve de concept (PoC) technique pourrait ainsi être accompagnée d'une preuve de concept relative aux ressources humaines », suggèrent les Sages de la rue Cambon, qui aimeraient que les aspects relatifs aux gains de productivité nets attendus, aux affectations envisagées, aux effets de l'IA sur la nature des missions et aux actions envisagées en termes d'accompagnement et de formation viennent enrichir les études Mareva (Méthode d'analyse et de remontée de la valeur afin d'estimer la valeur prévisionnelle des projets de système d'information. )\nAu passage, la Cour des comptes tord le cou à une idée reçue, notant que « le principe général selon lequel l'introduction d'un système d'IA permet de repositionner les agents sur des tâches à plus forte valeur ajoutée n'est pas toujours applicable, et semble être assez rarement concrétisé ». Un repositionnement de ce type n'a été documenté que dans un cas, sur les 13 SIA actuellement en production, et pour 25 agents seulement.\nAvec l'IA, l'équation économique dépend de la qualité des réponses Dans son rapport, la Cour des comptes estime que l'évaluation des systèmes d'IA devrait prendre en compte « de façon plus systématique » la qualité des réponses et des résultats. Ceux-ci influençant directement l'équation économique d'un projet. Les auteurs du rapport regrettent ainsi que, sur les cinq applications ciblant des gains d'efficacité, un seul indicateur s'attache au niveau de satisfaction des utilisateurs (sur le chatbot Econtact) et un second au taux de précision des résultats (sur Foncier innovant). « Or, la qualité des réponses attendues est un critère essentiel pour évaluer la pertinence du recours à un SIA (système d'intelligence artificielle, NDLR), et peut constituer une limite pour certains d'entre eux », souligne la Cour des comptes. Qui note que le chatbot Econtact visait un taux de satisfaction des utilisateurs de 65 %, mais n'atteint que 50% en 2023.\nUne erreur dans l'article? Proposez-nous une correction\nArticle rédigé par Reynald Fléchaux Rédacteur en chef CIO",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.ccomptes.fr/sites/default/files/2024-10/20241022-S2024-1165-L-intelligence-artificielle-dans-les-poltiques-publiques-exemple-du-MEF.pdf",
+      "https://ccomptes.fr/sites/default/files/2024-10/20241022-S2024-1165-L-intelligence-artificielle-dans-les-poltiques-publiques-exemple-du-MEF.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T12:04:50.422+02:00",
+    "updated": "2024-11-15T12:04:50.422+02:00"
+  },
+  {
+    "uuid": "5727de332fe65ad442681d55d4d3851a9932d028",
+    "url": "https://www.news-herald.com/2024/01/07/thriving-threads-keeps-busy-at-providing-free-clothing-for-anyone-seeking-help/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bill DeBus",
+    "published": "2024-01-07T21:55:00Z",
+    "title": "Thriving Threads keeps busy at providing free clothing for anyone seeking help – News-Herald",
+    "text": "The [Thriving Threads](http://www.facebook.com/profile.php?id=100076333279967) clothing room in Perry Village was a busy place in 2023. This nonprofit organization last year served more than 6,000 people, and gave away over 40,000 pieces of clothing. Those statistics were provided by Thriving Threads Lead Manager Samantha Ferrell. Thriving Threads offers a wide variety of free, gently used clothing for men, women and children of all ages and sizes. The clothing room is open to residents from all communities, and not just the Perry area. Although there are no income requirements to shop at Thriving Threads, Ferrell believes that tough economic conditions prompted a lot of shoppers to obtain clothing at the organization in 2023. “They might as well visit us (for free clothing) and be able to take that money and put it towards food at the grocery store,” she said. In addition, Thriving Threads has been getting visits from more grandparents who are raising their grandchildren. “We’re seeing a big rise in that,” said Ferrell, who’s served as the clothing room’s nonpaid leader for three years. Thriving Threads also provides used pants and cleats for children who are playing in youth baseball and football leagues; and formal wear for teenage boys and girls during prom season. Every year prior to Halloween, Thriving Threads strives to stock a good selection of costumes for boys and girls. “So I think all of those things have helped a lot of people,” Ferrell said. Thriving Threads is located in the back of the western side of the Manchester West building at 4261 Manchester Road. The clothing room is situated alongside the [Perry Center of Lake County,](http://www.facebook.com/PerryCenterofLakeCounty) a local food pantry and Salvation Army Unit that provides charitable services within the Perry community. Ferrell receives assistance from three adult volunteers to sort clothing, put the apparel on display and rotate some of the inventory to feature seasonal items. “The volunteers have been great,” she said. “They’ve been coming in off hours to help, just trying to keep up.” Thriving Threads also obtains help during the school year from students in [Perry High School’s](http://www.perry-lake.org/phs) Perry Service Learning class. The [PSL](http://perryservicelearning.weebly.com) students who volunteer at Thriving Threads spearhead activities such as collection drives for prom apparel and clothing for cold-weather months. PSL is an elective for seniors at the high school that combines English and social studies with volunteer opportunities to promote social involvement through education and service. Thriving Threads’ regular hours for shopping are 9 a.m. to noon Tuesday and 1 to 4 p.m. Friday. However, shoppers with different schedules are welcome to contact Ferrell to arrange other times to visit. Samantha Ferrell can be reached by email at thrivingthreadsinperry@gmail.com; by calling the Perry Center of Lake County at 440-259-3322; or by leaving her a message on the [Thriving Threads Facebook page.](http://www.facebook.com/profile.php?id=100076333279967) People can contribute used clothing that’s in good condition during regular shopping hours. The organization also has a wooden bin near its entrance for after-hours donations. Ferrell said the community has been extremely generous in donating apparel for the clothing room. Thriving Threads uses its [Facebook page](http://www.facebook.com/profile.php?id=100076333279967) to post pictures and notices highlighting clothing that is available during the different seasons. Sometimes, the Facebook page also issues announcements about Thriving Threads having an urgent need for donations of certain clothing. Thriving Threads was established in 1999 by the Perry Women’s League, [according to an entry](http://perryservicelearning.weebly.com/thriving-threads.html) on the [Perry Service Learning program website.](http://perryservicelearning.weebly.com) Ferrell said that helping to direct the operations at Thriving Threads has been a fulfilling experience. “It’s rewarding every day, seeing people being so grateful just for free clothing, or being able to clothe their kids because they’re growing so quick,” she said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [
+      "http://www.facebook.com/PerryCenterofLakeCounty)",
+      "http://www.facebook.com/profile.php?id=100076333279967)",
+      "http://www.perry-lake.org/phs)",
+      "http://perryservicelearning.weebly.com)",
+      "http://perryservicelearning.weebly.com/thriving-threads.html)",
+      "http://facebook.com/PerryCenterofLakeCounty)",
+      "http://www.perryservicelearning.weebly.com)",
+      "http://www.perryservicelearning.weebly.com/thriving-threads.html)",
+      "http://www.facebook.com/profile.php",
+      "http://facebook.com/profile.php?id=100076333279967)",
+      "http://perry-lake.org/phs)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "perr",
+          "sentiment": "negative"
+        },
+        {
+          "name": "perry",
+          "sentiment": "none"
+        },
+        {
+          "name": "samantha ferrell",
+          "sentiment": "none"
+        },
+        {
+          "name": "ferrell",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "herald",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-08T00:38:00.639+02:00",
+    "updated": "2024-01-08T00:38:00.639+02:00"
+  }
+]

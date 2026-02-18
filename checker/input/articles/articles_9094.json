@@ -1,0 +1,652 @@
+[
+  {
+    "uuid": "90ede3ae081f27d8e2893081e35baa35185d34dd",
+    "url": "https://flipboard.com/topic/felixrosenqvist/tickets-for-popular-gigs-including-reading-festival-listed-for-eight-times-face-/a-1Lai-6GsTEi4g0EtUobp8A%3Aa%3A1643597903-e7d5d7f5be%2Fco.uk",
+    "ord_in_thread": 0,
+    "author": "mirror.co.uk - Graham Hiscott",
+    "published": "2025-04-30T23:01:00Z",
+    "title": "Tickets for popular gigs including Reading Festival listed for eight times face value | Flipboard",
+    "text": "Tickets for popular gigs including Reading Festival listed for eight times face value Fans risk being ripped-off by concert tickets that are being advertised for up to eight times their face value, an investigation has found. Consumer …\nmirror.co.uk - Graham Hiscott • 2h",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->media and entertainment industry",
+      "Economy, Business and Finance->consumer goods",
+      "Economy, Business and Finance->sales channel",
+      "Lifestyle and Leisure->party",
+      "Lifestyle and Leisure->gaming and lottery",
+      "Lifestyle and Leisure->leisure",
+      "Social Issue->ethics",
+      "Social Issue->social problem",
+      "Social Issue->values"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T04:11:20.799+03:00",
+    "updated": "2025-05-01T01:16:29.000+00:00"
+  },
+  {
+    "uuid": "a32c92bd885b174e0bc0a6c977ab367d75338e38",
+    "url": "https://forums.somd.com/threads/big-tech-continued-censorship.374469",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "GURPS (invalid@example.com)",
+    "published": "2024-08-15T19:18:00Z",
+    "title": "Big Tech Continued Censorship",
+    "text": "[GURPS](/members/gurps.75442/)\nINGSOC\nPREMO Member\nYouTube deletes Trump video, freezes CPAC account\nYouTube deleted a video of former President Donald Trump from the\nAmerican Conservative Union’s account and prevented the group from live-streaming the former president’s Sunday CPAC speech.\nIn a\nstatement, ACUChairman Matt Schlapp said the group learned that its account had been frozen for seven days over a video from Friday in which Mr. Trump announces his class-action lawsuit against the Silicon Valley titans such as\nThat loss of access to its video account meant the\nACU, which runs the Conservative Political Action Conference, could not upload Mr. Trump’s speech or any other live content from its CPAC 2021 Part 2 in Dallas over the weekend.\n“It is clear that YouTube censored CPAC because we stood with former President Donald Trump on his lawsuit against Big Tech,” Mr. Schlapp said. “This is yet another example of Big Tech censoring content with which they disagree in order to promote the political positions they favor.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.conservative.org/youtube-censors-cpacs-america-uncanceled-episode-removed-video-of-former-president-donald-j-trumps-major-class-action-against-big-tech/",
+      "https://www.washingtontimes.com/topics/american-conservative-union/",
+      "https://www.washingtontimes.com/news/2021/jul/11/youtube-deletes-trump-video-freezes-cpac-account/",
+      "https://conservative.org/youtube-censors-cpacs-america-uncanceled-episode-removed-video-of-former-president-donald-j-trumps-major-class-action-against-big-tech/",
+      "https://www.washingtontimes.com/topics/american-conservative-union",
+      "https://www.washingtontimes.com/news/2021/jul/11/youtube-deletes-trump-video-freezes-cpac-account",
+      "https://washingtontimes.com/news/2021/jul/11/youtube-deletes-trump-video-freezes-cpac-account/",
+      "https://washingtontimes.com/topics/american-conservative-union/",
+      "https://www.conservative.org/youtube-censors-cpacs-america-uncanceled-episode-removed-video-of-former-president-donald-j-trumps-major-class-action-against-big-tech"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "matt schlapp",
+          "sentiment": "none"
+        },
+        {
+          "name": "schlapp",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cpac",
+          "sentiment": "negative"
+        },
+        {
+          "name": "acu",
+          "sentiment": "none"
+        },
+        {
+          "name": "american conservative union",
+          "sentiment": "none"
+        },
+        {
+          "name": "youtube",
+          "sentiment": "none"
+        },
+        {
+          "name": "big tech",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "silicon valley",
+          "sentiment": "none"
+        },
+        {
+          "name": "dallas",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T00:44:45.092+03:00",
+    "updated": "2024-08-16T00:44:45.092+03:00"
+  },
+  {
+    "uuid": "6b46cde22417538f43fbe39ade708baf15e4705a",
+    "url": "https://northernontario.ctvnews.ca/northern-first-responders-express-concern-over-individuals-venturing-on-to-ice-1.6703915",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@CTVNorthernNews",
+    "published": "2023-12-28T21:40:00Z",
+    "title": "Sudbury news: First responders express concern over individuals venturing on to ice | CTV News",
+    "text": "[Skip to main content](#main) Emergency responders in the north told CTV News that they are concerned with the number of individuals venturing out onto the ice amid warmer weather conditions. Greater Sudbury Fire Services ' Deputy Chief Jesse Oshell said there have been several calls from concerned citizens over the past 10 to 15 days. Open water on a lake in Greater Sudbury on Dec. 28/23 amidst reports of northerners venturing onto the 'ice' in the the region. (Amanada Hick/CTV News Northern Ontario)\"So concerned citizens are calling emergency services and we do have to attend and we are attempting to speak to these individuals if they are out on to the ice,\" he said. \"We get them back to a safe location and provide education about the ice conditions at this time of year.\" Oshell said the number of calls is concerning so early in the season. \"The ice conditions are concerning, these mild temperatures, although there may be some ice on local waterways, at this time of year any ice should be considered dangerous,\" he said. The deputy fire chief said fortunately, there have been no serious injuries – but added some people have refused help. \"Individuals feel that they have traditionally gone out to the ice on this time of year and it has been safe,\" he said. \"So that messaging or understanding has to change because we are dealing with milder temperatures that are unseasonable for our climate.\" - Download the CTV News app now - Get local breaking news alerts - Daily newsletter with the top local stories emailed to your inbox Stephanie Bakalar, corporate communications officer for the Lifesaving Society told CTV News conditions have been too mild to venture out on the ice. Open water flowing through the ice on Lake Nosbonsing in 2023. (File photo/Eric Taschner/CTV News Northern Ontario)\"What'll happen is you get a bit of freezing and it melts again and creates weak, unstable ice,\" she said. \"It's definitely not suitable for people to be walking on or snowmobiling on. Anything like that. We need solid, thick, clean ice to be doing any activities on.\" Bakalar said ice thickness can be deceiving. \"You actually need a solid four inches of clean ice to be able to walk on and that increases the heavier, more people you have, the heavier vehicles you have,\" she said. The Lifesaving Society estimates 35 per cent of drownings across Canada occur between October and May – most of which are ice or weather-related. Bakalar said these drownings are preventable, emphasizing the messaging 'no ice is safe ice.' Shopping Trends The Shopping Trends team is independent of the journalists at CTV News. We may earn a commission when you use our links to shop. Read about us. Top Stories CTVNews.ca Top Stories Ten people rescued from plane crash site in remote Northwest Territories Ten people were rescued Thursday after a small plane crashed in a remote area of the Northwest Territories and they were stranded overnight. NDP's Jagmeet Singh rules out coalition government with Liberals after next election NDP Leader Jagmeet Singh is ruling out the possibility of forming a coalition government with the Liberals if no party wins a clear majority after the next federal election. Judih Weinstein Haggai, the last Canadian known to have been kidnapped by Hamas, confirmed dead Judih Weinstein Haggai, the only Canadian citizen who was still missing amid the Israel-Hamas conflict and believed to be held in the Gaza Strip, has been reported dead. In most African countries, drought forces rural communities to relocate, study finds Across most of Africa, drought is driving people who live in rural settlements closer to rivers and cities, according to a new study published in the journal Earth's Future. Teen dead, another missing after falling through ice in Ottawa amid spate of similar incidents across Canada A teenager is dead and another is still missing after four youths fell through the ice on the Rideau River in Ottawa's south end late Wednesday. Pierce Brosnan is in hot water, accused of trespassing in a Yellowstone thermal area Pierce Brosnan, whose fictitious movie character James Bond has been in hot water plenty of times, is now facing heat in real life, charged with stepping out of bounds in a thermal area during a recent visit to Yellowstone National Park. Ontario man charged after allegedly planning trip to U.S. for sex acts with kids Durham police say they arrested a man Thursday after learning that he allegedly planned to travel to the United States in order to engage in sex acts with a woman and her young children. Tight-knit Canada set for tough test against hosts Sweden at world juniors Canada will march into the jam-packed Scandinavium arena -- a building that resembles Calgary's Scotiabank Saddledome -- against the tournament hosts Friday night in a marquee Group A matchup. \"Skilled, dangerous,\" Canadian head coach Alan Letang said of Sweden. \"Very, very dangerous off the rush.\" Canada to offer humanitarian visas to those fleeing Sudan if relatives pay costs Ottawa is offering a lifeline to people fleeing an escalating civil war in Sudan if they have relatives in Canada who agree to financially support them. Barrie - Driver suffers life-altering injuries in Bracebridge crash Provincial police are investigating a single-vehicle collision in Bracebridge that sent one person to a Toronto area hospital. - Court hearing deferred for accused pedophile Curtis Gamble Accused pedophile Curtis Gamble made a virtual appearance in plea court on Thursday from the Central North Correctional Centre in Penetanguishene, only to have the matter pushed due to missing court documents. - Innisfil driver accused of being impaired after crashing into house on Christmas Day An Innisfil resident faces charges after crashing into a house on Christmas Day. Toronto - Woman allegedly intentionally drove vehicle into parking enforcement officer in Toronto Police arrested a 29-year-old woman after she allegedly intentionally drove her vehicle into a parking enforcement officer in Toronto’s east end. - Citizen's tip helps police apprehend suspect wanted in Richmond Hill axe attack Police in York Region say media coverage, along with a tip from a member of the public, helped them apprehend a suspect wanted in connection with an axe attack in Richmond Hill as well as several other criminal offences. - Ontario man charged after allegedly planning trip to U.S. for sex acts with kids Durham police say they arrested a man Thursday after learning that he allegedly planned to travel to the United States in order to engage in sex acts with a woman and her young children. Ottawa - 17-year-old dead, one missing after teens fall through the ice on the Rideau River in Ottawa Ottawa police say one youth is dead and one person is missing after they fell through the ice on the Rideau River in Ottawa's south end on Wednesday. Two other teens were treated for mild hypothermia. - Arnprior Aerospace to close after 70 years in operation The company opened in Arnprior in 1954 as a Boeing operation and will be closing its doors on March 6, 2024. - Police searching for federal offender known to frequent Ottawa-Gatineau Ontario Provincial Police is seeking the public's assistance in locating a federal offender wanted on a Canada-wide warrant as a result of a breach of his statutory release. Kitchener - No one hurt after fire at Kitchener restaurants No one was hurt after flames broke out at a building containing two restaurants in Kitchener. - Why some are struggling to find jobs despite an overall strong labour market The hunt for work remains challenging for some groups in Waterloo Region, but economic experts say overall the labour market is relatively strong. - Man who brought OHL hockey to Guelph dead at 96 Joe Holody is being remembered as an architect of Guelph’s hockey landscape. London - Conversation with Mayor Morgan Part 1: Homelessness, communication, and housing In a year-end interview with CTV News, London Mayor Josh Morgan opens up about his greatest challenge of 2023. - 'Could hear the windows buckling': St. Thomas, Ont. tenants evacuated after apartment collapsed Fifteen people are out of their homes after the foundation of small apartment building collapsed late Wednesday night in St. Thomas, Ont. - Injured snowy owl rescued in Huron County Huron County OPP responded to a report of an injured owl in Bayfield on Dec. 28. Windsor - Dash cam video shows vehicle narrowly escape collision with jaywalking pedestrian If Mike Schmutz had looked away from the front window of his car at exactly 8:31 p.m. on Boxing Day for even a second, he may have possibly collided into a pedestrian pushing a baby stroller. - Pool contractor charged with fraud Windsor police have charged the owner of a pool installation company with fraud. - What’s open and closed New Year's weekend in Windsor As Windsor residents get ready to ring in the new year, there are a few closures to keep in mind this holiday weekend. Montreal - Common Front of public sector unions reaches tentative deal with Quebec The Common Front of unions representing around 420,000 public sector workers in Quebec has reached a proposed agreement in principle with the government. - Montreal man who ate recalled cantaloupes launches class-action lawsuit A Montreal man who says he was hospitalized with salmonella poisoning after eating recalled cantaloupes has launched a proposed class-action lawsuit against two companies that produced and distributed the fruit. - Driver swapped seats with passenger while driving on highway, had loaded gun: Quebec police A suspicious motorist who was allegedly switching seats with a passenger while driving on a Montreal highway was stopped with a loaded gun, provincial police say. Atlantic - Freezing rain warnings, special weather statements in effect in N.S., N.B. More messy weather is on the way to the Maritimes with freezing rain warnings and special weather statements in effect. - 'I will not go out back': Moncton landlord worried about tenant safety Peter LeBlanc needs to find a new tenant for his downtown Moncton apartment building. The landlord said the vacancy is the result of a current tenant no longer feeling like it’s safe place to live. - 'It’s been rough': Bedford resident looks for help following summer flooding Marguerite Dodge’s Bedford, N.S., home has been uninhabitable since the summer floods hit back in late July. Winnipeg - Public asked to avoid Furby Street due to 'serious incident' The Winnipeg Police Service is currently responding to a serious incident at an apartment building on Furby Street. - Suspect sought in bank robberies in Steinbach, Grunthal: RCMP Manitoba RCMP is asking for help from the public in finding a suspect in a pair of bank robberies in Grunthal and Steinbach this week. - 'Take our time': Kinew says decision not made yet on supervised consumption site location Manitoba Premier Wab Kinew said the province is taking its time to find a location for a supervised consumption site in Winnipeg. Calgary - 2 teens killed in rollover crash near Crossfield, Alta. Two teens are dead following a crash in Mountain View County on Wednesday evening, RCMP said. - Southern Alberta girl injured in coyote attack A family from Brooks, Alta., says their daughter is lucky to have avoided more serious injuries after she was attacked and bitten several times by a coyote. - Child-care costs could rise for some Alberta parents as daycares consider leaving fee support program Some daycare operators in the province are considering opting out of the Alberta Affordability Grant for child-care programs, which is concerning to parents who could see their payments skyrocket in the new year as a result. Edmonton - 'I was trying to get away: Kingsway Mall shooting victim says he may never recover A man who was shot outside an Edmonton shopping mall earlier this month says he doesn't know if he'll ever fully recover from his injuries. - December warm weather both boon, bad luck in Edmonton The weather in Edmonton so far this winter couldn't be more of a change from last year. - Big events mean big tourism business for Edmonton Hosting the Junos in March was a watershed moment for Edmonton and Alberta in 2023. Vancouver - Man found dead in Chilliwack, homicide investigators called in Homicide investigators have been called to Chilliwack after a man in his 30s was found dead on Wednesday. - Truck crashes into Delta overpass, causing 'significant' damage A commercial truck crashed into an overpass in Delta Thursday afternoon, the latest in a rash of incidents that the B.C. Transportation Ministry describes as \"frustrating.\" - Convicted murderer wanted Canada-wide after breaching conditions: police Police in Victoria are asking the public to call 911 if they encounter a man who is wanted on a Canada-wide warrant for breaching conditions of his parole.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "external_links": [
+      "https://www.lifesavingsociety.com/",
+      "https://www.greatersudbury.ca/live/emergency-services/fire-services/",
+      "https://www.lifesavingsociety.com",
+      "https://www.greatersudbury.ca/live/emergency-services/fire-services",
+      "https://lifesavingsociety.com/",
+      "https://greatersudbury.ca/live/emergency-services/fire-services/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jesse oshell",
+          "sentiment": "none"
+        },
+        {
+          "name": "oshell",
+          "sentiment": "none"
+        },
+        {
+          "name": "amanada hick",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ctv news",
+          "sentiment": "negative"
+        },
+        {
+          "name": "greater sudbury fire services",
+          "sentiment": "none"
+        },
+        {
+          "name": "ctv news northern ontario",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "sudbury",
+          "sentiment": "none"
+        },
+        {
+          "name": "greater sudbury",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:54:35.773+02:00",
+    "updated": "2023-12-29T01:54:35.773+02:00"
+  },
+  {
+    "uuid": "02f23e78b1900116e00d3f31486b8c558cf2db26",
+    "url": "https://www.oklahoman.com/story/news/nation/2023/12/29/rogue-wave-ventura-california/72056173007/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kinsey Crowley",
+    "published": "2023-12-29T14:19:00Z",
+    "title": "Rogue wave in Ventura injures 8, creates panic with beachgoers: Video",
+    "text": "NATION Rogue wave in Ventura, California injures 8, coastal watches issued in California, Hawaii Kinsey Crowley Wes Woods II Cheri Carlson USA TODAY NETWORK Videos out of Ventura, California captured the moment a rogue wave jumped over a seawall Thursday, sweeping aside the cars and people in its path.\nVentura isn't the only place experiencing tumultuous coasts. The National Weather Service has issued surf and flooding advisories along the California coast and in Hawaii.\nA video from Ventura officials opens on a seemingly tranquil scene. People are scattered along the seawall, leaning against it and watching the rolling waves in the distance.\nSuddenly, people start to back away from the wall moments before a wave spikes up in front of them. As it crashes down into the street, many of the people running get their feet knocked out from under them and a truck seems to skip forward in the waves.\nAnother angle captured by Facebook user Colin Hoag shows the waves chasing him down the street.\nOfficials urged people to avoid the ocean. High surf is expected through Saturday.\nRogue waves: A rogue wave caused a cruise ship tragedy. They occur more often than you think.\n8 people injured in Ventura, California due to rogue wave The Ventura County Fire Department was called to the scene of the wave shortly before 11 a.m. Thursday.\n\"It ended up being a total of eight patients due to surf that came over the wall and flooded the streets,\" Ventura County Fire Capt. Brian McGrath said. The injured were taken to the nearby hospitals.\nResidents in the neighborhoods near the incident were advised to leave, said Cmdr. Ryan Weeks with the Ventura Police Department. The patrons of a nearby hotel were also asked to leave.\nRoads in and around those areas were also closed.\nMaine removes Trump from ballot, saying he's disqualified by 'insurrectionist ban' 'The cause of the Civil War was slavery': Historian weighs in on Nikki Haley's answer Woman from Singapore dies after falling off cliff at Minnewaska State Park 'Persons of interest' sought in 18-year-old pregnant woman's shooting death: San Antonio police What to know about UW-La Crosse chancellor Joe Gow who was fired for porn with wife Carmen Wilson California, Hawaii under coastal weather watch A National Weather Service meteorologist said a storm system over the Pacific is churning up swells.\nHere are the coastal weather warnings and watches issued by local NWS offices as a result of the storms:\nNSW Los Angeles Office - \"Dangerous Beach Conditions \"\nCentral Coast: 15-20 foot waves and potentially damaging coastal flooding Ventura County Coast: 10-15 foot waves and potentially damaging coastal flooding Santa Barbara South Coast and LA County Coast: 7-12 foot waves and moderate coastal flooding NWS San Diego Office - \"Marine and Coastal Hazards\"\nSan Diego and Orange County - High surf warning with surf up to 15 feet through 2 a.m. Monday Coastal flood advisory in effect for Orange County and San Diego County through 2 a.m. Monday NWS San Francisco Office - All counties covered are under:\nCoastal flood advisory through 2 p.m. Friday High surf advisory until 6 p.m. Friday Honolulu, Hawaii NWS Office\nHigh surf warning is in effect until 6 a.m. local time Friday. Parts of the islands could see surf up to 35 feet High surf advisory in effect for other parts of the islands until 6 p.m. Friday. Surfs could reach 15 to 20 feet.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.vcstar.com/staff/4406860002/cheri-carlson/",
+      "https://www.usatoday.com/staff/12271400002/kinsey-crowley/",
+      "https://www.weather.gov/sgx/",
+      "https://forecast.weather.gov/product.php?site=MTR&issuedby=MTR&product=SRF&format=CI&version=1&glossary=1&highlight=on",
+      "https://downloadmedia.gannett-cdn.com/authoring/videos/zype/renditions/658ed3d647b3ff0001039cb9/1080p_30fps.mp4&#34;,&#34;origin&#34;:&#34;USA",
+      "https://www.facebook.com/dialog/share?display=popup&app_id=599259127694607&href=https%3A%2F%2Fwww.oklahoman.com%2Fstory%2Fnews%2Fnation%2F2023%2F12%2F29%2Frogue-wave-ventura-california%2F72056173007%2F",
+      "http://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.oklahoman.com%2Fstory%2Fnews%2Fnation%2F2023%2F12%2F29%2Frogue-wave-ventura-california%2F72056173007%2F&text=Rogue%20wave%20in%20Ventura%2C%20California%20injures%208%2C%20coastal%20watches%20issued%20in%20California%2C%20Hawaii&via=theoklahoman_",
+      "https://www.vcstar.com/staff/6965156002/wes-woods-ii/",
+      "https://www.usatoday.com/videos/news/nation/2023/12/29/watch-rogue-wave-jumps-seawall-and-injures-eight/72056835007/&#34;},&#34;promoBrief&#34;:&#34;A",
+      "https://shorturl.at/eENOX",
+      "https://forecast.weather.gov/wwamap/wwatxtget.php?cwa=HFO&wwa=high%20surf%20warning",
+      "https://www.weather.gov/lox/",
+      "https://forecast.weather.gov/product.php?site=LOX&issuedby=LOX&product=AFD&format=ci&version=1&glossary=1",
+      "https://www.facebook.com/100000103854833/videos/339998562146021/",
+      "https://www.facebook.com/100000103854833/videos/339998562146021",
+      "https://www.weather.gov/sgx",
+      "https://usatoday.com/videos/news/nation/2023/12/29/watch-rogue-wave-jumps-seawall-and-injures-eight/72056835007/&#34;},&#34;promoBrief&#34;:&#34;A",
+      "http://twitter.com/intent/tweet",
+      "https://weather.gov/sgx/",
+      "https://www.shorturl.at/eENOX",
+      "https://facebook.com/dialog/share?display=popup&app_id=599259127694607&href=https%3A%2F%2Fwww.oklahoman.com%2Fstory%2Fnews%2Fnation%2F2023%2F12%2F29%2Frogue-wave-ventura-california%2F72056173007%2F",
+      "https://weather.gov/lox/",
+      "https://www.weather.gov/lox",
+      "http://www.twitter.com/intent/tweet?url=https%3A%2F%2Fwww.oklahoman.com%2Fstory%2Fnews%2Fnation%2F2023%2F12%2F29%2Frogue-wave-ventura-california%2F72056173007%2F&text=Rogue%20wave%20in%20Ventura%2C%20California%20injures%208%2C%20coastal%20watches%20issued%20in%20California%2C%20Hawaii&via=theoklahoman_",
+      "https://www.downloadmedia.gannett-cdn.com/authoring/videos/zype/renditions/658ed3d647b3ff0001039cb9/1080p_30fps.mp4&#34;,&#34;origin&#34;:&#34;USA",
+      "https://www.forecast.weather.gov/product.php?site=LOX&issuedby=LOX&product=AFD&format=ci&version=1&glossary=1",
+      "https://forecast.weather.gov/product.php",
+      "https://forecast.weather.gov/wwamap/wwatxtget.php",
+      "https://www.vcstar.com/staff/6965156002/wes-woods-ii",
+      "https://www.forecast.weather.gov/product.php?site=MTR&issuedby=MTR&product=SRF&format=CI&version=1&glossary=1&highlight=on",
+      "https://www.forecast.weather.gov/wwamap/wwatxtget.php?cwa=HFO&wwa=high%20surf%20warning",
+      "https://www.usatoday.com/staff/12271400002/kinsey-crowley",
+      "https://facebook.com/100000103854833/videos/339998562146021/",
+      "https://www.facebook.com/dialog/share",
+      "https://vcstar.com/staff/4406860002/cheri-carlson/",
+      "https://vcstar.com/staff/6965156002/wes-woods-ii/",
+      "https://www.vcstar.com/staff/4406860002/cheri-carlson",
+      "https://usatoday.com/staff/12271400002/kinsey-crowley/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "colin hoag",
+          "sentiment": "none"
+        },
+        {
+          "name": "crowley wes woods ii cheri carlson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "national weather service",
+          "sentiment": "none"
+        },
+        {
+          "name": "facebook",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "hawaii kin",
+          "sentiment": "none"
+        },
+        {
+          "name": "ventura",
+          "sentiment": "none"
+        },
+        {
+          "name": "california",
+          "sentiment": "none"
+        },
+        {
+          "name": "usa",
+          "sentiment": "none"
+        },
+        {
+          "name": "hawaii",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T17:11:07.843+02:00",
+    "updated": "2023-12-29T17:11:07.843+02:00"
+  },
+  {
+    "uuid": "a7f4449d703e33efe7864b277a21b16a6b0dd3f6",
+    "url": "https://toronto.ctvnews.ca/one-of-15-year-old-boys-charged-in-stabbing-on-ttc-bus-had-concealed-knife-police-1.6925930",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@CTVToronto",
+    "published": "2024-06-13T20:24:00Z",
+    "title": "Toronto bus stabbing: two teenage boys charged | CTV News",
+    "text": "[Skip to main content](#main) One of 15-year-old boys charged in stabbing on TTC bus had concealed knife: police A 15-year-old boy involved [in a stabbing on a TTC bus in Etobicoke ](https://toronto.ctvnews.ca/stabbing-on-ttc-bus-leaves-two-people-injured-1.6924601)on Wednesday was allegedly carrying a knife, Toronto police say. Shortly before 6 p.m., officers responded to a call for a person with a knife on a bus near [Berry and Park Lawn roads](https://www.google.com/maps/place/Park+Lawn+Rd+%26+Berry+Rd,+Etobicoke,+ON+M8Y+1W5/@43.6361676,-79.4959586,17z/data=!3m1!4b1!4m6!3m5!1s0x882b3642045eee97:0xff458d7a0c6e9811!8m2!3d43.6361637!4d-79.4933837!16s%2Fg%2F11gf2wm2h7?entry=ttu), north of the Queensway. Police said a teenage boy boarded a bus and walked to the back, where another teenager was seated. At some point, the two got into a verbal and physical confrontation, police said. One of the teenagers allegedly pulled out a concealed knife during the fight, and they both got stabbed. Officers arrived to locate one of the teenagers with a stab wound while the other tried to flee the scene but was shortly found. Police said the two boys were arrested and then taken to the hospital with non-life-threatening injuries. Meanwhile, the bus operator sustained minor injuries during the incident. [On Thursday,](https://www.tps.ca/media-centre/news-releases/59965/) police announced that both 15-year-olds have been charged with assault with a weapon. One of them is facing additional charges of carrying a concealed weapon, possession of a weapon committing an offence and failure to comply with a release order. The accused cannot be identified under the terms of the Youth Criminal Justice Act. [Toronto Top Stories](https://toronto.ctvnews.ca/) CTVNews.ca Top Stories DEVELOPING [Two potential tornadoes in Quebec, warning lifted for Ontario](https://www.ctvnews.ca/climate-and-environment/two-potential-tornadoes-in-quebec-warning-lifted-for-ontario-1.6924920) Tornado warnings have been issued describing 'dangerous and potentially life-threatening' situations amid severe thunderstorms in Ontario and Quebec. [Trudeau says he thought about 'walking away,' but can't with stakes higher than 'ever before'](https://www.ctvnews.ca/politics/trudeau-says-he-thought-about-walking-away-but-can-t-with-stakes-higher-than-ever-before-1.6925816) Prime Minister Justin Trudeau contemplated stepping down while 'undefeated' last year, but ultimately decided that he 'can't' walk away at a time when he thinks the stakes are higher than ever. [Ontario man can't collect lottery prize after he forgets where he bought ticket](https://toronto.ctvnews.ca/ontario-man-can-t-collect-lottery-prize-after-he-forgets-where-he-bought-ticket-1.6924708) An Ontario man who bought a lottery ticket was thrilled to find out he won, but collecting his winnings turned out to be a challenge. ['Pure luck': Alberta man makes 'Price is Right' history with Showcase bid](https://edmonton.ctvnews.ca/pure-luck-alberta-man-makes-price-is-right-history-with-showcase-bid-1.6925709) A Grande Prairie man guessed his way into The Price Is Right history with his showcase bid that was very nearly on the dot. [Canada's last Stanley Cup win: How the Montreal Canadiens scored decades of memories](https://www.ctvnews.ca/sports/canada-s-last-stanley-cup-win-how-the-montreal-canadiens-scored-decades-of-memories-1.6925691) Montreal Canadiens fans have a few words of advice for those in Edmonton now dreaming of lining a parade route and watching their Oilers hoist the Stanley Cup: enjoy the ride. [Manitoban 'in awe' after witnessing tornado touch down beside him](https://winnipeg.ctvnews.ca/manitoban-in-awe-after-witnessing-tornado-touch-down-beside-him-1.6924923) A low pressure system tracking in from Saskatchewan Wednesday night triggered a spurt of tornado warnings across southwestern Manitoba. [NDP's Jagmeet Singh says report shows 'a number of MPs' have helped foreign states](https://www.ctvnews.ca/politics/ndp-s-jagmeet-singh-says-report-shows-a-number-of-mps-have-helped-foreign-states-1.6925783) NDP Leader Jagmeet Singh says a recent spy watchdog report shows a 'number of MPs' have knowingly provided help to foreign governments — behaviour he calls unethical or even illegal. WATCH [Residents of town buried in mayflies turn to leafblowers to remove bodies](https://www.ctvnews.ca/climate-and-environment/residents-of-town-buried-in-mayflies-turn-to-leafblowers-to-remove-bodies-1.6925405) Residents of an Ohio town had an unusual spring cleaning task to do: remove swarms of dead mayflies. [Ottawa to expand early retirement eligibility for front-line safety, security workers](https://www.ctvnews.ca/politics/ottawa-to-expand-early-retirement-eligibility-for-front-line-safety-security-workers-1.6925276) The federal government is moving to expand early retirement eligibility for some kinds of front-line workers. [Shopping Trends](https://www.ctvnews.ca/shopping.html) The Shopping Trends team is independent of the journalists at CTV News. We may earn a commission when you use our links to shop. [Read about us.](https://www.ctvnews.ca/shopping/about-us.html) [Montreal](https://montreal.ctvnews.ca/) - [Quebec reaches tentative deal with family doctors](https://montreal.ctvnews.ca/quebec-reaches-tentative-deal-with-family-doctors-1.6925851) An agreement has finally been reached between Quebec and family doctors on the primary care access window, the Guichet d'acces a la premiere ligne (GAP). - WEATHER WEATHER [Tornado alerts issued for multiple regions of Quebec](https://montreal.ctvnews.ca/tornado-alerts-issued-for-multiple-regions-of-quebec-1.6925902) There are tornado warnings in two areas of Quebec, while watches remain in several regions across the province. - [Man runs over wife, 80, twice in Montreal hospital parking lot](https://montreal.ctvnews.ca/man-runs-over-wife-80-twice-in-montreal-hospital-parking-lot-1.6925849) An 80-year-old woman is in critical condition after she was run over twice by the car being driven by her husband in a Montreal hospital parking lot. [Ottawa](https://ottawa.ctvnews.ca/) - [Tornado watch issued for Ottawa Valley, parts of Quebec; Thunderstorm watch for Ottawa](https://ottawa.ctvnews.ca/tornado-watch-issued-for-ottawa-valley-parts-of-quebec-thunderstorm-watch-for-ottawa-1.6925228) A tornado watch has been issued by Environment Canada for the Ottawa Valley and some parts Quebec. - [Ottawa police investigating homicide on Woodroffe Avenue](https://ottawa.ctvnews.ca/ottawa-police-investigating-homicide-on-woodroffe-avenue-1.6925584) Ottawa police say a person's death in west Ottawa has been deemed a homicide. - [O-Train east extension won't be ready until after May 2025: Amilcar](https://ottawa.ctvnews.ca/o-train-east-extension-won-t-be-ready-until-after-may-2025-amilcar-1.6925830) The head of OC Transpo says the extension of the Confederation Line LRT to the east end will not be ready next spring. [Northern Ontario](https://northernontario.ctvnews.ca/) - DEVELOPING DEVELOPING [Two potential tornadoes in Quebec, warning lifted for Ontario](https://www.ctvnews.ca/climate-and-environment/two-potential-tornadoes-in-quebec-warning-lifted-for-ontario-1.6924920) Tornado warnings have been issued describing 'dangerous and potentially life-threatening' situations amid severe thunderstorms in Ontario and Quebec. - [Ontario man can't collect lottery prize after he forgets where he bought ticket](https://toronto.ctvnews.ca/ontario-man-can-t-collect-lottery-prize-after-he-forgets-where-he-bought-ticket-1.6924708) An Ontario man who bought a lottery ticket was thrilled to find out he won, but collecting his winnings turned out to be a challenge. - BREAKING BREAKING [Timmins area under tornado warning](https://northernontario.ctvnews.ca/timmins-area-under-tornado-warning-1.6925692) Environment Canada issued a tornado warning for the Timmins area Thursday afternoon as a severe thunderstorm approaches. [Kitchener](https://kitchener.ctvnews.ca/) - ['It was me': Video shows moment University of Waterloo attacker admits to triple stabbing](https://kitchener.ctvnews.ca/it-was-me-video-shows-moment-university-of-waterloo-attacker-admits-to-triple-stabbing-1.6924642) Disturbing evidence is being shared for the first time of the 2023 attack at the University of Waterloo, including audio of the triple stabbing and a surprising confession. - [Police respond to fake call about shooting at Kitchener Market](https://kitchener.ctvnews.ca/police-respond-to-fake-call-about-shooting-at-kitchener-market-1.6925826) The Waterloo Regional Police Service (WRPS) responded to the Kitchener Market Thursday afternoon after receiving a weapon-related call. - [CTV News Kitchener’s Spencer Turcotte to receive RNAO media award](https://kitchener.ctvnews.ca/ctv-news-kitchener-s-spencer-turcotte-to-receive-rnao-media-award-1.6925504) The Registered Nurses’ Association of Ontario (RNAO) has announced the recipients of this year’s Media Awards competition and CTV Kitchener’s Spencer Turcotte is one of the winners. [London](https://london.ctvnews.ca/) - [Oxford Pride supporters decry rainbow boardwalk damage as act of hate](https://london.ctvnews.ca/oxford-pride-supporters-decry-rainbow-boardwalk-damage-as-act-of-hate-1.6925873) Pride month in Oxford County has been marred once again by what some are calling an act of hatred. - [Nearly 500 volunteers take part in United Way's 23rd Annual Day of Caring](https://london.ctvnews.ca/nearly-500-volunteers-take-part-in-united-way-s-23rd-annual-day-of-caring-1.6925756) Nearly 500 volunteers from across the region came together Thursday for United Way’s Annual Day of Caring, an event that benefits the entire community. - ['Most Canadian' guitar making stops in midwestern Ontario](https://london.ctvnews.ca/most-canadian-guitar-making-stops-in-midwestern-ontario-1.6925593) The sweet sounds of ‘Canada's guitar’ echo through the gymnasium at F.E. Madill Secondary School in Wingham. [Windsor](https://windsor.ctvnews.ca/) - [Parental abduction alert in Windsor](https://windsor.ctvnews.ca/parental-abduction-alert-in-windsor-1.6925915) The Windsor Police Service has issued a parental abduction alert. - ['It's a scam': Windsor's parking enforcement warns of parking ticket text message scam](https://windsor.ctvnews.ca/it-s-a-scam-windsor-s-parking-enforcement-warns-of-parking-ticket-text-message-scam-1.6925871) The City of Windsor is warning residents about a text message scam that tells people to pay their overdue parking tickets. - [New Offender Management Unit arrests 24 offenders in three months](https://windsor.ctvnews.ca/new-offender-management-unit-arrests-24-offenders-in-three-months-1.6925654) Windsor police are releasing results of the new Offender Management Unit. [Barrie](https://barrie.ctvnews.ca/) - WEATHER ALERT WEATHER ALERT [Tornado watch issued for parts of Simcoe County and Muskoka](https://barrie.ctvnews.ca/tornado-watch-issued-for-parts-of-simcoe-county-and-muskoka-1.6925149) Environment Canada has issued a tornado watch for parts of Simcoe County, Muskoka and Dufferin County. - [Barrie man, 39, killed in motorcycle crash](https://barrie.ctvnews.ca/barrie-man-39-killed-in-motorcycle-crash-1.6924579) Emergency crews attended the scene of the deadly crash involving a motorcycle on Ferndale Drive North shortly after 6 p.m. on Wednesday. - [Innisfil school bus driver charged after collision with students on board](https://barrie.ctvnews.ca/innisfil-school-bus-driver-charged-after-collision-with-students-on-board-1.6924997) Police have charged a school bus driver after a collision Thursday morning that injured two students and another driver in Innisfil. [Winnipeg](https://winnipeg.ctvnews.ca/) - [Carberry crash investigation submitted to Crown by RCMP as first anniversary approaches](https://winnipeg.ctvnews.ca/carberry-crash-investigation-submitted-to-crown-by-rcmp-as-first-anniversary-approaches-1.6925235) As the first anniversary of the Carberry crash approaches, Manitoba RCMP provided an update on the investigation and how the first responders are doing a year later. - [Manitoban 'in awe' after witnessing tornado touch down beside him](https://winnipeg.ctvnews.ca/manitoban-in-awe-after-witnessing-tornado-touch-down-beside-him-1.6924923) A low pressure system tracking in from Saskatchewan Wednesday night triggered a spurt of tornado warnings across southwestern Manitoba. - [Police look for teen missing since May](https://winnipeg.ctvnews.ca/police-look-for-teen-missing-since-may-1.6925655) Winnipeg police are concerned for the well-being of a teenager missing for more than a month. [Atlantic](https://atlantic.ctvnews.ca/) - [Dartmouth man charged with first-degree murder in connection with North Preston shooting: N.S. RCMP](https://atlantic.ctvnews.ca/dartmouth-man-charged-with-first-degree-murder-in-connection-with-north-preston-shooting-n-s-rcmp-1.6925695) A 26-year-old Dartmouth, N.S., man has been charged with first-degree murder in connection with a shooting in North Preston, N.S. - [Weather front approaches the Maritimes with rain and showers Friday into Saturday](https://atlantic.ctvnews.ca/weather-front-approaches-the-maritimes-with-rain-and-showers-friday-into-saturday-1.6925364) Hit-and-miss rain totals were reported across the Maritimes on Wednesday, the result of the scattered coverage of showers and thunderstorms. - [Track conditions to make VIA Rail’s Halifax to Montreal journey even longer](https://atlantic.ctvnews.ca/more/track-conditions-to-make-via-rail-s-halifax-to-montreal-journey-even-longer-1.6925243) VIA Rail says the schedule for its route between Halifax and Montreal is about to become longer due to track conditions and speed limitations in New Brunswick. [N.L.](https://www.ctvnews.ca/canada/newfoundland-and-labrador) - [Feuding Labrador Indigenous groups -- one recognized, one not -- celebrate court ruling](https://www.ctvnews.ca/canada/feuding-labrador-indigenous-groups-one-recognized-one-not-celebrate-court-ruling-1.6925670) A Federal Court judge has dismissed a bid by Labrador's Innu Nation to throw out an agreement involving the NunatuKavut Community Council, but both groups claim the ruling is a win. - [United flight to Paris diverts to Newfoundland, passengers forced to sleep on benches and floor](https://www.ctvnews.ca/canada/united-flight-to-paris-diverts-to-newfoundland-passengers-forced-to-sleep-on-benches-and-floor-1.6921394) Border agents in Gander, N.L., were unavailable or unwilling to process passengers on a diverted flight from Washington to Paris early Monday. - [N.L. launching disability benefit to top up federal program and create basic income](https://www.ctvnews.ca/canada/n-l-launching-disability-benefit-to-top-up-federal-program-and-create-basic-income-1.6918341) The government of Newfoundland and Labrador is launching a disability benefit that will top up the federal government's recently announced aid program. [Edmonton](https://edmonton.ctvnews.ca/) - ['Pure luck': Alberta man makes 'Price is Right' history with Showcase bid](https://edmonton.ctvnews.ca/pure-luck-alberta-man-makes-price-is-right-history-with-showcase-bid-1.6925709) A Grande Prairie man guessed his way into The Price Is Right history with his showcase bid that was very nearly on the dot. - [Panthers' Barkov to play in Game 3 while Oilers still have lineup questions](https://edmonton.ctvnews.ca/panthers-barkov-to-play-in-game-3-while-oilers-still-have-lineup-questions-1.6925735) Aleksander Barkov is good to go for Game 3 of the Stanley Cup final. The Oilers, meanwhile, have a couple of injury question marks heading into the crucial tilt at Rogers Place - [1 wanted in connection with $900K Edmonton drug bust](https://edmonton.ctvnews.ca/1-wanted-in-connection-with-900k-edmonton-drug-bust-1.6925813) More than $900,000 worth of illegal drugs have been removed from Edmonton streets, police say. [Calgary](https://calgary.ctvnews.ca/) - [‘My dogs were never trained to harm nobody’: Dog owner speaks out after court rules dogs euthanized in fatal senior death](https://calgary.ctvnews.ca/my-dogs-were-never-trained-to-harm-nobody-dog-owner-speaks-out-after-court-rules-dogs-euthanized-in-fatal-senior-death-1.6925075) An emotional Denis Bagaric spoke to CTV News outside of court on Thursday after a judge ruled his two remaining dogs would be killed, after a two year court battle on their fate, for the role they played in the death of a Calgary senior in June 2022. - [Family of Colton Crowshoe grows frustrated over Alberta justice system delays](https://calgary.ctvnews.ca/family-of-colton-crowshoe-grows-frustrated-over-alberta-justice-system-delays-1.6925854) The family of murder victim Colton Crowshoe is growing increasingly frustrated with delays in the case. - [Suspect in hate-motivated incident outside Central Library identified, charges pending; police](https://calgary.ctvnews.ca/suspect-in-hate-motivated-incident-outside-central-library-identified-charges-pending-police-1.6925489) Calgary police are seeking public assistance to identify a woman who’s a suspect in a hate-motivated incident that took place outside the Central Library in late April. [Regina](https://regina.ctvnews.ca/) - ['Bunch of morons': Regina city council scraps location for permanent emergency shelter](https://regina.ctvnews.ca/bunch-of-morons-regina-city-council-scraps-location-for-permanent-emergency-shelter-1.6925139) Plans for Regina's new permanent emergency shelter were scrapped Wednesday after seven hours of deliberation by city council. - [Four of 6 opening week CFL fines belong to Riders](https://regina.ctvnews.ca/four-of-6-opening-week-cfl-fines-belong-to-riders-1.6925829) Four members of the Saskatchewan Roughriders have received fines for their actions in a season opening win over the Edmonton Elks on Saturday. - [Five-year-old taken to hospital after being hit by vehicle in north Regina](https://regina.ctvnews.ca/five-year-old-taken-to-hospital-after-being-hit-by-vehicle-in-north-regina-1.6925483) A five-year-old child was taken to hospital Wednesday afternoon after being hit by a vehicle in north Regina. [Saskatoon](https://saskatoon.ctvnews.ca/) - [The Saskatoon driver charged in a fatal crash this week was granted bail](https://saskatoon.ctvnews.ca/the-saskatoon-driver-charged-in-a-fatal-crash-this-week-was-granted-bail-1.6925656) A Saskatoon man charged in connection to a fatal crash in the Kelsey Woodlawn area was granted bail on Thursday. - [Sask. Montessori school shuts down following allegations teachers weren't paid](https://saskatoon.ctvnews.ca/sask-montessori-school-shuts-down-following-allegations-teachers-weren-t-paid-1.6924530) A Montessori school in Saskatoon has permanently closed following multiple claims from teachers that they're missing wages. - ['How that can take 26 years to manufacture': Sask. man shocked after Toyota parts delivery dated 2050](https://saskatoon.ctvnews.ca/how-that-can-take-26-years-to-manufacture-sask-man-shocked-after-toyota-parts-delivery-dated-2050-1.6924575) A Saskatoon vehicle owner was in shock when he was told he would face a delivery date of 2050 for replacement auto parts, and it’s highlighting the fragility of the supply chain. [Vancouver](https://bc.ctvnews.ca/) - [Woman in sex trade violently assaulted on Vancouver's Downtown Eastside: police](https://bc.ctvnews.ca/woman-in-sex-trade-violently-assaulted-on-vancouver-s-downtown-eastside-police-1.6925877) A woman who works in the sex trade was violently, sexually assaulted by a man who picked her up in his car on the Downtown Eastside earlier this week, according to authorities, who say the suspect is still at-large. - [Border officials say B.C. man facing multiple charges after discovery at Vancouver airport](https://bc.ctvnews.ca/border-officials-say-b-c-man-facing-multiple-charges-after-discovery-at-vancouver-airport-1.6925748) Canadian border officials say a British Columbia man is facing a raft of drug-trafficking and weapons charges after the discovery of three illegal firearm suppressors at the Vancouver International Airport. - [2 stray dogs that 'appear frightening' lead to closure of Metro Vancouver trails](https://bc.ctvnews.ca/2-stray-dogs-that-appear-frightening-lead-to-closure-of-metro-vancouver-trails-1.6925699) Select trails in a Metro Vancouver park are temporarily closed as a team tries to capture two stray dogs. [Vancouver Island](https://vancouverisland.ctvnews.ca/) - [Border officials say B.C. man facing multiple charges after discovery at Vancouver airport](https://bc.ctvnews.ca/border-officials-say-b-c-man-facing-multiple-charges-after-discovery-at-vancouver-airport-1.6925748) Canadian border officials say a British Columbia man is facing a raft of drug-trafficking and weapons charges after the discovery of three illegal firearm suppressors at the Vancouver International Airport. - [Uber says new B.C. gig-worker rules punish customers, businesses](https://bc.ctvnews.ca/uber-says-new-b-c-gig-worker-rules-punish-customers-businesses-1.6925388) Ride-hailing company Uber is criticizing the British Columbia government's regulatory changes for gig workers, saying the province is set to drive up costs for residents and drive down demand for local businesses. - [Officer shot in deadly B.C. bank shootout details the attack 2 years later](https://bc.ctvnews.ca/officer-shot-in-deadly-b-c-bank-shootout-details-the-attack-2-years-later-1.6923473) Two years after a deadly gun battle between police and a pair of heavily armed assailants stunned the community of Saanich, B.C., one of the officers who was critically injured in the shootout is speaking about it publicly for the first time.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.google.com/maps/place/Park+Lawn+Rd+%26+Berry+Rd,+Etobicoke,+ON+M8Y+1W5/@43.6361676,-79.4959586,17z/data=!3m1!4b1!4m6!3m5!1s0x882b3642045eee97:0xff458d7a0c6e9811!8m2!3d43.6361637!4d-79.4933837!16s%2Fg%2F11gf2wm2h7?entry=ttu),",
+      "https://www.tps.ca/media-centre/news-releases/59965/)",
+      "https://tps.ca/media-centre/news-releases/59965/)",
+      "https://www.google.com/maps/place/Park+Lawn+Rd+%26+Berry+Rd,+Etobicoke,+ON+M8Y+1W5/@43.6361676,-79.4959586,17z/data=!3m1!4b1!4m6!3m5!1s0x882b3642045eee97:0xff458d7a0c6e9811!8m2!3d43.6361637!4d-79.4933837!16s%2Fg%2F11gf2wm2h7",
+      "https://google.com/maps/place/Park+Lawn+Rd+%26+Berry+Rd,+Etobicoke,+ON+M8Y+1W5/@43.6361676,-79.4959586,17z/data=!3m1!4b1!4m6!3m5!1s0x882b3642045eee97:0xff458d7a0c6e9811!8m2!3d43.6361637!4d-79.4933837!16s%2Fg%2F11gf2wm2h7?entry=ttu),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "ttc",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "toronto",
+          "sentiment": "none"
+        },
+        {
+          "name": "etobicoke",
+          "sentiment": "none"
+        },
+        {
+          "name": "[berry and park lawn",
+          "sentiment": "none"
+        },
+        {
+          "name": "queensway",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-14T00:27:24.992+03:00",
+    "updated": "2024-06-14T00:27:24.992+03:00"
+  },
+  {
+    "uuid": "f559f8a72622c6357ad7f913a30e884af934e678",
+    "url": "https://www.infobae.com/politica/2024/06/27/reaccion-desde-del-senado-por-el-caso-loan-un-proyecto-busca-penas-de-hasta-15-anos-por-entrega-de-ninos",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mariano Casal",
+    "published": "2024-06-27T20:46:00Z",
+    "title": "Reacción desde del Senado por el caso Loan: un proyecto busca penas de hasta 15 años por entrega de niños - Infobae",
+    "text": "La senadora radical Carolina Losada La comisión de Justicia y Asuntos Penales del Senado, que comanda el legislador libertario Juan Carlos Pagotto (La Rioja), firmó esta tarde los dictámenes de dos iniciativas: una que activa penas de hasta 15 años por entrega de niños, mientras que la segunda declara duelo nacional el 18 de julio, en homenaje a las víctimas del atentado contra la AMIA.\nEl primer proyecto, que es impulsado por la legisladora radical Carolina Losada (Santa Fe) y está atado a la actualidad del caso Loan -el niño que desapareció en Corrientes-, impondrá “ prisión de tres (3) a diez (10) años al que reciba y a quien entregue un niño o niña, haya mediado o no precio, promesa de retribución o cualquier otro tipo de contraprestación ”.\nLa propuesta reprimirá “ con prisión de cinco (5) a quince (15) años quien facilitare, promoviere o de cualquier modo intermediare en la perpetración de los delitos ” relacionados con este tema, que se encuentran en el Código Penal.\nPor otra parte, “el funcionario o empleado público, profesional o personal de la salud, abogado, encargado de la educación o de la guarda de la persona menor de edad, o miembro de organizaciones especializadas en adopción que, en el ejercicio de su actividad, incurriere o participare de cualquier modo en alguna de las conductas previstas en este capítulo, será reprimido con prisión de tres (3) a diez (10) años y se le aplicará la accesoria de inhabilitación especial por el doble del tiempo que el de la condena”.\nAdemás, la escala penal prevista “podrá reducirse en un tercio (1/3) del máximo y en la mitad del mínimo si antes de la iniciación del proceso o durante su sustanciación la persona imputada proporcionare información útil que permita conocer la identidad del que hubiere recibido a una persona menor de edad, intermediado, promovido o facilitado la comisión de este delito, o que permita dar con el parentesco correspondiente a la persona menor de edad”.\nLa sede de la AMIA y sus flamantes murales En los fundamentos, la legisladora santafecina recordó: “Debido a la falta de convocatorias a Sesiones Ordinarias de la anterior gestión de este Honorable Senado -en referencia a Cristina Kirchner- el dictamen conjunto sobre tipificación de ‘compra’ y ‘venta’ de niños acordado con fecha 19/10/22 (S-404/21, S-1232/22 Y PE-106/22. 06-02-2024) caducó por renovación bienal del cuerpo . Se trata de una problemática sumamente grave y aún sigue siendo una gran deuda para nuestra sociedad”.\nDurante la reunión, realizada en el salón Arturo Illia de la Cámara alta, se escucharon algunas advertencias sobre intenciones para modificar el Código Penal de manera exprés y un potencial desfase de penas entre los delitos que trata la iniciativa en comparación con otros más graves .\nEl segundo proyecto dictaminado por la comisión de Justicia declara “ el 18 de julio de cada año como Día de Duelo Nacional, en homenaje a las víctimas del atentado terrorista perpetrado el 18 de julio de 1994 en la sede de la Asociación Israelita Argentina (AMIA) contra la República Argentina ”. Ya fue aprobado por Diputados, por lo que podría quedar sancionado en caso de tratarse en la próxima sesión.\nLa iniciativa establece que el 18 de julio, “ la Bandera Nacional permanecerá izada a media asta en los edificios y lugares públicos” y que “el Ministerio de Educación, mediante el Consejo Federal de Educación, en coordinación con las autoridades educativas de las provincias y la Ciudad de Buenos Aires, dispondrá los medios necesarios a fin de que los establecimientos de educación pública primarios y secundarios de gestión estatal y privada, organicen y desarrollen actividades conmemorativas para dicha fecha ”. Otro punto del texto es que se “invita a las provincias y a la Ciudad Autónoma de Buenos Aires a adoptar similares medidas”.\nSobre un tercer proyecto analizado por la comisión, también empujado por Losada, se determinó la convocatoria a especialistas de cara a los próximos días. “ El que promoviere, facilitare, incitare, indujere o instigare la corrupción de menores de 18 años con fines delictivos, será reprimido con prisión de 3 a 6 años. La pena será de prisión de 6 a 10 años cuando el niño o adolescente fuera menor de 13 años. Cualquiera fuese la edad del menor, la pena será de reclusión o prisión de 10 a 15 años, cuando mediare engaño, violencia, amenaza, abuso de autoridad o cualquier otro medio de intimidación o coerción, o aprovechándose de una situación de vulnerabilidad, o por pago o promesa remuneratoria, como también si el autor fuera ascendiente, hermano, tutor o persona conviviente o encargado de la educación o guarda”, manifiesta su primer artículo.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-28T00:45:58.857+03:00",
+    "updated": "2024-06-28T00:45:58.857+03:00"
+  },
+  {
+    "uuid": "5681475f27334c5d537d763abde64bdea7f8db73",
+    "url": "https://www.latercera.com/mundo/noticia/israel-anuncia-una-pausa-humanitaria-tactica-de-cuatro-horas-en-las-operaciones-militares-en-el-campo-de-refugiados-de-rafah/3FHZWUDRKZANDDX2MQXVH4U6ZQ/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "latercera.com",
+    "published": "2023-12-30T13:58:00Z",
+    "title": "Israel anuncia una pausa humanitaria “táctica” en Rafah - La Tercera",
+    "text": "Europa Press Hace 8 horas Tiempo de lectura: 1 minuto Un soldado israelí opera en la Franja de Gaza en medio del conflicto en curso entre Israel y el grupo islamista palestino Hamas, en esta captura de pantalla obtenida de un video publicado el 30 de diciembre de 2023. Fuerzas de Defensa de Israel. La suspensión de la ofensiva iniciará a las 10.00 y se extenderá hasta las 14.00 horas de este sábado.\ncompartir Comentarios Las Fuerzas Armadas de Israel han anunciado este sábado una pausa “táctica” de cuatro horas de las operaciones militares en el campo de refugiados de Rafah, en el sur de la Franja de Gaza, que tiene como finalidad facilitar la entrega de ayuda humanitaria.\nAl menos 165 palestinos han muerto y 250 resultaron heridos en las últimas 24 horas tras ofensiva israelí sobre Gaza Hamas sostiene que no liberará más rehenes sin un alto el fuego en Gaza y desmiente negociaciones con Israel Secretario general de ONU condena ataque “a gran escala” del Ejército ruso contra varias ciudades ucranianas “Habrá una suspensión táctica local y temporal de las actividades militares con fines humanitarios en el campamento de Rafá desde las 10:00 hasta las 14:00 horas, con fines de suministro ”, ha informado la cuenta del portavoz militar israelí en árabe, Avichai Adraee.\nAdraee resalta en cualquier caso que las fuerzas israelíes “están trabajando enérgicamente contra Hamas y las organizaciones terroristas”, por lo que continúa prohibido el desplazamiento de civiles en la zona de Jan Yunis a través del eje de la carretera de Saladino. “El Eje de Saladino es un campo de batalla y es peligroso llegar a él”, ha advertido.\nLa historia continua más abajo\nMás sobre Guerra Medio Oriente El 40% de la población de Gaza corre riesgo de hambruna, según la UNRWA Hace 3 horas Hamas sostiene que no liberará más rehenes sin un alto el fuego en Gaza y desmiente negociaciones con Israel Hace 18 horas Soldados israelíes operan en la Franja de Gaza en medio del conflicto en curso entre Israel y el grupo islamista palestino Hamás, en esta fotografía publicada el 30 de diciembre de 2023. Fuerza de Defensa de Israel.\nSí se permitirá el movimiento de civiles con fines humanitarios a través del eje de circunvalació n situado al oeste de Jan Yunis y a en las calles Al Rashid Al Baher y Al Shuhadaa que llevan a Deir al Balá.\nLas autoridades militares israelíes habían ordenado previamente a los habitantes de la ciudad de Jan Yunis desplazarse hacia el sur, hacia Rafá, donde estarían a salvo de las operaciones militares israelíes. Allí miles de desplazados sobreviven en tiendas de campaña y refugios de acogida improvisados.\nComenta Por favor, inicia sesión en La Tercera para acceder a los comentarios.\nDe cuánto fue el temblor de este sábado 30 de diciembre en Chile Baltasar Daza Hace 10 horas Año Nuevo 2024: horario de los malls para el 31 de diciembre Sandar Estrella Oporto 29 dic 2023 09:17 AM La Suerte en Chile: estos son los RUT ganadores del viernes 29 de diciembre Andrés Barra 29 dic 2023 11:40 AM Imperdibles 8 rutinas “no negociables” de un cardiólogo de 95 años para aumentar la longevidad La Tercera Justicia para María Jesús: las pistas y mensajes claves que complican a excarabinero acusado de brutal crimen La Cuarta “Le deseamos mucha suerte”: Sorprenden a Soledad Onetto con emotiva despedida en pantalla La Cuarta Así fue la cena de Navidad en la megacárcel de Bukele en El Salvador La Tercera Ley Uber: 4 nuevos requisitos para vehículos y conductores La Tercera Ranking: las aceleradoras de negocios más valoradas por las startups en Chile Laboratorio",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.lacuarta.com/cronica/noticia/justicia-para-maria-jesus-las-pistas-y-mensajes-claves-que-complican-a-excarabinero-acusado-de-brutal-crimen/RDB3BOU5XVGXZI6M6KBUZL5AOI/",
+      "https://www.lacuarta.com/espectaculos/noticia/le-deseamos-mucha-suerte-sorprenden-a-soledad-onetto-con-emotiva-despedida-en-pantalla/YBZN4HWINFEFDICW76UFFKE3HA/",
+      "https://lacuarta.com/cronica/noticia/justicia-para-maria-jesus-las-pistas-y-mensajes-claves-que-complican-a-excarabinero-acusado-de-brutal-crimen/RDB3BOU5XVGXZI6M6KBUZL5AOI/",
+      "https://www.lacuarta.com/cronica/noticia/justicia-para-maria-jesus-las-pistas-y-mensajes-claves-que-complican-a-excarabinero-acusado-de-brutal-crimen/RDB3BOU5XVGXZI6M6KBUZL5AOI",
+      "https://lacuarta.com/espectaculos/noticia/le-deseamos-mucha-suerte-sorprenden-a-soledad-onetto-con-emotiva-despedida-en-pantalla/YBZN4HWINFEFDICW76UFFKE3HA/",
+      "https://www.lacuarta.com/espectaculos/noticia/le-deseamos-mucha-suerte-sorprenden-a-soledad-onetto-con-emotiva-despedida-en-pantalla/YBZN4HWINFEFDICW76UFFKE3HA"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-30T16:07:07.034+02:00",
+    "updated": "2023-12-31T00:04:43.221+02:00"
+  },
+  {
+    "uuid": "dfb073c62f3e5653107840081b1e912c4902733a",
+    "url": "https://finance.sina.cn/2025-04-17/detail-inetmcym4003600.d.html?vt=4&cid=76729&node_id=76729",
+    "ord_in_thread": 0,
+    "author": "sina_mobile",
+    "published": "2025-04-16T21:20:55Z",
+    "title": "四川14项引领性改革加速推进_手机新浪网",
+    "text": "四川14项引领性改革加速推进\n- 本报讯（四川日报全媒体记者尹梦奇）4月16日，记者从省委改革办获悉，省委十二届六次全会部署的14项引领性改革目前已取得阶段性成效。四川将加速推进相关任务落地落实，确保各领域都能形成一批标志性改革成果。\n为推动省委十二届六次全会部署改革任务取得标志性成果，2024年10月省委改革办印发通知，明确了推动国有企业战略性重组和专业化整合、优化民营经济发展环境“五个专项治理”等14项引领性改革任务，由省领导牵头主抓和协调推进。\n国有企业战略性重组和专业化整合方面，出台了省属国企重点领域改革总体方案，目前四川能源发展集团、四川数据集团、四川科创投资集团、四川省担保集团已挂牌运营，旅游、建筑、轨道交通等领域专业化整合有序推进。\n集成授权改革试点方面，首批试点33项省级授权事项、351项支持事项已分别落地27项、233项，正抓紧审核第二批试点实施方案和省级授权事项、支持事项“两张清单”。\n完善强农惠农富农支持制度方面，将丘陵山区种粮大户补贴标准从每亩150元提高至200元，推动\n水稻;)、小麦;)、玉米;)完全成本保险全覆盖，进一步调动农民种粮积极性。“总体来看，14项引领性改革任务进展顺利，下一步我们将会同有关省直部门聚力推动任务落地落实。”省委改革办相关负责人介绍，对已出台工作方案的改革事项，加强统筹协调，持续跟踪落实；对尚未出台方案的改革事项，按照6月底前的时间节点倒排工期，推动相关文件尽快印发实施，确保各领域都能形成一批标志性改革成果。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Politics->government",
+      "Politics->economic policy",
+      "Politics->political development",
+      "Economy, Business and Finance->business restructuring",
+      "Economy, Business and Finance->economy",
+      "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T00:20:55.322+03:00",
+    "updated": "2025-04-17T00:20:55.322+03:00"
+  },
+  {
+    "uuid": "93cbda1ef37a168d9094ce535cbea6aeeb2a295f",
+    "url": "https://cruxnow.com/church-in-the-usa/2024/02/el-paso-bishop-defends-migrant-shelter-under-attack-by-texas-attorney-general",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "John Lavenburg",
+    "published": "2024-02-23T00:00:00Z",
+    "title": "El Paso bishop defends migrant shelter under attack by Texas attorney general | Crux",
+    "text": "From the perspective of the local bishop, the recent effort by the Texas Attorney General to close a Catholic migrant shelter in El Paso shows the impossible situation such organizations are in, balancing federal and state responses with their own mission to serve. “On the one hand, we are challenged by serious federal neglect to provide a safe, orderly and humane response to migration at our southern border,” Bishop Mark Seitz of El Paso said in a Feb. 22 statement. “On the other hand, we are now witnessing an escalating campaign of intimidation, fear and dehumanization in the State of Texas, one characterized by barbed wire, harsh new laws penalizing the act of seeking safety at our border, and the targeting of those who would offer aid as a response of faith,” continued Seitz, who is the U.S. Bishops’ Conference Migration Committee chair. Texas Attorney General Ken Paxton announced his lawsuit against Annunciation House, a migrant shelter that has operated in El Paso since 1978 on Feb. 20. Paxton is seeking to revoke Annunciation House’s registration to operate in the state, citing public records his office has reviewed that show the organization is “engaged in legal violations such as facilitating legal entry to the United States, alien harboring, human smuggling, and operating a stash house.” Annunciation House called the claims “unfounded,” and the attempt “illegal, immoral and anti-faith.” “Annunciation House has kept hundreds of thousands of refugees coming through our city off the streets and given them food,” the organization said in a Feb. 21 statement. “The work helps serve our local businesses, our City, and immigration officials to keep people off the streets and give them a shelter while they come through our community.” “If the work that Annunciation House conducts is illegal – so too is the work of our local hospitals, schools, and food banks,” the organization added. Seitz also defended Annunciation House, saying that it has given an effective and compassionate response to the city’s immigration challenges; a response that is rooted in the Gospel. “Its work is an example of our Catholic commitment to the poor, the Christian call to love one’s neighbor, and stepping into the breach to take action where many will not,” Seitz said. “Our Church, our city and our country owe Annunciation House a deep debt of gratitude.” Seitz also made clear that the efforts of the Church at the border are not political, and instead about responding to the needs of those they encounter. And while he didn’t mention Paxton or the lawsuit directly, he emphasized that the Church will defend those who carry out this work, and not be intimidated. “Let me be clear. For the Church’s part, we will endeavor to work with all in pursuit of the common good of our city and nation,” Seitz said. “We will vigorously defend the freedom of people of faith and goodwill to put deeply held religious convictions into practice.” “We will not be intimidated in our work to serve Jesus Christ in our sisters and brothers fleeing danger and seeking to keep their families together,” Seitz added. “We will stand in solidarity with our community’s aid workers and volunteers, with our community non-profits assisting migrants, as well as with all those in the borderlands and throughout our state living under the weight of inhumane immigration policies.” Follow John Lavenburg on X: @johnlavenburg",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://twitter.com/JohnLavenburg",
+      "https://www.twitter.com/JohnLavenburg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ken paxton",
+          "sentiment": "none"
+        },
+        {
+          "name": "mark seitz",
+          "sentiment": "none"
+        },
+        {
+          "name": "seitz",
+          "sentiment": "none"
+        },
+        {
+          "name": "paxton",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "u.s. bishops’ conference migration committee",
+          "sentiment": "none"
+        },
+        {
+          "name": "annunciation house",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "el paso",
+          "sentiment": "none"
+        },
+        {
+          "name": "texas",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-23T12:02:23.740+02:00",
+    "updated": "2024-02-23T12:02:23.740+02:00"
+  },
+  {
+    "uuid": "e0e80fc72ee8009f26c4ac9a0f1ecee59b0ad663",
+    "url": "https://aristeguinoticias.com/270225/kiosko/katy-perry-y-prometida-de-jeff-bezos-pasajeras-del-proximo-vuelo-al-espacio-de-blue-origin",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción AN / AG",
+    "published": "2025-02-27T22:25:00Z",
+    "title": "Katy Perry y prometida de Jeff Bezos, pasajeras del próximo vuelo al espacio de Blue Origin",
+    "text": "Katy Perry y prometida de Jeff Bezos, pasajeras del próximo vuelo al espacio de Blue Origin\nLa nueva misión, que como las otras 10 anteriores busca poner en los límites del espacio a una tripulación privada, será la primera compuesta exclusivamente por mujeres desde el vuelo espacial en solitario de Valentina Tereshkova en 1963.\n- Redacción AN / AG\nKaty Perry y Lauren Sánchez, prometida de Jeff Bezos, fundador de Blue Origin, serán parte de la primera tripulación completamente femenina de la nueva misión del New Shepard que despegará en la primavera.\nLa nueva misión, que como las otras 10 anteriores busca poner en los límites del espacio a una tripulación privada, será la primera compuesta exclusivamente por mujeres desde el vuelo espacial en solitario de Valentina Tereshkova en 1963.\nLa onceava misión estará compuesta por Perry, Lauren Sánchez, la periodista y presentadora de CBS Gayle King, Aisha Bowe, Amanda Nguyen y Kerianne Flynn.\nTe puede interesar > Contingencia ambiental continúa en la CDMX y el Edomex\nEsta semana Blue Origin lanzó con éxito desde Texas la décima misión tripulada, la NS-30, a bordo del New Shepard, en la que por primera vez viajó un español, el explorador y presentador Jesús Calleja.\nHasta la fecha, el programa ha transportado a 52 personas por encima de la línea de Kármán, el límite internacionalmente reconocido del espacio.\nBlue Origin destacó a Sánchez, quien también es periodista, como la impulsora principal de la misión NS-31.\nTe puede interesar > Sheinbaum y empresarios firman acuerdo para fijar precio máximo de gasolina Magna\nSánchez expresó en un comunicado su entusiasmo por liderar un equipo de exploradoras que buscan ampliar su perspectiva sobre la Tierra, compartir sus experiencias y generar un impacto duradero que inspire a futuras generaciones.\nEsta misión será el undécimo vuelo tripulado del programa New Shepard y el trigésimo primero de su historia.\nLa empresa no ha revelado la fecha de la misión.\nEl primer vuelo tripulado de New Shepard, en julio de 2021, llevó a Jeff Bezos y a su hermano Mark.\nDesde entonces, el cohete ha llevado al exjugador de la NFL Michael Strahan y al actor de Star Trek William Shatner, que se convirtió en la persona de más edad en el espacio con 90 años. (EFE y Reuters)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->social sciences",
+      "Science and Technology->aerospace engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Katy Perry",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Jeff Bezos",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Valentina Tereshkova",
+          "sentiment": "none"
+        },
+        {
+          "name": "Lauren Sánchez",
+          "sentiment": "none"
+        },
+        {
+          "name": "Kerianne Flynn",
+          "sentiment": "none"
+        },
+        {
+          "name": "Amanda Nguyen",
+          "sentiment": "none"
+        },
+        {
+          "name": "Aisha Bowe",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T01:12:25.094+02:00",
+    "updated": "2025-02-28T01:12:25.094+02:00"
+  }
+]

@@ -1,0 +1,597 @@
+[
+  {
+    "uuid": "69209600ece7fcf93954aad6e2a82491d1973f93",
+    "url": "https://tribune.com.pk/story/2479032/im-the-most-qualified-person-to-run-for-president-biden",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anadolu Agency",
+    "published": "2024-07-12T05:48:00Z",
+    "title": "'I'm the most qualified person to run for president:' Biden",
+    "text": "Biden received encouragement from NATO allies to run for president again, despite criticism.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joe biden",
+          "sentiment": "negative"
+        },
+        {
+          "name": "joe",
+          "sentiment": "none"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "biden",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "democratic",
+          "sentiment": "none"
+        },
+        {
+          "name": "nato",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "biden us",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-12T09:22:30.469+03:00",
+    "updated": "2024-07-12T13:10:56.894+03:00"
+  },
+  {
+    "uuid": "fcd710ffcc92a54dcc78b01cd5e71dca502bffe5",
+    "url": "https://signalscv.com/2024/06/city-county-host-summer-fire-safety-event",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Katherine Quezada",
+    "published": "2024-06-22T01:05:00Z",
+    "title": "City, county host summer fire safety event",
+    "text": "The city of Santa Clarita, in partnership with the L.A. County Fire Department, held a Summer Fire Safety Press Conference on Friday morning aimed to educate residents about the mitigation of wildfires and the dangers of fireworks, just a couple of weeks before the July 4 festivities.\nIn attendance at Towsley Canyon Park were local city officials, first responders, and nearly 400 goats and sheep as the main attraction. The goats were showcasing how the agencies are utilizing eco-friendly procedures to graze vegetation and diminish the chance of wildfires following numerous blazes that broke out last week, including the Post Fire that has burned over 15,000 acres.\n“Wildfire prevention is a shared responsibility and particularly vital in our community,” Councilman Jason Gibbs said to the audience.\nDue to the dry conditions and winds that the Santa Clarita Valley often faces, the threat of wildfires is higher, and blazes can quickly spread, causing extensive damage to structures and landscapes, he added.\nFifth District Supervisor Kathryn Barger asked that people not purchase fireworks for the upcoming summer celebrations as it can cause wildfires in the SCV and its unincorporated areas.\n“This whole area is a high fire zone. The city of Santa Clarita puts on an incredible firework show, please take advantage of it,” she said. “It’s about recognizing that we have to protect our community, but we also have to protect our loved ones.”\nShe also advised attendees to talk to their neighbors and educate them about the dangers that exist revolving blazes.\nThe 400 goats and sheep, provided by Shepherdess Land & Livestock, were grazing the open space overgrown with bushes, a procedure that is eco-friendly by minimizing the need for machinery.\nL.A County Fire Department Deputy Fire Chief Dennis Breshears spoke about how grazing helps with wildfires and discussed the steps residents can take if they are told to evacuate in case a blaze erupts.\n“Grazing helps reduce the density of vegetation thereby decreasing the fuel load available when we receive the wildland fire call,” he said.\nResidents were encouraged to create a ready, set, go plan that includes evacuation routes, and emergency contacts, and to stay aware of the latest news updates from local officials via social media platforms during an emergency, he added.\nFor evacuation orders and updates members of the community can download the\nGenasys Protect app that provides up to date information regarding emergency situations.\n“Don’t wait. Your safety and the safety of first responders rely on you doing timely evacuations,” Breshears said.\nSCV Sheriff’s Station Capt. Justin Diez was in attendance to speak about how the station will be handling illegal fireworks leading up to the July 4 festivities.\nResidents who are aware of illegal firework usage can report it through the resident service center.\nTips regarding illegal fireworks will not immediately receive a response from deputy sheriffs, but the information will be used for mapping and planning purposes, Diez said.\nDuring the Fourth of July holiday the SCV Sheriff’s Station typically receives 300 to 400 calls for service regarding fireworks in addition to all other regular calls for service, he added, and explicitly asked that residents only use the 9-1-1 number for emergencies. Illegal fireworks should be reported to the non-emergency business line number at 661-260-4000.\nThis year the station will have deputies dedicated to firework suppression and all fireworks, even those labeled safe and sane, are considered illegal throughout Santa Clarita and the valley’s unincorporated areas.\n“Any [fires] that start in Santa Clarita due to illegal fireworks use are going to be considered negligent and anybody responsible will face criminal charges,” Diez said.\nDuring the conference attendees were able to witness a water drop above the hillside performed by personnel with the L.A County Fire Department and get a close look at law enforcement vehicles and fire engines.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://protect.genasys.com/download",
+      "https://www.protect.genasys.com/download"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kathryn barger",
+          "sentiment": "none"
+        },
+        {
+          "name": "jason gibbs",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "l.a. county fire department",
+          "sentiment": "negative"
+        },
+        {
+          "name": "post",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "santa clarita",
+          "sentiment": "none"
+        },
+        {
+          "name": "santa clarita valley",
+          "sentiment": "none"
+        },
+        {
+          "name": "towsley canyon park",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-22T05:52:11.833+03:00",
+    "updated": "2024-06-22T05:52:11.833+03:00"
+  },
+  {
+    "uuid": "0c28059d7567d430d6401b9cb7be40b6c2a961d6",
+    "url": "https://en.hespress.com/81908-weather-alert-strong-winds-and-dust-storms-expected-in-multiple-provinces.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "With MAP",
+    "published": "2024-03-21T17:56:00Z",
+    "title": "Weather Alert: Strong winds and dust storms expected in multiple provinces",
+    "text": "The General Directorate of Meteorology (DGM) has issued a warning for strong gusts of wind accompanied by dust storms, with speeds ranging from 75 to 90 kilometers per hour (46 to 55 mph), expected to hit several provinces of the Kingdom on Thursday and Friday. According to the DGM, this weather phenomenon is anticipated to affect various regions from 10 a.m. to 8 p.m. on Thursday. Provinces such as Oujda-Angad, Jerada, Figuig, Midelt, Azilal, Ouarzazate, Boulemane, Tinghir, Errachidia, Guercif, Sefrou, Ifrane, Khenifra, Beni Mellal, Tangier-Asilah, Fahs-Anjra, and Tetouan are among those expected to experience these adverse weather conditions, as highlighted in an orange alert bulletin issued by the DGM. Moreover, similar conditions are forecasted to persist on Friday, with strong gusts of wind and dust storms expected from 4 a.m. to 5 p.m. This time, provinces such as Figuig, Taourirt, Midelt, Azilal, Ouarzazate, Boulemane, Tinghir, Guercif, Sefrou, Ifrane, Khénifra, Beni Mellal, Tanger-Asilah, Fahs-Anjra, and Tetouan are on alert, as indicated by the DGM.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "taourirt",
+          "sentiment": "none"
+        },
+        {
+          "name": "beni mellal",
+          "sentiment": "none"
+        },
+        {
+          "name": "jerada",
+          "sentiment": "none"
+        },
+        {
+          "name": "fahs-anjra",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "general directorate of meteorology",
+          "sentiment": "negative"
+        },
+        {
+          "name": "oujda",
+          "sentiment": "none"
+        },
+        {
+          "name": "dgm",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "tangier",
+          "sentiment": "none"
+        },
+        {
+          "name": "boulemane",
+          "sentiment": "none"
+        },
+        {
+          "name": "guercif",
+          "sentiment": "none"
+        },
+        {
+          "name": "azilal",
+          "sentiment": "none"
+        },
+        {
+          "name": "kingdom",
+          "sentiment": "none"
+        },
+        {
+          "name": "tinghir",
+          "sentiment": "none"
+        },
+        {
+          "name": "errachidia",
+          "sentiment": "none"
+        },
+        {
+          "name": "sefrou",
+          "sentiment": "none"
+        },
+        {
+          "name": "khénifra",
+          "sentiment": "none"
+        },
+        {
+          "name": "khenifra",
+          "sentiment": "none"
+        },
+        {
+          "name": "midelt",
+          "sentiment": "none"
+        },
+        {
+          "name": "ouarzazate",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-22T01:53:18.652+02:00",
+    "updated": "2024-03-22T01:53:18.652+02:00"
+  },
+  {
+    "uuid": "966339ea8f2ebfcdb7124c4e43653395c9695a01",
+    "url": "https://securityboulevard.com/?p=2014690",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Michael Vizard",
+    "published": "2024-04-11T20:58:00Z",
+    "title": "Simbian Unveils Generative AI Platform to Automate Cybersecurity Tasks - Security Boulevard",
+    "text": "Simbian Unveils Generative AI Platform to Automate Cybersecurity Tasks Simbian today launched a cybersecurity platform that leverages generative artificial intelligence (AI) to automate tasks that can increase in complexity as the tool learns more about the IT environment. Fresh off raising $10 million in seed funding, Simbian CEO Ambuj Kumar said the company has trained a large language model (LLM), dubbed TrustedLLM, to create an AI co-pilot that can summarize events, suggest remediations and automate tasks. Cybersecurity teams can determine how much faith they want to place in a TrustedLLM over time, as it continuously observes how an IT environment is evolving. The more the LLM learns about the environment, the more complex the tasks the platform can autonomously perform, said Kumar. As the reasoning engines embedded within LLMs become more advanced, generative AI platforms are increasingly able to combine a series of steps to automate a task. For example, cybersecurity teams can use a natural language interface to assign Trusted LLM platform to find and remediate a vulnerability anywhere it exists that might require it to generate code to enable multiple cybersecurity tools and platforms to work in concert with each other to complete a task, said Kumar. Over time, each cybersecurity professional will become more of a supervisor of tasks executed by a co-pilot, Kumar added, rather than someone who has to manually perform each task themselves. Less clear is to what degree a cybersecurity expert will be required to supervise a co-pilot, as generative AI continue to make managing cybersecurity easier for any IT professional. Unlike general-purpose LLMs, the Trusted LLM has been trained on a narrow set of cybersecurity data to eliminate common hallucinations like those regularly encountered with platforms such as ChatGPT, said Kumar. That approach also ensures that data shared with the LLM isn’t inadvertently going to be used to train an LLM that might be accessible to anyone, he added. Given the chronic shortage of cybersecurity expertise , it’s only a matter of time before more organizations rely on AI to automate tasks. There are, of course, any number of existing automation platforms for cybersecurity. However, they all require cybersecurity teams to master some level of programming, to varying degrees. By exposing a natural language interface, Generative AI platforms eliminate that requirement so the number of workflows that can be automated should continue to increase. As more of those workflows are automated, cybersecurity will steadily improve as organizations can eliminate vulnerabilities before cybercriminals are able to exploit them. In addition, cybersecurity teams should also be able to better contain any damage inflicted, as they can respond more adroitly as soon as a breach is discovered. The overall cybersecurity return on investment (ROI) should also improve, because small teams can maintain cybersecurity across highly distributed computing environments. It’s not likely AI is going to eliminate the need for cybersecurity professionals, but their roles are about to change. Hopefully, less time will be spent performing the manual tasks that leads to higher turnover rates among cybersecurity professionals. Most would prefer to spend their time eliminating threat vectors and thwarting attacks in progress. Photo credit: Kanhaiya Sharma on Unsplash",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://www.businesswire.com/news/home/20240411263264/en/Simbian-Emerges-from-Stealth-with-10M-to-Build-Fully-Autonomous-Security-Platform-Powered-by-GenAI)",
+      "https://simbian.ai/)",
+      "https://unsplash.com/photos/a-black-and-white-photo-of-a-geometric-object-EiAqej-cGks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)",
+      "https://unsplash.com/@kanhaiyasharma?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)",
+      "https://unsplash.com/photos/a-black-and-white-photo-of-a-geometric-object-EiAqej-cGks",
+      "https://www.simbian.ai/)",
+      "https://businesswire.com/news/home/20240411263264/en/Simbian-Emerges-from-Stealth-with-10M-to-Build-Fully-Autonomous-Security-Platform-Powered-by-GenAI)",
+      "https://www.unsplash.com/@kanhaiyasharma?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)",
+      "https://unsplash.com/@kanhaiyasharma",
+      "https://www.unsplash.com/photos/a-black-and-white-photo-of-a-geometric-object-EiAqej-cGks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kumar",
+          "sentiment": "none"
+        },
+        {
+          "name": "ambuj kumar",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-12T02:12:01.442+03:00",
+    "updated": "2024-04-12T02:42:49.407+03:00"
+  },
+  {
+    "uuid": "7e176bcf67850cb9c652f1175f55d860f811dc32",
+    "url": "https://www.star-telegram.com/sports/article298672258.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cole Sullivan Athlon Sports",
+    "published": "2025-01-16T21:37:00Z",
+    "title": "Penn State Reacts to Saquon Barkley News Ahead of Rams-Eagles Playoff Game",
+    "text": "Sports\nPenn State Reacts to Saquon Barkley News Ahead of Rams-Eagles Playoff Game\nThe No. 2 seed Philadelphia Eagles are preparing to host the No. 4 seed Los Angeles Rams on Sunday afternoon in the divisional round of the NFL playoffs, continuing their quest for a spot in Super Bowl LIX on Feb. 9 in New Orleans.\nAhead of the matchup, the Maxwell Football Club, home to several prestigious awards, announced that Eagles running back Saquon Barkley has been named the recipient of the Maxwell Football Club Bert Bell Award, which honors the NFL Player of the Year.\nIn response to the announcement, Penn State, where Barkley had a legendary collegiate career, shared a brief four-word message celebrating his achievement.\n\"Best in the League.\" Penn State posted.\nBest in the League.\n— Penn State Football (@PennStateFball)[#WeAre]x[@Saquon][pic.twitter.com/DS75FOLUUg][January 16, 2025]\nBarkley is in his first year with the Eagles and has already made a major impact, achieving several historic milestones along the way. He became the franchise's all-time single-season rushing leader, led the league in rushing, and secured his second career playoff victory last weekend when the Eagles defeated the No. 7 seed Green Bay Packers 22-10.\nThis season, Barkley has rushed 345 times for 2,005 yards and totaled 14 touchdowns, while averaging an impressive 5.8 yards per carry.\nAhead of their matchup with the Rams, Los Angeles head coach Sean McVay offered high praise for Barkley, especially remembering his dominant performance in their earlier meeting in November, where he rushed for 255 yards and scored twice, while breaking off for two 70-plus yard touchdown runs in the outing.\n\"That's the thing that makes Saquon so special,\" McVay said. \"He's patient and he hits you for a couple of those runs, but if he gets clean to the second and third levels, he's such a slash runner and he has the speed to finish. That's why he's such a dynamic player. I think our sense of urgency will be appropriate for the task at hand this week. We love it and we're looking forward to it, but we have a ton of respect for this group.\"\nRelated: Saquon Barkley Calls Philadelphia \"Biggest Blessing\" in Fresh Start with Eagles\nCopyright 2025 Athlon Sports. All rights reserved.\nThis story was originally published January 16, 2025 at 3:37 PM.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "topics": [
+      "Sport->playoff championship",
+      "Sport->sport event",
+      "Sport->american football"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://athlonsports.com/nfl/eagles-today/saquon-barkley-calls-philadelphia-eagles-blessing-fresh-start",
+      "https://www.athlonsports.com/nfl/eagles-today/saquon-barkley-calls-philadelphia-eagles-blessing-fresh-start"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "7e176bcf67850cb9c652f1175f55d860f811dc32",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:43:44.317+02:00",
+    "updated": "2025-01-17T00:43:44.317+02:00"
+  },
+  {
+    "uuid": "bed93174badacd76539df47c0b327a43a64979e4",
+    "url": "https://www.elimparcial.com:443/espectaculos/2024/09/19/wendy-guevara-habla-de-salud-mental-y-amistad-con-nicola-porcella-lo-defenderia-con-garras-y-dientes",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Emelina Zuzeth Gonzalez Lopez",
+    "published": "2024-09-19T19:52:00Z",
+    "title": "Wendy Guevara habla de Salud Mental y amistad con Nicola Porcella: “Lo defendería con garras y dientes” | Noticias de México | El Imparcial",
+    "text": "Wendy Guevara habla de Salud Mental y amistad con Nicola Porcella: “Lo defendería con garras y dientes” La influencer habló sobre su enfoque hacia la terapia, la amistad y su lealtad inquebrantable hacia aquellos que ama CIUDAD DE MÉXICO.- En un encuentro con los medios, Wendy Guevara compartió detalles sobre su enfoque hacia la salud mental y su inquebrantable apoyo a sus seres queridos. “Soy consciente de que no soy perfecta, pero intento ser amorosa y brindar apoyo a quienes me rodean,” afirmó la influencer. También enfatizó la importancia de recibir terapia regularmente, ya sea a través de Zoom o en persona cuando tiene la oportunidad de visitar León. A veces voy a terapia por Zoom y cuando puedo ir a León, tengo terapia presencial”, reveló Guevara, subrayando la importancia de la autoayuda en su rutina. La actriz abordó el tema de la amistad, manifestando su incomodidad con las preguntas sobre cómo es como amiga, sugiriendo que tales cuestiones deberían ser dirigidas a su círculo social cercano. “Yo creo que eso se lo tiene que preguntar a las personas de mi círculo social de amistades, porque cualquiera puede echarse flores solo o sola, pero no está bien”, afirmó. A pesar de ello, enfatizó su compromiso inquebrantable de brindar apoyo, incluso si no siempre es correspondido. Lo que siempre he tenido muy presente es que sé dar apoyo y me encanta hacerlo. Aunque a veces otras personas no lo devuelvan, no pasa nada.” Cuando se le preguntó si ella defendería a Nicola en caso de que él fuera atacado de la misma manera en que Gala Montes fue agredida en la Casa de los Famosos México por parte del influencer Adrián Marcelo, Guevara afirmó que sí lo haría. Cabe señalar que tanto Nicola Porcella como Gala Montes son actores que han hablado abiertamente sobre sus problemas mentales y la manera en la que se atienden respecto a ellos. El hecho de que Marcelo atacara a la actriz por su condición mental ha sido ampliamente criticado en redes sociales. “La depresión es un tema que se toca con pincita siempre lo he dicho es bien difícil de de tocar este tema es un debate que se hace puedes durar días debatiéndose”, aclaró Wendy. “Como amigo, yo creo que tienes que dar apoyo y abrazar cuando se necesita un abrazo, enojarte y atacar cuando se necesita atacar. Y yo a él lo hubiera defendido con garras y dientes porque lo amo”, finalizó la influencer. Tal vez te interese: [“La experiencia del embarazo está muy romantizada, se sufre mucho”, Paul Stanley comparte como fue el proceso junto a su esposa Joely Bernat]() Te recomendamos [Wendy Guevara y Nicola Porcella revelan que ya no quieren vivir con Agustín Fernández](/espectaculos/2024/08/15/wendy-guevara-y-nicola-porcella-revelan-que-ya-no-quieren-vivir-con-agustin-fernandez/) [Nicola Porcella comenta sobre el veto de Agustín Fernández en el programa “Hoy”](/espectaculos/2024/08/22/nicola-porcella-comenta-sobre-el-veto-de-agustin-fernandez-en-el-programa-hoy/) [“Que grosero”: Gomita y Nicola Porcella protagonizan acalorada pelea en vivo](/espectaculos/2024/09/03/que-grosero-gomita-y-nicola-porcella-protagonizan-acalorada-pelea-en-vivo/) [Niurka arremete contra Adrián Marcelo por burlas hacia su hijo Emilio Osorio](/espectaculos/2024/08/23/niurka-arremete-contra-adrian-marcelo-por-burlas-hacia-su-hijo-emilio-osorio/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-20T00:10:20.090+03:00",
+    "updated": "2024-09-20T00:10:20.090+03:00"
+  },
+  {
+    "uuid": "15153131e4a2654c4b1643384566145c23c8063e",
+    "url": "https://www.enterprisenews.com/story/weather/2024/12/12/brockton-ma-storm-how-much-rain-flooding-rescues-bridgewater-raynham-easton-stoughton-randolph/76944871007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", Enterprise News",
+    "published": "2024-12-12T21:54:00Z",
+    "title": "How much rain did Brockton-area get? Rainfall totals, rescues, injuries",
+    "text": "How much rain did Brockton-area get? Rainfall totals, rescues, injuries\nBROCKTON — A powerful rainstorm hit the Brockton area Wednesday, flooding streets and downing trees and power lines, according to the National Weather Service.\n[The Brockton Fire Department performed two water rescues](https://www.enterprisenews.com/story/news/local/2024/12/12/brockton-ma-flood-overdose-rescue-westgate-mall-homeless-encampment/76944669007/) of individuals trapped by flood waters, according to Fire Chief Brian Nardelli.\n\"We had a lot of wire issues last night, a lot of tree limbs down. We had some issues on Oak Street with power outages. Those are the types of instances that tie up our fire apparatuses,\" Nardelli said. \"It was throughout the entire city.\"\nHere's everything you need to know about last night's storm.\nWas anyone injured in the storm?\nThe Brockton Fire Department performed two water rescues Wednesday, according to Fire Chief Brian Nardelli.\nFirefighters helped a family with a young child to safety after their car got stuck in flood waters on Westgate Drive. The water reached up to the car's floorboards when the family was rescued, according to Nardelli.\nFirefighters also responded to a call for an overdose at the homeless encampment behind Westgate Mall. They had to fight through moving, murky, chest-deep flood waters filled with unseen obstacles to reach the victim and bring him back to safety, Nardelli said.\nFirefighters administered Narcan to the man and he was stabilized and transported to the hospital, he said.\nNo firefighters were injured in either rescue.\nHow much rain did Brockton get?\nRain totals in Brockton have not been officially calculated but estimates range from 3 to 4 inches, according to NWS Meteorologist Candice Hrencecin.\nHow much rain did other Brockton area towns get?\nHere's how much rain Brockton area towns and cities got, according to the latest [NWS rainfall reports](https://forecast.weather.gov/product.php?site=NWS&issuedby=BOX&product=PNS).\n- Abington: 2.61 inches by 12:55 a.m., Dec. 12\n- Bridgewater: 3.45 inches by 12:56 a.m., Dec. 12\n- Easton: 2.93 inches by 10:25 p.m., Dec. 11\n- Plymouth: 3.28 inches by 12:52 a.m., Dec. 12\n- Randolph: 2.68 inches by 7:59 p.m., Dec. 11\n- Raynham: 3.02 inches by 12:50 a.m., Dec. 12\n- Taunton: 2.87 inches by 12:52 a.m., Dec. 12\nWhen will it rain again in the Brockton area?\nAccording to the NWS, the Brockton area won't see rain again until at least Monday, when there's a 40% chance of precipitation. Rain is likely on Tuesday, however, with the NWS predicting a 60% chance of precipitation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://forecast.weather.gov/product.php?site=NWS&issuedby=BOX&product=PNS",
+      "https://www.forecast.weather.gov/product.php?site=NWS&issuedby=BOX&product=PNS",
+      "https://forecast.weather.gov/product.php"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T00:39:22.255+02:00",
+    "updated": "2024-12-13T00:39:22.255+02:00"
+  },
+  {
+    "uuid": "cfef6c8a33ba26623aca271d76e53cb782ecab11",
+    "url": "https://see.news/egyptian-economy-grows-38-despite-russian-ukrainian-crisis",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@",
+    "published": "2023-12-28T21:44:00Z",
+    "title": "Egyptian Economy Grows 3.8% Despite Russian-Ukrainian Crisis | Sada Elbalad",
+    "text": "H-Tayea\nPrime Minister Dr. Mustafa Madbouly chaired a meeting of the economic ministerial group this evening to discuss and monitor several economic files.\nDuring the meeting, it was noted that despite the severe impacts of the \"Russian-Ukrainian\" crisis during the fiscal year 2022/2023, the Egyptian economy achieved a growth rate of approximately 3.8%. There was a strong emphasis on the intention to increase the growth rates of the Egyptian economy.\nPresidential Council spokesperson Mohamed El-Homsany highlighted that the meeting reviewed the performance indicators of the Egyptian economy across various economic sectors in the past period. The Prime Minister stressed the importance of exerting different efforts to achieve the state's goals in various fields and to continue the process of economic reform.\nThe spokesperson clarified that the most prominent economic activities that achieved positive growth rates in the first quarter of the current fiscal year include tourism (restaurants and hotels), the Suez Canal, telecommunications and information technology, social services (including health and education), and agriculture.\nExtended Background:\nEgypt's economic resilience amidst the Russian-Ukrainian crisis is noteworthy. The country's ability to maintain a positive growth trajectory, particularly in key sectors such as tourism, the Suez Canal, IT, social services, and agriculture, highlights the effectiveness of its economic policies and reform measures. The tourism sector, a significant contributor to Egypt's GDP, has shown remarkable recovery, benefiting from the easing of global travel restrictions post-pandemic. The Suez Canal, a critical global trade artery, continues to be a steady source of revenue, bolstered by the recent global shifts in trade routes and logistics.\nThe growth in telecommunications and IT reflects Egypt's ongoing efforts to enhance its digital infrastructure, aligning with the global trend towards a more digitally connected economy. The emphasis on social services, including health and education, indicates a commitment to improving the quality of life and human capital, which are essential for sustainable development.\nThe agriculture sector's growth is particularly significant, given its role in ensuring food security and employment in rural areas. This growth can be attributed to various government initiatives aimed at modernizing the sector and increasing its efficiency and productivity.\nOverall, Egypt's economic performance, in the face of global challenges, demonstrates its agility and the government's commitment to pursuing growth and stability. This trajectory is expected to bolster investor confidence and attract more foreign investment, further driving economic development in the country.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sada elbalad h-tayea",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mustafa madbouly",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mohamed el-homsany",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "presidential council",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "suez canal",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:08:30.667+02:00",
+    "updated": "2023-12-29T00:08:30.667+02:00"
+  },
+  {
+    "uuid": "5b984e319d01725f3f79ac823a55d687b29cc6c1",
+    "url": "https://money.mymotherlode.com/clarkebroadcasting.mymotherlode/article/getnews-2025-1-23-la-jolla-restorative-dentistry-now-offered-by-open-wide-la-jolla-dentistry",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Get News",
+    "published": "2025-01-23T22:18:00Z",
+    "title": "La Jolla Restorative Dentistry Now Offered by Open Wide La Jolla Dentistry",
+    "text": "La Jolla Restorative Dentistry Now Offered by Open Wide La Jolla Dentistry By: Get News January 23, 2025 at 17:18 PM EST Open Wide La Jolla Dentistry, under the leadership of Dr. Chad Dains, is proud to announce the expansion of its comprehensive restorative dentistry services in La Jolla, California. Open Wide La Jolla Dentistry , under the leadership of Dr. Chad Dains, is proud to announce the expansion of its comprehensive restorative dentistry services in La Jolla, California. Located at 7509 Draper Avenue, Suite B, the practice is committed to providing top-tier dental care to the La Jolla community.\nRestorative dentistry encompasses a wide range of procedures designed to repair damaged teeth and restore oral health. Open Wide La Jolla Dentistry offers an array of services including dental implants, composite fillings, porcelain veneers, and dental crowns and bridges. These advanced treatments are tailored to meet the unique needs of each patient, ensuring optimal oral health and a beautiful smile.\nDr. Chad Dains, owner-dentist of Open Wide La Jolla Dentistry, expressed enthusiasm about the enhanced focus on restorative dentistry. \"We are committed to offering restorative dentistry services to our patients in La Jolla. Our goal is to provide comprehensive dental care that not only improves oral health but also boosts our patients' confidence in their smiles,\" said Dr. Dains.\nThe practice's commitment to excellence in restorative dentistry is evident in its use of state-of-the-art technology and techniques. Dental implants, a cornerstone of modern restorative dentistry, are offered as a permanent solution for missing teeth. These biocompatible titanium posts are surgically placed in the jawbone, providing a stable foundation for replacement teeth that look, feel, and function like natural teeth.\nComposite fillings, another key service in the restorative dentistry lineup, offer a more aesthetically pleasing alternative to traditional amalgam fillings. These tooth-colored fillings blend seamlessly with the natural tooth structure, making them an ideal choice for visible areas of the mouth.\nOpen Wide La Jolla Dentistry offers porcelain veneers for patients looking to improve their smile's appearance. These custom-made, thin shells made from tooth-colored materials are designed to cover the front surface of teeth, providing an effective solution for discoloration, wear, chips, or misalignment.\nDental crowns and bridges round out the practice's comprehensive restorative dentistry offerings. Crowns are utilized to cover and safeguard damaged teeth, while bridges replace one or more missing teeth. Both treatments not only restore the function of the teeth but also contribute to a more aesthetically pleasing smile.\nThe expanded restorative dentistry services at Open Wide La Jolla Dentistry reflect the practice's commitment to staying at the forefront of dental care. By offering these advanced treatments, the practice aims to address a wide range of dental issues, from minor repairs to major restorations.\nPatients seeking restorative dental care in La Jolla can benefit from the expertise of Dr. Dains and his team. The practice's approach combines technical skill with a deep understanding of aesthetic principles, ensuring that restorative treatments not only improve oral health but also enhance the overall appearance of the smile.\nOpen Wide La Jolla Dentistry's focus on restorative dentistry aligns with the growing demand for comprehensive dental care in the La Jolla area. As more patients recognize the importance of maintaining and restoring their oral health, the practice is well-positioned to meet these needs with its expanded services.\nThe practice's location in the heart of La Jolla makes it easily accessible to residents seeking high-quality restorative dental care. With its commitment to patient comfort and satisfaction, Open Wide La Jolla Dentistry continues to be a trusted name in the community for all dental needs, including advanced restorative procedures.\nFor more information about the restorative dentistry services offered by Open Wide La Jolla Dentistry, please contact Dr. Chad Dains at https://openwidelajolla.com/ .\nAbout Open Wide La Jolla Dentistry:\nOpen Wide La Jolla Dentistry, led by Dr. Chad Dains, is a premier dental practice located in La Jolla, California. The practice provides a wide array of dental services, encompassing general, cosmetic, and restorative dentistry.With a focus on patient comfort and cutting-edge dental technology, Open Wide La Jolla Dentistry is committed to providing exceptional oral care to the La Jolla community.\nMedia Contact\nCompany Name: Open Wide La Jolla Dentistry\nContact Person: Chad Dains\nEmail: Send Email\nPhone: (858) 454-8484\nAddress: 7509 Draper Ave. Suite B\nCity: La Jolla\nState: CA\nCountry: United States\nWebsite: https://openwidelajolla.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Health->health facility",
+      "Health->medical service",
+      "Health->health care approach",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->business service",
+      "Economy, Business and Finance->healthcare industry",
+      "Lifestyle and Leisure->wellness",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.universalpressrelease.com/?pr=la-jolla-restorative-dentistry-now-offered-by-open-wide-la-jolla-dentistry",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4124.770064849346!2d-117.27609729999999!3d32.8401125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dc03bed744ce8d%3A0x789ac4a7293b2b01!2sOpen%20Wide%20La%20Jolla%20Dentistry!5e1!3m2!1sen!2sph!4v1737448212173!5m2!1sen!2sph",
+      "https://tracking.newsrpm.com/pixel?slug=getnews-2025-1-23-la-jolla-restorative-dentistry-now-offered-by-open-wide-la-jolla-dentistry",
+      "https://docs.google.com/spreadsheets/d/1gxLc2VLNWzqozNAV-DCN4Q1TiAULJt6ioYqpYgAoAI4/edit?usp=sharing",
+      "https://openwidelajolla.com/",
+      "https://maps.google.com/maps?ll=32.840112,-117.276097&z=16&t=h&hl=en&gl=PH&mapclient=embed&cid=8690474653195119361",
+      "https://openwidelajolla.com",
+      "https://openwidelajolla.com/general-dentistry/restorative-dentistry/",
+      "https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap",
+      "https://www.getnews.info/press_stat.php?pr=la-jolla-restorative-dentistry-now-offered-by-open-wide-la-jolla-dentistry",
+      "https://fonts.googleapis.com/css2?family=Open+Sans&display=swap",
+      "http://universalpressrelease.com/?pr=la-jolla-restorative-dentistry-now-offered-by-open-wide-la-jolla-dentistry",
+      "https://maps.google.com/maps",
+      "https://www.fonts.googleapis.com/css2?family=Open+Sans&display=swap",
+      "https://www.google.com/maps/embed",
+      "https://www.fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap",
+      "https://docs.google.com/spreadsheets/d/1gxLc2VLNWzqozNAV-DCN4Q1TiAULJt6ioYqpYgAoAI4/edit",
+      "https://www.docs.google.com/spreadsheets/d/1gxLc2VLNWzqozNAV-DCN4Q1TiAULJt6ioYqpYgAoAI4/edit?usp=sharing",
+      "https://tracking.newsrpm.com/pixel",
+      "https://www.openwidelajolla.com",
+      "https://www.tracking.newsrpm.com/pixel?slug=getnews-2025-1-23-la-jolla-restorative-dentistry-now-offered-by-open-wide-la-jolla-dentistry",
+      "https://www.getnews.info/press_stat.php",
+      "http://www.universalpressrelease.com/",
+      "https://www.openwidelajolla.com/",
+      "https://openwidelajolla.com",
+      "https://www.openwidelajolla.com/general-dentistry/restorative-dentistry/",
+      "https://openwidelajolla.com/general-dentistry/restorative-dentistry",
+      "https://fonts.googleapis.com/css2",
+      "https://getnews.info/press_stat.php?pr=la-jolla-restorative-dentistry-now-offered-by-open-wide-la-jolla-dentistry",
+      "https://google.com/maps/embed?pb=!1m18!1m12!1m3!1d4124.770064849346!2d-117.27609729999999!3d32.8401125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dc03bed744ce8d%3A0x789ac4a7293b2b01!2sOpen%20Wide%20La%20Jolla%20Dentistry!5e1!3m2!1sen!2sph!4v1737448212173!5m2!1sen!2sph",
+      "https://www.maps.google.com/maps?ll=32.840112,-117.276097&z=16&t=h&hl=en&gl=PH&mapclient=embed&cid=8690474653195119361"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Chad Dains",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Jolla",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:25:10.609+02:00",
+    "updated": "2025-01-24T00:25:10.609+02:00"
+  },
+  {
+    "uuid": "b835c4bcb8728ee8c063b08dd5c071a524d0d93f",
+    "url": "https://in.investing.com/news/hanesbrands-faces-challenges-champion-not-a-leading-athletic-apparel-brand--ubs-432SI-3953057",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Investing.com",
+    "published": "2023-12-28T00:00:00Z",
+    "title": "HanesBrands faces challenges, Champion not a leading athletic apparel brand - UBS - Investing.com India",
+    "text": "HanesBrands (HBI) faces challenges, according to UBS analysts, who said in a note Thursday that the firm is not bullish on a possible divestiture of Champion.\nUBS currently has a Neutral rating and a $4.50 price target on the stock. Analysts told investors that HBI has said it is pursuing an evaluation of strategic options for its Champion business and that potential asset divestures could boost HBI's stock price and reduce its debt burden.\nHowever, they note that the UBS Evidence Lab's 2023 Global Athletic Wear Survey suggests Champion is not a leading athletic apparel brand.\n\"This reinforces our view HBI will probably not receive a price for Champion, which would be a major positive catalyst for the stock,\" analysts wrote.\nAccording to the bank's latest survey, Champion \"doesn't have great brand attributes\" and \"doesn't stand out in areas such as prestige, innovation, or quality.\"\nIn addition, analysts noted that the survey showed that Champion might be becoming less relevant to consumers compared to other brands.\n\"We forecast a +LSD% long-term EPS CAGR and see more downside than upside risk to our forecast. Plus, our FY24 EPS estimate is 17% below consensus,\" analysts added.\nAdd Chart to Comment",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "ubs",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ubs - investing.com india hanesbrands",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ubs evidence lab",
+          "sentiment": "none"
+        },
+        {
+          "name": "hbi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:12:15.635+02:00",
+    "updated": "2023-12-29T00:12:15.635+02:00"
+  }
+]

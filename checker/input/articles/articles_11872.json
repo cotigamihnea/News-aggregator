@@ -1,0 +1,368 @@
+[
+  {
+    "uuid": "2e96a21241e66f9f05c4d65ea1e8f981255a1681",
+    "url": "https://www.saltwire.com/atlantic-canada/sports/edmonton-oilers-tie-franchise-record-with-current-nine-game-win-streak-100928016/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "saltwire.com",
+    "published": "2024-01-12T00:00:00Z",
+    "title": "Edmonton Oilers tie franchise record with current nine-game win streak | SaltWire",
+    "text": "Out of the frozen frying pan and into the fire.\nThe Edmonton Oilers might have avoided a stretch of -30 C temperatures back home as they’ve spent the week on an Original Six road trip, but they ended up with about as much heat as they could handle in a red-hot Alex Lyon.\nThe Detroit Red Wings goalie came up with 44 saves Thursday in a bid to put an end to Edmonton’s eight-game win streak.\nBut the Oilers came from behind to pull out a 3-2 overtime victory to tie a franchise-record ninth win in a row.\nIt eclipses a previous high of eight wins they strung together in the end of November and early December, which ended with three losses in a row prior to going on their current streak.\nThat gives Edmonton a 17-3 record since U.S. Thanksgiving on Nov. 24, to push their record under new head coach Kris Knoblauch to 19-6 — an incredible rebound from the 3-9-1 start to the season under the Jay Woodcroft regime.\nAnd it’s got them right back into the playoff race, as they improved to 22-15-1 and moved into a tie for seventh place in the Western Conference with the Nashville Predators. And for as far as they still have left to go, they’ve come a long way from being the 31st-ranked team in the league following a franchise-worst 2-9-1.\nAnd they have given themselves a chance to set a new high watermark for the franchise as they look to make it 10 in a row for the first time, when they take on the Montreal Canadiens on Saturday (5 p.m., CBC, Sportsnet).\nThursday’s win marked the third time the Oilers have won nine games in a row, with, neither previous time coming during the dynasty days of the 1980s. The last one came down the playoff stretch a season ago, while the first nine-game streak occurred back in 2001.\nE-mail: [email protected]\nOn Twitter: @GerryModdejonge\nCopyright Postmedia Network Inc., 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kris knoblauch",
+          "sentiment": "none"
+        },
+        {
+          "name": "jay woodcroft",
+          "sentiment": "none"
+        },
+        {
+          "name": "alex lyon",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "edmonton oilers",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "detroit red wings",
+          "sentiment": "none"
+        },
+        {
+          "name": "nashville predators",
+          "sentiment": "none"
+        },
+        {
+          "name": "oilers",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "edmonton",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-12T08:14:17.226+02:00",
+    "updated": "2024-01-12T08:14:17.226+02:00"
+  },
+  {
+    "uuid": "1ba9f715acff7e0c11f2e8010676f215bcc311b9",
+    "url": "https://www.rochester.edu/newscenter/artificial-intelligence-ai-laser-fusion-energy-research-622682",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Melissa Pheterson",
+    "published": "2024-10-16T21:23:00Z",
+    "title": "How artificial intelligence is powering the fusion revolution",
+    "text": "At the University of Rochester’s Laboratory for Laser Energetics, scientists harness AI to bring fusion research into sharper focus. The OMEGA Laser Facility at the [University of Rochester](https://rochester.edu/)’s [Laboratory for Laser Energetics](https://www.lle.rochester.edu/) (LLE) is the world’s largest laser in an academic setting. It also resembles, at a glance, an elaborate marble run for light particles and plasma, splitting and amplifying beams before focusing them into a tiny target in its crosshairs. The end goal? To unlock the secrets of astrophysical phenomena, measure materials at atom-crushing pressures—and pursue paradigm-shifting fusion advances. Bolstered by [$503 million in funding](https://www.rochester.edu/newscenter/national-nuclear-security-administration-cooperative-agreement-laser-lab-575142/) from the US Department of Energy’s (DOE) National Nuclear Security Administration in 2024, the Laser Lab at Rochester is ideally equipped for this crucial work. Complex fusion experiments are conducted at LLE about once a month, with scientists having approximately five chances to shoot the laser and record data on the allotted day. Multiphysics computer simulations that represent scientists’ best understanding of the fusion plasma are used to both design the experiments and interpret their results. Yet despite the simulations’ sophistication, they cannot reproduce all the results of actual experiments. “You are starting from a millimeter-diameter capsule of plastic with frozen deuterium-tritium, at twenty degrees above absolute zero, which is then compressed to less than the diameter of a human hair and to a temperature more than 30 million degrees, all in a billionth of a second,” explains Christopher Deeney, the director of LLE. “That is a lot of physics to understand and get right. Plus, we have to measure all the details of what happened in that billionth of a second using advanced diagnostics.” To harness the incredible amounts of data captured by these advanced diagnostics specifically—and to accelerate fusion research in the United States more generally—LLE scientists are turning to artificial intelligence (AI) and similar advanced computing technologies. Laser fusion shoots its shot For more than 50 years, LLE has helped frame and solve key challenges in [inertial confinement fusion](https://www.lle.rochester.edu/education/graduate-studies/inertial-confinement-fusion/#:~:text=The%20most%2Dpromising%20approach%20to,of%20microexplosions%20to%20produce%20power.) (ICF), also known as laser fusion. Scientists generally agree that, to date, ICF is the most promising approach to controlled thermonuclear fusion, a high-potential source of clean, renewable energy. “Essentially, ICF is an inverse physics problem,” says [Christopher Kanan](https://www.cs.rochester.edu/people/faculty/kanan_chris/index.html), an associate professor of computer science at the University of Rochester. The solution, known as ignition—a net gain of energy released by the implosion—is known, and scientists must work backward to deduce the correct properties of the laser and target. (Think of Jeopardy!, where contestants must formulate the question that yields the given answer.) Omega itself is not designed to achieve ignition, but rather advance the understanding of laser-driven direct drive fusion. The National Ignition Facility at Livermore National Laboratory, which has 60 times the energy of Omega, now has one answer to the inverse physics problem, [achieving ignition in 2022](https://www.rochester.edu/newscenter/nuclear-fusion-energy-ignition-milestone-544292/). Both the progress on Omega and the achievement on ignition have used statistical models to help fill the gap in our complete understanding of the physics. This knowledge gap between simulation and experiment stems from the complexity of the physics, limitations of the measurements, and sheer scope of the endeavor—nuclear physics, plasma physics, and materials science at extreme conditions—which poses challenges to even the most sophisticated computer code. First, there’s the matter of the target, a hollow plastic sphere that fits onto the head of a pin. Researchers at LLE build the tiny sphere with precision tools, fill it with hydrogen isotopes, and then chill the sphere to near absolute zero (or minus 460 degrees Fahrenheit). Now frozen, the hydrogen becomes a layer of ice coating the inside of the plastic shell. Then there’s the laser, a pulse that is amplified and split into multiple beams as it passes through the laser beamlines at the LLE. Uniformly distributed around the target, the mirrors direct laser beams to mash the expanding plastic and collapse the frozen capsule, achieving implosion velocities of over a half-billion miles per hour. What is the laser’s ideal pulse shape, intensity, and timing? Is the target placed with precision? Do tiny defects on the surface, or slight inaccuracies in the laser’s pointing, matter? Should the sphere be pumped with hydrogen fuel before or after the staff’s morning coffee? Only the right string of correct variables can yield fusion. And after the shot, the work has just begun. Data from over a dozen diagnostics are processed using complex algorithms to understand what happened during the experiment, with results measured in millionths of a meter and trillionths of a second. “Even though we only conduct about five fusion experiments one day per month, we have been doing these experiments with detailed diagnostics for some time, so we have a very comprehensive set of data,” adds Deeney. AI augments laser-driven fusion research Researchers at LLE needed a means of detecting even the most nuanced points and patterns in the data, teaching computer simulations to yield more accurate predictions. Better forecasts will, in turn, refine fusion experiments and shape the next generation of fusion research and laser technology. Enter artificial intelligence, specifically the subset of the field known as machine learning that helps computer codes improve their predictions with experience. Beyond making predictions, machine learning has the ability to analyze data, infer relationships, and integrate this knowledge into its functionality. “We now have a wealth of experimental data that we can harness with machine learning to correct the simulations and guide real-time adjustments to experiments,” says [Riccardo Betti](https://www.lle.rochester.edu/about-the-laboratory-for-laser-energetics/organization/r-betti-bio/), LLE’s chief scientist and the Robert L. McCrory Professor in the Departments of [Mechanical Engineering](https://hajim.rochester.edu/me/) and of [Physics and Astronomy](https://sas.rochester.edu/pas/) at Rochester. The work of Betti and Kanan builds on recent breakthroughs in generative AI, a type of AI that can create data and other output, including text and video. The Rochester researchers have repurposed this class of algorithm to solve inverse physics problems and improve the accuracy of simulations. The DOE Fusion Energy Science (FES) program has even provided the team almost [$3 million](https://cs.rochester.edu/news-events/news/2023/2023-09-13_kanan-doe.html) for this work, which is expected to be completed in 2026. “Our goal is using generative AI to improve predictions of simulations and infer what the properties of the laser and target should be,” says Kanan. “We are using the power of AI to accelerate the future of fusion.” Cat photos > fusion experiments “Once we take note of the gap between the prediction of the simulation and the results of the experiment, we can apply machine learning to reconcile the two,” says [Varchas Gopalaswamy](https://www.hajim.rochester.edu/me/people/faculty/gopalaswamy-varchas/index.html) ’21 (PhD), a scientist in the theory division at LLE and an assistant professor of mechanical engineering at Rochester. “If one variable changes, do simulations respond in a certain way, and is that reflected in experiments? This tells us if our hypotheses are correct. Can we change variables or come up with mitigation strategies? As machine learning hones in on these patterns in data, we can come up with hypotheses to investigate different physics and design better experiments,” he says. “One challenge of ICF,” adds Gopalaswamy, “is that the amount of data with which we train AI is relatively limited. There’s a vast database of pictures of cats from which AI can learn, but there are far fewer fusion experiments. Closing the knowledge gap using empirical data is quite challenging in this scenario. That is why we need a robust method to synthesize theoretical understanding with experimental reality to help us make better decisions.” The work of Betti, Gopalaswamy, and other scientists at the LLE was recognized by the American Physical Society when the organization presented the team with its [John Dawson Award for Excellence in Plasma Physics Research](https://www.lle.rochester.edu/lle-john-dawson-award-plasma-physics/). The honor recognizes them “for pioneering the development of statistical modeling to predict, design, and analyze implosion experiments on the 30kJ OMEGA laser.” The AI and machine learning work at Rochester’s LLE furthers the discoveries of researchers like [Dustin Froula](https://www.lle.rochester.edu/about-the-laboratory-for-laser-energetics/organization/plasma-ultrafast-laser-science-engineering/dustin-froula-bio/), the division director of plasma and ultrafast laser science and engineering. Over his career, Froula and his team have developed techniques for measuring aspects of plasma, such as temperature, by scattering lasers from electrons in the plasma, known as Thomson scattering. They have even opened a new field of optics research based on the technique of “flying focus,” or controlling the intensity of lasers over long distances. “AI and machine learning are revolutionizing how we design our experiments,” says Froula. “We are hoping that AI can give us insight on how to build a better laser as we look toward [our next-generation facility](https://www.rochester.edu/newscenter/nsf-funds-multi-institutional-ep-opal-laser-design-568092/).” For example, Omega’s successor will likely shoot beams of many colors instead of just one. “Multiple colors across the spectrum of the laser beam will allow better propagation of plasma in the beam, and AI is helping us understand this complex interaction between the different colors in the laser and the plasma,” Froula explains. Besides the award to accelerate the use of AI and machine learning for fusion, based on the advances in direct-drive fusion, the DOE FES named LLE a [national research hub](https://www.rochester.edu/newscenter/inertial-fusion-energy-laser-plasma-interactions-567602/) to advance inertial fusion energy (IFE), a promising source of clean energy that relies on generating energy through fusing atoms of heavy hydrogen (deuterium and tritium). Forging an ‘ecosystem’ of intelligence Drawing on the cross-disciplinary research focus at the University of Rochester, LLE has recruited several students to advance AI and machine learning in fusion research. “Our aim is to motivate students to continue to train the machine learning that sharpens our diagnostic tools,” Gopalaswamy says. “We need AI experts, yes. But to interpret whether our models are doing the right things for the right reasons, we need physicists. We also need engineers, technologists, material scientists—a whole ecosystem.” Adds Gopalaswamy, “As the country turns toward clean energy and sustainable power, the application of AI to fusion research may emerge as a new sector of the workforce.” In the LLE, as in life, AI is not designed to replace or displace human brainpower. “AI is a tool we use to guide our research,” says [Valeri Goncharov](https://www.lle.rochester.edu/about-the-laboratory-for-laser-energetics/organization/valeri-n-goncharov-bio/), the theory division director at LLE and an assistant professor of research in the Department of Mechanical Engineering. “We can optimize AI tools to drive our performance, which is the benefit of a research facility, but our minds drive innovation. We cannot delegate the vast amount of physics fundamentals in ICF to AI. We need the human brain for that.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "University of Rochester’s Laboratory for Laser Energetics",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "US Department of Energy",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T00:29:25.143+03:00",
+    "updated": "2024-10-18T00:29:25.143+03:00"
+  },
+  {
+    "uuid": "b64af6b96be8166eb7abce389f935366b0a94f47",
+    "url": "https://www.diariodecadiz.es/sanfernando/san-fernando-peores-temporales-lluvia-ultimos-anos_0_2002700164.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Arturo Rivera",
+    "published": "2024-11-01T03:00:00Z",
+    "title": "San Fernando, tras uno de los peores temporales de lluvia de los últimos años",
+    "text": "San Fernando, tras uno de los peores temporales de lluvia de los últimos años Las precipitaciones registradas en La Isla durante octubre han llegado a los 228,1 litros por metro cuadrados El volumen de agua que dejó la DANA de este jueves se equipara en los registros al grave temporal de octubre de 2008 [La DANA mete el susto en el cuerpo a muchos barrios de San Fernando](/sanfernando/dana-mete-susto-cuerpo-barrios_0_2002699189.html) San Fernando/San Fernando sufrió este jueves [uno de los peores temporales](/sanfernando/lluvia-san-fernando-litros-metro-cuadrado_0_2002693108.html) de los últimos años, a tenor de los datos de precipitaciones recopilados por la estación meteorológica del [Real Instituto y Observatorio de la Armada](https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaobservatorio/prefLang-es/) (ROA). Las intensas lluvias, que desencadenaron numerosas inundaciones y múltiples incidencias en la localidad, llegaron en su momento más crítico a los 82,8 litros por metro cuadrado a la hora. Fue a primera hora de la mañana -a las 8.40- después de una noche en la que el temporal tampoco había dado tregua. Bastó para dejar anegada media ciudad, aunque las precipitaciones continuaron con fuerza durante las horas siguientes. A las diez y media de la mañana, el dato de la lluvia acumulada alcanzaba ya los 106,7 litros por metro cuadrado. Y el temporal, como siempre, se cebó en las barriadas y puntos situados en las zonas más bajas de la ciudad: San Marcos, Buen Pastor, La Almadraba, la barriada Bazán y el entorno del Puente del Gran Poder, la avenida Pery Junquera, la rotonda de Camposoto próxima al parque de bomberos... Allí los vecinos vivieron con incertidumbre y preocupación [momentos de gran tensión](/sanfernando/dana-mete-susto-cuerpo-barrios_0_2002699189.html) mientras se dedicaban a achicar agua de sus viviendas. Para hacerse una idea del impacto del temporal basta con comparar el dato con el que se registró hace tan solo un par de semanas, el pasado 12 de octubre, cuando las intensas lluvias dejaron también numerosas inundaciones en la localidad. Ese día, en el momento de mayor intensidad, las precipitaciones llegaron a los 48,9 litros por metro cuadrado (ayer fueron 82,8) y el acumulado rondó los 50 litros cuando este jueves se superaron los 100. La diferencia, no obstante, estriba en que el momento más crítico de esta última DANA que ha azotado a la ciudad coincidió con la marea baja. De no ser así, como ocurrió el pasado 12 de octubre, las consecuencias habrían sido mucho más graves. Porque unas lluvias de tal intensidad no se recuerdan desde hace por lo menos 15 años. De hecho, este jueves se comparaba con el durísimo temporal que azotó San Fernando en octubre de 2008, que ocasionó numerosos daños en la zona de San Marcos y Buen Pastor al afectar a no pocas viviendas, en las que entró el agua afectando a muebles y enseres. Esa vez -tirando de hemeroteca- se hablaba de lluvias que llegaron a los 123 litros por metro cuadrado en un par de horas, lo que ocasionó numerosos destrozos. Y en el punto más crítico se apuntaba a unos 84 litros a la hora superando el dato del pasado jueves. Las intensas precipitaciones, que se dan especialmente en otoño, siguen cebándose en las mismas barriadas y puntos críticos de la localidad, que son los que sufren en primera línea las consecuencias de los temporales en cuanto que se satura la red al caer más agua de la que puede soportar, situación que se agrava con la pleamar, que impide evacuar por las salidas de pluviales. Octubre, precisamente, finaliza con un dato muy destacado: un total de 228,1 litros por metro cuadrado de agua acumulado en los últimos 30 días. También te puede interesar Lo último",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaobservatorio/prefLang-es/",
+      "https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaobservatorio/prefLang-es",
+      "https://www.armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaobservatorio/prefLang-es/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Real Instituto y Observatorio de la Armada",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "La Isla",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T07:27:18.894+02:00",
+    "updated": "2024-11-01T18:02:33.048+02:00"
+  },
+  {
+    "uuid": "30e243e49374882e9882892a2766a4fb64a91272",
+    "url": "https://hannity.com/media-room/word-salad-city-even-cnn-blasts-kamalas-town-hall-didnt-close-the-deal-watch",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hannity Staff",
+    "published": "2024-10-24T16:39:00Z",
+    "title": "‘WORD SALAD CITY’: Even CNN Blasts Kamala’s Town Hall, ‘Didn’t Close The Deal’ [WATCH]",
+    "text": "It may have been the worst town hall for any candidate ever…\nVice President Kamala Harris held a town hall event in critical battleground Pennsylvania on Wednesday night — but Harris failed to deliver any substantive answers. Even the talking heads over at CNN said Kamala served up word salad and failed to define her policies.\n“What I’m hearing from people who I’ve been talking to … if her goal was to close the deal, they’re not sure she did that,” CNN anchor Dana Bash said immediately after the event outside Philadelphia.\n“Having said that, any time that she can be in front of an audience and interacting with voters is a win as far as her campaign goes — and they are very happy about that.”\n“The things that would concern me is when she doesn’t want to answer a question, her habit is to kind of go to Word Salad City,” said former Obama strategist and CNN contributor David Axelrod. “And she did that on a couple of answers.”\nAxelrod continued: “One was on Israel — Anderson [Cooper] asked a direct question, ‘Would you be stronger on Israel than Trump?’ And there was a seven-minute answer, but none of that related to the question he was asking.”\n“She would acknowledge no concerns about any of the administration’s policies. And that’s a mistake,” he said. “Sometimes you have to concede things, and she didn’t concede much.”\nWatch critical clips from CNN below:\nNEW: CNN’s Scott Jennings says Kamala Harris is a “double-threat” because she can’t think on her feet and can’t answer the expected questions.\nCNN has railed on Harris after her town hall event.\nHere are the top reactions:\n6. Axelrod: She is word salad city.\n5. Jennings:… pic.twitter.com/Mdrr46uzbz\n— Collin Rugg (@CollinRugg) October 24, 2024\nKamala’s night was filled with disastrous non-answers and obvious pivots, like this one on the border:\nJUST IN: Kamala Harris tries making fun of Trump's border wall before getting fact-checked by CNN's Anderson Cooper.\nHarris started stuttering after Cooper asked her if she supports a border wall since she is \"pro-border security\" now.\nCooper: You called Trump's wall a stupid… pic.twitter.com/5R4o10mAhX\n— Collin Rugg (@CollinRugg) October 24, 2024\nMore over at The New York Post:\nCNN panel roasts Kamala Harris for failing to set out her vision after Pa. town hall: ‘Word Salad City’ https://t.co/kj7oGqlDSr pic.twitter.com/R6mjKyKs0x\n— New York Post (@nypost) October 24, 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/CollinRugg/status/1849466189912645837?ref_src=twsrc%5Etfw",
+      "https://t.co/5R4o10mAhX",
+      "https://t.co/kj7oGqlDSr",
+      "https://twitter.com/CollinRugg/status/1849264308972122512?ref_src=twsrc%5Etfw",
+      "https://t.co/R6mjKyKs0x",
+      "https://t.co/Mdrr46uzbz",
+      "https://twitter.com/nypost/status/1849307098472923179?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/CollinRugg/status/1849264308972122512?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/nypost/status/1849307098472923179?ref_src=twsrc%5Etfw",
+      "https://twitter.com/CollinRugg/status/1849264308972122512",
+      "https://twitter.com/nypost/status/1849307098472923179",
+      "https://www.twitter.com/CollinRugg/status/1849466189912645837?ref_src=twsrc%5Etfw",
+      "https://www.t.co/R6mjKyKs0x",
+      "https://www.t.co/5R4o10mAhX",
+      "https://twitter.com/CollinRugg/status/1849466189912645837",
+      "https://www.t.co/kj7oGqlDSr",
+      "https://www.t.co/Mdrr46uzbz"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "30e243e49374882e9882892a2766a4fb64a91272",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:36:09.573+03:00",
+    "updated": "2024-10-25T00:36:09.573+03:00"
+  },
+  {
+    "uuid": "d75233a5f2bb83189925730c3e6ec6f58155e5d1",
+    "url": "https://www.ilfattonisseno.it/2025/01/weekend-con-piu-sole-poi-arriva-il-ciclone-della-befana",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AdnKronos",
+    "published": "2025-01-03T08:39:00Z",
+    "title": "Weekend con più sole, poi arriva il Ciclone della Befana",
+    "text": "(Adnkronos) – Arriva oggi, venerdì 3 gennaio 2025, la prima ondata di maltempo sull’Italia. Correnti nord atlantiche con piogge e perturbazioni sono in transito sul nostro Paese, portando pioggia, neve e vento forte. Antonio Sanò, fondatore del sito www.iLMeteo.it, conferma il passaggio in queste ore della prima perturbazione dell’anno, diretta dalla Romagna verso il Sud Italia. Nelle prossime ore questo fronte, collegato ad una vasta area di bassa pressione polare centrata sul Mar Baltico, porterà precipitazioni tra Romagna, Marche, Toscana e Lazio per poi spingersi verso le restanti regioni del Centro e tra Campania e Basilicata.\nNevicherà sull’Appennino a quote medie, fino ai 900-1100 metri, regalando di nuovo un paesaggio pienamente invernale ai comprensori sciistici della dorsale. Altra neve è attesa anche in Valle d’Aosta e sui rilievi alpini di confine.\nI venti saranno in rinforzo di Libeccio su buona parte del Centro-Sud, solo sull’Alto Adriatico proverranno da Nord-Est. In sintesi, avremo un venerdì piovoso su metà del nostro Paese e a tratti ventoso. Dalla sera il peggioramento investirà l’estremo Sud con rovesci sparsi, mentre migliorerà gradualmente altrove con la rotazione dei venti da Maestrale. Il weekend vedrà dunque l’allontanamento di questa prima perturbazione del 2025, ma contemporaneamente si avvicinerà la seconda, pronta ad entrare in modo più esteso da domenica sera.\nLa giornata di sabato 4 gennaio sarà infatti all’insegna del sole, salvo nubi in Val Padana e localmente al Nord-Ovest; fino al mattino avremo ancora residui addensamenti all’estremo Sud, ma tutto sommato la giornata sarà buona.\nLa prima domenica del 2025 sarà nuvolosa fin dal mattino al Nord e sulla Toscana con qualche piovasco tra Liguria e Versilia. Durante la giornata avremo la possibilità di pioviggine anche in Pianura Padana, specie settore occidentale, mentre sul resto del Paese ci saranno ancora ampie schiarite, anzi su buona parte del Centro-Sud il tempo sarà discreto e prevalentemente soleggiato.\nDalla sera, però, come detto, ci colpirà la seconda perturbazione dell’anno, il Ciclone della Befana: ad essere precisi, questo ciclone si approfondirà, in modo deciso, molto lontano da noi; è previsto transitare sul Canale della Manica con un minimo di pressione di circa 978 hPa (come un uragano categoria 1) tra Londra e Parigi. Nonostante l’elevata distanza dall’Italia, farà sentire i suoi effetti fino a noi con un rinforzo deciso del vento e qualche pioggia. Nel dettaglio l’Epifania in Italia sarà dunque ventosa, con correnti tese di Scirocco soprattutto sui nostri mari e lungo le coste tirreniche; ci saranno delle precipitazioni al Nord con neve sulle Alpi oltre i 1000 metri (qualche fiocco a bassa quota sul Piemonte meridionale) e piogge sparse sulle regioni centrali tirreniche. La Befana dovrà dunque stare attenta alle folate di vento con l’arrivo della seconda perturbazione del 2025, un anno che inizia in modo bizzarro dal punto di vista meteo.\nNEL DETTAGLIO\nVenerdì 3. Al Nord: piogge in Emilia Romagna. Al Centro: peggiora con piogge sparse. Al Sud: peggiora in Campania con piogge.\nSabato 4. Al Nord: possibili nebbie o nubi basse in pianura, altrimenti sole. Al Centro: nubi al mattino poi sole. Al Sud: ultimi rovesci su Calabria e Sicilia.\nDomenica 5. Al Nord: piogge in Liguria, nubi sparse altrove. Al Centro: nubi e piovaschi in Toscana, più sole altrove. Al Sud: bel tempo.\nTendenza: Epifania con pioggia e neve a quote medie al Nord; venti forti ovunque. —cronacawebinfo@adnkronos.com (Web Info)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "topics": [
+      "Weather->weather forecast"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": " Antonio San",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Adnkronos",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": " Valle d’Aost",
+          "sentiment": "none"
+        },
+        {
+          "name": " Mar Baltic",
+          "sentiment": "none"
+        },
+        {
+          "name": " Basilicat",
+          "sentiment": "none"
+        },
+        {
+          "name": " Sud Itali",
+          "sentiment": "none"
+        },
+        {
+          "name": " Campani",
+          "sentiment": "none"
+        },
+        {
+          "name": " Toscan",
+          "sentiment": "none"
+        },
+        {
+          "name": " Romagn",
+          "sentiment": "none"
+        },
+        {
+          "name": " March",
+          "sentiment": "none"
+        },
+        {
+          "name": " Lazi",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T11:56:25.900+02:00",
+    "updated": "2025-01-03T11:56:25.900+02:00"
+  },
+  {
+    "uuid": "d6d8dfdc45724ffacb8deb32a6bcf48f28c28156",
+    "url": "https://calgary.ctvnews.ca/hot-dry-weather-to-start-the-weekend-adding-to-wildfire-risk-in-southern-alberta-1.6986923",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jodi Hughes",
+    "published": "2024-08-02T02:33:00Z",
+    "title": "Hot, dry weather to start the weekend, adding to wildfire risk in southern Alberta",
+    "text": "[Skip to main content](#main)\nHot, dry weather to start the weekend, adding to wildfire risk in southern Alberta\nHeat warnings continue across the southern portion of Alberta, Saskatchewan and British Columbia, with both daytime high and low temperatures expected to exceed normal thresholds.\nEnvironment and Climate Change Canada (ECCC) will issue a heat warning for most of Alberta when daily maximum temperatures are expected to reach at least 29 C along with daily minimum temperatures of at least 14 C for at least two consecutive days.\nFor details on heat warning threshold criteria from ECCC\nclick here.\nHeat warnings (pink) and air quality advisories (grey) issued by Environment and Climate Change Canada on Aug. 1.\nThe source of this heat is a ridge of high pressure that extends to the southern U.S. but unlike the stationary ridge from July, this ridge will track to the east by the middle of the weekend.\nAs the ridge does move out, convective weather (thunderstorms) are possible in central and southern Alberta, which is less than ideal with an elevated wildfire risk.\nAs of 6 p.m. on Thursday, all of southern Alberta and southern Saskatchewan were under an \"extreme\" risk according to the Fire Danger Relative Index.\nThis is an evaluation of a number of potential risks but can be summarized in three parts: How likely it is for a wildfire to start, how difficult it would be to extinguish a wildfire if one does start and how much damage could be done.\nSince this is a relative index, it can change considerably from day to day due to weather conditions (and other factors).\nThe forecast outlook for Friday shows a smaller region in southern Alberta under an extreme risk with an increased risk (to \"high\" for most of Alberta).\nIn Calgary, daytime highs will drop to below-seasonal temperatures by Monday, and rain is possible from Sunday until Tuesday.\nCalgary Top Stories\nCTVNews.ca Top Stories\nConvicted B.C. double murderer given full parole\nA man convicted in the notorious double murder of two women in Tsawwassen in 1990 when he was a teenager has been granted full parole.\nB.C. preparing for 'worst-case scenario' if landslide-caused dam in Chilcotin River gives way\nThe risk to communities along the Fraser and Chilcotin rivers if a dam created by a massive landslide is breached is uncertain but has the potential to be 'significant,' according to officials.\nCostco's 'Apocalypse Dinner Kit' has a shelf life of 25 years. What is it?\nCanadians looking to stock up on food for an emergency can order ready-made tubs from Costco online.\n1 dead, several injured in Alberta tent collapse\nOne person was killed and others were hurt when an event tent collapsed on hundreds of people north Edmonton on Wednesday.\nB.C. man spots bobcat while on his way to Starbucks\nA few days after moving into his North Vancouver neighborhood Paul Wiens was enjoying one of the perks – cutting through the scenic BCMC trail on his way to grab a coffee at Starbucks – when he had an unexpected but \"magical\" encounter.\nLiberal MP says she regrets 'distress' caused to witnesses who left meeting in tears\nLiberal MP Anita Vandenbeld fell short of an apology after instigating a fracas on Wednesday that led two witnesses testifying about violence against women to storm out of a parliamentary committee hearing.\nCanadian-born captive and American journalist freed in prisoner swap with Russia\nCanadian-born Paul Whelan and an honorary Canadian citizen were set free Thursday as the United States and Russia completed their largest prisoner swap in post-Soviet history.\nSummer McIntosh wins gold in 200-metre butterfly, sets Olympic record\nCanadian swimmer Summer McIntosh won her second Olympic gold medal in Paris with a victory in the women's 200-metre butterfly.\nItalian Air Force performs flyover in Toronto\nThe red, white and green of Italy’s Air Force graced the skies above Toronto for the first time in nearly 40 years during a flyover Thursday.\nShopping Trends\nThe Shopping Trends team is independent of the journalists at CTV News. We may earn a commission when you use our links to shop.\nRead about us.\nEdmonton\n-\nHighway 16 through Jasper open to commercial traffic, seniors to return Friday\nHighway 16, the major east-west route in northern Alberta and B.C. through Jasper National Park, partially reopened Thursday morning, even as wildfire activity was expected to increase.\n-\n1 dead, several injured in Alberta tent collapse\nOne person was killed and others were hurt when an event tent collapsed on hundreds of people north Edmonton on Wednesday.\n-\nMan charged in St. Albert teen murder previously had statutory release revoked twice by parole board\nThe man charged with the first-degree murder of a teenaged girl in St. Albert last month was put back on parole after violating statutory release conditions two years ago following his conviction in 2017 for a 2016 aggravated assault in which he stabbed a sleeping husband and pregnant wife.\nLethbridge\n-\nBusinesses in Lethbridge seeing boost in business as heat warning remains in effect\nWith a heat warning re-issued for Lethbridge and parts of southern Alberta, businesses that depend on the sunshine are taking full-advantage of it.\n-\nDawgs topple Bulls 9-7 in opener of season’s final home stand\nJarrett Burney extended his hitting streak to nine games Tuesday, leading the Okotoks Dawgs to a 9-7 victory over Lethbridge Tuesday night at Seaman Stadium.\n-\nMissing Lethbridge 74-year-old located safe\nLethbridge police have located a missing woman.\nVancouver\n-\nB.C. man takes public transit all the way to Mexico\nWilliam Hui did not cheat. He set his own rules and then planned his route carefully, determined to make it all the way to Tijuana without flying or using Greyhound and Amtrak.\n-\n‘A bit of a gong show’: Former Vancouver mayor weighs in on integrity commissioner suspension\nVancouver’s former mayor is criticizing his successor and the ABC-majority council for deciding to launch a third-party review of an oversight body.\n-\nCouple speaks out after dog attack in Stanley Park off-leash area\nA West End couple says they want the owner of the dog that attacked theirs to do the right thing and help cover the cost of an $1,100 bill from an emergency animal hospital.\nVancouver Island\n-\nB.C. preparing for 'worst-case scenario' if landslide-caused dam in Chilcotin River gives way\nThe risk to communities along the Fraser and Chilcotin rivers if a dam created by a massive landslide is breached is uncertain but has the potential to be 'significant,' according to officials.\n-\nB.C. anti-gang probe nets drug charges against 8 suspects in Metro Vancouver\nBritish Columbia's anti-organized crime task force says five men and three women in Metro Vancouver are facing a raft of drug-trafficking charges after a months-long investigation focusing on the production of fentanyl and MDMA.\n-\nConvicted B.C. double murderer given full parole\nA man convicted in the notorious double murder of two women in Tsawwassen in 1990 when he was a teenager has been granted full parole.\nSaskatoon\n-\nSaskatoon councillors eliminate minimum parking requirements\nSaskatoon city council unanimously voted to remove minimum on-site parking requirements for new developments at a public hearing on Wednesday.\n-\nBroadway Roasteries closes namesake location in Saskatoon\nThe beloved Broadway Roasteries coffee shop on Broadway Avenue is closing its doors after 31 years, leaving the community it served feeling a little more tired and nostalgic.\n-\nSaskatoon's mayor says Saskatchewan is not ready for drug decriminalization\nSaskatoon mayor Charlie Clark says that, right now, he doesn’t think drug decriminalization is the way to tackle the addiction crisis in Saskatchewan.\nRegina\n-\nRegina Beach 'not suitable for swimming' due to E. coli outbreak\nSwimmers are being advised to stay out of the water at Regina Beach due to high levels of E. coli.\n-\nManitoba RCMP arrest ex-priest in Regina for historic sexual assault of 11-year-old girl\nOfficers from the RCMP detachment in Russell, Manitoba arrested an 81-year-old former priest in Regina for a charge of sexual assault dating back to 1970.\n-\nThousands flock to the 2024 Queen City Ex\nThe 2024 edition of the Queen City Ex (QCX) is now underway with a few notable additions.\nToronto\n-\nU-Haul truck crashes into Rexdale home, 2 people injured: police\nThe driver of a U-Haul truck crashed into a home in Rexdale Thursday evening and police say the structure has collapsed.\n-\nMurder charge laid in death of missing Markham, Ont. woman\nYork Regional Police say they have charged a suspect with second-degree murder after the remains of a missing Markham woman were found 90 minutes north of the city.\n-\nSummer McIntosh wins gold in 200-metre butterfly, sets Olympic record\nCanadian swimmer Summer McIntosh won her second Olympic gold medal in Paris with a victory in the women's 200-metre butterfly.\nMontreal\n-\nPruner electrocuted while working on tree Montreal police say\nMontreal police (SPVM) have confirmed that a pruner in his 20s has died after being electrocuted while working on a tree in Montreal's Saint Laurent borough.\n-\nAn accident between an SUV and a motorbike injures two people in Farnham, Eastern Townships\nA collision between a sport utility vehicle (SUV) and a motorbike occurred on Thursday in Farnham, at the junction of route 104 and Saint-Grégoire Street, in the Eastern Townships.\n-\nMontreal's pride festival kicks off\nFierté Montréal's festival has officially started. The event, which runs until August 11th, includes three outdoor event hubs where more than 200 artists will perform.\nAtlantic\n-\nCouple charged after dog found in distress in Yarmouth, N.S.\nA Nova Scotia couple is facing animal-related charges after a person found a dog in need of medical care in the Yarmouth area earlier this summer.\n-\nWestern portion of Moncton’s Vision Lands pushing forward\nThe City of Moncton is looking to move forward with developing at least a portion of Vision Lands – a very large area of dense trees and unused space situated in Moncton’s north end.\n-\nAtlantic Canadian division deploys troops to Latvia\nThe Canadian military deployed members of the 5th Canadian Division to Latvia as part of Operation Reassurance on Thursday.\nWinnipeg\n-\nEx-priest accused of sexually assaulting young girl in 1970s: Manitoba RCMP\nManitoba RCMP has arrested an 81-year-old retired priest living in Regina in connection to a historical sexual assault of a young girl dating back to the 1970s.\n-\nManitoba's police watchdog investigating death following attempted traffic stop\nManitoba's police watchdog is investigating the death of a 26-year-old woman following an attempted traffic stop Wednesday afternoon near the Perimeter Highway.\n-\nSecond alleged victim of former Winnipeg hockey coach files lawsuit against estate\nA second alleged victim of a former Winnipeg hockey coach and lawyer is suing his estate for physical and sexual assaults.\nOttawa\n-\nBylaw officers discover a raccoon living in an Ottawa apartment\nBylaw Services is reminding residents it's illegal to keep raccoons as pets, after discovering a raccoon had been living in an Ottawa apartment its whole life.\n-\nThis Ottawa photo radar camera issued 10,000 speeding tickets in one month\nNewly released statistics show the automated speed enforcement camera on King Edward Avenue, between Cathcart Street and St. Patrick Street, issued 10,592 tickets in June.\n-\nGatineau police seek suspect in hit-and-run that injured elderly pedestrian\nGatineau police are looking for the driver of a vehicle in connection with a hit-and-run crash earlier this week.\nNorthern Ontario\n-\nConservative leader speaks to packed house in northern Ontario\nFederal Conservative Leader Pierre Poilievre has been touring northern Ontario this week, including a rally Wednesday night in Kirkland Lake in front of a packed crowd\n-\nCostco's 'Apocalypse Dinner Kit' has a shelf life of 25 years. What is it?\nCanadians looking to stock up on food for an emergency can order ready-made tubs from Costco online.\n-\nCharity that helps kids in Sudbury victimized by theft\nThe charity Northern Ontario Families of Children with Cancer was the victim of a brazen break-and-enter Wednesday night in Sudbury.\nBarrie\n-\nHighway 400 lanes reopened after potential threat\nA police investigation snarled traffic on Highway 400 in Barrie.\n-\n15-year-old faces weapons charges after fight with Barrie resident\nA 15-year-old was taken into custody after dropping a firearm during a fight with a Barrie resident.\n-\nWelcoming RVH patients to Barn Burner hockey game\nWith just days to go until the Barn Burner hockey game, free invitations have been handed to many people facing their darkest days.\nKitchener\n-\nConestoga college reports nearly $252 million surplus\nConestoga College has reported a surplus of $251,646,838 this year and, according to financial statements, the Kitchener, Ont. school more than doubled last year’s surplus.\n-\nDramatic takedown in Kitchener caught on camera\nWaterloo Regional Police say a high-risk arrest on Monday is linked to lengthy drug investigation in Kitchener.\n-\nYoung teens reported missing to police\nWaterloo Regional Police are asking for the public's help to find two missing teens.\nLondon\n-\nBreanna Broadfoot’s family disappointed political bickering derailed federal meeting on intimate partner violence\nBarely two weeks after his 17-year-old daughter Breanna Broadfoot was killed in London by an act of intimate partner violence (IPV), Brett Broadfoot had hoped a parliamentary committee meeting would initiate steps to protect victims by keeping offenders behind bars.\n-\nEmergency responders suspend search for child in the Thames River, to resume Friday morning\nCrews were in the water searching for the child for hours, but suspended their search late Thursday evening. The search will resume Friday morning.\n-\nThousands of young athletes gather in London to compete in the Ontario Summer Games\nA packed riser at Western’s Alumni Stadium on Thursday saw an estimated 5,000 people gathered to see 3,500 young athletes revel in their moment of glory, and to to celebrate their opening ceremonies on Thursday night.\nWindsor\n-\n'You can’t have both': Economist believes Canada must choose between protecting the auto sector or the environment\nCanadians have until midnight Thursday to submit their thoughts on whether or not Canada should impose import tariffs on electric vehicles made in China.\n-\nLaSalle’s Kylie Masse to compete for gold\nLaSalle’s Kylie Masse has another chance to go for gold after qualifying in Thursday afternoon’s 200-metre Backstroke semi-final.\n-\nWindsor-born OHL player Sebastien Gervais brings Memorial Cup home\nWindsor-born OHLer Sebastien Gervais brought the Memorial Cup to town Thursday after winning it with the Saginaw Spirit this past season.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.canada.ca/en/environment-climate-change/services/types-weather-forecasts-use/public/criteria-alerts.html#heat",
+      "https://canada.ca/en/environment-climate-change/services/types-weather-forecasts-use/public/criteria-alerts.html#heat"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "environment and climate change canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "eccc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "alberta",
+          "sentiment": "none"
+        },
+        {
+          "name": "british columbia",
+          "sentiment": "none"
+        },
+        {
+          "name": "saskatchewan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-02T06:39:33.289+03:00",
+    "updated": "2024-08-02T06:39:33.289+03:00"
+  }
+]

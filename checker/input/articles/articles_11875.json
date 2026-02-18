@@ -1,0 +1,344 @@
+[
+  {
+    "uuid": "a2652927a6584c84ebf033a56e4b3491c502707e",
+    "url": "https://timesofindia.indiatimes.com/india/rahul-seated-in-2nd-last-row-congress-says-pettiness-exposed/articleshow/112552373.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TNN",
+    "published": "2024-08-15T20:45:00Z",
+    "title": "Rahul Gandhi seated in 2nd-last row, Congress says pettiness exposed | India News - Times of India",
+    "text": "NEW DELHI: Congress lashed out at the govt for seating Rahul Gandhi in the second last row \"contrary to the protocol\" that leaders of opposition should be in the front row even as Centre refuted the charge and said the seating was decided as per the table of precedence and in order to honour the Olympians.AICC spokesperson Supriya Shrinate said the seating did not matter to Rahul, but it exposed the pettiness of BJP. \"It is fruitless to expect largeheartedness from petty minds,\" she said. Congress also called the omission of Jawaharlal Nehru from the list of iconic personalities of freedom struggle in the President's I-day speech as a \"continuing campaign to eliminate him from our history\".The defence ministry, on being contacted by TOI, said seating was decided as per the table of precedence and protocol. \"This time, it was decided to honour medal winners in the recent Olympics. The Congress MP (Gandhi) as well as some Union ministers had to be shifted back as the seats were allocated to Olympic medal winners,\" an official said.Congress general secretary K C Venugopal said it was time for Modi \"to wake up to the new reality post June 4... It's amazing how uncomfortable the truth can make some people - so much so that they'd rather rearrange the seating than face it.\" \"This wasn't an insult to the post of LoP or Rahul Gandhi, it was an insult to people of India, whose voice Rahul represents in Parliament,\" he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "rahul gandhi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "rahul",
+          "sentiment": "none"
+        },
+        {
+          "name": "gandhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "k c venugopal",
+          "sentiment": "none"
+        },
+        {
+          "name": "supriya shrinate",
+          "sentiment": "none"
+        },
+        {
+          "name": "jawaharlal nehru",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "congress",
+          "sentiment": "negative"
+        },
+        {
+          "name": "| india news - times of india new delhi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "bjp",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T00:30:47.630+03:00",
+    "updated": "2024-08-16T01:25:19.527+03:00"
+  },
+  {
+    "uuid": "bd3f49d8366117a0f0f98a9b5efbf2cf6014aa2a",
+    "url": "https://towardsdatascience.com/how-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sheila Teo",
+    "published": "2023-12-29T00:29:00Z",
+    "title": "How I Won Singapore’s GPT-4 Prompt Engineering Competition",
+    "text": "How I Won Singapore’s GPT-4 Prompt Engineering Competition A deep dive into the strategies I learned for harnessing the power of Large Language Models (LLMs) Last month, I had the incredible honor of winning Singapore’s first ever GPT-4 Prompt Engineering competition, which brought together over 400 prompt-ly brilliant participants, organised by the Government Technology Agency of Singapore (GovTech). Prompt engineering is a discipline that blends both art and science — it is as much technical understanding as it is of creativity and strategic thinking. This is a compilation of the prompt engineering strategies I learned along the way, that push any LLM to do exactly what you need and more! Author’s Note: In writing this, I sought to steer away from the traditional prompt engineering techniques that have already been extensively discussed and documented online. Instead, my aim is to bring fresh insights that I learned through experimentation, and a different, personal take in understanding and approaching certain techniques. I hope you’ll enjoy reading this piece! This article covers the following, with 🔵 referring to beginner-friendly prompting techniques while 🔴 refers to advanced strategies: 1. [🔵] [Structuring prompts using the CO-STAR framework](#10b2) 2. [🔵] [Sectioning prompts using delimiters](#8f6a) 3. [🔴] [Creating system prompts with LLM guardrails](#1cfa) 4. [🔴] [Analyzing datasets using only LLMs, without plugins or code](#183c) — With a hands-on example of analyzing a real-world Kaggle dataset using GPT-4 1. [🔵] Structuring Prompts using the CO-STAR framework Effective prompt structuring is crucial for eliciting optimal responses from an LLM. The CO-STAR framework, a brainchild of GovTech Singapore’s Data Science & AI team, is a handy template for structuring prompts. It considers all the key aspects that influence the effectiveness and relevance of an LLM’s response, leading to more optimal responses.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "government technology agency of singapore",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "singapore",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T03:03:42.508+02:00",
+    "updated": "2024-01-26T00:08:34.102+02:00"
+  },
+  {
+    "uuid": "c2be61c89d45adbbbdb055b72eb30102894a870a",
+    "url": "https://bnnbreaking.com/transportation/gurgaons-southern-peripheral-road-a-new-lease-of-life",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nitish Verma",
+    "published": "2024-02-16T01:14:00Z",
+    "title": "Gurgaon's Southern Peripheral Road: A New Lease of Life",
+    "text": "In the heart of Gurgaon, a city renowned for its rapid urban development and gleaming corporate hubs, lies a stretch of road that tells a different story. The Southern Peripheral Road (SPR), a vital corridor meant to ease the city's notorious traffic congestion, has instead become a symbol of neglect. For years, motorists navigating the 7km expanse between Ghata Chowk and Vatika Chowk have been met with a treacherous obstacle course of potholes and broken patches. However, a recent announcement by the Gurgaon Metropolitan Development Authority (GMDA) has sparked a glimmer of hope among the city's weary commuters.\nA Long-Overdue Intervention\nAfter enduring prolonged periods of inaction, which saw disputes between the National Highways Authority of India (NHAI) and GMDA delay necessary repairs, a decisive step has been taken. The GMDA has committed to restoring the SPR with an investment of Rs 7.4 crore. The project, set to span six months, aims to not only overlay the main carriageway but also repair junctions, desilt, and restore drains. This initiative marks a significant shift from the earlier, more ambitious plans that included the construction of eight flyovers and the widening of the main carriageway to six lanes—a vision scrapped by the chief minister in favor of making the road motorable in the immediate term.\nThe Community's Response\nThe deteriorating condition of the SPR has long been a source of frustration for Gurgaon's residents and daily commuters. The traffic snarls and the risk of accidents have made every trip a test of patience and resilience. With the announcement of the repair work, there is a collective sigh of relief. Community members have been vocal in their criticism of the delayed maintenance, highlighting how the road's state has adversely affected their daily lives. The prospect of an elevated structure between Vatika Chowk and NH-8, to be explored in the future, offers a long-term solution to the area's traffic woes. Yet, for now, the focus remains squarely on making the SPR safe and navigable.\nLooking Ahead\nWhile the initiation of repair work on the SPR represents a positive development, it also serves as a reminder of the challenges that lie in balancing urban expansion with infrastructure maintenance. Gurgaon's growth story is not unique; it mirrors the broader narrative of rapid development across India's urban centers. As the city looks towards future projects to alleviate its traffic congestion, the lessons learned from the SPR saga will undoubtedly influence how such initiatives are approached. Efforts by various organizations and officials to address the pressing issue of road maintenance underscore the importance of collaborative action in urban governance. As the repair work commences, the people of Gurgaon watch with cautious optimism, hopeful that the city's arteries will flow smoothly once more.\nIn the end, the restoration of the Southern Peripheral Road is more than just a construction project; it is a step towards reclaiming the quality of life for Gurgaon's residents. The city, known for its skyscrapers and bustling markets, relies on its roads to connect people, enable commerce, and foster community. The commitment to making the SPR motorable again is a testament to the resilience of Gurgaon's citizens and the authorities' responsiveness to their needs. As the city continues to evolve, the balance between development and maintenance will remain a key focus, ensuring that Gurgaon's roads pave the way to a brighter, more accessible future.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Human Interest",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ghata chowk",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "gmda",
+          "sentiment": "none"
+        },
+        {
+          "name": "nhai",
+          "sentiment": "none"
+        },
+        {
+          "name": "national highways authority of india",
+          "sentiment": "none"
+        },
+        {
+          "name": "gurgaon metropolitan development authority",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gurgaon",
+          "sentiment": "none"
+        },
+        {
+          "name": "vatika chowk",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-16T05:17:39.177+02:00",
+    "updated": "2024-02-16T05:17:39.177+02:00"
+  },
+  {
+    "uuid": "8a8730159a6e22ec2aede9771c15e606dde0cf33",
+    "url": "https://cryptobriefing.com/crystal-blockchain-demand-surge",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Diego Almada Lopez",
+    "published": "2024-04-11T23:54:00Z",
+    "title": "Bitcoin ETF approvals in the US boost demand for Crystal Blockchain tools",
+    "text": "Bitcoin ETF approvals in the US boost demand for Crystal Blockchain tools\nAs more traditional financial companies enter the space, the need for robust compliance solutions has become increasingly important.\nShare this article\nThe recent approval of Bitcoin ETFs in the US has brought both excitement and challenges, as bad actors seek to exploit the hype for illicit gains. Marina Khaustova, COO of Crystal, a blockchain analytics firm, shared her insights into the evolving landscape in an interview with Crypto Briefing.\nThe approval of Bitcoin ETFs further accelerated demand for Crystal’s products, particularly from traditional companies seeking to ensure compliance as they enter the crypto space.\n“And there’s no way for any traditional financial company right now to explain to their board of directors that we should not take digital currencies, because probably it’s a scam. Not anymore,” said Marina in a interview at Paris Blockchain Week.\nMarina noted that while there was a pause in activity among American customers during the crypto winter, demand from the APAC region remained strong throughout.\nCrystal, which has been serving customers for the past five years, provides analysis software to help companies understand and mitigate risks associated with operating in the digital asset space.\n“Every builder, every company operating in digital asset space has to be concerned about how protected they are from internal risks, how well the solution is built, how well the security is established, and also, like, who they interact with,” Marina explained.\nCrystal has seen a steady growth in demand from APAC customers, and with the appointment of former Ripple Director, Navin Gupta as CEO, they are now better equipped to support clients in the Middle East and North Africa (MENA) region as well.\n“Having Navin Gupta joining us brings incredible experience to us because we are transforming from a startup to scale up and we’re serving now as an enterprise,” Marina noted. “I’m super grateful that we’re having right now such experience, such a senior person as Navin with us.”\nWhen asked about the best jurisdictions for crypto businesses in terms of regulations, Marina highlighted the challenge of crypto being a cross-border phenomenon. Initiatives like the Markets in Crypto Assets (MiCA) regulation in Europe are seen as positive steps towards simplifying coordination within territories.\n“Introducing MiCA as a general anti-money laundering effort is very good because it just simplifies all this coordination within a big territory comprising many countries together,” Marina explained.\nLooking ahead, Marina believes that while a global standard for crypto regulation is likely to emerge, there will still be regional specifics to navigate, similar to the varied approaches to online gambling regulation worldwide. She emphasized the importance of blockchain analytics firms collaborating to share information about illicit actors and promote transparency in the space.\nRomance scams, also known as “pig butchering,” have emerged as a significant concern in recent years. These emotionally manipulative schemes often target vulnerable individuals and are powered by human trafficking operations in countries like Myanmar and Cambodia.\n“It’s really bad. The worst part of that is that these romance scams are powered by compounds built in Myanmar, in Cambodia, where people are literally living, like, in prisons, and they’re forced to do this job to scam people. So it actually involves a lot of human trafficking at the same time,” Marina revealed.\nFor those interested in exploring the world of blockchain analytics, Crystal offers a free version of their software called\nCrystal Lite, which is specifically designed for Bitcoin analysis. This tool is popular among journalists and young researchers, and Crystal also provides their solution to university researchers at no cost.\nTo stay informed about the latest developments in the blockchain analytics space, readers can follow Nick Smart, Crystal’s Director of Blockchain Intelligence, on\nShare this article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://lite.crystalintelligence.com/",
+      "https://lite.crystalintelligence.com",
+      "https://www.lite.crystalintelligence.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "marina khaustova",
+          "sentiment": "none"
+        },
+        {
+          "name": "marina",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "crystal blockchain",
+          "sentiment": "negative"
+        },
+        {
+          "name": "coo of crystal",
+          "sentiment": "none"
+        },
+        {
+          "name": "paris blockchain week",
+          "sentiment": "none"
+        },
+        {
+          "name": "crypto briefing",
+          "sentiment": "none"
+        },
+        {
+          "name": "apac",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-12T04:18:53.837+03:00",
+    "updated": "2024-04-12T04:18:53.837+03:00"
+  },
+  {
+    "uuid": "b13ede5d0b0c3ac5bb7b0a814923a066c0734bd3",
+    "url": "https://www.news18.com/olympics/paris-olympics-2024-nikhat-zareen-lovlina-borgohain-other-indian-boxers-handed-challenging-draws-8978984.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Aakash Biswas",
+    "published": "2024-07-26T00:03:00Z",
+    "title": "Paris Olympics 2024: Nikhat Zareen, Lovlina Borgohain, Other Indian Boxers Handed Challenging Draws - News18",
+    "text": "CHANGE LANGUAGE English हिन्दी বাংলা मराठी ગુજરાતી ಕನ್ನಡ தமிழ் മലയാളം తెలుగు ਪੰਜਾਬੀ اردو অসমীয়া ଓଡ଼ିଆ WATCH LIVE TV DOWNLOAD News18 APP Follow Us On\nFacebook Twitter Youtube Telegram Trending Topics : Olympics LIVE Gold Price Today Kargil Vijay Diwas Pune Rains Stock Market Home Movies India Cricket Web Stories Lifestyle Viral World Videos Business Education Politics Opinion",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "nikhat zareen",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lovlina borgohain",
+          "sentiment": "negative"
+        },
+        {
+          "name": "wu yu",
+          "sentiment": "none"
+        },
+        {
+          "name": "zareen",
+          "sentiment": "none"
+        },
+        {
+          "name": "chuthamat raksa",
+          "sentiment": "none"
+        },
+        {
+          "name": "preeti pawar",
+          "sentiment": "none"
+        },
+        {
+          "name": "vo thi kim anh",
+          "sentiment": "none"
+        },
+        {
+          "name": "li qian",
+          "sentiment": "none"
+        },
+        {
+          "name": "maxi klotzer",
+          "sentiment": "none"
+        },
+        {
+          "name": "yeni arias",
+          "sentiment": "none"
+        },
+        {
+          "name": "jaismine lam",
+          "sentiment": "none"
+        },
+        {
+          "name": "sunniva hofstad",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "north paris arena",
+          "sentiment": "none"
+        },
+        {
+          "name": "colombia",
+          "sentiment": "none"
+        },
+        {
+          "name": "vietnam",
+          "sentiment": "none"
+        },
+        {
+          "name": "norway",
+          "sentiment": "none"
+        },
+        {
+          "name": "thailand",
+          "sentiment": "none"
+        },
+        {
+          "name": "germany",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-26T05:35:15.898+03:00",
+    "updated": "2024-07-26T08:48:26.469+03:00"
+  }
+]

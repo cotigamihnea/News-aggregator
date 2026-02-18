@@ -1,0 +1,584 @@
+[
+  {
+    "uuid": "c065e19f2e123a1c39db82e46faebd03e6dd771f",
+    "url": "https://acento.com.do/ecologia/lluvias-continuaran-durante-el-fin-de-semana-9416343.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Frontaly",
+    "published": "2024-11-01T13:08:00Z",
+    "title": "Lluvias continuarán durante el fin de semana",
+    "text": "El territorio dominicano se mantendrá bajo condiciones de humedad e inestabilidad durante el fin de semana, con niveles de alerta y avisos meteorológicos activos. El Instituto Dominicano de Meteorología (Indomet), informó que para el día de hoy, el país experimentará un ambiente de vientos moderados provenientes del noreste y la influencia de una vaguada, lo que resultará en lluvias débiles a moderadas, ocasionalmente fuertes, con truenos y ráfagas de viento desde horas de la mañana. Se espera que las provincias de La Altagracia, El Seibo, Hato Mayor, Samaná, María Trinidad Sánchez, Duarte, Hermanas Mirabal, Espaillat, Puerto Plata, Santiago y La Vega reciban los mayores acumulados de lluvia. Durante la tarde, las precipitaciones se intensificarán y abarcarán provincias adicionales, incluyendo La Romana, San Pedro de Macorís, El Gran Santo Domingo, Monte Plata, Elías Piña, San Juan, Pedernales, Barahona y Monte Cristi, extendiéndose hasta las primeras horas de la noche. Por la noche, se prevé la continuidad de las lluvias en zonas cercanas al litoral atlántico. Para el sábado, se anticipa que la vaguada se desplazará hacia el oeste, ubicándose con su eje al nor noreste del país, posiblemente intensificándose como una baja presión. Este fenómeno inducirá un flujo de viento cálido y húmedo desde el sur, que transportará humedad de una zona de disturbio al suroeste, con potencial para desarrollarse en una depresión tropical. En la mañana, se prevén lluvias en la costa Atlántica de las provincias del sureste, noreste, norte y noroeste, con intensidades variables, truenos y ráfagas de viento. En la tarde, se espera un aumento en la intensidad de las lluvias, con tormentas eléctricas y ráfagas de viento que afectarán a San Cristóbal, San José de Ocoa, Monseñor Nouel, La Vega, Santiago, Santiago Rodríguez, San Juan, Elías Piña, el Gran Santo Domingo y otras áreas cercanas, extendiéndose hasta primeras horas de la noche. Las autoridades llaman a la población a mantenerse informada y seguir las recomendaciones, especialmente en zonas vulnerables a inundaciones y deslizamientos de tierra.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "María Trinidad Sánchez",
+          "sentiment": "none"
+        },
+        {
+          "name": "Elías Piña",
+          "sentiment": "none"
+        },
+        {
+          "name": "Hato Mayor",
+          "sentiment": "none"
+        },
+        {
+          "name": "Espaillat",
+          "sentiment": "none"
+        },
+        {
+          "name": "Duarte",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Instituto Dominicano de Meteorología",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "La Altagracia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T15:30:45.647+02:00",
+    "updated": "2024-11-01T15:30:45.647+02:00"
+  },
+  {
+    "uuid": "ed33f2ddba0df718dad84585b8b4e8cff8bc99c9",
+    "url": "https://flipboard.com/topic/karnataka/infosys-layoffs-narayana-murthy-s-company-sacks-more-trainees-from-mysuru-campu/a-BTt9BEjxRieUgUgT0Xmymw%3Aa%3A106586776-b33dbf235b%2Findia.com",
+    "ord_in_thread": 0,
+    "author": "India.com - Analiza Pathak",
+    "published": "2025-03-28T02:56:00Z",
+    "title": "Infosys layoffs: Narayana Murthy's company sacks more trainees from Mysuru campus due to…, offers… | Flipboard",
+    "text": "Infosys layoffs: Narayana Murthy’s company sacks more trainees from Mysuru campus due to…, offers… The decision comes two months after the company had let go of around 350 trainees from the same campus after a delay of over two-and-a-half …\nIndia.com - Analiza Pathak • 7h",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->layoffs",
+      "Economy, Business and Finance->human resources",
+      "Social Issue->social problem",
+      "Social Issue->social condition",
+      "Labor->unemployment",
+      "Labor->employment",
+      "Labor->labour market"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Narayana Murthy’s",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Infosys",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-28T13:02:12.744+03:00",
+    "updated": "2025-03-28T13:02:12.744+03:00"
+  },
+  {
+    "uuid": "0e6fa0cf94c56ff91bde0ceae0643fc9abd91072",
+    "url": "https://www.ilgiornaledivicenza.it/news/italia/mattarella-il-dovere-della-repubblica-%C3%A8-proteggere-l-infanzia-1.12708330",
+    "ord_in_thread": 0,
+    "author": "Società Editrice Athesis S.p.A.",
+    "published": "2025-06-12T07:57:00Z",
+    "title": "Mattarella, il dovere della Repubblica è proteggere l'infanzia | G. di Vicenza",
+    "text": "ROMA, 12 GIU - \"L'abbandono scolastico apre la strada alla povertà educativa, all'emarginazione sociale e, nei casi più gravi, al coinvolgimento dei minori in attività illegali o sotto il controllo di ambienti criminali. Si innesca così un circolo vizioso che compromette, di generazione in generazione, le possibilità di crescita e sviluppo dei minori e delle loro famiglie. La Costituzione, agli articoli 31 e 34, afferma con chiarezza il dovere della Repubblica di proteggere l'infanzia e garantire il diritto all'istruzione\". Lo afferma il presidente della Repubblica, Sergio Mattarella..",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Education"
+    ],
+    "topics": [
+      "Politics->civil rights",
+      "Politics->education policy",
+      "Politics->government",
+      "Social Issue->poverty",
+      "Social Issue->social services",
+      "Social Issue->children",
+      "Education->early childhood education",
+      "Education->social learning",
+      "Education->students"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_it",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T11:10:53.955+03:00",
+    "updated": "2025-06-12T08:22:58.000+00:00"
+  },
+  {
+    "uuid": "721390fbf16a2c471fbb7265ee3ea9a7de398566",
+    "url": "https://www.lesoir.be/648918/article/2025-01-16/coupe-de-belgique-anderlecht-bat-lantwerp-et-prend-une-legere-option-sur-la",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "lesoir.com",
+    "published": "2025-01-16T00:00:00Z",
+    "title": "Coupe de Belgique : Anderlecht bat l'Antwerp et prend une légère option sur la finale (1-0, vidéos) - Le Soir",
+    "text": "Grâce à Degreef, Anderlecht s’est imposé ce jeudi soir face à l’Antwerp en demi-finale aller de la Coupe de Belgique. BELGA Vidéo - Par Belga Temps de lecture: 2 min A nderlecht s’est imposé 1-0 face à l’Antwerp, ce jeudi soir à Anderlecht, lors de la demi-finale aller de la Coupe de Belgique. Tristan Degreef a été l’unique buteur de cette rencontre (30e).\nCe sont les Bruxellois qui ont pris les choses en main en début de match, et même durant toute la première période. Samuel Edozie n’était pas loin d’ouvrir la marque dans le premier quart d’heure, mais Senne Lammens déviait du pied sa frappe qui terminait sur le poteau (11e). Quelques minutes plus tard, c’est Degreef qui poussait Toby Alderweireld à la déviation sur le même poteau (15e). Anderlecht poussait, l’Antwerp se montrait imprécis et en difficulté sur le pressing mauve.\nIN-READ PLACEHOLDER\nEt si les Anversois réagissaient bien juste avant la demi-heure avec une frappe de Vincent Janssen bizarrement écartée par Colin Coosemans, ce sont logiquement les locaux qui ouvraient la marque. Après une course de 50 mètres, Edozie servait Degreef dont la frappe laissait Lammens sans réaction (30e, 1-0).\nEn seconde période, le Great Old tentait de passer à la vitesse supérieure, mais sans jamais parvenir à mettre Anderlecht en danger. C’est même Degreef qui passait tout près de marquer à nouveau, mais sa tête terminait sur le poteau (64e). Les Bruxellois pouvaient gérer sans trop de stress leur fin de match.\nLes Mauves prennent une option sur la qualification, mais devront confirmer le 6 février à Anvers lors du match retour.\nRevivez le fil du match",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->soccer",
+      "Sport->sport event",
+      "Sport->regular competition",
+      "Arts, Culture and Entertainment->festival",
+      "Arts, Culture and Entertainment->mass media",
+      "Arts, Culture and Entertainment->news media",
+      "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://leseng.rosselcdn.net/sites/all/themes/enacarbon_lesoir/images/s-lesoir.svg",
+      "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_292w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg?itok=2JyZSTN01737061928",
+      "https://www.rosseladvertising.be",
+      "https://www.ultimedia.com/deliver/generic/iframe/showtitle/1/mdtk/01515498/zone/34/src/xul8mxk/?tagparamdecoded=Sport&tagparam=cat%3Dsport",
+      "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_606w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg?itok=zLXVs1Ci1737061928",
+      "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_526w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg?itok=KVPgrbEI1737061928",
+      "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_583w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg?itok=5VR90q9d1737061928",
+      "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_864w/2025/01/16/node_648918/31920170/public/2025/01/16/32712944.jpeg?itok=2KuYurh91737064236",
+      "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_606w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg?itok=zLXVs1Ci1737061928)",
+      "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_351w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg?itok=l8yOfGKs1737061928",
+      "https://www.leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_606w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg?itok=zLXVs1Ci1737061928",
+      "https://rosseladvertising.be",
+      "https://www.leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_583w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg?itok=5VR90q9d1737061928",
+      "https://www.leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_606w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg?itok=zLXVs1Ci1737061928)",
+      "https://www.leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_526w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg?itok=KVPgrbEI1737061928",
+      "https://www.leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_351w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg?itok=l8yOfGKs1737061928",
+      "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_864w/2025/01/16/node_648918/31920170/public/2025/01/16/32712944.jpeg",
+      "https://ultimedia.com/deliver/generic/iframe/showtitle/1/mdtk/01515498/zone/34/src/xul8mxk/?tagparamdecoded=Sport&tagparam=cat%3Dsport",
+      "https://www.leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_292w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg?itok=2JyZSTN01737061928",
+      "https://www.leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_864w/2025/01/16/node_648918/31920170/public/2025/01/16/32712944.jpeg?itok=2KuYurh91737064236",
+      "https://www.ultimedia.com/deliver/generic/iframe/showtitle/1/mdtk/01515498/zone/34/src/xul8mxk/",
+      "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_526w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg",
+      "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_606w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg",
+      "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_351w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg",
+      "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_292w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg",
+      "https://leseng.rosselcdn.net/sites/default/files/dpistyles_v2/ls_16_9_583w/2025/01/16/node_648916/31919816/public/2025/01/16/32703565.jpeg",
+      "https://www.leseng.rosselcdn.net/sites/all/themes/enacarbon_lesoir/images/s-lesoir.svg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:16:47.246+02:00",
+    "updated": "2025-01-17T00:51:53.542+02:00"
+  },
+  {
+    "uuid": "d4bf2207e76cfbb13f7d65bb58b1100dc9fe8e4d",
+    "url": "https://www.football365.fr/ca-ne-deviendra-jamais-un-karim-benzema-rothen-torpille-mbappe-10199036.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jacques Allicio",
+    "published": "2024-08-30T09:38:00Z",
+    "title": "« Ça ne deviendra jamais un Karim Benzema » : Rothen torpille Mbappé",
+    "text": "Kylian Mbappé a concrétisé son rêve en rejoignant le Real Madrid cet été. Pourtant, l’attaquant français connaît des débuts bien loin de ses attentes sous le maillot madrilène. Malgré un but contre l’Atalanta (2-0) en Supercoupe de l’UEFA, l’ancienne star du Paris Saint-Germain peine à s’imposer dans son nouveau club. Les difficultés du champion du monde 2018 se manifestent par un manque de tranchant et une certaine maladresse en tant qu’avant-centre. Pour certains observateurs, comme Jérôme Rothen, il semble peu probable que le Bondynois parvienne à exceller pleinement dans ce rôle de numéro 9, à l’image de son prédécesseur Karim Benzema. Mbappé-Vinicius, un duo prometteur ? « En numéro 9 pur, un peu comme Haaland peut le faire, c’est sûr que ce n’est pas son poste. De toute façon, tu ne vas pas le changer à 25 ans. Les qualités qu’il a, elles sont là. Il peut progresser sur certains points, mais ça ne deviendra pas un crack. Ça ne deviendra jamais un Karim Benzema. Il n’est pas assez doué techniquement dos au jeu pour participer à l’activité dans le jeu de passe avec ses coéquipiers pour devenir un crack comme l’était Karim Benzema. Il faudra trouver autre chose », a jugé Rothen sur les ondes de RMC Sport. Toutefois, l’ancien vice-champion d’Europe 2004 se montre optimiste quant à la capacité de Mbappé et Vinicius Jr à former un duo redoutable à l’attaque des Merengues. « Je pense que dans la qualité de passe, Vinicius a quelque chose de supérieur à Kylian Mbappé. Par contre, dans la finition, Kylian est plus fort. Donc ce sera à eux de trouver le bon rapprochement sur le terrain pour donner le maximum. On ne va quand même pas douter de la qualité de ces deux joueurs-là et de l’entente qu’ils peuvent avoir ! »",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-30T13:54:55.398+03:00",
+    "updated": "2024-08-30T14:16:24.028+03:00"
+  },
+  {
+    "uuid": "8ba76b64fea32df83cf524fb17119a970b1336df",
+    "url": "https://www.hola.com/us-es/entretenimiento/20240503359620/viernes-musica-nueva-carlos-vives-silvestre-dangond-danny-ocean/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cynthia Valdez",
+    "published": "2024-05-04T00:00:00Z",
+    "title": "Viernes de Música Nueva: Carlos Vives, Silvestre Dangond y Danny Ocean",
+    "text": "Por Cynthia Valdez - Miami mayo 03, 2024 8:52 pm EDT Danny Ocean - Reflexa En “Reflexa”, Danny Ocean profundiza aún más en temas introspectivos, explorando el amor, la identidad y el crecimiento personal. Con canciones como “La Noche”, “Ley Universal” e “Involucrarnos”, invita a los oyentes a un viaje de autodescubrimiento. Colectivamente, las canciones del álbum aspiran a ser un faro generacional de esperanza, alentando a los oyentes a abrazar la autorreflexión como un camino para encontrar la luz en medio de la oscuridad personal.\nSilvestre Dangond & Carlos Vives - Tú o Yo Una canción que celebra la riqueza y la diversidad de la música colombiana, fusionando los ritmos tradicionales del vallenato con elementos contemporáneos. La letra, llena de pasión y energía, invita al público a entregarse al ritmo contagioso de la música y a disfrutar del momento presente.\nMario Bautista - Los Malacostumbré No hay duda de la habilidad innata de Mario Bautista para desafiar las reglas convencionales dentro del género, y con el lanzamiento de “Los Malacostumbré” Mario introduce un “perreo tumbado”, canción producida por su frecuente colaborador Yera. Mezclando lo mejor de ambos mundos, el pionero mexicano combina elementos clásicos del corrido con explosivos ritmos de reggaetón para crear una fusión enigmática y única. Entre trompetas y un brillante conjunto de cuerdas, Mario recupera su poder y pone fin a quienes se aprovecharon de su lealtad, cantando: “Ya me ha pasado antes, no pasara otra vez / Los pongo por delante, me dejó pa’ después / Siempre estar presente, cuando me necesitan / Los malacostumbré”.\nPiso 21 & Wisin - La Misión “La Misión” abre con un flujo de hipnotizantes sintetizadores brillantes, allanando al instante el camino para la esencia característica de Wisin. Inmediatamente creando tracción, el tema destaca a Piso 21 mientras exploran su propio reino creativo para mostrar otra faceta de su excepcional arte.\nFarruko - CVRBON VRMOR [C_DE: G_D.O.N.] La superestrella global Farruko trasciende a un nuevo reino musical y visual con el lanzamiento de ‘CVRBON VRMOR [C_DE: G_D.O.N.]‘, un álbum que consiste en siete nuevas canciones, caracterizadas por un sonido multisensorial, combinando los beats urbanos característicos de Farruko con sonidos globales y letras que consisten en reflexión y energías positivas.\nLasso, Mau y Ricky - Bilingües Suele decirse que el amor es un lenguaje universal, sin embargo, hay momentos donde el romanticismo llega a perderse en los entramados de la traducción. Para esas ocasiones llega “Bilingües”, nuevo sencillo de Lasso, que además de contar con la colaboración de Mau y Ricky, dueto sensación del pop venezolano, es el primer adelanto de su nuevo disco. A lo largo de los tres minutos que dura esta ráfaga de indie-pop llamada “Bilingües”, la letra relata el encuentro entre una mujer que sólo habla inglés y un hombre hispanohablante. Si bien la diferencia de idiomas genera una atracción inmediata dado el misterio de un lenguaje sin explorar, también aparecen los malentendidos de no hablar el mismo idioma.\nYahritza Y Su Esencia - Tu Orgullo Con “Tu Orgullo”, Yahritza Y Su Esencia desvelan una faceta más de su inigualable narrativa sobre un instrumental cargado de emoción. En el tema, Yahritza escribe una letra especialmente vulnerable, esta vez con un sentido de asertividad y poder, mientras retoma el control y canta a dejar ir una relación condenada al fracaso. En definitiva, las sentidas emociones cobran vida con intrincados y melancólicos arreglos de cuerda y la delicadeza innata de YYSE.\nMaria Becerra, Jason Derulo y Michael Bublé - Spicy Margarita Esta canción es un clásico de Dean Martin, “Sway”, que Jason Derulo incluyó en su disco y para el que llamó al cantante canadiense. Derulo ha expresado que la música de Michael ha sido una inspiración en su vida, y la idea de fusionarse en la versión de “Spicy Margarita”, combina elementos latinos con un toque de funk brasileño, creando una melodía vibrante. Maria Becerra se suma a la versión remix como la voz latina que le agrega frescura, energía y un toque distintivo a la combinación de las tres voces.\nFonseca y Grupo Niche - Con Dinero y Sin Dinero El nuevo sencillo “Con Dinero y Sin Dinero”, es la primera colaboración del Grupo Niche en su historia. Bajo la producción musical de José Aguirre, director de la orquesta, este tema fue grabado en Cali, Colombia y destaca el sonido auténtico de la salsa colombiana propio de la agrupación. La dinámica producción presenta 11 temas y colaboraciones con grandes artistas de la música latinoamericana como Juan Luis Guerra, Gilberto Santa Rosa, Chucho Valdés, Alex Cuba y el Grupo Niche, quienes acompañan a Fonseca en este viaje por el mundo de la música tropical, disponible ya en todas las plataformas musicales.\nMaia y Luis Enrique - Ni Tú Ni Yo Este tema que aborda la complejidad de una ruptura amorosa, donde quedan muchas situaciones inconclusas y ambas partes se enfrentan al dilema de seguir adelante o intentarlo de nuevo. Escrito por el talentoso cantautor nicaragüense Luis Enrique junto al renombrado Ángel Arce Pututi, este tema cobra vida con la poderosa voz de Maía, creando una explosión musical llena de energía y pasión que resuena en cada nota.\nTrueno - The Roof is on Fire Un tema muy influenciado por el hip hop y el rap que muestra el talento de Trueno y su amor por el género. Sus versos meticulosos e ingeniosos fluyen junto a ritmos y sonidos clásicos del hip hop de los años 2000. El tema fue compuesto por Trueno y su colaborador Tatool, que también produjo la canción.\nDayanara - Te Lo Mereces Esta canción se desprende del proyecto musical La Nueva Cepa. El álbum La Nueva Cepa, creado en colaboración con Warner Music Latina, tiene como objetivo llevar a los artistas emergentes más talentosos de América Latina a nuevas alturas. Dayanara, reconocida por su inigualable talento y trayectoria musical, se une a este proyecto para ofrecer una canción que refleja su brillante carrera.\nNIA ft. Celia Cruz - Lágrimas Negras NIA es una todoterreno imparable, con una gran versatilidad musical e interpretativa y una carrera absolutamente prometedora que avanza a un ritmo incesante con una proyección en ascenso que seguirá sumando éxitos en este 2024. Esta canción promete ser una celebración de la música, la cultura y la herencia latina que resonará en corazones de todo el mundo, brindando una experiencia musical inolvidable para audiencias de todas las edades y orígenes.\nAna Mena, GALE - La Razón La artista máxima referente en la actualidad pop que traspasa fronteras, Ana Mena, lanza hoy su nueva canción “La Razón”, acompañada por una de las cantantes y compositoras emergentes más esperadas de la música latina, nominada 3 veces al Latin GRAMMY®, GALE. Juntas, lanzan este adictivo tema full pop que se convertirá en una de las canciones imprescindibles de este año.\nrelacionado: Taína Gravier, la hija de Valeria Mazza, se roba las miradas en su paso por ‘La Voz Kids’\nClarissa Molina detalla cómo fue su encuentro con Antonela Roccuzzo en Miami\nQué ver: 7 series y películas de estreno para ver desde casa\nFuerza Regida - Brillarosa Fuerza Regida muestra su swing, dirigiéndose al campo de golf para ver su video de “Brillarosa”. Un punto culminante de su reciente EP Dolido Pero No Arrepentido, “Brillarosa” es el himno del lotario por excelencia. En el video, JOP y Fuerza viajan a un campo de golf en las colinas de California, mientras practican su juego corto y dan lecciones de putt a hermosas damas.\nJotaerre- CoMoANiTTa El intérprete urbano puertorriqueño Jotaerre trabaja firme en sus planes de seguir evolucionando y esta vez presenta su nuevo sencillo “CoMo ANiTTa”. Acompañado de talentosas figuras en el panorama musical como RMAND y Chris Palace, lanza una colaboración llena de emociones y nostalgia. “CoMo ANiTTa”, que sobresale por su ritmo “Brazilian Funk” como el popularizado por la cantante a la que hace referencia, evoca el recuerdo de esa chica especial con quien se vivieron momentos intensos e inolvidables. Se mantiene encendido el deseo de repetir encuentros íntimos a pesar de vivir una nueva etapa con su actual pareja. “Tú andas con otro / yo ando con otra / Hay vece‘ que te extraño / pero eso es lo que toca”, relata parte de la letra.\nChimbala, Natti Natasha y Jey One - Delincuente Esta colaboración entre Chimbala, Natti Natasha y Jey One promete ser una explosión de talento y estilo. Cada uno de estos artistas aporta su propio toque único a la canción, creando una fusión musical que captura la esencia del reggaetón y la música urbana en su máxima expresión. “Delincuente” no solo es una canción pegajosa con un ritmo contagioso, sino que también cuenta con una letra provocativa y atrevida que invita al público a dejarse llevar por la diversión y el desenfreno. La combinación de la voz seductora de Natti Natasha, el flow característico de Chimbala y la energía explosiva de Jey One asegura una experiencia auditiva y visual inolvidable.\nGrupo 5, Mike Bahía y Guaynaa - Tú No Eres Un Ángel Después de celebrar su 51º aniversario con tres shows completamente agotados en el Estadio Nacional de Lima el mes pasado, Grupo 5, la icónica banda peruana conocida por sus melodías de cumbia y merengue, regresa con “Tú No Eres Un Ángel”, su nueva colaboración con el colombiano Mike Bahía, estrella del pop urbano, y el puertorriqueño Guaynaa, estrella del urbano, que seguramente será una de las canciones más calientes del verano.\nNella - En Otra Vida Con la autenticidad y maestría que la caracteriza, en esta entrega ha creado un diamante musical que tiene como propósito celebrar a la mujer, recrear los temas de su infancia y llevar al público en un viaje musical por algunos de los mejores temas de la música latina, pero con un toque muy personal. “La idea era volver al inicio, a canciones que me inspiraron y me acompañaron toda la vida e imaginarlas como si fuesen mías. Y de ahí el título, ‘En Otra Vida’. Ojalá que en otra vida las hubiera escrito yo…o en otra vida hubiesen tenido esta nueva forma”, dijo la intérprete.\nCharlie Sepúlveda - Aprovecha El nuevo álbum “Urbajazz” es la creación conjunta de Sepúlveda y el productor musical y ganador de varios Latin GRAMMY®, Julio Bagué. Este equipo de dos grades de la música ha creado una fusión incomparable de jazz y ritmos urbanos que cautiva a una audiencia ansiosa por nuevos sonidos y letras que representen a la nueva generación.\nLa MiO - Echa Pa’lla Un candente trap industrial es el vehículo perfecto en “Echa Pa’lla“, una canción en la que La Mio habla de poner límites y abrazar el poder de la intuición. El tema mezcla experiencias personales de la intérprete con elementos de fantasía y un poco de ficción.\nJasiel Nuñez - 0 Sentimientos En “0 Sentimientos”, Jasiel Nuñez lleva a los oyentes en un viaje emocional a través de las crudas realidades del desamor. La letra describe una narrativa de emociones ardientes que lentamente se extinguen, dejando atrás las cenizas de lo que alguna vez fue. Nuñez expresa con franqueza la profunda soledad que acompaña al final de una relación, acompañando a la resiliencia para soportar. A través de versos conmovedores, profundiza en la lucha de confrontar los propios sentimientos y al mismo tiempo intentar apagarlos para protegerse de un dolor mayor. La canción sirve como una conmovedora reflexión sobre la experiencia humana del amor y la pérdida, resonando en audiencias que han atravesado paisajes emocionales similares.\nJerry Di - Llorarás El tema nos transporta a través de un viaje sónico a una historia lamentable en donde el materialismo se vuelve más importante y supera el amor que le puedes entregar a una persona. “Esta canción nació de un amor en donde fui capaz de darlo todo sin tantos lujos, pero siempre con la mayor sinceridad y lealtad posible. Pero al final, la avaricia y el dinero pudo más que lo real”, expresó Jerry Di sobre “Llorarás”. La canción, al ritmo de un clásico reggaeton, destaca una vez más la destreza lírica que posee Jerry Di junto a su característica voz por la cual se ha dado a conocer en el género urbano latino. “Llorarás” llega acompañada por un visualizador en el cual se puede presenciar el momento en el cual la protagonista se da cuenta que el dinero y los lujos no lo son todo en la vida y que son cosas temporales.\nChosen Few: Remix Classicos El sello independiente Chosen Few Emerald Entertainment y su fundador/productor Boy Wonder están celebrando 15 años de un álbum muy importante para ellos titulado Chosen Few: Remix Classicos. Algunas de las canciones que hoy son éxitos clásicos se consolidaron a través de este álbum, como: “Reggaeton Latino” [Don Omar, NORE, Fat Joe, LDA], “Siente El Boom” [Tito El Bambino, Randy, Joel Ortiz], “Mi Alma Se Muere” [Pitbull, Omega, Fuego], ¡y más!\nBanda Los Sebastianes – Pa’delante ‘Pa’Delante’ es el nuevo álbum de Los Sebastianes que contiene 12 canciones de las cuales 11 ya están disponibles. “Jódete” es el focus track, un tema inédito escrito por Luciano Luna, Leslie Laraim, Orduño Verduzco y Melody Luna. “Jódete” es tema a dueto con la super estrella Chiquis.\nOctavio Cuadras – Corridos Felices La primera producción de Octavio Cuadras. Este EP incluye dos nuevas canciones: “Llamado De Emergencia” un cover de Daddy Yankee pero al ritmo sierreño con charchetas y la versión acústica del tema viral “Bling Bling”, son las canciones especiales que le faltaban al material para llevar a sus seguidores por una propuesta fresca con sonidos pegadizos y de melodía alegre, típica del género del que es precursor “corridos felices”.\nMancandy – Gaygional Mexicano Mancandy es un artista completo en diferentes facetas ya que incursionó en la moda teniendo gran éxito, realizando diseños para Julieta Venegas, Bad Bunny, Danna Paola, por mencionar algunos, pero la columna vertebral del artista es la música. ‘Gaygional Mexicano’ es el nombre de éste álbum, integrado por diez covers que marcaron la música en México, los renueva al regional mexicano con su estilo único de “duro contra ellos”. El tema foco de este proyecto es “Quítame Ese Hombre”, no solo por lo que fue en su momento, sino porque para Mancandy, es una canción que describe perfectamente cuando una persona sufre cuando el amor ha terminado.\nCrecer Germán – Muchacho Pobre (En Vivo) Un álbum formado por 11 covers de El Recodo, Nathan Galante, Remmy Valenzuela, Joan Sebastian entre otros. El Álbum fue grabado en la ciudad de Los Mochis en Sinaloa y producido por el propio Crecer German.\nDraco Rosa - Eres Una profunda reinterpretación de la icónica canción de Café Tacvba del 2004. La versión de Draco explora los temas del amor y la conexión cósmica con su extraordinaria sensibilidad. “Es un puente hacia el infinito, donde cada verso nos lleva más profundo en la vastedad del universo y nuestras almas”, dijo Draco sobre el tema. “Esta canción mantiene un diálogo profundo con el cosmos, guiándonos hacia dentro, al núcleo de nuestro ser, mostrándonos que somos parte de algo verdaderamente magnífico”.\nVídeo Relacionado: \"Cancelado el 'spin-off' de 'Juego de Tronos' basado en el personaje de Jon Snow\" Loading the player... Suscríbete a nuestra newsletter. Se el primero en conocer las noticias sobre tus celebridades y miembros de la realeza favoritos y descubre las últimas tendencias en moda y belleza. Más sobre",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.youtube.com/embed/ogJw12qT4jQ?wmode=transparent&jqoemcache=bpEen",
+      "https://youtu.be/OdO-wxzwU94?si=0qRdPkP59mUbtq0w",
+      "https://youtu.be/Uw18iG2Az4w?si=dGnz4DODn1tKOo4S",
+      "https://www.youtube.com/embed/4NnWZZnC8C8?wmode=transparent&jqoemcache=pOMIh",
+      "https://www.youtube.com/embed/mQgiQqQQ604?wmode=transparent&jqoemcache=rnH00",
+      "https://youtu.be/ogJw12qT4jQ?si=aF6uJ3i8gyx8Xr10",
+      "https://youtu.be/OBg3LYilWi8?si=p1zVSDWK2tJCGrac",
+      "https://www.youtube.com/embed/fsYeMfjQPag?wmode=transparent&jqoemcache=1TnWn",
+      "https://youtu.be/uud3_Mu1S6Q?si=emYm8b4hKWbp9fby",
+      "https://www.youtube.com/embed/OBg3LYilWi8?wmode=transparent&jqoemcache=cX3qx",
+      "https://www.youtube.com/embed/t0x9M_mvhNU?wmode=transparent&jqoemcache=GOmHL",
+      "https://www.youtube.com/embed/OsCBkmA2gQQ?wmode=transparent&jqoemcache=pKhZx",
+      "https://content.jwplatform.com/videos/AQhhWMOC-1280.mp4",
+      "https://youtu.be/fsYeMfjQPag?si=pPOlgOlbt4aw3DEe",
+      "https://www.youtube.com/embed/U-mpAMgY96k?wmode=transparent&jqoemcache=7WUK2",
+      "https://www.youtube.com/embed/OdO-wxzwU94?wmode=transparent&jqoemcache=fZTSA",
+      "https://youtu.be/mQgiQqQQ604?si=8M2NSr0x1m7aPXoE",
+      "https://youtu.be/t0x9M_mvhNU?si=1_wAbDAj0iQ3QPXA",
+      "https://youtu.be/ek4uuSul7d0?si=SbrmuzqnqoCuRCgI",
+      "https://content.jwplatform.com/videos/AQhhWMOC.mp4",
+      "https://www.youtube.com/embed/ek4uuSul7d0?wmode=transparent&jqoemcache=4wuJu",
+      "https://youtu.be/OsCBkmA2gQQ?si=yRPD5DgGsVvJsw9z",
+      "https://www.youtube.com/embed/1lr_mUbEvPw?wmode=transparent&jqoemcache=AcT4O",
+      "https://www.youtube.com/embed/qjlFAmBc3_s?wmode=transparent&jqoemcache=sSunC",
+      "https://www.youtube.com/embed/uud3_Mu1S6Q?wmode=transparent&jqoemcache=t4lRF",
+      "https://www.youtube.com/embed/sC4AZZV4dho?wmode=transparent&jqoemcache=6pNkQ",
+      "https://youtu.be/5gfu1dLsp_c?si=9CFSWgDuiIMD4Isj",
+      "https://www.youtube.com/embed/PSlE2q9UQyk?wmode=transparent&jqoemcache=OHllD",
+      "https://www.youtube.com/embed/uIgSi2xhCOE?wmode=transparent&jqoemcache=LP0f6",
+      "https://youtu.be/uIgSi2xhCOE?si=dBChJ9TDS3BwYDIb",
+      "https://content.jwplatform.com/videos/AQhhWMOC-1920.mp4",
+      "https://youtu.be/RUCJ6wa2yI4?si=HnFVEWMmvUXqnIcI",
+      "https://www.youtube.com/embed/xcZ8n_5oJZ4?wmode=transparent&jqoemcache=0mAep",
+      "https://www.youtube.com/embed/RUCJ6wa2yI4?wmode=transparent&jqoemcache=RM4Fe",
+      "https://youtu.be/qKsr7v4x3nM?si=KWUaJTvzMHxPV0I-",
+      "https://www.youtube.com/embed/HxvLozCXItE?wmode=transparent&jqoemcache=cLZJg",
+      "https://www.youtube.com/embed/5gfu1dLsp_c?wmode=transparent&jqoemcache=gmJ4I",
+      "https://www.youtube.com/embed/Z9ZEH8VNUxc?wmode=transparent&jqoemcache=TOPMJ",
+      "https://www.youtube.com/embed/Uw18iG2Az4w?wmode=transparent&jqoemcache=CQMXW",
+      "https://www.youtube.com/embed/qKsr7v4x3nM?wmode=transparent&jqoemcache=oVxbs",
+      "https://youtu.be/ga9neCU1y5c?si=6heW_1lcl5zmbUaq",
+      "https://youtu.be/xcZ8n_5oJZ4?si=P_mOvh3NmdpBOLJL",
+      "https://youtu.be/Z9ZEH8VNUxc?si=13g3Hv9lvs7n7jvy",
+      "https://www.youtube.com/embed/ga9neCU1y5c?wmode=transparent&jqoemcache=mGrMC",
+      "https://youtu.be/34iwcAaswzg?si=EtJPp5ic3QwGEWTc",
+      "https://youtu.be/1lr_mUbEvPw?si=lm-0qNtj9jeyJ_su",
+      "https://youtu.be/HxvLozCXItE?si=4M_syHQ9pefV0LQ2",
+      "https://youtu.be/qjlFAmBc3_s?si=9YP6OWsKMt6Nnj5u",
+      "https://youtu.be/KLbQsKZ6phE?si=PoouxIgoAG8_O-Lf",
+      "https://www.youtube.com/embed/U7kaqOn6nIo?wmode=transparent&jqoemcache=ws0Tp",
+      "https://youtu.be/4NnWZZnC8C8?si=xbqOVLwqm2UncW0d",
+      "https://www.youtube.com/embed/KLbQsKZ6phE?wmode=transparent&jqoemcache=uyu5K",
+      "https://youtu.be/U-mpAMgY96k?si=u91Jb6aqA4F5euWX",
+      "https://youtu.be/sC4AZZV4dho?si=4GbenwXFl6u1bPkt",
+      "https://www.youtube.com/embed/34iwcAaswzg?wmode=transparent&jqoemcache=pWrG7",
+      "https://youtu.be/PSlE2q9UQyk?si=upQ-3u0ydw4Z39vf",
+      "https://content.jwplatform.com/videos/AQhhWMOC-720.mp4",
+      "https://youtu.be/U7kaqOn6nIo?si=m_SzFfLPSboHWFTN",
+      "https://www.youtube.com/embed/mQgiQqQQ604",
+      "https://youtube.com/embed/mQgiQqQQ604?wmode=transparent&jqoemcache=rnH00",
+      "https://youtu.be/1lr_mUbEvPw",
+      "https://www.youtu.be/OsCBkmA2gQQ?si=yRPD5DgGsVvJsw9z",
+      "https://www.youtube.com/embed/OdO-wxzwU94",
+      "https://youtu.be/5gfu1dLsp_c",
+      "https://youtube.com/embed/uIgSi2xhCOE?wmode=transparent&jqoemcache=LP0f6",
+      "https://youtube.com/embed/HxvLozCXItE?wmode=transparent&jqoemcache=cLZJg",
+      "https://www.youtube.com/embed/uIgSi2xhCOE",
+      "https://www.youtube.com/embed/t0x9M_mvhNU",
+      "https://www.youtube.com/embed/1lr_mUbEvPw",
+      "https://www.youtube.com/embed/RUCJ6wa2yI4",
+      "https://www.youtu.be/PSlE2q9UQyk?si=upQ-3u0ydw4Z39vf",
+      "https://www.youtube.com/embed/HxvLozCXItE",
+      "https://www.youtube.com/embed/fsYeMfjQPag",
+      "https://www.youtu.be/qjlFAmBc3_s?si=9YP6OWsKMt6Nnj5u",
+      "https://youtube.com/embed/5gfu1dLsp_c?wmode=transparent&jqoemcache=gmJ4I",
+      "https://youtu.be/t0x9M_mvhNU",
+      "https://youtu.be/Uw18iG2Az4w",
+      "https://youtu.be/mQgiQqQQ604",
+      "https://www.youtu.be/xcZ8n_5oJZ4?si=P_mOvh3NmdpBOLJL",
+      "https://www.youtu.be/5gfu1dLsp_c?si=9CFSWgDuiIMD4Isj",
+      "https://youtu.be/uIgSi2xhCOE",
+      "https://youtu.be/U-mpAMgY96k",
+      "https://youtube.com/embed/sC4AZZV4dho?wmode=transparent&jqoemcache=6pNkQ",
+      "https://www.youtube.com/embed/ga9neCU1y5c",
+      "https://www.youtube.com/embed/sC4AZZV4dho",
+      "https://www.youtu.be/Uw18iG2Az4w?si=dGnz4DODn1tKOo4S",
+      "https://youtube.com/embed/qKsr7v4x3nM?wmode=transparent&jqoemcache=oVxbs",
+      "https://youtube.com/embed/Uw18iG2Az4w?wmode=transparent&jqoemcache=CQMXW",
+      "https://youtu.be/KLbQsKZ6phE",
+      "https://youtube.com/embed/t0x9M_mvhNU?wmode=transparent&jqoemcache=GOmHL",
+      "https://youtube.com/embed/ogJw12qT4jQ?wmode=transparent&jqoemcache=bpEen",
+      "https://www.youtu.be/uud3_Mu1S6Q?si=emYm8b4hKWbp9fby",
+      "https://www.youtube.com/embed/qjlFAmBc3_s",
+      "https://youtu.be/U7kaqOn6nIo",
+      "https://youtube.com/embed/U-mpAMgY96k?wmode=transparent&jqoemcache=7WUK2",
+      "https://youtu.be/34iwcAaswzg",
+      "https://youtu.be/PSlE2q9UQyk",
+      "https://www.youtu.be/ga9neCU1y5c?si=6heW_1lcl5zmbUaq",
+      "https://youtu.be/Z9ZEH8VNUxc",
+      "https://www.youtu.be/fsYeMfjQPag?si=pPOlgOlbt4aw3DEe",
+      "https://youtube.com/embed/RUCJ6wa2yI4?wmode=transparent&jqoemcache=RM4Fe",
+      "https://youtu.be/qKsr7v4x3nM",
+      "https://www.youtu.be/U-mpAMgY96k?si=u91Jb6aqA4F5euWX",
+      "https://youtube.com/embed/uud3_Mu1S6Q?wmode=transparent&jqoemcache=t4lRF",
+      "https://www.youtu.be/4NnWZZnC8C8?si=xbqOVLwqm2UncW0d",
+      "https://youtu.be/uud3_Mu1S6Q",
+      "https://youtu.be/xcZ8n_5oJZ4",
+      "https://www.youtu.be/RUCJ6wa2yI4?si=HnFVEWMmvUXqnIcI",
+      "https://www.youtu.be/t0x9M_mvhNU?si=1_wAbDAj0iQ3QPXA",
+      "https://www.youtu.be/Z9ZEH8VNUxc?si=13g3Hv9lvs7n7jvy",
+      "https://youtu.be/4NnWZZnC8C8",
+      "https://youtu.be/sC4AZZV4dho",
+      "https://youtube.com/embed/xcZ8n_5oJZ4?wmode=transparent&jqoemcache=0mAep",
+      "https://youtu.be/fsYeMfjQPag",
+      "https://www.youtube.com/embed/OsCBkmA2gQQ",
+      "https://www.youtu.be/1lr_mUbEvPw?si=lm-0qNtj9jeyJ_su",
+      "https://www.youtube.com/embed/qKsr7v4x3nM",
+      "https://www.youtube.com/embed/5gfu1dLsp_c",
+      "https://www.youtu.be/mQgiQqQQ604?si=8M2NSr0x1m7aPXoE",
+      "https://youtube.com/embed/OBg3LYilWi8?wmode=transparent&jqoemcache=cX3qx",
+      "https://youtube.com/embed/qjlFAmBc3_s?wmode=transparent&jqoemcache=sSunC",
+      "https://youtu.be/RUCJ6wa2yI4",
+      "https://www.youtube.com/embed/ek4uuSul7d0",
+      "https://www.youtube.com/embed/ogJw12qT4jQ",
+      "https://www.youtu.be/OdO-wxzwU94?si=0qRdPkP59mUbtq0w",
+      "https://www.youtu.be/OBg3LYilWi8?si=p1zVSDWK2tJCGrac",
+      "https://youtu.be/ogJw12qT4jQ",
+      "https://youtu.be/qjlFAmBc3_s",
+      "https://youtube.com/embed/1lr_mUbEvPw?wmode=transparent&jqoemcache=AcT4O",
+      "https://youtube.com/embed/34iwcAaswzg?wmode=transparent&jqoemcache=pWrG7",
+      "https://www.youtube.com/embed/U7kaqOn6nIo",
+      "https://www.youtu.be/ek4uuSul7d0?si=SbrmuzqnqoCuRCgI",
+      "https://www.content.jwplatform.com/videos/AQhhWMOC.mp4",
+      "https://youtube.com/embed/U7kaqOn6nIo?wmode=transparent&jqoemcache=ws0Tp",
+      "https://www.youtube.com/embed/uud3_Mu1S6Q",
+      "https://youtu.be/ek4uuSul7d0",
+      "https://youtube.com/embed/Z9ZEH8VNUxc?wmode=transparent&jqoemcache=TOPMJ",
+      "https://youtube.com/embed/OdO-wxzwU94?wmode=transparent&jqoemcache=fZTSA",
+      "https://www.youtube.com/embed/Uw18iG2Az4w",
+      "https://www.youtu.be/qKsr7v4x3nM?si=KWUaJTvzMHxPV0I-",
+      "https://youtube.com/embed/ek4uuSul7d0?wmode=transparent&jqoemcache=4wuJu",
+      "https://www.content.jwplatform.com/videos/AQhhWMOC-1920.mp4",
+      "https://youtube.com/embed/fsYeMfjQPag?wmode=transparent&jqoemcache=1TnWn",
+      "https://youtu.be/HxvLozCXItE",
+      "https://www.youtu.be/HxvLozCXItE?si=4M_syHQ9pefV0LQ2",
+      "https://youtu.be/OsCBkmA2gQQ",
+      "https://www.youtube.com/embed/PSlE2q9UQyk",
+      "https://www.youtu.be/U7kaqOn6nIo?si=m_SzFfLPSboHWFTN",
+      "https://youtu.be/OdO-wxzwU94",
+      "https://www.youtube.com/embed/OBg3LYilWi8",
+      "https://www.youtube.com/embed/Z9ZEH8VNUxc",
+      "https://www.youtu.be/uIgSi2xhCOE?si=dBChJ9TDS3BwYDIb",
+      "https://www.youtube.com/embed/KLbQsKZ6phE",
+      "https://www.youtu.be/sC4AZZV4dho?si=4GbenwXFl6u1bPkt",
+      "https://youtube.com/embed/4NnWZZnC8C8?wmode=transparent&jqoemcache=pOMIh",
+      "https://youtube.com/embed/PSlE2q9UQyk?wmode=transparent&jqoemcache=OHllD",
+      "https://www.youtube.com/embed/34iwcAaswzg",
+      "https://www.youtube.com/embed/4NnWZZnC8C8",
+      "https://www.youtu.be/KLbQsKZ6phE?si=PoouxIgoAG8_O-Lf",
+      "https://youtu.be/ga9neCU1y5c",
+      "https://www.content.jwplatform.com/videos/AQhhWMOC-720.mp4",
+      "https://www.content.jwplatform.com/videos/AQhhWMOC-1280.mp4",
+      "https://youtube.com/embed/KLbQsKZ6phE?wmode=transparent&jqoemcache=uyu5K",
+      "https://youtu.be/OBg3LYilWi8",
+      "https://www.youtube.com/embed/xcZ8n_5oJZ4",
+      "https://www.youtu.be/ogJw12qT4jQ?si=aF6uJ3i8gyx8Xr10",
+      "https://www.youtube.com/embed/U-mpAMgY96k",
+      "https://youtube.com/embed/OsCBkmA2gQQ?wmode=transparent&jqoemcache=pKhZx",
+      "https://youtube.com/embed/ga9neCU1y5c?wmode=transparent&jqoemcache=mGrMC",
+      "https://www.youtu.be/34iwcAaswzg?si=EtJPp5ic3QwGEWTc"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-04T04:12:47.093+03:00",
+    "updated": "2024-05-04T04:12:47.093+03:00"
+  },
+  {
+    "uuid": "3d5a59bc76163f5a659bf5d8fdc9b6494d40e946",
+    "url": "https://www.thegamer.com/fbc-firebreak-announcement-release-date-xbox-partner-preview",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Pokemon",
+    "published": "2024-10-17T17:40:00Z",
+    "title": "FBC Firebreak Announced, Remedy's First Ever Multiplayer Game",
+    "text": "Alan Wake and Control developer Remedy Entertainment have a bunch of projects in the works at the moment, such as a Max Payne 1 + 2 Remake , the sequel to Control , and some more DLC for Alan Wake 2, which we recently found out is launching next week on October 22 . That's a lot of stuff to have in development at once, but Remedy isn't finished there, as it's unveiled its first ever multiplayer game : FBC Firebreak. Log in - Create an account Unlimited Access & Enable All Features! Unlimited Access • All Features • Full Experience! Error with your password Log in Create an account *Required: 8 chars, 1 capital letter, 1 number By continuing, you agree to the Privacy Policy and Terms of Use . You also agree to receive our newsletters, you can opt-out any time. No Thanks, Keep Reading FBC Firebreak was announced during Xbox's recent Partner Preview showcase, and was revealed to be a first-person co-op shooter that will see you take control of a group of first responders in the Federal Bureau of Control that are tasked with dealing with dangerous and rampant threats within The Oldest House. From the trailer, we can see that the tone for this title is more on the silly side of Remedy's recent releases, as it showcases a variety of weapons that players can use to fend off supernatural forces. These weapons include standard machine guns, as well as weapons that can fire shrapnel, green goo, and what appears to be exploding gnomes. FBC Firebreak Is Not A Sequel To Control In an Xbox Wire post accompanying FBC Firebreak's announcement, director Mike Kayatta makes it explicitly clear that the game is not a sequel to Control and nor is it DLC. Despite sharing similar environments and having a distinct Control vibe, Kayatta stresses that FBC Firebreak is more of \"a spin-off\" title, but will be just as robust and in-depth as Remedy's other titles. It’s not designed to be some kind of lesser, bite-sized Control. FBC: Firebreak is its own, fully formed thing. Communications director Thomas Puha also goes into what people can expect from this title, and Puha explains that the game will be \"easy to get into\" and will have players go on \"multiple hectic co-op missions\" that will showcase Remedy's creativity. Puha also explains that Remedy doesn't really consider FBC Firebreak a service game, but they do confirm that the game will be supported with more content post launch. We didn't get a proper release date for FBC Firebreak in the game's reveal trailer, apart from the fact that the title will be launching at some point in 2025. The only platforms mentioned in the trailer are Xbox and PC, though we can probably assume that Xbox has some kind of marketing embargo in place and that the title will be coming to PS5 too. [ Control ](/tag/control/) Control puts you in the shoes of Jesse Faden, the newly installed Director of the Federal Bureau of Control. You must explore the organization's headquarters, uncovering its mysteries and contending with a supernatural force named the Hiss.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://news.xbox.com/en-us/2024/10/17/fbc-firebreak-control-xbox-partner-preview/",
+      "https://www.news.xbox.com/en-us/2024/10/17/fbc-firebreak-control-xbox-partner-preview/",
+      "https://news.xbox.com/en-us/2024/10/17/fbc-firebreak-control-xbox-partner-preview"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T01:09:04.748+03:00",
+    "updated": "2024-10-18T07:28:48.414+03:00"
+  },
+  {
+    "uuid": "9d8690b5e4acaae331ea930e64754ab238970cb2",
+    "url": "https://laopinion.com/2024/11/07/hierba-medicinal-china-podria-restaurar-danos-causados-por-demencia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ambar Román",
+    "published": "2024-11-07T22:56:00Z",
+    "title": "Hierba medicinal china podría restaurar daños causados por demencia",
+    "text": "Un nuevo estudio realizado por investigadores de la Universidad Metropolitana de Osaka ha puesto de relieve el potencial de una planta tradicional en la lucha contra la demencia. El grupo, dirigido por el profesor Takami Tomiyama de la Facultad de Medicina, ha identificado que el uso de extractos de semillas secas de una variedad de azufaifo, específicamente Ziziphus jujuba Miller var. spinosa, comúnmente conocida y utilizada en la medicina tradicional china, podría tener un impacto significativo en la restauración de funciones cognitivas y motoras en modelos animales con diferentes tipos de demencia, incluida la enfermedad de Alzheimer.\nEste descubrimiento se destaca en un momento en que la búsqueda de medicamentos innovadores contra la demencia está en auge, con diversas investigaciones concentradas en encontrar tratamientos efectivos para este grupo de enfermedades neurodegenerativas que afectan a millones de personas en todo el mundo. Sin embargo, el equipo de Tomiyama decidió explorar un enfoque distinto al centrarse en remedios naturales, un enfoque inspirado en la medicina preventiva y en la larga tradición del uso de hierbas medicinales en Asia.\nEn su estudio, el equipo administró extractos de agua caliente de las semillas de Zizyphi spinosi a ratones diseñados para imitar síntomas de diversas enfermedades neurodegenerativas, como el Alzheimer, la demencia frontotemporal, el Parkinson y la demencia con cuerpos de Lewy. Los resultados fueron las funciones cognitivas y motoras de los ratones mostraron una notable mejora tras recibir el tratamiento. Al analizar los datos, los investigadores observaron que estos beneficios no se limitaban a una recuperación leve, sino que representaban una restauración significativa de las habilidades cognitivas y motoras en los modelos de ratones afectados.\nLa investigación fue más allá de los extractos líquidos. Cuando el equipo trituró las semillas hasta obtener un polvo y lo administró a los ratones, observaron una mejora aún mayor en la función cognitiva. Estos efectos eran tan pronunciados que, en comparación con un grupo de ratones de control que no recibió tratamiento, los ratones tratados con el polvo de semillas alcanzaron niveles de rendimiento superiores en pruebas cognitivas. Estos efectos fueron especialmente notables en ratones de mayor edad, donde el polvo de semillas no solo mejoró sus capacidades cognitivas, sino que también parecía ralentizar el envejecimiento celular. Según el equipo, los ratones tratados con el polvo de semillas de azufaifo mostraron habilidades cognitivas similares a las de ratones mucho más jóvenes, un hallazgo que, de confirmarse en humanos, podría cambiar la forma en que se aborda la prevención de la demencia.\nEste trabajo reciente se suma a otras investigaciones previas del grupo de Tomiyama, quien también ha estudiado los efectos de otras plantas tradicionales en modelos de demencia en ratones. Anteriormente, el equipo reportó que el uso de la planta hawaiana mamaki y otra hierba medicinal china, Acorus gramineus, también mostró efectos beneficiosos en la mejora de los síntomas de demencia en ratones. Estos estudios refuerzan la posibilidad de que ciertos compuestos naturales puedan tener propiedades neuroprotectoras que podrían beneficiar a quienes están en riesgo de desarrollar demencia.\nLa implicación de estos hallazgos es amplia, ya que el desarrollo de medicamentos a partir de compuestos naturales podría ofrecer una alternativa accesible y con menos efectos secundarios a los tratamientos convencionales. Sin embargo, se debe destacar que este estudio se realizó en modelos animales, y es necesario realizar estudios adicionales para determinar si estos beneficios podrían reproducirse en humanos. El profesor Tomiyama y su equipo son conscientes de la importancia de realizar ensayos clínicos en el futuro para evaluar la seguridad y eficacia del uso de Ziziphus jujuba en pacientes humanos.\nTomiyama expresó optimismo en cuanto a las aplicaciones futuras de esta investigación, especialmente en el ámbito de la medicina preventiva. “Esperamos que los resultados de nuestras investigaciones permitan desarrollar productos para la prevención de la demencia que las personas de mediana edad y mayores puedan tomar según su propio criterio”, afirmó el profesor. Esta declaración subraya el objetivo final del equipo: proporcionar a la población en general herramientas accesibles que les permitan reducir su riesgo de desarrollar enfermedades neurodegenerativas sin necesidad de recurrir únicamente a tratamientos médicos avanzados o costosos.\nEste enfoque hacia la prevención y el cuidado de la salud en etapas tempranas es consistente con las tendencias actuales en medicina, que buscan un mayor protagonismo de los remedios naturales en la salud pública. Los resultados de estos estudios preliminares podrían abrir puertas a futuros desarrollos farmacéuticos basados en hierbas tradicionales, cambiando el panorama de cómo se previene y se maneja la demencia.\nEn un mundo donde el envejecimiento poblacional es una realidad ineludible, investigaciones como esta representan un avance crucial. Si estos resultados pueden trasladarse exitosamente a ensayos clínicos, el extracto de Ziziphus jujuba podría ofrecer a personas de mediana edad y mayores un recurso preventivo, ayudando a preservar la función cognitiva y reducir el impacto de las enfermedades neurodegenerativas.\nSigue leyendo:\nHome office: cómo estar sentado tantas horas puede afectar tu salud El consumo diario de pistachos está asociado a una mejor salud ocular Dormir acompañados puede influir en nuestra salud más de lo que creemos",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Takami Tomiyama",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Universidad Metropolitana",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T03:27:35.294+02:00",
+    "updated": "2024-11-08T03:27:35.294+02:00"
+  }
+]

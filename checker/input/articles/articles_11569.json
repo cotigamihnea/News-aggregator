@@ -1,0 +1,172 @@
+[
+  {
+    "uuid": "edce86a7a74cf05dde28d6f57b69a8cc2ce07019",
+    "url": "https://www.phonearena.com/news/qr-codes-danger_id165095",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sebastian Pier",
+    "published": "2024-11-22T09:01:00Z",
+    "title": "You should be really careful with the QR codes you're putting in front of your phone's camera",
+    "text": "So apparently 60% of QR codes in emails are spam and we should be really careful with the small pixelated squares we're scanning with our cameras. It turns out that The journey from traditional barcodes to QR codes marks a significant evolution in data storage technology. Before 1994, standard barcodes – the good old parallel lines found on grocery items – could only store up to 80 characters. Recognizing this limitation, the Quick Response (QR) codes were developed, capable of holding over 7,000 numeric or 4,300 alphanumeric characters. A bit of improvement, right? While QR codes represent only a small fraction of email content (approximately one in every 500 emails), they pose a unique security challenge. These seemingly innocent squares have become an effective tool for bypassing spam filters, with research from Cisco Talos indicating that 60% of QR codes in emails are spam-related. The most concerning use involves phishing attempts, particularly in stealing login credentials through fake multi-factor authentication requests. What makes these codes particularly challenging to defend against is their image-based nature. Spam filters struggle with a three-step process: they must first recognize a QR code within an image, then decode it, and finally analyze the embedded data. Adding to this complexity, some creators have developed \"QR code art\" – images that cleverly disguise QR codes within artistic designs, making them even harder to identify. These images integrate the data points of a QR code into artistic designs, making them appear as regular artwork rather than recognizable QR codes. However, the risk with QR code art lies in its potential to mislead users. Someone could unknowingly scan such an image and be directed to the linked content without realizing it was a functional QR code. Security experts recommend treating QR codes with the same caution as unknown URLs. While completely avoiding QR codes in today's world may be impossible, users can protect themselves by using online QR decoders to preview the encoded information before scanning. These tools allow inspection of the underlying data without risking device security. Additionally, when logging into services, it's safer to access websites directly rather than through QR code links. For those needing to share or study potentially dangerous QR codes, Cisco Talos has identified effective methods to \"defang\" them - similar to how suspicious URLs are often written with \"hxxp\" instead of \"http\". This can be done either by obscuring the code's data modules (the black and white squares) or removing the position detection patterns (the large squares in three corners), rendering the code unreadable to scanners. Above all – stay vigilant! It turns out that our sophisticated anti-spam filters are completely baffled by the QR codes.The journey from traditional barcodes to QR codes marks a significant evolution in data storage technology. Before 1994, standard barcodes – the good old parallel lines found on grocery items – could only store up to 80 characters. Recognizing this limitation, the Quick Response (QR) codes were developed, capable of holding over 7,000 numeric or 4,300 alphanumeric characters. A bit of improvement, right? The security risk is heightened when users scan QR codes on mobile devices. When someone scans a malicious code using cellular data rather than corporate Wi-Fi, the subsequent connection occurs outside company security systems, making it difficult for organizations to detect potential threats. Some QR codes are safe! \" Image credit – Apple What makes these codes particularly challenging to defend against is their image-based nature. Spam filters struggle with a three-step process: they must first recognize a QR code within an image, then decode it, and finally analyze the embedded data. Adding to this complexity, some creators have developed \"QR code art\" – images that cleverly disguise QR codes within artistic designs, making them even harder to identify. These images integrate the data points of a QR code into artistic designs, making them appear as regular artwork rather than recognizable QR codes. However, the risk with QR code art lies in its potential to mislead users. Someone could unknowingly scan such an image and be directed to the linked content without realizing it was a functional QR code. Security experts recommend treating QR codes with the same caution as unknown URLs. While completely avoiding QR codes in today's world may be impossible, users can protect themselves by using online QR decoders to preview the encoded information before scanning. These tools allow inspection of the underlying data without risking device security. Additionally, when logging into services, it's safer to access websites directly rather than through QR code links. Above all – stay vigilant! Loading Comments...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Cisco Talos",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "edce86a7a74cf05dde28d6f57b69a8cc2ce07019",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-22T11:12:09.278+02:00",
+    "updated": "2024-11-22T11:23:38.928+02:00"
+  },
+  {
+    "uuid": "e0919a6e6fa38a6ddd103ef5e8f4656bc4e115f6",
+    "url": "https://www.aol.com/news/reformer-pilates-know-low-impact-191730468.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AOL Staff",
+    "published": "2023-12-28T22:41:00Z",
+    "title": "What is reformer Pilates? The low-impact exercise isolates muscles for a killer workout",
+    "text": "What is reformer Pilates? The low-impact exercise isolates muscles for a killer workout It's no surprise that Pilates is and has been one of the [most popular workouts for decades](https://www.today.com/health/diet-fitness/wall-pilates-exercises-rcna103846). It offers a way to work your core through repeated movements, which are typically performed on a mat. While going through the Pilates exercises, you're encouraged to focus on your technique and breathing. The exercises help strengthen and tone your midsection, as well as your arms and legs. Pilates can also be especially beneficial for people with back problems. A newer type of Pilates, called reformer Pilates, may offer even more benefits. Performed on a reformer machine rather than a mat, reformer Pilates can be particularly helpful for people who've recently had an injury or want to get more precise with their movements and isolate certain muscles even further. Classes typically cost between $25-35. As a certified Pilates instructor, I usually recommend that newcomers to Pilates try a mat class first. Performing the exercises on a mat gives you space and time to get used to the movements without having to worry about using a machine too. But for those who want to jump right in and try reformer Pilates, it can be a great way to learn what [properly engaging your core](https://www.today.com/health/4-best-one-dumbbell-ab-exercises-tone-your-core-today-t213317) really feels like. Here’s what you need to know about reformer pilates before getting started and how to master a few moves at home. What is a Pilates reformer? A Pilates reformer machine looks like a bed frame. But rather than a mattress, the reformer has a platform on wheels that rolls up and down as you perform the moves. The reformer also has long, stretchy cords that you'll attach to your feet or hands for certain exercises, and that you can elongate as you exercise. The resistance the machine creates helps lengthen your muscles and builds strength, and the workout teaches you to focus on [belly breathing](https://www.today.com/health/diet-fitness/how-to-breathe-during-exercise-rcna47652), also called diaphragmatic breathing, and boosts “postural control,” Julie O’Connell, physical therapist at [ Athletico Physical Therapy](http://www.athletico.com/), tells TODAY.com. The machine was invented by Joseph Pilates and should be used with the help of a Pilates instructor. Let’s break down the parts of the Pilates reformer machine. The platform part is also known as the carriage. It's connected to the end of the frame by springs, and the springs create your chosen level of resistance. You use your body weight and muscles to push and pull the carriage along the reformer’s frame. Blocks on the carriage that rest above your shoulders ensure you don’t slide off the carriage as you work out. The reformer also has a bar at one end, which is also adjustable. During some exercises, you'll place your hands on the bar. During other moves, you'll use your feet. Opposite the bar on top of the machine is a set of long straps with handles. You can loop your feet through the handles and use the straps as you extend your legs as part of certain moves. Thanks to the springs, the reformer machine is completely adjustable, which means that you can modify your exercises and resistance according to your fitness level, familiarity with [Pilates moves](https://www.today.com/health/diet-fitness/pilates-exercises-rcna26346) and the build of your body. A Pilates reformer can be just as useful for someone looking to intensely work their core as it is for someone recovering after a serious injury. Is the Pilates reformer a good workout for you? Who can benefit the most from using a Pilates reformer? It’s best for people prioritizing “core stability” and who want “good postural alignment,” O'Connell says. But really, the machine can provide a great workout for just about anyone, Tianna Strateman, vice president of training and experience for [Club Pilates](https://www.clubpilates.com/), tells TODAY.com. That’s because you can alter the reformer machine’s settings, as well as any of the Pilates moves, so you can use it simply to tone up, to get a [low-impact, full-body workout](https://www.today.com/shop/low-impact-exercise-equipment-t277106) or even to train for a certain sport. That people of all fitness levels can get a safe but challenging workout with the Pilates reformer is one of its major benefits, Paula Lester, manager of the Pilates studio at [ Privé-Swiss Fitness](https://priveswissfitness.com/paula-lester/), tells TODAY.com. This includes young people, older folks, competitive athletes and people who spend much of their days sitting. I even recommended my sister use a Pilates reformer while pregnant so she could work her core without having to get down on a mat. Overall, a Pilates reformer workout is about strengthening your core and learning which muscles to engage when. All of this can make you a better athlete; help you recover from an injury; lose weight; improve your balance, bone density and [posture](https://www.today.com/health/mind-body/what-is-good-posture-myths-debunked-rcna91815); and reduce [back pain](https://www.today.com/health/lower-back-pain-exercises-help-back-neck-pain-t175179), Lester says. However, it’s important to keep in mind certain limitations of the Pilates reformer so you stay safe when using it. For example, you need to be able to lie down flat on your back without injuring yourself. And if you’re pregnant and in your third trimester, it’s not the best workout since it’s not recommended to lie down for an extended timeframe at this stage, O’Connell explains. Also, if you have problems pertaining to your spine or neck, you should know the correct adjustments to make to certain moves, says O’Connell, adding that you should inform your instructor if you’re at all injured. And don’t hesitate to tell your teacher if you’re in pain from any of the movements and stop your workout. That way, they can help you adjust the resistance or find a better position. O'Connell also advises consulting your health care provider before trying out a new workout regimen. What results can you expect to see from a Pilates reformer? The reformer accommodates a full range of motion, which is great for [increasing flexibility](https://www.today.com/health/diet-fitness/flexibility-exercises-rcna25819) while building strength. The pushing and pulling with the arms and legs against the resistance of the springs, carriage and body weight makes this a unique [strength-building full-body workout](https://www.today.com/health/strength-training-exercises-your-home-workout-no-gym-needed-t192702) that’s different from the regular Pilates exercises performed on the mat. Specifically, when you hold the cables in your hands or put your feet in the cables, you allow your muscles to extend to the fullest position. And while mat Pilates does include some exercises that work the legs and arms, they’re usually done with no resistance unless you’re using light dumbbells or a Pilates ring as an accessory. The reformer is able to [target your arms](https://www.today.com/health/arm-shoulder-workout-you-can-do-home-t177389) and legs while still focusing on the core, providing a more comprehensive workout. According to one [study](https://www.ncbi.nlm.nih.gov/pubmed/30368346), Pilates reformer exercises performed once per week for 10 weeks resulted in reduced fall risk and significant improvements in static and dynamic balance and functional mobility in adults age 65 and older at risk for falling. Another [study](https://www.ncbi.nlm.nih.gov/pubmed/28167194) showed that after twelve sessions of Pilates with the reformer equipment, there were improvements in lower back and [shoulder strength](https://www.today.com/health/how-do-dumbbell-shoulder-press-get-results-today-t227469). O’Connell says that you can expect to see increases in flexibility, muscular strength and muscular endurance with an improved mind-body connection. “Visually, you will see strong and lean muscles with improved posture. With the focus on core stability and total body strength, Pilates will help to facilitate muscle activation and development to support proper spinal alignment,” she explains. I have had a few clients who swear by Pilates reformer workouts. I recommend that they do 2-3 sessions a week to really work on leaning out the body. It’s great for building the smaller core muscles, and also stretching out the longer muscles in the body. In fact, many of my clients see [weight loss](https://www.today.com/health/diet-fitness/my-weight-loss-journey) as a result of their reformer classes and feel that their posture has transformed because of it. Common Pilates reformer exercises — and how to mimic them at home Curious what exercises exactly you’ll be performing on the contraption? Here are a few popular Pilates reformer exercises, and ways that you can mimic these exercises on the mat in the comfort of your living room without a reformer machine. Footwork Footwork is most often the first exercise done on the reformer. It is done lying down with both feet on the footbar. “This series encourages proper alignment of the hips, pelvis, knees and ankles,” explains Lester. “Since our feet take so much abuse daily just by [walking](https://www.today.com/health/diet-fitness/june-2022-start-today-walking-plan-rcna30101), the footwork series is helpful as it strengthens the muscles of the feet and stabilizes the ankle joint. It can help with pain in the feet including [plantar fasciitis](https://www.today.com/shop/best-shoes-plantar-fasciitis-t256433),” she adds. Footwork on the mat In a mat class, or at home in your living room, you can also practice Pilates footwork. Simply lie down on your back and bend your knees. Pull your naval in toward your spine and bring your knees up to a table-top position. From here, point your toes and press the feet on a diagonal in front of you, and then bring them back to the starting position. Repeat 10 times. This is a basic move in Pilates footwork, but you can also add on. Instead of doing the movement with pointed toes, you can do it with flexed feet. You can also open the knees as wide as the hips and keep the heels pressed together with the feet flexed. Do each of these variations for 10 repetitions at the beginning of your Pilates Mat routine. Long stretch “Long stretch is essentially a moving [plank](https://www.today.com/health/diet-fitness/plank-exercise-rcna24413) done standing on the reformer holding the footbar and placing both feet on the headrest,” says Lester. This total-body exercise recruits every muscle fiber in the body leading to a stronger core. It helps with joint stability and balance, and strengthens the abdominals, glutes and [hamstrings](https://www.today.com/health/diet-fitness/best-hamstring-exercises-rcna17619). These support the spine and lengthen the hip flexors, which increase flexibility and improve posture. Long stretch on the mat A close movement to the long stretch is the spine stretch forward on the mat. To do this, sit on your bottom on your mat. Open your legs the width of your shoulders. Pull your naval in toward the spine, and reach the arms out in front of you. Be sure to keep your shoulders back to maintain a straight spine. Then reach forward without moving your legs, and round your spine forward with your head coming in alignment with your outstretched arms. Repeat this 10 times. Breathe in as you come back to center, and breathe out as you reach forward into the spine stretch. Chest expansion This exercise works the back of the body while opening up the chest and shoulders and improving posture. “This move is great for those who [sit at a desk](https://www.today.com/health/why-your-desk-hurting-you-how-ease-pain-t43786) or drive often,” says Strateman. “Sitting on the long box on top of the reformer with the hands in the loops, place your feet on the headrest with knees bent and arms extended down by the sides of the body,” explains Strateman. “Press through the palms of the hands to extend the shoulders and arms behind the body. Return the arms forward and repeat.” Chest expansion on the mat For this exercise, you’ll need a pair of light weights that are 2 or 3 lbs. Go onto your mat on your knees, opening them as wide as the hips. Hold the weights down at your sides, and turn the palms toward the back of the room. Pull your naval in toward your spine, and press the weights and arms toward the back of the room. Make sure your chin does not jut forward and that your shoulders do not round up. Exhale as you press back, and inhale as you come to the starting position. Repeat this 10 times. Side overs Side overs [work the obliques](https://www.today.com/health/how-do-side-plank-target-your-obliques-tone-your-core-t218374), which are important for a well-rounded, strong core. “It also challenges the body in the ‘frontal plane’ which doesn’t always get worked as often,” says Strateman. To start, sit sideways on the short box on top of the reformer with all of the springs hooked on to keep the carriage stable. “The foot closest to the footbar is in the strap with a flexed ankle, extended knee, and the leg and hip lifted in parallel to the ground keeping tension in the strap the entire time,” instructs Strateman. “The opposite leg is bent resting on the box. Hands are clasped behind the head creating one long diagonal line from head to toe. From there, laterally flex the spine lowering the torso towards the floor and returning to the start position on the diagonal.” Side overs on the mat To recruit similar muscles, I recommend performing a side crunch on the mat. This movement will work the obliques and recruits both the upper body and lower body. Lying on your mat, knees bent and feet on the mat as wide as your hips, place your hands behind your head. Tilt your pelvis and engage your low abs as you bring your right knee up to a table-top position. Then curl your head and neck up and crunch your right elbow toward your right knee. Lie your head back down toward the ground as you extend the right leg, keeping your low back pressed into the ground. Repeat this 10 times, and then switch to the left side. Leg circles This exercise not only works the core, but the entire [hip joint](https://www.today.com/health/diet-fitness/hip-flexor-stretches-rcna16322). “Lying on your back on the reformer with both feet in the straps, start with the legs extended long on the diagonal at a 45-degree angle with legs straight and together,” explains Strateman. “Then, lift the legs towards the ceiling just as high as the legs can remain straight with the whole spine from head to tailbone stable on the reformer. Next, separate the legs and continue to complete the circle ending in the starting position.” Repeat this 10 times and then reverse the circles in the other direction. Leg circles on the mat Lying on your back, pull your naval in toward your spine. Reach the right leg up toward the ceiling. Lower the leg down to 45 degrees. Then open the leg as wide as your right shoulder to draw a circle open, around, and then back up to the starting position. Repeat this 10 times and then reverse the exercise. Then perform on the left leg. To make this more difficult, perform both legs at once. Start with the feet at the ceiling, and then open the legs as wide as the shoulders to make a circle down to the 45-degree angle. Then press the legs together as you draw them up toward the starting position with the legs together. Then reverse the circle. Try these other Pilates exercises [Pilates is designed to tone your core. These 9 exercises are a good place to start](https://www.today.com/health/diet-fitness/pilates-exercises-rcna26346) [This fun Pilates exercise works the entire core and stretches the back](https://www.today.com/health/pilates-exercise-open-leg-rocker-t245272) This article was originally published on [TODAY.com](https://www.today.com/health/diet-fitness/reformer-pilates-rcna37066)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://www.today.com/health/how-do-side-plank-target-your-obliques-tone-your-core-t218374),",
+      "https://www.today.com/health/diet-fitness/reformer-pilates-rcna37066)",
+      "https://www.today.com/health/diet-fitness/my-weight-loss-journey)",
+      "https://www.today.com/health/4-best-one-dumbbell-ab-exercises-tone-your-core-today-t213317)",
+      "https://www.today.com/shop/best-shoes-plantar-fasciitis-t256433),”",
+      "https://www.today.com/health/strength-training-exercises-your-home-workout-no-gym-needed-t192702)",
+      "https://www.today.com/health/diet-fitness/hip-flexor-stretches-rcna16322).",
+      "https://www.today.com/shop/low-impact-exercise-equipment-t277106)",
+      "https://www.today.com/health/diet-fitness/plank-exercise-rcna24413)",
+      "https://www.today.com/health/how-do-dumbbell-shoulder-press-get-results-today-t227469).",
+      "https://www.today.com/health/diet-fitness/june-2022-start-today-walking-plan-rcna30101),",
+      "https://www.today.com/health/lower-back-pain-exercises-help-back-neck-pain-t175179),",
+      "https://www.today.com/health/pilates-exercise-open-leg-rocker-t245272)",
+      "https://www.today.com/health/diet-fitness/pilates-exercises-rcna26346)",
+      "https://www.today.com/health/diet-fitness/best-hamstring-exercises-rcna17619).",
+      "http://www.athletico.com/),",
+      "https://www.today.com/health/diet-fitness/wall-pilates-exercises-rcna103846).",
+      "https://www.today.com/health/diet-fitness/flexibility-exercises-rcna25819)",
+      "https://www.today.com/health/arm-shoulder-workout-you-can-do-home-t177389)",
+      "https://www.today.com/health/mind-body/what-is-good-posture-myths-debunked-rcna91815);",
+      "https://www.ncbi.nlm.nih.gov/pubmed/30368346),",
+      "https://www.clubpilates.com/),",
+      "https://priveswissfitness.com/paula-lester/),",
+      "https://www.today.com/health/diet-fitness/how-to-breathe-during-exercise-rcna47652),",
+      "https://www.ncbi.nlm.nih.gov/pubmed/28167194)",
+      "https://www.today.com/health/why-your-desk-hurting-you-how-ease-pain-t43786)",
+      "https://today.com/health/4-best-one-dumbbell-ab-exercises-tone-your-core-today-t213317)",
+      "https://today.com/health/diet-fitness/flexibility-exercises-rcna25819)",
+      "https://today.com/health/arm-shoulder-workout-you-can-do-home-t177389)",
+      "https://today.com/health/mind-body/what-is-good-posture-myths-debunked-rcna91815);",
+      "http://athletico.com/),",
+      "https://today.com/health/diet-fitness/best-hamstring-exercises-rcna17619).",
+      "https://today.com/health/strength-training-exercises-your-home-workout-no-gym-needed-t192702)",
+      "https://ncbi.nlm.nih.gov/pubmed/30368346),",
+      "https://today.com/health/diet-fitness/reformer-pilates-rcna37066)",
+      "https://today.com/health/lower-back-pain-exercises-help-back-neck-pain-t175179),",
+      "https://clubpilates.com/),",
+      "https://today.com/health/diet-fitness/how-to-breathe-during-exercise-rcna47652),",
+      "https://today.com/health/pilates-exercise-open-leg-rocker-t245272)",
+      "https://today.com/health/how-do-side-plank-target-your-obliques-tone-your-core-t218374),",
+      "https://www.priveswissfitness.com/paula-lester/),",
+      "https://today.com/health/why-your-desk-hurting-you-how-ease-pain-t43786)",
+      "https://today.com/health/diet-fitness/hip-flexor-stretches-rcna16322).",
+      "https://today.com/health/diet-fitness/june-2022-start-today-walking-plan-rcna30101),",
+      "https://today.com/health/diet-fitness/wall-pilates-exercises-rcna103846).",
+      "https://today.com/health/diet-fitness/pilates-exercises-rcna26346)",
+      "https://today.com/health/diet-fitness/plank-exercise-rcna24413)",
+      "https://today.com/health/how-do-dumbbell-shoulder-press-get-results-today-t227469).",
+      "https://today.com/shop/best-shoes-plantar-fasciitis-t256433),”",
+      "https://today.com/shop/low-impact-exercise-equipment-t277106)",
+      "https://today.com/health/diet-fitness/my-weight-loss-journey)",
+      "https://ncbi.nlm.nih.gov/pubmed/28167194)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:59:30.845+02:00",
+    "updated": "2023-12-29T00:59:30.845+02:00"
+  },
+  {
+    "uuid": "496a344170defd774b681bcf475c8805c9e56563",
+    "url": "https://www.terra.com.br/diversao/organizacoes-internacionais-de-checagem-rebatem-mark-zuckerberg-verdade-alimenta-a-liberdade-de-expressao,1b3bf012b653a67e3a9f472c930db76dgl0hsejr.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "pipocamoderna",
+    "published": "2025-01-09T23:33:00Z",
+    "title": "Organizações internacionais de checagem rebatem Mark Zuckerberg: \"Verdade alimenta a liberdade de expressão\"",
+    "text": "Organizações internacionais de checagem rebatem Mark Zuckerberg: \"Verdade alimenta a liberdade de expressão\"\nCarta aberta assinada por instituições de 17 países alerta para riscos de desinformação e instabilidade global após anúncio do dono da Meta\nCrítica mundial à Meta\nVinte organizações de verificação de fatos de 17 países diferentes enviaram uma carta aberta a Mark Zuckerberg nesta quinta-feira (9/1), classificando como um \"retrocesso\" a decisão da Meta de encerrar seu programa de checagem independente nas plataformas Facebook, Instagram e Threads. O documento, publicado pelo Instituto Poynter de Estudos de Mídia, alerta para \"danos reais\" decorrentes da suspensão, especialmente em regiões vulneráveis à desinformação.\n\"Acreditamos que a decisão de encerrar o programa de verificação de fatos da Meta é um retrocesso para aqueles que desejam ver uma internet que prioriza informações precisas e confiáveis\", afirma o texto.\nJustificativa e resposta\nMark Zuckerberg anunciou a medida em um vídeo divulgado nas redes sociais na quarta (8/1), afirmando que o programa havia se tornado uma \"ferramenta de censura\" e que os verificadores passaram a atuar com \"tendência política\".\n\"O senhor (Mark Zuckerberg) se gabou do 'programa de verificação de fatos da Meta ser líder da indústria' durante depoimento ao Congresso americano\", recorda o documento, referindo-se a uma audiência realizada em 2021 sobre a falta de controle das redes sociais.\nA verdadeira liberdade de expressão\nA carta enfatiza que algumas regiões onde o programa de checagem atuava são especialmente suscetíveis à desinformação, com riscos de instabilidade política, interferência eleitoral, linchamentos e genocídios. \"O acesso à verdade alimenta a liberdade de expressão\", reforça o texto.\n\"Se as pessoas acreditarem que as plataformas de mídia social estão cheias de golpes e boatos, elas não passarão tempo ou farão negócios nelas\", alerta o texto, assinado também por duas agências brasileiras: Lupa e Aos Fatos.\nAdmirável mundo novo\nA Meta iniciou nesta semana a notificação de checadores nos Estados Unidos sobre o encerramento dos contratos. O programa de verificação de fatos, criado em 2016, contava com cerca de 80 organizações certificadas pela International Fact-Checking Network (IFCN). Os checadores seguiam critérios rigorosos e não tinham autonomia para remover conteúdo, apenas rotulavam informações falsas, uma atribuição que sempre foi responsabilidade da empresa.\nNo lugar do programa, a empresa adotará um modelo semelhante ao do X (antigo Twitter), em que usuários fazem a classificação de conteúdos por meio das chamadas Notas da Comunidade.\nAo mesmo tempo, a empresa mudou suas regras para permitir comportamento anteriormente considerado de ódio, como relacionar sexualidade com doença mental e criticar migrantes, além de liberar conteúdo político, que será recebido até por contas que não seguem os perfis escolhidos pela Meta para viralizarem.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Politics->censorship and freedom of speech",
+      "Social Issue->social problem",
+      "Social Issue->discrimination",
+      "Science and Technology->social sciences"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:52:55.611+02:00",
+    "updated": "2025-01-10T03:52:55.611+02:00"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "uuid": "2fbe975e5006bd55f2fac3a1f9ee1d687248c56d",
+    "url": "https://www.insidesport.in/cricket/beyond-centurion-rohit-sharma-defends-india-poor-batting-show-amidst-sa-setback/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anukul Chauhan",
+    "published": "2023-12-29T00:00:00Z",
+    "title": "Beyond Centurion: Rohit Sharma defends India's poor batting show amidst SA setback",
+    "text": "In the aftermath of India’s disheartening innings defeat against South Africa in the first Test at Centurion, captain Rohit Sharma remains resolute in his support for the team’s batters, emphasizing the need to avoid knee-jerk reactions to a single performance. While acknowledging the team’s below-par showing, Rohit urges cricket enthusiasts not to forget the triumphs in England and Australia, reminding them of the resilience displayed by the same set of players in recent overseas tours. India’s batting unit faltered as they were bundled out for 245 and 131 runs in the match, succumbing to an innings defeat by 32 runs. KL Rahul’s splendid century and Virat Kohli’s fluent 76 were the lone bright spots in an otherwise lackluster performance. Youngsters Yashasvi Jaiswal, Shubman Gill, and Shreyas Iyer, on their maiden Test tour to South Africa, struggled to make a substantial impact. Rohit Sharma, however, urges against undue criticism, emphasizing that the current team has proven its mettle in challenging conditions abroad. “Don’t forget what we did in Australia and England,” Rohit asserts, pointing to recent successes where India clinched historic victories with a potent combination of batting and bowling. Also Read: Final Frontier remains unconquered Ajinkya Rahane & Cheteshwar Pujara could have been game-changers in South Africa SKY out, Hardik out, Rohit not interested, Who will lead India in Afghanistan T20Is? Indian batsmen’s poor numbers in South Africa a worry, Sarfaraz Khan becomes must Rohit Sharma acknowledges Jasprit Bumrah quality Addressing concerns about the team’s adaptability to the moving ball overseas, Rohit Sharma highlights the importance of recognizing each player’s unique technique. Drawing attention to KL Rahul exemplary innings in the first Test, Rohit Sharma underscores the need for a customized game plan tailored to the specific challenges posed by conditions in South Africa. Nevertheless, Rohit Sharma expresses his displeasure with the approach of some players, without explicitly naming them. He stresses the thin line between showing intent and maintaining discipline in such conditions, cautioning against reckless shot-making. “We can’t just go and swing our bats. That’s not the conditions to do that,” Rohit asserts, emphasizing the importance of a balanced approach that combines intent with discipline. While batting concerns linger, Rohit Sharma also acknowledges the disappointments on the bowling front, with only Jasprit Bumrah making a notable impact. He points out that the other pacers—Mohammed Siraj, Shardul Thakur, and Prasidh Krishna—struggled to contain the South African batsmen. Rohit concedes that the bowlers need to learn from South Africa’s disciplined performance and stresses the importance of a collective effort. Reflecting on the match, Rohit Sharma acknowledges Bumrah’s quality but notes the necessity for collective support. “All he wanted was a bit of support which he didn’t get,” Rohit laments, highlighting the learning experience that such challenging games provide for the bowling unit. In the face of adversity, Rohit Sharma remains steadfast in his belief in the team’s capabilities, urging fans and critics alike to maintain perspective and trust in the proven ability of this Indian side to bounce back from setbacks.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://twitter.com/InsideSportIND?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "https://twitter.com/InsideSportIND",
+      "https://www.twitter.com/InsideSportIND?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "rohit sharma",
+          "sentiment": "negative"
+        },
+        {
+          "name": "yashasvi jaiswal",
+          "sentiment": "none"
+        },
+        {
+          "name": "shubman gill",
+          "sentiment": "none"
+        },
+        {
+          "name": "rohit",
+          "sentiment": "none"
+        },
+        {
+          "name": "virat kohli",
+          "sentiment": "none"
+        },
+        {
+          "name": "rohit ass",
+          "sentiment": "none"
+        },
+        {
+          "name": "shreyas iyer",
+          "sentiment": "none"
+        },
+        {
+          "name": "kl rahul",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "south africa",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "england",
+          "sentiment": "none"
+        },
+        {
+          "name": "australia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T03:30:09.157+02:00",
+    "updated": "2023-12-29T03:30:09.157+02:00"
+  },
+  {
+    "uuid": "392a87039702e4292961a18ca0361d7dda4efde5",
+    "url": "https://www.forbes.com/sites/zakdoffman/2025/01/10/fbis-iphone-android-warning-new-update-means-you-may-send-texts-again",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Zak Doffman",
+    "published": "2025-01-10T00:00:00Z",
+    "title": "FBI's iPhone, Android Warning-New Update Means You May Send Texts Again",
+    "text": "The big tech news last month was the FBI’s alert to iPhone and Android users to stop texting . Sending SMS messages is a blanket no—it’s woefully insecure. But the more surprising warning was the security hole in newer RCS messaging , which Apple has just adopted on iPhone and which has become the standard across Android. The question for all those iPhone and Android users is when can they start texting again. A new leak suggests this might be coming soon.\nThe issue exposed by the FBI’s warning was the lack of end-to-end encryption within the core RCS technology itself. Google solved this problem by wrapping full encryption around RCS messages sent between Google Messages users. But message an RCS user on a different app or an iPhone, and that encryption falls away. Apple has the same problem. iMessage encryption only works between Apple users, outside Apple’s walled garden it also falls away .\nThis issue was clear long before the FBI and America’s cyber defense agency issued their warning for cell phone users to stop texting and use end-to-end encrypted messaging and calls “wherever possible.” It was highlighted when Apple released its RCS deployment with iOS 18 last fall. Google and GSMA — the mobile standards setter — were quick to announce end-to-end encryption will come to RCS , albeit a more detailed update is still months away.\nForbes Google’s Gmail Upgrade—Do Not Lose Your Account By Zak Doffman Now a new leak per Android Authority’s investigation into pre-release code suggests that “the latest Google Messages beta supports MLS encryption, RCS’s next step toward E2EE interoperability across apps and platforms.” The team says “we managed to enable MLS for one-on-one RCS conversations in Google Messages, but we haven’t been able to enable it for RCS group chats yet. This indicates that MLS encryption support could be on the horizon for Google Messages.”\nGoogle Starts Tracking All Your Devices In 6 Weeks—Forget Chrome And Android California Wildfire Live Updates: Death Toll Rises To 10 As Police Arrest Arson Suspect Near Kenneth Fire Samsung Updates Galaxy S24, S23, S22, S21—But S25 Will Be Different I have suggested before that a much simpler solution would be for Google and Apple to collaborate on a fully encrypted bridge between iMessage and Google Messages, but that isn’t currently on the cards. Instead the standard RCS protocol; needs to be upgraded. And that work will fall mostly to Google as the primary driver behind RCS’s expansion. Apple has thus far seemed very cool on the platform and seemed to u-turn on its adoption reluctantly.\nMLS or Messaging Layer Security is an IETF supported initiative that aims to provide end-to-end encryption “for group chat settings, in which more than two clients need to agree on a key but may not be online at the same time.” When it first became clear Google was playing with MLS , it seemed it might be for group chats initially, but that seems to have changed.\nForbes Meta Decision Sends Searches To Delete Facebook Soaring By Zak Doffman Android Authority says that “’Zinnia’ is the codename for MLS encryption that Google is using within Google Messages,” and by playing with settings flags “we could enable MLS encryption,” and interestingly that “we can enable MLS encryption only for one-to-one conversations using flags,” despite its group chat origins.\nThe last update from GSMA on full encryption coming to RCS suggested we still had months more to wait before even getting a timetable on this development. And as I have warned before, this will likely come first to Google Messages in beta for a period before any wider release. Then it needs to make its way onto iPhones, which will take more time unless there’s much more background activity prompted by the FBI’s warning than we realize. Absent that, it would seem likely to be an iOS 19 upgrade at the earliest. Albeit that’s only speculation — there’s no formal update at all.\nIn the meantime, for Android and iPhone users who would rather send RCS texts from their stock messengers than adopt an over-the-top platform such as Signal or WhatsApp as the U.S. government advises , this will be welcome news.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Social Issue->values",
+      "Social Issue->social networking",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://capi.elements.video/tr/si?token=",
+      "https://www.androidauthority.com/google-messages-prepares-mls-encryption-rcs-apk-teardown-3514829/",
+      "https://www.gsma.com/newsroom/article/rcs-nowin-ios-a-new-chapter-for-mobile-messaging/",
+      "https://cds.elements.video/a/preload-resources-ovp.json",
+      "https://www.cisa.gov/sites/default/files/2024-12/guidance-mobile-communications-best-practices.pdf",
+      "https://datatracker.ietf.org/doc/rfc9420/",
+      "https://www.cds.elements.video/a/preload-resources-ovp.json",
+      "https://www.capi.elements.video/tr/si?token=",
+      "https://gsma.com/newsroom/article/rcs-nowin-ios-a-new-chapter-for-mobile-messaging/",
+      "https://datatracker.ietf.org/doc/rfc9420",
+      "https://cisa.gov/sites/default/files/2024-12/guidance-mobile-communications-best-practices.pdf",
+      "https://androidauthority.com/google-messages-prepares-mls-encryption-rcs-apk-teardown-3514829/",
+      "https://www.androidauthority.com/google-messages-prepares-mls-encryption-rcs-apk-teardown-3514829",
+      "https://www.datatracker.ietf.org/doc/rfc9420/",
+      "https://www.gsma.com/newsroom/article/rcs-nowin-ios-a-new-chapter-for-mobile-messaging",
+      "https://capi.elements.video/tr/si"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "FBI",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Google",
+          "sentiment": "none"
+        },
+        {
+          "name": "Apple",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T11:48:24.156+02:00",
+    "updated": "2025-01-10T13:10:45.721+02:00"
+  },
+  {
+    "uuid": "05e526b6359ab348c88bacd70ae1ae1ea00ff39c",
+    "url": "https://ground.news/article/senamhi-warns-of-flooding-of-rivers-in-eight-departments-due-to-rains",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Los Tiempos",
+    "published": "2023-12-28T19:42:00Z",
+    "title": "Ground News - Senamhi warns of flooding of rivers in eight departments due to rains",
+    "text": "Summary by Los Tiempos La Paz, Pando, Chuquisaca, Beni, Tarija, Potosí, Cochabamba and Santa Cruz are on orange alert because of the rains that may cause rivers to overflow, said the Deputy Minister of Civil Defense, Juan Carlos Calvimontes, who asked subnational authorities to take their precautions. Share menu More\nFilters 1 Articles 1 Articles All Left Center Right\nLos Tiempos Senamhi warns of flooding of rivers in eight departments due to rains La Paz, Pando, Chuquisaca, Beni, Tarija, Potosí, Cochabamba and Santa Cruz are on orange alert because of the rains that may cause rivers to overflow, said the Deputy Minister of Civil Defense, Juan Carlos Calvimontes, who asked subnational authorities to take their precautions.\n2 hours ago Read Full Article\nLos Tiempos\nSenamhi warns of flooding of rivers in eight departments due to rains La Paz, Pando, Chuquisaca, Beni, Tarija, Potosí, Cochabamba and Santa Cruz are on orange alert because of the rains that may cause rivers to overflow, said the Deputy Minister of Civil Defense, Juan Carlos Calvimontes, who asked subnational authorities to take their precautions.\n2 hours ago Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "external_links": [
+      "https://www.lostiempos.com/actualidad/pais/20231228/senamhi-alerta-desborde-rios-ocho-departamentos-lluvias?utm_source=ground.news&utm_medium=referral",
+      "https://lostiempos.com/actualidad/pais/20231228/senamhi-alerta-desborde-rios-ocho-departamentos-lluvias?utm_source=ground.news&utm_medium=referral",
+      "https://www.lostiempos.com/actualidad/pais/20231228/senamhi-alerta-desborde-rios-ocho-departamentos-lluvias"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "beni",
+          "sentiment": "negative"
+        },
+        {
+          "name": "santa cruz",
+          "sentiment": "negative"
+        },
+        {
+          "name": "pando",
+          "sentiment": "negative"
+        },
+        {
+          "name": "la paz",
+          "sentiment": "none"
+        },
+        {
+          "name": "juan carlos calvimontes",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ground news - senamhi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "los tiempos la paz",
+          "sentiment": "negative"
+        },
+        {
+          "name": "civil defense",
+          "sentiment": "none"
+        },
+        {
+          "name": "los tiempos senamhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "articles all left center right los tiempos senamhi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "chuquisaca",
+          "sentiment": "none"
+        },
+        {
+          "name": "potosí",
+          "sentiment": "none"
+        },
+        {
+          "name": "cochabamba",
+          "sentiment": "none"
+        },
+        {
+          "name": "tarija",
+          "sentiment": "none"
+        },
+        {
+          "name": "santa cruz",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:09:55.842+02:00",
+    "updated": "2023-12-29T00:09:55.842+02:00"
+  },
+  {
+    "uuid": "aeb3e0ac63cdc191560533d1bba7763aab090690",
+    "url": "https://www.christianpost.com/news/over-60-christians-killed-by-radicalized-fulani-in-nigeria.html",
+    "ord_in_thread": 0,
+    "author": "@ChristianPost",
+    "published": "2025-04-09T21:32:00Z",
+    "title": "Over 60 Christians killed by radicalized Fulani in Nigeria | World",
+    "text": "Over 60 Christians killed by radicalized Fulani in Nigeria; 383 homes destroyed: report\nFulani terrorists on April 2 and 3 killed more than 60 Christians in Plateau state, Nigeria, in what the governor called a “genocide,” sources said.\nThe attacks were carried out against seven Christian communities in Bokkos County, including Hurti village, where more than 40 Christians were slain, said community leader Maren Aradong.\n“More than 1,000 Christians were displaced [in Hurti] during the attacks, and 383 houses were destroyed by these bandits,” Aradong told Christian Daily International-Morning Star News. “These attacks began on Wednesday, 2 April, at about 3 p.m., when these armed Muslim Fulani herdsmen invaded our communities in large numbers; they came on motorcycles and attacked us.”\nThe assailants destroyed food stores and looted other items, he added.\nFarmasum Fuddang, chairman of the Bokkos Community Development Council (BCDC), said initially 21 Christians were killed on April 2, but by the next day, 40 more Christians were slaughtered, bringing the death toll to “more than 60 Christians killed during the two days of onslaught against our communities.”\n“These attacks were carried out by Fulani terrorists who targeted Christian communities of Ruwi, Mangor, Tamiso, Daffo, Manguna, Hurti, and Tadai,” Fuddang said.\nAn attack in Ruwi village on Wednesday resulted in the deaths of 11 Christians attending a wake for a deceased community member, he said, and by the following morning, 10 other Christians were killed in the village.\nPlateau Gov. Caleb Mutfwang told Arise News on Monday that the attacks in Bokkos constituted genocide.\n“I would say it unapologetically, what happened in the last two weeks in Bokkos is genocide — I say it unreservedly,” Mutfwang said in a televised interview. “No one has given me any reason to believe that what happened was politically motivated, and if there is any such suggestion, I’ll be glad to receive the evidence of such, because these were unprovoked attacks on innocent people, vulnerable people.”\nOver the years such attacks have come during the onset of the farming season, followed by a respite while Christian farmers cultivate what little remains, and then attacks resume at harvest time, he said.\n“So, it suggests to us that this is a well-coordinated plan to keep the people in those areas in perpetual poverty,” Mutfwang said. “It is possible that there could have been tensions in the past between communities, but I’ve challenged anyone to tell me who the feuding communities are. If we knew any community feuding with another community, we’ll be able to step in and bring in a reconciliation process. But at the moment you are dealing with attackers that are faceless, and so you just leave it to the fact that this is ill-motivated and is aimed at driving the people out of their lands.”\nPredominantly Christian farmers are driven from their lands for three to five years of occupation by predominantly Muslim Fulanis, suggesting the attacks are motivated by desire to seize lands, he said.\n“I’ve had people dispute that land-grabbing is the motive, but we are yet to find evidence to the contrary,” Mutfwang said. “These communities have lived in peace with other ethnic nationalities, with other people of religious persuasions. The interesting thing you will know on the Plateau is that many families are inter-religious, and so religion is not so much the issue. I think that here we are dealing with some powerful forces who mobilize these faceless people and come and unleash it on these natives. And at the end of the day, the natives are left defenseless because they never envisaged that this kind of attack will happen.”\nHe condemned the attacks as “unprovoked.”\nMaj. Samson Zakhom, military spokesman for soldiers drafted to Bokkos, confirmed in a statement that villages attacked included Tamiso, Daffo, Manguna, Tadai and Hurti. He added that soldiers repelled the assailants and that ongoing military operations aimed at tracking down the assailants.\n“On April 3, further clearance operations were carried out at Hurti, where troops encountered and engaged militants hiding in the mountainous region,” Zakhom said. “The ensuing confrontation resulted in the recovery of a locally fabricated pistol, six rounds of 9 mm ammunition and four motorcycles. The troops are continuing efforts to neutralize the remaining militants still at large in the area.”\nAmnesty International on Friday called on the Nigerian government to stem killings in Plateau state and demanded justice for victims, calling attacks “a pattern of mass killings and government inaction” in central Nigeria.\nThe statement from Amnesty International noted that the villages of Ruwi, Mangor, Daffo, Manguna, Hurti and Tadai have been repeatedly attacked.\n“Apart from killing people, the attackers are also razing entire villages, deliberately destroying homes and farms,” Amnesty stated. “Investigations carried out by us have showed that at least 1,336 people were killed between December 2023 and February 2024 across Plateau state, with Mangu, Bokkos and Barkin-Ladi Local Government Areas being the worst affected.”\nResidents continue to express deep frustration with the response of security forces, alleging that they are either absent during attacks or show up too late to prevent bloodshed, the group reported.\n“Most villagers repeatedly told Amnesty International that the government left them at the mercy of their attackers,” it stated. “They complained of receiving little or no help from security officials during attacks, despite informing them prior or calling for help during the incidents. The fact that no perpetrators have been brought to justice leaves rural communities of Plateau state feeling completely helpless and at the mercy of ruthless gunmen.”\nThe Rev. Tongsmangs Dasbak, a Christian leader in Plateau state, said the attacks have deeply affected the areas.\n“The ongoing security crisis in Plateau state, particularly in Mangu and Bokkos Local Government Areas, has reached alarming levels,” Dasbak said in a statement to Christian Daily International-Morning Star News. “The persistent attacks by marauding Fulani herdsmen have led to significant loss of lives, destruction of property, and displacement of communities. Despite the concerted efforts by the state government to restore peace, the situation remains dire, necessitating urgent federal intervention.”\nMangu and Bokkos counties have suffered high numbers of casualties, with hundreds of people losing their lives and many more sustaining life-threatening injuries, he said.\n“The indiscriminate killings often target defenseless civilians, including women, children and the elderly,” Dasbak said. “Entire families have been wiped out in midnight raids, leaving behind a trail of sorrow and despair. This loss of human life is not just a statistic but a profound tragedy that has disrupted the social fabric of the region.”\nHomes, schools, church buildings and markets have been razed to the ground as communities that took years to build have been reduced to ashes within hours, he said. Many survivors who managed to escape the violence now live in Internally Displaced Persons (IDP) camps, unable to return to their homes.\n“The destruction of infrastructure further exacerbates the crisis, as essential services such as healthcare, education and transportation are severely disrupted,” he said. “Without proper security measures, these attacks continue to escalate, leaving behind a wasteland of desolation.”\nMilitary intervention is required to dismantle the networks of the armed herdsmen and restore peace, he said, adding that intelligence-based operations, coupled with the deployment of well-equipped security personnel, can help neutralize the violence.\n“Romans 13:4 states, ‘For the one in authority is God’s servant for your good. But if you do wrong, be afraid, for rulers do not bear the sword for no reason. They are God’s servants, agents of wrath to bring punishment on the wrongdoer,’” Dasbak said. “The federal government must exercise its authority to bring justice to the oppressed and end the reign of terror in Plateau state.”\nNumbering in the millions across Nigeria and the Sahel, predominantly Muslim Fulani comprise hundreds of clans of many different lineages who do not hold extremist views, but some Fulani do adhere to radical Islamist ideology, the United Kingdom’s All-Party Parliamentary Group for International Freedom or Belief (APPG) noted in a 2020 report.\n“They adopt a comparable strategy to Boko Haram and ISWAP and demonstrate a clear intent to target Christians and potent symbols of Christian identity,” the APPG report states.\nChristian leaders in Nigeria have said they believe herdsmen attacks on Christian communities in Nigeria’s Middle Belt are inspired by their desire to forcefully take over Christians’ lands and impose Islam, as desertification has made it difficult for them to sustain their herds.\nNigeria remained among the most dangerous places on earth for Christians, according to Open Doors’ 2025 World Watch List of the countries where it is most difficult to be a Christian. Of the 4,476 Christians killed for their faith worldwide during the reporting period, 3,100 (69 percent) were in Nigeria, according to the WWL.\n“The measure of anti-Christian violence in the country is already at the maximum possible under World Watch List methodology,” the report stated.\nIn the country’s North-Central zone, where Christians are more common than they are in the North-East and North-West, Islamic extremist Fulani militia attack farming communities, killing many hundreds, Christians above all, according to the report. Jihadist groups such as Boko Haram and the splinter group Islamic State in West Africa Province (ISWAP), among others, are also active in the country’s northern states, where federal government control is scant and Christians and their communities continue to be the targets of raids, sexual violence, and roadblock killings, according to the report. Abductions for ransom have increased considerably in recent years.\nThe violence has spread to southern states, and a new jihadist terror group, Lakurawa, has emerged in the northwest, armed with advanced weaponry and a radical Islamist agenda, the WWL noted. Lakurawa is affiliated with the expansionist Al-Qaeda insurgency Jama’a Nusrat ul-Islam wa al-Muslimin, or JNIM, originating in Mali.\nNigeria ranked seventh on the 2025 WWL list of the 50 worst countries for Christians.\nThis article was originally published by Christian Daily International–Morning Star News.\nChristian Daily International provides biblical, factual and personal news, stories and perspectives from every region, focusing on religious freedom, holistic mission and other issues relevant for the global Church today.\nMorning Star News is the only independent news service focusing exclusively on the persecution of Christians. The nonprofit's mission is to provide complete, reliable, even-handed news in order to empower those in the free world to help persecuted Christians, and to encourage persecuted Christians by informing them that they are not alone in their suffering.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "War, Conflict and Unrest->massacre",
+      "Social Issue->discrimination",
+      "Social Issue->religious discrimination",
+      "Social Issue->abusive behaviour",
+      "Crime, Law and Justice->homicide",
+      "Crime, Law and Justice->terrorism"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.arise.tv/what-happened-in-bokkos-was-genocide-attempt-at-land-grabbing-says-plateau-governor-muftwang/",
+      "https://morningstarnews.org/",
+      "https://appgfreedomofreligionorbelief.org/media/200615-Nigeria-Unfolding-Genocide-Report-of-the-APPG-for-FoRB.pdf",
+      "https://www.christiandaily.com/",
+      "https://www.arise.tv/what-happened-in-bokkos-was-genocide-attempt-at-land-grabbing-says-plateau-governor-muftwang",
+      "https://www.appgfreedomofreligionorbelief.org/media/200615-Nigeria-Unfolding-Genocide-Report-of-the-APPG-for-FoRB.pdf",
+      "https://christiandaily.com/",
+      "https://arise.tv/what-happened-in-bokkos-was-genocide-attempt-at-land-grabbing-says-plateau-governor-muftwang/",
+      "https://www.morningstarnews.org/",
+      "https://morningstarnews.org",
+      "https://www.christiandaily.com"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Fulani",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Farmasum Fuddang",
+          "sentiment": "none"
+        },
+        {
+          "name": "Maren Aradong",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Bokkos County",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Christian Daily International-Morning Star News",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Bokkos Community Development Council",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "BCDC",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:46:46.056+03:00",
+    "updated": "2025-04-10T00:46:46.056+03:00"
+  },
+  {
+    "uuid": "d1a40a822a0c01e40e351f1f3a11e8f9ab62722b",
+    "url": "https://www.gastongazette.com/story/news/nation/2023/12/28/minnesota-woman-sues-dentist/72050466007/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mary Walrath-Holdridge",
+    "published": "2023-12-28T21:40:00Z",
+    "title": "Kathleen Wilson's Minnesota dentist did 30 procedures at once: lawsuit",
+    "text": "20 fillings, 4 root canals, 8 crowns in one visit add up to lawsuit for Minnesota dentist [Mary Walrath-Holdridge](https://www.usatoday.com/staff/12093029002/mary-walrathholdridge/) A Minnesota dentist has become the subject of a malpractice lawsuit after his patient accused him of \"disfiguring\" her. The civil lawsuit was filed in Hennepin County, Minnesota last week by Kathleen Wilson, who alleged Dr. Kevin Molldrem and [Molldrem Family Dentistry](https://molldremdentistry.com/) caused her significant injury that is still being corrected. According to the suit, Molldrem performed more than 30 producers on Wilson in a single July 2020 visit, doing eight crowns, four root canals and 20 fillings in one go. The lawsuit alleges that the dentist \"perform[ed] this work improperly,\" resulting in pain and suffering, embarrassment, emotional distress, and disfigurement. Molldrem was likewise accused of using improper levels of anesthesia during the procedures and falsifying medical records to cover it up. Treatment called 'inconceivable' “It is inconceivable that Dr. Molldrem could have prepared and placed 8 crowns under these circumstances in the time allotted, not to mention the additional 20 restorations,” wrote [Dr. Avrum Goldstein,](https://www.seakexperts.com/members/4827-avrum-r-goldstein) a dentist and expert witness brought on by Wilson's attorney, in an affidavit. Goldstein, who is a faculty member at [NOVA Southeastern University](https://dental.nova.edu/aboutus/faculty/goldstein-avrum%20.html?_gl=1*1kqtqxq*_gcl_au*ODA4NzUxNTA1LjE3MDM3OTc5MjI.), also wrote that Wilson had been correctly diagnosed as having a \"rare condition\" causing decay in almost all of her teeth, but Mollderm's course of action was not a proper form of treatment. \"[Wilson’s] required a slow, thoughtful, careful and measured response to her disease,” he said in his report. “Trying to fill every hole in every tooth in her mouth in one visit is not only the antithesis of what was indicated, it is not humanly possible to achieve in an effective or constructive manner.” Doctors remove wrong organ from man: [They opened him up to remove his appendix. They mistakenly took out much more, lawsuit says.](/story/news/health/2023/11/07/doctors-accidentally-remove-wrong-organ-surgery/71487292007/) The lawsuit also accused Mollderm of tampering with medical records to falsify the amount of anesthesia that was reportedly used, which in reality was nearly double the standard number of units, according to court paperwork. According to Goldstein, the maximum dose of anesthesia given in three hours should not exceed 490 mg, but Molldrem's records show he gave Wilson 960 mg. “Any negative cardiovascular or central nervous system outcomes could be tied to the local anesthetic overdose,\" he wrote. Wilson said in the suit that she has since had to have the dental work completely redone by other dentists to repair Molldrem’s “negligent work,\" an ongoing process that has caused her to lose income and rack up medical bills on top of enduring pain, suffering and embarrassment. She is seeking more than $50,000 in damages. Wilson's attorney and Molldrem did not immediately respond to request for comment.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Health",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.seakexperts.com/members/4827-avrum-r-goldstein)",
+      "https://www.usatoday.com/staff/12093029002/mary-walrathholdridge/)",
+      "https://dental.nova.edu/aboutus/faculty/goldstein-avrum%20.html?_gl=1*1kqtqxq*_gcl_au*ODA4NzUxNTA1LjE3MDM3OTc5MjI.),",
+      "https://molldremdentistry.com/)",
+      "https://www.molldremdentistry.com/)",
+      "https://usatoday.com/staff/12093029002/mary-walrathholdridge/)",
+      "https://www.dental.nova.edu/aboutus/faculty/goldstein-avrum%20.html?_gl=1*1kqtqxq*_gcl_au*ODA4NzUxNTA1LjE3MDM3OTc5MjI.),",
+      "https://seakexperts.com/members/4827-avrum-r-goldstein)",
+      "https://dental.nova.edu/aboutus/faculty/goldstein-avrum%20.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mary walr",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kathleen wilson",
+          "sentiment": "negative"
+        },
+        {
+          "name": "molldrem",
+          "sentiment": "none"
+        },
+        {
+          "name": "holdridge",
+          "sentiment": "none"
+        },
+        {
+          "name": "kevin molldrem",
+          "sentiment": "none"
+        },
+        {
+          "name": "wilson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "minnesota",
+          "sentiment": "none"
+        },
+        {
+          "name": "hennepin county",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:26:32.351+02:00",
+    "updated": "2023-12-29T00:26:32.351+02:00"
+  },
+  {
+    "uuid": "c1a7cae8ff30f19b5d2951625174cf293576e752",
+    "url": "https://macmillan.yale.edu/event/keynote-how-make-europe-peoples-project-alberto-alemanno",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "yahoo",
+    "published": "2024-05-06T00:00:00Z",
+    "title": "Keynote: \"How to Make Europe a People’s Project?\" | Alberto Alemanno | The MacMillan Center",
+    "text": "Event time: Wednesday, May 8, 2024 - 5:00pm to 6:00pm Location: Henry R. Luce Hall (LUCE ), 202 See map 34 Hillhouse Avenue New Haven , CT 06511 Event description: Keynote Address of the 5th annual Yale European and Eurasian Studies Graduate Student Conference by Alberto Alemanno, the Jean Monnet Professor of European Union Law, HEC Paris (France)\nModerated by Ligia Fabris Campos, the Henry Hart Rice Visiting Professor, Yale University and Assistant Professor at the Law School of Getulio Vargas Foundation (Brazil)\n“How to Make Europe a People’s Project?”\nAfter 70 years of unprecedented socioeconomic integration, the EU continues to evolve through processes that largely marginalize citizens’ input. It remains virtually impossible for an EU citizen – not to mention its residents – to express their desire for a change in the Union’s direction and hold its institutions accountable. Yet the question of how would the Union look like if it had put citizens at its centre not margins remains not only unanswered but also unimagined.\nLocation: Henry R. Luce Hall, Rm 202 / Register to attend on zoom: https://bit.ly/YaleEuropeanGradConf & for complete conference schedule: https://bit.ly/2024-YaleESCGradConf\nBio: Alberto Alemanno is the Jean Monnet Professor of European Union Law at HEC Paris and visiting professor at the College of Europe in Bruges. One of the leading voices on Europe’s democratization, Alberto’s research has been centered on how the law may be used to counter social, health, economic, and political disparities of access within society. Alberto is also permanent visiting professor at the University of Tokyo School of Public Policy. Due to his commitment to bridge the gap between academic research and policy action, Alberto has established The Good Lobby, a nonprofit whose mission is to equalize access to power, by enhancing the advocacy capacity of civil society. Due to his public interest work, he was recognized Young Global Leader by the World Economic Forum, Ashoka fellow, Social Innovation Thought Leader by the Schwab Foundation and one of the top 40 influencers in Europe by Politico. Alberto is a regular contributor to Le Monde, The Guardian, Politico Europe, Bloomberg, and Euronews. His first trade book, ‘Lobbying for Change: Find Your Voice to Create a Better Society’, provides a conceptual and do-it-yourself guide enabling ordinary citizens to speak up and inform policy decisions at local, national and international level. Originally from Italy, Alberto is a graduate of Harvard Law School, the College of Europe and holds a PhD in International Law and Economics from Bocconi University. He lives in Bilbao with his three daughters.\nAlberto Alemanno, the Jean Monnet Professor of European Union Law, HEC Paris (France) Contact: European Studies Council european.studies@yale.edu Original event page",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "http://maps.google.com?q=34+Hillhouse+Avenue%2C+New+Haven%2C+CT%2C+06511%2C+us",
+      "https://bit.ly/2024-YaleESCGradConf",
+      "https://bit.ly/YaleEuropeanGradConf",
+      "https://www.bit.ly/YaleEuropeanGradConf",
+      "https://www.bit.ly/2024-YaleESCGradConf",
+      "http://www.maps.google.com?q=34+Hillhouse+Avenue%2C+New+Haven%2C+CT%2C+06511%2C+us",
+      "http://maps.google.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "alberto alemanno",
+          "sentiment": "negative"
+        },
+        {
+          "name": "henry r. luce hall (luce",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "henry r. luce hall",
+          "sentiment": "none"
+        },
+        {
+          "name": "ligia fabris campos",
+          "sentiment": "none"
+        },
+        {
+          "name": "henry hart rice",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "eu",
+          "sentiment": "none"
+        },
+        {
+          "name": "yale university",
+          "sentiment": "none"
+        },
+        {
+          "name": "hec paris",
+          "sentiment": "none"
+        },
+        {
+          "name": "hillhouse avenue new haven",
+          "sentiment": "none"
+        },
+        {
+          "name": "yale",
+          "sentiment": "none"
+        },
+        {
+          "name": "jean monnet professor of european union law",
+          "sentiment": "none"
+        },
+        {
+          "name": "law school of getulio vargas foundation",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "europe",
+          "sentiment": "none"
+        },
+        {
+          "name": "eu",
+          "sentiment": "none"
+        },
+        {
+          "name": "brazil",
+          "sentiment": "none"
+        },
+        {
+          "name": "france",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-07T03:12:51.410+03:00",
+    "updated": "2024-05-07T03:12:51.410+03:00"
+  },
+  {
+    "uuid": "9d4632f0bc1b6da38abd9b690b4713dcbe62d39d",
+    "url": "https://www.newsbreak.com/oakland-ca/3540420685335-mason-miller-injury-athletics-closer-trade-candidate-lands-on-il-with-broken-finger-on-non-pitching-hand",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-07-25T20:28:00Z",
+    "title": "Mason Miller injury: Athletics closer, trade candidate lands on IL with broken finger on non-pitching hand",
+    "text": "By Mike Axisa ,\n1 hour ago Getty Images The Oakland Athletics will be without All-Star closer Mason Miller for the foreseeable future. Miller was placed on the 15-day injured list with a broken pinky in his left hand, the team announced Thursday. According to MLB.com , Miller suffered the injury when he put his hand down awkwardly during an exercise following Monday's win over the Houston Astros ( OAK 4, HOU 0 ).\nMiller appeared in Monday's game and was terrific. He threw 11 pitches, averaged 101.4 mph with his fastball, and retired all three batters without incident. It was a stress-free outing.\nMiller, 25, has a 2.21 ERA with 70 strikeouts in 40 2/3 innings this year. He is 15 for 17 in save chances. The lack of saves obviously has more to do with the A's being 41-63 on the season, not something that is Miller's fault. He's been outstanding and has regularly worked in non-save situations (like Monday) just to avoid going too long between outings.\nGiven his performance and high-octane stuff, Miller is frequently mentioned as a trade candidate leading up to the July 30 deadline, though the A's are said to be seeking an enormous return. We ranked him as the No. 7 trade candidate . Here's the write-up:\nEvery summer, we waste hundreds of words explaining why a non-contender should trade their hotshot reliever with years upon years of team control remaining. Relievers are fickle, we note, so get what value you can before their success proves fleeting. Teams never do it. Whether it be David Bednar , Justin Lawrence , or too many others to list, they hold onto their relievers -- and then, at some point in the near-future, they watch as their numbers fade and their value crashes. Will that happen with Miller? We sure hope not. The reality is, though, that MLB's hardest throwing pitcher (his fastball has clocked in at 100.8 mph on average) has been so hamstrung by injury that he's thrown just over 100 professional innings since being drafted in 2021. Does that sound like the kind of profile that's built to last? Again, hopefully Miller finds a way; his particular brand of pyrotechnics makes him one of the most exciting watches in the game. From a roster-management perspective, however, it feels wise for the A's to pursue a trade this summer.\nPlayers on the injured list can be traded and, frankly, this injury makes Miller no less desirable to potential trade partners. It's a broken pinky on his non-pitching hand. It's not his elbow, it's not his shoulder, nothing like that. Miller may stay put because the A's want a big return. It won't be because teams don't want him after this injury. This is nothing.\nSetup man Lucas Erceg , a trade candidate himself, is likely to step into the closer's role during Miller's absence. The A's have series coming up against the San Francisco Giants (July 30-31) and Los Angeles Dodgers (Aug. 2-4). They won't make the postseason themselves, but they could give teams in the race a few headaches over the next week or two.\nExpand All Read in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Sport",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.cbssports.com/mlb/teams/SF/san-francisco-giants/",
+      "https://www.cbssports.com/mlb/teams/LAD/los-angeles-dodgers/",
+      "https://www.cbssports.com/mlb/news/2024-mlb-trade-deadline-ranking-30-players-who-could-be-on-the-move-plus-where-top-candidates-may-land/",
+      "https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20240722_HOU@OAK/",
+      "https://www.cbssports.com/mlb/teams/OAK/oakland-athletics/",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0AmBxN_0udPMrGU00",
+      "https://x.com/MartinJGallegos/status/1816565802210123850",
+      "https://img.particlenews.com/image.php?url=0AmBxN_0udPMrGU00",
+      "https://streamable.com/m/jon-singleton-grounds-out-second-baseman-zack-gelof-to-first-baseman-seth?partnerId=web_video-playback-page_video-share",
+      "https://www.cbssports.com/mlb/teams/HOU/houston-astros/",
+      "https://cbssports.com/mlb/news/2024-mlb-trade-deadline-ranking-30-players-who-could-be-on-the-move-plus-where-top-candidates-may-land/",
+      "https://www.img.particlenews.com/image.php?url=0AmBxN_0udPMrGU00",
+      "https://streamable.com/m/jon-singleton-grounds-out-second-baseman-zack-gelof-to-first-baseman-seth",
+      "https://www.cbssports.com/mlb/teams/LAD/los-angeles-dodgers",
+      "https://cbssports.com/mlb/teams/OAK/oakland-athletics/",
+      "https://cbssports.com/mlb/teams/LAD/los-angeles-dodgers/",
+      "https://www.cbssports.com/mlb/teams/OAK/oakland-athletics",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0AmBxN_0udPMrGU00",
+      "https://img.particlenews.com/image.php",
+      "https://www.streamable.com/m/jon-singleton-grounds-out-second-baseman-zack-gelof-to-first-baseman-seth?partnerId=web_video-playback-page_video-share",
+      "https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20240722_HOU@OAK",
+      "https://www.x.com/MartinJGallegos/status/1816565802210123850",
+      "https://www.cbssports.com/mlb/news/2024-mlb-trade-deadline-ranking-30-players-who-could-be-on-the-move-plus-where-top-candidates-may-land",
+      "https://www.cbssports.com/mlb/teams/HOU/houston-astros",
+      "https://cbssports.com/mlb/gametracker/boxscore/MLB_20240722_HOU@OAK/",
+      "https://cbssports.com/mlb/teams/SF/san-francisco-giants/",
+      "https://www.cbssports.com/mlb/teams/SF/san-francisco-giants",
+      "https://cbssports.com/mlb/teams/HOU/houston-astros/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mason miller",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mason",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mike axisa",
+          "sentiment": "negative"
+        },
+        {
+          "name": "miller",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "oakland athletics",
+          "sentiment": "negative"
+        },
+        {
+          "name": "houston astros",
+          "sentiment": "none"
+        },
+        {
+          "name": "hou",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-26T00:57:45.641+03:00",
+    "updated": "2024-07-26T00:57:45.641+03:00"
+  }
+]

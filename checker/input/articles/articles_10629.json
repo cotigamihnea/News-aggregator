@@ -1,0 +1,241 @@
+[
+  {
+    "uuid": "8d58e79a2f5b52e8a3f3c10b99f6333f7e4a6eb3",
+    "url": "https://ndmais.com.br/cotidiano/crianca-de-dois-anos-morre-atropelada-por-trator-durante-colheita-em-imbuia",
+    "ord_in_thread": 0,
+    "author": "@PortalNDMais",
+    "published": "2025-04-09T21:06:00Z",
+    "title": "Criança de dois anos morre atropelada por trator durante colheita em Imbuia",
+    "text": "Um acidente trágico ocorreu em Imbuia, quando uma criança de dois anos foi atropelada por um trator durante a colheita de fumo. O acidente aconteceu enquanto a família estava no campo realizando os trabalhos agrícolas. Infelizmente, a criança não resistiu aos ferimentos e morreu no local.\nCidade Alerta SC\nPrograma de jornalismo que aborda os principais fatos do dia em cada região, com a participação ao vivo dos repórteres de Santa Catarina.\nCriança de dois anos morre atropelada por trator durante colheita em Imbuia\nLeia mais",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->reckless driving",
+      "Social Issue->children",
+      "Social Issue->social problem",
+      "Social Issue->death and dying"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:31:26.880+03:00",
+    "updated": "2025-04-10T00:31:26.880+03:00"
+  },
+  {
+    "uuid": "3c988f0199d4c678070184129fc1010dc9d2cd68",
+    "url": "https://www.dailywire.com/news/nfl-to-replace-chains-with-tech-to-measure-first-downs",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Katie Jerkovich",
+    "published": "2025-02-27T16:21:00Z",
+    "title": "NFL To Replace Chains With Tech To Measure First Downs",
+    "text": "The National Football League is looking to replace its chain-gang measurement system with the high-tech Hawk-Eye virtual technology to measure first downs starting with the 2025 season.\n“Among the interesting items from an NFL football ops session with media: the Hawk-Eye virtual measurement for line to gain is slated to replace the chains as the primary measurement system for the regular season in 2025,” an X post on Wednesday from NFL Network’s Mike Garafolo read.\n“The chain gang will remain on sidelines as a backup,” he added. “Average time to measure with the chains: 75 seconds. Virtual measurements in the testing phase: 30 seconds.”\nThe league said that an average of 12 weekly measurements took place during last season, the New York Post noted.\nAmong the interesting items from an NFL football ops session with media: the Hawk-Eye virtual measurement for line to gain is slated to replace the chains as the primary measurement system for the regular season in 2025.\nThe chain gang will remain on sidelines as a backup.\n[pic.twitter.com/v9exggobVc]— Mike Garafolo (@MikeGarafolo)\n[February 26, 2025]\nThe decision can be made without a vote from the owners of the 32 NFL teams, according to The Washington Post.\n“The whole effort was to begin taking a look at it, to see what worked, what didn’t work,” Walt Anderson, the NFL’s officiating rules analyst and club communications liaison, said back in August, per the outlet.\nInterestingly, the officials must first place the ball on the field manually following the play and then the Hawk-Eye virtual measurement will assess if a ball has made it past the line to gain or not, the Post noted.\n“This is post spotting the ball,” NFL senior vice president of football business strategy Kimberly Fields told The Washington Post. “The officials on the field will still determine where forward progress ends.”\nThe technology was first tested during the 2024 preseason, with a growing group calling for it to become a reality following what some felt was a questionable first-down call during the AFC Championship between the Kansas City Chiefs and Buffalo Bills.\nHowever, the Hawk-Eye virtual measurement might not have had an effect on the Chiefs-Buffalo game because the officials on the field are the ones who determine if Bills QB Josh Allen would’ve gained a first down in the game or not. During that playoffs game, the officials determined Allen was indeed short of the first down after he attempted to do a quarterback sneak.\nThe ball was then handed over to the Chiefs, who went down and scored and eventually went on to win the game, securing the team’s third straight trip to the Super Bowl.\nRelated: ‘Insulting And Preposterous’: NFL Goes On Defense Regarding Ref Calls For Chiefs",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Sport->american football",
+      "Science and Technology->biomedical science",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://nypost.com/2025/02/26/sports/nfl-is-finally-replacing-antiquated-chain-gang/",
+      "https://x.com/MikeGarafolo/status/1894862511955923004",
+      "https://x.com/MarkMaske/status/1894862693628006694",
+      "https://www.nypost.com/2025/02/26/sports/nfl-is-finally-replacing-antiquated-chain-gang/",
+      "https://nypost.com/2025/02/26/sports/nfl-is-finally-replacing-antiquated-chain-gang",
+      "https://www.x.com/MikeGarafolo/status/1894862511955923004",
+      "https://www.x.com/MarkMaske/status/1894862693628006694"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Mike Garafolo",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NFL",
+          "sentiment": "negative"
+        },
+        {
+          "name": "National Football League",
+          "sentiment": "negative"
+        },
+        {
+          "name": "New York Post",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "3c988f0199d4c678070184129fc1010dc9d2cd68",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [
+        "fake_news"
+      ]
+    },
+    "rating": null,
+    "crawled": "2025-02-28T00:40:07.476+02:00",
+    "updated": "2025-02-28T00:40:07.476+02:00"
+  },
+  {
+    "uuid": "91f12701b4af8b48f503bb2aca1bb2309e38a0eb",
+    "url": "https://www.la-croix.com/religion/afghanistan-le-pape-francois-denonce-la-haine-et-la-violence-au-nom-de-dieu-20240808",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Aurélien Vurli",
+    "published": "2024-08-08T13:50:00Z",
+    "title": "Afghanistan : le pape François dénonce la haine et la violence au nom de Dieu",
+    "text": "Commenter Réagir Envoyer par mail Envoyer Partager sur Facebook Partager Partager sur Twitter Twitter « Au cours des dernières décennies, l’Afghanistan a connu une histoire compliquée et dramatique, caractérisée par une succession de guerres et de conflits sanglants. » Recevant en audience, mercredi 7 août, une délégation de la communauté afghane en Italie, le pape François a livré un message pour ce pays, où les talibans ont pris le pouvoir le 15 août 2021.\nIl a défendu la religion comme un facteur devant « créer l’espace nécessaire pour que chacun puisse se voir accorder les pleins droits de citoyenneté sur un pied d’égalité et sans discrimination ». « Cependant, il arrive souvent que la religion soit manipulée et instrumentalisée et qu’elle finisse par servir des desseins qui ne lui sont pas compatibles. Dans ce cas, la religion devient un facteur de confrontation et de haine, qui peut conduire à des actes violents », a déploré le pape. « Il est donc indispensable que mûrisse en chacun la conviction que l’on ne peut, au nom de Dieu, fomenter le mépris de l’autre, la haine et la violence » , insiste François.\nLe chemin du dialogue Pour favoriser cela, le pape a encouragé la délégation de la communauté afghane à poursuivre ses efforts « de promotion de l’harmonie religieuse et à œuvrer pour surmonter les incompréhensions entre les différentes religions afin de construire un chemin de dialogue confiant et de paix ». « Ce n’est pas un chemin facile, qui connaît parfois des revers , a reconnu François, mais c’est le seul possible, à poursuivre avec ténacité et constance, si vous souhaitez vraiment faire du bien à la communauté et favoriser la paix. »\nÀ lire aussi Frozan Safi, jusqu’au bout pour les droits et la liberté des Afghanes Pour appuyer son propos, le pape a cité son voyage en Centrafrique , illustrant la possibilité que la différence religieuse puisse être fructueuse : « Je me souviens que lorsque j’étais en République centrafricaine, j’étais avec la communauté catholique, puis je suis allé rendre visite à la communauté islamique et j’ai prié dans la mosquée. (…) Ensuite, le chef de la communauté est monté dans ma papamobile et nous avons visité toutes les communautés, islamiques, protestantes et catholiques. »\n« Les religions n’incitent jamais à la guerre » François fait aussi longuement référence au document sur la fraternité humaine pour la paix mondiale et la coexistence commune, signé à Abu Dhabi le 4 février 2019, avec le grand imam d’Al-Azhar , soulignant que « les religions n’incitent jamais à la guerre et ne sollicitent pas les sentiments de haine, d’hostilité, d’extrémisme, pas plus qu’elles n’invitent à la violence ou à l’effusion de sang. »\nÀ lire aussi À Créteil, cinq Afghanes tout juste revenues de « l’enfer » Le pape prie pour que Dieu « aide les dirigeants et les peuples à construire une société où chacun est reconnu comme un citoyen à part entière, jouissant de droits égaux ; où chacun peut vivre selon ses propres coutumes et sa propre culture, dans un cadre qui prend en compte les droits de tous, sans tergiversation ni discrimination ».",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.la-croix.com/religion/afghanistan-le-pape-francois-denonce-la-haine-et-la-violence-au-nom-de-dieu-20240808",
+      "https://twitter.com/intent/tweet?&text=Afghanistan :",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.twitter.com/intent/tweet?&text=Afghanistan :",
+      "https://facebook.com/sharer/sharer.php?u=https://la-croix.com/religion/afghanistan-le-pape-francois-denonce-la-haine-et-la-violence-au-nom-de-dieu-20240808",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:16:16.719+03:00",
+    "updated": "2024-08-16T01:16:35.014+03:00"
+  },
+  {
+    "uuid": "301cfa4a3e2622f31d34a45f9bf6febf151f745f",
+    "url": "https://www.noticiasrcn.com/economia/falabella-tendra-descuentos-de-hasta-el-70-461895",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "noticiasrcn.com",
+    "published": "2023-12-28T23:05:00Z",
+    "title": "Falabella tendrá descuentos de hasta el 70%",
+    "text": "Aproveche las promociones de fin de año en Falabella de hasta el 70% de descuento Tiendas Falabella inició su campaña de liquidación de fin de año con descuentos de más del 50% en ropa, juguetes y otros productos. Falabella sea convertido en una de las tiendas de cadena más reconocidas a nivel nacional, que ha logrado llegar a los hogares colombianos por sus campañas de promociones y descuentos, muy útiles para las familias en un momento de una coyuntura económica de inflación y tasas de interés que siguen siendo altas. Al respecto, para este cierre de año la compañía ha lanzado una campaña de promociones y descuentos por la liquidación de fin de año. Los descuentos pueden ir desde el 30% hasta el 70% en artículos seleccionados. Para los productos de decoración del hogar los ciudadanos pueden obtener descuentos de hasta el 30%utilizando las tarjetas CRM, o, debito Falabella. Para quienes buscan renovar su cama con Falabella pueden obtener hasta un 40% al utilizar las tarjetas o un 30% en otros medios de pago. Promociones en Falabella de hasta el 70% de descuento Falabella también ofrece promociones de hasta el 50% para los interesados en renovar sus muebles, donde pueden encontrar una variedad de sofás, mesas, y cómodas, entre otros, con precios muy por debajo de su valor promedio. En cuanto a los amantes del deporte, Falabella también trae seductoras ofertas en elementos deportivos. Con las tarjetas Única, CMR y débito Falabella los compradores podrán obtener descuentos de hasta el 70%. Así que, esta es una oportunidad única para quienes buscan actualizar sus implementos deportivos o iniciar en la práctica de algún deporte. Puede leer: [MinHacienda fijó las nuevas tarifas para el impuesto vehicular el 2024: estos son los topes](https://www.noticiasrcn.com/economia/taridas-del-impuesto-vehicular-para-el-2024-461880) Por otro lado, la tecnología también es uno de los puntos más importantes a la hora de las promociones, por eso en esta campaña los interesados pueden acceder a celulares de marcas Samsung, Apple, Huawei y otros. Fechas de la temporada de descuentos de fin de año en Falabella Además: [El dólar continúa cayendo en Colombia y se aproxima a cerrar el año sobre los $3.800](https://www.noticiasrcn.com/economia/precio-del-dolar-en-colombia-28-de-diciembre-2023-461867) Esta jornada de descuentos estará vigente por tiempo limitado, a partir del 26 de diciembre y hasta el 8 de enero, donde los interesados pueden acceder desde cualquier tienda del país o en artículos seleccionados por medio de la página web de la tienda. Noticiasrcn.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:53:23.602+02:00",
+    "updated": "2023-12-29T02:53:23.602+02:00"
+  },
+  {
+    "uuid": "97f0aba9ee8d4b2ce8dd2740faed7ffa6617f615",
+    "url": "https://www.ilrestodelcarlino.it/bologna/cronaca/lite-a-destra-sul-passante-scintille-bernardini-lega-98603561",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Il Resto del Carlino",
+    "published": "2024-08-23T00:00:00Z",
+    "title": "Lite a destra sul Passante. Scintille Bernardini-Lega",
+    "text": "Manes Bernardini, candidato con FI\nBufera nel centrodestra per il Passante autostradale. Ad accendere gli animi è il post su Facebook di Manes Bernardini, ex leghista, oggi candidato con Forza Italia alle prossime Regionali, che attacca Matteo Salvini per aver definito l’opera \"una priorità come la Gronda di Genova\", parole riferite l’altro giorno al Meeting di Rimini. Niente di nuovo, visto che il ministro leghista alle Infrastrutture, ripete come un mantra da tempo l’importanza dell’opera, ma Bernardini, contrario ’senza se e senza ma’ al Passante di Mezzo ha preso la palla al balzo per l’ennesimo affondo contro Salvini (a cui non ha lesinato critiche nemmeno qualche settimana fa, attaccandolo per la famosa scampanellata al Pilastro): \"Perché non chiedi ai bolognesi che cosa ne pensano del Passante di Mezzo, invece di imporre logiche romane e ingignocchiarsi ad Autostrade? Beh….saranno contenti Bonaccini, la Priolo, Lepore e tutto il sistema occulto che impone un’opera solo dannosa per la città di Bologna\", le parole dell’azzurro che terminano con un ironico \"Grazie Matteo, grazie Lega\".\nL’attacco, però, non è andato giù alla Lega bolognese che fa notare come nei commenti Bernardini utilizzi ’emoticon’ e commenti poco rispettosi anche nei confronti della sottosegretaria del Carroccio Lucia Borgonzoni e del viceministro meloniano Galeazzo Bignami.\n\"Ricordiamo a Manes e a Forza Italia che alle Regionali si presentano in coalizione col resto del centrodestra, non contro, e che, insieme, dobbiamo battere la coalizione di centrosinistra. Se il candidato di Forza Italia – spiega la nota della segreteria della Lega di Bologna – ha proposte politiche di carattere nazionale può parlare con i suoi referenti a Roma e farle mettere sul tavolo di governo, altrimenti sembra che voglia solo provare a recuperare qualche voto polemizzando con gli alleati. Non sarebbe un atteggiamento finalizzato a vincere ma solo a distruggere, a danno di tutti\".\nPunge anche il consigliere regionale della Lega, Daniele Marchetti: \"Sono stupito da questo attacco frontale sul Passante da parte di Bernardini. Da neoeletto consigliere regionale della Lega, nello scorso mandato in Regione, ereditai proprio da Bernardini la linea per l’allargamento in sede della tangenziale di Bologna. A testimonianza di ciò, ricordo un opuscolo prodotto dallo stesso Bernardini a sostegno del Passante di mezzo\".\nMa le fibrillazioni nel partito di Salvini non finiscono qui. Proprio ieri, infatti, l’ex consigliere regionale leghista Massimo Pompignoli ha annunciato il suo passaggio a Fratelli d’Italia.\nros. carb.\nWhatsApp\nFacebook\nX\nPrint\n© Riproduzione riservata",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.ilrestodelcarlino.it/bologna/cronaca/lite-a-destra-sul-passante-scintille-bernardini-lega-98603561&t=Lite%20a%20destra%20sul%20Passante.%20Scintille%20Bernardini-Lega",
+      "https://x.com/share?url=https://www.ilrestodelcarlino.it/bologna/cronaca/lite-a-destra-sul-passante-scintille-bernardini-lega-98603561&text=Lite%20a%20destra%20sul%20Passante.%20Scintille%20Bernardini-Lega",
+      "https://web.whatsapp.com/send?text=Lite%20a%20destra%20sul%20Passante.%20Scintille%20Bernardini-Lega%20https://www.ilrestodelcarlino.it/bologna/cronaca/lite-a-destra-sul-passante-scintille-bernardini-lega-98603561",
+      "https://x.com/share",
+      "https://x.com/share?url=https://ilrestodelcarlino.it/bologna/cronaca/lite-a-destra-sul-passante-scintille-bernardini-lega-98603561&text=Lite%20a%20destra%20sul%20Passante.%20Scintille%20Bernardini-Lega",
+      "https://web.whatsapp.com/send",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://web.whatsapp.com/send?text=Lite%20a%20destra%20sul%20Passante.%20Scintille%20Bernardini-Lega%20https://ilrestodelcarlino.it/bologna/cronaca/lite-a-destra-sul-passante-scintille-bernardini-lega-98603561",
+      "https://facebook.com/sharer/sharer.php?u=https://ilrestodelcarlino.it/bologna/cronaca/lite-a-destra-sul-passante-scintille-bernardini-lega-98603561&t=Lite%20a%20destra%20sul%20Passante.%20Scintille%20Bernardini-Lega"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T07:31:59.935+03:00",
+    "updated": "2024-08-23T07:31:59.935+03:00"
+  }
+]

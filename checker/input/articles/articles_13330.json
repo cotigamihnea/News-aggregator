@@ -1,0 +1,674 @@
+[
+  {
+    "uuid": "a52f46e22de54d90423d3c3d107524b13d6f4398",
+    "url": "https://betakit.com/d-wave-ceo-says-nvidia-ceo-jensen-huang-is-dead-wrong-about-quantum-computing",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alex Riehl",
+    "published": "2025-01-09T20:17:00Z",
+    "title": "D-Wave CEO says Nvidia CEO Jensen Huang is \"dead wrong\" about quantum computing",
+    "text": "D-Wave Quantum suffered a significant hit to its stock price alongside other publicly listed quantum computing companies after the founder and CEO of chip giant Nvidia, Jensen Huang, expressed a pessimistic outlook on the sector.\n“There is more than one approach to building a quantum computer.”\nAlan Baratz\nD-Wave D-Wave, a Canadian-founded, New York Stock Exchange (NYSE)-listed company , opened the market on Tuesday trading at a price of $10.47 USD per share, but just after the market closed, Huang told the audience of a Nvidia financial analyst Q&A session at the Consumer Electronics Show (CES) in Las Vegas that the quantum market is about 20 years away from being “very useful.”\n“If you said 15 years [away] for very useful quantum computers, that would probably be on the early side, if you said 30 [years] that would probably be on the late side,” Huang said. “If you said 20 years, I think a whole bunch of us would believe it.”\nThe stock prices of quantum companies such as IonQ, Rigetti Computing, Quantum Computing Inc, and D-Wave tumbled on Wednesday in the wake of Huang’s comments. In D-Wave’s case, the company opened the market trading at $5.63 USD per share, going as low as $4.88 USD per share.\nIn response, D-Wave CEO Alan Baratz asserted in a LinkedIn post that Huang has a “misunderstanding of quantum,” adding that, while the founder and CEO of the second-largest company in the world might be right about other quantum companies, he is “dead wrong” about D-Wave.\n“There is more than one approach to building a quantum computer,” Baratz wrote in a LinkedIn post. “D-Wave took a different approach, which has allowed us to become commercial today and likely many years ahead of other quantum computing companies.”\nRELATED: D-Wave completes $175-million USD stock sale to fuel quantum computing development\nBaratz also appeared on CNBC to defend his company’s work in the quantum computing sector, where he clarified that Huang may be right about the gate-based approach to quantum computing being decades away, but D-Wave’s annealing approach is being deployed today.\n“We are not 30 years out, we’re not 20 years out, we’re not 15 years out,” Baratz said in the interview. “We are today. We are supporting businesses today with quantum compute to solve their hard problems.”\nD-Wave raised $175 million USD ($246 million CAD) in gross proceeds through a stock sale near the end of 2024 to fuel its technical development efforts and business operations.\nAfter battling to keep its share price above $1.00 USD per share for most of 2024, the raise contributed to a significant share-price bump that coincided with Google announcing it had made a breakthrough quantum computing chip. According to CNBC , D-Wave shares rose by 178 percent in December as a result of the renewed investor interest, before being brought back down this week.\nFollowing its recent reckoning, D-Wave’s stock price has seen a slight recovery, but is still a fraction of its value before Huang’s comments, trading at $6.10 USD per share as of market close on Thursday.\nFeature image courtesy Nvidia .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->biomedical science",
+      "Science and Technology->scientific research",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.fool.com/research/largest-companies-by-market-cap/",
+      "https://www.cnbc.com/2024/12/10/alphabet-shares-jump-5percent-after-google-touts-breakthrough-quantum-chip-.html",
+      "https://video.ibm.com/recorded/134164455",
+      "https://www.cnbc.com/2025/01/08/nvidia-ceo-jensen-huang-is-dead-wrong-about-quantum-d-wave-ceo.html?__source=sharebar%7Clinkedin&par=sharebar",
+      "https://qt.eu/quantum-principles/computing/gate-based-qc",
+      "https://www.quera.com/glossary/quantum-annealer#:~:text=A%20Quantum%20Annealer%20is%20a,of%20a%20given%20objective%20function.",
+      "https://www.dwavesys.com/",
+      "https://www.linkedin.com/pulse/reaction-jensen-huangs-comments-quantum-alan-baratz-jwpve/?trackingId=toK3WDhyvEmNARA2hkaumg%3D%3D",
+      "https://www.cnbc.com/2025/01/08/nvidia-ceo-jensen-huang-is-dead-wrong-about-quantum-d-wave-ceo.html",
+      "https://linkedin.com/pulse/reaction-jensen-huangs-comments-quantum-alan-baratz-jwpve/?trackingId=toK3WDhyvEmNARA2hkaumg%3D%3D",
+      "https://www.qt.eu/quantum-principles/computing/gate-based-qc",
+      "https://www.fool.com/research/largest-companies-by-market-cap",
+      "https://quera.com/glossary/quantum-annealer#:~:text=A%20Quantum%20Annealer%20is%20a,of%20a%20given%20objective%20function.",
+      "https://www.video.ibm.com/recorded/134164455",
+      "https://fool.com/research/largest-companies-by-market-cap/",
+      "https://www.dwavesys.com",
+      "https://www.linkedin.com/pulse/reaction-jensen-huangs-comments-quantum-alan-baratz-jwpve/",
+      "https://dwavesys.com/",
+      "https://cnbc.com/2025/01/08/nvidia-ceo-jensen-huang-is-dead-wrong-about-quantum-d-wave-ceo.html?__source=sharebar%7Clinkedin&par=sharebar",
+      "https://cnbc.com/2024/12/10/alphabet-shares-jump-5percent-after-google-touts-breakthrough-quantum-chip-.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jensen Huang",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Alan Baratz",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Nvidia",
+          "sentiment": "negative"
+        },
+        {
+          "name": "New York Stock Exchange",
+          "sentiment": "none"
+        },
+        {
+          "name": "Quantum Computing Inc",
+          "sentiment": "none"
+        },
+        {
+          "name": "Rigetti Computing",
+          "sentiment": "none"
+        },
+        {
+          "name": "NYSE",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:23:13.468+02:00",
+    "updated": "2025-01-10T03:23:13.468+02:00"
+  },
+  {
+    "uuid": "41e775e9456014bb4bbaf54632d4bf00a9daf702",
+    "url": "https://m.economictimes.com/news/india/warmest-april-ever-fuelled-weather-extremes-across-globe-wmo/articleshow/110018762.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PTI",
+    "published": "2024-05-10T15:21:00Z",
+    "title": "heatwaves: Warmest April ever fuelled weather extremes across globe: WMO - The Economic Times",
+    "text": "The world experienced the warmest April ever and the eleventh consecutive month of record-high temperatures, the World Meteorological Organization (WMO) confirmed on Friday. Sea surface temperatures have been record high for the past 13 months, it said. The WMO said this is happening due to naturally occurring El Nino -- unusual warming of waters in the central and eastern Pacific Ocean -- and the additional energy trapped in the atmosphere and ocean by greenhouse gases from human activities. A similar streak of record high temperatures happened previously during the strong El Nino event of 2015-2016. The average temperature of 15.03 degrees Celsius in April was 1.58 degrees Celsius higher than the month's average for 1850-1900, the designated pre-industrial reference period, the WMO said citing data from the European climate agency - Copernicus Climate Change Service. It was 0.67 degrees Celsius above the 1991-2020 average for April and 0.14 degrees Celsius above the previous high set in April 2016. The record temperatures were accompanied by high-impact weather events - including intense heat in many parts of Asia, drought in southern Africa and extreme rainfall in the Arabian Peninsula. Persistent heavy rainfall in East Africa and southern Brazil has worsened in the first week of May, leading to devastating and deadly floods. The high number of extreme weather and climate events (including record daily and monthly temperatures and rainfall amounts) are more likely in a warmer world, WMO climate expert Alvaro Silva said. The sea surface temperature in several ocean basins, including in the tropical belt, continues to be record high, releasing more heat and moisture to the atmosphere and thus exacerbating conditions, he said. There were big temperature differences within Europe in April. Outside Europe, temperatures were most above average over northern and northeastern North America, Greenland, eastern Asia, northwest Middle East, parts of South America, and most of Africa. India suffered repeated heatwaves in April and the early part of May, with the India Meteorological Department issuing numerous advisories and warnings to protect people's health. The highest maximum temperature of 47.2 degrees Celsius had been recorded at Gangetic West Bengal on April 30. Schools were closed in Bangladesh as a safety precaution against the dangerous heat. Thailand recorded many new station temperature records - for instance 44.1 degrees Celsius at Mueang Phetchabun Phetchabun on April 27, according to the Thailand Meteorological Department. In Myanmar there were also new temperature records of 48.2 degrees Celsius at Chauk. It was predominantly wetter than average over most of north-western, central and north-eastern Europe. Most of southern Europe was drier than average, according to Copernicus. Conditions were wetter than average over central, eastern and southern North America, across Central Asia, the Persian Gulf countries, easternmost Asia, eastern Australia, southern Brazil. Heavy rainfall often led to floods.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "economic times",
+          "sentiment": "negative"
+        },
+        {
+          "name": "copernicus climate change service",
+          "sentiment": "none"
+        },
+        {
+          "name": "el nino",
+          "sentiment": "none"
+        },
+        {
+          "name": "world meteorological organization",
+          "sentiment": "none"
+        },
+        {
+          "name": "wmo",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "pacific ocean",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T21:03:40.530+03:00",
+    "updated": "2024-05-10T21:03:40.530+03:00"
+  },
+  {
+    "uuid": "415016f30a869091f1e19fc2f9f6aef5d46f371a",
+    "url": "https://www.guelphtoday.com/obituaries/horne-george-ian-8036873",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "GuelphToday Staff",
+    "published": "2023-12-28T23:27:00Z",
+    "title": "HORNE, George ‘Ian’",
+    "text": "Passed away on Monday, December 25, 2023, at the age of 68 years. Beloved wife of Judy Horne (nee Pagnan). Loving dad of Chris Horne and Melissa Orobono (Logan). Cherished grandfather of Haley, Natalie, Carley, Kolby and Lukas. Survived by his siblings Dale Clattenburg (Doug) Jimmy Horne (Anne), Paul Pagnan (Shelly) Kim DiFransesco (Nick) and inlaws Mario and Marie Pagnan. Greatly missed by many nieces and nephews\nPredeceased by brother Scott Horne and by both parents James and Bearnice Horne.\nIan was married to Judy for 48 years and shared a love so strong, they were best friends and soul mates and did everything together, a rare and powerful love.\nIan grew up in Wasaga Beach where he met Judy and spent all his summers on a boat water skiing.\nIan loved fishing, ice fishing and camping and will be reunited with his best friends John and Mark whom he lost this year as well.\nIan was a second father to Chris and Melissa’s friends growing up and will be greatly missed.\nIan will be missed by his dog Yoda, his best friend.\nThere will be a celebration of life at the Italian Canadian Club later as per Ian’s request.\n“A LIMB HAS fallen from the family tree that says Grieve not for me. Remember the BEST TIMES, the laughter, the song the good life I lived while I was STRONG\"\nIn memory of Ian, donations to the Guelph Human Society and Epilepsy Foundation would be appreciated.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "judy horne",
+          "sentiment": "negative"
+        },
+        {
+          "name": "george ‘ian",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "chris horne",
+          "sentiment": "none"
+        },
+        {
+          "name": "anne)",
+          "sentiment": "none"
+        },
+        {
+          "name": "haley",
+          "sentiment": "none"
+        },
+        {
+          "name": "judy",
+          "sentiment": "none"
+        },
+        {
+          "name": "james",
+          "sentiment": "none"
+        },
+        {
+          "name": "bearnice horne",
+          "sentiment": "none"
+        },
+        {
+          "name": "john",
+          "sentiment": "none"
+        },
+        {
+          "name": "mark",
+          "sentiment": "none"
+        },
+        {
+          "name": "jimmy horne",
+          "sentiment": "none"
+        },
+        {
+          "name": "kolby",
+          "sentiment": "none"
+        },
+        {
+          "name": "carley",
+          "sentiment": "none"
+        },
+        {
+          "name": "mario",
+          "sentiment": "none"
+        },
+        {
+          "name": "marie pagnan",
+          "sentiment": "none"
+        },
+        {
+          "name": "melissa’s",
+          "sentiment": "none"
+        },
+        {
+          "name": "dale clattenburg",
+          "sentiment": "none"
+        },
+        {
+          "name": "lukas",
+          "sentiment": "none"
+        },
+        {
+          "name": "kim difransesco",
+          "sentiment": "none"
+        },
+        {
+          "name": "natalie",
+          "sentiment": "none"
+        },
+        {
+          "name": "melissa orobono",
+          "sentiment": "none"
+        },
+        {
+          "name": "chris",
+          "sentiment": "none"
+        },
+        {
+          "name": "ian",
+          "sentiment": "none"
+        },
+        {
+          "name": "scott horne",
+          "sentiment": "none"
+        },
+        {
+          "name": "nick)",
+          "sentiment": "none"
+        },
+        {
+          "name": "paul pagnan",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "canadian club",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "horne",
+          "sentiment": "none"
+        },
+        {
+          "name": "wasaga beach",
+          "sentiment": "none"
+        },
+        {
+          "name": "logan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:31:37.891+02:00",
+    "updated": "2023-12-29T01:31:37.891+02:00"
+  },
+  {
+    "uuid": "3448f01ee6dcbbcb6c3fd4796334076f0fdd0fc4",
+    "url": "https://ts2.space/en/breakthrough-in-battery-technology-promises-safer-and-cheaper-energy-solutions/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Igor Nowacki",
+    "published": "2023-12-28T21:18:00Z",
+    "title": "Breakthrough in Battery Technology Promises Safer and Cheaper Energy Solutions",
+    "text": "Breakthrough in Battery Technology Promises Safer and Cheaper Energy Solutions\nSummary: Researchers at the Korea Institute of Science and Technology have developed a novel aqueous rechargeable battery that is both safe and cost-effective, addressing the limitations of current lithium-ion technologies. This new battery employs a composite catalyst comprising manganese dioxide and palladium to convert hazardous hydrogen gas back into water within the cell, ensuring enhanced performance and safety.\nAs the world grapples with extreme weather conditions and the heightened need for sustainable energy solutions, advancements in energy storage systems (ESS) technology are critical in bolstering the use of renewable resources. Lithium-ion batteries (LIBs), the current mainstays in ESS, come with not only a hefty price tag but also considerable safety risks due to their flammability.\nAddressing these concerns, Dr. Oh, Si Hyoung and his colleagues at KIST have made a significant breakthrough in battery science. By circumventing the explosive hazard posed by hydrogen gas, which typically accumulates as a result of water decomposition in batteries, they have made aqueous rechargeable batteries a viable option for commercial use.\nThe core of this technology lies in the application of a composite catalyst that actively converts hydrogen into water, mitigating internal pressure build-up and preventing electrolyte depletion. Notably, the inclusion of palladium allows manganese dioxide to break its inertness towards hydrogen, enabling a chemical reaction that transforms the gas back into water, thus maintaining the integrity and safety of the battery.\nThe new aqueous battery not only surpasses LIBs in terms of safety but also in affordability, due to the lower cost of raw materials involved. This innovation could have a far-reaching impact, potentially accelerating the global market growth for ESS. Additionally, this cutting-edge technology might see applications across various industries plagued by hydrogen gas leakage concerns, extending its potential beyond ESS to ensure public safety.\nThe research was made possible with support from the Ministry of Science and ICT, and the findings suggest that we are one step closer to widespread adoption of efficient, safe, and economical energy storage solutions.\nFAQs about the KIST Novel Aqueous Rechargeable Battery\nWhat is the main breakthrough in battery technology by KIST researchers?\nResearchers from the Korea Institute of Science and Technology have developed a novel aqueous rechargeable battery that employs a composite catalyst to safely convert hazardous hydrogen gas into water. This catalyst is made of manganese dioxide and palladium.\nWhy are current lithium-ion batteries (LIBs) considered risky and costly?\nLIBs, which are widely used in energy storage systems, are not only expensive but also flammable, posing considerable safety risks.\nHow does the composite catalyst in this new battery address safety issues?\nThe composite catalyst in the new battery design actively converts hydrogen, which can accumulate and pose explosive hazards, back into water. This process effectively prevents internal pressure build-up and electrolyte depletion, enhancing safety.\nWhat are the potential impacts of this new battery technology?\nThe new battery technology could substantially lower the cost of batteries and minimize safety risks. This may lead to a broader adoption of energy storage solutions that are both efficient and economical. The technology can also be applied across various industries to prevent hazards associated with hydrogen gas leakage.\nWho supported the research for this new battery technology?\nThe research was supported by the Ministry of Science and ICT.\nKey Terms and Definitions:\n– Aqueous Rechargeable Battery: A type of battery that uses water-based electrolytes instead of organic solvents, which leads to safer and more environmentally-friendly energy storage.\n– Energy Storage Systems (ESS): Systems that store energy for later use, often to balance supply and demand in electrical grids, usually utilizing batteries.\n– Composite Catalyst: A catalyst composed of two or more components that work together to increase the efficiency of a chemical reaction.\n– Manganese Dioxide: A chemical compound often used in dry cell batteries as a cathode material because of its ability to catalyze redox reactions.\n– Palladium: A rare and lustrous metal used in catalysis and electronics, which in this context, aids in the reactivity of manganese dioxide towards hydrogen.\nRelated Links:\nFor further reading on energy storage and technology advancements, visit the following:\n–\n Korea Institute of Science and Technology\n–\n Ministry of Science and ICT\nPlease note that this text is based on the information provided and cannot include further details or insights from the article without access to the full content.\nIgor Nowacki is a fictional author known for his imaginative insights into futuristic technology and speculative science. His writings often explore the boundaries of reality, blending fact with fantasy to envision groundbreaking inventions. Nowacki’s work is celebrated for its creativity and ability to inspire readers to think beyond the limits of current technology, imagining a world where the impossible becomes possible. His articles are a blend of science fiction and visionary tech predictions.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://www.msit.go.kr",
+      "https://www.kist.re.kr",
+      "https://kist.re.kr",
+      "https://msit.go.kr"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "si hyoung",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cheaper energy solutions breakthrough",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ess",
+          "sentiment": "none"
+        },
+        {
+          "name": "korea institute of science and technology",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:26:08.416+02:00",
+    "updated": "2023-12-29T00:26:08.416+02:00"
+  },
+  {
+    "uuid": "90d7def5313df740febb3773408b4d73493d1daa",
+    "url": "https://www.elcorreogallego.es/santiago/2024/10/11/han-visto-noche-auroras-boreales-109191191.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "El Correo Gallego",
+    "published": "2024-10-11T09:20:00Z",
+    "title": "¿Por qué se han visto esta noche auroras boreales en Santiago?",
+    "text": "Auroras boreales en el cielo nocturno de Compostela. La noche de este jueves dejó una estampa insólita en la capital gallega y otros puntos de la comunidad, un fenómeno que se debe a una fuerte tormenta geomagnética que provocó que dichas auroras boreales se vieran en latitudes mucho más al sur de lo habitual. Varias fotografías que recogen la luz rojiza en el cielo de la noche, que podía apreciarse mirando en dirección norte, así lo atestiguan. Una de estas fotografías es la que capturó Diego Cidrás desde el barrio del Sar de las auroras boreales (así se llaman las auroras polares del hemisferio norte) que fueron visibles entre las 23:00 y la 1:30 de la madrugada. El fenómeno electromagnético, propio de las regiones polares, también fue captado en otros puntos de la geografía gallega como Valdoviño. Las auroras aparecen por la interacción entre el viento solar y el campo magnético de la Tierra. Según la Organización Meteorológica Mundial (WMO según sus siglas en inglés) es un electrometeoro consistente en un fenómeno luminoso que aparece en las capas superiores de la atmósfera en forma de arcos, bandas, cortinas, etc. Por lo tanto, al contrario que los fenómenos meteorológicos habituales, se forman mucho más arriba de la troposfera, normalmente a una altitud de entre 90 y 150 kilómetros. Las auroras polares se deben a la presencia de partículas cargadas eléctricamente y eyectadas desde el sol (el viento solar), que actúan sobre los gases enrarecidos de las capas superiores de la atmósfera, de acuerdo con la Organización Meteorológica Mundial. El campo magnético de la Tierra canaliza las partículas, principalmente electrones y protones, que colisionan con los átomos y moléculas de los gases de las capas superiores de la atmósfera (termosfera y exosfera). Esas colisiones provocan que los electrones de los átomos de nitrógeno y de oxígeno asciendan temporalmente a un estado energético superior \\\"excitado”, según explicaba la Agencia Estatal de Meteorología en mayo, cuando ya diferentes puntos de la geografía de Galicia registraron un fenómeno de auroras boreales. Al recuperarse los niveles de energía normales, se libera energía que se emite en forma de fotones de luz con distintas longitudes de onda. Las auroras polares se observan principalmente en arcos próximos a los polos magnéticos (los óvalos aurorales). Pero si la actividad solar es muy intensa las eyecciones de masa coronal o erupciones solares atmosféricas pueden intensificar el viento solar y alcanzar la magnetosfera de la Tierra, desencadenando una tormenta geomagnética. Durante estos fenómenos, el óvalo auroral se ensancha temporalmente, lo que permite percibir auroras desde latitudes más bajas.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-11T12:24:50.173+03:00",
+    "updated": "2024-10-11T12:44:34.795+03:00"
+  },
+  {
+    "uuid": "0427a754ded8403d171fe4bd65e93f633b86602f",
+    "url": "https://www.ksl.com/article/51066858/advocates-celebrate-watershed-utah-supreme-court-ruling-in-gerrymandering-case",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Deseret Digital Media",
+    "published": "2024-07-11T00:00:00Z",
+    "title": "Advocates celebrate 'watershed' Utah Supreme Court ruling in gerrymandering case | KSL.com",
+    "text": "Estimated read time: 6-7 minutes SALT LAKE CITY — When Victoria and Malcolm Reid moved to Utah from Minnesota six years ago, the couple settled in Millcreek, in part because of the area's history of closely contested elections and a variety of political opinions. Victoria Reid is a Republican and Malcolm Reid a Democrat, so living in what was then the 4th Congressional District — which changed party hands in five straight election cycles — made them each feel they had a significant voice in who represented them in Congress. That changed in 2021 after the Utah Legislature adopted new congressional maps that gave Republicans significant majorities in all four districts. The new maps were drawn after lawmakers watered down a 2018 citizen initiative that created an independent commission to advise on redrawing boundaries. The Reids were two of the plaintiffs who [sued](https://www.ksl.com/article/50370283/groups-sue-utah-legislature-alleging-unconstitutional-gerrymandering) the Legislature in 2022, accusing lawmakers of enacting an \"extreme partisan gerrymander.\" On Thursday, the pair celebrated at the Capitol with scores of others after the Utah Supreme Court issued a landmark [ruling](https://www.ksl.com/article/51066474/utah-supreme-court-legislature-overstepped-in-changing-voter-led-redistricting-initiative) saying the Legislature had overstepped its authority in stripping down Proposition 4. \"Today's Supreme Court decision is a massive victory,\" Victoria Reid said during a press conference with League of Women Voters of Utah and Mormon Women for Ethical Government, two other plaintiffs on the case. \"It was a unanimous decision and a strong decision. They ruled that citizens of our state have the right to reform our government through the initiative process.\" \"And as a plaintiff,\" she added, \"I have to tell you, I am thrilled and elated.\" Her husband was likewise thrilled with the ruling, saying that \"good governance means that all Utahns should be fairly represented.\" \"The Utah Constitution declares that all political power is inherent in the people,\" he said. \"Today's Supreme Court ruling affirms that constitutional principle, that Utah citizens through the initiative process have the right to alter or reform their government.\" Thursday's ruling remands several of the key questions in the lawsuit back to a lower court for further consideration, but Justice Paige Petersen was clear in her unanimous opinion that the Alter or Reform Clause of the Utah Constitution \"demonstrates that the people's exercise of their right to reform the government through an initiative is constitutionally protected from government infringement, including legislative amendment or repeal that impairs the intended reform.\" Top Republican lawmakers — including those who helped craft the bill paring down Proposition 4 — recoiled, calling it \"one of the worse outcomes we've ever seen\" from the high court. Controlled by a Republican supermajority, the state Legislature has not hesitated to try to influence court rulings in the past, and House Speaker Mike Schultz, R-Hooper, told KSL.com lawmakers are already considering a constitutional amendment or other legislation to undo the ruling. After the state's near-total abortion law was [put on hold](https://www.ksl.com/article/50437988/judge-places-new-ban-on-utahs-abortion-law-until-planned-parenthood-lawsuit-is-settled) in 2022 by the courts, lawmakers passed a [resolution](https://www.ksl.com/article/50570915/legislature-approves-amended-resolution-to-end-utahs-trigger-abortion-ban) to try to [retroactively](https://www.ksl.com/article/50563615/resolution-targeting-utah-abortion-law-passes-house-heads-for-final-vote-in-senate) remove the justification the judge had relied on in issuing the preliminary injunction. The Legislature [repealed](https://www.ksl.com/article/50883868/bill-to-simplify-lawsuit-over-utahs-abortion-trigger-ban-passes-house-committee) portions of an [abortion clinic ban](https://www.ksl.com/article/50591382/utah-bill-to-close-abortion-clinics-passes-legislature) that was impacted by the same lawsuit earlier this year, in hopes that it would [expedite](https://www.ksl.com/article/50879796) a decision in that case. Schultz and Senate President Stuart Adams, R-Layton, said Thursday they disagree with the court's ruling and accused the court of \"creating chaos and striking at the very heart of our republic.\" \"This ruling will have profound and lasting ripple consequences that could negatively impact the state's future,\" they said in a joint statement. \"It mirrors how states like California are governed — by big money and outside interest groups that run initiatives to alter the government and push their own agendas.\" David Reymann, an attorney for the plaintiffs, said the ruling recognizes a \"fundamental right\" Utahns have to reform their government through voter-led initiatives, requiring the government to overcome the \"highest level of scrutiny known to the law\" in order to significantly alter them. \"What the Supreme Court did today was establish a new framework in Utah that doesn't just apply to citizen initiatives about gerrymandering, but any democracy-furthering government reform initiative,\" he said. \"It is a watershed moment, and I couldn't be prouder of what the court has done and the work that they put in in this case. I think it will benefit the citizens of this state for decades to come.\" Reymann said the district court will now be tasked with ruling on several of the individual claims in the lawsuit, and while he said it's impossible to predict how a judge might rule, he feels \"very confident given the framework that the Supreme Court has laid out.\" He said he wouldn't be surprised if lawmakers tried to make it harder to pass initiatives or used other tactics to try to sidestep the ruling but said the court's reliance on the Constitution will make any efforts more difficult. Reymann said it curbs what lawmakers considered an \"unfettered power\" to overturn initiatives. He said the endgame for the plaintiffs is to subject the current congressional maps to neutral standards outlined in Proposition 4, which could toss the current congressional map. Any ruling in that regard could also impact the political boundaries for state House and Senate districts, which have also been drawn to favor Republicans in many districts. Several other politicians and advocates weighed in on the decision Thursday. \"We will continue to work tirelessly for the rights of citizens to choose their politicians,\" said Laura Lewis Eyi, a communications specialist with Mormon Women for Ethical Government. \"Today's Utah Supreme Court ruling affirms the right, and we look forward to the future with hope.\" \"Today's decision means that Utah citizens have regained their voice in government,\" stated Ladd Johnson, chairman of the United Utah Party. Dan Vicuña, director of redistricting and representation with Common Cause, a nonpartisan organization that filed an amicus brief in favor of the plaintiffs, celebrated the ruling as a \"huge win for democracy.\" \"These new maps will put an end to partisan gerrymandering, which has led to extreme legislation and voter disenfranchisement,\" said Gabi Finlayson, a senior partner at Elevate Strategies, a Utah-based consulting firm. Brian King, a Democratic state lawmaker from Salt Lake City and the party's gubernatorial nominee, said he was \"thrilled\" by the ruling, which he said \"upholds the principles laid out in our state constitution: that all political power resides inherently in the people.\" Katie Wright, executive director of Better Boundaries, the organization behind Proposition 4 in 2018, declared Thursday a \"historic day for the people of Utah,\" and thanked the thousands of advocates, attorneys, volunteers and citizens who helped. \"You made this possible,\" she said. \"It took all of us and I'm exceedingly grateful to your commitment to democracy.\" Photos Related stories Most recent Utah Legislature stories Related topics [Utah Legislature](https://www.ksl.com/news/stream/utah-legislature) [Utah congressional redistricting](https://www.ksl.com/news/stream/utah-congressional-redistricting) [Utah](https://www.ksl.com/news/utah) [Politics](https://www.ksl.com/news/politics) [Police & Courts](https://www.ksl.com/news/utah/police-and-courts) [Salt Lake County](https://www.ksl.com/news/utah/counties/salt-lake)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "victoria",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "malcolm reid",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "victoria reid",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "utah supreme court",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "congress",
+          "sentiment": "none"
+        },
+        {
+          "name": "legislature",
+          "sentiment": "none"
+        },
+        {
+          "name": "utah legislature",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "utah",
+          "sentiment": "none"
+        },
+        {
+          "name": "millcreek",
+          "sentiment": "none"
+        },
+        {
+          "name": "capitol",
+          "sentiment": "none"
+        },
+        {
+          "name": "minnesota",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-12T06:23:05.284+03:00",
+    "updated": "2024-07-12T06:29:11.111+03:00"
+  },
+  {
+    "uuid": "0eee3a7b40579e1a1cd4ed218fed585341128211",
+    "url": "https://www.wgem.com/video/2024/01/05/blessing-health-unveils-new-hypertension-treatment-clinic/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@WGEM",
+    "published": "2024-01-05T00:00:00Z",
+    "title": "Blessing Health unveils new hypertension treatment clinic",
+    "text": "Skip to content News Politics Weather Sports Community Watch Submit Photos & Video Contact Us Home News Police & Court HEALTHBEAT Making a Difference National Illinois Capitol Bureau Closings Politics Election Results Weather Map Room Weather Radios Radar Weather Alerts Towercams Weather App Road Conditions River Stages Closings and Delays Weather Drawings Sports Watch Scoreboard Athlete of the Week Play of the Week Potts Report Stats & Predictions How to Watch Community Contests Jobs in the Tri-States Home and Living Show Honor Flight Golden Apple Award Birthdays and Anniversaries Hospital Reports Programming Schedule Watch Streaming Providers Live Events WGEM 10.1 NBC WGEM 10.2 CW WGEM 10.3 Fox WGEM 10.4 MeTV Sports Radio 105.1 Radio Schedule Listen Live Game Schedule Radio Contest Rules Contact Us Advertise with WGEM Careers at WGEM Gray Television Careers Sign up for WGEM Newsletters WGEM Apps Meet the Team Circle - Country Music & Lifestyle Gray DC Bureau PowerNation InvestigateTV Previous Newscasts Blessing Health unveils new hypertension treatment clinic Published: Jan. 5, 2024 at 5:41 PM CST | Updated: 16 minutes ago Share on Facebook Email This Link Share on X (formerly Twitter) Share on Pinterest Share on LinkedIn News One injured in Edina, Missouri, in house fire Thursday night Updated: 17 minutes ago News Chaddock mourns loss of President and CEO Updated: 18 minutes ago News ISP launches road rage campaign to curb rising incidents Updated: 19 minutes ago News Revelry closing Updated: 10 hours ago News Fire destroys church, parsonage in Lewis Co Updated: 11 hours ago",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Human Interest",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "blessing health",
+          "sentiment": "negative"
+        },
+        {
+          "name": "wgem gray television careers sign",
+          "sentiment": "none"
+        },
+        {
+          "name": "wgem careers",
+          "sentiment": "none"
+        },
+        {
+          "name": "difference national illinois capitol bureau closings politics election",
+          "sentiment": "none"
+        },
+        {
+          "name": "nbc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T02:06:26.460+02:00",
+    "updated": "2024-01-06T02:06:26.460+02:00"
+  },
+  {
+    "uuid": "415fa47606bc7465e79d6cf6a6e90a74d6cce087",
+    "url": "https://www.the-sun.com/sport/12022821/canadian-bev-priestman-suspended-paris-2024-olympics",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anthony Wood",
+    "published": "2024-07-25T20:47:00Z",
+    "title": "Canadian soccer coach Bev Priestman suspended from Paris 2024 Olympics over 'drone use against opponents' | The US Sun",
+    "text": "THE head coach of Canada's women's Olympic soccer team has been removed from her role amidst an alleged drone spying scandal. The announcement regarding head coach Bev Priestman was made by The Canadian Olympic Committee on Thursday. In a statement , the Committee revealed that Priestman's removal was down \"to her suspension by Canada Soccer.\" The team will now be led by assistant coach, Andy Spence, who led them during their 2-1 win against New Zealand . \"Over the past 24 hours, additional information has come to our attention regarding previous drone use against opponents, predating the Paris 2024 Olympic Games,\" said Canada Soccer CEO & General Secretary Kevin Blue in a statement. \"In light of these new revelations, Canada Soccer has made the decision to suspend Women's National Team Head Coach, Bev Priestman for the remainder of the Paris 2024 Olympic Games, and until the completion of our recently announced independent external review.\" Read More on the Olympics This marks the latest chapter in a dramatic week for Canada, which all began when New Zealand claimed that a drone had been spotted flying over their training facility on Monday, as per the BBC . The drone was also spotted by police, who arrested Joseph Lombardi, an \"unaccredited analyst,\" and also interviewed Jasmine Mander, who worked as an assistant to Priestman. Having already reportedly admitted to spying, Lombardi later pled guilty to \"maintaining an unmanned aircraft over a prohibited area.\" He was handed a €45,000 [roughly $49,000] fine and a suspended eight-month sentence. Most read in Olympics Mander denied any knowledge of the incident. Both Lombardi and Mander were sent home. Meanwhile, Fifa began an investigation into the allegations. On Wednesday, Priestman released an apologetic statement, via the Committee . \"On behalf of our entire team, I first and foremost want to apologize to the players and staff at New Zealand Football and to the players on Team Canada,\" she said. \"This does not represent the values that our team stands for. I am ultimately responsible for conduct in our program. How to watch the Olympics in the US All recommendations within this article are informed by expert editorial opinion. If you click on a link in this story we may earn affiliate revenue. While you may feel very far from the 2024 Paris Olympics , you can stay up-to-date with all of the action right from the comfort of your sofa. You can watch on: Or if you're not able to watch, you can follow along with The Sun's live blog for the latest updates from France. \"Accordingly, to emphasize our team's commitment to integrity, I have decided to voluntarily withdraw from coaching the match on Thursday. \"In the spirit of accountability, I do this with the interests of both teams in mind and to ensure everyone feels that the sportsmanship of this game is upheld.\" Priestman also reportedly denied any involvement in the incident, according to Rolling Stone . She has led the Canadian national team since 2020. Read More on The US Sun The team won a gold medal at the Tokyo Olympics. The U.S. Sun has reached out to Priestman's representatives for comment.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "http://facebook.com/TheSunUS",
+      "https://twitter.com/TheSunUS",
+      "https://www.twitter.com/TheSunUS",
+      "http://www.facebook.com/TheSunUS"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bev priestman",
+          "sentiment": "negative"
+        },
+        {
+          "name": "priestman",
+          "sentiment": "none"
+        },
+        {
+          "name": "andy spence",
+          "sentiment": "none"
+        },
+        {
+          "name": "anthony wood",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "new zealand",
+          "sentiment": "none"
+        },
+        {
+          "name": "getty",
+          "sentiment": "none"
+        },
+        {
+          "name": "olympic committe credit",
+          "sentiment": "none"
+        },
+        {
+          "name": "committee",
+          "sentiment": "none"
+        },
+        {
+          "name": "canada soccer",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new zealand",
+          "sentiment": "none"
+        },
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "paris",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-26T03:53:24.346+03:00",
+    "updated": "2024-07-26T09:38:00.212+03:00"
+  },
+  {
+    "uuid": "21568eec3b122ddf44641bff43f6187e97fdee8c",
+    "url": "https://www.orissapost.com/inclement-weather-steel-city-remains-cut-off-by-air/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Post News Network",
+    "published": "2023-12-29T03:48:00Z",
+    "title": "Inclement weather: Steel City remains cut off by air",
+    "text": "Rourkela: As bad weather continues to play spoilsport dashing the denizens’ hope of direct flight connectivity to Kolkata, Rourkela remains cut off by air. Sundargarh district has been experiencing extreme foggy weather conditions for the last several days.\nAccording to a source in Alliance Air, the visibility factor led to cancellation of flights from Rourkela Airport to Bhubaneswar and Kolkata. Rourkela Airport was supposed to start direct flights to Kolkata from December 26. However, bad weather has prevented the flight’s take off giving a harrowing time to those who had booked tickets.\nThe source informed that the visibility remained below 3,500 feet Thursday and it is dangerous for the plane to land in such weather conditions. Meanwhile, this was bad news for the 37 persons from Rourkela and 36 from Kolkata who had booked the tickets. Similarly, 57 persons had booked tickets to Rourkela and 54 to Bhubaneswar through the lone service provider Alliance Air.\nThe visual flight rules (VFR) is the answer to this problem. “With VFR trained staff the plane can land with the visibility of just 1,500 feet,” said Bimal Bisi, president of Sachetan Nagarika Mancha, who is waging almost a lone battle for the smoothening of the flight connectivity.\nInstrument landing system (ILS) remains a costly affair at this moment and there are other issues that are preventing the installation of the equipment here. Meanwhile, four staffers of Airport Authority of India (AAI) underwent one-day training for VFR recently. In all probability, they would be in a position to handle it from January 2.\nMeanwhile, Jual Oram, Sundargarh MP and Member of Parliamentary Standing Committee for Defence, has written to Jyotiraditya Scindia, Union Minister for Civil Aviation, regarding issues faced by the Rourkela Airport.\nIn his letter, Oram has mentioned about the flight condition at the airport and sought actions in this regard. “The airport land belongs to the state government who has leased it to Rourkela Steel Plant. This is a major roadblock in the development of the aerodrome as the AAI is unable to undertake any developmental work here.” Oram has further requested that the land should be immediately transferred to AAI and some “RSP quarters be given to the agency for its staff.”\nBesides, he has also requested to start direct ATR flights to Delhi from this airport so that it would benefit the people and also the Smart City’s development. He has stressed that the airport should have a night landing system so that planes from other areas can fly in during night time, which will benefit the city immensely. The airport is in urgent need of the ILS, he said in his letter.\nWhile the MP is busy in pursuing the development of the airport, passengers continue to be tormented owing to the erratic flight connectivity. The Kolkata flight will be tri-weekly and will operate on alternate days of the week starting from Tuesday.\nBy Rajesh Mohanty, OP\n ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "alliance air",
+          "sentiment": "none"
+        },
+        {
+          "name": "vfr",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "rourkela",
+          "sentiment": "none"
+        },
+        {
+          "name": "steel city",
+          "sentiment": "none"
+        },
+        {
+          "name": "bhubaneswar",
+          "sentiment": "none"
+        },
+        {
+          "name": "kolkata",
+          "sentiment": "none"
+        },
+        {
+          "name": "sundargarh",
+          "sentiment": "none"
+        },
+        {
+          "name": "rourkela airport",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T07:07:44.070+02:00",
+    "updated": "2023-12-29T07:07:44.070+02:00"
+  }
+]

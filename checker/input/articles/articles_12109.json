@@ -1,0 +1,619 @@
+[
+  {
+    "uuid": "d42341ffea3563b6a9b2523080f0fb89d259188a",
+    "url": "https://www.thenews.com.pk/print/1206497-sindh-govt-installs-solar-power-system-at-two-hospitals",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Our Correspondent",
+    "published": "2024-07-04T22:00:00Z",
+    "title": "Sindh govt installs solar power system at two hospitals",
+    "text": "The Sindh government on Thursday successfully installed a 2310 kilowatt solar power generation system at Dow Medical Hospital (Ojha Campus) and a 245.16 kilowatt system at the Sindh Government Hospital, Liaquatabad. Sindh Provincial Energy Minister Syed Nasir Hussain Shah visited both hospitals on Thursday to inspect the newly installed solar systems. Accompanying him were Tariq Ali Shah, Managing Director of Thar Coal Energy Board, and Mahfouz Qazi, Director of Solar Energy. The total construction cost for these solar systems in both hospitals amounted to US $1.3 million. Minister Shah highlighted that these projects are expected to save Rs 187.11 million annually and would remain operational for 25 years. Regarding the solar system at the Sindh Government Hospital, Liaquatabad, Shah noted its capacity of 245.16 kilowatts, estimating an annual saving of Rs 26.7 million. He mentioned that last year, this system generated 594,092.81 units of electricity. Shah underscored that these initiatives align with Chairman Bilawal Bhutto's vision for public welfare projects across the province. The solarisation of government buildings not only contributes to cost savings but also reduces the burden on the government.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "tariq ali shah",
+          "sentiment": "none"
+        },
+        {
+          "name": "bilawal bhutto",
+          "sentiment": "none"
+        },
+        {
+          "name": "mahfouz qazi",
+          "sentiment": "none"
+        },
+        {
+          "name": "shah",
+          "sentiment": "none"
+        },
+        {
+          "name": "syed nasir hussain shah",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "solar energy",
+          "sentiment": "none"
+        },
+        {
+          "name": "sindh government hospital",
+          "sentiment": "none"
+        },
+        {
+          "name": "sindh provincial energy",
+          "sentiment": "none"
+        },
+        {
+          "name": "thar coal energy board",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "liaquatabad",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T01:59:17.905+03:00",
+    "updated": "2024-07-05T01:59:17.905+03:00"
+  },
+  {
+    "uuid": "e4b1a3fb58dd552d2ebf73a080f1dc4eeb3ea6b4",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/new-bus-station-inaugurated-by-transport-minister-in-kanpur/articleshow/111673508.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Times Of India",
+    "published": "2024-07-11T23:04:00Z",
+    "title": "Bus Station: New Bus Station Inaugurated by Transport Minister in Kanpur | Kanpur News - Times of India",
+    "text": "Kanpur: State transport minister Daya Shankar Singh launched bus service from Signature Greens city bus station on Thursday.Singh flagged off the buses for 11 routes including Lucknow, Ayodhya, Bidhuna, Etah, Delhi and Mainpuri. A total of 30 buses will be run in the first phase. The buses for Lucknow and Ayodhya will go via Ganga Barrage. While this will save time for people traveling through Jajmau, they will also not face traffic jams in Unnao. A senior UPSRTC official said, “The new bus depot will be equipped with a fleet of 40 buses. It will have a capacity to park 20 buses at the platform at one go. This will be the fourth bus station which will cater to the needs of lakhs of people, particularly city’s north area.”We recently18 killed, 19 injured as bus from Bihar to Delhi rams into milk tanker on Lucknow-Agra Expressway in UnnaoTragic accident on Lucknow-Agra expressway leaves 18 dead and 19 injured. Sleeper bus collides with milk tanker. Authorities providing support and victims taken to hospitals. Traffic affected for hours. Details on Unnao road accident.11162413318 dead as bus crashes into tanker on Agra-Lucknow expresswayTragedy on Agra-Lucknow Expressway as bus collision leaves 18 dead and 19 injured in UP's Unnao. Prompt response by authorities as injured are taken to CHC Bangarmau for treatment. UP CM Yogi Adityanath offers condolences and directs swift relief efforts.11162044218 killed as bus rams milk tanker on Lucknow-Agra ExpresswayTragic accident on Lucknow-Agra Expressway leaves 18 dead and 19 injured as bus collides with milk tanker. Eyewitnesses allege bus driver was drunk and speeding. The victims, except for the tanker driver, were from Bihar districts. Stay informed about the latest updates on this fatal crash.111643321",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Politics"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "daya shankar singh",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jajmau",
+          "sentiment": "none"
+        },
+        {
+          "name": "etah",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kanpur news - times of india kanpur",
+          "sentiment": "negative"
+        },
+        {
+          "name": "upsrtc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "kanpur",
+          "sentiment": "none"
+        },
+        {
+          "name": "lucknow",
+          "sentiment": "none"
+        },
+        {
+          "name": "delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "bihar",
+          "sentiment": "none"
+        },
+        {
+          "name": "unnao",
+          "sentiment": "none"
+        },
+        {
+          "name": "ganga barrage",
+          "sentiment": "none"
+        },
+        {
+          "name": "bidhuna",
+          "sentiment": "none"
+        },
+        {
+          "name": "ayodhya",
+          "sentiment": "none"
+        },
+        {
+          "name": "lucknow-agra",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-12T02:59:33.346+03:00",
+    "updated": "2024-07-12T03:44:25.919+03:00"
+  },
+  {
+    "uuid": "bc20a3de0e7e8c9c70f4d1dd63dc88ba84353861",
+    "url": "https://www.nextpit.com/ecoflow-delta-pro-3-review",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Thomas Kern",
+    "published": "2024-10-17T23:00:00Z",
+    "title": "EcoFlow Delta Pro 3: A Blueprint for Every Power Station",
+    "text": "EcoFlow Delta Pro 3: A Blueprint for Every Power Station\nWith the Delta Pro 3, EcoFlow is launching its largest and most powerful power station to date. The device has a capacity of 4 kWh and a constant output power of 4,000 W. In our detailed test, we reveal how the model impressed us and whether we recommend the $3,699 EcoFlow power station.\nGood\n- Modern design\n- Huge range of connections\n- Telescopic handle and wheels for easy transportation\n- Expandable to 12 kWh\n- 4,000 W constant output power\nBad\n- The price of over 3,000 euros\n- A decent heavyweight at 51.5 kg\nPrice & Availability\nThe EcoFlow Delta Pro 3 is a fantastic power station. Even though the device weighs around 52 kg, it deserves to be called a portable power station. To make it easier to transport the heavyweight, the manufacturer has fitted a retractable carrying handle and two wheels.\nThe power station is no less impressive when it comes to capacity and output power. The Delta Pro 3 holds 4 kWh, with the option of increasing the capacity to a total of 12 kWh using two additional batteries. You can expect a constant 4,000 W output power from the device. If necessary, such as for heavy equipment on construction sites, the power station boosts the power up to 6,000 W for a fraction of a moment. With a connected battery, EcoFlow even promises 7,000 W.\nThe EcoFlow Delta Pro 3 costs $3,699 according to the recommended retail price. The device is already available in stores. You can buy the power station in the EcoFlow online store or from Amazon.\nEditor's note: The unit reviewed here is the version sold in Europe, so certain specifications, such as output, may differ in other regions.\nConnections and Processing of the EcoFlow Delta Pro 3\nThe Delta Pro 3 from EcoFlow is a real eye-catcher. At second glance, it becomes clear how many different connections the manufacturer has installed in the device. The fact that the outlets on the front are always open is unfavorable. However, all inputs are fitted with protective covers.\nUnpacking the EcoFlow Delta Pro 3 is no fun. The power station weighs a whopping 51.5 kg and measures 69.3 × 34.1 × 41 cm. The scope of delivery is sparse. In addition to the power station, it includes an AC charging cable and a handle protector for the carrying handles. You can attach these to the two side handles if you fancy a spontaneous sports session and seriously decide to carry the power station.\nInstead, we recommend extending the carrying handle and rolling the Delta Pro 3 to the storage location. EcoFlow has installed two wheels on the model. You will find the telescopic handle under the Schuko sockets at the front. There are also sockets here, although unfortunately not protected by covers:\n- as already mentioned: 4x Schuko sockets with a constant output power of 4,000 W\n- 2x USB-C ports with a maximum of 100 W and\n- 2x USB-A ports with up to 18 W power output\nThe large LED screen is also immediately noticeable on the front, which acts as an alternative information center to the EcoFlow app, which I will look at in the next part of the test. Practical: on the right-hand side, behind the cover, there is a 16 A connection where you can charge your electric car.\nAt least the side access points are protected by a cover. Finally, the manufacturer has installed all the inputs for charging the Delta Pro 3 at the rear. We would particularly like to highlight the option of charging the Delta Pro 3 at an electric charging station.\nApart from that, there are two ports for additional batteries. Keyword extensions. The extension batteries have a capacity of 4,096 Wh. In addition, the battery is resistant to water and dust in accordance with IP65. Unfortunately, the Delta Pro 3 “only” has IP20 certification.\nEcoFlow App & Smart Functions\nThe EcoFlow app offers more settings than any other software for power stations. Apart from controlling the AC and DC power supply, you have full control over the charging and discharging behavior of the Delta Pro 3.\nYou need a 2.4 GHz WLAN and Bluetooth connection to set it up in the app. To use the software, you need to create an account with your e-mail address. In the test, the Delta Pro 3 is found immediately. Pairing is child's play and works flawlessly in practice. The entire set-up process takes less than three minutes.\nAfter the app has asked you for your preferred app design and gives you tips on how to use it, you can start operating the power station. In the start menu, you can see how many watts the power station is currently drawing or recording. Below this, you will find the options for activating the desired power supply.\nWhen you look at the other settings, it becomes clear how much attention EcoFlow pays to detail. For example, you can use the app to set a lower limit for the Delta Pro 3 up to which the power station should be discharged. The same goes the other way around. Here, you can specify the percentage up to which the device should be charged.\nCustomization options are also available for the charging behavior. These allow you to set the maximum power from 500 to 4,000 W in 50 W increments with which the device is to be charged.\nFinally, the screen is an alternative information center of the device. The large display provides you with information about the input and output power. You can also read how long a connected end user can still be supplied with power or how long the charging time of the power station will take.\nControl works as usual using the buttons built into the device. The power station always emits a \"beep\" sound as soon as you switch on the device or activate a power supply.\nBattery & Output Power of the EcoFlow Delta Pro 3\nA whopping 4,000 W with a capacity of 4 kWh. The Delta Pro 3 impresses in all facets. The low operating volume is also absurd—even when the power station is spitting out 4,000 W, it is virtually inaudible. In terms of capacity, there are also only plus points to be awarded.\nThe EcoFlow Delta Pro 3 also functions as a solar generator, with a solar output of 1,600 W according to the manufacturer. In terms of connectivity, you can also connect EcoFlow's own inverter, PowerStream, to the power station if you're considering installing a balcony power station.\nThe EcoFlow Delta Pro 3 is an excellent choice for camping. Thanks to the 16 A connection on the right-hand side, you can supply your electric car with power at any time. We advise you to take foldable solar panels with you to generate electricity on the go. EcoFlow uses the latest and safest battery technology. The device contains LFP cells, which should still have 80 percent of their original capacity after 4,000 charging and discharging cycles.\nThe EcoFlow appliance is certainly not lacking in power. A whopping 4,000 W is constantly possible—without you even hearing a peep from the device—crazy! If you activate the X-Boost mode in the app, you can even reach 6,000 W for a short time. To get 7,000 W for a short time, you need to connect an additional battery to the power station.\nHowever, the specified value only applies for a tiny fraction of a moment. The short-term power boost is intended to help get heavy equipment on construction sites up and running, for example.\nWith its respectable performance, you don't have to expect any loss of efficiency. The energy block consumes 4,885 Wh during an entire charging process. The Delta power station charges with a maximum of 2,900 W from the socket. Unbelievable, but true: the power station is also whisper-quiet in operation. The fact that the power station is 80 percent charged after one hour, as EcoFlow promises, is truly ingenious. Remarkable, with a nominal capacity of 4,096 Wh!\nIn practice, 3,997 Wh of the specified capacity can be used. This corresponds to a battery efficiency of around 82 percent. Not a new top value, but one in the respectable upper range compared to power stations from Bluetti or Jackery. The manufacturer has also integrated a UPS function.\nUPS stands for uninterruptible power supply. In other words, this is your guarantee that the Delta Pro 3 will seamlessly take over the power supply to connected devices—for example in the event of a blackout.\nLast but not least, there is the pass-through charging function. This means that the power supply of connected end users bypasses the battery when the Delta Pro 3 is connected to the mains. This prevents conversion losses, as the current passes directly through and is not converted twice into the battery and out again.\nFinal Thoughts on the EcoFlow Delta Pro 3\nThe EcoFlow Delta Pro 3 is the best EcoFlow power station that we tested to date. Even in direct comparison with other top power stations, there are few to no reasons not to choose the Delta Pro 3. The capacity is perfectly adequate for all applications. If you don't think so, you can expand the power station with additional batteries by 4,096 Wh each to a total of 12 kWh.\nWith a constant 4,000 W or short-term 8,000 W output power, the rolling supplier easily supplies power-hungry devices on construction sites. Transport to the construction site is uncomplicated—even though the device weighs around 52 kg. This is thanks to the telescopic handle and the built-in wheels.\nIt is particularly exciting if you are planning to install a balcony power station. You can connect the Delta Pro 3 to the EcoFlow inverter PowerStream. This means you can use the Delta Pro 3 not only as a back-up battery for your home, but also as a storage unit for your balcony power station. The fact that you can charge the power station with up to 1,600 W of solar power is another reason to opt for the Delta Pro 3.\nIn summary, we advise you to buy the EcoFlow Delta Pro 3. If this model is too big for you, we recommend smaller devices such as the EcoFlow Delta 2 Max (review) or EcoFlow River 2 Pro (review).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "bc20a3de0e7e8c9c70f4d1dd63dc88ba84353861",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-10-18T02:14:53.789+03:00",
+    "updated": "2024-10-18T02:14:53.789+03:00"
+  },
+  {
+    "uuid": "7902ddac10b73a7ef3b0eeb96f37b293cbc787db",
+    "url": "https://denvergazette.com/news/business/colorado-auto-sales-tarrifs/article_d6a85f30-9af8-47df-b3cb-553ca6567b3c.html",
+    "ord_in_thread": 0,
+    "author": "Bernadette Berdychowski bernadette.berdychowski@denvergazette.com",
+    "published": "2025-04-16T21:52:00Z",
+    "title": "Threat of Trump's tariffs sparks Colorado car sales boost - for now",
+    "text": "The start of the year is typically slow for car sales in Colorado.\nIt’s cold. Icy. And people are busy traveling to the mountains.\nBut so far this year, a surge of people bought cars as President Donald Trump placed tariffs on imports and foreign automakers and as Republican lawmakers threatened to cut federal electric vehicle tax credits.\nNew vehicle registrations in Colorado jumped more than 10% from January through March compared to the same period last year, according to a new quarterly outlook report from the Colorado Automobile Dealers Association.\nState registrations were above the national average of 4.2% for the first quarter of 2025, the report said.\nAs economic uncertainty is hitting consumers during a typically slow period, Colorado Automobile Dealers Association CEO Matthew Groves said he expected the market to “tank” a bit.\nBut the opposite happened.\n“The threat of tariffs, rather than the tariffs themselves, actually turned out to be a huge boon,” Groves said.\nTrump announced 25% tariffs on cars in March. The tariffs for completed cars took effect on April 3 and tariffs for auto parts have been set to start 30 days later.\nThe weekend before tariffs went into place in April, Groves said some dealerships saw business spike by 150% as customers were wanting to finalize their purchases before any price hikes kicked in, clearing out a lot of existing inventory.\nThe boon isn’t expected to last as tariffs have been implemented, yet there’s still a lot of uncertainty on whether Trump will add more taxes on more imports from foreign countries or walk back on his trade negotiations.\nTrump told reporters earlier this week he’s considering temporarily halting his 25% tariffs on the auto industry and giving carmakers more time to move their productions to the U.S., though it’s not clear how long a pause would last.\nThe recent sales boost “kept us alive for a little while,” Groves said.\nColorado Auto Show kicks off during an uncertain time\nThe Colorado Auto Show at the Colorado Convention Center, the annual show hosted by the trade association showcasing vehicles from both domestic and foreign carmakers, will be in town between Thursday and Sunday.\nIt’ll feature major manufacturers such as Subaru, Nissan, Cadillac and Italian luxury brands like Ferrari expanded their booths this year.\nBut the show isn’t about making sales, rather showing off the newest models and answering questions in a lower pressure environment.\nAt Ford’s display at the auto show, they’re prepared for curious customers concerned about how tariffs are affecting car prices.\n“That's a question that comes up at every auto show across the nation right now,” said Sean Sachdeva, Ford regional manager in the Denver region.\nThe U.S.-based car manufacturer will be promoting its “From America, For America” employee pricing promotion, selling cars to the general public at employee-discount costs until June.\nWhile tariffs are sparking fears of inflation, Ford is dropping its price tags — for now. But most of the cars it's selling from its inventory have already been manufactured before tariffs were placed.\n“Business has been growing pretty significantly during the first quarter for Ford and especially here in the Denver region,” said Sachdeva.\n“We're in a really good stock level right now across our dealer network to be able to meet the demand for the near future without having some of the pricing impacts that you're hearing elsewhere,” he added.\nThe Colorado Auto Outlook report forecasts if tariffs are scaled but are kept higher than in past years, then car prices may rise up to 5%. Sales in the state could drop to 218,000 units, which would be down nearly 2% from 2024.\nIf a trade war escalates, triggering a recession, the report said prices could surge to 10% this year, causing annual sales to drop nearly 8%.\nFor its more positive forecast in a scenario where tariffs would be mostly removed, the report said Colorado could see about 230,000 sales, up 4% from the year before.\n\"We continue to assess what potential impacts are but right now we've been able to contain it and that's been part of our commitment to our customers through June 2,\" Sachdeva at Ford said.\nHow much do Coloradans buy from foreign countries?\nColorado is uniquely positioned due to its high concentration of electric vehicles, many of which are made by U.S. carmakers such as General Motors and Tesla.\nStill, car parts are shipped from all over the world and vehicles are almost never completely made within one country, Groves said.\n“The domestic manufacturers have components from outside of the country and the foreign manufacturers have domestic components in manufacturing,” he explained.\nAmerican companies General Motors and Ford have both dropped their U.S. contents over the last decade from around 65% to 54%, according to the Made in America auto index. Meanwhile foreign companies like Nissan, Toyota and Volkswagen have been boosting their U.S. presence since 2015.\nHonda used about 63% of components from the U.S. for its cars, outpacing GM and Ford.\nMore than 35% of the car market share in Colorado is domestic, according to the state’s auto dealer association. Nearly 12% are made by European brands. And more than half come from automakers based in Asia.\n“You'll see a higher penetration of pickup trucks like Ford, Chrysler, Dodge, Jeep, Ram,” Groves said. “And because of the electric element, General Motors and Nissan [a Japanese carmaker with factories in Tennessee and Mississippi] are both doing very well.”\nColorado and California are the only two states where EVs make up at least 20% of the market share.\nWhile EV sales soared, with some brands seeing increases of more than 100%, Tesla lost market share, attributing it to the rise of Tesla CEO’s Elon Musk in politics and an “aging product lineup,” according to the report.\nTesla’s share of the EV market in Colorado fell from 36% last year to 22% this year.\nThere’s been a violent backlash on Tesla cars, showrooms and charging stations since Musk became an advisor to Trump and has led efforts to cut federal spending and firing thousands of government employees with the Department of Government Efficiency.\nIn Colorado, there’s been a string of attacks on Tesla in Loveland involving Molotov cocktails hitting Tesla cars and the words “Nazi cars” spray-painted on a dealership building. In Lakewood, a suspect allegedly carved a swastika on a Tesla Cybertruck parked outside the Colorado Mills mall.\nMeanwhile, state car registrations for the fully-electric Nissan Leaf manufactured in Mississippi surged nearly 468% within a year.\nNissan overtook Tesla as the top EV car seller in Colorado quickly.\nIn the first quarter of last year, Colorado saw more than 580 Nissan registrations. So far in 2025, Nissan had more than 2,750 registrations and now has a quarter of the market share.\n“One of the reasons that Nissan and Chevrolet are doing very well in the EV field is because they make American-made EVs that are a little bit smaller and more affordable,” Groves said.\nAnd state and federal tax credits also helped boost sales, he added.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->financial and economic news",
+      "Politics->regulation of industry",
+      "Politics->economic policy",
+      "Politics->political development",
+      "Social Issue->social networking",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "http://tinyurl.com/5657k4pe",
+      "http://www.tinyurl.com/5657k4pe"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Matthew Groves",
+          "sentiment": "none"
+        },
+        {
+          "name": "Donald Trump",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Colorado Automobile Dealers Association",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "7902ddac10b73a7ef3b0eeb96f37b293cbc787db",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T01:00:38.771+03:00",
+    "updated": "2025-04-17T01:00:38.771+03:00"
+  },
+  {
+    "uuid": "15198975acc3b3a24c466be114d77559bf939486",
+    "url": "https://www.startribune.com/gophers-football-north-carolina-missed-field-goal-pj-fleck/601134588",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Randy Johnson",
+    "published": "2024-08-30T00:00:00Z",
+    "title": "MN Golden Gophers lose season opener to North Carolina Tar Heels 19-17 on missed field goal",
+    "text": "Gophers kicker Dragan Kesich missed a 47-yard field goal as time expired, letting the Tar Heels escape with the win.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "dragan kesich",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "max brosmer",
+          "sentiment": "none"
+        },
+        {
+          "name": "noah burnette",
+          "sentiment": "none"
+        },
+        {
+          "name": "daniel jackson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "mn golden gophers",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "huntington bank stadium",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "north carolina",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T07:52:11.897+03:00",
+    "updated": "2024-08-30T09:06:21.133+03:00"
+  },
+  {
+    "uuid": "6003726043c87891f155c76854983b6fc0c64386",
+    "url": "https://www.fixturescloseup.com/2025/01/23/convenient-ev-charging-station-sells-groceries-too",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "kadysewski",
+    "published": "2025-01-23T16:25:00Z",
+    "title": "Convenient EV Charging Station Sells Groceries Too",
+    "text": "Consider this totally modern OOH (Out Of Home) Convenient EV Charging Station Sells Groceries Too strategy. Topping off your EV “tank” is going to take some time. This Video Billboard pitches purchase opportunities inside the store. But at a gasoline filling you are urged NOT to leave your vehicle as it drinks from the pump. Can you and should you leaver your EV plugged in while you run insige for a bargain or grab-and-go treat? Damned if internal-combustion-equipped FixturesCloseUp knows the answer. If you do, you will appreciate this Convenient EV Charging Station Sells Groceries Too at Giant Supermarkets.\nFollow Giant EV Electric Vehicle Charger Outfitting at…\nFor all Earth Day Merchandising see…\n” Earth Day Display Merchandising Fixtures Pinterest Board ”\n“ Earth Day Display Merchandising Fixtures Index Page ”\nFor all Giant Supermarket Retail Fixtures Resources…\n“ Giant Supermarket Retail Fixtures Pinterest Board “\n“ Giant Supermarket Retail Fixtures Index Page ”\nFor all Retail Out-Of-Home and\nOOH Advertising resources see…\n“Retail Out-Of-Home Advertising Pinterest Board”\n“Retail Out-Of-Home Advertising Index Page”\n# # #\nFollow Giant Markets Grab-And-Go Merchandising at…\n” ”\n” ”\n” ”\n” ”\n” ”\n” ”\n” ”\n” ”\n” “\nFollow Giant Markets Snack Merchandising at…\nFollow Giant Cooler Merchandising Strategies at…\n” ”\n” ”\n” ”\n” ”\n” ”\n” [ ”](https://www.fixturescloseup.com/2021/02/20/on-the-go-soft-serve-ice-cream-cooler/)\n” [ ”](https://www.fixturescloseup.com/2021/05/05/sip-and-go-cashwrap-cooler-merchandising/https://www.fixturescloseup.com/2021/05/05/sip-and-go-cashwrap-cooler-merchandising/)\n” [ “](https://www.fixturescloseup.com/2021/05/05/grab-and-go-take-and-bake-cooler-case/)\nFollow Giant Markets Beverage Displays at…\nFor all Giant Supermarket Retail Fixtures Resources…\n“ Giant Supermarket Retail Fixtures Pinterest Board “\n“ [Giant Supermarket Retail Fixtures Index Page](https://www.fixturescloseup.com/index-giant-supermarket-retail-fixtures/) ”\n# # #",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->products and services",
+      "Lifestyle and Leisure->travel and tourism",
+      "Lifestyle and Leisure->lifestyle",
+      "Science and Technology->scientific innovation",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->economics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://en.wikipedia.org/wiki/The_Giant_Company#:~:text=The%20Giant%20Company%20(formerly%20known,and%20headquartered%20in%20Carlisle%2C%20Pennsylvania.",
+      "https://www.en.wikipedia.org/wiki/The_Giant_Company#:~:text=The%20Giant%20Company%20(formerly%20known,and%20headquartered%20in%20Carlisle%2C%20Pennsylvania."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:02:01.857+02:00",
+    "updated": "2025-01-24T00:02:01.857+02:00"
+  },
+  {
+    "uuid": "05e526b6359ab348c88bacd70ae1ae1ea00ff39c",
+    "url": "https://ground.news/article/senamhi-warns-of-flooding-of-rivers-in-eight-departments-due-to-rains",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Los Tiempos",
+    "published": "2023-12-28T19:42:00Z",
+    "title": "Ground News - Senamhi warns of flooding of rivers in eight departments due to rains",
+    "text": "Summary by Los Tiempos La Paz, Pando, Chuquisaca, Beni, Tarija, Potosí, Cochabamba and Santa Cruz are on orange alert because of the rains that may cause rivers to overflow, said the Deputy Minister of Civil Defense, Juan Carlos Calvimontes, who asked subnational authorities to take their precautions. Share menu More\nFilters 1 Articles 1 Articles All Left Center Right\nLos Tiempos Senamhi warns of flooding of rivers in eight departments due to rains La Paz, Pando, Chuquisaca, Beni, Tarija, Potosí, Cochabamba and Santa Cruz are on orange alert because of the rains that may cause rivers to overflow, said the Deputy Minister of Civil Defense, Juan Carlos Calvimontes, who asked subnational authorities to take their precautions.\n2 hours ago Read Full Article\nLos Tiempos\nSenamhi warns of flooding of rivers in eight departments due to rains La Paz, Pando, Chuquisaca, Beni, Tarija, Potosí, Cochabamba and Santa Cruz are on orange alert because of the rains that may cause rivers to overflow, said the Deputy Minister of Civil Defense, Juan Carlos Calvimontes, who asked subnational authorities to take their precautions.\n2 hours ago Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "external_links": [
+      "https://www.lostiempos.com/actualidad/pais/20231228/senamhi-alerta-desborde-rios-ocho-departamentos-lluvias?utm_source=ground.news&utm_medium=referral",
+      "https://lostiempos.com/actualidad/pais/20231228/senamhi-alerta-desborde-rios-ocho-departamentos-lluvias?utm_source=ground.news&utm_medium=referral",
+      "https://www.lostiempos.com/actualidad/pais/20231228/senamhi-alerta-desborde-rios-ocho-departamentos-lluvias"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "beni",
+          "sentiment": "negative"
+        },
+        {
+          "name": "santa cruz",
+          "sentiment": "negative"
+        },
+        {
+          "name": "pando",
+          "sentiment": "negative"
+        },
+        {
+          "name": "la paz",
+          "sentiment": "none"
+        },
+        {
+          "name": "juan carlos calvimontes",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ground news - senamhi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "los tiempos la paz",
+          "sentiment": "negative"
+        },
+        {
+          "name": "civil defense",
+          "sentiment": "none"
+        },
+        {
+          "name": "los tiempos senamhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "articles all left center right los tiempos senamhi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "chuquisaca",
+          "sentiment": "none"
+        },
+        {
+          "name": "potosí",
+          "sentiment": "none"
+        },
+        {
+          "name": "cochabamba",
+          "sentiment": "none"
+        },
+        {
+          "name": "tarija",
+          "sentiment": "none"
+        },
+        {
+          "name": "santa cruz",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:09:55.842+02:00",
+    "updated": "2023-12-29T00:09:55.842+02:00"
+  },
+  {
+    "uuid": "46915d22da63047da1eb946c576f2497df6c733c",
+    "url": "https://vnexplorer.net/z/1331697.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-07-11T16:26:00Z",
+    "title": "Irish deputy premier ‘positive and optimistic’ about future relations with UK",
+    "text": "Ireland’s deputy premier has said he is positive and optimistic about future relations with the UK. Micheal Martin also suggested there could be a “friendly settlement” to the interstate case which Ireland took against the UK over the controversial Legacy Act aimed at addressing Northern Ireland’s troubled past. The Tanaiste was speaking to the media as he met new Northern Ireland Secretary Hilary Benn at Hillsborough Castle following Labour’s victory in last week’s General Election. Northern Ireland Secretary Hilary Benn (left) and Tanaiste Micheal Martin ahead of a meeting at Hillsborough Castle in Belfast (Brian Lawless/PA) He said he expected a “wide-ranging” discussion, including the stability of the Stormont Assembly and the opportunity to reset British/Irish relations. Speaking after the meeting, Mr Benn said they discussed the UK Government’s “commitment to economic growth, peace and stability in Northern Ireland, and to foster renewed, close relations with our nearest neighbour”. “Our relationship with Ireland is of great importance and I look forward to continuing to work closely with the Irish Government to reset and strengthen the relationship between our two countries,” he said. Earlier Mr Martin said they had had a “very good phone call” last week following the UK General Election. “We know each other. We have a good understanding of each other’s perspective, British/Irish relations and how to advance reconciliation in Northern Ireland,” he said. There has been tension between the UK and Irish administrations in recent years following Brexit as well as the Conservative government’s controversial legacy Bill on dealing with Northern Ireland’s troubled past. Asked for his view on the British/Irish relationship going forward, Mr Martin said he is “positive and optimistic about the future relationship between the British and Irish governments”. “But also I realise the challenges and I’m realistic in terms of how we meet those challenges, but what I am particularly focused on is to re-establish both governments working hand in hand as anchors of the Good Friday Agreement into the future. “I think progress was made under Prime Minister Sunak and former secretary of state Chris Heaton-Harris in many areas, particularly in terms of the Windsor Framework, but I do believe we have an opportunity to advance the situation on a wide range of issues, to deal with the legacy issue on an amicable basis, to work through that. “I am positive and I believe there are opportunities here the British and Irish governments can exploit, and I am confident that if we work together we can advance reconciliation, which is my key agenda in the time ahead.” Asked whether the Irish government intends to continue an interstate case against the UK over the Legacy Act, Mr Martin said he and Mr Benn will “explore the issue”. “There are mechanisms within the framework of the case which allow for, if you like, a friendly settlement but that will obviously depend on how the British Government is going to deal with that Legacy Act and the core issues,” he said. “Above all, we believe the pressing issue on legacy is to restore trust in the legacy framework for the victims and families of those who lost their lives in atrocities. “It is about the families, the survivors and victims. “We have to restore trust.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "brian lawless",
+          "sentiment": "none"
+        },
+        {
+          "name": "micheal martin",
+          "sentiment": "none"
+        },
+        {
+          "name": "hilary benn",
+          "sentiment": "none"
+        },
+        {
+          "name": "tanaiste",
+          "sentiment": "none"
+        },
+        {
+          "name": "tanaiste micheal martin",
+          "sentiment": "none"
+        },
+        {
+          "name": "benn",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hillsborough castle",
+          "sentiment": "none"
+        },
+        {
+          "name": "labour",
+          "sentiment": "none"
+        },
+        {
+          "name": "stormont assembly",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "uk",
+          "sentiment": "none"
+        },
+        {
+          "name": "uk ireland",
+          "sentiment": "none"
+        },
+        {
+          "name": "hillsborough castle",
+          "sentiment": "none"
+        },
+        {
+          "name": "belfast",
+          "sentiment": "none"
+        },
+        {
+          "name": "ireland",
+          "sentiment": "none"
+        },
+        {
+          "name": "northern ireland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-12T03:28:54.190+03:00",
+    "updated": "2024-07-12T03:28:54.190+03:00"
+  },
+  {
+    "uuid": "1e8077108e27ccdf05e43d81d3fa22d0996f02a3",
+    "url": "https://www.eltiempo.com/vida/ciencia/alerta-por-tormenta-solar-lo-que-debe-saber-sobre-el-anuncio-de-la-noaa-por-la-actividad-del-sol-3341821",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alejandra López Plazas",
+    "published": "2024-05-10T16:54:00Z",
+    "title": "Alerta por tormenta solar: ¿qué le espera a la Tierra ante el evento de este fin de semana?",
+    "text": "El Observatorio de Dinámica Solar (SDO) de la Nasa registró cuatro nuevas poderosas llamaradas solares entre el 8 y 9 de mayo, que se sumaron a otras dos el pasado fin de semana, en pleno pico del ciclo solar.Los picos de estas llamaradas se registraron a las 01.41, las 05.09 y las 21.40 UTC el 8 de mayo y a las 09.13 el 9 de mayo, según informó la Nasa. Tres de las llamaradas se clasificaron como X1.0 y una llamarada como X2.2. La clase X denota las llamaradas más intensas, mientras que el número proporciona más información sobre su fuerza(Le puede interesar: ¿Se avecina una geotormenta capaz de apagar redes eléctricas y comunicaciones? Esto dicen los expertos) Estos eventos coinciden con el máximo de actividad en el ciclo solar de 11 años, previsto entre enero y octubre de este año. Pero, ¿Qué significa esto para la Tierra?, estas son algunas de las respuestas a los interrogantes que se tejen alrededor de esta alerta por el clima solar. Según explica Santiago Vargas, Ph. D. en Astrofísica del Observatorio Astronómico de la Universidad Nacional, una geotormenta o tormenta geomagnética es esencialmente una perturbación en el campo magnético de la Tierra que puede ser causada por la actividad solar.\"Una tormenta solar, que representa una emisión de materia y energía ocurrida en el Sol, puede causar fluctuaciones en la magnetósfera de la Tierra, como consecuencia de la llegada de partículas de alta energía que interactúan con las líneas del campo magnético de nuestro planeta\", explica el académico. Como las erupciones solares son poderosas explosiones de energía, estas llamaradas y erupciones solares pueden afectar las comunicaciones por radio, las redes de energía eléctrica, las señales de navegación y representar riesgos para las naves espaciales y los astronautas.Las tormentas geomagnéticas, según explican, pueden tener impacto en la infraestructura orbital terrestre y en la superficie de la Tierra con el potencial de interferir con las comunicaciones, la red de energía eléctrica, la navegación y las operaciones de radio y de satélites. Uno de los hechos más destacados por su magnitud es el denominado 'Evento Carrington', una enorme tormenta solar que es considerada como la más potente que ha sido registrada en la historia.​​Recibió este nombre porque el jueves 1 de septiembre de 1859, el astrónomo británico Richard Carrington fue quien observó por primera vez un espectacular resplandor de luz visible en la superficie del disco solar. Un evento en la que la radiación que llegó al planeta fue tal que se quemaron líneas de telégrafo en Europa y Norteamérica e incluso en el norte de Colombia, en Montería, se alcanzaron a ver auroras boreales, según hallazgos de algunos investigadores como Freddy Moreno, director del Centro de Estudios en Astrofísica, y Sergio Cristancho y Santiago Vargas de la Universidad Nacional. (También: Emiten alerta por fuerte tormenta solar que no se producía hace dos décadas: ¿qué efectos tendría en la Tierra?) Sobre esto no existe un consenso entre la comunidad científica, indica el físico Juan Camilo Buitrago-Casas, uno de los investigadores de la Universidad de Berkeley en California que participa en el proyecto Foxsi (Focusing Optics X-ray Solar Imager), un telescopio construido en conjunto por esta institución, junto con la Universidad de Minnesota, y una alianza de instituciones japonesas, para tomarle una radiografía al Sol y estudiar sus erupciones.\"La probabilidad no es nula. No es cero, pero tampoco es alta. Es una pregunta abierta por la que hay debates muy intensos en los congresos de física solar, porque hay gente con posturas en contraste. Hay quienes dicen que algo tan extremo como que el evento Carrington fue un evento único en la historia de la estrella, como hay quienes están tratando de encontrar la periodicidad de ese tipo de eventos y hablan, por ejemplo, de que se espera uno cada 100 años\", explica Buitrago-Casas.Y agrega: \"Estaría mal descartarlo, pero también está mal decir que va a pasar en este ciclo solar. No tenemos las herramientas para afirmar eso\". Pese al impacto que podrían tener sobre la vida en nuestro planeta, donde los sistemas eléctricos y las telecomunicaciones son fundamentales para el funcionamiento de las actividades económicas, médicas y sociales, en lo que sí coinciden los expertos es que no hay forma de saber con certeza cuando ocurrirán.\"Hay más probabilidad de que ocurran en los próximos meses, que el Sol se va a acercando al máximo solar, que es en un par de años. Pero más allá de eso, no se sabe cuándo va a haber una\", aclara Vargas, profesor del Observatorio Astronómico de la Universidad Nacional. ​La serie de erupciones comenzó el 8 de mayo y las condiciones para que la tormenta persista podrían durar durante todo el fin de semana.\"Una gran mancha solar ha producido erupciones desde moderadas a muy fuertes desde el miércoles\", señaló la NOAA. \"Al menos cinco de esas erupciones estuvieron asociadas con eyecciones de masa de la corona solar que parecen dirigidas hacia la Tierra\".La gran mancha solar ha lanzado una secuencia asombrosa de cinco eyecciones de masa solar hacia la Tierra, según la plataforma Spacewather.com, que estima que, si se tratara de un huracán, sería de categoría 4. \"El Sol tiene un periodo de actividad de 11 años, hoy está activo. Un Sol activo significa que tiene gran actividad magnética y las consecuencias de eso es un mayor número de manchas solares. También significa que hay más erupciones solares\", explica Buitrago-Casas.(Además: Un colombiano, entre los científicos que lanzaron cohetes de la Nasa en plena erupción solar) Si bien las tormentas geomagnéticas tienen un impacto en la meteorología espacial, en temas como los satélites que enviamos al espacio o los astronautas que están explorando fuera de la Tierra, no son peligrosas para las personas que habitamos el planeta, dado que la Tierra está protegida por un campo magnético que nos resguarda de la radiación del Sol. Según le explicó a EL TIEMPO, la doctora Bea Gallardo-Lacourt, física espacial del Centro de Vuelo Espacial Goddard de la Nasa, cuando el Sol aumenta su actividad, el mayor impacto de una tormenta geomagnética ocurre en las latitudes altas, es decir, al Norte, por lo que países como Colombia permanecerán protegidos gracias a su posición geográfica.​​“Usualmente, las áreas más afectadas (por tormentas geomagnéticas) son las áreas que están a más alta latitud, lugares como Colombia, por ejemplo, están 100 por ciento protegidas por el campo magnético de la Tierra”, enfatiza Gallardo-Lacourt.​​REDACCIÓN CIENCIA",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-10T19:56:35.325+03:00",
+    "updated": "2024-05-10T21:09:28.631+03:00"
+  }
+]

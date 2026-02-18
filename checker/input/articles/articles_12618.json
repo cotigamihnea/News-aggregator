@@ -1,0 +1,238 @@
+[
+  {
+    "uuid": "65325d55df56b19c01b570c590f0f43f2a081d86",
+    "url": "https://article.wn.com/view/2025/02/27/trump_says_ukraine_rare_earth_minerals_deal_will_lead_to_apo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "System",
+    "published": "2025-02-27T00:00:00Z",
+    "title": "Trump says Ukraine rare earth minerals deal will lead to 'sustainable' future between US, Ukraine - Worldnews.com",
+    "text": "President Donald Trump said Thursday that the rare earth minerals deal he's confident Ukrainian President Volodymyr Zelenskyy will sign during their Friday visit will pave the way for the U.S. to become a partner with Ukraine in developing resources like oil and gas. As part of negotiations to end the Russia-Ukraine War, the...\nread full story\nAsk about this article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->foreign exchange market",
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Politics->political candidates",
+      "Politics->political development",
+      "Politics->international relations",
+      "Science and Technology->political science",
+      "Science and Technology->natural science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.foxnews.com/politics/trump-says-ukraine-rare-earth-minerals-deal-lead-sustainable-future-between-us-ukraine",
+      "https://foxnews.com/politics/trump-says-ukraine-rare-earth-minerals-deal-lead-sustainable-future-between-us-ukraine"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Donald Trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Volodymyr Zelenskyy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T01:28:10.379+02:00",
+    "updated": "2025-02-28T01:28:10.379+02:00"
+  },
+  {
+    "uuid": "d6ce9d2c710bdbd4b9009756073803d7611d1201",
+    "url": "https://bgr.com/tech/gpt-4-5-passed-a-turing-test-according-to-a-new-study",
+    "ord_in_thread": 0,
+    "author": "Joshua Hawkins",
+    "published": "2025-04-02T22:50:00Z",
+    "title": "GPT-4.5 passed a Turing test, according to a new study",
+    "text": "Can you tell if you’re chatting with a human or a chatbot? According to a new study, most people can’t. In fact, one of today’s top artificial intelligence models, OpenAI’s GPT-4.5, was judged to be human more often than actual humans when it took part in an updated version of the classic AI Turing test.\nFor years, the Turing test has been the go-to for testing the intelligence of a machine, as well as just how humans perceive them. So it really isn’t surprising that researchers from UC San Diego’s Language and Cognition Lab ran a multi-participant version of the Turing test involving nearly 300 people.\nIn each round, participants engaged in side-by-side conversations—one with a human and one with an AI—and then had to decide which was human and which was AI. The results of this updated Turing test were pretty telling, too.\nWhen GPT-4.5 was instructed to adopt a persona, like a pop-culture-savvy young adult, it fooled participants 73 percent of the time. That’s far above the 50 percent chance mark, which historically defines a “pass” in the AI Turing test. By comparison, actual humans were less successful at convincing participants of their humanity.\nThe experiment also tested other models, including Meta’s LLaMA 3 and OpenAI’s newer GPT-4o, along with ELIZA, one of the earliest chatbots ever developed . Unsurprisingly, models without a persona prompt performed much worse. GPT-4.5’s accuracy dropped to 36 percent without a defined character to inhabit, and GPT-4o scored a mere 21 percent.\nThis isn’t the first time researchers have put AI through the Turing test. But these results show that while language models might not “think” like humans do, they’re increasingly capable of sounding human in short, casual conversations. That has major implications—not just for proving AI intelligence, but also for understanding how easily people can be convinced that AI is actually a human .\nOf course, the researchers caution that passing an AI Turing test doesn’t mean a model understands anything in the way humans do. However, it does mean these systems are becoming more and more skilled at performing human-like interactions, especially when given specific roles or tones to adopt.\nThis means it could become harder to spot AI in everyday situations. That, in turn, is raising concerns about misinformation, impersonation, and the overall future of human-AI interaction. The problem then becomes that we might not realize we’re interacting with an AI, which could have some serious ethical implications.\nPlus, with each new generation of AI, the line between machine mimicry and human conversation is only going to get blurrier. AI is as bad as it is going to get right now. From here, the systems are only going to continue to improve. For now, these results are published on a preprint server . However, the researchers have submitted their paper to an official peer-reviewed paper, so we could see an official release sometime in the future.\nDon't Miss : The Starliner fiasco was a lot worse than NASA made it sound, astronauts reveal",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering",
+      "Social Issue->social networking",
+      "Social Issue->values",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://arxiv.org/abs/2503.23674",
+      "https://www.newscientist.com/article/2463843-worlds-first-ai-chatbot-has-finally-been-resurrected-after-decades/",
+      "https://www.arxiv.org/abs/2503.23674",
+      "https://newscientist.com/article/2463843-worlds-first-ai-chatbot-has-finally-been-resurrected-after-decades/",
+      "https://www.newscientist.com/article/2463843-worlds-first-ai-chatbot-has-finally-been-resurrected-after-decades"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "GPT-4.5",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ELIZA",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "UC San Diego’s",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "AI",
+          "sentiment": "neutral",
+          "tickers": [
+            {
+              "ticker": "AI",
+              "exchange": "NYSE"
+            }
+          ]
+        },
+        {
+          "name": "AI Turing",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Meta",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T01:57:27.174+03:00",
+    "updated": "2025-04-03T10:31:44.356+03:00"
+  },
+  {
+    "uuid": "987fcd6abeeb43cf5ed13724a768c41a2082e7ad",
+    "url": "https://au.finance.yahoo.com/news/side-hustles-clever-ways-aussies-are-making-an-extra-5000-a-month-211010314.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NCA NewsWire",
+    "published": "2023-12-28T00:00:00Z",
+    "title": "Side hustles: Clever ways Aussies are making an extra $5,000 a month",
+    "text": "Yahoo Finance AU Side hustles: Clever ways Aussies are making an extra $5,000 a month Looking to earn extra cash next year? Three Aussies share the easy ways they are supplementing their income. Read full article Tamika Seeto · Finance Reporter 28 December 2023 at 11:10 pm · 3-min read\nAussies are picking up side hustles as a way to earn extra cash, as cost-of-living pressures continue to bite households.\nMore than 955,000 Aussies - or about 6.6 per cent of all working Aussies - currently have multiple jobs on the go, according to the latest Australian Bureau of Statistics data.\nWe spoke to three Aussies to find out how they were earning extra cash by leveraging their belongings or skills.\nFrom renting out their stuff to capitalising on existing skills, three Aussies share the side hustles earning them extra cash. (Source: Supplied) Do you have a story to share? Contact tamika.seeto@yahooinc.com\nRenting out wardrobe Perth resident Louise Seery makes around $8,000 a year renting out her designer clothes on The Volte and has been doing this for about three years.\n“I’m a lawyer but have expensive fashion taste that my government salary doesn’t allow, so this is enough to finance my wardrobe and expensive taste in brands,” Louise told Yahoo Finance.\nThe mum of two has about 30 dresses listed on the platform, including from popular brands like Zimmerman and Scanlan Theodore, which are rented out across the country.\nLouise's Scanlan Theodore dress is her best dress rental. (Source: Supplied/The Volte) “My lilac crepe knit short-sleeve Scanlan Theodore dress is the most popular and has been rented out about 15 times in the last year, making me more than $1,500 alone,” she said.\nLouise uses the extra cash to buy new dresses and also sells the clothes that aren’t rented out as regularly.\n“Also, I have a 16-year-old daughter who definitely takes after me with expensive tastes, so the money helps with that too,” she said.\nRELATED\nHow Aussie dad saved his family $6,000 in 2023\nThe side hustle that doubled this Aussie’s income\nHow to get a side hustle off the ground in 7 easy steps\nTapping into freelance skills Former English teacher Michele Berner started freelancing as a proofreader on Fiverr about eight years ago and is making about $1,000 each month from the gig.\nThe Melbourne retiree said she was looking to make some extra cash to supplement her pension, which is set to run out this year.\n“It’s a solid way to make money. It’s consistent money and you can create all sorts of gigs depending on what your skills are,” Michele told Yahoo Finance.\nStory continues While Michele said her proofreading work had slowed down recently due to artificial intelligence , she was still earning enough money to make it worthwhile.\nHer jobs include proofreading novels, blog posts and university dissertations, with a large portion of her clients coming from America.\n“If you’ve got skills and interests and passions that you can use to develop a gig, start by researching and seeing what other people have done and looking at comments. See what negative comments there are so you can see where there are gaps,” Michele said.\nAccording to Fiverr, the current top trending searches in Australia are:\n3D rendering - $600-$1,600 per gig)\nProofreading English - $150-$650 per gig)\nVirtual assistant social media - $200-$900 per gig)\nUser generated content creator ($400-$800 per gig)\nRenting out pool and spare space Sydney resident Hemant Benne has been renting out his pool on Swimply since 2020 and says it’s earning him around $5,000 a month in summer.\nHemant charges between $35 and $60 an hour for his King Langley pool (depending on the size of the booking) and says it’s mostly rented out for parties.\nHemant rents out his pool and puts the extra cash towards pool maintenance costs. (Source: Supplied/Swimply) “There have been a few interesting requests as well, including families needing a private space to take a dip, bookings for private swimming lessons, scuba diving lessons and there was a baptism that was a religious request,” Hemant told Yahoo Finance.\nThe dad of two said the extra cash was going towards his pool’s maintenance costs, as well as improvements to his backyard.\nHemant also rents out the spare space in his basement for storage. He currently rents out three rooms for between $100 and $150 a month each.\nFollow Yahoo Finance on Facebook , LinkedIn , Instagram and Twitter , and subscribe to our free daily newsletter .\nYahoo Australia TRENDING 1. 4 days left for millions of Aussies to claim $1,300 2. $100,000 salary: The foreign languages that could score you a pay rise 3. Major 4-day work week development for thousands 4. How Aussie dad saved his family $6,000 in 2023 5. $753 Boxing Day sales warning for Aussie shoppers",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://s.yimg.com/ny/api/res/1.2/nt5dGx4HiuaxJyO1G5ipxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/02246f50-3412-11eb-bfdd-de89f8b3b8b8",
+      "https://twitter.com/YahooFinanceAU",
+      "https://www.facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fau.finance.yahoo.com%2Fnews%2Fside-hustles-clever-ways-aussies-are-making-an-extra-5000-a-month-211010314.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://subscription.yahoo.net/Newsletter/Preference/sub?b=aufinance",
+      "https://www.instagram.com/yahoofinanceau/",
+      "https://s.yimg.com/ny/api/res/1.2/wn4laoQ8d_AreVBHBgeiDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/26817eb0-4b49-11ed-b3a7-71dcf909a946",
+      "https://s.yimg.com/ny/api/res/1.2/3iqfRohgmovFmJlP.txh_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTE5Mg--/https://s.yimg.com/os/creatr-uploaded-images/2023-09/d3ff4610-5db5-11ee-ab7f-d8bc17627555",
+      "https://s.yimg.com/ny/api/res/1.2/BZ3Aw5zp1G3E_mb.4oFmhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUxNw--/https://s.yimg.com/os/creatr-uploaded-images/2023-12/53c652a0-a535-11ee-bdff-0d16c54f2e65",
+      "https://twitter.com/intent/tweet?text=Side%20hustles%3A%20Clever%20ways%20Aussies%20are%20making%20an%20extra%20%245%2C000%20a%20month&url=https%3A%2F%2Fau.finance.yahoo.com%2Fnews%2Fside-hustles-clever-ways-aussies-are-making-an-extra-5000-a-month-211010314.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dtw%26tsrc%3Dtwtr&via=YahooFinanceAU",
+      "https://s.yimg.com/ny/api/res/1.2/TTpKDqtdrHj7.8sOyukB1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUxNw--/https://s.yimg.com/os/creatr-uploaded-images/2023-12/98bb1790-a532-11ee-b575-f944a962f355",
+      "https://s.yimg.com/ny/api/res/1.2/MuAsYQqdwY6X5U5eacmB6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDY-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/98bb1790-a532-11ee-b575-f944a962f355",
+      "https://s.yimg.com/os/creatr-uploaded-images/2020-12/02246f50-3412-11eb-bfdd-de89f8b3b8b8",
+      "https://www.linkedin.com/company/yahoo-finance-australia-nz/",
+      "https://s.yimg.com/ny/api/res/1.2/MxVC4CfUD9PoOsqB7lEUPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUxNw--/https://s.yimg.com/os/creatr-uploaded-images/2023-12/85d3bd00-a535-11ee-b7f1-0a9566e5df08",
+      "https://www.facebook.com/yahoofinanceaunz/",
+      "https://www.s.yimg.com/ny/api/res/1.2/nt5dGx4HiuaxJyO1G5ipxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMjtoPTQ4/https://www.s.yimg.com/os/creatr-uploaded-images/2020-12/02246f50-3412-11eb-bfdd-de89f8b3b8b8",
+      "https://www.s.yimg.com/ny/api/res/1.2/TTpKDqtdrHj7.8sOyukB1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUxNw--/https://www.s.yimg.com/os/creatr-uploaded-images/2023-12/98bb1790-a532-11ee-b575-f944a962f355",
+      "https://www.subscription.yahoo.net/Newsletter/Preference/sub?b=aufinance",
+      "https://www.twitter.com/YahooFinanceAU",
+      "https://www.instagram.com/yahoofinanceau",
+      "https://www.s.yimg.com/os/creatr-uploaded-images/2020-12/02246f50-3412-11eb-bfdd-de89f8b3b8b8",
+      "https://subscription.yahoo.net/Newsletter/Preference/sub",
+      "https://linkedin.com/company/yahoo-finance-australia-nz/",
+      "https://facebook.com/yahoofinanceaunz/",
+      "https://instagram.com/yahoofinanceau/",
+      "https://www.s.yimg.com/ny/api/res/1.2/MxVC4CfUD9PoOsqB7lEUPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUxNw--/https://www.s.yimg.com/os/creatr-uploaded-images/2023-12/85d3bd00-a535-11ee-b7f1-0a9566e5df08",
+      "https://www.facebook.com/dialog/feed",
+      "https://facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fau.finance.yahoo.com%2Fnews%2Fside-hustles-clever-ways-aussies-are-making-an-extra-5000-a-month-211010314.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://www.s.yimg.com/ny/api/res/1.2/BZ3Aw5zp1G3E_mb.4oFmhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUxNw--/https://www.s.yimg.com/os/creatr-uploaded-images/2023-12/53c652a0-a535-11ee-bdff-0d16c54f2e65",
+      "https://www.s.yimg.com/ny/api/res/1.2/MuAsYQqdwY6X5U5eacmB6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDY-/https://www.s.yimg.com/os/creatr-uploaded-images/2023-12/98bb1790-a532-11ee-b575-f944a962f355",
+      "https://www.facebook.com/yahoofinanceaunz",
+      "https://www.linkedin.com/company/yahoo-finance-australia-nz",
+      "https://www.s.yimg.com/ny/api/res/1.2/3iqfRohgmovFmJlP.txh_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTE5Mg--/https://www.s.yimg.com/os/creatr-uploaded-images/2023-09/d3ff4610-5db5-11ee-ab7f-d8bc17627555",
+      "https://www.s.yimg.com/ny/api/res/1.2/wn4laoQ8d_AreVBHBgeiDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://www.s.yimg.com/os/creatr-uploaded-images/2022-10/26817eb0-4b49-11ed-b3a7-71dcf909a946",
+      "https://www.twitter.com/intent/tweet?text=Side%20hustles%3A%20Clever%20ways%20Aussies%20are%20making%20an%20extra%20%245%2C000%20a%20month&url=https%3A%2F%2Fau.finance.yahoo.com%2Fnews%2Fside-hustles-clever-ways-aussies-are-making-an-extra-5000-a-month-211010314.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dtw%26tsrc%3Dtwtr&via=YahooFinanceAU",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "tamika seeto",
+          "sentiment": "none"
+        },
+        {
+          "name": "louise seery",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "australian bureau of statistics",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "perth",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:10:15.381+02:00",
+    "updated": "2023-12-29T06:10:06.593+02:00"
+  }
+]

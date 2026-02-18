@@ -1,0 +1,355 @@
+[
+  {
+    "uuid": "77edb1a3ac8bcc8d2de48c96dbe220351c527c82",
+    "url": "https://www.devdiscourse.com/article/science-environment/3039144-santiago-experiences-record-breaking-dry-july",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-08-01T18:46:00Z",
+    "title": "Santiago Experiences Record-Breaking Dry July | Science-Environment",
+    "text": "Santiago Experiences Record-Breaking Dry July For the first time since records began, Santiago and surrounding areas in Chile experienced a completely dry July. Experts attribute this anomaly to a prolonged drought and climate change, highlighting the likelihood of more such dry spells in the future. [Devdiscourse News Desk](/devdiscourse-stories)| Updated: 02-08-2024 02:46 IST | Created: 02-08-2024 02:46 IST For the first time since records began, Santiago and Chile's metropolitan region experienced not a single drop of rain this July. Meteorologist Alicia Moya from Chile's government confirmed that multiple stations recorded zero millimeters of precipitation. Moya emphasized that this is unprecedented since the 1950s, marking an extraordinarily dry July unusual for the austral winter. The ongoing decade-long drought in Chile continues to inflict severe implications. Despite heavy rains in June, the drought has not relented. Raul Cordero, a climatologist at the University of Santiago, noted that the city usually receives about 50 millimeters of rain in July, making this year's readings even more alarming. He attributed the dry conditions to climate change and the La Nina phenomenon, warning that such dry spells are likely to become more common. (With inputs from agencies.)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "alicia moya",
+          "sentiment": "none"
+        },
+        {
+          "name": "raul cordero",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "devdiscourse news desk",
+          "sentiment": "none"
+        },
+        {
+          "name": "university of santiago",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "santiago",
+          "sentiment": "none"
+        },
+        {
+          "name": "chile",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-02T00:18:22.341+03:00",
+    "updated": "2024-08-02T00:18:22.341+03:00"
+  },
+  {
+    "uuid": "1537beefc5864754aded91a414bf91163667ca66",
+    "url": "https://gadget.co.za/geminicode531f",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gadget Staff",
+    "published": "2025-02-27T22:20:00Z",
+    "title": "Google gives Gemini Code Assist free to SA",
+    "text": "Google has unveiled Gemini Code Assist , a free version of its AI-coding assistant, powered by Gemini 2.0. Now available to South African developers, it supports all programming languages in the public domain.\nRecent DORA research indicates that over 75% of developers now integrate AI into their daily workflows, underscoring its growing importance. At Google, for instance, over 25% of new code is AI-generated, subsequently validated by engineering teams.\nWhile established enterprises readily deploy advanced AI tools to enhance developer productivity, access to these resources has historically been limited for students, independent developers, and emerging startups.\nGiven the projected global developer base expansion to 57.8-million by 2028, Google says that democratising AI access is timely and crucial. Providing these tools, regardless of financial capacity, equips the next generation of developers with the essential digital capabilities required for future innovation.\nThe Gemini 2.0 model is fine-tuned for developers by analysing and validating a large number of real-world coding use cases. As a result, Google says, the quality of AI-generated recommendations in Gemini Code Assist is better than ever before and ready to address the myriad of daily challenges developers face.\nGemini Code Assist offers up to 180,000 code compilations per month.\nAI is revolutionising coding by accelerating code writing, and empowering developers to write better code. While a quality and efficient code review process is critical, code reviews are often time-consuming. To address this, the public preview of Gemini Code Assist for GitHub , which provides free, AI-powered code reviews for both public and private repositories.\nDevelopers spend most of their time coding in integrated development environments (IDEs). Now, the free version of Gemini Code Assist in Visual Studio Code and JetBrains IDEs offers developers the same code completion, generation, and chat capabilities that have been available to businesses for over a year, and are already freely available in Firebase and Android Studio .\nThis provides an opportunity to learn, create code snippets, debug, and modify existing applications, within IDE, eliminating the need to toggle between windows or copy and paste from disconnected sources.\nAn example of Gemini Code Assist creating code based on natural language prompt and applying the change to existing code.\nGemini Code Assist comes with up to 128,000 input token support in chat. This large context window lets developers use large files and ground Gemini Code Assist with a broader understanding of their local codebases.\nThe chat feature makes it easy for developers to focus on the creative part of development, while leaving the necessary, but repetitive steps – like writing comments or automated tests from requirements – to Gemini.\nGemini Code Assist provides a summary of a pull request and improvement suggestions. Then, when prompted, Gemini provides code readability suggestions.\nSA developers can use natural language in a variety of languages in Gemini Code Assist to generate, explain and improve code. For example, a freelance website developer can get code with a prompt like, “Build me a simple HTML form with fields for name, email, and message, and then add a ‘submit’ button.”\nOr someone looking to automate more routine tasks can ask Gemini to “Write a script that sends a daily email with the latest weather forecast,” or “Explain what this Python code snippet does and find any errors.”\nCode review is one of the most critical, albeit time consuming, parts of software development. With Gemini Code Assist for GitHub , SA developers get a powerful helping hand that can detect stylistic issues and bugs and automatically suggest code changes and fixes.\nOffloading basic reviews to an AI agent can help make code repositories more maintainable and improve quality, allowing developers to focus on more complex tasks. It is available directly in GitHub, where most open-source developers post and review code, via a GitHub app .\nDifferent developer teams may have different best practices, coding conventions and preferred frameworks and libraries. To address this need, Gemini Code Assist for GitHub supports custom style guides for code reviews. Each team can describe which instructions Gemini should follow when reviewing code in a .gemini/styleguide.md file in their repository . That way, Gemini tailors its code reviews to the needs of the repository.\nSignup requires a personal Gmail account; no credit card needed. SA developers can get started by installing Gemini Code Assist in Visual Studio Code , GitHub or JetBrains IDEs .\nSA developers interested in advanced functionality such as productivity metrics, customised AI responses based on private source code repositories, or integrations with Google Cloud services like BigQuery can also consider Gemini Code Assist Standard or Enterprise .\n* Visit the Gemini Code Assist website here .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.youtube.com/watch?v=Jr2nze3bwd4",
+      "https://www.idc.com/getdoc.jsp?containerId=US52187324",
+      "https://plugins.jetbrains.com/plugin/24198-gemini-code-assist",
+      "https://developer.android.com/studio/preview/gemini/ai-code-completion",
+      "https://cloud.google.com/gemini/docs/codeassist/supported-languages",
+      "https://cloud.google.com/gemini/docs/codeassist/overview",
+      "https://firebase.google.com/docs/gemini-in-firebase",
+      "http://github.com/apps/gemini-code-assist",
+      "https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist",
+      "https://developers.google.com/gemini-code-assist/docs/customize-gemini-behavior-github",
+      "https://codeassist.google/products/individual",
+      "https://cloud.google.com/blog/products/devops-sre/announcing-the-2024-dora-report?e=48754805",
+      "https://www.cloud.google.com/blog/products/devops-sre/announcing-the-2024-dora-report?e=48754805",
+      "https://www.firebase.google.com/docs/gemini-in-firebase",
+      "https://www.developers.google.com/gemini-code-assist/docs/customize-gemini-behavior-github",
+      "https://www.plugins.jetbrains.com/plugin/24198-gemini-code-assist",
+      "https://www.marketplace.visualstudio.com/items?itemName=Google.geminicodeassist",
+      "https://www.idc.com/getdoc.jsp",
+      "https://cloud.google.com/blog/products/devops-sre/announcing-the-2024-dora-report",
+      "https://idc.com/getdoc.jsp?containerId=US52187324",
+      "http://youtube.com/watch?v=Jr2nze3bwd4",
+      "https://marketplace.visualstudio.com/items",
+      "http://www.github.com/apps/gemini-code-assist",
+      "https://www.cloud.google.com/gemini/docs/codeassist/overview",
+      "http://www.youtube.com/watch",
+      "https://www.developer.android.com/studio/preview/gemini/ai-code-completion",
+      "https://www.cloud.google.com/gemini/docs/codeassist/supported-languages",
+      "https://www.codeassist.google/products/individual"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Google",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T01:32:52.677+02:00",
+    "updated": "2025-02-28T03:33:01.413+02:00"
+  },
+  {
+    "uuid": "81a641b773e0d1f96b2bb53c679e26fa91fc7ace",
+    "url": "https://countercurrents.org/2025/02/why-and-how-christian-zionism-triggers-islamophobia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Countercurrents",
+    "published": "2025-02-20T08:12:00Z",
+    "title": "Why And How Christian Zionism Triggers Islamophobia?| Countercurrents",
+    "text": "Why and How Christian Zionism Triggers Islamophobia? in Life/Philosophy by V A Mohamad Ashrof 20/02/2025 Share: Share on WhatsApp Share on Facebook Share on X (Twitter) Share on Telegram Share on Reddit Share on Email Christian Zionism, a double-edged sword, has become a significant force in shaping Western attitudes toward Islam and Muslims. Rooted deep in the soil of dispensationalist theology, Christian Zionism interprets the Bible literally, particularly Old Testament prophecies, and views the modern State of Israel as the culmination of God’s grand design, the fulfilment of God’s covenant with the Jewish people. However, this movement’s theological framework has a dark underbelly, often perpetuating negative stereotypes about Islam and Muslims, fuelling the flames of Islamophobia. This paper delves into the complexities of Christian Zionism, exploring its historical, theological, and political dimensions, and examines how its rhetoric and actions pour oil on the fire, fuelling anti-Muslim sentiment.\nTheological Foundations of Christian Zionism\nThe theological foundations of Christian Zionism are entrenched in dispensationalism, a framework that emerged in nineteenth-century England through figures like Louis Way (1772–1840) and John Nelson Darby (1800–1882). Dispensationalism, a form of premillennialism, organizes history into distinct periods, or “dispensations,” each marked by specific divine interactions with humanity. This framework, much like a divinely scripted play with predetermined acts, envisions God’s interventions at set intervals. A central tenet of this theology is the literal interpretation of biblical prophecy, particularly regarding the restoration of the Jewish people to their ancestral homeland. According to dispensationalists, the return of the Jews to Palestine is a pivotal event that precedes the Second Coming of Christ. In this worldview, the return is the linchpin in God’s unfolding plan, an hourglass marking the countdown to Christ’s return. This belief influenced British politicians such as Arthur Balfour (1848-1930), whose support for establishing a Jewish homeland in Palestine was partially motivated by dispensationalist eschatology. (Grose, p. 67–71)\nDispensationalism gained significant traction in the United States through evangelists like Dwight Moody (1837–1899), C. I. Scofield (1843–1921), and William E. Blackstone (1841–1935). Scofield’s Reference Bible was especially influential in popularizing these ideas, embedding dispensationalist interpretations into the theological framework of many American evangelicals. Like a seed planted in fertile soil, Scofield’s interpretations flourished, shaping the spiritual imagination of countless believers. Later, the popularity of Hal Lindsey’s The Late Great Planet Earth and Timothy LaHaye’s ‘Left Behind’ series brought these eschatological views into the mainstream. Dispensationalists viewed key historical events—such as the establishment of the State of Israel in 1948 and the Six-Day War in 1967—as divine affirmations of biblical prophecy. For them, these events were not random; they were signposts on the prophetic highway. Israel’s control of Jerusalem and the West Bank was seen as the fulfilment of both Old and New Testament prophecies, solidifying the movement’s belief that the world was progressing toward the end times. (Weber, p. 184)\nCentral to Christian Zionist theology is the conviction that the Jewish people and the modern State of Israel are integral to God’s eschatological plan. Dispensationalists often cite passages like Ezekiel 37, which describes the vision of the dry bones, as evidence of God’s promise to restore the Jewish people. To them, this vision breathes life into their eschatological aspirations, a divine CPR (Cardiopulmonary resuscitation) for a nation once scattered. This restoration is viewed as a necessary precursor to Christ’s return, reinforcing the theological and political imperative of supporting Jewish sovereignty in the region. By framing the Jewish return as a divine mandate, Christian Zionism aligns itself with political Zionism, creating a powerful intersection of religious belief and geopolitical advocacy.\nHowever, this theological framework often portrays Islam and Muslims as antagonists in the eschatological narrative. Christian Zionists frequently interpret passages such as Luke 21:24, which references the “times of the Gentiles,” to suggest that Islam opposes God’s plan. Islam is often cast as the proverbial Goliath standing in the way of God’s chosen David. This interpretation frames Islam as a monolithic and adversarial force, casting Muslims as enemies of both Israel and Christianity. Such perspectives oversimplify the diversity within Islam and can foster a binary, confrontational worldview that exacerbates religious and political tensions. By reducing Islam to a symbol of the “powers of darkness,” Christian Zionism perpetuates a narrative of good versus evil with significant implications for interfaith relations and global politics. (Sizer, p. 240)\nCritics contend that Christian Zionism risks conflating religious prophecy with contemporary political agendas, which can hinder efforts for peace and justice in the Middle East. Like a ship charting its course by the stars of prophecy rather than the compass of present realities, the movement may drift away from the shores of reconciliation. By prioritizing eschatological expectations over the lived realities of Palestinians—both Christian and Muslim—the movement often marginalized voices that challenge its narrative. Furthermore, the emphasis on apocalyptic events may lead to a fatalistic outlook, discouraging constructive engagement with complex geopolitical issues. Despite these critiques, Christian Zionism remains a powerful force, shaping the beliefs and political actions of millions of Christians worldwide. In the United States, it continues to wield significant cultural and political influence, reinforcing U.S. support for Israel and impacting the discourse surrounding Middle Eastern policy.\nChristian Zionism and the Demonization of Islam\nChristian Zionism has played a significant role in promoting Islamophobic narratives, portraying Islam as inherently violent and a threat to global peace and Israel’s survival. Central to this rhetoric are figures like John Hagee and Hal Lindsey, who have popularized these views through books, sermons, and media appearances. Hagee, in particular, has claimed that the Qur’an explicitly promotes violence, arguing that Islamic terrorism is a natural outcome of Islamic teachings. (Hagee, Jerusalem, p. 32–33) To Hagee, the Qur’an is a powder keg, with violence baked into its very pages. Similarly, Lindsey asserts that Muslims are united in their goal to destroy Israel and overthrow Western civilization, framing Islam as a monolithic global threat. (Lindsey, The Final Battle, pp. 4–5) This narrative paints Islam with the broadest of brushes, reducing its vast diversity to a singular, menacing force. While such claims are widely disputed by scholars of Islam, they have gained traction among Christian Zionist audiences, reinforcing a binary worldview that casts Islam as the antithesis of Christianity and Judaism. The world is split into black and white, good and evil, with Islam occupying the darkest corner of the stage.\nThis demonization of Islam is not confined to fringe figures but has been widely disseminated through popular media. Books like Lindsey’s The Late Great Planet Earth and the Left Behind series by Tim LaHaye and Jerry Jenkins have reached millions of readers, embedding anti-Islamic narratives into their eschatological storylines. These works often depict Islam as a religion of conquest and its followers as fanatical extremists, perpetuating harmful stereotypes that fuel Islamophobia. Like ink staining an entire page, these narratives seep into public consciousness, spreading fear and hostility. By framing Islam as an existential threat, Christian Zionism cultivates a climate of fear and hostility toward Muslims. This portrayal not only distorts the diversity and complexity of Islamic beliefs and practices but also justifies policies and social attitudes that marginalize Muslim communities. (Weber, p. 188–96) The complex mosaic of Islam is reduced to a single, threatening caricature.\nChristian Zionists have used biblical justifications to support land expropriation, home demolitions, and population transfers. These actions dehumanize Arabs and portray Muslims as perpetual threats. Stephen Sizer describes how Christian Zionism uses the Bible to legitimize racial superiority and deny international law, thus fuelling both Islamophobia and anti-Semitism. (Sizer, Soldiers, p. 162) In this framework, the Bible becomes a weapon, wielded to justify actions that would otherwise be condemned.\nChristian Zionists often interpret Old Testament history and prophetic passages through themes of divine election, land, and people, applying these biblical narratives to modern geopolitical realities without consideration of historical or critical contexts. (Wagner, p. 82–84) They read ancient stories of conquest and covenant as if they were maps to the present, blurring the lines between sacred history and current politics.\nProminent Christian Zionist leaders like John Hagee and Walid Shoebat have propagated particularly extreme views, framing Islam as incompatible with Western civilization and a promoter of global domination. Hagee, for instance, has claimed that “Islam not only condones violence; it commands it,” portraying the faith as inherently violent and its followers as existential threats to peace. (Hagee, Jerusalem, p. 32) Shoebat, a former Muslim turned Christian Zionist speaker, has similarly painted Islam as an ideology of conquest, frequently making unsubstantiated claims about Muslim intentions and actions. Their rhetoric casts Islam as a creeping shadow, always looming, always advancing, with no room for nuance or understanding.\nChristian Zionist eschatology revolves around the belief that the Battle of Armageddon will precede the Second Coming of Christ. According to this narrative, Muslims must either convert or face destruction. The choice is stark: salvation or obliteration. Muslims, along with Jews who do not accept Jesus, are cast as followers of the Antichrist. This apocalyptic framework promotes a “clash of civilizations” mentality that views Islam as an existential threat. (Mezvinsky, p. 42) The future is imagined as a battlefield, with Christianity and Islam locked in a fateful showdown.\nHal Lindsey’s books are replete with stereotypes portraying Muslims as unified in their hatred of Israel and Western civilization. Lindsey’s claims that Arab nations are obsessed with destroying Israel and that Islam encourages dishonesty to further its cause perpetuate Islamophobic myths. (Lindsey, Planet Earth, p. 256) His words drip with suspicion, painting a world where deceit and hatred lurk behind every Muslim face.\nBy framing Islam as an adversarial force in a cosmic struggle, Christian Zionism not only distorts interfaith understanding but also exacerbates tensions between religious communities. It sows the seeds of discord, cultivating a harvest of mistrust and animosity. This reductionist perspective fosters a divisive narrative that hinders constructive dialogue and peaceful coexistence, contributing to the broader climate of Islamophobia in both religious and political spheres. Instead of building bridges, it erects walls, with suspicion as the mortar and fear as the bricks.\nChristian Zionism’s main base, white Evangelicals in the United States, holds some of the most negative views of Islam compared to other demographic groups. (Pew Research 2017) This negative perception is not limited to theological differences but extends to cultural and political domains. Many Christian Zionists believe that the God of Judaism and Christianity opposes the false deity worshipped by Muslims. (Spector, p.76) To them, the divide between Islam and Christianity is not just a river to be crossed—it is a chasm, wide and unbridgeable.\nThe Racialization of Islam and Muslims\nChristian Zionism’s Islamophobia is deeply intertwined with racial and cultural hierarchies, positioning Christianity as synonymous with whiteness and modernity, while Islam is depicted as backward and barbaric. This perspective paints a stark, black-and-white portrait, where Christianity stands in the bright light of civilization while Islam is cast in the shadows of primitivism. Andrea Smith argues that Christian Zionism racializes both Arabs and Jews, constructing a narrative in which Christianity represents progress and civilization, while Islam is relegated to the realm of primitivism and violence. (Smith, p. 3) This racialized framework is a lens that distorts reality, erasing nuances and flattening the diversity of the Middle East into simplistic stereotypes.\nOne of the casualties of this narrative is the erasure of Palestinian Christians and other Arab Christians, who are marginalized within Christian Zionist discourse. Like branches cut from a larger tree, these communities are severed from their historical and cultural roots. By ignoring these groups, Christian Zionism reinforces a binary opposition between Christianity and Islam, further entrenching divisions and obscuring the complex realities of the region.\nMoreover, Christian Zionism’s support for Israel is often framed as a defence of Western civilization against the perceived threat of Islam. This narrative conjures images of fortress walls, where Israel is the outpost of Western values and Islam is the ever-encroaching force. This perspective aligns with broader historical trends in which Islam has been constructed as the “other” in contrast to Euro-American values. As Mehdi Semati notes, Islam is frequently portrayed as incompatible with modernity, democracy, and Western culture—a trope that Christian Zionism amplifies. (Semati, p. 267) In this framework, Islam is depicted as a river that runs against the current of progress, forever resisting the tides of democracy and modernity.\nBy portraying Muslims as enemies of both Israel and the West, Christian Zionism reinforces a global narrative of civilizational conflict. This worldview, built on the scaffolding of fear and mistrust, constructs a stage where Islam is perpetually cast as the antagonist in a play of cultural superiority. Such a perspective not only justifies policies that prioritize Israeli interests over Palestinian rights but also perpetuates the notion that Muslims are perpetual outsiders and existential threats to the global order. Like a drumbeat of suspicion, this narrative echoes through both religious and political corridors, shaping perceptions and policies alike.\nIn doing so, Christian Zionism contributes to the racialization and demonization of Islam, with far-reaching consequences for interfaith relations and global politics. It creates a landscape of division, where bridges of understanding are torn down and walls of prejudice are fortified. The result is a world where dialogue is stifled, and peaceful coexistence becomes an ever-distant dream.\nPolitical Implications and the Clash of Civilizations\nChristian Zionism’s influence stretches far beyond the confines of theology, spilling over into the political arena like ink on parchment, particularly in the United States. Evangelical Christians, who form the backbone of the Christian Zionist movement, have played a pivotal role in shaping U.S. foreign policy toward Israel. Their support is often framed through Islamophobic rhetoric that casts Israel as a bulwark against the tides of Islamic extremism. For instance, during the Gulf War of 1990, many Christian Zionist leaders interpreted the conflict as a fulfilment of biblical prophecy, with Iraq painted as the modern-day Babylon. (Mezvinsky, p. 43) This interpretation served as a clarion call, galvanizing both theological conviction and political advocacy to ensure unwavering support for Israel, seen as a divine mandate.\nThe political alliance between Christian Zionists and Israel reinforces the broader “clash of civilizations” narrative—a metaphorical battlefield where the Judeo-Christian West stands against an Islamic world perceived as an encroaching storm. Stephen Spector’s Evangelicals and Israel underscores how Christian Zionists see themselves as loyal allies of the Jewish people in a cosmic struggle against Islam. (Spector, p. vii) This perspective frames the Israeli-Palestinian conflict not as a mere geopolitical issue but as a spiritual war—a battle between the forces of good and evil. By draping Israel in the mantle of Western values and casting Islam as an existential threat, Christian Zionism perpetuates a black-and-white worldview that reduces nuanced realities to simplistic binaries.\nThis binary lens has profound consequences for international relations, fostering policies that elevate Israeli interests above Palestinian rights and the broader stability of the Middle East. Christian Zionists often lobby against the creation of a Palestinian state and advocate for the expansion of Israeli settlements—policies that align with their apocalyptic eschatology. These positions are propped up by narratives that depict Muslims as perpetual adversaries, painting them as wolves in sheep’s clothing—untrustworthy and inherently hostile. Such rhetoric further marginalizes Palestinian voices, exacerbates tensions, and erodes the potential for constructive dialogue. By casting the conflict in rigid religious terms, Christian Zionism effectively throws sand into the gears of peace efforts, grinding negotiations to a halt.\nMoreover, the clash-of-civilizations narrative promoted by Christian Zionism casts long shadows across the globe, shaping perceptions of Islam and Muslims well beyond the Middle East. This narrative reduces Islam to a monolithic force, akin to a storm cloud looming on the horizon, poised to unleash destruction. Such portrayals stigmatize Muslim communities worldwide and justify discriminatory policies and social attitudes. They also align with centuries-old patterns of viewing Islam as the “other”—a spectre haunting the Western imagination. This perspective perpetuates a cycle of mistrust and conflict, like a wheel turning endlessly on the same worn-out path.\nIn this way, Christian Zionism’s political influence transcends its immediate theological and geopolitical concerns, shaping global narratives about religion, identity, and power. Its ripple effects, much like a stone cast into a pond, extend outward—stirring the waters of fear and division far beyond the shores of the Middle East.\nThe Impact on Muslim Communities\nThe Islamophobic rhetoric of Christian Zionism casts a long and dark shadow over Muslim communities, both in the West and globally. By consistently portraying Islam as a violent and expansionist religion, Christian Zionism fuels the marginalization and discrimination of Muslims in Western societies. This narrative reinforces deep-seated stereotypes that paint Muslims as ticking time bombs or square pegs that can’t fit into the round hole of Western values, leading to social exclusion and prejudice. This widespread bias is a testament to the potency of Christian Zionist rhetoric in shaping perceptions of Islam and Muslims.\nChristian Zionism’s portrayal of Muslims as existential threats to Israel and Western civilization has also laid the groundwork for anti-Muslim policies and practices. In the United States and Europe, this rhetoric has been used to fan the flames of fear, justifying policies that treat Muslim communities like suspects under constant watch. For example, the post-9/11 era saw a surge in measures such as the USA Patriot Act, which disproportionately affected Muslim individuals and organizations. Christian Zionism’s framing of Islam as a global menace has provided ideological support for such draconian measures, legitimizing the view that Muslims must be monitored and controlled to safeguard national security.\nBeyond policy, Christian Zionism’s rhetoric has sown seeds of discord between Muslim and Jewish communities. By framing the Israeli-Palestinian conflict as a religious struggle between Judaism and Islam, Christian Zionism reduces a complex historical and political issue to a simplistic tug-of-war between two irreconcilable faiths. This narrative pits Muslims and Jews against each other, making it harder to foster dialogue and cooperation. In the U.S. and elsewhere, this dynamic has strained interfaith relationships, creating walls where bridges should be built and complicating efforts by Muslim and Jewish leaders to collaborate on shared concerns, such as combating hate crimes or promoting social justice.\nChristian Zionism’s rhetoric also drives a wedge between Muslims and Christians, undermining interfaith dialogue. By casting Islam as a religion of violence and portraying Muslims as enemies of Christianity, Christian Zionism fosters mistrust and hostility between the two communities. This narrative erases the vibrant tapestry of coexistence and collaboration that has existed between Muslims and Christians, particularly in regions like the Middle East, where Christian communities have lived alongside Muslims for centuries. The marginalization of Palestinian Christians within Christian Zionist discourse further highlights this divide, as their voices are often silenced in favour of a narrative that prioritizes unwavering support for Israel over solidarity with fellow Christians.\nUltimately, the Islamophobic rhetoric of Christian Zionism has ripple effects far beyond the pulpit, shaping public attitudes, influencing policies, and straining interfaith relationships. By perpetuating stereotypes and promoting a rigid “us versus them” worldview, Christian Zionism contributes to a climate of fear and hostility that disproportionately affects Muslim communities. This dynamic not only harms Muslims but also undermines efforts to build inclusive, pluralistic societies where diverse religious and cultural groups can coexist peacefully. Addressing the impact of Christian Zionism requires breaking the chains of its narratives and opening doors to more nuanced conversations about Islam—ones that recognize its diversity and reject the demonization of an entire faith community.\nResurrecting the Crusades: Christian Zionism’s Clash with Islam\nKaren Armstrong is not alone in tracing within Western Christian Zionism evidence of the ghosts of the Crusades. She argues that such fundamentalists have “returned to a classical and extreme religious crusading.” (Armstrong, p. 377) Christian Zionism’s portrayal of Islam as an existential threat to Israel and Western civilization has stoked the flames of Islamophobia through its theological, political, and eschatological frameworks. By casting Muslims as adversaries in a cosmic chess match between good and evil, the movement promotes harmful stereotypes and justifies policies that contribute to the marginalization of Muslim communities. Its theological foundation, rooted in dispensationalism, frames Islam as a sword-wielding expansionist force, while its political advocacy positions Israel as a bulwark against Islamic extremism. This dual approach distorts the complexities of Middle Eastern realities and draws rigid battle lines that reinforce racial and cultural hierarchies, leading to discriminatory practices such as surveillance, profiling, and exclusionary immigration policies.\nThe narrative of a clash of civilizations acts as a sledgehammer, further entrenching anti-Muslim sentiment by framing global conflicts as a battle between the Judeo-Christian West and the Islamic world. This binary worldview reduces intricate geopolitical realities to a black-and-white war painting, erasing the diversity within Islam and overlooking the shared histories of coexistence between Muslims, Christians, and Jews. It also marginalizes voices within Christianity—especially those of Palestinian Christians—whose perspectives are often excluded in favour of a narrative that prioritizes unconditional support for Israel. Christian Zionism’s rhetoric cements a racialized logic that equates Christianity with whiteness and modernity while portraying Islam as backward and barbaric.\nAddressing the Islamophobic tendencies of Christian Zionism requires peeling back the layers of its theological interpretations, historical legacies, and political actions to reveal the root causes of its divisive narratives. Promoting a more inclusive and nuanced understanding of religion and politics is essential to dismantling the walls of fear and suspicion that have perpetuated conflict. Scholars, religious leaders, and policymakers must join hands across divides to counter the stereotypes perpetuated by Christian Zionism and foster dialogue that highlights shared values and common humanity. Amplifying the voices of marginalized groups, such as Palestinian Christians and Muslims, is crucial to creating a richer, more balanced symphony in conversations about the Middle East.\nName: Email: Ultimately, building a more just and peaceful world demands moving beyond the binary oppositions and apocalyptic frameworks that Christian Zionism promotes. Fostering mutual understanding and cooperation between religious communities can help douse the fires of division and pave the way for solidarity and respect. Confronting the impact of Christian Zionism is not just a theological or political necessity—it is a moral imperative, as its rhetoric and policies have real-world consequences for millions. Only through intentional efforts to uplift diversity, dignity, and equality can we work toward a future defined by justice and peace for all.\nBibliography\nArmstrong, Karen, Holy War, The Crusades and Their Impact on Today’s World, London: Macmillan, 1988\nGrose, Peter, Israel in the Mind of America, New York: Knopf, 1983\nHagee, John, Jerusalem Countdown: A Warning to the World, Lake Mary, FL: FrontLine, 2006\nLindsey, Hal, Late Great Planet Earth, Lakeland: Zondervan, 1970\nLindsey, Hal, The Final Battle, Palos Verdes, California: Western Front, 1995\nMezvinsky, Norton, “Islam and Muslims as Seen by the Christian Zionists,” in Islam in the Eyes of the West, ed. Tareq Y. Ismael and Andrew Rippin, New York: Routledge, 2010\nPew Research Center, “How the U.S. general public views Muslims and Islam,” Washington, D.C., July 2017\nSemati, Mehdi, Islamophobia, Culture and Race in the Age of Empire,” Cultural Studies 24, no. 2 (March 2010)\nSizer, Stephen, Christian Zionism: Road-Map to Armageddon? Leicester: InterVarsity Press, 2005\nSizer, Stephen, Zion’s Christian Soldiers, London: IVP, 2007\nSmith, Andrea, “The Racialization of Religion: Christian Zionism, Islamophobia, and Imperial Peace,” Journal of Race, Ethnicity, and Religion 1, no. 13.3 (December 2010)\nSpector, Stephen, Evangelicals and Israel: The Story of American Christian Zionism, New York: Oxford University Press, 2009\nWagner, Donald, Anxious for Armageddon: A Call to Partnership for Middle Eastern and Western Christians, Scottsdale, PA: Herald Press, 1995\nWeber, Timothy P, On the Road to Armageddon: How Evangelicals Became Israel’s Best Friend, Grand Rapids, MI: Baker Academic, 2004\n(V.A. Mohamad Ashrof is an independent Indian scholar specializing in Islamic humanism. With a deep commitment to advancing Quranic hermeneutics that prioritize human well-being, peace, and progress, his work aims to foster a just society, encourage critical thinking, and promote inclusive discourse and peaceful coexistence. He is dedicated to creating pathways for meaningful social change and intellectual growth through his scholarship. He can be reached at [email protected] )\nShare: Share on WhatsApp Share on Facebook Share on X (Twitter) Share on Telegram Share on Reddit Share on Email Tags: Christian Zionism , Islamophobia",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "topics": [
+      "Politics->freedom of religion",
+      "Politics->political development",
+      "Social Issue->diversity, equity and inclusion",
+      "Social Issue->discrimination",
+      "Social Issue->social problem",
+      "Religion and Belief->islam",
+      "Religion and Belief->christianity",
+      "Religion and Belief->religious conflict"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "John Nelson Darby",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "81a641b773e0d1f96b2bb53c679e26fa91fc7ace",
+      "first_syndicated": true
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-20T10:16:26.557+02:00",
+    "updated": "2025-02-20T10:56:21.596+02:00"
+  },
+  {
+    "uuid": "acd9acb32db15bec0af2171204884cf82a5453ee",
+    "url": "https://www.wlwt.com/article/power-outages-winds-cincinnati-rain-anderson-township/64061074",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sean MacKinnon",
+    "published": "2025-03-06T03:10:00Z",
+    "title": "Gusty winds cause scattered power outages around Greater Cincinnati",
+    "text": "Gusty winds cause scattered power outages around Greater Cincinnati\nCincinnati homes, businesses and traffic lights all went dark Wednesday\nCincinnati homes, businesses and traffic lights all went dark Wednesday\nCincinnati homes, businesses and traffic lights all went dark Wednesday\nAs the cold front moved in, many across our region saw, heard and felt the impacts of the heavy winds.\nFor thousands, it meant losing power and waiting for Duke Energy crews to get the lights and heat back on.\nPower was out for people in Bridgetown on the West Side for hours. Then, inside Ideal Baseball Cards the lights flickered back.\n\"Popped right back on. You guys are a lucky charm,\" Owner Mike Siska said.\nThey could not use credit cards without power, instead only cash and Venmo. And when they've lost power in the past, Siska lights up candles, a solution as classic as the Big Red Machine baseball cards in their glass displays.\n\"I would have a few boxes of these around the shop; people would come in, they could see a little bit,\" Siska said.\nBut tonight, after the sun set and temps plummeted, hundreds in Anderson Township were left in the dark and without heat since 3:30 in the afternoon.\n\"Dog walks, temperature dropping. It's not much colder inside than it is outside,\" one man said. \"Basically, it'll be cuddling up with the dog in bed and putting an extra blanket on the bed.\"\nAs Duke crews work to get it restored, he learned his mom's also in the dark and cold.\n\"Yeah, I actually grew up right across the street, couple blocks down there, and she just called me before I walked out with my dog and said her power just went out, too. Looks like now the outage has expanded,\" he said. \"Hopefully, it bounces right back, and then we're just looking forward to the spring weather coming.\"\nPower in Anderson Township has since been restored.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Environment->energy resources",
+      "Environment->air pollution",
+      "Environment->environmental pollution",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Mike Siska",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Greater",
+          "sentiment": "none"
+        },
+        {
+          "name": "West Side",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Duke Energy",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T05:43:48.631+02:00",
+    "updated": "2025-03-06T05:43:48.631+02:00"
+  },
+  {
+    "uuid": "40202d6bc0bce6a6ac2d1a4db07c1b795ce6b4f0",
+    "url": "https://radaronline.com/p/ne-yo-ex-sade-diddy-jr-called-cops-removed-from-mansion-videos-accusations",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Whitney Vasquez",
+    "published": "2024-04-25T21:06:00Z",
+    "title": "Ne-Yo Calls Cops to Remove Ex Sade From Georgia Mansion",
+    "text": "Home > Exclusives > Ne-Yo Exclusive Ne-Yo Calls Cops to Remove Ex Sade Bagnerise From His Georgia Mansion Source: MEGA; Instagram Ne-Yo took action after his ex Sage Bagnerise showed up at his Georgia mansion and started acting up.\nBy: Whitney Vasquez Apr. 25 2024, Published 5:06 p.m. ET\nNe-Yo took action after his ex Sade Bagnerise showed up at his Georgia mansion and started acting up. A source close to the situation told RadarOnline.com that Ne-Yo called the police and asked that Sade be escorted from the premises on Thursday morning.\nWe confirmed with the Alpharetta Police Department that officers responded to Ne-Yo's home at 12:30 AM. Due to the sensitivity of the case, they could not reveal more information.\n MEGA RadarOnline.com confirmed with the Alpharetta Police Department that officers responded to Ne-Yo's home at 12:30 AM.\nWhen we contacted Sade for comment, she told RadarOnline.com, \"We are two parents co-parenting and we had a heated argument.\" She admitted that \"emotions escalated\" and insisted, \"I removed myself from the home.\"\nSade also shared that she hoped they could grow from this incident, adding she wants Ne-Yo to be a \"more attentive, proactive\" father to their sons.\n The Because of You singer, 44, has seven children but his two youngest are Braiden and Brixton , whom she legally shares with Sade. After allegedly barging into his six-bedroom, eight-bathroom home, she began filming him and spewing out accusations of alleged assault and neglect. After cops arrived at Ne-Yo's home, Sade left the premises.\n MEGA; Instagram Ne-Yo has seven children but his two youngest are with Sade.\n This isn't Sade's first run-in with cops . We broke the story — she was arrested in September 2023 on charges of cruelty to children after she allegedly helped her son, who is not Ne-Yo's kid, fight another child at the bus stop. A woman named Veronica filed for a temporary protective order against Sade, claiming that she and her son “premeditated” the alleged attack.\nMORE ON: Ne-Yo Ne-Yo's Ex Avoids Potential Jail Time After Woman Accusing Her of Violating Restraining Order Blows Off Court Ne-Yo’s Ex-GF Accused of Violating Restraining Order Taken Out by Mother of Child She Allegedly Helped Her Son Attack, Facing Jail Time Ne-Yo Pleads With Court to Gag Ex Sade Bagnerise From Talking About Custody Battle Weeks After Her Child Cruelty Arrest Was Exposed In the TRO obtained by RadarOnline.com, Veronica said Sade and her kid allegedly hid in bushes near the bus stop before assaulting her son. She also claimed that there was camera footage and eyewitnesses who saw Sade allegedly punch Veronica’s son as Bagnerise’s child fought him.\n Fulton County Jail Sade was arrested in September 2023 on charges of cruelty to children after she allegedly helped her son, who is not Ne-Yo's kid, fight another child at the bus stop.\n Veronica alleged that witnesses also saw Sade “kick and place my son in a chokehold prior to spraying him in the face with pepper spray. Eyewitnesses notified law enforcement at which point [Sade] and her son fled the scene.”\nVeronica further charged that Sade's son continued to make alleged verbal threats against her child on social media, allegedly even sending footage of him threatening to “kill my son on video.”\n MEGA Ne-Yo's team has yet to respond for comment.\n Online records showed Ne-Yo's ex was arrested on March 27, 2023, on charges of cruelty to children in the 1st degree, cruelty to children in the 3rd degree, and battery. Sade was released two days later after posting a bond of $31k.\nSade spoke to RadarOnline.com after the incident and claimed she was protecting her son from bullies.\n“My son was getting bullied and jumped from kids at his school and I only got involved to help and protect him as any mother would. As a law-abiding citizen, I am fully committed to cooperating with the legal authorities and providing all necessary information to ensure a fair and just resolution,\" she shared.\nAdvertisement",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "http://twitter.com/share?text=Ne-Yo%20Calls%20Cops%20to%20Remove%20Ex%20Sade%20Bagnerise%20From%20His%20Georgia%20Mansion%20via%20@radar_online&url=https://radaronline.com/p/ne-yo-ex-sade-diddy-jr-called-cops-removed-from-mansion-videos-accusations/",
+      "https://www.facebook.com/sharer/sharer.php?u=https://radaronline.com/p/ne-yo-ex-sade-diddy-jr-called-cops-removed-from-mansion-videos-accusations/",
+      "https://www.hotnewhiphop.com/792914-neyo-freak-off-ex-girlfriend-allegations-instagram-live-fight-music-news",
+      "https://api.podcache.net/embedded-show-player/sh/88223be6-061a-48fb-aec7-3dfc9420858f?theme=blurred",
+      "https://redcircle.com?utm_source=rc_embedded_player&utm_medium=web&utm_campaign=embedded_v1",
+      "https://redcircle.com",
+      "https://www.redcircle.com?utm_source=rc_embedded_player&utm_medium=web&utm_campaign=embedded_v1",
+      "http://twitter.com/share?text=Ne-Yo%20Calls%20Cops%20to%20Remove%20Ex%20Sade%20Bagnerise%20From%20His%20Georgia%20Mansion%20via%20@radar_online&url=https://radaronline.com/p/ne-yo-ex-sade-diddy-jr-called-cops-removed-from-mansion-videos-accusations",
+      "https://facebook.com/sharer/sharer.php?u=https://radaronline.com/p/ne-yo-ex-sade-diddy-jr-called-cops-removed-from-mansion-videos-accusations/",
+      "https://www.api.podcache.net/embedded-show-player/sh/88223be6-061a-48fb-aec7-3dfc9420858f?theme=blurred",
+      "https://www.facebook.com/sharer/sharer.php",
+      "http://www.twitter.com/share?text=Ne-Yo%20Calls%20Cops%20to%20Remove%20Ex%20Sade%20Bagnerise%20From%20His%20Georgia%20Mansion%20via%20@radar_online&url=https://www.radaronline.com/p/ne-yo-ex-sade-diddy-jr-called-cops-removed-from-mansion-videos-accusations/",
+      "http://twitter.com/share",
+      "https://www.facebook.com/sharer/sharer.php?u=https://radaronline.com/p/ne-yo-ex-sade-diddy-jr-called-cops-removed-from-mansion-videos-accusations",
+      "https://hotnewhiphop.com/792914-neyo-freak-off-ex-girlfriend-allegations-instagram-live-fight-music-news",
+      "https://api.podcache.net/embedded-show-player/sh/88223be6-061a-48fb-aec7-3dfc9420858f"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "georgia ma",
+          "sentiment": "negative"
+        },
+        {
+          "name": "sage bagnerise",
+          "sentiment": "none"
+        },
+        {
+          "name": "sade",
+          "sentiment": "none"
+        },
+        {
+          "name": "instagram ne-yo",
+          "sentiment": "none"
+        },
+        {
+          "name": "sade bagnerise",
+          "sentiment": "none"
+        },
+        {
+          "name": "whitney vasquez",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "mega radaronline.com",
+          "sentiment": "none"
+        },
+        {
+          "name": "ne-yo",
+          "sentiment": "none"
+        },
+        {
+          "name": "mega",
+          "sentiment": "none"
+        },
+        {
+          "name": "alpharetta police department",
+          "sentiment": "none"
+        },
+        {
+          "name": "radaronline.com",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "georgia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:21:58.975+03:00",
+    "updated": "2024-04-29T16:11:39.736+03:00"
+  }
+]

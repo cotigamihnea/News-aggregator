@@ -1,0 +1,671 @@
+[
+  {
+    "uuid": "3c78ff21542d04887209944e6884b376370fff0c",
+    "url": "https://www.landeszeitung.de/der-norden/niedersachsen-warnt-vor-russland-und-verlangt-milliarden-fuer-den-zivilschutz-CIMWBVXJTFASZOK4DYKKBMQJTA.html",
+    "ord_in_thread": 0,
+    "author": "Karl Doeleke",
+    "published": "2025-06-12T06:30:00Z",
+    "title": "Niedersachsen warnt vor Russland und verlangt Milliarden für den Zivilschutz",
+    "text": "Treffen der Innenminister in Bremerhaven\nNiedersachsen warnt vor Russland und verlangt Milliarden für den Zivilschutz\n„Das Argument fehlender Haushaltsmittel entfällt“: Niedersachsens Innenministerin Daniela Behrens (SPD).\nQuelle: Julian Stratenschulte/dpa",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Politics->defence",
+      "Politics->national government",
+      "Politics->political crisis",
+      "War, Conflict and Unrest->civil unrest",
+      "Social Issue->national or ethnic minority",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Julian Stratenschulte",
+          "sentiment": "none"
+        },
+        {
+          "name": "Daniela Behrens",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Bremerhaven\nNiedersachsen",
+          "sentiment": "none"
+        },
+        {
+          "name": "Russland",
+          "sentiment": "none"
+        },
+        {
+          "name": "Niedersachsens",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "dpa",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "DPA",
+              "exchange": "LON"
+            }
+          ]
+        },
+        {
+          "name": "SPD",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "SPD",
+              "exchange": "NYSEARCA"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:06:19.359+03:00",
+    "updated": "2025-06-12T07:10:53.000+00:00"
+  },
+  {
+    "uuid": "ff3435bca5d43a97f4fa8446b884dcd6788cdc50",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrft3927524.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:31:00Z",
+    "title": "银行ETF龙头（512820）跌0.27%，半日成交额7270.86万元|银行ETF_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，银行ETF龙头（512820）跌0.27%，报1.472元，成交额7270.86万元。银行ETF龙头（512820）重仓股方面， 招商银行 截止午盘跌0.70%， 兴业银行 跌0.08%， 工商银行 涨0.14%， 交通银行 涨0.13%， 农业银行 涨0.17%， 江苏银行 涨0.68%， 浦发银行 跌0.23%， 中国银行 涨0.36%， 平安银行 跌0.68%， 上海银行 涨0.19%。\n银行ETF龙头（512820）业绩比较基准为 中证银行指数 收益率，管理人为汇添富基金管理股份有限公司，基金经理为晏阳，成立（2018-10-23）以来回报为70.57%，近一个月回报为4.96%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Economy, Business and Finance->debt market",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service",
+      "Social Issue->demographics",
+      "Social Issue->population and census",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:40:01.747+03:00",
+    "updated": "2025-06-20T05:05:27.000+00:00"
+  },
+  {
+    "uuid": "54f093616e029402fda0adbcea8dcbcea24507ca",
+    "url": "https://nebraskapublicmedia.org/en/news/news-articles/nebraska-experiencing-one-of-the-worst-flu-seasons-as-cases-continue-to-climb",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@NebPublicMedia",
+    "published": "2025-02-20T00:00:00Z",
+    "title": "Nebraska experiencing one of the worst flu seasons as cases continue to climb | Nebraska Public Media",
+    "text": "Nebraska experiencing one of the worst flu seasons as cases continue to climb\nBy Jolie Peal , Reporter Nebraska Public Media News\nFeb. 20, 2025, 4 p.m. ·\nListen To This Story\nMore than 15,000 influenza cases have been reported this flu season, according to the Nebraska Department of Health and Human Services. Influenza A is the main strain taking over the state this year, with more than 14,000 cases.\nNumbers are still climbing, and several state health officials said it's unusual for peak flu numbers to arrive so late in the season.\n“We’re still peaking as for the cases in Nebraska and in the U.S.,” Dr. Renuga Vivekanandan, an infectious disease physician and Chief Medical Officer for CHI said. “I would say we’re still going to expect more cases middle of March, end of March, and then it slowly should taper off.”\nVivekanandan recommends those with symptoms — like runny nose and a fever — talk to their primary care provider about getting tested or take an at-home test.\nNebraskans can also take preventative measures to protect against catching the flu or other illnesses. Molly Herman, epidemiology manager at the Northeast Nebraska Public Health Department, said it’s never too late to get vaccinated for the flu or other respiratory illnesses like COVID.\n“Since Nebraskans care about their communities, something they can do that's really quick and relatively easy is get that flu shot or COVID shot,” Herman said. “You're going to need to reduce the risk of getting grandma sick, which could end up being a catastrophic illness for grandma.”\nHerman said local health departments can connect those looking to get vaccinated with places that can do it for free.\nThe cold weather is one factor causing higher amounts of cases because people are indoors more and, Herman said, the low temperatures keep germs alive.\n“For example, if someone coughs into their hand and then uses that hand to open a door outside, it's possible that the flu virus could hang out on that door handle longer during cold times than in the middle of summer,” she said.\nHerman and Vivekanandan both recommended eating healthy, staying hydrated and washing hands to keep from getting sick. Herman also said people can make a homemade air purifier with a box fan and furnace filter to help stop the spread of germs.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->public health",
+      "Health->communicable disease",
+      "Health->health organisation",
+      "Social Issue->social services",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/PealJolie",
+      "https://www.twitter.com/PealJolie"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Renuga Vivekanandan",
+          "sentiment": "none"
+        },
+        {
+          "name": "Molly Herman",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Nebraska Department of Health and Human Services",
+          "sentiment": "none"
+        },
+        {
+          "name": "Nebraska Public Media News",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T00:17:05.846+02:00",
+    "updated": "2025-02-21T00:17:05.846+02:00"
+  },
+  {
+    "uuid": "e2a7f5d72d2d13dfe28bf1f9596580f33662c877",
+    "url": "https://hpj.com/2023/12/28/husker-team-receives-5m-grant-to-reduce-methane-emissions-from-cattle/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "HPJ Staff",
+    "published": "2023-12-28T21:30:00Z",
+    "title": "Husker team receives $5M grant to reduce methane emissions from cattle - High Plains Journal",
+    "text": "Husker team receives $5M grant to reduce methane emissions from cattle By Eric Buck University of Nebraska-Lincoln A Husker research team has received $5 million from the [U.S. Department of Agriculture](https://www.usda.gov/) to research more sustainable dairy and beef production. The research team is composed of [University of Nebraska-Lincoln](https://www.unl.edu/) faculty members from the Department of Animal Science and Department of Biological Systems Engineering, along with researchers from the [U.S. Meat Animal Research Center ](https://www.ars.usda.gov/plains-area/clay-center-ne/marc/)in Clay Center, Nebraska. The team will study the interrelationships among animal genetics, the gut microbiome and nutrition, with the ultimate goal of developing tools and management practices that can lower methane emissions from livestock. The funding, which is through the USDA’s [National Institute of Food and Agriculture](https://www.nifa.usda.gov/), is part of the U.S. government’s $10 million investment toward projects reducing intestinal methane emissions from ruminant animals. The response aligns with President Joe Biden’s Global Methane Pledge made in September 2021. The project is led by Paul Kononoff, along with fellow Husker faculty Samodha Fernando, Matt Spangler, Galen Erickson, Jessica Sperber, Richard Stowell and Tammy Brown-Brandl. Additional researchers include James Wells and Bryan Neville from the Meat Animal Research Center. Ruminant animals such as cattle, sheep and goats have a digestive system containing microbes that break down plant materials and feed byproducts through fermentation. This process supplies vital nutrients to the animal while converting plants and other materials that humans are unable to digest into an important protein source. However, a byproduct of rumen fermentation is the creation of methane, a greenhouse gas. Cattle may produce between 200 and 500 liters of methane daily. Once produced, methane is then belched into the environment. The volume produced highly depends on an animal’s size and the feed consumed, as well as on its genetics and unique gut microbiome. “We’re developing a better understanding of the role of animal genetics and gut microbiome on not only methane production, but energy use and feed efficiency,” Kononoff said. Kononoff and his team will also investigate ways to establish a healthy microbiome in young animals that supports normal growth and production while reducing the amount of methane an individual animal produces. “This work will ensure that young animals get off to an even better start in life,” he said. The research results will be used to develop new tools and practices for producers to continue producing food while reducing methane production from the animals that they care for. It will also help producers make better breeding decisions and improve feed efficiency for their animals. These science-based solutions will be delivered to producers through university extension programs, aiding in the profitability and sustainability of family dairy and beef operations. “This is innovative, high-impact research that is going to point us in a direction where we will have a better understanding of the interconnected factors that impact methane production in cattle and build a more comprehensive understanding of cattle nutrition and performance,” said Derek McLean, dean and director of the Agricultural Research Division at Nebraska. Ultimately, Kononoff hopes the research improves efficiency and profitability for livestock producers, too. “Beef and dairy products are some of the most healthy, nutrient-dense and best-tasting foods we can enjoy,” he said. “This research should further support the many sustainable practices that beef and dairy producers currently employ in delivering food to consumers, opening new doors so that this food is produced in a manner that lessens the effect on the climate and Earth we all live on.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://www.unl.edu/)",
+      "https://www.usda.gov/)",
+      "https://www.ars.usda.gov/plains-area/clay-center-ne/marc/)in",
+      "https://www.nifa.usda.gov/),",
+      "https://unl.edu/)",
+      "https://usda.gov/)",
+      "https://nifa.usda.gov/),",
+      "https://ars.usda.gov/plains-area/clay-center-ne/marc/)in"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "eric buck university of ne",
+          "sentiment": "negative"
+        },
+        {
+          "name": "u.s. department of agriculture",
+          "sentiment": "none"
+        },
+        {
+          "name": "lincoln a husker",
+          "sentiment": "none"
+        },
+        {
+          "name": "university of nebraska-lincoln",
+          "sentiment": "none"
+        },
+        {
+          "name": "department of animal science and department of biological systems engineering",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s. meat animal research center",
+          "sentiment": "none"
+        },
+        {
+          "name": "usda",
+          "sentiment": "none"
+        },
+        {
+          "name": "national institute of food and agriculture",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "clay center",
+          "sentiment": "none"
+        },
+        {
+          "name": "nebraska",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:34:58.939+02:00",
+    "updated": "2023-12-29T00:34:58.939+02:00"
+  },
+  {
+    "uuid": "777e8b857b87d82132de63040c420bce53822cf8",
+    "url": "https://www.boxingscene.com/shakur-stevenson-says-young-black-guys-held-different-standard-it-comes-entertaining-ring--185409",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Elliot Worsell",
+    "published": "2024-08-15T19:58:00Z",
+    "title": "Shakur Stevenson says ‘young black guys’ are held to a different standard when it comes to entertaining in the ring - Boxing News",
+    "text": "If anybody was going to understand the frustration of Shakur Stevenson in the aftermath of his much-maligned WBC lightweight title defense against Artem Harutyunyan in July, it was always going to be Andre Ward. Aside from the fact Stevenson considers Ward one of his mentors, there is also a clear parallel between the two in terms of how the ease with which they beat opponents leaves them susceptible to being labelled “boring” by those who like to see their boxers have to work a little harder for their wins. For some, seeing Stevenson cruise to victory and elect not to risk defeat in order to secure a more complete victory – say, a stoppage – has become a habit and pattern they wish he would break. Similarly, Ward, back when cleaning up at both super-middleweight and light-heavyweight, would often face criticism for the way in which he would shut down opponents, take away their best weapons, and then do all he could to ensure his own safety, only too aware of the dangers of becoming greedy in a fight. If considered a mentor, it should come as no surprise, then, that Stevenson, like Ward, values his faculties and priorities winning over everything else. Cut from the same cloth, he again demonstrated this philosophy in his fight with Harutyunyan and says, given the circumstances, the performance made sense – at least to him. Speaking to Ward on “All the Smoke Fight”, Stevenson explained, “I haven’t been outside the ring that long in my entire career. It was nine or 10 months. The first round was getting back in that rhythm, like okay, I’m back. Now in the third round I’m feeling it; I started touching the body a little bit more. Then I tried to pick up the pace and I had it going. There was a moment where I felt like I had it, it was right there. But I kind of let it get away. I felt like it was going to happen, and I felt like he was breaking down, but at the end of the day these fighters are training extremely hard and come fight night they’re going to give it all they’ve got. He gave it all he had and he did what he could to make sure he stayed on his feet. I take my hat off to him.” Though he won the fight well, landing a decision by scores of 116-112, 118-110, and 119-109, the reaction to Stevenson’s 22nd pro win had it feeling more like a defeat than a victory. The manner of it was clearly not to everyone’s taste and no sooner had he realized this than Stevenson started to wonder about the true meaning of victory and whether it is enough, today, just to win. “Did you feel like it was warranted (the post-fight reaction), or do you feel like people are tripping?” asked Ward, to which Stevenson, 22-0 (10), replied: “I felt like people were tripping. I mean, I would get it if this applied to everybody. If those standards applied to the (Vasiliy) Lomachenkos, the (Oleksandr) Usyks… I’ve seen them in fights where I didn’t feel it was very entertaining. But a lot of people don’t do to them what they do to somebody like me. When I’m in a fight where I’m dominating, pressing, coming forward, they still find something to say. But if it’s Lomachenko… I don’t hear nobody ever say Lomachenko was being boring when he fought (Jose) Pedraza. I didn’t hear anything about him being boring when he fought (Guillermo) Rigondeaux. He barely even touched Rigondeaux. He barely landed any punches on Rigondeaux, but nobody claims he was boring. He was coming forward and making a fight, but I just feel like it’s a different standard on young black guys. I feel like our people need to like learn how to stand with us, not play against us. Because we’re playing right into other people’s hands – no disrespect to nobody else.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "shakur stevenson",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "ward",
+          "sentiment": "none"
+        },
+        {
+          "name": "artem harutyunyan",
+          "sentiment": "none"
+        },
+        {
+          "name": "stevenson",
+          "sentiment": "none"
+        },
+        {
+          "name": "andre ward",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "wbc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T01:07:28.655+03:00",
+    "updated": "2024-08-16T01:07:28.655+03:00"
+  },
+  {
+    "uuid": "4358f4a992cf07910dfc4db0f3f7a2c75b8b8ab7",
+    "url": "https://elcomercio.pe/lima/insn-brena-brinda-recomendaciones-para-cuidar-salud-de-ninos-durante-cambio-de-clima-ultimas-noticia",
+    "ord_in_thread": 0,
+    "author": "Redacción El Comercio Perú",
+    "published": "2025-04-23T21:51:00Z",
+    "title": "INSN Breña brinda recomendaciones para cuidar salud de niños durante cambio de clima",
+    "text": "Los fuertes vientos, las mañanas nubosas y la persistencia de brillo solar son cambios bruscos de temperatura que vienen generando la incidencia de enfermedades respiratorias y otras propias de la temporada de otoño-invierno, que afectan sobre todo a los más pequeños.\nSegún la Dra. Lenka Kolevic Roca, jefa del Servicio de Infectología del Instituto Nacional de Salud del Niño (INSN) Breña, este incremento de la incidencia se produce por múltiples factores, entre los que figura el contagio que se produce en cunas jardines y colegios, donde los menores pasan mucho tiempo en espacios cerrados, lo que favorece la dispersión de ciertos virus y aumenta las probabilidades de contagio.\nEl INSN Breña realizó un listado con las enfermedades más comunes en la infancia a causa del cambio de clima, para conocerlas, saber cómo actuar para minimizar sus síntomas y evitar su contagio en la medida de lo posible pues la presencia de algunos gérmenes podría producir trastornos respiratorios muy leves hasta con mayor complicación.\nResfriado común\nCausado por virus y se caracteriza por presentar secreción nasal, estornudos, tos o dolor de cabeza. Dura alrededor de 1 a 4 días.\nGripe\nPresenta los síntomas de un resfriado común y se incluyen fiebre alta, malestar muscular por lo que, su recuperación puede tomar más tiempo.\nVirus respiratorio sincitial (VRS)\nLas personas con una infección por virus respiratorio sincitial son contagiosas durante 3 a 8 días. Pero a veces los bebés y las personas con sistemas inmunitarios debilitados pueden continuar propagando el virus durante 4 semanas.\nLos síntomas son leves parecidos al resfriado, pero puede provocar infecciones pulmonares graves, especialmente en bebés, adultos mayores y personas con problemas médicos serios.\nInfluenza\nEnfermedad respiratoria viral que puede afectar a los niños de manera grave. Los síntomas incluyen fiebre, dolor de cabeza, tos, dolor de garganta, y dolor muscular.\nBronquiolitis\nEs una infección viral respiratoria común. Entre los síntomas encontramos congestión nasal, tos, fiebre de bajo grado y dificultad respiratoria. En otro caso, los menores presentan fiebre, falta de apetito, vómitos y diarrea. Durante los primeros días, los síntomas tienden a empeorar, pero mejoran lentamente con el paso de los días.\nNeumonía\nSi el niño o adolescente tuvo un resfriado por varios días y de pronto presenta fiebre alta y su tos empeora y viene acompañada con flema, podría ser un signo de neumonía por lo que, será mejor una evaluación médica. Suele ser una de las enfermedades graves en niños.\nFaringitis aguda\nEs una infección producida por un virus o bacterias que ocasiona malestar general, fiebre, dolor de garganta.\nAsma bronquial\nTipo de alergia donde el menor tiene dificultad respiratoria y reporta sonido como pitos al toser. Es necesario la atención médico-especializada.\nVaricela\nEs una infección y se presenta con lesiones en la piel como bolitas. Comienza en el cuero cabelludo y en el rostro, luego sigue el tronco y después las extremidades. Para evitar esta enfermedad existe la vacuna que es gratuita.\nTuberculosis\nLos síntomas pueden ser tos seca persistente por más de dos semanas, astenia, anorexia, pérdida de peso, fiebre, sudoración nocturna, entre otros.\nPara prevenir el contagio de estas enfermedades, la Dra. Lenka Kolevic Roca del INSN Breña remarcó la importancia de varias medidas preventivas.\nRecomendaciones\n- Evitar en los niños los cambios bruscos de temperatura.\n- Enseñarles la importancia del lavado de manos. El 80% de las enfermedades virales es por el contacto directo con superficies contaminadas.\n- Evitar exponer a los menores de edad a lugares donde se aglomeren muchas personas y con poca ventilación para evitar que adquieran infecciones virales.\n- Cuidar y tratar los síntomas iniciales de los procesos respiratorios (secreción nasal, tos, fiebre dolor de garganta). Porque un resfrío o gripe pueden complicarse si no son tratados a tiempo, en especial si el niño padece frecuentemente de síntomas alérgicos.\n- Si el niño presenta fiebre alta -más de 38°C- o si luego de un proceso leve de resfrío reaparecen los síntomas luego de 2 o 3 días debe llevarlo a evaluación médica.\n- Ante la tos exigente o agitada, así como la dificultad para dormir, también se debe llevar al niño a un médico.\n- Evitar que el menor enfermo acuda al colegio, y de ser necesaria su presencia lo ideal será que utilice mascarilla para evitar contagio.\n- Enseñar a los menores a cubrirse siempre la boca y la nariz con el brazo (pliegue interno del codo) o con la ayuda de un pañuelo desechable y nunca con la mano, de forma a evitar expandir el virus. Si utiliza pañuelo, debe desecharse inmediatamente a un bote de basura luego de su uso y seguidamente lavarse las manos con agua y jabón.\n- No es recomendable abrigar mucho al menor.\n- Disminuir consumo de tabaco o no esté contacto con el niño. Puede generar bronquiolitis.\n- Alimentación balanceada. Dieta equilibrada. Si es un niño pequeño es la lactancia materna. Alimentos ricos en vitaminas y zinc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->public health",
+      "Health->health organisation",
+      "Social Issue->parenting",
+      "Social Issue->social services",
+      "Social Issue->children"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Lenka Kolevic Roca",
+          "sentiment": "none"
+        },
+        {
+          "name": "Breña",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Servicio de Infectología del Instituto Nacional de Salud del Niño",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "INSN",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T00:54:52.528+03:00",
+    "updated": "2025-04-24T00:54:52.528+03:00"
+  },
+  {
+    "uuid": "c7e03acbeff409a10bfb548e9cecd0d0ffbb585f",
+    "url": "https://uk.marketscreener.com/news/latest/ADRs-Slump-SYLA-Technologies-Co-Ltd-Declines-36-9-45646440/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MarketScreener",
+    "published": "2023-12-28T21:01:00Z",
+    "title": "ADRs Slump, SYLA Technologies Co. Ltd. Declines 36.9% - 28/12/2023 | MarketScreener",
+    "text": "Top Capitalization United Kingdom North America Europe Asia Middle East Sector Research Earnings Calendar Equities Analysis Most popular MICROSOFT CORPORATION TESLA, INC. NVIDIA CORPORATION ALPHABET INC. APPLE INC. AMAZON.COM, INC. LVMH Indexes Homepage Rankings Europe America Asia Africa Index Analysis Indexes News FTSE 100 DAX CAC 40 SMI EURO STOXX 50 S&P 500 DOW JONES NASDAQ 100 Currency / Forex Homepage Rankings Currency Cross Rate Currency Converter Forex Analysis Currencies News GBP / USD GBP / EUR GBP / CHF GBP / RUB GBP / SEK Commodities Homepage Energy Precious metals Agriculture Industrial Metals Livestock and Cattle GOLD CRUDE OIL (WTI) CRUDE OIL (BRENT) SILVER PLATINUM Cryptocurrencies Homepage Rankings Charts Analysis News BITCOIN ETHEREUM BINANCE COIN SOLANA CARDANO FTX TOKEN Interest Rates Homepage Developed Nations Emerging Countries ETFs Rates ETF Summary Screener News All News World United Kingdom Europe North America South America Asia Africa Middle East Emerging Companies All News Analyst Reco. Rumors IPOs Capital Markets Transactions New Contracts Profit Warnings Appointments Press Releases Security Transactions Earnings reports New markets New products Corporate strategies Legal risks Share buybacks Mergers and acquisitions Call Transcripts Guidance Indexes Currency / Forex Commodities Cryptocurrencies ETF Interest Rates Economy Themes Asset Management Activism Climate and ESG Cybersecurity Geopolitics Central Banks Private Equity Inflation Business Leaders Sectors All our articles Most Read News Hot News Analysis All Analysis Must Read Equities Interviews Indexes Currencies Commodities ETF Cryptocurrencies Stock Trading Strategies All America Europe Asia Our Shows Shows Strategy Must Watch Satirical Cartoon Today's Editorial Crypto Recap Behind the numbers Stock Picks All our investments United States Europe Asia, Pacific Portfolios Virtual Portfolios USA Portfolio European Portfolio Asian Portfolio Watchlists My Watchlists Watchlists My previous session My most visited Most popular Investment Style Homepage Top ROE Multibaggers Small caps Momentum stocks Yield stocks ESG stocks Investment Themes Homepage Financial Data Circular economy Outdoor Gold and Silver US Basketball Powerful brands Rankings Top Movers Top Movers Unusual volumes New Historical Highs New Historical Lows Long Term Top Fundamentals Top Fundamentals Sales growth Earnings Growth Profitability Finances Rankings Valuation Rankings Valuation P/E ratio Enterprise value Yield Top Consensus Top Consensus Analyst Opinion Target price Estimates Revisions Divergence Top Technicals Top RSI GAPS STIM Breakouts Trends Volatility Top ranking ESG Top ranking ESG Environment Social Governance Rankings Coverage Screeners Stock Screener Home Investment Themes Pets 3D Printing The SPAC Let's all cycle! E-Commerce & Logistics The genomic revolution Technical Rankings Oversold stocks Overbought stocks Close to resistance Close to support Accumulation Phases Most volatile stocks Fundamental Rankings Top Investor Rating Top Trading Rating Top Consensus Top Growth Top Dividends Low valuations My Screeners All my stocks Watchlists Virtual Portfolios Tools MarketScreener tools Stock Screener iPhone App Expert tools Stock Screener PRO Portfolio Creator Event Screener Dynamic Chart Earnings Calendar Economic Calendar Currency Converter ProRealTime Trading Our Services Our subscriptions Our Stock Picks Stock Screener Thematic Investment Lists MarketScreener Portfolios European Portfolio USA Portfolio Asian Portfolio Stock market news All News Companies Indexes Currency / Forex Commodities Cryptocurrencies ETF Interest Rates Economy Themes Sectors All our articles Most Read News Hot News ADRs Slump, SYLA Technologies Co. Ltd. Declines 36.9% December 28, 2023 at 10:01 pm",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Economy, Business and Finance",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "syla technologies co. ltd",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lvmh indexes homepage rankings europe america asia africa index analysis indexes news",
+          "sentiment": "none"
+        },
+        {
+          "name": "ftx token interest rates homepage developed nations",
+          "sentiment": "none"
+        },
+        {
+          "name": "microsoft",
+          "sentiment": "none"
+        },
+        {
+          "name": "apple inc",
+          "sentiment": "none"
+        },
+        {
+          "name": "sek commodities homepage energy",
+          "sentiment": "none"
+        },
+        {
+          "name": "agriculture industrial metals livestock and cattle gold",
+          "sentiment": "none"
+        },
+        {
+          "name": "s&p",
+          "sentiment": "none"
+        },
+        {
+          "name": "equities analysis most",
+          "sentiment": "none"
+        },
+        {
+          "name": "nvidia corporation alphabet inc",
+          "sentiment": "none"
+        },
+        {
+          "name": "amazon.com",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:08:20.037+02:00",
+    "updated": "2023-12-29T00:08:20.037+02:00"
+  },
+  {
+    "uuid": "23a702470ecb9d349ec45e64ee7476f6d11433f9",
+    "url": "https://www.silive.com/weather-alerts/2024/08/ny-weather-heat-advisory-affecting-new-york-friday.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Advance Local Weather Alerts",
+    "published": "2024-08-01T19:19:00Z",
+    "title": "NY weather: Heat advisory affecting New York Friday",
+    "text": "On Thursday at 3:10 p.m. a heat advisory was issued by the National Weather Service valid for Friday between noon and 8 p.m. for St. Lawrence, Franklin, Clinton and Essex counties.\nThe weather service states, \"Heat index values in the mid 90s expected.\"\n\"Hot temperatures and high humidity may cause heat illnesses,\" adds the weather service.\nTips from the weather service for staying safe during a heat wave\n- Stay hydrated: Make sure to drink plenty of fluids.\n- Seek shelter: Stay indoors in an air-conditioned room to keep cool.\n- Avoid sun exposure: Stay out of the sun, and check up on relatives and neighbors.\n- Child and pet safety: Never leave young children and pets alone in vehicles, especially during hot weather when car interiors can become dangerously hot in a matter of minutes.\n- Caution outdoors: If you must work or spend time outdoors, take extra precautions.\n- Optimal timing: Consider rescheduling strenuous activities to early morning or evening if possible.\n- Recognize heat-related issues: Learn to identify the warning signs of heat exhaustion and heat stroke.\n- Dress comfortably: Wear lightweight, loose-fitting clothing to help your body stay cool.\nAdditional recommendations for outdoor workers:\n- The Occupational Safety and Health Administration (OSHA) recommends frequent rest breaks in shaded or air-conditioned areas for outdoor workers.\n- If someone succumbs to the heat, promptly relocate them to a cool, shaded location.\n- In emergency situations, dial 911 for immediate assistance.\nThese NWS heat safety recommendations are vital for your well-being during periods of high temperatures. Stay informed and take the necessary steps to protect yourself and others from the heat's potentially dangerous effects.\nAdvance Local Weather Alerts is a service provided by United Robots, which uses machine learning to compile the latest data from the National Weather Service.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "clinton",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "national weather service",
+          "sentiment": "negative"
+        },
+        {
+          "name": "franklin",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "st. lawrence",
+          "sentiment": "none"
+        },
+        {
+          "name": "essex",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-02T00:26:49.133+03:00",
+    "updated": "2024-08-02T00:26:49.133+03:00"
+  },
+  {
+    "uuid": "efae6a89fc658c1cb167f17086e93640737da17d",
+    "url": "https://www.wtxl.com/bainbridge/new-video-bainbridge-neighbors-help-save-woman-who-fell-into-garbage-truck",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AJ Douglas",
+    "published": "2024-06-21T18:01:00Z",
+    "title": "NEW VIDEO: Bainbridge neighbors help save woman who fell into garbage truck",
+    "text": "- An act of faith led neighbors to flag a dumpster truck driver down to save a woman calling for help. - Employees in the Shotwell Street shopping center say they heard screaming coming from a dumpster Thursday. - Watch the story to see more first hand footage of the events that led to neighbors, police and first responders saving a woman's life. BROADCAST TRANSCRIPT: [A woman in South Georgia is safe after nearly being crushed in a garbage truck.](https://www.wtxl.com/bainbridge/woman-heard-screaming-inside-garbage-truck-saved-from-being-crushed) WTXL reporter AJ Douglas met some of the quick-thinking neighbors who heard that woman's cries for help. We also checked to see what's being done to make sure it doesn't happen again. Screams for help. That's what Debbie Chavers said she heard Thursday outside Chucks Liquor Store where she works. \"If we hadn't screamed and hollered she might have been squished,” said Debbie Chavers, a cashier at Chuck's Liquor Store. She and other neighbors could hear that woman screaming from inside a dumpster truck. This surveillance video shows employees stopping the driver to alert him that there may be someone inside. \"The dumpster came back in and low and behold there was a lady in there,” Chavers. Bainbridge Public Safety fire and police departments quickly responded to Captain D's parking lot on Shotwell Street after neighbors like Chavers sounded the alarm. \"The hole that she fell in was small. It was so small you can barely get something in there to get her out with,” said Chavers. Chavers said after 45 minutes the woman was rescued and taken to the hospital. Following the rescue, WTXL contacted the City of Bainbridge to see what's being done to prevent this dangerous situation from happening again. In a written statement, the city of Bainbridge said they have plans for additional preventative methods reading in part quote, \"Per our City Engineer, going forward when our sanitation truck drivers approach a dumpster with a closed lid, they will attempt to alert someone by either honking the horn or rattling the dumpster slightly.\" It's a simple step toward a safer community. Preventing the need for rescues like the one Chavers helped start. \"It was awful... I wouldn't want anybody to go through that,” said Chavers. Police are still waiting to talk to the unidentified woman to learn more about the circumstances that put her in a position that could have cost her life.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "aj douglas",
+          "sentiment": "none"
+        },
+        {
+          "name": "debbie chavers",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "chuck's liquor store",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "bainbridge",
+          "sentiment": "none"
+        },
+        {
+          "name": "chucks liquor store",
+          "sentiment": "none"
+        },
+        {
+          "name": "south georgia",
+          "sentiment": "none"
+        },
+        {
+          "name": "shotwell street",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-22T01:19:25.396+03:00",
+    "updated": "2024-06-22T01:19:25.396+03:00"
+  },
+  {
+    "uuid": "5029d8676175872f9898693b9b2b615f6899c741",
+    "url": "https://www.diariodepernambuco.com.br/noticia/cienciaesaude/2024/01/cientistas-fazem-mapa-do-cerebro-para-combater-ataques-de-panico.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Diario de Pernambuco",
+    "published": "2024-01-05T21:20:00Z",
+    "title": "Cientistas fazem \"mapa do cérebro\" que pode ajudar contra ataques de pânico",
+    "text": "SAÚDE MENTAL\nCientistas fazem \"mapa do cérebro\" que pode ajudar contra ataques de pânico\nPesquisadores descobrem circuito cerebral associado a episódios espontâneos e incontrolados de medo inexplicável acompanhado de sintomas físicos, como falta de ar e sudorese\nPublicado em: 05/01/2024 18:20\n|Transtorno afeta até 4% da população mundial (foto: Pexels)|\nMedo avassalador, palmas das mãos suadas, falta de ar, batimentos cardíacos acelerados — esses são alguns dos sintomas de um ataque de pânico, que algumas pessoas apresentam com frequência e de forma inesperada. A criação de um mapa das regiões, neurônios e conexões no cérebro que medeiam esses episódios pode fornecer orientação para o desenvolvimento de uma terapêutica mais eficaz para o transtorno, que, segundo a Organização Mundial da Saúde (OMS), afeta entre 2% e 4% da população global.\nOs pesquisadores do Instituto Salk, na Califórnia, nos Estados Unidos, começaram a construir esse mapa, ao descobrir um importante circuito cerebral para o transtorno do pânico. Essa rede consiste em neurônios especializados que enviam e recebem um neuropeptídeo — uma pequena proteína que manda mensagens por todo o cérebro — chamado Pacap.\nAlém disso, os cientistas determinaram que o Pacap e os neurônios que produzem o seu receptor são possíveis alvos para novos tratamentos para o transtorno do pânico. As descobertas foram publicadas ontem, na revista Nature Neuroscience.\n\"Temos explorado diferentes áreas do cérebro para entender onde começam os ataques de pânico\", diz o autor sênior Sung Han, professor associado do Instituto Salk. Segundo ele, acreditava-se que uma pequena estrutura semelhante a uma amêndoa, a amígdala, conhecida como o centro do medo do cérebro, era a principal responsável. \"Mas mesmo as pessoas que têm danos nessa região ainda podem sofrer ataques de pânico, por isso sabíamos que precisávamos procurar outro lugar\", conta.\nTratamentos\nA descoberta atual de um circuito cerebral específico fora da amígdala que está ligado a ataques de pânico pode inspirar novos tratamentos para o transtorno, que diferem dos medicamentos atuais disponíveis. Esses, normalmente, têm como alvo o sistema de serotonina do cérebro.\nPara começar a esboçar um mapa cerebral do transtorno do pânico, os pesquisadores analisaram uma região do cérebro chamada núcleo parabraquial lateral (NPBL), que fica em uma parte do tronco cerebral, e é conhecida como centro de alarme do órgão. Curiosamente, essa pequena área também controla a respiração, a frequência cardíaca e a temperatura corporal, que ficam alteradas durante os episódios.\nTornou-se evidente que o NPBL estava associado à geração de pânico e na provocação de mudanças emocionais e físicas. Além disso, os pesquisadores descobriram que essa área do cérebro produz o Pacap, proteína conhecida como principal reguladora das respostas ao estresse. Mas a ligação entre esses elementos ainda não era clara, então a equipe recorreu a um modelo animal, para confirmar e expandir o mapa proposto.\n\"No passado, comportamentos emocionais e relacionados ao estresse foram associados a neurônios que expressam o Pacap\", diz o coautor Sukjae Kang, pesquisador associado sênior do laboratório de Han. \"Ao imitar os ataques de pânico nos ratos, fomos capazes de observar a atividade desses neurônios e descobrir uma conexão única entre o circuito cerebral Pacap e o transtorno do pânico.\"\nExpressão\nOs cientistas constataram que, durante um ataque de pânico, os neurônios que expressam a proteína foram ativados. Quando isso acontece, eles liberam o neuropeptídeo mensageiro Pacap para outra parte do cérebro chamada rafe dorsal, onde residem os neurônios que expressam os receptores da proteína. Então, são produzidos os sintomas comportamentais e físicos associados ao transtorno.\nA ligação entre o pânico e o circuito cerebral Pacap foi um passo importante para mapear o cérebro, diz Han. A equipe também descobriu que, ao inibir a sinalização da proteína, é possível reduzir os sintomas, uma descoberta que consideram promissora para o desenvolvimento futuro de terapêutica específica para transtorno.\nDe acordo com Han, apesar da categorização da síndrome do pânico como um transtorno de ansiedade, há muitas maneiras pelas quais as duas condições são diferentes. Por exemplo, a primeira induz a muitos sintomas físicos, como falta de ar, batimentos cardíacos acelerados, sudorese e náusea, mas a segunda não gera esses sinais.\nOutra diferença é que os ataques de pânico são incontroláveis e muitas vezes espontâneos, enquanto outros transtornos de ansiedade, como o de estresse pós-traumático (TEPT), são mais baseados na memória e têm gatilhos previsíveis. Essas divergências, diz Han, são a razão pela qual é fundamental construir esse mapa cerebral específico do pânico, para que os investigadores possam criar terapêuticas especialmente adaptadas a ele.\n\"Descobrimos que a atividade dos neurônios produtores de Pacapé inibida durante condições de ansiedade e eventos de memória traumática - a amígdala do camundongo, na verdade, inibe diretamente esses neurônios\", diz Han. \"Como a ansiedade parece funcionar de forma inversa à do circuito cerebral do pânico, seria interessante observar a interação entre ambos, uma vez que precisamos explicar agora como as pessoas com transtorno de ansiedade têm maior tendência a sofrer ataques de pânico.\"\nConfira as informações no\nCorreio Braziliense.\nCOMENTÁRIOS\nOs comentários a seguir não representam a opinião do jornal Diario de Pernambuco; a responsabilidade é do autor da mensagem.\nMAIS NOTÍCIAS DO CANAL\n[]https://www.diariodepernambuco.com.br/noticia/cienciaesaude/2023/12/saiba-quais-foram-os-estudos-cientificos-mais-relevantes-de-2023.html\nSaiba quais foram os estudos científicos mais relevantes de 2023\nA revista Science selecionou os estudos mais relevantes de 2023. Há desde os inibidores de GPL-1 - as famosas \"canetinhas emagrecedoras\", medicações para redução de peso e controle da insulina a novos métodos de detecção de ondas gravitacionais\n15/12/2023 às 20h53\n[]https://www.diariodepernambuco.com.br/noticia/cienciaesaude/2023/12/fertlizacao-in-vitro-tecnica-a-baixo-custo-e-desenvolvida-na-ufrs.html\nFertilização in vitro: técnica a baixo custo é desenvolvida na UFRS\nCientista brasileira desenvolve um tratamento que demonstra 80% de eficácia a baixo custo em comparação aos métodos convencionais. Mais uma esperança para as mulheres que sonham em ser mães e esperam pela oportunidade\n04/12/2023 às 22h51\n[]https://www.diariodepernambuco.com.br/noticia/cienciaesaude/2023/11/cientistas-desenvolvem-sensor-que-traduz-pensamentos-em-fala.html\nO futuro hoje: cientistas desenvolvem sensor que traduz pensamentos em fala\nTecnologia da Universidade de Duke devolve a voz a pessoas que perderam a habilidade de articulação vocal. Os dispositivos decodificam impulsos elétricos e possibilitam a comunicação com a ajuda de um computador\n23/11/2023 às 21h39",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.correiobraziliense.com.br/ciencia-e-saude/2024/01/6780190-cientista-fazem-mapa-do-cerebro-que-pode-ajudar-contra-ataques-de-panico.html",
+      "https://correiobraziliense.com.br/ciencia-e-saude/2024/01/6780190-cientista-fazem-mapa-do-cerebro-que-pode-ajudar-contra-ataques-de-panico.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:40:01.215+02:00",
+    "updated": "2024-01-06T00:40:01.215+02:00"
+  }
+]

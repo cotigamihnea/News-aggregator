@@ -1,0 +1,231 @@
+[
+  {
+    "uuid": "8828c52b566d4768a474ebb299e65cf097388ebc",
+    "url": "https://planoinformativo.com/1037955/vacunados-contra-la-polio-el-94-de-los-ninos-en-gaza-",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MONSIVAIS PRECIADO LUISA MARÍA",
+    "published": "2024-11-08T00:08:00Z",
+    "title": "Vacunados contra la polio el 94% de los niños en Gaza",
+    "text": "Jueves 7 de Noviembre de 2024 | San Luis Potosí, S.L.P. SUSCRÍBETE VER MÁS SECCIONES Diario QueTal Negocios Salud Ciencia y Tecnología Autos y Motos Moda y belleza Cultura y entretenimiento Viajes y Gastronomía Estilo de vida internacionales Vacunados contra la polio el 94% de los niños en Gaza Agencia Reforma | 07/11/2024 | 18:08 El director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, ha anunciado este jueves el fin de la campaña de vacunación contra la poliomelitis en el norte de Gaza, dejando inmunizados a cerca del 88 por ciento de los menores de diez años en esta zona, y al 94 por ciento en toda la Franja. \"La vacunación contra la poliomielitis en el norte de Gaza concluyó ayer (este miércoles) con 105.558 niños que recibieron su segunda dosis y 83.876 niños que recibieron suplementos de vitamina A, en medio de las hostilidades en curso\", ha señalado en su cuenta de la red social X. Pese a estos datos, el director del organismo ha lamentado que entre 7.000 y 10.000 niños del norte del enclave palestino no han podido recibir aún la segunda dosis y, por tanto, son \" vulnerables \" a la enfermedad. Por ello, ha asegurado, seguirán trabajando para \"llegar a más niños a través de servicios regulares\", aunque no ha especificado cómo tras el cierre de la campaña de vacunación. La cantidad de niños inoculados se eleva al 94 por ciento en el conjunto de la Franja de Gaza, donde han recibido dos dosis un total de 556.774 niños menores de diez años, \"gracias a esta extraordinaria campaña\", ha dicho Tedros. El jefe de la OMS ha agradecido \"la dedicación y la valentía de los trabajadores sanitarios, los colegas de la OMS\", así como de los socios y las familias afectadas, y ha vuelto a pedir un alto el fuego \"para que todos los niños de Gaza estén sanos y seguros\". Erradicada en Gaza hace 25 años, la polio reapareció a principios de este año en medio de las múltiples crisis humanitarias desencadenadas por la ofensiva israelí en el enclave palestino, desencadenada tras los ataques del Movimiento de Resistencia Islámica (Hamás) del 7 de octubre de 2023. Encuentra Diario Plano Informativo en formato digital aquí.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Organización Mundial de la Salud",
+          "sentiment": "none"
+        },
+        {
+          "name": "OMS",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Gaza Agencia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T02:30:45.452+02:00",
+    "updated": "2024-11-08T02:30:45.452+02:00"
+  },
+  {
+    "uuid": "0ebeaab076c9e8d2e3412e85d40a329948dc98a6",
+    "url": "https://www.theregister.com/2024/11/22/nvidia_green500_amd/?ref=biztoc.com",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tobias Mann",
+    "published": "2024-11-22T00:15:00Z",
+    "title": "Nvidia's dominance on the Green500 faces challenges from AMD - and itself",
+    "text": "Systems Nvidia's dominance on the Green500 faces challenges from AMD – and itself Blackwell's weaker FP64 performance could give the House of Zen's Instinct accelerators a leg up in future efficiency benchmarks Tobias Mann Fri 22 Nov 2024 // 00:15 UTC SC24 Nvidia's accelerators are among the most power hungry machines in their class, yet the chips continue to dominate the Green500 ranking of the most sustainable supercomputers in the world.\nEight of the ten most power-efficient systems on the bi-annual list employed Nvidia parts, and of those five were powered by the GPU giant's 1,000-watt Grace Hopper Superchip (GH200).\nThe parts, which meld a 72-core Grace CPU based on Arm's Neoverse V2 design and 480 GB of LPDDR5x memory with an H100 GPU with 96 to 144 GB of HBM3 or HBM3e memory, have become quite popular in the HPC community.\nOn the latest Green 500 list, the chip powers both the first and second most efficient systems — EuroHPC's JEDI and the Romeo HPC Center's Romeo-2025 machines, which achieved 72.7 and 70.9 gigaFLOPS per watt in the High-Performance Linpack benchmark — that's FP64, of course.\nThe two systems are nearly identical, having been built using Eviden's BullSequana XH3000 platform and employing the same GH200 accelerators. Nvidia's GH200 also claims position four, six, and seven on the list with the Isambard-AI Phase 1 (68.8 gigaFLOPS/watt), Jupiter Exascale Transition Instrument (67.9 gigaFLOPS/watt), and Helios GPU (66.9 FLOPS/watt).\nThe Jupiter Exascale Development Instrument ... Source | Image by Forschungszentrum Jülich / Ralf-Uwe Limbach\nMeanwhile, Nvidia's venerable H100 powers the fifth, eighth, and ninth most efficient machines, including the Capella, Henri, and HoreKa-Teal systems.\nIt is doubtful Nvidia will retain its high ranking on the Green 500. Its Grace-Blackwell superchips are already on the way in the form of the 2.7-kilowatt GB200 and the 5.4-kilowatt GB200 NVL4 .\nThe new products don’t always deliver more compute power per watt.\nFrom the A100 in 2020 to the H100 in 2022, FP64 performance jumped roughly 3.5x. However, compared to the 1,200-watt Blackwell, the 700-watt H100 is actually faster in FP64 matrix math. In fact, for FP64, the only improvement is for vector math, where the incoming chip boasts 32 percent higher perf.\nSo while Nvidia enjoys high positions on the Green500 today, AMD isn't out of the game just yet. In fact, the House of Zen's MI300A accelerated processing unit claimed the number three spot on the latest list with the Adastra 2 system.\nIf you're not familiar, AMD's MI300A was announced a little under a year ago and fuses 24-CPU cores and six CDNA-3 GPU dies into a single APU with up to 128 GB of HBM3 memory on board, and a configurable TDP of 550-760 watts. And, at least on paper, the part already boasts 1.8x the HPC performance of the H100.\nBuilt by HPE Cray using EX255a blades – as used in the world's most powerful publicly known supercomputer –Adastra 2 managed 69 gigaFLOPS/watt of performance. It's not alone either. The 10th most efficient machine is another MI300A-based machine at Lawrence Livermore National Laboratory called RZAdams, which managed 62.8 gigaFLOPS/watt.\nMicrosoft unveils beefy custom AMD chip to crunch HPC workloads on Azure Nvidia continues its quest to shoehorn AI into everything, including HPC LLNL's El Capitan surpasses Frontier with 1.74 exaFLOPS performance Nvidia's latest Blackwell boards pack 4 GPUs, 2 Grace CPUs, and suck down 5.4 kW Scaling up All of these systems in the Green500's top 10 are now well above the 50 gigaFLOPS/watt target necessary to achieve an exaFLOP of compute in a 20-megawatt envelope. But as it turns out maintaining these levels of efficiency at scale is rather tricky.\nLooking at the three most efficient machines on the Green500, they're all on the small side. JEDI is rated for just 67 kilowatts of power. For comparison, the Swiss National Supercomputing Centre's Alps machine - the most powerful GH200 system on the Top500 - achieves 434 petaFLOPS in the HPL benchmark while consuming 7.1 megawatts, making it the 14th most efficient machine at 61 gigaFLOPS per watt.\nIt's a similar story for Adastra 2, which is even smaller than JEDI at 37 kilowatts. If you could maintain 69 gigaFLOPS per watt at scale, you'd only need about 25.2 megawatts to match El Capitan's 1.742 exaFLOPS of real-world performance. In reality, El Capitan needed nearly 29.6 megawatts of power to achieve its record-breaking run. ®\nGet our Tech Resources Share More about AMD GPU Nvidia More like these × More about AMD GPU Nvidia SC24 Supercomputer Narrower topics Apple M1 Epyc GTC Omniverse Xilinx Broader topics Alder Lake Computer Hardware Supercomputing More about Share POST A COMMENT More about AMD GPU Nvidia More like these × More about AMD GPU Nvidia SC24 Supercomputer Narrower topics Apple M1 Epyc GTC Omniverse Xilinx Broader topics Alder Lake Computer Hardware Supercomputing TIP US OFF Send us news",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.fz-juelich.de/en/ias/jsc/systems/supercomputers/jedi",
+      "https://top500.org/lists/green500/2024/11/",
+      "https://fz-juelich.de/en/ias/jsc/systems/supercomputers/jedi",
+      "https://www.top500.org/lists/green500/2024/11/",
+      "https://top500.org/lists/green500/2024/11"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T02:26:31.891+02:00",
+    "updated": "2024-11-22T02:34:15.106+02:00"
+  },
+  {
+    "uuid": "43576cd651fd6cd926097a0a0739c22b278a2d8e",
+    "url": "https://www.dailybreeze.com/2023/12/30/wwii-veteran-celebrates-100th-birthday-aboard-battleship-iowa/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chris Haire",
+    "published": "2023-12-30T21:24:00Z",
+    "title": "WWII veteran celebrates 100th birthday aboard Battleship Iowa",
+    "text": "Countless veterans have walked the decks of the Battleship USS Iowa over the years.But few, if any, have been as beloved by the San Pedro ship’s crew as Lloyd Glick, a Huntington Beach resident and one of a dwindling number of World War II veterans.That’s why about 100 people — including Glick’s family and friends, and members of the battleship’s volunteer crew — gathered aboard the Iowa on Saturday, Dec. 30, to celebrate the retired Navy petty officer’s 100th birthday.“We’re really pulling out all the stops,” Sue Schmidt, volunteer services manager for the Battleship USS Iowa Museum, said in a Friday interview. “We love Lloyd. He’s very special.”The celebration, like Glick, was special indeed.When Glick arrived, the crew and others stood on either side of the gangway as he was piped aboard the ship — an honor, using a bosun’s whistle, reserved for distinguished people and occasions.Once aboard, a Navy Band vocalist performed for Glick and the Iowa’s large — and cacophonous — Mount 56 guns blasted blanks in his honor. There were also some presentations in the wardroom, including Glick receiving a certificate of recognition from Los Angeles County Supervisor Janice Hahn’s office.Glick is familiar with the Iowa’s wardroom. He has been one of the museum’s veteran ambassadors since 2015, regularly setting up photos in the wardroom and telling personal tales of his life and service to those who visit the Iowa, Schmidt said.The crowds, Schmidt said, love hearing his stories.There aren’t too many World War II veterans left, after all.Of the 16 million Americans who served during World War II, fewer than 1% are still alive, according to the National WWII Museum — and 131 die each day. Two of the Iowa’s WWII veteran volunteers died in December, Schmidt said.But Glick, despite being a centenarian, is still full of energy. In 2022, the former Navy bugler performed Taps during LA Fleet Week. He and his wife have plans to soon travel to Tahiti.And yes, he still drives himself from Huntington Beach to San Pedro, where the Iowa is docked, though he recently needed cataract surgery before getting his license renewed, Schmidt said.“He came into my office and said, ‘Hey, I have something to show you,’” Schmidt said about Glick getting his renewal. “And he showed me his license. He said, ‘The best thing is, it’s good for five more years!”Glick, a Bay Area native, enlisted in the U.S. Navy in 1942, not long after the attack on Pearl Harbor. He was 18 years old.He served aboard the USS North Carolina until 1948, seeing action in the Pacific Theater — including during the liberation of Guam.For his 90th birthday, in 2013, Glick and his wife took a cruise that retraced the route the USS North Carolina took during the Pacific Theater, with stops in Hawaii, Guam, Saipan, and the Japanese cities of Okinawa and Yokohama.When he stepped off the ship in Guam, home to the War in the Pacific National Memorial Park , he was greeted by officials with the National Park Service, who presented him with a “WWII Valor in the Pacific” medal and a proclamation from the Guam government. He was also feted in Saipan.“I really felt embarrassed by the attention,” Lloyd, who also spent 20 years bugling with the LAPD Honor Guard, said about the trip in 2014 . “I kept telling them that other than living to age 90, I really didn’t do anything special to deserve what they were doing.”The crew of the Battleship USS Iowa Museum, though, would likely disagree.The historic ship has hosted birthday parties for centenarians in the past, Schmidt said, but those have been organized privately, with the celebrants renting out the Iowa. But the party for Glick, who turned 100 on Thursday, Dec. 28, was organized by the Iowa.Before Saturday, the museum had never hosted a 100th birthday party for a member of the crew.“This really is something different,” Schmdt said. “Lloyd is part of the family. He’s amazing.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://www.ocregister.com/2014/04/14/huntington-beach-wave-takes-a-tour-of-the-pacific-with-world-war-ii-veteran/",
+      "https://www.ocregister.com/2014/04/22/the-prank-of-a-lifetime/",
+      "https://ocregister.com/2014/04/14/huntington-beach-wave-takes-a-tour-of-the-pacific-with-world-war-ii-veteran/",
+      "https://ocregister.com/2014/04/22/the-prank-of-a-lifetime/",
+      "https://www.ocregister.com/2014/04/22/the-prank-of-a-lifetime",
+      "https://www.ocregister.com/2014/04/14/huntington-beach-wave-takes-a-tour-of-the-pacific-with-world-war-ii-veteran"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "schmidt",
+          "sentiment": "none"
+        },
+        {
+          "name": "lloyd glick",
+          "sentiment": "none"
+        },
+        {
+          "name": "glick",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "battleship uss iowa museum",
+          "sentiment": "none"
+        },
+        {
+          "name": "navy",
+          "sentiment": "none"
+        },
+        {
+          "name": "lloyd",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "battleship iowa",
+          "sentiment": "none"
+        },
+        {
+          "name": "battleship uss iowa",
+          "sentiment": "none"
+        },
+        {
+          "name": "huntington beach",
+          "sentiment": "none"
+        },
+        {
+          "name": "iowa",
+          "sentiment": "none"
+        },
+        {
+          "name": "san pedro",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-31T02:26:39.654+02:00",
+    "updated": "2024-01-08T00:07:43.854+02:00"
+  },
+  {
+    "uuid": "ea70612a5c6be5046ddad98c7c02f1be91e6f433",
+    "url": "https://www.newsbreak.com/news/3739389305317-squirrel-causes-thousands-of-lose-power-in-redding-on-thursday",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Adam Robinson",
+    "published": "2025-01-02T23:06:00Z",
+    "title": "Squirrel causes thousands of lose power in Redding on Thursday",
+    "text": "By Adam Robinson ,\n7 hours ago REDDING, Calif. — [Editor's Note: Power was restored to all affected customers by 2:45 p.m. on Thursday, Jan. 2.]. A squirrel caused over 2,700 Redding Electric Utility (REU) customers to lose power in downtown Redding on Thursday afternoon, officials with the utility told the Northstate's News. According to REU... Read full article\nRead in NewsBreak 3",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Health"
+    ],
+    "topics": [
+      "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Adam Robinson",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Redding Electric Utility",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T03:41:58.218+02:00",
+    "updated": "2025-01-03T03:41:58.218+02:00"
+  }
+]

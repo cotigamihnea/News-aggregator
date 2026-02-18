@@ -1,0 +1,363 @@
+[
+  {
+    "uuid": "1f58c8280ca7ab6526d06f1c6e9356a4d75b7df5",
+    "url": "https://www.wcax.com/2024/04/25/vt-sheriffs-deputy-who-caused-mistrial-loses-job",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Adam Sullivan",
+    "published": "2024-04-25T20:29:00Z",
+    "title": "Vt. sheriff’s deputy who caused mistrial loses job",
+    "text": "BARRE, Vt. (WCAX) - A Windsor County sheriff’s deputy who caused a mistrial in Barre back in March has lost his job. Cpl. Mark Belisle provided security at the Washington County court in February during the sexual assault trial of Kasey Giorgio, who was found guilty. But in March, the judge ruled Belisle made inappropriate comments to a juror, which tainted the trial’s outcome. A mistrial was declared and Belisle was placed on administrative leave. Related Story: Barre City police investigated the deputy’s actions, and Windsor County Sheriff Ryan Palmer says Belisle is no longer with the department. “I just want to emphasize how important this agency views the sanctity of jury deliberations and certainly as an organization, we failed in this scenario and we are doing the best to mitigate that in the future and take some corrective actions,” Palmer said. Washington County State’s Attorney Michelle Donnelly says her office plans to pursue the charges against Kasey Giorgio again. Copyright 2024 WCAX. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "barre",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ryan palmer",
+          "sentiment": "none"
+        },
+        {
+          "name": "palmer",
+          "sentiment": "none"
+        },
+        {
+          "name": "michelle donnelly",
+          "sentiment": "none"
+        },
+        {
+          "name": "belisle",
+          "sentiment": "none"
+        },
+        {
+          "name": "kasey giorgio",
+          "sentiment": "none"
+        },
+        {
+          "name": "mark belisle",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "vt.",
+          "sentiment": "none"
+        },
+        {
+          "name": "windsor county",
+          "sentiment": "none"
+        },
+        {
+          "name": "barre city",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington county state",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington county",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:08:42.940+03:00",
+    "updated": "2024-04-26T01:19:51.435+03:00"
+  },
+  {
+    "uuid": "c2dcf7babb71cd311765a117f8d475c8babbd651",
+    "url": "https://gettotext.com/when-ai-enables-early-detection-of-parkinsons-disease",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Oliver Adey",
+    "published": "2024-04-11T22:16:00Z",
+    "title": "When AI enables early detection of Parkinson’s disease",
+    "text": "Brain imaging // Illustrative image\n© Pexels\nResearchers from the University of Technology of Troyes (UTT) have developed a method aimed at early detection of Parkinson’s disease. This new process, which combines medical imaging and artificial intelligence, illustrates the advances made possible by this technology in the medical world.\nAdvertising, your content continues below Detecting Parkinson’s disease before the first clinical symptoms Nearly 200,000 people in France suffer from Parkinson’s. The disease generally has a slow progression, with the first bothersome symptoms appearing only when 60 to 80% of dopaminergic neurons have already disappeared. Therefore, the diagnosis could in certain cases be made 10 to 20 years after the onset of the disease. In 2024, brain imaging will make it possible to confirm the presence of Parkinson’s disease at a stage described as advanced, when the first clinical symptoms have already appeared: hand tremors, slowing of movements, etc. The AMPIATI project, led by a team from UTT, aims to detect neurons that may have disappeared due to Parkinson’s in the preclinical phase, that is to say in the absence of apparent symptoms.\nWe believe our approach could improve the way Parkinson’s disease is diagnosed and treated. By combining medical imaging and artificial intelligence, we are opening new perspectives to improve and advance research into this debilitating disease.\nRacha Soubra — Teacher-researcher at UTT Brain imaging and AI model This method of early detection of Parkinson’s disease is based on medical imaging to detect the disappearance of dopamine-producing neurons before the appearance of the first clinical symptoms. To do this, researchers focused on a very specific area of ​​the brain, the striatum , which notably ensures the control of movements in patients. By using specific image processing methods and models powered by artificial intelligence, it was possible to identify and extract biomarkers of Parkinson’s disease.\nEvolution of the Parkinson’s disease biomarker.\n© University of Technology of Troyes\nThe illustrations in the diagram represent the evolution of the disease over time. Each step is represented by a specific shape. In stage 1, the biomarker is square, in stage 2, it takes the shape of a parallelogram, in stage 3, of a diamond, etc.\nUsing artificial intelligence and image processing methods, research is working to detect this biomarker in its rectangular state, which could indicate an early risk of disease development.\nOur project aims to predict the development of the disease and offer personalized management from its first signs. The stated ambition of this research is not only to locate the initial biomarker but also to make it detectable by an innovative and economical medical device that could revolutionize the prevention and early diagnosis of Parkinson’s, thus making monitoring of neuronal health accessible to a larger population and reducing dependence on costly brain imaging.\nAly Chkeir — Teacher-researcher at UTT The researchers now wish to adapt this method to a generalizable framework to facilitate the identification of precursor signals of Parkinson’s disease by medical teams.\nAdvertising, your content continues below\nSource link -98",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "university of technology of troyes",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "utt",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "france",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-12T02:25:48.781+03:00",
+    "updated": "2024-04-12T06:00:56.382+03:00"
+  },
+  {
+    "uuid": "08e9836e3c62278a35158f4e972a185e4507117c",
+    "url": "https://cadenaser.com/rioja/2024/03/29/los-picaos-son-una-tradicion-que-siempre-ha-marcado-a-san-vicente-de-sonsierra-radio-rioja",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cadena SER",
+    "published": "2024-03-29T07:09:00Z",
+    "title": "\"Los picaos son una tradición que siempre ha marcado a San Vicente de Sonsierra\" | Actualidad | Cadena SER",
+    "text": "El día de Jueves Santo volvió a vivirse en San Vicente de la Sonsierra de una manera especial y cumpliendo con la tradición. El mal tiempo hizo que la procesión tuviera que desarrollarse en el interior de la Iglesia Santa María la Mayor, pero asegura el alcalde del municipio, Ramón Ramírez, que tomar la decisión «fue difícil, pero estuvo también muy bien». Ayer salieron 10 disciplinantes en la procesión de la Última Cena y 5 participaron en la Hora Santa y para hoy también está previsto que salgan otros 10 en el Vía Crucis, que será a las 11,30 horas, y una cifra similar en la procesión del Santo Entierro a las 19,30 horas. Según el alcalde, «nunca faltan disciplinantes para participar y es una tradición que sigue congregando a muchos visitantes. Antes igual venían unas 10.000 personas y, aunque ahora son menos, ayer el municipio acogió a unas 3.000 personas». Es una de las manifestaciones religiosas más importantes y conocidas de España, porque no se puede hablar de que exista en ningún otro punto del país un rito tan ancestral. Y es la Cofradía de la Santa Vera Cruz de San Vicente de la Sonsierra la encargada de mantener esta flagelación penitencial. Una celebración que era frecuente en los pueblos y ciudades de España hasta que en el siglo 18 fue prohibida por Carlos III. Y este municipio riojano es el único lugar en el que perdura hasta nuestros días. De ahí que sea uno de los actos más internacionales de la Semana Santa de La Rioja y también más polémicos por su dureza. El acalde, al igual que la Cofradía, «piden respeto porque son días de rezo y oración y una tradición que siempre ha marcado a San Vicente y los vecinos lo llevan en la sangre». Además, asegura Ramírez, «el pueblo se vuelca con esta celebración y también ayuda a que se cumpla». «Un ejemplo de ello ha sido la puesta en marcha de una sede para la Cofradía en la que se ofrecen servicios para los disciplinantes y una lavandería para que la ropa no salga fuera del municipio», puntualiza el alcalde.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Religion and Belief",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-29T11:31:40.630+03:00",
+    "updated": "2024-04-05T11:32:57.946+03:00"
+  },
+  {
+    "uuid": "42121b64a8a9d209bbde73aaf2db1d614ef06c6e",
+    "url": "https://star.ettoday.net/news/2989496",
+    "ord_in_thread": 0,
+    "author": "ETtoday星光雲",
+    "published": "2025-07-03T04:16:00Z",
+    "title": "44歲郭靜單身9年「老了不想去安養院」！　盼安樂死：有尊嚴的離開",
+    "text": "44歲郭靜單身9年「老了不想去安養院」！ 盼安樂死：有尊嚴的離開\n記者孟育民／台北報導\n公視節目《誰來晚餐16》本週邀請到歌手郭靜擔任來賓，拜訪高雄一對正面臨生子抉擇的新婚夫妻。在餐桌上郭靜與受訪家庭聊到結婚的話題，現年44歲的她坦言目前已經單身9年了，但對於現在的狀態反而讓她覺得更加自在。郭靜表示：「因為我就是這樣，我把自己過得很好，所以其實沒有什麼『一定要有男朋友』的這種想法，不會覺得好像非得有人陪日子才過得下去、人生才算完整。我覺得每種狀態都有它的好處，但我一個人，也可以好好享受自己喜歡做的事情。」\n▲郭靜（左3）擔任《誰來晚餐16》來賓。（圖／公視提供）\n對於生小孩的想法，郭靜笑說自己也是屬於願意把更多時間花在毛小孩身上的人，本身就有飼養貓與狗，對她來說毛孩其實就算是自己的孩子，提到牠們就止不住的幸福表示：「可能沒養過的人真的很難想像，牠們可以帶給我們多少療癒感。你光是看著牠、摸摸牠的毛，就會覺得自己被充電了，心情變好了，壓力也釋放了。」\n▲郭靜。（圖／公視提供）\n郭靜處理問題的方式直率不扭捏，有問必答的她，跟擔任居家護理師的受訪家庭成員聊到了死亡話題同樣坦然以對，她絲毫不忌諱地表示：「如果真的沒有對象的話，我覺得自己的積蓄一定要夠，但應該不會把自己送去安養院，因為就我個人來說，可能沒有辦法接受別人幫我擦屁股、清理大小便；我覺得安樂死是一種可以很有尊嚴離開的方式，那並不是什麼壞事。」毫不保留的談話內容，讓郭靜與受訪家庭成員們都聊得非常開心！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->health care approach",
+      "Health->mental health and disorder",
+      "Social Issue->social condition",
+      "Social Issue->senior citizens",
+      "Social Issue->death and dying"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T08:06:16.103+03:00",
+    "updated": "2025-07-03T05:16:53.000+00:00"
+  },
+  {
+    "uuid": "12bfa0a9ddefa1459b92095cc62a754b59612a9e",
+    "url": "https://www.tuttomercatoweb.com/serie-a/sconfitta-indolore-per-la-lazio-il-braga-si-impone-1-0-gol-e-highlights-della-gara-2063648",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Daniel Uccellieri",
+    "published": "2025-01-31T08:53:00Z",
+    "title": "Sconfitta indolore per la Lazio: il Braga si impone 1-0, gol e highlights della gara",
+    "text": "Sconfitta indolore per la Lazio: il Braga si impone 1-0, gol e highlights della gara\nSconfitta indolore per la Lazio, che cade in casa del Braga grazie alla rete di Horta. Nonostante la sconfitta la squadra di Baroni chiude la League Phase al primo posto e passa direttamente agli ottavi di finale, dove potrebbe addirittura sfidare la Roma.\nNel video in calce gol e highlights della gara\nEuropa League, i risultati dell'ottava giornata (giovedì 30 gennaio)\nAjax - Galatasaray 2-1: B. Traoré 23', Fitz-Jim 58'; Osimhen 90'+4\nAthletic Bilbao - Viktoria Plzeň 3-1: N. Williams 25', Y. Álvarez 64'; Havel 71'; M. Ansó 90'+5\nDynamo Kiev - RFS 1-0: Pikhalonok 76'\nMidtjylland - Fenerbahce 2-2: O. Diao 27'; En-Nesyri 39', Džeko 47'; Byskov 86'\nFCSB - Manchester United 0-2: D. Dalot 60', Mainoo 68'\nTwente - Besiktas 1-0: Rots 76'\nFerencvaros - AZ Alkmaar 4-3: Romdhane 9'-45', M. Traoré 34'; Mijnans 76'-90'+5; Varga 82' (rigore); Parrott 90'\nMaccabi Tel Aviv - Porto 0-1: N. González 58'\nNizza - Bodo/Glimt 1-1: Bjørkan 54'; Bouanani 74'\nOlympiacos - Qarabag 3-0: Kaabi 56'-60', Biancone 89'\nOlympique Lione - Ludogorets 1-1: Tolisso 54'; Almeida 77'\nAnderlecht - Hoffenheim 3-4: Vázquez 18'; Hranáč 41', Bischof 54', Mokwa 59', Hložek 65'; Goto 79', Augustinsson 88'\nRangers - USG 2-1: Raskin 20', Černý 55'; Mac Allister 83'\nReal Sociedad - PAOK 2-0: Óskarsson 43'-48'\nRoma - Eintracht Francoforte 2-0: Angeliño 44', Shomurodov 69'\nSlavia Praga - Malmo 2-2: Chorý 46'; Ali 69', Bolin 71'; Schranz 76'\nSporting Braga - Lazio 1-0: Horta 6'\nTottenham - Elfsborg 3-0: Scarlett 70', Ajayi 84', Moore 90'+4\nLa classifica\n1. Lazio - 19 (+12)\n2. Atletic. Bilbao - 19 (+8)\n3. Manchester Utd - 18 (+7)\n4. Tottenham - 17 (+8)\n5. Francoforte - 16 (+4)\n6. Lione - 15 (+8)\n7. Olympiakos - 15 (+6)\n8. Rangers - 14 (+6)\n9. Bodø/Glimt - 14 (+3)\n10. Anderlecht - 14 (+2)\n11. FCSB - 14 (+1)\n12. Ajax - 13 (+8)\n13. Real Sociedad - 13 (+4)\n14. Galatasaray - 13 (+3)\n15. Roma - 12 (+4)\n16. Plzen - 12 (+1)\n17. Ferencvaros - 12 (+0)\n18. FC Porto - 11 (+2)\n19. Alkmaar - 11 (0)\n20. Midtjylland - 11 (0)\n21. Royale Union SG - 11 (0)\n22. PAOK - 10 (+2)\n23. Twente - 10 (-1)\n24. Fenerbahce - 10 (-2)\n25. Braga - 10 (-3)\n26. Elfsborg - 10 (-5)\n27. Hoffenheim - 9 (-3)\n28. Besiktas - 9 (-5)\n29. M. Tel Aviv - 6 (-9)\n30. Slavia Praga - 5 (-4)\n31. Malmo FF - 5 (-7)\n32. RFS - 5 (-7)\n33. Ludogorets - 4 (-7)\n34. Dyn. Kyiv - 4 (-13)\n35. Nizza - 3 (-9)\n36. Qarabag - 3 (-14)\nI possibili accoppiamenti\nTenendo conto del percorso delle italiane compiuto fin qui in Europa League, si parte dalla Roma: al 15° posto al termine della League Phase, sarà costretta a disputare i playoff per credere nell'accesso agli ottavi di finale, tutt'altra sorte della Lazio invece salda al primo posto in classifica e dunque tra le fortunate prime 8. Considerando la graduatoria riportata sopra, dunque, i giallorossi di Ranieri sono destinati ad affrontare una tra Ferencvaros o Porto. In caso di esito positivo e di passaggio del turno a quel punto la Roma si ritroverebbe di fronte un derby capitolino contro la Lazio, oppure un big match ad alta tensione con l'Athletic Bilbao del talento spagnolo Nico Williams.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->soccer",
+      "Sport->sport event",
+      "Sport->regular competition",
+      "Lifestyle and Leisure->game"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Y. Álvarez",
+          "sentiment": "none"
+        },
+        {
+          "name": "M. Traoré",
+          "sentiment": "none"
+        },
+        {
+          "name": "Biancone",
+          "sentiment": "none"
+        },
+        {
+          "name": "Bjørkan",
+          "sentiment": "none"
+        },
+        {
+          "name": "Baroni",
+          "sentiment": "none"
+        },
+        {
+          "name": "Džeko",
+          "sentiment": "none"
+        },
+        {
+          "name": "Varga",
+          "sentiment": "none"
+        },
+        {
+          "name": "Kaabi",
+          "sentiment": "none"
+        },
+        {
+          "name": "Diao",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Braga",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Manchester United",
+          "sentiment": "none"
+        },
+        {
+          "name": "Maccabi Tel Aviv",
+          "sentiment": "none"
+        },
+        {
+          "name": "Athletic Bilbao",
+          "sentiment": "none"
+        },
+        {
+          "name": "Galatasaray",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ferencvaros",
+          "sentiment": "none"
+        },
+        {
+          "name": "Midtjylland",
+          "sentiment": "none"
+        },
+        {
+          "name": "Olympiacos",
+          "sentiment": "none"
+        },
+        {
+          "name": "Fenerbahce",
+          "sentiment": "none"
+        },
+        {
+          "name": "AZ Alkmaar",
+          "sentiment": "none"
+        },
+        {
+          "name": "Besiktas",
+          "sentiment": "none"
+        },
+        {
+          "name": "Twente",
+          "sentiment": "none"
+        },
+        {
+          "name": "Lazio",
+          "sentiment": "none"
+        },
+        {
+          "name": "Roma",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ajax",
+          "sentiment": "none"
+        },
+        {
+          "name": "RFS",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Lazio",
+          "sentiment": "none"
+        },
+        {
+          "name": "Nizza",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T12:05:31.344+02:00",
+    "updated": "2025-01-31T12:05:31.344+02:00"
+  }
+]

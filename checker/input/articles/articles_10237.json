@@ -1,0 +1,529 @@
+[
+  {
+    "uuid": "d5ef6b3c96d5abe48747be2c931008d23fe609b5",
+    "url": "https://news.myseldon.com/en/news/index/328897203",
+    "ord_in_thread": 0,
+    "author": "@BELNOVOSTI",
+    "published": "2025-05-01T00:00:00Z",
+    "title": "Ваш шампунь вызывает выпадение волос: как проверить это за минуту | Lifestyle | Seldon News",
+    "text": "После мытья головы ванна покрывается волосами, а расческа напоминает ежа? Валерия Кистернаяшампуньволосысоветывыпадение волосКрасота и здоровье1 Мая... Copyright information of photo and video materials was taken from the website «BELNOVOSTI» , more details in our Terms of Service",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Health->health care approach",
+      "Health->health treatment and procedure",
+      "Health->medical condition",
+      "Lifestyle and Leisure->wellness",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.belnovosti.by/krasota-i-zdorove/vash-shampun-vyzyvaet-vypadenie-volos-kak-proverit-eto-za-minutu",
+      "https://belnovosti.by/krasota-i-zdorove/vash-shampun-vyzyvaet-vypadenie-volos-kak-proverit-eto-za-minutu"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T05:50:22.868+03:00",
+    "updated": "2025-05-01T02:54:50.000+00:00"
+  },
+  {
+    "uuid": "e5780583376a42090341f47896dc2f74c13b217c",
+    "url": "https://www.dqindia.com/esdm/sk-hynix-presents-future-dram-technology-roadmap-at-ieee-vlsi-2025-9356551",
+    "ord_in_thread": 0,
+    "author": "DQI Bureau",
+    "published": "2025-06-12T07:21:00Z",
+    "title": "SK hynix presents future DRAM technology roadmap at IEEE VLSI 2025",
+    "text": "SK hynix Inc. announced that it presented a new DRAM technology roadmap for the next 30 years, and the direction for a sustainable innovation at the IEEE VLSI symposium 2025 held in Kyoto, Japan.\nIEEE VLSI -- Institute of Electrical and Electronics Engineers Very Large Scale Integration symposium is one of the most prestigious academic events in the field of semiconductor circuit and process technology, presenting academic achievement in next-generation semiconductor, AI, memory chip and packaging. The symposium is held in turn in United States and Japan annually.\nCha Seon Yong, Chief Technology Officer (CTO) of SK hynix, delivered a plenary session on June 10th on “Driving Innovation in DRAM Technology: Towards a Sustainable Future”.\nIn his speech, CTO Cha explained that it is increasingly difficult to improve performance and capacity with scaling through current technology platform. “In order to overcome such limitations, SK hynix will apply the 4F² VG (Vertical Gate) platform and 3D DRAM technology to technologies of 10-nanometer level or below with innovation in structure, material and components,” he said.\n2Tech platform can be applied to various generations of products\nThe 4F²3 VG4 platform is a next-generation memory technology that minimizes the cell area of DRAM and enables high-integration, high-speed and low-power through a vertical gate structure.\nIn 34F², the area occupied by one cell, a unit to store data, is indicated as F2. F indicates the minimum feature size of a semiconductor. Therefore, 4F2 is an integration technology to put more cells in a chip which one cell occupies an area of 2F by 2F.\nIn 4VG (Vertical Gate), it is a structure that a gate, which acts as a switch of a transistor, is vertically placed and surrounded by channels. Currently, it is a flat structure where a gate is laid horizontally on top of channels.\nCurrently, 6F2 cells are common, but, by applying 4F2 cell and wafer bonding technology that puts the circuit part below the cell area, cell efficiency and electrical characteristics can be improved.\n3D DRAM main pillar\nCTO Cha also introduced 3D DRAM as the main pillar for the future DRAM along with VG. CTO Cha said that although some in the industry warn of cost increase according to the number of layers stacked, it can be solved by constant technological innovation.\nAlong with structural breakthrough, the company will also strive to find a new growth engine by sophisticating technologies of critical materials and components of DRAM to lay foundation for the next 30 years.\n“Until around 2010, DRAM technology was expected to face limitations at 20 nanometers, but with constant innovation, we have made it this far,” said CTO Cha. “SK hynix will continue to guide the future of long-term technological innovation to be a milestone for young engineers in the field of DRAM and maintain cooperation within the industry to bring future of DRAM into reality.”\nOn the last day of the event, Joodong Park, VP, who leads the Next Gen DRAM TF, will present his findings from a recent research on how VG and wafer bonding technology affect the electrical characteristics of DRAM.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Education"
+    ],
+    "topics": [
+      "Science and Technology->scientific research",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific innovation",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->computing and information technology",
+      "Education->college and university",
+      "Education->vocational education"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Kyoto",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "SK hynix Inc.",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "VLSI",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:26:12.802+03:00",
+    "updated": "2025-06-12T07:30:31.000+00:00"
+  },
+  {
+    "uuid": "e5ece1b358ee798ad6e27a5de15966de87f7c9ef",
+    "url": "https://www.kelownacapnews.com/news/improved-temperatures-re-open-south-okanagan-ski-hills-7296595",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Monique Tamminga",
+    "published": "2024-01-14T19:20:00Z",
+    "title": "Improved temperatures re-open South Okanagan ski hills - Kelowna Capital News",
+    "text": "With temperatures improving from -30 C to a balmy -15 C, Apex Mountain ski resort and Baldy Mountain have re-opened on Sunday. According to the Apex website, the quad, magic carpet and T-bar will be in operation 9 a.m. to 3:30 p.m. but the triple chair will not be running. The tube park is also back open. Apex management announced on Thursday that temperatures of -30 C and windchill of -35 C were too dangerous to operate the ski hill. They closed both Friday and Saturday. Prior to closing on Friday, the ski mountain received a total of 60 centimetres of new snow in the previous six days. “The conditions are amazing and the epic riding is finally here,” posted Apex on their social pages. Baldy also closed Saturday due to the frigid temperatures. The Sugarlump started loading at 9:30 a.m. with the magic carpet also open. There is a delayed opening on eagle. Both mountains are urging people to dress warm with layers. [READ MORE: Extreme cold forces Apex Mountain near Penticton to close ski lifts](https://www.pentictonwesternnews.com/local-news/extreme-cold-forces-apex-mountain-near-penticton-to-close-ski-lifts-7295808)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://www.pentictonwesternnews.com/local-news/extreme-cold-forces-apex-mountain-near-penticton-to-close-ski-lifts-7295808)",
+      "https://pentictonwesternnews.com/local-news/extreme-cold-forces-apex-mountain-near-penticton-to-close-ski-lifts-7295808)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "baldy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kelowna capital news with",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "baldy mountain",
+          "sentiment": "none"
+        },
+        {
+          "name": "south okanagan",
+          "sentiment": "none"
+        },
+        {
+          "name": "penticton",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-14T22:57:29.042+02:00",
+    "updated": "2024-01-14T22:57:29.042+02:00"
+  },
+  {
+    "uuid": "78ee71c8796c72f8766638f29aa53d4bc3a5f97a",
+    "url": "https://www.fool.ca/2023/12/28/tfsa-how-to-invest-for-250-monthly-in-retirement-7/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Demetris Afxentiou",
+    "published": "2023-12-28T21:40:00Z",
+    "title": "TFSA: How to Invest for $250 Monthly in Retirement",
+    "text": "Finding that perfect mix of investments today can help to establish a viable and growing income stream for retirement. Even better, starting early can help grow that income stream to invest $250 or more in monthly income. Let’s look at a few options to invest in right now. Forget the landlord-tenant thing Buying a rental property is one of the tried-and-true means of establishing a recurring income stream. Unfortunately, interest rates and home prices rising well into the stratosphere have priced would-be landlords out of the market. This is where the appeal of RioCan Real Estate ( [TSX:REI.UN](https://www.fool.ca/company/tsx-rei-un-riocan-real-estate-investment-trust/368711/)) comes into play. RioCan is one of the largest REITs in Canada. Historically, RioCan has focused on commercial retail properties, such as large anchor tenants in malls. In recent years, that property mix has shifted to include a growing number of mixed-use residential properties. RioCan refers to these unique properties as RioCan Living. And here is where a huge opportunity lies to invest $250 or more each month. The mixed-use properties comprise several floors of retail and then residential towers above them. The properties are situated along high-traffic, in-demand areas of Canada’s major metro areas. In terms of income, RioCan provides investors with a juicy monthly distribution, much like a landlord collecting rent. As of the time of writing, the yield offered works out to a respectable 5.88%, making it one of the better-paying options on the market. Prospective investors should also note that an investment in RioCan will be significantly lower than the downpayment on a rental property. That investment also does not come with a mortgage, maintenance, property taxes, or tenant fees. In other words, RioCan is a great option to invest $250 or more right now. Monthly income with a diversified pick An often-dismissed great option for investors looking to invest for $250 in monthly income is Exchange Income Corporation ( [TSX:EIF](https://www.fool.ca/company/tsx-eif-exchange-income-corporation/346080/)). For those unfamiliar with the stock, Exchange owns over a dozen subsidiary companies that broadly fall under aviation and manufacturing groups. This makes it a [well-diversified](https://www.fool.ca/investing/portfolio-diversification/) option to consider, but that’s not all. What’s interesting about those subsidiaries is that they all generate cash for Exchange, and more importantly, serve unique segments of the market. In short, they all provide a necessity where there is limited if any competition. In other words, Exchange provides significant defensive appeal, too. By way of example, on the aviation side of the operation, Exchange’s subsidiaries offer passenger and cargo service to remote regions of Canada’s north. On the manufacturing side, businesses include niche operations such as cell tower services and fabrication services. Those unique subsidiaries generate cash for Exchange, which in turn provides investors with a juicy income stream. As of the time of writing, the yield on Exchange’s dividend works out to an impressive 5.86%. This means that investors with $30,000 allocated towards exchange can expect a [monthly income](https://www.fool.ca/investing/top-canadian-monthly-dividend-stocks/) of $146. Oh, and prospective investors can take solace knowing that Exchange has provided investors with annual upticks to that dividend 17 times in the past 19 years. Final thoughts All stocks, even the most defensive carry some risk. Fortunately, the stocks mentioned above provide some defensive appeal in addition to a juicy income. Speaking of income, prospective investors can scoop up a handsome monthly income. Here’s how to invest for $250 in income (or more in this case!) |Company||Recent Price||No. of Shares||Dividend||Total Payout||Frequency| |Exchange Income Corporation||$45.04||666||$2.64||$146.52||Monthly| |RioCan Real Estate||$18.38||1632||$1.08||$146.88||Monthly|",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "riocan",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "riocan real estate",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "canada",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:08:26.584+02:00",
+    "updated": "2023-12-29T00:18:38.437+02:00"
+  },
+  {
+    "uuid": "13e02b9a2707a0c41dc93c725cfa7cdb0faf5d3c",
+    "url": "https://www.infobae.com/colombia/2024/10/24/polemica-en-el-congreso-gobierno-avanza-en-decreto-sobre-cambio-de-genero-para-menores-y-desata-furia-conservadora",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Daniella Mazo González",
+    "published": "2024-10-24T21:07:00Z",
+    "title": "Polémica en el Congreso: Gobierno avanza en decreto sobre cambio de género para menores y desata furia conservadora - Infobae",
+    "text": "El Ministerio de Justicia está inmerso en controversia por una filtración que podría permitir a menores cambiar su identidad de género notarialmente - crédito montaje Infobae El Ministerio de Justicia se encuentra en el centro de una intensa controversia tras la filtración de un borrador de decreto que contempla la posibilidad de que los menores de edad puedan cambiar su identidad de género a nivel notarial. Este proyecto generó un fuerte debate en el Congreso y en la opinión pública, con críticas provenientes de sectores conservadores que acusan al Gobierno de Gustavo Petro de impulsar una agenda ideológica a través de la normativa sobre identidad de género.\nEl decreto plantea la creación de cuatro opciones de identidad de género en los documentos de identidad: Femenino (F), Masculino (M), No Binario (NB) y Trans o Travesti (T). Aunque ya existen mecanismos para que los adultos puedan modificar su identidad de género, lo que causó mayor revuelo es que, según el texto, los menores de edad también podrían solicitar este cambio sin que los notarios puedan oponerse. En un apartado del decreto se establece que “en caso de que la persona solicitante sea menor de edad (...) quienes ejercen la función notarial no podrán rechazar la solicitud de corrección”.\nAhora puede seguirnos en nuestro WhatsApp Channel y en Facebook .\nLuis Miguel López exigió al Gobierno que mantenga los valores familiares, cuestionando el propósito de la normativa - crédito @LuismLopezA/X Este fragmento suscitó una ola de críticas, especialmente entre legisladores que ven la propuesta como una amenaza a los derechos parentales. El representante a la Cámara Luis Miguel López, del Partido Conservador, manifestó su indignación y pidió al Gobierno que deje a los menores “ser niños” y acusó al proyecto de promover una “ideología” que, según él, atenta contra los valores familiares. López expresó su preocupación porque, en su opinión, este tipo de medidas se están tomando sin tener en cuenta a los padres de familia.\nEl senador Mauricio Giraldo también levantó su voz en contra del borrador, calificando la propuesta como un ataque directo a la patria potestad y al núcleo familiar. Giraldo declaró que, de ser aprobado este decreto, emprendería acciones legales por inconstitucionalidad, advirtiendo que lo que el Gobierno de Petro está haciendo es “una guerra declarada contra la Familia”. Este tipo de críticas apuntan a que el Estado está interviniendo en decisiones que deberían ser competencia exclusiva de los padres, especialmente en lo que respecta a los menores de edad.\nEl senador Giraldo amenazó con acciones legales, argumentando que el borrador viola principios esenciales familiares - crédito @mgiraldosenador/X El decreto establece que para realizar el trámite, los ciudadanos deben presentar una serie de documentos, como una copia del registro civil, una declaración escrita sobre el cambio de identidad de género y los papeles de los representantes legales en caso de que el solicitante sea menor de edad. Sin embargo, un apartado específico del decreto aclara que si un menor de edad solicita el cambio sin acompañamiento de sus representantes legales, el notario tendrá la obligación de tramitar la solicitud y remitir el caso a la Defensoría de Familia.\nEste último punto fue otro foco de controversia, ya que, según algunos críticos, podría implicar que los menores de edad puedan tomar decisiones sobre su identidad de género sin la aprobación de sus padres, algo que muchos consideran una vulneración directa a los derechos de las familias. Aunque la propuesta aún se encuentra en fase de borrador, su mera existencia provocó un debate nacional sobre los derechos de los menores, el papel de los padres y el alcance del Estado en temas de identidad de género.\nLa Superintendencia de Salud también estuvo en el centro del debate por una circular relacionada con la identidad de género de los menores - crédito Supersalud La polémica no es nueva. La Superintendencia de Salud también estuvo en el centro del debate por una circular relacionada con la identidad de género de los menores. Esto llevó a muchos a interpretar la situación como parte de una agenda más amplia del Gobierno que busca avanzar en derechos relacionados con la identidad de género, lo cual, para algunos sectores conservadores, representa un riesgo para los valores tradicionales.\nA pesar de las críticas, el Ministerio de Justicia aún no emitió una declaración oficial sobre si este decreto será modificado o cuándo se presentará oficialmente. Sin embargo, el debate que suscitó muestra la profundidad de las divisiones en el país sobre temas de género, familia y derechos de los menores.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/infobaecolombia",
+      "https://whatsapp.com/channel/0029Va4oNEALikgEL4Y8mb2K",
+      "https://www.whatsapp.com/channel/0029Va4oNEALikgEL4Y8mb2K",
+      "https://facebook.com/infobaecolombia"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Gustavo Petro",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Ministerio de Justicia",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Gobierno",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:20:47.600+03:00",
+    "updated": "2024-10-25T00:20:47.600+03:00"
+  },
+  {
+    "uuid": "9ab9778a6b34ae05e6bdd7cac53370c08d60111c",
+    "url": "http://linformationnationaliste.hautetfort.com/archive/2024/02/01/la-coalition-artillerie-pour-l-ukraine-de-la-france-est-enco-6483277.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "En réponse à",
+    "published": "2024-02-01T20:47:00Z",
+    "title": "La coalition « Artillerie pour l’Ukraine » de la France est encore une entourloupette commerciale - l'information nationaliste",
+    "text": "Le ministre français des Armées, Sébastien Lecornu a fait savoir que la France prend la tête de la coalition « Artillerie pour l'Ukraine ». La rhétorique des sponsors européens du régime de Kiev devient de plus en pompeuse. Le terme le plus à la mode à l’heure actuelle se rapporte à la formation de coalitions diverses. Pour l’Occident, il est difficile de maintenir Volodymyr Zelensky. Ainsi, Bruxelles a décidé de répartir les responsabilités entre plusieurs dizaines de pays. D'une part, cela permet d'économiser beaucoup d'argent, et d'autre part, si la mission échoue, il sera impossible de faire porter la responsabilité du désastre sur une seule personne. Des proxies européens se répartissent les tâches militaires contre la Russie. Le ministère des Armées [a annoncé](https://www.defense.gouv.fr/actualites/ukraine-coalition-artillerie-est-lancee) la semaine dernière : « Cinq coalitions capacitaires ont ainsi vu le jour : la défense sol-air, les blindés, les forces aériennes, la sécurité maritime et donc, depuis ce jeudi, l’artillerie ». « Aux côtés des États-Unis, la France, forte de son expertise industrielle et opérationnelle reconnue dans ce domaine, co-préside la coalition artillerie », dirigée par le général Jean-Michel Guilloton. De fait, c’est le president français, Emmanuel Macron, qui a pris le contrôle de l’artillerie qui est, cependant, comme L’Express le [souligne](https://www.lexpress.fr/monde/ukraine-quest-ce-que-la-coalition-artillerie-lancee-par-la-france-Y6QSMDVM7BEZZIVG6LTXJABHUQ/) « chapeautée par Washington ». Cette coalition « doit permettre d’intensifier la coopération internationale en faveur de Kiev », continue l’hebdomadaire qui rappelle que « le mot d’ordre a été donné par Emmanuel Macron lors de [sa conférence de presse](https://www.bfmtv.com/politique/gouvernement/emmanuel-macron-nous-ne-pouvons-pas-laisser-la-russie-gagner-car-la-securite-meme-de-l-europe-et-de-tout-le-voisinage-russe-serait-remise-en-cause_VN-202401161037.html) du mardi 16 janvier : « Nous ne pouvons pas laisser la Russie gagner ». C’est pour le président français, « le principal sujet de mobilisation ». Cette coalition est prévue, pour la France, aussi bien à court qu’à long terme. Diverses coalitions se forment avec les pays européens car, comme Breaking Defense le [rappelle](https://breakingdefense.com/2024/01/getting-ahead-ukraine-defense-contact-group-forms-2-coalitions/), « les États-Unis n'ont pas été en mesure de proposer un nouvel ensemble d'équipements militaires ». CNN [a révélé](https://edition.cnn.com/videos/world/2023/12/12/exp-norway-defense-minister-arild-gram-live-121202pseg1-cnni-world.cnn) que, dans le cadre de la coalition maritime, « le Royaume-Uni et la Norvège vont renforcer la marine et le corps des marines ukrainiens ». Roustem Oumerov, le ministre ukrainien de la Défense, [a remercié](https://twitter.com/rustem_umerov/status/1743280306151432247) la Norvège : « Nous sommes reconnaissants de la contribution de la Norvège au renforcement de notre défense aérienne et à la promotion de la Coalition des capacités maritimes ». Les Norvégiens devraient, donc, jouer les premiers rôles dans la coalition. Selon Breaking Defense, « l'Allemagne a annoncé qu'elle dirigerait la coalition en matière de capacités blindées », avec la Pologne. Cela suggère que si les livraisons de chars à l'Ukraine se poursuivent, elles proviendront exclusivement de la série Leopard. Le Süddeutsche Zeitung [vient d’annoncer](https://www.sueddeutsche.de/politik/reaktionen-leopard-panzer-lieferung-deutschland-ukraine-1.5738601) que l'ambassadeur d'Ukraine par intérim à Berlin, Oleksiy Makeev, a déclaré mardi soir durant l'émission de l’ARD Tagesthemen qu'il « estime qu'une coalition blindée est en train d'émerger en ce moment ». Le média anglophone spécialisé dans la défense rajoute que « la Lettonie a annoncé qu'elle dirigerait une coalition de drones ». La désignation de Paris comme responsable de la production et de la fourniture d'artillerie à l'Ukraine a eu lieu lors d'une réunion en visioconférence entre le ministre ukrainien de la Défense, Roustem Oumerov, et son collègue français, Sébastien Lecornu. Roustem Oumerov, en particulier, [a déclaré](https://www.youtube.com/watch?v=XNKvyFS6QhU&t=105s) : « Comme le montre la situation sur le champ de bataille, il n’y a pas d’alternative à une artillerie moderne ». Sur le front, les Ukrainiens tirent désormais au moins cinq fois moins d’obus que les Russes. En moyenne, les forces armées ukrainiennes ne peuvent même pas dépenser six mille munitions par jour. D'où l'utilisation forcée des drones Kamikaze de haute précision. Observateur Continental notait, [citant](http://www.observateurcontinental.fr/?module=news&action=view&id=5617) Cédric Perrin, le président de la commission des Affaires étrangères, de la Défense et des Forces armées, qu’il y a « entre 5000 et 8000 tirs d'obus par jour du côté ukrainien et 10.000 et 15.000 par les Russes quotidiennenemt », que « du côté russe, c'est allé jusqu'à 30.000 tirs par jour ». Et, Sébastien Lecornu « Depuis février dernier, [s'enorgueillissait](http://www.observateurcontinental.fr/?module=news&action=view&id=5619) lors de son annonce de la création d’une coalition d’artillerie : « C’est 2000 obus par mois et à partir de ce mois-ci [janvier], ce sera 3000 obus par mois ». Cependant, les dirigeants français sont optimistes. La société Nexter a appris à produire non pas deux, mais six installations de canon automoteur Caesar chaque mois, et envisage d'en passer à huit exemplaires. Il a fallu un an et demi aux Français pour réaliser une triple percée. Les canons automoteurs Caesar prévaudront dans les futures commandes de Kiev à Paris. Cette année, il est prévu d’en livrer 72 en plus des six commandés par l'Ukraine en décembre de l'année dernière. Seulement, il n'y a pas d'argent alloué pour ces engins. C'est précisément pourquoi la fameuse coalition artillerie a été inventée. Plus précisément, Emmanuel Macron a trouvé des fonds pour une douzaine d'obusiers, mais ne les dépensera que si les partenaires trouvent 280 millions pour les 60 véhicules restants. Selon le gouvernement français, les principaux sponsors de la coalition d'artillerie devraient être les Allemands, les Britanniques, les Canadiens et les Polonais. C’est une belle histoire française dans laquelle seul Paris reçoit des bénéfices directs. Ici, il y a de l'emploi et des impôts supplémentaires pour le trésor. La coalition artillerie, dont la France en prend la tête, va lui devenir extrêmement coûteuse, alors qu’elle n’a pas l’habitude de dépenser de l’argent pour les problèmes ukrainiens. Les Allemands de l'Institut de Kiel [estiment](https://www.ifw-kiel.de/de/publikationen/aktuelles/ukraine-support-tracker-zugesagte-unterstuetzung-kommt-nur-zoegerlich-an/) que depuis deux ans les Français sont à la traîne. Ils sont à la 12e place pour le volume total des dons et immédiatement à la 15e place pour les fournitures d'armes, quand la Grèce occupe la 8e place. Les dépenses absolues et les volumes relatifs au PIB ont été pris en compte. Les Baltes, les Danois et les Norvégiens se sont révélés les plus généreux : chacun d’eux a donné à Volodymyr Zelensky plus d’1% de son propre PIB. Les Français, avec leur 0,061%, occupent une honteuse 29ème place dans la liste des sponsors de l'Ukraine. Si l’on parle de chiffres absolus, ce sont les Allemands qui en font les frais avec 22 milliards d’euros [dépensés](https://www.dw.com/de/was-kostet-deutschland-der-ukraine-krieg/a-66758308) pour les besoins ukrainiens depuis le début du conflit. Durant la même période, d’après le quotidien suisse, Neue Zürcher Zeitung, pour la France, cela [représente](https://www.nzz.ch/international/militaerhilfe-im-ukraine-krieg-was-frankreich-fuer-die-ukraine-tut-ld.1775304?reduced=true) « un total de 1,7 milliard d'euros [à la fin] octobre 2023, dont 540 millions d'aide militaire ». En général, Paris a beaucoup de cupidité. Cependant, c’est peut-être là une prudence commune. Mais, la meilleure défense est l'attaque, et le ministre des Armées français, Sébastien Lecornu, [rétorque](https://www.vie-publique.fr/discours/292711-sebastien-lecornu-18012024-france-inter-politique-de-la-defense) — pour se dédouaner — en réponse aux accusations de l'Institut de Kiel : « Vous avez parfois certains pays qui, pour des raisons politiques domestiques, ont fait beaucoup d'annonces, et derrière les promesses n'ont pas suivi, ou quand elles ont été suivies, c'est avec du matériel qui parfois était défectueux ». Et il s’avère que les Français sont formidables : ils n’ont pas promis grand-chose et ont tenu leurs modestes paroles. Même si la France réussit à lancer une coalition artillerie, l’Ukraine n’échappera jamais au manque en obus. Cela signifie que toute tentative de nouvelle offensive peut être abandonnée. En outre, Cédric Perrin [a moqué](https://videos.senat.fr/video.4303563_65a7c5171a49d.pologne-ukraine--rapport-de-retour-de-mission?timecode=1022000) la réalité sur l’économie de guerre en France rappelant que techniquement la France ne tourne pas du tout sur ce modèle économique. La plupart de ce qu’Emmanuel Macron et son ministre des Armées français, Sébastien Lecornu, promettent à l’Ukraine sont purement déclaratifs. Avec un déclin général de l’intérêt et du financement pour le régime de Volodymyr Zelensky, pourquoi diable la France supporterait-elle le poids de la coalition artillerie ? Même en étroite coopération avec d’autres pays de l’OTAN ? La France, qui occupe presque la dernière place dans le classement du soutien à l'Ukraine, s'est soudainement inquiétée du sort des Ukrainiens. Emmanuel Macron pétait le feu lors d’un discours de deux heures à la nation en janvier. Le président français a déclaré qu'il ne pouvait pas permettre une victoire russe, car cela détruirait à jamais la sécurité en Europe. Il a été projeté d'un extrême à l'autre. Il n'y a pas si longtemps, il avait l'intention non seulement de négocier avec le Kremlin, mais même d'inviter Vladimir Poutine à Paris. Il [promet](https://www.observateurcontinental.fr/?module=news&action=view&id=5609) désormais des missiles de longue portée SCALP à Volodymyr Zelensky et des bombes AASM [bombes guidées]. Observateur Continental [rapportait](http://www.observateurcontinental.fr/?module=articles&action=view&id=5611) qu’ une pro du fact-checking a démonté l’apparition d’Emmanuel Macron sur scène lors de son discours à la nation. Les journalistes [devaient envoyer](https://www.arretsurimages.net/articles/conf-de-presse-macron-les-questions-etaient-connues-a-lavance) leur question par SMS au conseiller de l’Elysée. Pour le gigantesque front russo-ukrainien, l’apport de la France est comme des gouttes d’eau dans la mer. Pour lancer des munitions, il faudra faire décoller les quelques avions de l’armée de l’air ukrainienne, ce qui coûtera cher à Kiev. La rhétorique des dirigeants français a, en réalité, des raisons purement politiques. Premièrement, Emmanuel Macron doit au moins, d’une manière ou d’une autre, remuer une société fatiguée de l’Ukraine. Même si des déclarations de bravoure ne signifient rien pour un spectateur averti. Les électeurs se poseront inévitablement la question : « Pourquoi les États-Unis tournent-ils le dos à Volodymyr Zelensky alors que nous ne le faisons toujours pas ? » Personne n’empêche Emmanuel Macron de revigorer une fois de plus l’opinion publique avec des déclarations sur l’inadmissibilité de la victoire de la Russie. Deuxièmement, l’apathie du complexe militaro-industriel européen est bien plus dangereuse. Les hommes d’affaires prudents sont bien conscients du risque qu’il y a à investir dans l’expansion de la production d’armes. Même parmi les russophobes jurés, il n’existe pas de consensus sur la poursuite du conflit. Et, des dizaines de millions d’euros devront être investis dans la production de ce même Nexter. Que se passera-t-il si les négociations de paix commencent demain ? Faillite des armuriers ou du moins pertes totales ? Les derniers mots d’Emmanuel Macron sur la Russie devraient donner l’assurance aux patrons du secteur de l’armement que le conflit ne sera pas gelé de si tôt. La publicité faite sur l’artillerie française et les missiles du président de la Ve République laissent entrevoir la réanimation d’un complexe de défense fatigué. C’est que l'intérêt pour les équipements militaires fabriqués en France s'estompe progressivement, notamment en Afrique. Tout ce qui précède indique que le « projet Ukraine » parmi les Européens est en train de passer du simple moyen pour donner des pichenettes à la Russie à un projet commercial typique. Conscients de la futilité d’une nouvelle résistance de la part du régime de Kiev, les acteurs extérieurs tentent de gagner autant que possible ou au moins de récupérer ce qu’ils ont dépensé auparavant. Julian Le Ménéec Les opinions exprimées par les analystes ne peuvent être considérées comme émanant des éditeurs du portail. Elles n'engagent que la responsabilité des auteurs Abonnez-vous à notre chaîne Telegram : [https://t.me/observateur_continental](https://t.me/observateur_continental) Source : [http://www.observateurcontinental.fr/?module=articles&action=view&id=5644](http://www.observateurcontinental.fr/?module=articles&action=view&id=5644) [https://www.agoravox.fr/tribune-libre/article/la-coalition-artillerie-pour-l-252768](https://www.agoravox.fr/tribune-libre/article/la-coalition-artillerie-pour-l-252768)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://edition.cnn.com/videos/world/2023/12/12/exp-norway-defense-minister-arild-gram-live-121202pseg1-cnni-world.cnn)",
+      "https://www.observateurcontinental.fr/?module=news&action=view&id=5609)",
+      "http://www.observateurcontinental.fr/?module=news&action=view&id=5619)",
+      "http://www.observateurcontinental.fr/?module=articles&action=view&id=5644",
+      "https://www.lexpress.fr/monde/ukraine-quest-ce-que-la-coalition-artillerie-lancee-par-la-france-Y6QSMDVM7BEZZIVG6LTXJABHUQ/)",
+      "https://www.agoravox.fr/tribune-libre/article/la-coalition-artillerie-pour-l-252768",
+      "https://t.me/observateur_continental",
+      "https://www.ifw-kiel.de/de/publikationen/aktuelles/ukraine-support-tracker-zugesagte-unterstuetzung-kommt-nur-zoegerlich-an/)",
+      "https://t.me/observateur_continental)",
+      "https://www.sueddeutsche.de/politik/reaktionen-leopard-panzer-lieferung-deutschland-ukraine-1.5738601)",
+      "https://www.agoravox.fr/tribune-libre/article/la-coalition-artillerie-pour-l-252768)",
+      "https://www.nzz.ch/international/militaerhilfe-im-ukraine-krieg-was-frankreich-fuer-die-ukraine-tut-ld.1775304?reduced=true)",
+      "https://twitter.com/rustem_umerov/status/1743280306151432247)",
+      "http://www.observateurcontinental.fr/?module=articles&action=view&id=5644)",
+      "https://videos.senat.fr/video.4303563_65a7c5171a49d.pologne-ukraine--rapport-de-retour-de-mission?timecode=1022000)",
+      "https://www.bfmtv.com/politique/gouvernement/emmanuel-macron-nous-ne-pouvons-pas-laisser-la-russie-gagner-car-la-securite-meme-de-l-europe-et-de-tout-le-voisinage-russe-serait-remise-en-cause_VN-202401161037.html)",
+      "http://www.observateurcontinental.fr/?module=articles&action=view&id=5611)",
+      "https://breakingdefense.com/2024/01/getting-ahead-ukraine-defense-contact-group-forms-2-coalitions/),",
+      "https://www.arretsurimages.net/articles/conf-de-presse-macron-les-questions-etaient-connues-a-lavance)",
+      "http://www.observateurcontinental.fr/?module=news&action=view&id=5617)",
+      "http://www.youtube.com/watch?v=XNKvyFS6QhU",
+      "https://www.vie-publique.fr/discours/292711-sebastien-lecornu-18012024-france-inter-politique-de-la-defense)",
+      "https://www.defense.gouv.fr/actualites/ukraine-coalition-artillerie-est-lancee)",
+      "https://www.dw.com/de/was-kostet-deutschland-der-ukraine-krieg/a-66758308)",
+      "http://observateurcontinental.fr/?module=articles&action=view&id=5644",
+      "https://lexpress.fr/monde/ukraine-quest-ce-que-la-coalition-artillerie-lancee-par-la-france-Y6QSMDVM7BEZZIVG6LTXJABHUQ/)",
+      "http://youtube.com/watch?v=XNKvyFS6QhU",
+      "https://dw.com/de/was-kostet-deutschland-der-ukraine-krieg/a-66758308)",
+      "https://www.twitter.com/rustem_umerov/status/1743280306151432247)",
+      "https://www.t.me/observateur_continental",
+      "https://www.videos.senat.fr/video.4303563_65a7c5171a49d.pologne-ukraine--rapport-de-retour-de-mission?timecode=1022000)",
+      "https://bfmtv.com/politique/gouvernement/emmanuel-macron-nous-ne-pouvons-pas-laisser-la-russie-gagner-car-la-securite-meme-de-l-europe-et-de-tout-le-voisinage-russe-serait-remise-en-cause_VN-202401161037.html)",
+      "https://observateurcontinental.fr/?module=news&action=view&id=5609)",
+      "http://observateurcontinental.fr/?module=news&action=view&id=5617)",
+      "https://vie-publique.fr/discours/292711-sebastien-lecornu-18012024-france-inter-politique-de-la-defense)",
+      "https://arretsurimages.net/articles/conf-de-presse-macron-les-questions-etaient-connues-a-lavance)",
+      "https://www.t.me/observateur_continental)",
+      "http://observateurcontinental.fr/?module=articles&action=view&id=5644)",
+      "http://www.observateurcontinental.fr/",
+      "https://agoravox.fr/tribune-libre/article/la-coalition-artillerie-pour-l-252768",
+      "https://www.breakingdefense.com/2024/01/getting-ahead-ukraine-defense-contact-group-forms-2-coalitions/),",
+      "https://sueddeutsche.de/politik/reaktionen-leopard-panzer-lieferung-deutschland-ukraine-1.5738601)",
+      "https://www.observateurcontinental.fr/",
+      "https://ifw-kiel.de/de/publikationen/aktuelles/ukraine-support-tracker-zugesagte-unterstuetzung-kommt-nur-zoegerlich-an/)",
+      "http://www.youtube.com/watch",
+      "http://observateurcontinental.fr/?module=news&action=view&id=5619)",
+      "https://agoravox.fr/tribune-libre/article/la-coalition-artillerie-pour-l-252768)",
+      "https://www.edition.cnn.com/videos/world/2023/12/12/exp-norway-defense-minister-arild-gram-live-121202pseg1-cnni-world.cnn)",
+      "https://www.nzz.ch/international/militaerhilfe-im-ukraine-krieg-was-frankreich-fuer-die-ukraine-tut-ld.1775304",
+      "http://observateurcontinental.fr/?module=articles&action=view&id=5611)",
+      "https://defense.gouv.fr/actualites/ukraine-coalition-artillerie-est-lancee)",
+      "https://nzz.ch/international/militaerhilfe-im-ukraine-krieg-was-frankreich-fuer-die-ukraine-tut-ld.1775304?reduced=true)",
+      "https://videos.senat.fr/video.4303563_65a7c5171a49d.pologne-ukraine--rapport-de-retour-de-mission"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-02T00:07:36.296+02:00",
+    "updated": "2024-02-02T00:07:36.296+02:00"
+  },
+  {
+    "uuid": "1eddc83b90a8909e2bf2c69bd8a04b51036b37c7",
+    "url": "https://flipboard.com/article/nasa-s-asteroid-slamming-dart-mission-completely-changed-the-shape-of-its-target/f-330e4d1a19%2Flivescience.com",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Live Science - By Robert Lea",
+    "published": "2024-02-29T00:00:00Z",
+    "title": "NASA's asteroid-slamming DART mission completely changed the shape of its target | Flipboard",
+    "text": "NASA's asteroid-slamming DART mission completely changed the shape of its target NASA's DART spacecraft seems to have completely reshaped asteroid Dimorphos after violently crashing into it in Sept. 2022 Scientists have discovered … [Kenneth Gentry](/@Lonewolfkg) flipped this story into [Science, Sci-Fi And Cyberpunk](/@lonewolfkg/science-sci-fi-and-cyberpunk-nm5nvbouz)•11h Related storyboards Related articles [A baby star's planet-forming disk has 3 times more water than all of Earth's oceans](/@quickflipper/explorology-ni7huku8z/a-baby-star-s-planet-forming-disk-has-3-times-more-water-than-all-of-earth-s-oce/a-MKaRrj--Sd6m3T2nJkJqZg%3Aa%3A148343087-93f0cf94d5%2Fspace.com) \"I had never imagined that we could capture an image of oceans of water vapor in the same region where a planet is likely forming.\" Astronomers have … [Statue of Atlas Reconstructed at Greek Temple of Zeus in Agrigento, Italy](/@geowarner/travel-vacation-time-history-pb0tesh2z/statue-of-atlas-reconstructed-at-greek-temple-of-zeus-in-agrigento-italy/a-wAnF7sSvRR6JOnuoYGFm9w%3Aa%3A5627403-89be831207%2Fgreekreporter.com) A colossal statue of the sky-bearing Greek titan Atlas, which was buried for hundreds of years among ancient ruins, has been reconstructed to claim … [Anduril, Hanwha team up to bid for Army’s light payload robot](/@aj7iohv/world-war-3-middle-east-war-ukraine-war-8s2uaf17z/anduril-hanwha-team-up-to-bid-for-army-s-light-payload-robot/a-EPuOxMQPT5aWux1h74v98w%3Aa%3A179087245-f42c3f04b5%2Fdefensenews.com) Anduril Industries and Hanwha Defense USA said they are teaming up to submit a bid for the U.S. Army’s Small Multipurpose Equipment Transport robot … Join the flipboard community Discover, collect, and share stories for all your interests [Sign up](/signup) More stories from [Asteroids](/topic/asteroids) [Experts Say Dimorphos Asteroid Struck by DART Spacecraft Might Be ‘Healing’ Itself](/topic/asteroids/experts-say-dimorphos-asteroid-struck-by-dart-spacecraft-might-be-healing-itse/a-kYS_2gI_TKG_79Nb6suKWw%3Aa%3A3596074131-b04fb2c338%2Fflipboard.com) Back in September 2022, NASA’s DART mission did the incredible. It traveled millions of miles through space and deliberately crashed into the Dimorphos asteroid, all in an attempt to change its rotational speed. It caused a catastrophic change to the surface of the asteroid, however, experts now say the asteroid could be healing. [This 'zombie' cannibal star was spotted eating its siblings](/topic/asteroids/this-zombie-cannibal-star-was-spotted-eating-its-siblings/f-13670978ee%2Fsciencefocus.com) Think Silence of the Lambs, but make it extra-terrestrial and undead. No, it's not a Stephen King novel set in space: scientists are calling a white … [Local biologists, professors discuss the kinds of dinosaurs still alive and well in our world, in preparation for Jurassic Quest event](/topic/asteroids/local-biologists-professors-discuss-the-kinds-of-dinosaurs-still-alive-and-well/f-850c52bedd%2Fspokesman.com) Dinosaurs: extinct, long gone. Right? Not so fast. Although some species of dinosaurs went extinct long ago, there are technically dinosaurs among us …",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Science and Technology"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kenneth gentry",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nasa",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "earth",
+          "sentiment": "none"
+        },
+        {
+          "name": "agrigento",
+          "sentiment": "none"
+        },
+        {
+          "name": "italy",
+          "sentiment": "none"
+        },
+        {
+          "name": "greek temple of zeus",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-01T00:50:42.864+02:00",
+    "updated": "2024-03-01T00:50:42.864+02:00"
+  },
+  {
+    "uuid": "c2249411cb7d8a2e3c3f61b9730cabf82d1f7b28",
+    "url": "https://www1.folha.uol.com.br/mundo/2024/04/policiais-reagem-rapido-para-desmobilizar-acampamentos-em-universidades-nos-eua.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "folha",
+    "published": "2024-04-25T17:47:00Z",
+    "title": "EUA: Policiais agem rápido para desmobilizar acampamentos - 25/04/2024 - Mundo - Folha",
+    "text": "Policiais dos Estados Unidos tm agido rpido para desmontar acampamentos de manifestantes pr- Palestina que continuam surgindo em universidades a despeito das mais de 250 detenes que ocorreram nos ltimos dias , inclusive de professores. As aes indicam uma mudana na estratgia das autoridades, que tm sido mais incisivas para coibir novos atos.\nVdeos publicados nas redes sociais mostram policiais conduzindo manifestantes com as mos atadas, nesta quinta-feira (25), na Universidade de Princeton, uma das mais prestigiadas do pas, em Nova Jersey . A ao ocorreu horas depois que estudantes comearam a montar um acampamento no campus.\n\"Todos vocs esto violando a poltica da universidade. As tendas devem ser desmontadas agora\", diz um policial em um dos vdeos divulgados na plataforma X, enquanto manifestantes gritam \"Palestina livre\".\nEm Massachusetts, a polcia de Boston tambm agiu de forma dura para desmobilizar um acampamento em solidariedade aos palestinos nas ltimas horas. Segundo relatos divulgados pela imprensa local, mais de cem pessoas foram presas e dezenas de barracas foram desmontadas no incio da madrugada.\nOs protestos vm causando tumultos e confrontos nas universidades americanas. Enquanto estudantes reivindicam o direito de se manifestar e defendem o fim dos ataques contra os territrios palestinos , alunos judeus se dizem temerosos e afirmam que os atos contra a guerra se transformaram em antissemitismo.\nAs imagens nas redes mostram policiais dispersando ativistas com bombas de efeito moral. Testemunhas tambm relataram o uso de spray de pimenta e de balas de borracha contra estudantes. Em uma das gravaes, trs agentes imobilizam um homem negro, que aparece no cho e com as mos atadas, enquanto um dos policiais pressiona uma arma taser contra o seu corpo. O caso teria ocorrido na Universidade de Atlanta, na Gergia, e no h informaes sobre o estado de sade do manifestante.\nNa Universidade Emory, em Atlanta, reprteres da CNN americana testemunharam as detenes da chefe do departamento de Filosofia, Noelle McAfee, e da professora de economia Caroline Fohlin tambm no havia informaes sobre a situao e paradeiro delas.\nAs aes, contudo, no tm impedido o surgimento de novos atos em todo o pas. Na Universidade Northwestern, em Illinois, estudantes comearam a erguer barracas na manh desta quinta. Os organizadores exigem que a instituio proteja palestrantes pr-Palestina e que encerrem vnculos com instituies israelenses. \"Nos recusamos a permitir que os negcios continuem como de costume\", disseram vrias organizaes estudantis em nota divulgada de forma conjunta.\nManifestantes tambm estavam erguendo barracas na Universidade George Washington, na capital americana, onde um grupo de manifestantes dizia \"ter o direito de se rebelar\".\nEstudantes em ato pr-Palestina na Universidade Columbia ic_save\nMais\nic_share\nLeia Mais cone fechar Voltar Ver novamente Voltar\nVoltar\nCompartilhe cone Facebook Facebook cone Whatsapp Whatsapp cone Twitter Twitter cone de messenger Messenger cone Linkedin Linkedin cone de envelope E-mail cone de link Cadeado representando um link Copiar link cone fechar\nJ na Universidade Columbia, onde os protestos ganharam projeo e ajudaram a espalhar o movimento pelo pas, as autoridades estabeleceram como prazo limite s 4h desta sexta-feira (26) para que os manifestantes cheguem a um acordo com a instituio sobre a desmontagem do acampamento.\nO prazo inicial previa a desmobilizao meia-noite de tera-feira (23), mas as autoridades o prorrogaram por 48 horas sob a justificativa de que haviam sido feitos progressos nas negociaes. m j tentou encerrar o protesto fora. Em 18 de abril, o presidente da instituio, Minouche Shafik, tomou a atitude incomum de chamar a polcia para entrar no campus, o que provocou a ira de muitos estudantes e professores.\nNa ocasio, mais de cem pessoas foram presas e as tendas foram removidas do gramado principal. Mas, em poucos dias, vrios manifestantes voltaram a erguer barracas e ocupar o local. Os manifestantes prometeram manter o protesto at que a universidade concorde em interromper quaisquer participaes financeiras que possam apoiar a guerra em Gaza. Eles tambm pedem anistia aos estudantes suspensos durante as manifestaes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/ShaykhSulaiman/status/1783580614437871631",
+      "https://folha.com/elg7npfi",
+      "https://login.folha.com.br/newsletter",
+      "https://assinaturas.folha.com.br/420733",
+      "https://assinaturas.folha.com.br/420734",
+      "https://secure.folha.com.br/folha?gid=FOL",
+      "https://play.google.com/store/apps/details?id=br.com.folha.app&hl=pt_BR&utm_source=materia&utm_medium=textofinal&utm_campaign=androidtextocurto",
+      "https://apps.apple.com/br/app/folha-de-s-paulo/id943058711?utm_source=materia&utm_medium=textofinal&utm_campaign=appletextocurto",
+      "https://apps.apple.com/br/app/folha-de-s-paulo/id943058711",
+      "https://www.apps.apple.com/br/app/folha-de-s-paulo/id943058711?utm_source=materia&utm_medium=textofinal&utm_campaign=appletextocurto",
+      "https://www.login.folha.com.br/newsletter",
+      "https://secure.folha.com.br/folha",
+      "https://www.assinaturas.folha.com.br/420733",
+      "https://www.assinaturas.folha.com.br/420734",
+      "https://play.google.com/store/apps/details",
+      "https://www.play.google.com/store/apps/details?id=br.com.folha.app&hl=pt_BR&utm_source=materia&utm_medium=textofinal&utm_campaign=androidtextocurto",
+      "https://www.folha.com/elg7npfi",
+      "https://www.twitter.com/ShaykhSulaiman/status/1783580614437871631",
+      "https://www.secure.folha.com.br/folha?gid=FOL"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:06:18.518+03:00",
+    "updated": "2024-05-04T07:50:24.816+03:00"
+  },
+  {
+    "uuid": "4dd7304320b5371869334f397b68a9f77858ebbe",
+    "url": "https://www.dongqiudi.com/articles/5261021.html",
+    "ord_in_thread": 0,
+    "author": "迷你庫珀",
+    "published": "2025-07-24T00:00:00Z",
+    "title": "甲亢哥美职联全明星赛前与拉莫斯互动：我的滑铲从他那儿学的",
+    "text": "> 甲亢哥美职联全明星赛前与拉莫斯互动：我的滑铲从他那儿学的\n迷你庫珀 2025-07-24 10:44\n北京时间7月24日，美职联全明星赛激战正酣，目前美职联全明星队1-0领先墨超全明星队。早些时候，美职联官方更新了社交媒体动态，发布了一段知名网红Speed与西班牙传奇球星拉莫斯在赛前进行互动的视频。\n赛前，墨超全明星队的西班牙传奇球星拉莫斯与知名网红Speed进行了友好互动。Speed向拉莫斯说：“拉莫斯你可是史上最佳后卫。”拉莫斯随即表示了感谢。\n在拉莫斯走后，Speed对着摄像机说道：“我的滑铲是从他那儿学来的！”\n迷你庫珀\n严禁商业机构或公司转载，违者必究；球迷转载请注明来源“懂球帝”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->soccer",
+      "Human Interest->celebrity",
+      "Lifestyle and Leisure->game",
+      "Lifestyle and Leisure->club and association"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:42:31.976+03:00",
+    "updated": "2025-07-24T07:48:34.000+03:00"
+  }
+]

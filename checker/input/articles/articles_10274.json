@@ -1,0 +1,255 @@
+[
+  {
+    "uuid": "7077fe931cee260c326604b8986645f9e04626b6",
+    "url": "https://en.vestikavkaza.ru/news/Netanyahu-Israel-ready-for-pause-in-fighting-with-Hamas.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "news@vestikavkaza.ru (Vestnik Kavkaza)",
+    "published": "2024-05-06T05:00:00Z",
+    "title": "Netanyahu: Israel ready for pause in fighting with Hamas",
+    "text": "Israeli Prime Minister Benjamin Netanyahu said he is ready for a cease in the fighting in the Gaza Strip in exchange for the release of hostages. \"Israel has been, and still is, ready for a pause in the fighting in order to free our hostages. This is what we did when we freed 124 hostages, and resumed fighting - and this is what we are ready to do today as well,\" Benjamin Netanyahu said. The PM noted that Israel rejects the demands of the radical Palestinian movement [Hamas](https://en.vestikavkaza.ru/tags/Hamas) to withdraw Israeli forces from the Gaza Strip and will not accept a situation in which Hamas will reestablish control of the enclave. Netanyahu stressed that his government is doing its best to see the release of the hostages held in the enclave, maintaining that it is Palestinian radicals who are blocking the talks by making unacceptable demands. \"But while Israel has shown this willingness, Hamas has still held to its extreme positions, first and foremost the withdrawal of our forces from the Strip, the conclusion of the war and leaving Hamas intact,\" Netanyahu said. The PM stressed that capitulating to Hamas's demands would be a terrible defeat for Israel and a great victory for Hamas and its allies.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "netanyahu",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "benjamin netanyahu",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza strip",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-06T10:45:45.866+03:00",
+    "updated": "2024-05-06T14:50:34.444+03:00"
+  },
+  {
+    "uuid": "79869668d94795a7ea0dc25051447fb214f6a48b",
+    "url": "https://www.abc12.com/news/national/mortgage-rates-drop-for-the-ninth-week-in-a-row/article_e5a6cd03-e9c8-59ff-8de7-d0184f5b23c1.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Elisabeth Buchwald and Anna Bahney, CNN",
+    "published": "2023-12-28T05:00:00Z",
+    "title": "Mortgage rates drop for the ninth week in a row | National | abc12.com",
+    "text": "US mortgage rates continued to drop this week, which extends the good news for home buyers who have been facing the least affordable housing market since the 1980s. After dropping under 7% in early December for the first time since mid-August, rates fell again this week. The 30-year fixed-rate mortgage rate fell to an average of 6.61% in the week ending December 28, down from [6.67% the previous week,](https://www.cnn.com/2023/12/21/economy/mortgage-rates-drop-to-lowest-level-since-june/index.html) according to data from Freddie Mac released Thursday. A year ago, the average 30-year fixed-rate was 6.42%. It was the ninth-straight week of declines, dragged lower by the anticipation of [Federal Reserve rate cuts beginning next year](https://www.cnn.com/2023/12/19/business/fed-rate-cuts-2024/index.html). The average mortgage rate is based on mortgage applications that Freddie Mac receives from thousands of lenders across the country. The survey includes only borrowers who put 20% down and have excellent credit. A current buyer's rate [may be different.](https://www.cnn.com/2023/10/08/homes/mortgage-rate-averages/index.html) \"The rapid descent of mortgage rates over the last two months stabilized a bit this week, but rates continue to trend down,\" Sam Khater, Freddie Mac's chief economist said in a statement on Thursday. However, [Realtor.com](http://Realtor.com) economist Jiayi Xu cautioned not to read too much into the latest mortgage rates, saying in a statement that it is \"a general 'noisy' period during this time of year due to holiday-driven fluctuations.\" Looking ahead to 2024 Economists are expecting further declines in mortgage rates heading into 2024. Fed officials recently forecast a median of three rate cuts next year. If they happen, they'd likely put downward pressure on mortgage rates. While the central bank does not set the interest rates that borrowers pay on mortgages directly, its actions influence them. Mortgage rates track the yield on 10-year US Treasuries, which move up or down based on anticipation about the Fed's actions, the Fed's policy changes and investors' reactions to them. For the time being, the drop in mortgage rates \"hasn't translated into a substantial sales recovery yet,\" Xu said. That's because a lack of housing inventory has helped prop up home prices. That said, Khater predicts \"a nascent rebound in the housing market\" in the coming year if inflation continues to decelerate. The-CNN-Wire ™ & © 2023 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.cnn.com/2023/10/08/homes/mortgage-rate-averages/index.html)",
+      "https://www.cnn.com/2023/12/19/business/fed-rate-cuts-2024/index.html).",
+      "http://Realtor.com)",
+      "https://www.cnn.com/2023/12/21/economy/mortgage-rates-drop-to-lowest-level-since-june/index.html)",
+      "https://cnn.com/2023/12/19/business/fed-rate-cuts-2024/index.html).",
+      "http://www.Realtor.com)",
+      "https://cnn.com/2023/10/08/homes/mortgage-rate-averages/index.html)",
+      "https://cnn.com/2023/12/21/economy/mortgage-rates-drop-to-lowest-level-since-june/index.html)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "freddie mac",
+          "sentiment": "none"
+        },
+        {
+          "name": "federal reserve",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:28:17.112+02:00",
+    "updated": "2023-12-29T00:28:17.112+02:00"
+  },
+  {
+    "uuid": "b83f1c52c588a30421c5d9a0729a1e400f1e2a7e",
+    "url": "https://www.basketballinsiders.com/news/mvp-joel-embiid-isnt-too-impressed-with-victor-wembanyama-everything-feels-a-little-forced/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Antonio Kozlow",
+    "published": "2023-12-28T17:37:00Z",
+    "title": "MVP Joel Embiid isn't too impressed with Victor Wembanyama: 'Everything feels a little forced' - Basketball Insiders | NBA Rumors And Basketball News",
+    "text": "[ NBA ](https://www.basketballinsiders.com/category/news/) MVP Joel Embiid isn’t too impressed with Victor Wembanyama: ‘Everything feels a little forced’ In the past couple of years, [Joel Embiid](https://www.basketballinsiders.com/nba/players/joel-embiid/) has grown into one of the NBA’s most dominant big men. Not only was he awarded as the league’s MVP last season, but two years prior, he was the runner-up to Nuggets star Nikola Jokic. Nowadays, the [Sixers](https://www.basketballinsiders.com/nba/teams/philadelphia-76ers/) center has the experience and accolades to form a worthy opinion on the league in general, but more specifically, on the development of young stars in the NBA. In a recent interview with The Athletic, the Philadelphia star shared his views on [Victor Wembanyama](https://www.basketballinsiders.com/nba/players/victor-wembanyama/). Like many first-pick selected rookies, they live with the pressure of sky-high expectations, and the French 19-year-old hasn’t been the exception. Despite Joel considering him “extremely talented,” he’s yet to be impressed by his role on the NBA courts. “I think, first of all, he has to figure out whether he wants to be a guard or a big or whatever. 𝐃𝐨 𝐲𝐨𝐮 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐊𝐃, 𝐨𝐫 𝐝𝐨 𝐲𝐨𝐮 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐦𝐞?” — Joel Embiid on Victor Wembanyama[via [https://t.co/AU8AbYMwcp]] [pic.twitter.com/HL3Yi2T3Ip] — BASKETBALL ON 𝕏 (@BasketballOnX) [December 28, 2023] “Not trying to be too critical. Obviously, extremely talented. Right now, there’s so much hype around him, I think he’s trying to live up to the hype,” he started out. “That’s what I see. And I watch a lot of games. I think, first of all, he has to figure out where he wants to play, whether he wants to be a guard or a big or whatever.” According to Embiid, who said he’s seen plenty of Wemby’s games, he doesn’t necessarily have to chose a single role, but he seems to be all over the place. “It’s not necessarily whether he wants to be a guard or a big; it’s what he wants to become. Do you want to become KD, or do you want to become me? Not KD, or like a version of those guys — you want to combine everything,” he said. “Right now, I just feel like everything kind of feels a little forced, in the way that he’s playing. Which is not bad. Because the only way to get better is to play through it and learn. That’s the only way. You make a lot of mistakes, and you learn,” the reigning MVP concluded. Wembanyama has already appeared in 26 of 29 of [San Antonio](https://www.basketballinsiders.com/nba/teams/san-antonio-spurs/)‘s matches this season, averaging 18.6 points, 10.6 rebounds, 3.0 blocks, and 2.8 assists per contest. Giannis Antetokounmpo also dedicated some advice for the rookie sensation, mostly referring to the importance of health Another NBA superstar decided to offer some advice for Wembanyama, who has impressed so far this season but isn’t leading the race for Rookie of the Year. [Giannis Antetokounmpo](https://www.basketballinsiders.com/nba/players/giannis-antetokounmpo/) believes the youngster should emphasize on his mental and physical state. “Take care of his body. Very important. Being healthy. Because there’s a lot of games, a lot of practices, a lot of shootarounds,” said the [Bucks](https://www.basketballinsiders.com/nba/teams/milwaukee-bucks/) forward.”There’s going to be a lot of wear and tear. Take care of your body. Take care of your mental. Keep working on your game.” In the video above, check out some of Victor’s most impressive plays during his first two months playing for the Spurs in the NBA. The Greek star added more counsel: “And if you do all of those things, and you’re disciplined, things will go well. If you have a lot of talent, things will go well. Just (sought) out knowledge anywhere I can. Anywhere I can figure out things that can improve me as a person, as a basketball player.” - [Pistons vs. Celtics Odds, Picks, & Predictions (Dec. 28)](https://www.basketballinsiders.com/news/pistons-vs-celtics-odds-picks-predictions-dec-28/) - [MVP Joel Embiid isn’t too impressed with Victor Wembanyama: ‘Everything feels a little forced’](https://www.basketballinsiders.com/news/mvp-joel-embiid-isnt-too-impressed-with-victor-wembanyama-everything-feels-a-little-forced/) - [Pelicans, Smoothie King renew arena naming rights contract](https://www.basketballinsiders.com/news/pelicans-smoothie-king-renew-arena-naming-rights-contract/) - [NBA Lost Christmas Day Ratings Battle Against NFL For 4th Straight Year](https://www.basketballinsiders.com/news/nba-lost-christmas-day-ratings-battle-against-nfl-for-4th-straight-year/) - [Warriors forward Jonathan Kuminga disagrees with the amount of minutes he’s received this season](https://www.basketballinsiders.com/news/warriors-forward-jonathan-kuminga-disagrees-with-the-amount-of-minutes-hes-received-this-season/) 1 day ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.t.co/AU8AbYMwcp",
+      "https://t.co/AU8AbYMwcp"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joel embiid",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "victor wembanyama",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "nikola jokic",
+          "sentiment": "none"
+        },
+        {
+          "name": "joel",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nba",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "nuggets",
+          "sentiment": "none"
+        },
+        {
+          "name": "athletic",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "philadelphia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:05:30.214+02:00",
+    "updated": "2023-12-29T00:05:30.214+02:00"
+  },
+  {
+    "uuid": "27c6edb2f7e96f26aae4c2faa688f22b089a5b91",
+    "url": "https://www.cbsnews.com/losangeles/video/vp-kamala-harris-highlights-womens-la-luncheon-community-insider",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CBS Los Angeles",
+    "published": "2024-04-18T00:00:00Z",
+    "title": "VP Kamala Harris highlights women's LA luncheon | Community Insider - CBS Los Angeles",
+    "text": "Latest U.S. World Politics Entertainment HealthWatch MoneyWatch Crime Sports Local News Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Live CBS News Streaming Baltimore Bay Area Boston Chicago Colorado Detroit Los Angeles Miami Minnesota New York Philadelphia Pittsburgh Sacramento Texas Shows 48 Hours 60 Minutes America Decides CBS Evening News CBS Mornings CBS News Eye on America CBS News Mornings CBS Reports CBS Saturday Morning The Dish Face the Nation Here Comes the Sun Person to Person Prime Time Sunday Morning The Takeout The Uplift Weekender Photos Podcasts In Depth Newsletters Download Our App CBS News Team Executive Team Paramount Shop Paramount+ Join Our Talent Community RSS Feeds A Moment With... Innovators & Disruptors Los Angeles News All News LA News OC News IE News U.S. CBS2 Investigations Entertainment Politics Consumer Business Health On Your Side CBS+ Weather Latest Weather Radars & Maps Sports All Sports Chargers LA Kings Rams Lakers Clippers Golf CBS Sports HQ Dodgers Angels Soccer Hockey College Sports Videos KCAL News Shows The Morning Wrap The Lot STEAM On Your Side: Veterans' Voices Inside SoCal Java with Jamie Investigation Class Act SoCal Spotlight People Making a Difference Station Info KCAL News Team Contests & Promotions Advertise Seen on TV News Tip Download the App Galleries Watch CBS News VP Kamala Harris highlights women's LA luncheon | Community Insider Los Angeles Sentinel's latest community news: Vice President Kamala Harris at an LA women’s luncheon, Compton’s former mayor, Aja Brown and her new projects, and a Black female-owned mobile cocktail business. View CBS News In CBS News App Open Chrome Safari Continue Be the first to know Get browser notifications for breaking news, live events, and exclusive reporting. Not Now Turn On",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "baltimore ba",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kamala harris",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cbs",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cbs news mornings cbs reports cbs",
+          "sentiment": "none"
+        },
+        {
+          "name": "cbs news team executive team paramount shop paramount",
+          "sentiment": "none"
+        },
+        {
+          "name": "innovators & disruptors los angeles news all news la news oc news ie news",
+          "sentiment": "none"
+        },
+        {
+          "name": "sports chargers la kings rams lakers clippers golf cbs sports hq dodgers",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "la",
+          "sentiment": "none"
+        },
+        {
+          "name": "los angeles latest u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "america",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-19T01:29:33.323+03:00",
+    "updated": "2024-04-19T02:14:19.035+03:00"
+  }
+]

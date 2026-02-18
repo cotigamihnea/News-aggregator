@@ -1,0 +1,555 @@
+[
+  {
+    "uuid": "71589d08597f410fa3a8a1122d7cda7399fcb646",
+    "url": "https://www.mediaite.com/news/a-lot-to-unpack-cnn-fact-checks-trumps-many-false-claims-made-during-mar-a-lago-presser",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Phillip Nieto",
+    "published": "2024-08-08T16:53:00Z",
+    "title": "CNN Fact Checks Trump's False Claims Made At Mar-A-Lago",
+    "text": "CNN reporter Tom Foreman fact-checked many of the claims made by former President Donald Trump regarding the economy and immigration.\nTrump spoke to reporters at a press conference on Thursday at Mar-a-Lago , where the Republican nominee slammed Kamala Harris’s intelligence, and popularity. Trump also claimed the U.S. economy was headed toward a depression.\nThe former president also claimed that Biden was forced out of the presidency by his fellow Democrats.\nForeman joined a CNN panel following the event to ‘unpack’ many of the false claims made by Trump.\nThere is a lot to unpack in terms of falsehoods. Let’s start with the economy, a big thing for many issues out there. He said we could literally be in the throes of a depression, not a recession. He said close to 1920s depression, 1920s the depression was 25% unemployment. We’re at 4.3% now. Not even close, not even the same ballgame. He also mentioned, weirdly enough, people can’t buy bacon. I checked on bacon sales. They seem to be doing just fine. On the border, as Brianna noted earlier, he grossly overinflated the number of people coming over the border there. He also repeated a claim that he’s made many times before that he really must like, even as the numbers fall here, saying this notion that people are coming out of mental institutions and prisons, as he said, all over the world, are emptying into the United States, he said this many times, never offered any proof about Kamala Harris.\nHe says she’s the most unpopular, worst vice president in history. Couldn’t pass her bar exam. Scholars surveyed by the L.A. Times , ranked VP’s from 1933 on. They put Harris at 11 out of 18. Not great. Certainly not the worst. And she did pass her bar exam, even though she had to do it more than once. He said President Biden had the presidency taken away from him. Not true. That is false. President Biden agreed to leave the presidency. He wasn’t happy about it. Nobody would be. But he agreed to leave. And he backs Harris and her campaign.\nHe said everybody wanted Roe v Wade overturned. The country overwhelmingly wanted this and returned to the States. Not true. Even now, more than two years afterward, a Pew study said that 63% of people still think abortion nationwide should largely be legal, not left up to the states. And one more thing. He talked for quite some time there about how he protected Hillary Clinton and always wanted to keep her safe, but at least more than a half dozen times in recent years, he has said publicly she should go to jail and a whole lot of other Democrats as well.\nWatch the clip above via CNN .\nHave a tip we should know? tips@mediaite.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://content.jwplatform.com/videos/hjLzTlKK.mp4",
+      "https://www.cnn.com/",
+      "https://www.cnn.com",
+      "https://www.content.jwplatform.com/videos/hjLzTlKK.mp4",
+      "https://cnn.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "donald trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "tom foreman",
+          "sentiment": "negative"
+        },
+        {
+          "name": "brianna",
+          "sentiment": "none"
+        },
+        {
+          "name": "biden",
+          "sentiment": "none"
+        },
+        {
+          "name": "foreman",
+          "sentiment": "none"
+        },
+        {
+          "name": "kamala harris",
+          "sentiment": "none"
+        },
+        {
+          "name": "trump",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "mar-a-lago cnn",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cnn fact checks trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cnn",
+          "sentiment": "none"
+        },
+        {
+          "name": "republican",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "mar-a-lago",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:08:58.226+03:00",
+    "updated": "2024-08-09T00:08:58.226+03:00"
+  },
+  {
+    "uuid": "c55a9cfdd4247c4dcea0e9737f37cc2d49cfb97c",
+    "url": "https://www.upr.org/utah-news/2024-10-03/this-ai-tool-could-help-cities-improve-accessibility-at-intersections",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Duck Thurgood",
+    "published": "2024-10-03T17:51:00Z",
+    "title": "This AI tool could help cities improve accessibility at intersections | Utah Public Radio",
+    "text": "This AI tool could help cities improve accessibility at intersections Researchers at Utah State University are developing an AI tool to identify accessibility issues at intersections, which could make it easier for cities to find and fix those issues. There are many features intersections use for convenience and accessibility — walk signs with visual and verbal cues, curb ramps with textured bumps, and clearly marked crosswalks, to name a few. Sometimes, however, these features may be insufficient, broken, or completely absent, making it harder for especially those with disabilities to get around. “In some cities, they have a barrier in the middle of the road that a person in a wheelchair can’t get over,” said Mary Ellen Heiner, the senior coordinator of projects at USU’s [Institute for Disability, Research, Policy & Practice](https://idrpp.usu.edu/) (IDRPP). “Or even a person who’s blind, they come to that island and they can’t get on ... they don’t know where a ramp is on it, if there is one.” What causes lack of accessibility This lack of accessibility features is caused by a number of factors. Not all engineers or city planners are trained in accessibility, and even when they do know what standards to reach for, making things accessible can be more time-consuming and expensive. “A lot of times, I think we’re always trying to save money at the expense of accessibility,” said Matthew Wappett, executive director at IDRPP. A lot of infrastructure in the U.S. was also built before accessibility standards were set with the Americans with Disabilities Act (ADA) in 1990. “So we have this aging infrastructure that’s just not up to date with current standards,” Wappett said. Heiner also noted that even when things are compliant with the ADA, they may not be truly accessible because of how much the world has changed in the last 34 years. “They don’t take into consideration that buildings change, that mobility equipment has changed, that IT equipment has changed,” Heiner said. “Buildings say that they’re accessible because they follow the ADA, but they’re not given current technology that we have.” How this project helps To help with that problem, Chamberlain and his team have been [developing an AI tool](https://www.usu.edu/today/story/usu-researchers-develop-ai-tool-to-identify-accessibility-issues-at-intersections/?nl=981) for the past nearly two years that can recognize accessibility issues at intersections. Researchers train the AI by giving it thousands and thousands of images they’ve labeled with important objects, like stop signs or sidewalks. The more images they give, the more the machine can correctly identify those objects — and when they’re absent or out of place. “So far, based on their evaluation, we think our system is able to detect roughly like 87% accuracy,” said Xiaojun Qi, another investigator on the project and a professor with USU’s Department of Computer Science. The researchers have to manually label every image and then double-check the accuracy of all the data, as some mistakes can carry on into future prediction results, which takes a lot of time — they've been doing this training since early 2023. However, that front-ended work makes analyzing the accessibility of intersections much faster. Joel Pierson, a computer science undergraduate at USU who’s working on this project, explained that they can run the AI model on every intersection of Logan in less than three minutes. The report that generates is color-coded based on how accessible different intersections are, which Qi says pedestrians, especially those with disabilities, could use to find the best route for getting around town. Working with cities on accessibility The tool isn’t only useful for individuals, however. Brent Chamberlain, the project’s principal investigator, said they can use it to help cities fill in gaps of data on accessibility. “Most communities don’t really have good data on the different components of mobility infrastructure,” said Brent Chamberlain, principal investigator with the project and an associate professor at Utah State University. “We really need to know where these issues are so that we can plan ahead to fix them.” That may be all they do with some cities, but Chamberlain hopes that they can build longer-term partnerships that get into transitional planning as well. “This is like, how do we do from where we’re at now to being ADA compliant,” Chamberlain said. “And ideally, it’s not just about compliance ... it’s about inclusivity for broader populations.” ‘Broader populations’ isn’t just those with disabilities, either — a wide variety of pedestrians benefit from accessibility features, such as older people, parents with strollers, those on bikes or scooters, or even just people who walk slower. “A lot of times, these accessibility accommodations benefit a much broader swath of the population than people consider,” Wappett said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.usu.edu/today/story/usu-researchers-develop-ai-tool-to-identify-accessibility-issues-at-intersections/?nl=981)",
+      "https://idrpp.usu.edu/)",
+      "https://www.usu.edu/today/story/usu-researchers-develop-ai-tool-to-identify-accessibility-issues-at-intersections/",
+      "https://www.idrpp.usu.edu/)",
+      "https://usu.edu/today/story/usu-researchers-develop-ai-tool-to-identify-accessibility-issues-at-intersections/?nl=981)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T01:42:35.028+03:00",
+    "updated": "2024-10-04T01:42:35.028+03:00"
+  },
+  {
+    "uuid": "0c4320bfe8779f058d1947b645f2f6bbdde23bda",
+    "url": "https://www.nbcchicago.com/weather/how-cold-is-it-really-in-chicago-how-to-calculate-wind-chill-and-what-it-means/3623018",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@nbcchicago",
+    "published": "2024-12-12T15:48:00Z",
+    "title": "How cold is it really in Chicago How to calculate wind chill and what it means – NBC Chicago",
+    "text": "Thursday started off brutally cold in Chicago, with wind chills dipping below zero, but what exactly does that mean and how is it calculated? A wind chill is the \"measure of how cold the air feels on your skin,\" NBC 5 Storm Team Meteorologist Kevin Jeanes said. \"How cold it is, plus how strong the winds are,\" Jeanes said. So how do you determine just how cold it feels? The equation isn't quite as simple. How to calculate wind chills According to the National Weather Service , \"wind chill is based on the rate of heat loss from exposed skin caused by wind and cold.\" \"As the wind increases, it draws heat from the body, driving down skin temperature and eventually the internal body temperature. Therefore, the wind makes it FEEL much colder,\" the NWS reports. \"If the temperature is 0°F and the wind is blowing at 15 mph, the wind chill is -19°F. At this wind chill temperature, exposed skin can freeze in 30 minutes.\" Local The formula used to calculate wind chill is: 35.74 + 0.6215T – 35.75 (V^0.16) + 0.4275T(V^0.16) = Wind chill Feeling out of the loop? We'll catch you up on the Chicago news you need to know. Sign up for the weekly[> Chicago Catch-Up newsletter]. In this equation, the “T” variable represents the air temperature, while the “V” variable represents the wind speed. The formula also accounts for heat transfer theory and skin tissue resistance, according to the NWS. For example, an air temperature of 10 degrees, and a wind speed of 25 miles per hour will create a wind chill of approximately minus-11 degrees Fahrenheit. \"Our bodies naturally give off heat,\" Jeanes explained. \"The air just around our body warms up, but when when the wind picks up, that removes the heat. So our body heat that it naturally gives off isn't warming us anymore. It isn't keeping us insulated.\" According to officials, the formula takes into account a measurement of the wind speed as measured at the average height of a human face, which is five feet. It also takes into account that a typical anemometer, a device used to measure wind speed, is placed 33 feet in the air. In order for wind chill to be calculated, the air temperature must be at or below 40 degrees Fahrenheit, the NWS said. Finally, the formula assumes that measurements are taken at night, with no sunlight influencing the “feels-like” temperature.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.weather.gov/safety/cold-wind-chill-chart",
+      "https://weather.gov/safety/cold-wind-chill-chart"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Kevin Jeanes",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NWS",
+          "sentiment": "none"
+        },
+        {
+          "name": "NBC",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T19:41:44.062+02:00",
+    "updated": "2024-12-13T19:41:44.062+02:00"
+  },
+  {
+    "uuid": "f365b5e23375bf8557ffc723a124d65739297990",
+    "url": "https://vanguardia.com.mx/coahuila/monclova/reporta-proteccion-civil-saldo-blanco-en-monclova-por-fiestas-navidenas-dice-alcalde-II14496817",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "lidiet mexicano",
+    "published": "2024-12-26T22:13:00Z",
+    "title": "Reporta Protección Civil saldo blanco en Monclova por fiestas navideñas, dice Alcalde",
+    "text": "Reporta Protección Civil saldo blanco en Monclova por fiestas navideñas, dice Alcalde\nMONCLOVA, COAH.- Un saldo blanco es lo que resultó de los festejos navideños en\nMonclova, confirmó el alcalde Mario Dávila Delgado.\nLuego de las celebraciones por la Nochebuena y Navidad, las autoridades municipales no registraron problemáticas graves en la localidad, solamente accidentes menores que no generaron situaciones fatales y pudieron ser controlados y atendidos.\nTE PUEDE INTERESAR:\nSe nota dinamismo en crecimiento de comercio exterior por aduana de Piedras Negras\n“Hasta el momento tenemos un saldo blanco, ha habido situaciones de accidentes, situaciones en los retenes, el tema de los cohetes, pero fuera de eso Protección Civil nos ha reportado solo algunos incendios”, expuso el edil.\nReiteró que desde el inicio de mes de diciembre no se han tenido situaciones fatales hasta el momento y se espera que el año se cierre de esa manera.\nAdvirtió que los filtros antialcohol continuarán instalándose en diversos puntos de la ciudad, para evitar que las personas conduzcan en estado de ebriedad y provoquen accidentes viales.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Politics->civil rights",
+      "Politics->local government and authority",
+      "Social Issue->social services",
+      "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Mario Dávila Delgado",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:17:36.142+02:00",
+    "updated": "2024-12-27T00:17:36.142+02:00"
+  },
+  {
+    "uuid": "53fd44d844073234b1889d587f3d03bb8a5f8dab",
+    "url": "https://es-us.finanzas.yahoo.com/noticias/gobierno-m%C3%A9xico-indemniza-trabajadores-agencia-013947071.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "LevelUp",
+    "published": "2023-12-30T01:39:00Z",
+    "title": "Gobierno de México indemniza a trabajadores de agencia de noticias Notimex y acaba huelga",
+    "text": "EFE Latam Gobierno de México indemniza a trabajadores de agencia de noticias Notimex y acaba huelga Leer todo el artículo Agencia EFE 30 de diciembre de 2023, 3:39 a. m. · 3 min de lectura\nCiudad de México, 29 dic (EFE).- Los trabajadores de la extinta agencia estatal mexicana de noticias Notimex concluyeron este viernes la huelga que mantenían desde febrero de 2020 luego de que el Gobierno cumpliera con el pago de indemnizaciones a los trabajadores del Sindicato Único de Trabajadores de la agencia.\nEn un comunicado, la Secretaría de Trabajo y Previsión Social (STPS) informó que hoy hizo el pago de las indemnizaciones “en cumplimiento al Convenio de Terminación de las Relaciones Colectivas de Trabajo acordado entre el Gobierno de México y la organización gremial”.\nSeñaló que en cumplimiento a las instrucciones del presidente Andrés Manuel López Obrador se realizó el pago correspondiente “con pleno respeto a los derechos laborales de la organización sindical, de acuerdo con la Ley Federal del Trabajo”.\nEsto, abundó, deriva de la mesa de trabajo que se sostuvo estos días en las instalaciones de la Junta Federal con representantes de las secretarías de Gobernación, del Trabajo, del INDEP, de Notimex y el Sutnotimex (Sindicato Único de Trabajadores de Notimex), donde se aprobó y suscribió la versión final del Convenio.\n“Llegó el momento menos esperado para quienes trabajamos en la agencia de noticias del Estado mexicano que es el cierre definitivo”, señaló en un breve mensaje a medios la secretaria general del Sutnotimex, Adriana Urrea.\nAclaró que no fueron los trabajadores quienes decidieron cerrar la agencia, sino que fue la “mala gestión” la que decidió no mantener este medio de comunicación pues se argumentó que podría sustituirse con uno nuevo y que existía corrupción y falta de profesionalismo en los trabajadores.\n“Hoy se baja el telón, se baja la cortina, se apagan las computadoras y se tapan los lentes de las cámaras de Notimex, ya no se escuchará más en los medios, en las salas de prensa, en las noticias información de Notimex”, dijo entre lágrimas Urrea.\nIndicó que con ello se cierra un capítulo en la historia del periodismo de México y el mundo y se termina con la fuente laboral de más de un centenar de trabajadores “que lucharon, que dieron su vida por su fuente de empleo y que hoy fueron liquidados luego de 1.408 días de huelga”.\nContinuar leyendo la historia En octubre pasado, el Gobierno de México, a través de la secretarías de Gobernación (Interior) y del Trabajo y Previsión Social (STPS), firmaron un acuerdo con el Sutnotimex en el que acordaron la decisión de desaparecer la agencia que con motivo de los Juegos Olímpicos en México 1968.\nEl conflicto laboral en la agencia estatal mexicana de noticias comenzó en febrero de 2020 por el posible despido injustificado de al menos 200 colaboradores al interior de Notimex, principalmente mujeres, lo cual fue reprochado y defendido por el SutNotimex, sindicato que fue sustituido por la empresa a la llegada de su nueva directora, Sanjuana Martínez.\nEn distintas ocasiones, el presidente López Obrador defendió el cierre de la agencia de noticias del Estado mexicano, Notimex, tras más de tres años del conflicto laboral que se inició durante su Gobierno.\n\"Se está buscando un acuerdo porque nosotros no necesitamos una agencia de noticias en el Gobierno, eso era de la época de los boletines y de la prensa oficial y oficiosa, ya no hay eso\", manifestó varias veces desde el inicio del conflicto el mandatario.\n(c) Agencia EFE\nMÁS POPULARES 1. “El dinero es sucio y peligroso”: La tendencia de los cajeros automáticos inversos 2. Estos son los fraudes más comunes relacionados con el Infonavit 3. ¿Por qué está cayendo tanto el dólar en Colombia al cierre de 2023? 4. Dólar en Colombia abre al alza, pero se mantiene en mínimos de un año y medio 5. Musk lidera el aumento del patrimonio de los más ricos del mundo en 2023",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Labor"
+    ],
+    "external_links": [
+      "https://www.facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fes-us.finanzas.yahoo.com%2Fnoticias%2Fgobierno-m%25C3%25A9xico-indemniza-trabajadores-agencia-013947071.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://s.yimg.com/ny/api/res/1.2/7Zi2sG.aFewaUN8ajy7MAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/es/efe.es/2ce96bf090419d34e356f7651599ae46",
+      "https://s.yimg.com/ny/api/res/1.2/fqzdfrcfeoGUoM2Bod0G5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/es/efe.es/2ce96bf090419d34e356f7651599ae46",
+      "https://twitter.com/intent/tweet?text=Gobierno%20de%20M%C3%A9xico%20indemniza%20a%20trabajadores%20de%20agencia%20de%20noticias%20Notimex%20y%20acaba%20huelga&url=https%3A%2F%2Fes-us.finanzas.yahoo.com%2Fnoticias%2Fgobierno-m%25C3%25A9xico-indemniza-trabajadores-agencia-013947071.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dtw%26tsrc%3Dtwtr&via=Yahoo",
+      "https://www.efe.com/efe/usa/5",
+      "https://s.yimg.com/ny/api/res/1.2/_wjP_LhaJWwX609lbClajg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTQwO2g9NDg-/https://s.yimg.com/os/creatr-uploaded-images/2020-12/2ae63650-3578-11eb-b7bf-dd5381c63b89",
+      "https://s.yimg.com/os/creatr-uploaded-images/2020-12/2ae63650-3578-11eb-b7bf-dd5381c63b89",
+      "https://www.facebook.com/dialog/feed",
+      "https://www.s.yimg.com/os/creatr-uploaded-images/2020-12/2ae63650-3578-11eb-b7bf-dd5381c63b89",
+      "https://www.s.yimg.com/ny/api/res/1.2/fqzdfrcfeoGUoM2Bod0G5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://www.media.zenfs.com/es/efe.es/2ce96bf090419d34e356f7651599ae46",
+      "https://www.twitter.com/intent/tweet?text=Gobierno%20de%20M%C3%A9xico%20indemniza%20a%20trabajadores%20de%20agencia%20de%20noticias%20Notimex%20y%20acaba%20huelga&url=https%3A%2F%2Fes-us.finanzas.yahoo.com%2Fnoticias%2Fgobierno-m%25C3%25A9xico-indemniza-trabajadores-agencia-013947071.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dtw%26tsrc%3Dtwtr&via=Yahoo",
+      "https://www.s.yimg.com/ny/api/res/1.2/7Zi2sG.aFewaUN8ajy7MAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://www.media.zenfs.com/es/efe.es/2ce96bf090419d34e356f7651599ae46",
+      "https://www.s.yimg.com/ny/api/res/1.2/_wjP_LhaJWwX609lbClajg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTQwO2g9NDg-/https://www.s.yimg.com/os/creatr-uploaded-images/2020-12/2ae63650-3578-11eb-b7bf-dd5381c63b89",
+      "https://efe.com/efe/usa/5",
+      "https://facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fes-us.finanzas.yahoo.com%2Fnoticias%2Fgobierno-m%25C3%25A9xico-indemniza-trabajadores-agencia-013947071.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-30T03:51:03.304+02:00",
+    "updated": "2023-12-30T03:51:03.304+02:00"
+  },
+  {
+    "uuid": "21bdc5c2c55e1bfc87879b38c509c029a1f27664",
+    "url": "https://www.pulzo.com/deportes/millonarios-hoy-incertidumbre-con-decision-jugar-ante-alianza-valledupar-PP3821202A",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Pulzo",
+    "published": "2024-07-26T02:15:00Z",
+    "title": "Millonarios hoy: incertidumbre con decisión de jugar ante Alianza, en Valledupar",
+    "text": "Noticias sobre Valledupar, el Cesar y el vallenato: artículos, videos, fotos y el más completo archivo de noticias de Colombia y el mundo en El Pilón. [Visitar sitio](https://www.elpilon.com.co) El delantero colombiano [Radamel Falcao García](https://www.pulzo.com/noticias/radamel-falcao-garcia) habló ante los medios de comunicación luego de la derrota de Millonarios en calidad de local 2-1 contra el Atlético Nacional, partido adelantado por la fecha seis de la Liga BetPlay. El atacante reconoció que pese a la derrota [Millonarios](https://www.pulzo.com/noticias/millonarios-fc) jugó un buen partido y que la expulsión del guardameta Iván Arboleda condicionó la estrategia que el equipo tenía planteada para jugarle a los verdolagas. (Vea también: [Falcao se cansó y respondió a quienes lo critican por falta de gol: “Esto apenas comienza”](https://www.pulzo.com/deportes/radamel-falcao-respondio-criticas-millonarios-dejo-advertencia-que-dijo-PP3819733)) Igualmente, el ‘Tigre’ entregó su concepto con relación al próximo compromiso de los ‘Embajadores’, que será el domingo ante Alianza FC en Valledupar. “Para el partido contra Alianza FC se pueden rescatar muchas de las cosas buenas que se hicieron en el partido contra Nacional, obviamente esperamos que la situación sea diferente, que podamos estar con once jugadores para que no pase lo del partido de hoy”, dijo Falcao. [Falcao se cansó y respondió a quienes lo critican por falta de gol: \"Esto apenas comienza\"](/deportes/radamel-falcao-respondio-criticas-millonarios-dejo-advertencia-que-dijo-PP3819733) [\"¿De qué sirve? Hay que meterla\": hincha de Millonarios, impaciente, explotó contra Falcao](/deportes/hincha-millonarios-critico-reclamo-radamel-falcao-por-no-meter-goles-PP3819444) [¿Falcao García les soltó la mano a hinchas de Millonarios? Perder con Nacional fue duro](/deportes/nacional-le-gano-millonarios-falcao-garcia-dijo-que-no-fue-culpa-arbitro-PP3818797A) [Falcao, con sinsabor por derrota de Millonarios: \"Con uno menos generamos más peligro\"](/deportes/falcao-hablo-derrota-millonarios-vs-nacional-quedo-disgustado-PP3818710A) Millonarios hoy: Gamero dio aviso sobre Falcao en Valledupar La expectativa crece al tiempo que hay incertidumbre, pues aunque el atacante samario quiere jugar, días atrás el entrenador [Alberto Gamero](https://www.pulzo.com/noticias/alberto-gamero) dio a entender en rueda de prensa que no podría estar en todos los partidos, aunque los fanáticos del equipo albiazul que viven en la capital del Cesar esperan ver a su ídolo. La entrada [Falcao se pronunció con respecto al juego de Alianza FC contra Millonarios en Valledupar](https://elpilon.com.co/falcao-se-pronuncio-con-respecto-al-juego-de-alianza-fc-contra-millonarios-en-valledupar/) se publicó primero en [El Pilón | Noticias de Valledupar, El Vallenato y el Caribe Colombiano](https://elpilon.com.co). LO ÚLTIMO [Deportes] Hace 2 horas [🔴 Juegos Olímpicos EN VIVO: Colombia busca hacer historia en tiro con arco por equipos](/deportes/juegos-olimpicos-vivo-colombia-enfrenta-prueba-tiro-con-arco-por-equipos-PP3838922) [Deportes] Hace 9 horas [\"Una decepción\": taxistas en Paris, enojados por cierres viales y plata que han perdido](/deportes/juegos-olimpicos-taxistas-paris-enojados-por-cierres-viales-alla-PP3838469) [Deportes]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-26T05:31:31.485+03:00",
+    "updated": "2024-08-02T12:43:01.156+03:00"
+  },
+  {
+    "uuid": "7657083ce772d5ff4660ccd9c7c6ede47e90d317",
+    "url": "http://www.schwaebische-post.de/welt/politik/musk-saet-zweifel-an-jd-vance-trump-angeblich-in-paranoia-zr-93777997.html",
+    "ord_in_thread": 0,
+    "author": "Jan-Frederik Wendt",
+    "published": "2025-06-12T07:12:00Z",
+    "title": "Musk bedauert öffentlichen Streit mit Trump - Details zu Telefonat",
+    "text": "Musk bedauert öffentlichen Streit mit Trump – Milliardäre telefonierten offenbar schon Anfang der Woche\nElon Musk hat im Streit mit Donald Trump einen Rückzieher hingelegt. Die ehemaligen Freunde sollen ein klärendes Telefonat geführt haben.\nUpdate, 12. Juni, 08.44 Uhr: Elon Musk bedauerte in einem Beitrag auf seiner Social-Media-Plattform X seinen öffentlichen Streit mit US-Präsident Donald Trump. Musk schrieb am Mittwoch: „Ich bedauere einige meiner Beiträge über Präsident @realDonaldTrump letzte Woche. Sie gingen zu weit.“ Nun wurde bekannt, dass der Tech-Milliardär zuvor wohl bereits am Montag mit Trump telefoniert hatte, wie mehrere US-Medien übereinstimmend berichten. Außerdem soll Musk vor seinem Telefonat mit dem US-Präsidenten mit Stabschefin Susie Wiles und Vizepräsident JD Vance gesprochen haben.\nErstmeldung: Washington, D.C. – US-Präsident\nDonald Trump soll in Paranoia verfallen sein. Das hat der Bestseller-Biograf von Trump, Michael Wolff, im Podcast von The Daily Beast behauptet. Der Grund: Trump bewerte seinen Vizepräsidenten JD Vance als existenzielle Bedrohung, nachdem Tesla-Ceo Elon Musk Vance im Zuge eines öffentlichen Streits mit Trump als dessen Nachfolger gefordert hatte.\nWolffs Vermutung:\nMusks Forderung versetzte Trump in Angst und Schrecken. Er misstraue seinem Vize Vance nun noch mehr. Trump habe sich einst für Vance als Vizepräsidenten entschieden, weil Musk die Personalie zur Bedingung gemacht haben soll, dass er Trump mit seinen Millionen im Wahlkampf unterstützt.\nMusk säte Misstrauen gegen Vance: Trump werde Loyalität seines Vize testen\nDer Autor vermutet, dass Trump seinen Vizepräsidenten künftig stärker unter die Lupe nehmen wird. „Er wird eine Reihe von Tests aufstellen, die Vance aushalten und bestehen muss“, mutmaßte Wolff im Podcast. Vance müsse „sich zu seiner absoluten Loyalität gegenüber Trump bekennen, oder er wird innerhalb der Verwaltung an den Rand gedrängt werden.“\nWährend des Streits mit Musk hatte sich Vance jedenfalls hinter Trump gestellt. „Ich bin der Vizepräsident von Präsident Trump. Meine Loyalität wird immer dem Präsidenten gelten“, hatte er betont. Musks Angriff auf Trump bezeichnete er als „großen Fehler“.\nHegt Trump Misstrauen gegen Vance nach Streit mit Musk?\nIn einer Erklärung gegenüber The Daily Beast bezeichnete der Kommunikationsdirektor des Weißen Hauses, Steven Chung, Wolff als „einen Vollidioten, der aufgrund seiner eklatanten Lügen und Erfindungen weithin diskreditiert ist“. Chung sagte weiter über Wolff: „Er ist ein Schwachkopf höchsten Grades, und sein\nvom Trump-Derangement-Syndrom verwirrtes Gehirn hat ihn dazu gebracht, ein erbärmliches Leben ohne Realität zu führen.“\nLaut Chung will Wolff nur relevant bleiben und Aufmerksamkeit erhalten: „Nichts von dem, was er sagt, ist die Wahrheit, und er greift auf haarsträubende Unwahrheiten zurück, um relevant zu bleiben, denn Vater Zeit hat ihn schon vor 20 Jahren überholt.“ (Jan-Frederik Wendt)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "War, Conflict and Unrest"
+    ],
+    "topics": [
+      "Politics->political campaigns",
+      "Politics->political process",
+      "Politics->political candidates",
+      "Social Issue->discrimination",
+      "Social Issue->values",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.fr.de/politik/j-d-vance-per1525588/",
+      "https://www.24auto.de/marken-modelle/tesla-org27836/",
+      "https://www.merkur.de/welt/elon-musk-tesla-spacex-frau-kinder-sohn-vermoegen-karriere-unternehmen-milliardaer-suedafrika-13781649.html",
+      "https://www.fr.de/politik/donald-trump-per32650/",
+      "https://www.merkur.de/politik/musk-will-vance-als-praesident-trumps-vize-postet-scherz-93772450.html",
+      "https://www.24auto.de/marken-modelle/tesla-org27836",
+      "https://www.fr.de/politik/donald-trump-per32650",
+      "https://fr.de/politik/j-d-vance-per1525588/",
+      "https://merkur.de/politik/musk-will-vance-als-praesident-trumps-vize-postet-scherz-93772450.html",
+      "https://merkur.de/welt/elon-musk-tesla-spacex-frau-kinder-sohn-vermoegen-karriere-unternehmen-milliardaer-suedafrika-13781649.html",
+      "https://www.fr.de/politik/j-d-vance-per1525588",
+      "https://24auto.de/marken-modelle/tesla-org27836/",
+      "https://fr.de/politik/donald-trump-per32650/"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Donald Trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "Michael Wolff",
+          "sentiment": "none"
+        },
+        {
+          "name": "Susie Wiles",
+          "sentiment": "none"
+        },
+        {
+          "name": "Elon Musk",
+          "sentiment": "none"
+        },
+        {
+          "name": "JD Vance",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Washington",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "The Daily Beast",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:17:02.271+03:00",
+    "updated": "2025-06-12T07:23:37.000+00:00"
+  },
+  {
+    "uuid": "bd1b4f728f2146bf0f83528aa827e7d63087bff0",
+    "url": "http://business.dailytimesleader.com/dailytimesleader/article/abnewswire-2024-10-17-zhiyun-unveils-cq5-smartphone-stabilizer-with-ai-and-voice-control",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AB Newswire",
+    "published": "2024-10-17T00:00:00Z",
+    "title": "ZHIYUN Unveils CQ5 Smartphone Stabilizer with AI and Voice Control | User | dailytimesleader.com",
+    "text": "Compact and Powerful for Seamless Content Creation Shenzhen, China - October 17th, 2024 - ZHIYUN, the trailblazer in image stabilization equipment, has launched the CINEPEER CQ5 Stabilizer for content creators. The CQ5 lets anyone capture professional-quality footage, thanks to intelligent features like AI tracking and intuitive voice control, and ease-of-use features like the extendable rod. Now, smartphone users will unlock their creativity, and capture stunning content easily.\nHands-Free Operation with Voice Control\nJust say, “Hey Cami”, and voice commands give effortless control of the stabilizer. Users can focus on their content without worrying about physical adjustments: perfect for on-the-go shooting.\nAI Tracking: A Personal Camera Assistant\nThe AI Tracker recognizes hand gestures, allowing for touch-free control from a distance. After tapping the target on the screen, intelligent tracking follows the target and creates smooth, professional footage. Whether vlogging solo or capturing action shots, the tracker is a personal camera operator, ensuring effortless recording even when the user is far from the camera.\nWide-Angle Shots, with Extendable Rod\nThe CQ5’s built-in extendable rod effortlessly extends users’ reach to capture stunning wide-angle shots. From sweeping landscapes to group selfies, there are endless possibilities for dynamic compositions and creative angles, enhancing both photos and videos.\nMagnetic Fill Light for Quality Footage\nFill lights snap onto magnetic contact points on both ends of the phone clamp, free from cumbersome cables. These fill lights deliver bright, high-quality footage in low-light environments, enabling users to create studio-grade results on the go.\nCinematic Effects from ZY Cami App\nThe CQ5 is powered by the ZY Cami App, which offers ready-to-use shooting templates for content creators of all skill levels. With features like SmartFollow, Timelapse, and MagicClone mode, users create cinematic videos even without advanced technical knowledge.\nCompact, Foldable, Easy-to-use\nThe compact, foldable CQ5 that fits in a pocket. It’s the perfect go-anywhere, film-anything companion. Its sleek fold-and-go design and secure slide-lock mechanism, let users quickly pack up and carry the stabilizer anywhere.\nRock-Solid Stability: Anti-Shake Technology\nThe CQ5’s advanced anti-shake technology ensures unmatched stability for smooth footage, even in fast-paced action scenes. The quick mount design lets users set up and start shooting in seconds, regardless of their smartphone’s size.\nAll-Day Battery Life for Continuous Shooting\nWith up to 11 hours of battery life, the CQ5 supports all-day shooting and can charge while in use, ensuring that content creators never miss a moment. Whether capturing the sunrise or filming late into the night, the CQ5 meets creative users’ demands.\nLearn more\nRecommended pricing (MSRP)\nCINEPEER CQ5 Standard $99\nCINEPEER CQ5 COMBO (with Magnetic Light and AI Tracker) $139\nA 20% discount will be provided for purchases, with an extra 15% discount available by entering the discount code 'ZHIYUNCQ5'.\nWhere to buy\nAvailable online from the ZHIYUN store and ZHIYUN Amazon store.\nZHIYUN Store: https://geni.us/CINEPEERCQ5\nAmazon: https://geni.us/AMZ-CQ5-FLL\nAbout ZHIYUN\nZHIYUN Tech is a pioneer and a world-leader in gimbals and stabilizers for everyone from professional filmmakers to amateur video creators. ZHIYUN believes in “MAKE IT REAL”: a commitment to arduous research and development to create breakthroughs in technological and industrial innovations. ZHIYUN’s standout products and features deliver everyday convenience, better experiences, and unlock new opportunities to make the imagination a reality.\nLearn more about ZHIYUN Tech at www.ZHIYUN-tech.com or check them out on Facebook: @ZHIYUNGlobal or follow them on Instagram: @ZHIYUN_Tech\nMedia Contact\nCompany Name: Guilin Zhishen Information Technology Co., Ltd.\nContact Person: Mei Chang\nEmail: Send Email\nPhone: +86 400 900 6868\nCity: Shenzhen\nCountry: China\nWebsite: https://www.zhiyun-tech.com/en\nData & News supplied by www.cloudquote.io\nStock quotes supplied by Barchart\nQuotes delayed at least 20 minutes.\nBy accessing this page, you agree to the following\nPrivacy Policy and Terms and Conditions .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.zhiyun-tech.com/",
+      "https://www.zhiyun-tech.com/en",
+      "https://tracking.newsrpm.com/pixel?slug=abnewswire-2024-10-17-zhiyun-unveils-cq5-smartphone-stabilizer-with-ai-and-voice-control",
+      "https://www.abnewswire.com/companyname/zhiyun-tech.com_124865.html",
+      "https://www.cloudquote.io",
+      "https://www.instagram.com/zhiyun_tech/",
+      "https://www.abnewswire.com/email_contact_us.php?pr=zhiyun-unveils-cq5-smartphone-stabilizer-with-ai-and-voice-control",
+      "https://www.googletagmanager.com/gtag/js?id=UA-8590502-3",
+      "https://www.facebook.com/ZhiyunGlobal/",
+      "https://geni.us/AMZ-CQ5-FLL",
+      "https://www.abnewswire.com/press_stat.php?pr=zhiyun-unveils-cq5-smartphone-stabilizer-with-ai-and-voice-control",
+      "https://www.cloudquote.io/article/5",
+      "https://www.cloudquote.io/article/6",
+      "https://geni.us/CINEPEERCQ5",
+      "https://www.abnewswire.com/email_contact_us.php",
+      "http://zhiyun-tech.com/",
+      "https://facebook.com/ZhiyunGlobal/",
+      "https://cloudquote.io/article/6",
+      "http://www.zhiyun-tech.com",
+      "https://www.googletagmanager.com/gtag/js",
+      "https://instagram.com/zhiyun_tech/",
+      "https://www.instagram.com/zhiyun_tech",
+      "https://tracking.newsrpm.com/pixel",
+      "https://abnewswire.com/companyname/zhiyun-tech.com_124865.html",
+      "https://googletagmanager.com/gtag/js?id=UA-8590502-3",
+      "https://www.facebook.com/ZhiyunGlobal",
+      "https://www.tracking.newsrpm.com/pixel?slug=abnewswire-2024-10-17-zhiyun-unveils-cq5-smartphone-stabilizer-with-ai-and-voice-control",
+      "https://cloudquote.io",
+      "https://zhiyun-tech.com/en",
+      "https://cloudquote.io/article/5",
+      "https://www.geni.us/AMZ-CQ5-FLL",
+      "https://abnewswire.com/email_contact_us.php?pr=zhiyun-unveils-cq5-smartphone-stabilizer-with-ai-and-voice-control",
+      "https://abnewswire.com/press_stat.php?pr=zhiyun-unveils-cq5-smartphone-stabilizer-with-ai-and-voice-control",
+      "https://www.abnewswire.com/press_stat.php",
+      "https://www.geni.us/CINEPEERCQ5"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "bd1b4f728f2146bf0f83528aa827e7d63087bff0",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-10-18T00:09:08.035+03:00",
+    "updated": "2024-10-18T00:09:08.035+03:00"
+  },
+  {
+    "uuid": "96c08d08da2b96b1c40b93049a56380a40213806",
+    "url": "https://www.thepoultrysite.com/news/2024/07/opening-of-mexican-market-for-day-old-chicks-boosts-brazilian-segment-abpa",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Melanie Epp",
+    "published": "2024-07-05T03:00:00Z",
+    "title": "Opening of Mexican market for day-old chicks boosts Brazilian segment - ABPA",
+    "text": "Opening of Mexican market for day-old chicks boosts Brazilian segment - ABPAMexican flocks impacted by avian infleunza\nThe Brazilian Animal Protein Association (ABPA) celebrated the announcement made yesterday by the Ministry of Agriculture and Livestock about the opening of the 1-day-old chick segment from Brazil to Mexico,\naccording to a recent market report from ABPA.\nThe announcement occurred after the official acceptance, by the Mexican authorities, of the International Zoosanitary Certificate (CSI) for the import of this high-value-added segment of Brazilian poultry farming.\n“Mexican poultry farming has faced impacts on its flocks resulting from occurrences of avian influenza. In this sense, Brazil, which already supplies fertile eggs, now presents itself as a reliable partner for the supply of 1-day-old chicks,\" said Ricardo Santin, president of ABPA. \"It is worth highlighting that it is another important achievement for Minister Carlos Fávaro and his team for Brazil.\"\n“The expectation is that Mexico, which is already the largest importer of Brazilian fertile eggs, will also establish itself among the highlights in the 1-day-old chick segment,\" said Luís Rua, ABPA’s markets director. \"It’s another seal of approval for Brazil’s biosecurity.\"\nMore News\n[](/latest?section=news) [View all](/latest?section=news)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Economy, Business and Finance",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://abpa-br.org/mercados/abertura-do-mexico-para-pintos-de-01-dia-impulsiona-segmento-brasileiro/",
+      "https://abpa-br.org/mercados/abertura-do-mexico-para-pintos-de-01-dia-impulsiona-segmento-brasileiro",
+      "https://www.abpa-br.org/mercados/abertura-do-mexico-para-pintos-de-01-dia-impulsiona-segmento-brasileiro/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "carlos fávaro",
+          "sentiment": "none"
+        },
+        {
+          "name": "ricardo santin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "animal protein association",
+          "sentiment": "none"
+        },
+        {
+          "name": "ministry of agriculture and livestock",
+          "sentiment": "none"
+        },
+        {
+          "name": "abpa",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "brazil",
+          "sentiment": "none"
+        },
+        {
+          "name": "mexico",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T06:13:13.293+03:00",
+    "updated": "2024-07-05T06:13:13.293+03:00"
+  }
+]

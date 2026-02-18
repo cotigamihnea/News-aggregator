@@ -1,0 +1,413 @@
+[
+  {
+    "uuid": "dc9e1f1455be2094fbb22a3859ffd3e485277309",
+    "url": "https://www.rsi.ch/sport/hockey/Il-Bienne-ottiene-tre-punti-importanti-battendo-il-Losanna--2510470.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Notizie, Sport, eventi live",
+    "published": "2025-01-16T19:16:00Z",
+    "title": "Il Bienne ottiene tre punti importanti battendo il Losanna",
+    "text": "L’ultimo dei quattro scontri diretti della regular season tra Bienne e Losanna si è risolto con la quarta vittoria casalinga. I bernesi si sono imposti per 3-2 sui vodesi ribaltando il punteggio in superiorità numerica e poi difendendosi in 3 contro 5 per 1’29” nel finale. Per i romandi si tratta della seconda sconfitta consecutiva dopo quella di Friborgo. Un risultato che lascia gli uomini di Ward in vetta alla classifica mentre quelli di Filander, trascinati da Greco (2 gol e 1 assist), consolidano il loro posto in zona play-in.\nIl Bienne ottiene tre punti importanti battendo il Losanna\nI Seeländer guadagnano un posto, 2a sconfitta consecutiva per la capolista\nGreco, protagonista con 2 reti e un assist, festeggiato dai compagni\nBienne\n3 - 2\n0-0\n1-2\n2-0\nLosanna\nBienne\nLosanna\n35'\nGreco\n41'\nGreco(PP)\n51'\nHofer(PP)\n29'\nBozon\n31'\nJäger",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "topics": [
+      "Sport->ice hockey"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Greco",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ward",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Losanna\nBienne\nLosanna",
+          "sentiment": "none"
+        },
+        {
+          "name": "Friborgo",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:05:24.879+02:00",
+    "updated": "2025-01-17T00:05:24.879+02:00"
+  },
+  {
+    "uuid": "9354c556dc90f18645390abe5600d2fc28f6809e",
+    "url": "https://hackernoon.com/explore-how-data-lineage-maps-your-datas-journey-to-foster-data-driven-decisions",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kat Johnson",
+    "published": "2024-04-11T00:00:00Z",
+    "title": "Explore How Data Lineage Maps Your Data's Journey to Foster Data-Driven Decisions | HackerNoon",
+    "text": "As it is rightly said, data is the lifeblood of any organization in the digital landscape. Businesses depend heavily on data to make data-driven informed decisions. Have you ever wondered how businesses can ensure that data quality is up to mark and meets required standards? Ensuring the quality and accuracy of data is paramount. How convenient would it be if we could determine the source, pathway, and destination of data, that is having access to the complete history of the data? This is where the concept of Data Lineage comes in! Data lineage is a process of tracking the flow of data, offering a holistic and clear view of data flow from source to destination and what data changes had been there in between. Understanding Data Lineage Better To understand data lineage better, compare it with a map, which directs the users step by step on what direction to take to reach the destination. Similarly, data lineage is a GPS but for data. It facilitates various stakeholders to make better decisions by having the complete history of data. Why Does Data Lineage Matter? Let's Witness Why There Is a Need for Data Lineage- To improve data literacy and observability, Dependency of Various Stakeholders In order to perform tasks supremely well, data management and IT professionals must have to understand data patterns and the history of the data, as it serves as a foundation for further activities to carry on. Technical and operational metadata, impact and root-cause analysis along data chains, and impact analysis, all require a clear understanding of data lineage. Fulfilling Regulatory Compliance Requirement By offering a comprehensive view of data movement, storage, and transformation, data lineage helps organizations to check who has access to data, and what data changes have been made over time, overall offering a complete record of the data pathway. This proactive approach helps in identifying potential risks associated with data alterations. Moreover, during compliance auditing and documentation, following data lineage can offer insights to regulators to ensure adherence to regulatory compliances. To Boost Transparency by Enhancing Data Quality and Integrity To ensure that data is trustworthy, accurate, and aligned with business objectives, data lineage helps maintain data quality throughout its pipeline by offering a transparent view of the data. By tracking the flow of data, organizations can identify and address data-related quality issues. To Identify Debugs and Troubleshooting Errors It’s of utmost importance to identify debugs and errors at an early stage, to ensure that decisions are made of accurate and reliable data. Data lineage can identify inconsistencies, troubleshooting errors, and anomalies in the data, to help developers track changes and go back to the previous version of data if an error occurs after the alteration in the data. To Better Manage Data-Related Risks Data lineage simplifies risk management by offering insights regarding how data is transformed across the organization. Understanding the lineage of critical data facilitates organizations to eliminate or better tackle data breaches, misuse, and data loss. Such practice enables the implementation of appropriate security measures to protect confidential data. Making Data Suitable for Business Intelligence and Analytics It would not be wrong to say that today every organization wants to know the analytics for obvious reasons, that is to land on smarter decision-making. For this purpose, data lineage is essential for business intelligence and analytics to act upon and ensure that decisions are based on statistics and analytics rather than gut instinct. Summing Up From the above need for data lineage, it's evident that having a comprehensive knowledge of data flow is of utmost importance to crack the decision-making game. It serves as a backbone for propelling trust and transparency in your data by understanding the journey of the data. In a nutshell, knowing data through data lineage is the need of the hour to address data-related risks and issues. As it is rightly said, data is the lifeblood of any organization in the digital landscape. Businesses depend heavily on data to make data-driven informed decisions. Have you ever wondered how businesses can ensure that data quality is up to mark and meets required standards? Ensuring the quality and accuracy of data is paramount. How convenient would it be if we could determine the source, pathway, and destination of data, that is having access to the complete history of the data? This is where the concept of Data Lineage comes in! Data lineage is a process of tracking the flow of data, offering a holistic and clear view of data flow from source to destination and what data changes had been there in between. Understanding Data Lineage Better To understand data lineage better, compare it with a map, which directs the users step by step on what direction to take to reach the destination. Similarly, data lineage is a GPS but for data. It facilitates various stakeholders to make better decisions by having the complete history of data. Why Does Data Lineage Matter? Let's Witness Why There Is a Need for Data Lineage- To improve data literacy and observability, Dependency of Various Stakeholders Dependency of Various Stakeholders In order to perform tasks supremely well, data management and IT professionals must have to understand data patterns and the history of the data, as it serves as a foundation for further activities to carry on. Technical and operational metadata, impact and root-cause analysis along data chains, and impact analysis, all require a clear understanding of data lineage. Fulfilling Regulatory Compliance Requirement Fulfilling Regulatory Compliance Requirement By offering a comprehensive view of data movement, storage, and transformation, data lineage helps organizations to check who has access to data, and what data changes have been made over time, overall offering a complete record of the data pathway. This proactive approach helps in identifying potential risks associated with data alterations. Moreover, during compliance auditing and documentation, following data lineage can offer insights to regulators to ensure adherence to regulatory compliances. To Boost Transparency by Enhancing Data Quality and Integrity To Boost Transparency by Enhancing Data Quality and Integrity To ensure that data is trustworthy, accurate, and aligned with business objectives, data lineage helps maintain data quality throughout its pipeline by offering a transparent view of the data. By tracking the flow of data, organizations can identify and address data-related quality issues. To Identify Debugs and Troubleshooting Errors To Identify Debugs and Troubleshooting Errors It’s of utmost importance to identify debugs and errors at an early stage, to ensure that decisions are made of accurate and reliable data. Data lineage can identify inconsistencies, troubleshooting errors, and anomalies in the data, to help developers track changes and go back to the previous version of data if an error occurs after the alteration in the data. To Better Manage Data-Related Risks To Better Manage Data-Related Risks Data lineage simplifies risk management by offering insights regarding how data is transformed across the organization. Understanding the lineage of critical data facilitates organizations to eliminate or better tackle data breaches, misuse, and data loss. Such practice enables the implementation of appropriate security measures to protect confidential data. Making Data Suitable for Business Intelligence and Analytics Making Data Suitable for Business Intelligence and Analytics It would not be wrong to say that today every organization wants to know the analytics for obvious reasons, that is to land on smarter decision-making. For this purpose, data lineage is essential for business intelligence and analytics to act upon and ensure that decisions are based on statistics and analytics rather than gut instinct. Summing Up Summing Up From the above need for data lineage, it's evident that having a comprehensive knowledge of data flow is of utmost importance to crack the decision-making game. It serves as a backbone for propelling trust and transparency in your data by understanding the journey of the data. In a nutshell, knowing data through data lineage is the need of the hour to address data-related risks and issues.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "businesse",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-12T00:02:29.950+03:00",
+    "updated": "2024-04-12T00:02:29.950+03:00"
+  },
+  {
+    "uuid": "d650c5d882e7b85b37f64f2b04156dbdeb78bd93",
+    "url": "http://stock.10jqka.com.cn/20250403/c667199423.shtml",
+    "ord_in_thread": 0,
+    "author": "同花顺iNews",
+    "published": "2025-04-02T23:35:00Z",
+    "title": "联创光电融资买入额占总成交金额比例20.36%，杠杆资金强烈看多",
+    "text": "据 同花顺 （ 300033 ）iFind数据显示， 联创光电 （ 600363 ）4月2日获融资买入1.69亿元，融资买入额占总成交金额的比例达到20.36%，当前融资余额22.51亿元，占流通市值比例为7.68%。\n当融资买入金额占总成交金额的比例超20%时，说明个股被杠杆资金强烈看多，当日成交的资金中，有20%及以上的资金是需要付出融资利息的，只有远超过利息的超额收益才会使这些资金疯狂买入。\n回测数据显示，近一年单日融资买入额占总成交金额的比例超20.36%样本个股共有21116个，持有单只个股两天的单次收益平均值为0.31%。\n更多两市融资融券请查看 融资融券功能>>",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business financing",
+      "Economy, Business and Finance->market and exchange",
+      "Science and Technology->economics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:40:54.701+03:00",
+    "updated": "2025-04-03T02:40:54.701+03:00"
+  },
+  {
+    "uuid": "6a73097bc9a92921716f35863a7789e248e979e7",
+    "url": "http://world.people.com.cn/n1/2025/0417/c1002-40461626.html",
+    "ord_in_thread": 0,
+    "author": "103977",
+    "published": "2025-04-16T22:50:46Z",
+    "title": "让中柬友好合作结出更加丰硕的成果（大使随笔） --国际--人民网",
+    "text": "让中柬友好合作结出更加丰硕的成果（大使随笔）\n人民网－人民日报\n中国和柬埔寨是传统友邻和铁杆朋友。2016年10月，习近平主席对柬埔寨进行国事访问期间，两国领导人一致决定中柬继续做高度互信的好朋友、肝胆相照的好伙伴、休戚相关的命运共同体。近9年来，在双方共同努力下，两国领导人共同擘画的构建命运共同体蓝图正日益变成现实，成为携手构建人类命运共同体的典范。\n以诚相交，做肝胆相照的真朋友。中柬两国领导人像走亲戚一样常来往，结下特殊友谊。习近平主席为莫尼列太后颁授“友谊勋章”，西哈莫尼国王沿着西哈努克太皇生前足迹到访中国多个省市，体现着两国亲密无间的友好感情。新冠疫情期间，洪森亲王顶风冒雪“逆行”访华表达对中方支持，中方向柬埔寨派出本地区第一支抗疫医疗队并率先向柬方提供疫苗援助，彰显中柬守望相助、患难与共的铁杆情谊。柬埔寨首相洪玛奈就任后选择中国作为第一个进行双边访问的国家，体现出中柬友好世代传承。\n以义相合，做休戚与共的同行者。柬埔寨是首个同中国签署构建命运共同体行动计划的国家，中柬命运共同体建设迈入高质量、高水平、高标准的新时代。两国始终坚持相互尊重、平等相待，在涉及彼此核心利益和重大关切问题上相互支持，积极推动三大全球倡议在柬埔寨落地走实。中柬都致力于做世界的和平力量、发展力量、进步力量，在国际和地区事务中密切配合，共同壮大全球南方力量。\n互利互惠，做共同发展的好伙伴。中国连续13年成为柬最大投资来源国和贸易伙伴国。中柬务实合作亮点纷呈，柬埔寨首条高速公路金港高速建成通车，中国对外援建规模最大、等级最高的体育场柬埔寨国家体育场成为东南亚运动会主场馆，中企在海外以“建设—运营—移交”模式建设的首座国际机场暹粒吴哥国际机场通航运营。两国“钻石六边”合作架构不断充实，“工业发展走廊”和“鱼米走廊”建设持续推进，有效助力柬埔寨经济社会进步，得到当地民众广泛好评。\n以文相融，做相知相亲的一家人。“中文热”在柬埔寨持续升温，中文教育正式纳入柬埔寨国民教育体系，4家孔子学院累计为柬埔寨培养数万名中文人才。中国影视剧等中国文化载体在柬埔寨深受欢迎。中柬人员往来日益密切，2024年中国游客逾84万人次到访柬埔寨，同比增长55%，越来越多的中国民众来柬亲身感受“高棉的微笑”之美。前不久，“中柬人文交流年”圆满落幕，“当少林遇见吴哥”、中柬青年对话会、首届中柬友城大会等活动进一步拉近两国人民心灵的距离。\n习近平主席即将在柬埔寨传统新年之际再次对柬埔寨进行国事访问，这是给柬埔寨朋友最好的新年祝福，必将成为中柬关系发展史上新的里程碑，推动中柬命运共同体建设再上新台阶，让两国友好合作结出更加丰硕的成果，更好造福两国人民。\n（作者为中国驻柬埔寨大使）\n《 人民日报 》（ 2025年04月17日 02 版）\n分享让更多人看到\n- 评论\n- 关注",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Politics->government",
+      "Politics->political development",
+      "Politics->international relations",
+      "Human Interest->anniversary",
+      "Social Issue->mankind",
+      "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T01:50:46.010+03:00",
+    "updated": "2025-04-17T01:50:46.010+03:00"
+  },
+  {
+    "uuid": "6d4d0f0c2dc57b6784abbf9ff668eb79f484807b",
+    "url": "https://www.ilfattoquotidiano.it/2024/08/30/incomprensibile-danso-roma-perche-non-ha-superato-le-visite-mediche/7674944",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@fattoquotidiano",
+    "published": "2024-08-30T13:51:00Z",
+    "title": "\"Tutto questo è incomprensibile\": Danso infuriato con la Roma, non ha superato le visite mediche - Il Fatto Quotidiano",
+    "text": "Le 24h (o poco meno) di Kevin Danso a Roma . Succede anche questo nel calciomercato . Sarebbe dovuto essere la colonna portante della formazione di Daniele De Rossi e, invece, dopo “lunghe interpretazione” in fase di visite mediche, il difensore austriaco non ha superato le visite mediche. “Una decisione irritante e incomprensibile “, il commento del calciatore del Lens.\nLeggi Anche Calciomercato, trattative e news di oggi 30 agosto: Osimhen-Al Ahli, operazione in chiusura Le visite confermano la non idoneità\nAndiamo con ordine. Nei giorni scorsi, la Roma e il Lens avevano raggiunto un accordo per il difensore austriaco Kevin Danso: la società giallorossa avrebbe dovuto sborsare 22 milioni di euro più tre di bonus. Atterrato in Italia, Danso ha svolto le visite mediche di rito . Le ore passano e a Roma, sponda Trigoria, regna il silenzio. Poi, la notizia: “Il calciatore non ha superato l’idoneità sportiva “. Dietrofront dei giallorossi e pista abbandonata: al suo posto ecco Tiago Djalo dalla Juventus.\nIl comunicato ufficiale del Lens\n“In seguito a trattative serrate con la Roma, Kevin Danso non si unirà al club della lupa . La lunga interpretazione di una visita medica è stata la causa di questo trasferimento interrotto . Il club si interroga sulle ragioni di fondo del mancato via libera a questo movimento, per un giocatore attentamente monitorato che disputa stagioni con più di 30 partite sia sui campi francesi che internazionali”. Dunque, Danso lascia Roma per tornare forzatamente in Francia: “Il Lens mantiene la massima fiducia nel suo difensore, che avrà piacere di rivedere domani e che sarà sottoposto ad un protocollo adeguato prima di vestire nuovamente i colori oro e rosso”.\nLe parole di Danso\n“Sono deluso e arrabbiato per il corso dei giorni scorsi e per il mancato trasferimento all’AS Roma “. Il difensore austriaco non nasconde la propria amarezza per quella che sarebbe dovuta essere una nuova (e prima) esperienza in Italia: “Soprattutto, sono molto sorpreso dal presunto motivo della cancellazione del trasferimento . Sia i medici della nazionale austriaca che il reparto medico del Lens mi hanno accompagnato da vicino negli ultimi anni e mi hanno regolarmente esaminato . L’ultima volta che sono stato controllato a Lens era all’inizio della stagione. Non è mai stata rilevata alcuna criticità . Ecco perché le interpretazioni della visita medica a Roma sono molto irritanti per il mio ambiente, per me per niente comprensibili . Discuterò ora la mia situazione con i responsabili di Lens e OFB e mi preparerò per ciò che mi attende”.\nLeggi Anche Serie A, il calendario della terza giornata – Gli orari delle partite e dove vederle in tv e streaming (Dazn, Sky)\nAs Roma Serie A Articolo Precedente Ti ricordi… quando la Premier League stava per fallire e la Serie A salvò i top club dal baratro Articolo Successivo Atalanta e Zaniolo, Gasperini ha già perso la pazienza: “Una scommessa persa. Siamo al palo” var commentsEnabled = false; // LOAD CUSTOM COMMENTS",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-30T17:19:47.751+03:00",
+    "updated": "2024-09-25T20:19:36.617+03:00"
+  },
+  {
+    "uuid": "29d7b25219d200812c633331c2de64b2616cd034",
+    "url": "https://www.archyde.com/leaked-details-on-s11-chip-show-limited-performance-gains-for-2025-apple-watches/",
+    "ord_in_thread": 0,
+    "author": "Sophie Lin - Technology Editor",
+    "published": "2025-08-14T00:59:00Z",
+    "title": "Leaked Details on S11 Chip Show Limited Performance Gains for 2025 Apple Watches",
+    "text": "Apple Watch Series 11 Chip May Lack Major Performance Boost The upcoming Apple Watch series 11, Apple Watch ultra 3, and Apple Watch SE 3 are expected to feature an updated S11 system-in-package (SiP), but don’t expect a significant leap in processing power, according to recently surfaced internal information.\nThe details suggest the S11 chip will retain the same T8310 architecture as the S9 and S10 chips found in the Series 9 and Series 10 Apple Watch models. This is not entirely unexpected, as Apple has a history of reusing core technology across multiple generations of its S-series chips.The S6, S7, and S8 chips, for exmaple, all shared the same fundamental architecture.\nThe S9 and S10 chips are built with two “Sawtooth” performance cores, similar to those in the A16 Bionic chip. Despite the older tech, this architecture delivers ample power for a wrist-worn device, offering a 64-bit dual-core processor, a 4-core Neural Engine, second-generation Ultra Wideband (UWB) support, and 64GB of storage.\nWhile the",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->biomedical science",
+      "Science and Technology->scientific publication",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->computing and information technology",
+      "Social Issue->social networking",
+      "Social Issue->social condition",
+      "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T08:30:44.048+03:00",
+    "updated": "2025-08-14T08:44:41.000+03:00"
+  },
+  {
+    "uuid": "4629a7c5a48bdb8adc2810ef3c177837948a4a7d",
+    "url": "https://twitchy.com/amy-curtis/2024/10/24/aaron-rupar-molly-jong-fast-says-trump-will-put-people-in-camps-n2402703",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Amy Curtis",
+    "published": "2024-10-24T20:30:00Z",
+    "title": "Lefties Are Becoming Even More UNGLUED ! Molly Jong-Fast Says Trump Will Put Her in a Camp If Elected",
+    "text": "We hope you are ready for the Left to get even more hysterically delusional as we approach the election. With less than two weeks to go, the Democrats have fallen back on the worn out 'TRUMP IS HITLER' card and allegations of groping. Both of those stories seem to have backfired. [No one is buying Trump is Hitler](https://twitchy.com/samj/2024/10/24/fuzzychimp-thread-trump-hitler-n2402666), and the [allegations of groping fell apart under basic scrutiny](https://twitchy.com/samj/2024/10/24/annnd-the-model-claiming-trump-groped-her-story-from-31-years-ago-falls-apart-n2402673). So the next step is to crank up the crazy to eleven. New in PN: — Aaron Rupar (@atrupar)[@MollyJongFast]on why living in a blue state won't save you \"If we are the 'enemy within,' that means we go to the camps too.\"[https://t.co/wx2lveHeRl][October 24, 2024] Molly blocked this writer on X, [but she can still read her drivel](https://www.publicnotice.co/p/molly-jong-fast-interview-trump-2024): Donald Trump often asks prospective voters, “What do you have to lose?” The answer, to hear Molly Jong-Fast tell it, is quite a bit — and that goes for everyone. “Trump is telling us all about his potential plans: internment camps, going after his enemies foreign and domestic, including, presumably, journalists,” she recently [wrote]in Vanity Fair. “Will I be one of them? Will he clamp down on the free press? Will he take away the licenses from networks he deems insufficiently supportive of his presidency?”Jong-Fast lives in New York City, but being in a blue state might not spare you. Trump isn’t hiding that he plans to abuse his power by weaponizing the federal government against his foes in unprecedented ways, and this time there will be no guardrails. Sigh. None of this is true. Even the words 'a', 'and', and 'the' are lies. Donald Trump -- well, Mike Pence -- was going to put gays in camps. Remember that? Never happened. The rest is all pure projection. There's no way SCOTUS, even with all Trump's appointees, lets him violate the First Amendment. But we get it. Jong Fast is a Democrat. Their presidents have put people in camps. The replies are a whole boatload of crazy: Aaron, — Keith (@keithl_33)[@MollyJongFast]couldnt be more correct here. If Trump is ever allowed to hold the presidency, we will see hundreds of millions of Americans dead by mid February 2025. This is a fact and voters need to understand that[October 24, 2024] Egads. If you vote Trump in he could — Patriot (@susan_patriot) -end Social Security, Medicare & Medicaid -end overtime pay & unions -give tax breaks to the rich -draft our young for immigrant control, protests & arresting his foes. -etc. You couldn't protest or vote him out. He plans absolute power/dictatorship.[October 24, 2024] None of this is true. It didn't happen in 2016, it won't happen in 2024. Let's get back to sanity, shall we? This is all a fever dream in your heads... — Beers and Baseball ⚡🐊 (@BeersandBasebal)[October 24, 2024] It sure is. Libs really believe this s**t? Lol — Jim Muessig (@JimMuessig)[October 24, 2024] They sure do. Again, here are progressives projecting a fake fear but in reality is something they would love to do if in power. — Ohio Hog Fan (@ohiomanblotter)[October 24, 2024] Of course. Hillary Clinton herself said MAGA voters need 'reprogramming.' Guys - Trump is NOT this competent. Seriously, go touch grass. — John 🗽 (@ITVPod)[October 24, 2024] The Left like to say Trump is a moron. Morons don't put reporters in camps. Are you just now discovering that Molly is retarded? Because we've known that for a while. — Eric Spencer (@JustEric)[October 24, 2024] [She's the same moron who said J.D. Vance -- married to an Indian-American with biracial children -- only wants white kids in America](https://twitchy.com/amy-curtis/2024/07/30/molly-jong-fast-says-vance-only-wants-white-children-in-america-n2399039), so this tracks. Don’t worry. We’ll power the camps with wind farms and make sure they serve insect stew everyday. — SτξΜ Smittie GE.D (@smittie61984)[October 24, 2024] It'll be the utopia the Left wants for the rest of us! You should order some socks and a nice pair of cross-trainers for the forced marches. — Grateful Calvin (@shoveitjack) It will be bad enough for you without adding foot blisters.[https://t.co/R65DHfHHtE][October 24, 2024] Good socks are key. I was promised this would happen in his term and yet — Mary 🎃 Spooky Ginger 👻 (@mchastain81)[@GayPatriot]IS STILL ON THE LOOSE. 😡[https://t.co/l0hhgc1rZ7][October 24, 2024] Aaaand we're dead. I don't have a vote in this election, but as an engineer who stands to benefit the more large construction projects get approved, I'm excited about the prospect of a gulag system capable of holding and re-educating half the US population. Time to update my revenue forecasts. — Tim Newman (@whitesundesert)[https://t.co/pXRgRD4sET][October 24, 2024] See? Trump will improve the economy already! Blue state dems know that counseling is available, right? — Arthur Boreman (yes, that Arthur Boreman) (@ArthurBoreman)[https://t.co/JubFYdo7lT][October 24, 2024] There are not enough counselors to handle this level of crazy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.publicnotice.co/p/molly-jong-fast-interview-trump-2024",
+      "https://publicnotice.co/p/molly-jong-fast-interview-trump-2024"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Molly Jong-Fast",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Donald Trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "Aaron Rupar",
+          "sentiment": "none"
+        },
+        {
+          "name": "Hitler",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Vanity Fair",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:27:10.526+03:00",
+    "updated": "2024-10-25T12:45:17.623+03:00"
+  },
+  {
+    "uuid": "f82e1c586049549dd369213c24bc3fff3019d241",
+    "url": "https://www.natureworldnews.com/articles/60077/20231229/extreme-weather-changes-put-pressure-animals-plants-uk-national-trust.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anna Louise",
+    "published": "2023-12-29T14:38:00Z",
+    "title": "Extreme Weather Changes Put Pressure on Animals And Plants in UK | Nature World News",
+    "text": "Climate change is putting pressure on animals and plants in the United Kingdom due to rising average temperatures, shifting seasons, and increasingly unpredictable weather, according to the National Trust's annual report. Effects of Extreme Weather on Animals And Plants The conservation charity said the changing weather patterns, notably the rising temperatures, are upsetting nature and the regular rhythm of the seasons. This lack of predictability disrupts animal behavior in particular, but it can also have an influence on trees and plants. The National Trust listed a long number of species that have perished in the past year, including oak trees, which are becoming increasingly vulnerable to the oak processionary moth's caterpillars, which infest them. Because of a lack of extended cold spells in recent years, the moths have moved northward from their natural Mediterranean environment. Because of the milder winters, hibernators such as dormice are waking up too early and depleting crucial energy stores. It is also causing red deer rutting to occur later, resulting in calves being born in the summer rather than the spring, with inadequate time to mature and store fat stores for survival. According to the trust, some of the rare lichens and liverworts that thrive in the temperate rainforest at Lydford Gorge, on the outskirts of Dartmoor in Devon, died last winter due to a lack of water. When the severe rains arrived, water voles were driven from their burrows, putting them at risk of cold, hunger, and predation. \"These baseline changes that we're seeing are really worrying and what we should be taking more notice of, particularly when combined with extreme weather events, which makes things even more challenging,\" said [Ben McCarthy](https://www.msn.com/en-gb/news/uknews/climate-change-has-caused-chaos-for-uk-nature-in-2023/ar-AA1m4rwy), the head of nature and restoration ecology at the National Trust. Read Also: [Obama Administration Releases Plan to Help Animals Adapt to Climate Change](https://www.natureworldnews.com/articles/1045/20130327/obama-administration-releases-plan-help-animals-adapt-clim.htm) Government's Urgent Action The conservation organization is pushing lawmakers to prioritize \"urgent action\" to safeguard the environment and people from future climate shocks, adding that parties should pledge to make changes in their manifestos for the next UK general election. McCarthy stressed they want to see parties commit to accelerating work on [environment restoration](https://www.theguardian.com/uk-news/2023/dec/27/weather-changes-causing-chaos-for-uk-flora-and-fauna-says-national-trust-audit?fbclid=IwAR2fFylsllOEFooj-_6fyA_k9Jc5x8IRevRkyVMdOTn5mBSuY6UFizdNixI), expanding support for nature-based climate change solutions, and putting climate adaptation at the core of their manifestos so that the UK is better prepared for the increasing weather extremes. \"We need to see more action from politicians, particularly as we enter this election year, to ensure tackling the nature and climate crisis is a top priority,\" he added. The [National Trust](https://www.nationaltrust.org.uk/) has been working on programs to make the landscape more robust and adaptable to changing seasons, warning that we must be prepared for this \"new norm.\" However, the audit revealed some rays of hope, with a record-breaking number of Cornish Chough birds identified this year, a 60% rise over the previous year, having previously been extinct in Cornwall. Beavers in Somerset welcomed their first kits, welcoming in twins and expanding the beaver community on the Holnicote Estate. Moreover, despite heavy rain from Storm Babet damaging four of the beavers' dams, the family was quick to begin repairs due to their hardworking attitude. Related Article: [Mating Helps In Predicting How Animals, Plants Respond To Temperature Changes, Study Finds](https://www.natureworldnews.com/articles/59171/20231030/mating-helps-predicting-animals-plants-respond-temperature-changes-study-finds.htm) © 2023 NatureWorldNews.com All rights reserved. Do not reproduce without permission.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Science and Technology",
+      "Environment"
+    ],
+    "external_links": [
+      "https://www.nationaltrust.org.uk/)",
+      "https://www.msn.com/en-gb/news/uknews/climate-change-has-caused-chaos-for-uk-nature-in-2023/ar-AA1m4rwy),",
+      "https://www.theguardian.com/uk-news/2023/dec/27/weather-changes-causing-chaos-for-uk-flora-and-fauna-says-national-trust-audit?fbclid=IwAR2fFylsllOEFooj-_6fyA_k9Jc5x8IRevRkyVMdOTn5mBSuY6UFizdNixI),",
+      "https://nationaltrust.org.uk/)",
+      "https://msn.com/en-gb/news/uknews/climate-change-has-caused-chaos-for-uk-nature-in-2023/ar-AA1m4rwy),",
+      "https://www.theguardian.com/uk-news/2023/dec/27/weather-changes-causing-chaos-for-uk-flora-and-fauna-says-national-trust-audit",
+      "https://theguardian.com/uk-news/2023/dec/27/weather-changes-causing-chaos-for-uk-flora-and-fauna-says-national-trust-audit?fbclid=IwAR2fFylsllOEFooj-_6fyA_k9Jc5x8IRevRkyVMdOTn5mBSuY6UFizdNixI),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "national trust",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "uk",
+          "sentiment": "none"
+        },
+        {
+          "name": "united kingdom",
+          "sentiment": "none"
+        },
+        {
+          "name": "mediterranean",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T17:06:13.571+02:00",
+    "updated": "2023-12-29T17:06:13.571+02:00"
+  }
+]

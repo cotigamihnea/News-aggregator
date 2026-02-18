@@ -1,0 +1,263 @@
+[
+  {
+    "uuid": "3803143f57da574afdff8312abd447bf15d7b786",
+    "url": "https://www.lhindependent.com/news/national/spacexs-immense-starship-rocket-has-repeatedly-exploded-during-test-flights/image_0a2d5788-ca3f-5e92-a4b2-88283d47801e.html",
+    "ord_in_thread": 0,
+    "author": "TIMOTHY A. CLARY",
+    "published": "2025-08-14T04:03:00Z",
+    "title": "SpaceX's immense Starship rocket has repeatedly exploded during test flights",
+    "text": "SpaceX's immense Starship rocket has repeatedly exploded during test flights TIMOTHY A. CLARY Aug 13, 2025 Aug 13, 2025 Updated 49 mins ago Facebook Twitter WhatsApp LinkedIn SMS Email Print Copy article link Save SpaceX's immense Starship rocket has repeatedly exploded during test flights TIMOTHY A. CLARY Tags Partners/afp As featured on Trump orders space regulations eased in win for Musk US President Donald Trump signed an executive order Wednesday easing regulations for the private space industry, including eliminating some environmental reviews, in a move likely to please his erstwhile advisor Elon Musk. Facebook Twitter WhatsApp LinkedIn SMS Email Print Copy article link Save\nTrump orders space regulations eased in win for Musk US President Donald Trump signed an executive order Wednesday easing regulations for the private space industry, including eliminating some environmental reviews, in a move likely to please his erstwhile advisor Elon Musk.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->scientific exploration",
+      "Science and Technology->aerospace engineering"
+    ],
+    "ai_allow": false,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "TIMOTHY A. CLARY",
+          "sentiment": "none"
+        },
+        {
+          "name": "Donald Trump",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "SpaceX",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        },
+        {
+          "name": "Facebook Twitter",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "3803143f57da574afdff8312abd447bf15d7b786",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": null,
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": "local_news",
+        "city": [
+          "Liberty Hill"
+        ],
+        "state": [
+          "Texas"
+        ],
+        "country": [
+          "US"
+        ],
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T08:05:45.311+03:00",
+    "updated": "2025-08-14T08:16:58.000+03:00"
+  },
+  {
+    "uuid": "ace137e2b5ccce0cb287811ddcd45af18d76b6e3",
+    "url": "https://www.tricitynews.com/indigenous-news/high-winds-return-to-bcs-central-coast-as-more-heat-records-fall-8038944",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Canadian Press",
+    "published": "2023-12-29T17:20:00Z",
+    "title": "High winds return to B.C.'s central coast as more heat records fall",
+    "text": "VANCOUVER — British Columbia's central coast is facing the return of strong winds reaching 90 kilometres an hour just days after the last such warning in the region.\nEnvironment Canada says coastal areas from around Bella Bella south to around Sayward on Vancouver Island including Port Hardy and Port McNeill may see power outages and fallen tree branches because of the high winds.\nA previous wind advisory on Wednesday warned of gusts up to 120 kilometres an hour along exposed areas of B.C.'s southern and central coasts.\nThe winds earlier in the week knocked out power to more than 1,000 BC Hydro customers on Cortes Island.\nThe El Niño climate phenomenon and a ridge of high pressure over B.C.'s Interior continue to bring record high temperatures to the province, as another set of century-old marks were surpassed Thursday.\nEnvironment Canada says Prince George saw temperatures spike to 8.7 degrees, breaking a record set in 1919, while Quesnel reached 9.1 degrees, surpassing a mark set in 1901.\nVernon recorded 6.1 degrees, breaking a record from 1908.\nThe federal weather agency says other heat records were broken in Vancouver, White Rock and Port Alberni, while Whistler on Thursday matched its previous high of 5.6 degrees set in 1956.\nThis report by The Canadian Press was first published Dec. 29, 2023.\nThe Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "quesnel",
+          "sentiment": "none"
+        },
+        {
+          "name": "prince george",
+          "sentiment": "none"
+        },
+        {
+          "name": "port mcneill",
+          "sentiment": "none"
+        },
+        {
+          "name": "vernon",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "vancouver",
+          "sentiment": "negative"
+        },
+        {
+          "name": "columbia",
+          "sentiment": "negative"
+        },
+        {
+          "name": "el niño",
+          "sentiment": "none"
+        },
+        {
+          "name": "environment canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "bc hydro",
+          "sentiment": "none"
+        },
+        {
+          "name": "interior",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "vancouver island",
+          "sentiment": "none"
+        },
+        {
+          "name": "bella bella",
+          "sentiment": "none"
+        },
+        {
+          "name": "sayward",
+          "sentiment": "none"
+        },
+        {
+          "name": "cortes island",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T19:24:55.370+02:00",
+    "updated": "2023-12-29T19:24:55.370+02:00"
+  },
+  {
+    "uuid": "a1d5680e56a39dccd8d9dbd10afa09240ce44248",
+    "url": "https://gamereleasetoday.com/arguments-for-getting-rid-of-cannabis",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "gordon01r08",
+    "published": "2024-12-20T01:10:00Z",
+    "title": "Arguments For Getting Rid Of Cannabis",
+    "text": "Taken orally, its absorption is extremely variable and unpredictable and infrequently delayed, טלגראס כיוונים says Dr. Igor Grant, a UC San Diego psychiatrist who directs the university’s Center for Medicinal Cannabis Research. After an area resident tipped the police off to suspicious exercise, Cumbria Police stopped and שקיות רפואי טלגרם searched Stephen McRoy, he was carrying a drawstring bag which contained a pair of football boots, this isn’t unusual for a man of his age, but inside them was a hoard of class A drugs together with heroin, telegram marihuana cannabis and ecstasy. Suspicious, the officers searched a drawstring bag he was carrying; contained in the boots had been quite a lot of small plastic packets containing the medication. The defendant was willing to simply accept a sentence but Martin Pizzey, defending, said that he had no involvement in making ready the bag he was handed. Despite enjoying only a minor role in a relatively massive operation, Judge Pamela exclaimed to the defendant “I don’t accept that you just didn’t admire where the drugs would find yourself.” He was jailed for3 years 10 months in jail.\nMany states will enable expungement for minor offenses regardless of the very fact that you simply actually obtained supervision or court diversion, or comparable type of sentence and a fixed quantity of timescale has already passed since that supervision and/or court diversion terminated (such time interval might range between one to five years normally). Supply Line Direct hosts a myriad range of oil absorbent pads which you might choose from after having gone by means of the varied specs that the pads and rolls are available. These range from damaged nerves in individuals that have HIV, טלגרם אילת diabetic remedy, and spinal injuries-marijuana has also shown promise to patients with most cancers and Multiple Sclerosis. He had travelled to Cumbria with buddies and even paid for petrol, his position was that of a supply man and failure to deliver the bundle would have resulted in extreme recriminations. The 52-12 months-old is understood for his work as a Ralph Lauren Polo mannequin in the nineties. As a model, he was named as VH1’s Man of the Year in 1995, as well as one of people Magazine’s 50 Most Beautiful People on the earth. Until the 2003 mannequin year, the Camry Solara remained on the XV20 sequence chassis, and obtained solely minor styling upgrades to the entrance and rear ends.\nThe facelifted Sedona was introduced in Mexico on 5 September 2018 as a 2019 mannequin. Madix, 38, co-authored a cocktail ebook titled “Fancy AF Cocktails: Drink Recipes from a few Professional Drinkers” with Sandoval in 2019 and is launching a sandwich shop, Something About Her, with “Vanderpump Rules” co-star Katie Maloney. Adrian Peterson, finest recognized for קנאביס רפואי מחיר being an expert soccer player who plays as a running again for several NFL groups. Adrian Peterson is a professional soccer operating again who first performed for the University of Oklahoma, the place he set the freshman rushing record in the course of the 2004 season, earlier than going professional. Mould was the first RAF pilot to down an enemy aircraft on the European continent within the Second World War. In other historic races, Anthony G. Brown declares victory as Maryland’s first Black legal professional, and Aruna Miller would be the state’s first immigrant and first woman of color to serve as lieutenant governor. Will a one that has been convicted of a felony be ready to collect unemployment benefits? Alfonso Ribeiro and Julianne Hough will serve as co-hosts for the brand new season.\nSpears, 32, made her appearing debut in 2002 when she appeared in the movie “Crossroads” alongside her pop star sister, Britney Spears, and followed that up the identical year on the sketch comedy series “All That.” She released an EP in 2014 titled “The Journey,” which included the music “How Could I would like More,” and sang on her sister’s music “Chillin’ with You,” off her 2013 album, “Britney Jean.” Spears at present stars on the collection “Sweet Magnolias,” which aired its third season this yr, and released her memoir titled “Things I Should Have Said” final year. Mira Sorvino is a Golden Globe- and Academy Award-successful actress for her role in Woody Allen’s 1995 movie “Mighty Aphrodite.” The 55-yr-outdated actress, who is the daughter of actor Paul Sorvino, has appeared in lots of other movies and television exhibits throughout her illustrious profession, together with “The Replacement Killers” in 1998 and “Norma Jean & Marilyn” in 1996, through which she portrayed Marilyn Monroe. Outside of movie and tv, Sorvino is an activist who has previously lobbied Congress to abolish human trafficking in Darfur.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->drug rehabilitation",
+      "Health->mental health and disorder",
+      "Health->health treatment and procedure",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://telweed.com/teleway/",
+      "https://telweed.com/telegram-medical-bags/",
+      "https://telweed.com/telegram-eilat/",
+      "https://telweed.com/medical-cannabis-price/",
+      "https://telweed.com/telegram-marihuana/",
+      "https://www.telweed.com/medical-cannabis-price/",
+      "https://www.telweed.com/telegram-marihuana/",
+      "https://telweed.com/telegram-marihuana",
+      "https://telweed.com/medical-cannabis-price",
+      "https://www.telweed.com/teleway/",
+      "https://telweed.com/teleway",
+      "https://www.telweed.com/telegram-eilat/",
+      "https://telweed.com/telegram-medical-bags",
+      "https://telweed.com/telegram-eilat",
+      "https://www.telweed.com/telegram-medical-bags/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Martin Pizzey",
+          "sentiment": "none"
+        },
+        {
+          "name": "Stephen McRoy",
+          "sentiment": "none"
+        },
+        {
+          "name": "Igor Grant",
+          "sentiment": "none"
+        },
+        {
+          "name": "Pamela",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Cumbria Police",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T04:42:51.870+02:00",
+    "updated": "2024-12-20T04:42:51.870+02:00"
+  }
+]

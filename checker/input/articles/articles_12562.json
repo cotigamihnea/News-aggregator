@@ -1,0 +1,210 @@
+[
+  {
+    "uuid": "11b9e2be6f6050a08098b92bb4df40d2d60a0fba",
+    "url": "https://mexiconewsdaily.com/news/heat-wave-mexico",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MND Staff",
+    "published": "2024-05-09T22:29:00Z",
+    "title": "Brutal heat wave continues to plague Mexico, but relief in sight",
+    "text": "With Thursday turning out to be another scorcher, people across Mexico are hoping for relief from a heat wave that has already been blamed for at least two deaths and has strained the national power grid. The heat wave’s soaring temperatures have prompted greater demand for electricity throughout Mexico and mass power outages affected many cities on Tuesday and Wednesday. The high temperatures have been fatal in Oaxaca — state authorities are investigating the death on Wednesday of a 9-year-old boy which, if attributed to heat stroke, would be the third heat wave-related death in Oaxaca in as many days. Mexico City set a new temperature record on Tuesday, but record highs could be set again elsewhere today as meteorologists were forecasting temps between 45 C and 50 C (115 F to 122 F) in the northeast, along the Gulf coast and in Morelos, Oaxaca and Guerrero. Highs of 35 C to 40 C (95 F to 104 F) plagued parts of the northwest, the Pacific Coast and the Bajío region Thursday. At the same time, the Mexico City metro area saw temperatures ranging from 30 C to 35 C (86 F to 95 F). The National Energy Control Center (Cenace) declared a state of emergency Wednesday afternoon and evening, as 14 states from Tamaulipas to Chiapas suffered blackouts. President Andrés Manuel López Obrador summoned CFE director Manuel Bartlett to the National Palace on Wednesday night to discuss the situation, though neither has issued a statement. At his Thursday morning press conference, López Obrador said Cenace and the CFE were working to prevent further blackouts. While the president said that there wouldn’t be more blackouts — suggesting that the power outages were a fluke due to the intense temperatures the nation has been experiencing this week — he also appeared to acknowledge that there are issues with power generation capacity, which he blamed on the use of private energy companies. “Half of the [grid’s] generation of electricity is produced by private companies, and we have to come to agreements so that the [generation] plants are in good condition,” López Obrador said. With the heat wave and subsequent power outages, criticism is mounting regarding the management of the nation’s power grid. Energy analysts interviewed by the newspaper Reforma accuse the federal government of abandoning the country’s electricity system, arguing that it has been “ideological” and “political” in its energy policy. El Universal columnist Mario Maldonado noted that Cenace had issued “alerts” — one step below a state of emergency — on 22 occasions in April, suggesting that the power grid is struggling and that blackouts could be a recurring problem this summer. The country can expect a bit of relief from the heat by the weekend, according to the National Meteorological Service (SMN), which has forecast a cold front coming down from the north. Along with the lower temperatures, a band of precipitation can be expected from the northwest down to the central highlands beginning on Friday. With reports from Milenio , Aristegui Noticias and Meteored",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://lapoliticaonline.com/mexico/energia-mx/tras-segundo-dia-de-apagones-amlo-reconoce-un-deficit-en-generacion-electrica-y-pide-acuerdos-con-la-ip/",
+      "https://www.meteored.mx/noticias/prediccion/cuando-termina-la-ola-de-calor-en-mexico-esta-es-la-fecha-marcada-por-meteored-el-nino-anticiclon-incendios-forestales-la-nina.html",
+      "https://www.reforma.com/acusan-abandono-del-sistema-electrico/ar2804410",
+      "https://aristeguinoticias.com/0805/mexico/muere-nino-de-8-anos-por-posible-golpe-de-calor-en-oaxaca-autoridades-investigan/",
+      "https://www.reforma.com/acusan-abandono-del-sistema-electrico/ar2804410?v=2",
+      "https://twitter.com/InfoMeteoro/status/1788418586408595608",
+      "https://www.eluniversal.com.mx/opinion/mario-maldonado/coconal-y-otras-constructoras-del-naicm-favoritas-de-la-4t",
+      "https://www.twitter.com/InfoMeteoro/status/1788418586408595608",
+      "https://meteored.mx/noticias/prediccion/cuando-termina-la-ola-de-calor-en-mexico-esta-es-la-fecha-marcada-por-meteored-el-nino-anticiclon-incendios-forestales-la-nina.html",
+      "https://milenio.com/negocios/cenace-declara-estado-operativo-de-alerta-en-sistema-electrico",
+      "https://www.lapoliticaonline.com/mexico/energia-mx/tras-segundo-dia-de-apagones-amlo-reconoce-un-deficit-en-generacion-electrica-y-pide-acuerdos-con-la-ip",
+      "https://www.lapoliticaonline.com/mexico/energia-mx/tras-segundo-dia-de-apagones-amlo-reconoce-un-deficit-en-generacion-electrica-y-pide-acuerdos-con-la-ip/",
+      "https://www.aristeguinoticias.com/0805/mexico/muere-nino-de-8-anos-por-posible-golpe-de-calor-en-oaxaca-autoridades-investigan/",
+      "https://www.eluniversal.com.mx/opinion/mario-maldonado/coconal-y-otras-constructoras-del-naicm-favoritas-de-la-4t/",
+      "https://eluniversal.com.mx/opinion/mario-maldonado/coconal-y-otras-constructoras-del-naicm-favoritas-de-la-4t/",
+      "https://aristeguinoticias.com/0805/mexico/muere-nino-de-8-anos-por-posible-golpe-de-calor-en-oaxaca-autoridades-investigan",
+      "https://reforma.com/acusan-abandono-del-sistema-electrico/ar2804410?v=2",
+      "https://www.milenio.com/negocios/cenace-declara-estado-operativo-de-alerta-en-sistema-electrico"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "mexico",
+          "sentiment": "none"
+        },
+        {
+          "name": "bajío",
+          "sentiment": "none"
+        },
+        {
+          "name": "oaxaca",
+          "sentiment": "none"
+        },
+        {
+          "name": "morelos",
+          "sentiment": "none"
+        },
+        {
+          "name": "pacific coast",
+          "sentiment": "none"
+        },
+        {
+          "name": "guerrero",
+          "sentiment": "none"
+        },
+        {
+          "name": "mexico city",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T02:05:07.219+03:00",
+    "updated": "2024-05-10T02:28:27.840+03:00"
+  },
+  {
+    "uuid": "a0dfc1f3d3499b7b1782448c302c63972e05271e",
+    "url": "http://stock.10jqka.com.cn/usstock/20250313/c666667861.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "金融界",
+    "published": "2025-03-12T22:45:00Z",
+    "title": "微软能源副总裁看好风能和太阳能为数据中心供电潜力",
+    "text": "微软能源副总裁鲍比.霍利斯(Bobby Hollis)周三在休斯顿举行的CERAWeek能源会议上对媒体表示，美国风能和太阳能开发在为数据中心供电方面仍有很大的拓展空间，特别是在中西部风能走廊和阳光充足的西南地区。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->natural science",
+      "Environment->energy resources",
+      "Environment->sustainability",
+      "Environment->global warming"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T01:19:18.632+02:00",
+    "updated": "2025-03-13T01:19:18.632+02:00"
+  },
+  {
+    "uuid": "611651a266a4cc49fb0d71a6f25afe4a14883c92",
+    "url": "https://www.lavanguardia.com/lacontra/20250424/10610867/kathy-willis-interactuar-naturaleza-mirarla-olerla-tocarla-sana.html",
+    "ord_in_thread": 0,
+    "author": "Ima Sanchís",
+    "published": "2025-04-23T22:00:00Z",
+    "title": "Kathy Willis, catedrática de Biodiversidad: \"Interactuar con la naturaleza, mirarla, olerla, tocarla, nos sana\"",
+    "text": "BUSCAR busqueda avanzada SUSCRÍBETE Secciones Al Minuto Internacional Política Opinión Sociedad Deportes Economía Ciudades Pop Cultura Sucesos Participación Suscriptores Temas A fondo Narrativas visuales En Mejora Continua Fotografía Vídeos Canales La Contra Natural Big Vang Salud Series Cribeo Magazine Viajes Vivo Moveo De Moda Comer Historia y Vida La Uni Vivo Seguro Peludos Neo El Comprador Mediterranean La Vanguardia La Contra\nAHORA, TODAS LAS CONTRAS A TU ALCANCE Luchan por cambiar el mundo Defienden causas justas Nos deleitan con su arte Nos hablan de y con su música Nos ayudan a entender la ciencia Estudian lo físico y lo psíquico Deportistas, jugadores y aventureros Explican cómo funciona la economía Son maestros de los negocios Testigos y exploradores del pasado Son especialistas en temas concretos Gente con una historia que contar Sus testimonios son estremecedores Nuestros autores favoritos Nos hablan de lo humano y lo divino Nombres propios Nos hacen la vida más amena Conocen los entresijos de la política Analizan el estado del mundo Hacen que la sociedad avance Son profesionales reputados Abordan temas de salud De médicos y pacientes Nos aconsejan para vivir mejor Nos invitan a ser más felices Contras especiales ¡Ups! Tu explorador está configurado para bloquear JavaScript. Para usar nuestros servicios, es necesario que lo permitas. “Interactuar con la naturaleza, mirarla, olerla, tocarla, nos sana” Nací en Londres y vivo en Oxford, en cuya universidad soy catedrática de Biodiversidad. Casada, 3 hijos y 2 perros. Creo en el derecho a la educación, la salud, a un entorno seguro y a la naturaleza. Soy cristiana, creo que hay que ser amable y generoso. Si cada día hiciéramos algo por los demás, el mundo sería mucho mejor. (Foto: John Cairns)\nKathy Willis, explica desde la ciencia cómo la naturaleza transforma nuestro cuerpo y psique Ima Sanchís\n24/04/2025 00:00",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->mental health and disorder",
+      "Human Interest->celebrity"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.twitter.com/lavanguardia",
+      "https://apigeo.grupogodo.com/",
+      "https://www.facebook.com/LaVanguardia",
+      "https://www.instagram.com/lavanguardia",
+      "https://sdk.mrf.io/statics",
+      "https://pandg.tapad.com/tag",
+      "https://www.facebook.com/tr?id=316167066837274&ev=PageView&noscript=1/",
+      "https://sb.scorecardresearch.com/p?c1=2&c2=6398301&cs_ucfr=1&cv=2.0&cj=1",
+      "https://sb.scorecardresearch.com/p",
+      "https://twitter.com/lavanguardia",
+      "https://www.apigeo.grupogodo.com/",
+      "https://apigeo.grupogodo.com",
+      "https://instagram.com/lavanguardia",
+      "https://facebook.com/LaVanguardia",
+      "https://www.facebook.com/tr",
+      "https://facebook.com/tr?id=316167066837274&ev=PageView&noscript=1/",
+      "https://www.facebook.com/tr?id=316167066837274&ev=PageView&noscript=1",
+      "https://www.sdk.mrf.io/statics",
+      "https://www.sb.scorecardresearch.com/p?c1=2&c2=6398301&cs_ucfr=1&cv=2.0&cj=1",
+      "https://www.pandg.tapad.com/tag"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Visa",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "V",
+              "exchange": "NYSE"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:07:15.671+03:00",
+    "updated": "2025-05-16T21:23:19.337+03:00"
+  }
+]

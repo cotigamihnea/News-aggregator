@@ -1,0 +1,287 @@
+[
+  {
+    "uuid": "973a189ddf7a4e316f6ba222efddd3dfe95df4b8",
+    "url": "https://www.mundodeportivo.com/elotromundo/television/20240125/1002177421/efren-manuel-explotan-ivana-icardi-gh-duo-te-toco-palo-dct.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción",
+    "published": "2024-01-25T22:00:00Z",
+    "title": "Efrén y Manuel 'explotan' contra Ivana Icardi en 'GH Dúo': \"No te toco ni con un palo\"",
+    "text": "'GH Dúo 2' volvía el jueves por la noche con la segunda gala de la semana, que contó con más polémicas y conflictos que nunca. Un nuevo expulsado, Finito, Keroseno o Mayka, nuevas nominaciones, un novedoso juego de recompensa y la visita de 'Payasín' eran algunos de los puntos fuertes de la noche. El pasado martes por la noche vivimos una gala llena de emociones, pero también de disputas. Ivana Icardi no dudó en ponerse a toda la casa en contra con tal de defender a los que ella considera sus amigos, Finito y Keroseno. Marta, Manuel o Efrén fueron algunos de los compañeros a los que la argentina se enfrentó. Tras la gala, tanto Efrén como Manuel necesitaban desahogarse y no dudaron en atacar sin piedad a Ivana. La concursante tachó a Manuel de hipócrita por querer dar ejemplo sobre ponerse en el lugar de los demás, algo que molestó mucho al gaditano. \"Me ha parecido un comentario oscuro, fuera de lugar\", comentaba la ex pareja de Lucía. \"¿Sabes por qué? Para jugar con el feminismo, eso está muy feo hermano\", añadía Efrén sobre el comentario de Ivana. Manuel parecía muy molesto con la actitud de la hermana de Icardi, los comentarios que hizo sobre su paso por la 'Isla de las Tentaciones' y el daño causado por el gaditano a Lucía cuando eran pareja. \"Yo no le recuerdo a ella que también se ha metido debajo de las sábanas\", decía el concursante de Cádiz. \"No te toco ni con un palo, ortopédica\", añadía el ex tronista de Mujeres y Hombres y Viceversa haciendo referencia a Ivana. La concursante por su parte no se mantuvo al margen y aprovechó un momento en el que se quedó a solas con Keroseno para atacar a Manu y Efrén. \"Cállate la boca, ¿Qué pintas? 'Cuñao'\", decía Ivana, haciendo referencia al momento en el que el madrileño defendió a su compañero en la gala.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:09:32.369+02:00",
+    "updated": "2024-01-26T00:09:32.369+02:00"
+  },
+  {
+    "uuid": "84d14badac0e69b6f2f10fbca788cd48b79ba80f",
+    "url": "https://news.hitb.org/content/researchers-come-better-idea-prevent-airtag-stalking",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "L",
+    "published": "2023-12-28T23:47:00Z",
+    "title": "Researchers come up with better idea to prevent AirTag stalking",
+    "text": "Researchers come up with better idea to prevent AirTag stalking Apple's AirTags are meant to help you effortlessly find your keys or track your luggage. But the same features that make them easy to deploy and inconspicuous in your daily life have also allowed them to be abused as a sinister tracking tool that domestic abusers and criminals can use to stalk their targets. Over the past year, Apple has taken protective steps to notify iPhone and Android users if an AirTag is in their vicinity for a significant amount of time without the presence of its owner's iPhone, which could indicate that an AirTag has been planted to secretly track their location. Apple hasn't said exactly how long this time interval is, but to create the much-needed alert system, Apple made some crucial changes to the location privacy design the company originally developed a few years ago for its “Find My” device tracking feature. Researchers from Johns Hopkins University and the University of California, San Diego, say, though, that they've developed a cryptographic scheme to bridge the gap—prioritizing detection of potentially malicious AirTags while also preserving maximum privacy for AirTag users. The Find My system uses both public and private cryptographic keys to identify individual AirTags and manage their location tracking. But Apple developed a particularly thoughtful mechanism to regularly rotate the public device identifier—every 15 minutes, according to the researchers. This way, it would be much more difficult for someone to track your location over time using a Bluetooth scanner to follow the identifier around. This worked well for privately tracking the location of, say, your MacBook if it was lost or stolen, but the downside of constantly changing this identifier for AirTags was that it provided cover for the tiny devices to be deployed abusively.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "apple",
+          "sentiment": "negative"
+        },
+        {
+          "name": "johns hopkins university",
+          "sentiment": "none"
+        },
+        {
+          "name": "airtag",
+          "sentiment": "none"
+        },
+        {
+          "name": "university of california",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "san diego",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T05:27:03.189+02:00",
+    "updated": "2024-01-20T18:14:55.363+02:00"
+  },
+  {
+    "uuid": "c613a2bbadd643993d5f1d3c1c324cedca999194",
+    "url": "https://earthobservatory.nasa.gov/images/152448/badwater-basin-refills",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NASA Earth Observatory",
+    "published": "2024-02-15T21:00:00Z",
+    "title": "Badwater Basin Refills",
+    "text": "An ephemeral lake in Death Valley’s Badwater Basin is showing its staying power. After forming in August 2023 in the aftermath of\nHurricane Hilary, the lake gradually shrank but persisted throughout the fall and winter. A potent atmospheric river filled it back up in February 2024.\nThis series of images compares the desert basin before flooding (left) with its more-waterlogged state following each major storm. In both August 2023 (middle) and February 2024 (right), a shallow lake several kilometers across fills in the low-lying salt flat. The images were acquired by the\nOLI (Operational Land Imager) sensor on Landsat 8 (left and right) and the OLI-2 on Landsat 9 (middle). They are false-color, shown with the OLI and OLI-2 band combination of 6-5-3, which emphasizes the presence of water in shades of blue.\nThe\ndriest place in North America, Death Valley typically receives about 2 inches (51 millimeters) of rain per year. However, in the past six months alone, more than double that—4.9 inches (125 millimeters)—fell at the national park’s official weather gauge at Furnace Creek. Two events were responsible for most of that precipitation. The remnants of Hurricane Hilary delivered 2.2 inches on August 20, 2023, and an atmospheric river brought another 1.5 inches from February 4–7, 2024, according to park officials.\nFollowing the\nAugust deluge, “most of us thought the lake would be gone by October,” said Death Valley National Park ranger Abby Wines in a news release. “We were shocked to see it still here after almost six months.” That was before the rains returned in February.\nAfter the early February atmospheric river moved through, observers on the ground saw the lake continue to expand as water drained into the area. On February 11, park ranger Matthew Lamar noted: “The Amargosa River [which feeds the basin from the south] is really flowing, and we’ve noticed the water level continue to rise over the last couple of days as waters make their way to the basin.”\nBadwater Basin is endorheic, meaning that water flows into but not out of it. Typically, evaporation far outpaces inputs, rendering the lake ephemeral. But in the past six months, the influxes have changed the equation.\nBased on satellite imagery, the lake appears to have grown to a similar size in February 2024 as it did in August 2023, thereby extending its months-long tenure. This comes as welcome news to visitors, who have enjoyed witnessing\nstunning reflections of the surrounding peaks in its calm waters.\nAs of February 14, the lake is 1 foot deep in places, according to\nhttps://www.nps.gov/deva/planyourvisit/conditions.htm, and it is uncertain how long it will last. Past appearances of the lake are rare and offer little insight into the current situation; when a lake formed in 2005, for example, it reportedly lasted about one week. It is also too early to know how the precipitation will affect the wildflower season, which runs from late-February to mid-April, they said.\nNASA Earth Observatory images by\nWanmei Liang, using Landsat data from the U.S. Geological Survey. Photo by K. Skilling/National Park Service. Story by Lindsey Doermann.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment"
+    ],
+    "external_links": [
+      "https://www.nps.gov/deva/planyourvisit/conditions.htm,",
+      "https://www.usgs.gov/geology-and-ecology-of-national-parks/ecology-death-valley-national-park-0",
+      "https://www.nps.gov/deva/learn/news/atmospheric-river-feb2024.htm",
+      "https://abcnews.go.com/US/reemergence-rare-lake-death-valley-national-park-long/story?id=106564214",
+      "https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites",
+      "http://earthexplorer.usgs.gov",
+      "https://nps.gov/deva/learn/news/atmospheric-river-feb2024.htm",
+      "https://abcnews.go.com/US/reemergence-rare-lake-death-valley-national-park-long/story",
+      "https://www.abcnews.go.com/US/reemergence-rare-lake-death-valley-national-park-long/story?id=106564214",
+      "https://usgs.gov/geology-and-ecology-of-national-parks/ecology-death-valley-national-park-0",
+      "https://usgs.gov/faqs/what-are-band-designations-landsat-satellites",
+      "https://nps.gov/deva/planyourvisit/conditions.htm,",
+      "http://www.earthexplorer.usgs.gov"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "oli",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "death valley",
+          "sentiment": "none"
+        },
+        {
+          "name": "badwater basin",
+          "sentiment": "none"
+        },
+        {
+          "name": "furnace creek",
+          "sentiment": "none"
+        },
+        {
+          "name": "north america",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-16T02:16:06.945+02:00",
+    "updated": "2024-02-16T02:16:06.945+02:00"
+  },
+  {
+    "uuid": "b8d7a036e491a7e714360773701f29736720c5bc",
+    "url": "https://es.marketscreener.com/cotizacion/indice/TOPIX-INDEX-61714390/noticia/Los-habitantes-de-Hiroshima-esperan-que-los-Oscar-a-Oppenheimer-llamen-la-atenci-n-sobre-la-reali-46138377",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MarketScreener",
+    "published": "2024-03-11T08:53:00Z",
+    "title": "Los habitantes de Hiroshima esperan que los Oscar a \"Oppenheimer\" llamen la atención sobre la realidad de la bomba atómica -11 de marzo 2024 a las 09:53 | MarketScreener",
+    "text": "A medio mundo de distancia de Hollywood, los ciudadanos de Hiroshima, Japón, reaccionaron ante la victoria como mejor película de \"Oppenheimer\", la superproducción que retrata la carrera por desarrollar la bomba atómica que devastó su ciudad hace 78 años.\nEl biopic sobre el físico J. Robert Oppenheimer se llevó siete Oscar en la noche del domingo de los premios de la Academia tras recaudar 954 millones de dólares en todo el mundo. Pero la película aún no se ha proyectado en Japón, el único país que ha sufrido un bombardeo nuclear, con los ataques estadounidenses sobre Hiroshima y Nagasaki cerca del final de la Segunda Guerra Mundial.\n\"A mí también me gustaría ver esta película\", dijo Yasuhiro Akiyama, un profesor de 43 años.\n\"Espero que más gente de todo el mundo que haya visto la película quiera visitar Hiroshima y venir al Parque Memorial de la Paz y a la Cúpula de la Bomba Atómica\", añadió.\n\"Oppenheimer\" se estrenará finalmente en Japón el 29 de marzo, unos ocho meses después de su debut. El estreno del verano pasado tuvo lugar pocas semanas antes de los actos conmemorativos de las explosiones que se cobraron más de 200.000 vidas.\nLas controversias sobre el contenido de la película, que algunos criticaron por pasar por alto el coste humano de los bombardeos, y sobre su comercialización pusieron en duda que la película llegara a proyectarse en Japón.\nMuchos japoneses se sintieron ofendidos por una campaña \"Barbenheimer\" creada por fans en Internet que relacionaba la película con \"Barbie\", otro éxito de taquilla que se estrenó por las mismas fechas.\nTeruko Yahata, superviviente del bombardeo de Hiroshima, declaró la semana pasada a Reuters que estaba ansiosa por ver \"Oppenheimer\" y que esperaba que revitalizara el debate sobre las armas nucleares.\nVarios residentes de Hiroshima entrevistados después de que la película cosechara el oro de los Oscar se hicieron eco de ese sentimiento.\n\"Creo que es importante tener un mundo pacífico en el que la gente ya no luche entre sí, así que espero que esta película dé a todo el mundo la oportunidad de aprender sobre la paz\", dijo Miyuki Hirano, una enfermera de 44 años.\nYoshito Ihara dijo que dudaba que las naciones con armamento nuclear abandonaran alguna vez las armas, pero esperaba que la película pudiera educar a las personas y motivarlas para presionar a favor del cambio.\n\"No he visto la película, pero creo que es una oportunidad para que los japoneses de a pie aprendan (sobre los bombardeos)\", dijo Iwata, un agente inmobiliario de 63 años. \"Creo que es un tema contra el que todas las personas del mundo deben seguir luchando\".\nComparte Acceder al artículo original .\nAviso legal Aviso legal\nPóngase en contacto con nosotros para cualquier solicitud de corrección\nVolver © Reuters - 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [
+      "https://wa.me/?text=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Findice%2FTOPIX-INDEX-61714390%2Fnoticia%2FLos-habitantes-de-Hiroshima-esperan-que-los-Oscar-a-Oppenheimer-llamen-la-atenci-n-sobre-la-reali-46138377%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://twitter.com/intent/tweet?text=Los",
+      "https://cdn.zonebourse.com/static/resize/464/261//images/reuters/2024-03/2024-03-11T085317Z_1_LYNXNPEK2A0B4_RTROPTP_3_AWARDS-OSCARS.JPG",
+      "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Findice%2FTOPIX-INDEX-61714390%2Fnoticia%2FLos-habitantes-de-Hiroshima-esperan-que-los-Oscar-a-Oppenheimer-llamen-la-atenci-n-sobre-la-reali-46138377%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=Los",
+      "https://telegram.me/share/url?url=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Findice%2FTOPIX-INDEX-61714390%2Fnoticia%2FLos-habitantes-de-Hiroshima-esperan-que-los-Oscar-a-Oppenheimer-llamen-la-atenci-n-sobre-la-reali-46138377%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Findice%2FTOPIX-INDEX-61714390%2Fnoticia%2FLos-habitantes-de-Hiroshima-esperan-que-los-Oscar-a-Oppenheimer-llamen-la-atenci-n-sobre-la-reali-46138377%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Findice%2FTOPIX-INDEX-61714390%2Fnoticia%2FLos-habitantes-de-Hiroshima-esperan-que-los-Oscar-a-Oppenheimer-llamen-la-atenci-n-sobre-la-reali-46138377%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.wa.me/?text=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Findice%2FTOPIX-INDEX-61714390%2Fnoticia%2FLos-habitantes-de-Hiroshima-esperan-que-los-Oscar-a-Oppenheimer-llamen-la-atenci-n-sobre-la-reali-46138377%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://telegram.me/share/url",
+      "https://www.cdn.zonebourse.com/static/resize/464/261//images/reuters/2024-03/2024-03-11T085317Z_1_LYNXNPEK2A0B4_RTROPTP_3_AWARDS-OSCARS.JPG",
+      "https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Findice%2FTOPIX-INDEX-61714390%2Fnoticia%2FLos-habitantes-de-Hiroshima-esperan-que-los-Oscar-a-Oppenheimer-llamen-la-atenci-n-sobre-la-reali-46138377%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=Los",
+      "https://www.telegram.me/share/url?url=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Findice%2FTOPIX-INDEX-61714390%2Fnoticia%2FLos-habitantes-de-Hiroshima-esperan-que-los-Oscar-a-Oppenheimer-llamen-la-atenci-n-sobre-la-reali-46138377%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://wa.me/",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.linkedin.com/shareArticle",
+      "https://www.twitter.com/intent/tweet?text=Los",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-11T10:58:34.960+02:00",
+    "updated": "2024-03-11T10:58:34.960+02:00"
+  },
+  {
+    "uuid": "9c33f4672918c2638f14e7181a3d6bcd15af44b5",
+    "url": "https://tribune.net.ph/2024/10/03/supercharged-storms-how-climate-change-amplifies-cyclones",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TDT",
+    "published": "2024-10-03T16:20:00Z",
+    "title": "Supercharged storms: How climate change amplifies cyclones",
+    "text": "Climate change set the stage for ‘Helene,’ which peaked as a Category 4 hurricane People clean up after major flooding in Kalaw township in Myanmar's southern Shan state on September 19, 2024, following heavy rains in the aftermath of Typhoon Yagi STR / AFP/File TDT Published on: 03 Oct 2024, 16:20\nCopied\nWASHINGTON, United States (AFP) — From Hurricane “Helene” to typhoon “Yagi,” powerful storms are battering the globe, and scientists warn that a warming planet is amplifying their destructive force to unprecedented levels.\nHere’s what the latest research reveals about how climate change is supercharging tropical cyclones — the generic term for both weather phenomenon.\nPacking more punch\nFirst, the basics: warmer ocean surfaces release more water vapor, providing additional energy for storms, which intensifies their winds. A warming atmosphere also allows them to hold more water, boosting heavy rainfall.\n“On average, the destructive potential of hurricanes has increased about 40 percent due to the 1 degrees Celsius (roughly 2 degrees Fahrenheit) warming that has already taken place,” Michael Mann, a climatologist at University of Pennsylvania, told Agence France-Presse (AFP).\nIn a recent paper in the Proceedings of the National Academy of Sciences, Mann added his voice to calls for the Saffir-Simpson scale to be expanded to include a “new class of monster storms” — Category 6, where sustained winds exceed 308 kilometers per hour.\nAccording to experts, climate change set the stage for “Helene,” which peaked as a Category 4 hurricane.\n“The oceanic heat content was at a record level, providing plenty of fuel and potential for a storm like this to gain strength and become a large and very damaging storm,” David Zierden, Florida’s state climatologist, told AFP.\nRapid intensification\n“Rapid intensification,” defined as a hurricane speeding up by 30 knots within a 24-hour period, is also becoming more common.\n“If intensification happens very close to the coast in the lead up to landfall, it can have a huge effect, which you saw last week in the case of Helene,” Karthik Balaguru, a climate scientist at the Department of Energy’s Pacific Northwest National Laboratory, told AFP.\nBalaguru was the lead author on a paper this year in journal Earth’s Future that used decades of satellite data to show “a robust increase in the rates at which storms intensified close to the coast, and this is across the world.”\nSuper Typhoon Yagi Hurricane “Helene”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Social Issue",
+      "Weather"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftribune.net.ph%2F2024%2F10%2F03%2Fsupercharged-storms-how-climate-change-amplifies-cyclones",
+      "https://twitter.com/intent/tweet?url=https%3A%2F%2Ftribune.net.ph%2F2024%2F10%2F03%2Fsupercharged-storms-how-climate-change-amplifies-cyclones&text=Supercharged%20storms%3A%20How%20climate%20change%20amplifies%20cyclones%0A&hashtags=",
+      "https://api.whatsapp.com/send?text=https%3A%2F%2Ftribune.net.ph%2F2024%2F10%2F03%2Fsupercharged-storms-how-climate-change-amplifies-cyclones",
+      "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ftribune.net.ph%2F2024%2F10%2F03%2Fsupercharged-storms-how-climate-change-amplifies-cyclones&title=Supercharged%20storms%3A%20How%20climate%20change%20amplifies%20cyclones%0A",
+      "https://www.linkedin.com/shareArticle",
+      "https://www.facebook.com/sharer.php",
+      "https://facebook.com/sharer.php?u=https%3A%2F%2Ftribune.net.ph%2F2024%2F10%2F03%2Fsupercharged-storms-how-climate-change-amplifies-cyclones",
+      "https://linkedin.com/shareArticle?url=https%3A%2F%2Ftribune.net.ph%2F2024%2F10%2F03%2Fsupercharged-storms-how-climate-change-amplifies-cyclones&title=Supercharged%20storms%3A%20How%20climate%20change%20amplifies%20cyclones%0A",
+      "https://www.twitter.com/intent/tweet?url=https%3A%2F%2Ftribune.net.ph%2F2024%2F10%2F03%2Fsupercharged-storms-how-climate-change-amplifies-cyclones&text=Supercharged%20storms%3A%20How%20climate%20change%20amplifies%20cyclones%0A&hashtags=",
+      "https://www.api.whatsapp.com/send?text=https%3A%2F%2Ftribune.net.ph%2F2024%2F10%2F03%2Fsupercharged-storms-how-climate-change-amplifies-cyclones",
+      "https://api.whatsapp.com/send",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Kalaw",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T00:50:34.351+03:00",
+    "updated": "2024-10-04T00:50:34.351+03:00"
+  },
+  {
+    "uuid": "c4f3799d4227a289b2671987497dfb045836f9b5",
+    "url": "https://www.wtkr.com/news/politics/virginia-sen-mark-warner-announces-the-launch-of-ashanti-alert-website",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Web Staff",
+    "published": "2024-10-17T22:00:00Z",
+    "title": "Virginia Sen. Mark Warner announces the launch of Ashanti Alert website",
+    "text": "Virginia Senator Mark Warner announced the launch of the Ashanti Alert website, designed to alert the public on missing and endangered adults ages 18-64.The website will provide information on the law and the National Ashanti Alert Network in addition to including links to state missing person programs and other resources.“Having fought for the passage and nationwide implementation of the Ashanti Alert nationwide, I’m very proud to announce the launch of a public website that will help the public better understand how to report a missing person,” said Sen. Warner. “I’ve been proud to work closely with the Department of Justice on the launch of these resources as we continue to honor Ashanti’s legacy and save lives.”Watch: FCC approves 'Missing and Endangered Persons' alert codeChampioned by Warner, the Ashanti Alert Act became law in 2018 after Virginia Beach woman Ashanti Billie, 19, was abducted from Norfolk and found dead in North Carolina days later in 2017.Billie was too old to receive an AMBER alert and too young for a senior alert.Back in August, the Federal Communications Commission (FCC) approved the \\\"Missing and Endangered Persons’ Emergency Alert System Code.\\\" The code was help find those outside the criteria of an AMBER alert.Watch: Lawmaker reflects on early progress of CODI Alert for missing childrenFCC chairwoman Jessica Rosenworcel told News 3 she hopes the code will \\\"galvanize public attention to missing and endangered people of all ages who do not qualify for AMBER Alerts, including those who meet the criteria for Ashanti Alerts.\\\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T02:12:28.217+03:00",
+    "updated": "2024-10-18T03:23:41.113+03:00"
+  }
+]

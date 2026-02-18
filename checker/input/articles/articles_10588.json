@@ -1,0 +1,423 @@
+[
+  {
+    "uuid": "7f44d75ba9cdff4629a397baf27c733dc7c8c5da",
+    "url": "https://davefriedman.substack.com/p/mckinsey-doesnt-understand-ai",
+    "ord_in_thread": 0,
+    "author": "Dave Friedman",
+    "published": "2025-06-18T13:01:00Z",
+    "title": "McKinsey Doesn't Understand AI - by Dave Friedman",
+    "text": "For the past 18 months, enterprises have been duct-taping chatbots to workflows and calling it digital transformation. The results speak for themselves: 80% adoption, 0% impact on EBITDA. Now, in a new report , McKinsey finally admits the obvious: copilots don’t move the needle. Their proposed solution? Replace them with “agentic” AI and redesign the enterprise around it.\nThey’re right about the diagnosis. But, as is so often the case with McKinsey, they mistake a compelling PowerPoint for a workable plan. They imagine autonomous agents as a linear unlock for trillion-dollar value capture, ignoring the mess of organizational resistance, technical fragility, and compute economics that make this transition a meat grinder, not a memo.\nLet’s break it down.\nSubscribe The Good: A Better Frame\nCredit where due: the report clearly names the paradox that most exeuctives have been privately stewing over. Gen-AI adoption is high. Impact is low. Why? Because embedding a chatbot into Outlook is not the same as transforming a business function.\nMcKinsey correctly identifies the next phase: agents, not assistants. These are not UX accessories, but workflow primitives: systems that perceive, decide, and act with partial autonomy. Unlike copilots that passively suggest, agents initiate. They fetch documents, call APIs, orchestrate multi-step tasks, and potential restructure entire operational cadences.\nThe report also offers a useful architectural motif: the “agentic mesh”. Think of it as an enterprise nervous system: memory modules, tool interfaces, security layers, and guardrails all stitched into a layer that lives between the LLM and the application surface. If you’re serious about deploying agents at scale, this mesh becomes your control plane and your blast radius.\nAnd yes, McKinsey is correct that this won’t happen unless the CEO drives it. This isn’t an IT project. It’s a reorg with embedded compute.\nSo far, so good. But then the slide clicks forward, and the hallucination begins.\nThe Blind Spots: Linear Thinking in a Nonlinear Domain\nThe Value Mirage\nMcKinsey reuses their now-familiar gen-AI uplift estimate: $2.6 to $4.4 trillion of “value.” But they treat agents as a frictionless unlock, as if dropping them into a workflow immediately extracts latent margin. In practice, most real-world deployments don’t survive contact with the data. Ask anyone who’s run a serious agent pilot, and you’ll hear the same refrain: dirty systems, unknown edge cases, costly tool-chaining, and reliability cliffs.\nAgents aren’t RPA 2.0. They’re stochastic planners with blurry state awareness and a penchant for surprise. They fail differently and more expensively.\nThe Technical Amnesia\nThere’s a passing nod to hallucination, but no real accounting for what makes agents fragile. Multi-step reasoning increases error rates nonlinearly. Long-lived agents suffer state drift. Tool abuse is real: see ServiceNow’s internal write-ups on API overuse loops costing thousands per run. Sub-agent recursion can spawn resource deadlocks. None of this appears in McKinsey’s sanitized maturity matrix.\nWe’re building distributed systems with the failure surfaces of toddlers and the compute appetite of small cities. Treating this as an inevitability rather than a minefield is malpractice.\nThe Infra Abyss\nNowhere does McKinsey mention that agents are infra hogs. They keep memory warm, index context on vector DBs, hit APIs asynchronously, and run token-heavy plans across multiple threads. LLM inference is often <50% of total TCO. The rest is orchestration latency, memory storage, and tool invocation. Worse: most of today’s hyperscale data centers are GPU-optimized sweatboxes. Post-GPU substrates are coming, and they may be incompatible with today’s infra. Stranded asset risk looms. McKinsey doesn’t even glance at it.\nCommoditization Headwinds\nThe report imagines vertical agents as durable moats. In reality, every model provider is actively absorbing agent functionality: tool use, multi-turn memory, reasoning loops. Meta, OpenAI, Anthropic, Amazon: they’re all building orchestration into the model or the host platform. Agents risk becoming middleware mush. The same thing happened to RPA. Expect it again.\nThe moat is not your agent. The moat is your data, your integration layer, and your control over the mesh.\nCultural Reality Distortion\nMcKinsey’s prescriptions, including “transformation squads,” “prompt engineering guilds,” and “governance boards,” sound great in a workshop. But they underestimate the sheer gravitational pull of organizational inertia. Risk teams kill autonomy pilots. Procurement stalls tool access. Security mandates crush cross-domain orchestration. Most enterprises today cap agents at Level 1 or 2 autonomy (read-only or approval-gated). McKinsey sketches Level 4 agents. There is no path provided for how we get there. It’s just a leap of faith across the power curve.\nWhat to Actually Do\nForget the whitepapers. If you’re serious about agents, here’s a saner roadmap.\nStart with bounded autonomy. Pick painful, well-scoped tasks: invoice triage, claim bundling, lead requalification. Build in kill-switches and observability from day one.\nModel true cost. Don’t get distracted by OpenAI pricing. Tool usage, memory calls, latency buffers, and API hits will dominate your bill.\nDesign for disposal. Assume your current orchestration framework will be obsolete in 12–18 months. Architect for swap-ability, not permanence.\nStress-test failure paths. Build adversarial agent testbeds. What happens when an agent gets rate-limited mid-plan? What if a sub-agent times out? Simulate entropy before it hits production.\nBuild trust incrementally. Autonomy is not a switch. Move from assistive to autonomous only when you’ve measured precision, recall, plan success, and safe termination across multiple task types. The gap from “suggest” to “do” is bigger than it looks.\nThe Real Lesson\nMcKinsey’s agent thesis is not wrong so much as it is dangerously incomplete. Yes, copilots are UX glitter. Yes, agents are the next wave. But this isn’t a linear march toward productivity. It’s a strategic trench war, fought across the stack: infrastructure, data access, ops design, and internal resistance.\nTreat McKinsey’s report like a motivational speech at the beginning of a long campaign. The battle map it draws is crude. The terrain is hostile. The enemy is not technical complexity. It’s your own firm’s inertia.\nAnd there’s no agent coming to fix that for you.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Economy, Business and Finance->business strategy and marketing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage#/",
+      "https://en.wikipedia.org/wiki/Robotic_process_automation",
+      "https://www.servicenow.com/community/now-assist-articles/ai-agents-faq-and-troubleshooting/ta-p/3200454?utm_source=chatgpt.com",
+      "https://www.servicenow.com/community/now-assist-articles/ai-agents-faq-and-troubleshooting/ta-p/3200454",
+      "https://mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage#/",
+      "https://www.en.wikipedia.org/wiki/Robotic_process_automation",
+      "https://servicenow.com/community/now-assist-articles/ai-agents-faq-and-troubleshooting/ta-p/3200454?utm_source=chatgpt.com",
+      "https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage#"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Dave Friedman",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "EBITDA",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": "left"
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:36:17.172+03:00",
+    "updated": "2025-06-19T04:41:43.000+00:00"
+  },
+  {
+    "uuid": "4fcbd80179de618044fcb4ea39e6f5d3e23f7dc7",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-strikes-south-syria-and-damascus-ministry-state-media/articleshow/106361191.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2023-12-28T20:22:00Z",
+    "title": "Israel strikes south Syria and Damascus: ministry, state media - Times of India",
+    "text": "DAMASCUS: Israeli air strikes hit southern Syria, the Syrian defence ministry said, with state media reporting attacks near the capital Damascus.\\\"At approximately 23:05 (20:05 GMT) today, the Israeli enemy carried out air strikes from the direction of the occupied Syrian Golan, targeting some points in the southern region,\\\" the defence ministry said in a statement, reporting no casualties.Israel rarely comments on strikes targeting Syria, but it has repeatedly said it will not allow arch-foe Iran, which backs President Bashar al-Assad's government, to expand its presence in the country.\\\"Our air defences are intercepting hostile targets in the vicinity of Damascus,\\\" official news agency SANA said.\\\"An Israeli attack targeted the vicinity of the capital Damascus,\\\" state television said.The Syrian Observatory for Human Rights war monitor reported Israeli strikes targeting a Syrian air defence position in the country's southern Sweida province, as well as near Damascus international airport.The attack near the airport came \\\"one whole day after the airport resumed flights,\\\" said the British-based monitor with a network inside Syria.Damascus international airport had been out of service since Israeli strikes targeted it in late November, just hours after flights resumed following similar attacks the previous month.The airport was not damaged in the latest strike, Observatory chief Rami Abdel Rahman told AFP.Israel has launched hundreds of air strikes on its northern neighbour since Syria's civil war began in 2011, primarily targeting Iran-backed forces including Lebanese Hezbollah fighters as well as Syrian army positions.But it has intensified attacks since the war between Israel and Hamas began on October 7, as tensions rise across the Middle East.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bashar al-assad",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "sana",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "damascus",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "syria",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "iran",
+          "sentiment": "none"
+        },
+        {
+          "name": "golan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:05:55.737+02:00",
+    "updated": "2023-12-29T01:05:55.737+02:00"
+  },
+  {
+    "uuid": "8baf1c7d42184a24cf315248761df80e5978ae5c",
+    "url": "https://www.mdzol.com/sociedad/2023/12/28/bill-gates-revelo-las-tres-profesiones-clave-que-sobreviviran-la-inteligencia-artificial-395048.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "mdzol.com",
+    "published": "2023-12-28T23:00:00Z",
+    "title": "Bill Gates reveló las tres profesiones clave que sobrevivirán a la Inteligencia Artificial - MDZ Online",
+    "text": "Bill Gates reveló las tres profesiones clave que sobrevivirán a la Inteligencia Artificial El confundador de Microsoft dio su visión sobre el futuro de algunas profesiones y los cambios que llegarán con la Inteligencia Artificial. Cuáles son y qué podría pasar en los próximos años. La [Inteligencia Artificial](https://www.mdzol.com/temas/inteligencia-artificial-3428.html) (IA) ha llegado para quedarse, y su influencia en la sociedad y el mundo laboral es cada vez más evidente. Las empresas tecnológicas están adoptando esta innovación en sus productos, pero surge la preocupación sobre el reemplazo de trabajadores y cómo este avance transformará nuestra forma de vida. El cofundador de Microsoft, Bill Gates, es un destacado visionario en el ámbito tecnológico, y sus reflexiones sobre la Inteligencia Artificial destacan su potencial para transformar diversos sectores de la sociedad. Bill Gates compara la llegada de la IA con la creación de Internet y destaca su capacidad para revolucionar la educación, la salud y el mercado laboral. Según Bill Gates, la Inteligencia Artificial ofrece nuevas oportunidades y soluciones para enfrentar grandes desafíos. Visualiza un futuro en el que las máquinas asumirán tareas rutinarias, permitiendo a los humanos enfocarse en actividades más creativas y significativas. La capacidad de automatizar procesos, como la toma de notas en reuniones y la síntesis de ideas clave, cambiará la dinámica laboral. Qué trabajos no podrán ser reemplazados en el futuro por la inteligencia artificial, según Bill Gates El magnate filántropo pronostica que los trabajos esenciales en el futuro estarán centrados en tres áreas clave: la Inteligencia Artificial, la energía y la biología. Estas áreas se convertirán en pilares fundamentales para la sociedad, ofreciendo oportunidades profesionales significativas. En una publicación en su blog personal, [Gates's Notes](https://www.gatesnotes.com/), Bill Gates proyecta cambios significativos en la forma en que interactuamos con la tecnología en los próximos cinco años. Predice que las aplicaciones tradicionales, como Microsoft Word o Google Docs, perderán relevancia a medida que la Inteligencia Artificial asuma un papel más integral en nuestras vidas. Bill Gates visualiza un futuro donde cada individuo tendrá un asistente personal, denominado \"agente\", que se adapta al lenguaje natural y realiza tareas según los datos del usuario. Estos agentes cambiarán no solo la interacción con las computadoras, sino también la industria del software, marcando una revolución comparable a la transición de escribir comandos a tocar íconos. [](/sociedad/2023/12/28/ley-omnibus-especialistas-cuestionan-el-divorcio-expres-que-planteo-javier-milei-395046.html) Debate el Congreso Abogados criticaron el divorcio exprés que planteó Milei en la ley ómnibus [](/sociedad/2023/12/28/el-gobierno-confirmo-el-pago-de-un-bono-de-55-mil-para-los-jubilados-395110.html) Haberes El Gobierno confirmó el pago de un bono de $55 mil para los jubilados [](/sociedad/2023/12/28/verano-2024-anuncian-mas-frecuencias-de-micros-la-playita-de-lujan-395109.html) Vacaciones Verano 2024: anuncian más frecuencias de micros a la Playita de Luján [](/sociedad/2023/12/28/cuanto-gastara-el-gobierno-en-arreglar-mil-escuelas-de-cara-al-ciclo-lectivo-2024-395080.html) Infraestructura Cuánto gastará el Gobierno en arreglar más de mil escuelas de cara al 2024 [](/sociedad/2023/12/28/confirmado-el-precio-del-boleto-en-el-amba-sera-de-77-pesos-desde-enero-395062.html) Aumento Confirmado: el precio del boleto en el AMBA será de 77 pesos desde enero [](/sociedad/2023/12/28/esos-santos-que-no-van-venir-marchando-394699.html) Dia de los Santos Inocentes Esos Santos que no van a venir marchando [](/sociedad/2023/12/28/por-que-hay-destinos-turisticos-con-mayor-nivel-de-ocupacion-que-otros-394955.html) Grieta de demanda Por qué hay destinos turísticos con mayor nivel de ocupación que otros [](/sociedad/2023/12/28/el-video-de-la-enternecedora-reaccion-de-una-mujer-cuando-toca-un-pingino-por-primera-vez-395055.html) Viral",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.gatesnotes.com/),",
+      "https://gatesnotes.com/),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:20:06.663+02:00",
+    "updated": "2023-12-29T02:34:20.992+02:00"
+  },
+  {
+    "uuid": "77864eb28ccb519515f5f8b85b3d9459380967cf",
+    "url": "https://daijiworld.com/news/newsDisplay?newsID=1153623",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "daijiworld.com",
+    "published": "2023-12-28T21:50:00Z",
+    "title": "Guests in Ayodhya to be gifted 'Ayodhya Darshan' literature",
+    "text": "Gorakhpur (UP), Dec 29 (IANS): Guests at the consecration ceremony of the Ram Temple in Ayodhya will have the opportunity for 'Ayodhya Darshan' through the renowned Gita Press literature that will be gifted to them.\nThe manager of Gita Press, Lalmani Tiwari, said that 'Ayodhya Darshan' includes a brief history of Ayodhya and highlights the significance of the pilgrimage through the topic entitled 'Ayodhya Mahatyam', along with other information about religious places like Hanuman Garhi and Hanuman Bagh.\nTiwari emphasised that the life and sacrifice of Lord Ram reflect the true essence of Indian culture, recalling Mahatma Gandhi's call for Ram Rajya after Swaraj.\nAyodhya darshan will also provide information about dharamshala hotels, trains and bus services from different cities to Ayodhya.\nGita Press Gorakhpur’s publication, 'Ayodhya Darshan', will serve as a memory refresher for all ceremony attendees, Tiwari added.\nTiwari said during the consecration ceremony, these books would be released by the President and distributed free among 8,000 invitees.\nDisclaimer:\nPlease write your correct name and email address. Kindly do not post any personal, abusive, defamatory, infringing, obscene, indecent, discriminatory or unlawful or similar comments. Daijiworld.com will not be responsible for any defamatory message posted under this article.\nPlease note that sending false messages to insult, defame, intimidate, mislead or deceive people or to intentionally cause public disorder is punishable under law. It is obligatory on Daijiworld to provide the IP address and other details of senders of such comments, to the authority concerned upon request.\nHence, sending offensive comments using daijiworld will be purely at your own risk, and in no way will Daijiworld.com be held responsible.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ayodhya darshan",
+          "sentiment": "negative"
+        },
+        {
+          "name": "hanuman garhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "tiwari",
+          "sentiment": "none"
+        },
+        {
+          "name": "hanuman bagh",
+          "sentiment": "none"
+        },
+        {
+          "name": "mahatma gandhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "swaraj",
+          "sentiment": "none"
+        },
+        {
+          "name": "lalmani tiwari",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "gita press",
+          "sentiment": "none"
+        },
+        {
+          "name": "gita press gorakhpur",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gorakhpur",
+          "sentiment": "none"
+        },
+        {
+          "name": "ayodhya",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T11:57:37.844+02:00",
+    "updated": "2023-12-29T11:57:37.844+02:00"
+  },
+  {
+    "uuid": "28a8b92bb2b01b4ea9ae1439cf1bd59800ea3960",
+    "url": "https://flipboard.com/article/first-living-patient-with-transplanted-pig-kidney-goes-home-from-the-hospital/f-92514442ce%2Fphillytrib.com",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "phillytrib.com - John Bonifield, Brenda Goodman and Carma Hassan",
+    "published": "2024-04-04T00:00:00Z",
+    "title": "First living patient with transplanted pig kidney goes home from the hospital | Flipboard",
+    "text": "First living patient with transplanted pig kidney goes home from the hospital Rick Slayman, the world’s first living recipient of a genetically edited pig kidney transplant, was discharged from the hospital Wednesday, two weeks … Related storyboards More stories from [Life Sciences](/topic/lifesciences) [I Had My Son Do a DNA Test Which Confirmed Paternity, but Then His Fiancée’s Mother Called and Left Me Totally Shocked](/topic/lifesciences/i-had-my-son-do-a-dna-test-which-confirmed-paternity-but-then-his-fianc-e-s-mot/a-anjkCRV9QXSlgrkinsIsng%3Aa%3A2867092696-0efe43b0de%2Famomama.com) An unplanned pregnancy can often be a miracle that draws a family closer. In Ryan's case, this is exactly what happened when his girlfriend fell … [Woman Decides to DNA Test the ‘Mutt’ She Adopted, Not Prepared for Results](/topic/lifesciences/woman-decides-to-dna-test-the-mutt-she-adopted-not-prepared-for-results/a-ToZ5mbE3SnC4-UtVDWAEkA%3Aa%3A2867092696-1e3d5de826%2Fmiamiherald.com) A woman in New York who did a DNA test for her \"mutt,\" a dog that does not belong to one breed and has parents of different breeds, has been shocked … [12 Stunning Wildlife Winning Photos From London’s Natural History Museum Exhibition](/topic/lifesciences/12-stunning-wildlife-winning-photos-from-london-s-natural-history-museum-exhibit/a-SDQd0jqkTgypjIhnPmcMDw%3Aa%3A3714136-643ca7b441%2Fforbes.com) The Wildlife Photographer Of The Year (WPY) exhibition at the Natural History Museum in London is a show of work of the world's 105 best nature photographers awarded for their artistic composition, technical innovation and truthful interpretation of wildlife on our planet. From the jungles to the … Join the flipboard community Discover, collect, and share stories for all your interests [Sign up](/signup) More stories from [Science](/topic/science) [How do you end a conversation with someone who won't stop talking? 19 people share their tricks.](/topic/science/how-do-you-end-a-conversation-with-someone-who-won-t-stop-talking-19-people-sha/a-zuxvaZVJTOyoIbwb9eyM0A%3Aa%3A114859074-99bf31b744%2Fupworthy.com) We all know someone who talks too much. There are some people who live under the illusion that everything they say is deeply interesting and have no … [Metal detectorist searching Polish field finds something ancient — and ready for war](/topic/science/metal-detectorist-searching-polish-field-finds-something-ancient-and-ready-for/a-Tf4mlG1eSbaj52rAVKlKAQ%3Aa%3A23838496-3687f6f190%2Fsacbee.com) Patryk Chmielewski, the self-proclaimed “Profesor Detektorysta” or Professor Detectorist, shares his love of treasure hunting online through social …",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "rick slayman",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ryan",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-05T01:59:44.266+03:00",
+    "updated": "2024-04-05T01:59:44.266+03:00"
+  },
+  {
+    "uuid": "f03f583149dfd1cea7cb4bd561b18f090210462f",
+    "url": "https://www.king5.com/article/tech/science/environment/240-million-tribal-salmon-hatcheries-across-northwest/281-2772aac6-b8f3-4482-9b78-32f8cac285f8",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Erica Zucco",
+    "published": "2024-10-04T00:57:00Z",
+    "title": "$240 million will go toward tribal salmon hatcheries across the Northwest",
+    "text": "TULALIP, Wash. — Tulalip tribal leaders, representatives from the National Oceanic and Atmospheric Administration (NOAA), Gov. Jay Inslee and partners discussed plans Thursday for millions of dollars in federal funding to go toward salmon hatcheries. It comes after the Departments of Commerce and Interior [announced ](https://www.commerce.gov/news/press-releases/2024/07/commerce-and-interior-departments-announce-240-million-president-bidens)in July that $240 million from the Investing in America agenda would go toward supporting fish hatcheries producing Pacific steelhead and salmon. A news release said the move was a step toward \"underscoring the Biden-Harris administration’s commitment to empowering Tribal Nations and fulfilling the federal government’s trust and treaty responsibilities.\" \"These hatcheries are part of our treaty trust obligations to the tribes in ensuring they have fish for their fisheries, and their subsistence and ceremonial purposes,\" said Jennifer Quan, regional administrator for the West Coast Region of NOAA Fisheries. NOAA [conducted ](https://www.noaa.gov/sites/default/files/2023-06/IRA_Tribal_NOAA_Executive_Summary_and_Response_060523_508_0.pdf)a process to gather input from tribes on the most effective ways to allocate agency funding from the Inflation Reduction Act, and a report said priorities included salmon hatcheries, habitat restoration, science support and recovery planning and coordination. It details a $390 million allocation toward tribal priorities, including a $240 million set aside for salmon hatcheries for tribal governments. Jason Gobin, Executive Director of Natural and Cultural Resources for Tulalip Tribes, said while its hatchery is productive it's also outdated. \"We're in need of upgrades to be able to better facilitate releases and broodstocking at the same time,\" Gobin said. \"Multiple releases for multiple species here on site because we're finding that timing is key to our releases and so having any delay because of fish health issues or growth -- we need to be able to release fish in the adjacent ponds.\" Gobin said the tribe has already created initial plans, but hopes funding from this allocation could help bring them to fruition. While the money has been set aside, specific projects that will receive funding have not yet been announced. Still, he said this is a significant moment. \"This is a historic funding opportunity that's been made available to in tribes, a lot of times in the past this would not have gone directly to the tribes or would have been facilitated another way potentially,\" Gobin said. \"This is a much needed injection into the infrastructure that supports all these hatcheries- which supports not only tribal fisheries but non-tribal fisheries up and down the west coast.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Environment",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.noaa.gov/sites/default/files/2023-06/IRA_Tribal_NOAA_Executive_Summary_and_Response_060523_508_0.pdf",
+      "https://www.commerce.gov/news/press-releases/2024/07/commerce-and-interior-departments-announce-240-million-president-bidens",
+      "https://commerce.gov/news/press-releases/2024/07/commerce-and-interior-departments-announce-240-million-president-bidens",
+      "https://noaa.gov/sites/default/files/2023-06/IRA_Tribal_NOAA_Executive_Summary_and_Response_060523_508_0.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T04:11:45.271+03:00",
+    "updated": "2024-10-11T14:43:24.257+03:00"
+  },
+  {
+    "uuid": "dbe87864c675447e23329d682baa0575b5b8777b",
+    "url": "https://www.archyde.com/a-series-of-successive-israeli-raids-on-lebanon-at-dawn-on-thursday",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archyde",
+    "published": "2024-08-23T00:08:00Z",
+    "title": "A series of successive Israeli raids on Lebanon at dawn on Thursday",
+    "text": "Lebanon – Sources from Lebanon reported that the Israeli army launched a series of successive raids on a number of areas deep inside Lebanon and in southern Lebanon.\nThe simultaneous raids carried out by Israeli warplanes on southern Lebanon included the towns of: Khiyam, Muhaibib, Kfar Shouba, Aita al-Shaab, Ramya, Zebqin, Kawthariyet al-Sayyad, and Kfar Kila.\nIsraeli warplanes flew over the southern suburbs of Beirut at a medium level.\nSirens sounded in the UNIFIL centers in southern Lebanon before the Israeli raids.\nYesterday morning, Wednesday, the Israeli army launched a series of raids on the Bekaa region in eastern Lebanon, which, according to an unofficial tally from the Lebanese Ministry of Health, led to the death of one person and the injury of 20 others.\nThe ministry said that one of the wounded was in critical condition, while 9 others, a pregnant woman and 8 children, were moderately injured.\nFor its part, the Lebanese factions targeted the Katzrin settlement in the southern occupied Syrian Golan with dozens of missiles, which resulted in at least one person being injured and significant material damage.\nThe Lebanese factions also announced the bombing of the headquarters of the 210th Golan Division in the Nafah barracks and the headquarters of the Artillery Regiment and the Armored Brigade in the Yarden barracks.\nIt is worth noting that these operations may develop and turn into a comprehensive war between the Lebanese factions and Israel, as the Middle East is witnessing a state of anticipation and fear of the expansion of the conflict between Iran and the Lebanese factions on the one hand, and Israel on the other hand, and its transformation into a comprehensive war, following the assassination of Ismail Haniyeh in the capital, Tehran, and the assassination of the leader Fouad Shukr in an Israeli raid on a residential building in the southern suburb of Beirut.\nThe Lebanese factions and Iran vowed to respond to the assassinations, amid diplomatic mediations calling for restraint and not to be dragged into a regional war.\nSource: RT\n#series #successive #Israeli #raids #Lebanon #dawn #Thursday\n2024-08-22 20:08:03",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kawthariyet al-sayyad",
+          "sentiment": "none"
+        },
+        {
+          "name": "aita al-shaab",
+          "sentiment": "none"
+        },
+        {
+          "name": "ramya",
+          "sentiment": "none"
+        },
+        {
+          "name": "kfar shouba",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "lebanese ministry of health",
+          "sentiment": "none"
+        },
+        {
+          "name": "unifil",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "lebanon",
+          "sentiment": "none"
+        },
+        {
+          "name": "beirut",
+          "sentiment": "none"
+        },
+        {
+          "name": "zebqin",
+          "sentiment": "none"
+        },
+        {
+          "name": "katzrin",
+          "sentiment": "none"
+        },
+        {
+          "name": "khiyam",
+          "sentiment": "none"
+        },
+        {
+          "name": "muhaibib",
+          "sentiment": "none"
+        },
+        {
+          "name": "kfar kila",
+          "sentiment": "none"
+        },
+        {
+          "name": "bekaa",
+          "sentiment": "none"
+        },
+        {
+          "name": "golan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-23T05:39:44.211+03:00",
+    "updated": "2024-08-23T05:39:44.211+03:00"
+  }
+]

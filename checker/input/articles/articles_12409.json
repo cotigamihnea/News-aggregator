@@ -1,0 +1,543 @@
+[
+  {
+    "uuid": "71533ca8a9fe143cb59be8c0f4748846bce6508a",
+    "url": "https://www.tribuneindia.com/news/chandigarh/thick-fog-in-chandigarh-4-flights-delayed",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tribune News Service",
+    "published": "2025-01-03T05:26:00Z",
+    "title": "Thick fog in Chandigarh, 4 flights delayed - The Tribune",
+    "text": "Thick fog in Chandigarh, 4 flights delayed\nA thick blanket of fog engulfed Chandigarh on Friday morning, as visibility dropped to zero in some areas, with the weather department predicting cloudy skies for the day.\nFour flights were delayed due to fog and poor visibility conditions at the Shaheed Bhagat Singh International Airport, Chandigarh, on Friday morning.\nThe early morning arrival from Pune (7:55am) was delayed by more than two hours, while three departures to Delhi, Mumbai, and Goa were delayed till 10:30am today.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Weather->weather phenomena",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T07:35:32.306+02:00",
+    "updated": "2025-01-03T07:35:32.306+02:00"
+  },
+  {
+    "uuid": "5730a6a27de779d9cf037d3c6ab413f727308a78",
+    "url": "https://www.numberfire.com/nfl/player-news/251894/ravens-zay-flowers-calf-dnp-again-on-thursday",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Zack Bussiere; December",
+    "published": "2023-12-28T22:20:00Z",
+    "title": "Ravens' Zay Flowers (calf) DNP again on Thursday",
+    "text": "Ravens' Zay Flowers (calf) DNP again on Thursday Baltimore Ravens wide receiver Zay Flowers (calf) did not practice on Thursday ahead of Week 17's game against the Miami Dolphins. Flowers continues to deal with a calf injury and missed his second practice of the week on Thursday. Two missed practices to start the week have Flowers uncertain to play against the Dolphins. Friday's practice report will provide more information. Flowers' Week 17 projection includes 4.9 receptions, 56.3 yards, 0.38 touchdowns, and 11.2 FanDuel points. [David Furones](https://twitter.com/DavidFurones_/status/1740492195394932904) - [Christian Watson (hamstring) out again Thursday for Packers](/nfl/player-news/251862/christian-watson-hamstring-out-again-thursday-for-packers)December 28th, 2023 - [Dolphins' Tua Tagovailoa (thumb, quad) limited again on Thursday](/nfl/player-news/251896/dolphins-tua-tagovailoa-thumb-quad-limited-again-on-thursday)December 28th, 2023 - [Marquise Brown (heel) DNP again on Thursday for Arizona](/nfl/player-news/251882/marquise-brown-heel-dnp-again-on-thursday-for-arizona)December 28th, 2023 - [Luke Musgrave (kidney) logs another limited Packers session](/nfl/player-news/251891/luke-musgrave-kidney-logs-another-limited-packers-session)December 28th, 2023 - [Commanders' Brian Robinson Jr. (hamstring) limited again on Thursday](/nfl/player-news/251895/commanders-brian-robinson-jr-hamstring-limited-again-on-thursday)December 28th, 2023 - [De'Von Achane (toe) returns to practice Thursday for Dolphins](/nfl/player-news/251857/de-von-achane-toe-returns-to-practice-thursday-for-dolphins)December 28th, 2023 - [Ravens' Zay Flowers (calf) DNP again on Thursday](/nfl/player-news/251894/ravens-zay-flowers-calf-dnp-again-on-thursday)December 28th, 2023 - [Ravens' Zay Flowers (calf) DNP on Wednesday](/nfl/player-news/251789/ravens-zay-flowers-calf-dnp-on-wednesday)December 27th, 2023 - [Ravens' Zay Flowers (foot) cleared for Week 16](/nfl/player-news/251639/ravens-zay-flowers-foot-cleared-for-week-16)December 25th, 2023 - [Ravens list Zay Flowers (foot) as questionable in Week 16](/nfl/player-news/251504/ravens-list-zay-flowers-foot-as-questionable-in-week-16)December 23rd, 2023 - [Ravens place running back Keaton Mitchell (knee) on injured reserve](/nfl/player-news/251095/ravens-place-running-back-keaton-mitchell-knee-on-injured-reserve)December 19th, 2023 - [Ravens' Keaton Mitchell suffered season-ending ACL injury in Week 15](/nfl/player-news/250973/ravens-keaton-mitchell-suffered-season-ending-acl-injury-in-week-15)December 18th, 2023",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Health"
+    ],
+    "external_links": [
+      "https://twitter.com/DavidFurones_/status/1740492195394932904)",
+      "https://www.twitter.com/DavidFurones_/status/1740492195394932904)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "brian robinson jr.",
+          "sentiment": "none"
+        },
+        {
+          "name": "raheem mostert",
+          "sentiment": "none"
+        },
+        {
+          "name": "david furones",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "baltimore ravens",
+          "sentiment": "negative"
+        },
+        {
+          "name": "miami dolphins",
+          "sentiment": "none"
+        },
+        {
+          "name": "dolphins",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "miami",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:27:36.697+02:00",
+    "updated": "2023-12-29T00:32:05.685+02:00"
+  },
+  {
+    "uuid": "357070883fd1691a29641a3dea262a72e3052592",
+    "url": "https://www.moneyweb.co.za/news/international/the-secret-perks-of-investing-in-travel/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ramsey Qubein, Bloomberg",
+    "published": "2023-12-29T02:00:00Z",
+    "title": "The secret perks of investing in travel - Moneyweb",
+    "text": "Here’s a little-known fact: people who hold as little as a single share of certain travel companies are entitled to instant perks that far outvalue the price of their investment.\nThink of it as an alternate version of a loyalty programme, one in which you follow the Warren Buffett philosophy of buying into the companies that you love. Royal Caribbean Cruises has lately cost around $109 a share, while Meliá Hotels International has been easily under $10. That nominal purchase can unlock a world of benefits, ranging from $1 000 shipboard credits on certain cruises to instant silver status. ADVERTISEMENT CONTINUE READING BELOW\nInvestments aren’t normally made for the sake of kickbacks or perks, and indeed, this is a time when making larger investments in travel companies may come with considerable risk. According to analysis from Bloomberg Intelligence, US airline shares are underperforming the S&P 500, with both domestic and business travel demand “wilting”, while higher interest rates and geopolitical tension are stifling the growth of European travel brands.\nOn the hotel side, analysts say the same geopolitical fears and additional cost risks stand to temper global travel in 2024. Cruise lines, however, have shown surprising resilience post-pandemic, with Bloomberg Intelligence citing 2023 sales as being 15% higher than 2019 peaks, “despite sector deployment away from the Middle East and a tenuous economy.”\nAnthem of the Seas, a Royal Caribbean ship in Miami. Image: Joe Raedle/Getty Images North America\nFor the companies, the perks are an easy way to entice people to make an investment they may have otherwise been on the fence about.\n“Cash always is king, particularly when it comes to companies still in turnarounds post-pandemic,” says Jodie Lurie, a Bloomberg Intelligence analyst who covers lodging, adding that cash generation and customer loyalty have been key concerns, particularly for cruise companies, in recent years.\nAnd for consumers – particularly those already loyal to these brands – stacking shareholder benefits with loyalty programme perks can create an appealing multiplier effect, where applicable.\nAs with all things, not all shareholder perks programmes are equally valuable – and some are, in fact, not a good deal at all.\nHere are 10 deals worth knowing about across hotel, cruise, and aviation companies – along with breakdowns of how much value those perks can really add. In some cases, you may just find a fast track to your 2024 vacation goals.\nHotels\nAccor, the largest hotel company in Europe, offers instant elite status to anyone who holds just 50 bearer shares or one registered share, which at press time was trading at around €32 (about R654). That’s a small price to pay for gold status, which usually requires staying at the company’s hotels for 30 nights during a calendar year.\nThe status can be valuable: it confers room upgrades, late checkout times, and welcome gifts for guests at any of Accor’s hotels – the company’s 53 brands include legacy stalwarts such as Fairmont, Sofitel, and Raffles.\nTo get a sense of the return you might expect on that €32 investment – not counting the couple of bucks you might make on your single share – imagine you have a weeklong vacation booked to Singapore, with a stay at the legendary Raffles Hotel. If gold status means an upgrade from a Stateroom suite to a Courtyard accommodation room, that could represent a value of $500 (about R9 500) over the course of your trip.\nThe only other major hotel company that has a programme like this is InterContinental Hotels Group, which offers eligible shareholders a 20% discount on “flexible” room rates. That option, however, comes with a far steeper buy-in – it’s only available to those who own at least 100 shares of the company, and the current stock price is £6 308 (about R150 633) – making it less recommendable.\nThe Intercontinental Paris Le Grand hotel in the city’s Opera district. Image: Anita Pouchard Serra/Bloomberg\nFor the best deals, turn to brands with less global name recognition. For instance, Spain-based NH Hotel Group, which is now part of the fast-growing Minor Hotel Group Co, offers up to elite status within the NH Discovery loyalty programme. The level of status conferred varies based on the amount invested. Buying just one share for about €4 is enough to get gold status; it takes more than €2 000 worth of shares to receive platinum and some €3 000 worth to get top-tier titanium status.\nIt’s easier to use that newfound status than you might think. In addition to being valid at NH’s 350+ locations around the world, including the recently opened NH Collection New York Madison Avenue – where the rooms are much more tastefully styled than their $210-a-night price point would suggest – that status also applies to hundreds of hotels within the Global Hotel Alliance. This could net you late checkout, double room upgrades, and welcome gifts at brands such as Anantara, the Leela, Kempinski and Viceroy.\nWhile the upgrades are dependent on availability, they can deliver an incredible return on investment: a booking for a Superior Over Water villa at Anantara Veli Maldives Resort ($670 a night) could get upgraded, perhaps, to an Ocean Pool villa ($931 a night), yielding $1 827 in returns for a weeklong trip.\nMeliá Hotels International, another Spanish brand, similarly awards elite status to shareholders for investing. Owning at least one share (roughly €6 at press time) earns you silver status. One thousand shares buy gold status, and top-tier platinum status is reserved for those who have at least 10 000 shares.\nCruise lines ADVERTISEMENT CONTINUE READING BELOW Carnival’s Valor cruise ship in the port of New Orleans. Image: Luke Sharrett/Bloomberg\nThree cruise lines have similar programmes: Carnival Corporation, Norwegian Cruise Line Holdings and Royal Caribbean Cruises. For each, the benefits kick in by holding 100 shares, and what you get varies based on the length of your cruise; in most cases, it would take repeat cruising, ideally on longer itineraries, for the perks to outvalue the stock purchase.\nCarnival, which consists of its namesake brand and eight other cruise lines, including Cunard Line and Seabourn, offers as much as $250 in onboard credit for sailings of at least 14 days. The credit is only $50 on its shorter cruises. Its share price at press time was $15.\nRead: The most expensive meal in the Hamptons is a $30 000 dinner cruise\nNorwegian Cruise Line Holdings offers similar onboard credits of $250 for trips of at least 15 days (and $50 for six days or fewer). Norwegian’s programme is valid with partners such as Oceania and Regent Seven Seas, too. Its stock price was $15 at press time.\nRoyal Caribbean follows suit with the same credits on its sailings as well as partner brands Celebrity and Silversea. If you take one of its world cruises, which can last anywhere from three to six months and visit dozens of countries, the onboard credit rises to $1 000. But the company has a much higher share cost, which in recent weeks has increased from $89 to $109.\nAirlines\nANA planes at Haneda Airport in Tokyo. Image: Toru Hanai/Bloomberg\nShareholder perks are less common among airlines and generally non-existent among US carriers; Bloomberg Intelligence aviation analyst Tim Bacchus says one (perishable) opportunity for finding them is when an airline undergoes an initial public offering, pointing to AirAsia X as a somewhat recent example.\nMore long-term deals can be found among international aviation brands. Japan residents, for instance, can take advantage of shareholder deals with each of the country’s two largest carriers, ANA Holdings and Japan Airlines Co.\nBoth airlines offer the same deal: 50% off vouchers for domestic flights with the purchase of at least 100 stock shares.\nThe more stock you own, the more vouchers you earn. (The share prices were at ¥3 045 yen and ¥2 802 yen for ANA and Japan Airlines, or $21 and $19, respectively, at press time.)\nSAS, the national airline of Denmark, Sweden and Norway, has a similar programme for people who buy shares of its Nasdaq Stockholm-listed stock, where shares are trading for around $0.29 each. If you own at least 4 000 shares, you’re eligible for special discount fare offers, but the real perks kick in when you own 100 000 shares – enough to earn gold status in the airline’s EuroBonus loyalty programme. This is equivalent to Star Alliance gold status and comes with benefits such as United Club access any time you fly in the US with United, lounge access when flying internationally (no matter what cabin), priority check-in and extra baggage allowance.\nA word of caution: the airline is expected to leave Star Alliance for SkyTeam in 2024 and is on the heels of entering bankruptcy proceedings. Both factors make it unclear if the programme will remain. (Executives have been mum on this so far.) Even if the shareholder perks persist, there are cheaper paths to the same status by flying with the airline itself. For example, taking 45 round-trip domestic flights within Scandinavia will get you there (typically costing around $4 000).\nRead:\nThese are the best airlines of 2023 according to passengers\nAirline blunder sells $10 000 Asia-US business class tickets for $300\nUltimately, what’s true for SAS is true for many of these offers: the perks are great, but they’re only worth it as an added benefit to an investment you were already happy to make.\n© 2023 Bloomberg TAGS: Accor SA | Jodie Lurie | Kempinski | Meliá Hotels International SA | warren buffet",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "warren buffett",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "royal caribbean cruises",
+          "sentiment": "none"
+        },
+        {
+          "name": "bloomberg intelligence",
+          "sentiment": "none"
+        },
+        {
+          "name": "meliá hotels international",
+          "sentiment": "none"
+        },
+        {
+          "name": "s&p",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T04:37:40.330+02:00",
+    "updated": "2024-01-05T06:51:18.933+02:00"
+  },
+  {
+    "uuid": "3ed18b53835ce001477c4ee64ae30f99731872db",
+    "url": "https://www.iheart.com/content/2024-08-08-popular-retailer-closing-several-locations-around-north-carolina",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sarah Tate",
+    "published": "2024-08-08T20:34:00Z",
+    "title": "Popular Retailer Closing Several Locations Around North Carolina | 96.9 The Kat",
+    "text": "Photo: Marcia Straub/Moment/Getty Images\nSeveral locations of a popular retail chain are closing around North Carolina in an effort to address financial struggles.\nNational big box chain Big Lots, known for giving customers the opportunity to shop for discount home goods, is seemingly closing nearly 300 of its 1,389 stores around the country weeks after initially revealing plans to only close around 40 locations amid the company's financial struggles. Big Lots reported a $114.5 million sales decrease from the first quarter of 2023 to the first of 2024 and has seen a 84% drop in stock over the past year.\nIn an effort to address financial issues and stave off bankruptcy, the company appears to be shuttering hundreds of stores around the U.S. While states like California are seeing dozens of stores closing, a handful in North Carolina are affected.\nOf the 75 Big Lots locations in the Tar Heel State, seven are set to close down, according to the company's website, which features a banner announcing the select location's closure alongside notice of a sale. Here are all the North Carolina Big Lots stores set to shut down:\n8215 University City Blvd., Ste. E, Charlotte 9535 S Blvd., Ste. C, Charlotte 2000 Avondale Dr., Ste. E, Durham 3420 Southwest Durham Dr., Durham 822 E Main St., Jefferson 1515 Garner Station Blvd., Raleigh 6540 Glenwood Ave., Raleigh For a full list of Big Lots locations in North Carolina, visit the company's website .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://local.biglots.com/nc",
+      "https://www.local.biglots.com/nc"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "marcia straub",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "getty images several",
+          "sentiment": "negative"
+        },
+        {
+          "name": "popular retailer closing several locations around north carolina",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "north carolina",
+          "sentiment": "none"
+        },
+        {
+          "name": "california",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s",
+          "sentiment": "none"
+        },
+        {
+          "name": "tar heel state",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:02:07.781+03:00",
+    "updated": "2024-08-09T04:45:36.701+03:00"
+  },
+  {
+    "uuid": "902be0438e26ed2eb06493b4fab761e595b2a4ac",
+    "url": "https://www.bundesliga.com/en/bundesliga/news/slick-angelo-stiller-rising-in-style-with-vfb-stuttgart-germany-28801",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bundesliga",
+    "published": "2024-09-05T18:08:00Z",
+    "title": "Slick Angelo Stiller rising in style with VfB Stuttgart and Germany | Bundesliga",
+    "text": "Slick Angelo Stiller rising in style with VfB Stuttgart and Germany VfB Stuttgart's Angelo Stiller is loving life right now. A nailed-on starter for the Swabians, the 23-year-old recently celebrated his club's second-placed Bundesliga finish and a senior Germany call up. With a trip to Real Madrid to come in the UEFA Champions League, things could be worse for the no-nonsense No. 6. \"In midfield we have to replace two players who have retired: [Ilkay Gündogan](https://www.bundesliga.com/en/bundesliga/news/ilkay-gundogan-made-in-borussia-dortmund-manchester-city-nuremberg-schalke-5979) and [Toni Kroos](https://www.bundesliga.com/en/bundesliga/news/toni-kroos-real-madrid-bayern-munich-germany-made-in-bundesliga-5841). Angelo [Stiller](https://www.bundesliga.com/en/bundesliga/player/angelo-stiller), who performed very well in [Stuttgart](https://www.bundesliga.com/en/bundesliga/clubs/vfb-stuttgart) last season and again now, is the only new addition to the squad.\" The praise could barely have been any higher than that which Germany coach [Julian Nagelsmann](https://www.bundesliga.com/en/bundesliga/news/why-julian-nagelsmann-perfect-fit-germany-head-coach-euro-2024-24832) bestowed on Stiller when calling the Munich native up for the UEFA Nations League games against Hungary and the Netherlands. A chance to make his senior international bow after several seasons with the Germany set-up at youth and Under-21 level, Stuttgart's mature-beyond-his years defensive midfielder is set to be in elite company with his international step up. Speaking ahead of his country's upcoming fixtures, new Germany captain and seasoned [Bayern Munich](https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen) star [Joshua Kimmich](https://www.bundesliga.com/en/bundesliga/player/joshua-kimmich) said of Stiller and compatriot [Aleksandar Pavlović](https://www.bundesliga.com/en/bundesliga/player/aleksandar-pavlovic), \"Both have been developed in intense environments. It’s clear that Angelo is confident, just like Pavlo. Both are technically strong and have a good passing game, and you can tell with both of them that they want to play football. It’s important to have young players who are hungry and just enjoy playing.\" Stiller has clearly been enjoying his arrival to the big time. A Bayern youth-team player who excelled under current Stuttgart tactician [Sebastian Hoeneß](https://www.bundesliga.com/en/bundesliga/news/sebastian-hoeness-who-is-the-bayern-munich-reserve-team-coach-stuttgart-12046) in the junior ranks of the Bavarian giants, Stiller moved to [Hoffenheim](https://www.bundesliga.com/en/bundesliga/clubs/tsg-hoffenheim) to join his former boss in Sinsheim, before the pair were once again reunited at the MHPArena. \"We have a history together for a long time; he is a great player,\" Hoeneß told bundesliga.com. \"He absolutely deserves to play for the national team. He's a really important factor in our team, so I'm convinced he will play a big role also in the national team in the coming years. That is why I'm really happy for him,\" the 42-year-old added. The news of Stiller's first call-up to Germany's seniors was welcomed with equal praise from his fellow Stuttgart - and now Germany - teammate [Deniz Undav](https://www.bundesliga.com/en/bundesliga/player/deniz-undav). \"I'm really happy for him; when I heard the news I was really happy for him because he deserves the opportunity to come to the national team,\" Undav told bundesliga.com. \"I think he is one of the best number sixes Germany has, so we will see what happens. I hope just the best for him and I hope he will enjoy the time.\" Words of praise from all quarters have been flowing towards the player who featured in all but three of Stuttgart's Bundesliga games last term, when he scored a goal and provided five assists in a memorable campaign for VfB. Yet, not one to get caught up in the praise, Stiller is determined to remain focused on his task as one of the division's best in class. \"I’m not the type to get carried away,\" he informed bundesliga.com recently. \"It’s always nice for any player to hear nice things about you, but it can quickly go the other way as well, so you enjoy it, you soak it up, but you don’t get carried away.\" A slight blip in domestic form for [Die Schwaben](https://www.bundesliga.com/en/bundesliga/news/german-soccer-dictionary-meaning-definition-translation-term-phrase-2773-1262) saw them narrowly [miss out on Supercup glory](https://www.bundesliga.com/en/bundesliga/news/bayer-leverkusen-vfb-stuttgart-supercup-preview-live-blog-report-alonso-28479) against Bundesliga champions [Bayer Leverkusen](https://www.bundesliga.com/en/bundesliga/clubs/bayer-04-leverkusen) and pick up just one point from their opening two top-flight games in 2024/25. Yet Stiller insists that Stuttgart and Hoeneß will be staying true to their style when the team returns to action following the international break. \"If you look at how we play football, you can see we’re a bit different to other clubs,\" the player explained. \"We want to play attractive, good football. We also play brave football, and I think that’s really important for us and for [the coach].\" Watch: Stuttgart's incredible 2023/24 campaign That bravery will be called upon when Stuttgart [start their Champions League adventure](https://www.bundesliga.com/en/bundesliga/news/2024-25-champions-league-europa-draw-fixtures-results-bayern-dortmund-leverkusen-28553) this month. Following a Matchday 3 encounter against [Borussia Mönchengladbach](https://www.bundesliga.com/en/bundesliga/clubs/borussia-moenchengladbach) in the Bundesliga, Stiller and his teammates travel to Spain to face European champions Real Madrid at the Santiago Bernabéu. Asked what it will mean to him to feature in European club football's elite competition for the first time, Stiller explained, “It's the biggest thing for any footballer, and if I can play for my club, for VfB, in a competition like that, it’s huge.” Getting used to life on the biggest stages seems fitting for a footballer of Stiller’s unquestionable talents. Related news Who is Angelo Stiller? Angelo Stiller developed at Bayern Munich, and after reuniting with Sebastian Hoeneß at VfB Stuttgart, the international stage beckons. Nagelsmann names Germany squad Angelo Stiller received a maiden call-up and is one of five VfB Stuttgart players included to face Hungary and the Netherlands in September. Stuttgart's key Supercup players With Deniz Undav back on board, bundesliga.com picks out some of the Stuttgart players set to shine against champions Leverkusen in the Supercup...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "angelo stiller",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "julian nagelsmann",
+          "sentiment": "none"
+        },
+        {
+          "name": "toni kroos",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "vfb stuttgart",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "real madrid",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-06T00:20:42.129+03:00",
+    "updated": "2024-09-06T04:30:44.600+03:00"
+  },
+  {
+    "uuid": "149c2e5fecd813d9a9766d5fe7b76cb11cc950bf",
+    "url": "https://ascopost.com/issues/april-25-2025/pembrolizumab-plus-chemotherapy-new-standard-of-care-in-locally-advanced-cervical-cancer",
+    "ord_in_thread": 0,
+    "author": "Caroline Helwick",
+    "published": "2025-04-23T23:19:42Z",
+    "title": "Pembrolizumab Plus Chemotherapy: New Standard of Care in Locally Advanced Cervical Cancer? - The ASCO Post",
+    "text": "Pembrolizumab Plus Chemotherapy: New Standard of Care in Locally Advanced Cervical Cancer?\nBy Caroline Helwick\nApril 25, 2025\nAdvertisement\nUpdated findings from the second planned interim analysis of the phase III ENGOT-cx11/GOG-3047/KEYNOTE-A18 study solidify the PD-1 inhibitor pembrolizumab plus concurrent chemoradiotherapy, followed by pembrolizumab maintenance, as the upfront standard of care for high-risk, locally advanced cervical cancer. This late-breaking abstract was presented at the 2025 Society of Gynecologic Oncology (SGO) Annual Meeting on Women’s Cancer by Linda Duska, MD, MPH, FASCO , Professor of Obstetrics and Gynecology at the University of Virginia School of Medicine in Charlottesville. 1\nDr. Duska presented data on overall survival, progression-free survival, and progression-free survival 2 (PFS2), defined as the time from initiation of new anticancer therapy to second disease progression or death from any cause. The previous analysis, which demonstrated improved overall survival, was reported at the European Society for Medical Oncology (ESMO) Congress 2024 2 and in The Lancet. 3 The experimental regimen was approved in January 2024 for patients with FIGO (International Federation of Gynecology and Obstetrics) 2014 stage III–IVA cervical cancer after the first interim analysis reported a statistically significant progression-free survival.\n“At the second interim analysis, overall survival at 36 months was significantly improved with pembrolizumab..., with a hazard ratio of 0.67.” — LINDA DUSKA, MD, MPH, FASCO\nTweet this quote\nPatients treated with pembrolizumab plus chemoradiotherapy, at 3 years, had a 32% reduced risk of disease progression, a 40% reduced risk of second disease progression (PFS2), and a 33% reduced risk of death. Benefit continued to be observed in all subsets of patients, she reported.\n“The data support pembrolizumab plus concurrent chemoradiotherapy as a new standard of care for patients with newly diagnosed, previously untreated, high-risk, locally advanced cervical cancer and as an appropriate control arm in future clinical trials,” Dr. Duska said.\nPhase III Trial Results\nThe randomized, double-blind, placebo-controlled phase III study enrolled high-risk patients with newly diagnosed, locally advanced squamous cell carcinoma, adenocarcinoma, or adenosquamous carcinoma of the cervix. The 1,060 patients were randomly assigned to receive pembrolizumab plus chemoradiotherapy followed by pembrolizumab maintenance or placebo plus chemoradiotherapy followed by placebo maintenance. The primary endpoints were investigator-assessed progression-free survival and overall survival. PFS2 was a secondary endpoint.\nIn the first interim analysis, the study achieved its progression-free survival endpoint, with a hazard ratio of 0.7 favoring the experimental arm. Because this first interim analysis reached statistical significance, a formal statistical assessment was not conducted in the second interim analysis, but the descriptive statistics showed sustained benefit with pembrolizumab. At 36 months, 62.7% of the pembrolizumab arm were progression-free, compared with 54.5% of the control arm (hazard ratio [HR] = 0.68; 95% confidence interval [CI] = 0.56–0.84). Separation of the Kaplan-Meier curves was sustained after they began separating at 3 months. Consistent benefit of pembrolizumab was seen across all prespecified subgroups.\nAt the second interim analysis, overall survival at 36 months was significantly improved with pembrolizumab, with 82.6% of the experimental arm alive vs 74.8% of the control arm (HR = 0.67; P = .0040). Median overall survival was not reached in either group. The curves began separating at 10 months and remained separated over the follow-up period, stated Dr. Duska.\nKEY POINTS The second planned interim analysis of the phase III ENGOT-cx11/GOG-3047/KEYNOTE-A18 trial in high-risk, locally advanced cervical cancer solidify the benefit shown previously for pembrolizumab plus concurrent chemoradiotherapy, establishing this regimen as a new standard of care. At 3 years, patients treated with pembrolizumab plus chemoradiotherapy had a 32% reduced risk of disease progression, a 40% reduced risk of second disease progression, and a 33% reduced risk of death. No new safety signals emerged with longer follow-up. An improvement in PFS2 was also demonstrated, with events occurring in 15.3% of patients in the pembrolizumab group vs 24.3% in the placebo group (HR = 0.60; 95% CI = 0.46–0.80). Medians were not reached in either arm.\nThere were no new safety signals noted at the second interim analysis. The incidence of grade ≥ 3 treatment-related, adverse events was higher in the pembrolizumab group (69.1%) than in the placebo group (61.3%). However, Dr. Duska noted, all toxicities were reported to be manageable and consistent with the known profiles of the individual therapies. Immune-mediated adverse events occurred in 39% of the pembrolizumab arm and 17% of the placebo arm; most events were grade 1 or 2. The incidence of diarrhea was similar in the two arms. Treatment-related deaths occurred in two participants in each arm.\nDISCLOSURE: Dr. Duska reported personal financial relationships with Daiichi Sankyo, Scorpion Therapeutics, AADI Bioscience, UpToDate, Elsevier, and ASCO.\nREFERENCES\n1. Duska LR, Xiang Y, Hasegawa K, et al: Pembrolizumab plus chemoradiotherapy for high-risk locally advanced cervical cancer: Overall survival and progression-free survival 2 results from the randomized, double-blind, phase III ENGOT-cx11/GOG-3047/KEYNOTE-A18 study. 2025 SGO Annual Meeting on Women’s Cancer. Late-Breaking Abstract. Presented March 14, 2025.\n2. Lorusso D, Xiang Y, Hasegawa K, et al: Pembrolizumab plus chemoradiotherapy for high-risk locally advanced cervical cancer: Overall survival results from the randomized, double-blind, phase III ENGOT-cx11/GOG-3047/KEYNOTE-A18 study. ESMO Congress 2024. Abstract 709O . Presented September 14, 2024.\n3. Lorusso D, Xiang Y, Hasegawa K, et al: Pembrolizumab or placebo with chemoradiotherapy followed by pembrolizumab or placebo for newly diagnosed, high-risk, locally advanced cervical cancer (ENGOT-cx11/GOG-3047/KEYNOTE-A18): Overall survival results from a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet 404:1321-1332, 2024 .\nEXPERT POINT OF VIEW\nPremal Thaker, MD, MS , the David and Lynn Mutch Distinguished Professor of Ob/Gyn, Interim Chief of Gynecologic Oncology, and Director of Gynecologic Oncology Research at Washington University Medicine, St. Louis, noted that the treatment of locally advanced cervical cancer had not changed since 1999 until the positive results of KEYNOTE-A18 were recently announced. Until then, the standard treatment was weekly cisplatin and external-beam radiation followed by intracavitary or interstitial brachytherapy. KEYNOTE-A18 showed that the addition of pembrolizumab to chemoradiotherapy significantly improved progression-free survival and overall survival, leading to its approval by the U.S. Food and Drug Administration for stage III and IVA disease.\nPremal Thaker, MD, MS\nDr. Thaker shared these comments about the second planned interim analysis of the study: “The curves still favor the pembrolizumab arms, for both overall survival and second progression-free survival, for all disease stages, without any new adverse events or safety concerns. Thus, this is the new standard of care for our patients with high-risk, locally advanced cervical cancer. With this advance [and others reported at the 2025 SGO Annual Meeting on Women’s Cancer], we must make sure that all patients with cervical cancer have equitable benefits.”\nDISCLOSURE: Dr. Thaker reported personal financial relationships with AstraZeneca, GlaxoSmithKline, Merck, Pfizer, Corcept Therapeutics, Zentalis Pharmaceuticals, Verastem, Imunon, UpToDate, and Caris Life Sciences.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->health treatment and procedure",
+      "Health->cancer",
+      "Science and Technology->medical research",
+      "Science and Technology->biomedical science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://pubmed.ncbi.nlm.nih.gov/39288779/",
+      "https://oncologypro.esmo.org/meeting-resources/esmo-congress-2024/pembrolizumab-plus-chemoradiotherapy-for-high-risk-locally-advanced-cervical-cancer-overall-survival-results-from-the-randomized-double-blind-ph",
+      "https://marketplace.copyright.com/rs-ui-web/mp/details/journal/161389313",
+      "https://pubmed.ncbi.nlm.nih.gov/39288779",
+      "https://www.pubmed.ncbi.nlm.nih.gov/39288779/",
+      "https://www.oncologypro.esmo.org/meeting-resources/esmo-congress-2024/pembrolizumab-plus-chemoradiotherapy-for-high-risk-locally-advanced-cervical-cancer-overall-survival-results-from-the-randomized-double-blind-ph",
+      "https://www.marketplace.copyright.com/rs-ui-web/mp/details/journal/161389313"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Caroli",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Linda Duska",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "ASCO",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "University of Virginia School of Medicine",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "European Society for Medical Oncology",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T02:19:42.646+03:00",
+    "updated": "2025-04-24T02:19:42.646+03:00"
+  },
+  {
+    "uuid": "22d352bd2604a9ce672be4273b0e4e4f52844829",
+    "url": "https://www.beinsports.com/es-us/football/conmebol-sudamericana/articles/alianza-lima-elimina-a-gremio-y-se-medir%C3%A1-en-octavos-con-universidad-cat%C3%B3lica-2025-07-24",
+    "ord_in_thread": 0,
+    "author": "Alianza Lima elimina a Gremio y se medirá en octavos con Universidad Católica",
+    "published": "2025-07-24T02:17:00Z",
+    "title": "Alianza Lima elimina a Gremio y se medirá en octavos con Universidad Católica | beIN SPORTS",
+    "text": "Alianza Lima elimina a Gremio y se medirá en octavos con Universidad Católica Alianza Lima logró este miércoles un histórico avance a los octavos de final de la Copa Sudamericana , tras empatar 1-1 en su visita a Gremio en Porto Alegre . El resultado, sumado al 2-0 logrado en Lima, le permitió al conjunto peruano asegurar su clasificación, donde enfrentará a Universidad Católica de Ecuador en la siguiente ronda.\nEl encuentro comenzó con la presión esperada por parte del cuadro brasileño, urgido por revertir la desventaja del partido de ida. Empujado por su público, Gremio buscó desde el inicio marcar diferencias, pero se encontró con un sólido planteamiento defensivo y una gran actuación del arquero Guillermo Viscarra , quien se encargó de neutralizar los ataques de Alysson y del danés Martin Braithwaite .\nPor su parte, el equipo dirigido por Néstor Gorosito supo mantener la calma y encontrar espacios para contraatacar. La ocasión más clara del primer tiempo llegó con un remate de Paolo Guerrero tras una habilitación del ecuatoriano Erick Castillo , pero el arquero Volpi respondió de gran manera.\nCONMEBOL Sudamericana Bolívar repite la dosis a Palestino... En el segundo tiempo, la intensidad de los locales dio frutos. Tras un tiro de esquina cobrado por Marlon , el defensor Gustavo Martins conectó un potente cabezazo al minuto 55 que desató la ilusión entre los aficionados brasileños.\nSin embargo, cuando parecía que el partido podía extenderse a los penaltis, el argentino Hernán Barcos apareció en el último suspiro. En el sexto minuto de adición, tras un pase preciso de Fernando Gaibor , Barcos definió con categoría para sentenciar el empate y sepultar las aspiraciones de Gremio .\nEl tanto del veterano delantero, exjugador de clubes brasileños, fue un duro golpe para los locales y selló la clasificación de Alianza Lima , que no solo resistió con orden, sino que supo golpear en el momento justo. Ahora, el conjunto peruano se prepara para su siguiente desafío ante Universidad Católica , con la ilusión de seguir haciendo historia en la presente edición de la Copa Sudamericana .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->sport achievement",
+      "Sport->soccer",
+      "Sport->sport event",
+      "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Guillermo Viscarra",
+          "sentiment": "none"
+        },
+        {
+          "name": "Martin Braithwaite",
+          "sentiment": "none"
+        },
+        {
+          "name": "Néstor Gorosito",
+          "sentiment": "none"
+        },
+        {
+          "name": "Paolo Guerrero",
+          "sentiment": "none"
+        },
+        {
+          "name": "Erick Castillo",
+          "sentiment": "none"
+        },
+        {
+          "name": "Alysson",
+          "sentiment": "none"
+        },
+        {
+          "name": "Volpi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Alegre",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Universidad Católica Alianza Lima",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:40:44.945+03:00",
+    "updated": "2025-07-24T07:43:45.000+03:00"
+  },
+  {
+    "uuid": "f24c0f4dcb85c3a42395a34898cb694466f2ef83",
+    "url": "https://ground.news/article/canadas-economy-is-flatlining-setting-up-a-difficult-start-to-2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ground News",
+    "published": "2023-12-28T20:44:00Z",
+    "title": "Ground News - Canada’s economy is flatlining, setting up a difficult start to 2024",
+    "text": "Summary by Ground News October marked the fifth month in a row that the Canadian economy failed to post positive month-over-month growth. Going back to 1997, that has only happened twice before: During the 2008-2009 financial crisis and in 2015, after the collapse in oil prices brought Alberta's economy to a halt. Share menu More\nFilters 1 Articles 1 Articles All Left Center Right\nThe Globe & Mail Center High Factuality Private Equity: The Woodbridge Company Canada’s economy is flatlining, setting up a difficult start to 2024 ‘The Canadian economy is in the doldrums,’ National Bank of Canada economists noted in a report this week\n2 hours ago · Canada Read Full Article\nThe Globe & Mail Center High Factuality Private Equity: The Woodbridge Company\nCanada’s economy is flatlining, setting up a difficult start to 2024 ‘The Canadian economy is in the doldrums,’ National Bank of Canada economists noted in a report this week\n2 hours ago · Canada Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.theglobeandmail.com/business/article-canada-economic-growth-gdp/?utm_source=ground.news&utm_medium=referral",
+      "https://www.theglobeandmail.com/business/article-canada-economic-growth-gdp/",
+      "https://theglobeandmail.com/business/article-canada-economic-growth-gdp/?utm_source=ground.news&utm_medium=referral"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "articles all left center right the globe & mail center high factuality private equity",
+          "sentiment": "none"
+        },
+        {
+          "name": "national bank of canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "ground news subscriptions",
+          "sentiment": "none"
+        },
+        {
+          "name": "woodbridge company canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "· canada read full",
+          "sentiment": "none"
+        },
+        {
+          "name": "· canada read full article the globe",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "alberta",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:43:12.039+02:00",
+    "updated": "2023-12-29T00:43:12.039+02:00"
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "uuid": "67fcd7e2c9a6c2a4476cd47e974debba1a53af76",
+    "url": "https://community.spiceworks.com/t/chromebooks-coming-back-from-dell-repair-with-older-os-version/1142559",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@david-scammell David Scammell",
+    "published": "2024-11-15T13:49:00Z",
+    "title": "Chromebooks coming back from Dell Repair with older OS Version",
+    "text": "For discussion: Is it just me or are others noticing an issue with their Chromebooks coming back from Dell Repair with an older version of ChromeOS?\nFor instance, our Chromebooks should currently be between 130.x (the latest) and 128.x. However, they come back from repair with 105.x. Really? How old is that? That’s 25 versions back and if versions are released very 4 weeks, that 100 weeks old. Ugh!!!\nEven though I have explicitly asked in my tickets that if they reimage, to please use the most current version of the Stable Channel, it still comes back with version 105? That means I have to waste my time and re-image every single device that comes back from Dell Repair and in our school district, that is a lot of devices since I usually have about 50 or more Chromebooks per batch of repairs. We have even complained to our Dell reps, but no change. Does Dell really not care?\nAs background, I have our Chromebooks forcing updates to the current stable channel on a regular basis. Therefore, most of our Chromebooks are either the current major version or 1-2 major versions back. This is important since ChromeOS major versions (e.g., 130.x.xxxx.xxx) are really only supported for 3 periods of 4 weeks (see diagram below). This means if the current OS is 130.x, then version 127.x is unsupported, and major versions are updated every 4 weeks. And Dell Repair is sending me my devices back with version 105??? If unsupported, test taking software doesn’t work and many school apps will not work, making these devices useless until we re-image with a newer version.\nThe diagram below shows the lifespan of each milestone branch:\nAnd don’t get me started about the Trackpad issues on Dell 3100 and 3110 Chromebooks. There should be a recall, but that’s a different topic/thread.\nAnyone else noticing this issue with Dell Repair? Your thoughts? Are there any 3rd party repair companies that will beat Dell’s warranty repair cost and hopefully, their performance (or lack thereof)?",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Dell Repair",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T16:36:24.107+02:00",
+    "updated": "2024-11-15T16:36:24.107+02:00"
+  },
+  {
+    "uuid": "bf7f49fd8e78ec8fb6d352bd8d97f06748ca7567",
+    "url": "https://www.tiempo.com/noticias/prediccion/en-unas-horas-estallaran-las-fuertes-tormentas-con-posibles-reventones-y-granizo-grande-en-estas-4-comunidades.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Samuel Biener",
+    "published": "2024-08-02T07:30:00Z",
+    "title": "En unas horas estallarán fuertes tormentas con posibles reventones y granizo grande en estas 4 comunidades",
+    "text": "En unas horas estallarán fuertes tormentas con posibles reventones y granizo grande en estas 4 comunidades En las próximas horas una vaguada cruzará la Península, provocando un descenso térmico y favoreciendo la formación de tormentas muy fuertes que dejarán varios fenómenos adversos en estas zonas. En las próximas horas se irá notando el descenso térmico en gran parte de [España](https://www.tiempo.com/) que comenzó ayer en el tercio septentrional. La llegada de una masa de aire algo más suave desde el Atlántico provocará una bajada de las temperaturas que será especialmente notable en el noreste peninsular, con valores máximos que se quedarán entre 6 y 10 ºC más cortos respecto a los de ayer. Tormentas muy fuertes que dejarán decenas de litros en poco tiempo Además, este alivio térmico vendrá acompañado de tormentas muy fuertes en algunas regiones. Como ya explicamos en Meteored, [nuestro modelo](https://www.tiempo.com/modelos/) de referencia prevé que una vaguada atlántica cruzará la Península y [Baleares](https://www.tiempo.com/illes-balears.htm) a lo largo del día de hoy, lo que favorecerá el desarrollo de potentes núcleos convectivos. Desde primera hora de la mañana ya han aparecido aguaceros en el interior del tercio septentrional. La inestabilidad más acusada se desplazará hacia el noreste peninsular con el paso de las horas, que quedará bajo el sector de divergencia en altura de la onda, que se irá trasladando rápidamente hacia el este a lo largo del día. Antes de la entrada del cierzo/mestral se prevé un flujo de levante, con convergencias en superficie que favorecerán el crecimiento de las nubes. Los mapas muestran que las tormentas serán puntualmente muy fuertes en puntos de [Cataluña](https://www.tiempo.com/cataluna.htm), [Aragón](https://www.tiempo.com/aragon.htm) (especialmente Teruel y Huesca) interior norte de la [Comunitat Valenciana](https://www.tiempo.com/comunidad-valenciana.htm) y en el noreste de [Castilla-La Mancha](https://www.tiempo.com/castilla-la-mancha.htm). Algunos de estos núcleos pueden presentar un alto grado de organización y dejar 40 o 60 l/m² en poco tiempo, e incluso de forma local más. Atención al riesgo de crecidas súbitas en ramblas y barrancos. De forma más débil y dispersa, se esperan también chubascos en el entorno del Sistema Central, puntos del centro y sur de la Comunitat Valenciana, vertiente cantábrica, norte y este de Castilla y León, Comunidad de Madrid, Ibérico norte y Navarra. Conforme vayan avanzando las horas estas precipitaciones tenderán a ir retirándose, quedando restringidas al cuadrante nororiental peninsular. Durante la próxima madrugada quedarán restringidos a Cataluña. Vendavales y posibilidad de pedrisco Habrá que estar pendientes de los otros fenómenos adversos que dejarán estas tormentas a su paso. Los mapas muestran que se registrarán rachas de viento y probables reventones con picos máximos de más de 80-90 km/h (e incluso más) en el norte de la Comunitat Valenciana, Aragón y Cataluña. También podrían darse, en principio no tan intensos, en zonas de Castilla-La Mancha y la [Comunidad de Madrid](https://www.tiempo.com/comunidad-de-madrid.htm). Según el Laboratorio Europeo de Tormentas Severas, la probabilidad de granizo grande es bastante significativa en el noreste peninsular, con posible pedrisco (granizos de más de 5 cm) en las comarcas del noreste de Cataluña y en el entorno del Maestrazgo. La actividad eléctrica también será importante en algunas de estas tormentas. ¿Seguirán las tormentas después de este episodio tormentoso? Después de este breve episodio, todo indica que la dorsal subtropical volverá a rearmarse, pero en principio no se prevén temperaturas tan altas a unos 1500 metros como las de estos días, por lo que parece que no será muy robusta. De hecho, a medio y largo plazo se observan posibles ondas que pueden dejar nuevos episodios tormentosos en varias regiones. Estas situaciones suelen volverse más frecuentes en la segunda quincena de agosto.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-02T15:55:24.865+03:00",
+    "updated": "2024-08-02T15:55:24.865+03:00"
+  },
+  {
+    "uuid": "fbec78196bbe17aba59ee34c633fdaa33472b800",
+    "url": "https://reason.com/?p=8337700",
+    "ord_in_thread": 0,
+    "author": "Emma Camp",
+    "published": "2025-06-26T10:30:00Z",
+    "title": "Will Zohran Mamdani kill the best thing about New York City public schools?",
+    "text": "With Zohran Mamdani projected to win the New York City Democratic mayoral primary, his slate of socialist-influenced policies , from city-owned grocery stores to a rent freeze, are one step closer to reality. Mamdani's socialist agenda won't stop with housing policy or the minimum wage. It will also hit America's largest public school system and aim to kill the best thing about it.\nWhile New York City schools are routinely criticized for overspending, underaccountable teachers' unions, and general dysfunction, the city's group of selective high schools is a consistent bright spot. Eight schools, including Mamdani's alma mater, Bronx High School of Science, admit students through an exam. The schools give talented students from all over the city the ability to escape chaotic local schools and receive an education at some of the top public high schools in the country.\nHowever, the Specialized High School Admissions Test (SHSAT), which is the test used to admit students, has long come under fire for what critics say is a racial bias. That's because Asian students overwhelmingly perform best on these tests. In 2023, for example, over two-thirds of the students at Stuyvesant High School (widely regarded as the best of the eight high schools) were Asain. However, this framing is reductive. It's worth noting that Asians have the lowest median income of any racial group in New York City. And, contrary to the popular vision of magnet schools being comprised of upper-middle-class white and Asian students, New York's selective high schools are economically diverse; 50 percent of Stuyvesant students are economically disadvantaged. At Bronx Science, it's 52 percent .\nBut that hasn't kept politicians from attacking the schools as segregated, and the SHSAT as racist. In 2018, then-Mayor Bill de Blasio (D) called the high schools a \"monumental injustice.\" He attempted to survert a state law protecting the SHSAT, but the admissions change has so far been tied up in a legal battle.\nOver the years, Mamdani has stated that he would also attempt to ditch the admissions test. \"As a graduate of Bronx Science, I have personally witnessed just how segregated New York City public schools are, especially our specialized high schools,\" he said in a 2022 interview . \"I support measures to integrate our public schools and fully fund our education system, including the abolition of the SHSAT.\"\nLast month he made a similar statement , saying that \"My administration will focus on addressing the root educational causes of this segregation by implementing recommendations from the 2019 School Diversity Advisory Group's at elementary and middle schools across our city and support an independent analysis of the Specialized HS exam for gender and racial bias.\" The recommendations he mentions argue in favor of eliminating elementary school-level gifted and talented programs, and placing a moratorium on new test-in high schools.\nWhile it's reasonable to be troubled by the disproportionate lack of black and Hispanic students at specialized high schools, it's important to remember that ditching a test that reveals entrenched inequalities does nothing to ameliorate them. Further, the city already has a program to allow low-income students who barely missed out on admissions to still attend specialized schools with extra study during the summer, which seems like a fair way to balance merit with concerns that students with fewer resources may miss out on admissions.\nGetting rid of a merit-based opportunities metric can't close persistent achievement gaps between ethnic groups. Instead, it will deprive talented students—low-income students whose parents can't afford private school in particular—of the ability to attend a school with similarly talented peers, while making it harder to identify how and why other students are struggling.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Education"
+    ],
+    "topics": [
+      "Politics->political campaigns",
+      "Politics->education policy",
+      "Politics->political candidates",
+      "Education->students",
+      "Education->state school",
+      "Education->teachers"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/specialized-high-schools/discovery-programs",
+      "https://www.nytimes.com/2022/01/25/us/selective-high-schools-brooklyn-tech.html",
+      "https://www.nytimes.com/2023/06/02/nyregion/stuyvesant-high-school-black-students.html",
+      "https://fedsoc.org/commentary/fedsoc-blog/chinese-american-citizens-alliance-of-greater-new-york-v-adams-second-circuit-rules-case-challenging-admissions-policy-change-for-nyc-s-specialized-high-schools-can-move-forward",
+      "https://data.nysed.gov/enrollment.php?year=2024&instid=800000046741",
+      "https://jimowles.org/news/candidate-answers-to-joldc-zohran-mamdani-for-ny-assembly-district-36-2022",
+      "https://www.chalkbeat.org/newyork/2018/6/2/21105076/mayor-bill-de-blasio-our-specialized-schools-have-a-diversity-problem-let-s-fix-it/",
+      "https://www.chalkbeat.org/newyork/2025/05/28/mayoral-candidates-discuss-selective-and-specialized-high-school-admissions-shsat/",
+      "https://data.nysed.gov/enrollment.php?year=2024&instid=800000045625",
+      "https://www.chalkbeat.org/newyork/2018/6/2/21105076/mayor-bill-de-blasio-our-specialized-schools-have-a-diversity-problem-let-s-fix-it",
+      "https://schools.nyc.gov/enrollment/enroll-grade-by-grade/specialized-high-schools/discovery-programs",
+      "https://www.data.nysed.gov/enrollment.php?year=2024&instid=800000046741",
+      "https://data.nysed.gov/enrollment.php",
+      "https://www.data.nysed.gov/enrollment.php?year=2024&instid=800000045625",
+      "https://www.fedsoc.org/commentary/fedsoc-blog/chinese-american-citizens-alliance-of-greater-new-york-v-adams-second-circuit-rules-case-challenging-admissions-policy-change-for-nyc-s-specialized-high-schools-can-move-forward",
+      "https://www.jimowles.org/news/candidate-answers-to-joldc-zohran-mamdani-for-ny-assembly-district-36-2022",
+      "https://nytimes.com/2023/06/02/nyregion/stuyvesant-high-school-black-students.html",
+      "https://chalkbeat.org/newyork/2025/05/28/mayoral-candidates-discuss-selective-and-specialized-high-school-admissions-shsat/",
+      "https://www.chalkbeat.org/newyork/2025/05/28/mayoral-candidates-discuss-selective-and-specialized-high-school-admissions-shsat",
+      "https://chalkbeat.org/newyork/2018/6/2/21105076/mayor-bill-de-blasio-our-specialized-schools-have-a-diversity-problem-let-s-fix-it/",
+      "https://nytimes.com/2022/01/25/us/selective-high-schools-brooklyn-tech.html"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "fbec78196bbe17aba59ee34c633fdaa33472b800",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [],
+      "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-26T13:40:37.326+03:00",
+    "updated": "2025-06-26T10:42:34.000+00:00"
+  },
+  {
+    "uuid": "75038f22e05762ad98d436e64d2d8fd19f554d46",
+    "url": "https://www.univision.com/local/orlando-wven/shows/la-voz-de-la-manana/frio-intenso-y-extremas-nevadas-no-dan-tregua-en-eeuu-nueva-york-y-ohio-son-algunos-estados-afectados-video",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Univision",
+    "published": "2024-12-13T12:58:00Z",
+    "title": "Frío intenso y extremas nevadas no dan tregua en EEUU, Nueva York y Ohio son algunos estados afectados | Shows La Voz de la Mañana | Univision",
+    "text": "null: nullpx\nA Bordo\nDelicioso\nDeportes\nFútbol\nLiga MX\nUEFA Champions\nBoxeo\nEstadísticas\nEstilo de Vida\nFamosos\nHoróscopos\nTu ciudad\nNoticias\nAmérica Latina\nCoronavirus\nEstados Unidos\nNews in English\nPolítica\nInmigración\nMundo\nUforia\nVix\nNoticias\nShows\nFamosos\nDeportes\nLifestyle\nRadio\nShop\n68ºF\nTodo\nLotería\nEl Tiempo\nLocal 24/7\nRepórtalo\nTrabajos\nComunidad\nQuiénes somos\nVideo\nCargando Video...\nFrío intenso y extremas nevadas no dan tregua en EEUU: Nueva York y Ohio son algunos estados afectados\nDe acuerdo con las autoridades, Ohio, Michigan, Pensilvania y Nueva York son los estados más afectados del país y se reportan caídas de tendidos eléctricos junto con carreteras cubiertas en hielo.\nNo dejes de ver:\nEn realidad aumentada te explicamos de dónde viene el aire frío que azota a varias zonas de EEUU.\nPor:\nUnivision\n,\nPublicado 13 Dic 2024 – 07:58 AM EST | Actualizado 13 Dic 2024 – 08:56 AM EST\nComparte\nCargando Playlist...\nEstás viendo\nLA VOZ DE LA MAÑANA\nFrío intenso y extremas nevadas no dan tregua en EEUU: Nueva York y Ohio son algunos estados afectados\n2:08",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Univision",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T16:48:29.255+02:00",
+    "updated": "2024-12-13T16:48:29.255+02:00"
+  },
+  {
+    "uuid": "ff547d3e2261de2855cbb30acad7d176aba72ecb",
+    "url": "https://independentaustralia.net/life/art-display/unveiling-the-secret-heroes-of-world-war-ii,18566",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Independent Australia",
+    "published": "2024-05-03T06:00:00Z",
+    "title": "Unveiling the Secret Heroes of World War II",
+    "text": "A new book chronicling the untold heroes of World War II is a fascinating glimpse into the world of espionage, resistance and escapism. Jim Kable shares his thoughts. THE AUTHOR OF Secret Heroes of WWII , Eric Chaline , a graduate of Pembroke College, Cambridge, SOAS of University College London and of London’s South Bank University, is a writer of popular and social history. This, his latest book, published this year – though I note it is copyrighted to 2017 – is a handsome hardcover book revealing the not-so-secret in some cases, but overall many figures who were hitherto largely unheralded. The book is divided into four categories. The first is ‘Backroom Heroes’. Of the eight names mentioned, those of Enrico Fermi , Howard Florey (Australian), J Robert Oppenheimer and Alan Turing will be recognisable to many. Though the specifics of their importance may not generally be fully understood, some popular films of recent years shine a focus on Turing and Oppenheimer. The second category is ‘Espionage Heroes’. Here, of 18 names I can only claim to recognise four: Leonard Siffleet (Australian, born in Gunnedah in 1916, executed 24 October 1943 by the sword of Yasuno Chikao by order of Vice-Admiral Kamada Michiaki of the Imperial Japanese Navy); Richard Sorge (Russian, about whom Australian writer Brian Castro in 1997 based a novel, Stepper , with the character Victor Stepper, set in the 1930s); Violette Szabo ; and Nancy Wake (born in Aotearoa/NZ, raised in Australia, nicknamed the White Mouse by the Gestapo). The third category is ‘Resistance Heroes’. Of the 16 names I recognised: Dietrich Bonhoeffer (pastor of the Evangelisch/Lutheran church); Wilhelm Canaris (German Admiral implicated in an assassination attempt against Hitler ); Jean Moulin (French resistance); Martin Niemöller (his classic : ‘First they came for the communists, And I did not speak out...’); Sophie Scholl ; Claus von Stauffenberg ; and Adam von Trott zu Solz . Though I admit to being hazy on specific details for most of this number. The fourth category is ‘Escape Heroes’. Of 13 names I recognised five, including: - the reckless escaper Douglas Bader (not in my estimation a fair dinkum hero, noting that author Ben Macintyre reveals his ugly treatment of Private Alex Ross – his batman in Colditz – in his 2022 book, Colditz ); Miep Gies (Dutch, the protector of the Frank family in Amsterdam); Oskar Schindler (of course, known via Tom Keneally ’s Schindler’s Ark – later Schindler’s List – whose factory I visited in Kraków in 2019); Chiune Sugihara (the Japanese vice-consul in Kaunas, Lithuania who handed out transit visas to Jews. permitting them to travel on to Japan and then south-east China, quite a number of whom in the post-war era came on to Australia); and Raoul Wallenberg (a Swedish diplomat in Budapest who saved thousands of Jewish lives by issuing Swedish passports, among other acts of heroism. I believe it was his work that led to the arrival of Hungarian holocaust survivors who were very kind to my mother in Sydney when she was widowed in mid-1951 — the couple, Leo and Florence Herszberg). But it is also among the other names I did not recognise that I found some truly fascinating and selfless individuals. One I have to focus briefly on because there is a family kinship connection. His name was Albert Göring , brother to Hermann and both thereby first cousins to some of my U.S. first cousins’ grandfather/great-grandfather. Albert was the antithesis of his older brother and was able to secure the escape of many anti-Nazi and Jewish dissidents from deportation and imprisonment — seemingly protected by his brother. It has led me further to a book by James Wyllie — Hermann and Albert Goering: The Nazi and the Renegade from 2006. This book is endlessly fascinating for anyone at all intrigued by WWII and by those we call heroes — those who stand up to tyranny and genocide. This is especially important in these times of wars provoked and promulgated by the U.S. and its arm-twisted “allies” (Jewish supporters of Palestine in Germany are even now being arrested by the police). Kit Klarenberg , in an article just published titled ‘Occupied Nation: How the CIA Created Modern Germany’, lays bare the forces that in reality run Germany and which are – at the same time – running Germany’s economy into the ground. Every one of the 55 names in the book is given a brief postcard CV, then an essay supported by photos and the background biography, along with a featured aspect of their life and/or work or engagement. The author also gives an interesting reading list for follow-up. I note John Dower 's Embracing Defeat (Japan in the Wake of World War II) and Peter FitzSimons ’ Nancy Wake: A Biography of Our Greatest War Heroine . Also Nancy Wake’s own book, Autobiography of the Woman the Gestapo Called the White Mouse . All of which I have read in years past. The reading list is followed by an index. 'Secret Heroes of World War II' by Eric Chaline is available at Booktopia from $35.75 (RRP). This book was reviewed by an IA Book Club member. If you would like to receive free high-quality books and have your review published on IA, subscribe to Independent Australia for your complimentary IA Book Club membership. Jim Kable is a retired teacher who has taught in rural and metropolitan NSW, in Europe, and later, long-term in Japan. He is also a member of the steering committee of political party The New Liberals . Related Articles BOOK REVIEW: The Culinary Canon Bushman Tommy Ryan, pioneer of the Labor Party BOOK REVIEW: Stopping Oil: Climate Justice and Hope BOOK REVIEW — Killing for Country: A Family Story BOOK REVIEW: Pax: War and Peace in Rome's Golden Age This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License Support independent journalism Subscribe to IA.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://en.wikipedia.org/wiki/Martin_Niem%C3%B6ller)(his",
+      "https://en.wikipedia.org/wiki/Alan_Turing)",
+      "https://www.amazon.com.au/Nancy-Wake-Biography-Greatest-Heroine/dp/1743107439).",
+      "http://creativecommons.org/licenses/by-nc-nd/3.0/au/)",
+      "https://en.wikipedia.org/wiki/Hermann_G%C3%B6ring)",
+      "http://www.amazon.com/exec/obidos/ASIN/0091835011",
+      "https://en.wikipedia.org/wiki/Michiaki_Kamada)of",
+      "https://en.wikipedia.org/wiki/Violette_Szabo);",
+      "https://en.wikipedia.org/wiki/Brian_Castro)in",
+      "https://en.wikipedia.org/wiki/Sophie_Scholl);",
+      "https://www.thenewliberals.net.au/).",
+      "https://en.wikipedia.org/wiki/Douglas_Bader)(not",
+      "https://en.wikipedia.org/wiki/Adam_von_Trott_zu_Solz).",
+      "https://www.amazon.com.au/Embracing-Defeat-Japan-Wake-World/dp/0393320278)",
+      "https://covertactionmagazine.com/2024/04/09/occupied-nation-how-the-cia-created-modern-germany/)",
+      "https://www.penguin.com.au/books/colditz-9780241986974));",
+      "https://en.wikipedia.org/wiki/Ben_Macintyre)reveals",
+      "https://exislepublishing.com/product/secret-heroes-of-world-war-ii/),",
+      "https://www.booktopia.com.au/secret-heroes-of-world-war-ii-eric-chaline/book/9781921966125.html)",
+      "https://en.wikipedia.org/wiki/Leonard_Siffleet)(Australian,",
+      "https://en.wikipedia.org/wiki/Thomas_Keneally)’s",
+      "https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer)(pastor",
+      "https://en.wikipedia.org/wiki/Oskar_Schindler)(of",
+      "https://en.wikipedia.org/wiki/Miep_Gies)(Dutch,",
+      "https://us.macmillan.com/author/jameswyllie)",
+      "https://en.wikipedia.org/wiki/Wilhelm_Canaris)(German",
+      "https://en.wikipedia.org/wiki/John_W._Dower)",
+      "https://en.wikipedia.org/wiki/Adolf_Hitler));",
+      "https://en.wikipedia.org/wiki/Nancy_Wake)(born",
+      "https://www.amazon.com.au/Hermann-Albert-Goering-Nazi-Renegade/dp/0750997877)",
+      "https://en.wikipedia.org/wiki/Howard_Florey)",
+      "https://en.wikipedia.org/wiki/Schindler%27s_Ark)–",
+      "https://en.wikipedia.org/wiki/Raoul_Wallenberg)(a",
+      "https://thegrayzone.com/author/kit-klarenberg/),",
+      "https://www.dailymail.co.uk/news/article-11225729/Douglas-Bader-real-story-Battle-Britain-poster-boy-kept-flying-losing-legs.html)–",
+      "https://en.wikipedia.org/wiki/J._Robert_Oppenheimer)",
+      "https://en.wikipedia.org/wiki/Enrico_Fermi),",
+      "https://en.wikipedia.org/wiki/Chiune_Sugihara)(the",
+      "https://en.wikipedia.org/wiki/Peter_FitzSimons)’",
+      "https://en.wikipedia.org/wiki/Jean_Moulin)(French",
+      "https://www.penguinrandomhouse.com/authors/2260970/eric-chaline/),",
+      "https://regimental-books.com.au/product/the-autobiography-of-the-woman-the-gestapo-called-the-white-mouse-2nd-edition/).",
+      "https://en.wikipedia.org/wiki/Richard_Sorge)(Russian,",
+      "https://en.wikipedia.org/wiki/Schindler%27s_List)–",
+      "https://en.wikipedia.org/wiki/Claus_von_Stauffenberg);",
+      "https://en.wikipedia.org/wiki/Anne_Frank)in",
+      "https://en.wikipedia.org/wiki/Albert_G%C3%B6ring),",
+      "https://www.en.wikipedia.org/wiki/Schindler%27s_Ark)–",
+      "https://penguinrandomhouse.com/authors/2260970/eric-chaline/),",
+      "https://www.en.wikipedia.org/wiki/Thomas_Keneally)’s",
+      "https://amazon.com.au/Embracing-Defeat-Japan-Wake-World/dp/0393320278)",
+      "https://booktopia.com.au/secret-heroes-of-world-war-ii-eric-chaline/book/9781921966125.html)",
+      "https://www.en.wikipedia.org/wiki/Wilhelm_Canaris)(German",
+      "https://penguin.com.au/books/colditz-9780241986974));",
+      "https://amazon.com.au/Hermann-Albert-Goering-Nazi-Renegade/dp/0750997877)",
+      "https://www.en.wikipedia.org/wiki/Richard_Sorge)(Russian,",
+      "https://www.us.macmillan.com/author/jameswyllie)",
+      "https://www.en.wikipedia.org/wiki/Nancy_Wake)(born",
+      "https://amazon.com.au/Nancy-Wake-Biography-Greatest-Heroine/dp/1743107439).",
+      "https://dailymail.co.uk/news/article-11225729/Douglas-Bader-real-story-Battle-Britain-poster-boy-kept-flying-losing-legs.html)–",
+      "https://www.en.wikipedia.org/wiki/Michiaki_Kamada)of",
+      "https://www.en.wikipedia.org/wiki/John_W._Dower)",
+      "https://www.en.wikipedia.org/wiki/Chiune_Sugihara)(the",
+      "https://www.en.wikipedia.org/wiki/Adam_von_Trott_zu_Solz).",
+      "https://www.regimental-books.com.au/product/the-autobiography-of-the-woman-the-gestapo-called-the-white-mouse-2nd-edition/).",
+      "https://www.en.wikipedia.org/wiki/Enrico_Fermi),",
+      "https://www.en.wikipedia.org/wiki/Oskar_Schindler)(of",
+      "https://www.en.wikipedia.org/wiki/Alan_Turing)",
+      "https://www.exislepublishing.com/product/secret-heroes-of-world-war-ii/),",
+      "https://www.en.wikipedia.org/wiki/Miep_Gies)(Dutch,",
+      "https://www.thegrayzone.com/author/kit-klarenberg/),",
+      "https://www.en.wikipedia.org/wiki/Brian_Castro)in",
+      "https://www.en.wikipedia.org/wiki/Albert_G%C3%B6ring),",
+      "http://www.creativecommons.org/licenses/by-nc-nd/3.0/au/)",
+      "https://www.en.wikipedia.org/wiki/Ben_Macintyre)reveals",
+      "https://www.en.wikipedia.org/wiki/Peter_FitzSimons)’",
+      "https://www.en.wikipedia.org/wiki/Jean_Moulin)(French",
+      "https://www.en.wikipedia.org/wiki/Claus_von_Stauffenberg);",
+      "https://www.en.wikipedia.org/wiki/Raoul_Wallenberg)(a",
+      "https://www.en.wikipedia.org/wiki/Schindler%27s_List)–",
+      "https://www.en.wikipedia.org/wiki/Dietrich_Bonhoeffer)(pastor",
+      "https://www.en.wikipedia.org/wiki/Anne_Frank)in",
+      "https://www.en.wikipedia.org/wiki/Adolf_Hitler));",
+      "https://www.en.wikipedia.org/wiki/Hermann_G%C3%B6ring)",
+      "https://www.en.wikipedia.org/wiki/Sophie_Scholl);",
+      "https://www.en.wikipedia.org/wiki/J._Robert_Oppenheimer)",
+      "https://www.en.wikipedia.org/wiki/Leonard_Siffleet)(Australian,",
+      "https://www.en.wikipedia.org/wiki/Howard_Florey)",
+      "http://amazon.com/exec/obidos/ASIN/0091835011",
+      "https://www.en.wikipedia.org/wiki/Violette_Szabo);",
+      "https://thenewliberals.net.au/).",
+      "https://www.en.wikipedia.org/wiki/Douglas_Bader)(not",
+      "https://www.covertactionmagazine.com/2024/04/09/occupied-nation-how-the-cia-created-modern-germany/)",
+      "https://www.en.wikipedia.org/wiki/Martin_Niem%C3%B6ller)(his"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "howard florey",
+          "sentiment": "none"
+        },
+        {
+          "name": "robert oppenheimer",
+          "sentiment": "none"
+        },
+        {
+          "name": "eric chaline",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "soas of university college london",
+          "sentiment": "none"
+        },
+        {
+          "name": "pembroke college",
+          "sentiment": "none"
+        },
+        {
+          "name": "enrico fermi",
+          "sentiment": "none"
+        },
+        {
+          "name": "jim kable",
+          "sentiment": "none"
+        },
+        {
+          "name": "south bank university",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "london",
+          "sentiment": "none"
+        },
+        {
+          "name": "cambridge",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-03T10:13:58.012+03:00",
+    "updated": "2024-05-03T18:23:01.090+03:00"
+  },
+  {
+    "uuid": "79332910393d2bd81d637e0ba5bff31d9ab8af9e",
+    "url": "https://www.pprune.org/computer-internet-issues-troubleshooting/662533-microsoft-windows-updates-saga.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Octane",
+    "published": "2024-11-15T08:41:00Z",
+    "title": "Microsoft Windows Updates Saga",
+    "text": "Microsoft is attempting on a regular basis to break my Laptop by installing \"updates\"\nMy machine is a 7 year old Lenovo Yoga 310-11IAP laptop running Windows 10. It has only a 64 GB SSD. It is not upgradable. This modest machine has been brilliant. It is small, lightweight and has a touchscreen. It was also very cheap. It has not missed a beat, it does all I need from a laptop, web browsing and email etc.\nUntil recently that is. MS is now hijacking my machine and changing the registry so that automatic Win 10 updates are allowed to occur. My machine does not have the resources or storage to cope with this crap. Upon auto reboot, one of which took overnight, I get a load of error messages, \"Win 11 cannot be loaded\" etc etc, and a boat load of crapware has been loaded, including MS Outlook with Office components etc that maxes out my storage turning the machine into a useless slug.\nI then have to spend hours trying to restore the laptop to it's previous configuration, deleting junk etc.\nLast time around it took me hours to reinstall Mail after I deleted Outlook for example. Then I go to the registry and disable Auto Update.\nBut wait, MS, without my authorization has accessed and altered my registry once more and enabled another pointless, malicious \"update\" that will break my computer again\nHow is this even legal? Are they are trying to coerce me into buying a new machine? One that I wouldn't need if they didn't break in and interfere with this one?\nI feel violated\nHow can I put a permanent stop to these updates, or lock the registry to prevent MS access?\n(The dreaded \"Your device needs to restart to install updates\" icon has reappeared )",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Microsoft",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T12:50:31.218+02:00",
+    "updated": "2024-11-15T20:19:29.791+02:00"
+  }
+]

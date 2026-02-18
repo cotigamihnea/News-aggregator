@@ -1,0 +1,304 @@
+[
+  {
+    "uuid": "9da6bca730eadeb1d2a975b476bc27fb63395822",
+    "url": "https://www.khaleejtimes.com/uae/why-filipino-catholics-in-uae-visit-7-churches-during-holy-week",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Angel Tesorero",
+    "published": "2024-03-29T02:00:00Z",
+    "title": "Why Filipino Catholics in UAE visit 7 churches during Holy Week - News | Khaleej Times",
+    "text": "uae\nRamadan in Dubai: At this iftar, expats and Emiratis break fasts, build bridges Why Emiratis don white kandouras? Why Arabic coffee is served in small, half-filled cups? All such questions answered at a wind-tower house gathering\nuae",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://whatsapp.com/channel/0029Va5dROu3bbUxk7Jh2503",
+      "https://www.whatsapp.com/channel/0029Va5dROu3bbUxk7Jh2503"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "rainier vibar",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jebel ali",
+          "sentiment": "none"
+        },
+        {
+          "name": "teodora",
+          "sentiment": "none"
+        },
+        {
+          "name": "vibar",
+          "sentiment": "none"
+        },
+        {
+          "name": "al ain",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "khaleej times visiting",
+          "sentiment": "negative"
+        },
+        {
+          "name": "st mary's catholic church",
+          "sentiment": "none"
+        },
+        {
+          "name": "st john the baptist catholic church",
+          "sentiment": "none"
+        },
+        {
+          "name": "perpetual help church in fujairah",
+          "sentiment": "none"
+        },
+        {
+          "name": "catholic",
+          "sentiment": "none"
+        },
+        {
+          "name": "st anthony of padua church",
+          "sentiment": "none"
+        },
+        {
+          "name": "st paul's catholic church",
+          "sentiment": "none"
+        },
+        {
+          "name": "st mary's church",
+          "sentiment": "none"
+        },
+        {
+          "name": "visita iglesia",
+          "sentiment": "none"
+        },
+        {
+          "name": "st michael's church",
+          "sentiment": "none"
+        },
+        {
+          "name": "st. joseph's cathedral",
+          "sentiment": "none"
+        },
+        {
+          "name": "st. francis of assisi catholic church",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "uae",
+          "sentiment": "none"
+        },
+        {
+          "name": "sharjah",
+          "sentiment": "none"
+        },
+        {
+          "name": "philippines",
+          "sentiment": "none"
+        },
+        {
+          "name": "ras al khaimah",
+          "sentiment": "none"
+        },
+        {
+          "name": "visita iglesia",
+          "sentiment": "none"
+        },
+        {
+          "name": "dubai",
+          "sentiment": "none"
+        },
+        {
+          "name": "abu dhabi",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-29T05:01:53.170+03:00",
+    "updated": "2024-03-29T10:30:01.129+03:00"
+  },
+  {
+    "uuid": "192a80d54fe8981f5c4385490b2b8e11e66ca6e8",
+    "url": "https://www.researchsquare.com/article/rs-7142536/v1",
+    "ord_in_thread": 0,
+    "author": "Zizhang Liu",
+    "published": "2025-07-31T00:00:00Z",
+    "title": "Hybrid Intelligence for Wave Prediction: Integrating Sparse LSTM-Transformer with an Expert System | Research Square",
+    "text": "Accurate and computationally efficient wave height prediction is critical for marine operations, coastal engineering, and offshore safety. However, existing models struggle to capture both short- and long-term dependencies in complex sea states. This study presents a hybrid forecasting framework that combines Long Short-Term Memory (LSTM) networks and Transformer encoders, augmented by a sparse attention mechanism to reduce computational cost while preserving key temporal features. To further enhance reliability under extreme conditions, a knowledge-based expert system is incorporated, consisting of 21 domain-specific rules addressing physical constraints, safety thresholds, and control logic. These rules refine the model’s outputs through a confidence-weighted fusion approach. The model is evaluated using five years of half-hourly wave height data from the Muluraba buoy station. Experimental results demonstrate that the proposed hybrid system outperforms traditional statistical models (e.g., ARIMA) and baseline deep learning models (e.g., CNN-LSTM, standard LSTM-Transformer), achieving a correlation coefficient of 0.97, RMSE of 0.027, and MAE of 0.019. These results demonstrate the effectiveness of integrating neural networks with expert systems for robust wave forecasting.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->marine science",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:09:20.220+03:00",
+    "updated": "2025-07-31T08:12:16.000+03:00"
+  },
+  {
+    "uuid": "3ddbe9a465497efda3bdb06ac849d1c048e478fc",
+    "url": "https://ground.news/article/one-life-a-refugee-from-the-nazis-on-the-new-kindertransport-film",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Evening Standard",
+    "published": "2023-12-30T20:00:00Z",
+    "title": "Ground News - One Life: a refugee from the Nazis on the new Kindertransport film",
+    "text": "Summary by Evening Standard Renate Collins was one of the 669 children rescued from the Nazis by Sir Nicholas Winton, whose actions have been dramatised in an extraordinary new film Share menu More\nFilters 1 Articles 1 Articles All Left Center Right\nEvening Standard Center Mixed Factuality Individual: Evgeny Lebedev Independent: Alfred Harmsworth (Barrister) One Life: a refugee from the Nazis on the new Kindertransport film Renate Collins was one of the 669 children rescued from the Nazis by Sir Nicholas Winton, whose actions have been dramatised in an extraordinary new film\n6 hours ago · London, United Kingdom Read Full Article\nEvening Standard Center Mixed Factuality Individual: Evgeny Lebedev Independent: Alfred Harmsworth (Barrister)\nOne Life: a refugee from the Nazis on the new Kindertransport film Renate Collins was one of the 669 children rescued from the Nazis by Sir Nicholas Winton, whose actions have been dramatised in an extraordinary new film\n6 hours ago · London, United Kingdom Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://www.standard.co.uk/culture/film/one-life-anthony-hopkins-kindertransport-refugee-nazis-b1128178.html?utm_source=ground.news&utm_medium=referral",
+      "https://standard.co.uk/culture/film/one-life-anthony-hopkins-kindertransport-refugee-nazis-b1128178.html?utm_source=ground.news&utm_medium=referral",
+      "https://www.standard.co.uk/culture/film/one-life-anthony-hopkins-kindertransport-refugee-nazis-b1128178.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "renate collins",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "alfred harmsworth",
+          "sentiment": "none"
+        },
+        {
+          "name": "nicholas winton",
+          "sentiment": "none"
+        },
+        {
+          "name": "evgeny lebedev",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nazis",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "articles all left center right evening standard center mixed factuality individual",
+          "sentiment": "none"
+        },
+        {
+          "name": "united kingdom read full",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "london",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-31T00:41:46.538+02:00",
+    "updated": "2023-12-31T00:41:46.538+02:00"
+  },
+  {
+    "uuid": "17479d34b1781d6e0fb58619763ef48ffe8f3ead",
+    "url": "https://www.siasat.com/allahabad-hc-allows-interfaith-couples-to-marry-without-conversion-3035455",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Indo-Asian News Service",
+    "published": "2024-05-30T21:19:00Z",
+    "title": "Allahabad HC allows interfaith couples to marry without conversion",
+    "text": "Prayagraj: The Allahabad High Court has observed that the law permits interfaith couples to marry under the Special Marriage Act without conversion.\nThe court also granted protection to an interfaith live-in couple facing threats.\nThe court observed,”Interfaith couples who choose not to convert for marriage can register their union under the Special Marriage Act.”\nJustice Jyotsna Sharma made this observation while granting protection to a live-in couple facing threats to their life and liberty due to the nature of their relationship.\nThe state objected to the plea, arguing that the couple claimed to have married by agreement, which is not legally recognised.\nThe court dismissed the argument, stating that while marriage by agreement is invalid, parties can apply for court marriage under the Special Marriage Act without conversion.\n“In my opinion, marriage through agreement is definitely invalid in law. However, law does not prevent the parties from applying for court marriage under the Special Marriage Committee without conversion,” Justice Sharma said in her order.\nThe couple, who expressed their desire to marry under the Special Marriage Act without changing their religion, sought protection to proceed with their registration.\n“Supplementary affidavit has been submitted in which it is categorically submitted that they will continue to follow the faith/religion of their own and do not propose to convert and that they are mature enough to take decisions regarding their lives. Further they seriously want to enter into matrimonial relationship as per law,” the court recorded in the order.\nThe court granted protection to the couple and instructed them to solemnise their marriage under the Special Marriage Act, providing documentary proof in a supplementary affidavit. The next hearing is scheduled for July 10.\nThe Special Marriage Act (SMA), 1954, provides a legal framework for the marriage of people belonging to different religions.\nUnder this law, one can marry with a person of other religion without changing his or her faith. It promotes a society where love transcends faith and is legally recognised throughout India.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jyotsna sharma",
+          "sentiment": "none"
+        },
+        {
+          "name": "sharma",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "allahabad high court",
+          "sentiment": "negative"
+        },
+        {
+          "name": "special marriage committee",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-31T05:21:21.488+03:00",
+    "updated": "2024-05-31T05:21:21.488+03:00"
+  }
+]

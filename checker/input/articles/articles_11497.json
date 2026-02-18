@@ -1,0 +1,871 @@
+[
+  {
+    "uuid": "ce7f0855e8c11075ede869b5bf6fdb794833d488",
+    "url": "https://www.kltv.com/2023/12/28/endangered-missing-alert-issued-4-year-old-infant-colorado/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@KLTV7",
+    "published": "2023-12-28T21:31:00Z",
+    "title": "4-year-old and infant in Colorado found safe after endangered missing alert",
+    "text": "4-year-old and infant in Colorado found safe after endangered missing alert STERLING, Colo. ( [KKTV](https://www.kktv.com/2023/12/28/statewide-alert-issued-colorado-missing-4-year-old-infant/)/Gray News) - A statewide alert issued in Colorado on Thursday for two young children has been canceled, [KKTV reports.](https://www.kktv.com/2023/12/28/statewide-alert-issued-colorado-missing-4-year-old-infant/) The Colorado Bureau of Investigation issued an alert for 4-year-old Zuryah Thalacker and 23-month-old Ansom Thalacker. Officials say the two children were located and were safe as of 3 p.m. on Thursday. Officials say the children have been missing since Wednesday at 1:30 p.m. when they were last seen in the Sterling area. The alert stated that the children may have been with 28-year-old Justina Lambert. The CBI did not disclose the relationship between the three in the alert. The alert said the children were believed to be traveling in a 2007 White Nissan Murano with CA license plate 9ERA912, with the rear bumper missing. Copyright 2023 KKTV via Gray Media Group, Inc. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://www.kktv.com/2023/12/28/statewide-alert-issued-colorado-missing-4-year-old-infant/)",
+      "https://www.kktv.com/2023/12/28/statewide-alert-issued-colorado-missing-4-year-old-infant/)/Gray",
+      "https://kktv.com/2023/12/28/statewide-alert-issued-colorado-missing-4-year-old-infant/)",
+      "https://kktv.com/2023/12/28/statewide-alert-issued-colorado-missing-4-year-old-infant/)/Gray"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "zuryah thalacker",
+          "sentiment": "none"
+        },
+        {
+          "name": "justina lambert",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kktv",
+          "sentiment": "none"
+        },
+        {
+          "name": "gray media group, inc",
+          "sentiment": "none"
+        },
+        {
+          "name": "cbi",
+          "sentiment": "none"
+        },
+        {
+          "name": "colorado bureau of investigation",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "colorado",
+          "sentiment": "none"
+        },
+        {
+          "name": "colo.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:32:48.150+02:00",
+    "updated": "2023-12-29T00:32:48.150+02:00"
+  },
+  {
+    "uuid": "dc2cc95515c6c04f4d28c91f95e554b377bb0699",
+    "url": "https://www.republicworld.com/amp/india/infosys-terminates-around-45-trainees-from-mysuru-campus-after-they-fail-internal-assessments",
+    "ord_in_thread": 0,
+    "author": "Srujani Mohinta",
+    "published": "2025-03-27T09:58:00Z",
+    "title": "Termination at Infosys Mysuru Campus, 45 Receive Firing Mails with 'Alternative Path' Suggestions",
+    "text": "Updated March 27th 2025, 15:58 IST\nTermination at Infosys Mysuru Campus, 45 Receive Firing Mails with 'Alternative Path' Suggestions\nInfosys has terminated approximately 30 to 45 trainees from its Mysuru campus on March 26 after they failed to pass internal assessments.\nIndia News- 1 min read\nSrujani Mohinta\nBengaluru: Software giant Infosys has terminated approximately 30 to 45 trainees from its Mysuru campus on March 26 after they failed to pass internal assessments.\nHowever, the company has offered alternative career paths to the affected trainees, including a 12-week training program for potential roles in Infosys Business Process Management (BPM).\nAccording to reports, Infosys is also providing a one-month ex-gratia payment along with a relieving letter to all impacted trainees.\nFor those who do not wish to opt for the BPM course, the Bengaluru-based company has offered to fund additional training to help them explore other career opportunities.\n(This is a developing story.)\nGet Current Updates on India News, Entertainment News along with Latest News and Top Headlines from India and around the world.\nPublished March 27th 2025, 15:28 IST",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->human resources",
+      "Economy, Business and Finance->layoffs",
+      "Social Issue->discrimination",
+      "Social Issue->social condition",
+      "Labor->employment",
+      "Labor->labour relations",
+      "Labor->employer"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Srujani Mohinta",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Bengaluru",
+          "sentiment": "negative"
+        },
+        {
+          "name": "India",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Infosys Mysuru Campus",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Infosys Business Process Management",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "BPM",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "India News",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Entertainment News",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Latest News",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-27T12:32:29.593+02:00",
+    "updated": "2025-03-27T12:32:29.593+02:00"
+  },
+  {
+    "uuid": "7e4f3fa94352f5bfcfdf0a0d00dd805cc91d99d9",
+    "url": "https://www.sportingnews.com/au/nfl/news/lions-celebrity-fans-eminem-taylor-lautner-ninja/ba774c51c8fd1c338043a3a5",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dan Treacy",
+    "published": "2025-01-16T22:01:00Z",
+    "title": "Who are the Lions' biggest celebrity fans? Eminem, Taylor Lautner, Ninja and more cheering on Detroit",
+    "text": "The Lions have the entire city of Detroit behind them as they try to reach the Super Bowl for the first time in franchise history. The only problem? Most of those fans won't be in attendance for the NFC championship, as the Lions are going on the road for the first time in these playoffs.\nStill, Dan Campbell's group knows it has vast support from both everyday fans and celebrities who have been waiting a long time for this moment to finally come.\nThe Lions have their share of famous fans, including a few who were spotted attending playoff games. If Detroit wants to reach a Super Bowl some of the franchise's most well-known fans will surely soak in every bit of the buildup to the big game.\nSN'S PLAYOFFS HQ: Live NFL scores | Full NFL schedule | Updated NFL bracket\nHere's a rundown of the Lions' celebrity fans, from Eminem to Flavor Flav.\nLions celebrity fans\nEminem\nEminem is undoubtedly the Lions' biggest celebrity fan, and he's wasted no opportunity to cheer on his team in the playoffs. The rapper fired up the Ford Field crowd during Detroit's divisional-round win over the Buccaneers, and he was pictured with both Barry Sanders and Calvin Johnson before the team's wild-card game against the Rams.\ntell ya what … have been in stadiums, arenas, domes and buildings all over this fine land and I don’t think I’ve ever seen an in-game hype spot quite like when the Lions play Lose Yourself and cut to a living breathing Eminem in the stands as ppl sing\n— Nick Baumgardner (@nickbaumgardner)[pic.twitter.com/KsrsNeWL22][January 22, 2024]\nEminem was born in Missouri, but he and his mother moved to a Detroit suburb when he was 12. Since then, he's been a fan of Detroit-area sports through-and-through.\nTaylor Lautner\n\"Twilight\" actor Taylor Lautner is among the Lions' most notable fans. Born in Grand Rapids, Mich., Lautner attended Detroit's playoff win over the Buccaneers wearing a custom jacket emblazoned with Aidan Hutchinson's name and number.\nLautner's fandom goes back several years, as he was featured in a 2015 video posted to the NFL's YouTube channel explaining that he has rooted for the team as far back as the end of Barry Sanders' career.\nKeegan-Michael Key\nComedian and actor Keegan-Michael Key has been vocal about his Lions support over the years. He praised the franchise during a \"ManningCast\" appearance in 2022, telling Peyton and Eli Manning that he believed the Lions can finish the season on an unbeaten run and make the playoffs.\nWhile Detroit came up a mere tiebreaker short, Key is undoubtedly thrilled that the Lions have taken the next step in 2023.\nKey was born in Southfield, Mich., just 15 miles outside of Detroit.\nMORE NFL PLAYOFFS:\nBig Sean\nRapper Big Sean has also been a longtime Lions fan, and he was pictured at Detroit's playoff win over the Rams alongside Eminem and others. The Lions had Big Sean perform the Thanksgiving halftime show in 2021 when the team was still winless in Dan Campbell's first season.\nBig Sean's family moved to Detroit when he was just three months old, so his roots are firmly in the city.\nNinja\nVideo game streamer Ninja, born Tyler Blevins, is one of the most recognizable Lions fans for younger generations. He was supportive of the team during some of the leanest years, serving as an honorary captain for a 2019 game under Matt Patricia and telling ESPN in '18 that his brothers were raised as Lions fans.\nUnlike many other notable Lions fans, Ninja does not live in Detroit. He was born in Detroit but has lived in Chicago since he was an infant, and his father is a Bears fan. That makes for an interesting dynamic, though it's been quite a while since both the Lions and Bears were contenders in the same season.\nKid Rock\nKid Rock hasn't been around during the Lions' playoff run, but Jared Goff would like that to change.\n\"I think the only guy, I don't know if I've seen him at a game yet, would be Kid Rock,\" Goff told a Detroit radio station before the Lions' divisional-round game against the Buccaneers. \"That would be pretty fun. I think the crowd would enjoy that.\"\nJared Goff is hoping one specific celebrity makes it to the\n— Will Burchfield (@burchie_kid)[#Lions]next playoff game at Ford Field: \"I think the only guy, I don't know if I’ve seen him at a game yet, would be[@KidRock]That would be pretty fun. I think the crowd would enjoy that.\"[January 16, 2024]\nThe musician is a longtime Lions fan and has performed at Ford Field in the past, putting on the halftime show during Detroit's Thanksgiving game in 2010. Ford Field isn't hosting any more games this season, but a trip to the Super Bowl might be appealing for Kid Rock.\nTim Allen\nActor Tim Allen was born in Colorado, but he and his family moved to a Detroit suburb when he was 13. It wasn't too late for Allen to become a Lions fan, and he's been supportive of the team ever since.\nAllen attended the Lions' Thanksgiving game this season and praised coach Dan Campbell, telling WXYZ Detroit, \"There's nothing more infections than his energy and enthusiasm.\"\nTim Allen just wants to wrestle Dan Campbell. 😂😂\n— Jeanna Trotman (@JeannaTrotmanTV)\n\"I just want to take a shot at him. There's nothing more infectious than his energy and enthusiasm.\"[pic.twitter.com/1oK69KqUGX][November 23, 2023]\nJeff Daniels\n\"Dumb and Dumber\" actor Jeff Daniels was born in Georgia, but like many other famous Lions fans, he grew up in Michigan. Daniels' family moved from Georgia just six weeks after he was born, returning to his parents' home state, and he attended both Central Michigan University and Eastern Michigan University for brief periods.\nDaniels was in attendance for the Lions' divisional round win over the Buccaneers, and he appeared on an episode of \"Peyton's Places\" from Ford Field in 2022, trying to lift the curse that he believes hangs over the Lions. Knowing how well the Lions finished in '22 and have played in '23, it just might have worked.\nMORE: What's the meaning behind Dan Campbell's 'MCDC' nickname?\nChad Smith\nRed Hot Chili Peppers drummer and Will Ferrell lookalike Chad Smith is also a Lions fan, having moved from Minnesota to a Detroit suburb when he was young. Smith was in attendance for the Lions' divisional-round matchup with Tampa.\nGretchen Whitmer\nWell, this one is obvious. Gretchen Whitmer is the governor of Michigan, so she has little choice but to cheer on the Lions. Gov. Whitmer was at the Lions' divisional-round win over the Buccaneers, and there's no doubt she will be even more vocal in her support ahead of the NFC championship.\nFlavor Flav\nRapper Flavor Flav is from New York, but he's been vocal about his support for the Lions throughout the team's playoff run. He posted an Instagram video of himself wearing a custom Lions jersey with his name on it during the Lions' divisional round win and was a guest at Ford Field.\nYou know what time it is\n— Detroit Lions (@Lions)[@FlavorFlav]|[#AllGrit][pic.twitter.com/tps3AwTqoZ][January 21, 2024]\nFlavor Flav has also shared his support for the Pistons, though their season is going much differently than the Lions' 2023 campaign.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Sport->american football",
+      "Human Interest->celebrity",
+      "Social Issue->demographics",
+      "Social Issue->social condition",
+      "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Taylor Lautner",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Lions",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "NFL",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:39:19.479+02:00",
+    "updated": "2025-01-17T00:39:19.479+02:00"
+  },
+  {
+    "uuid": "97199f4b7fded7280ecb9ccbfe0ec0d00f6ea625",
+    "url": "https://www.noozhawk.com/author-of-asian-american-literature-to-speak-at-multicultural-center",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Keith Hamm for UCSB",
+    "published": "2024-04-18T21:00:00Z",
+    "title": "Author of Asian American Literature to Speak at Multicultural Center",
+    "text": "Nationally acclaimed California author Maxine Hong Kingston, who inspired feminist thought as she shaped decades of Asian American literature, will visit UC Santa Barbara to talk about writing, family and activism, 4 p.m. Saturday, April 20, in the UCSB MultiCultural Center. The event will be “a special glimpse into the backstories and also the afterlives of her work,” particularly “The Woman Warrior” (1976) and the National Book Award-winning “China Men” (1980), said erin Ninh, a Kingston scholar and chair of UCSB’s Department of Asian American Studies. “Her memoirs are such landmarks in Asian American literature that her family has become legendary along with her. It’s rare we get to see pictures of them and hear more about her relationships with family and writing off the page,” Ninh said. Kingston said her talk will also cover “some crucial events” in her life, including immigration, the shift of her primary language from Chinese to English and the 1991 Oakland Hills firestorm that killed 25 people and destroyed more than 3000 homes near UC Berkeley, where she was teaching at the time. In discussion with Ninh, she will also present photographs of “the old country and the new,” she said. Kingston, now 83, was the third of eight children born to first-generation Chinese immigrants and the eldest of the six born in the U.S. “Talk Story with Maxine Hong Kingston” is cosponsored by UCSB Library and is the first installment of a planned series of high-profile speakers hosted by the Department of Asian American Studies. Tickets are free but limited; students and alumni of sponsoring departments (Asian American Studies, College of Creative Studies, Feminist Studies and English) will receive priority.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Education",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "maxine hong kingston",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ninh",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "multicultural center nationally",
+          "sentiment": "negative"
+        },
+        {
+          "name": "oakland hills",
+          "sentiment": "none"
+        },
+        {
+          "name": "uc santa barbara",
+          "sentiment": "none"
+        },
+        {
+          "name": "ucsb",
+          "sentiment": "none"
+        },
+        {
+          "name": "ucsb’s department of asian american studies",
+          "sentiment": "none"
+        },
+        {
+          "name": "kingston",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "california",
+          "sentiment": "none"
+        },
+        {
+          "name": "china",
+          "sentiment": "none"
+        },
+        {
+          "name": "kingston",
+          "sentiment": "none"
+        },
+        {
+          "name": "uc berkeley",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-19T00:20:13.411+03:00",
+    "updated": "2024-05-19T05:09:03.924+03:00"
+  },
+  {
+    "uuid": "55f5a2571dcdf40da4603936d112271329f18e24",
+    "url": "https://m.dailyhunt.in/news/india/english/thefreepressjournal-epaper-dhecf5ddffe11b4f36b496f4bee6e60122/bengaluru+weather+though+heavy+rains+to+continue+worsening+commuters+routine+downpours+to+reduce+intensity+of+heat-newsid-n607374558",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Dailyhuntapp",
+    "published": "2024-05-10T00:03:00Z",
+    "title": "Bengaluru Weather: Though Heavy Rains To Continue Worsening Commuters' Routine, Downpours To Reduce Intensity Of Heat",
+    "text": "Bengaluru: Scorching heat has reduced its intensity in the city of Bengaluru, where it has been raining heavily for long patches of time for over 2 days now. Rains have covered almost all parts of the city, bringing the intensity of the heat considerably down. The city woke up to breezy, comfortable weather, tolerable if not cold as such, on Friday, May 10. The temperature was recorded at 26°C on Friday morning.\nAs per the Indian meteorological department, Bengaluru city will record a maximum temperature of 35°C and a minimum temperature of 23°C. Overall, in Karnataka, Bagalkot is expected to experience the highest maximum temperature at 40.6°C.\nLocal weather report and forecast for Bengaluru city Rainfall prediction in Karnataka for May 10\nAccording to Indian meteorological Department, light to moderate rain and thundershowers associated with gusty winds (40-50 kmph) are very likely to occur at some places over Bagalkote, Belagavi, Bidar, Dharwad, Gadag, Haveri, Kalaburgi, Vijayapura, Bengaluru Urban, Bengaluru Rural, Chikkaballapura, Chamarajanagar, Chikkamagaluru, Hassan, Davangere, Kodagu, Kolar, Mandya, Mysuru, Ramanagara, Shivamogga and Vijayanagara districts.\nRainfall prediction in Karnataka for May 10 Light to moderate Rain is very likely to occur at some places over Dakshina Kannada, Udupi and Uttara Kannada districts. Dry weather very is likely to prevail over remaining districts of the State.\nBengaluru rains to continue till May 13\nHeavy rains continued to occur across almost entire Bengaluru on Thursday rightly as per IMD&apos;s yellow alert. Heavy downpours wreaked havoc across the city causing waterlogging leading to traffic disruptions. Commuters faced huge difficulty in the situation that prevailed due to heavy rainfall. Bengaluru traffic police left no stone unturned in pressing the necessary staff into action in many areas in a bid to release the movement of traffic that had come to a standstill due to heavy rain in the city.\n\\n Heavy rains with lots of lightning. #BengaluruRains pic.twitter.com/2yysOwy3i2\n— Srinivasa S (@photomithra) \\n May 9, 2024 \\n\nThe worst affected areas in the city were Airport Road, Chalukya Circle to Hebbal flyover, Sumanahalli junction, Nayandahalli junction, ORR - Hebbal, Gorguntepalya and Nayandahalli.\nHeavy rain is expected to continue till May 13 in BEngaluru.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/hashtag/BengaluruRains?src=hash&ref_src=twsrc%5Etfw\\",
+      "https://twitter.com/photomithra/status/1788593374750024038?ref_src=twsrc%5Etfw\\",
+      "https://t.co/2yysOwy3i2\\",
+      "https://www.twitter.com/hashtag/BengaluruRains?src=hash&ref_src=twsrc%5Etfw\\",
+      "https://twitter.com/hashtag/BengaluruRains",
+      "https://www.twitter.com/photomithra/status/1788593374750024038?ref_src=twsrc%5Etfw\\",
+      "https://www.t.co/2yysOwy3i2\\",
+      "https://twitter.com/photomithra/status/1788593374750024038"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "chikkamagaluru",
+          "sentiment": "none"
+        },
+        {
+          "name": "vijayapura",
+          "sentiment": "none"
+        },
+        {
+          "name": "davanger",
+          "sentiment": "none"
+        },
+        {
+          "name": "bidar",
+          "sentiment": "none"
+        },
+        {
+          "name": "hassan",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "department",
+          "sentiment": "none"
+        },
+        {
+          "name": "bengaluru urban",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "bengaluru",
+          "sentiment": "none"
+        },
+        {
+          "name": "belagavi",
+          "sentiment": "none"
+        },
+        {
+          "name": "chikkaballapura",
+          "sentiment": "none"
+        },
+        {
+          "name": "haveri",
+          "sentiment": "none"
+        },
+        {
+          "name": "chamarajanagar",
+          "sentiment": "none"
+        },
+        {
+          "name": "karnataka",
+          "sentiment": "none"
+        },
+        {
+          "name": "gadag",
+          "sentiment": "none"
+        },
+        {
+          "name": "kalaburgi",
+          "sentiment": "none"
+        },
+        {
+          "name": "dharwad",
+          "sentiment": "none"
+        },
+        {
+          "name": "bagalkote",
+          "sentiment": "none"
+        },
+        {
+          "name": "bagalkot",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T12:03:14.951+03:00",
+    "updated": "2024-05-10T12:03:14.951+03:00"
+  },
+  {
+    "uuid": "e459ff28f359e9d1f09f88505261094c9a3344b3",
+    "url": "https://abcnews.go.com/International/leave-family-returns-kharkiv-after-fleeing-russia-invaded/story?id=109739094",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ABC News",
+    "published": "2024-05-03T10:01:00Z",
+    "title": "'Not going to leave': Family returns to Kharkiv after fleeing when Russia invaded - ABC News",
+    "text": "A mother and son returned to their home in Kharkiv, near the front lines. KHARKIV, Ukraine -- Less than a month after Russia invaded Ukraine , Yana, 33, the lonely mother of Roman, who is now 11, left the front-line city of Kharkiv with their relatives and spent seven months in Lviv, a city in the western part of Ukraine, farther from the fighting. They were overwhelmed by the hospitality of locals in Lviv, but, despite the ongoing war, they returned home by the end of the same year -- to celebrate New Year's Eve in their native surroundings. \"I am infinitely grateful to Lviv and its people for the fact that we are now alive and unharmed -- I have never received as much help as I received in Lviv,\" Yana told ABC News. She asked to only be identified by her first name. When Yana and her son were outside Kharkiv in April 2022, their five-story Soviet-era building was hit by Russian Multiple Launch Rocket System missiles. Fortunately, the family's apartment survived that attack, but the nearby garage with their belongings, including Roman's bicycle, was burnt to the ground. \"It hurts when you can only witness your native city being burned but Kharkiv residents are not going to leave,\" Yana said. Inspired by the Ukrainian army successful counteroffensive in Kharkiv region and the liberation of Kherson, the family decided to restore their apartment in Kharkiv. \"To say that it was a moment of happiness is to say nothing at all -- it is impossible to express these feelings,” said Yana, remembering the first emotions after their homecoming. The mother and the son are now threatened mostly by Russia’s modernized guided bombs and missile attacks from the enemy's territory, as the distance to border is only about 18 miles. Yana seems to be morally and materially ready to stay in the city under everyday shelling. Stockpiles of groceries, candles, power banks and other useful things have become a new normal for the family during both winters they have survived in the native city. \"After the strikes on critical infrastructure Kharkiv was swallowed by darkness and sounds of power generators -- we almost forgot about safety and any comfort,” Yana said. Due to financial difficulties, she was forced to leave her job in sales of cosmetics. After obtaining proper certificates, she now works as a laser epilation specialist, removing clients’ hair in two cities, Kharkiv and Poltava. This decision was a matter of a low salary: \"During the war, life in Ukraine became considerably expensive, not only in Kharkiv, all over country, but the income was at the same level,\" she explains. Many businesses left Kharkiv, others filed for bankruptcy, and the flow of the students from local universities all but disappeared. \"But this spring of 2024 is very different, despite everything, a lot of new hairdressers, tattoo and beauty salons, coffee shops, bookstores have opened in the last couple of months,\" said Yana, expressing her strong faith in Kharkiv's future. Despite this positive mood, the family keeps surviving under the instant threat of the Russian missiles that are taking advantage of Ukrainian air defense capabilities shortage. The recent intensification of Russian strikes on Ukraine's energy infrastructure and urban areas exposed the poor defense of Kharkiv. Almost all of the Kharkiv region's power facilities have been destroyed or badly damaged, causing large-scale power cuts, since Russia renewed its aerial assault this spring. Before the war, Kharkiv used to be Ukraine's second biggest city after Kyiv -- it served as a home to 2 million people -- but as the war continued, it dipped to fewer than 300,000 civilians. Even now the city hasn't restored its peace-time population. The regional authorities are constantly announcing new evacuation orders for civilians still living in some border communities of the Kharkiv region. Ihor Terekhov, the city’s mayor, warned this month, in an interview with British media, that Kharkiv with its 1.3 million residents was at risk of becoming \"a second Aleppo,\" referencing a Syrian city allegedly destroyed by Syrian government and Russian forces, without Western fresh military aid. At the same time, Yana and her son are not going to surrender so easily. \"I am not going anywhere, but if the tricolor [Russian flag] flies over our regional administration, I won't be able to live under it -- I understand that this will be the worst thing for the city,” she said. For now, she and her son are going to stay, work and study in Kharkiv, helping the volunteers and the military. Although Roman was enchanted by Lviv, its people and its culture, Yana said she is not considering the possibility of returning there, as it was also a painful experience for her son. He had to make new friends at both schools he attended in Lviv, as many of them were evacuating further abroad with their families, and this upset Roman very much, his mother said. \"More and more often he was asking me, ‘Why should I get to know them, if they will go somewhere anyway, disappear, and I have my friends, they are in Kharkiv,’” Yana said. The stress affected the boy's weight and the family decided to go on a diet and started running at the stadium near the apartment they were renting in Lviv. But after their return to Kharkiv everything normalized, she said. The destruction in Kharkiv Yana describes as partial but very painful: \"The mutilated houses, erased districts, historical monuments -- it hurts so much that you can't express the exact feeling, it is like some pieces have been cut away from your own body.\" But material losses are less important -- it is the people who are the main loss, says Yana and remembers, that a year ago, in May 2023, she couldn't stand to attend the fourth funeral in a row as it was too much for her. At the same time, she said that this war gave her the understanding of her own identity and strengthened her personal faith in people. Yana and Roman are now preparing for the next winter in Kharkiv by gathering more power banks, candles, food and water. \"If the city plunges into darkness for a very long time, not just for one or two days, and children will not be able to study even remotely, then we will think about something and maybe move to another place where there is electricity, but I don't think it will be 1000 kilometers away,\" said Yana. She said she still believes in the potential of Kharkiv as a big city. \"When the war ends, there are even real reconstruction plans, realistic programs and profitable conditions for the return of business, students, and even tourists -- many people would be willing to see the city of reinforced concrete,” she said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "yana",
+          "sentiment": "none"
+        },
+        {
+          "name": "russ",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "abc news",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "kharkiv",
+          "sentiment": "none"
+        },
+        {
+          "name": "russia",
+          "sentiment": "none"
+        },
+        {
+          "name": "kharkiv",
+          "sentiment": "none"
+        },
+        {
+          "name": "lviv",
+          "sentiment": "none"
+        },
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-03T13:09:49.774+03:00",
+    "updated": "2024-05-12T03:03:29.058+03:00"
+  },
+  {
+    "uuid": "daecb82660e4e34359fe75239a360ff2630d0bae",
+    "url": "https://thefederal.com/category/news/bjp-to-project-modi-as-hindu-hriday-samrat-in-ls-polls-says-shashi-tharoor-104775",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agencies",
+    "published": "2023-12-29T11:15:00Z",
+    "title": "BJP to project Modi as Hindu Hriday Samrat in LS polls, says Shashi Tharoor",
+    "text": "BJP to project Modi as Hindu Hriday Samrat in LS polls, says Shashi Tharoor New Delhi, Dec 29 (PTI) The Bharatiya Janata Party (BJP) is set to contest the 2024 Lok Sabha polls on the issue of Hindutva by projecting Prime Minister Narendra Modi as the \"Hindu Hriday Samrat\", Congress leader Shashi Tharoor said on Friday. In a post on X, Tharoor noted that Modi is set to inaugurate the Ram temple in Ayodhya on January 22 and the BAPS Hindu Temple in Abu Dhabi on February 14, following which the general election would be announced. The Congress MP from Thiruvananthapuram said the Lok Sabha election is shaping up to be a Hindutva versus popular welfare battle, and questions on economic growth, creating two crore jobs a year and putting disposable income into the pockets of every Indian need to be debated. \"The message is clear. In 2009, Mr Modi was sold to the Indian electorate as the avatar of economic development, the CEO of Gujarat Inc., who would bring development to all Indians. In 2019, with that narrative collapsing in the wake of the disastrous demonetisation, the Pulwama terrorist attack gave Mr Modi the opportunity to convert the general election into a national security election,\" Tharoor said. \"In 2024, it is clear the BJP will now revert to its core message and offer Narendra Modi to the nation as a Hindu Hriday Samrat,\" he added. \"Hindu Hriday Samrat\" literally translates to the emperor of Hindu hearts. \"All of this begs the question: what happened to achhe din? What happened to two crore jobs a year? What happened to economic growth that would benefit the lower rungs of the socio-economic ladder? What happened to putting disposable income into the pockets and bank accounts of every Indian?\" the Congress leader asked. \"These questions will have to be debated in an election that is shaping up to be Hindutva versus popular welfare,\" the former Union minister said. PTI",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "hindu hriday samrat",
+          "sentiment": "negative"
+        },
+        {
+          "name": "modi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "shashi tharoor",
+          "sentiment": "negative"
+        },
+        {
+          "name": "narendra modi",
+          "sentiment": "none"
+        },
+        {
+          "name": "tharoor",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "bjp",
+          "sentiment": "negative"
+        },
+        {
+          "name": "congress",
+          "sentiment": "none"
+        },
+        {
+          "name": "bharatiya janata party",
+          "sentiment": "none"
+        },
+        {
+          "name": "gujarat inc.",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "pulwama",
+          "sentiment": "none"
+        },
+        {
+          "name": "thiruvananthapuram",
+          "sentiment": "none"
+        },
+        {
+          "name": "ayodhya",
+          "sentiment": "none"
+        },
+        {
+          "name": "lok sabha",
+          "sentiment": "none"
+        },
+        {
+          "name": "abu dhabi",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T15:39:48.413+02:00",
+    "updated": "2023-12-29T15:39:48.413+02:00"
+  },
+  {
+    "uuid": "a3e0dfdc79a0ba223fa35245e81b25f553d98778",
+    "url": "https://thedebrief.org/these-ancient-fossils-are-revealing-new-clues-to-post-dinosaur-plant-evolution",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kenna Hughes-Castleberry",
+    "published": "2024-07-05T00:00:00Z",
+    "title": "These Ancient Fossils Are Revealing New Clues to Post-Dinosaur Plant Evolution - The Debrief",
+    "text": "Scientists from the Smithsonian Institution, the Field Museum of Natural History, the University of Michigan, the Smithsonian Tropical Research Institute (STRI), and the University of Florida recently found fossilized grape seeds aged 60 to 19 million years old in Peru, Colombia, and Panama. These are the oldest grape family plants in the Western Hemisphere. The discovery, published in Nature Plants , suggests that grapes spread more widely after the dinosaurs died 66 million years ago, which led to the current plants used for wine or raisin products. “These are the oldest grapes ever found in this part of the world, and they’re a few million years younger than the oldest ones ever found on the other side of the planet,” says Fabiany Herrera, an assistant curator of paleobotany at the Field Museum in Chicago’s Negaunee Integrative Research Center and the lead author of the paper in a recent press release . “This discovery is important because it shows that after the extinction of the dinosaurs, grapes really started to spread across the world.” Soft tissue plants like grapes and other fruits are challenging to preserve, making the discovery of a fossilized specimen a true rarity. Before this recent discovery, the earliest known grape fossils were found in India and estimated to be around 66 million years old, the same age as when a colossal asteroid collision caused a mass extinction that wiped out the dinosaurs. “We always think about the animals, the dinosaurs, because they were the biggest things to be affected, but the extinction event had a huge impact on plants too,” says Herrera in the news story. “The forest reset itself in a way that changed the composition of the plants.” Dinosaurs Change Forest Structures Finding the fossilized grape specimens at the base of the Andes mountains, Herrera and the other researchers wondered if the destruction of the dinosaurs contributed in some way to the widespread dissemination of grape plants. “Large animals, such as dinosaurs, are known to alter their surrounding ecosystems. We think that if there were large dinosaurs roaming through the forest, they were likely knocking down trees, effectively maintaining forests more open than they are today,” explains Mónica Carvalho, the assistant curator at the University of Michigan’s Museum of Paleontology and a co-author of the paper. Instead of dinosaurs pushing down the large tropical trees of the period, these plants would have created an impossibly dense forest with little light hitting the ground below. To survive, vines like grapevines would have evolved to crawl up the trees to receive more sunlight. The researchers also posited in their paper that the evolution of mammals and birds could have further disseminated grape seeds, as these species would eat and then distribute the seeds over wider distances via feces. Finding Grapes in the West Before finding the grape specimens, Herrera and his Ph.D. supervisor and another author of the Nature Plants paper, Steven Manchester, published a separate paper in 2013 believing that grape fossils could be found in the Western Hemisphere, something not previously seen. “Grapes have an extensive fossil record that starts about 50 million years ago, so I wanted to discover one in South America, but it was like looking for a needle in a haystack,” Herrera states in the press release. “I’ve been looking for the oldest grape in the Western Hemisphere since I was an undergrad student.” Now, Herrera and the team are proud to have found the first fossilized grape specimen within the western part of the globe. While the fossil itself is tiny, the researchers could identify it based on its shape and size. They further confirmed their hypothesis using CT scans. They named the fossilized species Lithouva susmanii, or “Susman’s stone grape,” to honor Arthur T. Susman, a strong supporter of the South American paleobotany at the Field Museum. Besides this particular specimen, the researchers described nine new species in their Nature Plants paper, with the ages of these fossils ranging from 60 to 19 million years old. The fossils show the pattern of seed dissemination across South America and the evolution of grapes into the plants they are today. A Mirror Into the Past? For Herrera and the team, tracking the grape fossils not only reveals a window into the past but also tells a story of how these plants adapted in the wake of a catastrophic disaster, something the scientists think may apply to the current climate conditions facing species around the globe. “The fossil record tells us that grapes are a very resilient order. They’re a group that has suffered a lot of extinction in the Central and South American region, but they also managed to adapt and survive in other parts of the world,” Herrera mentioned in the press release. Kenna Hughes-Castleberry is the Science Communicator at JILA (a world-leading physics research institute) and a science writer at The Debrief. Follow and connect with her on X or contact her via email at kenna@thedebrief.org",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Education",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.eurekalert.org/news-releases/1049819",
+      "https://www.nature.com/articles/s41477-024-01717-9",
+      "https://x.com/kennaculture",
+      "https://www.eurekalert.org/multimedia/1032689",
+      "https://nature.com/articles/s41477-024-01717-9",
+      "https://www.x.com/kennaculture",
+      "https://eurekalert.org/multimedia/1032689",
+      "https://eurekalert.org/news-releases/1049819"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "fabiany herrera",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "smithsonian institution",
+          "sentiment": "negative"
+        },
+        {
+          "name": "university of",
+          "sentiment": "negative"
+        },
+        {
+          "name": "negaunee integrative research center",
+          "sentiment": "none"
+        },
+        {
+          "name": "university of florida",
+          "sentiment": "none"
+        },
+        {
+          "name": "smithsonian tropical research institute",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "colombia",
+          "sentiment": "none"
+        },
+        {
+          "name": "chicago",
+          "sentiment": "none"
+        },
+        {
+          "name": "panama",
+          "sentiment": "none"
+        },
+        {
+          "name": "field museum",
+          "sentiment": "none"
+        },
+        {
+          "name": "western hemisphere",
+          "sentiment": "none"
+        },
+        {
+          "name": "peru",
+          "sentiment": "none"
+        },
+        {
+          "name": "michigan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T15:55:26.225+03:00",
+    "updated": "2024-07-05T15:55:26.225+03:00"
+  },
+  {
+    "uuid": "82ac0a9cb21b1c294c441cfd927a2400a500dc20",
+    "url": "https://ca.marketscreener.com/quote/stock/RACKSPACE-TECHNOLOGY-INC-110370321/news/Rackspace-Technology-Bolsters-Channel-Partner-Program-with-Enhanced-Incentives-and-Long-Term-Growt-49514557",
+    "ord_in_thread": 0,
+    "author": "MarketScreener",
+    "published": "2025-04-02T23:32:00Z",
+    "title": "Rackspace Technology : Bolsters Channel Partner Program with Enhanced Incentives and Long-Term Growth Strategy | MarketScreener Canada",
+    "text": "Rackspace Technology Bolsters Channel Partner Program with Enhanced Incentives and Long-Term Growth Strategy\nAccount Ownership Program Drives New Revenue Opportunities for Partners\nSAN ANTONIO, TX - March 24, 2025 - Rackspace Technology® ( NASDAQ: RXT ), a leading end-to-end hybrid cloud and AI solutions provider, is making a strong return to the channel with a bold relaunch of its Partner Program. This relaunch, which underscores Rackspace's renewed commitment to channel partners, introduces several key enhancements, including the Account Ownership Program, which provides more long-term revenue opportunities for partners while closing industry gaps and promoting deeper engagement.\nThe refreshed program positions Rackspace as a channel-first company and is centered around the tagline \"Win More. Earn More. Accelerate Your Growth with Rackspace Technology.\" It empowers partners with new tools, financial incentives, and co-marketing opportunities to drive business growth.\n\"With the introduction of the Account Ownership program and the relaunch of our channel strategy, we are providing our partners with access to more revenue and enhanced collaboration opportunities,\" said Adrianna Bustamante, VP of Partnerships & Demand Generation \"We are more committed than ever to the long-term success of our channel partners and are ready to help them accelerate their growth strategies. By doubling down on incentives, enablement, and long-term revenue opportunities, we're giving them a range of exciting new incentives to collaborate with us.\"\nA Partner Program Built for Long-Term Success\nWith the relaunch, Rackspace is focused on:\nAccount Ownership : Partners who bring in customers will continue to earn commissions on workloads indefinitely, providing a predictable, long-term source of revenue. Stronger Channel Engagement : Rackspace is ramping up investments in enablement, marketing support, and strategic alliances to help partners drive new business. Expanding Industry Solutions : AI, hybrid cloud, VMware, and BFSI solutions are key focus areas where Rackspace is leading, helping partners tap into these high-demand markets. Rackspace's Competitive Edge in the Channel\nThe restructured Partner Program builds on Rackspace's core strengths:\nIndustry leadership in AI, hybrid cloud, and workload-aware solutions. Deep strategic alliances with key distributors and cloud providers, including AWS, Microsoft Azure, Google Cloud, and VMware. A history of real-world success, helping partners scale their businesses with insights, expertise, and leading solutions. About Rackspace Technology\nRackspace Technology is a leading end-to-end hybrid and AI solutions company. We can design, build, and operate our customers' cloud environments across all major technology platforms, irrespective of technology stack or deployment model. We partner with our customers at every stage of their cloud journey, enabling them to modernize applications, build new products, and adopt innovative technologies.\nMedia Contact: Natalie Silva, publicrelations@rackspace.com\nPartner Support: raxpartnerhelp@rackspace.com\nAttachments\nOriginal document Permalink Disclaimer\nRackspace Technology Inc. published this content on April 02, 2025 , and is solely responsible for the information contained herein. Distributed via , unedited and unaltered, on April 02, 2025 at 23:31 UTC .\nShare © Publicnow - 2025",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->business service",
+      "Science and Technology->economics",
+      "Science and Technology->technology and engineering",
+      "Social Issue->communities",
+      "Social Issue->demographics",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://telegram.me/share/url?url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FRACKSPACE-TECHNOLOGY-INC-110370321%2Fnews%2FRackspace-Technology-Bolsters-Channel-Partner-Program-with-Enhanced-Incentives-and-Long-Term-Growt-49514557%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://wa.me/?text=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FRACKSPACE-TECHNOLOGY-INC-110370321%2Fnews%2FRackspace-Technology-Bolsters-Channel-Partner-Program-with-Enhanced-Incentives-and-Long-Term-Growt-49514557%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://twitter.com/intent/tweet?text=Rackspace",
+      "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FRACKSPACE-TECHNOLOGY-INC-110370321%2Fnews%2FRackspace-Technology-Bolsters-Channel-Partner-Program-with-Enhanced-Incentives-and-Long-Term-Growt-49514557%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=Rackspace",
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FRACKSPACE-TECHNOLOGY-INC-110370321%2Fnews%2FRackspace-Technology-Bolsters-Channel-Partner-Program-with-Enhanced-Incentives-and-Long-Term-Growt-49514557%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FRACKSPACE-TECHNOLOGY-INC-110370321%2Fnews%2FRackspace-Technology-Bolsters-Channel-Partner-Program-with-Enhanced-Incentives-and-Long-Term-Growt-49514557%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://telegram.me/share/url",
+      "https://www.twitter.com/intent/tweet?text=Rackspace",
+      "https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FRACKSPACE-TECHNOLOGY-INC-110370321%2Fnews%2FRackspace-Technology-Bolsters-Channel-Partner-Program-with-Enhanced-Incentives-and-Long-Term-Growt-49514557%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=Rackspace",
+      "https://wa.me/",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.linkedin.com/shareArticle",
+      "https://www.wa.me/?text=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FRACKSPACE-TECHNOLOGY-INC-110370321%2Fnews%2FRackspace-Technology-Bolsters-Channel-Partner-Program-with-Enhanced-Incentives-and-Long-Term-Growt-49514557%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.telegram.me/share/url?url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FRACKSPACE-TECHNOLOGY-INC-110370321%2Fnews%2FRackspace-Technology-Bolsters-Channel-Partner-Program-with-Enhanced-Incentives-and-Long-Term-Growt-49514557%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://twitter.com/intent/tweet"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Adrianna Bustamante",
+          "sentiment": "positive"
+        },
+        {
+          "name": "Natalie Silva",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "SAN ANTONIO",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "TX",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Account Ownership",
+          "sentiment": "positive",
+          "tickers": []
+        },
+        {
+          "name": "Partnerships & Demand Generation",
+          "sentiment": "positive",
+          "tickers": []
+        },
+        {
+          "name": "Rackspace Technology Bolsters",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Long-Term Growth Strategy",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "RXT",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Partner Program",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Stronger Channel Engagement",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "VMware",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Competitive Edge",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "AI",
+          "sentiment": "neutral",
+          "tickers": [
+            {
+              "ticker": "AI",
+              "exchange": "NYSE"
+            }
+          ]
+        },
+        {
+          "name": "AWS",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Microsoft Azure",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Google Cloud",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Rackspace Technology Inc.",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:41:26.021+03:00",
+    "updated": "2025-04-03T02:41:26.021+03:00"
+  },
+  {
+    "uuid": "23473bb0c4fdee738e565bc66b8597653161ff89",
+    "url": "https://www.eldiario.es/andalucia/junta-suma-terratenientes-informe-laguna-desecada-janda-dice-no-hay-suelo-publico_1_10790279.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rafael Méndez",
+    "published": "2023-12-28T21:16:00Z",
+    "title": "La Junta se suma a los terratenientes en un informe de la laguna desecada de La Janda y dice que ya no hay suelo público",
+    "text": "A simple vista, la laguna de La Janda es un mar de cultivos entre Vejer de la Frontera, Barbate, Medina y Tarifa, al sur de Cádiz , muy cerca del Estrecho. Pero lejos de allí, La Janda esconde una pugna política, jurídica y medioambiental y sobre la propiedad de esos terrenos, desecados por el régimen de Franco a partir de los años 40 y que desde entonces explotan, con fondos de la UE, terratenientes como los Mora-Figueroa . La Junta de Andalucía se acaba de alinear –al menos parcialmente– con los grandes propietarios. En un informe del pasado mes de octubre al que ha tenido acceso elDiario.es , la Junta concluye: “En cualquier caso, la inexistencia de lagos o lagunas en la zona, desde hace al menos cincuenta años, lleva a la conclusión de la inexistencia de dominio público hidráulico en los terrenos objeto de investigación”. La decisión vuelve al Ministerio de Transición Ecológica , que incluyó en sus planes recuperar al menos 1.000 hectáreas de la laguna. Los detalles del pacto de Doñana: no habrá más agua para regar, eliminación de cultivos y apuesta aeroespacial\nDurante todo el siglo XX, los humedales eran considerados espacios a extinguir, lugares donde solo proliferaba la malaria y que frenaban el desarrollo económico. La primera ley de desecación es de 1918 , conocida la ley Cambó. Después, Franco lanzó un ambicioso plan de desecación que afectó con, entre otros, a las Tablas de Daimiel, la laguna de Antela o el Mar de Campos. A La Janda le tocó el turno en 1946. Solo cuando la dictadura quiso desecar Doñana, un movimiento ecologista impulsado en Suiza logró frenar el proyecto.\nDesde las obras, el agua solo ocupaba la antigua laguna de la Janda en momentos de grandes lluvias, y jamás las 6.000 hectáreas originales. La tierra fue comprada, vendida, parcelada, roturada, cultivada, heredada y subvencionada.\nRecuperar la laguna de La Janda Pero hace unos años, un grupo de ecologistas y vecinos, unidos a partidos de izquierda, comenzaron un movimiento para intentar recuperarla. Parecía una lucha quijotesca hasta que, en noviembre de 2022, el Plan Estratégico de Humedales 2030 , del Ministerio de Transición Ecológica, señaló como objetivo “restaurar parcialmente antes de 2030 alguno de los humedales más grandes y emblemáticos antaño desaparecidos, como la laguna de La Janda (al menos 1.000 hectáreas)”.\nEsa mención puso en guardia a algunas de las familias más ricas y poderosas de Andalucía. Porque las Lomas, la empresa que cultiva gran parte del terreno, fue fundada en los 60 por José Ramón Mora Figueroa, casado con Carmen Domecq. Fue él quien fue agrupando los terrenos dispersos de la familia. Hoy es una finca enorme con una gran producción de verduras, cítrico y cereal, además de lugar tradicional de cacerías para nobles ricos y famosos como Juan Carlos I y Juan Abelló.\nMarcha por la recuperación de la laguna de La Janda, en 2019 Asociaci La cuestión del dominio público hidráulico El plan de Transición Ecológica comenzó un procedimiento entre Administraciones sobre quién debía delimitar qué parte era dominio público hidráulico, si es que había, ya que La Janda se encuentra en una cuenca interna andaluza, gestionada por la Junta, pero el dominio público es estatal.\nEl 10 de abril de 2023, la dirección general de Patrimonio andaluza inició el “expediente de investigación patrimonial sobre los terrenos de la laguna de La Janda y el resto de lagunas asociadas [...] a fin de tomar conocimiento sobre su titularidad”. La administración autonómica ha instruido “un expediente extraordinariamente extenso no solo por el número de interesados implicados y de alegaciones presentadas, sino también por haber sido necesario incorporar la documentación histórica de los procedimientos de desecación y expropiación llevados a cabo desde la década de 1940”.\nEl informe, de 28 páginas, desestima las pretensiones de las organizaciones ecologistas. Según estas, un deslinde del dominio público de 1949, aprobado por orden ministerial en 1961 y ratificado por el Tribunal Supremo en 1967, es motivo de sobra para mantener que la vieja laguna es, en realidad, dominio público y, por lo tanto, no puede pasar a manos privadas. “Ninguna de las actuaciones realizadas con posterioridad por los particulares que se tienen por dueños de las tierras de cultivo que hoy ocupan estos terrenos serían válidas y todos los procedimientos y títulos concedidos deberían tenerse por nulos”, resume el documento.\nSin embargo, el informe de la Junta concluye lo contrario. Y alude a que en la primera documentación, la concesión de 29 de noviembre de 1946 para poner la laguna en cultivo, ya “se infiere, sin lugar a duda, que existen propietarios privados en la zona”. El deslinde se hizo, siempre según el dictamen de la Junta, para “confirmar los nombres y residencias de los dueños de los terrenos que se necesita adquirir para la realización del proyecto de obras de la desecación, saneamiento y colmatación de las lagunas”, no para delimitar la propiedad pública.\nUna ley de 1918 La Junta se remonta a la ley de desecación de 1918, vigente cuando en los años 40 el Estado deslindó la laguna. “Este régimen jurídico, lejos de defender el dominio público hidráulico, lo ponía al servicio de las manos privadas que permitieran su desecación en zonas insalubres”. “Parece evidente que el Estado no legisló ni actuó con intención de retener la titularidad del dominio identificado como público, sino de convertirlo en tierras que pudieran ser cultivadas por manos privadas”.\nPor todo, la Junta concluye que la Administración no puede “anular los derechos de propiedad privada, sin perjuicio de que las entidades denunciantes puedan acudir a la Jurisdicción Civil en defensa de los derechos que alegan”. “La inexistencia de lagos o lagunas en la zona, desde hace al menos cincuenta años, lleva a la conclusión de la inexistencia de dominio público hidráulico”.\nEl informe abunda en que, aunque los terrenos hubiesen sido públicos, ya estarían en periodo de aplicar la usucapión -la apropiación mediante el uso-: “Dado el tiempo transcurrido, más de cincuenta años, la usucapión ha actuado en favor de los actuales titulares de los terrenos que ocupaban la laguna de La Janda y el resto de lagunas”.\nPese a asumir en su totalidad el fondo de las alegaciones de los propietarios, al final concluye que no es competente para declarar que no existe dominio público. Según el gabinete jurídico de la Junta, esa es una potestad estatal tras varios litigios entre Administraciones.\nUn futuro de litigios El informe autonómico sobre La Janda está fechado el pasado 6 de octubre de 2023. En ese momento, el presidente andaluz, Juan Manuel Moreno, y la vicepresidenta Teresa Ribera aún no habían firmado en público el pacto sobre Doñana con el que enterraron la pugna entre las dos administraciones por la gestión del humedal.\nAhora La Janda vuelve de nuevo al Ministerio de Transición Ecológica, pero lo hace con un informe que es una gran baza para los dueños del terreno. Porque la batalla por la antigua laguna no ha hecho más que empezar. Si sigue adelante la expropiación, el caso previsiblemente acabará en los tribunales dentro de años.\nLos precedentes así lo hacen ver. El Supremo sentenció en los 90 que los Ojos del Guadiana eran de titularidad pública aunque estuviesen secos. La diferencia es que allí la desecación se produjo de manera ilegal y por la vía de los hechos por los pozos de los agricultores. La Confederación Hidrográfica del Guadiana puso mojones señalando el dominio público hidráulico… en mitad de un campo de alfalfa que sigue en funcionamiento.\nÚnete al canal de Telegram de elDiario.es Andalucía A través de nuestro canal en Telegram trasladamos de forma inmediata lo que ocurre en Andalucía: últimas noticias que van aconteciendo, o donde, simplemente, te ofrecemos un resumen de la información más relevante del día.\nSuscríbete a nuestro canal en este enlace .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Environment",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/planes-y-estrategias/planestrategicodehumedalespublicacionoficial_tcm30-548431.pdf",
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-1918-3999",
+      "https://t.me/eldiarioand",
+      "https://www.t.me/eldiarioand",
+      "https://www.boe.es/buscar/doc.php",
+      "https://miteco.gob.es/content/dam/miteco/es/biodiversidad/planes-y-estrategias/planestrategicodehumedalespublicacionoficial_tcm30-548431.pdf",
+      "https://boe.es/buscar/doc.php?id=BOE-A-1918-3999"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:04:00.954+02:00",
+    "updated": "2023-12-29T12:36:58.440+02:00"
+  }
+]

@@ -1,0 +1,291 @@
+[
+  {
+    "uuid": "e58e44d0034f4ec266b0d9d543d50427a892b07d",
+    "url": "https://www.fool.com/investing/2023/12/28/why-jdcom-stock-jumped-today/?source=iedfolrf0000001",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Steve Symington",
+    "published": "2023-12-28T00:00:00Z",
+    "title": "Why JD.com Stock Jumped Today",
+    "text": "Shares of JD.com ( JD 2.74% ) jumped as much as 5.2% early Thursday then settled to trade up 2.8% as of 3:45 p.m. ET after the Chinese e-commerce giant revealed it's planning sweeping raises for its front-line staff next year.\nIn a post to its official WeChat account this morning, JD.com said it will nearly double the fixed salaries for its procurement, sales, and other front-line staff beginning Jan. 1, 2024. JD.com also said its retail staff will receive 20%+ pay increases.\nA vote of confidence from JD.com The market appears to be taking this development as an encouraging vote of confidence in JD.com's growth trajectory. JD.com has struggled to drive top-line growth in recent quarters -- with revenue last quarter rising a modest 1.7% year over year -- amid fierce competition and macroeconomic uncertainty that has dampened consumer spending in China.\nAt the same time, however, JD.com shares surged earlier this month after the Chinese government initiated new stimulus measures designed to stimulate the country's economic growth and bolster its struggling property sector. If these significant pay raises are any indication, perhaps JD.com is already seeing some of the early positive impact of those stimulus measures.\nWhat's next for JD.com investors? JD.com should be slated to release its fourth-quarter and full-year 2023 results in early March. On the former, most analysts are modeling an accelerated 6.2% increase in quarterly revenue, which would mean a slight (0.2%) decline in revenue for all of 2023.\nMost analysts will be more focused, however, on any clarity JD.com management can give investors with regard to growth in the coming year. With consensus estimates on Wall Street calling for a return to top-line growth of 6.8% for 2024, any incremental optimism would be well received by shareholders looking for JD.com's growth headwinds to abate.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "china",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:56:18.891+02:00",
+    "updated": "2023-12-29T00:56:18.891+02:00"
+  },
+  {
+    "uuid": "5e193f68f76e6719ec0b40f13cd5ffc8ed84d382",
+    "url": "https://www.forbes.com/sites/daveywinder/2025/01/10/paypal-security-warning-2000-phish-free-phishing-attack-confirmed",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Davey Winder",
+    "published": "2025-01-10T00:00:00Z",
+    "title": "PayPal Security Warning-$2,000 'Phish-Free' Phishing Attack Confirmed",
+    "text": "Update, Jan. 10, 2025: This story, originally published Jan. 9, now includes a statement from PayPal and further background information regarding phishing mitigation for users.\nWhen is a phishing attack not a phishing attack? That is the question posed by Fortiguard’s chief information security officer after he was targeted by a new attack using a legitimate PayPal feature from a legitimate address with a seemingly legitimate URL as well. Here’s what you need to know about the “phish-free” PayPal phishing attack.\nForbes New Google Chrome Attacks Bypass More Than Just 2FA—Millions At Risk By Davey Winder The Evolution Of Phishing Attacks—PayPal Users Now In The Crosshairs Phishing attacks are getting ever more clever in their approach, as a recent news article highlighting how genuine Google security prompts are being used to scam victims to give up their account credentials revealed. While the do-not-click advice is, as always, the baseline for anti-phishing best practices, it’s no longer good enough when legitimate features are being exploited by hackers in no-phish phishing attackers. Let this example of just such an attack, using legitimate PayPal functionality, be a warning to you: if the CISO of a security company thinks it’s highly dangerous then so should you.\nForbes Google Security Alert As Backdoor VPN Threat Confirmed By Davey Winder “A genuine email can’t still be a problem, can it?” That’s the question that Fortiguard chief information security officer, Dr. Carl Windsor, posed in a new warning posted to the Fortiguard Labs Threat Research blog , Jan. 8. Reporting how the email in question, purporting to be from PayPal and “the sender address appears to be valid and not spoofed,” and using a genuine PayPal money request feature, could fool his mother, the standard test he uses in such circumstances, Windsor warned that the attack “doesn’t use traditional phishing methods.” In fairness, it sounds pretty fishy to me so far, but let’s explore further to see what Windsor means.\nThe No-Phish PayPal Phishing Scam “The email, the URLs, and everything else is perfectly valid,” Windsor explained, and when you click on the link (don’t do that,) the victim is redirected to a PayPal login page showing a request for payment. The trick being employed by the attackers here is that your PayPal account address is linked to the address it was sent to rather than the one it was received at. The victim might not notice that the email was addressed to a user who had registered a free Microsoft 365 test domain to create the distribution list that contained the target emails. By then using the legitimate PayPal payment request feature and using this list as the recipient address, everything looked completely legitimate. Apart from the to: address field, which the victim can easily miss unless they happen to be a chief information security officer, or at least you’d hope not . The payment request, in this case, was for $2,185.96 which is large enough to be profitable at scale yet “small” enough not to raise too much suspicion for many corporate targets.\nForbes Don’t Click Twice—New Chrome, Edge, Safari Hack Attack Warning By Davey Winder “As a trusted commerce platform, PayPal takes pride in our work to protect our customers from evolving scams and fraud activity, including this common phishing scam,” a PayPal spokesperson said, “We encourage customers to always remain mindful online, especially this time of year, and to visit PayPal.com for additional tips on how to protect themselves.”\nMitigating The PayPal Phishless Phish Attack By way of background, PayPal told me that it takes all the necessary steps to protect customers as scammers continually evolve their attack methodologies. This involves a number of things, used in combination, such as manual investigations and technology-led protections. Paypal is also proactive when it comes to limiting accounts and declining transactions that are deemed to be potentially risky. PayPal customers have likely already seen some of these fraud detection technologies in action, such as the fraud reminder notifications and advice that come part-and-parcel with global invoice and peer-to-peer money requests.\n“The best solution is the Human Firewall,” Windsor said, “someone who has been trained to be aware and cautious of any unsolicited email, regardless of how genuine it may look.”\nElad Luz, head of research at Oasis Security, meanwhile, warned that exploiting a vendor feature and sending from a verified source makes these attacks “difficult for mailbox providers to distinguish from genuine communications, leaving PayPal as potentially the only entity capable of mitigating the issue.”\nAs well as resources detailing how to spot a fake PayPal email and how to keep scammers from gaining access to your PayPal account PayPal advises customers to:\nRemain mindful when being asked to participate in a transaction, particularly with someone they don’t know or to whom they do not owe any money. Not pay any unexpected or suspicious invoices or payment requests, but also not respond to those requests in any way, including the sharing of personal information. If a customer has shared personal information or clicked links, they should change their account password and contact PayPal as well as their financial institution immediately. Enable two-factor authentication. Report any phishing emails to the PayPal security team by forwarding them to phishing@paypal.com and then deleting them.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->social sciences",
+      "Science and Technology->information technology and computer science",
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->financial service",
+      "Social Issue->social condition",
+      "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://capi.elements.video/tr/si?token=",
+      "https://cds.elements.video/a/preload-resources-ovp.json",
+      "https://www.fortinet.com/blog/threat-research/phish-free-paypal-phishing",
+      "https://newsroom.paypal-corp.com/2021-07-12-How-to-keep-scammers-from-gaining-access-to-your-account-with-PayPal",
+      "https://newsroom.paypal-corp.com/2021-09-02-How-to-Spot-a-Fake-PayPal-Email",
+      "https://fortinet.com/blog/threat-research/phish-free-paypal-phishing",
+      "https://www.cds.elements.video/a/preload-resources-ovp.json",
+      "https://www.capi.elements.video/tr/si?token=",
+      "https://www.newsroom.paypal-corp.com/2021-07-12-How-to-keep-scammers-from-gaining-access-to-your-account-with-PayPal",
+      "https://www.newsroom.paypal-corp.com/2021-09-02-How-to-Spot-a-Fake-PayPal-Email",
+      "https://capi.elements.video/tr/si"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T11:56:30.167+02:00",
+    "updated": "2025-01-10T12:15:25.804+02:00"
+  },
+  {
+    "uuid": "0d91e7e023c7dd1b7ff2323c9ce84ee16efc9db0",
+    "url": "https://energy.economictimes.indiatimes.com/news/coal/coal-sector-leads-core-industry-growth-with-10-2-per-cent-surge-in-may-2024/111500714",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "www.ETEnergyworld.com",
+    "published": "2024-07-04T23:27:00Z",
+    "title": "Coal sector leads core industry growth with 10.2 per cent surge in May 2024, ET EnergyWorld",
+    "text": "Coal Sector: The coal industry's index climbed to 184.7 points in May 2024, up from 167.6 points in the same period last year. The cumulative index for coal increased by 8.9 per cent during April-May 2024-25 over the corresponding period of the previous year.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Financial and Economic News",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "ministry of commerce & industries",
+          "sentiment": "none"
+        },
+        {
+          "name": "eight core industries",
+          "sentiment": "none"
+        },
+        {
+          "name": "index of eight core industries",
+          "sentiment": "none"
+        },
+        {
+          "name": "ici",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new delhi",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T05:03:40.961+03:00",
+    "updated": "2024-07-05T11:23:02.841+03:00"
+  },
+  {
+    "uuid": "f8eb9bea7d67fae3e68ab26ff6718e528fb16996",
+    "url": "https://www.ehn.org/planted-mangroves-capture-significant-carbon-study-shows-2668773137.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EHN Curators",
+    "published": "2024-07-19T11:11:00Z",
+    "title": "Planted mangroves capture significant carbon, study shows - EHN",
+    "text": "A new study finds that planted mangroves can store up to 73 percent of the carbon that naturally occurring mangroves hold, based on 40 years of data. [Alexa Robles-Gil reports for Inside Climate News.](https://insideclimatenews.org/news/16072024/planted-mangroves-carbon-storing-study/) In short: - Planted mangroves, in 20 years, can accumulate about 73 percent of the carbon stocks of natural mangroves. - The study analyzed 684 sites globally, offering a comprehensive look at the carbon storage potential of restored mangroves. - Mangrove restoration is essential but must be done correctly to be effective in carbon sequestration. Key quote: “If it’s successful, then yes, you can get 75 percent of the carbon stocks of a natural forest. If you do it unsuccessfully, you get zero.” — Daniel Friess, coastal scientist at Tulane University Why this matters: Planted mangroves could be a vital tool in combating climate change by storing significant amounts of carbon. However, [restoration projects must be carefully managed to achieve their potential benefits](https://www.ehn.org/international-carbon-credits-lead-to-mangrove-restoration-in-senegal-but-raise-social-equity-concerns-2668763868.html). insideclimatenews.org",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://insideclimatenews.org/news/16072024/planted-mangroves-carbon-storing-study/)",
+      "https://www.insideclimatenews.org/news/16072024/planted-mangroves-carbon-storing-study/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "alexa robles-gil",
+          "sentiment": "none"
+        },
+        {
+          "name": "daniel friess",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "tulane university",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-19T14:30:54.031+03:00",
+    "updated": "2024-07-19T14:30:54.031+03:00"
+  },
+  {
+    "uuid": "ce117a1e931bb43576e2ab021caf5bb0c1331c12",
+    "url": "https://www.newkerala.com/news/2024/54861.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Awin P",
+    "published": "2024-09-05T14:48:00Z",
+    "title": "Paris Paralympics: Para-archers Harvinder Singh, Pooja Jatya advance to QFs of Mixed Team Recurve Open",
+    "text": "Paris Paralympics: Para-archers Harvinder Singh, Pooja Jatya advance to QFs of Mixed Team Recurve Open I ndian para-archers Harvinder Singh and Pooja Jatyan advanced to the quarterfinals of the Mixed Team Recurve Open at the ongoing Paris Paralympics 2024 on Thursday. The Indian pair defeated Amanda Jennings and Taymon Kenton-Smith of Australia 5-4. They will either face hosts (France) or Poland in the last eight. Earlier on Wednesday, Harvinder secured a historic gold medal for the country at the ongoing marquee event becoming the first-ever Indian to have won a medal in the sport across both the Olympics and Paralympics. In the gold medal clash of the individual recurve para-archery against Poland's Lukasz Ciszek, Harvinder won 6-0. He also secured a medal in two successive Paralympics, having won a bronze medal in the recurve para-archery at the Tokyo Paralympics 2020. Harvinder's success marked India's second medal in archery at the ongoing Paris Paralympics. The Indian archery pair of Rakesh Kumar and Sheetal Devi clinched the bronze medal in the mixed team compound event. On the other hand, Pooja went down fighting against China's Wu Chunyan in the quarterfinals of the Women's Individual Recurve Open at the ongoing Paris Paralympics 2024. She lost the quarterfinal clash 4-6 against the Chinese opponent on Tuesday. Para-athlete Sachin Khilari clinched the silver medal in the men's shot put F46 final at the ongoing Paris Paralympics. Sachin secured the second spot with a 16.32-metre throw, which is also the area best (AB). However, the Indian athlete was unlucky to miss the top spot after getting short of a 0.6m. On Monday and Tuesday, the Indian contingent won 13 medals for the country, jumping the medal tally to a record 20 consisting of three gold, seven silver and 10 bronze medals. The Indian contingent has now added 24 medals to its growing tally (five gold, nine silver, and ten bronze) and will have an opportunity to further extend its record medal haul in a single edition of the Paralympics. India is ranked 15th in the medal tally and with more days left, they have a chance to add plenty more. In the Tokyo edition (August 24 - September 5, 2021), India recorded its best-ever medal haul with a tally of 19, including five gold, eight silver and six bronze medals. ✔️ Paris Paralympics: Para-archers Harvinder Singh, Pooja Jatya advance to QFs of Mixed Team Recurve Open 💕 Found this article helpful? Spread the word and support us!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-06T00:12:33.306+03:00",
+    "updated": "2024-09-06T00:12:33.306+03:00"
+  },
+  {
+    "uuid": "4b2119fa10903e084b83f60aefadab3dfbe9f9cc",
+    "url": "https://www.iltirreno.it/ultimora-adnkronos/2025/06/12/news/minori-mattarella-dovere-repubblica-proteggere-infanzia-e-garantire-istruzione-1.100720565",
+    "ord_in_thread": 0,
+    "author": "Redazione Il Tirreno",
+    "published": "2025-06-12T08:06:00Z",
+    "title": "Minori: Mattarella, 'dovere Repubblica proteggere infanzia e garantire istruzione' - Il Tirreno",
+    "text": "Minori: Mattarella, 'dovere Repubblica proteggere infanzia e garantire istruzione'\n2 MINUTI DI LETTURA\nRoma, 12 giu. (Adnkronos) - \"Negli ultimi decenni, l’azione congiunta di Governi, organizzazioni internazionali e società civile, ha sottratto milioni di bambine e bambini a condizioni di lavoro degradanti, reinserendoli in percorsi di istruzione, protezione e crescita. Frutto di un impegno corale, questi risultati rischiano oggi di essere compromessi dalle crisi globali, dai conflitti armati, dai cambiamenti climatici, dall’aumento delle disuguaglianze. Si calcola che oltre 160 milioni di minori nel mondo siano ancora coinvolti in forme di lavoro che mettono a rischio la loro salute, ostacolandone lo sviluppo e violandone la libertà\". Lo afferma il presidente della Repubblica, Sergio Mattarella, in occasione della Giornata mondiale contro lo sfruttamento del lavoro minorile. \"Sono bambini -ricorda il Capo dello Stato- spesso invisibili, costretti a svolgere lavori pericolosi per sopravvivere: perché la fame è più urgente dell’infanzia, perché le loro scuole sono state distrutte dalle bombe, perché non esistono alternative né prospettive. Situazioni sommerse di sfruttamento e di esclusione sono presenti anche in Italia, soprattutto in contesti segnati da fragilità sociale ed economica. L’abbandono scolastico apre la strada alla povertà educativa, all’emarginazione sociale e, nei casi più gravi, al coinvolgimento dei minori in attività illegali o sotto il controllo di ambienti criminali. Si innesca così un circolo vizioso che compromette, di generazione in generazione, le possibilità di crescita e sviluppo dei minori e delle loro famiglie\". \"La Costituzione, agli articoli 31 e 34, afferma con chiarezza il dovere della Repubblica di proteggere l’infanzia e garantire il diritto all’istruzione. Operare per la piena affermazione dei diritti dei bambini -conclude Mattarella- è un dovere sociale che misura la civiltà e la coesione di un popolo. È il fondamento su cui costruire una società più giusta, capace di affrontare con responsabilità le sfide presenti e quelle future\".",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Education",
+      "Social Issue"
+    ],
+    "topics": [
+      "Politics->education policy",
+      "Politics->fundamental rights",
+      "Politics->government",
+      "Education->students",
+      "Education->teachers",
+      "Education->primary education",
+      "Social Issue->social services",
+      "Social Issue->children"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Mattarella",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T11:19:02.921+03:00",
+    "updated": "2025-06-12T08:24:53.000+00:00"
+  }
+]

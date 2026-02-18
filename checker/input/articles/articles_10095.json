@@ -1,0 +1,456 @@
+[
+  {
+    "uuid": "ba2362606ad5666748847be2bb9fca960b670afe",
+    "url": "https://www.bonde.com.br/bondenews/policia/homem-e-preso-por-trafico-de-drogas-e-posse-ilegal-de-municao-em-londrina",
+    "ord_in_thread": 0,
+    "author": "Redação Bonde com PCPR",
+    "published": "2025-04-09T21:03:00Z",
+    "title": "Homem é preso por tráfico de drogas e posse ilegal de munição em Londrina",
+    "text": "A PCPR (Polícia Civil do Paraná) prendeu em flagrante, na manhã desta quarta-feira (9) em Londrina, um homem pela prática dos crimes de tráfico de drogas e posse ilegal de munição de uso restrito.\nConforme o delegado da PCPR Bruno Trento, a prisão ocorreu durante o cumprimento de mandados de busca e apreensão relacionados a uma investigação sobre disparo de arma de fogo ocorrido no dia 26 de janeiro deste ano.\nO suspeito também era alvo de diversas denúncias anônimas indicando envolvimento com a comercialização de entorpecentes em um ponto de tráfico localizado no bairro Jardim Franciscato.\n“Durante as buscas realizadas na residência do indivíduo, os policiais localizaram aproximadamente 470 gramas de substância análoga à maconha, 100 gramas de substância análoga ao haxixe, uma balança de precisão, sacos do tipo ziplock e uma munição de calibre 9mm”, explica.\nDiante dos materiais apreendidos, o homem foi autuado em flagrante e encaminhado ao sistema penitenciário.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->drug related crimes",
+      "Politics->civil rights",
+      "Politics->safety of citizens",
+      "Social Issue->discrimination",
+      "Social Issue->illegal immigration",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:17:01.116+03:00",
+    "updated": "2025-04-10T00:17:01.116+03:00"
+  },
+  {
+    "uuid": "0e386bda301037b6323ac9c01c900ea7cf3b1e8b",
+    "url": "https://timesofindia.indiatimes.com/city/guwahati/cyclonic-circulation-over-jkhand-to-cause-widespread-rain-in-ne/articleshow/108691041.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mukut Das",
+    "published": "2024-03-22T03:39:00Z",
+    "title": "Rain: Cyclonic Circulation Over J’khand To Cause Widespread Rain In Ne | Guwahati News",
+    "text": "Guwahati: Rain may play spoilsport during Holi, which will be celebrated here on Monday, as the IMD has forecast widespread rain over the northeast region till Tuesday.The Met department in a press communiqué stated that a cyclonic circulation over north Jharkhand and a trough running from this circulation to Manipur in lower tropospheric levels were marked.Sanjay O’Neil Shaw, deputy DG of meteorology of Regional Meteorological Centre, Guwahati, said fairly widespread or widespread light to moderate rainfall with isolated thunderstorms and lightning is very likely over Arunachal Pradesh, Assam, Meghalaya, Nagaland, Manipur, Mizoram and Tripura till Tuesday.He also said isolated heavy rainfall or snowfall is also likely over Arunachal Pradesh on Friday, Saturday and Monday and isolated heavy rainfall over Assam and Meghalaya on Friday, Saturday and Monday.Light to moderate rainfall lashed several places in Assam, Meghalaya, Nagaland, Manipur, Mizoram and Tripura in the last 24 hours.According to the IMD data, Assam received 4.3 mm rain, which is 1.3mm more than normal, in the last 24 hours while its neighbor Meghalaya received 5.7mm (2.9 mm more than normal), Arunachal Pradesh received 6.5 mm (1.5 mm more than normal) and Manipur received 4.3 mm (1.4 mm more than normal). We also published the following articles recentlyRussia behind 'widespread and systematic' torture in Ukraine: UNUN investigators accuse Russia of war crimes, torture, and rape in Ukraine. Evidence of territorial advances in ongoing conflict. Concern over civilian harm disregard by Russian armed forces.10852685110 injured in Assam varsity clash over CAA10 students injured at Gauhati University during clash between anti-CAA protesters and ABVP members. Conflict ensued over entry permissions and anti-CAA sentiments. ABVP allegedly assaulted PG Students Union members, leading to injuries and hospitalizations.108597280Heavy rains: Met issues orange alert for todayRaipur, Bilaspur, Korba experienced rain and winds. Yellow alert for Wednesday. Surguja, Bastar, Raipur, Durg expected drizzles, thunderstorms. Jashpur, Kondagaon, Bijapur, Narayanpur, Rajnandgaon, Mahasamund, Sukma, Dantewada, Balrampur, Koriya at risk of severe weather.108630039",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "imd",
+          "sentiment": "negative"
+        },
+        {
+          "name": "arunachal pradesh",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "guwahati",
+          "sentiment": "none"
+        },
+        {
+          "name": "assam",
+          "sentiment": "none"
+        },
+        {
+          "name": "mizoram",
+          "sentiment": "none"
+        },
+        {
+          "name": "meghalaya",
+          "sentiment": "none"
+        },
+        {
+          "name": "manipur",
+          "sentiment": "none"
+        },
+        {
+          "name": "nagaland",
+          "sentiment": "none"
+        },
+        {
+          "name": "tripura",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-22T05:54:50.343+02:00",
+    "updated": "2024-03-22T05:54:50.343+02:00"
+  },
+  {
+    "uuid": "3720eb88c4b54aa9f52712ea9603e9f155ecef8a",
+    "url": "https://citinewsroom.com/2024/04/ill-prioritise-welfare-of-cocoa-farmers-akufo-addo-assures",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@citi973",
+    "published": "2024-04-18T20:50:00Z",
+    "title": "I'll prioritise welfare of cocoa farmers - Akufo-Addo assures",
+    "text": "President Nana Addo Dankwa Akufo-Addo has reaffirmed his commitment to developing a resilient cocoa industry that prioritises the welfare of cocoa farmers.\nHe made the comments during the official opening of the permanent office of the Cote d’Ivoire-Ghana Cocoa Initiative in Accra.\nUnderlining his government’s accomplishments President Akufo-Addo stressed that his administration has instituted the highest cocoa producer price in the nation’s history.\n“In 2019, Ghana and Cote d’Ivoire met in Accra where we held a dialogue on an important subject, which was critical to the survival of the global cocoa industry supply chain. That meeting, culminated in the adoption of a living income deferential for cocoa producers in the two countries which involves the additional payment of cocoa farmers of $400 per ton on the world market price for every cocoa sold by the two nations effective by the 2020/2021 season.\n“The international cocoa market justifies our course of action. What we thought was impossible only two years ago is happening now,” he stated.\nHowever, President Akufo-Addo also stressed the critical need for collaborative efforts between Ghana and Cote d’Ivoire to address the myriad of challenges confronting the cocoa industry.\n“However, with the current peak in market prices, a new set of challenges has emerged necessitating a revision of the research approach to sustain or prevent a decline in prices. This underscores the importance of this organisation for the two countries to devise new strategies to address the evolving market dynamics,” he stated.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "addo",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nana addo dankwa akufo-addo",
+          "sentiment": "negative"
+        },
+        {
+          "name": "akufo",
+          "sentiment": "none"
+        },
+        {
+          "name": "akufo-addo",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ghana cocoa initiative",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "accra",
+          "sentiment": "none"
+        },
+        {
+          "name": "ghana",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-19T01:17:31.902+03:00",
+    "updated": "2024-04-19T01:24:07.430+03:00"
+  },
+  {
+    "uuid": "a5791585e0ce93eb87e504fd462f48a49e4e407a",
+    "url": "https://www.si.com/fannation/wrestling/wwe/nick-khan-reveals-wwe-will-return-to-france-for-ple-in-2025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Droste",
+    "published": "2025-01-16T21:36:00Z",
+    "title": "Nick Khan Reveals WWE Will Return To France For PLE In 2025",
+    "text": "Nick Khan Reveals WWE Will Return To France For PLE In 2025\nWWE President Nick Khan held an event in Las Vegas, Nevada on Thursday (January 16), and he ended up revealing some information that was not yet publicly known.\nKhan told the press that WWE will bring a PLE to Paris, France at some point in 2025, as first reported by Bill Pritchard of WrestleZone. It was not revealed which WWE yearly event will take place in the city, just that one will happen there this year.\nThis news follows WWE's continual international growth when it comes to PLE locations. Just last year, WWE held Backlash at the LDLC Arena in Lyon, France.\nAdditionally, WWE held Elimination Chamber in Perth (Australia), King and Queen of the Ring in Jeddah (Saudi Arabia), Money In The Bank in Toronto (Canada), Clash at the Castle in Glasgow (Scotland), Bash In Berlin in Berlin (Germany), Crown Jewel in Riyadh (Saudi Arabia), and Survivor Series in Vancouver (Canada).\nMORE: Triple H And Nick Khan Talk Potential Content Shifts As WWE Raw Moves To Netflix\nThe only 2025 PLE events that have officially been announced thus far are Royal Rumble (Indianapolis, IN), Elimination Chamber (Toronto, ON), WrestleMania (Las Vegas, NV), and SummerSlam (East Rutherford, NJ).\nThe Latest On WWE, AEW & More\nNew WWE Trademarks Reveal New John Cena Farewell Merchandise To Come\nBob Ueker, Star Of Major League And WWE Hall Of Famer, Passes Away At 90\nRevPro Reveals Plans For Mercedes Mone's Title Defenses\nLatest On Malakai Black's Rumored AEW Departure & Possible Return To WWE",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Politics"
+    ],
+    "topics": [
+      "Sport->sports management and ownership",
+      "Sport->sport event",
+      "Sport->wrestling",
+      "Human Interest->celebrity"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://x.com/WRESTLEZONEcom/status/1879969569005351358",
+      "https://www.x.com/WRESTLEZONEcom/status/1879969569005351358"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Nick Khan",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Bill Pritchard",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Bank",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:18:45.347+02:00",
+    "updated": "2025-01-17T00:18:45.347+02:00"
+  },
+  {
+    "uuid": "a38db38adcea8cf5a9b6cd64db1a44911d1d3e57",
+    "url": "https://noticiasdequeretaro.com.mx/2022/08/20/reciben-policias-reconocimiento-por-cursos-de-alta-especializacion/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "FiverrEarn",
+    "published": "2023-12-30T00:47:00Z",
+    "title": "Comentario en Reciben policías reconocimiento por cursos de Alta Especialización por FiverrEarn",
+    "text": "Portada\nReciben policías reconocimiento por cursos de Alta Especialización\nEn Querétaro la seguridad es un tema prioritario,\nexpresó el secretario de la SSC Iován Elías Pérez\nNoticias\nEl titular de la\nSecretaría de Seguridad Ciudadana, Iován Elías Pérez Hernández, encabezó la ceremonia de clausura del segundo curso de Operaciones Tácticas Urbanas, impartido por la Policía Nacional de Colombia a elementos de la Policía Queretana, con lo cual se sigue dando cumplimiento al Programa Estatal de\nSeguridad.\nDentro de este segundo módulo se tuvo la participación de 15 elementos de la Policía Estatal y del Sistema Penitenciario; los cuales se suman a los 35 oficiales que egresaron, en el primer grupo, el pasado mes de julio, donde también se tuvo la participación de corporaciones de seguridad pública municipal de Corregidora, El Marqués y Policía de Investigación del Delito.\nEl funcionario estatal, manifestó que en Querétaro la seguridad es un tema prioritario,por lo que la sociedad puede tener la certeza de que todos los días se trabaja por la capacitación y preparación de los policías que los cuidan.\n“Para el señor gobernador, Mauricio Kuri, la seguridad es uno de los principales compromisos, por lo que, siguiendo su visión, nos estamos capacitando con una de las mejores corporaciones del mundo y es que para ser la mejor policía de México, tenemos que trabajar con los mejores”, señaló.\nLas capacitaciones a los diferentes integrantes de la policía queretana continuarán durante los siguientes meses, toda vez que se llevarán a cabo dos módulos más de Operaciones Tácticas Urbanas y diferentes cursos para aportar al desarrollo profesional de los oficiales.\nEn el evento estuvo presente el asesor de Políticas Públicas del Poder Ejecutivo del Estado de\nQuerétaro, Juan Martín Granados Torres; el comisionado del Sistema Penitenciario, Gustavo López Acosta y el director general del Colegio de Policías, Cecafis, Alberto Luna\nComentarios\n234 Comments\n-\nI’ve read a few excellent stuff here. Certainly worth bookmarking for revisiting. I wonder how much attempt you put to make this type of magnificent informative site.\n-\nWow! This blog looks exactly like my old one! It’s on a totally different subject but it has pretty much the same layout and design. Great choice of colors!\n-\nAfter all, what a great site and informative posts, I will upload inbound link – bookmark this web site? Regards, Reader.\n-\nDo you have a spam problem on this website; I also am a blogger, and I was curious about your situation; we have created some nice methods and we are looking to exchange techniques with other folks, be sure to shoot me an e-mail if interested.\n-\nI do not even know how I ended up here, but I thought this post was good. I do not know who you are but definitely you’re going to a famous blogger if you are not already 😉 Cheers!\n-\nyou have a great blog here! would you like to make some invite posts on my blog?\n-\nI’ve been absent for a while, but now I remember why I used to love this website. Thanks, I?¦ll try and check back more often. How frequently you update your website?\n-\nThis is really interesting, You are a very skilled blogger. I have joined your feed and look forward to seeking more of your magnificent post. Also, I’ve shared your site in my social networks!\n-\nI genuinely enjoy reading through on this site, it has good blog posts. “The living is a species of the dead and not a very attractive one.” by Friedrich Wilhelm Nietzsche.\n-\nI’ve been surfing online more than 3 hours today, yet I never discovered any attention-grabbing article like yours. It is beautiful value sufficient for me. In my view, if all website owners and bloggers made just right content material as you did, the internet will likely be much more helpful than ever before.\n-\nhello!,I like your writing so much! proportion we communicate extra about your post on AOL? I require an expert on this house to solve my problem. May be that is you! Having a look forward to peer you.\n-\nThank you for sharing with us, I think this website really stands out : D.\n-\nThis is really interesting, You’re a very skilled blogger. I have joined your rss feed and look forward to seeking more of your great post. Also, I’ve shared your website in my social networks!\n-\nso much excellent information on here, : D.\n-\nIts superb as your other articles : D, regards for posting.\n-\nEnjoyed looking through this, very good stuff, appreciate it. “The fox knows many things, but the hedgehog knows one big thing.” by Archilocus.\n-\nHiya, I am really glad I have found this information. Nowadays bloggers publish only about gossips and internet and this is actually annoying. A good website with interesting content, this is what I need. Thank you for keeping this web site, I’ll be visiting it. Do you do newsletters? Can not find it.\n-\nSome really select content on this internet site, saved to favorites.\n-\nUse the 1xBet promo code for registration : VIP888, and you will receive a €/$130 exclusive bonus on your first deposit. Before registering, you should familiarize yourself with the rules of the promotion.\n-\nI will immediately clutch your rss feed as I can not in finding your email subscription hyperlink or e-newsletter service. Do you’ve any? Please let me recognise in order that I could subscribe. Thanks.\n-\nI wanted to send you that tiny remark to finally say thanks once again on your spectacular basics you have contributed at this time. It has been quite incredibly open-handed of you giving publicly exactly what many of us could possibly have marketed as an e-book to generate some money for themselves, especially since you could have tried it if you considered necessary. These suggestions additionally acted like a fantastic way to know that most people have a similar keenness similar to mine to learn a whole lot more on the topic of this matter. I’m sure there are millions of more fun situations ahead for individuals that scan through your blog.\n-\nThanks for the good writeup. It in truth used to be a amusement account it. Glance advanced to far delivered agreeable from you! By the way, how can we keep up a correspondence?\n-\nVery interesting details you have remarked, regards for putting up.\n-\nso much superb info on here, : D.\n-\nI?¦ve been exploring for a little for any high-quality articles or blog posts in this kind of space . Exploring in Yahoo I finally stumbled upon this website. Studying this info So i?¦m satisfied to show that I have an incredibly just right uncanny feeling I found out just what I needed. I so much for sure will make certain to don?¦t disregard this site and provides it a look on a relentless basis.\n-\nI like the helpful information you provide in your articles. I will bookmark your weblog and check again here frequently. I am quite certain I’ll learn lots of new stuff right here! Good luck for the next!\n-\nYou are my inhalation, I have few web logs and often run out from to brand.\n-\nWe’re a group of volunteers and starting a new scheme in our community. Your site provided us with helpful information to paintings on. You’ve done an impressive job and our entire group shall be thankful to you.\n-\nI think this is one of the most vital info for me. And i’m glad reading your article. But should remark on few general things, The site style is perfect, the articles is really excellent : D. Good job, cheers\n-\nYou are my intake, I own few web logs and infrequently run out from to brand : (.\n-\nThanks for some other informative site. Where else may just I am getting that kind of information written in such an ideal way? I have a project that I’m simply now working on, and I’ve been at the look out for such info.\n-\nYou are my inspiration , I have few web logs and infrequently run out from to post .\n-\nPingback:\nAlumni network\n-\nPingback:\nFiverrEarn",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://media.fue.edu.eg/en/Default.aspx",
+      "https://sharashka-journal.ru/user/calvinxqnt",
+      "https://www.sharashka-journal.ru/user/calvinxqnt",
+      "https://www.media.fue.edu.eg/en/Default.aspx"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-30T03:10:05.121+02:00",
+    "updated": "2023-12-30T03:10:05.121+02:00"
+  },
+  {
+    "uuid": "112f3475ff722beb49c0efe30428352585594bb8",
+    "url": "https://actualidad.rt.com/actualidad/520384-voluntario-ruso-denuncia-masacre-civiles-militares-ucranianos",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RT en Español",
+    "published": "2024-08-23T00:00:00Z",
+    "title": "Voluntario ruso denuncia masacre de civiles por militares ucranianos en la provincia de Kursk - RT",
+    "text": "Voluntario ruso denuncia masacre de civiles por militares ucranianos en la provincia de Kursk Publicado: 23 ago 2024 02:09 GMT En las imágenes captadas desde un dron se ven los cadáveres de varios civiles asesinados por tropas ucranianas en los primeros días de la incursión.\nCaptura de pantalla Telegram / @diomeddog Un voluntario ruso, que actualmente se encuentra en la provincia de Kursk, ha publicado imágenes que muestran las atrocidades cometidas por las tropas del régimen de Kiev contra la población civil.\nEn su cuenta de Telegram, Platón Mamátov difundió imágenes que tomó desde un dron en los primeros días de la incursión de las tropas ucranianas en la zona, en las que se ven los cadáveres de varios civiles asesinados por los ucranianos en una carretera.\n\"El hombre de la bicicleta es claramente un civil. También 100% civil es el fallecido que lleva chanclas lilas\", escribió el autor del video.\nADVERTENCIA: LAS SIGUIENTES IMÁGENES PUEDEN HERIR SU SENSIBILIDAD\nPreviamente, el presidente de Rusia, Vladímir Putin, acusó a los ucranianos de \"disparar indiscriminadamente contra civiles\".\nPutin: Ucrania trató de atacar la central nuclear de Kursk \"El régimen de Kiev ha emprendido otra provocación a gran escala, disparando indiscriminadamente con diversos tipos de armas, incluidos cohetes, contra edificios civiles, viviendas residenciales y ambulancias \", declaró.\nPosteriormente, refiriéndose a las posibles negociaciones de paz, el mandatario expresó que ahora no hay nada de qué hablar con la parte del conflicto que ataca a civiles. \"Aparentemente, el enemigo busca mejorar sus posiciones negociadoras en el futuro, pero, ¿de qué tipo de negociaciones podemos hablar con gente que ataca indiscriminadamente a civiles, infraestructuras civiles o intenta amenazar instalaciones de energía nuclear? ¿De qué se puede hablar con ellos? \", agregó.\nConflictos Rusia Ucrania comentarios You use your browser with disabled JavaScript. Please enable JavaScript for comments.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://t.me/diomeddog/3082",
+      "https://www.t.me/diomeddog/3082"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T05:14:49.209+03:00",
+    "updated": "2024-08-23T05:44:05.878+03:00"
+  },
+  {
+    "uuid": "80dd22b9f34a314148d2428ea5586bebede80ba1",
+    "url": "https://www.meneame.net/story/rabino-sionista-expone-mentalidad-supremacista-sionista-como-no/c045",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ehorus",
+    "published": "2024-05-26T07:47:00Z",
+    "title": "#45 Rabino sionista expone la mentalidad supremacista sionista autoproclamándose como los \"elegidos de dios\" y admitiendo sentirse superior a los no-judios",
+    "text": "Portada\nmis comunidades\notras secciones\n[#3](c3#c-3) y está escrito, en su libro mágico, que todos los no judíos existen para servir a los judíos.\nSu libro mágico es el bueno, los demás libros mágicos no.\n[#19](c19#c-19) En realidad sí, pero no te alarmes, no hay construcción de la identidad etnica de un grupo (y más si se trata de uno generalmente minoritario y perseguido)n sin su dosis de etnocentrismo.\nEn el caso de los creyentes en yahvé el resto de la humanidad es referida como “goyim”, o “gentiles” y no tiene connotaciones especialmente positivas.\n[#3](c3#c-3) Típico de fanatismos y sectas cuando se hace una barrera entre los que están dentro y los que están fuera. Cuando la religión no respeta otras formas de ver el mundo es cuando empiezan los fanatismos y las hostias. Si no se acepta la diversidad de credos, apaga y vámonos porque lo que viene luego no es agradable para nadie.\nLuego empezarán con sus Frentes Populares de Judea y acabarán a hostia limpia entre ellos, porque alguien que necesita y busca enemigos para elevar su moral y sus creencias son un saco de hostias en potencia. Alguien que piense así, tiene todas las papeletas para recibir hostias a cascoporro y es lo que van buscando. Quien anda con fuego acaba quemándose.\n[#5](c5#c-5) En realidad este discurso en concreto se parece más al del ISIS que al de Hitler.\nAunque el resultado de ambos sea el mismo.\n[#9](c9#c-9) Creo que el problema es que eso lo dice la religión de los judíos, que son descendientes de no sé qué tribu elegida por un dios.\nY habrá judíos que se tomen el judaismo como pertenencia a un grupo y lo reinterpretan y lo ponen al servicio de su vida (igual que hay cristianos que no apedrean a su hija si se casa sin el permiso de su padre). Pero el judaismo tiene una base de supremacismo muy mala de esquivar.\n[#2](c2#c-2) Un mes.. da un mes, al resto del planeta - sin eeuu... iban a ver los \"elegidos\" que opinan de aquello del \"pueblo elegido\"...\nPues para ser el pueblo elegido:\n- menuda mierda territorio les ha dado, a mí que me den algo que no sea un puto desierto: Francia, El norte de España, Italia, las Seychelles, las mismas orillas del Nilo, Mesopotamia. Zonas fértiles.\n- Salvo los últimos 70 años les han dado más que a una estera.\nAsí que menudo dios cutre.\n[#11](c11#c-11) Eso es: si su dios los hubiera elegido y les tuviera cariño bien pudo haberles dao cuerpo de senegalés...\n[#11](c11#c-11) Un amigo ingeniero agrónomo me contó que aquella zona en tiempos bíblicos fue un vergel, pero empezaron a regar los cultivos con agua de mar y se lo cargaron. No son muy listos los “elegidos”.\nSi Dios existiera haría un fisting con su culo y les enviaría al puto infierno por toda la eternidad.\n[#23](c23#c-23) No sé salvaron los que no quisieron realizar la Aliá (que empezó en 1840 https://es.m.wikipedia.org/wiki/Ali%C3%A1 ) y a esos que no se salvaron los llamaron los sacrificados o holocausto https://es.wikipedia.org/wiki/Holocausto_(sacrificio)\nEs supremacista (pueblo elegido, el resto está para servir) y elitista (no buscan crear nuevos adeptos como en el cristianismo o islamismo o naces judío o no eres judío)\nEsto lo dicen los lideres religiosos judios y la mayoria de ellos lo aceptan como algo natural y te lo repiten con otras palabras menos extremas pero que vienen a ser lo mismo\nPues al final hablando así hasta hacen buenos a los nazis, igual estaban engañados con esta gente...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://es.m.wikipedia.org/wiki/Ali%C3%A1",
+      "https://es.wikipedia.org/wiki/Holocausto_(sacrificio)",
+      "https://www.es.m.wikipedia.org/wiki/Ali%C3%A1",
+      "https://www.es.wikipedia.org/wiki/Holocausto_(sacrificio)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-26T11:57:10.898+03:00",
+    "updated": "2024-05-26T11:57:10.898+03:00"
+  },
+  {
+    "uuid": "c3e3c0bdff8851429d720ed991bd78b175dd075d",
+    "url": "https://nypost.com/2025/01/10/business/judge-halts-attempt-to-retrieve-bitcoin-hard-drive-worth-nearly-750-million-from-landfill",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sarah Rumpf-Whitten, Fox Business Published Jan. 10, 2025, 4:46 a.m. ET Originally Published by:",
+    "published": "2025-01-10T09:46:00Z",
+    "title": "Judge halts attempt to retrieve Bitcoin hard drive worth nearly $750 million from landfill",
+    "text": "James Howells launched a legal case after he lost his Bitcoin hard drive in a landfill in 2013.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->business governance",
+      "Social Issue->social problem",
+      "Science and Technology->economics",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.foxbusiness.com/technology/judge-halts-attempt-retrieve-bitcoin-hard-drive-worth-750-million-landfill",
+      "https://www.foxbusiness.com/economy/private-sector-adds-122000-jobs-december-below-expectations-adp-says",
+      "https://www.foxbusiness.com/economy/california-wildfires-could-cost-insurers-20b-highest-states-history",
+      "https://www.foxbusiness.com/economy/mortgage-rates-january-9-2025",
+      "https://www.bbc.com/news/articles/cj0r0dvgpy0o",
+      "http://foxbusiness.com",
+      "https://foxbusiness.com/technology/judge-halts-attempt-retrieve-bitcoin-hard-drive-worth-750-million-landfill",
+      "https://bbc.com/news/articles/cj0r0dvgpy0o",
+      "http://www.foxbusiness.com",
+      "https://foxbusiness.com/economy/california-wildfires-could-cost-insurers-20b-highest-states-history",
+      "https://foxbusiness.com/economy/mortgage-rates-january-9-2025",
+      "https://foxbusiness.com/economy/private-sector-adds-122000-jobs-december-below-expectations-adp-says"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T11:56:29.778+02:00",
+    "updated": "2025-01-10T16:54:34.378+02:00"
+  },
+  {
+    "uuid": "776ebe188f6f28d73bd563a0d046f7b0987668dc",
+    "url": "https://www.world-today-news.com/cnn-host-struck-by-debris-on-live-air-while-reporting-hurricane-milton-a-dramatic-tale-of-survival",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "world today us",
+    "published": "2024-10-12T06:00:00Z",
+    "title": "\" CNN Host Struck by Debris on Live Air While Reporting Hurricane Milton: A Dramatic Tale of Survival \"",
+    "text": "CNN Host Struck by Flying Debris While Reporting on Hurricane Milton CNN’s on-ground reporter faced a terrifying incident while covering the chaos of Hurricane Milton, as debris flew into the camera’s shot during a live broadcast. This dramatic moment underscores the severe impact of the storm as it wreaked havoc across Florida.\nHurricane Milton Causes Devastating Damage in Florida With at least 17 confirmed deaths , Hurricane Milton has left a trail of destruction across the state of Florida. Experts warn that the risk of flooding persists, potentially lasting for “days to weeks.” Authorities are scrambling to assess the damage, particularly in the severely affected west-central region of the state.\nAs of early Saturday, approximately 1.8 million households remain without power, prompting over 50,000 utility workers to be deployed for restoration efforts, as confirmed by Governor Ron DeSantis.\nEnvironmental Impact A phosphate mine operator faced backlash after releasing thousands of gallons of pollutants into Tampa Bay due to overflowing drains during the storm.\nHurricane Milton’s Powerful Path Hurricane Milton made landfall as a Category 3 storm on Wednesday night, particularly affecting Sarasota County’s Siesta Key. The hurricane’s force spurred numerous tornadoes, created 28-ft waves, and produced heavy rainfall and severe storm surges.\nTragedies struck in a retirement community in St. Lucie County, where six lives were claimed after tornadoes surged through the area in a mere 20 minutes.\nSubstantial winds caused a crane to topple onto The Tampa Bay Times building in St. Petersburg, while the Tampa Bay Rays reported significant damage to the roof of their Tropicana Field stadium.\nStorm Outcome and Community Resilience As recovery and rescue operations continue, Florida’s communities are rallying together. Evacuations preceding the storm likely mitigated the potential death toll, with many recalling the devastation from Hurricane Helene just weeks prior, prompting widespread preparations for Milton.\nLocal Stories of Survival Florida residents, including Fred and Rita Neuman, reflected on their evacuation journey to the Panhandle. Living in Siesta Key, they chose safety after witnessing the terrifying power of Helene. “I love my house, but I’m not dying in it,” Fred stated as he faced the aftermath awaiting at home.\nIn nearby Palmetto, residents Lee and Pamela Essenburm took precautions as winds ravaged their backyard trees. “I wasn’t going to take a chance on it,” Lee expressed, showcasing the community’s proactive stance against such storms.\nFlorida Faces Ongoing Rescue Operations Rescue efforts are crucial as the full scope of Hurricane Milton’s impact becomes clearer. Authorities collaborate with local organizations on search and rescue missions for residents and their animals, including pets unexpectedly caught in the storm’s aftermath.\nEnviromental Observations As the state assesses the storm’s environmental aftermath, reports state the hurricane’s increased rainfall by 20 to 30 percent is attributable to the climate crisis. This includes an approximate 10 percent rise in winds due to humanitarian-driven warming. Experts highlighted the urgency of hurricane preparedness as storm frequency and intensity continue to rise.\nAerial Views of the Destruction Contrasts in safety remind families across Florida of daunting realities. Aerial footage showcases ravaged neighborhoods due to tornadoes as Hurricane Milton passed. This visual evidence underscores the need for expanded emergency measures and community recovery efforts.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Ron DeSantis",
+          "sentiment": "none"
+        },
+        {
+          "name": "Milton",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-12T15:37:30.722+03:00",
+    "updated": "2024-10-12T15:37:30.722+03:00"
+  }
+]

@@ -1,0 +1,541 @@
+[
+  {
+    "uuid": "423018bbf9a230feecd86cd9f84b725a5f26bef4",
+    "url": "https://www.newsbreak.com/mytexasdaily-com-500251/4048443156242-protesters-violate-la-curfew-homeland-security-rams-suspect-s-car",
+    "ord_in_thread": 0,
+    "author": "Dave Mason",
+    "published": "2025-06-12T04:08:00Z",
+    "title": "Protesters violate LA curfew, Homeland Security rams suspect's car - NewsBreak",
+    "text": "Los Angeles\nProtesters violate LA curfew, Homeland Security rams suspect's car\nBy Dave Mason,\n3 hours ago(The Center Square) – A large number of protesters continued to march Wednesday evening on downtown Los Angeles streets, violating the second night of a 10-hour curfew. The defiance came following a day of marches and hundreds of demonstrators gathering in Grand Park, the 12-acre open green space that has the 27-story-high Los Angeles City Hall as its dramatic backdrop. That's where Los Angeles Police Department officers, including many on horseback, charged into the crowd with rods late Wednesday afternoon and evening to clear the park, according to media reports. Before that happened, some protesters were seen with lit fireworks, which has been what demonstrators threw at police during the weekend's riots.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "War, Conflict and Unrest"
+    ],
+    "topics": [
+      "Politics->government",
+      "Politics->political dissent",
+      "Politics->civil rights",
+      "Social Issue->social problem",
+      "Social Issue->demographics",
+      "Social Issue->social condition",
+      "War, Conflict and Unrest->civil unrest",
+      "War, Conflict and Unrest->riot",
+      "War, Conflict and Unrest->demonstration"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Dave Mason",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Grand Park",
+          "sentiment": "none"
+        },
+        {
+          "name": "City Hall",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Los Angeles Police Department",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "fake_news"
+      ],
+      "top_news": [],
+      "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:12:22.947+03:00",
+    "updated": "2025-06-12T07:17:27.000+00:00"
+  },
+  {
+    "uuid": "be60572f87d4cf4b1f5a42ba67d6dcb050549efe",
+    "url": "https://groups.jewishgen.org/g/main/message/684775",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "sjgwed@... (Susan J. Gordon)",
+    "published": "2024-03-08T18:27:00Z",
+    "title": "Re: Everything Is Illuminated: Protecting Ukraine’s Jewish Cemeteries Amidst War",
+    "text": "|\n|\nThank you, Steven, for this powerful but painful article, and for praising Foer's book. When I went to Ukraine in 2006, I visited Lvov, Zbarazh, Skalat, Chernivitsi (formerly Czernowitz), and Tarnopol, my ancestral towns, and was escorted by Alex Dunai, a terrific guide. One of my goals was to see the towering cenotaph for Zbarazh, which I had found online, and begins \"Here Lies Soap.\" But when I showed Alex a photograph of it, he said it wasn't in Zbarazh; it had been erected by survivors in 1947 and was in Beth David Cemetery in Elmont NY - barely one hour from my house (!)\nI describe my Ukrainian visits and subsequent trip to Beth David extensively in BECAUSE OF EVA: A Jewish Genealogical Journey (pub by Syracuse U Press, 2016). Parts, including \"Here Lies Soap,\" were also published over the years in the Forward, the Jewish Week of New York, and The Galizianer.\nSusan J. Gordon\nNew York\nZBARAZH - Bialazurker, Geist, Schoenhaut\nSKALAT - Schoenhaut\nLVOV - Lempert\nCHERNIVITSI - Lempert\n|\n|",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "steven",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "foer",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "alex",
+          "sentiment": "none"
+        },
+        {
+          "name": "alex dunai",
+          "sentiment": "none"
+        },
+        {
+          "name": "geist",
+          "sentiment": "none"
+        },
+        {
+          "name": "czernowitz",
+          "sentiment": "none"
+        },
+        {
+          "name": "susan j. gordon new york zbarazh",
+          "sentiment": "none"
+        },
+        {
+          "name": "lempert",
+          "sentiment": "none"
+        },
+        {
+          "name": "beth david",
+          "sentiment": "none"
+        },
+        {
+          "name": "tarnopol",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "syracuse u press",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "zbarazh",
+          "sentiment": "none"
+        },
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "lvov",
+          "sentiment": "none"
+        },
+        {
+          "name": "skalat",
+          "sentiment": "none"
+        },
+        {
+          "name": "elmont ny",
+          "sentiment": "none"
+        },
+        {
+          "name": "schoenhaut lvov",
+          "sentiment": "none"
+        },
+        {
+          "name": "beth david cemetery",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-08T20:36:39.495+02:00",
+    "updated": "2024-03-08T20:36:39.495+02:00"
+  },
+  {
+    "uuid": "2bf2b2bb0eb5b3651c97c0149c75f5f0177a53e5",
+    "url": "https://www.wbtv.com/video/2025/01/03/amber-alert-issued-after-1-year-old-abducted-south-carolina",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@WBTV_News",
+    "published": "2025-01-03T00:00:00Z",
+    "title": "Wind Advisory issued January 3 at 2:21AM EST until January 4 at 7:00AM EST by NWS Blacksburg VA",
+    "text": "Updated: 4 hours ago\nFlames broke out on Log Barn Road late Thursday night.\nUpdated: 4 hours ago\nThe wreck happened on Donald Ross Road early Friday morning.\nUpdated: 4 hours ago\nThe shooting happened on Purple Thistle Lane.\nUpdated: 15 hours ago\n“She’s gone too soon...She was affectionately known as ‘sweetie.’\nUpdated: 15 hours ago\nOne person was killed and four others injured.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "topics": [
+      "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T15:12:25.698+02:00",
+    "updated": "2025-01-03T15:12:25.698+02:00"
+  },
+  {
+    "uuid": "81487a0060d67df967f332c4ab3729094ff0fd17",
+    "url": "https://vnexplorer.net/z/1054254.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-06-27T13:21:00Z",
+    "title": "Lilly Téllez denuncia a AMLO ante organismos internacionales por “ataques” a Loret y Brozo",
+    "text": "Lilly Téllez denuncia a AMLO ante organismos internacionales por “ataques” a Loret y Brozo CIUDAD DE MÉXICO (apro).- La senadora del PAN Lilly Téllez informó que denunció al presidente Andrés Manuel López Obrador por los “ataques” hacía el periodista Carlos Loret de Mola y a Víctor Trujillo quien interpreta a Brozo. Por medio de sus redes sociales, la legisladora detalló que envió una carta a la Oficina en México del Alto Comisionado de la ONU, la oficina de Derechos Humanos de las Naciones Unidas, la Organización internacional de derechos humanos, Artículo 19, entre otros, para denunciar al presidente Andrés Manuel López Obrador. En la misiva, la legisladora resaltó que el presidente Andrés Manuel López Obrador constantemente “ataca” a Carlos Loret de Mola, Víctor Trujillo y al medio de información Latinus e incluso, enfatizó, están bajo investigación financiera. “Me dirijo a usted para mostrar mi profunda preocupación por el constante ataque que periodistas y medios de comunicación están recibiendo por parte del presidente de México, Andrés Manuel López Obrador. “Estos ataques han llegado a ser tan intensos que algunos periodistas que lo critican están sujetos a investigación financiera y han sido sometidos a una intensa campaña de intimidación como es el caso de los periodistas Carlos Loret de Mola y Víctor Trujillo, así como del medio digital informativo Latinus”, expuso. En el escrito, la senadora muestra su preocupación por la situación de los comunicadores y solicita la intervención de los organismos de Derechos Humanos para que el presidente Andrés Manuel López Obrador respete las libertades fundamentales y frene su intención de “amordazar” a la prensa. “Como ciudadana quién cree en la libertad de expresión y la democracia, estoy seriamente preocupada por esta situación y quisiera solicitar su intervención para que coadyuve a que cada persona pueda expresarse sin miedo a represalias. “Es fundamental que el presidente de México respete las libertades fundamentales y que cualquier intento de amordazar a la prensa y limitar su capacidad de investigar y reportar sobre las acciones del gobierno y sus políticas públicas sea perseguido y linchado mediática y socialmente”, detalló. La panista también presentó en el Senado un exhorto al presidente López Obrador “para que respete las libertades de expresión y de prensa” de Loret de Mola y Víctor Trujillo “y no los ataque, ni intimide por sí, ni a través de las dependencias públicas como la UIF”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice",
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-28T00:49:12.141+03:00",
+    "updated": "2024-06-28T00:49:12.141+03:00"
+  },
+  {
+    "uuid": "b8b32e775f91d3c8fd1997102fb651d5d728f908",
+    "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/pelo-menos-11-mortos-em-ataque-israelita-que-atingiu-escola-no-norte-de-gaza_n1602764",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rádio e Televisão de Portugal",
+    "published": "2024-09-26T19:48:00Z",
+    "title": "Pelo menos 11 mortos em ataque israelita que atingiu escola no norte de Gaza",
+    "text": "O Exército israelita confirmou ter atingido o edifício da escola situada no campo de refugiados de Jabalia, indicando que tinha como alvo membros do movimento islamita palestiniano Hamas que se encontravam no seu interior e que planeavam ataques às tropas israelitas - uma afirmação que não foi possível confirmar de forma independente.\nImagens captadas da Escola de al-Faluja mostram as equipas de salvamento a retirar as vítimas do recinto, no meio dos escombros e de uma multidão. Um vídeo mostrava homens a envolver um tronco mutilado numa película de plástico e a colocar partes do corpo numa caixa térmica.\nO Ministério da Saúde da Faixa de Gaza não forneceu de imediato uma estimativa de quantas vítimas mortais eram mulheres e crianças.\nAs forças israelitas têm repetidamente atacado escolas, afirmando que os combatentes do Hamas as utilizam como \"centros de comando\" para planear ataques.\nOs militares dizem utilizar armas de precisão para evitar fazer vítimas civis, mas os seus ataques têm causado um elevado número de mortos entre a população civil.\nDezenas de milhares de palestinianos vivem em escolas apinhadas de toda a Faixa de Gaza, depois de terem fugido das suas casas devido aos bombardeamentos e às ofensivas terrestres israelitas.\nDe acordo com as Nações Unidas, mais de 1,9 milhões dos 2,4 milhões de habitantes de Gaza viram-se obrigados a abandonar as suas casas e a deslocar-se, muitos deles mais que uma vez, durante o conflito que dura há quase um ano.\nNa cidade de Khan Yunis, no sul do território, as autoridades enterraram hoje numa vala comum os cadáveres de 88 palestinianos que Israel devolveu à Faixa de Gaza no dia anterior.\nUm `bulldozer` abriu uma vala num dos cemitérios da cidade e os corpos foram colocados dentro de sacos de plástico azuis antes de o `bulldozer` os cobrir com terra.\nO Ministério da Saúde de Gaza condenou aquilo a que chamou a forma \"desumana e imoral\" como Israel tratou os corpos, dizendo que foram enviados de volta empilhados num camião, sem qualquer informação que permitisse a sua identificação.\nAo longo das ofensivas israelitas em Gaza, as tropas israelitas têm exumado vários cemitérios, bem como valas comuns improvisadas criadas em hospitais com os corpos de palestinianos mortos durante os ataques às instalações, e levaram um número desconhecido de cadáveres para Israel, afirmando procurar potenciais corpos de reféns ou combatentes israelitas.\nIsrael declarou a 07 de outubro do ano passado uma guerra na Faixa de Gaza para \"erradicar\" o Hamas, horas depois de este ter realizado em território israelita um ataque de proporções sem precedentes, matando 1.205 pessoas, na maioria civis, incluindo reféns em cativeiro.\nDesde 2007 no poder em Gaza e classificado como organização terrorista pelos Estados Unidos, a União Europeia e Israel, o Movimento de Resistência Islâmica (Hamas) fez também nesse dia 251 reféns, 97 dos quais continuam em cativeiro, 33 dos quais entretanto declarados mortos pelo Exército israelita.\nA guerra, que hoje entrou no 360.º dia e continua a ameaçar alastrar a toda a região do Médio Oriente -- com uma segunda frente de batalha no Líbano -, fez até agora na Faixa de Gaza mais de 41.500 mortos (quase 2% da população) e de 96.000 feridos, além de mais de 10.000 desaparecidos, na maioria civis, presumivelmente soterrados nos escombros, de acordo com números atualizados das autoridades locais, que a ONU considera fidedignos.\nA contagem do Ministério da Saúde de Gaza não distingue entre civis e combatentes, mas mais de metade dos mortos são mulheres e crianças, entre as quais cerca de 1.300 com menos de dois anos.\nIsrael culpa o Hamas pelas mortes de civis em Gaza, porque os combatentes do grupo operam em zonas residenciais e utilizam infraestruturas civis.\nO sobrepovoado e pobre enclave palestiniano está mergulhado numa grave crise humanitária, com mais de 1,1 milhões de pessoas numa \"situação de fome catastrófica\" que está a fazer \"o mais elevado número de vítimas alguma vez registado\" pela ONU em estudos sobre segurança alimentar no mundo.\nTópicos Gaza Deir Balah Faixa , Faixa Gaza , Hamas 'Gaza Deir Balah Faixa','Faixa Gaza','Hamas' Quer partilhar este artigo? cancelar PUB PUB",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T01:48:50.193+03:00",
+    "updated": "2024-09-27T01:48:50.193+03:00"
+  },
+  {
+    "uuid": "a21d78fc0f8f18ee268d5ab15c8c53993b566aa8",
+    "url": "https://laprovinciapavese.gelocal.it/pavia/cronaca/2024/08/02/news/afa_notti_tropicali_pronto_soccorso_sovraffollato_malori_caldo-14525912",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "La Provincia Pavese",
+    "published": "2024-08-02T00:00:00Z",
+    "title": "Afa e notti tropicali, pronto soccorso sovraffollato: aumentano i malori da caldo - La Provincia Pavese",
+    "text": "PAVIA. La morsa dell’afa si stringe sulla provincia e aumentano anche gli accessi al pronto soccorso già sovraffollato: anziani, persone malate e soggetti fragili sono i primi a fare le spese degli alti livelli di umidità, massime superiori ai 34 gradi in città e notti calde, tropicali, da giorni sopra i 20 gradi complicando il sonno. Ma non mancano i pazienti con complicanze respiratorie dovute a virus influenzali. «Negli ultimi dieci giorni abbiamo assistito a un aumento degli accessi correlati al caldo, situazione che ci aspettavamo viste le temperature dell’ultimo periodo, che hanno cominciato a crescere dopo che giugno e luglio hanno fatto registrare un clima più mite. Abbiamo anche casi di insufficienze respiratorie causate dai virus e qualche residuo caso di Covid, che ci stanno dando da fare» spiega Stefano Perlini, docente e primario del pronto soccorso del policlinico San Matteo, principale centro in provincia dedicato all’emergenza-urgenza. Sovraffollamento Gli ingressi da caldo in ospedale gettano una luce su un altro fenomeno: «Gli accessi per malori legati all’afa si aggiungono al sovraffollamento globale del pronto soccorso – aggiunge il primario – oltre le urgenze, in questo momento registriamo un numero di pazienti che non è quello che ci aspetteremmo ai primi di agosto, quando di solito calano. Ieri mattina, per esempio, avevamo in carico un’ottantina di pazienti, e considerando gli anni passati ce ne aspetteremmo il 30 per cento in meno. La collaborazione con il resto delle strutture territoriali deve migliorare, perché in pronto soccorso arrivano anche situazioni che non sono emergenze, e il reparto non è un ambulatorio». Perlini stima circa una decina di accessi al giorno, dovuti alle complicanze del caldo e per questo diretti al pronto soccorso del policlinico, che assiste circa 80mila pazienti ogni anno in larga parte codici minori (gli ex verdi e bianchi). «I numeri finora sembrano inferiori rispetto agli anni scorsi quando il caldo è cominciato prima. Parliamo di pazienti già debilitati o fragili, soprattutto anziani pluri patologici che vivono da soli o in casa di riposo. La disidratazione è la prima causa che li porta a cercare cure, oltre agli svenimenti e alle crisi ipotensive dovute all’afa». È una quota di persone che si aggiunge alle tante che, ogni giorno, si rivolgono al pronto soccorso perché i loro bisogni di salute non trovano risposta altrove: è il cosiddetto fenomeno degli accessi impropri, cioè pazienti che di fronte alle difficoltà di accesso ai servizi sanitari presenti sul territorio, si rivolgono al reparto d’urgenza in cerca di risposte alla loro domanda di salute. E gli ingressi da caldo incidono in questo scenario: «Da noi arrivano anche persone con sintomi non urgenti, e questo è un problema anche nella gestione delle emergenze vere. Senza puntare il dito contro nessuno, da un lato c’è una percezione sbagliata da parte degli utenti, in merito allo scopo del pronto soccorso. Dall’altro va migliorata la collaborazione con il resto delle strutture sul territorio» prosegue Perlini. E sul fronte caldo, anche i medici di base stanno monitorando il fenomeno in questi giorni torridi: «In caso di malesseri, non scavalcateci, siamo reperibili» afferma Maurizio Daccò, medico di base di via Villa Glori. «Attenzione ai fragili» «Ipotesi e pazienti diabetici sono i pazienti che stiamo monitorando in questo momento – prosegue Daccò – perché crisi glicemiche e cali di pressione si possono verificare con il caldo». Ma anche le persone che soffrono di patologie psichiatriche sono tra quelle che più di altre possono accusare la morsa dell’afa: «Si tratta di pazienti con una maggiore sensibilità al caldo – aggiunge il medico di base – e io stesso ho dovuto mandare un paio di pazienti in pronto soccorso per via della loro situazione. Il consiglio per le famiglie, anche in questo caso, è di mettersi in contatto con il medico di base, per rivedere le terapie in caso di necessità». I consigli Bere, e ricordare di far bere acqua anche ai più anziani magari non del tutto autosufficienti: è il primo consiglio del primario di pronto soccorso Stefano Perlini, per evitare le complicanze più serie dell’afa e del caldo torrido di questi giorni. È anche il primo dei dieci consigli stilati da Ats, l’agenzia di tutela della salute che ha stilato un decalogo rivolto ai cittadini per difendersi dal caldo. Tra i buoni comportamenti da adottare per vivere un estate serena, Ats ricorda che è meglio evitare le uscite e l’attività fisica nelle ore più calde della giornata. L’areazione è importante, per questo è meglio aprire le finestre abbassando le tapparelle per evitare l’irraggiamento diretto del sole, così da rinfrescare l’ambiente in cui si soggiorna. Tra gli altri consigli, indossare indumenti chiari, non aderenti e di fibre naturali, come ad esempio lino e cotone evitando le fibre sintetiche che impediscono la traspirazione e possono provocare irritazioni, pruriti e arrossamenti. Bagnare la testa con acqua fresca in caso di mal di testa provocato da un colpo di sole o di calore aiuta ad abbassare la temperatura corporea. Ats ricorda di consultare il medico se soffri di pressione alta (ipertensione arteriosa) e non interrompere o sostituire di tua iniziativa la terapia. Infine, non assumere regolarmente integratori salini senza consultare il proprio medico curante.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Health"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-02T11:36:25.883+03:00",
+    "updated": "2024-08-02T11:36:25.883+03:00"
+  },
+  {
+    "uuid": "c18b4f8f6b76a6f415fd41080f592e0ba85fd581",
+    "url": "https://www.telemadrid.es/noticias/madrid/Herido-muy-grave-al-caer-accidentalmente-al-patio-interior-de-un-edificio-en-Carabanchel-0-2794220552--20250703064144.html",
+    "ord_in_thread": 0,
+    "author": "Telemadrid",
+    "published": "2025-07-03T04:41:00Z",
+    "title": "Herido muy grave al caer accidentalmente al patio interior de un edificio en Carabanchel",
+    "text": "TMDHTM20240527_0010Un hombre de 44 años ha resultado herido muy grave al caer de manera accidental al patio interior de un edificio desde una altura de 4 metros, en la calle Bernardina Aranguren, en el distrito madrileño de Carabanchel.Una portavoz de Emergencias de la Comunidad de Madrid ha informado de que una llamada ha alertado del accidente al Centro Coordinador del 112 sobre las 21.30 de esta noche. Al lugar ha acudido un equipo de soporte vital avanzado del SUMMA, que ha estabilizado al hombre, que ha sufrido un traumatismo craneoencefálico severo y, en estado muy grave, ha sido trasladado al Hospital 12 de Octubre.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->law enforcement",
+      "Crime, Law and Justice->investigation (criminal)",
+      "Crime, Law and Justice->reckless driving",
+      "Health->medical condition",
+      "Health->emergency care",
+      "Health->injury",
+      "Social Issue->social problem",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Bernardina Aranguren",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Carabanchel",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Comunidad de Madrid",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T08:51:44.980+03:00",
+    "updated": "2025-07-03T05:58:38.000+00:00"
+  },
+  {
+    "uuid": "c4b3b15b9e9ad19f10117efe35174c28a8a3f117",
+    "url": "https://www.tomshw.it/videogioco/nintendo-sempre-piu-come-la-cia-smaschera-un-pirata-switch-tramite-reddit-2024-11-15",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Giulia Serena",
+    "published": "2024-11-15T07:48:00Z",
+    "title": "Nintendo sempre più come la CIA, smaschera un pirata Switch tramite Reddit",
+    "text": "Nintendo ha rintracciato James \"Archbox\" Williams, uno dei due imputati in una causa per pirateria nei confronti di [Nintendo Switch,](https://www.amazon.it/dp/B0CHC558FS/?tag=gdivision-21&ascsubtag=12247&linkCode=ogi) grazie a riparazioni e post su Reddit. I dettagli sono emersi da documenti del tribunale [scoperti da Game File.](https://www.gamefile.news/p/how-nintendo-found-archbox-switch) Nel 2023, Nintendo ha assunto lo studio legale Mitchell Silberberg & Knupp per indagare su negozi online di giochi pirata per Switch. Ebbene, l'indagine ha portato alla scoperta di Archbox e, attraverso post su Reddit nelle comunità SwitchPirates e Phoenix, gli avvocati hanno appreso che viveva vicino a Phoenix, Arizona e aveva frequentato la Midwestern University. I legali di Nintendo hanno collegato Williams ad almeno due account Nintendo correlati ad Archbox all'inizio dell'anno. Inoltre, un dipendente di Nintendo ha \"provvisoriamente\" identificato Archbox come James Williams nello stesso periodo. Con due indirizzi email di James Williams in Arizona, un dipendente Nintendo ha consultato il sistema di tracciamento delle riparazioni dell'azienda, trovando due ordini di riparazione a nome di James Williams con un indirizzo di spedizione a Surprise, Arizona. Nintendo ha quindi inviato a Williams una lettera di diffida, che ha firmato. Secondo i documenti, Williams si sarebbe impegnato a \"rispettare e cooperare con qualsiasi richiesta... nel limite del suo controllo\", pur negando qualsiasi violazione. È interessante notare che Nintendo ha inviato a Williams uno dei suoi articoli riparati due giorni prima di spedire la diffida. Nintendo ha dovuto spiegare il suo lavoro investigativo poiché Williams ha interrotto le comunicazioni e non si è presentato in tribunale entro le scadenze previste, portando a una sentenza in contumacia a favore di Nintendo. L'azienda doveva fornire prove di aver fatto il possibile per contattare la persona accusata di piratare i suoi giochi. Insomma, Nintendo si dimostra sempre più abile e risoluta nel combattere la pirateria dei suoi giochi, ma d'altronde ha una lunga storia in questo settore. Negli anni '90, l'azienda sviluppò un innovativo sistema di protezione per le sue cartucce del Super Nintendo, che includeva un chip speciale per autenticare i giochi originali. Questa mossa fu una risposta diretta al diffondersi di cartucce pirata provenienti principalmente dall'Asia. Con l'avvento dell'era digitale, la sfida è diventata ancora più complessa: le moderne console, come la Nintendo Switch, sono dotate di sofisticati sistemi di sicurezza, ma i pirati informatici continuano a cercare modi per aggirarli. La battaglia tra produttori e pirati è diventata una sorta di \"gatto e topo\" tecnologico, con entrambe le parti che cercano costantemente di superarsi a vicenda.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.amazon.it/dp/B0CHC558FS/?tag=gdivision-21&ascsubtag=12247&linkCode=ogi)",
+      "https://www.gamefile.news/p/how-nintendo-found-archbox-switch)",
+      "https://gamefile.news/p/how-nintendo-found-archbox-switch)",
+      "https://amazon.it/dp/B0CHC558FS/?tag=gdivision-21&ascsubtag=12247&linkCode=ogi)",
+      "https://www.amazon.it/dp/B0CHC558FS/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "James",
+          "sentiment": "negative"
+        },
+        {
+          "name": "James Williams",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Mitchell Silberberg",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Nintendo",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Midwestern University",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Phoenix",
+          "sentiment": "none"
+        },
+        {
+          "name": "Arizona",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T11:05:45.291+02:00",
+    "updated": "2024-11-15T11:05:45.291+02:00"
+  },
+  {
+    "uuid": "ca17a0d26138fd84ff85aceda87eae52f305df32",
+    "url": "https://www.washingtonpost.com/sports/2024/01/15/bills-snow-shoveling",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matt Bonesteel",
+    "published": "2024-01-15T00:00:00Z",
+    "title": "Bills fans help dig out Highmark Stadium after massive snowstorm - The Washington Post",
+    "text": "The Buffalo Bills’ playoff game against the Pittsburgh Steelers will kick off at 4:30 p.m. Eastern time on Monday. But first, the Bills put out a call for snow shovelers after Highmark Stadium in Orchard Park, N.Y., was buried by three feet of lake-effect snow over the weekend, causing the NFL to push the game back one day, from Sunday to Monday. Anyone who answered the call got $20 an hour and meals. Helpers were asked to bring their own shovels, though shovels were provided if needed. And though it is taking a herculean effort to clear the stadium of all that snow, a good time has been had by all, it seems. “It is all hands on deck. … We’re still looking for more snow shovelers out there,” Andy Major, the Bills’ vice president of operations and guest experience, told WGR radio in Buffalo on Monday morning. “We were hopeful that early this morning we’d get some of our best Bills Mafia fan base to come out and help us out. So yeah, it’s not pretty out there. We got three feet of snow. That [lake-effect snow] band hovered over the stadium the entire time. We were hoping it was going to leave us for a little bit, but it never really did. So it’s a tough one out there, for sure.” Major said the team hoped to have most of the parking lot available for fans but cautioned that some spaces might be lost to snowdrifts. He also said fans might have to deal with a somewhat unorthodox seating arrangement. “The biggest thing is the seating area. The aisles will be as clear as we can possibly make them and have tons of salt on them. But in the seating area, people will be literally walking into some snow and sitting on some snow on their seats,” Major said. Yinzer of the Year— Brooke Pryor (@bepryor) [pic.twitter.com/pqHyTfcW3T] [January 15, 2024] Major said there wasn’t a cutoff time for when the shovelers had to stop, and the effort would continue until gates open at 2:30 p.m. “It’s overwhelming,” a Canadian caller, who said he helped shovel out the stadium for a Bills-Cowboys game in 2015, told WGR Monday morning. “It’s a lot to be able to get that taken care of.” A WGR host said a caller told him she’d been turned away because the company running the shoveling effort had limited the effort to 200 people. However, that limit was lifted as the team struggled to clear the stadium. The field looks great. The seats? Not so much— Mike DeFabo (@MikeDeFabo) [pic.twitter.com/17wqSF0VSM] [January 15, 2024] The snow got so bad that Erie County put a travel ban in place. But County Executive Mark Poloncarz carved out an exception to the ban on Sunday night so that people could get to the stadium to help shovel it out. Even if the stadium gets cleared of snow, the Bills-Steelers game still will have a wintry feel , with temperatures in the teens and a wind chill in the single digits. The scene at Highmark Stadium a couple hours ago— Brooke Pryor (@bepryor) (via TikTok user htbway) [pic.twitter.com/TRUqyY02kW] [January 15, 2024] - 2 hours ago2 hours ago - The Lions trusted Jared Goff. He repaid them with a historic win.Earlier todayThe Lions trusted Jared Goff. He repaid them with a historic win.Earlier today - Cowboys’ shocking loss leaves Jerry Jones to ponder Mike McCarthy’s statusEarlier todayCowboys’ shocking loss leaves Jerry Jones to ponder Mike McCarthy’s statusEarlier today",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Sport"
+    ],
+    "external_links": [
+      "https://www.audacy.com/stations/wgr550/shows/the-jeremy-joe-show-0f40c/episodes/cbc694f50594",
+      "https://www.wunderground.com/hourly/us/ny/orchard-park/date/2024-01-15?cm_ven=localwx_modtoday",
+      "https://www.buffalobills.com/news/snow-shovelers-overnight-early-monday-morning-highmark-stadium-bills-steelers",
+      "https://twitter.com/markpoloncarz/status/1746723133866782782/photo/1",
+      "https://www.twitter.com/markpoloncarz/status/1746723133866782782/photo/1",
+      "https://audacy.com/stations/wgr550/shows/the-jeremy-joe-show-0f40c/episodes/cbc694f50594",
+      "https://www.wunderground.com/hourly/us/ny/orchard-park/date/2024-01-15",
+      "https://wunderground.com/hourly/us/ny/orchard-park/date/2024-01-15?cm_ven=localwx_modtoday",
+      "https://buffalobills.com/news/snow-shovelers-overnight-early-monday-morning-highmark-stadium-bills-steelers"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "andy major",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "pittsburgh steelers",
+          "sentiment": "negative"
+        },
+        {
+          "name": "washington post the buffalo bills",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nfl",
+          "sentiment": "none"
+        },
+        {
+          "name": "wgr radio",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "highmark stadium",
+          "sentiment": "none"
+        },
+        {
+          "name": "n.y.",
+          "sentiment": "none"
+        },
+        {
+          "name": "orchard park",
+          "sentiment": "none"
+        },
+        {
+          "name": "buffalo",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-16T00:05:53.619+02:00",
+    "updated": "2024-01-16T00:05:53.619+02:00"
+  }
+]

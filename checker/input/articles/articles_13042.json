@@ -1,0 +1,512 @@
+[
+  {
+    "uuid": "83f5e2e9318bec72a30f5a3b8ff3f26c936ccc10",
+    "url": "https://www.resetera.com/threads/fubon-nvidia-delays-next-generation-rubin-server-gpus-to-redesign-and-compete-with-amd-may-also-delay-desktop-gpus.1269804/",
+    "ord_in_thread": 0,
+    "author": "modiz",
+    "published": "2025-08-14T07:15:00Z",
+    "title": "[Fubon] Nvidia delays next generation Rubin server GPUs, to redesign and compete with AMD (may also delay desktop GPUs) Rumor | ResetEra",
+    "text": "Basically Rubin was supposed to enter mass production later this year amd launch for servers early next year. However because the next AMD Server GPU looks to be more competitive than they expected, it seems they chose to redesign some things and now it looks like mass production will only start next year with only small quantities available by end of next year.\nNVidia's current approach is launch the server GPUs first and gaming GPUs around a year after, so these delays may end up pushing all the stack. I wont be surprised if the 60 series only launches in late 2027 with the new delay.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->biotechnology",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->computing and information technology",
+      "Social Issue->social networking",
+      "Social Issue->social problem",
+      "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Rubin",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "NVidia",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "NVDA",
+              "exchange": "NASDAQ"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T10:31:22.176+03:00",
+    "updated": "2025-08-14T10:36:03.000+03:00"
+  },
+  {
+    "uuid": "011b7aa01c30668ad9311f37308278786560f52e",
+    "url": "https://www.news4jax.com/weather/2024/05/10/severe-storms-racing-in-hour-by-hour-forecast",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mark Collins",
+    "published": "2024-05-10T11:37:00Z",
+    "title": "Severe storms racing in: Hour by Hour Forecast",
+    "text": "JACKSONVILLE, Fla. – It was Florida’s turn for strong and severe storms on Friday after Georgia got the bulk of Thursday’s tornadic activity . As storms came through the area Friday morning, there were reports of wind gusts up to 70 mph which knocked down power lines, flipped a tractor-trailer on the Dames Point Bridge and downed trees . Storms targeted the I-75 area of north Florida and southern Georgia with severe weather early this morning. By 9 a.m. the storms were over Jacksonville. Tornado likelihood was lower on Friday because the storms did not arrive in the record 96-degree heat that we had Thursday in Jacksonville. A Severe Thunderstorm Watch for Clay, Duval, Flagler, Marion, Nassau, Putnam and St. Johns counties in Florida, and Camden and Glynn counties in Georgia was set to end at 12 p.m. However, the watch was canceled shortly after 10 a.m. By noon severe weather risk was over but scattered showers will remain through the afternoon until we completely dry out early this evening. Some pockets of rain will still be possible when school buses return this afternoon.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "georgia",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida",
+          "sentiment": "none"
+        },
+        {
+          "name": "flagler",
+          "sentiment": "none"
+        },
+        {
+          "name": "jacksonville",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T14:41:21.865+03:00",
+    "updated": "2024-05-11T01:21:53.959+03:00"
+  },
+  {
+    "uuid": "b9c2b1000e0b11a70d5d007c07ee1a8d53d93ace",
+    "url": "https://www.gizchina.com/2024/10/17/unlocking-new-features-ios-18-1s-surprise-apple-card-upgrade",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Frederick Nyame",
+    "published": "2024-10-17T23:26:00Z",
+    "title": "Unlocking New Features: iOS 18.1’s Surprise Apple Card Upgrade",
+    "text": "iOS 18.1 is on the way, and with it comes a powerful new feature called notification summaries, part of Apple’s new Apple Intelligence tools. This feature will change how notifications work, making them more useful by summarizing content with the help of AI. One of the best uses of these summaries is in the Apple Card and spending apps. Here’s why it’s a game-changer for managing expenses and income.\nWhat Are Notification Summaries? In iOS 18.1, notification summaries will be an optional feature powered by Apple Intelligence. When turned on, notifications from your apps will provide smarter, AI-generated summaries. Instead of seeing just a few lines of an email or message, you’ll get a quick, more detailed snapshot of the important information.\nFor instance, in the Mail or Messages apps, Apple Intelligence will summarize the entire message or email instead of only showing the first few lines. This saves time, letting you see the key information without having to open each notification.\nSummaries for Spending with Apple Card in iOS 18.1 One of the most useful aspects of this feature is for tracking your Apple Card spending. Apple Intelligence will automatically total your expenses from multiple Wallet notifications. Instead of getting separate notifications for each transaction, the AI summarizes them in a single, easy-to-read notification.\nFor example, let’s say you make three Apple Card purchases. Instead of three separate alerts, iOS 18.1 will combine them into one summary. Apple Intelligence even totals the amounts for you. So, if you spent $13.83, $7.44, and $13.62, you would get a single notification saying:\nMultiple purchases at Walt Disney World and others, totalling $34.89\nThis feature isn’t just limited to the Apple Card. It works with any app that sends dollar amounts in its notifications, like spending apps or even apps like Venmo, where you might receive payments. Apple Intelligence will gather all the notifications, add the amounts, and present the total, saving you the trouble of calculating it yourself.\nA Handy Tool for Managing Money While totaling amounts manually isn’t difficult, having Apple Intelligence do it for you is a convenient way to stay on top of your finances. This feature will give you a clearer picture of your spending or income, helping you stay more organized without any extra effort.\nNotification summaries make it easier to track recent expenses, and the added benefit of automatic tallying means you’re always aware of your daily spending. Whether you’re managing your Apple Card or using other spending apps, this new feature in iOS 18.1 will help streamline your financial life.\nAre you excited to try out notification summaries? Let us know how you might use it to manage your notifications or track your spending!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Business and Market Analysis",
+      "Product and Services News"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://9to5mac.com/2024/10/16/ios-181-brings-a-surprise-apple-intelligence-upgrade-to-your-apple-card-and-more/#:~:text=Notification%20summaries%20are%20an%20optional,of%20the%20first%20couple%20lines.)",
+      "https://www.9to5mac.com/2024/10/16/ios-181-brings-a-surprise-apple-intelligence-upgrade-to-your-apple-card-and-more/#:~:text=Notification%20summaries%20are%20an%20optional,of%20the%20first%20couple%20lines.)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Apple Intelligence",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T02:35:36.445+03:00",
+    "updated": "2024-10-18T17:12:32.730+03:00"
+  },
+  {
+    "uuid": "5139d73ee47138ffee09e41a6175ff9bab09e3c7",
+    "url": "https://www.wzzm13.com/video/news/local/invention-born-in-grand-rapids-reaches-49-states/69-84ac924e-a1d1-4efc-8990-b3e32eaa23ea",
+    "ord_in_thread": 0,
+    "author": "Author wzzm",
+    "published": "2025-07-30T23:12:00Z",
+    "title": "Invention born in Grand Rapids reaches 49 states | wzzm13.com",
+    "text": "Skip Navigation\nNavigation\nNews\nBack\nSearch\nSearch:\nSearch\nRight Now\nGrand Rapids, MI »\n64°\nGrand Rapids, MI »\nBreaking News\nMore (\n) »\nInvention born in Grand Rapids reaches 49 states\nTo stream 13OYS on your phone, you need the 13OYS app.\nDownload the 13OYS app\nAustin and Alex Pollock's Reel Mate Remote is now on the market, but that's not the only way they look out for people with supplemental oxygen.\nBefore You Leave, Check This Out",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Human Interest->record and achievement",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific exploration"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Alex Pollock",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [],
+      "bias": "center",
+      "source": {
+        "type": "local_news",
+        "city": [
+          "Cutlerville",
+          "Kentwood",
+          "Wyoming",
+          "Grand Haven",
+          "Rockford",
+          "Walker",
+          "Northview",
+          "Grand Rapids",
+          "Jenison"
+        ],
+        "state": [
+          "Michigan"
+        ],
+        "country": [
+          "US"
+        ],
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:43:52.042+03:00",
+    "updated": "2025-07-31T07:45:10.000+03:00"
+  },
+  {
+    "uuid": "d1c9653b3877308b9b72abcf463a2bba0de63ded",
+    "url": "https://www.king5.com/article/entertainment/television/programs/evening-snohomish-county/lumber-lattes-libations-historic-everett-building-bar-muse-espresso-weyerhaeuser/281-0958f0b4-2b3f-4f50-947f-56d31f41aa19",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kim Holcomb",
+    "published": "2023-12-28T21:41:00Z",
+    "title": "From lumber to lattes and libations - historic Weyerhaeuser Building in Everett gets new life",
+    "text": "EVERETT, Wash. — Whether it's the start of a busy day or the conclusion of a good night, there’s a seat at the table for you inside one of Everett's most recognizable buildings.\nThe Muse Whiskey & Coffee recently opened inside the historic Weyerhaeuser Building on the waterfront and serves both coffee and cocktails.\n\"It's been a staple, this building - everyone's seen it for years floating around Everett, wherever it may be,” said General Manager Jospeh Mottola.\nThe building was constructed in 1923 and used for the lumber company's administration offices. It also served as a showroom for wood products.\nIn later years, Weyerhaeuser no longer used the space and the building was moved to different parts of the city - three times. It was eventually designated historic, but it didn’t have a functional public purpose.\nThen, Jack Ng and Jin Ma came along.\n\"Jin came from one of the biggest cities in the world, Beijing, and met me in the smallest town in the world, little Langley on Whidbey Island,” Ng said.\nTogether, the couple saw the Weyerhaeuser Building’s potential and worked with the\nPort of Everett to create a new public/private partnership.\nThe Muse Whiskey and Coffee turned former offices into comfortable and stylish seating areas. The westerly hallway leads to a spacious deck with views of the water. Ma designed the décor, inspired by a trip she and Ng made to Scotland - down to the light switches.\n\"The only place you can get them is Europe, so we had them shipped from Europe,” Ng said. \"We wanted to make it more unique and different.\"\nThey're also honoring the past.\nOriginal woodwork was restored, QR codes on plaques connect guests with history lessons, and the Muse logo was inspired by art from the original windows. They even commissioned a painting of Frederick Weyerhaeuser, which hangs next to the speakeasy bar.\nThe coffee bar is open daily and run by Keppy Ross – who used to run past the building.\n\"It's like I was meant to be here,” Ross said, laughing.\nThe café serves Italian traditional coffee and grab-and-go pastries and treats. Within a month of opening, Ross said there were already regular customers with regular routines.\n\"The window in the big room,” Ross said. \"That is the spot to sit in here and we have a lot of people come in and want to claim that spot right in the morning.\"\nIn the evening, the speakeasy beckons.\n\"Really kind of brings you back to a different era,” Mottola said.\nBartenders specialize in craft cocktails and the extensive whiskey collection includes some Prohibition-era bottles. More spirits are stored in the original vault, which was originally used for payroll. Now, it’s filled with lockers customers can rent to store their favorite bottles.\nFrom lumber to lattes libations, the building has served the community for generations - and counting.\n\"I hope this is the last move for the next 100 years,” Ng said.\nThe Muse Whiskey & Coffee is open daily and located at 615 Millwright Loop in Everett.\n[KING 5's Evening](/evening) celebrates the Northwest. Contact us:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://www.thewhiskeymuse.com/",
+      "https://www.weyerhaeusermusehistory.com/",
+      "https://www.portofeverett.com/",
+      "https://portofeverett.com/",
+      "https://www.weyerhaeusermusehistory.com",
+      "https://weyerhaeusermusehistory.com/",
+      "https://www.thewhiskeymuse.com",
+      "https://thewhiskeymuse.com/",
+      "https://www.portofeverett.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "everett",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "jospeh mottola",
+          "sentiment": "none"
+        },
+        {
+          "name": "jin ma",
+          "sentiment": "none"
+        },
+        {
+          "name": "jack ng",
+          "sentiment": "none"
+        },
+        {
+          "name": "jin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "muse whiskey & coffee",
+          "sentiment": "none"
+        },
+        {
+          "name": "weyerhaeuser",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "weyerhaeuser building",
+          "sentiment": "none"
+        },
+        {
+          "name": "everett",
+          "sentiment": "none"
+        },
+        {
+          "name": "wash.",
+          "sentiment": "none"
+        },
+        {
+          "name": "beijing",
+          "sentiment": "none"
+        },
+        {
+          "name": "whidbey island",
+          "sentiment": "none"
+        },
+        {
+          "name": "everett",
+          "sentiment": "none"
+        },
+        {
+          "name": "langley",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:20:41.478+02:00",
+    "updated": "2023-12-29T00:20:41.478+02:00"
+  },
+  {
+    "uuid": "c39d6926f16c9ac4ba8905d7d6450188e26c791f",
+    "url": "https://www.eluniverso.com/noticias/internacional/gobierno-de-mexico-niega-un-muerto-por-gripe-aviar-y-critica-a-la-oms-nota",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "rosa-falconi-johnson",
+    "published": "2024-06-06T20:44:00Z",
+    "title": "Gobierno de México niega un muerto por gripe aviar y critica a la OMS | Internacional | Noticias | El Universo",
+    "text": "El Gobierno mexicano negó este jueves que haya fallecido un hombre por gripe aviar en el país, como afirmó el miércoles la [Organización Mundial de la Salud (OMS), a la que acusó de emitir un comunicado “bastante malo” en el que reportó la primera muerte humana del mundo por el virus AH5N2.](https://www.eluniverso.com/larevista/salud/ultimo-brote-de-gripe-aviar-preocupa-a-la-oms-por-su-potencial-para-convertirse-en-pandemia-nota/) “Puedo señalar que el comunicado que hizo la Organización Mundial de la Salud es bastante malo, ya que de entrada habla de un caso fatal, cosa que no fue así, murió por otra causa y sin que se haya dictaminado, y solo de manera marginal dice que el riesgo en este caso es bajo”, declaró el secretario de Salud, Jorge Alcocer. En la conferencia matutina del Gobierno, el funcionario sostuvo que el hombre de 59 años al que se refirió la OMS murió el 24 de abril por complicaciones derivadas de la diabetes y una falla renal, pero no por el virus AH5N2. Publicidad La Secretaría de Salud (SSa) del Gobierno mexicano informó este miércoles que “no existe riesgo de contagio para la población con la detección del primer caso humano de influenza aviar de baja patogenicidad A (H5N2) en México, toda vez que no hay una fuente identificada de infección”. Alcocer aseveró que este jueves habría una reunión con el organismo internacional “para precisar” el comunicado que anunció el deceso del hombre “como el primer caso humano confirmado en un laboratorio de la infección del virus de influenza AH5N2 reportado a nivel global”. “Esta es una nota que hay tomar con prudencia porque no es precisa”, comentó Alcocer. Publicidad La víctima, según la información de la OMS, sería un hombre originario del Estado de México que falleció cuando recibió atención en el Instituto Nacional de Enfermedades Respiratorias (INER), en el sur de Ciudad de México, tras días de tener fiebre, dificultad para respirar, diarrea, náuseas y malestar general. Tras su deceso, “básicamente lo que se tomó fueron muestras y en una de las muestras se encontró el virus AH5N2, que está ligado a la gripe aviar”, indicó el secretario de Salud. Publicidad El secretario sostuvo que “hasta ahora no hay ninguna evidencia de transmisión de humano a humano”, y que el paciente “no tiene antecedentes de contacto familiar” ni de su entorno cercano que expliquen la infección. También aseveró que la Dirección de Epidemiología ha evaluado “todos esos contactos”. “Por lo tanto, y puntualizo, no existe ninguna razón para evitar comer pollo o sus derivados o estar preocupado por esto”, manifestó. Horas antes, la OMS tuvo un seminario en Ginebra, donde especialistas pidieron una alerta ante posibles nuevos casos tras el caso en México, aunque subrayaron que el riesgo de contagio en humanos permanece bajo. (I) Publicidad",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Health"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-07T00:25:45.090+03:00",
+    "updated": "2024-06-07T00:25:45.090+03:00"
+  },
+  {
+    "uuid": "2bc3322f8f69cb818625ca2ab2d5bcea28a30ad6",
+    "url": "https://www.13newsnow.com/article/weather/knowledge/how-many-times-has-norfolk-had-a-heat-index-over-100/291-b8156987-1bc2-4a4a-a17f-6aae0bb70ee9",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Craig Moeller, Evan Stewart",
+    "published": "2024-08-01T22:14:00Z",
+    "title": "How many times has Norfolk had a heat index over 100°? | 13newsnow.com",
+    "text": "NORFOLK, Va. — The sweltering heat and the humidity has been taking a toll on everybody this summer. The Hampton Roads region has seen multiple days with heat advisories and excessive heat warnings, and the hot weather will stick around for the rest of the work week. Most of coastal Virginia and North Carolina are under a Heat Advisory through 8 p.m. Thursday, and an Excessive Heat Watch is in effect for Friday. This Excessive Heat Watch will likely be upgraded to either a Heat Advisory or Excessive Heat Warning Thursday evening. With the hot weather top-of mind, the 13News Now Weather Team took a deep dive into the numbers to compare 2024 with other years, and see just how many days the heat index has seen 100° or higher. The record for the most days with a heat index of 100° or higher is 2020. Just four short years ago, we reached 100° or higher a staggering 33 times! It was an incredibly hot summer. Behind 2020 is 1980, where those 100°-or-hotter heat index values were reached 26 times. And three years (1977, 2005, and 2018) saw us reach those sweltering levels 25 times. It has certainly been hot here in 2024, but how many days have we seen the heat index top 100°? So far, we have seen 14 days, two weeks, with a heat index of 100° or more. And while we have passed what is traditionally the hottest part of the year, we still have all of August to get through. You can bank on these numbers going up. RELATED: Hottest part of the year for Hampton Roads is over",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Health"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "weather team",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "north carolina",
+          "sentiment": "none"
+        },
+        {
+          "name": "norfolk",
+          "sentiment": "none"
+        },
+        {
+          "name": "va.",
+          "sentiment": "none"
+        },
+        {
+          "name": "hampton roads",
+          "sentiment": "none"
+        },
+        {
+          "name": "virginia",
+          "sentiment": "none"
+        },
+        {
+          "name": "norfolk",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-02T01:58:55.202+03:00",
+    "updated": "2024-08-02T01:58:55.202+03:00"
+  },
+  {
+    "uuid": "2e2352ebde33d882a300bf12e951e0eac560c58b",
+    "url": "https://www.wral.com/story/just-glad-she-was-alive-relative-relieved-fayetteville-teen-survived-being-trapped-in-kentucky-man-s-home/21213692/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Liz McLaughlin; Chris Lovingood; Gilbert Baez; John Rector; Michael Joyner; Joseph Ochoa; Ryan Bisesi",
+    "published": "2023-12-29T22:59:00Z",
+    "title": "'Just glad she was alive': Relative relieved Fayetteville teen survived being trapped in Kentucky man's home",
+    "text": "'Just glad she was alive': Relative relieved Fayetteville teen survived being trapped in Kentucky man's home A North Carolina teenager was rescued from underneath a trap door inside a home in Kentucky on Christmas. According to arrest records, authorities responded to a domestic violence situation at a home on the 1400 block of Robertstown Road in Lincoln County, Kentucky. When authorities arrived, a man identified as Zackary Jones, said that a woman had been in the home but left. Authorities spoke with Jones’ mother, who made the initial call; she said the woman never left the property. Jones' mother, Ronda Jones, spoke with WRAL News and said she called authorities after argument between Jones and the teen. \"They were arguing, yelling and screaming,\" Rhonda Jones said. \"It's probably the hardest thing I had to do.\" Deputies took Jones into custody after he tried to destroy drug paraphernalia inside. He's facing more than 30 charges, including rape. Authorities in Kentucky charged Jones with multiple felonies, including sex with a minor, domestic assault of a minor and false imprisonment. After searching the home, authorities found the woman – later determined to be a teen who had been missing from Fayetteville -- underneath a trap door inside Jones’ bedroom. WRAL News is not identifying the teen in order to protect her privacy. A close relative of the teen spoke with WRAL News about the matter on Friday. \"I was scared,\" the relative said. \"I tried to warn her...what could happen to her and the worst possible thing could have happened you know? I'm just glad she was found alive.\" The teen has since returned to Fayetteville to get help. She had been missing from Fayetteville since Dec. 6. \"She told me that the guy tried to kill her and strangled her and she got away from him and went to the mom's house and told the mom what happened,\" the relative added. \"She was looking for a getaway for a little while and it turned out to be a lot different. He moved. He lured her and then kept her against her will.\" Rhonda Jones said she didn't know about the trap door or the drug paraphernalia because she \"never went up there.\" After he was read his rights, Jones admitted having lured the teen to leave her grandmother’s home in North Carolina. He first told her he was 19. When the two met, Zackary Jones told the teen he was 25 after she asked why he looked older than his photos and took her to his residence in Kentucky. Authorities said the teen learned Jones was actually 34 years old after speaking with his family. Jones' mother said the teen had been there for a few weeks. The teen said Jones told her to say she was 18 years old, adding he was armed with a .22 caliber handgun and threatened to shoot and kill her multiple times. \"I asked him how old she was. He said, 'she's 19.' So, I took that as the truth,\" Jones' mother said. \"I believed him, because a lot of girls looked older than they are.\" Rhonda Jones said she had no reason to think the teen was underage. \"To me, she willingly came with him,\" Ronda Jones said. \"I just feel like, they'd probably been talking. I don't know how long he's been texting her. From what the cops said that she was unhappy where she was at, and she felt like she was cared for and came with him.\" The teen also told authorities that the pair was stopped for a traffic violation on the night Jones picked her up, and that he threatened to shoot the deputy if he were to ask either Jones or the teen to step out of the car. Authorities said Zackary Jones admitted to having a sexual relationship with the victim on at least 10 different occasions after getting her high on marijuana and crack cocaine. \"I was shocked,\" Rhonda Jones said. \"I'm always upset when he lies to me.\" According to the police report, Jones also said the victim begged him to kill her. \"No matter what he had done, he's my son and I love him. I'm sorry he did it, and that's all I can say,\" Rhonda Jones said. The citation said the teen’s grandmother plans on filing charges back in North Carolina. The family said they are glad the teen is safe, but she's traumatized and needs time to heal. Jones said he went to North Carolina to help the teen and that it was his understanding that her grandmother kicked her out of the home. \"She didn't appear to be that age,\" Zackary Jones said. \"She had all kinds of piercings.\" Zackary Jones said the teen \"hid on her own free will\" and \"she was actually in the bed when officers first come in there.\" The grandfather of the teenager doubts Jones had good intentions. \"I don't think he was trying to rescue anybody,\" the grandfather said. \"I think he was just trying to find another person to victimize.\" •Credits [Liz McLaughlin](/rs/bio/20385293/) [Chris Lovingood](/rs/bio/19840836/) [Gilbert Baez](/rs/bio/13292930/) [John Rector](/rs/bio//) [Michael Joyner](/rs/bio/4279543/) [Joseph Ochoa](/rs/bio/20648349/) [Ryan Bisesi](/rs/bio/20211237/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jones",
+          "sentiment": "none"
+        },
+        {
+          "name": "ronda jones",
+          "sentiment": "none"
+        },
+        {
+          "name": "rhonda jones",
+          "sentiment": "none"
+        },
+        {
+          "name": "zackary jones",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "wral news",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "fayetteville",
+          "sentiment": "none"
+        },
+        {
+          "name": "kentucky",
+          "sentiment": "none"
+        },
+        {
+          "name": "north carolina",
+          "sentiment": "none"
+        },
+        {
+          "name": "robertstown road",
+          "sentiment": "none"
+        },
+        {
+          "name": "lincoln county",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T01:02:52.445+02:00",
+    "updated": "2023-12-30T01:17:34.012+02:00"
+  }
+]

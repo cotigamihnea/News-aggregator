@@ -1,0 +1,455 @@
+[
+  {
+    "uuid": "2b9bcd446093e467849d9690f4d0a2eb3b537496",
+    "url": "https://discuss.circleci.com/t/docker-aws-ecr-auth-with-oidc-role-doesnt-seem-to-be-working/49267",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@carlosjgp Carlos Juan Gómez Peñalver",
+    "published": "2024-11-14T16:43:00Z",
+    "title": "Docker AWS ECR auth with oidc role doesn't seem to be working",
+    "text": "I tried configuring AWS ECR pulling through OIDC but it doesn’t seem to be working\nI can see on AWS that the IAM role is not being accessed\nversion: 2.1 jobs: job_name: docker: - image: <your-image-arn> aws_auth: oidc_role_arn: <your-iam-role-arn>\nproperty oidc_role_arn is missing from the yaml spec https://json.schemastore.org/circleciconfig.json\noidc_role_arn\neven though the feature was released in May’23\nI stumbled upon the same problem.\nI ran into this problem too, and google search lead me to this post, which unfortunately did not identify any solutions.\nAfter another search, I came across this article https://support.circleci.com/hc/en-us/articles/13832176226203-Troubleshooting-OIDC-in-CircleCI\nThe article states\nThere must be at least one context present in your job before CircleCI will generate the $CIRCLE_OIDC_TOKEN environment variable.\nAfter adding a context to my job in the config file, I was able to use OIDC to pull an image from ECR.\nHi team, same here - doesn’t work.\nbut the problem is a bit another - is it possible for executor to pull private ECR image with oidc?\nWe never got this to work sadly\nWe ended up using a CCI context with hardcoded credentials\nWe had 3 contexts and this didn’t work for us\nI just checked the jsonschema and the oidc_role_arn property is now present\nMaybe it works now…? I don’t have a CCI setup to test it now though",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Health"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://json.schemastore.org/circleciconfig.json",
+      "https://www.json.schemastore.org/circleciconfig.json"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T08:11:03.252+02:00",
+    "updated": "2024-11-15T08:11:03.252+02:00"
+  },
+  {
+    "uuid": "837976ac4473cfc02b64a9040b0eba1633f1e5da",
+    "url": "https://local.newsbreak.com/total-pro-sports-313944020/3956010717898-breaking-police-respond-to-assault-in-progress-involving-miami-dolphins-wr-tyreek-hill-911-call-released",
+    "ord_in_thread": 0,
+    "author": "Alex Hoegler",
+    "published": "2025-04-09T21:24:00Z",
+    "title": "BREAKING: Police Respond To \"Assault In Progress\" Involving Miami Dolphins WR Tyreek Hill, 911 Call Released - NewsBreak",
+    "text": "Miami Dolphins wide receiver Tyreek Hill was involved in a disturbing domestic dispute with his wife, daughter and mother-in-law at their Sunny Isles Beach condo on Wednesday afternoon. According to Local 10 News, police responded to a 911 call just before 2:00 p.m. EST after being told of an “assault in progress”. Officers spoke with Tyreek, his wife, Keeta Hill, and her mother, Alesia Vaccaro. Alesia told officers that Tyreek Hill was “very aggressive and impulsive”, and expressed concern over Keeta’s safety. According to the police report, officers were called after Hill threw a laptop to the ground and perilously took his young daughter toward the balcony of the high-rise building: “Authorities said Vacarro called police after claiming that she witnessed Tyreek Hill throw a laptop on the floor, then grab his daughter and begin walking toward the balcony of their residence, following an argument with his wife. Keeta Hill told police that she and Tyreek Hill had been arguing more frequently and stated that whenever she gives her opinion on anything they discuss, “he becomes angry and throws objects around,” the report stated.” Thankfully, the baby was not harmed and is in “good health,” the police report stated. You can hear parts of the 911 call below, but a warning that it may be disturbing for some viewers: According to Local 10 News, there are no pending charges. Even though both sides maintained that it didn’t turn violent, the police report says they noticed “a light redness mark (bruise) on” Alesia’s upper left chest. When officers questioned her about it, Alesia claimed, “it probably had happened without malice when he grabbed the baby from her.” Keela also told officers that she’s filing a divorce from Tyreek Hill. The 31-year-old wide receiver left the condo with police but was not arrested, Local 10 News added. There has been no public comment from Hill or the Dolphins. In December 2014, Hill was arrested after assaulting his pregnant girlfriend, Crystal Espinal. Though he avoided prison time, Hill was given three years probation and kicked off the Oklahoma State football team, prompting him to join the West Alabama program. During the 2019 offseason, a leaked recording emerged of Hill telling his fiancée, “You should be afraid of me too, b**ch,” when she told Hill that their young son (who had suffered a broken arm) was scared of him. Last September, Miami police detained Hill while en route to the team’s season opener against the Jacksonville Jaguars. Hill was taken out of the car and handcuffed despite showing no aggression toward the officers. Two traffic citations were later dismissed, and one of the officers involved was placed on administrative leave. The post originally published on .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Crime, Law and Justice->investigation (criminal)",
+      "Crime, Law and Justice->law enforcement",
+      "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.local10.com/sports/2025/04/09/tyreek-hill-involved-in-domestic-dispute-with-wife-in-sunny-isles-beach-police-say/",
+      "https://www.totalprosports.com/nfl/police-respond-to-assault-in-progress-involving-miami-dolphins-wr-tyreek-hill-911-call-released/",
+      "https://img.particlenews.com/image.php?url=2Dqeqw_10HA4WB100",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2Dqeqw_10HA4WB100",
+      "https://www.totalprosports.com/",
+      "https://www.totalprosports.com",
+      "https://www.local10.com/sports/2025/04/09/tyreek-hill-involved-in-domestic-dispute-with-wife-in-sunny-isles-beach-police-say",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2Dqeqw_10HA4WB100",
+      "https://www.img.particlenews.com/image.php?url=2Dqeqw_10HA4WB100",
+      "https://www.totalprosports.com/nfl/police-respond-to-assault-in-progress-involving-miami-dolphins-wr-tyreek-hill-911-call-released",
+      "https://img.particlenews.com/image.php",
+      "https://totalprosports.com/nfl/police-respond-to-assault-in-progress-involving-miami-dolphins-wr-tyreek-hill-911-call-released/",
+      "https://totalprosports.com/",
+      "https://local10.com/sports/2025/04/09/tyreek-hill-involved-in-domestic-dispute-with-wife-in-sunny-isles-beach-police-say/"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Alesia Vaccaro",
+          "sentiment": "none"
+        },
+        {
+          "name": "Tyreek Hill",
+          "sentiment": "none"
+        },
+        {
+          "name": "Keeta Hill",
+          "sentiment": "none"
+        },
+        {
+          "name": "Vacarro",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Miami Dolphins",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "837976ac4473cfc02b64a9040b0eba1633f1e5da",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:38:58.462+03:00",
+    "updated": "2025-04-10T00:38:58.462+03:00"
+  },
+  {
+    "uuid": "a7f46d6414636bfa60307ec3d01e8aec88531b23",
+    "url": "https://www.nbcsportsboston.com/nba/ashley-moyer-gleich-woman-referee-nba-playoffs-2024/605188",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@NBCSBoston",
+    "published": "2024-04-18T20:24:00Z",
+    "title": "Ashley Moyer-Gleich will be 1st woman to referee NBA playoff games since 2012",
+    "text": "Ashley Moyer-Gleich checked her email just before heading to the airport on Saturday for a trip to what she thought would be her final game of the season.\nThat’s when the news came in: She has more games to do.\nMoyer-Gleich will soon become only the second woman in NBA history to referee a playoff game . She was one of 36 referees announced by the league Thursday as its referee selections for Round 1 of the playoffs starting this weekend.\n“It’s surreal,” Moyer-Gleich said. “It really is.”\nShe joins Violet Palmer as the only women picked by the NBA for a playoff assignment. Palmer worked nine playoff games between 2006 and 2012.\nMoyer-Gleich, a former Division II player at Millersville University in her native Pennsylvania, was promoted to the full-time NBA officiating ranks in November 2018. She’s worked more than 200 regular season games in her six seasons and is one of three first-time playoff selections by the league this year — Marat Kogut and J.T. Orr are the others.\n“I worked four games as an alternate last year, so obviously, my goal was I wanted to be an alternate again because that’s just sustaining the growth that I’ve had in my career,” Moyer-Gleich said. “And then to see my name on list of working floor officials … I mean, my mom was with me, she came with me on my last two games for a little trip, and to open that email and have her there with me and share that news, it was really quite amazing.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ashley moyer",
+          "sentiment": "negative"
+        },
+        {
+          "name": "gleich",
+          "sentiment": "negative"
+        },
+        {
+          "name": "moyer-gleich",
+          "sentiment": "none"
+        },
+        {
+          "name": "palmer",
+          "sentiment": "none"
+        },
+        {
+          "name": "violet palmer",
+          "sentiment": "none"
+        },
+        {
+          "name": "moyer",
+          "sentiment": "none"
+        },
+        {
+          "name": "marat kogut",
+          "sentiment": "none"
+        },
+        {
+          "name": "j.t. orr",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nba",
+          "sentiment": "negative"
+        },
+        {
+          "name": "millersville university",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "pennsylvania",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-19T00:56:29.710+03:00",
+    "updated": "2024-04-19T00:56:29.710+03:00"
+  },
+  {
+    "uuid": "940dc91bb7439758b38fc7a663d50d4fafa68d04",
+    "url": "https://www.ozbargain.com.au/node/824741",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "rosebank",
+    "published": "2024-01-05T22:37:00Z",
+    "title": "Citizen Promaster Eco-Drive Super Titanium Sapphire BN0241-59W Watch $499 Delivered @ Starbuy",
+    "text": "I think this is a great tool watch with great specs. Super Titanium, solar, sapphire, not too thick, and lug-to-lug of only 46mm, despite it being 42mm.\nCitizen Promaster Eco-Drive Super Titanium Mens Watch BN0241-59W Green dial with a 42mm case size.\nCitizen’s Promaster Land watch BN0241-59W is perfect for high-speed adventurers and has all the tools for the toughest terrain. With Eco-Drive technology, it is powered by light and never needs a battery, so you'll never need to open your caseback or compromise your next adventure again.\nFeatures of the BN0241-59W include a Super Titanium case and bracelet, luminous hour and minute hands, one- piece construction, Duratect MRK and a date function. Water resistant to 200m, the BN0241-59W includes Sapphire crystal glass, a solid case back, screw lock crown and a fold over clasp with a safety button. The case size is 42mm with a thickness of 11.9mm and a lug-to-lug size of 46mm\nCitizen Promaster BN0241-59W features the Citizen solar power E168 Japanese movement that has a 6 month power reserve once fully charged.\nRest of the sale:\nhttps://starbuy.com.au/weekend-flash-sale/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://www.starbuy.com.au/weekend-flash-sale/",
+      "https://starbuy.com.au/weekend-flash-sale",
+      "https://starbuy.com.au/weekend-flash-sale/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:44:28.937+02:00",
+    "updated": "2024-01-06T00:44:28.937+02:00"
+  },
+  {
+    "uuid": "1a40274485f9662349d18e705718b44a9c71bcbc",
+    "url": "https://www.bizzbuzz.news/State/Telangana/green-pharma-city-in-tg-very-good-initiative-1341550",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "P Madhusudhan Reddy",
+    "published": "2024-11-07T22:42:00Z",
+    "title": "Green Pharma City In TG Very Good Initiative",
+    "text": "Green Pharma City In TG Very Good Initiative It will fuel growth of pharma sector in Telangana besides benefiting the State’s economy, says Aurobindo’s Madan Mohan Reddy Green Pharma City In TG Very Good Initiative The Telangana government has taken a right decision to go for pollution-free pharma city. Therefore, pharmaceutical manufacturing units related to injectables and formulations will only come up there - M Madan Mohan Reddy, Whole-Time Director, Aurobindo Pharma Limited, tells Bizz Buzz Hyderabad: The Green Pharma City initiative taken up by the Telangana government is a very good initiative that will not only fuel the growth of the pharmaceutical sector in the State, but will also benefit the Telangana’s economy, said M Madan Mohan Reddy, Whole-Time Director, Aurobindo Pharma Limited, a city-based pharmaceutical major. “The Telangana government has taken the right decision to go for a pollution-free pharma city. Therefore, pharmaceutical manufacturing units related to injectables and formulations will only come up there. The government said it will not allow any units related to APIs (active pharmaceutical ingredients) in the project,” Madan Mohan Reddy told Bizz Buzz. Madan Mohan Reddy along with representatives from other pharma majors Dr Reddy’s, Hetero Drugs, Laurus Labs, and MSN Pharmaceuticals, took part in a review meeting convened by Telangana IT and Industries Minister Duddilla Sridhar Babu on the progress of the Green Pharma City in Hyderabad on Wednesday. “The meeting went off very well. The government is taking up the project in a professional way. The officials are very positive in their approach. Green Pharma City will benefit the State in a big way,” he said. Asked about the investment that Aurobindo will make in the Green Pharma City, he said the company would finalise its strategy soon. “Location is good and close to the city. It offers a good opportunity for any pharma company to invest. But the project is still in early stages. The government will have to finalise the layout and we will have to sign MoUs,” Reddy explained. The proposed Green Pharma City will be a part of Future City to be developed by the State government in phases, according to Minister D Sridhar Babu. During the meeting with representatives from five pharma companies, he said that infrastructure would be developed to ensure uninterrupted water and electricity supply. The government would build a 300-feet highway from Kongara Kalan to the proposed Regional Ring Road. The tendering process for the road is likely to be concluded by June next year. To support pharma industries in the park, the State government will develop logistics parks, packaging zones, and dormitories for workers at a later date. Other infrastructure related proposals include a centralised steam (hot water vapour) supply through pipelines, which would eliminate the need for individual boilers for each industry, and a dedicated water supply system, which will be directly managed by Telangana Industrial Infrastructure Corporation (TGIIC). Further, the government will soon announce industrial electricity policy. According to the official statement, the new pharma city will be ready for setting up units within a year and pharma majors will put up their manufacturing facilities in 50-acre plots initially. According to industry experts, an investment of Rs1,000 crore is required to put a pharmaceutical manufacturing facility on a 50-acre site. It is said that the Telangana government will hold more consultations with the pharma industry representatives to attract more investments into the Hyderabad Green Pharma City.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Madan Mohan Reddy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Aurobindo Pharma Limited",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T03:22:32.055+02:00",
+    "updated": "2024-11-08T03:22:32.055+02:00"
+  },
+  {
+    "uuid": "a1f0e4b152c121eecc10712f9ce09452dd05c43d",
+    "url": "https://spectrumlocalnews.com/nys/jamestown/news/2024/12/12/heavy-snow-causes-stuck-cars-in-hamburg",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Viktoria Hallikaar",
+    "published": "2024-12-12T22:30:00Z",
+    "title": "Snow leads to issues on the road in the Southtowns",
+    "text": "Heavy snow on Thursday caused some problems on the road in the Town of Hamburg.\nPolice say between 6 a.m. and 2 p.m., they received around 50 to 100 calls for stuck cars.\n“It's very frustrating for us right now that there's a travel ban in effect and we're coming in contact with a lot of people that are just completely disobeying it,” said Lt. J. Cross, Hamburg Police. “And the reason they're out for travel is not legitimate. Our workers are out here just trying to respond to a ton of backed up calls and we can't get there because of stuck vehicles left and right.”\nOne car that caused a line of backups when it got stuck in a traffic circle was a delivery for DoorDash.\nThink of hitting the roads in a travel ban? Don’t.\nTown of Hamburg Police have responded to 50-100 stuck car calls, most are people who have no legitimate reason to be out. This car was doing a DoorDash delivery. Driver didn’t know about the ban and ended up in this situation pic.twitter.com/ISwsatM8Uc\n— Viktoria Hallikäär (@ViktoriaKrista) December 12, 2024 This is the region of good neighbors, so whether it was helping dig out, or just checking on neighbors, there were plenty of helping hands.\nThat includes Michael Gugliuzza, who was making sure people were all set.\n\"You’ve just got to be prepared,\" said Gugliuzza, of Blasdell. “Snow blower ready and whatever else you got to do. Make sure you got enough food and that, but, it's not about me today. It's about the people that can't do it.”\nWe caught up with Michael Gugliuzza who’s going around checking on neighbors. For him, storms like this are just a part of living in WNY! pic.twitter.com/iHVbbFu4Oi\n— Viktoria Hallikäär (@ViktoriaKrista) December 12, 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://t.co/ISwsatM8Uc",
+      "https://t.co/iHVbbFu4Oi",
+      "https://twitter.com/ViktoriaKrista/status/1867282610071982386?ref_src=twsrc%5Etfw",
+      "https://twitter.com/ViktoriaKrista/status/1867277400503124192?ref_src=twsrc%5Etfw",
+      "https://twitter.com/ViktoriaKrista/status/1867282610071982386",
+      "https://www.t.co/iHVbbFu4Oi",
+      "https://twitter.com/ViktoriaKrista/status/1867277400503124192",
+      "https://www.twitter.com/ViktoriaKrista/status/1867282610071982386?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/ViktoriaKrista/status/1867277400503124192?ref_src=twsrc%5Etfw",
+      "https://www.t.co/ISwsatM8Uc"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T07:59:54.287+02:00",
+    "updated": "2024-12-13T07:59:54.287+02:00"
+  },
+  {
+    "uuid": "6a867c630919948b3bde091b2f12906d05d10b95",
+    "url": "https://www.wcax.com:443/2023/12/28/cher-files-conservatorship-over-son-due-alleged-substance-abuse/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TMX staff",
+    "published": "2023-12-28T18:44:00Z",
+    "title": "Cher files for conservatorship over son due to alleged substance abuse",
+    "text": "(TMX) -- Cher has filed for conservatorship of her son Elijah Blue Allman’s estate due to alleged substance abuse problems.\nThe 77-year-old music icon is seeking to be the sole conservator of her son’s estate, according to documents filed in Los Angeles. Cher claims Allman, 47, is “currently unable to manage his assets due to severe mental health and substance abuse issues.”\nThe filing says a conservator is “urgently needed” because he is due to receive a payout from his trust before the end of the year.\n“Elijah is entitled to regular distributions from the Trust, but given his ongoing mental health and substance abuse issues, [Cher] is concerned that any funds distributed to Elijah will be immediately spent on drugs, leaving Elijah with no assets to provide for himself and putting Elijah’s life at risk,” the filing states.\nAllman is Cher’s youngest child, and his father is the late musician Gregg Allman.\nAccording to the filing, Allman’s estranged wife, Marieangela King, is unfit to be conservator as “their tumultuous relationship has been marked by a cycle of drug addiction and mental health crises.”\nEarlier this year, Cher was accused of kidnapping after reports surfaced that she allegedly hired four men to retrieve Allman from a New York hotel in November 2022 as part of an intervention. King, 36, alleged Cher hired the men to stop him from reconciling with her and save their marriage.\nCher denied the reports.\nAccording to the conservatorship filing, Cher “worked tirelessly to get Elijah into treatment and get him the help he needs.”\nCopyright 2023 TMX. All rights reserved",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "elijah blue allman",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cher",
+          "sentiment": "negative"
+        },
+        {
+          "name": "gregg allman",
+          "sentiment": "none"
+        },
+        {
+          "name": "marieangela king",
+          "sentiment": "none"
+        },
+        {
+          "name": "allman",
+          "sentiment": "none"
+        },
+        {
+          "name": "elijah",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "los angeles",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:10:07.714+02:00",
+    "updated": "2023-12-29T00:10:07.714+02:00"
+  },
+  {
+    "uuid": "73740755085623bced98f361fa7fdb224641265d",
+    "url": "https://themedialine.org/headlines/wreath-laid-in-budapest-in-honor-of-heroic-paratrooper-hannah-szenes",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Veronica Neifakh",
+    "published": "2024-05-03T14:04:00Z",
+    "title": "Wreath Laid in Budapest in Honor of Heroic Paratrooper Hannah Szenes",
+    "text": "A wreath was laid in Budapest, Hungary’s capital, on Friday to honor Hannah Szenes, the courageous paratrooper who embarked on a perilous mission during World War II and tragically did not return. The ceremony was a poignant reminder of Szenes’ bravery. Szenes, celebrated for her heroism and sacrifice, undertook a mission to assist Allied forces in Europe and aid Jewish communities suffering under Nazi oppression. Although captured, tortured, and executed at just 23 years old, her legacy lives on, particularly in Israel, where she is revered as a national hero. Rakefet Senesh-Shkiler, her great-grandniece, addressed a group of journalists, sharing the story of Szenes’ courage and sacrifice. She highlighted the importance of remembering Szenes’ plight and spoke of the October 7 attack on southern Israel, which deeply impacted her and the nation. Senesh-Shkiler drew parallels between the resilience and strength of her great-aunt and the spirit needed to overcome the challenges faced today.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "hannah szenes wreath laid",
+          "sentiment": "negative"
+        },
+        {
+          "name": "hannah szenes",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "budapest",
+          "sentiment": "none"
+        },
+        {
+          "name": "hungary",
+          "sentiment": "none"
+        },
+        {
+          "name": "europe",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-03T18:42:13.814+03:00",
+    "updated": "2024-05-03T19:59:01.641+03:00"
+  }
+]

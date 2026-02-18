@@ -1,0 +1,435 @@
+[
+  {
+    "uuid": "e62d98aceae03e1bc6b7f8c0f8822fefba7b0343",
+    "url": "https://www.hamhigh.co.uk/news/national/24016224.man-killed-car-driven-crowd-good-samaritan-helping-stranger/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PA News Agency",
+    "published": "2023-12-28T20:02:00Z",
+    "title": "Man killed by car driven into crowd was ‘Good Samaritan’ helping a stranger | Ham & High",
+    "text": "A father-of-two who died after a car ploughed in a crowd of people during disturbance was a Good Samaritan who was trying to help a stranger, police have said. On Thursday night, South Yorkshire Police named the 46-year-old man who died in the incident in College Close, in the Burngreave area of Sheffield, as Christian Marriott. The force said Mr Marriott, who was known as Chris, was out for a post-Christmas walk with his wife and two young sons, aged eight and six, when he went to the aid of a woman he spotted lying unconscious in the street just after 2pm on Wednesday. Officers believe he left his family and stopped to provide first aid to the woman, before a car then collided with them both and a number of others. It is believed the woman had been involved in an altercation and several other people suffered injuries during the incident, including an off-duty midwife who had also stopped to help. Detective Chief Inspector Andrew Knowles said: “This is an utterly heartbreaking case in which a Good Samaritan, who had stepped in to help a stranger in their time of need, has lost his life. “Chris leaves behind a loving family including his devastated wife and two young sons. We are absolutely determined to secure justice for Chris and his loved ones following this horrific tragedy.” Two men arrested in connection with the incident – one on suspicion of murder – remain in custody, the force said. Burngreave residents said the incident happened outside a house at the junction of College Close and College Court – two quiet cul-de-sacs of modern houses near Sheffield’s Northern General Hospital. Police had already been called to a violent disturbance in the street when the car ploughed into those gathered outside. Neighbours said the altercation was related to some kind of dispute between two families. Mr Knowles said: “Increased patrols will continue in the area in the coming days and local people will continue to see officers carrying out inquiries, including going house to house to gather witness statements. “There are people in that community who hold information which is vital to our investigation and have not yet given statements. “I want to be able to get to the bottom of what happened for Chris and his family. I need those people with information to do the right thing. If you don’t want to talk to us directly, you can use Crimestoppers and remain 100% anonymous.” A 23-year-old man was arrested on suspicion of murder and a 55-year-old man was arrested on suspicion of attempted murder. Both remained in custody on Thursday night. A police spokeswoman said the woman Mr Marriott was helping remains in hospital in a life-threatening condition. She said the off-duty midwife suffered minor injuries, another man received serious injuries which are not believed to be life-threatening and four further people – three women and a man – suffered minor injuries. Tarek Nayli, 49, said he came out of his nearby home to see fighting in the street, a number of injured people and neighbours telling him there were others trapped under a car. Mr Nayli said: “I heard a lot of sound, a lot of voices, a lot of shouting. “When I came out, I found people all gathering around and people fighting. “One guy had a lot of blood on his face.” Mr Nayli said the car involved was already there by the time he became aware of the incident and the police arrived two minutes after he did. He said: “I saw people fighting on that corner before the police came and the car was already there. “The whole neighbourhood was out.” He said: “They said there were people underneath the car and when the police came they managed to get them out. “When the police came, they flipped the car over and they’ve taken two people out.” Mr Nayli said one injured man was already sitting beside the car and a woman was also clearly hurt. Asked about the fighting he saw, he said: “I didn’t see any weapons but there was a lot of hitting and one guy had a stick.” Mr Nayli said he only found out later that someone had died. He said: “It was very, very sad and also very upsetting and I couldn’t believe it. “All of a sudden you find people dead and a very big crime. This is a disaster.” On Thursday morning, police continued to guard an extensive cordon around the close, which about a mile and a half from the city centre. The cordon was dropped later in the day as forensic officers and detectives continued their inquiries in the small semi-detached property.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sam",
+          "sentiment": "negative"
+        },
+        {
+          "name": "chris",
+          "sentiment": "none"
+        },
+        {
+          "name": "andrew knowles",
+          "sentiment": "none"
+        },
+        {
+          "name": "marriott",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "south yorkshire police",
+          "sentiment": "none"
+        },
+        {
+          "name": "christian marriott",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "burngreave",
+          "sentiment": "none"
+        },
+        {
+          "name": "sheffield",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:12:02.752+02:00",
+    "updated": "2023-12-29T00:12:02.752+02:00"
+  },
+  {
+    "uuid": "ff731e2af111045a3d0a5b30d0cceef3ba871b27",
+    "url": "https://linuxiac.com/fish-shell-4-is-here-entirely-rewritten-in-rust",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bobby Borisov",
+    "published": "2025-02-27T23:32:10Z",
+    "title": "Fish Shell 4 Is Here Entirely Rewritten in Rust",
+    "text": "The much-loved Fish Shell project has just unveiled Fish 4, a significant update introducing major behind-the-scenes improvements and new user-facing features.\nWithout further ado, here’s the star of the show – Rust! Yes, that’s right: Fish 4 has been entirely rewritten in Rust . However, from an everyday user’s perspective, the transition should remain virtually invisible: the commands, settings, and typical interactions are intended to be unchanged.\nMoving on to what you will notice, Fish has introduced an updated bind notation system and deeper terminal compatibility. You can now replace opaque sequences with friendlier, intuitive commands such as bind ctrl-right . Thanks to “ modifyOtherKey ” and the Kitty keyboard protocol, Fish can distinguish control sequences that previously seemed identical.\nAnother highlight in Fish 4 is tighter integration with terminal capabilities. For example, Fish now automatically employs OSC 133 sequences for prompts and command output, promoting smoother synchronization with various terminals that once relied on add-on “shell integration” scripts.\nIn addition, Fish 4 standardizes cursor changes in vi-mode across most terminals, no longer relying on environment-specific detection, which often falls short.\nNotably, the shell now handles long command lines more gracefully, scrolling instead of misrendering them. Plus, any edits triggered by command-line bindings are immediately visible, offering a more intuitive scripting and interactive experience.\nFish Shell 4 Speaking of enhancements to interactive use, the ctrl-r history pager—first introduced in Fish 3.6—has been refined. You can now rely on glob syntax to filter history entries more precisely. Even better, this search applies strictly to the current command, letting you build more complex, multi-line history reconstructions without rummaging through entire scripts.\nThe default theme has also seen a small but meaningful tweak: commands now appear in the terminal’s “normal” color instead of the somewhat hard-to-read “blue.” Existing users will retain their current settings unless they manually reload the theme via fish_config .\nThe new self-installable build feature might be a game-changer for users who frequently SSH into servers without administrative privileges. After compiling Fish, you can run a single, self-contained binary that directly extracts everything necessary—functions, man pages, and even the web configuration tool—to your home directory.\nIn other words, this makes it easier than ever to run Fish on environments where a package manager is unavailable (or you don’t have permission to use it). Pre-built versions are available for major platforms like x86_64 and aarch64 Linux on the project’s GitHub Releases page . Other platforms are supported, too, though you may need to compile your own builds.\nAnother long-requested feature, the ability to exclude certain commands from history, is finally here. By defining a custom function called fish_should_add_to_history , you can decide exactly which commands get retained. Any command flagged for exclusion remains in a temporary spot, so you can still press the up arrow to repeat it immediately, but once you run something else, it’s erased.\nFor scripting enthusiasts, Fish 4 delivers a lot of improvements, with the main ones being:\nstring match now supports a --max-matches option, allowing you to limit the number of matches processed. for loops will no longer remember local variables from the previous iteration. set gains a --no-event option to suppress variable change events (particularly useful in event handlers). time begins measuring earlier, capturing the duration of any command substitutions that occur before executing a command. complete --erase fully disables autoloading completions for specified commands, aligning with functions --erase . For more information on all novelties in Fish Shell 4, see the release announcement .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Lifestyle and Leisure->trend"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://github.com/fish-shell/fish-shell/releases/tag/4.0.0",
+      "https://fishshell.com/blog/new-in-40/",
+      "https://fishshell.com/blog/new-in-40",
+      "https://www.fishshell.com/blog/new-in-40/",
+      "https://www.github.com/fish-shell/fish-shell/releases/tag/4.0.0"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T01:32:10.006+02:00",
+    "updated": "2025-02-28T06:23:29.786+02:00"
+  },
+  {
+    "uuid": "65ce8eddd9abed8f2d68009e3c089015ef21cfec",
+    "url": "https://www.eltiempo.com/cultura/gente/cientificos-chinos-realizaron-el-primer-trasplante-de-higado-de-cerdo-modificado-geneticamente-a-un-humano-3441049",
+    "ord_in_thread": 0,
+    "author": "Sofia Arias Martinez",
+    "published": "2025-04-02T21:31:00Z",
+    "title": "Científicos chinos realizaron el primer trasplante de hígado de cerdo modificado genéticamente a un humano",
+    "text": "Explicativo\nCientíficos chinos realizaron el primer trasplante de hígado de cerdo modificado genéticamente a un humano\nEl flujo sanguíneo hacia el hígado de cerdo fue bueno y no presentó señales de rechazo inmunológico.\nEquipo chino trasplanta con éxito riñón genéticamente modificado de cerdo a cuerpo humano).\nAsí se logró histórico primer trasplante de riñón en Hospital Universitario del Valle).\n¿Cuál es la importancia del hígado?\nLa segunda vida después del trasplante de corazón\nMás noticias en EL TIEMPO\nColombiano en India reveló detalle sorprendente del metro: lo han comparado con las estaciones de TransMilenio\nMédico explica qué ocurre cuando se consume vitamina D y magnesio al tiempo: 'Su efecto no es a nivel de absorción'\nSigue toda la información de Cultura en Facebook y X, o en nuestra newsletter semanal.\nConforme a los criterios de\nSaber más\nBOLETINES EL TIEMPO\nRegístrate en nuestros boletines y recibe noticias en tu correo según tus intereses. Mantente informado con lo que realmente te importa.\nEL TIEMPO GOOGLE NEWS\nSíguenos en GOOGLE NEWS. Mantente siempre actualizado con las últimas noticias, coberturas, historias y análisis directamente en Google News.\nEL TIEMPO WHATSAPP\nÚnete al canal de El Tiempo en WhatsApp para estar al día con las noticias más relevantes al momento.\nEL TIEMPO: APP\nMantente informado con la app de EL TIEMPO. Recibe las últimas noticias, coberturas, historias y análisis directamente en tu dispositivo.\nSUSCRÍBETE AL DIGITAL\nInformación confiable para ti. Suscríbete a EL TIEMPO y consulta de forma ilimitada nuestros contenidos periodísticos.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Health->surgery",
+      "Science and Technology->medical research",
+      "Science and Technology->biomedical science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/eltiempo",
+      "https://www.facebook.com/eltiempo",
+      "https://www.twitter.com/eltiempo",
+      "https://facebook.com/eltiempo"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Hospital Universitario del Valle",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "EL TIEMPO\nColombiano",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "India",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "TransMilenio",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "D",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Cultura",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Facebook",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "X",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Saber más\nBOLETINES",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Síguenos",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Google News",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "canal de El Tiempo",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "SUSCRÍBETE AL DIGITAL\nInformación confiable para ti",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Suscríbete a EL TIEMPO",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Equipo",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Mantente",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "GOOGLE",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T00:45:15.433+03:00",
+    "updated": "2025-04-03T00:45:15.433+03:00"
+  },
+  {
+    "uuid": "4e207ce0c91e947fc1f019a56c58debdadffe6b2",
+    "url": "https://www.europapress.es/andalucia/almeria-00350/noticia-crespoel-votar-pp-acabar-episodio-mas-negro-democracia-muros-levanta-sanchez-20240606225314.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Europa Press",
+    "published": "2024-06-06T20:53:00Z",
+    "title": "Crespo:\"El 9-J a votar al PP para acabar con el episodio más negro de la Democracia y los muros que levanta Sánchez\"",
+    "text": "ADRA (ALMERÍA), 6 Jun. (EUROPA PRESS) -\nLa candidata número 2 del PP al Parlamento Europeo, Carmen Crespo, ha pedido este jueves en su municipio, Adra, a sus vecinos, el voto al PP el próximo domingo, un voto que según ha explicado representa la \"ilusión y la esperanza\" frente al \"castigo permanente\" del Gobierno de Sánchez a la provincia de Almería.\nCrespo se ha comprometido con sus vecinos a defender las políticas hídricas en Europa, a defender la agricultura, la pesca y a luchar por los intereses de nuestros sectores productivos en Bruselas, algo que lamentablemente no ocurre actualmente, por ello ha animado a \"concentrar el voto en el PP para tener un partido fuerte en Europa\".\n\"Nosotros somos europeístas convencidos, pero el problema es que los que hacen las leyes allí no conocen nuestra tierra, por eso, a partir del 9-J me comprometo a hacerlo, a luchar por los intereses de nuestra provincia y a que todos los europeos conozcan que desde Almería exportamos los mejores productos, sostenibles y saludables, y que además se genera empleo y riqueza en una tierra en la que aprovechamos cada gota de agua\", ha afirmado.\nLa candidata popular ha asegurado que el domingo tenemos también la oportunidad de decir claro en las urnas que avalamos las políticas que Juanma Moreno está llevando a cabo en Andalucía, una tierra que se ha transformado en sólo cinco años y que ha dejado de estar en el vagón de cola para ser locomotora.\n\"Hoy en Andalucía se crea empleo, se apuesta por las infraestructuras hídricas, por las mujeres, por los jóvenes, por nuestros sectores productivos, y por eso os animo a votar al PP, el único partido que va a defender los intereses de todos los almerienses, andaluces y españoles como hemos demostrado cada vez que gobernamos\", ha asegurado.\nAdemás, ha lamentado que \"España esté viviendo el episodio más negro de la Democracia con un presidente que no defiende a los españoles, que solo vela por sus intereses, que levanta muros y que plantea divisiones. El domingo le vamos a decir en las urnas que no estamos de acuerdo con sus políticas y que el PP es el partido de la esperanza, la ilusión y el que defiende a los almerienses\".\nCarmen Crespo ha exigido a Sánchez más explicaciones y menos ataques, más explicaciones y menos discursos antisistema, y más explicaciones y menos cartas porque según ha dicho \"queremos un país digno y no nos merecemos unos gobernantes que no defienden España\".\n\"España es un país de trabajadores. Tenemos que defender la Democracia y votar por una Europa que defienda la libertad y acabe con la ley de amnistía. Tenemos que cambiar nuestro país, nos merecemos al mejor presidente para el mejor país del mundo y que no que nos engañen y aludan a la división como ocurre ahora con el populismo. Por eso os pido el voto para el Partido Popular\", ha concluido.\nANA VÁZQUEZ, JAVIER A. GARCÍA, CARLOS ROJAS Y MANUEL CORTÉS Por su parte, la diputada nacional, Ana Vázquez, ha afirmado que \"el domingo tenemos una oportunidad única de decir no a la amnistía, a la desigualdad, a la subida de impuestos, a ser el país con más paro femenino, con más paro juvenil, con más desigualdades, no a ser el país que va a amnistiar el lunes a delincuentes y criminales\".\nFrente a todo esto, Vázquez ha dejado claro que hay otra España, \"la que va a defender Carmen Crespo con su voz potente en Europa, una voz que nos va a dar esperanza, futuro y ganas de seguir luchando por un país que están llenando de fango y no se lo vamos a permitir\".\nPor último, se ha dirigido a Sánchez y a Marlaska y les ha exigido que pidan disculpas por haber enviado a los guardias civiles en un flotador a la muerte en Barbate; por haber abandonado a los guardias civiles en la frontera de Melilla; que pidan disculpas a las víctimas del terrorismo por haber acercado a los presos de ETA; que pidan disculpas por abandonar a los policías y guardias civiles en Cataluña; y que por respeto se vayan, porque Marlaska no es el más apropiado para hablar de injerencias judiciales cuando ha sido condenado precisamente por el cese arbitrario del coronel Pérez de los Cobos por no darle la filtración de un informe de la policía judicial\".\nEl presidente del PP de Almería ha animado a los abderitanos a movilizarse e ir a votar el próximo domingo porque según ha explicado \"no estamos ante unas elecciones cualquiera, sino que son unas elecciones en las que elegimos el modelo que queremos para Europa, y el PP es el único que va a llevar las políticas de agua a Bruselas con una interlocutora que conoce nuestros problemas, inquietudes y anhelos como es Carmen Crespo\".\nGarcía Molina ha señalado que no podemos desaprovechar la oportunidad de oro de conseguir a partir del 9-J que Europa siga las recetas con las que Juanma Moreno ha transformado Andalucía.\n\"El único partido que va a defender a los almerienses, a nuestro campo, el agua o la pesca se llama PP, con Carmen Crespo, una número 2 al Parlamento Europeo que va a lograr que Almería sea la número 1. El domingo nos jugamos avanzar con el PP o retroceder con las izquierdas, por eso os pido que votéis por el mejor proyecto, el que va a defender nuestra provincia, que votéis por el Partido Popular\", ha señalado.\nCarlos Rojas, portavoz de Defensa del PP en el Congreso, ha señalado que el reto del PP es que la voz de Carmen Crespo sea la voz de todos los españoles en España.\n\"Nos jugamos el futuro de España, de Andalucía, de Adra y la respuesta la tenemos que dar el domingo en las urnas y decirle a Pedro Sánchez que así no se gobierna porque se nos falta el respeto día a día. Por ello, os pido que desalojemos del gobierno a quienes tanto daño están haciendo a España\", ha señalado.\nEl alcalde de Adra, Manuel Cortés, ha destacado la importancia de las elecciones europeas para Adra, ya que su resultado \"influye directamente en nuestra ciudad y en su futuro\" recordado \"importantísimos proyectos\", cofinanciados con fondos europeos y desarrollados en los últimos cuatro años y que \"han transformado nuestra ciudad\". \"Europa y Adra tienen que estar alineadas para conseguir un efecto multiplicador\", ha insistido.\nPor ello, se ha dirigido a sus vecinos y vecinas recordándoles que deben asistir a las urnas y \"votar por un partido que atienda a nuestros intereses\" y en ese sentido, ha subrayado que \"nadie mejor que Carmen Crespo para que sea nuestra voz en Bruselas. La voz de la agricultura y los agricultores, de la pesca y los pescadores. Quien luche por el agua, un bien tan necesario como escaso. Y con la que podremos seguir haciendo crecer nuestra ciudad en infraestructuras y servicios\", pidiendo así el voto y la confianza en el Partido Popular.\nLeer más acerca de: PP Parlamento Europeo Andalucía Política Almería",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-07T00:24:35.375+03:00",
+    "updated": "2024-06-07T00:24:35.375+03:00"
+  },
+  {
+    "uuid": "29c02abf53c3551231037dd26c85c12ec9b17992",
+    "url": "http://business.bigspringherald.com/bigspringherald/article/lawfirmnewswire-2024-3-14-littman-krooks-proudly-supports-and-congratulates-nami-westchesters-40th-anniversary-find-help-find-hope-gala",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Law Firm Newswire",
+    "published": "2024-03-14T00:00:00Z",
+    "title": "Littman Krooks Proudly Supports and Congratulates NAMI Westchester’s 40th Anniversary Find Help Find Hope Gala | User | bigspringherald.com",
+    "text": "Westchester County, New York – As an In Our Own Voice Sponsor of NAMI Westchester’s 40th Anniversary Find Help Find Hope Gala, Littman Krooks is proud to demonstrate its commitment to supporting mental health and advocating for the rights of those with mental illness. We also extend our gratitude and congratulations to NAMI for their incredible milestone and continued work in the Westchester community.\n“The work of NAMI Westchester is more critical than ever,” says Marion M. Walsh, a partner of Littman Krooks LLP who currently serves as President of the Board of Directors of NAMI Westchester. “We applaud the work of NAMI Westchester, she adds, as our work at Littman Krooks is aligned to their mission in helping individuals and families whose lives are affected by mental illness,” she adds.\nHere are some of the reasons we sponsor NAMI:\nNAMI Westchester works to end the pervasive stigma that society perpetuates toward individuals with mental health disorders, through programs such as In Our Own Voice. This program spreads the message of hope and recovery through presentations by leaders with lived experience to show that individuals with mental health challenges can lead fulfilling lives. At Littman Krooks, we work to help families ensure that their loved ones have the right legal protections, services and public benefits, educational and community services. Through their outreach programs, NAMI Westchester educates the community on mental health and suicide prevention. For example, the Ending the Silence program for young people is critical to educate on mental health and suicide prevention, for young people. We applaud NAMI Westchester’s commitment to build a community of hope through their HelpLine , support groups and educational classes, which help families create support systems. At Littman Krooks, we work to help families navigate services and to obtain appropriate public benefits, and we advocate for changes in legislation. The people who volunteer with NAMI Westchester are hopeful, bright and sensitive and we love being a partner and supporting this work. So many of these volunteers share their dedication each day and it is an honor to be part of this work. “We are proud to support NAMI and their mission to eradicate the stigma associated with mental illness,” said Bernard A. Krooks, founding partner of Littman Krooks . “We believe that everyone deserves access to quality mental health care, and we are committed to doing our part to make that a reality.”\nFor more information about NAMI Westchester and its programs, please visit https://namiwestchester.org .\nLittman Krooks provides sophisticated legal advice and the high-level of expertise ordinarily associated with large law firms along with the personal attention and responsiveness of smaller firms. They offer services in several areas of law, including elder law, estate planning, special needs planning, special education advocacy, and corporate and securities. Their offices are located at 800 Westchester Ave, Rye Brook, NY, and 1325 Avenue of the Americas, New York, NY. Contact us at https://www.littmankrooks.com/contact/ .\nLittman Krooks\n800 Westchester Ave S-436 Rye Brook, NY 10573\n(914) 684-2100\nhttps://www.littmankrooks.com/\nPress Contact : Littman Krooks\nDistributed by Law Firm Newswire Data & News supplied by www.cloudquote.io\nStock quotes supplied by Barchart\nQuotes delayed at least 20 minutes.\nBy accessing this page, you agree to the following\nPrivacy Policy and Terms and Conditions .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.littmankrooks.com/contact/",
+      "https://namiwestchester.org",
+      "https://tracking.newsrpm.com/pixel?slug=lawfirmnewswire-2024-3-14-littman-krooks-proudly-supports-and-congratulates-nami-westchesters-40th-anniversary-find-help-find-hope-gala",
+      "https://www.cloudquote.io",
+      "https://www.littmankrooks.com/",
+      "https://www.littmankrooks.com/attorneys/bernard-a-krooks/",
+      "https://www.googletagmanager.com/gtag/js?id=UA-8590502-3",
+      "https://namiwestchester.org/",
+      "https://www.cloudquote.io/article/5",
+      "https://www.cloudquote.io/article/6",
+      "https://lawfirmnewswire.com/",
+      "https://www.littmankrooks.com/attorneys/marion-w-walsh/",
+      "https://cloudquote.io/article/5",
+      "https://www.googletagmanager.com/gtag/js",
+      "https://namiwestchester.org",
+      "https://littmankrooks.com/attorneys/bernard-a-krooks/",
+      "https://cloudquote.io/article/6",
+      "https://www.littmankrooks.com/attorneys/marion-w-walsh",
+      "https://tracking.newsrpm.com/pixel",
+      "https://littmankrooks.com/",
+      "https://www.littmankrooks.com",
+      "https://googletagmanager.com/gtag/js?id=UA-8590502-3",
+      "https://littmankrooks.com/attorneys/marion-w-walsh/",
+      "https://www.namiwestchester.org/",
+      "https://cloudquote.io",
+      "https://www.lawfirmnewswire.com/",
+      "https://www.namiwestchester.org",
+      "https://www.tracking.newsrpm.com/pixel?slug=lawfirmnewswire-2024-3-14-littman-krooks-proudly-supports-and-congratulates-nami-westchesters-40th-anniversary-find-help-find-hope-gala",
+      "https://littmankrooks.com/contact/",
+      "https://www.littmankrooks.com/attorneys/bernard-a-krooks",
+      "https://lawfirmnewswire.com",
+      "https://www.littmankrooks.com/contact"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "littman krooks",
+          "sentiment": "negative"
+        },
+        {
+          "name": "marion m. walsh",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "congratulates nami westchester",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nami westchester",
+          "sentiment": "negative"
+        },
+        {
+          "name": "littman krooks",
+          "sentiment": "none"
+        },
+        {
+          "name": "nami",
+          "sentiment": "none"
+        },
+        {
+          "name": "littman krooks llp",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "westchester county",
+          "sentiment": "none"
+        },
+        {
+          "name": "westchester",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-15T00:15:15.567+02:00",
+    "updated": "2024-03-15T00:15:15.567+02:00"
+  },
+  {
+    "uuid": "5350da9e2a7a59361c2815e079f977a1a157b341",
+    "url": "https://www.touchtapplay.com/jupiter-florida-codes/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andrija Bulatović",
+    "published": "2024-01-15T07:31:00Z",
+    "title": "Jupiter Florida Codes (January 2024)",
+    "text": "Updated January 15, 2024\nWe added a new code!\nI was not really ready to let go of summer, so I decided to visit Jupiter, FL, and extend my time soaking up the sun and enjoying the beach for a few more days—unfortunately, in a Roblox game only. Roblox Jupiter, Florida provides just what you need if you’re feeling the post-holiday blues—relaxation, exploration, and cool cars and boats for countless adventures.\nAs you progress in the game, you can buy a better house, supercars, and luxury vessels. But to afford all that, you will need some Jupiter, Florida Codes. They will give you the necessary cash for everything you want in this small and exciting universe. And if you want more Roblox games with pretty landscapes, try\nYellowstone Unleashed because we have some codes for that experience too.\nAll Jupiter Florida Codes List\nWorking Jupiter Florida Codes\n- NewUi—Redeem for 20K Cash (For group members only) (New)\n- HappyNewYear—Redeem for 75k Cash (New)\n- HaveAnAmazingChristmas—Redeem for 75k Cash (New)\n- RaceMe—Redeem for Cash (New)\n- NewShop—Redeem for 50k Cash\n- NewUpdate—Redeem for 42,5k cash (For group members only)\n- JupiterFlorida—Redeem 75k code (For group members only)\nExpired Jupiter Florida Codes\n- CODES—Redeem code for 20k cash\n- RESET—Redeem code for 10k cash\n- SorryForReset—Redeem code for 35k cash\n- SorryForBugs—Redeem code for 20k cash\n- KamPlays—Redeem code for 5k cash\nRelated:\n[Roblox Vehicle Legends Codes]\nHow to redeem codes in Jupiter Florida\nRedeeming codes in\nJupiter, Florida is a simple procedure. For those who are new to the game, here are the steps to follow for free rewards:\n- Launch Roblox Jupiter, Florida.\n- Hit the Twitter button in the upper-right corner.\n- Copy and paste the code you want to redeem into the Enter Code box.\n- Click on the green Redeem! button to claim your free rewards.\nHow can you get more codes in Jupiter Florida?\nIf you’re on the hunt for more information about Jupiter, Florida, we recommend following\nthe official Palm Beach Studios Discord server for news and events. When it comes to in-game tips, the official YouTube channel ( @PalmBeachStudios) can be useful. Also, joining the official Palm Beach Studios Roblox group can provide early access, teasers, and more. In any case, we recommend bookmarking this article (CTRL+D) and coming back from time to time as we collect all the working codes and put them in one place for your convenience.\nWhy are my Jupiter Florida codes not working?\nCodes for Roblox games can be complex, so pay attention when entering them manually. Some codes are case-sensitive and can include unrelated letters and numbers, which easily leads to typos. Because of that, we recommend copying and pasting codes directly into the game from the list above.\nOn top of that, there is a chance that you occasionally run into inactive codes even in our Working list since developers often don’t specify the end dates for their codes. If that’s the case, please let us know in the comments section, and we will investigate.\nHow to get more free rewards in Jupiter Florida\nHow can you get more cash in Jupiter, Florida? Get a job! Yes, it’s that simple. Jokes aside, for more money in this Roblox game, you have to click on the briefcase icon and select a job, which will provide you with payments and fill your promotion bar. When the promotion bar is full, you’ll get even more cash every time you click on it.\nWhat is Jupiter Florida?\nJupiter Florida is a unique and relaxing Roblox game in which you can enjoy sunny Florida while exploring beaches, building your dream home, and discovering the wonders of the Sunshine State. You can go on exciting adventures by boat and team up with other players on the server to party or cruise around town in brand-new expensive cars of your dreams—the choice is yours!\nAre you a devoted Roblox fan? If so, don’t skip\nour dedicated Codes section for more valuable gifts in other Roblox experiences!\n ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://youtube.com/channel/UCtMRrWTf_fWuTmfFt8WZGEQ",
+      "https://www.roblox.com/games/13415640045/BOATS-CARS-Jupiter-Florida-BETA#!/game-instances",
+      "https://discord.com/invite/pbstudios",
+      "https://www.youtube.com/channel/UCtMRrWTf_fWuTmfFt8WZGEQ",
+      "https://roblox.com/games/13415640045/BOATS-CARS-Jupiter-Florida-BETA#!/game-instances",
+      "https://www.roblox.com/groups/17028435/Official-Palm-Beach-Studios#!/about",
+      "https://roblox.com/groups/17028435/Official-Palm-Beach-Studios#!/about",
+      "https://www.discord.com/invite/pbstudios"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "yellowstone",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "jupiter florida",
+          "sentiment": "none"
+        },
+        {
+          "name": "jupiter",
+          "sentiment": "none"
+        },
+        {
+          "name": "roblox jupiter",
+          "sentiment": "none"
+        },
+        {
+          "name": "fl",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-15T10:55:13.895+02:00",
+    "updated": "2024-01-15T10:55:13.895+02:00"
+  }
+]

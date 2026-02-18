@@ -1,0 +1,304 @@
+[
+  {
+    "uuid": "e9f43af1e6d3fbbedcd5fe37893b65e0685d248f",
+    "url": "https://www.socialsamosa.com/news-2/apple-denies-siri-data-advertising-8607070",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Social Samosa",
+    "published": "2025-01-10T08:14:00Z",
+    "title": "Apple denies using Siri data for advertising amid privacy concerns",
+    "text": "Apple has denied claims that it allows advertisers to target users based on Siri recordings, issuing a statement on Wednesday explaining how Siri manages user data. According to Apple, Siri data has never been used to create marketing profiles, sold to third parties, or made available for advertising. The company emphasised its ongoing efforts to enhance Siri&#x27;s privacy protections. The rumors resurfaced following Apple&quot;s agreement to a $95 million settlement related to a lawsuit about Siri recording conversations that were potentially overheard by human reviewers. The settlement stems from a 2019 report by The Guardian, which revealed that Apple contractors analysed anonymised Siri recordings to determine whether the voice assistant was activated intentionally. Some of these recordings included sensitive discussions. Apple apologised after the report and updated its policies, opting not to retain audio recordings by default and limiting access to data for users who opted in. Despite Apple&quot;s assurances, some plaintiffs in earlier lawsuits alleged they received ads for brands they had only mentioned in conversations, raising concerns about data use. In response, Apple reiterated that audio recordings are retained only if users explicitly opt-in and are solely used for improving Siri. Users can opt out of this feature at any time. Theories about tech companies using voice recordings for ad targeting have also implicated companies like Facebook and Google. Investigations, including one in 2018, found no evidence of microphone-based spying but revealed that some apps recorded user activity and shared it with third parties. Advertisers also leverage other sources of data, such as location tracking, shared network activity, and purchasing habits, to create targeted ads, which could explain coincidental ad appearances.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->social sciences",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->corporate governance and csr",
+      "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Siri",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Apple",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T10:23:10.993+02:00",
+    "updated": "2025-01-10T10:23:10.993+02:00"
+  },
+  {
+    "uuid": "8b60236f75a359b3a99f764531887c771e682949",
+    "url": "https://health.economictimes.indiatimes.com/news/industry/delhi-zoo-implements-ayurvedic-methods-to-safeguard-animals-during-monsoon/111516860",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "www.ETHealthworld.com",
+    "published": "2024-07-05T13:01:00Z",
+    "title": "Delhi Zoo implements ayurvedic methods to safeguard animals during monsoon, ET HealthWorld",
+    "text": "New Delhi: Delhi Zoo authorities are using ayurvedic methods, including neem oil, turmeric and quicklime, to keep the animals healthy and free from bacterial and viral infections during the rainy season. As the monsoon season sets in, Delhi Zoo is taking innovative steps to ensure the health and safety of its animals by incorporating traditional ayurvedic methods. \\\"The monsoon has entered the capital and we have to take all necessary measures to keep the animals healthy and safe during this season. We will use some Indian home remedies like neem oil, which will help protect the animals from common biting insects, including mosquitoes, biting midges and fleas,\\\" Delhi Zoo Director Sanjeet Kumar told PTI. Neem oil acts as an herbal disinfectant and fly repellent, said Kumar, turmeric, known for its anti-inflammatory and healing properties, will be used to treat itchy skin conditions, infections and wounds. Turmeric dust will be applied to lesions and foot sores to expedite healing, he said. Heavy rains often lead to waterlogging in certain parts of the zoo which create breeding grounds for mosquitoes. To counter this, quicklime (chuna) will be sprinkled in these areas to prevent mosquito proliferation. \\\"We are using quicklime in waterlogged spots to stop the growth of mosquitoes and keep our animals safe,\\\" the official said. After the heavy rains that lashed the national capital on Friday, recording 228.1 mm of rainfall in just 24 hours - the highest in June since 1936 - the Delhi Zoo was also affected. A power failure occurred when floodwaters breached the zoo's boundary wall from the Sundernagar side, inundating the substation area and causing damage to the transformer. This incident affected animal enclosures, administrative offices and staff quarters. Referring to this situation, Kumar said that measures have been taken to prevent a recurrence. \\\"The broken boundary is being repaired and barriers are being installed to prevent water backflow, ensuring water does not reach the animal enclosures,\\\" he said. Additional measures include providing elevated platforms in areas prone to water accumulation, ensuring animals have dry spots to rest. \\\"The director also mentioned that we will purchase an additional generator dedicated to essential uses such as gate operation, Wi-Fi, control room, CCTV operations and animal enclosures for water pumping during rainy periods when electricity is cut off,\\\" said Kumar. The official also said that Delhi Zoo presently has two generators: one for the animal hospital and another for operational needs throughout the facility, with the third generator to be allocated accordingly. He emphasised the importance of preparing for rain-related health issues by stocking necessary medicines. The National Zoological Park, also known as Delhi Zoo, is situated in a 176-acre area under the central government's jurisdiction.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kumar",
+          "sentiment": "none"
+        },
+        {
+          "name": "sanjeet kumar",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "delhi zoo",
+          "sentiment": "negative"
+        },
+        {
+          "name": "pti",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new delhi",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T16:03:28.657+03:00",
+    "updated": "2024-07-05T16:03:28.657+03:00"
+  },
+  {
+    "uuid": "dadaed795c6b018ba5cfb6aae64f079da9d27376",
+    "url": "https://istoe.com.br/arsenal-perde-em-casa-para-west-ham-e-liverpool-e-lider-do-ingles/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "admin3",
+    "published": "2023-12-28T22:50:00Z",
+    "title": "Arsenal perde em casa para West Ham, e Liverpool é líder do Inglês",
+    "text": "28/12/2023 - 19:50\nMudança na liderança do Campeonato Inglês: o Arsenal foi surpreendido no Emirates Stadium e acabou derrotado por 2 a 0 pelo West Ham nesta quinta-feira (28), no jogo que encerrou a 19ª rodada, resultado que deixa o Liverpool na ponta da tabela.\nO tcheco Tomas Soucek (13′) e o grego Konstantinos Mavropanos (55′) foram os autores dos gols da vitória dos ‘Hammers’, que no primeiro tempo perderam o brasileiro Lucas Paquetá por lesão.\nPaquetá sentiu problemas físicos no aquecimento e foi para o jogo no sacrifício, mas aos 30 minutos teve que ser substituído pelo meia-atacante argelino Saïd Benrahma, que nos acréscimos ainda desperdiçou uma cobrança de pênalti (90’+6), defendida pelo goleiro David Raya.\nA derrota deixa os ‘Gunners’ com 40 pontos, dois atrás dos ‘Reds’, que no ‘Boxing Day’ de terça-feira venceram o vice-lanterna Burnley por 2 a 0.\nPor sua vez, o West Ham sobe para a sexta posição (33 pontos) e encosta na briga pelas copas europeias.\nEm relação aos demais perseguidores, o Arsenal segue um ponto à frente do Aston Villa (3º), que perdeu por 3 a 2 para o Manchester United (7º), mas vê reduzida para três pontos a vantagem sobre o Manchester City (4º), que que na quarta-feira bateu o Everton (17º) por 3 a 1, em Goodison Park, e tem um jogo a menos.\nO Tottenham (5º), que mais cedo caiu para o Brighton (8º) por 4 a 2, é outro dos perdedores da rodada, ao sair da zona de classificação para a Liga dos Campeões e ficar agora a seis pontos do líder Liverpool.\n— Jogos da 19ª rodada do Campeonato Inglês e classificação:\n– Terça-feira:\nNewcastle – Nottingham 1 – 3\nBournemouth – Fulham 3 – 0\nSheffield United – Luton Town 2 – 3\nBurnley – Liverpool 0 – 2\nManchester United – Aston Villa 3 – 2\n– Quarta-feira:\nBrentford – Wolverhampton 1 – 4\nChelsea – Crystal Palace 2 – 1\nEverton – Manchester City 1 – 3\n– Quinta-feira:\nBrighton – Tottenham 4 – 2\nArsenal – West Ham 0 – 2\nClassificação: Pts J V E D Gp Gc SG\n1. Liverpool 42 19 12 6 1 39 16 23\n2. Arsenal 40 19 12 4 3 36 18 18\n3. Aston Villa 39 19 12 3 4 40 25 15\n4. Manchester City 37 18 11 4 3 43 21 22\n5. Tottenham 36 19 11 3 5 39 28 11\n6. West Ham 33 19 10 3 6 33 30 3\n7. Manchester United 31 19 10 1 8 21 25 -4\n8. Brighton 30 19 8 6 5 38 33 5\n9. Newcastle 29 19 9 2 8 37 25 12\n10. Chelsea 25 19 7 4 8 31 29 2\n11. Wolverhampton 25 19 7 4 8 27 31 -4\n12. Bournemouth 25 18 7 4 7 27 32 -5\n13. Fulham 21 19 6 3 10 26 34 -8\n14. Brentford 19 18 5 4 9 25 28 -3\n15. Crystal Palace 18 19 4 6 9 19 28 -9\n16. Nottingham 17 19 4 5 10 22 34 -12\n17. Everton 16 19 8 2 9 24 25 -1\n18. Luton Town 15 18 4 3 11 21 34 -13\n19. Burnley 11 19 3 2 14 18 38 -20\n20. Sheffield United 9 19 2 3 14 15 47 -32\nbur-jw/dr/cb/am",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Sport"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:05:29.871+02:00",
+    "updated": "2023-12-29T01:05:29.871+02:00"
+  },
+  {
+    "uuid": "70f48c7ea2d60ba1d17c0b4ec558f5239a852840",
+    "url": "https://www.europapress.es/internacional/noticia-blinken-disiente-comparacion-amigo-lula-gaza-holocausto-20240223013619.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Europa Press",
+    "published": "2024-02-23T00:36:00Z",
+    "title": "Blinken disiente de la comparación de su \"amigo\" Lula sobre Gaza y el Holocausto",
+    "text": "MADRID, 23 Feb. (EUROPA PRESS) -\nEl secretario de Estado de Estados Unidos, Antony Blinken, ha afirmado este jueves que está en desacuerdo con las declaraciones que hizo recientemente su \"amigo\" el presidente de Brasil, Luiz Inácio Lula da Silva, en las que comparaba la ofensiva israelí sobre Gaza con el exterminio de judíos cometido por Adolf Hitler.\n\"Tenemos diferencias sobre algunas cuestiones y la forma en la que las abordamos. Sobre esta cuestión en particular, obviamente no estamos de acuerdo con la comparación de Gaza con el Holocausto. Pero eso también es algo que hacen los amigos\", ha declarado al ser preguntado al respecto durante una rueda de prensa.\nEn este sentido, Blinken ha afirmado que pueden \"tener estos desacuerdos, incluso desacuerdos profundos, sobre un tema en particular\", o \"incluso sobre un aspecto de un tema\", y \"aún así continuar con todo el trabajo vital que estamos haciendo\".\n\"También estamos unidos para tener objetivos compartidos en este momento como sacar a los rehenes, lograr un alto el fuego humanitario extendido, junto con más asistencia humanitaria, y poner fin al conflicto. Ese es un objetivo compartido\", ha remarcado el jefe de la diplomacia estadounidense.\nBlinken ha realizado estas declaraciones desde Río de Janeiro, donde se encuentra por la celebración de la cumbre del G20, y un día después de haberse reunido con Lula, donde trataron las relaciones entre ambos países, la protección del medio ambiente o temas internacionales, como la situación en Ucrania y Gaza, las tensiones entre Venezuela y Guyana por el control del Esequibo.\nEn cuanto al encuentro, ha afirmado que \"no podría haber estado más satisfecho\" de la \"calidad de la conversación\" entre ambos y le ha agradecido \"todo el tiempo\" que el presidente brasileño \"dedicó\" a la reunión, sí como el contenido de la misma. \"Estábamos enfocados casi por completo en la muy importante y poderosa agenda común que comparten Estados Unidos y Brasil cuando se trata de los grandes desafíos de nuestro momento\", ha explicado.\n\"Esa fue casi la totalidad de nuestra conversación, y refleja el hecho de que, en muchos sentidos, la visión que aporta el Lula es la misma que tiene el presidente (estadounidense, Joe) Biden. Y como representante de Biden, mi propósito era realmente seguir profundizando ese enfoque común y seguir buscando formas prácticas en las que podamos avanzar en él\", ha concluido.\nLeer más acerca de: Brasil Estados Unidos Israel Palestina",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-23T04:26:01.625+02:00",
+    "updated": "2024-02-23T04:26:01.625+02:00"
+  },
+  {
+    "uuid": "87efe21ab7b9a44aa50c07c67d3f62ef563d67af",
+    "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/donald-trump-veut-virer-le-procureur-special-qui-le-poursuit-s-il-est-elu_AD-202410241020.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@BFMTV",
+    "published": "2024-10-24T21:00:00Z",
+    "title": "Donald Trump veut \"virer\" le procureur spécial qui le poursuit s'il est élu",
+    "text": "L'ancien président américain, visé par plusieurs procédures pénales, a déclaré qu'il souhaitait \"virer\" le procureur spécial qui le poursuivait en cas de retour à la Maison Blanche. Donald Trump a exprimé ce jeudi 24 octobre son intention, s'il est élu, de \"virer\" le procureur spécial Jack Smith, qui le poursuit pour tentatives d'inverser illégalement les résultats de la précédente élection présidentielle américaine en 2020.\nL'ex-président et candidat républicain répondait lors d'une interview sur un podcast conservateur à la question de savoir si, en cas de victoire au scrutin du 5 novembre, il se gracierait ou ferait limoger le procureur spécial.\nTrump pourrait ordonner l'arrêt des poursuites en cas d'élection \"Je le virerais en deux secondes\", a-t-il poursuivi, qualifiant Jack Smith, une des cibles privilégiées de ses attaques depuis plus d'un an, d'\"homme très malhonnête\".\nLe procureur spécial a publié le 27 août un acte d'accusation révisé contre Donald Trump à la suite de la décision de la Cour suprême le 1er juillet reconnaissant au président des Etats-Unis une large présomption d'immunité pénale.\nUn mois plus tard, Jack Smith a développé dans un volumineux document écrit, largement caviardé pour préserver l'anonymat des témoins, ses arguments pour démontrer le caractère privé des actes pour lesquels l'ex-président est poursuivi.\n“Je m’en veux de ne pas l’avoir envoyé ch...”: devant les juges, Stormy Daniels raconte sa relation sexuelle avec Trump 14:41 Selon lui, ces actes accomplis en tant que candidat à sa réélection en 2020 ne sont pas couverts par l'immunité pénale du président pour ses \"actes officiels\".\nÀ la suite de sa défaite face au candidat démocrate Joe Biden, \"avec l'aide de complices privés, l'accusé s'est lancé dans une série de plans de plus en plus désespérés pour inverser les résultats légitimes dans sept États qu'il avait perdus\" de peu, a écrit Jack Smith.\n\"Le coeur de la machination était de nature privée. Il a largement utilisé des acteurs privés et les structures de sa campagne pour tenter d'inverser les résultats de l'élection et a agi à titre privé en tant que candidat\", concluait-il.\nVisé par plusieurs procédures pénales, Donald Trump fait feu de tout bois pour passer en jugement le plus tard possible, en tout cas après le vote. S'il était de nouveau élu, il pourrait, une fois investi en janvier 2025, ordonner l'arrêt des poursuites fédérales à son encontre.\nSur le même sujet Kamala Harris accuse Donald Trump d'être \"de plus en plus dérangé\" et de rechercher le \"pouvoir absolu\" \"Ils ne prennent pas nos voitures, ils ne prennent rien\": Trump compare l'UE à une \"mini Chine\" Ce mercredi 23 octobre, le Guardian révèle que Donald Trump est accusé d'avoir agressé sexuellement une mannequin rencontrée par l'intermédiaire de Jeffrey Epstein durant les années 1990. À moins de deux semaines de l'élection, le 5 novembre prochain, le candidat républicain est au coude-à-coude avec Kamala Harris dans les sondages.\ndossier : Donald Trump",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.theguardian.com/us-news/2024/oct/23/donald-trump-accuser-stacey-williams-jeffrey-epstein",
+      "https://theguardian.com/us-news/2024/oct/23/donald-trump-accuser-stacey-williams-jeffrey-epstein"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:03:01.141+03:00",
+    "updated": "2024-10-25T00:03:01.141+03:00"
+  },
+  {
+    "uuid": "63e62cc433c2a3f834e09c4bc2c1e267e91c3eac",
+    "url": "https://screenrant.com/honkai-star-rail-32-leaks-castorice-design-similar",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bruno Yonezawa",
+    "published": "2024-11-15T12:50:00Z",
+    "title": "Honkai Star Rail 3.2 Leaks: Castorice's Design Seems Too Similar To An Existing Character",
+    "text": "The alleged design for Castorice in [Honkai: Star Rail](https://screenrant.com/tag/honkai-star-rail/) 3.2 has seemingly leaked and, while it looks like a completely new outfit, it does have uncomfortable similarities with the design of an existing character in HoYoverse’s turn-based RPG. Castorice is rumored to be one of the new characters being added to the game in Version 3.2 after the title enters its third year of content. With a rumored release for Version 3.2, the character should arrive months after the supposed release of Aglaea and [5-star Herta in Honkai: Star Rail 3.0](https://screenrant.com/honkai-star-rail-leaks-5-star-herta-promotion/). So far, little is actually known about Castorice. Rumors indicate she is also called Xiadie, though it is uncertain what will be her official name in English – there is a chance it will be neither. Furthermore, a compilation of leaks on [Reddit](https://www.reddit.com/r/HonkaiStarRail_leaks/comments/1gowbhy/3x_character_info_compilation_updated_via/) mentions that Castorice will be a 5-star Quantum character who follows the Path of the Remembrance. The Remembrance is expected to become a new playable Path in Version 3.0 with the arrival of Aglaea and the Remembrance Trailblazer in Honkai: Star Rail, and Castorice is rumored to follow that new trend. Castorice’s Leaked Design In Honkai: Star Rail 3.2 Seems Similar To Fu Xuan Both Characters Share Uncanny Similarities While the gameplay aspects revolving around a character tend to be a lot more important to players than their actual designs, the visual of each unit also plays a part when players are deciding whether or not to pull for them from the gacha banners. The alleged design for Castorice in Version 3.2 has allegedly leaked, according to a sketch made by the leaker known as Seele Leaks. The image was shared in a post tagged as “Reliable” on [Reddit](https://www.reddit.com/r/HonkaiStarRail_leaks/comments/1gphfc8/hsr_3x_xiadie_castorice_drawn_by_seeleleaks/). Castorice seems to have light skin, pointy ears, pink hair, and a pink and white dress in Honkai: Star Rail. [Related ](/honkai-star-rail-leaks-trailblazer-update-path-animations/) [ Honkai Star Rail Leaks: New Trailblazer Update Could Bring The Character Up To The Current Cosmetic Standard With Special Path Animations ](/honkai-star-rail-leaks-trailblazer-update-path-animations/) New details about an update to the Trailblazer in a future Honkai: Star Rail patch have emerged, including mentions of their fourth playable Path. Even though Castorice’s leaked design is elegant in its own manner, there is a troublesome similarity to Fu Xuan, an already existing character in the game. If the leak is true, both units have pink hair, a pink and white dress, head adornments, and long white sleeves. Castorice’s leaked design does have exclusive elements to make her distinguishable enough for Fu Xuan, but it simply looks like an alternative outfit for [Fu Xuan in Honkai: Star Rail](https://screenrant.com/honkai-star-rail-fu-xuan-builds-team-comps/) rather than a brand-new character, per si. Castorice’s Leaked Design In Honkai: Star Rail 3.2 Is Still Subject To Changes Version 3.2 Is Still Months Away The main issue with the leaked design seems to be its color palette, which is what most matches Fu Xuan’s existing design. If the colors were different, then, perhaps, Castorice’s leaked design would not look so much like the 5-star Preservation character. Of course, this is an early sketch based on leaks, so as detailed as the illustration may seem, there may be some inconsistencies with the final version. Furthermore, there is a big chance HoYoverse will continue to work on Castorice’s design over the upcoming months leading up to Honkai: Star Rail 3.2. [Related ](/honkai-star-rail-30-leaks-new-trailblazer-remembrance/) [ Honkai Star Rail 3.0 Leaks: New Trailblazer Form May Arrive Sooner Than Expected ](/honkai-star-rail-30-leaks-new-trailblazer-remembrance/) Rumors about the new Trailblazer form in Honkai: Star Rail have been circulating for some time, but their release may occur sooner than expected. Of course, for now, leaks should be considered with caution. Even if the illustration is accurate, a lot of it is still subject to change. Additionally, the character may look very distinguishable from Fu Xuan once she is in the game and not just limited to an early sketch. The third year of content for Honkai: Star Rail is building up to be a promising one, especially due to the rumored changes to gameplay mechanics – and despite what seems like a redesigned character.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.reddit.com/r/HonkaiStarRail_leaks/comments/1gphfc8/hsr_3x_xiadie_castorice_drawn_by_seeleleaks/.",
+      "https://www.reddit.com/r/HonkaiStarRail_leaks/comments/1gowbhy/3x_character_info_compilation_updated_via/",
+      "https://www.reddit.com/r/HonkaiStarRail_leaks/comments/1gowbhy/3x_character_info_compilation_updated_via",
+      "https://reddit.com/r/HonkaiStarRail_leaks/comments/1gphfc8/hsr_3x_xiadie_castorice_drawn_by_seeleleaks/.",
+      "https://reddit.com/r/HonkaiStarRail_leaks/comments/1gowbhy/3x_character_info_compilation_updated_via/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Reddit",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T16:16:16.336+02:00",
+    "updated": "2024-11-15T18:47:40.706+02:00"
+  },
+  {
+    "uuid": "e6e4e5639d7e2fb00f409e483a23151c8bc1e59c",
+    "url": "https://www.wtkr.com/first-warning-forecast-excessive-heat-friday-and-severe-weather-threat",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Derrah Getter",
+    "published": "2024-08-01T23:21:00Z",
+    "title": "First Warning Forecast: Excessive heat Friday and severe weather threat",
+    "text": "Forecaster Derrah Getter's First Warning Forecast The sweltering heat continues as we head into the weekend. An excessive heat warning is in effect Friday from 10 am to 8 pm. Feels like temperatures are expected to reach as high as 110 degrees with high temperatures in the mid 90s. The heat will fuel some storms in the evening. the entire area is under a level 1 out of 5 threat to see isolated severe thunderstorms. The primary threat will be damaging wind gusts and heavy downpours. The severe weather threat carries over into Saturday. As a cold front approaches, rain chances will continue to increase through Sunday. During the upcoming work-week temperatures trend near normal. The humidity doesn't ease so it will still feel close to the triple digits. There will also be the chance for a spotty shower or storm each day. Tropical Update As of 08/01/24 at 7 pm A tropical wave is headed for the Gulf of Mexico. A tropical depression could form over the weekend. - Formation chance through 48 hours...LOW (30%) - Formation chance through 7 days...HIGH (70%) Let's connect on social media! Forecaster Derrah Getter: For weather updates on Facebook: [HERE](https://www.facebook.com/derrah.getter/) For weather updates on Twitter: [HERE](https://twitter.com/DerrahGetter) Follow me on Instagram: [HERE](https://www.instagram.com/derrahgetter/) Check out the Interactive Radar on WTKR.com: [Interactive Radar](http://wtkr.com/weather/maps-and-radar/interactive-radar/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Health",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.instagram.com/derrahgetter/)",
+      "https://www.facebook.com/derrah.getter/)",
+      "https://twitter.com/DerrahGetter)",
+      "https://www.twitter.com/DerrahGetter)",
+      "https://instagram.com/derrahgetter/)",
+      "https://facebook.com/derrah.getter/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "derrah getter",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "gulf of mexico",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-02T04:50:34.133+03:00",
+    "updated": "2024-08-02T04:50:34.133+03:00"
+  }
+]

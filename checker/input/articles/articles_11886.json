@@ -1,0 +1,145 @@
+[
+  {
+    "uuid": "5796d01d9587f6fff6b332fd94f145ce63b9cda7",
+    "url": "https://www.cio-online.com/actualites/lire-tarification-des-agents-d-ia-un-nouveau-piege-pour-la-dsi-16080.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Article rédigé par Grant Gross; CIO US",
+    "published": "2025-01-10T00:00:00Z",
+    "title": "Tarification des agents d'IA : un nouveau piège pour la DSI ?",
+    "text": "[Technologies](https://www.cio-online.com/actualites/technologies-11-page-1.html)\nTarification des agents d'IA : un nouveau piège pour la DSI ?\nAlors que Salesforce a fixé la tarification de son agent à base d'IA à la conversation, d'autres modèles sont en train de voir le jour. Un écosystème nouveau que les DSI se doivent d'appréhender pour éviter les traditionnelles chausse-trappes des fournisseurs.\nPublicitéL'IA agentique, plus ciblée que l'IA générative classique, gagne du terrain dans les entreprises, le cabinet d'études Forrester l'ayant désignée, en juin dernier, comme l'une des principales technologies émergentes pour 2025. Depuis, plusieurs organisations ont commencé à utiliser cette technologie, et de grands fournisseurs tels que Salesforce et ServiceNow proposent des agents d'IA à leurs clients.\nL'IA à base d'agents se concentre sur l'exécution de tâches spécifiques et met l'accent sur la prise de décision opérationnelle plutôt que sur la génération de contenu associée aux outils d'IA générative. La technologie n'en est qu'à ses débuts et plusieurs questions restent en suspens, notamment celle relative à la tarification. Jusqu'à présent, aucun accord n'a été trouvé sur la manière dont les modèles de licensing seront finalement mis en place, mais les DSI doivent être conscients que certains modèles de prix seront mieux adaptés à leurs cas d'usage que d'autres.\nSalesforce, par exemple, propose plusieurs modèles de tarification. L'un d'entre eux propose 1 000 'conversations' Agentforce gratuitement avec le service CRM Salesforce Foundations, tandis qu'un autre valorise chaque conversation à hauteur de 2 dollars. Salesforce définit une conversation comme l'envoi par un client d'au moins un message ou la sélection d'au moins une option de menu ou d'un choix autre que « mettre fin à la discussion » au cours d'une période de 24 heures.\nCe modèle tarifaire à la conversation peut inclure de nombreuses interactions entre un client et Agentforce, explique Ryan Shellack, directeur principal du marketing des produits d'IA chez Salesforce. L'éditeur se concentre sur la tarification à l'usage, avec une seule licence d'administrateur nécessaire, ajoute-t-il.\nQuatre types de tarification\nLe modèle à la conversation n'est qu'une idée parmi d'autres en matière de tarification. Dans un [récent post sur LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7271562085061279744/), Aaron Levie, Pdg de Box, présente quatre modèles de tarification de l'IA agentique qui pourraient voir le jour. Tout d'abord, les fournisseurs pourraient baser le prix des tâches des agents d'IA sur le travail traditionnel qu'ils remplacent, avec une remise sur le prix de la main-d'oeuvre traditionnelle ainsi supplantée. « Un agent d'IA effectue une certaine quantité de travail, et vous payez pour le temps ou les unités qu'il a remplacés en effectuant ce travail », écrit-il. Ce dernier considère ce modèle comme « un échange équitable pour le client et le fournisseur ».\nDans un deuxième modèle, les agents pourraient être tarifés en fonction des résultats fournis, le prix reposant sur l'achèvement d'une tâche donnée. « Ce modèle permet d'établir une relation simple entre ce dont le client a besoin et ce qu'il paie pour l'obtenir, écrit Aaron Levie. Pour les prestataires de services, l'avantage réside dans l'augmentation de la marge à mesure que les coûts sous-jacents de l'IA diminuent. »\nPublicitéModèle basé sur les coûts : les actionnaires font la grimace\nUne troisième façon de tarifer les agents d'IA consiste à calculer leurs coûts sous-jacents et à y ajouter une petite majoration, explique le Pdg de Box. « Cela peut être intéressant pour les clients qui ont des connaissances techniques approfondies, mais ce modèle risque de ne pas s'abstraire suffisamment des coûts de l'IA pour que la valeur attendue soit maintenue au fil du temps. C'est potentiellement une bonne chose pour les clients, mais peut-être pas pour le rendement des actionnaires. »\nEnfin, les fournisseurs d'agents pourraient proposer un modèle d'abonnement SaaS classique, à la licence utilisateur, qui donnerait à ce dernier un accès illimité à l'agent, explique Aaron Levie. « Ce modèle pourrait s'avérer très perturbateur. Dans les domaines où de nombreuses licences sont nécessaires aux utilisateurs finaux, c'est peut-être très stratégique ; mais dans les domaines où seul un petit nombre de licences est exploité, il est probable que vous abandonniez trop de valeur. » Le 'vous' pointant ici en direction des éditeurs de logiciels, que représente le patron de Box.\nD'autres modèles de tarification sont susceptibles de voir le jour, ajoute Aaron Levie dans une interview. Nous vivons « une période assez excitante pour observer l'émergence de nouveaux modèles commerciaux dans le domaine des logiciels après plus d'une décennie de relative stabilité en la matière », écrit-il.\nConversations et abonnements\nUn modèle à la conversation semble être une approche émergente, selon Sesh Iyer, directeur général, associé et président pour l'Amérique du Nord du BCG X, spécialisé dans conception de systèmes IT au sein du Boston Consulting Group. Les fournisseurs pourraient également facturer un petit prix par entrée ou sortie audio. Ou alors une approche basée sur des jetons permettrait de facturer les usages des API de l'assistant aux taux d'entrée et de sortie par jeton du modèle linguistique choisi, ajoute-t-il.\nSelon Ritu Jyoti, directrice générale et vice-présidente de l'unité spécialisée sur l'IA, l'automatisation, les données et la recherche analytique chez IDC, une première tendance semble être le modèle SaaS, couplé à une tarification à la conversation qui émerge pour les utilisateurs occasionnels.\nUne tarification basée sur les résultats pourrait s'avérer plus délicate, selon elle, car définir ce qu'est un résultat positif dans l'intervention d'un agent demeure sujet à discussion. La tarification basée sur les résultats peut donner lieu à des litiges entre fournisseurs et entreprises, portant sur l'atteinte ou non de l'effet souhaité, explique Ritu Jyoti. Même si la tarification basée sur la résolution de problèmes puisse fonctionner correctement dans le service à la clientèle.\n« Tout dépend des fonctionnalités et du volume d'usage, souligne la consultante d'IDC. Ce que les entreprises souhaitent vraiment, lorsqu'elles se lancent dans cette adoption, c'est une tarification par abonnement avec des plans échelonnés en fonction des fonctionnalités et du volume d'utilisation. Car les entreprises recherchent une certaine prévisibilité ».\nModèle au résultat : le plus intuitif ?\nToutefois, certains experts voient encore émerger d'autres modèles de tarification. Selon Rogers Jeffrey Leo John, cofondateur et directeur technique de DataChat, une plateforme No Code d'IA générative pour l'analytique, les tarifications basées sur les résultats et les coûts, avec des variations pour des cas d'usage spécifiques, sont susceptibles de s'imposer. En comparaison, le licensing actuel des LLM est une forme de tarification basée sur les résultats, les utilisateurs payant pour les tokens traités ou générés, note-t-il. « Pour les utilisateurs professionnels, la tarification basée sur les résultats est souvent la plus intuitive, explique Rogers Jeffrey Leo John. Ce modèle lie directement le coût à des résultats spécifiques ou à l'achèvement de telle ou telle tâche, ce qui facilite le lien avec la valeur fournie. »\nPar ailleurs, selon lui, la tarification basée sur les coûts sera également attrayante, car elle est simple à calculer. « En établissant les prix sur la base des coûts sous-jacents de calcul, de latence et de débit, ce modèle clarifie la manière dont les frais sont déterminés et permet une budgétisation plus précise, explique le cofondateur de DataChat Même s'il ne permet pas un alignement direct du retour sur investissement comme le promet le modèle basé sur les résultats, il simplifie le processus de planification financière pour les utilisateurs qui comprennent et gèrent les ressources techniques. »\nLes dangers d'une consommation non maîtrisée\nMême si plusieurs modèles de tarification semblent sur le point d'émerger, les DSI doivent se méfier de la tarification à la consommation, souligne Jeremy Burton, PDG d'Observe, une plateforme d'observabilité alimentée par l'IA. « Tout cela semble prometteur, mais le problème est que les gens ont des budgets annuels et ne peuvent tolérer la variabilité, explique-t-il. Nombreux sont ceux qui pensent que le passage de l'abonnement à une facturation à la consommation va leur faire économiser de l'argent, jusqu'à ce qu'ils constatent un pic et brûlent la moitié de leur budget en quelques semaines. »\nCertains grands fournisseurs du secteur informatique exigent de basculer dans une tarification à la consommation, « mais, d'après ce que j'ai pu constater au niveau des applications, c'est un cauchemar », tranche Jeremy Burton.\nSe concentrer sur les besoins de l'entreprise\nLa tarification évoluera en même temps que le modèle de l'IA agentique, et les DSI devraient explorer les options qui correspondent le mieux à leurs besoins et à leurs modèles d'utilisation, affirment les experts. « Les coûts de l'IA ont considérablement baissé, le coût par tâche confiée à l'IA diminuant et les capacités s'améliorant rapidement, explique Rogers Jeffrey Leo John. Les fournisseurs pourraient s'orienter vers des modèles hybrides qui combinent une transparence basée sur les coûts et des incitations basées sur les performances. Les progrès constants de l'IA entraîneront une évolution continue de la tarification des services afin de rester compétitif et de s'aligner sur les demandes du marché. »\nLe cofondateur de DataChat ajoute que les DSI doivent prendre en compte leurs cas d'usage spécifiques et les résultats souhaités avec les agents d'IA. Cette évaluation permet de déterminer si un modèle de tarification basé sur les résultats ou un modèle basé sur les coûts est plus approprié.\nSans oublier d'évaluer le coût total de possession, ajoute-t-il. « Avec l'apparition quasi quotidienne de modèles nouveaux et plus performants, les dirigeants doivent également prendre en compte les coûts associés à l'entraînement ou à la personnalisation des modèles d'IA dans un paysage en évolution constante », ajoute-t-il.\nLa prévisibilité avant tout\nLes DSI et responsables IT doivent partir de la manière dont leurs organisations utiliseront les agents d'IA pour déterminer la meilleure tarification pour eux, ajoute Sesh Iyer du BCG X. « Ils doivent évaluer ce qui est disponible sur le marché aujourd'hui avec une compréhension approfondie de la tarification et des volumes, établir des prévisions pour une utilisation à grande échelle et élaborer des scénarios d'augmentation des coûts unitaires - comme pour le cloud - avec la possibilité de changer d'agent pour éviter d'être verrouillés à un fournisseur », énumère-t-il.\nSelon Aaron Levie, de Box, la transparence et la prévisibilité seront les clefs de la tarification des agents à base d'IA. Les fournisseurs qui proposeront des prix prévisibles - et des résultats qui le sont tout autant - s'imposeront sur le marché, prédit-il. « Les entreprises ont besoin d'un haut degré de visibilité sur ce qu'elles vont réellement payer, afin d'éviter ces grands systèmes opaques où elles ne peuvent pas réellement anticiper ce qui va se passer, explique-t-il. Personne ne peut pas aboutir à une situation où les dépenses sont multipliées par 10 parce que quelque chose d'imprévu s'est produit dans le système. »\nArticle rédigé par\nGrant Gross, CIO US (adapté par Reynald Fléchaux)\nPartager cet article\nCommentaire\nINFORMATION\nVous devez être connecté à votre compte CIO pour poster un commentaire.\nCliquez ici pour vous [connecter](https://www.cio-online.com/compte_utilisateur/identification.php)\nPas encore inscrit ? [s'inscrire](https://www.cio-online.com/compte_utilisateur/inscription.php)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->social sciences",
+      "Economy, Business and Finance->computing and information technology",
+      "Social Issue->social networking",
+      "Social Issue->social problem",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.linkedin.com/feed/update/urn:li:activity:7271562085061279744/",
+      "https://www.linkedin.com/feed/update/urn:li:activity:7271562085061279744",
+      "https://linkedin.com/feed/update/urn:li:activity:7271562085061279744/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:49:03.545+02:00",
+    "updated": "2025-01-10T02:49:03.545+02:00"
+  },
+  {
+    "uuid": "2e66e922f1fc4e28209ec520987eaaceef339788",
+    "url": "https://m.dailyhunt.in/news/india/english/republictv-epaper-dh4cc384888f0f4e69bffec2529fceb0e8/kareena+kapoor+khan+shares+her+definition+of+beauty+from+size+zero+to+having+two+children-newsid-n587609424",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Dailyhuntapp",
+    "published": "2024-02-29T14:05:00Z",
+    "title": "Kareena Kapoor Khan Shares Her Definition Of 'Beauty': From Size Zero To Having Two Children...",
+    "text": "In 2020, she made her debut on social media and has so far 11.8 million followers on Instagram. The actress often shares glimpses of her life and work.\nWhat is the definition of beauty according to Kareena?\nKareena in a recent interview revealed how she embraced herself in all ages and body shapes. She told Vogue Arabia, \"I&apos;ve embraced myself through every decade of working - from 18 to my 20s and 40s; from being a size zero to having two children. Beauty is a positive word with a positive emotion, and we should look at it that way.\"\nHow does Kareena perceive social media?\nFor Kareena, social media serves as a platform to connect with fans, rather than seeking validation. She recently spoke to IANS where she appreciated the love from her followers and expressed that her true validation stems from her on-screen portrayals of powerful characters, such as those in Asoka, Kabhi Khushi Kabhie Gham…, and Jab We Met.\nShe said, \"My true validation comes from the roles I take on, the stories I tell, and the legacy I&apos;m building as an artist in the world of entertainment… I enjoy using social media but for me, it is a way to connect with my fans and give them a glimpse into my life. I don&apos;t seek validation from social media at all but I&apos;m happy that I get a lot of love from my fans.\"\nReflecting on her journey, which commenced in 2000 with &apos;Refugee&apos;, Kareena acknowledged both the highs and lows of her career. Talking about self-doubt, Kareena said, \"I am only human, I could have days which may not be so good but I don&apos;t stop believing in myself.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kareena kapoor khan",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kareena",
+          "sentiment": "none"
+        },
+        {
+          "name": "kabhi khushi kabhie gham…",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ians",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "asoka",
+          "sentiment": "none"
+        },
+        {
+          "name": "vogue arabia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-01T01:05:31.858+02:00",
+    "updated": "2024-03-01T01:05:31.858+02:00"
+  },
+  {
+    "uuid": "55b1af9f5b0434edc8728e42a0f7b016bb905054",
+    "url": "https://vanguardia.com.mx/informacion/cuidado-con-lo-que-comes-este-alimento-esta-acelerando-la-vejez-de-acuerdo-con-cardiologo-de-harvard-IG13046284",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "jorge contreras",
+    "published": "2024-08-29T19:00:00Z",
+    "title": "¡Cuidado con lo que comes!, este alimento está acelerando la vejez, de acuerdo con cardiólogo de Harvard",
+    "text": "¡Cuidado con lo que comes!, este alimento está acelerando la vejez, de acuerdo con cardiólogo de Harvard El cardiólogo William Li, de la Universidad de Harvard, afirma que ciertos alimentos pueden acelerar el envejecimiento Mantener nuestra salud es esencial para tener una vejez con una buena calidad de vida. Según la Organización Mundial de la Salud ( [OMS](https://www.who.int/es)), la mayoría de las personas viven hasta los 60 años o más, y todos los países están viendo un aumento en el número y porcentaje de personas mayores en sus poblaciones. La Universidad Anáhuac de México subraya que considerar la vejez como sinónimo de incapacidad es incorrecto. Aclara que la vejez es simplemente una fase de la vida relacionada con el paso del tiempo, por lo que es inevitable. Por ello, es importante mejorar hábitos como la alimentación y el ejercicio para asegurar un envejecimiento saludable. TE PUEDE INTERESAR: [Los alimentos más cancerígenos de acuerdo con la OMS y Harvard: ¿Qué debes evitar?](https://vanguardia.com.mx/informacion/los-alimentos-mas-cancerigenos-de-acuerdo-con-la-oms-y-harvard-que-debes-evitar-EN12683474) ALIMENTOS QUE ACELERA LA VEJEZ DE ACUERDO CON CARDIÓLOGO DE HARVARD Hay varios factores que afectan el proceso de envejecimiento. La OMS menciona que entre estos factores se incluyen la genética, el entorno físico y social, el sexo, la etnia, el nivel socioeconómico, los hábitos alimenticios, la práctica regular de actividad física y la presencia de vicios. En relación con la alimentación, el cardiólogo y biólogo William Li, de la Universidad de Harvard, afirma que ciertos alimentos pueden acelerar el envejecimiento. En particular, destaca que la carne roja y los productos cárnicos procesados pueden acelerar el deterioro del cuerpo y dificultar la regeneración celular. Li señala que el consumo frecuente de carne roja contribuye a la pérdida de flexibilidad en el cuerpo y aumenta el riesgo de desarrollar placas en las arterias, lo que puede afectar negativamente la salud cardiovascular. Además, este tipo de alimento se asocia con otros problemas de salud que pueden llevar a un envejecimiento prematuro. Asimismo, destaca que el alto contenido de sodio en las carnes procesadas está relacionado con la hipertensión. Por lo tanto, Li subraya la importancia de mantener una dieta equilibrada que promueva la salud de los vasos sanguíneos, garantice una circulación sanguínea adecuada y preserve la movilidad y flexibilidad corporal tanto en la [vejez](https://vanguardia.com.mx/topic/-/meta/vejez) como a lo largo de la vida. Te recomendamos consultar con un profesional en el caso de aún tener dudas o si deseas iniciar con una dieta balanceada de acuerdo a tus necesidades",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.who.int/es",
+      "https://who.int/es"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-30T00:45:12.710+03:00",
+    "updated": "2024-08-30T06:56:08.485+03:00"
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "uuid": "29847b4dc05d3959b40548517019b759fdb12ada",
+    "url": "https://levelup.gitconnected.com/mastering-bulk-data-operations-with-spring-batch-in-spring-boot-8f687c53b676",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Urfanito",
+    "published": "2023-12-28T22:13:00Z",
+    "title": "Mastering Bulk Data Operations with Spring Batch in Spring Boot | by Urfanito | Dec, 2023 | Level Up Coding",
+    "text": "Mastering Bulk Data Operations with Spring Batch in Spring Boot Efficiently handling large volumes of data is a common challenge in modern applications. In this blog post, we’ll explore the power of batch processing for bulk data operations in Spring Boot. Whether you’re dealing with data imports, updates, or any form of mass data manipulation, harnessing the capabilities of batch processing can significantly enhance the performance and reliability of your Spring Boot applications. Understanding the Need for Batch Processing As applications evolve, the necessity to process data in bulk becomes apparent. Consider scenarios like: - Importing massive datasets into your system. - Performing periodic updates on a large set of records. - Executing complex business logic on extensive data collections. In such cases, traditional processing approaches might not scale well, leading to performance bottlenecks and potential issues. Batch processing provides a systematic way to handle these scenarios efficiently. Leveraging Spring Batch in Spring Boot Spring Batch, an extension of the Spring framework, is a powerful tool for building robust batch-processing applications. It simplifies the development of batch jobs and provides essential features such as transaction management, chunk-based processing, and error handling. Key Components of Spring Batch - Job: Represents a complete batch process and consists of one or more steps. - Step: Defines a single phase of a batch job. Each step typically includes reading data, processing it, and writing the results. - ItemReader: Reads input data for the batch job. - ItemProcessor: Processes each item read by the ItemReaderbefore writing it. - ItemWriter: Writes the processed items to the desired output. Step-by-Step Implementation Let’s illustrate the process with a simple example of processing user data.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Education",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:25:09.941+02:00",
+    "updated": "2023-12-29T00:25:09.941+02:00"
+  },
+  {
+    "uuid": "a3e857fa97320838e07d27e970d38cfa44f9244d",
+    "url": "https://news.myseldon.com/en/news/index/331669911",
+    "ord_in_thread": 0,
+    "author": "@Sibdepo",
+    "published": "2025-07-03T06:16:54Z",
+    "title": "Психиатр: дождь ломает психику россиян и может довести до шизофрении | Health | Seldon News",
+    "text": "И не только. Затяжные дожди могут спровоцировать настоящую депрессию. Недостаток солнца нарушает выработку серотонина, вызывая апатию, агрессию и мрачные мысли. Комментарий врача передает«Радио 1». Особенно страдают метеозависимые люди. Но это лишь часть проблемы. Психиатр Надежда Соловьева раскрыла другие причины тревожности: нарушения в мозге, отравление организма или побочные эффекты лекарств. Переизбыток серотонина, вопреки мифам, иногда усиливает панику и ощущение предстоящей беды. Худший сценарий происходит в тот момент, когда тревога становится базой для депрессии, психоза или... Copyright information of photo and video materials was taken from the website «Сiбдепо» , more details in our Terms of Service",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Weather"
+    ],
+    "topics": [
+      "Health->mental health and disorder",
+      "Social Issue->discrimination",
+      "Social Issue->social problem",
+      "Social Issue->social services",
+      "Weather->weather phenomena"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://sibdepo.ru/news/psihiatr-dozhd-lomaet-psihiku-rossiyan-i-mozhet-dovesti-do-shizofrenii.html",
+      "https://www.sibdepo.ru/news/psihiatr-dozhd-lomaet-psihiku-rossiyan-i-mozhet-dovesti-do-shizofrenii.html"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T09:16:54.622+03:00",
+    "updated": "2025-07-03T06:24:43.000+00:00"
+  },
+  {
+    "uuid": "2c0ab576817e4b75e563e4974b5eab0dda7fbac6",
+    "url": "https://www.electronics-lab.com/melexis-squeezes-ultimate-performance-in-a-tiny-3d-magnetometer/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "mixos",
+    "published": "2023-12-28T21:21:00Z",
+    "title": "Melexis squeezes ultimate performance in a tiny 3D Magnetometer - Electronics-Lab.com",
+    "text": "Melexis squeezes ultimate performance in a tiny 3D Magnetometer Melexis announces the MLX90394 Triaxis® micropower magnetometer, a tiny Hall-effect based sensor. It perfectly balances the design trade-off between low noise, current consumption and cost. With on-the-fly selectable modes and advanced configurability, it enables high reuse and fast time to market. This contactless solution is suitable for rotary, linear and 3D joystick control in gaming and industrial peripherals. Replacing mechanical solutions, the MLX90394 provides an elegant, flexible and highly reliable solution overcoming concerns inherent to traditional potentiometers, such as contamination of the wiper surface and packaging constraints. The magnetometer’s versatility allows for deployment in linear, rotary, joystick and push button operations, offering a cost-effective simplification of the supply chain by replacing numerous existing components. Both the smart nature of the device, which allows for future configuration changes, and the non-contact design help to provide a longer lifespan than potentiometers and contact based switches. Moreover, the ultra slim and small design (2×1.5×0.4 mm) helps make slicker HMIs. The MLX90394’s architecture delivers several benefits compared to existing solutions. This design enables measurement and output of each magnetic axis individually, along with a built-in thermometer that allows selectable temperature measurement for additional digital signal processing (DSP) compensation. Both the temperature and position data are output in 16-bit resolution, with I2C interface pins supporting 0.1MHz, 0.4MHz and 1.0MHz modes. Moreover, one product has two I2C addresses inside, which can be selected by changing the electrical pinout connection. At the core of the product is Melexis Triaxis technology. This innovative technology helps to deliver low noise (<9μT) independent 3-axis measurement in micropower operation. Average current consumption is just 3μA for X or Y measurement and 4.3μA for Z, at 10Hz in single measurement mode. With its counting current of 10μA, the chip does the counting for you, while your microcontroller is in deep sleep and consumes little. While the Wake-up On Change (WOC) functionality enables a swift return to operation with pulsed or latched hardware pin-interrupts (XYZ). WOC thresholds can be configured as either against an initial measurement (Static Delta), against the previous measurement (Dynamic Delta) or a predefined measurement (Absolute). This allows accurate transition from the Power Down mode to active in both high movement applications and those which exhibit slow drift movements. The embedded design grants easy integration and high accuracy tracking of both rotational joystick movements and push/slide button applications. Two compact UTDFN-6 (LD) packaged designs are available featuring different measurement ranges: ±5mT (0.15μT/LSB) and ±50mT (1.5μT/LSB). All variants are RoHS certified, and suitable for deployment in ambient conditions between -40oC to 105oC with supply voltage between 1.7V to 3.6V, ideal for most embedded and IOT electronics environments. “The MLX90394 brings unprecedented value and performance, meeting the demands of a wide range of modern applications. Whether engineers are developing computer peripherals, industrial cylinders or controls for smart appliances, this optimized and flexible chip will bring customers long-term performance not possible with existing potentiometers, mechanical switches and sliders,” commented Minko Daskalov, Product Manager at Melexis. “Its compact packaging and efficiency will increase design freedom and simplify integration within existing products, as well as allowing for new novel solutions.” more information: [www.melexis.com/MLX90394](https://u12097671.ct.sendgrid.net/ls/click?upn=4PC2wo0fWhUBQdJDPL-2FxekFZasBZCqUXvLk9VgIEjjgqM2VR-2BnnUAVVFzoHjae-2FHrXkt_mp7wkc-2FmsI2mu1ktfWPYgrzdFA68yyJA5g5-2BZLccPxdxNMqAOB5ILKmOwB2iEojdxaUsfu16kg-2FFdBzPPGop8K9F-2FnCuOf9G9Eu0dSjc2LZAEkeXRlA7mNNZCXSYmtIN0WLslchgVmJo-2BV2k6W2gnRuOx1EtwqyuF0NYfg2Dr8m2oAavCN1kcEculpmyWKQ4wbXSriLYKM4yRET6jbhLABI3IB-2Fr4ziFi6hkmJlHam4eVNJmBoEMa3Obv84vObCBz7Dosug9pmetZwWvqcv3KNn7RY4SWPPN2jhbVb7qMB6Mlht87X1iMLfDx-2BmZLKIXj0L58Hqe24kvYD-2BV4d66RBwDtNu9NMTMd715aQc7jm3LLY6Qg9-2BZkqy6X9QW2E-2FEkRR-2FUtjaqAX1onBFVG5YP4Bk4GN4nt9OZine7OHen4jTXeL-2FS4wcfd7taD1sEmyhkqAZBTUB6BrQwAXCWZGWCwNtJQTzkKwB-2FM4b15I0xaV-2B9kINkoNy8co1bGZN0Tnq-2Bz4tpbn-2B9vHBvJqj2Pi1jBjZxkVMFgqSPOeNhi5pXHNggQNtuZzhQB4VQ2LLfCIXS8urPzcGrhx8-2BZ-2BNaBeLyw-3D-3D) Join 97,426 other subscribers Archives TagCloud [Aaeon](https://www.electronics-lab.com/tag/aaeon/) [AI](https://www.electronics-lab.com/tag/ai/) [Arduino](https://www.electronics-lab.com/tag/arduino/) [Battery](https://www.electronics-lab.com/tag/battery/) [BLE](https://www.electronics-lab.com/tag/ble/) [Bluetooth](https://www.electronics-lab.com/tag/bluetooth/) [camera](https://www.electronics-lab.com/tag/camera/) [DC-DC](https://www.electronics-lab.com/tag/dc-dc/) [display](https://www.electronics-lab.com/tag/display/) [ESP32](https://www.electronics-lab.com/tag/esp32/) [ESP8266](https://www.electronics-lab.com/tag/esp8266/) [FPGA](https://www.electronics-lab.com/tag/fpga/) [GPS](https://www.electronics-lab.com/tag/gps/) [I2C](https://www.electronics-lab.com/tag/i2c/) [IoT](https://www.electronics-lab.com/tag/iot/) [Kickstarter](https://www.electronics-lab.com/tag/kickstarter/) [LCD](https://www.electronics-lab.com/tag/lcd/) [Led](https://www.electronics-lab.com/tag/led/) [Linux](https://www.electronics-lab.com/tag/linux/) [Mcu](https://www.electronics-lab.com/tag/mcu/) [MEMS](https://www.electronics-lab.com/tag/mems/) [Microchip](https://www.electronics-lab.com/tag/microchip/) [Microcontroller](https://www.electronics-lab.com/tag/microcontroller/) [MOSFET](https://www.electronics-lab.com/tag/mosfet/) [Motor](https://www.electronics-lab.com/tag/motor/) [OLED](https://www.electronics-lab.com/tag/oled/) [Oscilloscope](https://www.electronics-lab.com/tag/oscilloscope/) [PCB](https://www.electronics-lab.com/tag/pcb/) [Power supply](https://www.electronics-lab.com/tag/power-supply/) [PWM](https://www.electronics-lab.com/tag/pwm/) [Raspberry Pi](https://www.electronics-lab.com/tag/raspberry-pi/) [regulator](https://www.electronics-lab.com/tag/regulator/) [RISC-V](https://www.electronics-lab.com/tag/risc-v/) [SBC](https://www.electronics-lab.com/tag/sbc/) [Sensor](https://www.electronics-lab.com/tag/sensor/) [SOC](https://www.electronics-lab.com/tag/soc/) [SOM](https://www.electronics-lab.com/tag/som/) [STMicroelectronics](https://www.electronics-lab.com/tag/stmicroelectronics/) [Switch](https://www.electronics-lab.com/tag/switch/) [Switching](https://www.electronics-lab.com/tag/switching/) [temperature](https://www.electronics-lab.com/tag/temperature/) [Texas Instruments](https://www.electronics-lab.com/tag/texas-instruments/) [TFT](https://www.electronics-lab.com/tag/tft/) [USB](https://www.electronics-lab.com/tag/usb/) [Wifi](https://www.electronics-lab.com/tag/wifi/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://u12097671.ct.sendgrid.net/ls/click?upn=4PC2wo0fWhUBQdJDPL-2FxekFZasBZCqUXvLk9VgIEjjgqM2VR-2BnnUAVVFzoHjae-2FHrXkt_mp7wkc-2FmsI2mu1ktfWPYgrzdFA68yyJA5g5-2BZLccPxdxNMqAOB5ILKmOwB2iEojdxaUsfu16kg-2FFdBzPPGop8K9F-2FnCuOf9G9Eu0dSjc2LZAEkeXRlA7mNNZCXSYmtIN0WLslchgVmJo-2BV2k6W2gnRuOx1EtwqyuF0NYfg2Dr8m2oAavCN1kcEculpmyWKQ4wbXSriLYKM4yRET6jbhLABI3IB-2Fr4ziFi6hkmJlHam4eVNJmBoEMa3Obv84vObCBz7Dosug9pmetZwWvqcv3KNn7RY4SWPPN2jhbVb7qMB6Mlht87X1iMLfDx-2BmZLKIXj0L58Hqe24kvYD-2BV4d66RBwDtNu9NMTMd715aQc7jm3LLY6Qg9-2BZkqy6X9QW2E-2FEkRR-2FUt",
+      "https://u12097671.ct.sendgrid.net/ls/click",
+      "https://www.u12097671.ct.sendgrid.net/ls/click?upn=4PC2wo0fWhUBQdJDPL-2FxekFZasBZCqUXvLk9VgIEjjgqM2VR-2BnnUAVVFzoHjae-2FHrXkt_mp7wkc-2FmsI2mu1ktfWPYgrzdFA68yyJA5g5-2BZLccPxdxNMqAOB5ILKmOwB2iEojdxaUsfu16kg-2FFdBzPPGop8K9F-2FnCuOf9G9Eu0dSjc2LZAEkeXRlA7mNNZCXSYmtIN0WLslchgVmJo-2BV2k6W2gnRuOx1EtwqyuF0NYfg2Dr8m2oAavCN1kcEculpmyWKQ4wbXSriLYKM4yRET6jbhLABI3IB-2Fr4ziFi6hkmJlHam4eVNJmBoEMa3Obv84vObCBz7Dosug9pmetZwWvqcv3KNn7RY4SWPPN2jhbVb7qMB6Mlht87X1iMLfDx-2BmZLKIXj0L58Hqe24kvYD-2BV4d66RBwDtNu9NMTMd715aQc7jm3LLY6Qg9-2BZkqy6X9QW2E-2FEkRR-2FUt"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "triax",
+          "sentiment": "positive"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:35:31.587+02:00",
+    "updated": "2023-12-29T01:35:31.587+02:00"
+  },
+  {
+    "uuid": "6c768c9c25d141a8317ff15d6e7b4d5804c09cd0",
+    "url": "https://elcomentario.ucol.mx/?p=198139",
+    "ord_in_thread": 0,
+    "author": "EFE",
+    "published": "2025-04-02T22:49:00Z",
+    "title": "Anuncia UFC alianza con Meta para innovación tecnológica en MMA",
+    "text": "UFC firmó un acuerdo multianual con Meta para integrar tecnología avanzada en la experiencia de los fanáticos de las artes marciales mixtas (MMA). Meta se convierte así en el primer socio tecnológico oficial de la organización.\nLa colaboración incluirá el uso de herramientas y plataformas como Meta AI, Meta Glasses y Meta Quest para ofrecer una interacción más inmersiva con los seguidores. Además, las gafas de realidad aumentada con inteligencia artificial se incorporarán en los eventos de UFC.\nDana White, presidente de UFC, destacó que ya trabajan con Meta en un nuevo sistema de clasificación de luchadores. Mark Zuckerberg, CEO de Meta, expresó su entusiasmo por la alianza y su interés en mejorar la forma en que los aficionados disfrutan de la liga.\nEl logo de Meta aparecerá en la jaula octagonal de UFC, y se desarrollarán experiencias audiovisuales interactivas en los eventos. También se impulsará Threads como el punto de encuentro digital para la comunidad UFC, con contenido exclusivo y foros de discusión.\nEsta colaboración refuerza la relación entre White y Zuckerberg, quien incorporó al presidente de UFC al consejo de administración de Meta este año. La organización de MMA realiza 40 eventos anuales con transmisiones en 170 países y un alcance de 975 millones de personas.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Science and Technology",
+      "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+      "Sport->sports transaction",
+      "Sport->sport organisation",
+      "Sport->martial arts",
+      "Science and Technology->scientific innovation",
+      "Science and Technology->technology and engineering",
+      "Arts, Culture and Entertainment->culture",
+      "Arts, Culture and Entertainment->arts and entertainment",
+      "Arts, Culture and Entertainment->mass media"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:15:18.333+03:00",
+    "updated": "2025-04-03T02:15:18.333+03:00"
+  },
+  {
+    "uuid": "490e55f526b61986309cce32249c33ef436d3237",
+    "url": "https://www.koat.com/article/hpv-vaccine-cervical-cancer-prevention-cdc-report/63961018",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CARLA K. JOHNSON",
+    "published": "2025-02-27T22:52:00Z",
+    "title": "CDC report adds to evidence that HPV vaccine is preventing cervical cancer in US women",
+    "text": "CDC report adds to evidence that HPV vaccine is preventing cervical cancer in US women\nA new government report adds to evidence that the HPV vaccine, once called dangerous by Health and Human Services Secretary Robert F. Kennedy Jr., is preventing cervical cancer in young women.\nRelated video above: Doctor on vaccine's 'exceptional results' for kids, adults\nThe report comes after Kennedy pledged to give a family member any fees he might earn from HPV vaccine litigation. In a 2019 video posted on the anti-vaccine nonprofit Children's Health Defense website, Kennedy called Gardasil \"the most dangerous vaccine ever invented.\"\nThe new report found that from 2008 to 2022, rates for precancerous lesions decreased about 80% among 20- to 24-year-old women who were screened for cervical cancer. The estimates were published Thursday by the Centers for Disease Control and Prevention.\nHPV, or human papillomavirus, is very common and is spread through sex. Most HPV infections cause no symptoms and clear up without treatment. Others develop into cancer, about 37,000 cases a year, according to the CDC.\nWomen in their 20s are the group most likely to have been given the HPV vaccine, which has been recommended in the U.S. since 2006 for girls at age 11 or 12 and since 2011 for boys the same age. Catch-up shots are recommended for anyone through age 26 who hasn't been vaccinated.\nJane Montealegre of MD Anderson Cancer Center in Houston, who was not involved in the study, called the decline dramatic and said it can be attributed to the increasing use of the safe and effective HPV vaccine.\n\"This should reassure parents that they're doing the right thing in getting their children vaccinated against HPV,\" said Montealegre, a cancer-prevention researcher.\nOther countries also have reported declining rates of cervical precancer in younger and more vaccinated cohorts, she said. The U.S. doesn't have a national registry but estimates what's happening across the country by monitoring five sites.\nKennedy's financial relationship with litigation against the maker of the HPV vaccine came under scrutiny during his confirmation hearings. The health secretary has since told lawmakers that he has referred hundreds of clients to the law firm suing vaccine-maker Merck in an arrangement where he would be entitled to 10% of contingency fees awarded.\nOne of Kennedy's sons, Conor, is an attorney at that law firm, WisnerBaum. In an amended ethics agreement, Kennedy said he will give any fees he earns from litigation over the HPV vaccine to \"a nondependent adult family member.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->government health care",
+      "Health->vaccine",
+      "Health->cancer",
+      "Science and Technology->biomedical science",
+      "Science and Technology->medical research",
+      "Social Issue->disabilities",
+      "Social Issue->social services",
+      "Social Issue->adults"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.cdc.gov/mmwr/volumes/74/wr/mm7406a4.htm?s_cid=mm7406a4_w",
+      "https://cdc.gov/mmwr/volumes/74/wr/mm7406a4.htm?s_cid=mm7406a4_w",
+      "https://www.cdc.gov/mmwr/volumes/74/wr/mm7406a4.htm"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "490e55f526b61986309cce32249c33ef436d3237",
+      "first_syndicated": true
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:55:51.408+02:00",
+    "updated": "2025-02-28T00:55:51.408+02:00"
+  }
+]

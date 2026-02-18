@@ -1,0 +1,300 @@
+[
+  {
+    "uuid": "09aa735ff9c4662f4bdfea42ecbbb57c8d75c923",
+    "url": "https://denvergazette.com/news/crime/semi-truck-homicide-arrest/article_44fb0f88-29bd-11ef-b109-1b1df931ff9f.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Angela Case 9News",
+    "published": "2024-06-13T05:00:00Z",
+    "title": "Semi driver arrested after fatal crash Highway 285 Colorado | Crime & Justice | denvergazette.com",
+    "text": "A semi-truck driver was being held on vehicular homicide and vehicular assault charges after a crash that killed one person Tuesday on Highway 285 near Conifer. The highway was closed in both directions for about 14 hours after the crash, which happened around 5 p.m. The Colorado State Patrol said the semi was going south when it went off the edge of the road, rolled onto its side and dumped its load of pipe and angle iron on top of five other vehicles. The driver of one of those vehicles, a gold Ford F-250, died on the scene. The Jefferson County Coroner's Office identified him as Scott Miller, 64. CSP said the driver of the semi, 47-year-old Ignacio Cruz-Mendoza, was arrested Tuesday night. He is being held on charges including vehicular homicide and vehicular assault. The semi went through cable barriers in the median and through the guardrail, then dangled off the edge of the roadway. Troopers said speed is being considered the primary factor in the crash, which remains under investigation. Statistics from CSP show this was at least the fifth crash at or within two miles of Shaffers Crossing this year. In records dating back to September 2011, CSP has recorded 338 crashes within a two-mile stretch. According to CSP, Highway 285 is the Colorado highway with the fifth-most speeders ticketed for going more than 20 mph faster than the speed limit. In 2023, CSP issued 791 tickets to drivers going faster than 20 mph on all of Highway 285, not just near Shaffers Crossing. For more stories like this, visit The Denver Gazette's news partner, [9News](https://www.9news.com/article/news/crime/semi-driver-arrested-fatal-highway-285-crash-colorado/73-1dde42e2-a4a9-4bf7-ab81-a211ba137ff3)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.9news.com/article/news/crime/semi-driver-arrested-fatal-highway-285-crash-colorado/73-1dde42e2-a4a9-4bf7-ab81-a211ba137ff3)",
+      "https://9news.com/article/news/crime/semi-driver-arrested-fatal-highway-285-crash-colorado/73-1dde42e2-a4a9-4bf7-ab81-a211ba137ff3)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ignacio cruz-mendoza",
+          "sentiment": "none"
+        },
+        {
+          "name": "scott miller",
+          "sentiment": "none"
+        },
+        {
+          "name": "shaff",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "colorado | crime & justice",
+          "sentiment": "negative"
+        },
+        {
+          "name": "csp",
+          "sentiment": "none"
+        },
+        {
+          "name": "colorado state patrol",
+          "sentiment": "none"
+        },
+        {
+          "name": "ford",
+          "sentiment": "none"
+        },
+        {
+          "name": "jefferson county coroner's office",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "conifer",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-14T00:11:21.991+03:00",
+    "updated": "2024-06-15T01:58:43.111+03:00"
+  },
+  {
+    "uuid": "a938bb254cd730e61c610bf88df949031f8b75da",
+    "url": "https://www.wfft.com/news/local/indiana-house-bill-may-threaten-nonprofit-status-of-some-hospitals/article_d747a6e8-efd4-11ef-a1dc-2f2c9b64d096.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Caitlynn Shipe",
+    "published": "2025-02-20T21:51:00Z",
+    "title": "Indiana House Bill may threaten nonprofit status of some hospitals | Local | wfft.com",
+    "text": "NORTHEAST INDIANA (WFFT) — An Indiana House Bill is aiming to redefine how hospitals achieve and maintain their nonprofit status.\nHouse Bill 1004 passed the full House of Representatives on Thursday in a 68-26 vote and is now headed to the Senate.\nPrimarily, the proposed legislation targets nonprofit hospitals that charge more than 265% above what Medicare pays for the same service.\nAccording to the bill, if the hospitals’ charges exceed 300% and they fail to reduce their prices, they lose their nonprofit status.\nAdditionally, HB 1004 subjects nonprofit hospitals to an annual audit by the Indiana Department of Insurance.\nAdvocacy group Hoosiers for Affordable Healthcare reports that price cuts range from 23-40.8% for Indiana’s big six hospitals to hold onto their nonprofit status.\nParkview Health sits at the top of the list for the largest cuts. The network is based in Fort Wayne with hospital locations in eight northeast Indiana counties.\nAccording to the Indiana Department of Health’s 2021 audited hospital financial statements, nonprofit hospitals had averaged profit margins between 9-17% when the national average sat at 3%.\nAmong those, Ascension St. Vincent had the highest profit margin while Community Health Network came in with the lowest.\nThe bill was authored by Representative Martin Carbaugh, and he gained co-authors Representatives Ben Smaltz, Julie McGuire and Mitch Gore.\nSenators Justin Busch, Tyler Johnson, Ed Charbonneau and Chris Garten have since sponsored the bill.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health"
+    ],
+    "topics": [
+      "Health->health facility",
+      "Health->government health care"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.h4ahc.com/",
+      "https://iga.in.gov/legislative/2025/bills/house/1004/details",
+      "https://h4ahc.com/",
+      "https://www.iga.in.gov/legislative/2025/bills/house/1004/details",
+      "https://www.h4ahc.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Indiana Department of Insurance",
+          "sentiment": "none"
+        },
+        {
+          "name": "Indiana Department of Health",
+          "sentiment": "none"
+        },
+        {
+          "name": "House of Representatives",
+          "sentiment": "none"
+        },
+        {
+          "name": "Medicare",
+          "sentiment": "none"
+        },
+        {
+          "name": "Senate",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T02:07:17.661+02:00",
+    "updated": "2025-02-21T02:07:17.661+02:00"
+  },
+  {
+    "uuid": "59f441f68dfa3b5bdb82e9e0e6ce253d5634dc5b",
+    "url": "https://www.salemnews.com/news/state_news/benefit-fraud-down-as-auditors-cast-wider-nets/article_6c48804c-a5b6-11ee-88f2-7337fe14cbd4.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alison Kuznitz | State House News Service",
+    "published": "2023-12-29T05:00:00Z",
+    "title": "Benefit fraud down as auditors cast wider nets | State News | salemnews.com",
+    "text": "Auditor Diana DiZoglio's office identified more than $12.3 million in public benefit fraud in fiscal 2023, representing a decrease of about $1.2 million compared with her predecessor's findings in the year prior. The auditor's Bureau of Special Investigations (BSI), tasked with examining potential fraud surrounding payments intended to support vulnerable residents, such as low-income families and children, detected fraud totaling $12,322,688 from July 1, 2022 through June 30, 2023, according to a newly released report. Investigators identified fraud within 782 completed cases, with an average fraud amount of about $15,758. BSI said operational challenges during the COVID-19 pandemic \"decreased significantly\" in 2023, which translated into increased referrals, decreased case and fewer delays in fraud calculations. Nearly 70% of the fraud dollars, or about $8.5 million, involved the Department of Transitional Assistance (DTA). Another 27% of the fraud, or about $3.3 million, was tied to MassHealth. Other fraud dealt with the Department of Early Education and Care and the Social Security Administration. Fraud examiners can refer cases for prosecution or seek civil recoveries, among other remedies. The report warns that in some instances, a closed case without fraud \"does not necessarily indicate that fraud was not committed.\" Rather, the report states, \"it's more likely that BSI was not able to obtain the necessary documentation to substantiate the fraud, or that the individual was not receiving public assistance benefits during the period of the allegation.\" A Quincy woman is barred from working as a MassHealth provider following multiple fraud indictments, including billing for services that didn't happen and submitting false claims to MassHealth. A pending case in Barnstable County Superior Court deals with a Marston Mills woman who was indicted over fraudulent childcare and DTA benefits. \"The indictment alleges that between 2015 and 2020, the woman failed to report her spouse, the father of her children, as a part of her household and that she failed to report his income,\" the report states. \"As a result, his income was not counted when the benefits programs determined her eligibility and it is alleged she stole approximately $110,890.99 in EEC benefits from June 2015 through November 2020, $29,177 in SNAP benefits from January 2015 through January 2019, and $3,927.55 in TAFDC benefits from May 2018 through August 2018.\" As part of a joint investigation with MassHealth and Attorney General Andrea Campbell's office looking into fraud among personal care attendants, BSI said it found one woman who used her married name to seek care and her maiden name to apply as the caregiver. \"The subject submitted timesheets and was paid for the PCA services she fraudulently indicated that she provided to herself. The calculated amount of overpayment totaled $36,897.30 for approximately two years of fraud,\" the report said, which noted the case made it to Worcester Superior Court.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "diana dizoglio",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "bureau of special investigations",
+          "sentiment": "none"
+        },
+        {
+          "name": "department of transitional assistance",
+          "sentiment": "none"
+        },
+        {
+          "name": "department of early education and care",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-30T00:20:37.011+02:00",
+    "updated": "2023-12-30T00:20:37.011+02:00"
+  },
+  {
+    "uuid": "8983eea7a59809a12bd2a7fd3b72659ba00e02f0",
+    "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/Obituary/article/94426-christian-publishing-veteran-joey-paul-dies-at-79.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sophia Stewart",
+    "published": "2024-02-23T00:00:00Z",
+    "title": "Christian Publishing Veteran Joey Paul Dies at 79",
+    "text": "Joseph \"Joey\" Paul, a veteran of Christian Publishing who most recently served as executive editor at Thomas Nelson, died on February 6. He was 79. Paul began his career in Christian publishing in 1988, when Word Inc. promoted him from director of its film and video division to v-p of World Books. In his new role at Word, Paul reported to publisher Kip Jordan and worked with such authors as James Dobson, Billy Graham, Anne Graham Lotz, and Josh McDowell. In 2001, Paul left Word and joined [Integrity Publishers](https://www.publishersweekly.com/pw/print/20030317/19987-integrity-publishers-makes-successful-debut.html), the books division of Integrity Inc. [led by Byron Williamson](https://www.publishersweekly.com/pw/print/20010702/36246-williamson-to-head-new-publishing-entity.html), as v-p of editorial. There, Paul worked with such authors as David Jeremiah, Max Lucado, Beth Moore, and [Sarah Young](https://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/93107-sarah-young-jesus-calling-author-dies-at-77.html), author of the multi-million copy bestseller Jesus Calling. \"Throughout his career in Christian publishing, Joey Paul was known as a person who took his faith seriously,\" said Williamson, \"working so creatively with a broad list of best-selling authors, whose books sold millions of copies around the globe.\" When Integrity was [bought by Thomas Nelson](https://www.publishersweekly.com/pw/print/20060925/6148-news-briefs.html) in 2006, Paul joined nelson as v-p of editorial and acquisitions. He would later depart in 2008 to join the Nashville-based FaithWords, a division of Hachette Book Group, as executive editor. At FaithWords, he worked with Joyce Meyer and Joel Osteen, among other authors. \"Over those 50 years that our work with Christian publishing overlapped, Joey and I worked together with many authors and books, and many others working in Christian publishing. I knew him as a loyal, devoted, and dedicated teammate,\" added Rolf Zettersten, [former publisher FaithWords and Hachette Nashville](https://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/81550-zettersten-to-retire-from-hachette-nashville.html). \"He loved golf, fishing, and a robust Cabernet. Our relationship became much more than as professional colleagues, we became close personal friends as well. My thoughts and prayers his wife Sharon until she and Joey are reunited in eternity.\" In 2017, Paul returned to Nelson, by then a division of HarperCollins Christian Publishing (HCCP), as an executive editor. \"With over 46 years of industry experience when he returned to Nelson, Joey was an invaluable asset not only to the editorial process, but to our business as a whole,\" said David Moberg, former senior-vp and publisher of HCCP. \"HarperCollins Christian Publishing mourns the passing of Joey Paul, whose work helped to shape the Christian publishing landscape of the past several decades,\" said Mark Schoenwald, current CEO and President of HCCP. \"Joey was a masterful editor, acquiring and shaping remarkable books over his more than 50-year career in Christian Publishing. His work impacted and enriched millions of lives.\" Paul is survived by his wife Sharon, son Jeffrey, daughters Kimberly and Kristen, sisters Susan and Sylvia, and seven grandchildren.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joey paul",
+          "sentiment": "negative"
+        },
+        {
+          "name": "joey",
+          "sentiment": "negative"
+        },
+        {
+          "name": "joseph",
+          "sentiment": "negative"
+        },
+        {
+          "name": "paul",
+          "sentiment": "negative"
+        },
+        {
+          "name": "sarah young",
+          "sentiment": "none"
+        },
+        {
+          "name": "jesus calli",
+          "sentiment": "none"
+        },
+        {
+          "name": "max lucado",
+          "sentiment": "none"
+        },
+        {
+          "name": "thomas nelson",
+          "sentiment": "none"
+        },
+        {
+          "name": "kip jordan",
+          "sentiment": "none"
+        },
+        {
+          "name": "billy graham",
+          "sentiment": "none"
+        },
+        {
+          "name": "david jeremiah",
+          "sentiment": "none"
+        },
+        {
+          "name": "josh mcdowell",
+          "sentiment": "none"
+        },
+        {
+          "name": "byron williamson",
+          "sentiment": "none"
+        },
+        {
+          "name": "beth moore",
+          "sentiment": "none"
+        },
+        {
+          "name": "james dobson",
+          "sentiment": "none"
+        },
+        {
+          "name": "anne graham lotz",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "christian publishing",
+          "sentiment": "negative"
+        },
+        {
+          "name": "christian publishing veteran",
+          "sentiment": "negative"
+        },
+        {
+          "name": "word inc.",
+          "sentiment": "none"
+        },
+        {
+          "name": "integrity inc.",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-23T17:17:06.744+02:00",
+    "updated": "2024-02-23T17:17:06.744+02:00"
+  }
+]

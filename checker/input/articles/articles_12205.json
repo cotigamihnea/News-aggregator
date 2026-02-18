@@ -1,0 +1,244 @@
+[
+  {
+    "uuid": "1d111544397882141ab4f2e16b8e928ab4cca65d",
+    "url": "http://www.op-online.de/sport/fussball/fc-bayern-verliert-weitere-wertvolle-millionen-bei-tel-abgang-zr-93788601.html",
+    "ord_in_thread": 0,
+    "author": "Adrian Rehling",
+    "published": "2025-06-19T02:54:00Z",
+    "title": "FC Bayern verliert weitere wertvolle Millionen bei Tel-Abgang",
+    "text": "FC Bayern verliert weitere wertvolle Millionen bei Tel-Abgang\nNach Sané verlässt nun also auch Mathys Tel den FC Bayern. Der Klub bekommt für den Flügelspieler weniger Geld als vorgesehen – und das gleich im doppelten Sinne.\nMünchen – Nach der Leihe kommt der Kauf. Und damit der nächste Abgang beim FC Bayern. Mit Mathys Tel sucht ein weiterer Flügelspieler das Weite, schließt sich fortan fest Tottenham Hotspur an. Der 20-Jährige, der bereits in der vergangenen Saison an den Premier-League-Klub ausgeliehen war, wechselt für eine Ablösesumme von 35 Millionen Euro nach England – die Bayern nicht einmal komplett sehen wird.\nDenn: Tels erster Profiverein wird an dem Transfer beteiligt. Und das gar nicht mal so mickrig. In einer Klausel ließ sich Frankreich-Klub Stade Rennes eine prozentuale Beteiligung bei einem Weiterverkauf des FC Bayern zusichern. In satter Höhe von 25 Prozent. Die Bayern müssen also noch einmal knapp neun Millionen abtreten.\nFC Bayern verliert weitere Millionen an Tel-Ex-Klub Stade Rennes\nUnd so werden aus den 50 Millionen Euro, die vor der Leihe mit den Spurs vereinbart worden sein sollen, aus Münchener Sicht nicht einmal mehr 30 Millionen Euro, die auf dem eigenen Konto verbleiben. Immerhin: Für die Leihe zahlte Tottenham bereits zehn Millionen Euro. Und beim Kauf gab der FC Bayern 20 Millionen Euro für Tel aus – damit steht ein Plus im Gesamtpaket.\nMit dem Abgang von Tel erhöht sich dennoch der Druck auf Bayerns Sportvorstand Max Eberl, die Offensive neu zu besetzen. Nicht nur Tel, sondern auch Leroy Sané und Thomas Müller werden in der kommenden Saison also nicht mehr mit von der Partie sein. Gleich drei Offensivspieler, die es in irgendeiner Form zu ersetzen gilt.\nEberl wollte allerdings erst einmal auf den Abgang blicken und sagte: „Mathys Tel ist als sehr junger Spieler zum FC Bayern gekommen und hat hier seine ersten Schritte in den internationalen Spitzenfußball gemeistert. Es hat sich gezeigt, dass der Schritt nach Tottenham für seine Entwicklung der richtige war. Diesen Weg bei den ‚Spurs‘ wird er nun weitergehen.“ Der französische U21-Nationalspieler verabschiede sich seinerseits gebührend via Instagram: „Ich liebe euch alle, Mia san Mia.“ (rele)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Economy, Business and Finance",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->sports transaction",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen/",
+      "https://www.absolutfussball.com/deutschland/fc-bayern-muenchen",
+      "https://absolutfussball.com/deutschland/fc-bayern-muenchen/"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "England",
+          "sentiment": "none"
+        },
+        {
+          "name": "München",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "FC Bayern",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Frankreich-Klub Stade Rennes",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:40:32.486+03:00",
+    "updated": "2025-06-19T04:53:25.000+00:00"
+  },
+  {
+    "uuid": "86bdbdbcf4337f4338022787d975ee356ba63e7c",
+    "url": "https://www.siliconrepublic.com/business/meta-llama-lawsuit-copyright-authors",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Suhasini Srinivasaragavan",
+    "published": "2025-01-10T08:22:00Z",
+    "title": "Meta trained Llama on copyrighted material, new filing claims",
+    "text": "The new filing claims that Meta allowed Llama to commit copyright infringement on pirated data and upload it for commercial gain.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Social Issue->ethics",
+      "Social Issue->social networking",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "http://eepurl.com/hIdNrT",
+      "http://www.eepurl.com/hIdNrT"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Christopher Golden",
+          "sentiment": "none"
+        },
+        {
+          "name": "Sarah Silverman",
+          "sentiment": "none"
+        },
+        {
+          "name": "Richard Kadrey",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Northern District Court of",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T12:43:59.366+02:00",
+    "updated": "2025-01-10T18:30:41.331+02:00"
+  },
+  {
+    "uuid": "a6bbe4045ad017e999ced51115c858f667cf35eb",
+    "url": "https://www.zazoom.it/2025-08-07/lavoro-previste-3mila-assunzioni-nel-mese-di-agosto-in-provincia-cresce-la-quota-immigrati/17524349/",
+    "ord_in_thread": 0,
+    "author": "@zazoomblog",
+    "published": "2025-08-07T15:11:15Z",
+    "title": "Lavoro previste 3mila assunzioni nel mese di agosto in provincia Cresce la quota immigrati",
+    "text": "Lavoro previste 3mila assunzioni nel mese di agosto in provincia Cresce la quota immigrati\nA fronte di 21.480 assunzioni previste nelle province di ForlÃ¬-Cesena e Rimini per il terzo trimestre dell'anno, ad agosto gli ingressi previsti sono complessivamente 6.050, di cui 3.030 a Rimini e 3.020 a ForlÃ¬-Cesena. Si tratta del 20,6% del dato regionale e dell'8,8% degli ingressi previsti in.\n[🔗 Leggi su Forlitoday.it]\nIn questa notizia si parla di: assunzioni - agosto - lavoro - 3mila\nLavoro, 6.720 assunzioni in provincia di Avellino per il trimestre giugno-agosto - Per il trimestre giugno - agosto 2025 si prevedono 6.720 assunzioni in provincia di Avellino e 4.110 in provincia di Benevento.\nIl bollettino dell'occupazione nel trimestre da giugno a agosto, in provincia previste 13.550 assunzioni - La Camera di commercio della Romagna diffonde le previsioni occupazionali per il trimestre giugno-agosto 2025.\nScadenze agosto 2025 per docenti e ATA: assunzioni e assegnazioni provvisorie, ultime ferie, compensi aggiuntivi - Scadenze agosto per docenti e ATA: assunzioni e assegnazioni provvisorie, ultime ferie e compensi aggiuntivi L'articolo Scadenze agosto 2025 per docenti e ATA: assunzioni e assegnazioni provvisorie, ultime ferie, compensi aggiuntivi sembra essere il primo su Orizzonte Scuola Notizie.\nDati Excelsior agosto 2025, piÃ¹ di 3mila i contratti di assunzioni programmati dalle PMI di Irpinia e Sannio; Ad agosto previste 335mila assunzioni; Deloitte, arrivano 3mila assunzioni per far crescere le competenze sullâ€™Ai.\nLavoro: 335mila assunzioni previste dalle imprese ad agosto, il 67,0% a tempo determinato - Tra le figure professionali più richieste nel mese di agosto, spicca il personale non qualific ... Scrive impresacity.it\nUnioncamere, ad agosto previste 335mila assunzioni - Sono 335mila le opportunità lavorative offerte dalle imprese ad agosto e salgono a oltre 1,4 milioni nel trimestre agosto- Secondo soldionline.it",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->human resources",
+      "Labor->employer",
+      "Labor->employment",
+      "Labor->labour market",
+      "Social Issue->social services",
+      "Social Issue->population and census",
+      "Social Issue->immigration"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://news.google.com/search?q=assunzioni+agosto+lavoro+3mila",
+      "https://www.soldionline.it/notizie/economia-politica/unioncamere-ad-agosto-previste-335mila-assunzioni",
+      "https://www.impresacity.it/news/35453/lavoro-335mila-assunzioni-previste-dalle-imprese-ad-agosto-il-670-a-tempo-determinato.html",
+      "https://soldionline.it/notizie/economia-politica/unioncamere-ad-agosto-previste-335mila-assunzioni",
+      "https://impresacity.it/news/35453/lavoro-335mila-assunzioni-previste-dalle-imprese-ad-agosto-il-670-a-tempo-determinato.html",
+      "https://news.google.com/search",
+      "https://www.news.google.com/search?q=assunzioni+agosto+lavoro+3mila"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-07T18:11:15.844+03:00",
+    "updated": "2025-08-07T18:15:24.000+03:00"
+  },
+  {
+    "uuid": "e40ad5d6ddcaa0334c03035e79f92252cc1b8d49",
+    "url": "https://decoracion.trendencias.com/compras/estufa-pellets-ideal-para-calentar-todo-piso-plena-ola-frio-polar-ahora-600-euros-barata-leroy-merlin",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Patricia García Varela",
+    "published": "2024-01-02T10:01:00Z",
+    "title": "La estufa de pellets ideal para calentar todo un piso en plena ola de frío polar ahora 600 euros más barata en Leroy Merlin",
+    "text": "Con la subida del IVA reducido en la electricidad y en el gas la factura de consumo energético se hace aún más difícil de sobrellevar, incluso si contamos con un [calefactor de bajo consumo](https://decoracion.trendencias.com/compras/mejores-calefactores-consumo-cual-comprar-consejos-recomendaciones), de modo que ha llegado el momento de invertir en soluciones a largo plazo que nos permitan mantener una temperatura agradable sin un gasto prohibitivo. Una solución obvia es una [estufa de pellets](https://decoracion.trendencias.com/electrodomesticos/mejores-estufas-pellets-para-calentar-hogar-cual-comprar-consejos-recomendaciones) como esta ahora con un 45% de descuento exclusivo en la tienda online de [Leroy Merlin](https://decoracion.trendencias.com/redirect?url=https%3A%2F%2Fwww.leroymerlin.es%2F&category=compras&ecomPostExpiration=perish&postId=86074) (no se vende en tienda ni por teléfono). Estufa de pellet MIKA de 6,5 kw blanca Una elegante estufa de pellets de gran potencia al precio más barato Esta elegante estufa de pellets Mika de color blanco tiene unas medidas de 77 x 43 x 43 cm, lo que la hace de fácil encaje en cualquier rincón y su nivel sonoro es de tan sólo 25 dB. Tan silenciosa como una [chimenea de bioetanol](https://decoracion.trendencias.com/compras/mejores-chimeneas-bioetanol-cual-comprar-consejos-recomendaciones), por lo que es perfecta para poder estar calentitos a la vez que se descansa o trabajamos junto a ella. Está fabricada en acero con brasero de fundición, materiales muy resistentes y duraderos que ofrecen una larga vida útil, con tres años de garantía contra cualquier fallo de fábrica. Con ella podremos calentar sin dificultad superficies de hasta 60 m2 contando además con un rendimiento del 87% con una clase energética A+ (un ahorro muy importante con respecto a otros tipos de calefacción). Su salida de humos está en la parte trasera con posibilidad de acoplar módulo Wifi, se carga por la parte superior y la tolva tiene una capacidad de 13 kilos que es suficiente para calentar durante bastante tiempo gracias a su sistema programable semanalmente o diariamente. Una estufa de pellets fácil de usar, versátil y económica que ahora es nuestra con 588,50 euros de descuento lo que la deja en [699 euros](https://decoracion.trendencias.com/redirect?url=https%3A%2F%2Fwww.leroymerlin.es%2Fproductos%2Fcalefaccion-y-climatizacion%2Festufas%2Festufas-de-pellets%2Festufa-de-pellet-mika-de-6-5-kw-blanca-89322495.html&category=compras&ecomPostExpiration=perish&postId=86074) (antes 1.287,50 euros). Una rebaja más que considerable. Las editoras de Decoesfera recomiendan Stufe a Pellet Italia - Estufa de pellet modelo Canada de 14Kw, eficiencia 89 %, calienta hasta 130m², 15 hrs. de autonomía, 5 velocidades, 5 niveles de potencia, programable (blanco) Estufa de Pellets sin Electricidad JOIMA Modelo TERRANOVA 7 KW EIDER BIOMASA POWER 10 Blanca : Estufa de Pellets | 9,9Kw | Rendimiento 91% | Autonomía 32h | Capacidad 17kg | Calefacción 180m³ | Eficiencia y Diseño Superior Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Decoesfera. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | [Taryn Elliott](https://www.pexels.com/es-es/@taryn-elliott/) | Leroy Merlin En Decoesfera | [Los mejores aspiradores sin cable: ¿Cuál comprar? Consejos y recomendaciones](https://decoracion.trendencias.com/electrodomesticos/mejores-aspiradores-cable-cual-comprar-consejos-recomendaciones) En Decoesfera | [Cajas de nevera ¿Cuáles son las mejores? Consejos y recomendaciones](https://decoracion.trendencias.com/cocina/como-elegir-cajas-para-nevera-que-necesitas-claves-para-elegirlas-mejores-organizadores-frigorifico-amazon)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://www.pexels.com/es-es/@taryn-elliott/",
+      "https://pexels.com/es-es/@taryn-elliott/",
+      "https://www.pexels.com/es-es/@taryn-elliott"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-02T13:04:55.643+02:00",
+    "updated": "2024-01-02T18:05:39.278+02:00"
+  }
+]

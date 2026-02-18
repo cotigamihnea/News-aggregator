@@ -1,0 +1,366 @@
+[
+  {
+    "uuid": "3df92db5f0c2c329d545c20abc87fb7f9f6f66e6",
+    "url": "https://www.macrobusiness.com.au/2024/01/international-student-boom-turns-bust",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Unconventional Economist",
+    "published": "2024-01-25T11:00:00Z",
+    "title": "International student boom turns bust",
+    "text": "I\nnoted last week that Australia’s net overseas migration (NOM) appears to have peaked after hitting a record high 518,000 in the 2022-23 financial year.\nThis is in line with the federal government’s latest forecast of 375,000 NOM in 2023-24, which would still be the second-highest annual read on record:\nIndeed, the revised NOM forecasts outlined in December’s Mid-Year Economic and Fiscal Update (MYEFO) are cumulatively 458,000 higher than what was projected in Labor’s October 2022 federal budget.\nThey are also cumulatively 138,000 higher than was forecast in the May federal budget.\nBelinda Allen, Senior Economist at CBA, has added further insight into the latest migration figures, noting that “net arrivals into Australia slowed at the tail end of 2023 and looked to have peaked in mid-2023”.\nCBA also expects “this slowdown to continue in 2024, slowing the rate of population growth”:\n“Using net overseas arrivals data for certain visa types till December 2023 suggest net overseas migration for 2023 was ~370k, roughly in line with government estimates for FY24″…\n“Using a stable natural increase contribution would suggest Australia’s population growth could slow to 1.8%/yr in December 2023”.\n“As the chart shows net arrivals have slowed for student visa holders in particular”.\n“This is likely driven by two drivers. First is the timing of inflows. After a surge in arrivals over the past two years, more students are finishing studies and departing Australia compared to the past two years. We had seen a breakdown in the normal arrival and departure flow for students since borders reopened in late 2022”.\n“The second driver could be the beginning of an impact from a tightening in visa requirements by the Federal government as part of its review into the migration program. English language requirements are being lifted and approval rates for student visas have fallen”.\n“Looking at other visa types and net permanent arrivals have fallen in recent months, as have temporary skilled and worker visa net arrivals”.\n“As a result we expect that we are past peak population growth. This will impact the labour market as the working age population should grow at a slower rate”.\n“As at December 2023 it was growing at 3.0%/yr. We expect this to soften and in our numbers expect the working age to grow by closer to 2% in 2024”.\nSeparate data from Justin Fabo at\nAntipodean Macro shows that “the flow of international students to Australia is slowing as evidenced by a decline in student visa grants”:\nAs noted last time, student visa arrivals have slowed whereas departures are catching up:\nThe lower anticipated NOM in 2024 should reduce pressure on the rental market; however, this will also depend on the extent to which housing construction falls alongside the moderation in immigration.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Politics",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.antipodeanmacro.com/",
+      "https://antipodeanmacro.com/",
+      "https://www.antipodeanmacro.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "belinda allen",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cba",
+          "sentiment": "none"
+        },
+        {
+          "name": "labor",
+          "sentiment": "none"
+        },
+        {
+          "name": "nom",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "australia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:33:01.298+02:00",
+    "updated": "2024-01-26T00:33:01.298+02:00"
+  },
+  {
+    "uuid": "e949350d2699a28822b3750622435cc394b87e73",
+    "url": "https://money.usnews.com/investing/news/articles/2025-02-27/openai-rolls-out-gpt-4-5-for-some-paying-users-to-expand-access-next-week",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2025-02-27T22:20:00Z",
+    "title": "OpenAI Rolls Out GPT-4.5 for Some Paying Users, to Expand Access Next Week",
+    "text": "Reuters\nThe ChatGPT logo, a keyboard, and robot hands are seen in this illustration taken January 27, 2025. REUTERS/Dado Ruvic/Illustration\n(Reuters) - ChatGPT developer OpenAI said on Thursday it has released a research preview of its latest GPT-4.5 model for its Pro users and developers worldwide, with plans to expand access in the coming weeks.\nGPT-4.5 comes with improved ability to recognize patterns, generate creative insights without reasoning and shows greater emotional intelligence, the company said.\nMicrosoft-backed OpenAI said it would begin rolling out GPT-4.5 to ChatGPT Plus and Team users next week, and then to Enterprise and Edu users the following week.\nCEO Sam Altman called it \"a giant, expensive model,\" saying the company ran out of GPU capacity to roll out to user tiers at the same time.\n\"We will add tens of thousands of GPUs next week ... this isn't how we want to operate, but it's hard to perfectly predict growth surges that lead to GPU shortages,\" he said in a post on X.\nOpenAI said the model also has a lower rate of \"hallucinations\", a common issue in which large language models generate false information. At 37.1%, GPT-4.5's hallucination rate compares with the 61.8% shown by GPT-4o and 44% shown by its o1 reasoning model.\nGPT-4.5 supports file and image uploads and can also work on writing and coding projects, but does not currently support other advanced features such as voice and video.\n(Reporting by Deborah Sophia in Bengaluru; Editing by Shounak Dasgupta)\nCopyright 2025 Thomson Reuters .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->scientific innovation",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->products and services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Sam Altman",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Microsoft",
+          "sentiment": "none"
+        },
+        {
+          "name": "Reuters",
+          "sentiment": "none"
+        },
+        {
+          "name": "GPU",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:43:39.047+02:00",
+    "updated": "2025-02-28T00:43:39.047+02:00"
+  },
+  {
+    "uuid": "3fadc06cb0d30cfe91a36a77906191e7817c5f15",
+    "url": "https://www.pressherald.com/2024/07/25/karate-is-no-longer-an-olympic-sport-some-maine-dojo-owners-say-that-could-make-an-impact-here",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Haley Jones",
+    "published": "2024-07-25T20:30:00Z",
+    "title": "Maine dojo owners have mixed views about karate’s exclusion from OIympics",
+    "text": "After making a long-awaited Olympic debut at the 2021 Tokyo Games, karate was not included on the list of sports for the 2024 Paris Games, nor is it on the agenda for the 2028 Los Angeles Games.\nThat decision by the International Olympic Committee received mixed reactions from a sampling of dojo owners in Maine. Some believe the sport is losing out on a prime opportunity for exposure, while others are less concerned about karate’s absence from the Olympics, saying pop culture plays a much larger role in attracting people to martial arts.\nAndy Campbell owns Dragon Fire Dojo in South Portland and has practiced martial arts for more than 40 years at the national and international levels. He called the decision to exclude karate “disappointing.”\n“I think the impact of having karate in the Olympics was great, because it gave us a chance to really showcase how hard these athletes work, and what their abilities are,” he said. “I really feel that keeping it in the Olympics would have helped draw in some of these other kids.”\nOther Maine dojo owners, like Donna Harris at Phoenix No Limits Karate in Auburn, say karate’s impact extends far beyond an Olympic stage.\n“(Karate) was never meant to be a sport,” she said. “It was an art. America is when it became what it is, when it became Americanized, that’s when they introduced it as a sport. Traditionally, karate was an art form that was handed down through the family and you had to be a well-known member of the family to learn the art.”\nGeoff Wingard, who owns Heisu Dojo in Orono, said he, too, was disappointed in the IOC decision, but not surprised. Wingard, who’s been practicing karate for 35 years, cited some rule changes that could have impacted karate’s entertainment value.\n“In high level karate competition, there’s two or three dominant rule sets, and they’re similar in a way, but they fall into different categories, allowing different levels of physical contact and permitting different kinds of techniques,” Wingard said.\nHe added that the rules adopted in previous Olympics mirrored those in the World Karate Federation, which is the most popular but “the least exciting to watch.”\nThose rules, Wingard said, restrict techniques that viewers would expect to see in traditional karate competitions.\n“I’ve participated in many competitions, I really enjoyed the competitive aspect form of karate, but that’s not what drove me to study karate,” he said. “I don’t think that’s what drives most students. We have a sense that karate is a holistic activity. It’s something that you can practice from age 5 to age 85. It provides a centering and self-defense aspect.\n“None of those things necessarily are part of the Olympic mission, so I’m not sure that sport karate is necessarily essential.”\nCampbell, of Dragon Fire Dojo, noted that martial arts has many styles. Judo and taekwondo are still in the Olympics, as are wrestling and boxing.\nAs for karate, he said students at his dojo enjoy watching other athletes compete and honor the art form’s traditions — but gain the most value at the local level compared to the international one.\n“I’ve had a chance to compete all over the world and travel all over the world and meet some amazing people,” Campbell said. “I still host an online virtual world tournament that gets competitors from England and Scotland and Sweden and Mexico and all these different places, so I’ve got a lot of stuff that I’ve done. I can attribute the success that I’ve had in my life to that first day walking into a dojo door, and then starting as a martial artist.”\nAccording to data from Statista , a German company that specializes in data collection, martial arts has seen steady growth in America during the last 10 years. Between 2010 and 2023, the number of people practicing the sport in America jumped from 5.04 million in 2010 to 6.61 million in 2023 — a 31% increase.\nDonna Harris works with her students during a summer leadership program Tuesday at Phoenix No Limits Karate in Auburn. Behind Harris is Melanie Deshaies, a junior helper at the dojo. Daryn Slover/Sun Journal\nHarris became involved in karate more than 20 years ago as a way to help her son, Brian Bouchard, overcome bullying at school through self-defense and confidence building. She said karate also gave her the strength to leave an abusive marriage.\n“For me, it’s always been important to give that self-confidence, that gift back to anybody,” she said. “We also offer women’s self-defense courses, and when I see anybody who’s in that situation where they don’t have that confidence, I really want to take them to that level so that they can be the best version of themselves and then pass that on to the next generation.”\nHarris’ junior teacher, or Sen Pai, Melanie Deshaies, said karate has helped her find that confidence as a rising senior at Lewiston High School.\n“At first glance, it almost seems like a sport where it’s just about kicking and punching and wanting to defend yourself,” Deshaies said. “It’s more than just a sport, martial arts has entirely changed my life and my outlook on a lot of things.”\nHarris and Wingard said movies and television shows — like “Cobra Kai” and “Kung Fu Panda” — play a large role in attracting young people to try martial arts.\n“I think that there are a number of wonderful schools in Maine,” Wingard said. “Maine is really unique in that we’re really a rural community that has and continues to have a really deep exposure to Asian martial arts. There are opportunities for people to study martial arts; there are also online opportunities. There’s remote classes now, there’s YouTube videos that show really high-level practitioners. But, the best thing, the most fulfilling thing for me, is working with people.”\nHarris said that in her 24 years of experience teaching karate, not one student has said they aspire to compete in the Olympics. Instead, her students are set on earning new belts and mastering technical skills while growing their confidence.\n“I think when we let our ego talk for us is when we lose sight of the art and the beauty of this,” Harris said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.statista.com/statistics/191917/participants-in-martial-arts-in-the-us-since-2006",
+      "https://statista.com/statistics/191917/participants-in-martial-arts-in-the-us-since-2006/",
+      "https://www.statista.com/statistics/191917/participants-in-martial-arts-in-the-us-since-2006/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "andy campbell",
+          "sentiment": "none"
+        },
+        {
+          "name": "kar",
+          "sentiment": "none"
+        },
+        {
+          "name": "donna harris",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "international olympic committee",
+          "sentiment": "none"
+        },
+        {
+          "name": "dragon fire dojo",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "south portland",
+          "sentiment": "none"
+        },
+        {
+          "name": "tokyo",
+          "sentiment": "none"
+        },
+        {
+          "name": "maine",
+          "sentiment": "none"
+        },
+        {
+          "name": "phoenix",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-26T00:12:23.540+03:00",
+    "updated": "2024-07-26T01:55:54.875+03:00"
+  },
+  {
+    "uuid": "1b0488960389696f4eedbcaa01e4d1e18313eaa8",
+    "url": "https://thecomeback.com/college-football/miami-mario-cristobal-blasted-pinstripe-bowl-loss.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reice Shipley",
+    "published": "2023-12-29T01:43:00Z",
+    "title": "CFB world blasts Miami, Mario Cristobal after brutal bowl game loss",
+    "text": "The Miami Hurricanes had a pretty subpar season, finishing 7-5 on the year which earned them a matchup against the Rutgers Scarlet Knights in the Pinstripe Bowl. And their year ended on a sour note, falling in the game which earned them the program as a whole and head coach Mario Cristobal a ton of criticism on social media.\nRutgers dominated the line of scrimmage in this game, recording 208 rushing yards in the game to come away with a 31-24 victory.\nThe Final from\n[@yankeestadium]:\nRutgers – 31\nMiami – 24\n[pic.twitter.com/TimyyjNoIH]\n— Bad Boy Mowers Pinstripe Bowl (@PinstripeBowl)\n[December 28, 2023]\nThis now marks two straight seasons for Miami under Cristobal where the team has not performed up to expectations. And it sure seems like the college football world is tired of seeing this from a once-great program like Miami.\nFormer Ohio State quarterback Cardale Jones made his feelings known on social media Thursday when it came to one ACC program.\n“Man, I feel bad for the recruits going to Miami U for NIL……. Bad staff, no stability within program and one of the worst college home game atmospheres. Chasing the money isn’t always the answer. But good luck.”\nMan, I feel bad for the recruits going to Miami U for NIL…….. bad staff, no stability within program and one of the worst college home game atmospheres.\nChasing the money isn’t always the answer. But good luck\n— Cardale Jones (@CJ1two)\n[December 28, 2023]\nJim Leavitt, a former defensive coordinator under Cristobal during his time at Oregon, also criticized Cristobal and his team after this most recent loss.\n“Unreal. Miami 4-2. Lots of time. Own 40. Up the gut. Gets stuffed. GT game. Take a knee. Decisions by a HC are so big. Miami ends up 7-6.”\nUnreal Miami 4-2. Lots of time. Own 40. Up the gut. Gets stuffed. GT game. Take a knee. Decisions by a HC are so big. Miami ends up 7-6.\n— Jim Leavitt (@CoachJimLeavitt)\n[December 28, 2023]\nA number of fans also chimed in, echoing Jones and Leavitt in their criticism of Miami.\nMario Cristobal’s Year 2 at Miami ends in a Bowl Loss to… Rutgers?\nMario Cristobal is now 12-13 as Miami’s head coach.\nSeveral head scratching losses this season, and mind boggling decisions like not taking a knee against GT.\nAt least they’ve got recruiting…\n[pic.twitter.com/qiMbFCRx1W]\n— College Football Report (@CFBRep)\n[December 28, 2023]\nMiami under Mario Cristobal 👇\nYear 1: 5-7\nYear 2: 7-5\nIt’s been disappointing, but the Canes are getting better. Still no where even close to reaching their potential. Year 3 is a make or break year for Cristobal. He can’t cave to the pressure.\n[pic.twitter.com/vQpH6unf0z]\n— Big Game Boomer (@BigGameBoomer)\n[December 28, 2023]\nMario Cristobal will have two timeouts to use in the offseason after Miami loses a one-score game in which the Hurricanes had the ball last.\n— Barrett Sallee 🇺🇸 (@BarrettSallee)\n[December 28, 2023]\nMario Cristobal returned to Miami to set records and he certainly has after guiding the Hurricanes to their first loss against Rutgers in program history.\nThe Scarlet Knights were previously 0-11 against the U.\n[#Noles] [pic.twitter.com/J61UQA340J]\n— Dustin Lewis (@DustinLewisNG)\n[December 28, 2023]\nIn two years with Cristobal at the helm, Miami has recorded just a 12-12 record, a 12-13 record if you add in this most recent bowl game loss to Rutgers.\nMiami was obviously once a dominant program in college football that got some of the top players in the country. They still happen to bring in some of the top players in recruiting. But the results on the field certainly leave a lot to be desired.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mario cristobal",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cardale jones",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "miami hurricanes",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cfb",
+          "sentiment": "negative"
+        },
+        {
+          "name": "rutgers",
+          "sentiment": "none"
+        },
+        {
+          "name": "ohio state",
+          "sentiment": "none"
+        },
+        {
+          "name": "rutgers scarlet knights",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "miami",
+          "sentiment": "none"
+        },
+        {
+          "name": "pinstripe bowl",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T03:48:16.320+02:00",
+    "updated": "2023-12-29T03:48:16.320+02:00"
+  },
+  {
+    "uuid": "f17c789d2e398e2fda293637a03948ba3f722999",
+    "url": "https://www.archyde.com/the-constitutional-council-rejects-the-allocation-of-booklet-a-to-defense-companies/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archyde",
+    "published": "2023-12-28T22:31:00Z",
+    "title": "the Constitutional Council rejects the allocation of booklet A to defense companies - Archyde",
+    "text": "2023-12-28 16:53:00 It won’t be this time. The Constitutional Council, which delivered its verdict on the 2024 finance bill this Thursday, retorted the allocation of regulated savings (Livret A, LDDS, etc.) to financing the defense industry. The latter judge that this measure had no place in a finance law, without however excluding the adoption of such a measure in another text. « The censorship of these various provisions does not prejudge the conformity of their content with other constitutional requirements. It is open to the legislator, if he deems it useful, to adopt such measures again. » by a vector other than a finance law, however, estimate the Sages in their press release. As a reminder, this amendment tabled by the president of the defense committee of the National Assembly, Thomas Gassilloud, the special rapporteur for the defense budget, Christophe Plassard, and Jean-Louis Thiériot was taken up by the government in the 2024 Budget The latter aims to open the channeling of non-centralized savings from Livret A and Sustainable and Inclusive Development Accounts (LDDS) to companies in the Defense Industrial and Technological Base (BITD), particularly SMEs sometimes in great difficulty finding financing. with banks and investment funds. This should therefore be a new windfall for the defense sector since the outstanding amounts of the LDDS and the Livret A amount respectively to 145 billion euros and 406 billion. An amendment in support of the arms industry When the amendment was included in the law, the deputies behind it were delighted. “The resumption of our amendment is a strong sign of government support for our defense industrial and technological base which will allow, with the visibility provided by the Military Programming Law, to strengthen France’s sovereignty and open up export opportunities. to our defense sector »said the deputy (Horizons) Christophe Plassard, in a press release published at the beginning of November. And for good reason, despite the war in Ukraine, banks do not show overwhelming enthusiasm for financing SMEs and startups of the defense industry. Thus, the information report on the war economy published by Christophe Plassard on March 29 had the observation that BITD companies are increasingly faced with difficulties in accessing private financing. Banks and financial institutions are increasingly reluctant to finance the BITD “for fear of American extraterritorial sanctions” et “for fear of NGOs and seeing their reputation tarnished”, he recalled. This reluctance of the banks, which have “tendency to over-interpret compliance rules”, “remains a major obstacle to innovation and the transformation of SMEs into ETIs” of the sector, he estimated. 1703802690 #Constitutional #Council #rejects #allocation #booklet #defense #companies",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "thomas gassilloud",
+          "sentiment": "none"
+        },
+        {
+          "name": "jean-louis thiériot",
+          "sentiment": "none"
+        },
+        {
+          "name": "christophe plassard",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "constitutional council",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ldds",
+          "sentiment": "none"
+        },
+        {
+          "name": "national assembly",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:44:04.850+02:00",
+    "updated": "2023-12-29T00:44:04.850+02:00"
+  },
+  {
+    "uuid": "e670cc6375f3c5b33baffa2d6efb6e3ff1ee83c0",
+    "url": "https://noticiassin.com/disney-world-reabre-sus-parques-tematicos-de-florida-tras-el-paso-de-huracan-milton-1729251",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agencia EFE",
+    "published": "2024-10-10T21:44:00Z",
+    "title": "Disney World reabre sus parques temáticos de Florida, tras el paso de huracán Milton",
+    "text": "Miami.- Los populares parques temáticos de Disney de Orlando, en el centro de Florida (EE.UU.), abrirán de nuevo sus puertas al público este viernes, tras el cierre temporal por la llegada del huracán Milton, que tocó tierra en la noche del miércoles y cruzó el estado de oeste a este.\n«Estamos agradecidos de que Walt Disney World Resort haya resistido la tormenta y actualmente estamos evaluando los impactos en nuestra propiedad para prepararnos para reabrir los parques temáticos, Disney Springs y posiblemente otras áreas el viernes 11 de octubre», dijo este jueves Walt Disney World en su sitio web.\nLa empresa expresó su solidaridad con los floridanos que se vieron afectados por Milton, que ha cobrado al menos la vida de una docena de personas y dejado una senda de destrucción a su paso, con tornados mortales, graves inundaciones y cortes de electricidad que todavía afectan a tres millones de usuarios.\nEl complejo de entretenimiento, ubicado a 20 millas (32 kilómetros) al suroeste de Orlando, que sufrió fuertes lluvias y cortes de energía, cerró sus parques temáticos el miércoles por la tarde, horas antes del embate del huracán, que entró por la costa oeste central de Florida.\nAsí pues, los parques temáticos Disney’s Animal Kingdom, Disney’s Hollywood Studios, Magic Kingdom, EPCOT y Disney Spring reabrirán el viernes desde primeras horas de la mañana.\nPermanecen cerrados por remodelación La Princesa de Cristal y Jungle Cruise.\nDe igual manera, el Centro Espacial Kennedy de la NASA, ubicado en la costa este de Florida, anunció hoy que reabrirá sus puertas a los visitantes el próximo sábado a partir de las 9:00 hora local (13:00 GMT).\nLa agencia espacial cerró el miércoles sus instalaciones y activó el «estado de confinamiento», una fase denominada ‘HURCON’, a la espera de la inminente llegada del huracán Milton.\nSe espera que todas las atracciones, exhibiciones y eventos programados, así como el recorrido en autobús por el centro espacial, estén abiertos en su horario habitual.\n«El complejo para visitantes del Centro Espacial Kennedy estará aquí para apoyar a la comunidad y a los miembros de nuestra tripulación mientras comienzan a reparar y reconstruir» las zonas dañadas tras el golpe de Milton.\nMientras Florida hace recuento de las víctimas y daños causados por Milton, el huracán se convirtió hoy en un fenómeno extratropical en aguas del Atlántico, a 320 kilómetros al este-noreste de Cabo Cañaveral, en la costa oeste de Florida.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Milton",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "EE.UU.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-11T02:42:10.592+03:00",
+    "updated": "2024-10-11T10:51:19.932+03:00"
+  }
+]

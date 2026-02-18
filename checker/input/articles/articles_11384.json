@@ -1,0 +1,401 @@
+[
+  {
+    "uuid": "9f0534f2f063aa418f74ff81c4fe3c7e48d15905",
+    "url": "https://www.boursorama.com/bourse/actualites/le-benefice-de-weyerhaeuser-s-effondre-en-raison-de-la-faiblesse-des-ventes-et-de-la-tiedeur-de-la-demande-9657a231115ba222b716226f9265c807",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2024-10-24T21:29:00Z",
+    "title": "Le bénéfice de Weyerhaeuser s'effondre en raison de la faiblesse des ventes et de la tiédeur de la demande - 24/10/2024 à 23:29 - Boursorama",
+    "text": "((Traduction automatisée par Reuters, veuillez consulter la clause de non-responsabilité https://bit.ly/rtrsauto))\nLa société américaine de produits forestiers Weyerhaeuser WY.N a annoncé jeudi une chute de 88% de son bénéfice au troisième trimestre en raison d'une faible demande pour ses produits dans un contexte de faiblesse du marché de l'immobilier. Les ventes de logements existants aux États-Unis ont baissé en septembre () pour atteindre leur niveau le plus bas depuis 14 ans, en raison des taux hypothécaires élevés et des prix de l'immobilier.\nBien que l'offre de logements se soit améliorée, les logements d'entrée de gamme restent rares dans la plupart des régions du pays, ce qui maintient les prix des logements à un niveau inabordable pour les primo-accédants et nuit aux ventes d'entreprises telles que Weyerhaeuser. Les ventes nettes de son unité de produits du bois, la plus importante en termes de revenus, ont baissé de 19,6 % pour atteindre 1,24 milliard de dollars, également affectées par des coûts de fabrication plus élevés.\nAu quatrième trimestre, la société prévoit une augmentation séquentielle du bénéfice de base pour le segment des produits du bois. Les ventes du segment Timberlands ont également baissé de 5,4 % pour atteindre 493 millions de dollars au troisième trimestre, pénalisées par des récoltes plus faibles dues aux risques d'incendies de forêt dans ses actifs du nord et au temps pluvieux dans le sud. La société a déclaré un bénéfice net de 28 millions de dollars, soit 4 cents par action, pour le trimestre clos le 30 septembre, contre 239 millions de dollars, soit 33 cents par action, l'année dernière.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://bit.ly/rtrsauto))",
+      "https://www.bit.ly/rtrsauto))"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:44:02.083+03:00",
+    "updated": "2024-10-25T00:44:02.083+03:00"
+  },
+  {
+    "uuid": "d8b3b6cb6ce0d34c62e2f67564ba99c26e8ecfe0",
+    "url": "https://www.teleprensa.com/articulo/sevilla/activado-900-horas-aviso-rojo-lluvias-huelva/202411010422271940054.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "agencia",
+    "published": "2024-11-01T04:22:00Z",
+    "title": "Activado hasta las 9.00 horas el aviso rojo por lluvias en Huelva",
+    "text": "MADRID, 1 (EUROPA PRESS)\nLa Agencia Estatal de Meteorología (AEMET) ha activado el aviso rojo por lluvias en el Litoral onubense y en las comarcas de Arévalo y el Condado hasta las 9.00 horas, por lo que Emergencias 112 Andalucía ha pedido extremar la precaución en Huelva y evitar realizar viajes.\n\"Extrema precaución con la DANA en Huelva. Aviso rojo por observación de lluvias en el Litoral onubense, Andévalo y Condado hasta 9.00 ohras. Protégete. Evita viajar\", ha indicado el servicio de emergencias a través de su perfil en la red social X.\nAsimismo, ha informado de que hay más de 40 avisos por anegaciones en Huelva, Aljaraque, Cartaya, Punta Umbría y Gibraleón. En la última hora se han acumulado 70 milímetros de agua y se espera que en doce horas duplique la cantidad hasta llegar a los 140 milímetros, según AEMET.\nPor su parte, la comarca de Aracena se encuentra en aviso amarillo, al registrar una precipitación acumulada de 20 milímetros de agua en la última hora.\nLas víctimas mortales por el paso de la DANA han aumentado a 158 personas, la gran mayoría en la Comunidad Valenciana, dos en Castilla-La Mancha y una en Málaga. Según último balance de fallecidos por el paso de la DANA, en la provincia de Valencia hay 155 víctimas mortales, ha informado el Centro de Coordinación de Emergencias de la Generalitat Valenciana.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Aracena",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Agencia Estatal de Meteorología",
+          "sentiment": "none"
+        },
+        {
+          "name": "EUROPA PRESS",
+          "sentiment": "none"
+        },
+        {
+          "name": "AEMET",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Comunidad Valenciana",
+          "sentiment": "none"
+        },
+        {
+          "name": "Litoral",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T06:31:39.170+02:00",
+    "updated": "2024-11-01T06:31:39.170+02:00"
+  },
+  {
+    "uuid": "7c620861f63aec636ce01bd7734fe2132c095986",
+    "url": "https://www.womansday.com/life/entertainment/a63241141/gma-2024-lara-spencer-foot-surgery-health-instagram",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Adrianna Freedman",
+    "published": "2024-12-19T22:13:00Z",
+    "title": "‘GMA’ Fans Rally Around Lara Spencer as She Reveals Alarming Health News",
+    "text": "It looks like Lara Spencer will be spending some time off her feet — literally.\nThe Good Morning America star is usually on the go when it comes to her busy work life. But ahead of the holiday season, Lara gave a surprise update about her health that left her followers stunned. She went [on Instagram](https://www.instagram.com/p/DDdVh04RfB-/) to share that she'd recently underwent two operations at the Hospital for Special Surgery, due to injuries she'd gotten on both of her feet. What's more, as she posted photos with surgeon Dr. Martin O'Malley and showing off her bandaged feet, she delved a bit into what prompted her to go for the procedures in the first place.\n\"If I look a little groggy it's thanks to this guy who just gave me a new pair of boots,\" she joked in the caption on December 11. \"My right foot was easy — just had plate removed from surgery last year. The left is a bigger deal from a very old college diving injury. I was doing a reverse one and a half and hit the board, shattering toes and joints. Back then they said there was nothing you could do except tape it, let it heal, and live with the pain. Today there are much better options, thanks to surgeons like Dr. Marty O'Malley at HSS. These boots were made for walkin ... \"\nWhen Lara's followers learned what happened, they immediately rallied around to wish her the best in her recovery.\n\"Oh my @lara.spencer I hope you heal up fast and pain free ❤️,\" one person wrote in the comments. \"Ouchhhhh! Speedy recovery! 💕💕💕💕💕💕,\" another replied. \"Ouch Lara!! Feel better ❤️ didn’t know this about your feet 🦶. 🙏 🙏 for you,\" a different follower added.\nGiven how Lara can't necessarily be on her feet right now, folks shouldn't expect her to make an appearance on GMA any time soon. But when fellow co-anchor George Stephanopoulos called in on the air on December 13 to check in on her, she gave an update on how she's been feeling.\n\"Yes, just kicking back, you know, relaxing. The uzhe,\" she said on the air, per [People](https://people.com/good-morning-america-lara-spencer-double-foot-surgery-8760985). \"Ah, yes, I feel fine. Thank you, George, for asking. All is well.\"\nLara [attended Penn State University](https://www.psu.edu/news/arts-and-entertainment/story/good-morning-penn-state-alumni-association-chapter-connects-lara) on an athletic scholarship for springboard and platform diving. She later graduated with a degree in broadcast journalism and was named an All American Athlete in her senior year.\nWe're sending Lara well wishes for a speedy recovery!\n[Good Housekeeping US](https://www.goodhousekeeping.com/life/entertainment/a63202009/gma-2024-lara-spencer-foot-surgery-health-instagram/)\n[Adrianna Freedman](/author/245093/adrianna-freedman/)\nAs the entertainment and news editorial assistant for Good Housekeeping, Adrianna (she/her) writes about everything TV, movies, music and pop culture. She graduated from Yeshiva University with a B.A. in journalism and a minor in business management. She covers shows like The Rookie, 9-1-1 and Grey's Anatomy, though when she’s not watching the latest show on Netflix, she’s taking martial arts or drinking way too much coffee.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->mental health and disorder",
+      "Health->medical profession",
+      "Health->health care approach",
+      "Human Interest->human mishap",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.psu.edu/news/arts-and-entertainment/story/good-morning-penn-state-alumni-association-chapter-connects-lara",
+      "https://www.goodhousekeeping.com/life/entertainment/a63202009/gma-2024-lara-spencer-foot-surgery-health-instagram/",
+      "https://people.com/good-morning-america-lara-spencer-double-foot-surgery-8760985",
+      "https://www.instagram.com/p/DDdVh04RfB-/",
+      "https://psu.edu/news/arts-and-entertainment/story/good-morning-penn-state-alumni-association-chapter-connects-lara",
+      "https://www.instagram.com/p/DDdVh04RfB-",
+      "https://goodhousekeeping.com/life/entertainment/a63202009/gma-2024-lara-spencer-foot-surgery-health-instagram/",
+      "https://www.people.com/good-morning-america-lara-spencer-double-foot-surgery-8760985",
+      "https://www.goodhousekeeping.com/life/entertainment/a63202009/gma-2024-lara-spencer-foot-surgery-health-instagram",
+      "https://instagram.com/p/DDdVh04RfB-/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Martin O'Malley",
+          "sentiment": "none"
+        },
+        {
+          "name": "Lara",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T02:48:23.184+02:00",
+    "updated": "2024-12-20T02:48:23.184+02:00"
+  },
+  {
+    "uuid": "88242d917e962bb8387408f37e991ce929423659",
+    "url": "https://www.newindianexpress.com/states/karnataka/2024/jan/06/iisc-develops-clean-green-cooling-tech-for-indian-navy-2648413.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewIndianXpress",
+    "published": "2024-01-05T21:16:00Z",
+    "title": "IISc develops clean, green cooling tech for Indian Navy",
+    "text": "IISc develops clean, green cooling tech for Indian Navy The Navy wanted to be the first in India to introduce a green technology for cooling which is compact and best suited for its ships and submarines. Published: 06th January 2024 07:46 AM | Last Updated: 06th January 2024 07:46 AM | A+A A- BENGALURU: A team of seven scientists and researchers from Indian Institute of Science (IISc) has developed a clean green cooling technology using carbon dioxide (CO2). But this time, the technological innovation is for the Indian Navy. The team from the Interdisciplinary Centre for Energy Research (ICER), IISc, developed a transcritical CO2-based refrigeration and heat pump system. The system has completed 1,300 hours of testing at Maharashtra-based naval base INS Shivaji. It will be officially inaugurated by the Navy this month. Elaborating on the refrigeration system, the researchers at ICER, told The New Indian Express: “Current refrigeration systems use synthetic chemicals such as HFCs and HFOs for cooling. These synthetic refrigerants emit significant greenhouse gas emissions. The Navy wanted to be the first in India to introduce a green technology for cooling which is compact and best suited for its ships and submarines. It approached IISc for a unique room cooling system using CO2, which is reliable, robust and provides stable cooling, and at the same time can also be used for heating.” Tech to suit tropical conditions India does not develop synthetic refrigerants now. Such systems are developed by Western countries and either imported or manufactured in India under a license agreement. Presently, it is difficult to safely recycle synthetic refrigerants. Hence, they are either silently vented to the atmosphere or stored and burnt, only adding to pollution. Propane, Isobutane, CO2 and ammonia are natural refrigerants that can be used for cooling and for heating. However, they have not been aggressively promoted so far as they need a fair amount of research, training and investments. Also, with hydrocarbons being flammable, there are strict regulations on permissible charge limits. But CO2 is not only inflammable, it is also safe and non-toxic. Being a natural refrigerant, it is being aggressively promoted for heat pump applications in supermarkets in European and other countries in the West. Besides heating, CO2 can be used for cooling and deep freezing up to minus 50 degrees Celsius and also for power generation up to 1100 degrees Celsius. This transcritical CO2 system for cooling that has now been developed for the first time in India by IISc researchers and is installed at INS Shivaji has been re-engineered to suit the tropical environmental conditions. The work was executed by ICER faculty along with industry partners Triveni Turbines, Tata Consulting Engineers (TCE), Danfoss, Modelicon through the industrial research wing of IISc, the Foundation for Science, Innovation and Development (FSID). The system has a cooling capacity of 100 kW and supplies cooling water at seven degrees Celsius to an air-handling unit used for room cooling and for their food items. The system has a charge of 35kg of CO2 and has not been topped up or replaced since its commissioning in September 2022. Based on the successful trials, the Navy intends to scale up the system to 750 kW or more and deploy it on one of its vessels. “We found that the system performed well and was on par with a synthetic refrigerantbased system. The advantage of CO2 for the Navy was a significant reduction in the footprint which is one-third the size of a similar capacity synthetic refrigerant-based unit. Additionally, the system was found to cool much faster and adapt better to changing ambient conditions compared to the existing systems,” the team said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bengaluru",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "navy",
+          "sentiment": "negative"
+        },
+        {
+          "name": "indian navy",
+          "sentiment": "negative"
+        },
+        {
+          "name": "icer",
+          "sentiment": "none"
+        },
+        {
+          "name": "indian institute of science",
+          "sentiment": "none"
+        },
+        {
+          "name": "interdisciplinary centre for energy research",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "maharashtra",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T04:31:28.023+02:00",
+    "updated": "2024-01-06T12:21:05.844+02:00"
+  },
+  {
+    "uuid": "e5671d59b895bcd3e22199df785b8d4e8a3c3ea6",
+    "url": "https://www.newsbreak.com/news/3279725991559-letter-neither-joe-biden-nor-donald-trump-look-willing-to-tackle-national-debt",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2023-12-28T18:56:00Z",
+    "title": "Letter: Neither Joe Biden nor Donald Trump look willing to tackle national debt",
+    "text": "As we get closer to the November 2024 election, I cannot understand how any parent or grandparent could fill in the small box beside Joe Biden’s or Donald Trump’s names. Both presidents boast about the great economies and stock market values their leadership created. Neither mention the fact the illusion of great economies was and is created by printing and borrowing money and leaving the debt for our spending to our grandchildren for repayment. Our military that Americans are so proud of is being financed with our grandchildren’s credit card. The hundreds of thousands of migrants pouring in through our southern border are often being fed, housed, transported around the country and provided health care for, again with our grandchildren’s credit card. Instead of Congress raising taxes, the federal government sells bonds to cover their spending . We find ourselves in a position where apparently even China doesn’t even want to buy our bonds . U.S. Sens. Susan Collins and Angus King can seemingly stand on the bully pulpit any time they wish but I have heard no concern for our grandchildren’s futures from either. Right now, the House and Senate are locked into debate on how much money should we supply to Israel, Ukraine and our southern border, with hardly a word about asking voters to ante up to pay for this American generosity. I often wonder if Americans had to sacrifice to pay for the wars in Iraq and Afghanistan, pay for Central and South Americans to move to the United States, pay for weapons being sent to Ukraine and Israel would we make that sacrifice. Of course, the answer is no, and I expect that Trump, Biden, King and Collins would join the ranks of the unemployed if they did ask voters to pay up to cover their spending. Unfortunately, as long as our grandchildren can’t say anything about losing their futures our largesse will continue. Richard Ginn Bucksport",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.bbc.com/news/world-latin-america-67818686#:~:text=The%20number%20of%20people%20apprehended,to%20US%20Homeland%20Security%20figures.",
+      "https://www.axios.com/2023/10/11/us-treasury-bond-yields-china-federal-reserve",
+      "https://www.pbs.org/newshour/politics/where-voters-stand-on-more-funding-for-ukraine-and-israel",
+      "https://fiscaldata.treasury.gov/americas-finance-guide/national-debt/#:~:text=The%20National%20Debt%20Explained&text=money%20from%20federal%20income%20tax,%2Dprotected%20securities%20(TIPS)%20.",
+      "https://pbs.org/newshour/politics/where-voters-stand-on-more-funding-for-ukraine-and-israel",
+      "https://bbc.com/news/world-latin-america-67818686#:~:text=The%20number%20of%20people%20apprehended,to%20US%20Homeland%20Security%20figures.",
+      "https://axios.com/2023/10/11/us-treasury-bond-yields-china-federal-reserve",
+      "https://www.fiscaldata.treasury.gov/americas-finance-guide/national-debt/#:~:text=The%20National%20Debt%20Explained&text=money%20from%20federal%20income%20tax,%2Dprotected%20securities%20(TIPS)%20."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joe biden",
+          "sentiment": "negative"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "susan collins",
+          "sentiment": "none"
+        },
+        {
+          "name": "angus king",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "congress",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "china",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:09:05.113+02:00",
+    "updated": "2023-12-29T01:09:05.113+02:00"
+  },
+  {
+    "uuid": "b561dbcbb794e46c0e64c048a6617b30381b1ad1",
+    "url": "https://coloradocommunitymedia.com/2024/09/05/mines-cross-country-teams-ready-to-build-on-last-years-successes",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Corinne Westeman",
+    "published": "2024-09-05T19:03:00Z",
+    "title": "Mines cross country teams ready to build on last year’s successes",
+    "text": "[Denver’s Washington Park](https://www.denver.org/listing/washington-park/6828/) will be the linchpin of the Colorado School of Mines cross country teams’ 2024 season. The Orediggers kick off [their fall running schedule](https://minesathletics.com/sports/cross-country/schedule) Sept. 21 at the annual Roadrunners Invitational. Coach Chris Siemers and two senior runners expected it to be a good way to “get the rust off” after a long summer, and they hoped Mines fans would pack the sidelines. “That first race is always special,” graduate student Logan Bocovich said. “Just to see individually where you’re at and see how the team’s been putting in the work.” However, Siemers said the Orediggers’ second meet there [in November](https://minesathletics.com/sports/cross-country/schedule) will be much more important. The NCAA Division II South Central Regional Championships will be [at Washington Park Nov. 9](https://minesathletics.com/sports/cross-country/schedule). Siemers said it gives his runners a noticeable advantage, as they won’t have to travel two weeks before the national meet. “Any time you travel, especially to another time zone, you’re compromising your sleep,” Siemers continued. “That’s the most important thing for a college student-athlete, especially at Mines.” He hoped the Oredigger faithful would make the 16-mile trek to Washington Park and cheer on the Mines teams [Nov. 9](https://minesathletics.com/sports/cross-country/schedule) as they try to qualify for nationals. The NCAA Division II National Championship meet will be [Nov. 23](https://minesathletics.com/sports/cross-country/schedule) in Sacramento, and Siemers said the Orediggers did well the last time the teams competed there. He described the course as “honest,” and was confident the Mines men’s and women’s teams would build on [last year’s second- and third-place national finishes](https://coloradocommunitymedia.com/2023/11/20/runners-up-mines-xc-places-2nd-3rd-at-ncaa-championships/), respectively. “I think both teams set their bar high in terms of mileage and quality over the summer,” Siemers said. “They were hungry, and they made sure to get the work in. That’s going to allow us to reach our full potential this season.” While both teams lost four of their top seven runners from last year, Siemers believed the Mines men’s team has the best one-two-three punch in the country in [returning runners](https://minesathletics.com/sports/cross-country/roster) Bocovich, Logan Scomparin and Paul Knight. On the women’s side, he said redshirt senior Jenna Ramsey-Rutledge will contend for an individual national title, and three or four others will likely earn All-American honors. Even though both sets of Orediggers lost very strong runners and leaders, Siemers and redshirt junior Grace Strongman said the underclassmen are eager to learn and hungry to build on Mines’ legacy. Strongman said she’s been helping mentor [the younger runners](https://minesathletics.com/sports/cross-country/roster), and in doing so, she’s learned just as much as they have, adding, “It makes me a better runner to have people around me who are trying to be better runners too.” Siemers was confident in Strongman and other Orediggers who are taking more responsibilities and leadership duties within the teams, saying they’re eager “to represent the school and show that we’re going to be contenders once again.” He added: “(They) know it’s their turn to step up … and help the program stay strong.” Making the uphill battles easier Because this is his last year of eligibility, Bocovich said he plans to leave everything out on the course. The graduate transfer joined Mines last season and placed 16th at nationals. While it was a “fantastic result,” he hopes to do even better this season. He wasn’t on the Mines men’s team when it won the 2022 national championship, but wanted to help replicate that success this fall. “I’ve been going all-out (training) this summer,” he said. “ … The competition is as good as it’s ever been. So, we’re focusing on what we can do to better ourselves every day.” To that end, the Mines teams have been making good use of [their new training course](https://coloradocommunitymedia.com/2023/06/12/mines-athletics-receives-65-million-donation-for-scholarships-facilities/) south of the Mines Park area, [adjacent to U.S. Highway 6](https://maps.app.goo.gl/B7fmb8Dn7pZoKzh87). The course has a 1K loop and a 2K loop, and Strongman said one is perfect “for some faster reps” while the other “has a monster hill.” Although most of this year’s race courses are flat, Strongman said the training course’s hill is the perfect practice for Chicago’s Lewis Crossover Invitational, which “opens on a pretty big hill.” Overall, she and Siemers said, the new training course has made the Orediggers stronger. “I know we’re all set up to have some break-out seasons,” Strongman said of her teammates. Both Strongman and Bocovich are graduating this spring with their respective degrees, although Strongman said she’ll return next year for her final season and work on a master’s degree. Bocovich, meanwhile, said he plans to continue running after graduation. The exercise helps with work-life balance, he described, adding that he’d like to run competitively for a few more years. If he finds a job in the Denver area, as he hopes, he was confident he’d find teammates — both old and new — to run with regularly. “I’m excited for that journey,” Bocovich said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://minesathletics.com/sports/cross-country/schedule",
+      "https://minesathletics.com/sports/cross-country/roster",
+      "https://www.denver.org/listing/washington-park/6828/",
+      "https://maps.app.goo.gl/B7fmb8Dn7pZoKzh87",
+      "https://www.minesathletics.com/sports/cross-country/schedule",
+      "https://denver.org/listing/washington-park/6828/",
+      "https://www.maps.app.goo.gl/B7fmb8Dn7pZoKzh87",
+      "https://www.minesathletics.com/sports/cross-country/roster",
+      "https://www.denver.org/listing/washington-park/6828"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-06T00:27:42.069+03:00",
+    "updated": "2024-09-14T00:09:17.948+03:00"
+  },
+  {
+    "uuid": "9d12f00a5d226b9789e3e7037db6b92f3bd197aa",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-03-13/doc-inepniqu5038709.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "电子产品世界",
+    "published": "2025-03-13T01:08:00Z",
+    "title": "青禾晶元发布全球首台独立研发C2W&W2W双模式混合键合设备_新浪科技_新浪网",
+    "text": "2025 年3月11日，香港——中国半导体键合集成技术领域的领先企业 青禾晶元 半导体科技（集团）有限责任公司宣布，正式推出全球首台 C2W & W2W 双模式 混合键合设备 SAB8210CWW。作为先进半导体键合集成技术与解决方案的提供商， 青禾晶元 此次发布标志着公司在技术创新领域的又一重要突破。\n本文引用地址：\n青禾晶元新推出的 混合键合设备 SAB8210CWW具备多尺寸晶圆兼容、超强芯片处理能力、兼容不同的对准方式等优势，可以帮助客户减少设备投资支出、占地面积以及大幅缩短研发转量产周期等优势，能够为Micro-LED、NAND/DRAM/HBM等存储器、堆叠集成电路 (SIC）和系统级芯片 (SoC)提供广泛的支持。\n后摩尔时代，混合键合成为主流\n自摩尔定律提出以来，芯片行业长期遵循其发展。但近年来，受限制于硅材料和半导体设备，芯片制造商难以继续缩小晶体管尺寸。先进封装因此成为提高芯片性能的有效手段，如台积电CoWoS和HBM的兴起就是例证。混合键合作为先进封装的关键技术，以高精度实现金属-金属和氧化物-氧化物面对面堆叠，提高了芯片性能。 W2W 混合键合已在多领域应用， C2W 混合键合也在快速兴起，成为异质异构集成的主流技术。然而，混合键合技术实现过程中面临挑战，如键合精度、 C2W 键合效率等问题，对相关设备提出了更高要求，促使行业不断创新。\nSAB8210CWW 设备：技术创新的集大成者\n青禾晶元是一家致力于为全球半导体产业链提供高精度、工艺稳定、高性价比的键合装备与方案的企业，凭借在高端键合装备研发制造与精密键合工艺方面的深厚积累，公司在全球首台C2W& W2W 双模式 混合键合设备 SAB8210CWW上，将技术实力展现得淋漓尽致。\n具体而言，SAB8210CWW拥有以下几点优势：\nl 双模工艺集成：设备采用高度灵活的模块化设计，支持C2W和W2W 双模式 混合键合，实现无缝适配研发与生产需求，提升设备使用率。\nl 多尺寸兼容：设备可兼容8寸和12寸晶圆，通过更换部件快速切换，提供更大的灵活性，满足不同尺寸晶圆的键合需求。\nl 超强芯片处理能力：设备能够处理厚度最薄至35μm的超薄芯片，同时具备全尺寸兼容性，从0.5×0.5mm到50×50mm的芯片均可处理，保证生产良率和可靠性。\nl 兼容不同的对准方式：提供片间同轴和红外穿透两种对准方式，对准精度优于±300nm（同轴）和±100nm（红外），应对不同尺寸和材质的芯片。\nl 创新的键合方式：通过键合方式创新，最大程度的减少颗粒污染的风险，实现高良率键合。\nl 高精度、高效率：C2W和W2W键合技术实现±30nm的对准精度和±100nm的键合精度，C2W单键合头UPH最高可达1000片/小时。智能化偏移补偿：配备高精度高通量检测模块和内置算法，实现负反馈偏移补偿，确保键合精度的稳定性和一致性。\n以SAB 82CWW系列为起点，青禾晶元将持续深耕先进键合技术，加大研发投入，推出更多满足客户需求的产品，携手全球合作伙伴，推动半导体异质集成技术迈向新高度。\n关于青禾晶元\n青禾晶元半导体科技（集团）有限责任公司是中国半导体键合集成技术的高新技术企业。公司核心业务涵盖高端键合装备研发制造与精密键合工艺代工，技术广泛应用于先进封装、半导体器件制造、晶圆级异质材料集成及MEMS传感器等前沿领域，通过“装备制造+工艺服务”双轮驱动，构建全产业链解决方案，已成功开发四大自主知识产权产品矩阵：超高真空常温键合系统、混合键合设备、热压键合装备及配套工艺服务。通过持续技术创新，公司致力于为全球半导体产业链提供高精度、工艺稳定、高性价比的键合装备与方案，助力战略新兴产业崛起。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Environment"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific innovation",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Environment->energy resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T03:16:47.148+02:00",
+    "updated": "2025-03-13T09:03:50.521+02:00"
+  }
+]

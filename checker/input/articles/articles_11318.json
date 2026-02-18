@@ -1,0 +1,424 @@
+[
+  {
+    "uuid": "9f42ec28fe3559491da95b27e6404c495f7e8d65",
+    "url": "https://techplanet.today/post/apple-celebrates-10-years-of-apple-pay-a-decade-of-innovation-and-secure-payments",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MEHU",
+    "published": "2024-10-17T13:27:00Z",
+    "title": "Apple Celebrates 10 Years of Apple Pay: A Decade of Innovation and Secure Payments",
+    "text": "As Apple Pay marks its 10th anniversary, it’s the perfect time to reflect on how this revolutionary payment system has transformed the way millions of people manage their finances and transactions. Jennifer Bailey, Apple’s Vice President of Apple Pay and Apple Wallet, shared her insights into this incredible journey, highlighting the key achievements and innovations that have enriched users' lives over the past decade. The Genesis of Apple Pay: Building a Secure Payment Ecosystem When Apple Pay launched in 2014, it was Apple’s response to a growing need for convenient, secure, and private digital payment solutions. Apple recognized the opportunity to leverage its robust hardware and software ecosystem to create a seamless payment experience that would put security and user privacy at the forefront. Apple Pay debuted as a tool designed to replace physical wallets, enabling users to pay for goods and services with just a tap of their iPhone or Apple Watch. From its inception, Apple Pay has emphasized security and privacy. Apple uses tokenization technology, which substitutes sensitive payment information with a unique token, ensuring that card numbers are never shared with merchants. This has resulted in an industry-leading low level of fraud for Apple Pay transactions, reinforcing trust among users worldwide. Global Reach: Expanding Apple Pay Across the World Apple Pay has grown significantly since its launch, now available in 78 markets, supported by over 11,000 banks and network partners. Apple Pay is integrated into millions of websites, apps, and physical stores, enabling users to pay seamlessly whether they’re shopping online, buying groceries, or using public transportation. The service is compatible across iPhone, Apple Watch, iPad, and Mac, making it accessible for users wherever they are and whatever device they choose. User Experience: Why Consumers Love Apple Pay One of the most compelling aspects of Apple Pay is its ease of use. According to a recent survey: - 90% of users cited ease of use as a top reason for their preference. - 88% valued the privacy that Apple Pay offers. - 87% highlighted the security of the service. Apple Pay’s design ensures that users can pay with a single touch or glance, reducing friction and providing a highly convenient experience. For example, Apple Pay’s transit integration in Tokyo has become a staple for millions of commuters. It allows users to tap their devices at turnstiles without needing to wake or unlock them, speeding up the commute for people who use the bustling subway system every day. What’s New: Rewards, Installments, and Beyond Looking ahead, Apple Pay continues to innovate and expand its services to meet the evolving needs of its users. With iOS 18, Apple is introducing options for users to redeem rewards and access installment loans directly at checkout. New Installment Options with Apple Pay Apple Pay now offers flexible payment options through partnerships with providers like Affirm, Monzo Flex, and Klarna, allowing eligible users in the U.S. and the U.K. to split payments into installments. These new installment options will soon be available through major financial institutions globally, including Citi, Synchrony, HSBC, and ANZ. This makes it easier for users to manage their finances, giving them greater control and flexibility over their purchases. Redeem Rewards with Apple Pay In addition to installment options, Apple Pay users in the U.S. can now redeem rewards with eligible Discover credit cards at checkout. This feature is expected to roll out with additional financial partners, including Synchrony and DBS, making it easier for customers to use their cashback and points seamlessly. Expanding the Apple Wallet Experience Apple’s broader vision for Apple Wallet aims to replace traditional wallets entirely, housing everything from event tickets and transit cards to government IDs and keys. Apple Wallet ensures that these essentials are easily accessible and secure, eliminating the need for physical documents and enhancing convenience. With Tap to Provision, users can now quickly add credit or debit cards to Apple Wallet by simply tapping their eligible cards to the back of their iPhone. This feature, along with Apple Pay on third-party web browsers and computers, enhances the Apple Wallet ecosystem and further integrates it into users' daily lives. Privacy and Security: Apple Pay’s Top Priority Apple Pay’s success is built on a foundation of privacy and security. Apple continues to lead the industry by incorporating advanced technologies like Face ID and Touch ID for biometric authentication. Card numbers are never stored on devices or Apple servers, nor shared with merchants, reinforcing user trust and safeguarding personal information. Apple Pay also provides tools for fraud prevention, enabling financial institutions to offer Apple Pay transactions with some of the lowest fraud rates in the industry. This ensures that users can confidently rely on Apple Pay, knowing their financial information is protected. What the Future Holds for Apple Pay As Apple Pay celebrates a decade of success, it remains committed to innovating and delivering even more features that enhance user experience. With the introduction of installment payments, expanded rewards redemption, and ongoing integration of digital wallets, Apple Pay is poised to remain at the forefront of digital payments for years to come. Jennifer Bailey sums up the journey well, stating, “The last decade was an incredible journey, and we’re thrilled that so many people around the world are enjoying the experience that Apple Pay and Apple Wallet provide. I can’t wait to see what the next 10 years have in store.” In conclusion, Apple Pay has revolutionized digital payments, and with its continuous innovations, it is set to shape the future of secure, convenient, and flexible financial transactions globally.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jennifer Bailey",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T01:11:19.840+03:00",
+    "updated": "2024-10-20T04:51:41.831+03:00"
+  },
+  {
+    "uuid": "c70fe499d544c936ba68f0d5f8c93f59da5856b1",
+    "url": "https://carnegiescience.edu/new-model-successfully-connects-large-scale-ecological-patterns-microscopic-biology",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NMetzler",
+    "published": "2024-02-15T23:26:00Z",
+    "title": "New model successfully connects large-scale ecological patterns with microscopic biology",
+    "text": "Washington, DC— A new model that defines the connections between individual level ecological processes and larger aquatic food webs—linking microscopic biology with ecology in greater detail than previously thought possible—could deepen our understanding of the laws of nature and inform ecosystem management efforts. Developed by researchers from Carnegie and Michigan State University, the model demonstrates that relationships that shape individual plankton physiology and plankton community dynamics—for example, the correlation between an organism’s size and its nutrient consumption—scale up in mathematically predictable ways that affect whole ecosystems. Their results are published in Science. “We can now show how lower-level rules of life feed into these higher levels based on ecological interactions and evolutionary considerations,” explained Carnegie’s Elena Litchman, whose long-standing collaboration with MSU’s Chris Klausmeier underpinned this project. “Up until now, people had considered these levels in isolation.” Over the past several decades, scientists have formulated mathematical rules that separately describe important relationships at the microscale and macroscale. However, attempts to bridge the scales have left researchers wanting. That’s because previous attempts to accomplish this goal have had to make compromises, according to lead author Jonas Wickman, an MSU postdoc. Some earlier models have chosen simplicity at the expense of accuracy and realism. Others have confronted that complexity with brute computational force, making them less accessible and more unwieldy. “Our model includes actual ecological and evolutionary mechanisms but is simple enough to use,” Wickman said. “The revelation that patterns emerging at macroecological scales can be explained by properties of individual organisms at microecological scales is as compelling as it is elegant,” added Steve Dudgeon, program director in the U.S. National Science Foundation’s Directorate for Biological Sciences, which helped fund the work. “The study provides new avenues of research that could enhance prediction of how ecosystems, and the relationships among the organisms in them, will change with eco-evolutionary dynamics interacting in changing environments.” Focusing on plankton, Litchman and Klausmeier’s joint research effort deploys a combination of fieldwork, lab research, mathematical modeling, and data synthesis to pursue fundamental questions about community ecology and reveal the ways that ecosystem dynamics play out across scales—from the physiological to the global. “They’re relatively simple organisms, ”Klausmeier said, describing plankton. “If anything is going to follow the rules, plankton are a good candidate. But they’re also globally important. They’re responsible for about half of the primary production on Earth and are the base of most aquatic food webs.” Primary producers use biochemical processes such as photosynthesis to turn the Earth’s carbon and raw nutrients into compounds that are useful for the organisms themselves, as well as often for their predators or even humans. This means plankton are a critical cog in the natural machinery that cycles the planet’s life-essential elements, including carbon, nitrogen, and oxygen. This new scaling model that describes plankton can be useful for better understanding those key processes, as well as if and how they are changing with the planet’s climate. The team did not include climate-associated variables like temperature in this study, but they are already planning their next steps in that direction. Looking ahead, Litchman, Klausmeier, and Wickman will design new experiments to test, refine, and expand their model by extending it to other species and ecosystems. This could ultimately lead to the model being able to inform ecosystem management strategies in various environments around the globe. “The effects of global warming could alter the lower-level physiological processes,” Litchman said. “We could then use this framework to see how those effects bubble up to different levels of organization.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "elena litchman",
+          "sentiment": "none"
+        },
+        {
+          "name": "carnegie",
+          "sentiment": "none"
+        },
+        {
+          "name": "chris klausmeier",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "michigan state university",
+          "sentiment": "none"
+        },
+        {
+          "name": "msu",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "washington, dc",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-16T02:18:06.672+02:00",
+    "updated": "2024-02-23T07:13:23.688+02:00"
+  },
+  {
+    "uuid": "07530d9a534b461eca4c2a3be06002253135c172",
+    "url": "https://www.targatocn.it/2024/10/12/leggi-notizia/argomenti/ultimora/articolo/sole-e-temperature-in-salita-su-tutta-italia-arriva-lottobrata.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "webinfo@adnkronos.com (Web Info)",
+    "published": "2024-10-12T06:19:00Z",
+    "title": "Sole e temperature in salita, su tutta Italia arriva l'Ottobrata",
+    "text": "(Adnkronos) - Roma, sabato 12 Ottobre 2024\nAddio maltempo, sull'Italia sta arrivando l’alta pressione che porterà temperature miti da Nord a Sud regalandoci una calda ottobrata, soprattutto a partire da lunedì. Mattia Gussoni, meteorologo de iLMeteo.it, conferma dunque il deciso miglioramento delle condizioni meteo sul nostro Paese, dopo 10 giorni di continue piogge al Centro-Nord.\nNelle prossime ore avremo prevalenza di sole, ma non mancheranno delle insidie: il cielo sarà più nuvoloso su Piemonte poi su Liguria, Valle d’Aosta e Lombardia occidentale; dal pomeriggio qualche addensamento non è escluso anche su Appennini, Alpi orientali ed Alta Toscana. Altrove il sole sarà dominante e le temperature massime saranno gradevoli: al Nord tra i 18°C e i 23°C, al Centro tra i 21°C e i 25°C, al Sud tra i 23°C e i 28°C.\nDomenica 13 ottobre sarà ancora più soleggiata: il cielo sarà in prevalenza sereno salvo nubi medio-basse su Piemonte meridionale e Friuli Venezia Giulia, specie al mattino. Durante tutto il weekend non sono attese precipitazioni se non qualche piovasco sabato su Valle d’Aosta, Alto Piemonte, Alta Lombardia e Liguria (qui effimero).\nLa nuova settimana si aprirà poi con una situazione ancora simile: avremo tanto sole al Centro-Sud, qualche insidia al Nord. Lunedì è previsto un aumento della nuvolosità sul settentrione con la possibilità di isolata pioviggine, più probabile al Nord-Ovest, ma in realtà il tempo resterà piuttosto stabile e soleggiato quasi ovunque.\nIn tendenza si profila dalla prossima settimana un campo di alta pressione sul nostro Paese, circondato a destra e sinistra da due zone cicloniche, una sulla Spagna ed una sulla Turchia.\nGuardando le mappe meteo previste per la prossima settimana, appare dunque un disegno ad Omega, una figura molto difficile da scalzare e da mutare nel breve termine. In altre parole è probabile che avremo molte piogge sulla Penisola Iberica e sulla Turchia, mentre l’Italia sarà baciata dal sole per più giorni (qualche insidia potrebbe arrivare solo sul fianco più occidentale, da confermare).\nE con il Blocco ad Omega l’Italia vivrà molto probabilmente una bella e lunga Ottobrata, quella fase soleggiata e a tratti calda caratteristica dell’Autunno italiano. Sono previste massime fino a 30°C al Sud e 26-27°C anche a Roma e Firenze! Benvenuta Ottobrata.\nNEL DETTAGLIO\nSabato 12. Al Nord: nuvoloso. Al Centro: soleggiato. Al Sud: soleggiato.\nDomenica 13. Al Nord: nubi irregolari. Al Centro: via via più nuvoloso. Al Sud: bel tempo.\nLunedì 14. Al Nord: piovaschi a ovest. Al Centro: poco nuvoloso. Al Sud: bel tempo.\nTendenza: rinforzo dell’anticiclone con una bella Ottobrata, un po’ più incerto al Nord.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-12T11:25:40.943+03:00",
+    "updated": "2024-10-12T11:25:40.943+03:00"
+  },
+  {
+    "uuid": "ac13770bfc1da58ecb77f81d90d7aa7afb1d7db2",
+    "url": "http://www.eeo.com.cn/2025/0619/733083.shtml",
+    "ord_in_thread": 0,
+    "author": "经济观察网",
+    "published": "2025-06-19T00:00:00Z",
+    "title": "创业板指跌幅扩大至1% 全市场近4600只个股飘绿 - 经济观察网 － 专业财经新闻网站",
+    "text": "用户名登录/手机号登录\n还没有账号？免费注册\n+\n-\n同花顺7x24快讯2025-06-19 11:27\n创业板指跌幅扩大至1%，上证指数跌0.79%，深证成指跌0.94%，全市场近4600只个股飘绿。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->market and exchange"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:38:32.704+03:00",
+    "updated": "2025-06-19T04:48:42.000+00:00"
+  },
+  {
+    "uuid": "7dabff41dcb8c7c7f0c9a827d11592c0e5f1ef47",
+    "url": "https://www.thehindu.com/news/cities/chennai/coastal-and-delta-districts-may-get-heavy-rain-from-december-16/article68982088.ece",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Hindu Bureau",
+    "published": "2024-12-13T22:22:00Z",
+    "title": "Coastal and delta districts may get heavy rain from December 16 - The Hindu",
+    "text": "The coastal region and delta districts will have to brace for the next spell of heavy rain from December 16.\nEven as the low-pressure area is likely to weaken by Saturday, the Regional Meteorological Centre (RMC), Chennai, has forecast that another low-pressure area will form in two days and trigger intense rain.\nThe active Northeast monsoon influenced the formation of back-to-back weather systems.\nThere has been an increase in the rainfall episodes, with some weather stations receiving 50 cm in a single day.\nThis calls for a study of the phenomenon and better preparedness for disaster management, S. Balachandran, Additional Director-General of Meteorology, Chennai, said. Rain continued in several parts of the State till Friday evening. Virudhunagar received 12 cm of rain, followed by Thoothukudi (10 cm) till 5.30 p.m.\nAfter a break of two days, the RMC said fairly widespread rainfall would continue over the State from Monday. An upper air cyclonic circulation, likely to form over south Andaman Sea on Saturday, will influence the formation of a fresh low-pressure area over the southern parts of the Bay of Bengal. It will move west-northwestwards, towards the Tamil Nadu coast, by Monday.\nHeavy rain forecast Six districts may receive heavy rain on Monday, and the intensity will pick up on December 17 and 18.\nThe RMC has issued an orange alert for Cuddalore and Mayiladuthurai districts and Karaikal for Tuesday, and various other coastal and delta districts would continue to receive heavy rainfall in isolated places till Wednesday.\nThere were downpours in Tirunelveli, Tenkasi and Thoothukudi districts on Friday.\nOothu in Tirunelveli district recorded 54 cm rainfall on Friday, followed by Ambasamudram in Tirunelveli district and Kovilpatti in Thoothukudi district (37 cm each).\nMr. Balachandran said the slow-moving, unique weather system brought widespread heavy rain over the State on Thursday.\nOn a single day, Tamil Nadu’s average rainfall during this Northeast monsoon shifted from normal to excess by 33%.\nThursday’s rainfall added nearly 17% to the State’s seasonal rainfall. A total of 25 places in the State received extremely heavy rainfall and 81 places recorded very heavy rainfall as northeast monsoon became vigorous.\nThe State has already received 53.4 cm, way more than its seasonal average of 44 cm. Five districts, including Krishnagiri and Tirupattur, have recorded largely excess rainfall and many others received surplus rainfall this monsoon, Mr. Balachandran added.\nPublished - December 14, 2024 03:22 am IST\nRead Comments Copy link Email Facebook Twitter Telegram LinkedIn WhatsApp Reddit READ LATER Remove SEE ALL PRINT",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://t.me/share/url?url=https%3A%2F%2Fwww.thehindu.com%2Fnews%2Fcities%2Fchennai%2Fcoastal-and-delta-districts-may-get-heavy-rain-from-december-16%2Farticle68982088.ece&text=Coastal%20and%20delta%20districts%20may%20get%20heavy%20rain%20from%20December%2016",
+      "https://api.whatsapp.com//send?text=Coastal%20and%20delta%20districts%20may%20get%20heavy%20rain%20from%20December%2016%20-%20https%3A%2F%2Fwww.thehindu.com%2Fnews%2Fcities%2Fchennai%2Fcoastal-and-delta-districts-may-get-heavy-rain-from-december-16%2Farticle68982088.ece",
+      "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.thehindu.com%2Fnews%2Fcities%2Fchennai%2Fcoastal-and-delta-districts-may-get-heavy-rain-from-december-16%2Farticle68982088.ece&title=Coastal%20and%20delta%20districts%20may%20get%20heavy%20rain%20from%20December%2016",
+      "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.thehindu.com%2Fnews%2Fcities%2Fchennai%2Fcoastal-and-delta-districts-may-get-heavy-rain-from-december-16%2Farticle68982088.ece&text=Coastal%20and%20delta%20districts%20may%20get%20heavy%20rain%20from%20December%2016",
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thehindu.com%2Fnews%2Fcities%2Fchennai%2Fcoastal-and-delta-districts-may-get-heavy-rain-from-december-16%2Farticle68982088.ece&t=Coastal%20and%20delta%20districts%20may%20get%20heavy%20rain%20from%20December%2016",
+      "https://reddit.com/submit?url=https%3A%2F%2Fwww.thehindu.com%2Fnews%2Fcities%2Fchennai%2Fcoastal-and-delta-districts-may-get-heavy-rain-from-december-16%2Farticle68982088.ece&title=Coastal%20and%20delta%20districts%20may%20get%20heavy%20rain%20from%20December%2016",
+      "https://reddit.com/submit",
+      "https://www.reddit.com/submit?url=https%3A%2F%2Fwww.thehindu.com%2Fnews%2Fcities%2Fchennai%2Fcoastal-and-delta-districts-may-get-heavy-rain-from-december-16%2Farticle68982088.ece&title=Coastal%20and%20delta%20districts%20may%20get%20heavy%20rain%20from%20December%2016",
+      "https://www.t.me/share/url?url=https%3A%2F%2Fwww.thehindu.com%2Fnews%2Fcities%2Fchennai%2Fcoastal-and-delta-districts-may-get-heavy-rain-from-december-16%2Farticle68982088.ece&text=Coastal%20and%20delta%20districts%20may%20get%20heavy%20rain%20from%20December%2016",
+      "https://t.me/share/url",
+      "https://www.twitter.com/intent/tweet?url=https%3A%2F%2Fwww.thehindu.com%2Fnews%2Fcities%2Fchennai%2Fcoastal-and-delta-districts-may-get-heavy-rain-from-december-16%2Farticle68982088.ece&text=Coastal%20and%20delta%20districts%20may%20get%20heavy%20rain%20from%20December%2016",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.linkedin.com/shareArticle",
+      "https://api.whatsapp.com//send",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thehindu.com%2Fnews%2Fcities%2Fchennai%2Fcoastal-and-delta-districts-may-get-heavy-rain-from-december-16%2Farticle68982088.ece&t=Coastal%20and%20delta%20districts%20may%20get%20heavy%20rain%20from%20December%2016",
+      "https://www.api.whatsapp.com//send?text=Coastal%20and%20delta%20districts%20may%20get%20heavy%20rain%20from%20December%2016%20-%20https%3A%2F%2Fwww.thehindu.com%2Fnews%2Fcities%2Fchennai%2Fcoastal-and-delta-districts-may-get-heavy-rain-from-december-16%2Farticle68982088.ece",
+      "https://linkedin.com/shareArticle?url=https%3A%2F%2Fwww.thehindu.com%2Fnews%2Fcities%2Fchennai%2Fcoastal-and-delta-districts-may-get-heavy-rain-from-december-16%2Farticle68982088.ece&title=Coastal%20and%20delta%20districts%20may%20get%20heavy%20rain%20from%20December%2016",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-14T01:11:11.317+02:00",
+    "updated": "2024-12-14T02:59:32.135+02:00"
+  },
+  {
+    "uuid": "af3c59daea28ad366fecb0f194edbe9ab3b86ae3",
+    "url": "https://www.eurosport.fr/basketball/turkish-airlines-euroleague/2023-2024/euroligue-villeurbanne-tient-tete-au-real-mais-perd-encore_sto9937265/story.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eurosport_FR",
+    "published": "2023-12-28T22:03:00Z",
+    "title": "L'Asvel y a cru mais perd encore",
+    "text": "Euroligue : Villeurbanne tient tête au Real mais perd encore\nParAFP\nPublié 29/12/2023 à 00:03 GMT+1\nNouveau match d'Euroligue et nouvelle défaite pour l'Asvel. L'équipe de Villeurbanne a concédé sur son parquet de la LDLC Arena de Décines sa 15e défaite de la saison en Euroligue. Malgré un match accroché face au Real Madrid, les hommes de Gianmarco Pozzecco se sont une nouvelle fois inclinés. Le club de Tony Parker n'a toujours pas remporté le moindre match de la compétition à domicile.\nVilleurbanne a concédé sa quinzième défaite de la saison en Euroligue après s'être incliné d'un point (77-76) face au Real Madrid, champion d'Europe, jeudi à la LDLC Arena de Décines-Charpieu lors du match des extrêmes de la 17e journée.\nL'Asvel qui ne compte que deux victoires, à l'extérieur en C1, occupe la dernière place d'un classement dont le Real est premier avec un seul revers pour seize victoires à la fin de la phase aller. \"Je suis triste pour mes joueurs car la situation n'est pas facile. Nous avons joué dur, de la bonne manière et nous nous sommes offert une opportunité de gagner. Je suis quand même heureux car j'ai vu des attitudes différentes aujourd'hui, comme aux entraînements. Il faut continuer ainsi et regarder devant nous en conservant cette énergie\", a commenté l'entraîneur villeurbannais, Gianmarco Pozzecco. Celui-ci a encore dit qu'il continuait \"de parler avec les dirigeants pour scruter le marché\", dans le but de renforcer l'effectif.\nLoin du niveau requis\nPrivé de son leader, Nando de Colo, blessé à un mollet, l'équipe villeurbannaise a pourtant mené la vie dure aux Madrilènes dans une rencontre au cours de laquelle les deux équipes ont été assez maladroites, sur les tirs (25/45, 55,6% pour l'Asvel, 24/46, 52,2% pour Real) comme à trois points (6/18 pour Villeurbanne, 5/15 pour Madrid).\nAprès avoir gagné les deux premiers quarts-temps (19-18, 20-15), portée par Paris Lee (17 pts), Joffrey Lauvergne (16 pts) et Timothe Luwawu-Cabarrot (20 pts), la formation de Gianmarco Pozzecco menait 39-33 à la mi-temps avant de partager les points dans le troisième (18-18, 57-51). Le match a tourné au début du dernier quart quand le Real, privé du Français Guershon Yabusele, Mario Hezonja, Gabriel Deck et Rudy Fernandez, a mené pour la première fois du match (59-57, 33e).\nL'équipe espagnole s'est alors détachée au score pour s'imposer, même si les Villeurbannais sont revenus à un point à trois secondes de la fin (77-76) après avoir égalisé à 48 secondes de la sirène (74-74). L'année 2023 aura été terrible pour l'Asvel en Euroligue avec seulement quatre succès dont un seul à domicile, où Villeurbanne n'a plus gagné depuis janvier dernier, pour un total de 29 défaites.\nCe bilan confirme que l'équipe de Tony Parker est encore loin du niveau requis en Euroligue, malgré sa nouvelle Arena ultra moderne pour les matches de la plus prestigieuse compétition européenne de basket.\nSur le même sujet\nPartager cet article\nPublicité\nAd\nPublicité\nAd",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:12:07.661+02:00",
+    "updated": "2023-12-29T01:12:07.661+02:00"
+  },
+  {
+    "uuid": "f8b62f8f73685cab9856525dbe4fa92f2d94f4b0",
+    "url": "https://indianexpress.com/article/cities/mumbai/team-india-t20-world-cup-victory-parade-bmc-11500-kg-waste-mumbai-marine-drive-9434629",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nayonika Bose",
+    "published": "2024-07-05T04:21:00Z",
+    "title": "After Team India’s T20 World Cup victory parade, BMC collects 11,500 kg waste from Mumbai’s Marine Drive",
+    "text": "From shoes and clothes to plastic bottles – a day after Mumbaikars gathered to celebrate the Indian Cricket Team winning the T20 World Cup, the Brihanmumbai Municipal Corporation (BMC) collected 11,500 kg (11.5 metric tonne) on the side of the road. The speed of Marine Drive.\nA BMC official said, “Due to the large number of people who have arrived in the area, sanitation services are disrupted in a short period of time. Even then, the drive was completed by 8 am, during which time, we removed and loaded the waste in one computer, one dumper and five SCBVs. “Most of the waste that was loaded into the small trucks was soft, which is heavy but not too heavy,” said a government official.\nDriving at night\nIn an overnight drive, the civic body has mobilized 100 workers, including laborers, to ensure that the encroachments are cleared even before morning commuters arrive on Friday.\nWhen the victory-victory came to an end and the sea of ​​fans entered the river of a few, the Marine Drive stadiums were left with garbage ranging from plastic bottles, chip papers, cups, papers, clothes and even shoes and boots. chappals, which several guests lost in the commotion of the panic-stricken crowd. (Source: Express Photos/ BMC)\nBringing life to a standstill in the biggest city on Thursday night, many fans flocked to see the “Men in Blue” group that took place on a 1.7 kilometer long journey from the National Center for Performing Arts (NCPA) to the Wankhede Stadium. Packed like sardines, thousands thronged the Wankhade Stadium to cheer on their heroes, as well as the T20 World Cup trophy, which arrived at the stadium around 8.30 pm.\nWhat the fans left behind\nWhen the victory-victory came to an end and the sea of ​​fans entered the stream of a few, the Marine Drive stadiums were left with garbage ranging from plastic bottles, chip papers, cups, papers, clothes and even shoes and boots. chappals, which several guests lost in the commotion of the panic-stricken crowd.\nWithout wasting time, at 11.30 pm on Thursday, the BMC sent around 100 workers from the waste management department who started their cleanliness drive. The development agency also hired 25 workers through non-governmental organizations, which helped with the operation.\nDumper, compactor, five small trucks and 11.5 MT garbage\nWorking through the night, government workers picked up two trucks – one dumper and one computer – containing more than nine pieces of garbage. According to a BMC official, the capacity of one dumper is three metric tons and one compactor holds six tons of waste.\nIn addition to this, the development agency also filled five small closed vans (SCBV) with odd items like shoes, chappals and other recyclables, which were later dropped at Suraksha Garden. Each SCBV has a holding capacity of 500 kg. The cleanup was completed by 8am on Friday.\nSeveral citizens who flocked to Marine Drive on their morning commute took to social media to praise the government workers for clearing the garbage overnight. (Source: Express Photos/ BMC)\nAccording to the community organization, five small jeeps containing reusable items such as shoes and slippers will be sent for recycling.\nNetizens appreciate BMC's efforts\nSeveral citizens who flocked to Marine Drive on their morning commute took to social media to praise the government workers for clearing the garbage overnight.\nUser X, @ivaibhavk, shared a video and wrote, “Thank you to the sanitation workers of the Mumbai Municipal Corporation. Before the citizens who celebrated the World Cup victory woke up, the sanitation workers had already cleaned and repaired the area of ​​Marine Drive. Last night, the area of Marine Drive was littered with thousands of shoes, and these workers were busy clearing away the debris. By morning, they had restored Mumbai to its original state. We all have to thank these workers, one for the night and one for the morning .\nMany thanks to the sanitation workers of the Mumbai Municipal Corporation.\nBefore the citizens who celebrated the World Cup victory woke up, the sanitation workers had already cleaned and repaired the area of ​​Marine Drive. Last night, the Marine Drive area was… pic.twitter.com/VJvDaPDCUC\n— Vaibhav Kokat (@ivaibhavk) July 5, 2024\nSource link",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mumbaikar",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "brihanmumbai municipal corporation",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "bmc",
+          "sentiment": "none"
+        },
+        {
+          "name": "mumbai",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T12:26:23.348+03:00",
+    "updated": "2024-07-06T00:41:14.146+03:00"
+  },
+  {
+    "uuid": "c856e7ecd19341dcafa82b9aed9aedc8f2cf4168",
+    "url": "https://www.dnaindia.com/delhi-ncr/report-delhi-ncr-news-intense-fog-grips-national-capital-flights-and-trains-delayed-traffic-advisory-issued-3072945",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Shivam Verma",
+    "published": "2023-12-29T03:51:00Z",
+    "title": "Delhi-NCR news: Intense fog grips national capital, flights and trains delayed, traffic advisory issued",
+    "text": "Delhi ncr The India Meteorological Department (IMD) stated that the visibility at the IGI airport improved significantly this morning, though the lowest recorded visibility remained at 150 metres. Dense fog continued to halt flight and train schedules in the national capital on Friday morning, severely affecting operations at Delhi's Indira Gandhi International (IGI) airport. Meanwhile, the India Meteorological Department (IMD) stated that the visibility at the IGI airport improved significantly this morning, though the lowest recorded visibility remained at 150 metres. IMD claimed an improvement in fog conditions at the airport compared to the last two days, with the Runway Visual Range (RVR) ranging from 400m to 800m. — ANI (@ANI) [#WATCH]| Delhi: Dense fog can be seen gripping the national capital amidst the cold wave (Drone Visuals, 7:30 am) [pic.twitter.com/wpxJo5OwiD] [December 29, 2023] Despite this slight improvement, Anand Vihar Railway Station experienced delays and cancellations of trains. Over the past three days, around 60 flights were diverted, and many experienced delays due to the dense fog. Between December 25 and December 28, a total of 58 flights, primarily domestic, were diverted due to adverse weather conditions, reported News18. — ANI (@ANI) [#WATCH]| Delhi: Few flights delayed due to fog and low visibility in the national capital; Visuals from Indira Gandhi International Airport [pic.twitter.com/mlCrrZ7QlT] [December 29, 2023] With Delhi under a \"Red Alert\" due to the looming dense fog and low visibility, the Delhi Police issued a traffic advisory on Thursday to prevent accidents and fatalities: - Know your destination and set out the plan of your route. - Ensure lights, brakes, tyres, windscreen wipers, radiator, battery and car heating system are working properly. Get repair or replacement if required. - Keep your windows and mirrors clean. Use your defroster and wipers to maximize your vision. - If possible, keep a high visibility jacket and torch in the car so that you can see and be seen in case you want to get out of the car. - Use headlights on low-beam as high beams get reflected back in the fog and reduce visibility. - If visibility is reduced, turn on fog lights, reduce speed and slow down, watch speedometer, don't drive beyond speed limits. - Keep safe distance and avoid tail-gating to have adequate time to apply brakes in case of sudden stops. - Use the right edge of the road or painted road markings/central divider as a guide and be patient. - Do not attempt to overtake other vehicles. - Avoid distractions like listening to music and consuming food or beverages, and smoking while driving. - In extremely dense fog where visibility is near zero, the best course of action is to first turn on your hazard lights, then simply pull into a safe location such as a parking lot of a local business and stop. - If there is no parking lot or driveway to pull into, pull your vehicle off to the side of the road as far as possible. Once you come to a stop, turn off all lights except your hazard flashing lights, set the emergency brake, and take your foot off of the brake pedal to be sure the tail lights are not illuminated so that other drivers don't mistakenly run into you. - Don't speed up suddenly, even if the fog seems to be clearing. You could find yourself suddenly back in the fog.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "ncr",
+          "sentiment": "negative"
+        },
+        {
+          "name": "india meteorological department",
+          "sentiment": "negative"
+        },
+        {
+          "name": "imd",
+          "sentiment": "none"
+        },
+        {
+          "name": "igi",
+          "sentiment": "none"
+        },
+        {
+          "name": "anand vihar railway station",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "indira gandhi international",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T05:52:46.993+02:00",
+    "updated": "2023-12-29T05:52:46.993+02:00"
+  },
+  {
+    "uuid": "eda21a815353628ac15fb04d1b2ecb2ff94fb81a",
+    "url": "https://news.knowledia.com/GB/en/articles/400-jobs-to-go-as-grangemouth-refinery-ceases-production-c57f17fd838953f5f00e334b6a01c8c8c6f242f5",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andrew Learmonth",
+    "published": "2024-09-12T23:13:00Z",
+    "title": "400 jobs to go as Grangemouth refinery ceases production",
+    "text": "Grangemouth refinery will cease production next year, with around 400 jobs expected to be lost. The closure of the facility at Grangemouth comes despite Project Willow, a study funded by the UK and Scottish governments looking at ways to secure a future for the site.\nMinisters have urged the company to keep \"refining open for as long as possible\".\nREAD MORE\nIn a statement, Frank Demay, Chief Executive Officer at Petroineos Refining, said: \"The energy transition is happening now and it is happening here.\n\"Demand for key fuels we produce at Grangemouth has already started to decline and, with a ban on new petrol and diesel cars due to come into force within the next decade, we foresee that the market for those fuels will shrink further.\n\"That reality, aligned with the cost of maintaining a refinery built half a century ago, means we are exploring ways to adapt our business.\"\nThe company first announced plans to close the refinery last November, with the site turned into a finished fuels import terminal and distribution hub.\nHowever, this \"requires significantly fewer people to operate\".\nThe company will enter a formal redundancy process with unions.\nThey say they expect the transformation to \"lead to a net reduction of approximately 400 roles over the next two years\".\nMr Demay, said: \"Unfortunately, a terminal would require only around one-fifth of the current refinery workforce.\n\"Therefore we will soon enter an information and consultation process with representatives of our employees to discuss the proposals.\n\"We have already agreed to move from the UK statutory minimum redundancy terms to an 18-month package and if plans proceed we intend to do everything we can to reduce the impact on our people.\n\"We will of course be seeking to minimise compulsory redundancies as far as possible.\"\nShortly after the news of the closure, the UK and Scottish governments unveiled a \"three-point plan for a just transition for the workforce and community\".\n(Image: Chris Watt Photography)\nThe package includes £20m of new joint funding from the UK and Scottish…\nAndrew Learmonth",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.heraldscotland.com/news/24579687.grangemouth-refinery-cease-production/?ref=rss",
+      "https://heraldscotland.com/news/24579687.grangemouth-refinery-cease-production/?ref=rss",
+      "https://www.heraldscotland.com/news/24579687.grangemouth-refinery-cease-production/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "frank demay",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-13T03:30:22.106+03:00",
+    "updated": "2024-09-13T03:30:22.106+03:00"
+  }
+]

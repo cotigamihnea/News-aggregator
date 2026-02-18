@@ -1,0 +1,543 @@
+[
+  {
+    "uuid": "bf21e9d470b70ca6a845b21aaffb1ff4819eb974",
+    "url": "https://13wham.com/news/local/rochester-woman-casey-clohessy-charged-with-multiple-felonies-after-being-found-unconscious-at-traffic-light-henrietta-jay-scutti",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "WHAM",
+    "published": "2023-12-28T19:53:00Z",
+    "title": "chevron-right",
+    "text": "A Dense Fog Advisory will remain in effect for much of the area through 7 AM Friday. Henrietta, N.Y. – A Rochester woman faces charges after police say they found her unconscious behind the wheel at an intersection. Police responded to reports of a suspicious vehicle at the intersection of Jefferson Road and Jay Scutti Boulevard in Henrietta around 4:40 a.m. on Christmas Eve. After running the license plates, officers discovered the car had been reported stolen two weeks ago. Police say the driver, Casey R. Clohessy, 36, was unconscious behind the wheel of a Nissan Sentra with drug paraphernalia visible. After deputies attempted to put the car in park, Clohessy allegedly woke up and tried to drive off. A deputy removed the keys from the ignition. Police said Clohessy tried to run away but was taken into custody. Clohessy is charged criminal possession of stolen property, operating a motor vehicle while under the influence of alcohol or drugs, aggravated unlicensed operation and resisting arrest. She also had outstanding warrants out of Monroe County Court, Rochester City Court and Irondequoit Town Court. She faces an additional charge of criminal possession of stolen property stemming from a warrant. Clohessy was arraigned in Henrietta Town Court and taken to Monroe County Jail on a warrant. She remains listed on the jail roster.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "henrietta",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "casey r. clohessy",
+          "sentiment": "none"
+        },
+        {
+          "name": "jay scutti boulevard",
+          "sentiment": "none"
+        },
+        {
+          "name": "clohessy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "rochester city court",
+          "sentiment": "none"
+        },
+        {
+          "name": "monroe county court",
+          "sentiment": "none"
+        },
+        {
+          "name": "nissan",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "n.y.",
+          "sentiment": "none"
+        },
+        {
+          "name": "rochester",
+          "sentiment": "none"
+        },
+        {
+          "name": "jefferson road",
+          "sentiment": "none"
+        },
+        {
+          "name": "henrietta",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:01:06.370+02:00",
+    "updated": "2023-12-29T00:01:06.370+02:00"
+  },
+  {
+    "uuid": "f4af6f22538d57484885c66bc86c0a88d1c51ddd",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrft3928280.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:32:00Z",
+    "title": "线上消费ETF（159725）跌0.61%，半日成交额32.03万元_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，线上消费ETF（159725）跌0.61%，报0.816元，成交额32.03万元。线上消费ETF（159725）重仓股方面， 科大讯飞 截止午盘跌0.55%， 光线传媒 跌3.68%， 昆仑万维 跌0.64%， 拓维信息 跌1.85%， 恺英网络 涨0.53%， 神州泰岳 跌0.63%， 蓝色光标 跌1.56%， 东华软件 跌0.66%， 三七互娱 涨7.75%， 永辉超市 跌1.64%。\n线上消费ETF（159725）业绩比较基准为中证线上消费主题指数收益率，管理人为工银瑞信基金管理有限公司，基金经理为史宝珖，成立（2021-06-11）以来回报为-17.82%，近一个月回报为3.97%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:21.654+03:00",
+    "updated": "2025-06-20T05:06:34.000+00:00"
+  },
+  {
+    "uuid": "ce40b709cf907ea9c54ca00c53512fa088c548b8",
+    "url": "https://cheapclimatecontrolledsto52602.pages10.com/the-ultimate-guide-to-ez-storage-59776672",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cheapclimatecontrolledsto",
+    "published": "2023-12-28T17:03:00Z",
+    "title": "The Ultimate Guide To Ez Storage",
+    "text": "Everything about Ez Storage\nTable of ContentsIt was additionally less costly. Although these uses still persist, the terms key and second storage have actually taken on somewhat different meanings (\nThe Best Strategy To Use For Ez Storage Not known Details About Ez Storage Some Known Questions About Ez Storage. Getting The Ez Storage To Work https://pages10.com/new#content-section-4 Some Known Details About Ez Storage https://ez-storage-44782073.hubspotpagebuilder.com/riding-the-wave-of-convenience-with-warrington-ez-storages-ez-mini/riding-the-wave-of-convenience-with-warrington-ez-storages-ez-mini). These days, main storage space-- often referred to as primary storage-- typically refers to any type of storage space that can properly support day-to-day applications and service workflows. Main storage makes certain the ongoing operation of application workloads main to a firm's daily manufacturing and major lines of company.\nIn comparison, additional storage space can include just concerning any type of kind of storage that's not considered primary., referral information, archived information, older functional data or any type of other kind of data that isn't crucial to primary business operations.\nWhen it comes to SSD endurance, the types of work and NAND gadgets can additionally play an important role in a gadget's endurance, and in this regard, SSDs can differ considerably from one gadget to the next.\nSome Known Factual Statements About Ez Storage\n5-inch physical diskette, enabling users to place a photo documents like they would the A: drive on a computer system (ez storage philadelphia). Venture storage suppliers offer incorporated NAS systems to aid organizations collect and handle huge volumes of data. The hardware includes storage space arrays or storage web servers equipped with disk drives, flash drives or a crossbreed mix\nObject storage space likewise sustains the comprehensive usage of metadata. In a SAN atmosphere, block tools show up to the host as in your area connected storage space.\nSeveral venture storage suppliers also use well-known assembled and composable facilities items. Comparing typical, hyper-converged, disaggregated hyper-converged and composable infrastructures Learn about and.\nWhat Does Ez Storage Do?\nSomething failed. Wait a moment and attempt once again Attempt once again\nOctober 12, 2023 The primary objective of storage space facilities, such as storage storehouses or self-storage systems, is to supply a safe and secure area for individuals and companies to keep items that they do not have space for in their office or homes. They are made to be a short or lasting option for saving excess items and devices that are not required often.\nClimate-controlled storage space for products that are sensitive to modifications in temperature level and humidity, such as artwork, musical tools, and digital devices. In summary, the primary function of storage space centers is to offer a safe and safe place for people and companies to save items that they do not have space for, in addition to offer security from natural environments, parasites, or protection risks, and preserve the state of kept things.\nEz Storage - An Overview\nThis enables services to free up space in their stockrooms or retail locations, and to maintain excess goods in a risk-free and secure area (\nhttps://www.pageorama.com/?p=ezstor4ge). Individual company and moving: Storage centers offer people with a place to store items that they do not have area for in their homes, such as seasonal decorations, old furniture, or things from a recent step\nStorage space Facility Near Me Historical and record maintaining: Storage centers are outfitted to offer historical and record-keeping storage remedies for essential papers, documents, and historical artefacts. It can keep these items in a regulated environment for conservation in lengthy term. Climate-controlled: Storage centers can additionally offer climate-controlled storage remedies for things that are sensitive to adjustments in temperature level and humidity, such as art work, musical tools, and electronic equipment, supplying extra defense and conservation of the state of these products.\nVarious other services offered by city terminals consist of lots and products storage space, chauffeur services, and equipment storage. Typically storage space is provided for a minimal amount of\nfindcommodities. Some facilities function as intermodal terminals while others run as mini-hubs for lots that are relocated in between significant centers and terminals in villages.\nNot known Details About Ez Storage\nBy feature, freight facilities can be separated right into fabrication, distribution, and storage. Some have greater than one feature. Hefty manufacturing facilities, for example, are primarily used for construction and distribution while metropolitan logistics depots are used for distribution and storage space.\nSomething failed. Wait a moment and try once again. Attempt once again.\nWith the increase of on the internet retail, the relevance of logistics has expanded dramatically, and have actually come to be an important component in the procedure. We will take a look at their that they bring to the supply chain., executing the function of storing them between one or various other process. Simply put, the circulation centre functions as an intermediary in the supply chain; it receives and stores items prior to they are shipped and dispersed to wholesalers, retailers, factories or various other.\nThe 2-Minute Rule for Ez Storage\nThe item spends less time in storage space, less time travelling unnecessary ranges in transportation and therefore saves costs. Distribution centres, as supply chain middlemans, offer the firm versatility and the responsiveness to fulfill the demands of firms with extremely short order and item advertising target dates. Distribution centres are vital parts in supply chain efficiency.\nLogistics circulation centres are accountable for the reception and shipment of a business's items Their, providing top priority to the solution and immediacy. ez storage philadelphia. To comprehend consequently exactly how a circulation centre functions, its functions can be separated right into 3 major areas: Generally, big distribution centres are divided right into different for each of the above features\nThese goods may originate from the business's production centre, distributors or previous stages of the supply chain, and they are normally obtained on packing bays grouped right into pallets. Transition to the storage phase follows next, where unit lots gotten are moved by forklifts or automated systems to the storage space systems or warehouse entryway area.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Education"
+    ],
+    "external_links": [
+      "https://www.pageorama.com/?p=ezstor4ge).",
+      "https://milohtdlu.blog5.net/65691916/the-only-guide-to-ez-storage",
+      "https://ez-storage-44782073.hubspotpagebuilder.com/riding-the-wave-of-convenience-with-warrington-ez-storages-ez-mini/riding-the-wave-of-convenience-with-warrington-ez-storages-ez-mini).",
+      "https://www.ez-storage-44782073.hubspotpagebuilder.com/riding-the-wave-of-convenience-with-warrington-ez-storages-ez-mini/riding-the-wave-of-convenience-with-warrington-ez-storages-ez-mini).",
+      "https://www.milohtdlu.blog5.net/65691916/the-only-guide-to-ez-storage",
+      "https://pageorama.com/?p=ezstor4ge).",
+      "https://www.pageorama.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:34:20.778+02:00",
+    "updated": "2023-12-29T00:34:20.778+02:00"
+  },
+  {
+    "uuid": "a55e8a6899315aa5e0ce7a724a350df27aa5bd56",
+    "url": "https://www.newsbreak.com/e-news-510067/3784773850081-this-southern-charm-star-had-her-ankle-fat-injected-into-her-breasts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "E! News",
+    "published": "2025-01-31T02:00:00Z",
+    "title": "This Southern Charm Star Had Her Ankle Fat Injected Into Her Breasts - NewsBreak",
+    "text": "1 hours ago Southern Charm's two new castmembers are spilling the sweet tea on their past plastic surgeries. Season 10 newbies Molly O'Connell and Salley Carson have formed a bond over their many cosmetic... Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Human Interest->celebrity",
+      "Social Issue->social problem",
+      "Social Issue->discrimination",
+      "Social Issue->women",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T05:39:09.756+02:00",
+    "updated": "2025-01-31T05:39:09.756+02:00"
+  },
+  {
+    "uuid": "0c8647864681758021fce9c54c049bbc9550cbe8",
+    "url": "https://timesofindia.indiatimes.com/city/delhi/no-cold-day-as-city-logs-warmest-december-in-6-years/articleshow/106426434.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Priyangi Agarwal",
+    "published": "2023-12-31T20:22:00Z",
+    "title": "Cold Wave: No ‘cold day’ as Delhi logs warmest December in 6 years | Delhi News - Times of India",
+    "text": "NEW DELHI: In December this year, the mean maximum temperature was 24.1 degrees Celsius, significantly higher than the normal of 22.8 degrees C, while the mean minimum was 8.6 degrees C, a shade higher than the normal (8.4 degrees C). Not since 2017 have both the mean maximum and minimum temperatures been above normal in December.On the last day of the year, however, the day temperature dipped to the season’s lowest of 15.9 degrees Celsius at Safdarjung on Sunday, 4.5 degrees below normal. However, the met department said while the maximum temperature met conditions for a ‘cold day’ to the declared, the minimum temperature did not. The day’s minimum was 11.7 degrees C while for ‘cold day’ conditions to be met, it has to be below 10 degrees. In the city, SPS Mayur Vihar saw the lowest maximum temperature of 13.3 degrees C. 106426424Officials said cold day conditions are likely at isolated places on Monday with ‘yellow’ alert in place. December 2023 just ‘trace’ rainfall on one day and ended with a rain deficit of 100%. Kuldeep Srivastava, scientist and head, Regional Weather Forecasting Centre, IMD, said, “The western disturbances, which impacted the hills, were not strong enough to cause significant snowfall in western Himalayan region. Only light snowfall was recorded in December and the snow melted easily. Whenever there is a good snowfall, the north-westerly winds bring chilly winds to Delhi.”The plains saw two feeble western disturbances in December. “In absence of a strong western disturbance impacting the plains, only drizzles were recorded at isolated places in Delhi. Since there was no cloudiness, the sun shone brightly on most days leading to a higher day temperature than normal. As winds blew on most days, the minimum temperature also did not witness a sharp dip,” said Srivastava. 106333509The average maximum temperature in December was two degrees higher than the normal mark. Safdarjung, the city’s base station, recorded day temperature in the range of 24-25 degrees Celsius on most days and the maximum temperature saw a drop only in the last week of December. The day temperature was below 20 degrees Celsius on two days- December 30 and 31. 106392411Like at Safdarjung, the difference in maximum and minimum temperatures at other stations on Sunday was low. The maximum and minimum temperatures were 16.1 and 11.7 degrees Celsius at Palam, 15 and 10.8 degrees Celsius at Lodhi Road and 15 and 12.1 degrees Celsius at Jafarpur, respectively.“Throughout the day, Delhi saw uplifted fog. As the fog was at surface height of 100-150 metres, it looked like clouds,” said Srivastava. The maximum and minimum temperatures are likely to be around 16 and 8 degrees Celsius on Monday. 106281981",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mayur vihar",
+          "sentiment": "none"
+        },
+        {
+          "name": "kuldeep srivastava",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "delhi news - times of india",
+          "sentiment": "negative"
+        },
+        {
+          "name": "sps",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "new delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "safdarjung",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-01T03:34:36.119+02:00",
+    "updated": "2024-01-01T03:34:36.119+02:00"
+  },
+  {
+    "uuid": "764b44bacc4df93134e0921574cfe50b2d6b81e6",
+    "url": "https://hothardware.com/news/will-geforce-rtx-5090-cost2499-leakers-odds-over-pricing",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Paul Lilly",
+    "published": "2024-11-15T14:08:00Z",
+    "title": "Massive GeForce RTX 5090 Price Hike Rumor Resurfaces As Launch Day Looms",
+    "text": "supplants the GeForce RTX 4090 as the flagship GPU for gaming. The rumor that refuses to die suggests the 5090 is going to introduce a big price hike—up to a $2,499 MSRP!—but will it really cost that much? GeForce RTX 4090 debuted at $1,599, so if that information is accurate, NVIDIA's next flagship GPU will end up costing $400 to $900 more than the current generation model at launch. \"totally fake\" in regards to the GeForce RTX 5090. He added, \"I don't believe there will be a significant price increase for RTX 5090.\" resurfaced the pricing rumor , putting it out there that the 5090 will be priced from $1,999 to $2,499 and feature GDDR7 memory. \"I can't afford it anymore,\" the user stated (via Google Translate). monster GPU with a big uplift in memory bandwidth. But will that translate to a big cost increase as well, to the tune of 33% to 67%? We can only wait to find out, as even some of the most notable leakers are at direct odds with one another. seemingly confirmed that NVIDIA's next-gen GeForce GPUs based on Blackwell will continue to use the 12V-2x6 power connector (which is a revised version of the 12VHPWR connector), and that upcoming models \"could demand even more power than current models.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.chiphell.com/thread-2651298-1-1.html",
+      "https://chiphell.com/thread-2651298-1-1.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "NVIDIA",
+          "sentiment": "none"
+        },
+        {
+          "name": "GPU",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T16:57:57.588+02:00",
+    "updated": "2024-11-15T16:57:57.588+02:00"
+  },
+  {
+    "uuid": "e107dab6f2b51e1683bb3999e72bf6628a454551",
+    "url": "https://marketresearchtelecast.com/leah-remini-and-angelo-pagan-to-divorce-after-21-years-of-marriage",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MRT Desk",
+    "published": "2024-08-30T07:33:00Z",
+    "title": "Leah Remini and Angelo Pagan to Divorce After 21 Years of Marriage",
+    "text": "Leah Remini, renowned for her roles in Kevin Can Wait , King of Queens , and Saved By the Bell , has announced that she and her husband, Angelo Pagan, will be divorcing after 21 years of marriage. Their relationship spans 28 years, making this change significant for both parties.\nLeah Remini and Angelo Pagan have declared their intention to divorce. File Photo by Jim Ruymen/UPI On Instagram, the couple shared their decision with the world. ‘We have decided to file for divorce,’ they wrote, indicating a mutual understanding of the situation.\nThe couple at the Primetime Emmy Awards in Los Angeles in 2006. File Photo by Jim Ruymen/UPI In their heartfelt message, they expressed, ‘This decision came after a lot of thought and care.’ They acknowledged the difficulty of divorce but emphasized their positive outlook. ‘We know it’s what’s best for us,’ they stated. Their commitment to handling the situation amicably is evident in their words.\nThe couple also reflected on their shared journey, admitting, ‘We are proud of how we have worked through this together.’ They conveyed their sadness about the split but reassured their followers that they would continue to support each other. ‘We’ve got some figuring out to do as we continue to move forward into our new normal—together still in many ways, and apart in some new ones,’ they added.\nLeah Remini at the world premiere of Second Act in New York City in 2018. File Photo by John Angelillo/UPI Together, Leah Remini and Angelo Pagan share a daughter named Sofia, who is 20 years old. Pagán also has three sons—Angelo Jr., Alex, and Nico—from a previous relationship, further expanding their family dynamics.\nLeah Remini at the Creative Arts Emmy Awards in 2018. File Photo by Gregg DeGuire/UPI Leah Remini at the “Funny Ladies We Love” awards presented by Ladies’ Home Journal in 2006 in Los Angeles. File Photo by Michael Tweed/UPI The public is often drawn to celebrity relationships, especially those that span decades. Remini and Pagan’s commitment to approach this transition positively is encouraging amid the challenges that come with such a significant life change. Like many couples, they have faced ups and downs, but their dedication to maintaining a supportive relationship for their daughter and blended family remains commendable.\nAs they embark on their new journey separately, fans and well-wishers alike are hopeful for happiness and fulfillment for both Leah Remini and Angelo Pagan in the next chapters of their lives.\nSource: UPI",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "leah remini",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "angelo pagan",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "jim ruymen",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "bell",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "upi on instagram",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "queens",
+          "sentiment": "none"
+        },
+        {
+          "name": "los angeles",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T17:40:25.286+03:00",
+    "updated": "2024-08-30T17:40:25.286+03:00"
+  },
+  {
+    "uuid": "6608c92fec26d95f961fecb5d1145b10037d48ce",
+    "url": "https://www.newsbreak.com/news/3739267223371-michigan-bracing-for-severe-winter-weather",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anne Erickson",
+    "published": "2025-01-02T22:37:00Z",
+    "title": "Michigan Bracing for Severe Winter Weather",
+    "text": "By Anne Erickson ,\n7 hours ago Michigan enjoyed a very mild Christmas, so if you’re someone who doesn’t like the brutally cold temperatures, then you probably loved the warm weather over the holidays. But, Michigan is gearing up for severe winter weather. Just a few days ago, it almost felt like spring in some areas of lower Michigan, with light rain and dew taking the place of snow and ice. One good thing about the mild weather is that the roads were good for most of the holiday, so if you had to travel, you didn’t have to fend with ice and snow. But, now, there’s a change for the next two weeks, and here’s what you can expect. Read full article\nRead in NewsBreak 68",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "topics": [
+      "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Anne Erickson",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T03:18:42.617+02:00",
+    "updated": "2025-01-03T03:18:42.617+02:00"
+  },
+  {
+    "uuid": "01b806f5f6d2750f8a3e7e63e317d0a8d3415090",
+    "url": "https://www.fox5ny.com/video/1581785",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "no author",
+    "published": "2025-01-23T19:36:00Z",
+    "title": "Kirsten Ferguson | Talking with Natasha: Ep. 2 | FOX 5 New York",
+    "text": "Kirsten Ferguson | Talking with Natasha: Ep. 2\nPeloton instructor Kirsten Ferguson shares how Peloton saved her life, being a single mom of two and her journey from hip injury and surgery to triumphantly crossing the finish line at the New York City Marathon.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure",
+      "Health"
+    ],
+    "topics": [
+      "Human Interest->celebrity",
+      "Lifestyle and Leisure->exercise and fitness",
+      "Lifestyle and Leisure->wellness",
+      "Health->injury",
+      "Health->mental health and disorder"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:42:46.801+02:00",
+    "updated": "2025-01-24T00:42:46.801+02:00"
+  },
+  {
+    "uuid": "c818a7a8e804849f69290141965cf11d2f2bb1f6",
+    "url": "https://pjmedia.com/matt-margolis/2024/06/27/joe-bidens-gets-a-participation-trophy-from-the-media-and-its-hilarious-n4930215",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matt Margolis",
+    "published": "2024-06-27T18:17:00Z",
+    "title": "Joe Biden Gets a Participation Trophy From the Media for This? – PJ Media",
+    "text": "The media sure is desperate to find something to boast about from Joe Biden's campaign. Anyone who has been paying attention recently knows, there isn't a lot of good news from the Biden camp these days. Even after the verdict from Donald Trump's sham trial in New York, Biden couldn't manage to take a solid lead in the polls. So now, they're taking something embarrassing and passing it off as a huge victory for Biden.\nI'm not exaggerating. Politico has written a puff piece about Joe Biden having his \"biggest online fundraising day\" after Trump's conviction.\n\"Donald Trump wasn’t the only one to get a fundraising boost off his New York hush money conviction — so did Joe Biden,\" the outlet writes . \"The president’s campaign had its single biggest day of online fundraising the day after Trump was convicted, according to a POLITICO analysis of federal campaign finance data. And as the money flowed in, his political operation also drew more new donors the day of the verdict than any day since Biden launched his campaign last year.\"\nIt sounds like Biden achieved something amazing, doesn't it? He must have been going all Scrooge McDuck, just diving into piles and piles of money, right? It sure sounds like it, based on the way they're hyping this up. The article didn't give a number just yet, so Politico had to keep hyping it up.\nRelated : Have You Seen the Newest Trump Ads? Stop What You're Doing and Check Them Out!\nAccording to the report, on the day of the verdict and the day after, the Biden campaign \"brought in totals six times higher than Biden’s typical fundraising day.\"\nThe suspense is killing you, isn't it?\n\" The boost for the incumbent, and a smaller one for down-ballot Democrats, made the day after Trump’s conviction the biggest overall fundraising day on ActBlue so far this cycle,\" the article continues.\nFinally, five paragraphs into the story, Politico reveals Joe Biden's big fundraiser boon: $8.1 million.\nYep. That's it. That's $8.1 million between the Biden campaign and two joint fundraising committees.\nLet's put that in perspective: The Trump campaign and its joint fundraising committees raised $52.8 million in the first 24 hours after the verdict , more than $2 million an hour.\nRelated: The Biden Campaign Must Be Freaking Out Over This News\nPolitico didn't even try to pretend that Biden's haul was impressive compared to Trump's. The article conceded that Biden's $8.1 million take \"still pales in comparison to what Trump’s campaign said it raised in the aftermath of his conviction. The former president’s massive intake of donations helped him overtake Biden in cash on hand.\"\nNow you understand why Politico buried the lede. Yet the outlet still tried to put lipstick on the pig.\nThe article said the \"surge in financial support for Biden suggests the conviction was a wake-up call for many grassroots donors who have been holding back so far this cycle, and it’s a much-needed moment of fundraising energy for Biden’s campaign.\"\nIsn't that cute? Donald Trump eclipses Joe Biden's fundraising and erases his cash advantage in a flash, yet, according to Politico, it's the Biden campaign that has awoken the sleeping giant. It's like Politico awarded Biden a participation trophy for his fundraising and thought we wouldn't notice.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.politico.com/news/2024/06/26/biden-online-fundraising-trump-verdict-00165183",
+      "https://politico.com/news/2024/06/26/biden-online-fundraising-trump-verdict-00165183"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joe biden",
+          "sentiment": "negative"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "biden",
+          "sentiment": "none"
+        },
+        {
+          "name": "trump",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "politico",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-28T01:24:40.522+03:00",
+    "updated": "2024-06-28T01:24:40.522+03:00"
+  }
+]

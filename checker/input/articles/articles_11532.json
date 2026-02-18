@@ -1,0 +1,553 @@
+[
+  {
+    "uuid": "ced64f5cab5b20fd4eabbaa4186ca694339576e9",
+    "url": "https://www.nzherald.co.nz/business/one-nzs-satellite-txt-used-to-hail-emergency-services-after-crash-in-mobile-blackspot/JIGZOS3PIVAVRBQELTJE5ZJY7M",
+    "ord_in_thread": 0,
+    "author": "@nzherald",
+    "published": "2025-04-23T22:16:00Z",
+    "title": "One NZ's Satellite TXT used to hail emergency services after crash in mobile blackspot",
+    "text": "One NZ’s Satellite TXT has done what says on the tin, helping out in an emergency that took place in a mobile blackspot.\n“Today around lunchtime, me and my kids were second on the scene of this accident driving home from Rotorua,” Jelena Bell messaged on Tuesday.\nHer message was accompanied by a photo of a car flipped on its side off a stretch of State Highway 5 in the Mamaku Ranges.\n“A young women distracted by her radio looked up to see she was on the wrong side of the road and swerved to avoid an oncoming car - which resulted in her going off the road,” Bell said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific innovation",
+      "Health->emergency care",
+      "Health->medical profession",
+      "Health->medical service",
+      "Social Issue->social networking",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jelena Bell",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Rotorua",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:43:14.966+03:00",
+    "updated": "2025-04-24T01:43:14.966+03:00"
+  },
+  {
+    "uuid": "2710645b68c2700a875368e7e1f3b393cb7664aa",
+    "url": "https://www.aol.com/finance/discovered-dall-e-blown-away-192309025.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "yahoo",
+    "published": "2024-04-11T00:00:00Z",
+    "title": "‘I discovered DALL-E and was blown away’: How artists are using AI to create very offline art",
+    "text": "‘I discovered DALL-E and was blown away’: How artists are using AI to create very offline art Sage Lazzaro April 11, 2024 at 10:23 PM Karol Serewis/SOPA Images/LightRocket via Getty Images\nHello and welcome to Eye on AI.\nIn recent issues, I’ve covered why artists and creatives are pushing back on generative AI. In short, they worry about their work being used to train these models without consent, their work being devalued, and fewer opportunities for human creatives in a world where AI can be faster and cheaper. But even the more than 200 prominent musical artists who last week signed an open letter laying out such concerns emphasized they believe that “when used responsibly, AI has enormous potential to enhance creativity.”\nWe’re still very much in the early days of these issues and generative AI overall, and there are no easy answers for how to balance all this just yet. But as it’s unfolding, some artists are experimenting with how they can use generative AI as a tool to enhance, not hinder, their creative work.\nOne such artist is Sydney Swisher, an Illinois-based painter and photographer. I’ve been following Swisher for a while. Her unique works involve painting on fabric, immersing a scene—a quaint windowsill, a dresser adorned with jewelry and photos, a dreamy bedroom—into the pattern (usually floral) on a piece of fabric, bringing them together as one. The result is always beautiful, textured, and dimensional, and the whole thing feels incredibly offline. So I was shocked to learn that in between thrifting old fabrics and brushing on paint, Sydney uses generative AI to help bring her visions to life.\nAfter choosing a fabric to serve as the base for the painting, Swisher selects photos she’s taken to use as reference images, brings them into Midjourney, and adds prompt descriptions to describe a memory she has that the fabric seems to invoke. She then tweaks the prompts, adds more reference images, and plays with how the images and fabric can interact. After selecting one image Midjourney produced, she further edits it in Photoshop to get it closer to the specific memory she’s channeling in order to create a final reference image she’ll paint.\n“I discovered DALL-E and was blown away by its ability to craft a scene I had in my mind. I found Midjourney around April of last year and was amazed at the quality of images and ability to edit specific details,” she told me, adding that the quality of Midjourney images won her over and that she also loves being able to feed it her own reference images, including old film photos from her childhood.\nA large part of her art, Swisher said in a TikTok video describing her process, is based around machine intelligence visually interpreting descriptions of memories.\n“I want my work to be a reflection on memory. I have very vague visual references in my mind of places that evoke strong nostalgia and emotion,” she said. “I'm interested in the exploration of trying to fully bring that time back.\nShe continued: “When you focus on trying to pinpoint every detail of a memory, pieces will always be blurry and you begin to question yourself. What parts are accurate? Did I dream that, or did it really happen? The first time I saw a generated image from DALL-E, I felt like it perfectly captured this feeling. To me, it truly looked like a still from a memory or a dream.”\nIn another example of creatives trying to play nice with generative AI, filmmaker Paul Trillo spoke on the Hard Fork podcast about his experience previewing Sora, OpenAI’s new text-to-video model that recently sent both Hollywood executives and much of the general public into a panic. Trillo’s account is one of the first hands-on reviews of Sora, and he describes how he tried to test what the model could do and found it had its own sense of editing and pacing.\n“I was shocked. I was floored. I was confused. I was a little bit unsettled because I was, damn, this is doing things that I didn’t know it was capable of,” he said when asked what his initial emotional response was the first time he typed in a prompt and got a video.\nTrillo said the video he created in days with Sora would’ve taken months with traditional tools—and also that the model “can give us some experimental wild, bold weird things that may be difficult to achieve with other tools.” Still, he thinks the model is only supplemental to human video production. Similar to Swisher, he views it as a new part of the process he can use to achieve his vision.\n“I’m only going to focus on this tool to get everything out of my head,” Trillo said.\nAnd with that, here’s more AI news.\nSage Lazzaro\nsage.lazzaro@consultant.fortune.com\nsagelazzaro.com\nToday's edition of Eye on AI was curated by Sharon Goldman.\nThis story was originally featured on Fortune.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment",
+      "Science and Technology"
+    ],
+    "external_links": [
+      "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aol.com%2Fdiscovered-dall-e-blown-away-192309025.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dpin&description=‘I",
+      "https://fortune.com/2024/04/11/artists-experimenting-with-ai-enhance-creative-work/",
+      "https://www.tiktok.com/@sydswisher/video/7344171896298032430?_r=1&_t=8lHfORb7aUY",
+      "https://s.yimg.com/ny/api/res/1.2/X7Dwo8PwHiKiBGd7iwu9dA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIxNDtoPTgw/https://s.yimg.com/os/creatr-uploaded-images/2023-08/a5569870-36cf-11ee-be7b-a2fda48df64c",
+      "https://www.facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fwww.aol.com%2Fdiscovered-dall-e-blown-away-192309025.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://www.nytimes.com/2024/04/05/podcasts/hardfork-ai-jobs-sora-xz.html?",
+      "https://artistrightsnow.medium.com/200-artists-urge-tech-platforms-stop-devaluing-music-559fb109bbac",
+      "https://fortune.com/2024/04/04/musicians-oppose-stability-ai-music-generator-billie-eilish-nicki-minaj-elvis-costello-katy-perry/",
+      "https://s.yimg.com/os/creatr-uploaded-images/2023-08/a5569870-36cf-11ee-be7b-a2fda48df64c",
+      "https://s.yimg.com/ny/api/res/1.2/ULQGmS_ODiQbtNXgRaeh_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/bcce1ea14983e462e5c61e972c5900e0",
+      "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public/",
+      "https://www.hollywoodreporter.com/business/business-news/tyler-perry-ai-alarm-1235833276/",
+      "https://twitter.com/intent/tweet?text=‘I",
+      "http://fortune.com/",
+      "https://s.yimg.com/ny/api/res/1.2/NHxNIktXO6Xqee0nTKVaxA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/aol_fortune_385/bcce1ea14983e462e5c61e972c5900e0",
+      "http://sagelazzaro.com",
+      "http://www.fortune.com/",
+      "https://www.tiktok.com/@sydswisher/video/7344171896298032430",
+      "https://www.artistrightsnow.medium.com/200-artists-urge-tech-platforms-stop-devaluing-music-559fb109bbac",
+      "https://hollywoodreporter.com/business/business-news/tyler-perry-ai-alarm-1235833276/",
+      "http://www.sagelazzaro.com",
+      "https://www.s.yimg.com/ny/api/res/1.2/ULQGmS_ODiQbtNXgRaeh_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://www.media.zenfs.com/en/aol_fortune_385/bcce1ea14983e462e5c61e972c5900e0",
+      "http://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.aol.com%2Fdiscovered-dall-e-blown-away-192309025.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dpin&description=‘I",
+      "https://facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fwww.aol.com%2Fdiscovered-dall-e-blown-away-192309025.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://nytimes.com/2024/04/05/podcasts/hardfork-ai-jobs-sora-xz.html?",
+      "https://www.hollywoodreporter.com/business/business-news/tyler-perry-ai-alarm-1235833276",
+      "https://fortune.com/2024/04/11/artists-experimenting-with-ai-enhance-creative-work",
+      "https://twitter.com/intent/tweet",
+      "https://www.fortune.com/2024/04/04/musicians-oppose-stability-ai-music-generator-billie-eilish-nicki-minaj-elvis-costello-katy-perry/",
+      "https://www.facebook.com/dialog/feed",
+      "https://www.s.yimg.com/os/creatr-uploaded-images/2023-08/a5569870-36cf-11ee-be7b-a2fda48df64c",
+      "https://www.s.yimg.com/ny/api/res/1.2/NHxNIktXO6Xqee0nTKVaxA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://www.media.zenfs.com/en/aol_fortune_385/bcce1ea14983e462e5c61e972c5900e0",
+      "https://fortune.com/2024/04/04/musicians-oppose-stability-ai-music-generator-billie-eilish-nicki-minaj-elvis-costello-katy-perry",
+      "https://fortune.com/2024/02/22/openai-sora-terrifies-the-public",
+      "http://fortune.com",
+      "https://www.fortune.com/2024/04/11/artists-experimenting-with-ai-enhance-creative-work/",
+      "https://www.nytimes.com/2024/04/05/podcasts/hardfork-ai-jobs-sora-xz.html",
+      "https://www.fortune.com/2024/02/22/openai-sora-terrifies-the-public/",
+      "https://www.s.yimg.com/ny/api/res/1.2/X7Dwo8PwHiKiBGd7iwu9dA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIxNDtoPTgw/https://www.s.yimg.com/os/creatr-uploaded-images/2023-08/a5569870-36cf-11ee-be7b-a2fda48df64c",
+      "https://www.twitter.com/intent/tweet?text=‘I",
+      "https://tiktok.com/@sydswisher/video/7344171896298032430?_r=1&_t=8lHfORb7aUY",
+      "http://pinterest.com/pin/create/button/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "karol serewis",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "getty images hello",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "sydney swisher",
+          "sentiment": "none"
+        },
+        {
+          "name": "illinois",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-12T01:46:07.380+03:00",
+    "updated": "2024-04-12T01:46:07.380+03:00"
+  },
+  {
+    "uuid": "d4fc1ddf6cccc6bd141a124bfd25d9dbd6beb451",
+    "url": "https://en.inform.kz/news/japan-logs-hottest-july-for-2nd-year-216-c-higher-than-average-535065",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@kazinform_eng",
+    "published": "2024-08-02T12:48:00Z",
+    "title": "Japan logs hottest July for 2nd year, 2.16 C higher than average",
+    "text": "Japan logs hottest July for 2nd year, 2.16 C higher than average Japan on Friday continued to swelter under high temperatures, with the weather agency saying the previous day that the country logged its hottest July since records began in 1898 for the second consecutive year, [Kyodo ](https://english.kyodonews.net/news/2024/08/446d1c2d86ac-japan-logs-hottest-july-for-2nd-year-216-c-higher-than-average.html#google_vignette)reports. The average temperature in July was 2.16 C higher than the overall monthly average recorded between 1991 and 2020, with the mercury rising above 40 C in seven locations on some days during the month, the Japan Meteorological Agency said on Thursday. So far this year the country has recorded 3,509 instances of \"extreme heat\" of 35 C or higher among the 914 nationwide observation points, surpassing the previous peak of 3,127 seen in July 2018. According to the agency, the country was hit by warm air due to the effects of a high-pressure system in the Pacific, experiencing sweltering temperatures particularly in early July and toward the end of the month. On July 29, Sano, Tochigi Prefecture logged 41.0 C, as a number of locations throughout the country topped previous record highs. In August 2020, the mercury hit a record high of 41.1 in Hamamatsu, Shizuoka Prefecture, tying the all-time high logged in July 2018 in Kumagaya, Saitama Prefecture. With the heat expected to continue in August, the public has been urged to take measures to prevent heat exhaustion such as using air conditioning and staying hydrated.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://english.kyodonews.net/news/2024/08/446d1c2d86ac-japan-logs-hottest-july-for-2nd-year-216-c-higher-than-average.html#google_vignette)reports.",
+      "https://www.english.kyodonews.net/news/2024/08/446d1c2d86ac-japan-logs-hottest-july-for-2nd-year-216-c-higher-than-average.html#google_vignette)reports."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "kyodo",
+          "sentiment": "none"
+        },
+        {
+          "name": "japan meteorological agency",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "pacific",
+          "sentiment": "none"
+        },
+        {
+          "name": "japan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-02T17:01:56.166+03:00",
+    "updated": "2024-08-02T17:01:56.166+03:00"
+  },
+  {
+    "uuid": "b7c61a9d09d2e3c2a9db544d1d09ffd9e1c270a3",
+    "url": "https://es-us.noticias.yahoo.com/hombre-v%C3%ADctima-mordedura-tibur%C3%B3n-san-010000621.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "yahoo",
+    "published": "2024-06-22T21:30:00Z",
+    "title": "Un hombre fue atacado por un tiburón, forcejea con el animal, se salva y cuenta su historia",
+    "text": "Leer todo el artículo San Diego Red Un hombre fue atacado por un tiburón, forcejea con el animal, se salva y cuenta su historia Grethell Anguiano Monárrez Se actualizó el 23 de junio de 2024, 12:30 a. m. · 2 min de lectura Enlace copiado Hombre que fue víctima de mordedura de tiburón en San Diego se salva y cuenta su historia\nUn tiburón fue avistado en la costa de Del Mar, a principios de junio, y el reporte fue dado a conocer debido a que un hombre había sido mordido por el animal aproximadamente a 100 yardas de la costa .\nTras varios días de espera e incertidumbre, NBC logró obtener una conversación con la víctima de este terrible suceso. Se trata de Caleb Adams de 46 años de edad quien compartió su historia mientras todavía sigue recuperándose de las heridas que esto le dejó.\nExclusive: A San Diego swimmer who was recently attacked by a shark shares his story with @GadiNBC , including details of his interaction with the animal and how people around him helped. pic.twitter.com/IXkfyQiTgt\n— TODAY (@TODAYshow) June 18, 2024\nAdams y sus amigos nadaban en aguas abiertas, el domingo 2 de junio, cuando el día de pronto dio un giro de 180 grados. Describe “un dolor o aplastamiento” en donde asegura haber forcejado con el tiburón durante unos segundos.\nAdams indicó que la lucha se volvió intensa e intentó utilizar sus manos para rechazar al animal, colocando sus manos en la boca o nariz, pero se sentía como sujetar una pelota de basketball.\nEl hombre fue trasladado de inmediato al hospital más cercano.\nPese a este caso, los expertos insisten en que los ataques de tiburones siguen siendo raros. (Getty)\nUn biólogo marino expresó que es importante que el mundo sepa que las mordeduras de tiburón son muy raras. Se podría hablar de estadísticas y compararlas con otras cosas como las máquinas expendedoras que caen sobre la gente.\nFinalmente Adams asegura estar curándose y planea apoyarse en la comunidad local, a la cual agradeció por su apoyo y preocupación durante este tiempo.\nTAMBIÉN TE PUEDE INTERESAR | EN VIDEO\nUn enorme tiburón mako salta fuera del agua mientras persigue un cebo",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Sport",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://s.yimg.com/ny/api/res/1.2/TSnMgXsS6PZsOwOygrhoQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MDA7aD0xMjAw/https://media.zenfs.com/es/sandiegored_883/8fc5be06c2f6bfdf565c24c4bc5bbd77",
+      "https://s.yimg.com/ny/api/res/1.2/qhkVyH_rkGcTsfCaxNwkTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTI-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/27d83300-2ed7-11ed-a7e7-638187aaad61",
+      "https://t.co/IXkfyQiTgt",
+      "https://s.yimg.com/ny/api/res/1.2/YJZ7yDXzcDyQ.1T5az7m9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI3MDtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2023-03/58de1380-c819-11ed-93f5-a33172b3b2d6",
+      "https://www.facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fes-us.noticias.yahoo.com%2Fhombre-v%25C3%25ADctima-mordedura-tibur%25C3%25B3n-san-010000621.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://s.yimg.com/ny/api/res/1.2/zf8Fzs5jsHGvlwQrCCJYAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xODI0/https://s.yimg.com/os/creatr-uploaded-images/2022-08/27d83300-2ed7-11ed-a7e7-638187aaad61",
+      "https://s.yimg.com/ny/api/res/1.2/L5TPdJS7aHG8fEeiRGbuwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTEwOA--/https://s.yimg.com/os/creatr-uploaded-images/2023-11/8cc40ca0-7a8d-11ee-bb4e-c386f85c097b",
+      "https://s.yimg.com/os/creatr-uploaded-images/2023-03/58de1380-c819-11ed-93f5-a33172b3b2d6",
+      "https://twitter.com/GadiNBC?ref_src=twsrc%5Etfw",
+      "https://twitter.com/intent/tweet?text=Un%20hombre%20fue%20atacado%20por%20un%20tibur%C3%B3n%2C%20forcejea%20con%20el%20animal%2C%20se%20salva%20y%20cuenta%20su%20historia&url=https%3A%2F%2Fes-us.noticias.yahoo.com%2Fhombre-v%25C3%25ADctima-mordedura-tibur%25C3%25B3n-san-010000621.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dtw%26tsrc%3Dtwtr&via=Yahoo",
+      "https://s.yimg.com/ny/api/res/1.2/aGaL1Vm.yGnaGaKbewsVIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTczMA--/https://s.yimg.com/os/creatr-uploaded-images/2022-08/27d83300-2ed7-11ed-a7e7-638187aaad61",
+      "https://www.sandiegored.com/",
+      "https://s.yimg.com/ny/api/res/1.2/hZB4mbq_dPKrr1sdjdRtZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE2MDA7aD0xODA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/8cc40ca0-7a8d-11ee-bb4e-c386f85c097b",
+      "https://whatsapp.com/channel/0029Va6zF9z2f3ECGenPqr2l",
+      "https://s.yimg.com/ny/api/res/1.2/fQl11QeUg0Cq58THvK4_Wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/es/sandiegored_883/8fc5be06c2f6bfdf565c24c4bc5bbd77",
+      "https://s.yimg.com/uu/api/res/1.2/OfStEDJPKtDQmlkpWC0zgw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/kameraone_latam_597/2f48a6f4893e58ce1eea0dbd2d7a2576",
+      "https://twitter.com/TODAYshow/status/1803034249991168284?ref_src=twsrc%5Etfw",
+      "https://www.s.yimg.com/ny/api/res/1.2/zf8Fzs5jsHGvlwQrCCJYAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xODI0/https://www.s.yimg.com/os/creatr-uploaded-images/2022-08/27d83300-2ed7-11ed-a7e7-638187aaad61",
+      "https://www.s.yimg.com/ny/api/res/1.2/L5TPdJS7aHG8fEeiRGbuwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTEwOA--/https://www.s.yimg.com/os/creatr-uploaded-images/2023-11/8cc40ca0-7a8d-11ee-bb4e-c386f85c097b",
+      "https://www.s.yimg.com/ny/api/res/1.2/TSnMgXsS6PZsOwOygrhoQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MDA7aD0xMjAw/https://www.media.zenfs.com/es/sandiegored_883/8fc5be06c2f6bfdf565c24c4bc5bbd77",
+      "https://www.s.yimg.com/uu/api/res/1.2/OfStEDJPKtDQmlkpWC0zgw--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://www.media.zenfs.com/en/kameraone_latam_597/2f48a6f4893e58ce1eea0dbd2d7a2576",
+      "https://facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fes-us.noticias.yahoo.com%2Fhombre-v%25C3%25ADctima-mordedura-tibur%25C3%25B3n-san-010000621.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://www.s.yimg.com/ny/api/res/1.2/YJZ7yDXzcDyQ.1T5az7m9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI3MDtoPTYw/https://www.s.yimg.com/os/creatr-uploaded-images/2023-03/58de1380-c819-11ed-93f5-a33172b3b2d6",
+      "https://www.sandiegored.com",
+      "https://www.twitter.com/GadiNBC?ref_src=twsrc%5Etfw",
+      "https://www.s.yimg.com/os/creatr-uploaded-images/2023-03/58de1380-c819-11ed-93f5-a33172b3b2d6",
+      "https://twitter.com/GadiNBC",
+      "https://www.s.yimg.com/ny/api/res/1.2/aGaL1Vm.yGnaGaKbewsVIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTczMA--/https://www.s.yimg.com/os/creatr-uploaded-images/2022-08/27d83300-2ed7-11ed-a7e7-638187aaad61",
+      "https://twitter.com/intent/tweet",
+      "https://www.twitter.com/intent/tweet?text=Un%20hombre%20fue%20atacado%20por%20un%20tibur%C3%B3n%2C%20forcejea%20con%20el%20animal%2C%20se%20salva%20y%20cuenta%20su%20historia&url=https%3A%2F%2Fes-us.noticias.yahoo.com%2Fhombre-v%25C3%25ADctima-mordedura-tibur%25C3%25B3n-san-010000621.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dtw%26tsrc%3Dtwtr&via=Yahoo",
+      "https://www.facebook.com/dialog/feed",
+      "https://www.s.yimg.com/ny/api/res/1.2/fQl11QeUg0Cq58THvK4_Wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://www.media.zenfs.com/es/sandiegored_883/8fc5be06c2f6bfdf565c24c4bc5bbd77",
+      "https://www.t.co/IXkfyQiTgt",
+      "https://www.twitter.com/TODAYshow/status/1803034249991168284?ref_src=twsrc%5Etfw",
+      "https://www.s.yimg.com/ny/api/res/1.2/qhkVyH_rkGcTsfCaxNwkTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTI-/https://www.s.yimg.com/os/creatr-uploaded-images/2022-08/27d83300-2ed7-11ed-a7e7-638187aaad61",
+      "https://www.s.yimg.com/ny/api/res/1.2/hZB4mbq_dPKrr1sdjdRtZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE2MDA7aD0xODA-/https://www.s.yimg.com/os/creatr-uploaded-images/2023-11/8cc40ca0-7a8d-11ee-bb4e-c386f85c097b",
+      "https://www.whatsapp.com/channel/0029Va6zF9z2f3ECGenPqr2l",
+      "https://sandiegored.com/",
+      "https://twitter.com/TODAYshow/status/1803034249991168284"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-23T01:34:17.885+03:00",
+    "updated": "2024-06-23T01:34:17.885+03:00"
+  },
+  {
+    "uuid": "2a0f014ff22655933b9ddf135ed5118a64557276",
+    "url": "https://larepublica.pe:443/politica/2025/04/09/crisis-en-el-ministerio-publico-quien-es-el-hombre-que-debilita-al-equipo-lava-jato-desde-adentro-y-esta-vinculado-al-fujimorismo-hnews-113712",
+    "ord_in_thread": 0,
+    "author": "Pamela Arroyo",
+    "published": "2025-04-09T21:01:00Z",
+    "title": "Crisis en el Ministerio Público: ¿Quién es el hombre que debilita al equipo Lava Jato desde adentro y está vinculado al fujimorismo?",
+    "text": "Crisis en el Ministerio Público: ¿Quién es el hombre que debilita al equipo Lava Jato desde adentro y está vinculado al fujimorismo?\nJuan Antonio Fernández Jerí ha sido el responsable de suspender a los fiscales José Domingo Pérez y Rafael Vela del Equipo Especial Lava Jato. La cuestionada autoridad pública tendría vínculos con Fuerza Popular y el APRA.\nLa gestión de Juan Antonio Fernández Jerí al frente de la Autoridad Nacional de Control (ANC) del Ministerio Público\nha estado envuelta en múltiples controversias y cuestionamientos que ponen en entredicho su idoneidad para el cargo. Designado el 6 de septiembre de 2022 por la Junta Nacional de Justicia (JNJ), su nombramiento generó dudas debido a antecedentes previos y acciones posteriores que han sido cuestionadas, como la reciente suspensión a Juan Domingo Pérez de su cargo de fiscal por el Equipo Especial Lava Jato.\nUn audio que revela una conversación entre Fernández Jerí con el abogado de Fuerza Popular, Christian Salas, y el testimonio del exasesor Jaime Villanueva, el cual indica que el jefe de la ANC se habría reunido con el exministro aprista Hernán Garrido Lecca para pedir la destitución de los fiscales Lava Jato, ponen en evidencia los vínculos políticos y de favoritismos que tendría Juan Fernández con los partidos Fuerza Popular y el Partido Aprista Peruano (APRA).\nPUEDES VER:\n[Congreso: Comisión de Constitución aprueba proyecto fujimorista para suspender a fiscales, jueces, ministros y miembros de la JNJ]\nAcusaciones previas a su designación\nAntes de asumir la jefatura de la ANC, en 2014, Fernández Jerí fue señalado por Yanet Guerrero Mego de haber negociado la liberación de su padre a cambio de 80.000 soles. Esta grave acusación fue archivada en 2017 por el exfiscal supremo Víctor Rodríguez Monteza sin considerar el testimonio de la principal testigo, lo que provocó críticas sobre la transparencia del proceso.\nPosteriormente, se conoció que dicho proceso había sido archivado sin notificación previa a la Procuraduría Anticorrupción. La sospechosa omisión de Rodríguez, permitió que Fernández Jerí pueda alegar ser absuelto y que nadie apele, indicando que se trataría de una decisión \"consentida\".\nSin embargo, el caso se volvió polémico cuando Víctor Rodríguez Montaza fue destituido como fiscal supremo por la JNJ el 24 de noviembre de 2021 por haber tenido vínculos con la organización criminal Los Cuellos Blancos del Puerto. Esto ocasionó que el nombramiento de Fernando Jerí en la ANC quede suspendida en abril de 2022; pero en septiembre del mismo año se concretó su inicio en el órgano del Ministerio Público.\nReuniones con autoridades investigadas\nDurante su gestión, Fernández Jerí admitió haberse reunido en 2022 y 2023 con diversas autoridades políticas, incluyendo ministros y congresistas que estaban bajo investigación por delitos de corrupción. Entre ellos se encuentran José Luna Gálvez, investigado por presuntos delitos de cohecho activo, organización criminal y lavado de activos; María Acuña Peralta, investigada por presunto delito de concusión; Miguel Ciccia Vásquez (Renovación Popular), investigado por presuntos patrocinio ilegal y tráfico de influencias y Martha Moyano, congresista fujimorista del actual parlamento.\nAunque Fernández Jerí argumentó que estos encuentros tenían como finalidad gestionar recursos para la ANC, la JNJ inició una investigación preliminar por posible inconducta funcional\n.\nAdicional a dichas reuniones oficiales, surgieron los testimonios del exasesor Jaime Villanueva, que señalaron que Fernández Jerí habría coordinado con la entonces fiscal de la Nación, Patricia Benavides, y con figuras políticas como el exministro aprista Hernán Garrido Lecca y el abogado José Luis Hauyón, para facilitar la suspensión de fiscales como Rafael Vela y José Domingo Pérez (ambos del Equipo Especial Lava Jato).\nEn su declaración, Villanueva reveló que Fernández Jerí inició los procesos disciplinarios contra los fiscales, sacando nuevamente a la luz viejas denuncias de fujimoristas contra Vela y Domingo. “Fernández Jerí no iba a parar hasta suspenderlo (a Vela)”, y le recomendó que “mejor sería que busque defensa legal”, pues, “detrás del jefe de la ANC-MPFN tendrían sus intereses Hernán Garrido-Lecca y José Luis Hauyón, ya que dicho jefe de la ANC-MPFN había sido nombrado con ayuda de ellos y les debía ese favor”, contó el exasesor.\nSuspensión de fiscales Rafael Vela y José Domingo Pérez\nLa ANC, bajo la dirección de Fernández Jerí, ha tomado decisiones polémicas respecto a fiscales emblemáticos en la lucha anticorrupción. La primera fue en noviembre de 2023, cuando se suspendió por más de ocho meses al fiscal Rafael Vela, coordinador del Equipo Especial Lava Jato, por comentarios críticos hacia una decisión judicial.\nRecientemente, en abril de 2025, se ha suspendido por seis meses al fiscal José Domingo Pérez por presuntas faltas administrativas. Estas acciones han sido interpretadas por diversos sectores como intentos para debilitar las investigaciones de corrupción, como el Caso Cocteles contra Keiko Fujimori.\nTras su suspensión, José Domingo Pérez denunció a Fernández Jerí por el presunto delito de cohecho pasivo, basándose en el audio que revela una supuesta conversación entre Fernández Jerí y Christian Salas Beteta, abogado de Fuerza Popular, en la que se habría discutido su destitución del cargo.\nEl fiscal Pérez asegura que el Ministerio Público se negó a recibir la grabación durante meses y recientemente, hace unos días, pasó a una oficina para su investigación. Por su parte, la ANC ha negado tales reuniones y cualquier complot contra fiscales.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Politics->political crisis",
+      "Politics->political parties and movements",
+      "Politics->government",
+      "Social Issue->discrimination",
+      "Social Issue->social problem",
+      "Crime, Law and Justice->investigation (criminal)",
+      "Crime, Law and Justice->judiciary",
+      "Crime, Law and Justice->corruption"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://epicentro.tv/controlador-de-la-fiscalia-sera-investigado/?utm_source=chatgpt.com",
+      "https://www.epicentro.tv/controlador-de-la-fiscalia-sera-investigado/?utm_source=chatgpt.com",
+      "https://epicentro.tv/controlador-de-la-fiscalia-sera-investigado/"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Lava Jato",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Juan Antonio Fernández Jerí",
+          "sentiment": "none"
+        },
+        {
+          "name": "José Domingo Pérez",
+          "sentiment": "none"
+        },
+        {
+          "name": "Juan Domingo Pérez",
+          "sentiment": "none"
+        },
+        {
+          "name": "Jaime Villanueva",
+          "sentiment": "none"
+        },
+        {
+          "name": "Christian Salas",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Ministerio Público",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Autoridad Nacional de Control",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Junta Nacional de Justicia",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Fuerza Popular",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "APRA",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "ANC",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "JNJ",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:37:33.724+03:00",
+    "updated": "2025-04-10T00:37:33.724+03:00"
+  },
+  {
+    "uuid": "e3ceb8e9249baf88efebe5ffd73ec5808eea5b0a",
+    "url": "https://www.elconfidencial.com/el-tiempo/2025-07-03/el-tiempo-en-albacete-jueves_4164560/",
+    "ord_in_thread": 0,
+    "author": "Daniela Tostón",
+    "published": "2025-07-03T04:00:00Z",
+    "title": "Previsión meteorológica en Albacete: alerta amarilla por lluvias, tormentas y temperaturas máximas",
+    "text": "Previsión meteorológica en Albacete: alerta amarilla por lluvias, tormentas y temperaturas máximas\nConsulta el tiempo de hoy según AEMET: temperaturas, lluvias y más detalles meteorológicos\nLa localidad de Albacete se encontrará en alerta amarilla por lluvias, tormentas y temperaturas máximas en este jueves, según lo dispuesto por la Agencia Estatal de Meteorología (AEMET), que ha activado el aviso en La Mancha albaceteña. Así, este municipio se verá marcado por un panorama sin nubes desde primera hora del día y será con nubes a partir de mediodía.\nNo se esperan tormentas a lo largo de la mañana, pero cabe una escasa posibilidad durante la tarde-noche. Las temperaturas no cambiarán demasiado con respecto a ayer, con unas máximas de 36 grados y unas mínimas de 22 . En esta fecha vendrán ligeras brisas de dirección sudeste.\nA continuación se indica la evolución semanal del tiempo en Albacete; concretamente, a la izquierda se muestra el estado del cielo de cada día junto a la probabilidad de precipitaciones, seguido de la temperatura mínima y máxima que registrarán los termómetros.\nEl tiempo de mañana\nPor otro lado, mañana será un día sin nubes. Las temperaturas máximas en Albacete serán bastante similares a las de hoy, manteniéndose en torno a los 36 grados, mientras que la mínima variará ligeramente, moviéndose sobre los 20 grados. Predominarán vientos flojos del sudeste.\nFin de semana\nEl fin de semana deparará cielos con intervalos nubosos tanto el sábado como el domingo. El primer día dejará una temperatura máxima por encima de 36 grados y una mínima de 21 . Aunque el domingo se esperan pocas variaciones en la máxima, la mínima continuará en valores similares. El sábado el viento soplará flojo y de dirección sur en Albacete, mientras que el domingo soplará en calma. .\nEl tiempo en otros municipios\nEn cuanto a otros municipios próximos, se prevén cielos despejados, sin cambios durante el trascurso del día, en Tomelloso.\nLas temperaturas rondarán valores mínimos de 22 grados y llegarán a los 38 de máxima.\nEn Cuenca, habrá\nvariaciones en los cielos, con un panorama despejado durante la primera parte del día y de intervalos nubosos con tormenta y lluvia escasa desde las 12:00. El organismo meteorológico apunta a que la mañana no dejará precipitaciones, mientras que\nse pueden producir lloviznas por la tarde.\nLas temperaturas se moverán entre los 20 grados de mínima y los 35 de máxima.\nEsta es la previsión meteorológica en otras localidades:\n* Datos del tiempo en Albacete con información elaborada utilizando, entre otras, la obtenida de la Agencia Estatal de Meteorología (AEMET). En cualquier caso, esta información debe considerarse provisional a la espera de próximas actualizaciones.\nLa localidad de Albacete se encontrará en alerta amarilla por lluvias, tormentas y temperaturas máximas en este jueves, según lo dispuesto por la Agencia Estatal de Meteorología (AEMET), que ha activado el aviso en La Mancha albaceteña. Así, este municipio se verá marcado por un panorama sin nubes desde primera hora del día y será con nubes a partir de mediodía.\nAlbacete",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Health"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Social Issue->demographics",
+      "Health->public health",
+      "Health->medical condition",
+      "Health->health care approach"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.aemet.es/es/eltiempo/prediccion/avisos?w=hoy",
+      "http://www.aemet.es/es/eltiempo/prediccion/avisos",
+      "http://aemet.es/es/eltiempo/prediccion/avisos?w=hoy"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Agencia Estatal de Meteorología",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "AEMET",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_co",
+        "top_news_cl",
+        "top_news_es",
+        "top_news_pt",
+        "top_news_pe",
+        "top_news_mx",
+        "top_news_ar",
+        "top_news_ve",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T07:45:15.790+03:00",
+    "updated": "2025-07-04T05:10:26.000+00:00"
+  },
+  {
+    "uuid": "6a7bfa8bf0a12a28dc4a7bf54b63320d2468104b",
+    "url": "https://flipboard.com/topic/bankofengland/-/a-f4MzTMzfQA6z3r-xsJ0B1w%3Aa%3A3585586111-%2F0",
+    "ord_in_thread": 0,
+    "author": "americanbanker.com - John Adams",
+    "published": "2025-04-16T21:04:00Z",
+    "title": "Klarna, Payoneer buck tariffs to boost global expansion | Flipboard",
+    "text": "Klarna, Payoneer buck tariffs to boost global expansion Chana R. Schoenberger Part of Klarna's quest to go public in the U.S. was to build scale through a series of high-profile partnerships. And while …\namericanbanker.com - John Adams • 21m",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Politics->economic policy",
+      "Politics->regulation of industry",
+      "Politics->international relations",
+      "Social Issue->social condition",
+      "Social Issue->emigration",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Chana R. Schoenberger",
+          "sentiment": "negative"
+        },
+        {
+          "name": "John Adams",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T00:27:15.886+03:00",
+    "updated": "2025-04-17T00:27:15.886+03:00"
+  }
+]

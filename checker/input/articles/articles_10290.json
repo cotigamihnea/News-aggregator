@@ -1,0 +1,222 @@
+[
+  {
+    "uuid": "d6cd45fa5385290177b6670ccbd34eb35361c1a1",
+    "url": "https://www.westernstandard.news/alberta/oilers-notebook-freeland-and-the-team-crazy-characters-and-a-marriage/55136",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jonathan Bradley",
+    "published": "2024-06-06T17:39:00Z",
+    "title": "OILERS NOTEBOOK: Freeland and the team, crazy characters, and a marriage",
+    "text": "Deputy Prime Minister and Finance Minister Chrystia Freeland said it “is sad and shameful the Conservatives continue to talk down the Canadian economy, and they are unable to celebrate our great country.” In reality, Freeland said this week has been great for Canada. “First, the Oilers made it to the Stanley Cup Finals,” said Freeland in a Wednesday speech in the House of Commons. “And then today, the Bank of Canada lowered interest rates.”.READ MORE: Canadian politicians praise Oilers for moving on to Stanley Cup FinalPrime Minister Justin Trudeau said the Oilers had a great game. “Time to bring the [Stanley] Cup home,” said Trudeau..-------OilersTV host Jessica Kent said there “is no denying the playoffs are the most electric time of year in Oil Country.” “Everywhere you look, you see jerseys and flags, but if you look a little closer, you’ll see those fans that went the extra mile and spent a little more time on their playoff personas,” said Kent in a Wednesday video. .Oilers superfan Banjo Guy said his face paint takes two-and-a-half hours every game. “This is my 103rd time painting my face,” said Banjo Guy. While Banjo Guy showed dedication with face paint, Oilers superfan Mama Stanley revealed she put in 3,500 sequins with tiny nails into her Stanley Cup bowl hat. “Took us six hours to make,” she said. However, Oilers superfan Blue Man said it takes him 45 minutes to paint his face blue. “I only do it for Oiler playoff games if I’m at a game,” said Blue Man. “Other than that, it’s not done.” Oilers superfan the Captain concluded by saying he loves his team and wants to feel a part of it. “Play La Bamba, baby,” said the Captain. ---",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "chrystia freeland",
+          "sentiment": "negative"
+        },
+        {
+          "name": "freeland",
+          "sentiment": "negative"
+        },
+        {
+          "name": "justin trudeau",
+          "sentiment": "none"
+        },
+        {
+          "name": "kent",
+          "sentiment": "none"
+        },
+        {
+          "name": "jessica kent",
+          "sentiment": "none"
+        },
+        {
+          "name": "banjo guy",
+          "sentiment": "none"
+        },
+        {
+          "name": "trudeau",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "house of commons",
+          "sentiment": "none"
+        },
+        {
+          "name": "bank of canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "oilers",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "oil country",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-07T00:47:45.318+03:00",
+    "updated": "2024-06-07T00:47:45.318+03:00"
+  },
+  {
+    "uuid": "62fdb57dfdc732af1e0cbf5f722463a66538c433",
+    "url": "https://www.bfm.ru/news/581176",
+    "ord_in_thread": 0,
+    "author": "BFM.ru",
+    "published": "2025-08-14T06:54:00Z",
+    "title": "В Новосибирской области могут ограничить мобильный интернет",
+    "text": "14 августа 2025, 09:54\nОбществоВ Новосибирской области могут ограничить мобильный интернет\nЛента новостей\nМера направлена на обеспечение безопасности населения и инфраструктуры\nЖителей Новосибирской области предупредили о том, что на территории региона могут ограничить мобильный интернет.\nЗаместитель руководителя администрации губернатора и местного правительства Сергей Нешумов пояснил, что такая мера направлена на обеспечение безопасности населения и объектов инфраструктуры.\nПри этом голосовая связь, СМС-сообщения и проводной интернет будут работать в штатном режиме, уточнили в антитеррористической комиссии региона.\nУчитывая сложившуюся ситуацию, в Новосибирской области министерство цифрового развития и связи подготовило рекомендации для граждан, находящихся в зоне замедления или отключения мобильного интернета.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->social sciences",
+      "Social Issue->social condition",
+      "Politics->government policy",
+      "Politics->civil rights",
+      "Politics->regulation of industry"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://t.me/atknso/252",
+      "https://www.t.me/atknso/252"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T10:11:25.148+03:00",
+    "updated": "2025-08-14T10:23:26.000+03:00"
+  },
+  {
+    "uuid": "aa07ca69f3f951fdaf9ba3cdef0fb787170358e6",
+    "url": "https://www.si.com/fannation/wrestling/wwe/pete-dunne-set-to-make-bloodsport-debut-during-wrestlemania-week",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Zack Heydorn",
+    "published": "2025-03-19T23:00:00Z",
+    "title": "Pete Dunne Set To Make Bloodsport Debut During WrestleMania Week",
+    "text": "Pete Dunne Set To Make Bloodsport Debut During WrestleMania Week\nWWE star, Pete Dunne, is heading to Josh Barnett's Bloodsport 13 event during WrestleMania week in Las Vegas. This will be Dunne's first appearance for GCW.\nJosh Barnett broke the news Wednesday on social media.\n\"A 'Strong Style' Englishman, from the tough, industrial city of Birmingham,\" Barnette wrote of Dunne on X. \"He has no problem trading blows or submission holds - wherever the fight goes, this \"Bruiserweight\" wrestler is up for it. Pete Dunne is coming to Josh Barnett's: Bloodsport XIII.\"\nDunne will join Natalaya as another WWE star on the show. Last year, Shayna Basler took part in the event.\nDunne is a former NXT UK Champion and NXT Tag Team Champion. He joined WWE after the first-ever UK Classic event. After his run in NXT UK and regular NXT, Dunne was brought to the main roster.\nThroughout the last couple months, Dunne has feuded with Penta and Ludwig Kaiser.\nJosh Barnett's Bloodsport shows have become staple events during WrestleMania week inside the WrestleMania host city as part of GCW's The Collective -- a collection of a variety of different independent shows running under the same banner.\nThis year, Bloodsport 13 takes place on April 17 from the Pearl Concert Theater in Las Vegas.\nThe Latest On WWE, AEW & More\nSting Could Make Unexpected WWE Return During WrestleMania Weekend\nKevin Nash Says The Rock And John Cena Should Replace Travis Scott With This WWE Legend\nWWE Slashes Prices On Hulk Hogan's WrestleMania Suite Package",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->sport event",
+      "Sport->wrestling",
+      "Lifestyle and Leisure->club and association",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->game",
+      "Human Interest->celebrity"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Pete Dunne",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Ludwig Kaiser",
+          "sentiment": "none"
+        },
+        {
+          "name": "Shayna Basler",
+          "sentiment": "none"
+        },
+        {
+          "name": "Josh Barnett",
+          "sentiment": "none"
+        },
+        {
+          "name": "Barnette",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Penta",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:15:58.798+02:00",
+    "updated": "2025-03-20T01:15:58.798+02:00"
+  }
+]

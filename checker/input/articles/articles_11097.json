@@ -1,0 +1,651 @@
+[
+  {
+    "uuid": "e274f3d9f7848781c2e2bba68e2168fbea4dfba6",
+    "url": "https://cybersecuritynews.com/cisa-warns-of-n-able-n-central-vulnerabilities/",
+    "ord_in_thread": 0,
+    "author": "Florence Nightingale",
+    "published": "2025-08-14T08:31:00Z",
+    "title": "CISA Warns of N-able N-Central Deserialization and Injection Vulnerability Exploited in Attacks",
+    "text": "CISA has issued urgent warnings regarding two critical security vulnerabilities in N-able N-Central remote monitoring and management (RMM) software that threat actors are actively exploiting.\nThe vulnerabilities, identified as CVE-2025-8875 and CVE-2025-8876, pose significant risks to organizations using this widely-deployed IT management platform.\nKey Takeaways\n1. Two critical N-able N-Central vulnerabilities were actively exploited for remote code execution.\n2. CISA deadline: August 20, 2025, for mandatory fixes.\n3. Update or discontinue use immediately.\nDeserialization Vulnerability The first vulnerability, CVE-2025-8875, represents an insecure deserialization vulnerability that could lead to arbitrary command execution on affected systems.\nDeserialization attacks occur when untrusted data is processed by an application’s deserialization mechanism, potentially allowing attackers to manipulate object states and execute malicious code.\nThis particular flaw in N-able N-Central’s architecture creates a pathway for remote attackers to gain unauthorized access and control over managed systems.\nThe technical nature of this vulnerability lies in the improper handling of serialized objects within the N-Central platform.\nWhen the application deserializes user-controlled input without proper validation, it creates an attack vector that sophisticated threat actors can exploit to bypass security controls and establish persistent access to target networks.\nThe Common Vulnerability Scoring System (CVSS) implications of this flaw make it a high-priority concern for security teams.\nCommand Injection Vulnerability The second vulnerability, CVE-2025-8876, involves a command injection vulnerability stemming from improper sanitization of user input within the N-Central application.\nCommand injection attacks allow malicious actors to execute arbitrary system commands by manipulating input fields that are processed by the underlying operating system without adequate filtering or validation.\nThis vulnerability specifically targets the input validation mechanisms within N-Central’s user interface, where insufficient input sanitization procedures fail to prevent the execution of injected shell commands.\nAttackers can potentially leverage this weakness to execute system-level commands, access sensitive files, modify system configurations, or install malicious software on compromised systems.\nMitigations CISA has established an aggressive remediation timeline, requiring organizations to implement mitigations by August 20, 2025, just one week after the vulnerabilities were added to the Known Exploited Vulnerabilities (KEV) catalog on August 13.\nThe urgency reflects the active exploitation of these vulnerabilities in real-world attack scenarios.\nOrganizations must immediately apply vendor-provided patches and mitigations, follow applicable Binding Operational Directive (BOD) 22-01 guidance for cloud services, or discontinue use of affected N-Central deployments if adequate mitigations remain unavailable.\nN-able has released version 2025.3.1 of N-Central to address these security issues.\nWhile the connection to ransomware campaigns remains unknown, the combination of deserialization and command injection vulnerabilities creates a potent attack surface that threat actors could exploit for initial access, lateral movement, and payload deployment across enterprise networks.\nBoost your SOC and help your team protect your business with free top-notch threat intelligence: Request TI Lookup Premium Trial .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Social Issue->social condition",
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825",
+      "https://intelligence.any.run/plans/",
+      "https://www.intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "CISA",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "e274f3d9f7848781c2e2bba68e2168fbea4dfba6",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T11:44:55.009+03:00",
+    "updated": "2025-08-14T11:59:05.000+03:00"
+  },
+  {
+    "uuid": "622bc4960122a3b81e8a6f49a777520a5a4e636e",
+    "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2024/09/19/sub-20-do-palmeiras-viaja-a-bh-em-aviao-de-leila-pereira-para-decisao-do-brasileiro-contra-o-cruzeiro.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "UOL",
+    "published": "2024-09-19T20:10:00Z",
+    "title": "Sub-20 do Palmeiras viaja a BH em avião de Leila Pereira para decisão do Brasileiro contra o Cruzeiro",
+    "text": "FIM DOS JOGOS DE PARIS Acompanhe em tempo real a cerimônia de encerramento das Olimpíadas 2024 Seu time Seu signo Jogos Eleições Entre Assine UOL Logo UOL Home UOL Produtos Conteúdo Exclusivo UOL Mail UOL Play UFC Champions League NBA Bate-papo UOL UOL Leia+ UOL Segurança Digital UOL Assistência Técnica UOL Resolve UOL WI-FI UOL Sexo Clube UOL UOL ads UOL Host UOL Meu Negócio UOL Afiliados Notícias Colunas Cotidiano Educação Eleições Governo Lula Internacional Previsão do tempo Saúde UOL Confere Newsletters Últimas notícias Loterias Mega Sena Quina Lotofácil Lotomania Outras loterias Podcasts Posse de Bola Sexoterapia Splash Vê TV UOL Entrevista UOL Prime UOL Líderes Mídia e Marketing Eleições Candidatos a prefeito Últimas notícias Carros Tabela Fipe Lançamentos e Mercado Avaliação de Carros Comparativo Legislação, Multas e Trânsito Manutenção e Segurança Carros curiosos Carro dos famosos Vídeos Web Stories Últimas notícias Newsletters Economia Cotações Investimentos Empresas e Negócios Dinheiro e Renda Concursos Guia de Compras Guia de Economia Imposto de Renda Líderes Mídia e Marketing Colunas Newsletters Vídeos Últimas notícias Cotações Dólar Euro Outras moedas Bolsa de Valores Bitcoin e Criptomoedas Imposto de Renda Download do programa Tira-dúvidas Últimas notícias Governo e Congresso Bolsa Família INSS PIS - Pagamentos e Calendário Preço dos combustíveis Inflação no Brasil e Mundo Banco Central Selic e Juros Folha Política Economia Mundo Cotidiano Equilíbrio Cultura F5 Esporte Podcasts Colunas e blogs Esporte Futebol Jogos de Hoje Brasileirão Série B Copa do Brasil Copa Sul-Americana Eliminatórias Sul-Americanas Libertadores Campeonato Inglês Mais campeonatos Mercado da Bola Mais Esporte Fórmula 1 MMA Futsal NBB 2023/24 LBF - Basquete feminino Tênis Reportagens especiais Colunas Vídeos Newsletters Últimas notícias Times Assine e veja ao vivo UFC Champions League NBA BBB Celebs Filmes Séries Música Shows e Festivais Aba Anônima Televisão Novelas Reality shows São João Teatro e Musicais Colunas Vídeos Web Stories Newsletters Últimas Novelas A Infância de Romeu e Julieta Cheias de Charme Família é Tudo No Rancho Fundo Renascer Assine UOL Play UOL Leia+ Banca UOL Leia+ Livros Loja de jogos Sexo Materna Desculpe Alguma Coisa Maria vai com os Outros Lab da Beleza Universa Talks Horóscopo Newsletters Colunas Vídeos Últimas notícias Horóscopo Aries Touro Gêmeos Câncer Leão Virgem Libra Escorpião Sagitário Capricórnio Aquário Peixes Equilíbrio e Saúde Mental Movimento e Fitness Longevidade Vida com Câncer Newsletters Colunas Notícias Vídeos Web Stories Saúde Bulas de Remédios Emagrecimento Gravidez e Maternidade Gripes e Resfriados Guia de Doenças Remédios e Tratamentos Alimentação Cardápios Chás e seus benefícios Dietas Fique por dentro Tec a seu favor Novos hábitos Colunas Vídeos Newsletters Últimas Fique por dentro Lançamentos WhatsApp Redes Sociais Apps Isso é Golpe! Ciência Astronomia Negócios Tec a seu favor Teste de Velocidade da Internet #ficadica Dicas matadoras A tecnologia por trás Review Comparativo No Brasil não tem Colunas Crise Climática ESG Iniciativas que inspiram Meio Ambiente Plural Transição Energética Últimas Crise Climática Iniciativas que inspiram Casa Cozinha Viagem Moda Temporadas Programas Reportagens Especiais Colunas Últimas Casa Cozinha Busque sua Receita Lista de Receitas Ao ponto Instachef Tim-tim Receita de família Gastronobásico Viagem 12 horas Fora da rota Desafio Retina Na Estrada Moda Temporadas Solar Japão Brasileiro Festejo Entornos Férias Especiais Perfis Nas Ruas Tendência Últimas Assista Apostas Casas de apostas Bônus APPs Rollovers Guias Mercados Regulamentação Bebês e crianças Beleza Bem-estar Casa e Cozinha Eletrônicos Livros Roupas e acessórios Sexo Educação Banco de Redações Enem Pesquisa Escolar Planos de aula Resumo de livros Vestibular Brasil Escola Últimas notícias Pesquisa Escolar Atualidades Biografias Biologia Física Geografia História Matemática Português Química Outros temas Cursos online Cursos Livres - Upfy Pós-graduação Profissionalizantes Preparatório OAB UOL Meu Negócio PagBank Passei Direto Esporte Sub-20 do Palmeiras viaja a BH em avião de Leila Pereira para decisão do Brasileiro contra o Cruzeiro 19/09/2024 17h10 O sub-20 do Palmeiras tem pela frente o jogo de ida da final do Brasileiro da categoria, contra o Cruzeiro . O duelo acontece nesta sexta-feira, às 21h30 (de Brasília), na Arena Independência. O elenco viajou a Belo Horizonte (MG) no avião da presidente do clube, Leila Pereira.\nA delegação alviverde embarcou rumo ao local do primeiro jogo da final na tarde desta quinta-feira. Depois desse confronto, as equipes ainda voltarão a se enfrentar no dia 30 de setembro, às 18h30, no Allianz Parque (SP).\nJosias de Souza\nElon Musk brinca de Tom & Jerry com Moraes\nAlicia Klein\nAlerta para o São Paulo após jogo contra Botafogo\nRosana Pinheiro-Machado\nMarçal se acha o próprio Deus, mas se desvia dele\nCristina Fibe\n'Maníaco do carro' é fruto do patriarcado\nContinua após a publicidade\nVer esta publicação no Instagram\nContinua após a publicidade Newsletter\nOLHAR OLÍMPICO\nResumo dos resultados dos atletas brasileiros de olho em Los Angeles 2028 e os bastidores do esporte. Toda segunda.\nQuero receber\nContinua após a publicidade\nContinua após a publicidade\nContinua após a publicidade\nUma publicação partilhada por SE Palmeiras (@palmeiras)\nContinua após a publicidade\nAté o momento, no Brasileiro sub-20, as Crias da Academia disputaram 21 partidas, com 15 vitórias, dois empates e quatro derrotas. Além disso, são 54 gols marcados e 24 sofridos. Thalys é o artilheiro da equipe no torneio, com 15 tentos.\nO Palmeiras vai em busca do tricampeonato e disputa sua quinta final dos últimos sete anos. O primeiro título veio em 2018, superando o Vitória na decisão. O bicampeonato foi conquistado em 2022, com a vitória sobre o Corinthians, com gol de Endrick.\nPara avançar à final, o Verdão passou por Santos e Athletico-PR, enquanto o Cruzeiro deixou para trás Grêmio e Fortaleza. A Raposa busca seu quinto título na competição nacional.\nComunicar erro Veja também Deixe seu comentário Só para assinantes",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.portaleducacao.com.br/?utm_source=uol&utm_medium=referral&utm_campaign=dynad-cursosonline&utm_term=submenu",
+      "https://online.pucrs.br/#cursosposmba?utm_source=uol&utm_medium=referral&utm_campaign=dynad-posgraduacao&utm_term=submenu",
+      "http://www.gazetaesportiva.com/times/cruzeiro",
+      "https://atriumcursos.com.br/?utm_source=uol&utm_medium=referral&utm_campaign=dynad-OAB&utm_term=submenu",
+      "https://www.upfy.com.br/?utm_source=uol&utm_medium=referral&utm_campaign=dynad-upfy&utm_term=submenu",
+      "https://pagbank.onelink.me/Dzpm?pid=midia-interna&c=26052023_uol_linkfixo&af_channel=uol&af_adset=home&af_ad=header&af_dp=psmyaccount%3A%2F%2Fhome&utm_source=appsflyer-midia-interna&utm_medium=uol&utm_campaign=26052023_uol_linkfixo&utm_term=header&utm_content=home&af_web_dp=https%3A%2F%2Fpagseguro.com.br&af_force_deeplink=true",
+      "https://www.passeidireto.com/?utm_source=uol.com.br&utm_medium=barra-uol-home",
+      "http://gazetaesportiva.com/times/palmeiras",
+      "https://www.instagram.com/p/DAHEqhyNx9F/?utm_source=ig_embed&utm_campaign=loading",
+      "https://www.portaleducacao.com.br/cursos?utm_source=uol&utm_medium=referral&utm_campaign=dynad-prof&utm_term=submenu",
+      "https://www.passeidireto.com/",
+      "https://portaleducacao.com.br/cursos?utm_source=uol&utm_medium=referral&utm_campaign=dynad-prof&utm_term=submenu",
+      "https://portaleducacao.com.br/?utm_source=uol&utm_medium=referral&utm_campaign=dynad-cursosonline&utm_term=submenu",
+      "https://www.instagram.com/p/DAHEqhyNx9F/",
+      "https://www.atriumcursos.com.br/?utm_source=uol&utm_medium=referral&utm_campaign=dynad-OAB&utm_term=submenu",
+      "http://gazetaesportiva.com/times/cruzeiro",
+      "https://www.online.pucrs.br/#cursosposmba?utm_source=uol&utm_medium=referral&utm_campaign=dynad-posgraduacao&utm_term=submenu",
+      "http://www.gazetaesportiva.com/times/palmeiras",
+      "https://online.pucrs.br/#cursosposmba",
+      "https://www.upfy.com.br/",
+      "https://upfy.com.br/?utm_source=uol&utm_medium=referral&utm_campaign=dynad-upfy&utm_term=submenu",
+      "https://passeidireto.com/?utm_source=uol.com.br&utm_medium=barra-uol-home",
+      "https://pagbank.onelink.me/Dzpm",
+      "https://www.portaleducacao.com.br/cursos",
+      "https://www.pagbank.onelink.me/Dzpm?pid=midia-interna&c=26052023_uol_linkfixo&af_channel=uol&af_adset=home&af_ad=header&af_dp=psmyaccount%3A%2F%2Fhome&utm_source=appsflyer-midia-interna&utm_medium=uol&utm_campaign=26052023_uol_linkfixo&utm_term=header&utm_content=home&af_web_dp=https%3A%2F%2Fpagseguro.com.br&af_force_deeplink=true",
+      "https://atriumcursos.com.br/",
+      "https://www.portaleducacao.com.br/",
+      "https://instagram.com/p/DAHEqhyNx9F/?utm_source=ig_embed&utm_campaign=loading"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-20T00:35:47.949+03:00",
+    "updated": "2024-09-20T00:35:47.949+03:00"
+  },
+  {
+    "uuid": "d0bc4a8c34c19171476e7c62979a56ada3434f55",
+    "url": "https://www.gazette-news.co.uk/news/24017302.delays-likely-southend-airport-met-office-issues-weather-warning/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Elliot Deady",
+    "published": "2023-12-29T12:22:00Z",
+    "title": "Met Office weather warning ahead of strong winds in Essex | Gazette",
+    "text": "CHAOS is expected across Essex as the county prepares to welcome in the new year, weather forecasters have warned. The Met Office has issued an 18-hour yellow weather warning for wind, which includes most of Essex, including Chelmsford, Witham, Colchester, Basildon, and coastal areas across the county including Southend and Clacton. It warned that [delays to flights from Southend Airport](https://www.echo-news.co.uk/news/24017276.delays-likely-southend-airport-met-office-issues-weather-warning/) and ferries are likely as well as issues on some roads and train lines. Coastal routes, sea fronts, and seaside communities are also likely to be affected by sea spray and large waves. Find out what the last few days of 2023 including New Year's Eve have in store with— Met Office (@metoffice) [@WeatherAlex]👇 [pic.twitter.com/p0mDBx1i56] [December 28, 2023] The warning does not include the Uttlesford district, home to Stansted Airport, as well as much of the Braintree and Epping Forest districts. The warning is in place between 11am on Saturday and 3am on Sunday. What is the latest weather forecast for Essex? [RELATED: New Year’s Eve revellers urged to wrap up warm as temperatures plummet](https://www.echo-news.co.uk/news/national/24016879.new-years-eve-revellers-urged-wrap-warm-temperatures-plummet/) The latest forecast from the Met Office says: “An active cold front will move east across England and Wales during Saturday and into Sunday and will be characterised by strong winds and some heavy rain. “Gusts of 45-50mph widely, but squally near the cold front with some gusts around 60mph, whilst the strongest gusts are likely near coasts in the west and south, with 65-75mph in places.” What should I do to prepare? The Met Office has suggested anyone living in the affected area should prepare in advance for power cuts. It said: “It’s easy to do; consider gathering torches and batteries, a mobile phone power pack and other essential items. “If you are on the coast, stay safe during stormy weather by being aware of large waves. Even from the shore large breaking waves can sweep you off your feet and out to sea. “Take care if walking near cliffs; know your route and keep dogs on a lead. In an emergency, call 999 and ask for the coastguard.” Comments: Our rules We want our comments to be a lively and valuable part of our community - a place where readers can debate and engage with the most important local issues. The ability to comment on our stories is a privilege, not a right, however, and that privilege may be withdrawn if it is abused or misused. Please report any comments that break our rules. [Read the rules here](/misc/comments)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "external_links": [
+      "https://www.echo-news.co.uk/news/national/24016879.new-years-eve-revellers-urged-wrap-warm-temperatures-plummet/)",
+      "https://www.echo-news.co.uk/news/24017276.delays-likely-southend-airport-met-office-issues-weather-warning/)",
+      "https://echo-news.co.uk/news/national/24016879.new-years-eve-revellers-urged-wrap-warm-temperatures-plummet/)",
+      "https://echo-news.co.uk/news/24017276.delays-likely-southend-airport-met-office-issues-weather-warning/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "witham",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "essex",
+          "sentiment": "negative"
+        },
+        {
+          "name": "met office",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "southend",
+          "sentiment": "none"
+        },
+        {
+          "name": "epping forest",
+          "sentiment": "none"
+        },
+        {
+          "name": "southend airport",
+          "sentiment": "none"
+        },
+        {
+          "name": "colchester",
+          "sentiment": "none"
+        },
+        {
+          "name": "essex",
+          "sentiment": "none"
+        },
+        {
+          "name": "clacton",
+          "sentiment": "none"
+        },
+        {
+          "name": "stansted airport",
+          "sentiment": "none"
+        },
+        {
+          "name": "uttlesford",
+          "sentiment": "none"
+        },
+        {
+          "name": "braintree",
+          "sentiment": "none"
+        },
+        {
+          "name": "basildon",
+          "sentiment": "none"
+        },
+        {
+          "name": "chelmsford",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T14:33:46.524+02:00",
+    "updated": "2023-12-29T14:33:46.524+02:00"
+  },
+  {
+    "uuid": "82520f4a33adbe4aed06f765111e5b0df9684f41",
+    "url": "https://inc42.com/features/reversal-of-fortunes-after-50-fall-in-2022-pb-fintech-soars-nearly-75-in-2023/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "inc42.com",
+    "published": "2023-12-28T19:30:00Z",
+    "title": "Reversal Of Fortunes: After 50% Fall In 2022, PB Fintech Soars Nearly 75% In 2023",
+    "text": "SUMMARY In line with the bull run in the broader equity market, PB Fintech’s market capitalisation more than doubled to $4.2 Bn by the end of 2023 from $2 Bn at the end of 2022\nPB Fintech reporting its maiden adjusted EBITDA profitable quarter in Q4 FY23 and targeting net profitability in Q3 FY24 set the stage for the rally in the stock in 2023\nDespite rising competition, the Street is largely bullish on the stock as many brokerages see PB Fintech’s first-mover advantage in the insurtech space helping it sustain its growth\nFOLLOW US FOLLOW US Shares of PB Fintech, the parent entity of insurtech major Policybazaar, became one of the biggest gainers of 2023 on the back of the bull run in the domestic equity market, which resulted in the reversal of fortunes for new-age tech startups after the hammering they got in 2022.\nLike its peers Zomato and RateGain, the fintech player made big gains in the first half of 2023 and also sustained the uptrend for the rest of the year. As per analysts, the stock is on track to continue this rally in the mid to long term.\nOn the back of the uptrend of 2023, PB Fintech’s market capitalisation more than doubled to $4.2 Bn by the end of the year from $2 Bn at the end of 2022. Its shares gained 73% in 2023 versus an almost 50% decline last year.\nSo, what led to the rally in 2023? The answer is the same as we have discussed in our analysis of other new-age tech stocks as part of Inc42’s 2023 In Review series — improvement in fundamentals and an aggressive march towards profitability.\nNow, before we go into how 2024 looks for the stock, let’s take a look at the PB Fintech stock performance so far in 2023.\nMarch Towards Profitability Set The Stock On Fire Amid the increasing focus of startups, both listed and unlisted, on turning profitable, PB Fintech reported its first adjusted EBITDA profitable quarter in Q4 FY23. The startup also stated that it expected to turn profitable in FY24.\nThe development came just a quarter after PB Fintech’s lending vertical, Paisabazaar, achieved breakeven on an adjusted EBITDA level in Q3.\nLed by two back-to-back positive developments, PB Fintech shares gained over 38% year to date (YTD) by the end of May 2023.\nAmid all these, the startup saw a slew of new developments in 2023, including the rise in competition after Jio Financial Services entered into the insurtech space. However, the stock not only brushed aside the concerns and continued to climb up but was also less volatile in comparison to its fintech rival Paytm.\nRecommended For You: Features Losing Sheen? Decoding Nykaa’s Volatile 2023 & Calling Out The Ri... Tapanjana R. 27th December, 2023 Features Dry Spell Reigns: Only 64 Funds Worth $5.6 Bn+ Launched In The Ye... Gargi S. 27th December, 2023 Features India’s Quick Commerce Race: Blinkit On Top After 2023; Can Rival... Meha A. 26th December, 2023 Features Paytm Ends 2023 On A Sombre Note: Can The Fintech Juggernaut Turn... Tapanjana R. 26th December, 2023 Features How A Gloomy 2023 Cast A Dark Shadow Over X’s India Journey In 20... Chetan T. 25th December, 2023 Features A Year To Remember: How Zomato Made A Roaring Comeback After 2022... Tapanjana R. 24th December, 2023 A look at some of the key developments at the startup during the year.\nThe Directorate General of GST Intelligence (DGGI) reportedly sent a show cause notice to Policybazaar earlier in the year for alleged wrongful claim of input tax credit. The DGGI notice was just the beginning of many other regulatory actions. Later in the year, the Securities and Exchange Board of India (SEBI) imposed a penalty of INR 1 Lakh on Paisabazaar Marketing and Consulting, a subsidiary of PB Fintech, for appointing a principal officer without requisite certification. In the most recent incident, Paisabazaar also came under the radar of the Income Tax Department . PB Fintech appointed Sarbvir Singh as the new joint group CEO of the company. Policybazaar secured a fresh fund infusion of INR 350 Cr ($42 Mn) from its parent entity PB Fintech. The startup’s ESOP expenses continue to be a drag on its bottom line. However, it has managed to bring down these expenses over the last few quarters. Most analysts strengthened their bullish outlook on the stock this year. In its last reported quarter – Q2 FY24 – PB Fintech reported a net loss of INR 21 Cr, which was a decline on a year-on-year basis but a rise on a quarter-on-quarter (QoQ) basis. However, the bull run in the stock remained unaffected by the QoQ rise as its two verticals, Policybazaar and PaisaBazaar, are showing strong growth.\nThe startup’s share price surged to INR 784 as of December 28 (Thursday) from INR 447.55 at the end of December 2022. The offloading of stakes by some of the major investors like SoftBank and Tiger Global during the year also failed to have any significant impact on the stock.\nDecoding PB Fintech’s Shareholding Pattern In line with the trend seen at Zomato and Paytm, PB Fintech also saw some of its pre-IPO investors selling their stakes in the startup.\nSoftBank, which has been selling its stakes in the listed Indian companies in its portfolio, offloaded a 2.53% stake in PB Fintech in December, held via its SVF Python II Cayman. Prior to that, the fund offloaded a 1.85% stake in the fintech major in October while SVF India Holdings (Cayman) also sold a 0.69% stake in the startup at the same time. Tencent Cloud Europe B.V. offloaded its 2.09% stake in PB Fintech in May this year, bringing down its holding to 6.28%. Meanwhile, the rise in the stock price attracted interest from mutual funds and other institutional investors. A large number of PB Fintech shares offloaded by pre-IPO investors were lapped up by the likes of HDFC Mutual Fund, Mirae Asset Mutual Fund, ICICI Prudential Life Insurance Company Limited, Societe Generale Odi, BNP Paribas Arbitrage, and Citigroup Global Markets Mauritius, among others.\nAs of the September 2023 quarter, as many as 21 mutual funds held a 7.83% stake in PB Fintech as against 16 of them holding a 4.68% stake a year ago. Insurance companies also increased their stakes to 3.7% from 0.84% at the end of the quarter ended September 2022.\nThe stakeholding of foreign portfolio investors in the company increased to 29.92% in the quarter ended September this year. Overall, foreign institutional investors held a 49.4% stake in PB Fintech at the end of Q2 FY24.\nWill The Stock Continue To Soar In 2024? The Street is largely bullish on the stock and expects it to continue the ongoing rally next year. Some brokerages believe that PB Fintech has the first-mover advantage in the insurtech space, which, along with its strong tech backbone, will help continue the strong growth despite the rising competition.\nIn a research note earlier this year, Kotak Institutional Equities said, “We believe that intense competition in the life business, with a change in tax rules and increase in maximum bancassurance partnership and increased negotiating power of PB, provide tailwinds to its growth.”\nMeanwhile, Citigroup opined that PB Fintech’s end-to-end customer journey model, market dominance in digital-backed origination, robust tech backbone, and transitioning monetisation model towards annuity revenue place it in a sweet spot.\nFollowing PB Fintech’s Q2 FY24 earnings, Keynote Capitals noted that the company was standing at a “pivotal juncture”, driven by catalysts such as renewal commission growth, strategic expansion into Tier II and III cities through offline channels, and stringent cost management. All these measures, the brokerage said, were poised to generate favourable operating leverage.\nHelped by its aggressive goals, the startup’s management now sees PB Fintech turning profitable by as early as Q3 FY24 .\nHowever, it is pertinent to note that brokerage JM Financial flagged competition from insurance regulator Insurance Regulatory and Development Authority of India’s (IRDAI’s) Bima Sugam and the rising losses of PB Fintech’s new initiatives business as key risks to its growth thesis.\nKush Ghodasara, CMT and an independent market expert, expects the stock to perform well in the long run but sees a decline in the next 2-3 months.\nAll said and done, the year 2024 promises to be another good year for PB Fintech’s investors. However, the stage for it would be set by the startup achieving its net profitability goal. As such, all eyes would be on PB Fintech’s financial performance in Q3 FY24 and the subsequent quarters.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://bit.ly/4aa6nJp",
+      "https://bit.ly/485XFKn",
+      "https://api.whatsapp.com/send?phone=whatsappphonenumber&text=https://inc42.com/features/reversal-of-fortunes-after-50-fall-in-2022-pb-fintech-soars-nearly-75-in-2023/",
+      "https://twitter.com/share?url=https://inc42.com/features/reversal-of-fortunes-after-50-fall-in-2022-pb-fintech-soars-nearly-75-in-2023/",
+      "https://www.twitter.com/share?url=https://www.inc42.com/features/reversal-of-fortunes-after-50-fall-in-2022-pb-fintech-soars-nearly-75-in-2023/",
+      "https://api.whatsapp.com/send?phone=whatsappphonenumber&text=https://inc42.com/features/reversal-of-fortunes-after-50-fall-in-2022-pb-fintech-soars-nearly-75-in-2023",
+      "https://www.bit.ly/4aa6nJp",
+      "https://www.bit.ly/485XFKn",
+      "https://www.api.whatsapp.com/send?phone=whatsappphonenumber&text=https://www.inc42.com/features/reversal-of-fortunes-after-50-fall-in-2022-pb-fintech-soars-nearly-75-in-2023/",
+      "https://twitter.com/share",
+      "https://twitter.com/share?url=https://inc42.com/features/reversal-of-fortunes-after-50-fall-in-2022-pb-fintech-soars-nearly-75-in-2023",
+      "https://api.whatsapp.com/send"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "policybazaar",
+          "sentiment": "none"
+        },
+        {
+          "name": "zomato",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "pb fintech",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "fintech",
+          "sentiment": "none"
+        },
+        {
+          "name": "ebitda",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:49:27.166+02:00",
+    "updated": "2023-12-29T02:49:27.166+02:00"
+  },
+  {
+    "uuid": "3d718f347b726535384b43e7fb3ecb68c4f6076b",
+    "url": "https://www.sportskeeda.com/tennis/news-boris-becker-salutes-michael-jordan-nba-legend-makes-10-000-000-donation-fund-medical-clinic",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sudipto Pati",
+    "published": "2024-12-26T07:23:00Z",
+    "title": "Boris Becker salutes Michael Jordan after NBA legend makes $10,000,000 donation to fund medical clinic",
+    "text": "') > -1) { addClass($('.section-container'), 'pill-tag'); } Follow Us Share 0 Discuss 0 Discuss What's your opinion? Boris Becker salutes Michael Jordan after NBA legend makes $10,000,000 donation to fund medical clinic Discuss Now Boris Becker (L), Michael Jordan (R), Sources: Getty Boris Becker lauded Michael Jordan for the six-time NBA champion's latest charitable act. Jordan was present in-person to open a clinic in Wilmington, North Carolina, to ensure the medical welfare of underinsured and uninsured residents.\nOn Wednesday, December 25, a basketball highlights page on X (formerly Twitter) shared a video of Jordan speaking at the inauguration of his third clinic, the Novant Health Michael Jordan Family Medical Clinic, in Wilmington, North Carolina. The NBA legend donated $10 million to fund the clinic. Jordan has close ties to Wilmington, having studied at the city's Emsley A. Laney High School growing up.\nSpeaking on the occasion, Jordan said,\n\"That's what this clinic is about, when the families are not able to support, we're there to support. You don't have any money, it doesn't matter. We're going to do whatever we can to support you because that's what happened to me.\" Trending Following this, former World No. 1 and tennis icon Boris Becker took notice of the post and proceeded to salute Michael Jordan , writing:\n\"MJ is a legend\" Expand Tweet In October last year, Becker had congratulated the six-time NBA Finals MVP after the latter became the first athlete to be named in the list of the 400 richest individuals by Forbes magazine. At the time, Jordan's net worth was estimated at a staggering $3 billion. The former World No. 1 shared a picture of Jordan on his Instagram stories and hailed the basketball legend as the \"GOAT\" .\nPreviously, the German tennis icon had opined that Roger Federer belonged in the \"same league\" as Michael Jordan. Becker's opinion had stemmed from Federer's remarkable resurgence in 2017.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Economy, Business and Finance",
+      "Sport"
+    ],
+    "topics": [
+      "Human Interest->celebrity",
+      "Human Interest->award and prize",
+      "Economy, Business and Finance->corporate news and profiles",
+      "Economy, Business and Finance->media and entertainment industry",
+      "Sport->basketball"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/TheBorisBecker/status/1872240589196173533?t=DgxraYHsEIcULwOt1OC7DQ&s=19",
+      "https://news.google.com/publications/CAAqBggKMKSlJzCz-QU/sections/CAQqDggAKgYICjCkpScws_kFMOazmQY",
+      "https://twitter.com/TheBorisBecker/status/1872240589196173533",
+      "https://www.twitter.com/TheBorisBecker/status/1872240589196173533?t=DgxraYHsEIcULwOt1OC7DQ&s=19",
+      "https://www.news.google.com/publications/CAAqBggKMKSlJzCz-QU/sections/CAQqDggAKgYICjCkpScws_kFMOazmQY"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Boris Becker",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Michael Jordan",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NBA",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Novant Health Michael Jordan Family Medical Clinic",
+          "sentiment": "none"
+        },
+        {
+          "name": "Emsley A. Laney High School",
+          "sentiment": "none"
+        },
+        {
+          "name": "Twitter",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:50:43.209+02:00",
+    "updated": "2024-12-27T00:50:43.209+02:00"
+  },
+  {
+    "uuid": "aade7a3e7dc06906c98cdc77c8ab724160f6ea84",
+    "url": "https://biz.crast.net/nearly-5m-blendjet-2-portable-blenders-recalled-due-to-risk-of-fire-and-damage/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sylvia Quarles",
+    "published": "2023-12-28T21:30:00Z",
+    "title": "Nearly 5M Blendjet 2 portable blenders recalled due to risk of fire and damage - Business News",
+    "text": "BlendJet is recalling about 4.8 million of its portable blenders because of damage and fire hazards after receiving dozens of reports of injuries, federal regulators said Thursday. According to a notice from the U.S. Consumer Product Safety Commission, BlendJet 2 portable blenders may overheat or catch fire, and their blender blades may break during use. The CPSC said there have been 329 reports of blades breaking during use so far, as well as 17 additional reports of overheating or catching fire, resulting in property damage claims of approximately $150,000. The company has received 49 reports of minor burn injuries and one report of concussion. Regulators urged consumers to immediately stop using the recalled blenders and contact BlendJet for a free base unit replacement. To receive the replacement part, customers must remove and cut the base's rubber seal and email or upload a photo using BlendJet's website. BlendJet said in a prepared statement that the recall affects older Blender 2 blenders and that Blender 2 blenders now available for purchase through the company's website and retail partners have updated components and are not subject to the recall. Are. BlendJet 2 units with serial numbers where the first 4 digits are between 5201-5542 are subject to recall. Via the US Consumer Product Safety Commission “Out of an abundance of caution, our company updated the base of the BlendJet 2 to feature thicker blades and an improved electrical configuration,” BlendJet wrote in Thursday's release. “These updates were incorporated into all BlendJet 2 devices manufactured by the company several months ago.” BlendJet 2 blenders with serial numbers starting with numbers between “5201” and “5542” are part of the recall, the Benicia, California company said. People with numbers like “5543” or higher will not be recalled. Consumers can also confirm whether their blender is recalled by providing product information on BlendJet's website or contacting the company. recommended According to the CPSC, the recalled BlendJet portable blenders were sold between October 2020 and November 2023 online and in stores at retailers including Costco, Walmart and Target. Additionally, 4.8 million BlendJet 2 blenders have been recalled in the U.S. Regulators say about 117,000 blenders were sold in Canada. Source: www.nbcnews.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Economy, Business and Finance",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "blendjet",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cpsc",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s. consumer product safety commission",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:33:33.782+02:00",
+    "updated": "2023-12-29T00:33:33.782+02:00"
+  },
+  {
+    "uuid": "a6fa7d1bc30e0334bd60865fba7f3459496bbd8c",
+    "url": "https://www.cbsnews.com/news/ways-long-term-care-insurance-can-benefit-dementia-patients/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Joshua Rodriguez",
+    "published": "2023-12-28T21:57:00Z",
+    "title": "3 ways long-term care insurance can benefit dementia patients - CBS News",
+    "text": "One thing that's important to consider as you create your retirement plan is the increased cost of healthcare you may face as you age. Once you turn 65, you have a high chance of needing long-term care at some point in your remaining years — and that care can be expensive .\nThat's especially true if you develop dementia. As of February 2023, the average cost of living in a memory care home was $6,160 per month, according to Dementia Care Central , an educational resource funded by the National Institute on Aging. That amounts to about $73,920 in memory care expenses each year.\nThe good news is that you don't have to cover that bill on your own. Long-term care insurance can help you cover the cost of dementia care, should you develop the condition.\nGet long-term care insurance to make sure you can afford the care you need .\n3 ways long-term care insurance can benefit dementia patients \"Getting long-term care insurance could be a life-changer if dementia or any memory care is required for a family member,\" says Brandon Robinson, president and founder of JBR Associates in Plano, Texas. \"For dementia patients, needing memory care can be very expensive since that patient would need full-time care with a health care professional.\"\nThe good news is that long-term care insurance may be able to help . Here's how:\nIt can pay for memory care housing As mentioned above, memory care communities can be expensive — and that expense is only likely to continue growing.\nFortunately, a long-term care insurance policy can help cover this cost in a couple of ways:\nIt could cover your care completely : You may decide to purchase a long-term care insurance policy that's large enough to cover your care completely. In this case, your insurance would simply pay the bills for your assisted living memory care. It could be supplemental coverage for those expenses : You likely have other retirement income, like Social Security income and potential pensions, a 401k or other retirement savings. If that's the case, you can use this income to cover some of your memory care costs and use long-term care insurance to pay for your remaining expenses. As such, you'll need less coverage, reducing your monthly insurance premiums. Look into how long-term care insurance can help you cover the growing cost of memory care .\nIt can pay for adult daycare You may have a family member or two who are willing to provide your care if you develop dementia. However, there may be a need for adult daycare. For example, what if your family caregiver works a typical eight-hour per day, five-day per week work schedule? In this instance, adult daycare would come in handy.\nBut the cost of adult daycare services can be relatively high, averaging anywhere from $38 to $148 per day, depending on where you live, according to Dementia Care Central. Long-term care insurance typically covers this cost.\nIt can pay family caregivers In some cases, your long-term care insurance can even provide your family caregivers with a source of income . However, it's important that if you're going to lean on family caregivers, you make sure your long-term care insurance policy offers coverage for informal care providers.\nLong-term care insurance covers other costs, too Long-term care insurance isn't only helpful if you develop memory care needs. It can also help cover a wide range of costs as you age. For example:\nAssisted living or nursing homes : Long-term care insurance can cover the cost of assisted living communities or nursing homes if you need regular assistance with day-to-day tasks. Aging in place : This type of insurance also provides several benefits for those who plan on aging in place . As noted, long-term care insurance can help cover adult daycare and provide a paycheck to family caregivers. Home renovations : Long-term care insurance may also cover the cost of home renovations to ensure that your home is accessible to you through your golden years. For example, your provider may pay for the installation of a ramp, handrails or a traction control device to make sure you can safely access your home. Get long-term care insurance now to ensure you have options as you age .\nThe bottom line \"It's imperative that you secure the LTC insurance before the diagnosis of memory loss. With LTC insurance, you can have the majority, or all, of the monthly costs covered,\" says Robinson. Moreover, this type of coverage can help with a wide range of age-related healthcare cost increases — but only if you purchase coverage before you need it. Compare your long-term care insurance options now to make sure you're covered .\nJoshua Rodriguez Joshua Rodriguez is a personal finance and investing writer with a passion for his craft. When he's not working, he enjoys time with his wife, two kids, three dogs and 10 ducks.\nTwitter Facebook",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Human Interest",
+      "Health"
+    ],
+    "external_links": [
+      "https://www.facebook.com/profile.php?id=100005510886116",
+      "https://clicks.trx-hub.com/xid/cbsint_a10ef_cbsnews?q=https%3A%2F%2Fsecure.money.com%2Fpr%2Fk45f0c3de2e5%3Fs1%3Dwww.cbsnews.com%252Fnews%252F3-ways-long-term-care-insurance-can-benefit-dementia-patients&p=https%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fways-long-term-care-insurance-can-benefit-dementia-patients%2F&event_type=click&article_id=21d1b26a-87e5-4a1a-8a34-425db19ad8b5",
+      "https://twitter.com/@JRodWrites",
+      "https://www.dementiacarecentral.com/assisted-living-home-care-costs/",
+      "https://www.dementiacarecentral.com/assisted-living-home-care-costs",
+      "https://www.twitter.com/@JRodWrites",
+      "https://facebook.com/profile.php?id=100005510886116",
+      "https://www.clicks.trx-hub.com/xid/cbsint_a10ef_cbsnews?q=https%3A%2F%2Fsecure.money.com%2Fpr%2Fk45f0c3de2e5%3Fs1%3Dwww.cbsnews.com%252Fnews%252F3-ways-long-term-care-insurance-can-benefit-dementia-patients&p=https%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fways-long-term-care-insurance-can-benefit-dementia-patients%2F&event_type=click&article_id=21d1b26a-87e5-4a1a-8a34-425db19ad8b5",
+      "https://dementiacarecentral.com/assisted-living-home-care-costs/",
+      "https://clicks.trx-hub.com/xid/cbsint_a10ef_cbsnews",
+      "https://www.facebook.com/profile.php"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "brandon robinson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "dementia care central",
+          "sentiment": "none"
+        },
+        {
+          "name": "national institute",
+          "sentiment": "none"
+        },
+        {
+          "name": "jbr associates",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "texas",
+          "sentiment": "none"
+        },
+        {
+          "name": "plano",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:03:23.642+02:00",
+    "updated": "2023-12-29T12:10:41.835+02:00"
+  },
+  {
+    "uuid": "eaff39d6695a06c867e55a97d0f58d32a4f195ac",
+    "url": "https://dknetwork.draftkings.com/2024/7/25/24206379/report-mason-miller-finger-to-be-placed-on-il",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alex Hunter",
+    "published": "2024-07-26T01:41:00Z",
+    "title": "Report: Mason Miller (finger) to be placed on IL",
+    "text": "Oakland closer Mason Miller will be placed on the injured list with a broken left pinky finger, which he suffered after “put his hand down awkwardly on the training table while getting ready to do an exercise,” per the MLB.com’s Martin Gallegos.\nImportant clarification on Mason Miller injury: he did not pound the table out of frustration. He put his hand down awkwardly on the training table while getting ready to do an exercise.— Martín Gallegos (@MartinJGallegos)\n [July 25, 2024]\nMiller has been one of the best closers in baseball this season, posting a 2.21 ERA while logging 15 and 70 strikeouts over 40 2/3 innings.\nThe 25-year-old was named to his first All-Star team this season. During that contest, Miller pitched a hitless frame and recorded the fastest pitch in MLB All-Star game history, with one of his fastballs coming in at 103.4 MPH.\nMason Miller Masterclass.— Oakland A's (@Athletics)\n[pic.twitter.com/LxRKtfWpvO] [July 17, 2024]\nWith MLB’s July 30 trade deadline fast-approaching and the Athletics sitting dead last in the AL West, Miller’s name has been thrown around in trade rumors recently. There’s still a chance he gets dealt by the deadline despite the injury, given this aliment is to his non-throwing hand.\nCurrently, there is no timeline for Miller’s return.\nAll odds provided by\nDraftKings Sportsbook and all odds subject to change.\nThe Crown Is Yours:\nSign up for DraftKings and experience the ultimate host for games and betting experiences!\nI am a promoter at DraftKings and am also an avid fan and user (my username is Hunta512) and may sometimes play on my personal account in the games that I offer advice on. Although I have expressed my personal view on the games and strategies above, they do not necessarily reflect the view(s) of DraftKings and do not constitute a representation that any particular strategy will guarantee success. All customers should use their own skills and judgment in building lineups. I may also deploy different players and strategies than what I recommend above. I am not an employee of DraftKings and do not have access to any non-public information.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mason miller",
+          "sentiment": "negative"
+        },
+        {
+          "name": "martin gallegos",
+          "sentiment": "none"
+        },
+        {
+          "name": "miller",
+          "sentiment": "none"
+        },
+        {
+          "name": "martín gallegos",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "mason miller",
+          "sentiment": "negative"
+        },
+        {
+          "name": "il oakland",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mlb",
+          "sentiment": "none"
+        },
+        {
+          "name": "athletics",
+          "sentiment": "none"
+        },
+        {
+          "name": "al west",
+          "sentiment": "none"
+        },
+        {
+          "name": "mason miller masterclass",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-26T04:48:27.136+03:00",
+    "updated": "2024-07-26T04:48:27.136+03:00"
+  },
+  {
+    "uuid": "71e3cae52763f8c92eaac3127ef6a2d27f0a667c",
+    "url": "https://www.oakridger.com/story/entertainment/tv/2025/02/20/jon-burnett-dead-cbs-pittsburgh-kdka-tv/79346747007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", Oak Ridger",
+    "published": "2025-02-21T00:20:00Z",
+    "title": "Jon Burnett, longtime weatherman for CBS Pittsburgh, dies at 71",
+    "text": "Jon Burnett, longtime weatherman for CBS Pittsburgh, dies at 71\nTV journalist Jon Burnett, a longtime weather forecaster for CBS Pittsburgh, has died. He was 71.\nThe Pittsburgh station, also known as KDKA-TV, confirmed Burnett's death in an obituary published Thursday. The date of Burnett's death was not disclosed.\n\"KDKA-TV is sad to report that Jon died of complications from suspected CTE at age 71, according to Dr. Joseph Malone, a UPMC Cognitive Neurologist,\" the obituary read. \"He leaves behind an incredible legacy.\"\nCTE stands for chronic traumatic encephalopathy, a progressive degenerative brain disease, according to Boston University’s CTE Research Center, which has led research on the disease. The condition is caused by a history of repeated hits to the head and emerges months or even years after the head injuries were sustained, according to Boston University.\nAthletes in a number of contact sports, including football, hockey and boxing have been diagnosed with CTE over the years, per Boston University. It was first observed in boxers in the early 20th century and was known as punch drunk symptom. Official diagnoses can only be made posthumously, upon close examination of the brain.\nBurnett played tackle football throughout childhood and later as a defensive end at the University of Tennessee. The news personality suffered two major concussions during his athletic career, according to a 2024 interview with KDKA. He reflected that he used his head to hit another player 30-40 times per game, resulting in hundreds of collisions over the years.\nAfter a stint as a weather forecaster, Burnett joined KDKA-TV in 1982 when he was tapped to serve as co-host of the lifestyle talk show \"Evening Magazine,\" per Burnett's obituary. \"There's something that comes through that screen and you really can't fool it, and I think Jon was just a natural,\" Burnett's co-host Mary Robb Jackson told KDKA.\nBurnett also went on to host \"Pittsburgh 2Day\" beginning in 1985. He returned to his meteorological roots in the early 1990s when he joined the KDKA weather team, a position he held for nearly 30 years, according to the CBS affiliate station.\n\"When you saw Jon on TV, you would immediately say, 'That's a guy I wouldn't mind having in my living room live and in person,'\" former KDKA meteorologist Dennis Bowman told the station.\nBurnett retired from journalism in 2019, according to KDKA. He went on to suffer major health issues such as memory loss and other neurological ailments, including his diagnosis of suspected CTE.\nIn 2024, the weatherman joined an ongoing study by the National Sports Brain Bank at the University of Pittsburgh, which required an agreement to posthumously donate his brain, according to KDKA. Utilizing a donation registry of former contact sport participants, the National Sports Brain Bank's programming focuses on research and treatment of brain disorders and CTE.\n\"If I can help anybody on this road, who is on this road or will be on this road in the years ahead, I feel better about being able to do that,\" Burnett told KDKA-TV in a 2024 interview.\nBurnett is survived by his wife Debbie and his adult children, Samantha and Eric.\nContributing: Orlando Mayorquin, USA TODAY",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->medical staff",
+      "Human Interest->funeral and memorial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2025/01/03/2025-deaths-celebrities-stars-died/77406937007/",
+      "https://www.cbsnews.com/pittsburgh/news/jon-burnett-cte-donating-brain-to-science-pittsburgh-research/",
+      "https://www.neuro.pathology.pitt.edu/national-sports-brain-bank",
+      "https://www.cbsnews.com/pittsburgh/news/former-kdka-tv-jon-burnett-suspected-cte-diagnosis/",
+      "https://www.usatoday.com/story/entertainment/celebrities/2025/02/19/chauncy-glover-cause-of-death-kcal-anchor/79234171007/",
+      "https://www.bu.edu/cte/about/frequently-asked-questions/",
+      "https://www.cbsnews.com/pittsburgh/news/jon-burnett-kdka-tv-personality-dies/",
+      "https://www.usatoday.com/story/sports/nfl/2022/07/05/cte-explained-symtpoms-stages-nfl/7812410001/",
+      "https://cbsnews.com/pittsburgh/news/former-kdka-tv-jon-burnett-suspected-cte-diagnosis/",
+      "https://usatoday.com/story/entertainment/celebrities/2025/02/19/chauncy-glover-cause-of-death-kcal-anchor/79234171007/",
+      "https://www.usatoday.com/story/sports/nfl/2022/07/05/cte-explained-symtpoms-stages-nfl/7812410001",
+      "https://www.cbsnews.com/pittsburgh/news/jon-burnett-cte-donating-brain-to-science-pittsburgh-research",
+      "https://bu.edu/cte/about/frequently-asked-questions/",
+      "https://www.cbsnews.com/pittsburgh/news/jon-burnett-kdka-tv-personality-dies",
+      "https://cbsnews.com/pittsburgh/news/jon-burnett-cte-donating-brain-to-science-pittsburgh-research/",
+      "https://usatoday.com/picture-gallery/entertainment/celebrities/2025/01/03/2025-deaths-celebrities-stars-died/77406937007/",
+      "https://www.usatoday.com/story/entertainment/celebrities/2025/02/19/chauncy-glover-cause-of-death-kcal-anchor/79234171007",
+      "https://neuro.pathology.pitt.edu/national-sports-brain-bank",
+      "https://www.cbsnews.com/pittsburgh/news/former-kdka-tv-jon-burnett-suspected-cte-diagnosis",
+      "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2025/01/03/2025-deaths-celebrities-stars-died/77406937007",
+      "https://www.bu.edu/cte/about/frequently-asked-questions",
+      "https://usatoday.com/story/sports/nfl/2022/07/05/cte-explained-symtpoms-stages-nfl/7812410001/",
+      "https://cbsnews.com/pittsburgh/news/jon-burnett-kdka-tv-personality-dies/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jon Burnett",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Joseph Malone",
+          "sentiment": "none"
+        },
+        {
+          "name": "Jon",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "CTE Research Center",
+          "sentiment": "none"
+        },
+        {
+          "name": "Boston University",
+          "sentiment": "none"
+        },
+        {
+          "name": "CBS",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "71e3cae52763f8c92eaac3127ef6a2d27f0a667c",
+      "first_syndicated": true
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T02:28:22.171+02:00",
+    "updated": "2025-02-21T02:28:22.171+02:00"
+  }
+]

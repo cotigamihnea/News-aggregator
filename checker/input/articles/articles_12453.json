@@ -1,0 +1,372 @@
+[
+  {
+    "uuid": "74ef27d0526533747aa86baa2815b169f5d47600",
+    "url": "https://seclists.org/oss-sec/2025/q3/99",
+    "ord_in_thread": 0,
+    "author": "Alan Coopersmith",
+    "published": "2025-08-13T18:29:00Z",
+    "title": "HTTP/2 implementations are vulnerable to \"MadeYouReset\" DoS attack through HTTP/2 control frames",
+    "text": "oss-sec\nmailing list archives\nHTTP/2 implementations are vulnerable to \"MadeYouReset\" DoS attack through HTTP/2 control frames\nFrom: Alan Coopersmith <alan.coopersmith () oracle com>\nDate: Wed, 13 Aug 2025 11:27:53 -0700\n[https://kb.cert.org/vuls/id/767506]was published today:\nHTTP/2 implementations are vulnerable to \"MadeYouReset\" DoS attack through HTTP/2 control frames Vulnerability Note VU#767506 Original Release Date: 2025-08-13 | Last Revised: 2025-08-13 Overview -------- A vulnerability has been discovered within many HTTP/2 implementations allowing for denial of service (DoS) attacks through HTTP/2 control frames. This vulnerability is colloquially known as \"MadeYouReset\" and is tracked as CVE-2025-8671. Some vendors have assigned a specific CVE to their products to describe the vulnerability, such as CVE-2025-48989, which is used to identify Apache Tomcat products affected by the vulnerability. MadeYouReset exploits a mismatch caused by stream resets between HTTP/2 specifications and the internal architectures of many real-world web servers. This results in resource exhaustion, and a threat actor can leverage this vulnerability to perform a distributed denial of service attack (DDoS). This vulnerability is similar to CVE-2023-44487, colloquially known as \"Rapid Reset.\" Multiple vendors have issued patches or responses to the vulnerability, and readers should review the statements provided by vendors at the end of this Vulnerability Note and patch as appropriate. Description ----------- A mismatch caused by client-triggered server-sent stream resets between HTTP/2 specifications and the internal architectures of some HTTP/2 implementations may result in excessive server resource consumption leading to denial-of-service (DoS). This vulnerability is tracked as CVE-2025-8671 and is known colloquially as \"MadeYouReset.\" This vulnerability is similar to CVE-2023-44487, colloquially known as \"Rapid Reset\", which abused client-sent stream resets. HTTP/2 introduced stream cancellation - the ability of both client and server to immediately close a stream at any time. However, after a stream is canceled, many implementations keep processing the request, compute the response, but don't send it back to the client. This creates a mismatch between the amount of active streams from the HTTP/2 point of view, and the actual active HTTP requests the backend server is processing. By opening streams and then rapidly triggering the server to reset them using malformed frames or flow control errors, an attacker can exploit a discrepancy created between HTTP/2 streams accounting and the servers active HTTP requests. Streams reset by the server are considered closed, even though backend processing continues. This allows a client to cause the server to handle an unbounded number of concurrent HTTP/2 requests on a single connection. The flaw largely stems from many implementations of the HTTP/2 protocol equating resetting streams to closing them; however, in practice, the server will still process them. An attacker can exploit this to continually send reset requests, where the protocol is considering these reset streams as closed, but the server will still be processing them, causing a DoS. HTTP/2 does support a parameter called SETTINGS_MAX_CONCURRENT_STREAMS, which defines a set of currently active streams per session. In theory, this setting would prevent an attacker from overloading the target server, as they would max out the concurrent stream counter for their specific malicious session. In practice, when a stream is reset by the attacker, the protocol considers it no longer active and no longer accounts for it within this counter. Impact ------ The main impact of this vulnerability is its potential usage in DDoS attacks. Threat actors exploiting the vulnerability will likely be able to force targets offline or heavily limit connection possibilities for clients by making the server process an extremely high number of concurrent requests. Victims will have to address either high CPU overload or memory exhaustion depending on their implementation of HTTP/2. Solution -------- Various vendors have provided patches and statements to address the vulnerability. Please review their statements below. CERT/CC recommends that vendors who use HTTP/2 in their products review their implementation and limit the number/rate of RST_STREAMs sent from the server. Additionally, please review the supplemental materials provided by the reporters, which include additional mitigations and other potential solutions here:[https://galbarnahum.com/made-you-reset]Acknowledgements -----------",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Alan Coopersmith",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T07:57:32.482+03:00",
+    "updated": "2025-08-14T07:59:53.000+03:00"
+  },
+  {
+    "uuid": "523775e08fc473401a4077df02a23f9f8985107e",
+    "url": "https://www.independent.co.uk/sport/football/brighton-tottenham-result-joao-pedro-b2470614.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ed Elliot",
+    "published": "2023-12-28T22:09:00Z",
+    "title": "Brighton vs Tottenham result: Inspired Seagulls survive late drama to dent Spurs’s top-four hopes | The Independent",
+    "text": "Tottenham Hotspur ’s Premier League revival was halted in emphatic fashion after two Joao Pedro penalties and a stunning strike from Pervis Estupinan helped injury-hit Brighton and Hove Albion record a thumping 4-2 win.Spurs arrived at the Amex Stadium seeking a fourth successive top-flight success to reclaim fourth spot from reigning champions Manchester City.But the north London club were ripped apart as Pedro’s double and Estupinan’s thunderbolt added to Jack Hinshelwood’s opener.Tottenham, who claimed late consolations through substitute Alejo Veliz and Ben Davies, could easily have lost by more as rampant Albion twice hit the woodwork and had a Facundo Buonanotte effort disallowed.Richarlison struck a post for the visitors and was twice denied by the offside flag, while Pierre-Emile Hojbjerg also hit the woodwork late on.Yet, on this evidence, Champions League qualification looks a distant dream for Ange Postecoglou ’s side, who had registered just one point from 15 before their recent upturn in form. Victory lifts Roberto De Zerbi ’s hosts above Newcastle into eighth.Jack Hinshelwood thumped home the opener for Brighton Depleted Brighton were missing eight first-team players while their visitors also had a lengthy list of absentees.One-time Arsenal forward Danny Welbeck should have opened the scoring for Albion inside six minutes when he was twice denied by goalkeeper Guglielmo Vicario, but the Seagulls deservedly edged ahead with 11 minutes on the clock.Tottenham’s porous defence failed to halt Pedro’s mazy waltz across the 18-yard box and his offload was emphatically dispatched into the roof of the net by 18-year-old defender Hinshelwood.Brazilian forward Pedro duly doubled the lead with a spot-kick awarded following VAR intervention.Spurs thought they had escaped when Jan Paul van Hecke’s header from a Pascal Gross corner came back off the right post but replays showed Dejan Kulusevski pulled down Welbeck as he attempted to reach the rebound and Pedro coolly rolled home from 12 yards.Stunned Spurs showed little response and were in danger of falling further behind. James Milner rattled the right post with a superb curling effort before Buonanotte’s clinical finish was flagged offside.Brighton ran rampant before Spurs’ late comeback attempt The away side almost gifted Brighton a third when Pedro was sent through by a calamitous back-pass from Pedro Porro, only to see his attempted dink pushed wide by Vicario.Postecoglou would undoubtedly have been happy to reach the break only two behind, albeit his side’s predicament nearly improved as Richarlison swept against the outside of the left post in added time.The Brazilian then put the ball in the net having already been ruled offside and then curled wide before again being denied by the flag of assistant referee Darren Cann.Tottenham’s frustration was quickly compounded. Seagulls substitute Estupinan, making his first appearance since 9 November due to injury, did the damage, unleashing a thunderous, dipping effort into the top right corner from around 25 yards following Milner’s short corner.Tormentor-in-chief Pedro rubbed salt into Spurs’ wounds 15 minutes from time by dispatching his second penalty after Evan Ferguson was brought down by Giovani Lo Celso.Veliz’s first goal in English football, after Kulusevski and Son Heung-min capitalised on sloppy Seagulls defending, eased the embarrassment before Davies’s header from a Porro cross increased the anxiety among home fans.But Brighton weathered a frantic nine minutes of added time, during which Hojbjerg hit the base of the right post, to claim the points.Jack Hinshelwood thumped home the opener for Brighton Brighton ran rampant before Spurs’ late comeback attempt Pervis Estupinan scored an unbelievable goal in Brighton’s win Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joao pedro pena",
+          "sentiment": "negative"
+        },
+        {
+          "name": "pervis estupinan",
+          "sentiment": "none"
+        },
+        {
+          "name": "jack hinshelwood",
+          "sentiment": "none"
+        },
+        {
+          "name": "pierre",
+          "sentiment": "none"
+        },
+        {
+          "name": "emile hojbjerg",
+          "sentiment": "none"
+        },
+        {
+          "name": "roberto de zerbi",
+          "sentiment": "none"
+        },
+        {
+          "name": "pedro",
+          "sentiment": "none"
+        },
+        {
+          "name": "ben davies",
+          "sentiment": "none"
+        },
+        {
+          "name": "ange postecoglou",
+          "sentiment": "none"
+        },
+        {
+          "name": "estupinan",
+          "sentiment": "none"
+        },
+        {
+          "name": "alejo veliz",
+          "sentiment": "none"
+        },
+        {
+          "name": "facundo buonanotte",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "spurs",
+          "sentiment": "negative"
+        },
+        {
+          "name": "tottenham",
+          "sentiment": "negative"
+        },
+        {
+          "name": "independent tottenham hotspur ’s premier league",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "hove albion",
+          "sentiment": "none"
+        },
+        {
+          "name": "manchester",
+          "sentiment": "none"
+        },
+        {
+          "name": "albion",
+          "sentiment": "none"
+        },
+        {
+          "name": "newcastle",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "brighton",
+          "sentiment": "none"
+        },
+        {
+          "name": "amex stadium",
+          "sentiment": "none"
+        },
+        {
+          "name": "london",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:20:23.562+02:00",
+    "updated": "2023-12-29T12:11:50.802+02:00"
+  },
+  {
+    "uuid": "0089bf7a992f8951aae4cc2660bd40c605b38e17",
+    "url": "https://infonegocios.info/las-marcas-dicen/bayer-se-planta-fuerte-en-aapresid-2025-con-genetica-carbono-y-un-fungicida-que-debuta-mundialmente-en-argentina",
+    "ord_in_thread": 0,
+    "author": "Iñigo Biaín",
+    "published": "2025-07-31T03:00:00Z",
+    "title": "Bayer se planta fuerte en Aapresid 2025 (con genética, carbono y un fungicida que debuta mundialmente en Argentina)",
+    "text": "Bayer se planta fuerte en Aapresid 2025 (con genética, carbono y un fungicida que debuta mundialmente en Argentina)\nDel 6 al 8 de agosto, en el corazón de Palermo, Bayer vuelve a estar presente en el Congreso Aapresid con una propuesta que combina ciencia, digitalización y sostenibilidad al servicio del campo argentino. Bajo el lema “Código Abierto”, el encuentro reunirá a más de 450 especialistas en agricultura regenerativa.\nEl foco estará puesto en acompañar al productor en todo el ciclo del cultivo. Y eso no es una metáfora: este año, la compañía lanza Dekalb Integrado, un programa pensado para que el productor Dekalb reciba asesoramiento técnico personalizado desde la elección del híbrido hasta las prescripciones de nitrógeno y el uso de herramientas digitales.\nAdemás, otro de los protagonistas será Preceon, un sistema de precisión para maíz de baja estatura que mejora el manejo del cultivo, aumenta la tolerancia al vuelco y, según Bayer, maximiza el rendimiento con un 30% menos de altura. Estará disponible en la campaña 2026/2027 para un grupo reducido de productores y contará con biotecnología Trecepta.\nIblon PRO: debut mundial en Argentina\nUno de los anuncios más relevantes (y que marca un antes y un después) será la llegada de Iblon PRO, un fungicida que se lanza por primera vez en el mundo en Argentina. Se trata de una mezcla triple de ingredientes activos complementarios (Isoflucypram, Protioconazole y Trifloxystrobin) y está pensado para proteger cultivos de trigo, cebada, soja y maní con eficacia prolongada. “Es un nuevo estándar en protección de cultivos y una muestra del liderazgo argentino en adopción tecnológica”, adelantaron desde la compañía.\nDescarbonización: del dicho al hecho\nOtro de los platos fuertes será la charla conjunta entre Bayer, Viterra y Banco Galicia sobre cómo escalar soluciones concretas de descarbonización en la cadena agroindustrial. A través de la iniciativa Igaris, se promueve la medición de huella de carbono, la trazabilidad de la producción y el incentivo a prácticas regenerativas. “No alcanza con producir más; ahora hay que producir mejor, con trazabilidad y bajo estándares globales”, explicó Pablo Leguizamón , Gerente de Estrategia de Carbono de Bayer .\nLo que hay que agendar\nMiércoles 6 de 12:15 a 13:00: Sala Pioneer\nPreceon, el sistema de precisión para maíces de baja estatura (por Paula Girón)\nJueves 7 de 11:15 a 12:00: Sala EY x100px\nProtegé tus cultivos con Iblon PRO, el nuevo fungicida de Bayer (por María Leticia Borghi)\nViernes 8 de 10:15 a 11:00: Sala Rizobacter x340px\nDe la Estrategia a la Acción: Bayer, Viterra y Banco Galicia escalan soluciones de descarbonización (panel con Pablo Leguizamón, Marcos Quaine, Hernán Busch y moderación de Facundo Sonatti).\nCompartir con tus amigos de",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->agriculture",
+      "Social Issue->communities",
+      "Social Issue->social condition",
+      "Science and Technology->agricultural technology",
+      "Science and Technology->scientific innovation",
+      "Science and Technology->biotechnology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Finfonegocios.info%2Flas-marcas-dicen%2Fbayer-se-planta-fuerte-en-aapresid-2025-con-genetica-carbono-y-un-fungicida-que-debuta-mundialmente-en-argentina",
+      "https://x.com/intent/post?text=Bayer",
+      "http://www.linkedin.com/shareArticle?url=https%3A%2F%2Finfonegocios.info%2Flas-marcas-dicen%2Fbayer-se-planta-fuerte-en-aapresid-2025-con-genetica-carbono-y-un-fungicida-que-debuta-mundialmente-en-argentina&title=Bayer",
+      "https://wa.me?text=Bayer",
+      "http://linkedin.com/shareArticle?url=https%3A%2F%2Finfonegocios.info%2Flas-marcas-dicen%2Fbayer-se-planta-fuerte-en-aapresid-2025-con-genetica-carbono-y-un-fungicida-que-debuta-mundialmente-en-argentina&title=Bayer",
+      "https://x.com/intent/post",
+      "https://www.x.com/intent/post?text=Bayer",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://wa.me",
+      "https://www.wa.me?text=Bayer",
+      "http://www.linkedin.com/shareArticle",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Finfonegocios.info%2Flas-marcas-dicen%2Fbayer-se-planta-fuerte-en-aapresid-2025-con-genetica-carbono-y-un-fungicida-que-debuta-mundialmente-en-argentina"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Bayer",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Congreso Aapresid",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:21:31.826+03:00",
+    "updated": "2025-07-31T08:23:59.000+03:00"
+  },
+  {
+    "uuid": "43a64e5df579cd579bc7668fa0177acdc7f8889b",
+    "url": "https://www.pottsmerc.com/2023/12/29/plenty-of-options-to-ski-or-snowboard-in-the-region/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Courtney H. Diener-Stokes",
+    "published": "2023-12-29T10:30:00Z",
+    "title": "Plenty of options to ski or snowboard in the region",
+    "text": "Despite not having a white Christmas, it’s been cold enough for some local ski resorts to make snow and open earlier this week. While limited trails are open, you’ll be able to get a head start to the season. Skiing and snowboarding offer a wonderful opportunity for the entire family to have fun outdoors while getting some beneficial physical activity. In the process, you’ll be burning calories, strengthening lower body muscles, improving your flexibility and engaging your core muscles, among other benefits. Ski resorts like Bear Creek Mountain Resort in Macungie, Spring Mountain Adventures in Schwenksville and Blue Mountain Resort in the Poconos make the sport easily accessible from the Pottstown area. Comfortable lodges are available if you’re not up for skiing, but the kids are, and you prefer to take a book and cozy up by the fire indoors with some hot chocolate while they hit the slopes. For those of all ages new to skiing, lessons can get you on the slopes in no time. Lessons provide a solid foundation of the basics and help avoid some potential dangers associated with self-taught skiing. Bear Creek’s “Learn to Ski or Ride” package includes all of the equipment you need, along with a certified instructor who will take you through multiple stations where you’ll learn the basics before graduating to the slopes. Learning the proper techniques will give you the confidence necessary to enable you to have a safe and enjoyable time on the mountain. Since skiing is a pricey activity, resorts offer some opportunities to get in on the fun more affordably. At Bear Creek, anyone age five and under and those 70 and older can get a free lift ticket any day of the week. They also offer reduced lift ticket prices to those currently active in the military, police, fire, EMS and 911 professions. In addition, special rate passes are available Monday through Thursday for college students and EPSC/ WPSC ski club members. Youth aged 6 to 18 and seniors, aged 61 to 69 are offered reduced pricing on tickets daily. Here’s a guide to some local resorts to explore this season within easy reach: Bear Creek Mountain Resort Located within an hour of Philadelphia, Bear Creek Mountain Resort suits skiers and snowboarders of all levels. Their beginner area is served by a carpet lift and triple chair while Sasquatch, their most challenging black diamond trail, has a 50% slope for expert skiers. Bear Creek also offers three progressive terrain parks — Cascade Park, Black Bear Park, and Family Park — with a wide variety of freestyle features. Hotel guests, day guests, and season ticket holders are all welcome. Their award-winning Snowsports School and certified instructors offer lessons to suit any age or ability. Private and group sessions are available. Bear Creek Mountain Resort is located at 101 Doe Mountain Lane, Macungie. For more information, call 866-754-2822 or visit [www.bcmountainresort.com](http://www.bcmountainresort.com). Check trail conditions online before you go. Spring Mountain Adventures Spring Mountain Adventures is a year-round place for family fun where you can experience skiing, snowboarding and ice skating all in one location. Spring Mountain has 8 trails, two snow tubing runs, four lifts, and a terrain park. If you or any member of your group don’t have the equipment, they offer boots, skis, poles and helmets adjusted to meet your skill level. If you need lessons they offer a variety of programs designed to meet your abilities and help you take your skiing and snowboarding skills to new levels. Spring Mountain Adventures is located at 757 Spring Mount Road, Spring Mount. For more information, call 610-287-7900 or visit [www.springmountainadventures.com](http://www.springmountainadventures.com) Blue Mountain Resort Thrill seekers and novices are welcome at Blue Mountain. Snow tubing, skiing and snowboarding — whatever your speed, there are plenty of ways to experience the Pocono Mountains. Whether you’ve never seen snow or want to improve your skiing or snowboarding skills — skiing in Pennsylvania has never been easier thanks to the instructors at Blue Mountain Learning Center where you can explore their different lesson types to find the perfect lesson for you. Blue Mountain Resort is located at 1660 Blue Mountain Drive, Palmerton (Poconos). For more information, call 610-826-7700 or visit [www.skibluemt.com](http://www.skibluemt.com). Check trail conditions online before you go.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "http://www.skibluemt.com).",
+      "http://www.springmountainadventures.com)",
+      "http://www.bcmountainresort.com).",
+      "http://springmountainadventures.com)",
+      "http://bcmountainresort.com).",
+      "http://skibluemt.com)."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "macungie",
+          "sentiment": "none"
+        },
+        {
+          "name": "schwenksville",
+          "sentiment": "none"
+        },
+        {
+          "name": "pottstown",
+          "sentiment": "none"
+        },
+        {
+          "name": "blue mountain resort",
+          "sentiment": "none"
+        },
+        {
+          "name": "bear creek mountain resort",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T12:38:41.365+02:00",
+    "updated": "2023-12-29T12:38:41.365+02:00"
+  },
+  {
+    "uuid": "b10a7a9961280cb313e6c63e36a8edafa1264824",
+    "url": "https://thehill.com/homenews/lgbtq/4380719-aclu-states-record-anti-lgbtq-bills-2023/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brooke Migdon",
+    "published": "2023-12-28T22:07:00Z",
+    "title": "ACLU says states saw record number of anti-LGBTQ bills in 2023 | The Hill",
+    "text": "[LGBTQ](https://thehill.com/homenews/lgbtq/) ACLU says states saw record number of anti-LGBTQ bills in 2023 The pace of anti-LGBTQ legislation quickened exponentially in 2023, climbing upwards of 60 percent over last year as Republican state lawmakers filed hundreds of measures meant to restrict talk of gender and sexuality in schools, access to gender-affirming health care and more. At least 510 anti-LGBTQ bills were introduced this year in more than 40 states, [according to the American Civil Liberties Union](https://www.aclu.org/legislative-attacks-on-lgbtq-rights) (ACLU), and 84 were passed into law. State lawmakers in 2022 filed around 315 such bills, and 29 became law. The majority of anti-LGBTQ legislation filed in 2023 targeted teachers and students, according to the ACLU, with more than 230 bills seeking to restrict classroom instruction on sexual orientation and gender identity, require parents to be notified when their child asks to use a different name or pronoun at school and bar transgender students from participating on sports teams consistent with their gender identity. Of the 34 education-related anti-LGBTQ bills that became law this year, 14 have been challenged in court. Another 137 bills filed in 2023 targeted access to gender-affirming health care, according to the ACLU, with 26 becoming law. While most measures sought to ban access to treatments including puberty blockers, surgeries and doses of testosterone or estrogen for transgender minors, [several early iterations](https://thehill.com/homenews/state-watch/3810926-transgender-youth-health-care-bans-have-a-new-target-adults/) of bills introduced in South Carolina, Virginia and Oklahoma aimed to restrict access to treatment for individuals as old as 21. In Florida, a bill signed into law by Gov. Ron DeSantis (R) in May [severely limits](https://thehill.com/policy/healthcare/4050524-trans-adults-scramble-for-care-under-new-florida-law/) how transgender adults, in addition to minors, are able to access care that is considered medically necessary by [every major medical organization](https://transhealthproject.org/resources/medical-organization-statements/). Most gender-affirming health care bans face lawsuits from affected families, medical professionals and LGBTQ civil rights groups, although court rulings have been mixed. Two Idaho families with transgender children [scored a preliminary legal victory](https://thehill.com/homenews/state-watch/4379542-judge-temporarily-blocks-idaho-law-banning-gender-affirming-care/#:~:text=A%20federal%20judge%20on%20Tuesday,was%20slated%20to%20take%20effect.) this week in their case against the state’s ban, which was set to take effect in January. Similar laws passed this year in Indiana, Montana and Florida have been temporarily blocked by court orders as cases against them proceed. In June, a federal judge struck down Arkansas’s first-in-the-nation ban, ruling it unconstitutional. The state is appealing that decision. Courts in Tennessee, Kentucky, Alabama, Texas and Georgia, however, have allowed bans on gender-affirming health care to remain in effect. More than a third of transgender children and adolescents in the U.S. live in a state that has banned gender-affirming health care, [according to the Human Rights Campaign](https://www.hrc.org/resources/attacks-on-gender-affirming-care-by-state-map), the nation’s largest LGBTQ advocacy group. At the height of this year’s legislative session, more than half of all transgender youth were living in a state where a gender-affirming care ban had been proposed, according to the group. Additional anti-LGBTQ legislation filed in 2023 sought to restrict certain drag performances and prevent transgender people from using public restrooms or locker rooms consistent with their gender identity. Measures limiting “adult” performances became law in four states this year: Tennessee, Montana, Texas and Florida. Those laws are all currently unenforceable, however, due to federal court orders. Seven states in 2023 adopted laws meant to bar transgender people from using facilities that match their gender identity. In Florida, it is a criminal offense for a transgender person to use a public restroom that is consistent with their gender identity. At least six states this year enacted laws that define “sex” throughout state code as male or female based on a person’s presumed reproductive anatomy or other physical characteristics at birth. They “effectively allow discrimination against transgender people” by refusing to legally recognize their gender identity, according to the Movement Advancement Project, and threaten the ability of transgender people to use restrooms or obtain accurate identity documents. [Ron DeSantis]( https://thehill.com/people/ron-desantis/ ) Copyright 2023 Nexstar Media Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. More LGBTQ News [ LGBTQ ](https://thehill.com/homenews/lgbtq/) [ LGBTQ ](https://thehill.com/homenews/lgbtq/) [ LGBTQ ](https://thehill.com/homenews/lgbtq/) [ LGBTQ ](https://thehill.com/homenews/lgbtq/) [See All](https://thehill.com/homenews/lgbtq/) Video/Hill.TV [See all Hill.TV](https://thehill.com/hilltv) [See all Video](https://thehill.com/video)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://transhealthproject.org/resources/medical-organization-statements/).",
+      "https://www.aclu.org/legislative-attacks-on-lgbtq-rights)",
+      "https://www.hrc.org/resources/attacks-on-gender-affirming-care-by-state-map),",
+      "https://hrc.org/resources/attacks-on-gender-affirming-care-by-state-map),",
+      "https://aclu.org/legislative-attacks-on-lgbtq-rights)",
+      "https://www.transhealthproject.org/resources/medical-organization-statements/)."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "aclu",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "american civil liberties union",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:21:27.029+02:00",
+    "updated": "2023-12-29T00:21:27.029+02:00"
+  }
+]

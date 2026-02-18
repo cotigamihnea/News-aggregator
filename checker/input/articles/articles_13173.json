@@ -1,0 +1,323 @@
+[
+  {
+    "uuid": "2bcf8106c7578bbf02f5f10eb3647e2f2ba70f01",
+    "url": "https://www.fbcnews.com.fj/news/active-trough-to-bring-heavy-rain-to-fiji",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ritika Pratap Deputy News Manager",
+    "published": "2025-01-03T00:33:00Z",
+    "title": "Active trough to bring heavy rain to Fiji",
+    "text": "A heavy rain warning has been issued for Yasawa and Mamanuca Group, Northern Division and whole of Viti Levu.\nA heavy rain alert is now in force for the rest of the Fiji Group.\nThe Fiji Meteorological Service says this is due to an active trough of low pressure with associated clouds and rain that will affect the Northern, Western and Eastern parts of the country.\nThe trough is expected to gradually spread to the rest of the country by tonight.\nThe National Disaster Risk Management Office is urging the public to stay alert for possible flash flooding in low-lying areas, informal settlements, small streams and irish crossings.\nMotorists are advised to take extra precautions while driving as road conditions have deteriorated due to continuous heavy rain.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Environment->water",
+      "Environment->natural resources",
+      "Environment->climate change",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Northern Division",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Mamanuca Group",
+          "sentiment": "negative"
+        },
+        {
+          "name": "National Disaster Risk Management Office",
+          "sentiment": "none"
+        },
+        {
+          "name": "Fiji Meteorological Service",
+          "sentiment": "none"
+        },
+        {
+          "name": "Fiji Group",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T09:11:51.811+02:00",
+    "updated": "2025-01-03T09:11:51.811+02:00"
+  },
+  {
+    "uuid": "824d61220e4cebeb7b62a580197d12202b38e240",
+    "url": "https://kfgo.com/2023/12/29/in-nigeria-and-much-of-africa-catholic-same-sex-couples-see-no-blessings-soon/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Syndicated Content",
+    "published": "2023-12-29T11:01:00Z",
+    "title": "In Nigeria and much of Africa, Catholic same-sex couples see no blessings soon",
+    "text": "By Abraham Achirga\nABUJA (Reuters) – Nigerian Catholic couple Jane and Lucy have little hope their local parish church will bless their same-sex union anytime soon, as conservative priests across Africa choose to ignore a landmark Vatican ruling allowing such blessings.\nConservative Catholics have condemned the Vatican’s declaration two weeks ago, which was approved by Pope Francis, that will allow blessings for same-sex couples, as long as they are not part of the regular Church rituals or liturgies.\nThe pope has hit back against the criticism and what he called inflexible ideological positions that hinder the Church from moving forward.\nBut in many African countries, such as the continent’s most populous one, Nigeria, even having a same-sex relationship is outlawed and often punishable by long jail terms.\nLittle wonder that 39-year-old Jane, who has been living with her partner for six years, does not feel the Vatican’s declaration will change much.\n“Maybe in the next 20 years (or) next 30 years but right now it will be difficult for them (Bishops) to just accept this,” Jane told Reuters inside her room in north central Benue state.\nIn the Anglican church, the issue has caused deep divisions for more than two decades, most recently following Archbishop of Canterbury Justin Welby’s proposal earlier this year to allow priests to bless same-sex unions, bringing the faith close to splitting point.\nThe Catholic Church has so far sought to avoid the impression of conflict.\nCatholic bishops from Angola, Kenya, Nigeria, Malawi to Sao Tome and Principe, Uganda and Zimbabwe are among clerics who have said they will not bless same-sex couples, but have argued that the Pope’s decree can be interpreted as optional.\nFather Patrick Alumunku of St Louis Catholic Church Mbora parish in the capital Abuja said the Vatican declaration was unsettling for many followers but should be viewed as a move towards inclusiveness for all God’s children.\nHe denied that this was an incremental step to eventually accept same-sex unions in the church.\n“There are laws that have been made by God and by the church in 2000 years which cannot change,” said Alumunku.\nFor activist and poultry farmer Jane, the fact that the issue is being discussed openly is reason enough to consider eventually approaching her priest for a blessing, if her partner agrees.\n“I think he (Pope Francis) tried to understand the feelings of people who tend to be born different or people who basically are now becoming like the outcasts of this society,” she said.\n“We are getting there, a moment of self expression and acceptance is coming.”\n(Reporting by Abraham Achirga; Writing by MacDonald Dzirutwe; Editing by Tim Cocks and Sharon Singleton)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "abraham achirga",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lucy",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jane",
+          "sentiment": "negative"
+        },
+        {
+          "name": "pope francis",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "reuters",
+          "sentiment": "negative"
+        },
+        {
+          "name": "catholic",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "africa",
+          "sentiment": "none"
+        },
+        {
+          "name": "abuja",
+          "sentiment": "none"
+        },
+        {
+          "name": "nigeria",
+          "sentiment": "none"
+        },
+        {
+          "name": "vatican",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T14:05:29.924+02:00",
+    "updated": "2023-12-29T14:05:29.924+02:00"
+  },
+  {
+    "uuid": "d75b34f003ec399c07d58a6ca44e07e0f6409513",
+    "url": "https://www.bhaskar.com/local/chhattisgarh/bemetara/news/cold-is-increasing-fog-is-spreading-in-the-morning-people-are-warming-themselves-by-bonfire-134111241.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@dainikbhaskar",
+    "published": "2024-12-12T23:00:00Z",
+    "title": "बढ़ने लगी ठंड, सुबह छा रहा कोहरा, अलाव ताप रहे लोग",
+    "text": "[Hindi News](/)[Local](/local/)[Chhattisgarh](/local/chhattisgarh/)[Bemetara](/local/chhattisgarh/bemetara/)- Cold Is Increasing, Fog Is Spreading In The Morning, People Are Warming Themselves By Bonfire\nबढ़ने लगी ठंड, सुबह छा रहा कोहरा, अलाव ताप रहे लोग\nदेवकर7 घंटे पहले\n- कॉपी लिंक\nदेवकर। नगर पंचायत देवकर में ठंड बढ़ गई है। इस कारण शहर के लोग लकड़ी जलाकर (अलाव) का सहारा ले रहे हैं। ताकि ठंड से राहत िमल सके। नगर में बीते तीन चार दिन से ठंड बढ़ गई है। सुबह घर से निकलना काफी कठिन हो गया है। इन दिनों सुबह के समय नगर में कोहरा छाया\n.\n[पूरी खबर पढ़ें ऐप पर](https://dainik-b-alternate.app.link?db_metadata={\"link\":{\"uri\":\"bhaskar://news/detail/\",\"data\":{\"storyId\":\"134111241\",\"catId\":\"12503\",\"catDisplayName\":\"बेमेतरा\",\"title\":\"बढ़ने लगी ठंड, सुबह छा रहा कोहरा, अलाव ताप रहे लोग\",\"imageURL\":\"https://images.bhaskarassets.com/web2images/521/2024/12/12/206_1734006788675ad804d83a9_12decemberbemet.jpg\"}}}&feature=website&channel=locked_article&campaign=134111241)प्रीमियम मेंबरशिप है तो\n[लॉगिन करें](/account/login?redirectURI=)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T07:21:08.695+02:00",
+    "updated": "2024-12-13T07:21:08.695+02:00"
+  },
+  {
+    "uuid": "8ef490f9297455f5b955e216dd0de0a08b028ed3",
+    "url": "https://mysinchew.sinchew.com.my/news/20231229/mysinchew/5231558",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "星洲网",
+    "published": "2023-12-29T11:34:00Z",
+    "title": "The role of ABIM-IKRAM-Umno-Amanah for the battle of the Malay mind and soul - Opinion",
+    "text": "In Malaysia, the mind and soul of the Malays now solely belong to PAS and Bersatu. Anwar’s battle for the Malay mind and soul through his Madani Malaysia construct has a long way to go, if it is going anywhere at all. With due respect to a hard-working prime minister who has the mind and vision for a new or a renewed Malaysia, I suspect that the man is still in the mindset of the 1980s and 90s when the Islamic Reformist ruled the narratives for the Malays. I propose that 2024 will be the watermark for any shift in the Malay mind and soul. If nothing is done, and we hope only for a Madani Malaysia, I am afraid that we Malaysians will be in for an extremely long haul of conservatism and extremism. In this article, I wish to propose that the four Malay groups now weak in controlling the Malay and Islamic narrative, join forces to become an extremely potent force of reforming the national narrative. Umno is severely weakened after GE15. With the party joining the Unity Government, Umno is on its last leg of “make it or break it” in the politics of Malaysia. Forced to be a centrist party and no longer shouting right wing rhetoric, Umno does not know how to reinvent itself. Umno is in a survival mode, and only a new vision working with others can perhaps put the spring back in its steps. Since its birth and growth, Amanah was as irrelevant before as it is now. Without PH or DAP, this party will just tutup kedai. But this party has the largest number of seasoned politicians well versed in an Islam closest to the civilising or Madani construct that Anwar is proposing. This is because Amanah was once an Islamic Reformist entity under PAS, which is also supposed to be a centrist Islamist group but for the religious zealots that now control the helm. Unlike Umno, Amanah has no record of strength, and the party is best described as a parti tumpang sekaki. I hate myself for being crude and kurang ajar for my statement, but I am truly disappointed with Amanah, its members and leadership for not championing the narrative of a progressive Islam. ABIM and IKRAM, historically are the two entities that have ushered in a modern Islamic Reformist movement to change the Malays and to reinvent the race into a more matured and civilised race open to universal values of righteousness and a dynamic perspective of modern-day political issues of nation-building and global co-existence. However, after successfully building many schools for the new generation of Malay Muslims, these two entities slumped into complacency and irrelevance to the Malay minds. As an analogy, I view that all four groups are in an ICU of complete irrelevance with regards to winning the battle of the Malay mind and soul. What is the end game or winning scenario of a new Malay mind and a new Malay soul? The new Malay mind that I meant is one that is truly educated, well read, critical in thought, open in ideas of other systems, organisation and heritage, and able to visualise a better quality and dignity of life for human existence. What then is the Malay soul? The Malay soul is the one inspired by an Islam that encourages compassion, inclusiveness, tolerance, patience, decorum in criticising, and real respect for other faiths and cultures. In other words, everything that is in the Madani concept proposed by Anwar. Now, how should we get the Malays to change from an attitude of arrogance, exclusive supremacist, fear and incompetence into a Malay that is confident, educated, open-minded and scientifically well versed? Firstly, I thought the best way to change the Malays mindset and attitude would be the intelligentsia among the Malay academics. After 23 years of asking, begging and prodding the Malay intelligentsia, I have given up. The Malay professors and academics at all universities semua tak boleh pakai when it comes to public discourse on nation-building. They are experts in a tiny portion of knowledge, and they remain in their own cocoons of their small world of elitist ignorance. Secondly, I thought muftis should be at the forefront of creating a new and exciting Malay-Muslim narrative of nation-building and global coexistence. But again, I was disappointed when muftis are concerned only on petty issue and not about big ideas of nation-building, regenerating trust among the people, and championing the needy of all races, religions and sexual orientation. The muftis won’t help in reforming the Malay mind and they keep well within their boundaries of rituals, modesty for women, alcohol consumption and pilgrimages. They are incapable of taking the Malays and the Muslims into the future because most of the religious officials never left the past within their minds and spirit. I now call upon Umno, ABIM, IKRAM and Amanah to pool their strengths and resources. None can play the hero because all are now “extras”! The first act is to put up a working committee comprising of all members and have workshops on agreeing what kind of Melayu does Malaysia need going into the future — our future and the global one, too. There needs to be a new interpretation of how recent and past history shapes the new narrative and how this narrative now proposes policies to the benefit of all Malaysians. A series of Kongres Melayu Baru can be held to replace the Kongres Maruah Melayu that was too narrow-minded and self-serving only to one group and one ex-PM. The committee must also suggest plans for social media content to bombard the Malays with these new values and inclusive narrative. The Madani model can be part of the new Malay narrative, but it must not be seen solely coming from Anwar. The idea of the new Malay must have ownership by the four groups that would form the major push against the dangerous politics of PAS and Bersatu. Let PAS and Bersatu shout pendatang, this haram and that haram, or who is kafir and who is munafik. Let their shouts and ranting be drowned by the new narrative of a dynamic, confident and worldly Melayu rooted in the progressive idealism of Islam as taught by the Prophet Muhammad, not by Hadi Awang. I do not see this country moving anywhere positive and with any concrete narrative until these four Malay entities decide to change it. Even though this country belongs to all Malaysians, ultimately it is still the values, perspectives and narrative of the Malay that will carry the bigger weight. (Prof Dr. Mohd Tajuddin Mohd Rasdi is Professor of Architecture at a local university and his writing reflects his own personal opinion entirely.) ADVERTISEMENT ADVERTISEMENT",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ikram",
+          "sentiment": "positive"
+        },
+        {
+          "name": "anwar",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "madani malaysia",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "umno-amanah",
+          "sentiment": "positive"
+        },
+        {
+          "name": "abim",
+          "sentiment": "positive"
+        },
+        {
+          "name": "umno",
+          "sentiment": "none"
+        },
+        {
+          "name": "unity government",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "malaysia",
+          "sentiment": "none"
+        },
+        {
+          "name": "malays",
+          "sentiment": "none"
+        },
+        {
+          "name": "madani malaysia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T13:38:50.954+02:00",
+    "updated": "2023-12-29T13:38:50.954+02:00"
+  },
+  {
+    "uuid": "fc23dfef4c03b97e949e7e5fab5cf456f540bfde",
+    "url": "https://finance.sina.com.cn/roll/2025-04-03/doc-inervuwa8571285.shtml",
+    "ord_in_thread": 0,
+    "author": "sina.com.cn",
+    "published": "2025-04-02T23:03:00Z",
+    "title": "买手机送充电宝，vivo Y300 Pro+反向充电实测|充电宝_新浪财经_新浪网",
+    "text": "在手机续航焦虑普遍存在的当下，vivo Y300 Pro+以“续航灭霸”的姿态横空出世，其搭载的7300mAh超薄蓝海电池堪称同档机型中的能量巨兽。但这款手机的续航+倍实力远不止于此——支持反向充电功能，让手机秒变充电宝，其反向充电功率更是达到了7.5W。\n1 超大电池基底：反向充电的底气所在\nY300 Pro+的反向充电功能，首先得益于其堪称“恐怖”的电池配置。虽然电池容量大，通过第三代硅负极材料与钴酸锂正极的组合，电池能量密度提升至838Wh/L，在保持7.89mm超薄机身的同时，实现了比前代多800mAh的容量突破。这意味着手机本身就是一块“巨型充电宝”，即使在为其他设备供电时，也能保留充足电量应对自身需求。\n如何使用反向充电呢？只需在设置中打开OTG功能，用数据线连接待充电设备，手机即可自动切换为供电模式。\n实测中，使用Y300 Pro+为支持OTG协议的蓝牙耳机充电，30分钟内可将耳机电量从10%充至60%，充电效率远超普通充电宝。\nY300 Pro+的稳定输出为iPhone16充电，30分钟可充入15%电量，足以支撑紧急通话或扫码支付。\n反向充电在会议室临时需要为无线麦克风、投影仪遥控器充电时，Y300 Pro+无需额外设备即可解决问题。甚至在笔记本电脑续航告急时，通过Type-C接口可为支持PD协议轻薄本提供临时供电。\n与同档机型相比，7.5W的反向充电功率使vivo Y300 Pro+具备明显优势。无论是安卓阵营的耳机、手环，还是苹果的智能设备，甚至是支持OTG的小型平板，均可通过Type-C数据线连接实现充电。\n此外，Y300 Pro+还支持多种快充协议，不仅自身充电兼容性强，反向充电时也能更好地适配不同设备，提高了使用的便捷性和通用性。\n2 反向充电之外：续航体验的“全链路升级”\n当然，反向充电只是Y300 Pro+续航优势的冰山一角。Y300 Pro+支持PPS、UFCS等多种快充协议，90W超快闪充可在30分钟内充入60%电量，配合超长寿蓝海电池技术，历经1300次循环后电池容量仍能保持80%以上，5年使用无需担心续航衰减。\n得益于半固态电解质技术，Y300 Pro+在-20℃低温环境下仍能保持稳定放电。远优于普通手机在低温下的“罢工”表现，北方用户冬季使用也能安心。\n此外，低功耗的第三代骁龙7s处理器与OriginOS5的深度优化，让手机本身续航已足够支撑两天一充，反向充电则是锦上添花的“终极保险”。\n3 结语：重新定义“全能续航”\nvivo Y300 Pro+的反向充电功能，并非简单的“附加功能”，无论是应急补电、设备互联还是极端场景，这项功能都展现出强大的实用性。结合7300mAh超大电池、90W闪充与抗寒长寿技术，Y300 Pro+真正实现了“续航+倍”的体验，堪称“买手机送充电宝”的性价比之王。对于注重续航与实用性的用户来说，这款手机不仅是通讯工具，更是移动生活的充电宝。\n(9683336)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:13:50.975+03:00",
+    "updated": "2025-04-03T02:13:50.975+03:00"
+  },
+  {
+    "uuid": "59feff0e721cb06150a0d6ef375155b67fa8e512",
+    "url": "https://observador.pt/2024/03/07/suecia-torna-se-formalmente-membro-da-nato-e-a-vitoria-da-liberdade-e-um-momento-historico-dizem-lideres-mundiais",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agência Lusa",
+    "published": "2024-03-07T22:02:00Z",
+    "title": "Suécia torna-se formalmente membro da NATO. “É a vitória da liberdade” e “um momento histórico”, dizem líderes mundiais – Observador",
+    "text": "A Suécia tornou-se esta quinta-feira oficialmente o 32º membro da NATO, depois de cumpridas todas as formalidades para a sua integração na organização militar, com a Hungria a depositar o protocolo de adesão em Washington.\nO embaixador da Hungria nos Estados Unidos entregou esta quarta-feira ao Departamento de Estado em Washington os documentos oficiais de ratificação da adesão da Suécia à NATO, recentemente aprovada pelo parlamento húngaro, permitindo ao governo sueco apresentar ao chefe da diplomacia norte-americana o instrumento de acesso.\n“Hoje dei instruções ao embaixador da nossa pátria em Washington para entregar o documento de ratificação, tendo a Hungria cumprido todas as suas tarefas para a adesão da Suécia à NATO”, anunciou o ministro dos Negócios Estrangeiros húngaro, Péter Szijjártó.\nEm Washington, o primeiro-ministro sueco declarou que a adesão da Suécia à NATO é “uma vitória da liberdade”. O país “fez uma escolha livre, democrática, soberana e unida para aderir à NATO”, declarou Ulf Kristersson, ao lado do secretário de Estado norte-americano, Antony Blinken, a quem entregou o instrumento de acesso à NATO, formalizando a entrada do seu país como 32.º membro da organização.\n“ Este é um momento histórico para a Suécia . É histórico para a aliança. É histórico para a relação transatlântica”, afirmou Antony Blinken. “A nossa aliança da NATO é agora mais forte e maior do que alguma vez foi”, acrescentou o governante norte-americana.\nAinda nos EUA, Joe Biden afirmou que Vladimir Putin “quis dividir” a aliança atlântica mas que esta está “mais unida e determinada” do que nunca: “Quando Putin lançou a sua guerra brutal de agressão contra o povo da Ucrânia, ele pensou que poderia enfraquecer a Europa e dividir a NATO”, começou por dizer o líder norte-americano, acrescentando: “Em vez disso, em maio de 2022, a Suécia e a Finlândia — dois dos nossos parceiros próximos, com duas forças armadas altamente capazes — tomaram a decisão histórica de solicitar a adesão plena à NATO.”\nA organização “está mais unida, determinada e dinâmica do que nunca — agora com 32 nações fortes”, concluiu.\nEm Portugal, Marcelo Rebelo de Sousa felicitou o Rei Carlos XVI Gustavo e considerou que “o alargamento da Organização do Tratado do Atlântico Norte à Suécia, que se concretizou hoje, 7 de março, representa um sólido reforço de uma estrutura que tem sido fundamental em matéria de segurança e defesa coletiva e de manutenção da Paz”.\n“Portugal, que apoiou sem reservas, de forma convicta e decidida a adesão da Suécia à NATO, congratula-se por este histórico alargamento, na firme certeza de que a integração do seu mais recente membro contribuirá para reforçar o pilar europeu de defesa no seio da Aliança Atlântica”.\nJá o ministro dos Negócios Estrangeiros português, João Gomes Cravinho, sublinhou que começa uma “nova era de colaboração e segurança” entre os Estados-membros. “Inicia-se agora uma nova era de colaboração e segurança para a Suécia e para os seus Aliados”, acrescentou João Gomes Cravinho, que deixou saudações em sueco, português e inglês.\nTambém o Ministério da Defesa português publicou uma mensagem no X: “Mais um passo importante no reforço da segurança e defesa da Aliança. Bem-vinda Suécia”, pode ler-se na nota do ministério liderado por Helena Carreiras.\nNa Ucrânia, Volodymyr Zelensky afirmou que a Suécia fica agora “mais protegida contra o mal russo”, e mostrou-se confiante de que “chegará o dia em que a Suécia poderá felicitar a Ucrânia pela adesão à Aliança.”\n“Todos beneficiam quando a segurança de um país melhora e esse país pode realmente reforçar a segurança partilhada”, disse Volodymyr Zelensky num vídeo partilhado no X.\n“Neste momento, no meio da agressão russa contra tudo o que manteve a Europa pacífica e unida, todos compreendem quão crítico é manter alianças e parcerias, reforçar a própria segurança e cuidar da segurança dos vizinhos”, acrescentou.\nTermina assim o que deveria ser um processo “expresso”, mas que acabou por demorar 22 meses devido às reticências da Turquia e da Hungria sobre a adesão da Suécia.\n ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-08T00:04:37.597+02:00",
+    "updated": "2024-03-08T04:50:22.666+02:00"
+  }
+]

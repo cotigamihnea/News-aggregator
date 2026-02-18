@@ -1,0 +1,200 @@
+[
+  {
+    "uuid": "e428d821a529161b71b0075629274a52c0eddc85",
+    "url": "https://leadership.ng/owerri-turns-to-ghost-town-amid-heavy-downpour",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Royal Ibeh and Leadership News",
+    "published": "2024-08-02T06:20:00Z",
+    "title": "Owerri Turns To Ghost Town Amid Heavy Downpour",
+    "text": "Owerri, capital of Imo State is calm with streets deserted as residents woke up to heavy downpour.\nResidents stayed indoors in defiance of the call for protests, following days of sporadic shootings in Owerri.\nMajor streets and roads were deserted, as there were no human or vehicular movements.\nLEADERSHIP saw residents at the World Bank market panic buy due to the fear that the protest would last long and prevent trading activities.\nOwerri since Monday had been engulfed in shooting spree which has left not less than seven persons dead, including four policemen.\nFleeing gunmen had on Monday shot dead four policemen and a POS operator along Irete.\nOn Tuesday, gunmen shot dead a young man at Amawire, close to Imo State University junction and set ablaze a refuse disposal truck belonging to the Eastern Waste Management Agency.\nThis is even as a man was gunned down at Nwaoreubi by fleeing gunmen.\nHowever, on Wednesday, residents witnessed heavy shootings across the state which forced residents to flee.\nFrom Fire Service Junction, World Bank market, and Okigwe Road just by the Owerri Correctional Centre, there were heavy shootings that made people scamper for safety.\nSources told LEADERSHIP that inmates of the Correctional centre were jubilant thinking there would be a jail-break for their release.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "imo state",
+          "sentiment": "negative"
+        },
+        {
+          "name": "world bank",
+          "sentiment": "none"
+        },
+        {
+          "name": "eastern waste management agency",
+          "sentiment": "none"
+        },
+        {
+          "name": "imo state university",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "okigwe road",
+          "sentiment": "none"
+        },
+        {
+          "name": "nwaoreubi",
+          "sentiment": "none"
+        },
+        {
+          "name": "owerri corre",
+          "sentiment": "none"
+        },
+        {
+          "name": "amawire",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-02T13:18:49.491+03:00",
+    "updated": "2024-08-02T13:18:49.491+03:00"
+  },
+  {
+    "uuid": "a7292f2291340a31387206d55640c209cc9151a2",
+    "url": "https://gbtimes.com/why-can%ca%bct-i-paste-into-outlook",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "GB Times",
+    "published": "2024-08-30T03:09:00Z",
+    "title": "Why canʼt I paste into Outlook?",
+    "text": "Why Can’t I Paste into Outlook?\nMicrosoft Outlook is a popular email client used by millions of people around the world. Despite its popularity, many users have encountered a frustrating issue: they can’t paste text or images into Outlook. If you’re experiencing this problem, you’re not alone. In this article, we’ll explore the reasons behind this issue and provide solutions to help you overcome it.\nWhy Can’t I Paste into Outlook?\nBefore we dive into the solutions, let’s understand why you can’t paste into Outlook. Here are some possible reasons:\nSecurity settings : Outlook has built-in security features that can prevent pasting content from certain sources. This is to protect you from malware and viruses.\nFormat restrictions : Outlook has formatting restrictions that can prevent you from pasting content that exceeds certain character limits or contains special characters.\nPaste options : Outlook has different paste options, and if you’re not using the correct one, you may not be able to paste content successfully.\nAdd-ins and plugins : Third-party add-ins and plugins can sometimes interfere with the pasting functionality in Outlook.\nCommon Causes of the Paste Issue\nHere are some common causes of the paste issue in Outlook:\nPaste from web : If you’re trying to paste content from a web page, Outlook may block it due to security concerns.\nPaste from Microsoft Office applications : If you’re trying to paste content from Microsoft Office applications like Word or Excel, Outlook may not support the formatting or data types.\nPaste from external sources : If you’re trying to paste content from external sources like PDFs or image files, Outlook may not support the format or may block it due to security concerns.\nSolutions to the Paste Issue\nNow that we’ve identified the possible causes of the paste issue, let’s explore some solutions:\nTable of Contents\nToggle\nSolution 1: Check Your Security Settings Solution 2: Use the Correct Paste Option Solution 3: Disable Add-ins and Plugins Solution 4: Clear the Outlook Cache Solution 5: Use an Alternative Method Solution 1: Check Your Security Settings\nCheck the \"Allow adding components to run at startup\" : Go to File > Options > Trust Center > Trust Center Settings > Enable all Outlook add-ins.\nCheck the \"Trust Center\" settings : Go to File > Options > Trust Center > Trust Center Settings > Trust all add-ins and macros.\nSolution 2: Use the Correct Paste Option\nTry using the \"Paste as plain text\" option : Go to Home > Clipboard > Paste > Paste as plain text.\nTry using the \"Paste as HTML\" option : Go to Home > Clipboard > Paste > Paste as HTML.\nSolution 3: Disable Add-ins and Plugins\nDisable all add-ins and plugins : Go to File > Options > Add-ins > Manage Add-ins > Go > Disable all add-ins.\nRe-enable add-ins and plugins one by one : Re-enable each add-in and plugin until you find the one that’s causing the issue.\nSolution 4: Clear the Outlook Cache\nClear the Outlook cache : Go to File > Options > Advanced > Clear cache.\nSolution 5: Use an Alternative Method\nUse the \"Ctrl + V\" shortcut : Try using the \"Ctrl + V\" shortcut to paste content instead of right-clicking and selecting \"Paste\".\nUse the \"Paste special\" option : Go to Home > Clipboard > Paste > Paste special.\nConclusion\nIn conclusion, the paste issue in Outlook can be caused by various factors, including security settings, format restrictions, paste options, and add-ins and plugins. By checking your security settings, using the correct paste option, disabling add-ins and plugins, clearing the Outlook cache, and using an alternative method, you should be able to overcome the paste issue and successfully paste content into Outlook.\nCommon Issues and Solutions\nHere are some common issues and solutions related to the paste issue in Outlook:\nIssue\nSolution\nPaste from web not working\nCheck your security settings and try using the \"Paste as plain text\" option.\nPaste from Microsoft Office applications not working\nCheck your format restrictions and try using the \"Paste as HTML\" option.\nAdd-ins and plugins causing issues\nDisable all add-ins and plugins and re-enable them one by one to find the one causing the issue.\nOutlook cache causing issues\nClear the Outlook cache to resolve any issues related to formatting or data types.\nAdditional Tips\nHere are some additional tips to help you overcome the paste issue in Outlook:\nUse the \"Undo\" feature : If you accidentally paste content into Outlook, use the \"Undo\" feature to remove it.\nUse the \"Paste special\" option : Use the \"Paste special\" option to paste content in a specific format, such as plain text or HTML.\nCheck your Outlook version : Make sure you’re using the latest version of Outlook to ensure you have the latest features and fixes.\nBy following these tips and solutions, you should be able to overcome the paste issue in Outlook and successfully paste content into your emails.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "microsoft",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T10:52:57.755+03:00",
+    "updated": "2024-08-30T10:52:57.755+03:00"
+  },
+  {
+    "uuid": "c900e969caea2c68f4c500d99a66b3ec0974ecb2",
+    "url": "https://www.nzherald.co.nz/world/trump-ally-steve-bannon-must-surrender-to-prison-by-july-1-to-start-contempt-sentence-judge-says/CHQI2Q4NFRGHRJAOSBX2CQ4XNE",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alanna Durkin Richer",
+    "published": "2024-06-06T04:32:00Z",
+    "title": "Trump ally Steve Bannon must surrender to prison by July 1 to start contempt sentence, judge says - NZ Herald",
+    "text": "Trump ally Steve Bannon must report to prison by July 1 to serve a four-month sentence. Bannon was convicted of contempt of Congress for defying a subpoena. His defence argues the charges are politically motivated and unjust. Steve Bannon, a longtime ally of former US President Donald Trump , must report to prison by July 1 to serve his four-month sentence for defying a subpoena from the House committee that investigated the US Capitol insurrection, a federal judge has ruled.\nUS District Judge Carl Nichols in Washington granted prosecutors’ request to make Bannon begin serving his prison term after a three-judge panel of a federal appeals court last month upheld his contempt of Congress conviction.\nBut Nichols also made clear in his ruling that Bannon could seek a stay of his order, which could delay his surrender date.\nOutside the courthouse, Bannon told reporters: “I’ve got great lawyers, and we’re going to go all the way to the Supreme Court if we have to.”\n Nichols, who was nominated to the bench by Trump, a Republican, had initially allowed Bannon to remain free while he fought his conviction.\nBut the panel of the US Court of Appeals for the DC Circuit said all of Bannon’s challenges lack merit.\nBannon was convicted in 2022 of two counts of contempt of Congress: one for refusing to sit for a deposition with the January 6 House Committee and the other for refusing to provide documents related to his involvement in Trump’s efforts to overturn his 2020 presidential election loss to Democrat Joe Biden.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "bannon",
+          "sentiment": "negative"
+        },
+        {
+          "name": "steve bannon",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nichols",
+          "sentiment": "none"
+        },
+        {
+          "name": "bann",
+          "sentiment": "none"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "carl nichols",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nz herald trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "congress",
+          "sentiment": "none"
+        },
+        {
+          "name": "nzme",
+          "sentiment": "none"
+        },
+        {
+          "name": "supreme court",
+          "sentiment": "none"
+        },
+        {
+          "name": "house",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "us capitol",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-07T00:25:29.994+03:00",
+    "updated": "2024-06-07T03:33:51.922+03:00"
+  }
+]

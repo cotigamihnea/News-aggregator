@@ -1,0 +1,211 @@
+[
+  {
+    "uuid": "793c19991d4ed92b897ce4d5e6af99b1666dddad",
+    "url": "https://chicago.suntimes.com/crime/2024/04/25/three-years-sentence-cta-van-fire-2020-riots-george-floyd",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jon Seidel",
+    "published": "2024-04-25T20:56:00Z",
+    "title": "Three years for man who helped set CTA van on fire during 2020 riots",
+    "text": "clock CST_ The Hardest-Working Paper in America | Thursday, April 25, 2024 Subscriber | Log out | Manage Account Log In | Get Home Delivery Donate Menu News Elections Crime Politics Metro/State Money Immigration The Watchdogs Education Health LGBTQIA+ Transportation Environment La Voz Sports Bears High School Sports Outdoors Cubs White Sox Sky / WNBA Bulls Blackhawks College Sports Fire / Red Stars Wolves Golf Sports Media NASCAR Sports Saturday Politics Elections Election Blog Election Results Voter Guide City Hall Fran Spielman Show Washington At the Table Springfield City Council Directory PolitiFact Democracy Solutions Project Commentary Editorials Columnists Letters to the Editor Other Views Life & Culture Horoscopes Dear Abby Movies and TV Things To Do Someone In Chicago Starting Over with Mary Mitchell Murals and Mosaics Tattoo Art Series Taste Music Theater Well Chicago History Chicago-pedia Books Obituaries View Death Notices Place a Death Notice Classifieds View Death Notices Place a Death Notice View Classified Ads Place a Classified Ad Find a Job Post a Job Opening View Small Business Ad Place Small Business Ad View Legal Notices Place a Legal Notice E-Paper More Get Home Delivery Manage home delivery account Newsletters About Us Obituaries Events Podcasts En Español Sun-Times Archives Photo Archive Contact the Sun-Times Manage TV Weekly account Right to be Forgotten Work With Us Back issues & photo reprints Donate Your Car twitter facebook youtube instagram News Elections Crime Politics Metro/State Money Immigration The Watchdogs Education Health LGBTQIA+ Transportation Environment La Voz Sports Bears High School Sports Outdoors Cubs White Sox Sky / WNBA Bulls Blackhawks College Sports Fire / Red Stars Wolves Golf Sports Media NASCAR Sports Saturday Politics Elections Election Blog Election Results Voter Guide City Hall Fran Spielman Show Washington At the Table Springfield City Council Directory PolitiFact Democracy Solutions Project Commentary Editorials Columnists Letters to the Editor Other Views Life & Culture Horoscopes Dear Abby Movies and TV Things To Do Someone In Chicago Starting Over with Mary Mitchell Murals and Mosaics Tattoo Art Series Taste Music Theater Well Chicago History Chicago-pedia Books Obituaries View Death Notices Place a Death Notice Classifieds View Death Notices Place a Death Notice View Classified Ads Place a Classified Ad Find a Job Post a Job Opening View Small Business Ad Place Small Business Ad View Legal Notices Place a Legal Notice E-Paper More Get Home Delivery Manage home delivery account Newsletters About Us Obituaries Events Podcasts En Español Sun-Times Archives Photo Archive Contact the Sun-Times Manage TV Weekly account Right to be Forgotten Work With Us Back issues & photo reprints Donate Your Car twitter facebook youtube instagram Show Search Search Query Search",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mary mitchell murals",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cta",
+          "sentiment": "negative"
+        },
+        {
+          "name": "chicago history chicago-pedia books obituaries view death notices place",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "america",
+          "sentiment": "none"
+        },
+        {
+          "name": "chicago",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:00:44.326+03:00",
+    "updated": "2024-04-26T00:30:36.280+03:00"
+  },
+  {
+    "uuid": "ad03db0ff542b56c6bf8aeddbdc60553d6ef2ca4",
+    "url": "https://www.saratogian.com/2025/04/09/man-dead-following-shooting-at-state-police-barracks-in-malta",
+    "ord_in_thread": 0,
+    "author": "Saratogian staff",
+    "published": "2025-04-09T21:16:00Z",
+    "title": "Man dead following shooting at State Police barracks in Malta",
+    "text": "MALTA, N.Y. — Per New York State Police, on Wednesday, April 9, at approximately 1:43 p.m., NYS Police responded to a report of shots fired in the vicinity of the State Police Saratoga Barracks located in Malta, Saratoga County.\nThe preliminary investigation has determined that a male subject arrived at State Police Barracks in Malta on Route 9 with a hunting-style rifle and fired several rounds at the barracks. Troopers then exited the barracks and engaged the suspect, fatally wounding the individual.\nThe investigation is active and ongoing. State Route 9 is closed between the State Route 67 traffic circle at Dunning Street and Saratoga Village Boulevard.\nThere is no current threat to public safety resulting from this incident.\nA press conference will be held Wednesday evening. This is a breaking and developing story; check back to The Saratogian for updates.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->shootings",
+      "Crime, Law and Justice->investigation (criminal)",
+      "Politics->safety of citizens",
+      "Politics->civil rights",
+      "Politics->government",
+      "Social Issue->juvenile delinquency",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "County",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "State Police Saratoga Barracks",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "State Police Barracks",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:35:55.775+03:00",
+    "updated": "2025-04-10T09:07:56.148+03:00"
+  },
+  {
+    "uuid": "d1fe34ebc0ff392a346bcf04a65ae7921b72a3ad",
+    "url": "https://clinicmedicalservicesllc74951.pages10.com/endocrinologist-recognizing-the-hormonal-specialists-59778717",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Clinicmedicalservicesllc",
+    "published": "2023-12-28T19:03:00Z",
+    "title": "Endocrinologist: Recognizing the Hormonal Specialists",
+    "text": "The Important Role of an Endocrinologist in Handling Hormonal Discrepancies\nHormonal imbalances can have a considerable effect on an individual's overall health and well-being. They can manifest in different ways, impacting mood, power levels, metabolism, and reproductive health. The function of an endocrinologist in handling these discrepancies is essential. Endocrinologists are doctor with specialized training in the endocrine system, which is in charge of hormonal agent manufacturing and regulation. Their competence allows them to properly detect hormone discrepancies with thorough examination and diagnostic screening. As soon as identified, endocrinologists develop customized treatment strategies that may consist of drug, way of life modifications, and hormonal agent substitute treatment. They also work together with other healthcare carriers to make sure comprehensive care. By handling hormonal inequalities, endocrinologists play a vital role in boosting the top quality of life for individuals affected by these problems.\nSignificance of Hormonal Balance\nThe upkeep of hormonal balance is important for ideal bodily function and general wellness. Hormonal agents play an essential duty in regulating numerous physical processes in the body, consisting of development and growth, metabolic rate, mood, and recreation guideline. Any kind of interruption in the fragile equilibrium of hormones can bring about a vast array of health and wellness problems.\nWhen hormone levels are too expensive or as well reduced, it can detrimentally impact the body's capacity to operate appropriately. For instance, a discrepancy in thyroid hormones can cause symptoms such as exhaustion, weight gain, and mood changes. Similarly, a discrepancy in insulin levels can lead to diabetes and its associated difficulties.\nMaintaining hormone equilibrium is particularly crucial throughout certain life phases, such as adolescence, menopause, and maternity. Hormone fluctuations throughout these times can create considerable physical and psychological modifications, and handling these discrepancies is vital for overall well-being.\nAn endocrinologist focuses on identifying and treating hormone conditions. They play an important function in restoring hormonal equilibrium through different treatment choices, including drugs, hormonal agent substitute treatment, and lifestyle alterations. Regular monitoring and administration of hormonal agent levels by an endocrinologist can aid boost and avoid issues quality of life.\nFunction of Endocrinologists in Diagnosis\nEndocrinologists play a vital duty in detecting hormone inequalities with comprehensive analyses and specialized testing. These medical professionals are extremely trained to recognize and recognize the complex interaction of hormones within the body and how discrepancies can bring about numerous health conditions. By carrying out detailed assessments, endocrinologists can collect crucial info concerning an individual's signs, medical history, and way of life aspects that might contribute to hormone imbalances.\nIn addition, endocrinologists might execute provocative or stimulation examinations to examine how well a particular gland is operating. These tests entail administering compounds that promote the release of specific hormonal agents, enabling the endocrinologist to evaluate the gland's action.\nTherapy Options for Hormone Discrepancies\nThe treatment choices for hormonal inequalities depend on the particular hormonal agents entailed and the underlying reason of the discrepancy. Preserving a healthy and balanced weight, normal exercise, and anxiety decrease strategies can have a favorable effect on hormonal agent degrees.\nHormonal agent substitute treatment (HRT) is frequently utilized to deal with hormone inequalities triggered by menopause or thyroid conditions. HRT entails the usage of artificial hormones to supplement the body or replace's all-natural hormone manufacturing.\nSurgical interventions may be required in particular scenarios - Endocrinologist in cedar park. The elimination of a tumor or\nlook these upcyst on the endocrine glands might be needed to restore normal hormonal agent production. In instances where the hormonal inequality is brought on by an inefficient gland, surgical removal of the gland may be essential\nIt is essential to note that the therapy options for hormonal discrepancies need to be tailored to the person's particular requirements and clinical history. For that reason, it is vital to seek advice from with an endocrinologist who can precisely diagnose the hormonal discrepancy and develop a tailored therapy plan.\nCollaborative Strategy in Hormone Administration\nTo ensure detailed and reliable hormone management, a collective technique entailing health care specialists from various specialties is important. Hormone discrepancies can affect various systems in the body, and addressing them needs a multidisciplinary strategy. Endocrinologists, medical care physicians, gynecologists, urologists, and other experts collaborate to detect, treat, and screen hormonal conditions.\nPartnership begins with the first analysis, where various medical care professionals contribute their know-how. For instance, a main care medical professional might determine symptoms of a hormonal discrepancy and refer the client to an endocrinologist for further assessment. The endocrinologist, consequently, may collaborate with a radiologist to interpret imaging studies or with a pathologist to evaluate biopsy results.\nAs soon as a diagnosis is made,\ntop articlea treatment plan is developed via a collective effort. This may involve drug administration, way of life adjustments, or medical treatments. An individual with hypothyroidism may call for hormone substitute treatment recommended by the endocrinologist, while a nutritional expert might give support on dietary modifications to sustain thyroid feature.\nRegular follow-up and surveillance are likewise important in hormonal agent administration - Endocrinologist in georgetown. Collective treatment ensures that medical care professionals can track the individual's progress, adjust therapy strategies as needed, and attend to any difficulties or negative effects that might occur\nImproving Quality of Life Via Hormone Guideline\nOne trick element in managing hormone inequalities is enhancing quality of life via effective hormone policy. Hormones play a crucial function in different physical features and discrepancies can lead to a series of signs and health and wellness problems. By managing hormonal agents, an endocrinologist can aid individuals boost their general wellness and achieve a far better quality of life.\nHormonal imbalances can affect physical, mental, and emotional health and wellness. For instance, discrepancies in thyroid hormonal agents can cause fatigue, weight gain, and mood swings, while inequalities in sex hormones can lead to infertility, irregular menstruations, and decreased sex drive. By identifying the underlying reason for these inequalities, an endocrinologist can prescribe appropriate hormonal agent substitute therapy or various other therapy choices to restore equilibrium and ease signs and symptoms.\nReliable hormone law can also have a positive influence on psychological wellness. Inequalities in particular hormones, such as cortisol or serotonin, can contribute to state of mind, clinical depression, and anxiousness problems. By resolving these inequalities, an endocrinologist can assist individuals accomplish a more stable state of mind and enhance their total mental well-being.\nVerdict\nWith their experience, they supply effective treatment choices and advertise a joint method to hormonal agent monitoring. By managing hormonal agents, endocrinologists add to improving the quality of life for individuals facing hormone imbalances.\nThe treatment options for hormone imbalances depend on the certain hormones entailed and the underlying cause of the imbalance. HRT involves the use of artificial hormonal agents to supplement the body or change's all-natural hormonal agent production.One key aspect in handling hormonal discrepancies is enhancing quality of life through reliable hormone guideline. Discrepancies in thyroid hormonal agents can result in fatigue, weight\nmore informationgain, and state of mind swings, while imbalances in sex hormones can lead to the inability to conceive, irregular menstrual cycles, and reduced libido. By regulating hormonal agents, endocrinologists contribute to improving the quality of life for individuals encountering hormone imbalances.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Human Interest",
+      "Health"
+    ],
+    "external_links": [
+      "https://franciscoknqie.suomiblog.com/endocrinologist-in-cedar-park-comprehensive-hormone-health-and-wellness-solutions-39563521",
+      "https://walmartwalkinclinic60257.timeblog.net/59855925/endocrinologist-recognizing-the-hormonal-experts",
+      "https://josuerqoic.blogpostie.com/46236608/texas-endocrinology-state-of-the-art-hormonal-health-care",
+      "https://www.josuerqoic.blogpostie.com/46236608/texas-endocrinology-state-of-the-art-hormonal-health-care",
+      "https://www.franciscoknqie.suomiblog.com/endocrinologist-in-cedar-park-comprehensive-hormone-health-and-wellness-solutions-39563521",
+      "https://www.walmartwalkinclinic60257.timeblog.net/59855925/endocrinologist-recognizing-the-hormonal-experts"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:27:02.366+02:00",
+    "updated": "2023-12-29T02:27:02.366+02:00"
+  },
+  {
+    "uuid": "92c878fa32bcaa711cc39a201b4601af92737c6c",
+    "url": "https://www.abnewswire.com/pressreleases/leo-satellite-market-worth-232-billion-by-2029-at-a-cagr-of-130_717285.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "admin",
+    "published": "2024-10-17T21:46:00Z",
+    "title": "LEO Satellite Market worth $23.2 Billion by 2029, at a CAGR of 13.0%",
+    "text": "The report “LEO Satellite Market by Satellite Type (Small, Medium, Large Satellites, and Cubesats), Application (Communication, Earth Observation & Remote Sensing, Scientific Research, Technology), Subsystem, End Use, Frequency and Region – Global Forecast to 2029” The LEO satellite industry is projected to grow from USD 12.6 billion in 2024 to USD 23.2 Billion by 2029, at a CAGR of 13.0% from 2024 to 2029. The market growth can be attributed to the growing need for earth observation imagery and analytics.\nDownload PDF Brochure @ https://www.marketsandmarkets.com/pdfdownloadNew.asp?id=252330251&utm_source=abnewswire.com&utm_medium=PaidPR&utm_campaign=leosatellitemarket\nBrowse 312 market data Tables and 71 Figures spread through 383 Pages and in-depth TOC on “LEO Satellite Market”\nView detailed Table of Content here – https://www.marketsandmarkets.com/Market-Reports/leo-satellite-market-252330251.html?utm_source=abnewswire.com&utm_medium=PaidPR&utm_campaign=leosatellitemarket\nThe LEO satellite industry holds a huge potential for data service providers, satellite service providers, remote sensing service providers, technical service providers, and investors. Versatility, low cost, advanced mechanics, ease of assembly and launch, mass production, and short lifecycles have driven investments in LEO satellites. The amount of satellite data and range of applications for data will continue to grow in the future as new technologies develop and more satellites become operational.\nThe adoption of off-the-shelf CubeSats and reusable rocket technology is also expected to fuel market growth. The market is growing due to the demand for higher bandwidth internet. If the current satellite internet proposals become a reality, as many as 50,000 satellites will be orbiting in LEO within 10 years. However, space debris caused by LEO satellites and some regulatory challenges are expected to hinder market growth.\nThe LEO satellite industry report includes small satellites (1–500 kg), medium satellites (500–1,000 kg), and large satellites (more than 1,000 kg). These satellites are used for communication, earth observation & remote sensing, mapping & navigation, scientific research & exploration, surveillance & security, space observation, and various other applications by defense, intelligence, civil, commercial, and government users. The continuous miniaturization of satellites through technological advancements in electronics, low mission costs, and increasing use of satellite constellations (containerization) are major drivers for the growth of this market. LEO satellites are also considered disruptive technology by several space organizations.\nBased on satellite mass, the small satellite segment for LEO Satellite industry dominates the market in the base year\nIn terms of satellite mass, the LEO satellite industry is divided into four main categories: small satellites, medium satellites, CubeSats, and large satellites. Small satellites are replacing large-sized satellites by becoming capable of performing in a vast range of commercial applications. Advancements in the miniaturization technologies and applications of satellite constellations are the key factors driving the adoption of small satellites. The minisatellite, a sub-type of small satellite is described as an LEO satellite having a wet mass (including fuel) of 101 kg to 500 kg. Minisatellites are present at an altitude of about 1,000–5,000 km. The operational cost, as well as the manufacturing cost of minisatellites, is less than that of traditional larger satellites, thereby offering a low-cost solution to gather and communicate data. Advancements in miniature electronics components reduce the cost and provide enhanced capabilities for commercial and defense usage.\nBased on end use, the commercial segment for LEO Satellite industry is estimated to register a large share in the base year.\nThe LEO satellite industry is categorized by application into communication, earth observation & remote sensing, scientific research, and technology, and others. A communication satellite is responsible for creating a communication channel to receive signals for telephone, television, internet, and military communication. The demand for communication satellites is growing due to the ever-increasing demand for high-speed satellite internet and precise information in the military communication chain of command. Moreover, Advancements in technologies have helped overcome major hurdles faced in providing efficient miniaturized onboard power systems for advanced communication hardware on satellites that require high electrical power. This has been useful for generating higher data rates, thereby improving the overall communication capabilities of nanosatellites, microsatellites, and minisatellites. LEO satellites can accommodate more sophisticated payloads than traditional larger satellites. They also take considerably less time to transfer the data from the Earth to LEO due to the closer location of satellites from the earth than GEO, where the traditional large satellites are located. LEO satellites enhance communication capabilities such as disaster management, asset tracking, and mobile communication.\nThe Asia Pacific region is projected to be a high growth potential market for LEO satellite industry during the forecast period.\nThe Asia Pacific market is projected to witness a significant CAGR from 2024 to 2029. The Asia Pacific Regional Space Agency Forum (APRSAF) enhances space activities through human resource development, capacity building, and development of science-technology capability in the region. Space agencies, governmental bodies, international organizations, private companies, universities, and research institutes from over 40 countries and regions take part in APRSAF, the largest space-related conference held annually in the Asia Pacific region, leading to various growth strategies, technological advancements, research and development activities, innovation in small and CubeSats, and development of reusable launch vehicles in terms of design, function, and integration.\nKey Players\nThe major players include SpaceX (US), Airbus Defence and Space (Germany), Lockheed Martin Corporation (US), Northrop Grumman Corporation (US), and L3Harris Technologies, Inc. (US).\nMedia Contact\nCompany Name: MarketsandMarkets™ Research Private Ltd.\nContact Person: Mr. Rohan Salgarkar\nEmail: Send Email\nPhone: 18886006441\nAddress:1615 South Congress Ave. Suite 103\nCity: Delray Beach\nState: FL 33445\nCountry: United States\nWebsite: https://www.marketsandmarkets.com/Market-Reports/leo-satellite-market-252330251.html",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.marketsandmarkets.com/Market-Reports/leo-satellite-market-252330251.html?utm_source=abnewswire.com&utm_medium=PaidPR&utm_campaign=leosatellitemarket",
+      "https://www.marketsandmarkets.com/pdfdownloadNew.asp?id=252330251&utm_source=abnewswire.com&utm_medium=PaidPR&utm_campaign=leosatellitemarket",
+      "https://www.marketsandmarkets.com/Market-Reports/leo-satellite-market-252330251.html",
+      "https://marketsandmarkets.com/pdfdownloadNew.asp?id=252330251&utm_source=abnewswire.com&utm_medium=PaidPR&utm_campaign=leosatellitemarket",
+      "https://www.marketsandmarkets.com/pdfdownloadNew.asp",
+      "https://www.marketsandmarkets.com/Market-Reports/leo-satellite-market-252330251.html",
+      "https://marketsandmarkets.com/Market-Reports/leo-satellite-market-252330251.html?utm_source=abnewswire.com&utm_medium=PaidPR&utm_campaign=leosatellitemarket",
+      "https://marketsandmarkets.com/Market-Reports/leo-satellite-market-252330251.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "92c878fa32bcaa711cc39a201b4601af92737c6c",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-10-18T01:03:00.525+03:00",
+    "updated": "2024-10-18T01:03:00.525+03:00"
+  }
+]

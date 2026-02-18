@@ -1,0 +1,554 @@
+[
+  {
+    "uuid": "72e27971c3efbc51db36330b1f508a26c3fcd18d",
+    "url": "https://www.wfae.org/united-states-world/2024-03-21/a-warm-dry-spring-has-u-s-forecasters-worried-about-the-upcoming-wildfire-season",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Michael Copley",
+    "published": "2024-03-21T22:19:00Z",
+    "title": "A warm, dry spring has U.S. forecasters worried about the upcoming wildfire season | WFAE 90.7 - Charlotte's NPR News Source",
+    "text": "A warm, dry spring has U.S. forecasters worried about the upcoming wildfire season Most of the United States is expected to see warmer-than-average temperatures this spring, federal forecasters say, with dry conditions likely in the West. That's raising concerns about wildfires, especially in parts of the Southwest, Great Plains, and the Upper Mississippi River Valley, said Jon Gottschalck, operations branch chief at the National Oceanic and Atmospheric Administration's Climate Prediction Center. The southern High Plains, in particular, which includes Colorado, Kansas, New Mexico, Oklahoma, and Texas, is going to be \"quite vulnerable to high wildfire risk, especially during high wind events,\" Gottschalck said Thursday on a call with reporters. Texas recently suffered the largest wildfire in the state's history, which investigators [say was started by power lines](https://www.nytimes.com/2024/03/07/us/texas-smokehouse-creek-fire-xcel-energy.html). In the Mid-Atlantic this week, high winds [helped fuel blazes](https://www.nytimes.com/2024/03/21/us/virginia-wv-wildfires.html) in North Carolina, Virginia, West Virginia, and Maryland. NOAA [released its Spring Outlook](https://www.noaa.gov/news-release/spring-outlook-warmer-for-most-of-us-wetter-in-southeast) amid a stretch of record warm weather. Last month was the [hottest February on record](https://www.noaa.gov/news/earth-just-had-its-warmest-february-on-record), and 2023 was the [hottest year ever](https://www.npr.org/2023/12/28/1221827923/2023-hottest-year-record-climate-change). High average temperatures last year were exacerbated by a strong El Niño climate pattern, which is a [natural cycle](https://www.npr.org/2023/07/05/1186098964/with-el-nino-and-climate-change-this-week-saw-some-of-the-hottest-recorded-weath) that heats water in the Pacific Ocean and raises average temperatures worldwide. Gottschalck said the effects of the current El Niño are expected to weaken through the spring. But recent heat records are part of a longer warming trend that scientists expect to continue as climate change intensifies. Global temperatures are rising because of the accumulation of greenhouse gasses like carbon dioxide in the atmosphere, [according to the World Meteorological Organization](https://wmo.int/news/media-centre/climate-change-indicators-reached-record-levels-2023-wmo#:~:text=The%20WMO%20report%20confirmed%20that,ten%2Dyear%20period%20on%20record.), which is part of the United Nations. Those greenhouse gasses come from humans burning fossil fuels. \"Climate change is affecting the timing, intensity, and duration of weather events in the United States,\" Rick Spinrad, NOAA's administrator, said in a news release. Forecasters also warned of low water levels on the Mississippi River this summer because of below-average snowpack and precipitation in the Northern Plains and the Midwest. Ed Clark, director of the National Water Center, said low-flow conditions could affect navigation on the entire Mississippi River system, as well as water supplies for communities and industries. NOAA doesn't expect major flooding anywhere in the country this spring. Copyright 2024 NPR. To see more, visit https://www.npr.org.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "external_links": [
+      "https://wmo.int/news/media-centre/climate-change-indicators-reached-record-levels-2023-wmo#:~:text=The%20WMO%20report%20confirmed%20that,ten%2Dyear%20period%20on%20record.),",
+      "https://www.noaa.gov/news-release/spring-outlook-warmer-for-most-of-us-wetter-in-southeast)",
+      "https://www.npr.org/2023/07/05/1186098964/with-el-nino-and-climate-change-this-week-saw-some-of-the-hottest-recorded-weath)",
+      "https://www.npr.org/2023/12/28/1221827923/2023-hottest-year-record-climate-change).",
+      "https://www.nytimes.com/2024/03/07/us/texas-smokehouse-creek-fire-xcel-energy.html).",
+      "https://www.nytimes.com/2024/03/21/us/virginia-wv-wildfires.html)",
+      "https://www.noaa.gov/news/earth-just-had-its-warmest-february-on-record),",
+      "https://www.npr.org.",
+      "https://noaa.gov/news-release/spring-outlook-warmer-for-most-of-us-wetter-in-southeast)",
+      "https://nytimes.com/2024/03/21/us/virginia-wv-wildfires.html)",
+      "https://npr.org/2023/07/05/1186098964/with-el-nino-and-climate-change-this-week-saw-some-of-the-hottest-recorded-weath)",
+      "https://npr.org.",
+      "https://npr.org/2023/12/28/1221827923/2023-hottest-year-record-climate-change).",
+      "https://www.wmo.int/news/media-centre/climate-change-indicators-reached-record-levels-2023-wmo#:~:text=The%20WMO%20report%20confirmed%20that,ten%2Dyear%20period%20on%20record.),",
+      "https://noaa.gov/news/earth-just-had-its-warmest-february-on-record),",
+      "https://nytimes.com/2024/03/07/us/texas-smokehouse-creek-fire-xcel-energy.html)."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jon gottschalck",
+          "sentiment": "none"
+        },
+        {
+          "name": "gottschalck",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "npr news",
+          "sentiment": "negative"
+        },
+        {
+          "name": "national oceanic and atmospheric administration",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "charlotte",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "states",
+          "sentiment": "none"
+        },
+        {
+          "name": "southwest",
+          "sentiment": "none"
+        },
+        {
+          "name": "mid-atlantic",
+          "sentiment": "none"
+        },
+        {
+          "name": "new mexico",
+          "sentiment": "none"
+        },
+        {
+          "name": "colorado",
+          "sentiment": "none"
+        },
+        {
+          "name": "oklahoma",
+          "sentiment": "none"
+        },
+        {
+          "name": "texas",
+          "sentiment": "none"
+        },
+        {
+          "name": "high plains",
+          "sentiment": "none"
+        },
+        {
+          "name": "upper mississippi river valley",
+          "sentiment": "none"
+        },
+        {
+          "name": "great plains",
+          "sentiment": "none"
+        },
+        {
+          "name": "kansas",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-22T15:35:43.747+02:00",
+    "updated": "2024-03-22T15:35:43.747+02:00"
+  },
+  {
+    "uuid": "ec23a4c82a4aa1b73e51d04f8042bd7e079c70b0",
+    "url": "https://www.daytondailynews.com/local/longtime-business-owner-of-movie-theaters-giant-flea-markets-remembered-for-generosity/GOLVZWFFSZFS5FDB4TDARFZEHA/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eileen McClory",
+    "published": "2023-12-28T21:46:00Z",
+    "title": "Al Levin, owner of Dixie Drive-In, Caeser Creek, Treasure Aisles flea markets and movie theaters, dies",
+    "text": "Al Levin, a longtime businessman known for his work in the Dayton entertainment business and his generosity, died Dec. 23.Levin, 98, of Centerville died of cancer.He was a World War II veteran who fought at the Battle of Okinawa, and when he returned to Dayton, he started Levin Service Company with his brother Sam and his twin, Lou.Levin Service Company operated several iconic Dayton businesses, including the Dixie Drive-In, which is still operated by the company, Kon-Ike Theater on Salem Avenue, the Rhino Restaurant in downtown Dayton, Caeser Creek Flea Market and Treasure Aisles Market. The company owned more than 17 movie theaters at one point.The brothers also ran the Levin Family Foundation, which was founded after Sam Levin died. The foundation focuses on alleviating hunger, homelessness and other basic needs in the Dayton region.“People had a lot of legitimate respect for him, held him in high regard and he was just a sweet guy,” said Ryan Levin, owner of Levin Service Company, which expanded into land development, and a board member on the Levin Family Foundation.Ryan Levin remembered Al Levin as someone who was concerned about the general welfare of people. He was a long-time member of the Optimist Club.“He was a very loyal businessman,” Ryan Levin said.Karen Levin, Al’s sister-in-law who was with him when he died, said Levin took pleasure in his work in the foundation.“Al was one of the most kind and gentle people you will ever want to meet,” she said. “He had a very strong sense of family and community.”Al and Lou Levin were inseparable, both Karen and Ryan Levin said.“I mean World War II together, everything in their lives, they’ve done together,” Karen Levin said. “They called themselves womb mates.”Karen Levin said Al Levin received his cancer diagnosis in November and due to his age, couldn’t receive treatment. At the doctor’s appointment, he sat for a minute, then told her that he’d lived a good life.His last wish was to die peacefully in his sleep at home, which Karen Levin said he was able to do. She sat with him on Saturday as he took his last breath.“I feel really bad because we’ve lost him, but he got his wish,” she said.Later, she went to his apartment to get a few things for his burial.“I walked in there and I looked at the bed because I almost expected to see him,” she said. “You can feel, you knew he had been there. But all of a sudden, there was just this sense of emptiness.”His funeral is scheduled for today Friday, Dec. 29 at 11 a.m. at the Beth Abraham Cemetery Chapel, 1817 West Schantz Ave. At 1 p.m., the family is having a light lunch at the Levin Family Foundation office, 7812 McEwen Rd., Dayton. Any donations to be made are requested to go to the Ohio Hospice of Dayton.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://levinservice.com/home/about/",
+      "https://levinservice.com/home/about",
+      "https://www.levinservice.com/home/about/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "al levin",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ryan levin",
+          "sentiment": "none"
+        },
+        {
+          "name": "sam levin",
+          "sentiment": "none"
+        },
+        {
+          "name": "levin",
+          "sentiment": "none"
+        },
+        {
+          "name": "sam",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "dixie drive",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lou.levin service company",
+          "sentiment": "none"
+        },
+        {
+          "name": "levin service company",
+          "sentiment": "none"
+        },
+        {
+          "name": "kon-ike theater",
+          "sentiment": "none"
+        },
+        {
+          "name": "caeser creek flea market",
+          "sentiment": "none"
+        },
+        {
+          "name": "levin family foundation",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "caeser creek",
+          "sentiment": "none"
+        },
+        {
+          "name": "dayton",
+          "sentiment": "none"
+        },
+        {
+          "name": "salem avenue",
+          "sentiment": "none"
+        },
+        {
+          "name": "okinawa",
+          "sentiment": "none"
+        },
+        {
+          "name": "centerville",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:04:20.498+02:00",
+    "updated": "2024-01-05T02:29:26.517+02:00"
+  },
+  {
+    "uuid": "fb51ecbc5a7b3d8d43e8d64393ee9fd17834a9f9",
+    "url": "https://www.wfaa.com/article/news/local/warming-shelters-prepare-to-help-temps-drop/287-fbdd8430-5494-4073-ab18-0e0ca94060b3",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jobin Panicker",
+    "published": "2024-01-13T04:19:00Z",
+    "title": "Warming shelters prepare to open as temperatures drop | wfaa.com",
+    "text": "MCKINNEY, Texas — The Salvation Army of McKinney has cots stacked in the gym and warm clothes and blankets packed up, ready to be used for the next several nights. The [Salvation Army](https://salvationarmyntx.org/) is one of several [warming shelters](/article/news/local/fort-worth-homeless-shelters-preparing-winter-weather/287-490faab7-ac67-41d2-a665-675aa07e22e9) in Collin County and is also one of the largest in the area. \"Because life is in danger, and they need to be protected,\" said Major Gabriel Elias with the Salvation Army. Major Elias says they had 60 people show up to the warming shelter earlier in the week when the temperatures first dipped. Organizers anticipate more people to show up this weekend into Tuesday as temperatures are [expected to plummet](/article/weather/dallas-texas-snow-forecast-arctic-blast-how-cold-timeline-fort-worth-dfw-weather/287-8bb6377d-b611-4cbb-abb7-27eb7e90d324). The vast majority of people who show up to the warming shelter are unhoused, according to Elias. \"There are some families that come. They don't have enough heaters,\" said Elias. \"I feel the pain of those people.\" Elias is doing exactly what he says he's always wanted to do: help. Now retired, he was a criminal lawyer in his home country of Mexico. He left all of it behind to offer his children opportunities in education. He's learned now that his moving to the U.S. also gave him an opportunity to help through the Salvation Army. \"I left everything so my kids [can be] university-graduated,\" Elias said. People have been slowly dropping off blankets and warm clothes at the drop-off at the McKinney location at 600 Wilson Creek Parkway. Volunteers are also staffed to help with meals and any other needs. \"We're in our nice warm beds at night, and they're cold. I just felt we've got to do something,\" said Sharon Reagan. The doors at the Salvation Army open at 7 p.m. on nights it is expected to dip below freezing. For now, there are plans to open at 7 p.m. until 8 a.m. each day for the next several days.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://salvationarmyntx.org/)",
+      "https://www.salvationarmyntx.org/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mckinney",
+          "sentiment": "negative"
+        },
+        {
+          "name": "gabriel elias",
+          "sentiment": "none"
+        },
+        {
+          "name": "elias",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "salvation army",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "texas",
+          "sentiment": "none"
+        },
+        {
+          "name": "mckinney",
+          "sentiment": "none"
+        },
+        {
+          "name": "collin county",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-13T07:25:14.178+02:00",
+    "updated": "2024-01-13T09:08:36.803+02:00"
+  },
+  {
+    "uuid": "8e3d4a20d66eb90ea2ab5a5eb1f5a6d05ec3db13",
+    "url": "https://finance.sina.com.cn/roll/2025-04-24/doc-ineufhca2519889.shtml",
+    "ord_in_thread": 0,
+    "author": "sina.com.cn",
+    "published": "2025-04-23T22:40:00Z",
+    "title": "欧康维视生物：2024年业绩稳步增长，加强眼科市场领导地位，积极进行股权回购_新浪财经_新浪网",
+    "text": "05. 欧康维视生物（01477.HK）2024年业绩交流电话会议：欧康维视生物自2018年底成立以来，已发展成为一个拥有34款产品的公司，其中21款已商业化，在研管线中有3个产品处于三期临床。2024年，公司实现收入4.17亿元，同比增长69.4%，但亏损2.68亿元，较去年有所收窄。公司拥有强大的商业化团队和研发能力，与全球眼科巨头爱尔康达成战略合作，获得8款干眼症治疗和手术用滴眼液产品组合的在华相关权益，进一步巩固其在中国眼科市场的领导地位。此外，公司还积极进行股权回购，截至2025年4月7日，已回购股份1863万股，占回购授权决议通过时已发行股份的2.686%。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->healthcare industry",
+      "Health->health treatment and procedure",
+      "Health->health organisation",
+      "Health->medical condition",
+      "Social Issue->demographics",
+      "Social Issue->social networking",
+      "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:55:58.114+03:00",
+    "updated": "2025-04-24T01:55:58.114+03:00"
+  },
+  {
+    "uuid": "4749ddd1c31ce55fd407566dccf288afa50f53a4",
+    "url": "https://www.dongqiudi.com/articles/5036888.html",
+    "ord_in_thread": 0,
+    "author": "Anitara",
+    "published": "2025-04-16T21:59:36Z",
+    "title": "赖斯：我们想赢得欧冠冠军；巴黎和此前交手时相比已完全不同",
+    "text": "> 赖斯：我们想赢得欧冠冠军；巴黎和此前交手时相比已完全不同\nAnitara 2025-04-17 05:45\n北京时间4月17日，欧冠四分之一决赛次回合，皇家马德里1-2（总比分1-5）阿森纳。赛后，阿森纳球员赖斯接受了采访。\n谈及本场比赛，赖斯表示：“对于俱乐部来说，这是一个非常特殊的夜晚，是一个历史性的时刻。我们在这项赛事中有一个目标，我们想赢得这项比赛的冠军。我们充满了信心，我们有足够的实力在这里赢得比赛。我们一直牢记在心，现在我们在现实中实现了这一切。对于俱乐部来说，这是一个多么美好的夜晚。这意义重大。在我加入俱乐部之前，我就感觉到我们在不断进步。”\n他继续说道：“在这项赛事中，我们表现得非常出色。我们完全相信这一点，并且对教练有充分的信任，他真是令人难以置信。进入半决赛，这对我们来说意义重大，我们想好好享受今晚。”\n谈及皇家马德里的点球被取消，赖斯表示：“我知道那不是点球。当时我把手放在他（姆巴佩）身上，但我知道那不是点球。我是个诚实的人。他倒在地上，我非常有信心这个判罚会被取消。最终我们完成了任务，这对于俱乐部来说是一个历史性的夜晚。”\n谈及半决赛对手巴黎圣日耳曼，赖斯表示：“巴黎是顶级球队。我们已经和他们交手过一次，但他们与当时相比是完全不同的球队。”\nAnitara\n严禁商业机构或公司转载，违者必究；球迷转载请注明来源“懂球帝”\n热门评论（1）\n拆迁大队急先锋\n2025-04-17 05:46:44\n41\n赖斯真的是进几年来长的最帅的球星了吧\n查看回复(5)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Politics",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->sport achievement",
+      "Sport->soccer",
+      "Politics->national elections",
+      "Politics->sports policies",
+      "Politics->political candidates",
+      "Human Interest->ceremony"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T00:59:36.399+03:00",
+    "updated": "2025-04-17T00:59:36.399+03:00"
+  },
+  {
+    "uuid": "958e36a3ceb4a115fdb07cbc462c015afd091800",
+    "url": "https://www.gurufocus.com/news/2798453/ibm-ibm-surpasses-q1-revenue-targets-amid-ai-demand-ibm-stock-news",
+    "ord_in_thread": 0,
+    "author": "@gurufocus",
+    "published": "2025-04-23T21:07:25Z",
+    "title": "IBM (IBM) Surpasses Q1 Revenue Targets Amid AI Demand | IBM Stock News",
+    "text": "IBM (IBM, Financial) has reported its first-quarter revenue, reaching $14.54 billion and surpassing analysts' predictions of $14.39 billion. This better-than-expected performance was primarily driven by robust demand for its software offerings.\nThe company highlighted the growing interest in generative AI, which significantly contributed to their success. IBM's cumulative business value has now surpassed $6 billion, marking an increase of over $1 billion within the quarter.\nCEO Arvind Krishna expressed optimism about the long-term prospects for both technology and the broader economy, despite acknowledging the volatile nature of the current macroeconomic environment. IBM plans to uphold its full-year forecasts for revenue growth and free cash flow, indicating confidence in sustained performance.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service",
+      "Health->health organisation",
+      "Health->medical profession",
+      "Social Issue->social condition",
+      "Social Issue->demographics",
+      "Social Issue->poverty"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Arvind Krishna",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "IBM",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T00:07:25.918+03:00",
+    "updated": "2025-04-24T00:07:25.918+03:00"
+  },
+  {
+    "uuid": "98d379f66d3fd5e2bc05e190aafaa834430e2211",
+    "url": "https://www.huelvainformacion.es/huelva/dana-huelva-puntos-provincia-llovido_0_2002706561.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "R. G.",
+    "published": "2024-11-01T17:40:00Z",
+    "title": "La DANA en Huelva: Los puntos de la provincia en los que más ha llovido y en los que menos",
+    "text": "La DANA que azota la provincia de Huelva desde la madrugada del viernes se cebó con el litoral onubense, mientras que fue más benévola con la zona Norte. A las 5:00 de la madrugada la Agencia Estatal de Meteorología (Aemet) activaba el aviso rojo en la Costa, Condado y Andévalo por las lluvias torrenciales. El resto de comarcas del territorio onubense, por su parte, permanecía en aviso naranja. La mañana avanzaba y, alrededor de las 10:00, era el litoral la única parte del mapa que mantendría el aviso rojo hasta las 15:00. Solo dos horas después desaparecían todos los avisos por riesgos como consecuencia de los fenómenos meteorológicos adversos. Por estaciones meteorológicas de la Aemet, es la de Cartaya la que recogió más litros por metro cuadrado entre la medianoche y las 18:30 de este viernes -momento en el que las precipitaciones cesaron-, con 137,8 litros por metro cuadrado. Muy por encima de los 65,0 litros por metro cuadrado registrados en la capital entre la medianoche y la tarde de este viernes y los 72,7 de la estación de El Arenosillo, en el término municipal de Moguer. Son las tres estaciones de la Aemet que más precipitaciones registraron en la franja comprendida entre las 00:01 y la tarde del viernes. En lo que se refiere al resto de estaciones dispuestas por la Agencia Estatal de Meteorología a lo largo de la provincia de Huelva y, siempre con datos recogidos desde la medianoche hasta las 18:30, hay que destacar los 56,7 litros por metro cuadrado en la de El Cerro de Andévalo, los 51,0 en la de Villarrasa, los 35,0 de Alájar, los 34,8 de Alosno-Tharsis, los 33,0 en la de El Campillo, los 28,2 de Valverde del Camino, los 25,8 de la estación de Aroche o los 21,7 litros por metro cuadrado de Ayamonte. Por debajo de los 20 litros por metro cuadrado, se situaban las estaciones de Cala (19,2), El Granado (12,6) y Almonte (9,6). Todas estas cifras se refieren a las precipitaciones acumuladas en las estaciones meteorológicas de la Aemet, según los datos consultados hasta las 18:30.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T21:18:52.233+02:00",
+    "updated": "2024-11-01T21:18:52.233+02:00"
+  },
+  {
+    "uuid": "c6920be56f86ee756e6d657a44a215def55f2f11",
+    "url": "https://finance.sina.com.cn/money/future/nyzx/2025-03-06/doc-inensmtp8109909.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "sina.com.cn",
+    "published": "2025-03-06T00:34:00Z",
+    "title": "3月6日生意社异丁醛基准价为7387.50元/吨|生意社_新浪财经_新浪网",
+    "text": "生意社03月06日讯\n3月6日，生意社异丁醛基准价为7387.50元/吨，与本月初(7512.50元/吨)相比，下降了-1.66%。\n当日价\n7387.50\n日涨幅\n-0.84%\n一年位置\n低位\n最小值\n7100.00\n最大值\n11625.00\n中位值\n9362.5\n顶位差\n-4237.5\n底位差\n287.5\n平均值\n8223.37\n警戒\n生意社基准价定价应用\n交易商可以根据约定升贴水及定价公式（交易价格=生意社价格+升贴水）的定价原理，实现现货交易和合约交易的定价。\n　　(文章来源：生意社)\n新浪合作大平台期货开户 安全快捷有保障",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Environment"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->commodity market",
+      "Economy, Business and Finance->financial and economic news",
+      "Social Issue->population and census",
+      "Social Issue->social condition",
+      "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T02:41:31.364+02:00",
+    "updated": "2025-03-06T02:41:31.364+02:00"
+  }
+]

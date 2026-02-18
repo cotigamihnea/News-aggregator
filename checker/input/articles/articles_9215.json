@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "f6702e4ac990789d3f72846753414c6a281628b7",
+    "url": "https://www.terra.com.br/esportes/volei/cbv-mantem-ze-roberto-e-bernardinho-no-comando-das-selecoes-de-volei,6529096e4a157503caaa6771d7cd802b2z1h7ouo.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Esporte News Mundo",
+    "published": "2024-09-05T00:00:00Z",
+    "title": "CBV mantém Zé Roberto e Bernardinho no comando das seleções de vôlei",
+    "text": "CBV mantém Zé Roberto e Bernardinho no comando das seleções de vôlei José Roberto Guimarães, Bernardinho e Leandro Brachola continuarão à frente de suas respectivas modalidades. A Confederação Brasileira de Vôlei (CBV) anunciou nesta quinta-feira, por meio de seu site, a manutenção de todos os técnicos das seleções de vôlei profissionais, visando o ciclo olímpico de Los Angeles 2028. Após reuniões que contaram com a presença do presidente Radamés Lattari e do diretor técnico Jorge Bichara, ficou definido que José Roberto Guimarães, Bernardinho e Leandro Brachola continuarão no comando das seleções de vôlei de quadra e de praia. Bernardinho, treinador brasileiro que mais vezes subiu ao pódio olímpico, com seis medalhas conquistadas, continuará à frente da seleção masculina de vôlei de quadra, enquanto José Roberta Guimarães, que tem cinco medalhas, seguirá no comando da seleção feminina. Ambos os treinadores também seguirão exercendo a função de coordenador técnico de suas respectivas modalidades. Este cargo foi criado em 2023 para reforçar a integração entre as seleções adultas e de base. Leandro Brachola, coordenador técnico do vôlei de praia no último ciclo, onde Duda e Ana Patrícia conquistaram o ouro em Paris, também aceitou dar continuidade ao trabalho na Seleção Brasileira.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-06T00:21:47.045+03:00",
+    "updated": "2024-09-13T02:37:38.786+03:00"
+  },
+  {
+    "uuid": "145d055f52fd47eac8ba6b1180a623091e3880f6",
+    "url": "https://www.techspot.com/news/105674-expert-defends-anti-ai-misinformation-law-using-chatbot.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cal Jeffrey",
+    "published": "2024-11-21T21:42:00Z",
+    "title": "Expert defends anti-AI misinformation law using chatbot-written misinformation | TechSpot",
+    "text": "Facepalm: Large language models have a long, steep hill to climb before they prove trustworthy and reliable. For now, they are helpful in starting research, but only fools would trust them enough to write a legal document. A professor specializing in the subject should know better.\nA Stanford professor has an egg on his face after submitting an affidavit to the court in support of a controversial Minnesota law aimed at curbing the use of deepfakes and AI to influence election outcomes. The proposed amendment to existing legislation states that candidates convicted of using deepfakes during an election campaign must forfeit the race and face fines and imprisonment of up to five years and $10,000, depending on the number of previous convictions.\nMinnesota State Representative Mary Franson and YouTuber Christopher Kohls have challenged the law, claiming it violates the First Amendment. During the pretrial proceedings, Minnesota Attorney General Keith Ellison asked the founding director of Stanford's Social Media Lab, Professor Jeff Hancock , to provide an affidavit declaring his support of the law (below).\nExpert Declaration of Professor Jeff Hancock via CourtListener\nThe Minnesota Reformer notes that Hancock drew up a well-worded argument for why the legislation is essential. He cites several sources for his conviction, including a study titled \"The Influence of Deepfake Videos on Political Attitudes and Behavior\" in the Journal of Information Technology & Politics. He also referenced another academic paper called \"Deepfakes and the Illusion of Authenticity: Cognitive Processes Behind Misinformation Acceptance.\" The problem is that neither of these studies exist in the journal mentioned or any other academic resource.\nThe plaintiffs filed a memorandum suggesting that the citations could be AI-generated. The dubious attributions challenge the declaration's validity, even if they aren't from an LLM, so the judge should throw it out.\n// Related Stories Google faces ad monopoly charges in Canada, probe in India over app policies Russia, China, and Iran are escalating online influence efforts ahead of US election, says Microsoft \"The citation bears the hallmarks of being an artificial intelligence 'hallucination,' suggesting that at least the citation was generated by a large language model like ChatGPT,\" the memorandum reads. \"Plaintiffs do not know how this hallucination wound up in Hancock's declaration, but it calls the entire document into question.\"\nClick to enlarge If the citations are AI-generated, it is highly likely that portions, or even the entirety of the affidavit, are, too. In experiments with ChatGPT, TechSpot has found that the LLM will make up quotations that do not exist in an apparent attempt to lend validity to a story. When confronted about it, the chatbot will admit that it made the material up and will revise it with even more dubious content (above).\nIt is conceivable that Hancock, who is undoubtedly a very busy man, wrote a draft declaration and passed it on to an aide to edit, who ran it through an LLM to clean it up, and the model added the references unprompted. However, that doesn't excuse the document from rightful scrutiny and criticism, which is the main problem with LLMs today.\nThe irony that a self-proclaimed expert submitted a document containing AI-generated misinformation to a legal body in support of a law that outlaws that very information is not lost to anyone involved. Ellison and Hancock have not commented on the situation and likely want the embarrassing faux pas to disappear.\nThe more tantalizing question is whether the court will consider this perjury since Hancock signed under the statement, \"I declare under penalty of perjury that everything I have stated in this document is true and correct.\" If people are not held accountable for misusing AI, how can it ever get better?\n4 comments 64 likes and shares",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Science and Technology",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://hlli.org/hlli-and-umlc-sue-minnesota-to-defend-free-speech-rights/",
+      "https://storage.courtlistener.com/recap/gov.uscourts.mnd.220348/gov.uscourts.mnd.220348.30.0.pdf",
+      "https://www.revisor.mn.gov/laws/2024/0/112/laws.2.76.0#laws.2.76.0",
+      "https://sml.stanford.edu/people/jeff-hancock",
+      "https://storage.courtlistener.com/recap/gov.uscourts.mnd.220348/gov.uscourts.mnd.220348.23.0.pdf",
+      "https://www.storage.courtlistener.com/recap/gov.uscourts.mnd.220348/gov.uscourts.mnd.220348.30.0.pdf",
+      "https://www.hlli.org/hlli-and-umlc-sue-minnesota-to-defend-free-speech-rights/",
+      "https://www.sml.stanford.edu/people/jeff-hancock",
+      "https://revisor.mn.gov/laws/2024/0/112/laws.2.76.0#laws.2.76.0",
+      "https://hlli.org/hlli-and-umlc-sue-minnesota-to-defend-free-speech-rights",
+      "https://www.storage.courtlistener.com/recap/gov.uscourts.mnd.220348/gov.uscourts.mnd.220348.23.0.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Keith Ellison",
+          "sentiment": "none"
+        },
+        {
+          "name": "Jeff Hancock",
+          "sentiment": "none"
+        },
+        {
+          "name": "Mary Franson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Stanford",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T00:01:18.693+02:00",
+    "updated": "2024-12-02T12:35:38.155+02:00"
+  },
+  {
+    "uuid": "e91f272b01579d5e9067f66c8a46e8bb58860031",
+    "url": "https://www.newstalkzb.co.nz/podcasts/on-the-front-foot/on-the-front-foot-episode-203-paying-tribute-to-the-career-of-ravi-ashwin",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ZB",
+    "published": "2025-01-23T22:58:00Z",
+    "title": "On The Front Foot: Paying tribute to the career of Ravi Ashwin",
+    "text": "Today on On The Front Foot, Bryan Waddle and Jeremy Coney were joined by former Black Caps coach John Bracewell to pay tribute to the amazing career of Ravi Ashwin.\nHe also offers some thoughts on the challenges faced by New Zealand’s spinners, and former Black Cap Paul Wiseman delivers a positive analysis of our Under-19 players and the successes at the National championships.\nSend your views to [[email protected]](/cdn-cgi/l/email-protection#4c23223824292a3e2322382a2323387e7c0c2b212d2520622f2321)\nLISTEN ABOVE\nTake your Radio, Podcasts and Music with you",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->sports honour",
+      "Sport->cricket",
+      "Sport->sport achievement",
+      "Human Interest->ceremony",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->wellness",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Bryan Waddle",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Jeremy Coney",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Joh",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Ravi Ashwin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:05:11.670+02:00",
+    "updated": "2025-01-24T00:05:11.670+02:00"
+  }
+]

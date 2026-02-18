@@ -1,0 +1,353 @@
+[
+  {
+    "uuid": "d1085dfeb1714665aea11ecfa9f7077d1d3de1f5",
+    "url": "https://www.keloland.com/news/local-news/2nd-player-to-change-plea-in-mitchell-legion-rape-case",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eric Mayer and Anna Peters",
+    "published": "2024-06-13T20:15:00Z",
+    "title": "2nd change of plea scheduled next week in Mitchell Legion rape case",
+    "text": "SIOUX FALLS, S.D. (KELO) – A second former Mitchell Legion baseball player is scheduled to enter a guilty plea, according to court documents. Court records show Peyton Mandel plans to plead guilty to being an accessory to a felony and his rape charges will be dismissed. Mandel is scheduled to appear in court on Monday afternoon in Rapid City. He was one of six Post 18 players charged with rape, following an incident last year at a Rapid City hotel. According to the indictments, the two victims were 16-years-old. Prosecutors say additional players face charges in juvenile court. Mandel’s change of plea development comes just days after 19-year-old Lincoln Bates pleaded guilty to being an accessory to a felony. As part of Bates’ plea agreement, he had agreed to testify in his teammates’ cases. There are no details about Mandel’s change of plea. In April, a judge found Mitchell baseball coach Luke Norden not guilty of a felony and not reporting child abuse. A charge against Mitchell Baseball Association former board member Jeremy Borgan was also dismissed.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.keloland.com%2Fnews%2Flocal-news%2F2nd-player-to-change-plea-in-mitchell-legion-rape-case%2F&#038;title=2nd%20player%20to%20change%20plea%20in%20Mitchell%20Legion%20rape%20case",
+      "https://twitter.com/intent/tweet?text=2nd%20player%20to%20change%20plea%20in%20Mitchell%20Legion%20rape%20case&#038;url=https%3A%2F%2Fwww.keloland.com%2Fnews%2Flocal-news%2F2nd-player-to-change-plea-in-mitchell-legion-rape-case%2F",
+      "https://www.twitter.com/intent/tweet?text=2nd%20player%20to%20change%20plea%20in%20Mitchell%20Legion%20rape%20case&#038;url=https%3A%2F%2Fwww.keloland.com%2Fnews%2Flocal-news%2F2nd-player-to-change-plea-in-mitchell-legion-rape-case%2F",
+      "https://linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.keloland.com%2Fnews%2Flocal-news%2F2nd-player-to-change-plea-in-mitchell-legion-rape-case%2F&#038;title=2nd%20player%20to%20change%20plea%20in%20Mitchell%20Legion%20rape%20case",
+      "https://www.linkedin.com/sharing/share-offsite/",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "eric mayer",
+          "sentiment": "negative"
+        },
+        {
+          "name": "anna peters",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lincoln bates",
+          "sentiment": "none"
+        },
+        {
+          "name": "mitchell",
+          "sentiment": "none"
+        },
+        {
+          "name": "bates",
+          "sentiment": "none"
+        },
+        {
+          "name": "peyton mandel",
+          "sentiment": "none"
+        },
+        {
+          "name": "mandel",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "mitchell legion",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kelo",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "rapid city",
+          "sentiment": "none"
+        },
+        {
+          "name": "s.d.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-14T00:44:55.183+03:00",
+    "updated": "2024-06-14T01:02:05.392+03:00"
+  },
+  {
+    "uuid": "c7d9255862087ed95d7091e4ed0db7310f878edd",
+    "url": "https://vulners.com/ibm/9D50336B2D9F23024FAB2BBF6EC9D6E2A2CF28B669F53DC773CD0050B313D36E",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "IBM",
+    "published": "2024-11-22T01:37:00Z",
+    "title": "Security Bulletin: IBM Technical Support Appliance - possible exposure of sensitive information",
+    "text": "CVSS3\nAttack Vector\nNETWORK\nAttack Complexity\nLOW\nPrivileges Required\nNONE\nUser Interaction\nNONE\nScope\nUNCHANGED\nConfidentiality Impact\nHIGH\nIntegrity Impact\nNONE\nAvailability Impact\nNONE\nCVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N\nAI Score\nConfidence\nLow\nRSA-PSK key exchange occurs when establishing a connection from a web browser to the IBM Technical Support Appliance web UI.\n**CVEID:**CVE-2024-0553 **DESCRIPTION:**GnuTLS could allow a remote attacker to obtain sensitive information. By perform a timing side-channel attack in the RSA-PSK key exchange, a remote attacker could exploit this vulnerability to obtain sensitive information. **CWE:**CWE-203: Observable Discrepancy **CVSS Source:**IBM X-Force **CVSS Base score:**7.5 CVSS Vector:(CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N)\nAffected Product(s) | Version(s) |\n---|---|\nTechnical Support Appliance | All |\nUpdate the IBM Technical Support Appliance to 3.0.1. Refer to the online support documentation on how to perform an update.\nNone\nVendor | Product | Version | CPE |\n---|---|---|---|\n|\nCVSS3\nAttack Vector\nNETWORK\nAttack Complexity\nLOW\nPrivileges Required\nNONE\nUser Interaction\nNONE\nScope\nUNCHANGED\nConfidentiality Impact\nHIGH\nIntegrity Impact\nNONE\nAvailability Impact\nNONE\nCVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N\nAI Score\nConfidence\nLow",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T05:13:38.076+02:00",
+    "updated": "2024-11-22T05:13:38.076+02:00"
+  },
+  {
+    "uuid": "55bb4b94e3d6a7bbc528f47b1c9755225bbf7fa2",
+    "url": "https://www.163.com/dy/article/JUF4EBRG055626SR.html",
+    "ord_in_thread": 0,
+    "author": "网易",
+    "published": "2025-04-30T23:21:00Z",
+    "title": "上海\"鼻涕姐\"出圈了！吃完饭把擦鼻涕的纸扔到辣椒酱罐子里|纸巾|上海市_网易订阅",
+    "text": "上海“鼻涕姐”出圈了！4月29日上海一快餐店来了一位气质优雅的姐姐，点了一碗面吃完后，一边擦鼻涕，一边把玩着这折叠屏手机。最后的一个举动惊呆了屏幕前的网友们，这位丰润犹存的姐姐，竟然把擦了鼻涕的纸巾直接丢进辣椒酱里，而且还把纸巾用力往辣椒酱里塞了几下。\n​这次要为商家老板点赞，对于这种素质低品德差的小姐姐绝不惯着，直接曝光了这位姐姐的恶劣的行为举止。要想人不知除非己莫为，小姐姐放下邪念，回头是岸！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Social Issue->social condition",
+      "Social Issue->ethics",
+      "Social Issue->values",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T05:34:12.063+03:00",
+    "updated": "2025-05-01T02:39:28.000+00:00"
+  },
+  {
+    "uuid": "eb2883ed28fc980310c419c148bfaefb3cc8973a",
+    "url": "https://gop-waysandmeans.house.gov/were-keeping-patients-independent-and-healthier-at-home-for-longer",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Johnny Rubin",
+    "published": "2024-03-14T21:10:00Z",
+    "title": "“We're keeping patients independent and healthier at home for longer.” - House Committee on Ways and Means",
+    "text": "“We’re keeping patients independent and healthier at home for longer.” Six Key Moments from Ways and Means Hearing on Enhancing Access to Care at Home in Rural and Underserved Communities WASHINGTON, D.C. – At a Ways and Means hearing on the benefits of health care at home, Medicare patients who receive at-home care shared their stories of how both their health and quality of life have improved. Under the currently temporary Hospital at Home and telehealth flexibilities granted by Congress, millions of patients are now benefitting from the convenience of getting health care in their home. Because rural, remote, and underserved areas largely lack adequate health care services, Americans living in these communities can greatly benefit from expanded health care at home. The witnesses who provide at-home, virtual care testified to the difference it has made for their patients – fewer emergency room and inpatient visits, and improved vital signs, to name a few. For diseases and illnesses where at-home care is possible, witnesses drew the connection between quality in-person and at-home care: in-person care is vital to setting the right treatments that patients can safely administer at home. As the Ways and Means Committee explores ways to preserve and improve at-home care, witnesses urged the Committee to look at reforms that give patients and doctors more certainty, embrace the potential of new technology to offer the same level of care at lower prices, and consider guardrails that improve quality. Hands-On Discussion Showcasing New At-Home Technologies Before the hearing, the Committee held a hands-on discussion with five entrepreneurs highlighting new technologies that are improving health care for rural and underserved Americans. Members heard about and saw firsthand cutting-edge technology that is improving patient health at a lower cost to patients, providers, and taxpayers. “I Felt Better. I Had More Energy”: Kidney Patient Shares Her At-Home Care Story Bell Maddux is a rural Pennsylvania working mother who testified about the importance of at-home care for her health and ability to take care of her family. In her [moving opening statement](https://twitter.com/WaysandMeansGOP/status/1767657983465410606), Mrs. Maddux shared the story of transitioning from in-center dialysis that required hours of travel and that left her tired to at-home dialysis that better fits into her busy life. Ways and Means Committee Chairman Jason Smith (MO-08) asked Ms. Maddux to share how the at-home care impacted her quality of life. [Chairman Smith: “Your personal story of living with ESRD [end-stage renal disease] and experience with home dialysis speaks to the importance of expanding care at home options, particularly for kidney patients in rural communities who are more likely to utilize and benefit from home dialysis. What has been the impact of this option on your quality of life and your role as a working mother? What, if any, improvements would you like to see to enhance the quality and convenience of care at home?”] Bell Maddux, ESRD patient: “In terms of the impact to my quality of life, from a physical perspective, the frequency of your treatments or your dialysis treatments have a direct correlation to how you feel. I noticed immediately when I started doing that first week of home dialysis training, that having the consecutive treatments, the impact on how it is on your heart and how it hits your system: it’s just easier. I felt better. I had more energy right away.” A Hospital At Home Story: “The comfort of home and the comfort of friends and family that made a huge difference, and there’s just nothing like it:” Roy Underhill is a rural North Carolina patient who was able to receive treatment for sepsis at his home, instead of staying in a hospital. In his opening statement, and in response to Ways and Means Committee Chairman Jason Smith (MO-08), Mr. Underhill shared the difference that treatment at home made for his recovery. At the end of this year, the Medicare waiver that allowed Mr. Underhill to receive care at home expires. [Chairman Smith: “Mr. Underhill, you’ve received hospital level care both in facilities and now in your home through this new program. In your testimony, you spoke of the benefits of recovering from your serious condition at home – better sleep, home cooking. Please describe the impact receiving Hospital at Home had on your family and friends to see you heal in your own home.”] Roy Underhill, Hospital at Home patient: “Because of COVID being at its peak, then they could not have visited me in the hospital at all, so I would have been on my own. If you have tried to sleep in a hospital recently, you know the constant beeping that you can’t figure out what it’s for. I didn’t have that at home. I also had my own bed clothes, instead of the disturbing garment that you’re issued. All around just having my own books and being able to get a glass of water and make it to the refrigerator made such a difference. I also just felt safer and less a burden. Nobody wants to be a burden on folks. Being at home I was on my own and feeling better every day. So just that safety, the comfort of home and the comfort of friends and family that made a huge difference and there’s just nothing like it.” Health At Home Works For Remote Areas of the Country For patients who are forced to drive hours for a single appointment, at-home care can be a good supplement to initial care at a doctor’s office or hospital. Health Subcommittee Chairman Vern Buchanan (FL-16) highlighted that at-home care benefits patients regardless of geography, but patients who have to travel greater distances will save more time getting critical care. [Rep. Buchanan: “Being in Florida, many of our seniors are an hour away, half hour away, two hours away. But when you think about the mountainous regions of the country, a state like Colorado, it’s bigger than Florida. How’s that working out in terms of people having to move back and forth for a three-hour drive initially? How does that work? This is clearly a road that we’re going to, I think, end up going down in a very aggressive way.”] Dr. Nathan Starr, at-home care provider: “It depends on the situation. Many of our interactions we can do fully remotely, and we can have a patient seen by a specialist and they can get the data they need remotely to take great care of the patient; I think equivalent care of that patient. Other situations, they’ll come in once. Tele-oncology is a great example. They’ll come to the big center to get their biopsy to get the initial diagnosis, everything is set up, and then we will do all their [remaining] treatment in their home community.” Medicare Could Harness Technology To Expand Home Health Care To Millions, Save Billions Millions of Medicare patients are able to access at-home health services because of telehealth and Hospital at Home flexibilities. If Congress extended these flexibilities beyond 2024, Medicare patients could benefit from technological advancements. Rep. David Schweikert (AZ-01) highlighted the potential health and economic benefits that could occur not just for Medicare patients, but the Medicare system as a whole. [Rep. Schweikert: “You have this platform. What does it look like five years from now, if you could run amok and adopt technology? How much healthier, wealthier would our society be?”] Chris Altcheck, remote patient monitoring provider: “I think the important policy consideration is where Medicare goes, so goes the country. So the decisions you make here are incredibly important…There’s easily 30 million Medicare patients who struggle from hypertension, out-of-control diabetes, and heart failure, and the data shows consistently that we can get patients’ blood pressure under control in very meaningful ways. We can double the percentage of patients who get to that magic 130/80 blood pressure number, and we can do it for 10 million patients likely in the U.S. In heart failure, there are 7 million patients with heart failure in the U.S. – number one cause of hospitalizations for Medicare patients. We could likely reduce those hospitalizations by upwards of 20 to 30 percent, which is tens of billions of dollars.” Remote Patient Monitoring Keeps Patients Out of the Emergency Room Nearly 50 million Americans use remote patient monitoring (RPM), allowing health-care providers to receive real-time updates on vital signs key to maintaining patient health. Patients can take care of their health without leaving their home, while providers have accurate data to identify and preempt an emerging health problem before it escalates to a potential emergency room visit. Rep. Kevin Hern (OK-01) asked a RPM provider how his business has been able to lower costs while giving patients more freedom and independence. [Rep. Hern: “If you could share with us, what kind of savings we could see with these services and some of the successes you’ve had in ambulatory care, and things of that nature.”] Chris Altcheck, remote patient monitoring provider: “Our data shows that we’re able to reduce the total cost of care, inclusive of the additional costs for remote monitoring, by 23 percent, primarily driven by lower ED [emergency department] utilization, lower inpatient admissions, lower skilled nursing facility…Effectively, we’re keeping patients independent and healthier at home for longer which is ultimately our goal.” “Had to Learn on the Fly”: Medicare Patients Jump Through Hoops To Get Critical Care End-stage renal disease patients commonly use Medicare benefits to treat this chronic disease. However, the current process to get those benefits is a bureaucratic nightmare. As one ESRD patient shared with Rep. Carol Miller (WV-01), she had to navigate receiving those benefits alone with little to no help. [Rep. Miller: “I’m working on a bill with Congressman Blumenauer that aims to increase access to home dialysis by providing trained professional staff assistants to patients in their home. The bill will ensure that all patients are given the education and the support that they need to utilize home dialysis if they so choose. I’m glad to hear that staff training helped you to be able to dialyze at home, and I’m hopeful that my bill will help provide coverage for these services to more ESRD patients. Mrs. Maddux, share what your experience was like navigating Medicare coverage for your training and dialysis at home.”] Bell Maddux, ESRD patient: “It was definitely a huge learning experience for me and a lot that I had to learn on the fly and through trial and error. I learned that Medicare is required for people who are on dialysis for a period of time. Even though I maintain my health care coverage and my main insurance coverage through my employer, I was still required to have Medicare.” “We Can Do the Exact Same Thing”: Telehealth Gives Patients Freedom and Control Over Care Telehealth allows patients to stay located in their communities surrounded by friends and family, and as one witness testified to Rep. Blake Moore (UT-01), in many cases, patients often receive similar quality care as in-person care. In fact, results show that 91 percent of patients have a favorable experience and 78 percent would complete a future appointment using telehealth. [Rep. Moore: “Can you discuss what those programs look like for patients as well as how you balance in person versus virtual care?”] Dr. Nathan Starr, at-home care provider: “The feedback we’ve gotten from patients has been really positive. Having done a lot of virtual care myself, it is really fun to be able to tell a patient, ‘If we brought you up to our center in Salt Lake City, I would take care of you. I am telling you, we can do the exact same things we would do down there. You’re going to get the exact same care.’ That is incredibly reassuring. The other thing we see all the time is many of these patients who live in rural areas don’t want to leave. We’ve heard many times, ‘I would rather die than go up there and have to deal with all that.’ The fact that we can care for them where they are in place is hugely powerful.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Politics"
+    ],
+    "external_links": [
+      "https://twitter.com/WaysandMeansGOP/status/1767657983465410606),",
+      "https://www.twitter.com/WaysandMeansGOP/status/1767657983465410606),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "house committee on ways and means",
+          "sentiment": "negative"
+        },
+        {
+          "name": "congress",
+          "sentiment": "none"
+        },
+        {
+          "name": "medicare",
+          "sentiment": "none"
+        },
+        {
+          "name": "ways and means",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "washington",
+          "sentiment": "none"
+        },
+        {
+          "name": "d.c.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-15T01:03:35.750+02:00",
+    "updated": "2024-03-15T01:03:35.750+02:00"
+  },
+  {
+    "uuid": "9c511abdafff64cd177282e5d4507f806ca2f723",
+    "url": "https://www.panamaamerica.com.pa/provincias/heroe-de-guerra-de-103-anos-recibe-medallas-63-anos-despues-en-su-segunda-patria-panama",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción \\/ provincias.pa@epasa.com \\/ @panamaamerica",
+    "published": "2024-12-26T18:30:00Z",
+    "title": "Héroe de guerra de 103 años, recibe medallas 63 años después en su segunda patria, Panamá",
+    "text": "Panamá\nHéroe de guerra de 103 años, recibe medallas 63 años después en su segunda patria, Panamá\n- Redacción /\n[[email protected]](/cdn-cgi/l/email-protection)/ @panamaamerica\n: El Veterano Sargento Maestre José A. León, reside en Arraiján, provincia de Panamá Oeste, sirvió durante la Segunda Guerra Mundial y la Guerra de Korea.\nJosé A. León sirvió durante la Segunda Guerra Mundial y la Guerra de Korea ; desde 1941, al momento de su retiro en 1961, con 3 hijos nacidos en Colón, Panamá, es uno de los Veteranos más longevos con 103 anos de edad, viviendo fuera de los Estados Unidos en Panamá, y uno de los más longevos del mundo.\nUnos 131 Veteranos de la Segunda guerra Mundial mueren cada día, según estadísticas de la Secretaría de Veteranos de Estados Unidos.\nSegún el Sargento Retirado de Plana Mayor, Esteban Blis , veterano de Guerra de Estados Unidos y presidente de la Fundacion \"You Served, We Care Foundation\" (Si serviste, nosotros le Cuidamos), de los más de 5,000 Veteranos americanos que viven en Panamá, según el censo que se hizo en 2016, cada día Veteranos americanos se mudan fuera de USA, y Panamá está como el país número1 para retirados por sus beneficios, ya que es un país muy seguro.\nEl veterano José A. León, nació en Cayey, Puerto Rico, en el seno de una familia muy pobre el 9 de septiembre de 1921, se enlistó en el Ejército de Estados Unidos en Fort Buchanan, Puerto Rico en en 1941, como mecánico y se retiró en agosto de 1961 como Sargento Maestre o E-7 en Fort Buchanan, Puerto Rico, después de más de 20 años de servicio activo.\nSirvió durante casi 9 años de servicio al Ejército de los Estados Unidos en Panamá. Después de retirarse del servicio activo, el Sargento Mayor León , sin saber casi nada de inglés, se enlistó en el Ejército de los Estados Unidos y sirvió en Alemania, Panamá, África, Arizona, Nueva York y muchos lugares, los cuales fueron clasificados.\nEl pasado lunes 23 de diciembre, en un hotel de la ciudad de Panamá, el Veterano de Guerra Esteban Blis, en una ceremonia con su fundación de Veteranos, con el apoyo del Dr Rafel Melgar, Humberto Butcher y el orador el Sargento mayor de Comando de nivel de 4 estrellas, Steven Payton y un grupo de veteranos, honraron por primera vez en en la historia, al más viejo Veterano fuera de Estados Unidos de 103 anos, quien sirvió en la Segunda Guerra Mundial .\nEl Sargento José A. León, quien reside en el distrito de Arraiján, provincia de Panamá Oeste. también fue honrado en el Palacio Presidencial de Panamá , recibido por el Ministro de Seguridad Pública, Frank A. Ábrego y el Director del SPI, Comisionado Óscar Beitia, el cual le otorgó la medalla de Servicio distinguido del SPI.\nEl Sargento León es el primer veterano de USA que recibe todas sus condecoraciones enviadas por el Departamento de la Armada de Estados Unidos con las respectivas órdenes, 63 años después de su retiro en 1961.\nEntre las distinciones recibidas por el Sargento León están: Medalla de Buena Conducta, 5.º premio; Medalla de Servicio de Defensa Estadounidense con estrella de Bronce y Medalla de Victoria de la Segunda Guerra Mundial.\nTambién se le otorgaron la Medalla de Campaña Estadounidense, Medalla de Carabina, Medalla de Mecánico y Medalla de Servicio Honorable.\n¡Mira lo que tiene nuestro canal de YouTube!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Human Interest->award and prize",
+      "Politics->human rights"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "José A. León",
+          "sentiment": "none"
+        },
+        {
+          "name": "Esteban Blis",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Sargento Retirado de Plana Mayor",
+          "sentiment": "none"
+        },
+        {
+          "name": "Fundacion",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Arraiján",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:49:57.894+02:00",
+    "updated": "2024-12-27T00:49:57.894+02:00"
+  },
+  {
+    "uuid": "3dbf9e463b30f00968e5d585d74c9bbbe42930e4",
+    "url": "https://business.am-news.com/am-news/article/newsdirect-2024-11-15-decentralization-and-its-impact-on-user-trust-in-defi",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News Direct",
+    "published": "2024-11-15T14:40:00Z",
+    "title": "Decentralization and Its Impact on User Trust in DeFi | News | postregister.com",
+    "text": "--News Direct--\nThe FTX debacle in 2023 exacerbated an already deteriorating bear run in 2023, scaring off a large contingent of the market while showcasing the risks associated with asset decentralization. Though cryptocurrencies are inherently decentralized by nature, this is a double-edged sword, reflecting the challenge of ensuring security without centralized oversight.\nNovel blockchains such as Toncoin aim to mitigate these risk factors and juggle security with decentralization in an effort to solve the crypto “trilemma.” While some present more viable solutions than others, the Elluminex team believes that Toncoin’s fundamentals and untapped potential make it the ideal foundation for an all-encompassing DeFi platform designed to foster user trust.\nToncoin: The Most Secure Layer-1 On The Market A major focus of Toncoin is balancing the principles of decentralization with robust security measures to enhance user trust within the DeFi ecosystem. Toncoin’s architecture is designed to mitigate these challenges through innovative approaches that also align with the core tenets of decentralized finance.\nUnlike alternative blockchains, Toncoin remains relatively untapped despite its rapidly growing infrastructure and capabilities. While Ethereum has established platforms like Uniswap and Binance Coin powers PancakeSwap, the TON blockchain is still in the infancy stage of DeFi development.\nElluminex is set to capitalize on this opportunity by building a comprehensive DeFi hub on TON, offering numerous features such as a DEX, staking, and cross-chain capabilities. About to become one of the first movers on this emerging network, Elluminex aims to leverage TON’s speed and scalability to attract new users in droves. Most importantly, Elluminex will utilize Toncoin in a way that maintains decentralization while fostering user trust in the space.\nHow Elluminex Utilizes Toncoin’s Capabilities To Foster User Trust Decentralization is at the forefront of Elluminex’s vision as it will leverage the TON blockchain to provide a secure all-in-one DeFi platform. Traditional finance relies on intermediaries like banks to manage transactions, which creates trust but isn’t necessarily foolproof and could be problematic. By removing intermediaries, Elluminex will give users direct control over their assets, ensuring transparency while building trust.\nA key feature of Elluminex is its emphasis on self-custody, and users will maintain control over their private keys and assets on its native DEX. Unlike centralized exchanges where funds are managed by an outside party, Elluminex’s decentralized approach empowers users to manage their own crypto holdings. This autonomy aligns with the principle of “not your keys, not your crypto,” appealing to those who value independence from those who may not have the best intentions or lack trustability.\nIn addition, Elluminex will integrate various privacy-focused technologies supported by TON. By avoiding traditional identity verification processes like KYC’s that store sensitive data on centralized databases, Elluminex will guarantee 100% security pertaining to user information. This emphasis on privacy will provide peace of mind, enhancing trust among users while fostering a loyal user base.\nBut that isn’t all. Elluminex will utilize the TON blockchain in various other ways to propagate security, such as letting users verify publicly recorded transactions for full transparency. With automated smart contracts, Elluminex will ensure that all future transactions will be tamper-proof and don’t require third-party oversight, building user trust and reliability.\nIt’s also important to note that Elluminex will focus on educating users about security and decentralization to improve DeFi literacy. By providing essential knowledge on managing assets safely and understanding the risks and benefits of a decentralized system, Elluminex will empower users to make informed decisions and traverse the DeFi space with confidence.\nFor more information about Elluminex visit the links below:\nWebsite: https://elluminex.com/\nTwitter/X: https://x.com/elluminex\nTelegram: https://t.me/Elluminex\nElluminex aims to be the first comprehensive DeFi hub on the TON blockchain, designed to revolutionize the DeFi landscape. Our mission is to provide a seamless and user-friendly platform that empowers users to trade, stake, farm, bridge, and track their portfolios with ease.\nBy leveraging the power of the TON blockchain, Elluminex seeks to offer unparalleled speed, security, and scalability, bringing DeFi to a network with over 950 million active users and over 1 billion recorded transactions.\nCryptocurrency markets are highly volatile, and regulation varies by jurisdiction. If you choose to engage with digital assets, be aware of the potential risks and refer to our Disclaimer for further details. By proceeding, you confirm that you are not a citizen or resident of the United States, United Kingdom, or any country where the purchase of Elluminex or $ELX tokens is restricted by law.\nContact Details Andy Green\nsupport@elluminex.com\nCompany Website https://elluminex.com/\nView source version on newsdirect.com: https://newsdirect.com/news/decentralization-and-its-impact-on-user-trust-in-defi-282847188",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://public.newsdirect.com/282847188/rEefqTUS.jpeg",
+      "https://tracking.newsrpm.com/pixel?slug=newsdirect-2024-11-15-decentralization-and-its-impact-on-user-trust-in-defi",
+      "https://newsdirect.com/news/decentralization-and-its-impact-on-user-trust-in-defi-282847188",
+      "https://elluminex.com/",
+      "https://t.me/Elluminex",
+      "https://x.com/elluminex",
+      "https://www.x.com/elluminex",
+      "https://www.t.me/Elluminex",
+      "https://www.public.newsdirect.com/282847188/rEefqTUS.jpeg",
+      "https://elluminex.com",
+      "https://www.tracking.newsrpm.com/pixel?slug=newsdirect-2024-11-15-decentralization-and-its-impact-on-user-trust-in-defi",
+      "https://www.elluminex.com/",
+      "https://www.newsdirect.com/news/decentralization-and-its-impact-on-user-trust-in-defi-282847188",
+      "https://tracking.newsrpm.com/pixel"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "3dbf9e463b30f00968e5d585d74c9bbbe42930e4",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-15T16:55:00.739+02:00",
+    "updated": "2024-11-15T16:55:00.739+02:00"
+  }
+]

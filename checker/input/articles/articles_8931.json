@@ -1,0 +1,112 @@
+[
+  {
+    "uuid": "235b203994dbefe0a5049a290152e215db41330a",
+    "url": "https://flipboard.com/video/ktbc/9f639fe655",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "KTBC",
+    "published": "2024-05-09T00:00:00Z",
+    "title": "Austin weather: Tornado warning for counties | Flipboard",
+    "text": "Remain weather aware and stay safe! The National Weather Service has issued tornado warnings for parts of our area. Scott Fisher has more. More stories from [FOX 7 Austin](/@fox7austin) Join the flipboard community Discover, collect, and share stories for all your interests [Sign up](/signup) More stories from [Weather](/topic/weather) - Storyboard Americans' biggest fears when they leave the safety of their own home [Houston is blanketed in a smoky haze right now. This is why](/topic/weather/houston-is-blanketed-in-a-smoky-haze-right-now-this-is-why/a-3kKQjKhPRoKAzm8yTnnN4A%3Aa%3A2578908543-e9a273f650%2Fchron.com) The haze paired with humidity in the area is proving to be a miserable combination for residents. Once the rain stopped in the Houston area, a thick, … [Giant sunspot could bring northern lights to Massachusetts](/topic/weather/giant-sunspot-could-bring-northern-lights-to-massachusetts/a-97hw-zVlRmiXMZLYCuw_Mg%3Aa%3A2867092696-118377685d%2Fcbsnews.com) BOSTON - For the first time since 2005, our planet is now under a \"severe geomagnetic storm watch.\" This may sound awfully scary, but in actuality …",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "austin",
+          "sentiment": "negative"
+        },
+        {
+          "name": "scott fisher",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "national weather service",
+          "sentiment": "negative"
+        },
+        {
+          "name": "la niña",
+          "sentiment": "none"
+        },
+        {
+          "name": "el niño",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "la niña",
+          "sentiment": "none"
+        },
+        {
+          "name": "massachusetts",
+          "sentiment": "none"
+        },
+        {
+          "name": "austin",
+          "sentiment": "none"
+        },
+        {
+          "name": "atlantic",
+          "sentiment": "none"
+        },
+        {
+          "name": "boston",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T02:43:02.253+03:00",
+    "updated": "2024-05-10T03:02:29.863+03:00"
+  },
+  {
+    "uuid": "f8a633a8ea6ece1142393a85c02459586f545250",
+    "url": "https://www.itv.com/news/2024-11-01/how-spains-floods-were-driven-by-the-mediterraneans-rising-temperatures",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Martin Stew",
+    "published": "2024-11-01T14:28:00Z",
+    "title": "How Spain's deadly floods were driven by the Mediterranean's rising temperatures | ITV News",
+    "text": "ITV News Science Correspondent Martin Stew explains why extreme weather is becoming more frequent The heavy rainfall which has devastated southern Spain was \"about 12% heavier and twice as likely\" as a result of climate change. That’s according to World Weather Attribution which has compared climate conditions now to those of the industrial revolution. The question is why?Weather is driven by differences in temperature. The bigger the difference the more energy weather systems have and the higher the chance they become extreme.What we’re seeing in Spain is called Depresion Aislada en Niveles Altos, also known as DANA (Spanish acronym for high-altitude isolated depression). It’s a phenomenon where cold air from the North Atlantic meets warm humid air from the Mediterranean forcing the hot air to rise quickly and form huge rain clouds that can then get stuck dumping enormous amounts of rain on the land below.This often happens in the autumn but in recent years has become more extreme. To understand why we need to look at the geography of the Mediterranean. Professor of climate change at the University of Reading, Richard Allan, tells ITV News how a drastic cutting of greenhouse gas emissions is needed to adapt to an increasingly 'dangerous world' Because the entrance at the Strait of Gibraltar is so narrow, not much water mixes with the Atlantic, so the Mediterranean is more like a giant Lake than a sea.Over the past 40 years climate change has made Europe the world’s fastest-warming continent - the Mediterranean has warmed twice as fast as the world’s oceans.In August we saw its hottest-ever surface temperature recorded, 28.47C.Even today surface temperatures are still a degree above average. With no way to cool other than through evaporation - the air is more humid because it’s holding more evaporated water.In the words of one meteorologist, the result is the Mediterranean is acting like a \"petrol can\" - the water vapour feeding the devastating record-breaking rain.Want a quick and expert briefing on the biggest news stories? Listen to our latest podcasts to find out What You Need To Know...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Weather",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T17:20:23.333+02:00",
+    "updated": "2024-11-01T20:39:56.487+02:00"
+  }
+]

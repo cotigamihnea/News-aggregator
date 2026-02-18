@@ -1,0 +1,510 @@
+[
+  {
+    "uuid": "9b7d882bd7ab3763726e5fda68b908f596ff2214",
+    "url": "https://www.pymnts.com/cpi-posts/safran-poised-to-secure-eu-antitrust-approval-for-collins-aerospace-deal",
+    "ord_in_thread": 0,
+    "author": "CPI",
+    "published": "2025-04-02T21:03:00Z",
+    "title": "Safran Poised to Secure EU Antitrust Approval for Collins Aerospace Deal",
+    "text": "French aerospace giant Safran is on track to receive conditional approval from European Union antitrust regulators for its proposed $1.8 billion acquisition of Collins Aerospace’s flight controls business, according to sources familiar with the matter.\nPer Reuters, the European Commission’s approval hinges on Safran’s agreement to divest its electromechanical actuation business in North America. The decision aims to address potential competition concerns in the sector. The Commission is expected to conclude its preliminary review by Friday.\nSafran, which first announced the deal in July 2023, has stated that the acquisition is a strategic move to position itself for the next generation of increasingly computerized aircraft. This would mark the company’s largest acquisition since its 2018 purchase of seat manufacturer Zodiac.\nRelated: UK Authority Probes Safran-Collins Aerospace Deal\nTo satisfy regulatory requirements, Safran agreed in December to sell its electromechanical actuation unit—including its intellectual property, operational assets, workforce, and customer contracts related to horizontal stabilizer trim actuation systems—to U.S. aircraft parts supplier Woodward.\nAccording to Reuters, actuators play a critical role in aircraft operations by converting electronic cockpit instructions into physical movements, such as adjusting flight surfaces to enhance lift during landing. The European Commission and Safran have both declined to comment on the pending approval.\nSource: Reuters",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->mergers and acquisitions",
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->business governance",
+      "Science and Technology->aerospace engineering",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.reuters.com/business/aerospace-defense/eu-set-clear-safrans-18-billion-collins-deal-sources-say-2025-04-02/",
+      "https://reuters.com/business/aerospace-defense/eu-set-clear-safrans-18-billion-collins-deal-sources-say-2025-04-02/",
+      "https://www.reuters.com/business/aerospace-defense/eu-set-clear-safrans-18-billion-collins-deal-sources-say-2025-04-02"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Woodward",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "North America",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "UK",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "U.S.",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "European Union",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Collins Aerospace’s",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Reuters",
+          "sentiment": "neutral",
+          "tickers": [
+            {
+              "ticker": "TRI",
+              "exchange": "NASDAQ"
+            }
+          ]
+        },
+        {
+          "name": "the European Commission’s",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Zodiac",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Safran-Collins Aerospace",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "actuators",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T00:29:30.167+03:00",
+    "updated": "2025-04-03T00:29:30.167+03:00"
+  },
+  {
+    "uuid": "658035727e5418d5803e4ee4d57f7e191f8feec3",
+    "url": "https://www.westfalen-blatt.de/owl/kreis-hoexter/beverungen/80-jahre-kita-tietelsen-kindergarten-geburtstag-fest-jubilaeum-3320750",
+    "ord_in_thread": 0,
+    "author": "author0",
+    "published": "2025-06-12T08:00:00Z",
+    "title": "Beverungens erster Kindergarten nach Kriegsende feiert 80. Geburtstag",
+    "text": "Großes Fest in Tietelsen\nBeverungens erster Kindergarten nach Kriegsende feiert 80. Geburtstag\nBeverungen-Tietelsen\nFranziskusschwestern gründeten gleich nach dem Zweiten Weltkrieg, also vor genau achtzig Jahren, den ersten Kindergarten in Beverungen-Tietelsen. Das wird jetzt gebührend gefeiert.\nIn den Wirren der letzten Kriegstage richteten Franziskusschwestern in Tietelsen den Blick nach vorn: Im Mai 1945 gründeten die Ordensschwestern in dem kleinen Beverunger Örtchen den ersten Kindergarten, damals noch provisorisch im Pastorat.\nTop informiert mit\nBester Deal",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Education",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Human Interest->birthday",
+      "Education->students",
+      "Education->school",
+      "Education->early childhood education",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->club and association"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Tietelsen\nBeverungens",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T11:30:59.362+03:00",
+    "updated": "2025-06-12T08:38:45.000+00:00"
+  },
+  {
+    "uuid": "93af138b0bb4701b9dea27eda71e75b83b247a2c",
+    "url": "https://www.adn.com/opinions/2023/12/28/opinion-banning-russian-seafood-imports-is-good-for-alaska/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@adndotcom",
+    "published": "2023-12-29T00:08:00Z",
+    "title": "OPINION: Banning Russian seafood imports is good for Alaska",
+    "text": "In Alaska, it is well known that “seafood sustains us.” What isn’t as well known is that Alaska seafood also sustains the rest of the United States and the world. Alaska produces nearly two-thirds of our nation’s wild-caught seafood and supplies around 100 countries with seafood worldwide. Supporting our fishing industry is a no-brainer. So, when the seafood industry in Alaska has been under attack for almost a decade by Russia’s lack of sustainable fishing practices and artificially low prices, it is in our best interest as a nation to protect it by enacting policies that penalize the purchase of Russian-origin seafood products and rescinding any certifications issued to Russian fisheries by the Marine Stewardship Council. The first strike against Alaska’s seafood industry came with the Russian embargo in 2014, which expelled Alaska from the Russian market. This left a big hole in our market at the time, but we as Alaskans are resilient and were able to fill that gap with new markets and expand our reach. More recently, the war in Ukraine inflicted another wound and has impaired Alaska’s ability to compete fairly with Russian seafood products on the global market. As the U.S. dollar remains strong, the Russian ruble has plummeted, enabling Russia to sell its seafood at historically low market values and fund its senseless war. This has led to depressed commodity prices and lower values for Alaska seafood. For example, the price of Alaska salmon ex-vessel dropped by more than $300 million in 2023. In March of 2022, the U.S. addressed this problem with a ban on direct imports of Russian seafood; however, that ban was proven to not be enough. Despite our best efforts, Russia continued to profit from the U.S. market through indirect imports of Russian-origin seafood products. In other words, seafood sourced from Russia and processed elsewhere, like China, continued infiltrating the global marketplace. In 2022, the U.S. allowed approximately 70,000 metric tons of Russian-origin cod, salmon and pollock to be imported from China, a total value of $356 million. The European Union recognized this problem and removed fishery products originating in Russia from duty-free treatment or “most-favoured nation” treatment. Now, after years of advocacy from Gov. Mike Dunleavy and Alaska’s congressional delegation, by presidential executive order, Russian seafood will be banned from entering the U.S. — regardless of where it is processed. This was the right decision, as continuing to allow the purchase of Russian-origin seafood not only harms Alaska’s seafood industry but also violates responsible environmental and social governance practices. On a scale from 1-5, one being the best-performing and five being the worst, Russia received a 3.20 in the 2023 Illegal, Unreported, and Unregulated (IUU) Fishing Risk Index report. This annual report, published by Poseidon Aquatic Resource Management Limited and the Global Initiative Against Transnational Organized Crime, measures the degree to which countries are exposed to and effectively combat IUU fishing in their territories. The only other country that performed worse than Russia was China, with a score of 3.69. By continuing to certify Russian and Chinese fisheries, the Marine Stewardship Council (MSC) has failed in its duty to “end overfishing and ensure seafood is fished sustainably.” The MSC should reevaluate the criteria used to certify fisheries and stop allowing IUU fisheries with high scores to be certified under its program. These certifications are now misleading to consumers and perpetuate the current skewed playing field in Russia’s favor. Eliminating the import of Russian seafood, by all means, shows the world that the U.S. will not tolerate unjust practices that jeopardize the sustainability of our natural resources and economic prosperity. Aside from these sanctions, it is also time to end MSC certifications for Russian fisheries. Alaska’s seafood sustains Alaska, our nation, and the world. Let’s protect it. Julie Sande is the commissioner of the Alaska Department of Commerce, Community and Economic Development. Doug Vincent-Lang is the commissioner of the Alaska Department of Fish and Game. The views expressed here are the writer’s and are not necessarily endorsed by the Anchorage Daily News, which welcomes a broad range of viewpoints. To submit a piece for consideration, email . Send submissions shorter than 200 words to or [click here to submit via any web browser](http://www.adn.com/submit-letter/). Read our full guidelines for letters and commentaries [here](https://www.adn.com/opinions/2018/07/16/guidelines-for-letters-to-the-editor-and-opinion-columns/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ala",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "marine stewardship council",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "alaska",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "russia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:14:00.558+02:00",
+    "updated": "2023-12-29T02:14:00.558+02:00"
+  },
+  {
+    "uuid": "9e75db1a85b5c947df5db86ecbbad5f7f2bfd65a",
+    "url": "https://scnow.com/opinion/column/don-kusler-democrats-dominated-2023-with-victories-for-reproductive-rights-labor/article_da305759-3d67-5213-8c11-1353f94dfa48.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Guest",
+    "published": "2023-12-31T01:22:00Z",
+    "title": "Don Kusler: Democrats dominated 2023 with victories for reproductive rights, labor",
+    "text": "2023 was a good year for Democrats and their issues at the ballot box.\nVirginia put MAGA-allied politicians with higher aspirations, such as Gov. Glenn Youngkin, on notice. Democrats maintained control of the Virginia Senate and regained control of its House control, halting Youngkin's agenda for his final two years in office.\nThat's a victory for Democrats.\nKentucky Gov. Andy Beshear won an unlikely reelection. This provided Democrats with an interesting snapshot into how to govern and campaign in a progressive way yet connect with a challenging electorate.\nThat's another victory for the left.\nTwo ballot initiative in Ohio favored Democratic positions. The first was a crass attempt by Ohio Republicans to head off a November ballot measure protecting a woman’s right to choose. By conducting a special election aimed at requiring a supermajority for public ballot measures to become law, this measure challenged both women’s rights and our democracy. The vote wasn’t close in what has become a deeply Republican state.\nPeople are also reading…\nThen on the November ballot, a measure protecting reproductive choice passed by a similar margin.\nThese electoral victories make a difference.\nJust look at two Midwestern states that used Democratic majorities paired with Democratic governors to gain a range of legislative victories. In Michigan and Minnesota, Democratic control brought gun safety laws, protections for reproductive rights and LGBTQ+ communities, climate-friendly measures and more ability of workers to organize.\nLabor, a traditional Democratic bloc, repeatedly made gains this past year by standing up, speaking out and winning favorable contracts.\nWorkers already had notched victories at Amazon and Starbucks in 2022. This trend continued in 2023 with the headline-grabbing strikes for writers in the entertainment industry and auto workers.\nSometimes victory comes more in the form of problems for your opponents. The year 2023 proved that point for Democrats with a stack of woes for Republicans.\nIt was hard not to see that the Republican Party remains wrapped tightly around the little finger of dictator-in-waiting Donald Trump. His legal woes -- business wrongdoing in New York, the careless handling of sensitive documents, and insurrectionist behavior on a national scale -- contrast nicely for Democrats against their governing and electoral successes.\nThe Republican-controlled House of Representatives provides another contrast with its chaotic and dysfunctional running of the people’s business.\nLeadership elections seems pretty straightforward. The party with the most members elects a speaker and goes about its work. Not so with the 2023 Republican House Caucus. It took four days and 15 votes to get Rep. Kevin McCarthy, R-Calif., as their speaker. Then came a series of bizarre and fruitless political projects including committee hearings, impeachment inquiries and bills with no meaningful results for the people.\nThe one exception was a deal McCarthy finally made on the most basic of functions -- funding the government. But that promptly cost him his job.\nDid the chaos subside? Well, no. More speaker votes and infighting followed over the next three weeks until Rep. Mike Johnson, R-La., was finally elected speaker.\nThe sum of this very public display of broken and unfit leadership for Republicans can be seen as nothing other than a victory for Democrats.\nSo a quick review of the naughty vs. nice list shows Republicans with a 2023 record filled with dysfunction, contrasting nicely with the Democrats' roster of electoral, legislative and ally victories.\nYes, 2023 was a good year for Democrats.\nKusler is the national director of Americans for Democratic Action:\nadaction.org. He wrote this for InsideSources.com.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Labor",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://adaction.org/",
+      "http://InsideSources.com",
+      "http://www.InsideSources.com",
+      "https://www.adaction.org/",
+      "https://adaction.org"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "don kusler",
+          "sentiment": "negative"
+        },
+        {
+          "name": "andy beshear",
+          "sentiment": "none"
+        },
+        {
+          "name": "youngkin",
+          "sentiment": "none"
+        },
+        {
+          "name": "glenn youngkin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "maga",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "virginia senate",
+          "sentiment": "none"
+        },
+        {
+          "name": "house",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "virginia",
+          "sentiment": "none"
+        },
+        {
+          "name": "kentucky",
+          "sentiment": "none"
+        },
+        {
+          "name": "ohio",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-31T03:26:30.455+02:00",
+    "updated": "2023-12-31T03:26:30.455+02:00"
+  },
+  {
+    "uuid": "6983820eb0c32b17e92d2a74768b5fb49d320f5d",
+    "url": "https://www.gmanetwork.com/news/topstories/nation/902038/priest-no-need-for-self-flagellation-follow-ist-s-teachings-instead/story",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "GMA Integrated News",
+    "published": "2024-03-29T14:18:00Z",
+    "title": "Priest: No need for self-flagellation, follow Christ's teachings instead | GMA News Online",
+    "text": "priest in Tondo, Manila advised devotees that following Christ’s teachings is better than self-flagellation during the Holy Week.\nAccording to a \"24 Oras\" report by Maki Pulido, several groups went around six chapels while repeatedly hitting their backs in acts of penance.\n“Tradisyon na po namin na mamanata at magpenitensya alang-alang sa Panginoon,” said flagellant Regie Sanchez.\n(It has been our tradition to pay devotion and do penance in the name of the Lord)\n“Tinutubos niya po yung mga kasalanan namin. Humihingi po kami sa Kanya ng kapatawaran,” added another flagellant, Rodel Noble.\n(He redeems our sins. We ask Him for forgiveness)\nFather Randy Flores said that there was no need to hurt oneself to get forgiveness from God.\n“Labag po yan sa paggalang sa sarili, sa katawan bilang templo ng Espiritu Santo… Emulate yung halimbawa ng ginawa Niya. Apply ang Kaniyang mga itinuro na mahalin ang kapwa katulad ng pagmamahal sa sarili,” said Fr. Flores.\n(It’s against respect for themselves, their bodies as a temple of the Holy Spirit… We should emulate His example. Apply what He taught us about loving our fellows as we love ourselves)\nMeanwhile, the Department of Health reminded flagellants to ensure that they are vaccinated with anti-tetanus shots and that they are using sanitized items to avoid infection. — Jiselle Anne Casucian\\/LDF, GMA Integrated News",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "christ",
+          "sentiment": "negative"
+        },
+        {
+          "name": "randy flores",
+          "sentiment": "none"
+        },
+        {
+          "name": "regie sanchez",
+          "sentiment": "none"
+        },
+        {
+          "name": "maki pulido",
+          "sentiment": "none"
+        },
+        {
+          "name": "kanya",
+          "sentiment": "none"
+        },
+        {
+          "name": "rodel noble",
+          "sentiment": "none"
+        },
+        {
+          "name": "flores",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "manila",
+          "sentiment": "none"
+        },
+        {
+          "name": "tondo",
+          "sentiment": "none"
+        },
+        {
+          "name": "espiritu santo",
+          "sentiment": "none"
+        },
+        {
+          "name": "niya",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-29T17:24:30.722+03:00",
+    "updated": "2024-03-29T17:24:30.722+03:00"
+  },
+  {
+    "uuid": "8b1e486bfd2b1dbf766cbb8e48a5630782a0dd10",
+    "url": "https://hiphopwired.com/playlist/blacks-for-trump-atlanta-event-byron-donalds-ben-carson-donald-trump",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tron Snow",
+    "published": "2024-06-27T21:37:00Z",
+    "title": "Pretends To Be Shocked: Atlanta “Blacks For Trump” Event Lacked Melanin, But Had Plenty of White Folks In Attendance",
+    "text": "HipHopWired Featured Video CLOSE Source: NICHOLAS KAMM / Getty / Blacks For Trump\nTwo of Donald Trump’s few favorite Black people, Rep. Byron Donalds (R-FL) and his former HUD secretary, the sleepwalking brain surgeon Ben Carson , headlined a “Black Americans for Trump” event in Atlanta, and no surprise, it was full of white people.\nPer Raw Story , via The New Republic’s Talia Janes reporting , the latest jig, aka a Blacks for Trump event , was a massive bust in getting Black people to attend.\nThe event went down at Rocky’s, a Black-owned barbershop in Atlanta, Georgia. Jane’s report mentions that Trump didn’t even bother to show up in all of his felonious glory, instead opting to call into the event, so that should tell you how unserious he is about reaching out to Black voters.\nTrump got on the phone and boasted about tax cuts for businesses, something Black people and a majority of his white supporters wouldn’t even benefit from because they are not in the 1%.\nThe orange menace also bragged about his struggle mugshot during his phone call. But what took the cake was the fact there were not that many Black people in attendance, but a “sea of white people.”\nPer Raw Story : “The roundtable setup featured Representative (and Trump V.P. wannabe) Byron Donalds, former Trump Housing and Urban Development Secretary Ben Carson, and Representative Wesley Hunt in attendance,” she writes. “The seats were positioned in a semi-arc facing a gaggle of cameras and sea of white people, and everyone looks abundantly unenthused to be there.”\nJane goes on to explain how the Atlanta event was just one of a string of failed Black voter outreach efforts.\nWhat was even more hilarious was writer/journalist Michael Harriot pointing out there is still a photo of former President Barack Obama hanging in the shop.\nThis event is just the latest lame attempt to pilfer the Black vote with lazy tactics. With the help of a Black conservative activist , Trump staged a stop at an Atlanta Chick-fil-A restaurant.\nHe also staged an appearance at a Harlem bodega where he was greeted by more whites than Blacks, gasp.\nOf course, there were those trash Trump sneakers that he also claimed were his way of connecting with the Black community.\nThe man is never beating the racist allegations.\nYou can see more reactions to this latest mess in the gallery below.\n1. 2. 3. LOL 4. 5. 6. 7. 8. 9.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://x.com/MerruX/status/1806064117020512515",
+      "https://apnews.com/article/trump-chick-fil-a-black-voters-d981e8edac067fa8912cc56c92d8b9ab",
+      "https://www.rawstory.com/blacks-for-trump-2668623451/",
+      "https://newrepublic.com/post/183169/trump-phones-in-black-americans-trump-event-atlanta",
+      "https://www.apnews.com/article/trump-chick-fil-a-black-voters-d981e8edac067fa8912cc56c92d8b9ab",
+      "https://www.newrepublic.com/post/183169/trump-phones-in-black-americans-trump-event-atlanta",
+      "https://rawstory.com/blacks-for-trump-2668623451/",
+      "https://www.rawstory.com/blacks-for-trump-2668623451",
+      "https://www.x.com/MerruX/status/1806064117020512515"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "byron donalds",
+          "sentiment": "negative"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ben carson",
+          "sentiment": "none"
+        },
+        {
+          "name": "talia janes",
+          "sentiment": "none"
+        },
+        {
+          "name": "jane",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hud",
+          "sentiment": "negative"
+        },
+        {
+          "name": "trump",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "atlanta",
+          "sentiment": "none"
+        },
+        {
+          "name": "new republic",
+          "sentiment": "none"
+        },
+        {
+          "name": "georgia",
+          "sentiment": "none"
+        },
+        {
+          "name": "rocky’s",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-28T02:08:41.025+03:00",
+    "updated": "2024-06-28T22:22:48.299+03:00"
+  },
+  {
+    "uuid": "4fc106d83abbeba23f96a58a4f640e7746289bb5",
+    "url": "https://www.eurasiareview.com/05042024-hereditary-liver-disease-cured-with-help-of-gene-scissors",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eurasia Review",
+    "published": "2024-04-04T22:44:00Z",
+    "title": "Hereditary Liver Disease Cured With Help Of Gene Scissors",
+    "text": "Argininosuccinate lyase deficiency (ASLD), also known as argininosuccinic aciduria, is a disease that has been enriched in the Finnish genetic heritage. In this severe metabolic disease, the body does not process proteins normally, instead resulting in a very dangerous accumulation of argininosuccinic acid and ammonia. Excess ammonia causes disturbances of consciousness, coma and even death.\nIn Finland, infants are screened for ASLD to determine the disease risk before symptoms develop. The treatment is an extremely strict lifelong diet and, in severe cases, a liver transplant.\nResearchers from the University of Helsinki and HUS Helsinki University Hospital have succeeded in correcting the gene defect associated with argininosuccinic aciduria and demonstrated that the harmful metabolism caused by the disease can be cured.\nIn their recently completed study, they initially modified the skin cells of patients with ASLD into stem cells. Subsequently, the researchers reprogrammed the disease-causing gene defects in the stem cells using the CRISPR-Cas9 technique, known as gene scissors. Finally, the researchers guided the corrected stem cells to differentiate into liver cells to see whether the disease that impairs hepatic function was actually cured and that the fixed cells no longer produced the harmful argininosuccinic acid.\n“In our study, we demonstrated for the first time that the gene defect causing ASLD can be corrected with gene scissors without any adverse effects visible in the cells. The gene-corrected cells were also metabolically improved,” says Docent of Stem Cell Biology Kirmo Wartiovaara, specialist in medical genetics, from the University of Helsinki and HUS.\nThe study was published in the esteemed American Journal of Human Genetics .\nResearchers discover a suitable “gene mixture” in a drug already in use In the study, the researchers used mRNA encapsulated inside lipid nanoparticles to get the gene scissors inside the cultured cells.\n“This ‘gene mixture’ we produced is based on the formula of a pharmaceutical product already in use, which may facilitate its clinical use in the future. Our next goal is to cure ASLD in mice,” says Doctoral Researcher Timo Keskinen from the University of Helsinki.\n“The same gene editing technique works on living animals and humans, but we don’t yet know how safe it is. This is why the matter has to be investigated first in laboratory animals,” Keskinen adds.\nTherapeutic potential at last for hereditary diseases There are already more than 7,000 hereditary diseases in the world. Finns, as well as other populations originating in small groups of people, have their own genetic disease variants that are more common in the population than elsewhere in the world. Many of these gene variants of our distant ancestors are such that if a child inherits the same variant from both parents, they may develop a severe disease.\nTreatments are available for only a handful of hereditary diseases, and curative therapies are even more rare.\n“However, a cure could be possible if the gene defect causing the disease is eliminated entirely. Thanks to basic research carried out with the help of gene scissors and other precise gene-editing techniques, permanent fixes are gradually starting to emerge,” Wartiovaara says.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "university of helsinki",
+          "sentiment": "none"
+        },
+        {
+          "name": "hus helsinki university hospital",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "finland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-05T02:05:26.799+03:00",
+    "updated": "2024-04-05T02:10:42.682+03:00"
+  }
+]

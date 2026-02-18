@@ -1,0 +1,379 @@
+[
+  {
+    "uuid": "9a1f314a442d3c6f2e41b6c47f75260a14156bca",
+    "url": "https://www.theadvocate.com/acadiana/sports/high_schools/jacarde-carter-northside-high-grambling-state/article_b61b78fc-7692-11ef-908b-47f554dd0d5a.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eric Narcisse",
+    "published": "2024-09-19T14:23:00Z",
+    "title": "Jacarde Carter confident in ability to 'revive' Northisde | High Schools | theadvocate.com",
+    "text": "Baton Rouge New Orleans Acadiana Shreveport-Bossier Gambit Log in Subscribe Log out Site search Search Home Business News Courts Crime/Police Education Photos State Politics Weather and Traffic Entertainment/Life 200 for 200 Acadiana's Choice Awards Curious Louisiana Festivals Food Games Louisiana Health Louisiana Inspired Mardi Gras Sports UL Sports High School Sports LSU Sports News Sports Betting Sports Betting Opinion Legals Obituaries Classifieds Jobs Homes Store E-Edition Newsletters Log out Log in Activate Subscribe My account Activate 93° E-Edition Newsletters Home Business News Courts Crime/Police Education Photos State Politics Weather and Traffic Entertainment/Life 200 for 200 Acadiana's Choice Awards Curious Louisiana Festivals Food Games Louisiana Health Louisiana Inspired Mardi Gras Sports UL Sports High School Sports LSU Sports News Sports Betting Sports Betting Opinion Legals Obituaries Classifieds Jobs Homes Store Jacarde Carter's life 'was spared for a reason' - now he's determined to revive Northside Share this Facebook Twitter WhatsApp SMS Email Print Copy article link Save let mobileUrl = \"https://subscribe.nola.com/defaultnolanding?ofrgp_id=399&g2i_source=subscribebuttonmbr\" if(window.location.href.includes('theadvocate.com/acadiana')){ mobileUrl = \"https://subscribe.nola.com/defaultnolanding?ofrgp_id=399&g2i_source=subscribebuttonmaca\" } let mobileSubscribeButtonText = \"Subscribe for $1\" let nowWidthLogin = window.innerWidth; let navbarHeader = document.querySelector(\".navbar-header\"); let desktopNavbar = document.querySelector(\".desktop-navbar\"); let accountContainerDiv = document.createElement(\"div\"); accountContainerDiv.setAttribute(\"id\", \"nav-account-container\"); accountContainerDiv.setAttribute(\"class\", \"nav-account-container\"); let accountNameAndSvgContainer = document.createElement(\"div\"); accountNameAndSvgContainer.setAttribute(\"class\", \"nav-name-and-svg-container\"); accountContainerDiv.appendChild(accountNameAndSvgContainer); let accountNameContainerDiv = document.createElement(\"div\"); accountNameContainerDiv.setAttribute(\"class\", \"nav-name-container\"); let formattedNameP = document.createElement(\"p\"); formattedNameP.setAttribute(\"id\", \"nav-user-firstName\"); formattedNameP.setAttribute(\"class\", \"nav-user-firstName\"); // comment out this for username // formattedNameP.innerHTML =`Hello, ${formattedName}!`; accountNameContainerDiv.appendChild(formattedNameP); accountNameAndSvgContainer.appendChild(accountNameContainerDiv); let accountSvgContainerDiv = document.createElement(\"div\"); accountSvgContainerDiv.setAttribute(\"class\", \"nav-svg-container\"); checkWidthToIconArrow(992, accountSvgContainerDiv); accountNameAndSvgContainer.appendChild(accountSvgContainerDiv); let accountIconUserDiv = document.createElement(\"div\"); accountIconUserDiv.setAttribute(\"class\", \"nav-icon-user-container\"); checkWidthToIconUser(992, accountIconUserDiv); accountContainerDiv.appendChild(accountIconUserDiv); // Append the right children element to parent checkWidthToAppend(992, navbarHeader, desktopNavbar, accountContainerDiv); /* OPEN SETTINGS BLOCK */ let openSettingsContainerDiv = document.createElement(\"div\"); openSettingsContainerDiv.setAttribute(\"class\", \"open-setting-container\"); const settings = [ { name: \"MY ACCOUNT\", url: ' MY ACCOUNT', onclick: () => close(), }, { name: \"E-Edition\", url: ' VIEW E-EDITION', onclick: () => close(), }, { name: \"LOG OUT\", url: ' LOG OUT', onclick: () => close(), }, ]; let settingsDiv = document.createElement(\"div\"); settingsDiv.setAttribute(\"class\", \"nav-settings-div\"); let settingsUl = document.createElement(\"ul\"); settingsUl.setAttribute(\"class\", \"nav-settings-ul\"); settingsDiv.appendChild(settingsUl); settings.map((setting) => { let settingLi = document.createElement(\"li\"); settingLi.setAttribute(\"class\", \"nav-setting-li\"); if (setting.onclick) { settingLi.onclick = setting.onclick; } settingLi.innerHTML = setting.url; settingsUl.appendChild(settingLi); }); openSettingsContainerDiv.appendChild(settingsDiv); checkWidthToAppend(992, navbarHeader, desktopNavbar, openSettingsContainerDiv); if (nowWidthLogin > 992) { accountContainerDiv.addEventListener(\"mouseover\", mouseOver); accountContainerDiv.addEventListener(\"mouseout\", mouseOut); openSettingsContainerDiv.addEventListener(\"mouseover\", mouseOver); openSettingsContainerDiv.addEventListener(\"mouseout\", mouseOut); } else { accountContainerDiv.removeEventListener(\"mouseover\", mouseOver); accountContainerDiv.removeEventListener(\"mouseout\", mouseOut); let open = false; openSettingsContainerDiv.style.height = \"0\"; settingsDiv.style.display = \"none\"; accountContainerDiv.addEventListener(\"click\", () => { if (!open) { open = !open; openSettingsContainerDiv.style.height = \"80px\"; settingsDiv.style.display = \"block\"; } else { open = !open; openSettingsContainerDiv.style.height = \"0\"; settingsDiv.style.display = \"none\"; } }); } window.addEventListener(\"resize\", function () { var width = window.innerWidth; if (width { if (!open) { open = !open; openSettingsContainerDiv.style.height = \"80px\"; settingsDiv.style.display = \"block\"; } else { open = !open; openSettingsContainerDiv.style.height = \"0\"; settingsDiv.style.display = \"none\"; } }); } else { accountContainerDiv.addEventListener(\"mouseover\", mouseOver); accountContainerDiv.addEventListener(\"mouseout\", mouseOut); openSettingsContainerDiv.addEventListener(\"mouseover\", mouseOver); openSettingsContainerDiv.addEventListener(\"mouseout\", mouseOut); } }); /* SIGN IN */ let signInContainerDiv = document.createElement(\"div\"); signInContainerDiv.setAttribute(\"id\", \"nav-signIn-container\"); signInContainerDiv.setAttribute(\"class\", \"nav-signIn-container\"); signInContainerDiv.setAttribute(\"data-mg2-action\", \"login\"); let signInNameAndSvgContainer = document.createElement(\"div\"); signInNameAndSvgContainer.setAttribute(\"class\", \"nav-name-and-svg-container\"); signInContainerDiv.appendChild(signInNameAndSvgContainer); signInContainerDiv.style.border = \"1px solid transparent\"; //signInContainerDiv.style.border = \"1px solid # \"; // HERE let signInNameContainerDiv = document.createElement(\"div\"); signInNameContainerDiv.setAttribute(\"class\", \"nav-name-container\"); let formattedSignInP = document.createElement(\"p\"); formattedSignInP.setAttribute(\"class\", \"nav-user-firstName\"); formattedSignInP.innerHTML = ' LOG IN'; if (nowWidthLogin > 992) { signInContainerDiv.addEventListener(\"mouseover\", signInMouseOver); signInContainerDiv.addEventListener(\"mouseout\", signInMouseOut); } window.addEventListener(\"resize\", function () { var width = window.innerWidth; if (width > 992) { signInContainerDiv.addEventListener(\"mouseover\", signInMouseOver); signInContainerDiv.addEventListener(\"mouseout\", signInMouseOut); } }); signInNameContainerDiv.appendChild(formattedSignInP); signInNameAndSvgContainer.appendChild(signInNameContainerDiv); let signInSvgContainerDiv = document.createElement(\"div\"); signInSvgContainerDiv.setAttribute(\"class\", \"nav-svg-container\"); signInSvgContainerDiv.setAttribute(\"data-mg2-action\", \"login\"); checkWidthToIconArrow(992, signInSvgContainerDiv); signInNameAndSvgContainer.appendChild(signInSvgContainerDiv); let signInUserIconContainer = document.createElement(\"div\"); signInUserIconContainer.setAttribute(\"id\", \"user_icon_container\"); signInUserIconContainer.innerHTML = ` `; signInContainerDiv.appendChild(signInUserIconContainer); let signInIconUserDiv = document.createElement(\"div\"); signInIconUserDiv.setAttribute(\"id\", \"signin-nav-icon-user-container\"); signInIconUserDiv.setAttribute(\"class\", \"nav-icon-user-container\"); signInIconUserDiv.setAttribute(\"data-mg2-action\", \"login\"); checkWidthToIconUser(992, signInIconUserDiv); if (nowWidthLogin > 992) { formattedSignInP.innerHTML = ' LOG IN'; } else { signInContainerDiv.setAttribute(\"data-mg2-action\", \"subscribe\"); signInSvgContainerDiv.setAttribute(\"data-mg2-action\", \"subscribe\"); signInIconUserDiv.setAttribute(\"data-mg2-action\", \"subscribe\"); signInSvgContainerDiv.innerHTML = \"\"; signInIconUserDiv.innerHTML = \"\"; formattedSignInP.innerHTML = ` ${mobileSubscribeButtonText}`; } window.addEventListener(\"resize\", function () { if (nowWidthLogin > 992) { formattedSignInP.innerHTML = ' LOG IN'; } else { signInContainerDiv.setAttribute(\"data-mg2-action\", \"subscribe\"); signInSvgContainerDiv.setAttribute(\"data-mg2-action\", \"subscribe\"); signInIconUserDiv.setAttribute(\"data-mg2-action\", \"subscribe\"); signInSvgContainerDiv.innerHTML = \"\"; signInIconUserDiv.innerHTML = \"\"; formattedSignInP.innerHTML = ` ${mobileSubscribeButtonText}`; } }); /* document.getElementById(\"MG2logout\").addEventListener(\"click\", function () { if (nowWidthLogin ${mobileSubscribeButtonText}`; } }); */ signInContainerDiv.appendChild(signInIconUserDiv); checkWidthToAppend(992, navbarHeader, desktopNavbar, signInContainerDiv); // navbarHeader.appendChild(signInContainerDiv); /*",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.acadianaschoice.com/",
+      "https://www.bestofneworleans.com/",
+      "https://jobs.nola.com/",
+      "https://www.legacy.com/obituaries/acadiana/",
+      "https://louisianapublicnotice.com/",
+      "https://subscribe.nola.com/defaultnolanding?ofrgp_id=161&g2i_source=subscribebuttonmbr`)",
+      "https://myaccount.nola.com/",
+      "https://www.shreveportbossieradvocate.com/",
+      "https://www.nola.com/",
+      "https://advocate-la.newsmemory.com/?editionStart=Baton+Rouge",
+      "https://bet.nola.com",
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.theadvocate.com%2Facadiana%2Fsports%2Fhigh_schools%2Fjacarde-carter-northside-high-grambling-state%2Farticle_b61b78fc-7692-11ef-908b-47f554dd0d5a.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share",
+      "https://nola.com/subscribe?g2i_source=advocatenavbar&g2i_campaign=advocatesubscribebuttonmobile",
+      "https://wa.me/?text=https://www.theadvocate.com/acadiana/sports/high_schools/jacarde-carter-northside-high-grambling-state/article_b61b78fc-7692-11ef-908b-47f554dd0d5a.html",
+      "https://advocate-la.newsmemory.com/?editionStart=New+Orleans",
+      "https://homes.theacadianaadvocate.com/",
+      "https://subscribe.nola.com/defaultnolanding?ofrgp_id=399&g2i_source=subscribebuttonmaca",
+      "https://bcp.crwdcntrl.net/5/c=8860/b=33790552",
+      "https://bcp.crwdcntrl.net/5/c=8860/b=33790553",
+      "https://www.nola.com/subscribe/?g2i_source=advocatenav&g2i_campaign=advocatesubscribebuttondesktop",
+      "https://bcp.crwdcntrl.net/5/c=8860/b=33790556",
+      "https://bcp.crwdcntrl.net/5/c=8860/b=33790557",
+      "https://bcp.crwdcntrl.net/5/c=8860/b=33790554",
+      "https://bcp.crwdcntrl.net/5/c=8860/b=33790555",
+      "https://twitter.com/intent/tweet?&text=Jacarde%20Carter%27s%20life%20%27was%20spared%20for%20a%20reason%27%20-%20now%20he%27s%20determined%20to%20revive%20Northside&via=theadvocateaca&url=https%3A%2F%2Fwww.theadvocate.com%2Facadiana%2Fsports%2Fhigh_schools%2Fjacarde-carter-northside-high-grambling-state%2Farticle_b61b78fc-7692-11ef-908b-47f554dd0d5a.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share",
+      "https://subscribe.nola.com/defaultnolanding?ofrgp_id=399&g2i_source=subscribebuttonmbr",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.theadvocate.com%2Facadiana%2Fsports%2Fhigh_schools%2Fjacarde-carter-northside-high-grambling-state%2Farticle_b61b78fc-7692-11ef-908b-47f554dd0d5a.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share",
+      "https://www.advocate-la.newsmemory.com/?editionStart=New+Orleans",
+      "https://www.legacy.com/obituaries/acadiana",
+      "https://wa.me/",
+      "https://www.advocate-la.newsmemory.com/?editionStart=Baton+Rouge",
+      "https://nola.com/subscribe/?g2i_source=advocatenav&g2i_campaign=advocatesubscribebuttondesktop",
+      "https://www.acadianaschoice.com",
+      "https://www.bestofneworleans.com",
+      "https://shreveportbossieradvocate.com/",
+      "https://www.nola.com/subscribe?g2i_source=advocatenavbar&g2i_campaign=advocatesubscribebuttonmobile",
+      "https://www.nola.com",
+      "https://www.subscribe.nola.com/defaultnolanding?ofrgp_id=399&g2i_source=subscribebuttonmaca",
+      "https://www.twitter.com/intent/tweet?&text=Jacarde%20Carter%27s%20life%20%27was%20spared%20for%20a%20reason%27%20-%20now%20he%27s%20determined%20to%20revive%20Northside&via=theadvocateaca&url=https%3A%2F%2Fwww.theadvocate.com%2Facadiana%2Fsports%2Fhigh_schools%2Fjacarde-carter-northside-high-grambling-state%2Farticle_b61b78fc-7692-11ef-908b-47f554dd0d5a.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share",
+      "https://twitter.com/intent/tweet",
+      "https://wa.me/?text=https://theadvocate.com/acadiana/sports/high_schools/jacarde-carter-northside-high-grambling-state/article_b61b78fc-7692-11ef-908b-47f554dd0d5a.html",
+      "https://www.subscribe.nola.com/defaultnolanding?ofrgp_id=399&g2i_source=subscribebuttonmbr",
+      "https://jobs.nola.com",
+      "https://www.homes.theacadianaadvocate.com/",
+      "https://subscribe.nola.com/defaultnolanding",
+      "https://www.bet.nola.com",
+      "https://louisianapublicnotice.com",
+      "https://www.myaccount.nola.com/",
+      "https://www.nola.com/subscribe/",
+      "https://www.bcp.crwdcntrl.net/5/c=8860/b=33790554",
+      "https://nola.com/subscribe",
+      "https://advocate-la.newsmemory.com/",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.jobs.nola.com/",
+      "https://acadianaschoice.com/",
+      "https://legacy.com/obituaries/acadiana/",
+      "https://www.louisianapublicnotice.com/",
+      "https://nola.com/",
+      "https://myaccount.nola.com",
+      "https://www.shreveportbossieradvocate.com",
+      "https://homes.theacadianaadvocate.com",
+      "https://www.bcp.crwdcntrl.net/5/c=8860/b=33790555",
+      "https://bestofneworleans.com/",
+      "https://www.bcp.crwdcntrl.net/5/c=8860/b=33790557",
+      "https://www.bcp.crwdcntrl.net/5/c=8860/b=33790556",
+      "https://www.subscribe.nola.com/defaultnolanding?ofrgp_id=161&g2i_source=subscribebuttonmbr`)",
+      "https://www.bcp.crwdcntrl.net/5/c=8860/b=33790553",
+      "https://www.bcp.crwdcntrl.net/5/c=8860/b=33790552"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:18:58.061+03:00",
+    "updated": "2024-09-20T00:18:58.061+03:00"
+  },
+  {
+    "uuid": "5c6a59d4f181e9ff01783d01f6c7265c373aecd0",
+    "url": "https://www.wilx.com/video/2025/01/02/wilx-weather-web-122025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wilxTV",
+    "published": "2025-01-02T00:00:00Z",
+    "title": "Winter Weather Advisory issued January 3 at 2:52AM EST until January 4 at 1:00AM EST by NWS Grand Rapids MI",
+    "text": "Updated: 1 hour ago\nFirst Alert Weather Friday morning webcast from WILX News 10\nUpdated: 11 hours ago\n|By Krystle Holleman\nWell, we got David Andrews and Ann Emmerich to say 'skibidi'\nUpdated: 18 hours ago\nBelow average temperatures will stick around for a while with a few opportunities for some snow showers.\nUpdated: Jan. 2, 2025 at 2:49 AM EST\nFirst Alert Weather Thursday morning webcast for 1/2/25\nUpdated: Jan. 1, 2025 at 12:49 PM EST\n|By Krystle Holleman\nGymtimidation, a type of anxiety, could keep you from that goal.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Environment"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Social Issue->social condition",
+      "Social Issue->communities",
+      "Environment->climate change"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Krystle Holleman\nGymtimidation",
+          "sentiment": "none"
+        },
+        {
+          "name": "David Andrews",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ann Emmerich",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NWS",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T11:53:18.845+02:00",
+    "updated": "2025-01-03T11:53:18.845+02:00"
+  },
+  {
+    "uuid": "70c01b425df73eae2ef7829ff8db7f3fc33264a0",
+    "url": "https://www.163.com/dy/article/K1S0RIAE0514R9KQ.html",
+    "ord_in_thread": 0,
+    "author": "网易",
+    "published": "2025-06-12T06:15:00Z",
+    "title": "古偶短剧《绾君心》上线热播，山海短剧爆款佳作频出|太子妃_网易订阅",
+    "text": "由精品短剧全产业链公司山海星辰出品的古装甜宠剧《 绾君心 》今日开播，该剧由至春禾、陈云廷、燕颢元主演，以野草系女主刘小丫（至春禾 饰）通过首辅千金“苏绾绾”的名义嫁给太子魏执（陈云廷 饰）为开端，讲述了她阴差阳错嫁入东宫，却成为了恒王魏湛（燕颢元 饰）安插的一枚棋子，随后在太子庇护下逆袭成长，二人携手对抗权谋，平定边关战乱的故事。\n刘小丫化名苏绾绾上演替身文学 魏执面冷心热化身护妻狂魔\n“这双手能绣花也能拿剑，能作画也能杀敌！”在今日《绾君心》上线的剧情中，以村女之身、苏绾绾之名嫁入东宫的刘小丫，用掷地有声的金句呈现出《绾君心》所蕴含的女性力量。作为野草系女主，苏绾绾在成为 太子妃 后并没有陷入争宠的叙事窠臼，反而大力建女学，为女子争得一片新天地，展现出女性的顽强与坚韧。\n苏绾绾有着村女的懵懂与憨厚，初入东宫时阴差阳错闹出了不少笑话，但在逐渐成长中，化身赤诚小太阳，用一片真心打动太子，以善良化解仇恨。太子魏执表面冷傲疏离，实则腹黑深情，明知女主身份仍纵容其“作妖”，危急时刻以命相护，武力值拉满。燕颢元饰演的魏湛表面玩世不恭，实则城府极深，以“假太子妃替嫁”为局，借苏绾绾搅动朝堂，步步为营算计太子。三位青年演员用精湛的演技完美还原了角色，呈现出错综复杂、极致推拉的人物关系。\n高颜值+高流量+大制作 山海星辰打造颜值盛宴\n无论是苏绾绾、魏执还是魏湛，他们的扮演者都是全网粉丝百万级的青年演员，其中，苏绾绾的扮演者至春禾在多部短剧中饰演女主，凭借甜美的笑容、清秀的颜值受到观众的一众好评。饰演太子魏执的陈云廷手握多部月榜爆款作品，剑眉星目的五官、俊朗挺拔的身姿让他在一众演员里十分出挑。魏湛的饰演者燕颢元曾经出演多部爆款作品，精湛的演技、俊秀的面容俘获了不少观众。\n作为本剧的出品方，山海星辰坚持以内容感染观众，多部新剧蝉联各大短剧榜单前列，近期推出了《重生后，我选择不再原谅》《时停千年：我被困在同一天》等多部爆款精品内容，前者红果热度破6000万，后者红果热度突破5000万，均受到观众广泛好评。\n同时，山海星辰还同步开放了爆款小说IP改编的《寒门小状元2：名扬天下》《满门恋爱脑，唯有小师弟正的发邪》。目前，山海星辰已与飞卢、番茄、七猫等超十家小说网站达成IP合作，未来，将继续坚持精品化战略，推出更多爆款小说改编的的精品佳作。\n责任编辑：任芯仪(EN063)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "War, Conflict and Unrest"
+    ],
+    "topics": [
+      "Social Issue->teenagers",
+      "Social Issue->social networking",
+      "Social Issue->diversity, equity and inclusion",
+      "War, Conflict and Unrest->civil unrest",
+      "War, Conflict and Unrest->war",
+      "War, Conflict and Unrest->rebellion"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_vn",
+        "top_news_th",
+        "top_news_nz",
+        "top_news_rs",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news_hk",
+        "top_news_my",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T09:59:59.908+03:00",
+    "updated": "2025-06-13T07:07:14.000+00:00"
+  },
+  {
+    "uuid": "88cf0061437fec085aa3eabfd49450e076af50fd",
+    "url": "https://www.liberoquotidiano.it/news/sport/40272057/us-open-erranni-e-valvassori-trionfano-il-colpo-magico-che-entra-nella-storia.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@libero_official",
+    "published": "2024-09-05T00:00:00Z",
+    "title": "Us Open, Errani e Vavassori trionfano: il colpo magico che entra nella storia – Libero Quotidiano",
+    "text": "05 settembre 2024 a a a Sara Errani e Andrea Vavassori nella storia: sono la prima coppia tutta italiana di doppio misto a vincere gli Us Open . I due azzurri hanno la meglio in finale sulla coppia statunitense formata da Taylor Townsend e Donald Young battuta 7-6 7-5. artita ricca di emozioni nella quale i due azzurri hanno sempre controllato vincendo al tie break (con un secco 7-0) e poi realizzando il break decisivo sul 6-5. Per Sara Errani un'altra eccezionale vittoria dopo la medaglia d'oro a Parigi in coppia nel doppio femminile con Jasmine Paolini. Ed e' stata proprio la 37enne bolognese, la tennista piu' titolata nella storia del tennis femminile italiano con 41 successi (9 in singolare e 32 in doppio), il motore della coppia confermando quello che ha detto di lei il compagno, che e' una tennista di un'intelligenza rara.\nErrani ha tenuto sempre alto il livello e consolato il compagno anche quando ha commesso errori banali. Stesso discorso per la sua avversaria, Taylor Townsend, che ha cercato di rianimare il compagno Donald Young molte volte apparso in difficolta'. Prima di Errani e Vavassori solo altri tre italiani si sono spinti cosi' lontano nei misti dei vari Major ma sempre \"separati\". Nella storia degli Slam , infatti, si sono registrati i due successi di Nicola Pietrangeli al Roland Garros del 1958, con la britannica Shirley Bloomer, e di Raffaella Reggi agli Us Open del 1986, con lo spagnolo Sergio Casal . Inoltre c'e' stata anche la finale persa, la prima di sempre nei Major, da Uberto De Morpurgo, con la statunitense Elizabeth Ryan, contro le due leggende francesi Suzanne Lenglen e Jean Borotra.\nÈ TUTTO VER #USOpen pic.twitter.com/ymgQkH5xE4\n— SuperTennis TV (@SuperTennisTv) September 5, 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Arts, Culture and Entertainment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://t.co/ymgQkH5xE4",
+      "https://twitter.com/hashtag/USOpen?src=hash&ref_src=twsrc%5Etfw",
+      "https://twitter.com/SuperTennisTv/status/1831795238043570513?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/hashtag/USOpen?src=hash&ref_src=twsrc%5Etfw",
+      "https://www.t.co/ymgQkH5xE4",
+      "https://twitter.com/SuperTennisTv/status/1831795238043570513",
+      "https://www.twitter.com/SuperTennisTv/status/1831795238043570513?ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/USOpen"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-06T00:33:28.962+03:00",
+    "updated": "2024-09-06T00:33:28.962+03:00"
+  },
+  {
+    "uuid": "6a16aa688a4685ae0aa098c5ac23e0f62eb48c6a",
+    "url": "https://www.meteoweb.eu/2024/05/meteo-milano-le-previsioni-per-domani-sabato-11-maggio/1001423077",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redazione Meteo MeteoWeb",
+    "published": "2024-05-10T00:32:00Z",
+    "title": "Meteo Milano, le previsioni per domani sabato 11 maggio",
+    "text": "Sabato 11 Maggio a Milano si prospetta una giornata con condizioni meteo generalmente stabili e temperature gradevoli. Le previsioni del tempo indicano cielo sereno o poche nuvole per gran parte della giornata, con una leggera copertura nuvolosa nel corso della mattina e del pomeriggio.\nDurante la notte , il cielo sarà sereno con una leggera copertura nuvolosa, mentre le temperature si manterranno intorno ai +15°C . La mattina vedrà un aumento della copertura nuvolosa, con temperature che oscilleranno tra i +16°C e i +23°C . Nel pomeriggio le nubi saranno ancora presenti, ma con temperature che si manterranno intorno ai +23°C . Infine, la sera si presenterà con poche nuvole e temperature intorno ai +18°C .\nLe previsioni meteo per Milano indicano una giornata piacevole, con una leggera brezza che accompagnerà le temperature miti. L’umidità si manterrà intorno al 70% durante la giornata, mentre la pressione atmosferica si attesterà sui 1018hPa .\nIn base alla situazione attuale, le previsioni del tempo per i prossimi giorni a Milano si preannunciano stabili, con temperature che dovrebbero rimanere piuttosto costanti e condizioni meteo che non dovrebbero subire variazioni significative. Si consiglia comunque di tenersi aggiornati sulle previsioni meteo locali per eventuali cambiamenti improvvisi.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-10T04:36:45.794+03:00",
+    "updated": "2024-05-10T07:40:44.974+03:00"
+  },
+  {
+    "uuid": "eb485467a4929ef0967a168bcc8710b52fe087a6",
+    "url": "http://business.bigspringherald.com/bigspringherald/article/abnewswire-2023-12-28-silicon-valley-dental-center-introduces-specialized-services-for-cutting-edge-dental-implants-procedure",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AB Newswire",
+    "published": "2023-12-28T00:00:00Z",
+    "title": "Silicon Valley Dental Center Introduces Specialized Services for Cutting-Edge Dental Implants Procedure | Markets | bigspringherald.com",
+    "text": "Silicon Valley Dental Center unveils a groundbreaking chapter in oral health with the introduction of specialized services, focusing on advancing the cutting-edge Dental Implants procedure. This strategic initiative underscores the center's commitment to pioneering dental care solutions and setting new standards in the innovative landscape of Silicon Valley. San Jose, CA - Silicon Valley Dental Center, situated in the heart of technological innovation, proudly announces the launch of specialized services aimed at advancing the field of dental implants. This strategic initiative reflects the center's commitment to pioneering dental care solutions and redefining standards in oral health within the dynamic landscape of Silicon Valley.\nDental implants have emerged as a transformative solution for restoring oral health and improving the overall quality of life for individuals with missing teeth. Recognizing the critical role of dental implants, Silicon Valley Dental Center introduces a comprehensive suite of specialized services meticulously designed to enhance the dental implants experience.\nAt the core of these specialized services is a dedication to leveraging cutting-edge technology and advanced techniques. Silicon Valley Dental Center employs state-of-the-art diagnostic tools and precision planning methods, ensuring a tailored approach for each patient. This commitment underscores the center's mission to provide patients with the latest advancements in implant dentistry, aligning with the ethos of innovation that defines the Silicon Valley region.\nThe specialized services extend beyond conventional dental implant procedures, encompassing a spectrum of innovative solutions. Silicon Valley Dental Center 's team of highly skilled professionals, equipped with the latest advancements in dental technology, brings a wealth of expertise to the forefront of implant dentistry. The center's approach prioritizes patient-centric care, addressing the unique needs and expectations of individuals in the Silicon Valley community.\nSilicon Valley Dental Center's reputation as a forefront player in dental innovation is underscored by this initiative. By introducing specialized services, the center aims to elevate the standard of dental care, offering patients not just treatment but an experience marked by precision, efficiency, and excellence.\nPatients seeking top-tier dental implant procedures are invited to experience the Silicon Valley Dental Center difference (See location ). The center's commitment to specialized dental services reflects its ongoing mission to provide cutting-edge solutions that prioritize patient well-being.\nMedia Contact\nCompany Name: Silicon Valley Dental Center\nContact Person: Dr. Hani Jamah DDS\nEmail: Send Email\nPhone: (408) 528-2729\nAddress: 5710 Cahalan Ave Building 8K\nCity: San Jose\nState: California\nCountry: United States\nWebsite: https://www.mysiliconvalleysmile.com/\nData & News supplied by www.cloudquote.io\nStock quotes supplied by Barchart\nQuotes delayed at least 20 minutes.\nBy accessing this page, you agree to the following\nPrivacy Policy and Terms and Conditions .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure",
+      "Health"
+    ],
+    "external_links": [
+      "https://www.abnewswire.com/email_contact_us.php?pr=silicon-valley-dental-center-introduces-specialized-services-for-cuttingedge-dental-implants-procedure",
+      "https://www.abnewswire.com/companyname/mysiliconvalleysmile.com_127507.html",
+      "https://www.cloudquote.io",
+      "https://www.google.com/maps?cid=17890178901454953097",
+      "https://www.googletagmanager.com/gtag/js?id=UA-8590502-3",
+      "https://www.abnewswire.com/press_stat.php?pr=silicon-valley-dental-center-introduces-specialized-services-for-cuttingedge-dental-implants-procedure",
+      "https://www.abnewswire.com/uploads/1703673367.jpeg",
+      "https://www.mysiliconvalleysmile.com/",
+      "https://tracking.newsrpm.com/pixel?slug=abnewswire-2023-12-28-silicon-valley-dental-center-introduces-specialized-services-for-cutting-edge-dental-implants-procedure",
+      "https://www.cloudquote.io/article/5",
+      "https://www.cloudquote.io/article/6",
+      "https://www.abnewswire.com/email_contact_us.php",
+      "https://www.googletagmanager.com/gtag/js",
+      "https://cloudquote.io/article/5",
+      "https://cloudquote.io/article/6",
+      "https://abnewswire.com/uploads/1703673367.jpeg",
+      "https://abnewswire.com/press_stat.php?pr=silicon-valley-dental-center-introduces-specialized-services-for-cuttingedge-dental-implants-procedure",
+      "https://www.google.com/maps",
+      "https://tracking.newsrpm.com/pixel",
+      "https://abnewswire.com/email_contact_us.php?pr=silicon-valley-dental-center-introduces-specialized-services-for-cuttingedge-dental-implants-procedure",
+      "https://googletagmanager.com/gtag/js?id=UA-8590502-3",
+      "https://abnewswire.com/companyname/mysiliconvalleysmile.com_127507.html",
+      "https://cloudquote.io",
+      "https://www.abnewswire.com/press_stat.php",
+      "https://www.mysiliconvalleysmile.com",
+      "https://mysiliconvalleysmile.com/",
+      "https://www.tracking.newsrpm.com/pixel?slug=abnewswire-2023-12-28-silicon-valley-dental-center-introduces-specialized-services-for-cutting-edge-dental-implants-procedure",
+      "https://google.com/maps?cid=17890178901454953097"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "silicon valley dental center",
+          "sentiment": "negative"
+        },
+        {
+          "name": "silicon valley dental center introduces specialized services",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "silicon valley",
+          "sentiment": "none"
+        },
+        {
+          "name": "ca - silicon valley dental center",
+          "sentiment": "none"
+        },
+        {
+          "name": "san jose",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:02:12.977+02:00",
+    "updated": "2023-12-29T00:02:12.977+02:00"
+  }
+]

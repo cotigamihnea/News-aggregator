@@ -1,0 +1,385 @@
+[
+  {
+    "uuid": "d3d34e84c0fa2ca5647f606abf54910da97a8eed",
+    "url": "https://futbol.radioformula.com.mx/paris-2024/2024/04/04/paris-2024-nataly-michel-nos-da-noticion-de-embarazo-y-sede-su-lugar-en-el-preolimpico",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Diego Astorga",
+    "published": "2024-04-04T17:30:00Z",
+    "title": "París 2024: Nataly Michel nos da notición de embarazo y cede su lugar en el Preolímpico",
+    "text": "[París 2024](/paris-2024/)\nParís 2024: Nataly Michel nos da notición de embarazo y cede su lugar en el Preolímpico\nLa deportista no estará en Costa Rica este fin de semana y será reemplazada por Alely Hernández\nNataly Michel tenía su lugar asegurado en el Preolímpico de esgrima que se disputará en Costa Rica y es clasificatoria para los Juegos Olímpicos de\nParís 2024 que tendrá a Alexa Moreno como una de las figuras de México. La mexicana comunicó en sus redes sociales que se baja de la competencia ya que privilegia su embarazo.\nAlely Hernández será la reemplazante de Nataly Michel el fin de semana en el Preolímpico de Costa Rica. “Esta decisión la he tomado por el bienestar y la salud del bebé y la mía”, explicó la esgrimista. Aunque podría conseguir la clasificación y llegaría su embarazo bastante desarrollado.\n¿Cuántos meses de embarazo tiene Nataly Michel?\n- La deportista dio la buena noticia de su embarazo por las redes sociales hace cinco días y su embarazo sería mayor de tres meses.\n- Nataly Michel debía participar en el Preolímpico a disputarse en Costa Rica para conseguir su pasaje a París 2024.\n- La mexicana es especialista en la modalidad florete y ya estuvo en un Juego Olímpico en Río 2016.\n- La esgrimista tiene 33 años y es licenciada en comercio internacional.\n- Su comienzo en este deporte fue a los 10 años y representó a México en diferentes torneos como Panamericanos, Centroamericanos y Preolímpicos.\n- Es la esgrimista más joven en participar en una Copa del Mundo con tan solo 15 años en La Habana.\n- Obtuvo dos medallas de oro en los Juegos Centroamericanos realizados en Puerto Rico en 2010. Volvió a repetir en el 2014 en Veracruz.\n- En un video en su cuenta de Instagram, Nataly Michel explicó su ausencia en Costa Rica.\nPor la salud de su bebé y la suya personal, Nataly Michel decidió ceder su lugar clasificatorio para\nParís 2024 que contará con la presencia de Janeth Gómez en pesas. “He decidido ceder mi lugar en el preolímpico, eso significa que no seré la representante de México que podrá conseguir la plaza olímpica, sino que pasará a la siguiente del ranking, que es Alely Hernández, a quien le deseo mucho éxito”, aseguró la esgrimista.\nMÁS INFORMACIÓN\nBotana para medio tiempo\nÚltimas noticias\n3",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-05T00:46:14.121+03:00",
+    "updated": "2024-04-05T00:46:14.121+03:00"
+  },
+  {
+    "uuid": "5aaa55a86f44ef522946f221cc7338224cf2dc09",
+    "url": "https://www.csoonline.com/article/4027333/genai-als-security-gamechanger.html",
+    "ord_in_thread": 0,
+    "author": "Thomas Boele",
+    "published": "2025-07-31T02:00:00Z",
+    "title": "GenAI als Security-Gamechanger? | CSO Online",
+    "text": "Generative AI (GenAI) soll Daten und Infrastruktur vor ausgeklügelten Cyberbedrohungen schützen - soweit die Theorie. Doch wie sieht die Realität aus?\nFür CISOs bietet generative KI nicht nur eine bloße Arbeitserleichterung, sondern zahlreiche neue Möglichkeiten für die Cybersicherheit. SomYuZu – shutterstock.com\nDurch den Einsatz von GenAI ergeben sich für CISOs neue Chancen, da bewährte Verteidigungsmethoden immer mehr an ihre Grenzen stoßen. Doch auch Cyberkriminelle haben längst die Möglichkeiten erkannt, damit ihre Angriffe zu verstärken. Dies hat bereits jetzt zu einem dynamischen KI-Wettrüsten in der digitalen Welt geführt.\nHacker nutzen Varianten beliebter KI-Plattformen zur Entwicklung spezieller bösartiger Adaptionen, wie OnionGPT, WormGPT , GhostGPT, FraudGPT und HackerGPT. Diese Hacker-LLMs (Large Language Models) umgehen ethisch basierte Sicherheitsvorkehrungen, um überzeugende Phishing-E-Mails zu generieren – sogar dann, wenn man die Sprache der angepeilten Zielgruppe nicht spricht. Zudem werden sie benutzt, um Malware zu erstellen und ausgeklügelte Social-Engineering -Skripte zu entwickeln.\nKI-gestütztes Social Engineering, einschließlich Deepfake-Technologie, ermöglicht es Angreifern wiederum, authentisches Textmaterial zu erstellen, automatisierte Chats zu führen und sich in Echtzeit-Audio- und Videokonferenzen als andere Personen auszugeben.\nDaten vergiften Eine neue Bedrohung ist das LLM Data Poisoning , bei dem Hacker Trainingsdatensätze oder Echtzeitinformationen manipulieren, um Hintertüren oder betrügerischen Code einzubauen. Einmal auf diese Weise vergiftet, können KI-Modelle schädliche Inhalte replizieren, was schwerwiegende Auswirkungen auf die Sicherheit hat.\nDas in Moskau ansässige Desinformationsnetzwerk Pravda ist ein Beispiel für diese Angriffsmethode. Es produziert Millionen von Propaganda-Artikeln, welche die Antworten von KI-Chatbots beeinflussen sollen. Mit diesem ausgeklügelten Angriff wurden führende westliche KI-Systeme erfolgreich infiziert, woraufhin sie in etwa 33 Prozent der Fälle falsche Nachrichten wiedergaben.\nKI als Cyberschutzschild Wollen CISOs diese ausgeklügelten, KI-gestützten Angriffe abwehren, dann erweist sich die KI selbst als das wertvollste Verteidigungsinstrument. Durch die Analyse von Inhalten erkennen KI-Systeme Verhaltensmuster, Anomalien oder sprachliche Hinweise sehr schnell und ermöglichen so ein kontinuierliches Lernen sowie die Anpassung an neue Bedrohungen.\nDie Wirksamkeit von KI bei der Abwehr von Bedrohungen verändert die Cybersicherheit daher zunehmend. Aktuelle Bewertungen zeigen bemerkenswerte Leistungsunterschiede zwischen KI-gestützten und herkömmlichen Sicherheitslösungen. Führende KI-gesteuerte Plattformen erreichen hohe Abwehr-Raten:\n99 Prozent bei der Malware-Erkennung 99 Prozent bei Phishing-Versuchen 98 Prozent bei Einbruchsversuchen Diese Zahlen stehen in starkem Gegensatz zu konventionellen Produkten, die herkömmliche Methoden verwenden. Einige von ihnen erreichen Blockier-Raten von nur 67 Prozent bei Malware, 56 Prozent bei Phishing und 43 Prozent bei Einbruchsversuchen.\nKI als Secuirty-Co-Pilot Über die Erkennung von Bedrohungen hinaus rationalisiert KI die Abläufe in der Cybersicherheit erheblich. Administratoren sehen sich mit einer zunehmenden Komplexität von Sicherheitsrichtlinien, ständigen CVE -Warnungen und der Notwendigkeit einer einheitlichen Sicherheit in hybriden IT-Umgebungen konfrontiert. Diese umfassen lokale, Cloud-, Remote- und mobile Anwendungsfälle.\nKI-gesteuerte Co-Piloten ermöglichen es ihnen aber, Richtlinien effizienter zu erstellen, zu verwalten und Fehler zu beheben. Diese intelligenten Assistenten können neue Schwachstellen schnell identifizieren und präzise Abhilfemaßnahmen für die Bereiche Netzwerk, Cloud, Endpunkt, Browser, mobile Geräte und E-Mail-Sicherheit empfehlen.\nJüngste Bewertungen zeigen, dass solche Co-Piloten eine hohe Leistung zeigen, indem sie klare, umsetzbare Anleitungen für Abhilfemaßnahmen liefern. Diese Fähigkeit reduziert den Zeitaufwand von Administratoren bei der Durchführung von Aufgaben und verbessert gleichzeitig die Benutzerfreundlichkeit des Systems. Das macht es den CISOs einfacher, als Schnittstelle zwischen Technik und Vorstand zu agieren und gibt ihnen Argumente, um die Vorteile einer Investition in GenAI überzeugend darzustellen.\nAutomatisierte Sicherheitsanalyse In praktischen Anwendungen zeichnet sich KI durch die Analyse, Automatisierung und aktive Implementierung von Sicherheitsrichtlinien aus. Leistungsstarke Lösungen automatisieren sowohl den Analyse- als auch den Implementierungsprozess vollständig. Damit heben sie sich deutlich von herkömmlichen Tools ab, die sich mit der Ermittlung der korrekten Regelplatzierung lange aufhalten oder denen es an Funktionen, um Richtlinien direkt zu ändern, schlicht fehlt.\nBei der Bewertung und Behebung von Schwachstellen liefert fortschrittliche KI somit vollständige und relevante Antworten, die den Status der Verteidigung genau überprüfen und Empfehlungen geben.\nSchatten-KI als Herausforderung Die breite Einführung von KI-Diensten in Unternehmensnetzwerken birgt dabei sowohl Chancen als auch Risiken. Für CISOs sind belastbare Zahlen wichtig, um allen Beteiligten die Sachlage deutlich darlegen zu können. Während die Einführung von KI zu Produktivitätssteigerungen führt, wirft sie auch kritische Sicherheitsfragen auf. Eine Analyse zeigt, dass eine von 80 Aufforderungen (1,25 Prozent), die von Unternehmensgeräten an generative KI-Dienste gesendet werden, ein hohes Risiko für den Verlust sensibler Daten birgt, wobei weitere 7,5 Prozent potenziell sensible Informationen enthalten.\nHinzu kommt ein altes CISO-Thema in neuem Gewand: Schatten-KI -Anwendungen, also unautorisierte KI-Tools, die von Mitarbeitern verwendet werden. Sie führen zu Sicherheitslücken, Compliance-Problemen und inkonsistenter Datenverwaltung. Dieses Phänomen spiegelt die Schatten-IT-Herausforderung früherer technologischer Umwälzungen wider, bei denen der Fortschritt die organisatorische Governance überholte und neue Angriffsvektoren schaffte.\nEthische Überlegungen und Auswirkungen auf die Gesellschaft Die schnelle Integration von KI in die Cybersicherheit wirft auch ethische und gesellschaftliche Bedenken auf. Dazu gehören:\nVoreingenommenheit und Fairness: KI-Algorithmen, die mit voreingenommenen Daten trainiert wurden, können zu diskriminierenden Ergebnissen führen. Zum Beispiel indem sie legitime Aktivitäten fälschlicherweise als bösartig einstufen. Dies wirft Bedenken hinsichtlich Fairness und möglicher Diskriminierung auf. Transparenz und Erklärbarkeit: Viele KI-Algorithmen, insbesondere Deep-Learning-Modelle, arbeiten als Black Boxes, was ihre interne Logik undurchsichtig macht und das Vertrauen in KI-Tools untergräbt. Datenschutz gegen Sicherheit: Die Datenverarbeitungsfähigkeiten der KI werfen Bedenken hinsichtlich einer übermäßigen Überwachung und der Verletzung der Privatsphäre auf, wobei ein Gleichgewicht zwischen dem Schutz des Systems und der Wahrung der Rechte des Einzelnen auf Privatsphäre gefunden werden muss. Rechenschaftspflicht und Entscheidungsfindung: Die Bestimmung der Verantwortung, wenn KI-Systeme autonom Entscheidungen treffen, kann komplex sein und sich auf Cyber-Sicherheitsexperten, Entwickler und Unternehmen auswirken. Verdrängung von Arbeitsplätzen: Die Automatisierung der routinemäßigen Erkennung von Bedrohungen durch KI kann zu einer Verdrängung von Arbeitsplätzen in der Cyber-Sicherheitsbranche führen, was Umschulungen und Neuqualifizierungen erfordert. Verantwortungsvolle CISOs haben also immer ein Auge darauf, dass die KI-Entwicklung und -Einführung sich auch mit ethischen Dilemmata befasst. Zu den Strategien gehören klare ethische Rahmenbedingungen, verschiedene Interessengruppen, verschiedene Trainingsdaten, menschliche Aufsicht und transparente Entscheidungsfindung.\nDie regulatorische Landschaft in der Cybersicherheit Die fragmentierte und sich schnell entwickelnde globale Regulierungslandschaft für KI in der Cyber-Sicherheit erfordert Governance-Rahmenwerke, um ihre sichere und ethische Nutzung zu gewährleisten. Risiko-Rahmenwerke sind dabei ein wichtiger Trend in der KI-Regulierung. Sie klassifizieren KI-Systeme auf der Grundlage ihrer potenziellen Auswirkungen und sehen stets verhältnismäßige Regulierungsmaßnahmen vor.\nEin Beispiel: Das KI-Gesetz der Europäischen Union, das im Jahr 2025 vollständig umgesetzt werden soll, ist ein auf dem jeweiligen Risiko basierendes Regulierungsmodell. Die Nichteinhaltung kann zu erheblichen Geldstrafen führen.\nVerbesserte Forschung und Entwicklung KI bringt die Cyber-Sicherheitsforschung erheblich voran, indem sie die Erkennungsmechanismen verbessert und komplexe Systeme leichter zugänglich macht. Diese verbessert die Suche nach fortgeschrittenen, persistenten Bedrohungen (Advanced Persistent Threats, APTs) durch Mustererkennung im großen Maßstab, effiziente Extraktion von Taktiken, Techniken und Verfahren (TTPs) sowie fortschrittliche Korrelations- und Zuordnungsfunktionen.\nKI als Ergänzung der menschlichen Fähigkeiten Künstliche Intelligenz wird zu einem Grundpfeiler moderner Cybersicherheit. Vom theoretischen Konzept zum praktischen Werkzeug verbessert KI die Verteidigung, Erkennung und operative Effizienz in der gesamten digitalen Landschaft. LLMs ermöglichen es, große Datenmengen zu analysieren und in umsetzbare Erkenntnisse zu überführen – sofern die Daten strukturiert und im Kontext verfügbar sind, wodurch eine symbiotische Beziehung zu menschlichen Sicherheitsexperten entsteht. KI ergänzt die menschlichen Fähigkeiten und schafft den Experten den nötigen Freiraum für strategisches Denken, während KI sich effizient mit alltäglichen Bedrohungen, die sich in riesigen Datenmengen verstecken, auseinandersetzt.\nCISOs müssen jedoch die KI-Fähigkeiten im praktischen Sicherheitsbetrieb, jenseits oberflächlicher Behauptungen, bewerten. Nur so lässt sich ein belastbares Ergebnis über die Leistungsfähigkeit der jeweiligen Lösung erzielen.\nDer unterschiedliche Grad an KI-Konformität und -Funktionalität bei den verschiedenen Anbietern unterstreicht zudem, wie wichtig es ist, intelligente und nahtlos integrierte Lösungen durchdacht auszuwählen, die in komplexen Sicherheitsumgebungen einen spürbaren Mehrwert bieten sollen. Es bringt nichts, zur nächstbesten KI-Lösung zu greifen, um schlicht auf den Gen-AI-Zug in der Cyberabwehr aufspringen zu können.\nSchafft es der CISO, alle Beteiligten von den Vorteilen einer handfesten und planvollen Investition in KI-gestützte Cybersicherheit zu überzeugen, dann kann die KI ihr Versprechen einlösen, für eine Zukunft, in der digitale Interaktionen sicherer, widerstandsfähiger und vertrauenswürdiger sind zu sorgen. (jm/jd)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->scientific innovation"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://de.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures",
+      "https://ssl-idgbusiness.met.vgwort.de/na/82d052684d5c4e7990f72ba76a35b297",
+      "https://www.ssl-idgbusiness.met.vgwort.de/na/82d052684d5c4e7990f72ba76a35b297",
+      "https://www.de.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Hacker",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:09:10.355+03:00",
+    "updated": "2025-07-31T08:11:58.000+03:00"
+  },
+  {
+    "uuid": "9b0b9046339153def5e5c4a39991fe7acff4c7dc",
+    "url": "https://nypost.com/2025/04/16/us-news/hochul-das-say-ny-discovery-law-deal-is-very-very-close-in-budget-breakthrough",
+    "ord_in_thread": 0,
+    "author": "Published April 16, 2025, 5:52 p.m. ET Let's make a whatever-you-call-it. Gov. Kathy Hochul acknowledged Wednesday that lawmakers had reached a breakthrough",
+    "published": "2025-04-16T21:52:00Z",
+    "title": "Hochul, DAs say NY discovery law deal is 'very, very close' in budget breakthrough",
+    "text": "Let’s make a whatever-you-call-it.\nGov. Kathy Hochul acknowledged Wednesday that lawmakers had reached a breakthrough in negotiations to revamp the state’s discovery laws — even as she insisted it didn’t count as a “deal.”\nThe governor instead opted for wonky jargon, describing the end of a budget stalemate revealed the day before by Assembly Speaker Carl Heastie (D-Bronx) as a “conceptual agreement” different from a done deal.\n“I think we’re very, very close to being done and perhaps, today will be the day we say, ‘Pens are down,'” Hochul said during a news conference.\n3 Gov. Kathy Hochul said Wednesday that lawmakers are “very, very close” on a deal for changing discovery laws. Robert Miller Hochul plans to meet with Heastie and Senate Majority Leader Andrea Stewart-Cousins (D-Westchester) Wednesday evening.\nA deal — or a deal by another name — likely will clear a major logjam to passing New York’s massive $252 proposed budget, which has been held up for weeks by Hochul refusing to budge on her policy asks, especially changes to discovery\nHochul stopped short of voicing support for the plan crafted by Albany Democrats and approved by all five New York City district attorneys.\nBut rumors swirled around Albany after the deal was announced Tuesday that it was falling apart, prompting Heastie to clear the air.\n“Everything is still fine conceptually. Staff is going back and forth on drafting,” Heastie told The Post.\n3 Assembly Speaker Carl Heastie swatted down rumors that the deal was on the ropes. Zuma / SplashNews.com While Hochul contended there’s no deal over discovery, last year she unveiled the state budget deal by calling it the “parameters of a conceptual agreement” — almost the exact same term Brooklyn District Attorney Eric Gonzalez used to describe the state of play on discovery.\nChanging discovery laws was one of Hochul’s big priorities in the budget talks with state lawmakers, along with making it easier to involuntarily commit mentally ill people — a pair of policy pitches that grew from public safety concerns in the Big Apple.\nThe city’s DAs, including Manhattan District Attorney Alvin Bragg, argued that the state’s 2019 discovery reforms led to a surge in criminal case dismissals based on often-trivial technicalities.\nHochul backed their proposal to tweak the laws, narrowing the scope of evidence prosecutors have to turn over to defense attorneys and setting a 35-day time limit to challenge violations.\nCritics such as The Legal Aid Society, however, pushed lawmakers to stand firm against the changes — contending they’d give prosecutors too much power. They also argued the surge in dismissals is largely seen in New York City and stems from the NYPD failing to share evidence with prosecutors.\nDespite the pushback, Heastie said Tuesday that Dems had reached a “framework” over discovery changes.\nThe deal would:\nRequire prosecutors to just turn over evidence “relevant” to charges, narrowing it from evidence “related” to the case, Clarify that judges should only dismiss cases in which prosecutors did not exercise “due diligence,” Require defense attorneys to file discovery challenges within 35 days of prosecutors certifying to the court they’ve turned over evidence. 3 Three of New York City’s district attorneys — Manhattan’s Alvin Bragg, Brooklyn’s Eric Gonzalez and Staten Island’s Michael McMahon — flanked Hochul during Wednesday’s news conference. Robert Miller Three of New York City’s district attorneys — Gonzalez, Bragg and Staten Island’s Michael McMahon — flanked Hochul during her news conference, which was part of a tour pushing for the discovery changes.\nGonzalez said the legislative teams from the DAs and Heastie’s and Stewart-Cousin’s offices were crafting the actual language for changes.\n“Every word matters in a statute, because if a word is off or a standard is off, it changes the entire interpretation,” he said.\n“We want to make sure that the language is clear that judges will have discretion to independently and individually review each case, and that a judge would not feel that they have to dismiss a case because a document is missing.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Politics->national government",
+      "Politics->government",
+      "Politics->political development",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->business governance",
+      "Social Issue->discrimination",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Kathy Hochul",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Andrea Stewart-Cousins",
+          "sentiment": "none"
+        },
+        {
+          "name": "Robert Miller Hochul",
+          "sentiment": "none"
+        },
+        {
+          "name": "Carl Heastie",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Senate",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T00:56:55.129+03:00",
+    "updated": "2025-04-17T00:56:55.129+03:00"
+  },
+  {
+    "uuid": "4b5357f977101d5a92e45fc4f1d5b3d86be9243a",
+    "url": "https://www.thenewsenterprise.com/news/local/wednesday-night-shooting-leaves-one-dead-suspect-in-custody/article_6566f05a-a5b7-11ee-8768-5fb75ce5536e.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CONNOR WILKERSON THE NEWS-ENTERPRISE",
+    "published": "2023-12-28T05:00:00Z",
+    "title": "Wednesday night shooting leaves one dead, suspect in custody | Local News | thenewsenterprise.com",
+    "text": "An Elizabethtown man was arrested and charged with murder after police responded to a shooting Wednesday night. Chris Allen Bell Jr., 34, of Elizabethtown, has been charged in the death of Kenyeta McWilliams, 37. An Elizabethtown man was arrested and charged with murder after police responded to a shooting Wednesday night. Chris Allen Bell Jr., 34, of Elizabethtown, has been charged in the death of Kenyeta McWilliams, 37. Keep it Clean. Please avoid obscene, vulgar, lewd, racist or sexually-oriented language. PLEASE TURN OFF YOUR CAPS LOCK. Don't Threaten. Threats of harming another person will not be tolerated. Be Truthful. Don't knowingly lie about anyone or anything. Be Nice. No racism, sexism or any sort of -ism that is degrading to another person. Be Proactive. Use the 'Report' link on each comment to let us know of abusive posts. Share with Us. We'd love to hear eyewitness accounts, the history behind an article. Terms of Use. The complete terms of use policy can be found at the bottom of this page. Sorry, an error occurred. Thank you . Your account has been registered, and you are now logged in. Check your email for details. Submitting this form below will send a message to your email with a link to change your password. An email message containing instructions on how to reset your password has been sent to the email address listed on your account. No promotional rates found. Thank you. Your gift purchase was successful! Your purchase was successful, and you are now logged in. |Rate:| |Begins:| |Transaction ID:| A receipt was sent to your email.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "wedne",
+          "sentiment": "negative"
+        },
+        {
+          "name": "chris allen bell jr.",
+          "sentiment": "none"
+        },
+        {
+          "name": "kenyeta mcwilliams",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "elizabethtown",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:26:11.362+02:00",
+    "updated": "2023-12-29T01:47:45.928+02:00"
+  },
+  {
+    "uuid": "8c9e64bfe839442f83021d087d71c602eb1c62d4",
+    "url": "https://www.nwitimes.com/opinion/column/don-kusler-democrats-dominated-2023-with-victories-for-reproductive-rights-labor/article_3b65abc4-5981-57b7-a700-e6f8ff1ecd06.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Guest",
+    "published": "2023-12-30T20:22:00Z",
+    "title": "Don Kusler: Democrats dominated 2023 with victories for reproductive rights, labor",
+    "text": "2023 was a good year for Democrats and their issues at the ballot box.\nVirginia put MAGA-allied politicians with higher aspirations, such as Gov. Glenn Youngkin, on notice. Democrats maintained control of the Virginia Senate and regained control of its House control, halting Youngkin's agenda for his final two years in office.\nThat's a victory for Democrats.\nKentucky Gov. Andy Beshear won an unlikely reelection. This provided Democrats with an interesting snapshot into how to govern and campaign in a progressive way yet connect with a challenging electorate.\nThat's another victory for the left.\nTwo ballot initiative in Ohio favored Democratic positions. The first was a crass attempt by Ohio Republicans to head off a November ballot measure protecting a woman’s right to choose. By conducting a special election aimed at requiring a supermajority for public ballot measures to become law, this measure challenged both women’s rights and our democracy. The vote wasn’t close in what has become a deeply Republican state.\nPeople are also reading…\nThen on the November ballot, a measure protecting reproductive choice passed by a similar margin.\nThese electoral victories make a difference.\nJust look at two Midwestern states that used Democratic majorities paired with Democratic governors to gain a range of legislative victories. In Michigan and Minnesota, Democratic control brought gun safety laws, protections for reproductive rights and LGBTQ+ communities, climate-friendly measures and more ability of workers to organize.\nLabor, a traditional Democratic bloc, repeatedly made gains this past year by standing up, speaking out and winning favorable contracts.\nWorkers already had notched victories at Amazon and Starbucks in 2022. This trend continued in 2023 with the headline-grabbing strikes for writers in the entertainment industry and auto workers.\nSometimes victory comes more in the form of problems for your opponents. The year 2023 proved that point for Democrats with a stack of woes for Republicans.\nIt was hard not to see that the Republican Party remains wrapped tightly around the little finger of dictator-in-waiting Donald Trump. His legal woes -- business wrongdoing in New York, the careless handling of sensitive documents, and insurrectionist behavior on a national scale -- contrast nicely for Democrats against their governing and electoral successes.\nThe Republican-controlled House of Representatives provides another contrast with its chaotic and dysfunctional running of the people’s business.\nLeadership elections seems pretty straightforward. The party with the most members elects a speaker and goes about its work. Not so with the 2023 Republican House Caucus. It took four days and 15 votes to get Rep. Kevin McCarthy, R-Calif., as their speaker. Then came a series of bizarre and fruitless political projects including committee hearings, impeachment inquiries and bills with no meaningful results for the people.\nThe one exception was a deal McCarthy finally made on the most basic of functions -- funding the government. But that promptly cost him his job.\nDid the chaos subside? Well, no. More speaker votes and infighting followed over the next three weeks until Rep. Mike Johnson, R-La., was finally elected speaker.\nThe sum of this very public display of broken and unfit leadership for Republicans can be seen as nothing other than a victory for Democrats.\nSo a quick review of the naughty vs. nice list shows Republicans with a 2023 record filled with dysfunction, contrasting nicely with the Democrats' roster of electoral, legislative and ally victories.\nYes, 2023 was a good year for Democrats.\nKusler is the national director of Americans for Democratic Action:\nadaction.org. He wrote this for InsideSources.com.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Labor"
+    ],
+    "external_links": [
+      "https://adaction.org/",
+      "http://InsideSources.com",
+      "http://www.InsideSources.com",
+      "https://www.adaction.org/",
+      "https://adaction.org"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "don kusler",
+          "sentiment": "negative"
+        },
+        {
+          "name": "andy beshear",
+          "sentiment": "none"
+        },
+        {
+          "name": "youngkin",
+          "sentiment": "none"
+        },
+        {
+          "name": "glenn youngkin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "maga",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "virginia senate",
+          "sentiment": "none"
+        },
+        {
+          "name": "house",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "virginia",
+          "sentiment": "none"
+        },
+        {
+          "name": "kentucky",
+          "sentiment": "none"
+        },
+        {
+          "name": "ohio",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T22:27:43.931+02:00",
+    "updated": "2023-12-30T22:27:43.931+02:00"
+  },
+  {
+    "uuid": "eb5c96225e051318ee761ace3ff0919b2cc70cc4",
+    "url": "https://menafn.com/1107743483/Republic-Day-2024-Flt-Lt-Ananya-Sharma-Sukhoi-30MKI-Fighter-Pilot-Speaks-On-Operation-Kaveri",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MENAFN",
+    "published": "2024-01-18T23:00:00Z",
+    "title": "Republic Day 2024: Flt Lt Ananya Sharma, Sukhoi-30MKI Fighter Pilot, Speaks On Operation Kaveri | MENAFN.COM",
+    "text": "( MENAFN - AsiaNet News) Indian Air Force (IAF) will be showcasing a combination of transport aircraft C-130J, fighter aircraft Sukhoi-30MKI, light combat aircraft Tejas Mk1, and newly inducted C-295 aircraft, as part of its tableaux on Republic Day celebrations in Kartavaya Path in Delhi.\nThe tableaux will showcase the role played by the C-130J aircraft during Operation Kaveri to rescue Indians stranded in crisis-hit Sudan. The operation was launched on April 24, 2023.\nThe evacuation drive was carried out after Sudan witnessed deadly fighting between the country's army and a paramilitary group.\nA total of 3,862 Indians were brought back to India by C-130J transport aircraft.\n“Operation Kaveri was undertaken by the IAF last year, wherein C-130J“Super Hercules” was specially dedicated to rescue Indian and international citizens. more than 3,000 people were rescued from Sudan during the conflict,” Flt Lt Ananya Sharma told Asianet Newsable on Friday.\nFlt Lt Ananya Sharma is a Sukhoi-30MKI fighter pilot, who is participating as a tableau commander. Another officer Flying Officer Ashma Shaikh will also be leading the tableau.\nMENAFN19012024007385015968ID1107743483\nLegal Disclaimer:\nMENAFN provides the information “as is” without warranty of any kind. We do not accept any responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article. If you have any complaints or copyright issues related to this article, kindly contact the provider above.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://newsable.asianetnews.com/video/india-defence/republic-day-2024-flt-lt-ananya-sharma-sukhoi-30mki-fighter-pilot-speaks-on-operation-kaveri-s7i8za",
+      "https://www.newsable.asianetnews.com/video/india-defence/republic-day-2024-flt-lt-ananya-sharma-sukhoi-30mki-fighter-pilot-speaks-on-operation-kaveri-s7i8za"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ananya sharma",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ashma s",
+          "sentiment": "none"
+        },
+        {
+          "name": "kaveri",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "asianet news) indian air force",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "tejas",
+          "sentiment": "none"
+        },
+        {
+          "name": "asianet newsable",
+          "sentiment": "none"
+        },
+        {
+          "name": "iaf",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "kartavaya path",
+          "sentiment": "none"
+        },
+        {
+          "name": "sudan",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-19T21:55:17.416+02:00",
+    "updated": "2024-01-19T21:55:17.416+02:00"
+  }
+]

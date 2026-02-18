@@ -1,0 +1,498 @@
+[
+  {
+    "uuid": "94b64ca9256cc6507708f6149aca0607604599ca",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5127260",
+    "ord_in_thread": 0,
+    "author": "自由時報電子報",
+    "published": "2025-07-31T04:19:00Z",
+    "title": "Google將20億支手機變地震儀！ 《科學》期刊證實：與官方系統同樣有效",
+    "text": "Google將20億支手機變地震儀！ 《科學》期刊證實：與官方系統同樣有效\nGoogle安卓地震示警系統會向將有發生地震來襲地區的手機推送警告，並提醒用戶趴下、尋找掩護以策安全。（圖翻攝自Google）\n〔編譯陳成良／綜合報導〕Google將全球超過20億支Android手機化為地震感測器，打造出1套能即時預警地震的系統。根據最新發表於《科學》（Science）期刊的研究，這套由Google開發的「安卓地震警報系統」（Android Earthquake Alerts, AEA），在效能上已可媲美傳統地震儀網絡，並顯著擴展了全球地震預警的覆蓋範圍。\n科學新聞網站《Live Science》指出，AEA系統透過智慧型手機內建的「加速規」（accelerometers）來偵測地震最先到達的P波（primary waves），並在更具破壞力的S波（secondary waves）抵達前，向處於震央附近的使用者發送即時警報。研究團隊指出，這種分散式感測架構，能夠補足全球多數地震好發地區缺乏預警設施的漏洞。\n與傳統地震預警系統需仰賴昂貴的地面地震儀不同，AEA的設計利用既有手機硬體與全球定位功能，大幅降低建置成本。Google代表強調：「即便只有幾秒鐘的預警時間，也足以讓人們遠離危險並尋求掩護。」\n研究統計顯示，從2021年至2024年間，AEA成功偵測到超過1萬1000起地震，並在98 個國家向使用者發出逾1200次警報。使用者總數也從2019年的2.5億人，激增至25億人，顯示其全球影響力正快速擴大。根據用戶回饋，約85%的民眾在地震發生時收到了警報，其中36%更是在震動發生前就獲得通知。\n不過，這套系統也面臨技術挑戰。研究人員坦言，手機加速規的偵測精度仍不及專業地震儀，特別在評估大型地震規模時存在誤差。例如2023年土耳其強震中，AEA便嚴重低估了實際震度。團隊表示，已依據回收數據持續調整演算法，以提升預測準確率。\n此外，由民間科技企業營運關鍵災害警報系統，也引發部分倫理與責任爭議。對此，Google表示，AEA的設計目的是「補充而非取代官方預警機制」。研究團隊總結指出，此研究證明智慧型手機網絡在地震預警上的潛力，未來或將成為全球公共安全基礎建設的一部分。\n免費訂閱《自由體育》電子報\n熱門賽事、球星動態不漏接",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->natural science",
+      "Science and Technology->scientific innovation",
+      "Social Issue->demographics",
+      "Social Issue->mankind",
+      "Social Issue->social services",
+      "Lifestyle and Leisure->outdoor recreational activities",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->wellness"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [
+        "top_news_hk",
+        "top_news_nz",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:24:59.035+03:00",
+    "updated": "2025-08-01T09:05:19.000+03:00"
+  },
+  {
+    "uuid": "3f68019a71c9bf93eb3a8f4034ef3a548bc811ef",
+    "url": "https://www.wxyz.com/weather/forecast/todays-forecast/metro-detroit-weather-a-breezy-warm-up-today",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mike Taylor",
+    "published": "2024-10-11T07:07:00Z",
+    "title": "Metro Detroit Weather: A breezy warm up today",
+    "text": "Steady showers and a few thunderstorms roll through Sunday evening. The chance for storms ends overnight, but showers will continue through the early morning. Lows fall into the low 40s by Monday morning. Scattered light showers continue Monday, with otherwise partly sunny skies. Winds will be out of the north at 10 mph, with a few gusts up to 20 mph. Temperatures drop Monday night into Tuesday morning into the 30s. Frost will be likely, outside the immediate Metro Detroit region. Partly sunny skies continue Tuesday, with a chance for showers up near Lake Huron. Temperatures climb to near 50°, with 51° expected in Detroit. High pressure will bring sunshine Wednesday through Saturday with temperatures slowly warming each day. Lows will be in the 30s Wednesday, with highs in the low 50s. Lows start back in the 30s Thursday, but highs climb to near 60°. Lows start again in the 30s Friday, but highs climb into the low to mid 60s. Finally on Saturday temperatures start in the low 40s and climb into the upper 60s. Tonight: Rain moves through with a chance of thunder. Lows in the low 40s. Winds: N 10 G20 mph. Monday: Partly sunny with a scattered showers. Highs in the low to mid 50s. Winds: N 10 G20 mph. Tuesday: Partly sunny. Chance for a shower near Lake Huron. Highs near 50°. Winds: NW 5-15 mph. [Detroit weather 7-day forecast](https://www.wxyz.com/weather/daily-forecast) Connect with 7 First Alert Meteorologists: Facebook: [Dave Rexroth](https://www.facebook.com/home.php#!/daverexroth) , [Hally Vogel](https://www.facebook.com/Meteorologist-Hally-Vogel-WXYZ-296975016981225/), Mike Taylor, [Marisa Woloszyn](http://www.facebook.com/MarisaWoloszyn) X: [Dave Rexroth](https://twitter.com/rexroth7wxyz) , [Hally Vogel](https://twitter.com/HallyVogelWXYZ), Mike Taylor, [Marisa Woloszyn](http://www.twitter.com/Marisa%20Woloszyn)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/Meteorologist-Hally-Vogel-WXYZ-296975016981225/),",
+      "https://www.facebook.com/home.php#!/daverexroth)",
+      "http://www.twitter.com/Marisa%20Woloszyn)",
+      "https://twitter.com/HallyVogelWXYZ),",
+      "https://twitter.com/rexroth7wxyz)",
+      "http://www.facebook.com/MarisaWoloszyn)",
+      "https://facebook.com/Meteorologist-Hally-Vogel-WXYZ-296975016981225/),",
+      "https://www.twitter.com/rexroth7wxyz)",
+      "http://twitter.com/Marisa%20Woloszyn)",
+      "https://facebook.com/home.php#!/daverexroth)",
+      "http://facebook.com/MarisaWoloszyn)",
+      "https://www.twitter.com/HallyVogelWXYZ),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Dave Rexroth",
+          "sentiment": "none"
+        },
+        {
+          "name": "Mike Taylor",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-11T14:44:56.039+03:00",
+    "updated": "2024-10-18T16:19:29.373+03:00"
+  },
+  {
+    "uuid": "0e48e77d37d1bb90f03fe6e287b91257800a4a58",
+    "url": "https://www.climbing.com/skills/sport-climbing/alannah-yip-sport-climbing-advice",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anthony Walsh",
+    "published": "2024-09-05T20:09:00Z",
+    "title": "Alannah Yip’s Top 4 Tips for Sport Projecting",
+    "text": "Alannah Yip is one of Canada’s most decorated climbers—indoors or out. Not only was she the sole female to represent Canada at the Tokyo Olympics, she’s also sent Pulse (5.14a) and Room Service (V12) in Squamish, B.C. I recently interviewed Yip at the Arc’teryx Climbing Academy, where we talked about her illustrious (and recently finished) comp career, her hair loss due to Alopecia, mental training, and her transition to full-time rock climbing. You can read our conversation here.\nAlannah Yip shares the final points of clipping while horrifically pumped during a sport-climbing tactics clinic at the Arc’teryx Climbing Academy in Squamish, B.C. (Photo: Anthony Walsh) The next day, Yip gave a sport climbing clinic which I eagerly attended. She dropped a lot of knowledge beneath Squamish’s famous granite crags, but four things stuck out to me for projecting sport routes at your limit:\nOn figuring out impossible moves : Stick clip up and ask for a take so you can get weight off your arms, and feel all the available holds and test all possible body positions. Consider working down from key holds or rests, rather than solely working up. Warm up : It’s not just about injury prevention. Yip can’t climb her hardest without a proper, full-body warm up including shoulders, fingers, and hips. She does 10-15 minutes of ground warm up before doing her first pitch. On that first warm-up pitch, the goal is to warm up—not send! Yip has taken on 5.9 before if she get confused. She stresses: Do not get pumped on the warm up. If she’s doing a 5.14a project, for example, she’d warm up on an 5.11+ and then a 5.12+/13-, and then do finger-specific warm up on a hangboard. Be efficient when resting : It’s easy to get impatient at rests, and leave them before you’ve milked them for all they’re worth. Yip likes to decide how long she needs to be at that rest beforehand, and then have her belayer set a timer to hold her accountable. On big projects, set smaller linking goals : We all need smaller victories on the way to clipping the chains. Before giving redpoint attempts, Yip will make a goal of linking from the ground to the end of the crux. Then she’ll try to link from the beginning of the crux to the chains. These overlapping links help mentally, too. She will make more mini-goals the longer term the project is.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://outsideapp.onelink.me/wOhi/6wh1kbvw",
+      "https://www.facebook.com/watch/?v=2591453084488287",
+      "https://www.facebook.com/watch/",
+      "https://www.outsideapp.onelink.me/wOhi/6wh1kbvw",
+      "https://facebook.com/watch/?v=2591453084488287"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "alannah yip",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "squamish",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-06T00:40:38.812+03:00",
+    "updated": "2024-09-06T05:47:50.242+03:00"
+  },
+  {
+    "uuid": "c34f4e32f8917c2a92974ac30acef6db681e7a02",
+    "url": "https://www.newsbreak.com/angry-ben-1720666/3739418772566-blizzard-or-near-blizzard-conditions-possible-across-parts-of-kansas-missouri-and-illinois",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak",
+    "published": "2025-01-03T04:17:00Z",
+    "title": "Blizzard or Near-Blizzard Conditions Possible Across Parts of Kansas, Missouri, and Illinois",
+    "text": "3 hours ago Heavy Snow, Ice, and Wind May Spread Into Indiana & Kentucky 01/02/25 4:07pm EST\n12Z EURO 01/02/25 for 0/05/2542pm EST Photo by Tropical Tidbits Good afternoon everyone. We continue to watch the pieces of the puzzle moving into place in order to give ourselves our first true powerful winter storm system of the season.\nThis looks to be a big one, and not for the \"typical\" spots such as the Northeast & New England. Our first major storm for the season, looks ot impact the Midwest, Central, Gulf, and Mid-Atlantic states between this weekend and Monday from west to east.\nOur first concern will be across parts of Kansas, Nebraska, Missouri, and Illinois as low pressure gets going and is energized by energy from the Gulf of Mexico. Very cold air rushing in behind it, plus cold low pressure keeping everything from progressing to the northeast, will help create a very long shield of frozen precipitation.\nWhere the air is cold enough, we'll see all snow and alot of it. By the time all is said and done, and we see where the heaviest snow band sets up, we could be dealing with 1-2ft of snow; plus winds in excess of 45-50mph in spots. This in turn, could also set the parameters for blizzard warnings in the final phase of dealing out watches and warnings across the region.\nAnother major hazard will be the freezing rain and sleet involved where overunning of warm air takes place, but stubborn cold air remains locked at the surface. Heavy freezing rain and sleet may occur as onset precipitation across parts of Kansas and Missouri before changing over to all snow, but we could also see a more prolonged period of icing across parts of east/central Missouri, lower Illinois, and lower Indiana.\nThis will also change to all snow, then eventually spread into Kenutcky, then Virginia and into Maryland and Delaware. We could also see some light to moderate snow in southern Pennsylvania and New Jersey; as well as some light snow and flurries possible across New York City and Long Island on Monday.\nThe final phase of this is the warm quadrant of our system, where severe weather is likely across parts of Texas, Louisiana, Arkansas, Mississippi, and Alabama. Look for a defined, fast-moving line to form Sunday afternoon, then race across the south and eventually into Georgia, South Carolina, and North Carolina.\nBack in Texas, Arkansas, and the Gulf States, look for powerful thunderstorms capable of damaging winds in excess of 60mph, large hail, frequent lightning, torrential rain, and an elevated risk of tornadoes. Be prepared to take action in order to save property and/or life.\nNational Weather Service - Winter Storm Warning Till Sunday Evening - Topeka, KS\nSevere Weather Risk Blizzard Freezing Rain Winter Travel Hazards Weather Forecast Accuracy 57",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "topics": [
+      "Weather->weather phenomena"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1F5d1s_0xovnaHo00",
+      "https://img.particlenews.com/image.php?url=1F5d1s_0xovnaHo00",
+      "https://www.tropicaltidbits.com/analysis/models/?model=ecmwf&region=us&pkg=mslp_pcpn_frzn&runtime=2025010212&fh=6",
+      "https://forecast.weather.gov/showsigwx.php?warnzone=KSZ039&warncounty=KSC177&firewxzone=KSZ039&local_place1=Topeka%20KS&product1=Winter+Storm+Watch&lat=39.0379&lon=-95.692",
+      "https://forecast.weather.gov/showsigwx.php",
+      "https://www.tropicaltidbits.com/analysis/models/",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1F5d1s_0xovnaHo00",
+      "https://img.particlenews.com/image.php",
+      "https://www.img.particlenews.com/image.php?url=1F5d1s_0xovnaHo00",
+      "https://www.forecast.weather.gov/showsigwx.php?warnzone=KSZ039&warncounty=KSC177&firewxzone=KSZ039&local_place1=Topeka%20KS&product1=Winter+Storm+Watch&lat=39.0379&lon=-95.692",
+      "https://tropicaltidbits.com/analysis/models/?model=ecmwf&region=us&pkg=mslp_pcpn_frzn&runtime=2025010212&fh=6"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Mid-Atlantic",
+          "sentiment": "none"
+        },
+        {
+          "name": "Midwest",
+          "sentiment": "none"
+        },
+        {
+          "name": "Gulf of",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T09:32:47.334+02:00",
+    "updated": "2025-01-03T09:32:47.334+02:00"
+  },
+  {
+    "uuid": "cad5f2dcce6e682f37a68a5048eca7e5717a46a5",
+    "url": "https://www.bjpenn.com/mma-news/colby-covington/colby-covington-responds-to-complete-scrub-michael-chandler-after-prelim-comment-im-an-all-time-great/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Josh Evanoff",
+    "published": "2023-12-28T22:35:00Z",
+    "title": "Colby Covington responds to ‘complete scrub’ Michael Chandler after prelim comment: “I’m an all-time great!”",
+    "text": "Colby Covington responds to ‘complete scrub’ Michael Chandler after prelim comment: “I’m an all-time great!”\nFormer UFC interim welterweight champion Colby Covington is unhappy with Michael Chandler.\n‘Chaos’ is fresh off his return to the octagon at UFC 296 earlier this month. For Colby Covington, the bout was his first in well over a year, and it didn’t go well. Facing\nLeon Edwards in the main event of the pay-per-view offering from Las Vegas, he was dominated. The sight of Covington losing was a delight to some, including Michael Chandler.\n‘Iron’ was in attendance at UFC 296, to watch Leon Edwards defeat Colby Covington. Following the bout, Michael Chandler publically mocked ‘Chaos’ in several interviews and on social media. He specifically mocked the former interim champion’s friendship with Donald Trump. Chandler stated that Covington took\n“1776 shots to the face” in front of the former President.\nWith the loss, Michael Chandler added that Colby Covington was likely prelim bound. It’s clear that the former interim welterweight champion doesn’t agree with those remarks at all.\nEarlier this week, Colby Covington decided to respond to the former Bellator champion. Speaking on the PBD Podcast, the welterweight contender slammed Michael Chandler. Despite the latter stating that Covington would be bound for the prelims following his performance, he believes his resume would prevent that.\nRELATED:\nCODY GARBRANDT REJECTS POTENTIAL DOMINICK CRUZ REMATCH: “WHAT ELSE AM I SUPPOSED TO DO WITH THE GUY?”\nColby Covington slams Michael Chandler following UFC 296 prelims comments\n“Michael Chandler, who?” Colby Covington stated on the\nPBD Podcast earlier this week, responding to comments from the UFC lightweight contender. “That guy was getting knocked out in Bellator, that guy is a complete scrub. What’s his UFC record? Like 1-4? We’re talking about that? My win percentage in the UFC is like over 90%, it’s just, I’m an all-time great in this division.”\nHe continued, “I’ve done things in this division that people aren’t ever going to do. I’m the only fighter to ever go to the White House and hang out with the sitting President. I’m the only one to ever have the first family, front row, I’m the only one to ever have a President out there supporting him. Dapping me up before I walk in the octagon.”\n“He can keep talking all he wants,” Colby Covington concluded, referring to Michael Chandler. “But, there’s no substance. Just another guy who is all talk, no walk.”\nColby Covington’s comments about Michael Chandler are just some of the few scathing remarks that he’s made since his UFC 296 defeat. In the aftermath of the loss, he continued to mock Leon Edwards’ deceased father. Before their bout earlier this month, Covington stated that the father of ‘Rocky’ was in hell.\nFollowing the loss, Covington also called to face Stephen Thompson. ‘Wonderboy’ too returned at UFC 296, suffering a submission loss to Shavkat Rakhmonov. However, in recent days, the former interim welterweight champion\nhas instead called out Ian Garry. As of now, ‘The Future’ is slated to face Geoff Neal at UFC 298 in February.\nWhat do you make of these comments from Colby Covington? Do you agree with ‘Chaos’? Or do you believe that Michael Chandler was correct about the welterweight’s future?",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport"
+    ],
+    "external_links": [
+      "https://www.youtube.com/live/G168KuAXTW4?si=B_fbRXCBMZr-CL4W",
+      "https://www.youtube.com/live/G168KuAXTW4",
+      "https://youtube.com/live/G168KuAXTW4?si=B_fbRXCBMZr-CL4W"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "michael chandler",
+          "sentiment": "negative"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "leon edwards",
+          "sentiment": "none"
+        },
+        {
+          "name": "covington",
+          "sentiment": "none"
+        },
+        {
+          "name": "chandler",
+          "sentiment": "none"
+        },
+        {
+          "name": "colby covington",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "colby covington",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ufc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "las vegas",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:50:11.612+02:00",
+    "updated": "2023-12-29T00:50:11.612+02:00"
+  },
+  {
+    "uuid": "70291562a3d1e6bff81354a4a4759dec3a86f84c",
+    "url": "https://www.abc.es/recreo/dermatologa-enumera-cinco-piel-encargado-castigarme-20250131094239-nt.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "María Albert",
+    "published": "2025-01-31T07:42:00Z",
+    "title": "Una dermatóloga enumera las cinco cosas que jamás se haría en la piel: «Se ha encargado de castigarme»",
+    "text": "Una dermatóloga enumera las cinco cosas que jamás se haría en la piel: «Se ha encargado de castigarme»\nLa doctora Anna Puigdollers ha advertido sobre los errores que más cometemos a la hora de realizarnos nuestro 'skincare' diario\nUna dermatóloga explica cómo hacer una limpieza facial de forma correcta en menos de un minuto: «Fortalece la barrera cutánea»\nPreguntan a jóvenes de España cuál es la carrera universitaria con más infieles: «Salen mucho de fiesta»\nCada vez somos más conscientes de la importancia que puede tener para nuestra salud el cuidado de la piel o, como muchos lo llaman ahora, un buen 'skincare'. En los últimos años, muchas personas se han sumado a esta oleada de productos ─cremas hidratantes, sérums, limpiadores o tónicos─ y tratamientos ─láseres, peelings, radiofrecuencia...─ que no han dejado de proliferar en las redes sociales con la intención de tener un rostro perfecto, sin imperfecciones y con aspecto casi de porcelana.\nSin embargo, más allá de las recomendaciones que encontremos en internet, lo cierto es que lo mejor es seguir siempre los consejos de un especialista en la materia para lograr la mejor versión de nuestra piel. Debemos tener en cuenta, además, que no sólo son importantes los productos que empleemos, sino también evitar los errores más habituales que cometemos y que los dermatólogos pueden ayudarnos a prevenir.\nSobre esto último ha dado ahora más claves la doctora Anna Puigdollers, especialista en el tratamiento de la piel y con consulta en Barcelona. En uno de sus últimos vídeos publicado en su cuenta de TikTok ha querido advertir a sus seguidores sobre las cinco cosas que jamás haría para cuidar su piel como dermatóloga y que se suelen hacer de vez en cuando.\nReventarse granos\nEn primer lugar, esta médico especializada ha advertido sobre la importancia de «no reventarse granos» para mantener nuestro rostro sano: «Cuando nos petamos granitos, estamos produciendo una herida en nuestra piel que es una auténtica puerta de entrada para que entren bacterias y sobreinfecten el grano, retrasando muchísimo su curación», ha explicado Puigdollers, señalando que «la porquería puede hacer que se inflame más nuestra piel y que salgan más granitos».\nRealizarse procedimientos estéticos con personas no cualificadas\nComo segunda recomendación, esta dermatóloga ha solicitado que se eviten «procedimientos estéticos realizados por una persona que no esté cualificada», incluyendo láseres, peelings e infiltraciones de cualquier tipo de material. «Tampoco recomiendo y tampoco me lo haría yo si fuera por un profesional cualificado para hacer dicho procedimiento, pero no para tratar las complicaciones posibles», ha reconocido.\nSeguir las recomendaciones de 'skincare' que ves en redes sociales\nTambién ha advertido sobre la importancia de no basar la rutina de 'skincare' en las recomendaciones de personas que no son dermatólogas, como los 'skinfluencers' de redes sociales. «Toda su fuente de ingresos se basa en lo que les paga la cosmética para que digan lo que quieren que digan. Además, muchas veces tienen ya una piel espectacular, pero por genética, no gracias a la crema que están vendiendo», ha comentado. En su lugar, ha aconsejado acudir al dermatólogo para seguir el procedimiento adecuado para nuestra piel.\nLas limpiezas de cutis sin tratamientos previos\nLa doctora Anna Puigdollers también ha advertido sobre los peligros de realizarse una limpieza de cutis si no se aplica un tratamiento que regule la glándula sebácea, pues lo considera «contraproducente». Por su parte, ha explicado que tampoco se habríauna limpieza de cutis «si antes no me han abierto el poro, generalmente con vapor de agua caliente»: «Es equivalente a estar reventándome granos y pueden aparecer las mismas complicaciones, desde marcas, manchas, hasta cicatrices e incluso queloides», ha alertado.\nIrse a dormir con maquillaje y crema solar puesta\nPor último, la dermatóloga ha explicado que jamás se iría a dormir con maquillaje o con crema solar puesta, pues «obstruye poros y puede hacer que salgan granos si lo hacéis». Cometer este error también puede ser irritante para nuestra piel, además de que los restos que quedan «son oxidantes»: «Nos hace envejecer y pueden interrumpir el proceso de reparación que se produce por la noche en la piel».\n[@dra.annapuigdollers]5 cosas que no haría jamás como dermatóloga… Aunque acabo confesando alguna… 😌 ¡Nadie es perfecto![#consejosdedermatóloga][#dermatips][#dermatologist][#dermatology][#dernatologia][#consejossaludables][#creatorsearchinsights][♬ original sound - Anna Puigdollers]\nPuigdollers también ha señalado que esto no significa que no lo haya hecho nunca y que, aunque «una vez al año no hace daño», sí ha notado que esto puede provocarle problemas en el rostro: «Cuando me ha pasado, pues mi piel se ha encargado de castigarme con un buen brote de rosácea y con tres granos nuevos al día siguiente», ha concluido.\nEsta funcionalidad es sólo para suscriptores\nSuscribete",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Health->medical condition",
+      "Lifestyle and Leisure->wellness",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Anna Puigdollers",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T12:11:05.184+02:00",
+    "updated": "2025-01-31T12:11:05.184+02:00"
+  },
+  {
+    "uuid": "deba21314a31d3aafc04d904e3f77c7109fcb18d",
+    "url": "https://tucson.com/news/local/crime-courts/tucson-police-fatal-shooting-october-matthew-salinas/article_e48d8322-a5ac-11ee-97f9-ef943d24dfff.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Erika Wurst",
+    "published": "2023-12-28T22:15:00Z",
+    "title": "Video: Man shot into the air prior to Tucson police shooting",
+    "text": "Newly released video shows the chaos Tucson police found in October during a deadly confrontation with a man firing a gun outside a home on the city’s south side.\nMatthew Arthur Salinas, 43, is seen on video shooting a revolver into the air multiple times about 9:30 p.m. Oct. 26, before and as police officers arrive at the scene near West Bilby Road and South Sixth Avenue.\nThe Pima Regional Critical Incident Task Force (PRCIT) released the video and provided more details about the events that preceded the shooting , but said the case remains under investigation.\nA 911 caller told a dispatcher that a neighbor was in her house looking for help.\n A 1960s Tucson home will soon be surrounded by new housing development Embattled U.S. 42 New Year's Eve events in Tucson to help you ring in 2024 Meet the Tucson man who saved Barbie 'We New Gunfire can be heard during portions of the 911 call.\nPolice body cam video shows officers nearby.\nOfficer Joshua Camacho, who has been with TPD for eight years, fires at Salinas from his department-issued rifle after another gunshot can be heard, the video shows.\nOnce law enforcement cleared the area they began rendering life-saving aid to Salinas. He was eventually declared dead at the scene.\n“Conclusions about whether the officer’s actions were consistent with agency policy and the law will not be made until all the facts are known and the investigation is complete,” PRCIT said as part of the video. The team made up of law enforcement agencies across Pima County reviews police-involved shootings. The lead agencies in this particular review are the Pima County Sheriff’s Department and the Oro Valley Police Department.\nThe Tucson Police Department is conducting a separate investigation to ensure department policies were followed.\nOnce PRCIT finishes its investigation it will present its findings to the Pima County Attorney’s Office for review, which is standard procedure.\nGet your morning recap of today's local news and read the full stories here: tucne.ws/morning",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://redirect.field59.com/video/63e4b78474134d97dd71edc760146da5323f020f.mp4",
+      "https://pubads.g.doubleclick.net/gampad/ads?env=instream&correlator=&#039;+Date.now()+&#039;&description_url=https%3A%2F%2Ftucson.com%2Fnews%2Flocal%2Fcrime-courts%2Fvideo_90d8efd0-3c56-50e4-b4f7-e9fa3dd9ac8e.html&gdfp_req=1&iu=/8438/tucson.com/news/local/crime-courts&output=vast&sz=640x480%7C640x360%7C400x300%7C1920x1080%7C426x240%7C1290x720&unviewed_position_start=1&url=https%3A%2F%2Ftucson.com%2Fnews%2Flocal%2Fcrime-courts%2Fvideo_90d8efd0-3c56-50e4-b4f7-e9fa3dd9ac8e.html&cust_params=k%3Df",
+      "https://redirect.field59.com/video/63e4b78474134d97dd71edc760146da5323f020f.m3u8",
+      "http://www.youtube.com/watch?v=J5fVuhPN0Z8",
+      "https://www.redirect.field59.com/video/63e4b78474134d97dd71edc760146da5323f020f.mp4",
+      "https://pubads.g.doubleclick.net/gampad/ads",
+      "http://www.youtube.com/watch",
+      "http://youtube.com/watch?v=J5fVuhPN0Z8",
+      "https://www.pubads.g.doubleclick.net/gampad/ads?env=instream&correlator=&#039;+Date.now()+&#039;&description_url=https%3A%2F%2Ftucson.com%2Fnews%2Flocal%2Fcrime-courts%2Fvideo_90d8efd0-3c56-50e4-b4f7-e9fa3dd9ac8e.html&gdfp_req=1&iu=/8438/tucson.com/news/local/crime-courts&output=vast&sz=640x480%7C640x360%7C400x300%7C1920x1080%7C426x240%7C1290x720&unviewed_position_start=1&url=https%3A%2F%2Ftucson.com%2Fnews%2Flocal%2Fcrime-courts%2Fvideo_90d8efd0-3c56-50e4-b4f7-e9fa3dd9ac8e.html&cust_params=k%3Df",
+      "https://www.redirect.field59.com/video/63e4b78474134d97dd71edc760146da5323f020f.m3u8"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "lee sun-kyun",
+          "sentiment": "none"
+        },
+        {
+          "name": "kari lake",
+          "sentiment": "none"
+        },
+        {
+          "name": "matthew arthur salinas",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "u.s. consulate",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "tucson",
+          "sentiment": "none"
+        },
+        {
+          "name": "rocky point",
+          "sentiment": "none"
+        },
+        {
+          "name": "west bilby road",
+          "sentiment": "none"
+        },
+        {
+          "name": "south sixth avenue",
+          "sentiment": "none"
+        },
+        {
+          "name": "sonora",
+          "sentiment": "none"
+        },
+        {
+          "name": "arizona",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:05:05.779+02:00",
+    "updated": "2023-12-31T20:52:03.116+02:00"
+  },
+  {
+    "uuid": "f9dfa49ece1b60cbe1f513981311c6c3f5da0b94",
+    "url": "https://www.thestar.com.my/tech/tech-news/2024/11/15/activist-terrible-ai-has-given-tech-an-existential-headache",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Joseph BOYLE",
+    "published": "2024-11-15T04:00:00Z",
+    "title": "Activist: ‘Terrible’ AI has given tech an existential headache | The Star",
+    "text": "LISBON: Technology firms are ceaselessly promoting new AI products, but climate activist Sage Lenier says AI is useless, unsustainable and has given the industry an existential problem.\n\"AI has no benefit to society,\" she told AFP on the sidelines of the Web Summit tech conference in Lisbon.\nThe CEOs who have become enraptured by a \"useless\" product class have smashed the idea of tech as an essential utility.\n\"And now they have an existential problem,\" she said.\nLenier first garnered attention as a 19-year-old student in 2018 when she founded and led a course at the University of California, Berkeley, titled \"Solutions for a Sustainable & Just Future\".\nShe has said students like her were sick of the kind of climate education that offered no hope – she wanted to focus on the solutions not just the problems.\nHundreds joined the course at Berkeley over the years and eventually hundreds more online, and Lenier has since built a nonprofit around it and now hopes to launch a documentary series.\nThe California native, who now lives in New York, said she was largely positive about tech.\nBut her climate focus makes her an outsider at the Web Summit – \"I'll keep coming if they want me to shout at them,\" she said.\nLast year, she told the crowd: \"Some of you could be considered directly responsible for architecting the ecological crisis.\"\nShe implored tech bosses to embrace the circular economy, which relies on reusing and recycling rather than creating products that end up being junked.\nBut one year on, Microsoft, Google and others have unleashed an endless stream of energy-gobbling AI products.\nThey have rushed to reopen nuclear plants, pledged to build many more data centres – and crashed through their climate targets.\n‘Waste of emissions’\nYet AI, Lenier said, \"has a million negatives\".\n\"It is terrible for the planet. It's terrible for every community that you're running data centres in. And it's useless. I think it's just a waste of emissions,\" she said.\nShe points out that it was not always this way in the tech sector.\n\"It was the only industry, at least in America, where for years and years they tried to portray themselves as clean, green and pro-future,\" she said.\n\"Bill Gates has written multiple books on climate change.\"\nThe CEOs really want the image, and succeeded in dodging the kind of scrutiny put on the fashion and automotive industries.\n\"Then the moment they got an opportunity, with AI, to increase shareholder returns... every single one of them slammed the red button,\" she said.\n‘So bad so fast’\nAlthough Lenier came to prominence by focusing attention on the solutions to the climate crisis, she sees a bleak future coming within a generation.\n\"(Expletive) is going to get so bad so fast. The food chain is going to break. We will see mass malnourishment if not mass starvation,\" she said.\nThe power grid, too, will break down.\nAgainst this background, products like cars and new clothes are superfluous.\n\"You can't have cars in the long term. It doesn't matter if they're electric or not. They're unsustainable,\" she said.\n\"We can't be producing 80 billion garments of clothing a year in a low carbon future.\"\nA year ago, she said she might have argued that tech was something different.\n\"It's a piece of our infrastructure, we built our societies around it,\" she said.\nBut with AI, \"they've given themselves their own little fast fashion\". – AFP\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Sage Lenier",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "AFP",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T07:35:51.123+02:00",
+    "updated": "2024-11-15T07:35:51.123+02:00"
+  }
+]

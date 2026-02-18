@@ -1,0 +1,400 @@
+[
+  {
+    "uuid": "674771b3f08a4aba9eee54b7ff3f478d6ecd09d4",
+    "url": "https://www.prokerala.com/news/articles/a1546640.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@prokerala",
+    "published": "2024-07-12T02:48:00Z",
+    "title": "UEFA president Aleksander Ceferin hails Euro 2024 as 'best ever' edition of tournament",
+    "text": "The 2024 edition of the European Championship is nearing completion, and ahead of the much awaited final between Spain and England at the Olympiastadion, UEFA president Aleksander Ceferin has said that the tournament has been a success and hailed it as 'the best Euro ever.' Berlin, July 12 (IANS) The 2024 edition of the European Championship is nearing completion, and ahead of the much awaited final between Spain and England at the Olympiastadion, UEFA president Aleksander Ceferin has said that the tournament has been a success and hailed it as â€˜the best Euro ever.â€™ \"Everything was amazing. In my opinion, it's probably the best Euro ever. Fans enjoyed it, and we have had no major incidents with them. We've seen fantastic football, with top teams. The only issue was the weather - sometimes it was good, sometimes not so much. But, all in all, it was a great, great tournament,\" said Ceferin to Xinhua news agency. The 2024 European Championship has seen 114 goals being scored over the course of the past two months, at an average of 2.29 goals being scored per game and one goal scored every 39 minutes. There are currently six players who are tied for the Golden Boot award with only two of them remaining in the competition in the likes of Dani Olmo (Spain), Harry Kane (England), Jamal Musiala (Germany), Cody Gakpo (Netherlands), Ivan Schranz (Slovakia) and Georges Mikautadze (Georgia). The UEFA president went on to name the teams that have made an impact at the tournament and suggested that the gap between lower ranked teams is drawing closer. \"From what they showed so far, the Spanish team has been impressive. The others, like France, England, and Germany, did very well. I was impressed by smaller teams like Slovakia, Georgia and, of course, my Slovenia, who made me very proud,\" he added.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Sport",
+      "Politics"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "aleksander ceferin",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ceferin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "uefa",
+          "sentiment": "negative"
+        },
+        {
+          "name": "xinhua",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "berlin",
+          "sentiment": "none"
+        },
+        {
+          "name": "england",
+          "sentiment": "none"
+        },
+        {
+          "name": "spain",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-12T11:00:40.605+03:00",
+    "updated": "2024-07-12T12:56:45.093+03:00"
+  },
+  {
+    "uuid": "35cfc1ecd47863377d435fc610bea2b07d9fab2e",
+    "url": "https://www.bbc.com/news/articles/cdx2179klk5o",
+    "ord_in_thread": 0,
+    "author": "Maia Davies",
+    "published": "2025-03-27T16:44:00Z",
+    "title": "Sky says 2,000 jobs at risk at its customer service centres",
+    "text": "Sky says 2,000 jobs at risk at customer service sites\nSky has said 2,000 call centre jobs are at risk under plans to move more of its customer service online.\nThe media and telecoms company plans to close three of its 10 UK customer service centres, it said on Thursday, citing changing consumer preferences and declining call volumes.\nThe planned cuts - which would see its Stockport, Sheffield and Leeds Central call centres close - represent 7% of its total workforce and are subject to consultation.\nA Sky spokesman said it was making a multi-million pound investment in its Livingston site, near Edinburgh, as part of a transformation \"to deliver quicker, simpler and more digital customer service\".\nAs well as closing three sites, operations at its Dunfermline and Newcastle sites would also be affected by the plans.\nSky News reports that the company, which is owned by Comcast, receives around 25 million calls a year from customers across Europe each year - though it expects this to decrease by a third in the next few years.\nSky says that many customers now want different means of contacting them - including via online chat and emails - and to be able to contact them 24 hours a day.\nAs well as upgrading its Livingston site, the company said it would invest in \"cutting-edge digital technology to make our service seamless, reliable, and available 24/7\".\nThe Sky spokesman said: \"This is about building a future-ready Sky that continues to put our customers and their needs first.\"\nIn January 2024, Sky said it was planning to cut 1,000 jobs in the UK as it moved towards more internet-based services.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->layoffs",
+      "Economy, Business and Finance->human resources",
+      "Labor->unemployment",
+      "Labor->labour market",
+      "Labor->employment",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "UK",
+          "sentiment": "positive"
+        },
+        {
+          "name": "Stockport",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Sheffield",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Leeds Central",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Europe",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Livingston",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Edinburgh",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Dunfermline",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Newcastle",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Sky News",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Comcast",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-27T21:01:54.591+02:00",
+    "updated": "2025-03-27T21:01:54.591+02:00"
+  },
+  {
+    "uuid": "41fe3523db1d62703102fa6cf041c1fd258a6104",
+    "url": "https://finance.yahoo.com/news/western-digital-corp-posts-wider-223311157.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Motley Fool",
+    "published": "2024-01-25T21:33:00Z",
+    "title": "Western Digital Corp posts wider Q2 loss, sees impact of structural changes",
+    "text": "Reuters Western Digital Corp posts wider Q2 loss, sees impact of structural changes Read full article Reuters January 26, 2024 at 12:33 a.m. · 1 min read Jan 25 (Reuters) - Data storage products maker Western Digital Corp posted a wider-than-expected quarterly adjusted loss on Thursday, due to the impact of structural changes the company implemented in its flash and HDD businesses.\nShares of the company were down about 4% in after-market trading.\nLast quarter, the company said it would spin off its flash memory business, which has been grappling with a supply glut after talks of merging the unit with Japan's Kioxia stalled, by the second half of 2024.\nThe company said its second-quarter loss included $156 million of underutilization-related charges in Flash and HDD.\nOn an adjusted basis, the company reported a loss of 69 cents per share, missing analysts' average estimate of a loss of $1.31 per share, according to LSEG data.\nWestern Digital expects current-quarter adjusted profit ranging from a loss of $0.10 to a profit of $0.20 per share.\nThe company reported revenue of $3.03 billion for the quarter ended Dec. 29. Analysts had expected revenue of $3.39 billion.\n(Reporting by Tanya Jain in Bengaluru; Editing by Krishna Chandra Eluri)\nTRENDING 1. Goodbye 'hawkish bias': Here's when economists think the Bank of Canada will cut rates 2. If Interest Rates Decline as Expected, These 3 TSX Stocks Are Screaming Buys 3. Avoid This Energy Stock (for Now) and Consider This Top Stock Up 21% Instead 4. Bank of Canada takes rate hikes off the table, as it holds overnight rate at 5 per cent 5. $10,000 Invested in These Stocks Could Make You a Fortune Over the Next 10 Years",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://s.yimg.com/ny/api/res/1.2/nyaAKxPpVJUsHvR7PBJzlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f",
+      "https://s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f",
+      "http://www.reuters.com/",
+      "https://www.s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f",
+      "http://www.reuters.com",
+      "https://www.s.yimg.com/ny/api/res/1.2/nyaAKxPpVJUsHvR7PBJzlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNjtoPTQ4/https://www.s.yimg.com/os/creatr-uploaded-images/2020-11/62e21440-2fbd-11eb-95ff-5673fa3d2f9f",
+      "http://reuters.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "western digital corp",
+          "sentiment": "negative"
+        },
+        {
+          "name": "reuters western digital corp",
+          "sentiment": "negative"
+        },
+        {
+          "name": "western digital",
+          "sentiment": "none"
+        },
+        {
+          "name": "reuters) - data",
+          "sentiment": "none"
+        },
+        {
+          "name": "reuters",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "japan",
+          "sentiment": "none"
+        },
+        {
+          "name": "kioxia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:35:43.653+02:00",
+    "updated": "2024-01-26T00:35:43.653+02:00"
+  },
+  {
+    "uuid": "eaf223255bae4a22175a8079049789a22b51a483",
+    "url": "https://www.natureworldnews.com/articles/60068/20231228/uk-weather-storm-gerrit-causes-floods-power-cuts-damage.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Paw Mozter",
+    "published": "2023-12-29T02:30:00Z",
+    "title": "UK Weather: Storm Gerrit Causes Floods, Power Cuts and Damage | Nature World News",
+    "text": "The UK is facing a series of challenges as Storm Gerrit brings strong winds, heavy rain and snow to many parts of the country. The storm, which was named by the Met Office on Tuesday, has disrupted travel plans, caused power outages and triggered a major incident in Scotland. Travel chaos as Storm Gerrit hits during busy holiday period Many people who were planning to return home [after the Christmas holidays](https://www.msn.com/en-gb/weather/topstories/mapped-storm-gerrit-weather-warnings-in-your-area-as-uk-faces-snow-rain-and-strong-winds/ar-AA1m3UEu) have faced difficulties and delays due to the storm. The AA has warned drivers to be prepared for testing conditions on the roads, as the wet weather could increase the braking distance and the high winds could affect the stability of vehicles. The AA also advised drivers to leave a bigger gap to the vehicle in front and to avoid exposed areas where possible. The storm has also affected rail and ferry services across the country. [In Scotland](https://www.theguardian.com/uk-news/2023/dec/27/uk-weather-christmas-travellers-warned-of-storm-gerrit-hazards), many Caledonian MacBrayne ferries have been disrupted, with widespread delays and cancellations. In England, some train operators have reduced their services or imposed speed restrictions due to the risk of fallen trees and debris on the tracks. At Dover, long queues have built up for the EU frontier operated by French border police, with port authorities warning of two-hour delays. Wintry weather and power cuts in Scotland Scotland has been hit hard by Storm Gerrit, with a yellow warning for snow covering much of the country. The storm has brought wintry hazards, such as icy roads, blizzards and drifting snow, especially across northern Scotland. Ploughs and tractors have been deployed to rescue cars and a jackknifed lorry from the A9 and surrounding roads. The storm has also caused widespread power cuts in Scotland, affecting more than 20,000 homes and businesses. Scottish and Southern Electricity Networks (SSEN) said it had mobilised more than 400 engineers and support staff to restore power as quickly and safely as possible. The [Scottish government](https://www.standard.co.uk/news/uk/storm-gerrit-weather-uk-wind-rain-snow-forecast-b1129066.html) has declared a major incident and activated its resilience operation to coordinate the response to the storm. Also Read: [UK Weather Update: Met Office Warns of Dangerous Snow, Ice Conditions; Flood Warnings Reported](https://www.natureworldnews.com/articles/55104/20230119/weather-uk-rain-snow-met.htm) How to stay safe and informed during Storm Gerrit The Met Office has issued yellow wind and rain warnings for much of the UK, meaning that some disruption and damages are likely. The public are advised to stay alert and follow the latest weather forecasts and warnings on the Met Office website or app. The Met Office has also provided some tips on how to prepare for and cope with storms, such as securing loose objects, checking on vulnerable neighbours and avoiding unnecessary travel. Storm Gerrit is the seventh named storm of the current UK storm season, which started in September and runs until August next year. It is the earliest point in the season that a storm has been named with the letter G since the system for naming storms started in 2015. The weather system comes days after Storm Pia coincided with strike action to bring misery to thousands of people trying to get away for the holidays. Related article: [UK Weather: Heavy Rain Triggers More Than 150 Flood Alerts](https://www.natureworldnews.com/articles/59771/20231204/uk-weather-heavy-rain-triggers-more-150-flood-alerts.htm) © 2023 NatureWorldNews.com All rights reserved. Do not reproduce without permission.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "external_links": [
+      "https://www.msn.com/en-gb/weather/topstories/mapped-storm-gerrit-weather-warnings-in-your-area-as-uk-faces-snow-rain-and-strong-winds/ar-AA1m3UEu)",
+      "https://www.theguardian.com/uk-news/2023/dec/27/uk-weather-christmas-travellers-warned-of-storm-gerrit-hazards),",
+      "https://www.standard.co.uk/news/uk/storm-gerrit-weather-uk-wind-rain-snow-forecast-b1129066.html)",
+      "https://standard.co.uk/news/uk/storm-gerrit-weather-uk-wind-rain-snow-forecast-b1129066.html)",
+      "https://msn.com/en-gb/weather/topstories/mapped-storm-gerrit-weather-warnings-in-your-area-as-uk-faces-snow-rain-and-strong-winds/ar-AA1m3UEu)",
+      "https://theguardian.com/uk-news/2023/dec/27/uk-weather-christmas-travellers-warned-of-storm-gerrit-hazards),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "met office",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "uk",
+          "sentiment": "none"
+        },
+        {
+          "name": "scotland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T05:06:36.688+02:00",
+    "updated": "2023-12-29T05:06:36.688+02:00"
+  },
+  {
+    "uuid": "ecde95c74b59e1b19b7a4a41dcb1135a18a69e0d",
+    "url": "https://viterbischool.usc.edu/news/2024/04/removing-the-hell-of-paperwork-ai-helps-truckers-manufacturers-come-together",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Marc Ballon",
+    "published": "2024-04-11T20:00:00Z",
+    "title": "Removing the “Hell of Paperwork:” AI Helps Truckers, Manufacturers Come Together",
+    "text": "In many ways, trucking is the backbone of the American economy. In 2022, trucks transported nearly 11.5 billion tons of freight in the United States, representing 72.6% of the nation’s total by weight, according to [American Trucking Associations](https://www.trucking.org/), the industry’s largest trade organization. That same year, more than 3.5 million Americans worked as truck drivers, while another 8.4 million people were employed in jobs related to trucking activity, the trade group added. Surprisingly, the business of moving goods from one place to another is marked by inefficiencies, confusion, archaic practices and a paucity of technological innovation. Manufacturers, retailers and logistics companies all-too-often overpay to have their goods shipped. That’s because they have great difficulty keeping track of and thoroughly reviewing the myriad of invoices and other documents submitted to them by trucking companies, often in the form handwritten notes, PDFs and Excel spreadsheets for such things as fuel surcharges and late pickup fees. On the trucking side, it can take weeks for freight companies to receive payment because of invoice disputes, often forcing them to take out high-interest loans to cover expenses. In this scenario, American consumers also lose. That’s because manufacturers typically hike prices to cover their higher transportation costs. Experts estimate that the producers of cars, clothes, washing machines and other goods overpay by as much as 2% to ship their wares by truck. Rationalizing logistics payments Matthew McKinney, B.S. ISE ’13, believes there is a better way. McKinney is the co-founder and chief executive of Chicago-based [Loop](https://loop.com/), a company that, in his words, “aims to unlock profit trapped in the supply chain” by removing friction in logistics payment to increase liquidity for every stakeholder.” Loop, which also has offices in San Francisco, leverages proprietary artificial intelligence to help logistics businesses digitize shipment data. That makes it possible to quickly resolve any disputes that arise between manufacturers and trucking firms when invoices are higher than agreed upon contracts due to additional charges. At present, Loop data shows that up to 20% of invoices have some sort of error. “Our generative AI unifies all this unstructured data so you get a single representative view of the shipment and costs for both sides, with everything cleaned up and normalized in real time,” he said. “If everyone’s on Loop, then you remove all this paperwork and reconciliation hell because now everyone has the same source of truth.” With Loop, McKinney added, manufacturers can easily scrutinize all invoice and associated charges to make sure they don’t pay too much. These insights help them “right size” their shipping network by identifying the most efficient and cost-effective trucking companies. On the trucking side, freight firms benefit because they get paid on time or even early. This means they have more cash on hand and no longer must borrow money to cover operating costs arising from invoice disputes. Additionally, Loop’s workflow automation means that manufacturers and trucking companies no longer need people performing tedious, error prone tasks. Instead, they can refocus their workforce on high-value strategic work. Said Jeff Toman, a finance executive at Loop’s customer [Great Dane](https://loop.com/article/great-dane): “Loop has turned my team from processors to analysts.” High-profile customers and investors That vision has won three-year-old Loop some high-profile customers and investors. Clients include [Gillig Busses](https://www.gillig.com/), the largest manufacturer of transit busses in North America; [Alliance Rubber Company](https://www.rubberband.com/?utm_term=alliance%20rubber%20company&utm_campaign=Alliance+Rubber&utm_source=adwords&utm_medium=ppc&hsa_acc=7548689286&hsa_cam=178798063&hsa_grp=11038340023&hsa_ad=452432249238&hsa_src=g&hsa_tgt=kwd-2324252257&hsa_kw=alliance%20rubber%20company&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwzZmwBhD8ARIsAH4v1gUPltLMAGCRAx8CuSeBqcF1O-RuFIQ_DVPn9f5-MsHQl0r-A72oR04aAiflEALw_wcB), the biggest American maker of rubber bands; [Primo](https://www.primo.com/), the leading global manufacturer of customized plastic extrusion solutions for energy, transport, and industry sectors; and Great Dane, a trucking equipment manufacturer. Said Chuck O’Brien, Gillig’s VP of aftermarket parts: “Loop transformed the way we do business, enabling us to capture data and utilize it for better insights on decision-making from how we allocate transportation spend to negotiating carrier contracts. They identified 6% in transportation savings for us.” – Loop has raised $65 million to date, including a recent $35-million round led by [J.P. Morgan Growth Equity Partners](https://am.jpmorgan.com/us/en/asset-management/mod/growth-equity-partners/), and [Index Ventures](https://www.indexventures.com/). McKinney said his 65-person firm plans to use the money for sales and marketing, research and development, and to expand internationally in 2025. “We’re focused on growing the business,” he said. [Luke Sikora](https://www.linkedin.com/in/luke-sikora-742a9b9/), managing director and partner at J.P. Morgan Growth Equity Partners, said the quality of Loop’s leadership, engineering team and technology make it a good bet to flourish. “Loop built their platform from the ground up using artificial intelligence, and this is the first time in the market that someone has taken the right approach to automate and correctly audit all the invoices being received,” he said. “Loop can really improve the way that all parties within transportation and logistics operate together today.” Added [Damir Becirovic](https://intro.co/Damir?source=intro&utm_source=google&utm_medium=cpc&source=intropaid&gad_source=1&gclid=Cj0KCQjwzZmwBhD8ARIsAH4v1gUj-AjFFN_6bO8ju9I1ld-o8bUQzjuOR-0PzN8U2NiT-wAhJn1yNDcaAtIqEALw_wcB), a partner at Index Ventures: “I think Matt is a special founder in the making. He has incredible tenacity, the ability to energize people and partners who work with him, and tremendous clarity on the problem he is tackling and how it can be solved,” said Becirovic, adding that he thinks Loop could eventually become a $1 billion company. The vaunted Trojan network also appears to have helped Loop. As a 2006 USC Marshall School of Business double major in finance and accounting, Sikora said McKinney’s USC pedigree gives him extra faith in Loop. Similarly, Becirovic, a 2013 USC Marshall graduate who encouraged Index Venture to invest in Loop, roomed with McKinney in their senior year at Troy. Said McKinney: “The Trojan family grows, grows every year in value, and it also runs very deep.” Supply chain nirvana McKinney’s initial exposure to supply chain management came at USC, where he took several courses on the subject from [Maged Dessouky](https://viterbi.usc.edu/directory/faculty/Dessouky/Maged), USC Viterbi Dean’s Professor of Industrial and Systems Engineering. McKinney’s academic efforts and intellect made an indelible impression on his favorite professor. “There are some students a professor never forgets,” Dessouky said. “Matt had a deep passion to learn and understand the fundamentals, and it was clear to me that someday he would be developing his own product based on AI and computational algorithms to address an important problem at the intersection of supply chain and finance.” McKinney credits Dessouky and his time at USC Viterbi for equipping him with the tools to succeed. “USC prepared me to be a leader, to be a thinker, and to be an entrepreneur that goes out and solves the world’s problems,” he said. The idea for Loop came to McKinney and co-founder Shaosu Liu when they both worked at the freight unit of ride-sharing company Uber Technologies. The pair noticed that Uber constantly dealt with billing issues. That prompted them to leave corporate American to venture out on their own. Looking forward, McKinney said he’s upbeat about Loop’s future. Because of the supply chain snafus during the Covid-19 pandemic and increasingly strained U.S.-China relations, many companies are onshoring, or moving production to America from overseas. That trend, he said, should only increase demand for Loop’s high-tech solutions. “I love what I do. I get to understand new supply chains. I get to see the macro trends at a global level that are happening. And I get to work with companies that contribute to a better economy for America,” he said. “I mean, there’s nothing more fun than that.” Published on April 11th, 2024 Last updated on April 11th, 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://www.loop.com/article/great-dane):",
+      "https://www.indexventures.com/).",
+      "https://intro.co/Damir?source=intro&utm_source=google&utm_medium=cpc&source=intropaid&gad_source=1&gclid=Cj0KCQjwzZmwBhD8ARIsAH4v1gUj-AjFFN_6bO8ju9I1ld-o8bUQzjuOR-0PzN8U2NiT-wAhJn1yNDcaAtIqEALw_wcB),",
+      "https://loop.com/),",
+      "https://www.trucking.org/),",
+      "https://www.am.jpmorgan.com/us/en/asset-management/mod/growth-equity-partners/),",
+      "https://www.intro.co/Damir?source=intro&utm_source=google&utm_medium=cpc&source=intropaid&gad_source=1&gclid=Cj0KCQjwzZmwBhD8ARIsAH4v1gUj-AjFFN_6bO8ju9I1ld-o8bUQzjuOR-0PzN8U2NiT-wAhJn1yNDcaAtIqEALw_wcB),",
+      "https://primo.com/),",
+      "https://am.jpmorgan.com/us/en/asset-management/mod/growth-equity-partners/),",
+      "https://www.primo.com/),",
+      "https://indexventures.com/).",
+      "https://www.rubberband.com/",
+      "https://www.rubberband.com/?utm_term=alliance%20rubber%20company&utm_campaign=Alliance+Rubber&utm_source=adwords&utm_medium=ppc&hsa_acc=7548689286&hsa_cam=178798063&hsa_grp=11038340023&hsa_ad=452432249238&hsa_src=g&hsa_tgt=kwd-2324252257&hsa_kw=alliance%20rubber%20company&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwzZmwBhD8ARIsAH4v1gUPltLMAGCRAx8CuSeBqcF1O-RuFIQ_DVPn9f5-MsHQl0r-A72oR04aAiflEALw_wcB),",
+      "https://intro.co/Damir",
+      "https://www.linkedin.com/in/luke-sikora-742a9b9/),",
+      "https://trucking.org/),",
+      "https://linkedin.com/in/luke-sikora-742a9b9/),",
+      "https://loop.com/article/great-dane):",
+      "https://gillig.com/),",
+      "https://rubberband.com/?utm_term=alliance%20rubber%20company&utm_campaign=Alliance+Rubber&utm_source=adwords&utm_medium=ppc&hsa_acc=7548689286&hsa_cam=178798063&hsa_grp=11038340023&hsa_ad=452432249238&hsa_src=g&hsa_tgt=kwd-2324252257&hsa_kw=alliance%20rubber%20company&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwzZmwBhD8ARIsAH4v1gUPltLMAGCRAx8CuSeBqcF1O-RuFIQ_DVPn9f5-MsHQl0r-A72oR04aAiflEALw_wcB),",
+      "https://www.gillig.com/),",
+      "https://www.loop.com/),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "united states",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-12T00:05:13.774+03:00",
+    "updated": "2024-04-16T16:56:11.059+03:00"
+  },
+  {
+    "uuid": "0f7b6669200f3adecf882ee51d0fa0b38a9e58b9",
+    "url": "https://www.enca.com/opinion/muslim-nations-announce-start-ramadan-shadow-gaza-war",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "eNCA",
+    "published": "2024-03-11T00:00:00Z",
+    "title": "Muslim nations announce start of Ramadan in shadow of Gaza war - eNCA",
+    "text": "RIYADH - The Muslim holy month of Ramadan begins on Monday, Middle Eastern nations have announced, with the king of Saudi Arabia using the occasion to call for an end to the \"heinous crimes\" taking place in war-torn Gaza. Saudi Arabia said through its official SPA news agency on Sunday that the Supreme Court had announced \"Monday, March 11, 2024, the beginning of the blessed month of Ramadan for this year\". Speaking as custodian of Islam's two holiest sites, King Salman gave thanks in his Ramadan message on Sunday evening for the \"blessings bestowed upon the Kingdom of Saudi Arabia\", but noted the war in Gaza would cast a shadow over the month of fasting and prayer. \"As we witness the arrival of Ramadan this year, our hearts are heavy with sorrow for the ongoing suffering of our Palestinian brothers facing relentless aggression,\" he said. \"We call upon the international community to uphold its responsibilities to put an end to these heinous crimes and ensure the establishment of safe humanitarian and relief corridors.\" Ramadan is one of the five pillars of Islam. After the sighting of the crescent moon, the United Arab Emirates and Qatar also announced a Monday start for Ramadan through their own official news outlets. Egypt's Islamic advisory body the Dar al-Ifta likewise confirmed Ramadan was beginning on Monday, as it was in the Palestinian Territories including Gaza, and in Algeria and Tunisia. Their neighbours Morocco and Libya said Ramadan would start on Tuesday. Iran had earlier set the beginning of Ramadan for Tuesday after its \"Estehlal\" moon observation office said it had not been possible to observe \"the crescent of Ramadan\". In Saudi Arabia, the start of the holy month had been cast into doubt after some of the kingdom's observatories reported that the moon was obscured by \"cloudy weather and dust particles\". But final confirmation of the sighting came through the Al Majmaah University Astronomical Observatory in Riyadh. As he announced Tuesday as the start of Ramadan in Jordan, the kingdom's Grand Mufti Ahmed Hasnat asked God to \"relieve the anguish of our oppressed people in Gaza\" and \"lift affliction and aggression from them\". Oman will also mark the first day of Ramadan on Tuesday. - 'Completely different' - During Ramadan, observant Muslims refrain from eating and drinking from dawn to dusk, and traditionally gather with family and friends to break their fast in the evening. It is also a time of prayer, when the faithful converge in large numbers at mosques, especially at night. The war between Israel and Hamas in the Gaza Strip has cast a long shadow over festivities in the region, with hopes dashed that a ceasefire agreement could be reached before Ramadan began. At a market in Rafah, the southern Gaza city where nearly 1.5 million people have sought refuge, Palestinians on Sunday bemoaned food shortages and wartime uncertainty hanging over the holy month. \"Of course, this Ramadan is completely different from all the Ramadans that have gone before it,\" said Bassel Yassin, an agricultural engineer. Hassuna Tabib Hassnan, a dentist displaced from Gaza City in the north, said he didn't know how the month would end -- \"in our homes, in a tent, by the sea in the north or in the south\". Hassnan added that instead of spending Ramadan in their homes, \"it is clear that we will live in displacement, pain and oppression\". The war was triggered by the October 7 attack by Hamas militants on southern Israel that resulted in about 1,160 deaths, mostly civilians, according to an AFP tally based on official Israeli figures. Israel's retaliatory offensive in Gaza, aimed at destroying Hamas, has killed at least 31,045 Palestinians, mostly women and children, according to the health ministry in the Hamas-ruled territory. The United Nations has warned that famine in the Palestinian territory is \"almost inevitable\" unless something changes in the war, with aid trickling in at levels far below the pre-war norm. US President Joe Biden, leader of Israel's most important ally, also spoke of the suffering in Gaza in a message marking the start of the holy month. \"The sacred month is a time for reflection and renewal. This year, it comes at a moment of immense pain,\" he said. \"As Muslims gather around the world over the coming days and weeks to break their fast, the suffering of the Palestinian people will be front of mind for many. It is front of mind for me,\" Biden added, vowing to step up aid into the besieged territory. Shopping at a Riyadh mall, Saudi government employee Faisal, who preferred to give only his first name because of the sensitivity of the matter, said it was \"the worst Ramadan I have ever experienced in my life\". The man, in his fifties, added: \"I feel ashamed as I shop for meat and chicken for my family, while the people of Gaza are in famine.\" - by Haitham El-tabei",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Religion and Belief",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "salman",
+          "sentiment": "none"
+        },
+        {
+          "name": "ramadan",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "islam",
+          "sentiment": "none"
+        },
+        {
+          "name": "supreme court",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "saudi arabia",
+          "sentiment": "none"
+        },
+        {
+          "name": "kingdom of saudi arabia",
+          "sentiment": "none"
+        },
+        {
+          "name": "ramadan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-11T09:37:41.973+02:00",
+    "updated": "2024-03-11T09:37:41.973+02:00"
+  }
+]

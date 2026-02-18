@@ -1,0 +1,457 @@
+[
+  {
+    "uuid": "5482b6cc34d20b50e3694ea72a9278fb6af6b9cf",
+    "url": "https://www.nouvelles-du-monde.com/sante-tech-depart-possible-dune-entreprise-limerick-emplois-menaces",
+    "ord_in_thread": 0,
+    "author": "Nouvelles",
+    "published": "2025-03-27T20:44:00Z",
+    "title": "Santé Tech : Départ possible d'une entreprise limerick, emplois menacés",
+    "text": "Une entreprise employant plus de 300 personnes à Plassey est concernée.\nDes craintes pèsent sur des centaines d’emplois à Limerick alors qu’une entreprise de technologie de la santé envisage de se retirer d’Irlande après seulement quatre ans.\nElevance Health , la société mère de Carelon global Solutions, qui emploierait plus de 300 personnes dans la ville, a confirmé la nouvelle dans une déclaration.\nUn porte-parole de l’entreprise a déclaré : « Dans le cadre de notre examen continu des opérations commerciales et compte tenu de l’évolution du paysage des soins de santé,Elevance Health envisage de cesser les activités de Carelon Global Solutions Ireland Limited. »\nle porte-parole a ajouté : « Nous comprenons que cette nouvelle est difficile pour les associés, dont les réalisations, le dévouement et le service continus sont pleinement appréciés, et nous nous engageons à les soutenir tout au long de ce processus. »\nLa société américaine existe pour relever les défis des soins de santé.\nLe center de recherche et développement de Carelon en Irlande est situé dans le parc technologique national de Plassey.\nGrâce au développement de solutions d’intelligence artificielle et d’analyze de données, le personnel y développe des logiciels pour permettre aux gens de vivre plus longtemps et en meilleure santé.ils contribuent également à identifier les gains d’efficacité dans la prestation des soins de santé.\nL’année dernière seulement, l’entreprise a annoncé la création de 100 nouveaux emplois à Limerick, ce qui, selon elle, porterait son effectif local à 310 personnes.\nCela faisait suite à la victoire de l’entreprise au prix de l’entreprise de l’année de la Chambre de commerce de Limerick, ainsi qu’au titre de meilleur employeur.\nElle a été lancée à Limerick en novembre 2021.\nBien qu’un grand nombre d’emplois soient basés à Limerick, la majorité sont des télétravailleurs.\nOptimisation de la mise en page des publicités et autres éléments sur les pages d’articles\nCet article explore des techniques pour optimiser l’affichage des publicités et d’autres éléments sur les pages d’articles, améliorant ainsi l’expérience utilisateur et potentiellement les revenus publicitaires.\nDéplacement stratégique des publicités Une fonction clé est le déplacement dynamique des publicités au sein du contenu de l’article. Cette fonction prend en compte la hauteur et la longueur du texte de chaque paragraphe pour déterminer les emplacements appropriés pour insérer les publicités.\nLa fonction moveAd prend trois arguments :\nadSelector : Un sélecteur CSS identifiant l’élément publicitaire à déplacer.\nadName : Un nom descriptif pour l’élément publicitaire.\ntargetContentParagraph : le numéro du paragraphe de contenu après lequel l’annonce doit être insérée.\nLa fonction effectue les opérations suivantes :\nCompte les paragraphes avec du contenu significatif : Elle itère sur tous les paragraphes de l’article, en vérifiant leur hauteur et la longueur de leur texte.Les paragraphes qui répondent à certains critères de taille minimale sont considérés comme contenant du contenu significatif. Détermine l’index du paragraphe cible : Elle calcule l’index du paragraphe après lequel l’annonce doit être insérée, en fonction du paramètre targetContentParagraph . Déplace l’annonce (si possible) : Si le nombre de paragraphes avec du contenu significatif est supérieur à targetContentParagraph , l’annonce est détachée de sa position actuelle et ajoutée après le paragraphe cible. Gère les cas où le déplacement n’est pas possible : Si le nombre de paragraphes avec du contenu significatif est inférieur ou égal à targetContentParagraph , l’annonce est supprimée. Vérifie et retire les annonces imbriquées dans des divs : La fonction moveAdOutOfDivs est appelée pour s’assurer que l’annonce n’est pas accidentellement imbriquée dans un élément div . Des fonctions similaires, comme moveAd bk , existent potentiellement pour des implémentations alternatives ou des versions antérieures de la logique.\nAmélioration du style des articles connexes la fonction styleRelatedArticle vise à améliorer l’apparence des articles connexes affichés sur la page. Elle effectue les actions suivantes :\nRécupère le lien de l’article connexe : Elle extrait l’URL de l’article connexe à partir d’un élément . Applique le lien à un élément parent : Elle définit l’attribut href d’un élément parent pour qu’il pointe vers l’URL de l’article connexe.\nAjoute un logo : Elle ajoute un logo à l’élément de l’article connexe, en utilisant l’URL du logo du site web.\nAugmente la résolution de l’image (si possible) : Elle tente d’augmenter la résolution de l’image de l’article connexe en remplaçant une partie de l’URL de l’image.\nOrchestration du déplacement des publicités La fonction moveAds est le point d’entrée principal pour le déplacement des publicités.Elle effectue les opérations suivantes :\nremplace les balises\npar des balises\n: Elle remplace toutes les balises de saut de ligne\npar des balises de paragraphe\n,ce qui permet de s’assurer que le contenu de l’article est correctement structuré en paragraphes. Appelle la fonction moveAd pour chaque emplacement publicitaire : Elle appelle la fonction moveAd pour chaque emplacement publicitaire prédéfini, en spécifiant le sélecteur CSS de l’annonce, son nom et le numéro du paragraphe cible. Ajoute des bordures et des étiquettes pour le débogage (si activé) : Si le mode débogage est activé, elle ajoute des bordures en pointillés et des étiquettes aux éléments publicitaires Teads. Correction des problèmes audio sur ordinateur La fonction fixDesktopAudio corrige un problème potentiel avec la lecture audio sur les ordinateurs de bureau. Si un fichier MP3 est intégré à l’aide d’un lecteur Flash (identifié par la classe vcflowplayer ), la fonction remplace le lecteur Flash par un élément HTML5 standard.\nGestion des articles sponsorisés et autres types d’articles Le code inclut une logique pour gérer différents types d’articles, tels que les articles sponsorisés, les articles de type “story telling”, les sondages et les quiz.\nArticles sponsorisés : Si l’article contient le mot-clé “sponsor” dans ses balises meta, toutes les publicités intégrées à l’article (y compris les publicités Outbrain, Teads et Seedtag) sont déplacées à la fin de l’article ou supprimées.\n* Articles de type “story telling” : Si l’article est un article de type “story telling” (identifié par la classe vc story telling ),les publicités Outbrain sont déplacées avant le lien “story telling”.\nInitialisation La fonction $(function(){ ... }); est exécutée lorsque le document est prêt. Elle contient la logique principale pour déplacer les publicités en fonction du type d’article. Elle appelle également la fonction fixDesktopAudio pour corriger les problèmes audio potentiels.La situation économique actuelle suscite des inquiétudes croissantes quant à l’avenir de certaines entreprises en Irlande. Une entreprise technologique spécialisée dans le secteur de la santé envisage de quitter le pays, soulevant des questions sur les défis auxquels sont confrontées les entreprises irlandaises.Plusieurs facteurs contribuent à cette situation. Les coûts opérationnels, la réglementation et l’accès aux talents sont des éléments cruciaux pour les entreprises. Des changements dans ces domaines peuvent avoir un impact significatif sur leur viabilité.\nLimerick, une ville irlandaise, est particulièrement concernée par cette situation. La perte potentielle d’emplois et d’investissements pourrait avoir des conséquences importantes pour la communauté locale.\nLes entreprises technologiques jouent un rôle essentiel dans l’économie irlandaise. Leur départ pourrait signaler des problèmes plus profonds et nécessiter une attention particulière de la part des décideurs politiques.Il est impératif d’analyser les raisons qui poussent les entreprises à envisager de quitter l’Irlande. des mesures proactives pourraient être nécessaires pour maintenir un environnement favorable aux entreprises et préserver les emplois.\nLes défis auxquels sont confrontées les entreprises irlandaises nécessitent une approche globale. La collaboration entre les secteurs public et privé est essentielle pour trouver des solutions durables.\nLa situation actuelle met en évidence la nécessité d’une vigilance constante et d’une adaptation aux changements économiques. L’avenir des entreprises irlandaises dépendra de la capacité du pays à relever ces défis.\nFAQ sur les problèmes des entreprises irlandaises Q : Quelle entreprise est susceptible de quitter l’Irlande ?\nR : Carelon Global Solutions Ireland Limited, une entreprise de technologie de la santé, filiale d’Elevance Health.\nQ : Où se trouve Carelon Global Solutions Ireland Limited ?\nR : limerick, Irlande, avec un center de recherche et développement situé dans le parc technologique national de Plassey.\nQ : Combien d’emplois sont menacés ?\nR : Plusieurs centaines d’emplois sont menacés à Limerick. L’entreprise employait environ 310 personnes.\nQ : Pourquoi l’entreprise envisage-t-elle de partir ?\nR : L’entreprise évoque un “examen continu des opérations commerciales et compte tenu de l’évolution du paysage des soins de santé.”\nQ : Quand l’entreprise a-t-elle été lancée à Limerick ?\nR : novembre 2021.\nTableau récapitulatif : Carelon global Solutions et son départ potentiel | Aspect | Détail |\n| | – |\n| Entreprise concernée | Carelon Global Solutions Ireland Limited (Elevance Health) |\n| Secteur | Technologie de la santé |\n| Lieu principal | Limerick, Irlande |\n| Nombre d’emplois | Environ 310 |\n| Raison du départ | Examen des opérations et évolution du paysage des soins de santé |\n| Implantation à Limerick | Depuis novembre 2021 |\n| Impact | Incertitude pour des centaines d’emplois et impact sur l’économie locale |",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->corporate news and profiles",
+      "Economy, Business and Finance->human resources",
+      "Economy, Business and Finance->business governance",
+      "Social Issue->social services",
+      "Social Issue->social condition",
+      "Labor->employment",
+      "Labor->labour relations",
+      "Labor->employer"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.britannica.com/place/Ireland",
+      "https://www.youtube.com/embed/pwclflXBAdU",
+      "https://literarydevices.net/limerick/",
+      "https://www.insure.com/companies/elevance-health-insurance.html",
+      "https://youtube.com/embed/pwclflXBAdU",
+      "https://www.literarydevices.net/limerick/",
+      "https://insure.com/companies/elevance-health-insurance.html",
+      "https://britannica.com/place/Ireland",
+      "https://literarydevices.net/limerick"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-28T04:08:51.760+03:00",
+    "updated": "2025-03-28T04:08:51.760+03:00"
+  },
+  {
+    "uuid": "9bb1c6f2f61f51b7e3781be7828f29abf197a795",
+    "url": "https://www.police1.com/crime-reduction/it-is-historic-u-s-sees-dramatic-drop-in-homicides-violent-crime-in-2023",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Policing Matters Podcast",
+    "published": "2023-12-29T18:14:00Z",
+    "title": "'It is historic': U.S. sees dramatic drop in homicides, violent crime in 2023 - Police News",
+    "text": "‘It is historic’: U.S. sees dramatic drop in homicides, violent crime in 2023\nData from law enforcement agencies nationwide shows a decrease in the double-digits\nBy Joanna Putman\nPolice1\nWASHINGTON — The national homicide rate has fallen nearly 13% since 2022, and local law enforcement agencies are also reporting drops in violent crime,\nABC News reported.\nThe homicide drop is the most dramatic decrease on record with nearly 2,000 less people killed in homicide incidents than in 2022, according to a report by National Crime Analyst Jeff Asher, which was comprised of data from 180 different law enforcement agencies.\nCities stated the 2023 drop in homicides and other violent crimes can be attributed to expanded efforts to prevent crime, according to the report. Community volunteers and officers on foot and bike patrols were listed as means of reducing crime.\n“It is historic. It’s the largest one-year decline,” said Asher, who is the co-founder of AH Datalytics and a former crime analyst for the CIA and the New Orleans Police Department. “It’s cities of every size, it’s the suburbs, it’s rural counties, tiny cities, it’s large cities. It’s really a national decline.”\nU.S. Deputy Attorney General Lisa Monaco stated that the federal government has acted as a “force multiplier” in assisting local law enforcement to reduce the country’s homicide rate. This has been achieved by identifying and taking the most persistent shooters and violent criminals off the streets.\nAn ABC News review of preliminary crime data from the 10 largest U.S. cities shows that seven of the municipalities have seen double-digit year-over-year declines in 2023 homicides -- including an 11% drop in New York City, a 16% decrease in Los Angeles and a 13% reduction in Chicago.\nSmaller cities have also seen decreases in homicide in 2023, according to the report. New Orleans, which had the highest murder rate in the nation in 2022, has seen a 25% drop in homicides in 2023. Baltimore’s homicide numbers have fallen by 25%, Atlanta’s by 18%, and Miami’s by 15%.\n“We’re looking at some numbers that we haven’t seen in close to 60 years in the city of Detroit,” Detroit Police Chief James White told ABC News. “But we’re stopping short of celebrating because certainly we still have a lot of work to do.”\nWhite credited much of Detroit’s crime reduction to regaining public trust and building partnerships with “community violence interrupters,” civilians who operate on the streets to assist the police department in identifying trouble spots and solving crimes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://abcnews.go.com/US/homicide-numbers-poised-hit-record-decline-nationwide-americans/story?id=105556400",
+      "https://www.abcnews.go.com/US/homicide-numbers-poised-hit-record-decline-nationwide-americans/story?id=105556400",
+      "https://abcnews.go.com/US/homicide-numbers-poised-hit-record-decline-nationwide-americans/story"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "asher",
+          "sentiment": "none"
+        },
+        {
+          "name": "jeff asher",
+          "sentiment": "none"
+        },
+        {
+          "name": "joanna putman",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "new orleans police department",
+          "sentiment": "none"
+        },
+        {
+          "name": "datalytics",
+          "sentiment": "none"
+        },
+        {
+          "name": "abc news",
+          "sentiment": "none"
+        },
+        {
+          "name": "cia",
+          "sentiment": "none"
+        },
+        {
+          "name": "national crime analyst",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T20:42:09.285+02:00",
+    "updated": "2023-12-29T20:42:09.285+02:00"
+  },
+  {
+    "uuid": "5fe53a6b8a9e90923aeba5ad37be156fb74b890c",
+    "url": "https://abc7ny.com/videoClip/15931800",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ABC7NY",
+    "published": "2025-02-19T15:42:00Z",
+    "title": "Pope Francis remains hospitalized after penumonia diagnosis",
+    "text": "Welcome, Mickey\nmickey@disney.com\nManage MyDisney Account\nLog Out\nRELIGION & SPIRITUALITY\nPope Francis remains hospitalized after penumonia diagnosis\nWednesday, February 19, 2025 3:25PM\nABC News' James Longman has the latest on Pope Francis' hospitalization.\nReport a correction or typo\nCopyright © 2025 WABC-TV. All Rights Reserved.\nRelated Topics\nRELIGION & SPIRITUALITY",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->medical condition",
+      "Health->hospital",
+      "Health->health organisation",
+      "Religion and Belief->christianity",
+      "Religion and Belief->religious facility",
+      "Religion and Belief->pope",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "James Longman",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-19T17:47:16.906+02:00",
+    "updated": "2025-02-19T17:47:16.906+02:00"
+  },
+  {
+    "uuid": "fe399a20ba3f302af496a958f95ab20c3985d3f2",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7368197.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:32:00Z",
+    "title": "医疗健康ETF泰康（159760）跌1.03%，半日成交额77.95万元_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，医疗健康ETF泰康（159760）跌1.03%，报0.578元，成交额77.95万元。医疗健康ETF泰康（159760）重仓股方面， 药明康德 截止午盘跌1.02%， 恒瑞医药 跌0.66%， 迈瑞医疗 跌1.30%， 片仔癀 跌0.12%， 爱尔眼科 跌1.16%， 联影医疗 涨0.26%， 科伦药业 跌1.28%， 新和成 跌0.14%， 上海莱士 跌0.29%， 复星医药 跌1.08%。\n医疗健康ETF泰康（159760）业绩比较基准为 国证公共卫生与医疗健康指数 收益率，管理人为泰康基金管理有限公司，基金经理为魏军，成立（2021-12-06）以来回报为-41.77%，近一个月回报为1.34%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Politics->healthcare policy",
+      "Politics->economic policy",
+      "Politics->government",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:22.732+03:00",
+    "updated": "2025-06-20T05:06:10.000+00:00"
+  },
+  {
+    "uuid": "e835ce618bb53f8a10e4a06c5d25fe88fa7d68c2",
+    "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108280.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ignacio Escolar",
+    "published": "2024-06-06T20:57:00Z",
+    "title": "Galán (Sumar), a Vox: \"Llevo 25 años trabajando en la UE y la única amenaza son ustedes, la ultraderecha\"",
+    "text": "Estrella Galán, candidata de Sumar a las elecciones europeas, ha reprochado este jueves a su contrincante de Vox, Jorge Buxadé, el discurso xenófobo con el que se presenta a los comicios de este domingo. Ella ha recordado que lleva “25 años trabajando” en el seno de la UE en materia de inmigración, como directora de la Comisión de Ayuda al Refugiado (CEAR). “La única amenaza con la que está Europa en una situación grave son ustedes, la ultraderecha”, le ha dicho Galán a Buxadé. “Las personas migrantes aportan una gran riqueza a nuestras sociedades”, ha zanjado.\nCopiar enlace Lo último, minuto a minuto 00:02 h\nGalán (Sumar) acusa al PSOE de \"abandonar\" al pueblo saharaui Estrella Galán, candidata de Sumar a las elecciones europeas, ha pedido este jueves durante el debate de RTVE al PSOE que aplique en la UE políticas en favor del pueblo saharaui en cumplimiento de las resoluciones de la ONU y de la responsabilidad española recogida en los textos internacionales sobre ese territorio.\nA su juicio, los habitantes del Sáhara Occidental son “los grandes abandonados” en la UE. “Los hemos dejado en una esquina cuando son un pueblo sobre el que tenemos una gran responsabilidad”, ha remachado.\nCopiar enlace 23:58 h, ayer\nMontserrat (PP) acusa al Gobierno de crear crisis con otros países \"de forma unilateral\" Dolors Montserrat, candidata del PP a las elecciones europeas, ha acusado este jueves al Gobierno de “crear crisis con otros países de forma unilateral”, en alusión a los conflictos diplomáticos con la Argentina de Javier Milei o con el Gobierno israelí de Benjamín Netanyahu, ante la masacre perpetrada por las fuerzas israelíes en Gaza.\n“La política exterior es algo muy serio y siempre se tiene que hacer desde el consenso y el diálogo del Congreso”, ha asegurado Montserrat durante el debate de los candidatos organizado por RTVE. “Siempre vamos a continuar con esa política consensuada en el Congreso”, ha zanjado.\nCopiar enlace 23:56 h, ayer\nJordi Cañas (Cs): \"Tengo yo más inmigrantes a la puerta de casa que tú\" El candidato de Ciudadanos, Jordi Cañas, ha declarado que “es muy bonito el buenismo cuando uno vive en un chalet en Galapagar, pero es muy diferente cuando uno vive en un barrio popular o en un barrio obrero”, en referencia a la intervención anterior de Irene Montero sobre inmigración, cuando ha sido interrumpido por la candidata de Ahora Repúblicas que ha dicho “como el Born”, en referencia a su lugar de residencia.\n“Tengo yo más inmigrantes a la puerta de casa, que tú en la tuya seguro, ¿vale? O sea que a mi no me des lecciones tú tampoco. Vente un día a mi casa”, ha respondido Cañas visiblemente enfadado.\nCopiar enlace 23:48 h, ayer\nEl PNV alerta de la necesidad de implementar más políticas de \"ciberseguridad\" en la UE Oihane Agirregoitia, cabeza de lista de la coalición CEUS y representante del PNV, ha pedido este jueves durante el debate de RTVE de cara a las europeas que en la próxima legislatura se implementen más políticas de “ciberseguridad” en la Unión Europea.\n“Europa debe ser un agente de paz [...] Los derechos humanos deben de ser defendidos en todo el mundo, no podemos hacer diferencias entre guerras”, ha añadido.\nCopiar enlace 23:47 h, ayer\nJordi Cañas (Cs), a Irene Montero: \"Que venga toda África\" La candidata de Podemos ha defendido que el caso de los migrantes sin papeles es “una falta administrativa” y ha descrito como “gravísimo” que por una falta de este tipo “no puedas acceder a derechos que son fundamentales” como la vivienda, las ayudas para las víctimas de violencia de género o al trabajo. Montero también ha exigido el cierre de los CIES.\nMientras argumentaba esto frente a Jorge Buxadé, de Vox, el candidato de Ciudadanos, Jordi Cañas, ha interrumpido su discurso diciendo sarcásticamente: “¡Que venga todo el mundo aquí! ¡Que venga toda África a España!”\nCopiar enlace Estás leyendo... 23:39 h, ayer\nGalán (Sumar), a Vox: \"Llevo 25 años trabajando en la UE y la única amenaza son ustedes, la ultraderecha\" Estrella Galán, candidata de Sumar a las elecciones europeas, ha reprochado este jueves a su contrincante de Vox, Jorge Buxadé, el discurso xenófobo con el que se presenta a los comicios de este domingo. Ella ha recordado que lleva “25 años trabajando” en el seno de la UE en materia de inmigración, como directora de la Comisión de Ayuda al Refugiado (CEAR).\n“La única amenaza con la que está Europa en una situación grave son ustedes, la ultraderecha”, le ha dicho Galán a Buxadé. “Las personas migrantes aportan una gran riqueza a nuestras sociedades”, ha zanjado.\nCopiar enlace 23:30 h, ayer\nTeresa Ribera pide al PP que se disculpe por sus \"discursos xenófobos y racistas\" Teresa Ribera, vicepresidenta tercera y candidata del PSOE a las elecciones europeas, ha exigido este jueves a la candidata del PP, Dolors Montserrat “disculpas” por “sus discursos xenófobos y racistas” tanto durante la campaña de las elecciones catalanas como en la actual campaña del 9J. En las últimas semanas los populares habían relacionado inmigración y delincuencia asumiendo parte del discurso de la extrema derecha.\n“Sus pactos con Vox les acaba convirtiendo en esa ultraderecha”, le ha reprochado Ribera a Montserrat durante el tercer bloque del debate organizado por la radiotelevisión pública.\nCopiar enlace 23:22 h, ayer\nRiba (Ahora Repúblicas) a Buxadé (Vox): \"Las mujeres no necesitamos a personas como usted\" La candidata de la coalición Ahora Repúblicas que engloba a EH Bildu, ERC y BNG, ha reprochado al representante de Vox en el debate de RTVE de cara a las europeas, Jorge Buxadé, su discurso antiinmigración echándole en cara sus lecciones hacia las mujeres.\n“Las mujeres no necesitamos que personas como usted nos defienda, necesitamos que nos dejen hacer políticas”, le ha dicho, mientras criticaba la pretensión de la extrema derecha de convertir a Europa “en una fortaleza”. “Ser racista es muy caro”, le ha espetado.\n“La Unión Europea ha regalado 400 millones de euros a Marruecos, Mauritania y Túnez para que ellos hagan las vulneraciones de derechos humanos que quieren hacer ustedes”, ha añadido ante el portavoz de Vox, para después agregar “dejemos de regalar dinero, dejemos de trasladar los muros de esta Europa fortaleza y pongámonos a trabajar para una integración humana como se necesita en las grandes crisis humanitarias”.\nCopiar enlace 23:18 h, ayer\nBuxadé acusa al PP y al PSOE de \"abrir las puertas de Europa a los productos de Marruecos y a esas fresas regadas con aguas fecales” El candidato de Vox al Parlamento Europeo, Jorge Buxadé, ha cargado, durante el debate celebrado este jueves en RTVE, contra la Agenda 2030 y contra el Pacto Verde Europeo que, según ha dicho, “votaron todos los partidos” y como consecuencia de él “100.000 trabajadores del sector primario ya no tienen trabajo”. “Por cada fábrica que se cierra en España se abren diez en China o en Marruecos. Nos llevan a la ruina”, ha afirmado.\nEl dirigente de Vox ha vuelto a acusar al PP y al PSOE de formar una “coalición” en Bruselas votando conjuntamente el 90% de las medidas impulsadas por el Parlamento Europeo, medidas que en su opinión “han hecho a los españoles más pobres porque ceden ante los burócratas del norte de Europa”. “Son políticas que han llevado a la ruina a los españoles y la responsabilidad es suya”, ha insistido Buxadé.\n“Nos llevan a la ruina y abren las puertas de Europa a los productos de Marruecos y a esas fresas regadas con aguas fecales o a esas cebollas de Senegal…” ha proseguido el candidato de Vox, que ha concluido acusando a ambos partidos de “haber destruido ya todo el sector productivo del campo español”.\nCopiar enlace 23:16 h, ayer\nGalán (Sumar) recuerda a Vox que Europa \"ha acogido a siete millones de personas\" por la guerra de Ucrania \"y no ha pasado nada\" La candidata de Sumar a las elecciones europeas, Estrella Galán, ha querido refutar este jueves el discurso antiinmigración de Vox recordando que Europa, en los últimos años, “ha acogido a siete millones de personas”, entre otras, refugiadas de la guerra de Ucrania sin que haya habido un incremento en la delincuencia como sostiene la extrema derecha.\n“Dejen de mentir”, le ha dicho Galán a Jorge Buxadé, el representante de Vox en el debate de RTVE, al que ha recordado que pese a esa llegada de inmigrantes “no ha pasado nada”. La representante de Sumar también ha acusado a la extrema derecha de querer “romper la convivencia” en la UE.\nCopiar enlace 23:12 h, ayer\nIrene Montero acusa a Jordi Cañas de querer hacerle un \"mansplaining\" y él le responde: \"¿Qué es un mansplaining?\" El debate de RTVE estaba abordando el segundo bloque, centrado en las políticas económicas de la UE, cuando la candidata de Podemos, Irene Montero, pedía “transformar el modelo económico liberal” para garantizar la igualdad de los ciudadanos“. ”No podemos afrontar la transición energética ni la emergencia climática si no transformamos el modelo económico neoliberal: hace falta que los fondos buitre no puedan comprar vivienda ni abrir nuevasmacrogranjas“, ha dicho.\nA renglón seguido tomaba la palabra el candidato de Ciudadanos, Jordi Cañas, que le reprochaba a Montero estar equivocada. “No me haga un 'mansplaining'”, le ha dicho la exministra al representante del partido que se dice liberal, en alusión al término que denuncia el machismo de los hombres que tratan de dar lecciones argumentales a las mujeres. “¿Qué es el 'mansplaining'?” se ha preguntado Cañas, aparentemente desconocedor del término.\nCopiar enlace 23:09 h, ayer\nDiana Riba (Ahora Repúblicas): \"Si volvemos a los recortes, no podremos hacer la transición verde\" La candidata de Ahora Repúblicas, Diana Riba, ha cuestionado que muchos de los partidos de los candidatos presentes en el debate votaron “las futuras políticas de austeridad” en el último pleno del Parlamento Europeo y ha exigido “seguir estas políticas expansivas, para llegar a estas transiciones ecológicas”.\n“Si volvemos a los recortes, no podremos hacer la transición verde. Si volvemos a los recortes, tendremos que cerrar escuelas, hospitales, infraestructuras...”, ha argumentado Riba, que ha dicho que “no nos va a quedar nada” para la transición ecológica si “vamos dando millones de euros a la industria armamentística”.\nCopiar enlace 23:02 h, ayer\nRibera (PSOE) acusa al PP de querer \"recortar\" la PAC y otras ayudas agrarias La vicepresidenta tercera del Gobierno y candidata del PSOE a las elecciones europeas, Teresa Ribera, ha acusado este jueves al PP y al resto de formaciones de derechas de querer recuperar una política de “recortes” en la UE en la legislatura que surja de las elecciones europeas de este domingo.\n“Ustedes y sus amigos quieren recortar las partidas presupuestarias y las más importantes son la PAC y las ayudas agrarias”, le ha dicho Ribera a Dolors Montserrat, la candidata del PP las europeas, haciendo también alusión a Vox y a otras formaciones con las que pactan los de Alberto Núñez Feijóo.\nCopiar enlace 23:00 h, ayer\nEstrella Galán (Sumar) pide ser \"firmes\" para no bonificar a los grandes oligopolios La candidata de Sumar, Estrella Galán, ha defendido la descarbonización de la economía acompañada de una limitación del “control” de las grandes multinacionales eléctricas y energéticas que, según ha dicho, “tienen en su mano el control de los precios de la energía”.\n“Hay que desplegar una revolución energética”, ha dicho Galán, que ha pedido “ser firmes” para no bonificar a los grandes oligopolios. “Me consta que usted está por esa bonificación”, ha dicho dirigiéndose a la candidata socialista, Teresa Ribera, aunque luego ha añadido que “es un detalle” ante los gestos de Ribera, que no ha contestado.\nCopiar enlace 22:54 h, ayer\nMontserrat (PP): \"Yo evité que los socialistas pusieran una etiqueta como la del tabaco en el vino\" Dolors Montserrat, candidata del PP a las elecciones europeas, ha acusado este jueves al PSOE de “dar la espalda al campo” durante la última legislatura en el Parlamento Europeo. Es más, la dirigente popular ha hecho mención a dos productos, el vino y el arroz, a los que según ella pretendieron perjudicar los socialistas españoles en la UE.\n“Yo evité que los socialistas pusieran una etiqueta como la del tabaco en el vino”, ha asegurado Montserrat, que ha pedido “luchar contra la competencia desleal”, así como “defender al campo” bajando el IVA a la carne y el pescado.\nCopiar enlace 22:51 h, ayer\nDolors Montserrat: \"El 80% de las iniciativas en el Parlamento Europeo son del PP\" La candidata del PP ha rebatido las acusaciones de Jorge Buxadé, de Vox, de que 'populares' y socialdemócratas votan “siempre” juntos asegurando que “el 80%” de las iniciativas presentadas en el Europarlamento parten de su partido y le ha exigido que diga la verdad y que “forman parte del gobierno de Europa con Úrsula Von der Leyen con un comisario de agricultura que es de Vox”.\nMontserrat también ha cargado contra el candidato de Ciudadanos, Jordi Cañas, diciéndole que “Europa también es la defensa del estado de derecho”.\nCopiar enlace 22:47 h, ayer\nIrene Montero: \"Este país tiene que decir alto y claro 'no a la guerra'\" La candidata de Podemos a las elecciones europeas, la exministra Irene Montero, ha considerado este jueves, durante el debate a nueve de RTVE con motivo del 9J que una de las prioridades de los próximos meses tiene que ver con un compromiso antibelicista de la sociedad española tanto por la situación en Gaza como por la guerra en Ucrania.\n“Este país tiene que decir alto y claro 'no a la guerra' y votar por la paz”, ha insistido Montero en un breve rifirrafe con el candidato de Ciudadanos, Jordi Cañas, que se ha resistido a calificar de “genocidio” la masacre perpetrada por Israel en Gaza.\nCopiar enlace 22:44 h, ayer\nEl PNV pide un comisario que garantice \"el respeto\" a las lenguas cooficiales en la UE La representante de la coalición CEUS en el debate de RTVE, la portavoz del PNV Oihane Agirregoitia, ha pedido este jueves que en la próxima legislatura la Comisión Europea cuente con un comisario específico que “garantice el respeto” a las lenguas cooficiales de la Unión Europea, entre las que ha incluido al euskera, el catalán y el gallego.\nAgirregoitia ha coincidido con la representante de Ahora Repúblicas, Diana Riba, en reclamar la oficialidad de esas tres lenguas cooficiales en España.\nCopiar enlace 22:41 h, ayer\nRibera reprocha al PP que no reconozca a Palestina como Estado y Montserrat le responde acusándole de pactar con \"prófugos de la justicia\" La candidata del PSOE a las elecciones europeas, la vicepresidenta tercera del Gobierno, Teresa Ribera, ha reprochado este jueves, durante el debate de RTVE, a la candidata del PP, Dolors Montserrat, que su partido no haya apoyado el reconocimiento de Palestina aprobado por el Gobierno la semana pasada, pero la dirigente popular ha optado por obviar la cuestión y hablar de los pactos del Gobierno con formaciones independentistas.\n“Han entregado la igualdad de los españoles”, le ha reprochado Montserrat a Ribera, antes de acusarle de “negociar con un prófugo de la justicia que tiene vínculos con Putin”, en alusión al expresident catalán Carles Puigdemont. “Han entregado el código penal a los prófugos de la justicia”, ha zanjado.\nCopiar enlace 22:38 h, ayer\nIrene Montero, a Teresa Ribera: \"¿Qué ata a este gobierno con el Estado genocida de Israel para no romper relaciones\" La candidata de Podemos al Parlamento Europeo, Irene Montero, ha asegurado que mucha gente se pregunta “para qué sirve Europa” si no es capaz de “construir paz y acabar con el genocidio en Gaza” y ha dicho que mucha gente se ha alegrado hoy “cuando ha creído que por fin el gobierno de España iba a llevar al Estado genocida de Israel ante la Corte Internacional de Justicia”, pero que dos minutos después esa alegría ha desaparecido.\nDirigiéndose a la candidata socialista, Montero ha exigido a Teresa Ribera que explicase por qué España no ha roto relaciones “comerciales y diplomáticas con Israel” pese a haber retirado al embajador de Argentina y le ha pedido que reconozca que “lo que Israel está haciendo es genocidio”.\nCopiar enlace Ver siguientes",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108279.html&text=Teresa%20Ribera%20pide%20al%20PP%20que%20se%20disculpe%20por%20sus%20%22discursos%20xen%C3%B3fobos%20y%20racistas%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108279.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108278.html&text=Riba%20%28Ahora%20Rep%C3%BAblicas%29%20a%20Buxad%C3%A9%20%28Vox%29%3A%20%22Las%20mujeres%20no%20necesitamos%20a%20personas%20como%20usted%22",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108269.html&text=Irene%20Montero%3A%20%22Este%20pa%C3%ADs%20tiene%20que%20decir%20alto%20y%20claro%20%27no%20a%20la%20guerra%27%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108283.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108280.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108272.html&text=Estrella%20Gal%C3%A1n%20%28Sumar%29%20pide%20ser%20%22firmes%22%20para%20no%20bonificar%20a%20los%20grandes%20oligopolios",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108278.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108272.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108270.html&text=Dolors%20Montserrat%3A%20%22El%2080%25%20de%20las%20iniciativas%20en%20el%20Parlamento%20Europeo%20son%20del%20PP%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108270.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108266.html&text=Irene%20Montero%2C%20a%20Teresa%20Ribera%3A%20%22%C2%BFQu%C3%A9%20ata%20a%20este%20gobierno%20con%20el%20Estado%20genocida%20de%20Israel%20para%20no%20romper%20relaciones%22",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108285.html&text=Gal%C3%A1n%20%28Sumar%29%20acusa%20al%20PSOE%20de%20%22abandonar%22%20al%20pueblo%20saharaui",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108266.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108282.html&text=El%20PNV%20alerta%20de%20la%20necesidad%20de%20implementar%20m%C3%A1s%20pol%C3%ADticas%20de%20%22ciberseguridad%22%20en%20la%20UE",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108276.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108276.html&text=Gal%C3%A1n%20%28Sumar%29%20recuerda%20a%20Vox%20que%20Europa%20%22ha%20acogido%20a%20siete%20millones%20de%20personas%22%20por%20la%20guerra%20de%20Ucrania%20%22y%20no%20ha%20pasado%20nada%22",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108265.html&text=Ribera%20reprocha%20al%20PP%20que%20no%20reconozca%20a%20Palestina%20como%20Estado%20y%20Montserrat%20le%20responde%20acus%C3%A1ndole%20de%20pactar%20con%20%22pr%C3%B3fugos%20de%20la%20justicia%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108268.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108280.html&text=Gal%C3%A1n%20%28Sumar%29%2C%20a%20Vox%3A%20%22Llevo%2025%20a%C3%B1os%20trabajando%20en%20la%20UE%20y%20la%20%C3%BAnica%20amenaza%20son%20ustedes%2C%20la%20ultraderecha%22",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108284.html&text=Montserrat%20%28PP%29%20acusa%20al%20Gobierno%20de%20crear%20crisis%20con%20otros%20pa%C3%ADses%20%22de%20forma%20unilateral%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108277.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108285.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108274.html&text=Diana%20Riba%20%28Ahora%20Rep%C3%BAblicas%29%3A%20%22Si%20volvemos%20a%20los%20recortes%2C%20no%20podremos%20hacer%20la%20transici%C3%B3n%20verde%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108273.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108281.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108275.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108271.html&text=Montserrat%20%28PP%29%3A%20%22Yo%20evit%C3%A9%20que%20los%20socialistas%20pusieran%20una%20etiqueta%20como%20la%20del%20tabaco%20en%20el%20vino%22",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108283.html&text=Jordi%20Ca%C3%B1as%20%28Cs%29%3A%20%22Tengo%20yo%20m%C3%A1s%20inmigrantes%20a%20la%20puerta%20de%20casa%20que%20t%C3%BA%22",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108282.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108274.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108284.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108281.html&text=Jordi%20Ca%C3%B1as%20%28Cs%29%2C%20a%20Irene%20Montero%3A%20%22Que%20venga%20toda%20%C3%81frica%22",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108268.html&text=El%20PNV%20pide%20un%20comisario%20que%20garantice%20%22el%20respeto%22%20a%20las%20lenguas%20cooficiales%20en%20la%20UE",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108271.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108269.html",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108275.html&text=Irene%20Montero%20acusa%20a%20Jordi%20Ca%C3%B1as%20de%20querer%20hacerle%20un%20%22mansplaining%22%20y%20%C3%A9l%20le%20responde%3A%20%22%C2%BFQu%C3%A9%20es%20un%20mansplaining%3F%22",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108273.html&text=Ribera%20%28PSOE%29%20acusa%20al%20PP%20de%20querer%20%22recortar%22%20la%20PAC%20y%20otras%20ayudas%20agrarias",
+      "https://twitter.com/intent/tweet?url=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108277.html&text=Buxad%C3%A9%20acusa%20al%20PP%20y%20al%20PSOE%20de%20%22abrir%20las%20puertas%20de%20Europa%20a%20los%20productos%20de%20Marruecos%20y%20a%20esas%20fresas%20regadas%20con%20aguas%20fecales%E2%80%9D",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108265.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108271.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108275.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108269.html&text=Irene%20Montero%3A%20%22Este%20pa%C3%ADs%20tiene%20que%20decir%20alto%20y%20claro%20%27no%20a%20la%20guerra%27%22",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108280.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108265.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108284.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108270.html&text=Dolors%20Montserrat%3A%20%22El%2080%25%20de%20las%20iniciativas%20en%20el%20Parlamento%20Europeo%20son%20del%20PP%22",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108285.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108265.html&text=Ribera%20reprocha%20al%20PP%20que%20no%20reconozca%20a%20Palestina%20como%20Estado%20y%20Montserrat%20le%20responde%20acus%C3%A1ndole%20de%20pactar%20con%20%22pr%C3%B3fugos%20de%20la%20justicia%22",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108281.html&text=Jordi%20Ca%C3%B1as%20%28Cs%29%2C%20a%20Irene%20Montero%3A%20%22Que%20venga%20toda%20%C3%81frica%22",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108282.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108277.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108281.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108268.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108283.html&text=Jordi%20Ca%C3%B1as%20%28Cs%29%3A%20%22Tengo%20yo%20m%C3%A1s%20inmigrantes%20a%20la%20puerta%20de%20casa%20que%20t%C3%BA%22",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108273.html&text=Ribera%20%28PSOE%29%20acusa%20al%20PP%20de%20querer%20%22recortar%22%20la%20PAC%20y%20otras%20ayudas%20agrarias",
+      "https://twitter.com/intent/tweet",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108278.html&text=Riba%20%28Ahora%20Rep%C3%BAblicas%29%20a%20Buxad%C3%A9%20%28Vox%29%3A%20%22Las%20mujeres%20no%20necesitamos%20a%20personas%20como%20usted%22",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108268.html&text=El%20PNV%20pide%20un%20comisario%20que%20garantice%20%22el%20respeto%22%20a%20las%20lenguas%20cooficiales%20en%20la%20UE",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108266.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108279.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108271.html&text=Montserrat%20%28PP%29%3A%20%22Yo%20evit%C3%A9%20que%20los%20socialistas%20pusieran%20una%20etiqueta%20como%20la%20del%20tabaco%20en%20el%20vino%22",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108275.html&text=Irene%20Montero%20acusa%20a%20Jordi%20Ca%C3%B1as%20de%20querer%20hacerle%20un%20%22mansplaining%22%20y%20%C3%A9l%20le%20responde%3A%20%22%C2%BFQu%C3%A9%20es%20un%20mansplaining%3F%22",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108272.html&text=Estrella%20Gal%C3%A1n%20%28Sumar%29%20pide%20ser%20%22firmes%22%20para%20no%20bonificar%20a%20los%20grandes%20oligopolios",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108282.html&text=El%20PNV%20alerta%20de%20la%20necesidad%20de%20implementar%20m%C3%A1s%20pol%C3%ADticas%20de%20%22ciberseguridad%22%20en%20la%20UE",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108276.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108274.html&text=Diana%20Riba%20%28Ahora%20Rep%C3%BAblicas%29%3A%20%22Si%20volvemos%20a%20los%20recortes%2C%20no%20podremos%20hacer%20la%20transici%C3%B3n%20verde%22",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108273.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108269.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108278.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108274.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108280.html&text=Gal%C3%A1n%20%28Sumar%29%2C%20a%20Vox%3A%20%22Llevo%2025%20a%C3%B1os%20trabajando%20en%20la%20UE%20y%20la%20%C3%BAnica%20amenaza%20son%20ustedes%2C%20la%20ultraderecha%22",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108284.html&text=Montserrat%20%28PP%29%20acusa%20al%20Gobierno%20de%20crear%20crisis%20con%20otros%20pa%C3%ADses%20%22de%20forma%20unilateral%22",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108270.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108266.html&text=Irene%20Montero%2C%20a%20Teresa%20Ribera%3A%20%22%C2%BFQu%C3%A9%20ata%20a%20este%20gobierno%20con%20el%20Estado%20genocida%20de%20Israel%20para%20no%20romper%20relaciones%22",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108279.html&text=Teresa%20Ribera%20pide%20al%20PP%20que%20se%20disculpe%20por%20sus%20%22discursos%20xen%C3%B3fobos%20y%20racistas%22",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108272.html",
+      "https://facebook.com/sharer/sharer.php?u=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108283.html",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108276.html&text=Gal%C3%A1n%20%28Sumar%29%20recuerda%20a%20Vox%20que%20Europa%20%22ha%20acogido%20a%20siete%20millones%20de%20personas%22%20por%20la%20guerra%20de%20Ucrania%20%22y%20no%20ha%20pasado%20nada%22",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108285.html&text=Gal%C3%A1n%20%28Sumar%29%20acusa%20al%20PSOE%20de%20%22abandonar%22%20al%20pueblo%20saharaui",
+      "https://twitter.com/intent/tweet?url=https://eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_11426497_1108277.html&text=Buxad%C3%A9%20acusa%20al%20PP%20y%20al%20PSOE%20de%20%22abrir%20las%20puertas%20de%20Europa%20a%20los%20productos%20de%20Marruecos%20y%20a%20esas%20fresas%20regadas%20con%20aguas%20fecales%E2%80%9D"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-07T01:29:45.764+03:00",
+    "updated": "2024-06-07T01:29:45.764+03:00"
+  },
+  {
+    "uuid": "ea858bcb5871a81635078e1b3e4a974f7ddd33ef",
+    "url": "https://www.ntn24.com/noticias-deportes/record-y-emotiva-celebracion-cristiano-ronaldo-se-convirtio-en-el-primer-jugador-de-la-historia-en-marcar-900-goles-511800",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NTN24",
+    "published": "2024-09-05T20:13:00Z",
+    "title": "Récord y emotiva celebración: Cristiano Ronaldo se convirtió en el primer jugador de la historia en marcar 900 goles | NTN24.COM",
+    "text": "[Cristiano Ronaldo](/temas/cristiano-ronaldo) Récord y emotiva celebración: Cristiano Ronaldo se convirtió en el primer jugador de la historia en marcar 900 goles Este jueves el portugués Cristiano Ronaldo se convirtió en el primer futbolista de la historia en conseguir 900 goles. El luso consiguió el histórico gol frente a Croacia por la UEFA Nations League. El golazo llegó tras un remate con el pie derecho desde la mitad del área que llegó con una asistencia de Nuno Mendes. Con este gol, CR7 suma 900 goles en 1238 partidos oficiales con las camisetas de Sporting de Lisboa (5), Manchester United (145), Real Madrid (450), Juventus (101) y Al-Nassr (67). Tras esta anotación, así quedó la tabla general de goleadores históricos del fútbol mundial: - Cristiano Ronaldo – 900 goles en partidos. - Lionel Messi – 835 goles en 1063 partidos. - Josef Bican – 805 goles en 530 partidos. - Pelé – 770 goles en 812 partidos. - Romário – 761 goles en 963 partidos. Apenas días atrás, CR7 se había pronunciado sobre la posibilidad de llegar a 900 goles y lanzó un dardo a al fallecido futbolista Pelé y a Romario, de quienes algunos aseguran que marcaron más de 1.000 goles en su carrera. A pesar de esta cifra, muchos expertos señalan que varias de las anotaciones no se dieron en partidos oficiales o no fueron registrados en video, por lo que ponen a CR7 en lo más alto de los goleadores de la historia. \"Quiero llegar a los 1000. Con una gran diferencia, todos los goles que marqué están filmados, ¡tengo pruebas! Los respeto a todos, pero tengo pruebas...\", dijo el exjugador del Real Madrid entre risas. El comentario de Ronaldo provocó una oleada de comentarios de apoyo y rechazo: \"Tiene un punto... Nadie cree las cifras de Pele y Romario\", \"Controversial y contundente. Ese es el bicho\", dicen algunos. Por su parte, otros internautas se mostraron indignados con su frase: \"Amigo no compitas con un tipo que tiene 3 mundiales, no llevas vida\", \"Hay pruebas de sus goles, nadie le discute eso….. pero también hay pruebas fílmicas de Pele y Romario ganando la copa del mundo\".",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-06T00:01:27.605+03:00",
+    "updated": "2024-09-06T00:01:27.605+03:00"
+  },
+  {
+    "uuid": "e2579249a14564640fc0809355b1ca3ff3f940f9",
+    "url": "https://timesofindia.indiatimes.com/india/opposition-to-go-all-out-on-neet-leak-in-lok-sabha-rajya-sabha/articleshow/111323456.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mohua Chatterjee",
+    "published": "2024-06-27T18:10:00Z",
+    "title": "Opposition to go all out on NEET 'leak' in Lok Sabha, Rajya Sabha | India News",
+    "text": "NEW DELHI: After the procedural formalities, turbulence looms over the new Parliament as opposition has decided to raise the issue of NEET scam and paper leaks in Lok Sabha and Rajya Sabha on Friday, with indications that it is not ready for a compromise on the issue.Opposition will move an adjournment notice in Lok Sabha and is likely to move a notice for discussion under Rule 267 in RS on Friday. The demand carries the seed of serious confrontation on the very first day of substantive business in the 18th Lok Sabha. While the govt business has listed the start of discussion on \\\"motion of thanks\\\" to the President's joint address, INDIA bloc wants to start the Parliament session with a discussion on NEET-paper leaks.At a meeting of the opposition at the residence of Congress chief Mallikarjun Kharge, the parties decided that NEET is a serious issue impacting the future of lakhs of youth, and it cannot be clubbed with debate on \\\"motion of thanks\\\". It is generally assumed that the opposition can raise its issues of concern in the debate on the President's address.Modi govt has in the past been averse to accepting adjournment notices, which has resulted in protests and walkouts. But it is feared that a refusal in the 18th Lok Sabha could invite unmanageable protests given the increased strength of the anti-BJP bloc after the elections - a point repeatedly made by opposition MPs.The meeting at Kharge's residence was attended by Rahul Gandhi, Sharad Pawar, KC Venugopal, Sanjay Raut, Priyanka Chaturvedi, NK Premachandran, Mahua Majhi, Kakoli Ghosh Dastidar, Derek O'Brien, Arvind Sawant, Pramod Tiwari, Rajani Patil, Tiruchi Siva and Sanjay Singh, among others.On Monday, opposition will sit on a dharna in the Parliament premises to protest \\\"misuse of agencies\\\" to target opposition and arrest of chief ministers Hemant Soren and Arvind Kejriwal and three Bengal ministers.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mallikarjun kharge",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "rajya sabha | india news",
+          "sentiment": "negative"
+        },
+        {
+          "name": "parliament",
+          "sentiment": "negative"
+        },
+        {
+          "name": "congress",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "lok sabha",
+          "sentiment": "none"
+        },
+        {
+          "name": "new delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "rajya sabha",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-28T00:32:41.688+03:00",
+    "updated": "2024-06-28T00:32:41.688+03:00"
+  }
+]

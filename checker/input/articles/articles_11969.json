@@ -1,0 +1,326 @@
+[
+  {
+    "uuid": "9ed7837920f6dd7f3f3dfa02ca1da6203bfa0202",
+    "url": "https://www.wtkr.com/news/environment/endangered-orangutan-baby-born-at-virginia-zoo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Web Staff",
+    "published": "2024-07-04T14:34:00Z",
+    "title": "Endangered orangutan baby born at Virginia Zoo",
+    "text": "NORFOLK, Va. — An endangered Bornean orangutan was born last week at the Virginia Zoo, the zoo announced Wednesday. The birth marks the second orangutan to ever be born at the zoo — an important moment for the endangered species that is facing habitat destruction and population loss. Watch: Take a walk with your favorite animals at the Virginia Zoo Both the mom, Dara, and baby are doing well, the zoo says. “Our care team is over the moon with excitement about the new addition to our orangutan family,” said Jill Strother, assistant curator of the Virginia Zoo’s Asia section. “All our hard work in preparing Dara for the birth with ultrasound and maternal behavior training has been so rewarding. We can't wait to see this little one flourish!” Dara has attended \"routine maternity training sessions\" at the zoo to prepare her for motherhood. Watch: Giant pandas to return to National Zoo in DC Dara and the baby's father, named Solaris, were recommended to breed by the Orangutan Species Survival Plan. This baby is the second the two have had together, though the first died in 2018 due to a sudden illness. Bornean orangutans give birth about once every seven to nine years, and typically have four or five babies in their lifetime. “The Virginia Zoo has been committed to the conservation and education of orangutans for many years, and we are thrilled to reach a new conservation milestone with this birth,” said Greg Bockheim, the zoo's executive director. “We feel confident this baby will become a fantastic ambassador for its species, inspiring awe and a sense of care in many Zoo visitors, which is our ultimate goal.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jill strother",
+          "sentiment": "none"
+        },
+        {
+          "name": "dara",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "virginia zoo",
+          "sentiment": "negative"
+        },
+        {
+          "name": "national zoo",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "va.",
+          "sentiment": "none"
+        },
+        {
+          "name": "virginia zoo norfolk",
+          "sentiment": "none"
+        },
+        {
+          "name": "asia",
+          "sentiment": "none"
+        },
+        {
+          "name": "virginia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T00:25:41.262+03:00",
+    "updated": "2024-07-05T00:25:41.262+03:00"
+  },
+  {
+    "uuid": "ad7c1ed712aa12e5b343b6907d2f5b1d712a3445",
+    "url": "https://carbuzz.com/news/nissan-self-driving-rollout-coming-soon-for-a-good-cause",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jacob Oliva",
+    "published": "2024-02-29T20:02:00Z",
+    "title": "Nissan Self-Driving Rollout Coming Soon For A Good Cause | CarBuzz",
+    "text": "The Japanese autonomous is pursuing the tech in Japan to support the aging population, but without putting them at risk. Nissan has announced that it will roll out commercialized autonomous driving technology in Japan by 2027, disclosing a roadmap for this timeline. The self-driving tech Nissan will introduce is SAE Level 4, similar to the [controversial Cruise robotaxi](https://carbuzz.com/news/gm-backed-cruise-scales-back-to-one-city-delays-cruise-origin-launch) and higher than what Mercedes-Benz has been [testing on US roads since last year](https://carbuzz.com/news/mercedes-benz-becomes-first-automaker-to-launch-level-3-autonomous-driving-in-usa). According to the automaker, self-driving cars will solve transportation service issues faced by local communities in Japan, including driver shortages due to an aging population. More than one out of 10 people in Japan are now aged 80 or older, according to the [World Economic Forum](https://www.weforum.org/agenda/2023/09/elderly-oldest-population-world-japan). Nissan has been testing business models for its mobility service since 2017, including a manned version called Namie Smart Mobility operating since 2021. The company has also been testing self-driving cars in London and other areas with the support of the UK government. Despite the images here showing a [Nissan Leaf](https://carbuzz.com/cars/nissan/leaf), road tests will be conducted in the Minato Mirai area of Yokohama using an autonomous driving vehicle based on the Serena minivan starting in 2024. This will proceed to service demonstration tests from 2025 to 2026, with 20 vehicles (with drivers on board). A full rollout of the mobility service using self-driving cars will happen in 2027, and given that there will be human backups, we struggle to see any drawbacks. Nissan isn't the only automaker aiming to offer driverless taxis in Japan. GM's Cruise Origin is set to be [offered in Tokyo by 2026](https://carbuzz.com/news/cruise-self-driving-robotaxi-going-global-amid-us-backlash) through the American company's partnership with Honda. However, it will be at a much larger scale and on an earlier schedule, with a target of introducing a fleet of 500 robotaxis beyond 2026. Just like Nissan, Honda's push to offer autonomous technology in Japan is connected to the increasing shortage of drivers due to an aging population. By using the technology in daily real-world conditions with human redundancies to keep everyone safe, this initiative has the potential to rapidly advance the progress of AI-driven cars.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.weforum.org/agenda/2023/09/elderly-oldest-population-world-japan).",
+      "https://weforum.org/agenda/2023/09/elderly-oldest-population-world-japan)."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "nissan",
+          "sentiment": "negative"
+        },
+        {
+          "name": "world economic forum",
+          "sentiment": "none"
+        },
+        {
+          "name": "mercedes-benz",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "japan",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-01T01:14:53.507+02:00",
+    "updated": "2024-03-01T01:14:53.507+02:00"
+  },
+  {
+    "uuid": "8682ae14eb51212960a44683197a1dd7edca6e66",
+    "url": "https://www.1news.co.nz/2023/12/29/increasing-number-of-toxic-shellfish-may-be-related-to-extreme-weather-events/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "rnz.co.nz",
+    "published": "2023-12-28T09:00:00Z",
+    "title": "Increasing number of toxic shellfish may be related to extreme weather events",
+    "text": "The increasing frequency of toxic algal blooms could be related to extreme weather, says the Ministry for Primary Industries. Shellfish toxin alerts have been issued for parts of Waiheke Island, Kawhia, the West Coast of Northland, East Cape, and Marlborough Sounds. People were being warned to not eat shellfish from those areas. The ministry's deputy director-general of food safety Vincent Arbuckle said extreme weather could be a factor in the increasing growth of agal blooms. \"It may well be weather-related or could well be the result of Cyclone Gabrielle and extreme weather events earlier in the year. \"After extreme flooding you'll get more nutrients in the water around the coast and agal blooms do occur when you get high nutrient run-off.\" An algae-like organism called Okeania spp was discovered on beaches on the southern side of Waiheke Island, he said. \"Okeania spp is a cyanobacteria that forms dark-coloured mats of slimy material when it washes up on the beach. As these cynobacterial mats decompose, they turn into a stinky sludge. \"It can also produce a toxin called Lyngbyatoxin-A, which can cause skin and eye irritation and respiratory issues.\" Affected shellfish included bivalve shellfish such as mussels, oysters, tuatua, pipi, toheroa, cockles, and scallops, as well as pūpū (cat's eyes), Cook's turban and kina (sea urchin), said Arbuckle. \"The risks of this toxin contaminating shellfish is unknown, so this warning is precautionary until we can find out more. It's important to note that cooking shellfish will not destroy biotoxins. \"At this stage, finfish are not included in this public health warning, but we advise people to gut the fish and discard the liver before cooking.\" Meanwhile, testing of shellfish for areas in Kawhia and Northland found elevated levels paralyctic shellfish toxins which could cause symptoms such as numbness, a tingling (prickly feeling) around the mouth, face, hands, and feet, difficulty swallowing or breathing, dizziness and headache, nausea and vomiting, diarrhoea, paralysis and respiratory failure and, in severe cases, death. The ministry has detected high levels of toxin-producing phytoplankton in Northland, as well as an Alexandrium pacificum bloom in Kawhia. In both cases, Arbuckle said cooking the shellfish did not remove the toxin. But pāua, crab and crayfish could still be eaten if the gut was completely removed prior to cooking, as toxins accumulate in the gut, said the ministry. If the gut is not removed, its contents could contaminate the meat during the cooking process.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Health",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "vincent arbuckle",
+          "sentiment": "none"
+        },
+        {
+          "name": "lyngbyatoxi",
+          "sentiment": "none"
+        },
+        {
+          "name": "cyclone gabrielle",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "primary industries",
+          "sentiment": "none"
+        },
+        {
+          "name": "marlborough sounds",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "east cape",
+          "sentiment": "none"
+        },
+        {
+          "name": "kawhia",
+          "sentiment": "none"
+        },
+        {
+          "name": "waiheke island",
+          "sentiment": "none"
+        },
+        {
+          "name": "west coast",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:25:54.210+02:00",
+    "updated": "2023-12-29T00:25:54.210+02:00"
+  },
+  {
+    "uuid": "3001d8c9594386160fb42d4691821ffe90c967e3",
+    "url": "https://www.elimparcial.com:443/espectaculos/2025/07/17/lupita-nyongo-revela-que-sufre-miomas-uterinos-desde-2014-el-dolor-no-es-normal",
+    "ord_in_thread": 0,
+    "author": "Ximena Cordova",
+    "published": "2025-07-17T04:45:00Z",
+    "title": "Lupita Nyong'o revela que sufre miomas uterinos desde 2014: \"El dolor no es normal\"",
+    "text": "Lupita Nyong’o revela que sufre miomas uterinos desde 2014: “El dolor no es normal”\nLupita Nyong’o revela su lucha con miomas uterinos y lanza iniciativas para visibilizar y atender esta condición femenina.\nLOS ÁNGELES, ESTADOS UNIDOS.- La reconocida actriz Lupita Nyong’o, de raíces mexicanas y kenianas, rompió el silencio sobre una condición médica que ha afectado su vida por más de una década: los miomas uterinos.\nA través de una emotiva publicación en redes sociales, compartió su experiencia con estos tumores benignos, también conocidos como fibromas, y lanzó un llamado urgente para dejar de normalizar el dolor que muchas mujeres enfrentan en silencio.\nTambién te podría interesar: Lupita Nyong’o Revela que adoptar un gato ayudó a sanar su corazón roto: “Estaba al borde de la Depresión”\n¿Qué son los miomas uterinos y cómo afectan?\nLos miomas uterinos son tumores no cancerosos que se desarrollan en el útero, y aunque no representan una amenaza directa para la vida, sí pueden causar diversos malestares y complicaciones. De acuerdo con datos de la Fundación para la Salud de la Mujer (FWH, por sus siglas en inglés), entre el 70 y 80 por ciento de las mujeres entre los 35 y 54 años los desarrollan en algún momento de su vida.\nEn su mayoría, los miomas no provocan síntomas, pero cuando sí lo hacen, pueden generar:\n- Dolor pélvico o abdominal\n- Sangrado menstrual abundante\n- Presión en la vejiga o el recto\n- Infertilidad o dificultades en el embarazo\n- Fatiga o anemia\nEstos tumores suelen reducirse después de la menopausia, pero durante los años reproductivos pueden requerir tratamientos como medicamentos, procedimientos no invasivos o incluso cirugías.\nLa lucha personal de Lupita Nyong’o\nNyong’o reveló que en 2014, el mismo año en que ganó el Óscar por 12 años de esclavitud, le detectaron 30 miomas. Se sometió a una cirugía para retirarlos, pero sabía que podrían volver.\nNos enseñan que la menstruación significa dolor, y que el dolor es simplemente parte de ser mujer”\n— expresó la actriz en su publicación.\nNecesitamos dejar de tratar este enorme problema como una serie de desafortunadas coincidencias. Debemos rechazar la normalización del dolor femenino”\nDesde su adolescencia, Lupita había aprendido a guardar silencio ante el dolor menstrual, algo que considera una forma de violencia silenciosa hacia la salud femenina.\n¿Qué está haciendo para cambiar esta realidad?\nCon la intención de generar un cambio real, Nyong’o anunció su alianza con la Fundación para la Salud de la Mujer, con quienes lanzó la beca de investigación FWH x Lupita Nyong’o. Esta iniciativa busca desarrollar tratamientos menos invasivos y más efectivos para los miomas uterinos.\nAdemás, reveló que está trabajando junto a varias legisladoras estadounidenses para promover un paquete de leyes que impulse:\n- Mayor financiamiento para la investigación de miomas\n- Mejoras en la detección e intervención tempranas\n- Más educación sobre la salud uterina\n- Campañas públicas de concienciación\nEstos proyectos ampliarían la financiación de la investigación, aumentarían la detección e intervención tempranas de los miomas uterinos, estudiarían las causas del cáncer uterino y aumentarían la concienciación pública”\n— explicó la actriz.\nEl impacto en mujeres negras y latinas\nSegún la FWH, los miomas afectan de manera desproporcionada a las mujeres negras, quienes suelen desarrollar estos tumores a edades más tempranas, con mayor severidad y necesidad de cirugía.\nEsta brecha en salud también se refleja en el acceso desigual a diagnósticos oportunos y tratamientos adecuados, un problema que Lupita quiere visibilizar.\nTambién te podría interesar: Scarlett Johansson, Lupita Nyong’o y Halle Berry comparten un rasgo que las hace ‘científicamente’ hermosas. ¿Cuál es?\nUna voz que busca romper tabúes\nAl compartir su historia, Nyong’o no solo busca visibilizar una condición médica común pero poco discutida, también quiere empoderar a las mujeres a escuchar sus cuerpos y exigir atención médica sin miedo ni vergüenza.\nEs momento de tomar en serio la salud femenina. No podemos seguir considerando el dolor como algo normal”\n— afirmó\nSu mensaje, respaldado por acciones concretas, abre una conversación urgente sobre los derechos y cuidados de salud que merecen todas las mujeres.\nSigue nuestro canal de WhatsApp\nRecibe las noticias más importantes del día. Da click aquí\nTe recomendamos\n¿Qué es la neuralgia del trigémino? Doctor advierte sobre la rara enfermedad que provoca uno de los peores dolores que puede experimentar el ser humano¿Cómo prevenir el dolor cervical? Es clave evitar estos hábitosEl paracetamol bloquea el dolor antes de que alcance el cerebro, revela nuevo estudioDolor de cadera: una molestia común que se puede prevenir y tratar",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->medical condition",
+      "Health->health care approach"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Lupita Nyong’o",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_mx",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T08:07:29.148+03:00",
+    "updated": "2025-07-17T05:13:33.000+00:00"
+  },
+  {
+    "uuid": "bd23ee71e9496cd721f6fe3708821c8b7effbc5d",
+    "url": "https://theobjective.com/sociedad/2024-11-01/cinco-comunidades-alerta-lluvias-andalucia-riesgo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "THE OBJECTIVE",
+    "published": "2024-11-01T07:31:00Z",
+    "title": "Cinco comunidades siguen en alerta por las lluvias y Andalucía está en riesgo extremo",
+    "text": "Cinco comunidades siguen en alerta por las lluvias y Andalucía está en riesgo extremo\nEl presidente de la Junta pide «extremar la precaución», no salir de casa si es posible y evitar riesgos innecesarios\nCinco comunidades siguen hoy en alerta ante las fuertes precipitaciones y las tormentas que se van a registrar durante el día, y en el caso de Andalucía el nivel es «rojo» (riesgo extremo) ante las intensas lluvias que se van a producir en la provincia de Huelva, que en algunos casos pueden llegar a acumular hasta 140 litros por metro cuadrado.\nEstá además en alerta «naranja» (riesgo importante) la Comunidad Valenciana, que ha padecido durante los últimos días los efectos más devastadores de la dana y donde el número de personas fallecidas se eleva a 155, y las lluvias van a continuar a lo largo del día de hoy, según los datos de la Agencia Estatal de Meteorología.\nEl mapa de alertas «naranja» se completa con avisos en grandes áreas de Andalucía, de las comunidades de Islas Baleares y Cataluña, y la Aemet ha advertido de que en muchos lugares de estas comunidades las precipitaciones van a volver a superar hoy los 100 litros por metro cuadrado.\nEstá además en alerta «amarilla» (riesgo) la comunidad de Extremadura, donde las lluvias acumularán 15 litros por metro cuadrado en una hora, según la información de la Agencia Estatal de Meteorología.\nLos avisos más importantes, el nivel «rojo» (riesgo extremo) se concentran en el litoral de Huelva y en Andévalo y Condado, en la provincia de Huelva, donde las previsiones apuntan que se acumularán hasta 140 litros por metro cuadrado durante las primeras horas de la mañana, aunque las lluvias continuarán siendo intensas y persistentes a lo largo del día.\nEl presidente de la Junta de Andalucía, Juan Manuel Moreno Bonilla, ha pedido «extremar la precaución»: «Por favor, no salgamos de casa siempre que sea posible y evitemos desplazamientos o cualquier riesgo innecesario». «Prudencia», ha reiterado en un mensaje a través de la red social X.\nEn la Comunidad Valenciana los niveles de riesgo más importantes para hoy (naranja) se han localizado en el litoral sur de la provincia de Valencia, donde se acumularán, según las previsiones, hasta 52 litros por metro cuadrado en una hora, debido, ha aclarado la Aemet, a una «célula convectiva estática» sobre el tercio sur de la zona afectada por el aviso (el litoral sur de la provincia).\nLa alerta es también «naranja» (riesgo importante) en la provincia de Castellón, donde los avisos se centran en el interior norte de la provincia y en el litoral, y en estos casos las lluvias van a ser también muy intensas, con acumulaciones de hasta 40 litros por metro cuadrado en una hora y 100 litros en doce horas.\nEn la comunidad de Cataluña el nivel «naranja» se concentra en el litoral y prelitoral sur de la provincia de Tarragona, donde se acumularán 40 litros por metro cuadrado en una hora y hasta 100 litros en doce horas, según los datos de la Aemet.\nEn Baleares se ha activado también aviso «naranja» por las fuertes lluvias que se anuncian en la Sierra de Tramontana, el norte, nordeste, interior y sur de Mallorca; así como en la isla de Menorca. En estas islas las precipitaciones van a rondar los 50 litros por metro cuadrado en una hora y en algunos puntos se pueden alcanzar los 120 litros por metro cuadrado en pocas horas.\nAdemás de las alertas rojas y naranjas, se han activado avisos de nivel «amarillo» (riesgo) en las comunidades de Andalucía, Baleares, Cataluña, Extremadura y Comunidad Valenciana, ya que las lluvias van a ser también muy fuertes en grandes áreas de estas regiones, y en muchos puntos se van a acumular hasta 60 litros por metro cuadrado en doce horas.\nAdemás de los avisos, la Aemet ha publicado un mensaje en la red social X en el que advierte que la situación adversa va a continuar durante todo el fin de semana y de la importancia de consultar el estado de las carreteras antes de viajar y seguir las recomendaciones de Protección Civil.\n«Vamos a lanzar un mensaje muy claro y lo vamos a dejar fijado. La emergencia meteorológica no ha finalizado. La dana sigue sobre España», ha publicado la Aemet/Comunidad Valenciana, y ha dejado fijado este mensaje en su cuenta de X.\nLa Aemet acaba de publicar un mensaje en el que informa de que ya se están registrando lluvias torrenciales en localidades como Cartaya, donde se han recogido 117 litros por metro cuadrado en menos de tres horas; 70 de ellos en sólo una hora. «La dana va a seguir provocando hoy tiempo adverso», ha advertido la agencia meteorológica.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T11:11:24.986+02:00",
+    "updated": "2024-11-01T11:11:24.986+02:00"
+  },
+  {
+    "uuid": "93ab3202cd0656e6d6d7dcb807e5cd691cebf688",
+    "url": "https://www.infobae.com/mexico/2024/08/15/en-michoacan-buscan-al-atacante-de-frida-la-perrita-que-convulsiono-por-golpe-con-un-martillo-en-la-cabeza-video",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@infobae",
+    "published": "2024-08-15T21:53:00Z",
+    "title": "En Michoacán buscan al atacante de Frida, la perrita que convulsionó por golpe con un martillo en la cabeza | VIDEO - Infobae",
+    "text": "La comunidad está unida en su búsqueda de justicia para Frida y en su compromiso de proteger a los animales de la violencia y el maltrato. / @xRMSMx Un caso de maltrato animal fue reportado en la colonia Nicolaitas Ilustres, en el estado de Michoacán . Una perrita, identificada como Frida, fue golpeada en la cabeza con un martillo por un desconocido, lo que causó convulsiones y un gran dolor.\nSegún testigos, el agresor golpeó a Frida en la cabeza con un martillo en un solo golpe, lo que causó que la perrita se convulsionara y cayera al suelo. Los dueños de la ferretería donde Frida se refugia aseguraron que la perrita no tiene dueño, pero los vecinos aseguran que la han estado cuidando y protegiendo como si fuera un miembro más de la familia.\nLa señora María Elena, vecina de la zona, explicó que Frida recibió atención médica y está en recuperación. “Yo cuando salí ya estaba la perrita tirada, no vi cuando la golpearon pero vi por la cámara, yo no tengo ubicada a la persona pero el muchacho solo tiene el video por las cámaras”, aseguró.\nTras el brutal golpe, se convulsiono Los vecinos están indignados y exigen que las autoridades encuentren al responsable y lo castiguen con la pena máxima, que puede llegar a 12 años de cárcel, una multa de hasta 17 mil 287 pesos y entre 60 a 180 jornadas de trabajo comunitario.\nLa comunidad está unida en su búsqueda de justicia para Frida y en su compromiso de proteger a los animales de la violencia y el maltrato. El caso de Frida es solo uno de los muchos casos de maltrato animal que se reportan en la región, y los activistas piden que se tomen medidas más estrictas para proteger a los animales.\nLa comunidad está unida en su búsqueda de justicia para Frida y en su compromiso de proteger a los animales de la violencia y el maltrato. Crédito: X/ @xRMSMx La policía local ha iniciado una investigación para encontrar al responsable del maltrato a Frida, y los vecinos están colaborando con la autoridad para encontrar al agresor.\n¿Cuál es la pena máxima en México por maltrato animal? En México , la pena máxima por maltrato animal varía según la entidad federativa, con sanciones que pueden oscilar entre seis meses y seis años de prisión. Por ejemplo, en el Estado de México , causar la muerte de un animal con métodos que prolonguen su agonía puede resultar en una pena de tres a seis años de prisión.\nAdemás de multas que pueden oscilar entre 200 y 400 días de salario mínimo. Para denunciar un caso de maltrato animal en México, sigue estos pasos:\nEn México, la pena máxima por maltrato animal varía según la entidad federativa, con sanciones que pueden oscilar entre seis meses y seis años de prisión. - crédito imagen de referencia iStock Recopila evidencia\nToma fotos, videos y anota la dirección del lugar donde ocurrió el maltrato. Si es posible, obtén el nombre de la persona responsable. Presenta la denuncia\nEn línea: A través del sitio web de la Procuraduría Federal de Protección al Ambiente (PROFEPA). Correo electrónico: Envía tu denuncia a denuncias@profepa.gob.mx. Teléfono: Llama al número 800 776 3372. Es fundamental actuar de inmediato y denunciar cualquier caso de maltrato animal para proteger a los animales y garantizar su bienestar. (Freepik) Acude a instituciones locales, como el Instituto de Bienestar Animal en el estado de Puebla, para denunciar casos de maltrato animal y recibir apoyo.\nBusca también el apoyo de organizaciones civiles que trabajen en defensa de los animales , ya que pueden ofrecer recursos y orientación para combatir el maltrato animal.\nEs fundamental actuar de inmediato y denunciar cualquier caso de maltrato animal para proteger a los animales y garantizar su bienestar. La acción rápida y decidida puede marcar la diferencia en la vida de un animal y ayudar a prevenir futuros casos de maltrato.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://cdn.jwplayer.com/videos/ZVUFUOh9-7ZinLQGA.m4a",
+      "https://www.cdn.jwplayer.com/videos/ZVUFUOh9-7ZinLQGA.m4a"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T01:06:14.833+03:00",
+    "updated": "2024-08-16T01:06:14.833+03:00"
+  }
+]

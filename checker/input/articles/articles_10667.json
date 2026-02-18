@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "866f29397853d29c8fe7a30bf21ff215d6e44529",
+    "url": "https://9to5google.com/2024/09/19/google-calendar-birthdays",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Abner Li",
+    "published": "2024-09-19T15:06:00Z",
+    "title": "Google Calendar for Android will let you manually add birthdays",
+    "text": "At the moment, birthdays that appear in Google Calendar are based on Google Contacts information, but manual creation is now coming.\nThe Android app is now adding the ability to directly “create and modify birthday events in Google Calendar.”\nThe event page will feature a new “Birthday” chip at the top that joins Event, Tasks, and Out of office (for Workspace accounts). You get fields for “Add name” and “Add birth date” with the ability to customize notifications and set the color.\nThe event itself will feature a cover graphic and be added to your “Birthdays” calendar.\nThere are several things to note for those using the Google Calendar API:\n“Birthday events do not support all event properties. If you’re using the Calendar API, we recommend reviewing your code so you don’t apply any non-supported properties.” “For developers, newly created birthday events will be available in the Calendar API with the eventType “birthday.” Both Events.list and Events.watch will support the “birthday” event type filter and return “birthday” events by default. Only a subset of the event properties will be supported for birthday events. To learn more, see our developer guide about working with the birthday event type. “ Birthday creation is rolling out over the coming weeks to Google Calendar on Android for all users: Available to all Google Workspace customers, Workspace Individual Subscribers, and users with personal Google accounts.\nThis is also beginning to roll out to the web, and will come to Google Calendar for iOS in the future.\nMore on Google Calendar: Google Calendar coming to Chrome’s New Tab Page for Workspace users How the Gemini Google Calendar Extension works Google Calendar prepares support for hiding specific holidays on Android Calendar for Android just made it way easier to scroll through months",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:22:19.466+03:00",
+    "updated": "2024-09-20T07:55:22.172+03:00"
+  },
+  {
+    "uuid": "99e432989ef4e5070ebee8ece500cf18f542a981",
+    "url": "https://www.mprnews.org/story/2024/10/31/halloween-snow-dumps-some-heavy-totals-west-and-north-of-the-twin-cities",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Paul Huttner",
+    "published": "2024-10-31T19:08:00Z",
+    "title": "Halloween snow dumps some heavy totals west and north of the Twin Cities",
+    "text": "Halloween snow dumps some heavy totals west and north of the Twin Cities\nA messy Halloween snow hits much of eastern Minnesota.\nGo Deeper.\nCreate an account or log in to save stories.\nLike this?\nThanks for liking this story! We have added it to a list of your favorite stories.\nOur well-advertised Halloween snow system dumped some impressive snowfall totals so far in parts of central and eastern Minnesota.\nSome of the heaviest snow bands set up west and north of the Twin Cities. Check out this shot from near Monticello.\nThe messy system produced intense snowfall rates especially west of the Twin Cities Thursday afternoon.\nRain changed to snow across the Twin Cities early Thursday afternoon.\nTurn Up Your Support\nMPR News helps you turn down the noise and build shared understanding. Turn up your support for this public resource and keep trusted journalism accessible to all.\nRoads in the Twin Cities have been mostly wet with temperatures above freezing and warm pavement.\nHere are some preliminary snowfall totals with snow still falling as of this post time.\nWinthrop [Sibley Co, MN] Trained Spotter reports Snow of 4.00 Inch at 1:45 PM CDT --\n4 NNE Maple Lake [Wright Co, MN] Public reports Snow of 3.50 Inch at 11:30 AM CDT -- Areas of 3 to 4 inches near Maple Lake. Numerous downed branches and power outages reported. Still snowing. Photo report via X.\n2 SE Buffalo [Wright Co, MN] Public reports Snow of 3.00 Inch at 11:45 AM CDT -- Still snowing. Photo report via X.\nDalbo [Isanti Co, MN] Public reports Snow of 2.50 Inch at 11:00 AM CDT -- Areas of 2 to 3 inches near Dalbo. Still snowing. Photo report via Facebook.\nSt. Bonifacius [Hennepin Co, MN] Public reports Snow of 2.00 Inch at 11:40 AM CDT -- Report via Facebook.\nExpect snow to taper off late this afternoon into this evening. Trick-or-treat temps will be in the chilly 30s in most areas this evening.\nHappy Halloween!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Sibley Co",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T02:02:49.925+02:00",
+    "updated": "2024-11-01T02:02:49.925+02:00"
+  },
+  {
+    "uuid": "078bd5dd06d451b172f06bc3ddeebfffb18aaf80",
+    "url": "https://www.meneame.net/story/borrell-considera-castigo-colectivo-palestinos-bloqueo-entrega/c036",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "floritruco",
+    "published": "2024-02-01T23:01:00Z",
+    "title": "#36 Borrell considera un \"castigo colectivo\" a los palestinos el bloqueo a la entrega de fondos a la UNRWA",
+    "text": "Portada\nmis comunidades\notras secciones\n[#2](c2#c-2) Borrell es el alto representante de la UE, lo que dice no se debe considerar su opinión sino la postura oficial de la UE, que por supuesto puede ser distinta a la de cada país en concreto.\n[#8](c8#c-8) eso iba a decir yo. Que si se saliera mucho del guión le quitarían ipso facto. Encima de que es español y de vez en cuando cosas como ésta nos lo echamos al cuello. Habría que ver si su puesto estuviera ocupado por González Pons o por un tipo Orban.\n[#2](c2#c-2) Habrá un día en que Borrell condene con acciones esta masacre y denuncie ante los tribunales internacionales, en representación de la UE, los actos genocidas del gobierno de Israel sobre Gaza.\nEntonces ahí sí creeré estas historias para no dormir que cuenta.\nPero seguramente eso nunca ocurrirá porque bien sabe que la UE es cómplice de tal genocidio, y que si se pronunciara de esa manera, su jefa le daría la patada, quedándose el pobre Borrelito sin su puesto tan chulo, molón y prominente.\nNo disfruta ni nada con el protagonismo que tiene.\n[#2](c2#c-2) pero sin tirar cohetes, que parte de dar credibilidad a un estado que funciona como un puto mafioso: extorsión, amenazas, asesinatos y difamación.\n[#2](c2#c-2) No tiene miedo que le pase lo que le pasó a Gaspar Llamazares con el FBI, otros comunistas como Yoli si que tienen miedo (o egoísmo) de ahí su apoyo a la OTAN.\n[#5](c5#c-5) El próximo vas a flipar. Sanciones europeas a todo aquel que insulte al Isra, ques mu güen chaval.\n[#27](c27#c-27) Le quedan unos meses, no hace falta cancelarlo y quedar mal, como si fuéramos unos Vladimires cualquiera. Aquí somos muy democráticos. Se le dice en privado que deje de tocar las pelotas y será mejor para todos y en cuatro mesecillos de nada se pone a otro en el mismo puesto que meta línea dura de apoyo incondicional a Israel con más armamento y más dineros y que condene muy fuerte a Hamás y ya está, arreglao.\nBorrell eclipsando el escándalo de 50.000 millones para ucrania:\nOrbán se rinde y permite a la UE aprobar 50.000 millones de euros en ayudas para Ucrania\nResumen de este envío: Borrell demostrando mayor consistencia moral los zazis de MNM. Lo que tampoco es tan difícil.\nPor supuesto, nunca lo admitirán. Ni ante sí mismos.\n[#28](c28#c-28) Ya pero las cosas no suelen ser tan fáciles. Personajes públicos y mediáticos de estos están obligados a llevarse bien con todos sus patrocinadores y también con la opinión pública. Si has estado picando piedra para, por ejemplo, que se sigan enviando toneladas de dinero y armamento para que no cese la guerra contra Rusia en Ucrania, ahora te toca hacerte un poco el humanitario con lo de Palestina. Solo un poco, porque no te mojas lo suficiente para que lo que dices en los medios de comunicación tenga el más mínimo efecto práctico. Tus amigos de Israel y EEUU entienden que te toca hacer eso (ellos también lo hacen a su manera), te disculpan y todos contentos.\n[#11](c11#c-11) Y tu te estas aprovechando de su postura razonable y sensata, apoyando al pueblo indefenso, para atacarlos gratuitamente.\n[#13](c13#c-13) No necesito que Felipe y Josep hagan este tipo de declaraciones para señalar su cara dura y su hipocresía. Ambos personajes tienen una amplia trayectoria de felonías contrastadas. Me limito a expresar que su supuesto apoyo a la población palestina en este contexto es completamente falsa y que el interés que tienen en hacer estas declaraciones es pura y simplemente lavar un poco su maltrecha imagen.\n[#16](c16#c-16) y si dices que sin tan malos pa que iban a querer ponerse en contra a países poderosos? Si tan malos son pasarían de la gente y preferirían congraciarse con los poderosos",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-02T02:11:15.704+02:00",
+    "updated": "2024-02-02T02:11:15.704+02:00"
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "uuid": "b354f374fed265b3516f8de388feca053464737d",
+    "url": "https://www.thequint.com/news/webqoof/rajat-sharma-deepfake-video-remedies-heart-blood-diseases-fact-check",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rujuta Thete",
+    "published": "2025-01-10T02:02:00Z",
+    "title": "This Video of Rajat Sharma Promoting 'Remedies' for Heart Diseases Is a Deepfake",
+    "text": "A video showing Rajat Sharma, the Editor-in-Chief of India TV News, purportedly endorsing 'quick home remedies' for diseases related to heart and blood vessels is being shared on social media.\nWhat's the truth?: This is a deepfake video.\nThe original video dates back to June 2024 and shows Sharma denying accusations made by Congress leaders against the journalist, following a debate on the channel.\n[REMOVE AD](/plan-selection?utm_source=remove_ad&utm_medium=remove_ad_button)\nHow did we find out the truth?: We performed a relevant keyword but did not find any reports where Sharma is talking about remedies linked to heart and blood vessels' diseases.\nThen we performed reverse image search on some of the keyframes of the video and this led us to a\nposton X (formerly Twitter) shared by Sharma on 11 June 2024.The attire, ticker and the background seen in this video matched with the viral clip.\nIn this video, Sharma refuses the claims made against him by Congress leaders Jairam Ramesh, Pawan Khera and Ragini Nayak.\nNayak accused Sharma of abusing her on national television during a debate on the show on the counting day of 2024 Lok Sabha polls.\nAI-Detection tools: We also checked the viral video on AI-detection tools, TrueMedia and Contrails, which concluded that this clip is a deepfake.\nTrueMediaanalysis returned with 100 percent for the audio to be AI-generated.\nContrailsAI also detected manipulation in audio and video.\nIt also showed that the video where Sharma speaks all indicates manipulation (red negative graph) and the later half of the video with no audio showed no results.\nConclusion: A deepfake video of Rajat Sharma talking about remedies linked to heart and blood diseases is going viral online.\n(Not convinced of a post or information you came across online and want it verified? Send us the details on WhatsApp at 9540511818 , or e-mail it to us at [webqoof@thequint.com](mailto:webqoof@thequint.com) and we'll fact-check it for you. You can also read all our fact-checked stories here.)\n(At The Quint, we question everything. Play an active role in shaping our journalism by becoming a member today.)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Health"
+    ],
+    "topics": [
+      "Science and Technology->biotechnology",
+      "Science and Technology->medical research",
+      "Health->medical profession",
+      "Health->health treatment and procedure",
+      "Health->heart disease"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Rajat Sharma",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Jairam Ramesh",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ragini Nayak",
+          "sentiment": "none"
+        },
+        {
+          "name": "Pawan Khera",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Congress",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T10:05:20.652+02:00",
+    "updated": "2025-01-10T10:05:20.652+02:00"
+  },
+  {
+    "uuid": "9235d298f1b9e0e87826894462dc8633445fcd92",
+    "url": "https://news.myseldon.com/en/news/index/329163238",
+    "ord_in_thread": 0,
+    "author": "@pravda.ru",
+    "published": "2025-05-07T21:25:46Z",
+    "title": "Тайная жизнь муравьев: как их утрата изменит баланс в природе | Society | Seldon News",
+    "text": "Тайная жизнь муравьев: как их утрата изменит баланс в природе Муравьи играют незаметную, но критически важную роль в экосистемах. Эти насекомые не только рыхлят почву и способствуют её проветриванию, но и распространяют семена, защищают растения от вредителей и поддерживают круговорот питательных веществ. По сути, муравьи — экосистемные инженеры, влияющие на рост растений и устойчивость природы к климатическим изменениям. Фото: Own work by Thomas Bresson, https://creativecommons.org/licenses/by/3.0/ Тля и муравьи Недавнее совместное исследование учёных из Университета Западной Австралии,... Copyright information of photo and video materials was taken from the website «Pravda.ru» , more details in our Terms of Service",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Environment->endangered species",
+      "Environment->nature",
+      "Environment->ecosystem",
+      "Social Issue->social condition",
+      "Social Issue->mankind",
+      "Science and Technology->natural science",
+      "Science and Technology->biology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://creativecommons.org/licenses/by/3.0/",
+      "https://www.pravda.ru/news/science/2217100-the-role-of-ants-in-ecosystems/",
+      "https://www.creativecommons.org/licenses/by/3.0/",
+      "https://creativecommons.org/licenses/by/3.0",
+      "https://pravda.ru/news/science/2217100-the-role-of-ants-in-ecosystems/",
+      "https://www.pravda.ru/news/science/2217100-the-role-of-ants-in-ecosystems"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T00:25:46.714+03:00",
+    "updated": "2025-05-07T21:33:43.000+00:00"
+  },
+  {
+    "uuid": "02d727844a20f3ec7176c67bd7feef03b3a1b668",
+    "url": "https://www.newsbreak.com/minnesota-state/3378128766092-warm-dry-winter-heightens-drought-concerns",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-03-22T19:47:00Z",
+    "title": "Warm, dry winter heightens drought concerns",
+    "text": "By Submitted ,\n1 hour ago Year-round water conservation is beneficial\nWith less than half the average snowfall across much of the state and extraordinarily warm winter temperatures, drought conditions in Minnesota have persisted through the winter. Abnormally dry conditions exist throughout the state and about half of Minnesota is in moderate or severe drought.\nMinnesota has experienced significant drought conditions each year since 2021. The 2021 drought was the most severe in Minnesota since at least 1988.\nDrought in 2023 was generally less severe, but some areas of the state experienced conditions comparable to or worse than 2021.\n“While climatologists don’t issue forecasts, we want everyone to recognize that, without substantial precipitation this spring, a continuation of widespread drought conditions in 2024 is likely,” State Climatologist Luigi Romolo said.\nSixty-five surface water appropriation permits remain suspended due to last year’s low streamflow conditions. These locations and other watersheds will be monitored closely to support decisions on suspending or reinstating surface water appropriation permits. Surface water appropriation suspensions are implemented when streamflows drop to a low level measurement called the Q90, which is a flow that is exceeded 90% of the time. Weekly streamflow reports typically resume the first week of April.\nRecent drought events in Minnesota highlight the importance of year-round efficient water use and conservation. The DNR website (mndnr.gov/waters/watermgmt_section/appropriations/conservation.html) has information about what individuals, families, businesses and communities can do to conserve water.\nMore information about drought is available on the DNR drought webpage (mndnr.gov/climate/drought).\nThe post Warm, dry winter heightens drought concerns appeared first on Albert Lea Tribune .\nExpand All Read in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "external_links": [
+      "https://www.albertleatribune.com/2024/03/warm-dry-winter-heightens-drought-concerns/",
+      "https://img.particlenews.com/image.php?url=2vcXJe_0s1t3BvH00",
+      "https://www.albertleatribune.com",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2vcXJe_0s1t3BvH00",
+      "https://img.particlenews.com/image.php",
+      "https://albertleatribune.com/2024/03/warm-dry-winter-heightens-drought-concerns/",
+      "https://albertleatribune.com",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2vcXJe_0s1t3BvH00",
+      "https://www.albertleatribune.com/2024/03/warm-dry-winter-heightens-drought-concerns",
+      "https://www.img.particlenews.com/image.php?url=2vcXJe_0s1t3BvH00"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "luigi romolo",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "minnesota",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-22T23:20:27.948+02:00",
+    "updated": "2024-03-22T23:20:27.948+02:00"
+  }
+]

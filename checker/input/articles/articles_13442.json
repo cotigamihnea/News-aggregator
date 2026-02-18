@@ -1,0 +1,208 @@
+[
+  {
+    "uuid": "606fbcc6ab5311f7fc068287f671a84bd370113d",
+    "url": "https://www.wkow.com/news/top-stories/50-000-grant-awarded-to-ronald-mcdonald-house-madison/article_9482211c-f2c8-11ee-9416-3f1d1898e7eb.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chloe Morrissey",
+    "published": "2024-04-04T05:00:00Z",
+    "title": "$50,000 grant awarded to Ronald McDonald House Madison | Top Stories | wkow.com",
+    "text": "$50,000 grant awarded to Ronald McDonald House Madison By: Chloe Morrissey Chloe Morrissey Reporter/MMJ\nAuthor email",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ronald mcdonald",
+          "sentiment": "none"
+        },
+        {
+          "name": "michael ehlers",
+          "sentiment": "none"
+        },
+        {
+          "name": "anthony ahlfield",
+          "sentiment": "none"
+        },
+        {
+          "name": "ehlers",
+          "sentiment": "none"
+        },
+        {
+          "name": "sarah lawler",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ronald mcdonald house madison | top stories",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ronald mcdonald house madison",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ronald mcdonald house",
+          "sentiment": "none"
+        },
+        {
+          "name": "humana",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-05T02:03:48.858+03:00",
+    "updated": "2024-04-05T02:12:40.861+03:00"
+  },
+  {
+    "uuid": "1c9ecd5e1e8a0e410bf060a801a2906f0254a4d7",
+    "url": "https://alfayomega.es/batzing-ante-las-elecciones-alemanas-el-extremismo-es-incompatible-con-el-cristianismo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ester Medina Rodríguez",
+    "published": "2025-02-22T10:58:00Z",
+    "title": "Bätzing ante las elecciones alemanas: «El extremismo es incompatible con el cristianismo»",
+    "text": "En el contexto de las elecciones federales que Alemania celebra este domingo, el obispo de Limburgo y presidente de la Conferencia Episcopal Alemana, Georg Bätzing, ha animado a todos los ciudadanos del país a «acudir a las urnas y a vivir la democracia» para seguir fomentando valores como «la libertad, la apertura al mundo, la solidaridad o la protección de la creación».\nLo ha hecho durante una entrevista publicada este martes por el diario Avvenire, en la que también ha mostrado su preocupación por el auge de la extrema derecha y el gran número de votos —hasta un 20 %— que aglutina el partido Alternativa por Alemania (AfD) . Según el prelado, ante «el miedo de la gente y la falta de confianza en la política», cada vez son más necesarias «las fuerzas sociales» . «Si nuestra sociedad se polariza cada vez más, hasta el punto de que las personas se oponen irreconciliablemente entre sí, las fuerzas extremistas tendrán una vida fácil». Además, ha puntualizado que « el extremismo y, sobre todo el nacionalismo étnico , es incompatible con el cristianismo y sus valores» .\nEl resultado de estas elecciones —anticipadas, ya que estaban previstas para septiembre—, configurará el Bundestag, el Parlamento alemán, y decidirá el próximo canciller. Son unos comicios decisivos ante un panorama internacional que presenta grandes retos como la crisis económica del país o la profunda brecha que está creciendo entre Europa y Estados Unidos. Todo ello sin olvidar los graves conflictos, mediáticos o no, a los que también se ha referido Bätzing: «Nuestro país necesita esperanza y confianza en el futuro, porque nos enfrentamos a muchos desafíos y a un cambio en el orden global : la guerra de Rusia contra Ucrania, que viola el derecho internacional, los disturbios en Oriente Medio y en otras zonas de crisis del mundo han sacudido las certezas».\nAnte esta situación, el presidente de los obispos alemanes ha pedido que la política «ofrezca respuestas» concretas para que Alemania siga «fortaleciendo a Europa como espacio común de libertad, justicia, seguridad y bienestar y al mismo tiempo servir a la paz mundial y a los derechos humanos» . Por ejemplo, con «medidas humanitarias para los refugiados y una buena integración de los inmigrantes» . Por el contrario, «los que fomentan el racismo y el nacionalismo no solo actúan de manera cuestionable desde el punto de vista de la imagen cristiana de Dios y del hombre, sino que difícilmente pueden llamarse democráticos». Para ello, insta a las fuerzas sociales, la política y las Iglesias a «permanecer unidas».",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "topics": [
+      "Politics->political candidates",
+      "Politics->national elections",
+      "Politics->church elections",
+      "Social Issue->social condition",
+      "Social Issue->religious discrimination",
+      "Religion and Belief->christianity",
+      "Religion and Belief->religious conflict"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.avvenire.it/mondo/pagine/vi-spiego-perche-afd-e-incompatibile-con-i-valori-cristiani",
+      "https://avvenire.it/mondo/pagine/vi-spiego-perche-afd-e-incompatibile-con-i-valori-cristiani"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Georg Bätzing",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Conferencia Episcopal Alemana",
+          "sentiment": "none"
+        },
+        {
+          "name": "AfD",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Limburgo",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-22T14:25:47.099+02:00",
+    "updated": "2025-02-22T17:27:09.356+02:00"
+  },
+  {
+    "uuid": "8ee131c3fc586d371a233228b0ef6ef204d7d953",
+    "url": "https://www.newsbreak.com/wetzel-county-wv/3280564252584-the-warmest-december-in-wetzel-county-history",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2023-12-29T19:53:00Z",
+    "title": "The warmest December in Wetzel County history",
+    "text": "The popular image of an idyllic December is one of white Christmases, hot chocolate retreats, snow-capped conifers, and cozy, cold-weather activities. But not every December lives up to those expectations. Most of the continental U.S. will experience its peak winter cold weather in January and February . Officially, winter doesn't even start until Dec. 21. Across the U.S., the average December temperature from 1901-2000 was right above freezing point, at 32.68 F. Yearly temperatures can be compared to this 20th-century long-term average to find how uncommon a year's December climate was. The nation's warmest December on record was 2021, when the average temperature reached 6.66 F above the long-term average, at 39.34 F. December 2022 was closer to the previous century's average for the U.S. overall, at 33.08 F. The average temperature in Wetzel County, West Virginia from 1901-2000 was 32.3. The diverse climates of the U.S. mean residents can experience a range of holiday weather without breaking out their passports. Within the continental U.S., Monroe County, Florida, at the Southeast tip of the state, reported the highest average December temperature during the past century at 67.6 F. On the other end of the spectrum was Roseau County, Minnesota, bordering Canada, at 7.2 F. However, across both sides of the extremes, temperatures are warming. While that doesn't mean every December will be warmer than the last or the prior century's average, it does mean long-term temperature averages will continue to inch up the thermometer. When did Wetzel County, West Virginia experience its warmest December? To find out, Stacker used data from the National Centers for Environmental Information to identify the 15 Decembers with the highest average temperature since 1895. Also included is how that year's temperature compared to the 1901-2000 average. Read on to see if you lived through the warmest December in Wetzel County, West Virginia history.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/",
+      "https://www.climate.gov/news-features/featured-images/whats-coldest-day-year-1981%E2%80%932010-normals",
+      "https://www.stacker.com/West-Virginia/Wetzel-County-WV",
+      "https://img.particlenews.com/image.php?url=3PbHcf_0qTZeUrj00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3PbHcf_0qTZeUrj00",
+      "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance",
+      "https://climate.gov/news-features/featured-images/whats-coldest-day-year-1981%E2%80%932010-normals",
+      "https://img.particlenews.com/image.php",
+      "https://stacker.com/West-Virginia/Wetzel-County-WV",
+      "https://ncei.noaa.gov/access/monitoring/climate-at-a-glance/",
+      "https://www.img.particlenews.com/image.php?url=3PbHcf_0qTZeUrj00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3PbHcf_0qTZeUrj00"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "wetzel county",
+          "sentiment": "none"
+        },
+        {
+          "name": "west virginia",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "monroe county",
+          "sentiment": "none"
+        },
+        {
+          "name": "southeas",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T01:55:19.099+02:00",
+    "updated": "2023-12-30T01:55:19.099+02:00"
+  }
+]

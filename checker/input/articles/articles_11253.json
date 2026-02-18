@@ -1,0 +1,518 @@
+[
+  {
+    "uuid": "0b2cfec57c4cdd305259900c54ffc7b1ec174997",
+    "url": "https://proceso.hn/el-escritor-italiano-cognetti-revela-su-hospitalizacion-por-depresion-y-sindrome-bipolar",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EFE",
+    "published": "2024-12-19T23:01:00Z",
+    "title": "El escritor italiano Cognetti revela su hospitalización por depresión y síndrome bipolar",
+    "text": "Roma – El escritor italiano Paolo Cognetti, que alcanzó una gran popularidad con su novela «Las ocho montañas», ha revelado este jueves que tuvo que ser internado en el departamento de psiquiatría de un hospital de Milán (norte) debido a una «depresión severa que se ha convertido en un síndrome bipolar con fases maníacas».\n«En primavera y verano, sin razón aparente, me mordió la depresión», indica Cognetti, de 46 años, en una entrevista con el diario «la Repubblica» dos días después de ser dado de alta para «decir públicamente que las enfermedades nerviosas ya no deben ser una vergüenza que ocultar y que el camino de vuelta empieza por aceptar quién eres realmente».\nEl ganador del Premio Strega, el galardón literario más importante del país, en 2017 con «Las ocho montañas», llevada después al cine, explica que tras la depresión inicial llegó el síndrome bipolar.\n«En las últimas semanas, sin embargo, al bajar de mi refugio en el Monte Rosa, me encontraba en una fase hermosa y creativa. Un día noté que mi pensamiento y mi lenguaje se aceleraban. Los amigos me señalaron que estaba haciendo cosas extrañas. El 4 de diciembre, el médico ordenó un tratamiento médico obligatorio».\nCognetti, para quien «la fragilidad» se agravó con el éxito de su novela, explica que «en las fases maníacas uno puede perder el sentido del pudor o del dinero».\n«Envié fotos mías desnudo a amigos y les di mucho dinero. Todo el mundo se alarmó: existía el temor, infundado para mí, de que hiciera gestos extremos o me convirtiera en un peligro para los demás», dice y reconoce que para «volver a ver la luz» aún «hace falta tiempo».\nY concluye: «Sigo siendo anarquista, pero en el hospital hay que obedecer a los médicos. Te despiertan a las seis de la mañana e inmediatamente te obligan a beber dos vasos grandes de tranquilizantes. Estás vivo, pero es como si estuvieras muerto». EFE",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->mental health and disorder",
+      "Health->health facility",
+      "Social Issue->social condition",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Paolo Cognetti",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Monte",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T02:38:52.945+02:00",
+    "updated": "2024-12-20T02:38:52.945+02:00"
+  },
+  {
+    "uuid": "df04f2a79c2ad1f40f5a9c848fd5c12318f0b7ba",
+    "url": "https://www.abc.com.py/internacionales/2025/04/16/mexico-ha-recuperado-2042-piezas-arqueologicas-del-extranjero-en-el-gobierno-de-sheinbaum",
+    "ord_in_thread": 0,
+    "author": "EFE",
+    "published": "2025-04-16T21:00:53Z",
+    "title": "México ha recuperado 2.042 piezas arqueológicas del extranjero en el Gobierno de Sheinbaum - Mundo - ABC Color",
+    "text": "Mundo México ha recuperado 2.042 piezas arqueológicas del extranjero en el Gobierno de Sheinbaum Ciudad de México, 16 abr (EFE).- La Secretaría de Relaciones Exteriores de México (SRE) informó este miércoles que se han recuperado 2.042 piezas arqueológicas que estaban en el extranjero, desde el inicio del Gobierno de la presidenta Claudia Sheinbaum en octubre pasado. Por EFE 16 de abril de 2025 - 17:50",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+      "Politics->cultural policies",
+      "Social Issue->communities",
+      "Social Issue->indigenous people",
+      "Arts, Culture and Entertainment->monument and heritage site",
+      "Arts, Culture and Entertainment->news media",
+      "Arts, Culture and Entertainment->culture"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Claudia Sheinbaum",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Gobierno",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "EFE",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "SRE",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T00:00:53.979+03:00",
+    "updated": "2025-04-17T00:00:53.979+03:00"
+  },
+  {
+    "uuid": "2dcdaf17d87c93ca74a444142575453157051b81",
+    "url": "https://www.om1.ru/news/sport/390078-193_chasa_v_kholodnojj_vode_omichi_ustanovili_mirovojj_rekord_v_zaplyve_po_bajjkalu/",
+    "ord_in_thread": 0,
+    "author": "Светлана Ларионова",
+    "published": "2025-07-24T03:10:00Z",
+    "title": "Как омичи установили мировой рекорд в заплыве по Байкалу? - www.om1.ru",
+    "text": "Группа российских спортсменов, в составе которой были и омичи, преодолела 620 километров по озеру Байкал за 193 часа и 25 минут, установив рекорд России и мира. Заплыв был приурочен к 80-летию Победы.\nМаршрут эстафеты проходил от Северобайкальска до Слюдянки. Участники сменяли друг друга каждые 40 минут: пока один пловец был в воде, остальные отдыхали. Температура воды не поднималась выше +10 °C, за одну смену каждый участник проплывал около двух километров.\nЗаплыв стартовал 9 июля. По плану дистанцию планировали преодолеть за 20 дней, но команда справилась быстрее — 21 июля в 13:00 по иркутскому времени спортсмены финишировали в Слюдянке.\nВ состав команды вошли пловцы из разных регионов страны. Омскую область представили Антон Московенко (он же организатор и главный тренер проекта), Кира Шебанкова и Ольга Коломоец. Вместе с ними в заплыве участвовали спортсмены из Геленджика, Архангельска, Москвы, Иркутска, ЯНАО и Тюменской области.\nВ команде были как опытные зимние пловцы, так и участники, впервые попробовавшие себя на подобной дистанции. Многие из них — мастера спорта или кандидаты в мастера.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Sport->swimming",
+      "Human Interest->record and achievement",
+      "Social Issue->mankind",
+      "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:40:08.204+03:00",
+    "updated": "2025-07-24T07:44:46.000+03:00"
+  },
+  {
+    "uuid": "9760810e0fcd020353e20b08a699584d3a5f34a3",
+    "url": "https://www.archyde.com/analgesicos-de-venta-libre-la-sociedad-argentina-de-gastroenterologia-lanzo-una-fuerte-advertencia-3885401",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archyde",
+    "published": "2024-11-14T22:38:00Z",
+    "title": "Over-the-counter painkillers: Argentine Society of Gastroenterology issues strong warning",
+    "text": "2024-11-14 18:33:00\nAlthough nonsteroidal anti-inflammatory drugs (<a href=\"https://www.archyde.com/what-to-take-if-i-have-omicron- ibuprofen -or-paracetamol/” title=”What to take if I have Omicron: Ibuprofen or Paracetamol?”>NSAIDs ) are a common tool in fighting pain, experts are concerned that their incorrect and overuse increases the likelihood of serious events, including stomach ulcers and intestinal bleeding.\nIn Argentina, 85% of adults use over-the-counter pain relievers, with about two-thirds using them monthly. This trend toward overuse of NSAIDs is concerning because although they are effective and safe medications, if abused, they can irritate the gastrointestinal lining and increase the risk of ulcers, bleeding, and other digestive problems.\nWhich drugs are covered by this warning:\nnonsteroidal anti-inflammatory drugs They are a group of medications that include substances such as ibuprofen, diclofenac , naproxen, and aspirin. These medications are effective and safe and can reduce inflammation and pain. Its uses are common in rheumatoid and osteoarthritis, muscle pain, headaches, migraines, and fever.\nlatest argentine society of gastroenterology Disseminate information to raise awareness about the responsible use of non-steroidal anti-inflammatory drugs, as many times these drugs are taken in overdose without medical advice, even on a daily basis. In some cases they are also used Mistaking it as a form of prevention “just in case it causes pain”.\nIn case of inappropriate use of non-steroidal anti-inflammatory drugs SAGE gastroenterologists experts warn that they are often used in situations where the ideal drug should not be an NSAID. as it may aggravate conditions such as crampy abdominal pain. For this type of disorder, antispasmodics are recommended because they relax the painful contractions (spasms) without worsening the abdominal pain.\nThe latest publication of the Argentine Society of Gastroenterology confirms the long-term or incorrect use of non-steroidal anti-inflammatory drugs May cause serious cardiovascular, urinary and gastrointestinal complications, especially in people with risk factors Examples include a history of ulcers, advanced age, or taking other medications.\nMain recommendations\nConsult a doctor. Read the drug package insert and learn about contraindications and possible adverse reactions. Follow the dosage, duration of treatment and instructions from your health professional and leaflets. Pay attention to symptoms and consult your doctor if there are any warning signs. Find more news about Welfare Click here.\nDo you want to receive our communication ? Subscribe here and it will be delivered to your email every Wednesday and Saturday.\n1731609510\n#Overthecounter #painkillers #Argentine #Society #Gastroenterology #issues #strong #warning\nWhat are the common misconceptions about the safety ‍of NSAIDs that contribute to their⁢ misuse in Argentina? ⁤ **Interview with Dr. ‌Maria Gonzalez, Gastroenterologist and Member of the ​Argentine Society of Gastroenterology**\n**Editor:** Thank you for joining us ​today, Dr. Gonzalez. There’s growing concern about the use of nonsteroidal anti-inflammatory ⁤drugs (NSAIDs) in Argentina, particularly ‍regarding their overuse. ⁢Can you explain why this is such ⁢a pressing issue?\n**Dr. Gonzalez:** Thank you for having me. Indeed, the statistics are alarming. In Argentina, around ⁤85% of adults utilize over-the-counter⁢ pain‍ relievers, and about ⁣two-thirds ⁣do so ‌monthly. While​ NSAIDs like ibuprofen, diclofenac, naproxen, and aspirin are effective in treating⁤ conditions like arthritis and​ migraines, their misuse can lead to significant health⁤ problems‌ such as stomach ulcers and intestinal ‌bleeding.\n**Editor:** What causes people to ⁢misuse these medications, and what are the common misconceptions?\n**Dr. ​Gonzalez:** Many people believe that taking NSAIDs is​ completely safe, especially ‌since they are readily available without a ‍prescription. There’s a common misconception that they can be taken preventively—essentially “just in case” pain occurs. This leads to doses that ⁣exceed the recommended ⁣guidelines, ‌significantly increasing the risk of gastrointestinal⁣ and other complications.\n**Editor:** What specific health risks are associated with the long-term or incorrect use of ‌NSAIDs?\n**Dr. Gonzalez:** Long-term or inappropriate use of NSAIDs ⁢can lead to ‍severe complications, particularly in individuals with underlying risk factors. These include stomach ulcers, cardiovascular issues, and urinary complications. For example, ⁤patients ‍with a history of ulcers are particularly vulnerable and should avoid NSAIDs unless medically advised.\n**Editor:** What guidelines does the Argentine Society ⁤of Gastroenterology recommend for the responsible use of NSAIDs?\n**Dr. Gonzalez:** We advocate for a more cautious approach. It’s vital for individuals to consult with healthcare professionals before taking NSAIDs, especially for chronic conditions. We also emphasize that alternatives ⁣exist ⁣for certain types of pain. For ⁤example, ⁢antispasmodics can be more appropriate for‍ crampy abdominal pain, as they can help without exacerbating the condition.\n**Editor:** Thank you, Dr. Gonzalez, for shedding light on this ⁣important issue. Any final advice for⁢ our readers?\n**Dr. Gonzalez:** Yes, my final piece of advice is the importance of education and awareness. Always read labels,⁣ follow dosing guidelines, and consult your healthcare provider​ when in ‍doubt. ​Responsible use of medications is‌ crucial ⁢to avoid adverse health effects.\n**Editor:**‌ Thank you for your insights, Dr. Gonzalez. It’s essential information that can help improve public health awareness around NSAID use in Argentina.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.youtube.com/embed/xGy5cUPgJcU",
+      "https://diario-rio-negro.campaign-list.com/subscribe/estar-bien-para-vivir-mejor/f4269a21-61a9-4930-b70c-82dfb030b8c8",
+      "https://www.diario-rio-negro.campaign-list.com/subscribe/estar-bien-para-vivir-mejor/f4269a21-61a9-4930-b70c-82dfb030b8c8",
+      "https://youtube.com/embed/xGy5cUPgJcU"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T00:53:36.175+02:00",
+    "updated": "2024-11-15T00:53:36.175+02:00"
+  },
+  {
+    "uuid": "62894df5171e480053634d8bcb5078ae8719c162",
+    "url": "https://nypost.com/2025/03/19/sports/christian-scott-undaunted-by-mets-pitching-scene-that-awaits-him-after-tommy-john-rehab",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mike Puma",
+    "published": "2025-03-19T23:16:00Z",
+    "title": "Christian Scott undaunted by Mets pitching scene that awaits him after Tommy John rehab",
+    "text": "Access the Mets beat like never before Join Post Sports+ for exciting subscriber-only features, including real-time texting with Mike Puma about the inside buzz on the Mets from spring training\nTry it free PORT ST. LUCIE — Christian Scott has been as visible as anybody in the Mets clubhouse this spring, but it’s something of a mirage.\nSix months into his rehab from Tommy John surgery, the right-hander started throwing every other day beginning last week. His season will consist of further rehab, both at the spring training complex and in New York, with the hope of cracking the 2026 rotation as his focus.\nIt could be a crowded scene. The Mets have a wave of young pitching on the rise that includes names such as Brandon Sproat, Blade Tidwell, Nolan McLean and Jonah Tong. Such a proposition excites the 25-year-old Scott, knowing he will have to earn his place.\n“I think a lot of us are just super competitors,” Scott said. “We go out there and we’re trying to win the game any way possible, so we do a great job bouncing ideas off each other.\n“We talked about it early this season, we talked about it with each other, we’re all pulling the same rope, right? We’re all competing with each other. We’re all trying to win a World Series in New York, so we’re all trying to pull the same rope and get each other better at the same time. I think that’s been true throughout the whole organization since I got here.”\nScott got the team’s attention in spring training last year.\nThe Mets broke camp without him, but with the rotation in need of a jolt in May, he was recalled from Triple-A Syracuse and dazzled in his major league debut, allowing one earned run over 6 ²/₃ innings against the Rays.\n3 The Mets’ Christian Scott, who is working his way back from Tommy John surgery, is in the dugout before a game against the Washington Nationals, Wednesday, Sept. 18, 2024 in Queens, N.Y. Noah K. Murray-NY Post His first stint with the Mets lasted five starts, in which he pitched to a 3.90 ERA. But with the club in need of a roster spot following David Peterson’s return, he was optioned back to Syracuse on May 31.\nScott received four additional starts in July but began to feel discomfort in his elbow. The previous year a tear had been detected in the ulnar collateral ligament, but Scott largely managed to pitch through it.\nWhen rehab didn’t work following last season’s discomfort, he opted for the surgery .\n3 Mets pitcher Christian Scott (45) pitches in the first inning against the San Francisco Giants Friday, May 24, 2024 at Citi Field in Queens, NY. Robert Sabo for NY Post The wave of young pitching to which Scott belongs is largely a familiar scene to him: He was teammates with Sproat at the University of Florida ; competed against Tidwell, a former Tennessee standout, in the SEC; and has gotten to know the 21-year-old Tong through their shared agents.\nThe Gators rotation consisted of Tommy Mace (Guardians), Jack Leftwich (Guardians) and Hunter Barco (Pirates).\n“Me and Sproat were on the outside looking in when we were there,” Scott said. “We were in the bullpen. We were able to learn a little bit about our bodies there, too — where we could take it. You get your body ready to start, but your body also could be ready to relieve. I learned both aspects of those.”\nScott, who arrived to the Mets in the fifth round of the 2021 draft, spent his early days in the minors shuffling between starting and relieving. His breakout came as a full-time starter in 2023, when he pitched to a 2.57 ERA over three levels.\nWhat was Scott’s biggest takeaway from his rookie season?\n“Don’t let the highs get you too high,” he said. “Don’t let the lows get you too low. It’s a long season. Just be super consistent with the day to day.”\n3 Mets pitcher Christian Scott is pulled from the game by New York Mets manager Carlos Mendoza during the fifth inning at Citi Field in Queens, New York, USA, Saturday, July 13, 2024. JASON SZENES FOR THE NEW YORK POST He will spend what’s left of spring training continuing to absorb whatever he can from the veteran starting pitchers in camp and then be a spectator to a team that is expected to compete for the World Series.\n“Even though I can’t be out there, I will be the best teammate I possibly can,” Scott said. “I’ll try to pick people’s brains, and if they need me to bounce ideas off, whatever it takes to help us win a game this year. I know I can’t do that on the field, but if I could do that off the field, anyway I can, that would be great.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Health"
+    ],
+    "topics": [
+      "Sport->sports management and ownership",
+      "Sport->baseball",
+      "Sport->sports coaching",
+      "Health->injury",
+      "Health->medical condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.youtube.com/embed/eNZO572chxQ?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&start=19&wmode=transparent",
+      "https://www.youtube.com/embed/eNZO572chxQ",
+      "https://youtube.com/embed/eNZO572chxQ?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&start=19&wmode=transparent"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:29:09.283+02:00",
+    "updated": "2025-03-20T01:29:09.283+02:00"
+  },
+  {
+    "uuid": "d272653ebbe52a9691e07e3d70c66823bb333447",
+    "url": "https://www.soychile.cl/Valparaiso/Espectaculos/2024/12/19/888595/negro-pinera-mensaje-dificiles-medico.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SoyChile",
+    "published": "2024-12-19T00:00:00Z",
+    "title": "“Se vienen tiempos difíciles”: el mensaje de 'Negro' Piñera tras revelar diangostico médico",
+    "text": "Un emotivo mensaje compartió este jueves Miguel “Negro” Piñera tras revelar que padece de leucemia aguda y una doctora le dio “seis meses” de vida.Fue a través de sus redes sociales que el artista de 70 años partió expresando: “Como ya sabrán estoy muy delicado de salud”.{relacionada=888580}{relacionada=888585}“Este año no ha sido fácil, partió mi hermano el pasado 06 de febrero. Gracias a Dios durante estos meses he tenido el honor de recorrer mi Chile lindo y querido, cantando y haciéndole un humilde homenaje a mi hermano Sebastián”, agregó.En esta línea, dijo que “se vienen tiempos difíciles” y agradeció las muestras de cariño que ha recibido durante este tiempo.“Solamente quiero agradecer todo el cariño del mundo que me han dado durante mis 50 años de trayectoria musical. El honor de haberme presentado antes ustedes ha sido mío. Abrazos, gracias Chile y arriba los corazones”, cerró.Como era de esperar, sus seguidores le han dejado una serie de mensajes en apoyo. “A cuidarse será”, “mucha fortaleza”, “arriba los corazones” y “nos queda mucho camino por recorrer”, son algunos de ellos.{INSTAGRAM=DDxmbFGyWgV}",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->cancer",
+      "Health->mental health and disorder",
+      "Health->medical condition",
+      "Human Interest->funeral and memorial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Miguel",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T02:08:11.294+02:00",
+    "updated": "2024-12-20T02:08:11.294+02:00"
+  },
+  {
+    "uuid": "8ef5fab229c5e0cffbb7c137cbf5bb427b89e234",
+    "url": "https://www.newsbreak.com/news/3304547262934-cmdr-of-army-operational-test-command-promoted-to-general-officer",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-01-20T02:26:00Z",
+    "title": "Cmdr. of Army Operational Test Command promoted to General Officer",
+    "text": "Becoming an Army General is a moment less than 1% of soldiers get to experience. Newly-pinned Brig. Gen. George C. Hackler is one of them. ”This means that Chris is likely to in a cohort of 30 officers out of the 4,200 that were commissioned into the active component in 1994 to obtain the rank of General Officer,” said Maj. Gen. James Gallivan, Commanding General of U.S. Army Test and Evaluation Command. The historic moment was shared with family, as they removed his colonel rank, replacing it with a general’s star. ”It was good, a little bit nerve racking,” said Emma Hackler, Brig. Gen. Hackler’s daughter. “I couldn’t quite get the button done, but I got there.” His son, a soldier himself, presented his father with his new service pistol and his first salute as a general. ”That was awesome,” said Spec. George Hackler. “I’m really happy to have done that. His first salute as a General Officer, that’s an important thing. I think he’ll remember that for the rest of his life. I'll always remember that moment right there.” His parents expressed pride in the son they knew would make it here eventually. ”We knew he wanted to be in the Army, but to get to this point us a really great accomplishment. He’s the person that could have been the one to do it,” said Judy Hackler, Brig. Gen. Hackler’s stepmother. His son told me he hasn’t seen this much family in one place in a very long time. The moment was not lost in the new General planning to continue his work with Operational Test Command. ”My son just returned from a deployment to Europe,” said Brig. Gen. Hackler. “To have him here, my parents, my wife, my daughter to be able to be part of it. Again because, I cannot be able to do what I do if it wasn’t for them. So, they have earned this as much as I have.” Brig. Gen. Hackler said this experience was one of the most humbling in his life and his family said all they want is for him to keep going.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "emma hackler",
+          "sentiment": "none"
+        },
+        {
+          "name": "hackler",
+          "sentiment": "none"
+        },
+        {
+          "name": "chris",
+          "sentiment": "none"
+        },
+        {
+          "name": "george hackler",
+          "sentiment": "none"
+        },
+        {
+          "name": "james gallivan",
+          "sentiment": "none"
+        },
+        {
+          "name": "george c. hackler",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "army operational test command",
+          "sentiment": "negative"
+        },
+        {
+          "name": "army general",
+          "sentiment": "negative"
+        },
+        {
+          "name": "commanding general of u.s. army test and evaluation command",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-20T07:57:17.600+02:00",
+    "updated": "2024-01-20T07:57:17.600+02:00"
+  },
+  {
+    "uuid": "1af3bb9b844ce91a49398522fe48b81ca9476048",
+    "url": "http://business.decaturdailydemocrat.com/decaturdailydemocrat/article/abnewswire-2024-1-5-new-zealand-unveils-effortless-online-visa-process-for-belgian-french-german-uk-and-argentina-citizens",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Decatur Daily Democrat",
+    "published": "2024-01-05T00:00:00Z",
+    "title": "New Zealand Unveils Effortless Online Visa Process for Belgian, French, German, UK, and Argentina Citizens | News | decaturdailydemocrat.com",
+    "text": "In a significant move to enhance accessibility and streamline the visa application process, New Zealand proudly introduces a user-friendly online visa system for citizens from Belgium, France, Germany, the United Kingdom, and Argentina. This innovative approach reflects New Zealand's commitment to welcoming global visitors and fostering stronger ties with nations across the world. NEW ZEALAND VISA FOR BELGIAN CITIZENS Since the implementation of the online visa system, Belgian citizens can now apply for a New Zealand visa with unparalleled ease. The digital platform simplifies the application process, allowing Belgians to initiate their visa applications from the comfort of their homes. This user-friendly approach aligns with New Zealand's commitment to providing a seamless experience for global travelers. NEW ZEALAND VISA FOR FRENCH CITIZENS French citizens seeking to explore the breathtaking landscapes and vibrant culture of New Zealand can now enjoy a streamlined visa application process. The online platform eliminates the complexities of traditional paper-based applications, offering a more convenient avenue for French travelers to obtain their New Zealand visas. This development aims to attract more French tourists, contributing to the growth of New Zealand's thriving tourism sector. NEW ZEALAND VISA FOR GERMAN CITIZENS The introduction of the online visa application system brings enhanced accessibility for German citizens planning a visit to New Zealand. The user-friendly interface of the digital platform simplifies the application process, allowing Germans to submit their visa applications efficiently. With a commitment to fostering global collaborations, New Zealand welcomes German travelers to experience its diverse landscapes and rich cultural heritage. NEW ZEALAND VISA FOR UK CITIZENS United Kingdom residents can now benefit from a more convenient visa processing system when planning a trip to New Zealand. The online visa platform offers a hassle-free application process, allowing UK citizens to submit their applications electronically. This development aligns with New Zealand's dedication to providing a seamless travel experience for individuals from the United Kingdom, further strengthening the bonds between the two nations. NEW ZEALAND VISA FOR ARGENTINA CITIZENS Citizens of Argentina now have a simplified visa application process to explore the wonders of New Zealand. The online platform facilitates a straightforward application process, enabling Argentinians to apply for their visas with ease. New Zealand extends a warm invitation to Argentine citizens, encouraging them to experience the beauty and hospitality the country has to offer. The online visa application process involves a few simple steps for citizens of Belgium, France, Germany, the United Kingdom, and Argentina. Travelers can visit the official New Zealand government website, where they will find a dedicated section for the electronic visa application. The user-friendly interface guides applicants through the form, prompting them to input essential details such as personal information, travel plans, and other pertinent details required for visa processing. One of the advantages of the digital platform is the seamless document submission process. Applicants can upload the necessary documents electronically, eliminating the need for physical submissions. From proof of identity to travel itineraries, the online system ensures a straightforward process, reducing both time and effort for applicants. A notable feature of the online visa system is the expedited processing time. Unlike traditional methods that may take weeks for visa approvals, the digital platform aims to provide quicker turnarounds. This is particularly beneficial for travelers with imminent plans, ensuring they receive their New Zealand visas promptly and without unnecessary delays. The introduction of the online visa system symbolizes New Zealand's commitment to fostering global collaborations and deepening friendships with nations worldwide. By making the visa application process more accessible, New Zealand aims to encourage travel, promote tourism, and build bridges between nations. This initiative highlights New Zealand's dedication to embracing technological advancements for the betterment of travel experiences. The introduction of the online visa application system marks a new era for New Zealand's visa procedures. With a focus on accessibility, efficiency, and transparency, the digital platform is poised to redefine the way citizens from Belgium, France, Germany, the United Kingdom, and Argentina embark on their journeys to New Zealand. This strategic move not only aligns with the global shift towards digitalization but also underscores New Zealand's commitment to providing an unparalleled travel experience for visitors from around the world. As these nations and their citizens embrace the effortless online visa application process, New Zealand eagerly awaits to showcase its wonders and extend a warm Kiwi welcome to all. Media Contact Company Name: New Zealand Visa Application Contact Person: Janet Edwards Email: Send Email Country: New Zealand Website: newzealand-visa.org/visa/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.newzealand-visa.org/new-zealand-eta-eligibility-for-uk-citizens",
+      "https://www.newzealand-visa.org/new-zealand-eta-eligibility-for-belgian-citizens",
+      "https://www.newzealand-visa.org/new-zealand-eta-eligibility-for-french-citizens",
+      "http://newzealand-visa.org/visa/",
+      "https://www.abnewswire.com/companyname/newzealand-visa.org/visa/_127664.html",
+      "https://www.newzealand-visa.org/new-zealand-eta-eligibility-for-argentinian-citizens",
+      "https://www.abnewswire.com/email_contact_us.php?pr=new-zealand-unveils-effortless-online-visa-process-for-belgian-french-german-uk-and-argentina-citizens",
+      "https://www.newzealand-visa.org/new-zealand-eta-eligibility-for-german-citizens",
+      "https://www.abnewswire.com/email_contact_us.php",
+      "https://newzealand-visa.org/new-zealand-eta-eligibility-for-belgian-citizens",
+      "https://newzealand-visa.org/new-zealand-eta-eligibility-for-german-citizens",
+      "https://abnewswire.com/companyname/newzealand-visa.org/visa/_127664.html",
+      "http://newzealand-visa.org/visa",
+      "https://newzealand-visa.org/new-zealand-eta-eligibility-for-argentinian-citizens",
+      "https://newzealand-visa.org/new-zealand-eta-eligibility-for-french-citizens",
+      "http://www.newzealand-visa.org/visa/",
+      "https://newzealand-visa.org/new-zealand-eta-eligibility-for-uk-citizens",
+      "https://abnewswire.com/email_contact_us.php?pr=new-zealand-unveils-effortless-online-visa-process-for-belgian-french-german-uk-and-argentina-citizens"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "argentina citizens",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "uk",
+          "sentiment": "none"
+        },
+        {
+          "name": "new zealand",
+          "sentiment": "none"
+        },
+        {
+          "name": "argentina",
+          "sentiment": "none"
+        },
+        {
+          "name": "belgium",
+          "sentiment": "none"
+        },
+        {
+          "name": "united kingdom",
+          "sentiment": "none"
+        },
+        {
+          "name": "new zealand",
+          "sentiment": "none"
+        },
+        {
+          "name": "france",
+          "sentiment": "none"
+        },
+        {
+          "name": "germany",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T01:03:39.813+02:00",
+    "updated": "2024-01-06T01:03:39.813+02:00"
+  },
+  {
+    "uuid": "802e81de6fd45310dccc7950c7da10fb78411acc",
+    "url": "https://www.eluniversal.com.co/mundo/reino-unido-lanza-exitosas-pruebas-de-su-imponente-arma-laser-dragon-fire-XN9816000",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "REDACCIÓN COLOMBIA",
+    "published": "2024-01-19T22:15:00Z",
+    "title": "Reino Unido lanza exitosas pruebas de su imponente arma láser ‘Dragon Fire’ | EL UNIVERSAL - Cartagena",
+    "text": "El Reino Unido llevó a cabo exitosas pruebas de su arma láser de alta potencia conocida como ‘Dragon Fire’, en el campo de tiro de las Hébridas, propiedad del Ministerio de Defensa británico. Esta avanzada arma, valuada en 140 millones de libras (aproximadamente 177 millones de dólares), se destaca por su eficacia y eficiencia. El ‘Dragon Fire’, diseñado como un arma de línea de visión, demostró su capacidad para atacar cualquier objetivo visible durante las pruebas, según informes gubernamentales. Con un costo de solo 10 libras por cada disparo, el láser del ‘Dragon Fire’ muestra una sorprendente relación coste-eficiencia, superando en eficacia incluso a sistemas más costosos, como el Sea Viper de la Royal Navy, utilizado contra drones y cohetes rebeldes hutíes en el Mar Rojo. [ Lea aquí: Hizbulá continúa ofensiva contra Israel: tres nuevos ataques](https://www.eluniversal.com.co/mundo/hizbula-continua-ofensiva-contra-israel-tres-nuevos-ataques-EL9814116) Este arma láser de alta tecnología, desarrollada en colaboración entre el Laboratorio de Ciencia y Tecnología de Defensa (Dstl) del Reino Unido, MBDA, Leonardo y QinetiQ, ha superado las expectativas durante las pruebas. Con la capacidad de perforar objetivos y detonar ojivas de misiles con precisión milimétrica, el ‘Dragon Fire’ es elogiado por su velocidad, ya que ataca a la velocidad de la luz, causando fallos estructurales y cortando objetos con precisión. [Lea aquí: Video: avión se incendia en el cielo tras despegar del aeropuerto](https://www.eluniversal.com.co/mundo/video-avion-se-incendia-en-el-cielo-tras-despegar-del-aeropuerto-NI9813681) A pesar de los desafíos en su desarrollo, incluyendo un retraso de cinco años y un costo significativo, las pruebas exitosas del ‘Dragon Fire’, como la realizada en noviembre de 2022 contra un dron a más de dos millas de distancia, han allanado el camino para considerar su implementación en combate contra amenazas emergentes. Grant Shapps, secretario de Defensa, elogió la tecnología de vanguardia del láser, describiéndola como revolucionaria en el espacio de batalla. El proyecto representa un avance significativo en la comprensión de las oportunidades y amenazas que presentan las armas de energía dirigida, según Paul Hollinshead, director ejecutivo de Dstl. Estas pruebas han marcado un hito en la capacidad del Reino Unido para proporcionar una nueva forma de combate, enfocándose en brindar capacidades avanzadas a los combatientes y acelerando la próxima fase de actividades en este campo.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-20T00:36:05.116+02:00",
+    "updated": "2024-01-20T00:36:05.116+02:00"
+  }
+]

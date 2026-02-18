@@ -1,0 +1,500 @@
+[
+  {
+    "uuid": "0d176aace5b6d2cb9e7564b1029037eebd4ecd6f",
+    "url": "https://www.kob.com/news/top-news/ruidoso-church-miraculously-spared-from-wildfires",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "KOB",
+    "published": "2024-06-22T04:20:00Z",
+    "title": "Ruidoso church miraculously spared from wildfires",
+    "text": "Ruidoso church miraculously spared from wildfires\nRUIDOSO, N.M. — One Ruidoso pastor and business owner is definitely counting his blessings.\nThe ArcGIS map shows the fire perimeter went around the Abundant Life Church where he is a pastor. There was a hole in the exterior wall that scorched the wood – but stopped before going any further.\nPastor Nate Dunn saw it for himself when officials let him back in briefly Thursday. What he saw was nothing short of a miracle.\n“I went straight to the church, saw the building was still standing. I didn’t notice the hole until I walked around the back and there the hole was. And I got to looking and went wow ‘I don’t know how this stopped,'” Dunn said. “I walked into the building and noticed there was some water all over the ground. The carpet had kinda gotten wet and I put two and two together that someone was standing there and filled this hole with water.”\nDunn also owns Bonita River Services, an HVAC and plumbing business in Ruidoso. That business was spared too.\nBut, officials told him it’s going to be another 7-10 days before anyone can get back in. That means no money coming in.\nTo make up for that and ensure his workers can still get by without leaving Ruidoso, he has started a fund.\n“That will let the guys go to work and we’ll pay the guys out of that account, separate from Bonita River Services and straight to the guys working on the cleanup. And that will allow them to stay in town instead of leaving,” Dunn said.\nHis business is also donating a one-ton panel truck, a tractor, trailers and other items to the ongoing efforts. They’re hoping to help people who may not have help from friends and family.\nTo schedule a cleanup, you can call either 575-630-1915 or 575-937-3273. If you’d like to donate,\nclick here.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Religion and Belief",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "http://spot.fund/3ptvjcs",
+      "http://www.spot.fund/3ptvjcs"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "dunn",
+          "sentiment": "none"
+        },
+        {
+          "name": "nate dunn",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "bonita river services",
+          "sentiment": "none"
+        },
+        {
+          "name": "abundant life church",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ruidoso",
+          "sentiment": "none"
+        },
+        {
+          "name": "ruidoso",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-22T07:22:13.806+03:00",
+    "updated": "2024-06-22T07:22:13.806+03:00"
+  },
+  {
+    "uuid": "d76fcf74a15aba55b11171c3c8233fa21963b804",
+    "url": "https://english.kyodonews.net/news/2024/08/446d1c2d86ac-japan-logs-hottest-july-for-2nd-year-216-c-higher-than-average.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "KYODO NEWS",
+    "published": "2024-08-02T00:00:00Z",
+    "title": "Japan logs hottest July for 2nd year, 2.16 C higher than average",
+    "text": "Japan on Friday continued to swelter under high temperatures, with the weather agency saying the previous day that the country logged its hottest July since records began in 1898 for the second consecutive year. The average temperature in July was 2.16 C higher than the overall monthly average recorded between 1991 and 2020, with the mercury rising above 40 C in seven locations on some days during the month, the Japan Meteorological Agency said on Thursday. So far this year the country has recorded 3,509 instances of \"extreme heat\" of 35 C or higher among the 914 nationwide observation points, surpassing the previous peak of 3,127 seen in July 2018. According to the agency, the country was hit by warm air due to the effects of a high-pressure system in the Pacific, experiencing sweltering temperatures particularly in early July and toward the end of the month. On July 29, Sano, Tochigi Prefecture logged 41.0 C, as a number of locations throughout the country topped previous record highs. In August 2020, the mercury hit a record high of 41.1 in Hamamatsu, Shizuoka Prefecture, tying the all-time high logged in July 2018 in Kumagaya, Saitama Prefecture. With the heat expected to continue in August, the public has been urged to take measures to prevent heat exhaustion such as using air conditioning and staying hydrated. Related coverage: [Japan sees 1st 40 C day this summer as heatwave persists](/news/2024/07/b901c4f9551f-japan-sees-1st-40-c-day-this-summer-as-heatwave-persists.html) [Extreme climate hits Japan, elsewhere in Asia hard in 2023: U.N](/news/2024/05/a0be583b27ea-extreme-climate-hits-japan-elsewhere-in-asia-hard-in-2023-un.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sano",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "japan meteorological agency",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "shizuoka prefecture",
+          "sentiment": "none"
+        },
+        {
+          "name": "pacific",
+          "sentiment": "none"
+        },
+        {
+          "name": "japan",
+          "sentiment": "none"
+        },
+        {
+          "name": "hamamatsu",
+          "sentiment": "none"
+        },
+        {
+          "name": "tochigi prefecture",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-02T05:26:53.705+03:00",
+    "updated": "2024-08-02T05:26:53.705+03:00"
+  },
+  {
+    "uuid": "13c475e0e54e497aa7a483159586adfd9c09ee7a",
+    "url": "https://www.keranews.org/texas-news/2024-03-29/taking-a-cue-from-the-pews-texas-churches-expanding-mental-health-services",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Stephen Simpson | The Texas Tribune",
+    "published": "2024-03-29T11:28:00Z",
+    "title": "Taking a cue from the pews, Texas churches expanding mental health services | KERA News",
+    "text": "Taking a cue from the pews, Texas churches expanding mental health services Taking a cue from the pews, Texas churches expanding mental health servicesBy [Stephen Simpson](https://www.texastribune.org/about/staff/stephen-simpson/), The Texas Tribune March 28, 2024 \" [Taking a cue from the pews, Texas churches expanding mental health services](https://www.texastribune.org/2024/03/28/texas-churches-mental-health/)\" was first published by The Texas Tribune, a nonprofit, nonpartisan media organization that informs Texans — and engages with them — about public policy, politics, government and statewide issues. [Sign up for The Brief](https://www.texastribune.org/newsletters/the-brief/?utm_medium=website&utm_source=trib-ads-owned&utm_campaign=trib-marketing&utm_term=inline-CTA-brief), The Texas Tribune’s daily newsletter that keeps readers up to speed on the most essential Texas news. For 24/7 mental health support in English or Spanish, call the Substance Abuse and Mental Health Services Administration’s [free help line](https://www.samhsa.gov/find-help/national-helpline) at 800-662-4357. You can also reach a trained crisis counselor through the [Suicide and Crisis Lifeline](https://suicidepreventionlifeline.org/) by calling or texting 988. The Rev. Michael Marsh stood before his congregation at St. Philip’s Episcopal Church in Uvalde, knowing his grieving community needed more from him than prayer. It had only been a few days since a gunman killed 19 children and two adults at [Robb Elementary School](https://www.texastribune.org/2024/03/12/uvalde-police-chief-resigns/) in 2022, and with very few mental health resources in the city of 16,000, Marsh knew he had to find a long-term solution to heal his community not just spiritually, but mentally as well. “I was talking to my own therapist, and she told me to contact the Children’s Bereavement Center of South Texas in San Antonio because they’re well-respected and credible. I reached out to them, and in a couple of days, a parishioner told me the Children’s Bereavement Center was looking for a space to set up long-term here in Uvalde,” Marsh said. Two years later, there’s a partnership between the mental health organization and St. Phillips Episcopal Church. The [Children’s Bereavement Center of South Texas in Uvalde](https://cbcst.org/uvalde/) is housed inside the church’s former storage building. This collaboration has allowed the center to expand its services to not only children affected by the deadliest [school shooting](https://www.texastribune.org/2023/12/05/uvalde-officer-student-trainings-mass-shootings/) in Texas history but also adults, first responders, teachers, and anyone else who might need it. “I have had people whose children were directly impacted by the shooting come up to me, and I will ask them if they are going to counseling, and they will say, ‘Well, my child doesn't’ want to go to counseling,’ Marsh said. “I said ‘it’s not a question of whether he or she wants to go. If your child broke his arm, would you let him decide whether or not to go to the doctor? If the answer is no, then why would you let them decide whether to see a counselor?” Tragedy may have led the Uvalde church to forge a mental health partnership, but their move is part of a growing trend among churches to offer more services to congregants and the public, particularly after so many experienced depression and isolation during the coronavirus pandemic. And many Texans emerged only to discover the state’s severe mental health [workforce shortage](https://www.texastribune.org/2023/12/22/texas-mental-health-system-challenges/). Christian churches have offered a limited array of counseling services to their followers, either from church leaders or fellow members, more are stepping in to expand existing programs and services or banding together with other churches to offer a network of help. In some ways it’s a no-brainer. A [2003 study](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.00138) found that people were more likely to consult clergy for mental health treatment than to seek services from a mental health provider, even if they weren’t religious. Some, like The Potter’s House in Dallas, the megachurch run by well-known pastor T.D. Jakes, has a counseling center staffed with licensed mental health professionals who incorporate faith-based teachings into improving members’ overall ability to cope during stressful life events. Saint John’s United Methodist Church in Austin has had a mental health ministry team dedicated to removing the stigma of mental illness for the past four years. Community Bible Church in San Antonio has had [mental health groups](https://www.communitybible.com/mental-health) since 2007 focused on those experiencing mental illness because of trauma and a group dedicated to helping teens deal with life's ups and downs. Rev. Michael Marsh of St. Philip's Episcopal Church speaks on a panel entitled \"Uvalde: Resilience, Recovery and Healing\" during a community event in Uvalde on May 20th, 2023. Credit: Chris Stokes for The Texas Tribune“I believe there is still a sort of stigma about seeing a counselor, psychologist, or therapist,” Marsh of St. Philip’s in Uvalde, said. “But I also think for rural communities, it’s just more challenging to find mental health professionals, and sometimes the clergy are more readily available.” No where is this more true than in Texas, which faces a mental health workforce shortage. Today, 98 percent of the 254 counties in Texas are federally designated “mental health professional shortage areas” because there’s only 1 clinician for 30,000 residents. That number is expected [to worsen](https://www.hhs.texas.gov/sites/default/files/documents/hb1-statewide-behavioral-health-idd-plan.pdf). This workforce shortage has prevented private and state-run mental health hospitals from operating at total capacity, created long waitlists for therapy services, and forced many private providers from taking on new clients as the demand has exceeded scheduling capacity. Mental health providers in Texas believe if adequately resourced, pastors and other religious leaders can offer a valuable contribution to taking on the mental health crisis in Texas. It’s a role more churches are taking on. “The church needs to be able to provide actual care rather than telling the person to pray more or be more spiritual,” said Denise Espino, a mental health provider and director of Mental Health Support Groups for Community Bible Church. She said one of the main challenges she has witnessed is church leaders being fearful of letting someone with mental illness in their own lives participate in support groups on their campus. “Many church leaders are more willing to allow family members to meet [meet with pastors or deacons], but when it comes to the person with a diagnosis themselves, they shy away from providing support,” she said. However, now there are entire [curriculums](https://faithhopegoodmentalhealth.org/) dedicated to faith-based mental health to educate clergy on how to respond to mental illness in their communities. “Resources are out there - the church just needs to make a commitment and jump in,” Espino said. People pause in prayer before the ceremonial release of 21 butterflies, in remembrance of the victims of the Robb Elementary school shooting a year ago, at the St. Philip's Episcopal Church in Uvalde on May 24, 2023. Credit: Evan L'Roy/The Texas Tribune Partnering with secular resources This alliance between secular mental health providers and churches is one that has slowly grown over the last few decades. “For a long time, there has been a disconnect between clergy and psychiatrists,” said Doug Beach, chairperson of the NAMI’s FaithNet Advisory Group. “I think there has always been skepticism on the part of psychiatry about faith. But now the data has made it clear the importance of community to mental health, and we have recognized that if faith is important to you, then it’s important to your mental health.” A 2023 [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10832325/#:~:text=In%20addition%2C%20religiosity%20is%20associated,among%20older%20adults%20with%20depression.&text=The%20older%20adults%20were%20more,seeking%20professional%20mental%20health%20treatment.) found that people who are deeply religious usually have better mental health as long as they stay connected to the church. But the study also found older congregants with depression relied more on prayer and were less likely to seek mental health treatment. Beach, of NAMI, said that when he started holding mental health wellness classes over a decade ago at his San Antonio church, he noticed that most of the people attending the meetings were from other churches, not his own. “I had a woman after one of my classes tell me where she lived, and I told her you know there is a church in your neighborhood that does classes like this, and she told me she already knew, but people might recognize them there,” he said. Historically, there’s been a stigma around mental illness in many Christian denominations. But since World War II, there’s been a growing conversation within faith communities about mental illness and treatment. In 1993, Pope John Paul II spoke before the international delegation of psychiatrists to express the church’s esteem of psychiatric medicine. “The idea of demonic possession and stuff like that when it comes to mental illness was probably 15 to 20 years ago. I hardly run into anybody anymore who says that,” Beach said. “I am sure there a few pastors who still do, but they’re pretty much in the minority today.”. Christians aren’t the only faith considering how to reach followers in need of mental health help. This renewed focus on mental wellness has highlighted the mitigation efforts others have established in their community over the years. While some faith communities have taken to addressing mental health inside their facilities using in-house programs, others have systems built up already that allow them to redirect those who are having a mental health crisis to care that takes their religion into consideration. Multiple mosques in the Dallas and Fort Worth area carry information about the [Al-Shifa Clinic](https://www.mcc-hs.org/alshifa-medical-clinic), a charitable Muslim medical clinic in Richland Hill, near Fort Worth. This clinic allows religious leaders to redirect those needing help to a center with licensed social workers and two psychiatrists. “Initially, the center was established to provide medical and social services to immigrants and refugees arriving from Bosnia, Iraq, Somalia, and other Middle Eastern and South Asian countries,” said Ahmed. “Since 2004, the center has been providing these services to all indigent residents residing in the DFW area, irrespective of country of origin, ethnicity, and religious beliefs.” Ibn Sina Foundation, a nonprofit organization serving the Houston area for over 20 years, organized [the first](https://www.houstonchronicle.com/news/houston-texas/houston/article/Muslim-community-leaders-tackle-mental-health-at-17173655.php) Muslim Mental Health Conference for Community Leaders in 2022 to address addiction and mental health in their community. Over 30 mosque leaders attended the conference. Something similar occurs at the Jewish temples across Texas, where Judaism-based [health service agencies](https://jfs-sa.org/) have been established to give rabbis the ability to redirect them to faith-based mental health care handled by professionals. [Shalom Austin](https://shalomaustin.org/jfs-staff/#cohen) is a program dedicated to adding mental health resources and awareness in Central Texas communities through financial support and collaboration between temples and mental health providers. “We offer a variety of mental health programs and services for the community,” said Rabbi Amy Cohen, Shalom Austin’s chief social services officer for Shalom Austin. “This includes one-on-one counseling with a licensed therapist, support groups, and case management services.” Cohen said the center is currently offering a five-week program to synagogues titled “Life Transitions” to help people through specific events that might cause someone’s mental wellness to suffer. “Participants will focus on areas such as navigating relationships, career shifts, exploring gender identity, and more,” she said. Even the federal Substance Abuse and Mental Health Services Administration has a page [of links](https://www.samhsa.gov/mental-health/how-to-talk/community-and-faith-leaders) dedicated to getting mental health resources into every religious organization. The agency recommends all faith communities invite mental health experts to speak to their congregations, learn the primary signs of mental illness, and share the [988 Suicide and Crisis Lifeline](https://988lifeline.org/) in their publications. Wellness director Angela Bigham outside Rehoboth Baptist Church in Austin on March 24, 2024. Bigham has helped bring in mental health counselors as an available resource for the congregation. Credit: Montinique Monroe for The Texas TribuneDespite this new level of mental health awareness, some churches, particularly those in [Black](https://www.nami.org/Blogs/NAMI-Blog/February-2016/Why-Faith-Is-Important-to-African-American-Mental) and [Hispanic](https://baptistnews.com/article/in-black-and-hispanic-congregations-parishioners-often-turn-to-pastors-for-mental-health-issues-which-in-turn-creates-mental-health-stress-for-pastors/) communities, have been more reticent. But that too is now changing. Angela Bigham, the wellness director at Rehoboth Baptist Church in Austin and community engagement director for the University of Texas at Austin School of Nursing, said the hesitancy over the past decade was primarily due to the cultural disconnect between religious leaders and the predominately white mental health field. “I had an African American woman come up to me saying she wished she could do counseling, but when she went to the psychiatrist, she [the therapist] didn’t understand her background,” Bigham said. The provider, the woman told him, insisted that spanking in the home wasn’t abuse but discipline, and the woman seeking help felt that the therapist kept trying to pin her problems on spanking as a child. Bigham also recalled that several years ago, when she was doing volunteer work for the University of Texas in Austin, the school was part of an effort to bring mental health resources into African American churches, but the effort fell flat. “It turns out they were sending like some young girl … wearing thigh-high shorts and flip-flops, into these churches to tell them how many free resources they have,” Bigham recalled. “These elders don’t care if there are free Cadillacs in the parking lot; they are trying to figure out why you are disrespecting their church in your thigh-high shorts and flip-flops.”. Bigham eventually took over the program and held a town hall event at a Black church where a pastor got up and introduced mental health providers to the congregation and gave them time to describe what free services they had to offer. “The reaction was great; people were shocked by the things available in their community. They had no idea because there was such a disconnect between everyone,” Bigham said. Church members attend worship service at Rehoboth Baptist Church in Austin on March 24, 2024. Credit: Montinique Monroe for The Texas Tribune [Bridges to Care](https://www.nami-sat.org/bridges-to-care), a program developed in 2020 by the San Antonio chapter of the National Alliance on Mental Illness, connects the clergy and the congregation with mental health service providers and helps improve the congregation’s understanding of their mental health. Churches that participate must also invite the other churches near their neighborhood. “We have learned that the program tends to stick longer when you involve the entire neighborhood. Well, we have had 2,000 people go through our program and have worked with 70 congregations in our community,” Beach said. Beach said the Bridges to Care program has thrived in east San Antonio, a historically Black area of the city. “I think one of the reasons is that when we asked church leaders to go get your compadres and work together on this, it became their program and their neighborhood’s effort, and it was all being done by their church,” he said. Beach said the organization is trying to do the same thing on the city’s west side, which is primarily Hispanic, a demographic that has been hard for mental health providers to reach. “Last year at our Pathway to Health conference, we had a session for Hispanic families to educate them on how to talk about mental health,” Beach explained. “People were in tears because they had been living with this mental illness for years but were unable to explain it to their families, or they realized what was happening to one of their family members. It was overwhelming.” The COVID-19 pandemic revealed to everyone, church leaders say, that mental illness wasn’t something happening outside of the church but a crisis within their congregation. “I haven’t met a faith leader recently who doesn’t recognize the impact of the pandemic,” Beach said. “I mean, honestly, most of them know members of their congregation who are dying by suicide, or they have family members who have bipolar disorder or are under psychiatric care. It’s not like mental illness is hiding.” The critical piece in solving this problem is for religious leaders to do something that can be pretty hard: show vulnerability to their congregations. “We have found that if pastors are willing to get up in the pulpit and talk about mental health issues, and, in some cases, talking about themselves or their family, it makes all the difference in the world. Suddenly, they give permission to the people in the flock to talk about these issues,” Beach said. Speaking from the pulpit Robyn Bishop, lead pastor of Memorial United Methodist Church in Austin, has always had a strong belief in God’s healing power, but in college, she struggled with an eating disorder and needed counseling. Because of this experience, she knew mental health and faith could co-exist, but in 2011, when she was a pastor for a church in Houston, she decided it was time to tell her story during a women’s retreat. The response she received was overwhelming. “I asked afterward if anyone wanted to ask for prayer, and the next two hours, women started coming forward sharing their stories about how this family member was struggling with bipolar disorder, or this family member was struggling with anxiety or addiction,” Bishop said. “It showed me that if I talked about it more than other people would talk about it.” The people who stand behind the pulpit are considered among Christians to have faith so strong that they can lead others. But even they can struggle with their mental health, and more religious leaders are starting to tell their stories in hopes of helping others. “We know now that having a mental illness is like having a broken arm. You need to go to the doctor for it,” Bishop said. Disclosure: Cadillac and the University of Texas at Austin have been financial supporters of The Texas Tribune, a nonprofit, nonpartisan news organization that is funded in part by donations from members, foundations and corporate sponsors. Financial supporters play no role in the Tribune's journalism. Find a complete [list of them here](https://www.texastribune.org/support-us/corporate-sponsors/). This article originally appeared in [The Texas Tribune](http://www.texastribune.org/) at [https://www.texastribune.org/2024/03/28/texas-churches-mental-health/](https://www.texastribune.org/2024/03/28/texas-churches-mental-health/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://www.nami.org/Blogs/NAMI-Blog/February-2016/Why-Faith-Is-Important-to-African-American-Mental)",
+      "https://faithhopegoodmentalhealth.org/)",
+      "https://shalomaustin.org/jfs-staff/#cohen)",
+      "https://www.hhs.texas.gov/sites/default/files/documents/hb1-statewide-behavioral-health-idd-plan.pdf).",
+      "https://www.samhsa.gov/mental-health/how-to-talk/community-and-faith-leaders)",
+      "https://www.texastribune.org/support-us/corporate-sponsors/).",
+      "https://www.texastribune.org/about/staff/stephen-simpson/),",
+      "https://jfs-sa.org/)",
+      "https://www.texastribune.org/2024/03/28/texas-churches-mental-health/",
+      "https://suicidepreventionlifeline.org/)",
+      "https://www.texastribune.org/2023/12/22/texas-mental-health-system-challenges/).",
+      "https://www.texastribune.org/2024/03/12/uvalde-police-chief-resigns/)",
+      "https://www.mcc-hs.org/alshifa-medical-clinic),",
+      "https://www.nami-sat.org/bridges-to-care),",
+      "https://www.texastribune.org/2024/03/28/texas-churches-mental-health/).",
+      "https://cbcst.org/uvalde/)",
+      "http://www.texastribune.org/)",
+      "https://www.communitybible.com/mental-health)",
+      "https://www.texastribune.org/2024/03/28/texas-churches-mental-health/)",
+      "https://www.texastribune.org/newsletters/the-brief/?utm_medium=website&utm_source=trib-ads-owned&utm_campaign=trib-marketing&utm_term=inline-CTA-brief),",
+      "https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.00138)",
+      "https://baptistnews.com/article/in-black-and-hispanic-congregations-parishioners-often-turn-to-pastors-for-mental-health-issues-which-in-turn-creates-mental-health-stress-for-pastors/)",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10832325/#:~:text=In%20addition%2C%20religiosity%20is%20associated,among%20older%20adults%20with%20depression.&text=The%20older%20adults%20were%20more,seeking%20professional%20mental%20health%20treatment.)",
+      "https://www.samhsa.gov/find-help/national-helpline)",
+      "https://988lifeline.org/)",
+      "https://www.texastribune.org/2023/12/05/uvalde-officer-student-trainings-mass-shootings/)",
+      "https://www.houstonchronicle.com/news/houston-texas/houston/article/Muslim-community-leaders-tackle-mental-health-at-17173655.php)",
+      "https://texastribune.org/2024/03/28/texas-churches-mental-health/).",
+      "https://www.suicidepreventionlifeline.org/)",
+      "https://www.texastribune.org/2024/03/28/texas-churches-mental-health",
+      "https://www.cbcst.org/uvalde/)",
+      "https://hhs.texas.gov/sites/default/files/documents/hb1-statewide-behavioral-health-idd-plan.pdf).",
+      "https://www.988lifeline.org/)",
+      "https://www.shalomaustin.org/jfs-staff/#cohen)",
+      "https://communitybible.com/mental-health)",
+      "https://texastribune.org/2023/12/22/texas-mental-health-system-challenges/).",
+      "https://texastribune.org/about/staff/stephen-simpson/),",
+      "https://texastribune.org/newsletters/the-brief/?utm_medium=website&utm_source=trib-ads-owned&utm_campaign=trib-marketing&utm_term=inline-CTA-brief),",
+      "http://texastribune.org/)",
+      "https://samhsa.gov/mental-health/how-to-talk/community-and-faith-leaders)",
+      "https://www.faithhopegoodmentalhealth.org/)",
+      "https://texastribune.org/2024/03/12/uvalde-police-chief-resigns/)",
+      "https://mcc-hs.org/alshifa-medical-clinic),",
+      "https://texastribune.org/2024/03/28/texas-churches-mental-health/)",
+      "https://houstonchronicle.com/news/houston-texas/houston/article/Muslim-community-leaders-tackle-mental-health-at-17173655.php)",
+      "https://www.texastribune.org/newsletters/the-brief/",
+      "https://texastribune.org/2023/12/05/uvalde-officer-student-trainings-mass-shootings/)",
+      "https://www.baptistnews.com/article/in-black-and-hispanic-congregations-parishioners-often-turn-to-pastors-for-mental-health-issues-which-in-turn-creates-mental-health-stress-for-pastors/)",
+      "https://nami-sat.org/bridges-to-care),",
+      "https://nami.org/Blogs/NAMI-Blog/February-2016/Why-Faith-Is-Important-to-African-American-Mental)",
+      "https://ncbi.nlm.nih.gov/pmc/articles/PMC10832325/#:~:text=In%20addition%2C%20religiosity%20is%20associated,among%20older%20adults%20with%20depression.&text=The%20older%20adults%20were%20more,seeking%20professional%20mental%20health%20treatment.)",
+      "https://texastribune.org/2024/03/28/texas-churches-mental-health/",
+      "https://texastribune.org/support-us/corporate-sponsors/).",
+      "https://www.jfs-sa.org/)",
+      "https://www.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.00138)",
+      "https://samhsa.gov/find-help/national-helpline)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "stephen simpson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kera news taking",
+          "sentiment": "negative"
+        },
+        {
+          "name": "texas tribune",
+          "sentiment": "none"
+        },
+        {
+          "name": "substance abuse and mental health services administration",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "texas",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-29T15:03:36.066+03:00",
+    "updated": "2024-03-29T15:03:36.066+03:00"
+  },
+  {
+    "uuid": "9c3e3b4de48776912497e4a4dd7096a03c8e66b5",
+    "url": "https://discuss.huggingface.co/t/meta-llama-llama-3-2-90b-vision-instruct-continually-crashing-with-torch-outofmemoryerror-cuda-out-of-memory-tried-to-allocate/126688",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@twelcome Traiano Welcome",
+    "published": "2024-11-22T03:09:00Z",
+    "title": "\"meta-llama/Llama-3.2-90B-Vision-Instruct\" continually crashing with \"torch.OutOfMemoryError: CUDA out of memory. Tried to allocate\"",
+    "text": "I’m trying to run “meta-llama/Llama-3.2-90B-Vision-Instruct” as a containerized vllm on openshift with a single NVIDIA v100 GPU (with 8 GPUs available).\nThe pod runs, however after about 2 minutes fails with a large error trace which includes the following error:\ntorch.OutOfMemoryError: CUDA out of memory. Tried to allocate 224.00 MiB. GPU 0 has a total capacity of 79.10 GiB of which 80.31 MiB is free. Process 2718503 has 42.07 GiB memory in use. Process 3312520 has 36.93 GiB memory in use. Of the allocated memory 33.80 GiB is allocated by PyTorch, and 55.48 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation. See documentation for Memory Management https://pytorch.org/docs/stable/notes/cuda.html#environment-variables [rank0]:[W1121 09:26:13.404528307 CudaIPCTypes.cpp:16] Producer process has been terminated before all shared CUDA tensors released. See Note [Sharing CUDA tensors]\nThis suggests a shortage of memory resources for the GPU, but the GPU appears to be under-utilised and the server doesn’t seem to be heavily utilised.\n+-----------------------------------------------------------------------------------------+ | NVIDIA-SMI 550.127.05 Driver Version: 550.127.05 CUDA Version: 12.4 | |-----------------------------------------+------------------------+----------------------+ | GPU Name Persistence-M | Bus-Id Disp.A | Volatile Uncorr. ECC | | Fan Temp Perf Pwr:Usage/Cap | Memory-Usage | GPU-Util Compute M. | | | | MIG M. | |=========================================+========================+======================| | 0 NVIDIA H100 80GB HBM3 On | 00000000:DB:00.0 Off | 0 | | N/A 27C P0 69W / 700W | 4MiB / 81559MiB | 0% Default | | | | Disabled | +-----------------------------------------+------------------------+----------------------+ +-----------------------------------------------------------------------------------------+ | Processes: | | GPU GI CI PID Type Process name GPU Memory | | ID ID Usage | |=========================================================================================| | No running processes found | +-----------------------------------------------------------------------------------------+\nThis leads me to wonder if the problem is with the configuration of the pod, including the arguments passed to the LLM.\ncontainer: name: pepper-vllm-90b image: pepperairepo.azurecr.io/vllm/vllm-openai:0.6.3 imagePullPolicy: IfNotPresent args: - --model - meta-llama/Llama-3.2-90B-Vision-Instruct - --gpu-memory-utilization - \"0.6\" - --max_model_len - \"4096\" - --max_num_seqs - \"4\" - --enforce_eager - --tensor-parallel-size - \"4\" volumeMounts: cacheVolume: /root/.cache/huggingface # \"/Model2\" <- path from nfs where the model is stored containerPort: 8000 shmSize: 16Gi\nI’ve varied these parameters according to many suggestions on the internet, including changing --tensor-parallel-size. Nothing seems to stop the memory related crash.\n--tensor-parallel-size\nQuestions:\na) Has anyone encountered this problem before? b) Any other troubleshooting approaches for diagnosing and fixing this issue?\nFor completeness, here is the full context around the memory failure:\nINFO 11-21 09:26:12 selector.py:115] Using XFormers backend. ESC[1;36m(VllmWorkerProcess pid=352)ESC[0;0m INFO 11-21 09:26:12 selector.py:115] Using XFormers backend. ESC[1;36m(VllmWorkerProcess pid=353)ESC[0;0m INFO 11-21 09:26:12 multiproc_worker_utils.py:242] Worker exiting ESC[1;36m(VllmWorkerProcess pid=351)ESC[0;0m INFO 11-21 09:26:12 multiproc_worker_utils.py:242] Worker exiting ESC[1;36m(VllmWorkerProcess pid=352)ESC[0;0m INFO 11-21 09:26:12 multiproc_worker_utils.py:242] Worker exiting INFO 11-21 09:26:12 multiproc_worker_utils.py:121] Killing local vLLM worker processes Process SpawnProcess-1: Traceback (most recent call last): File \"/usr/lib/python3.12/multiprocessing/process.py\", line 314, in _bootstrap self.run() File \"/usr/lib/python3.12/multiprocessing/process.py\", line 108, in run self._target(*self._args, **self._kwargs) File \"/usr/local/lib/python3.12/dist-packages/vllm/engine/multiprocessing/engine.py\", line 392, in run_mp_engine engine = MQLLMEngine.from_engine_args(engine_args=engine_args, ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/engine/multiprocessing/engine.py\", line 141, in from_engine_args return cls( ^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/engine/multiprocessing/engine.py\", line 78, in __init__ self.engine = LLMEngine(*args, ^^^^^^^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/engine/llm_engine.py\", line 335, in __init__ self.model_executor = executor_class( ^^^^^^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/executor/distributed_gpu_executor.py\", line 26, in __init__ super().__init__(*args, **kwargs) File \"/usr/local/lib/python3.12/dist-packages/vllm/executor/executor_base.py\", line 47, in __init__ self._init_executor() File \"/usr/local/lib/python3.12/dist-packages/vllm/executor/multiproc_gpu_executor.py\", line 111, in _init_executor : self._run_workers(\"load_model\", File \"/usr/local/lib/python3.12/dist-packages/vllm/executor/multiproc_gpu_executor.py\", line 192, in _run_workers driver_worker_output = driver_worker_method(*args, **kwargs) ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/worker/worker.py\", line 183, in load_model self.model_runner.load_model() File \"/usr/local/lib/python3.12/dist-packages/vllm/worker/model_runner.py\", line 1062, in load_model self.model = get_model(model_config=self.model_config, ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/model_executor/model_loader/__init__.py\", line 19, in get_model return loader.load_model(model_config=model_config, ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/model_executor/model_loader/loader.py\", line 398, in load_model model = _initialize_model(model_config, self.load_config, ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/model_executor/model_loader/loader.py\", line 175, in _initialize_model return build_model( ^^^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/model_executor/model_loader/loader.py\", line 160, in build_model return model_class(config=hf_config, ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/model_executor/models/mllama.py\", line 912, in __init__ self.language_model = MllamaForCausalLM( ^^^^^^^^^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/model_executor/models/mllama.py\", line 856, in __init__ self.model = MllamaTextModel(config, cache_config, quant_config) ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/model_executor/models/mllama.py\", line 794, in __init__ LlamaDecoderLayer(config, File \"/usr/local/lib/python3.12/dist-packages/vllm/model_executor/models/llama.py\", line 229, in __init__ self.mlp = LlamaMLP( ^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/model_executor/models/llama.py\", line 71, in __init__ self.gate_up_proj = MergedColumnParallelLinear( ^^^^^^^^^^^^^^^^^^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/model_executor/layers/linear.py\", line 424, in __init__ super().__init__(input_size=input_size, File \"/usr/local/lib/python3.12/dist-packages/vllm/model_executor/layers/linear.py\", line 304, in __init__ self.quant_method.create_weights( File \"/usr/local/lib/python3.12/dist-packages/vllm/model_executor/layers/linear.py\", line 122, in create_weights weight = Parameter(torch.empty(sum(output_partition_sizes), ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/torch/utils/_device.py\", line 79, in __torch_function__ return func(*args, **kwargs) ^^^^^^^^^^^^^^^^^^^^^ torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 224.00 MiB. GPU 0 has a total capacity of 79.10 GiB of which 80.31 MiB is free. Process 2718503 has 42.07 GiB memory in use. Process 3312520 has 36.93 GiB memory in use. Of the allocated memory 33.80 GiB is allocated by PyTorch, and 55.48 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation. See documentation for Memory Management https://pytorch.org/docs/stable/notes/cuda.html#environment-variables [rank0]:[W1121 09:26:13.404528307 CudaIPCTypes.cpp:16] Producer process has been terminated before all shared CUDA tensors released. See Note [Sharing CUDA tensors] Traceback (most recent call last): File \"<frozen runpy>\", line 198, in _run_module_as_main File \"<frozen runpy>\", line 88, in _run_code File \"/usr/local/lib/python3.12/dist-packages/vllm/entrypoints/openai/api_server.py\", line 585, in <module> uvloop.run(run_server(args)) File \"/usr/local/lib/python3.12/dist-packages/uvloop/__init__.py\", line 109, in run return __asyncio.run( ^^^^^^^^^^^^^^ File \"/usr/lib/python3.12/asyncio/runners.py\", line 194, in run return runner.run(main) return __asyncio.run( ^^^^^^^^^^^^^^ File \"/usr/lib/python3.12/asyncio/runners.py\", line 194, in run return runner.run(main) ^^^^^^^^^^^^^^^^ File \"/usr/lib/python3.12/asyncio/runners.py\", line 118, in run return self._loop.run_until_complete(task) ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ File \"uvloop/loop.pyx\", line 1517, in uvloop.loop.Loop.run_until_complete File \"/usr/local/lib/python3.12/dist-packages/uvloop/__init__.py\", line 61, in wrapper return await main ^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/entrypoints/openai/api_server.py\", line 552, in run_server async with build_async_engine_client(args) as engine_client: ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ File \"/usr/lib/python3.12/contextlib.py\", line 210, in __aenter__ return await anext(self.gen) ^^^^^^^^^^^^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/entrypoints/openai/api_server.py\", line 107, in build_async_engine_client async with build_async_engine_client_from_engine_args( ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ File \"/usr/lib/python3.12/contextlib.py\", line 210, in __aenter__ return await anext(self.gen) ^^^^^^^^^^^^^^^^^^^^^ File \"/usr/local/lib/python3.12/dist-packages/vllm/entrypoints/openai/api_server.py\", line 194, in build_async_engine_client_from_engine_args raise RuntimeError( RuntimeError: Engine process failed to start /usr/lib/python3.12/multiprocessing/resource_tracker.py:254: UserWarning: resource_tracker: There appear to be 1 leaked shared_memory objects to clean up at shutdown warnings.warn('resource_tracker: There appear to be %d '\nSome information on the physical server running this vllm:\noc describe node xxxx\nAllocated resources: (Total limits may be over 100 percent, i.e., overcommitted.) Resource Requests Limits -------- ---",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T05:13:10.062+02:00",
+    "updated": "2024-11-22T05:13:10.062+02:00"
+  },
+  {
+    "uuid": "d4dc6371e1b0ba7a9e89b70147611089c1b5af4e",
+    "url": "https://www.repubblica.it/italia/2024/08/02/news/previsioni_meteo_italia_caldo_torrido_temporali_weekend-423427155",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "di ilMeteo.it",
+    "published": "2024-08-01T20:01:00Z",
+    "title": "Meteo, weekend con qualche temporale in più, ma il caldo non molla la presa - la Repubblica",
+    "text": "Antonio Sanò, fondatore del sito www.iLMeteo.it , conferma il mese appena concluso come il più caldo della storia di Roma: luglio 2024 ha fatto registrare temperature minime e temperature massime da record, battendo anche i dati ‘epici’ della torrida estate 2003. Sulla Capitale, la furia calda di Caronte ha portato minime medie di 22°C circa, in pratica abbiamo avuto 27 notti tropicali su 31 con minima sopra i 20°C e, alcuni giorni, abbiamo toccato persino l’esorbitante valore di 25-26°C di notte (minima non massima!).\nPer quanto riguarda la massima di luglio 2024, a Roma il valore medio è stato incredibile: 34,8°C. Nel dettaglio, le massime si sono assestate intorno a questo numero (africano), ad inizio luglio siamo scesi leggermente fino a circa 31-33°C ma durante il mese i picchi di 37-40°C sono stati prevalenti! Insomma, un clima impazzito anche a Roma, almeno 3°C più torrido del trentennio di riferimento 1991-2020, già molto caldo di per sé.\nE il caldo non darà tregua nemmeno nei prossimi giorni o settimane: si teme una lunga ondata di calore almeno fino a Ferragosto! Una prova ne è il fatto che, nonostante alcuni temporali in arrivo nel weekend al Centro-Nord, le massime tra sabato e domenica saranno ancora africane, anche su questo settore (al Sud avremo ancora picchi di 44°C): a Terni si prevedono 37°C, a Firenze 36°C, a Ferrara e Roma 35°C, a Bologna 34°C.\nUna conferma che, con questo clima stravolto, anche una violenta passata temporalesca non riesce ad abbassare le temperature in modo significativo.\nLe mappe meteorologiche sono dunque da incubo: almeno fino a Ferragosto non si vedono grandi cambiamenti. Il caldo proseguirà e il 2024 segnerà record su record, non solo sulla Capitale ma su tutto il pianeta; anche i mari sono ‘bollenti’ con l’acqua che sta assorbendo il 90% del Riscaldamento Globale causato dall’Effetto Serra.\nQuando gli oceani non saranno più in grado di accumulare questo calore in eccesso, allora le temperature delle nostre città non saranno più africane, ma tipiche del pianeta Mercurio!\nIntanto prestiamo attenzione al caldo ma anche ai temporali attesi nelle prossime ore al Nord-Est e nella giornata di sabato al Centro; in seguito, dagli ombrelli aperti - per poche ore - torneremo sotto gli ombrelloni, se saremo in grado di stare all’aria aperta nelle ore più calde della giornata.\nNEL DETTAGLIO\nVenerdì 2. Al Nord: temporali sparsi, specie sul Triveneto e poi in Emilia. Al Centro: sole e punte di 37-39°C. Al Sud: tanto sole e tanto caldo.\nSabato 3. Al Nord: rovesci sparsi sui monti del Triveneto e locali pure in Emilia. Al Centro: sole e rovesci sparsi, lieve calo termico. Al Sud: veloci piogge sui rilievi.\nDomenica 4. Al Nord: soleggiato e di nuovo caldo. Al Centro: soleggiato e di nuovo molto caldo. Al Sud: soleggiato e sempre molto caldo.\nTendenza : ennesima fiammata africana da lunedì 5 agosto in poi, caldo per almeno 10 giorni.\nLeggi i commenti I commenti dei lettori",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.ilmeteo.it",
+      "http://www.repstatic.it/cless/main/nazionale/2020-v1/include/detail/paywall.html",
+      "http://www.repstatic.it/cless/main/nazionale/2020-v1/include/detail/under-content.html--",
+      "https://www.repstatic.it/cless/common/widget/newsletter/2018-v1/include/gedi-newsletter-cx.html",
+      "http://www.repstatic.it/cless/common/box/outbrain/2022-v1/include/short.html",
+      "https://repstatic.it/cless/common/widget/newsletter/2018-v1/include/gedi-newsletter-cx.html",
+      "http://repstatic.it/cless/main/nazionale/2020-v1/include/detail/under-content.html--",
+      "http://repstatic.it/cless/common/box/outbrain/2022-v1/include/short.html",
+      "http://ilmeteo.it",
+      "http://repstatic.it/cless/main/nazionale/2020-v1/include/detail/paywall.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-02T01:15:27.417+03:00",
+    "updated": "2024-08-02T01:15:27.417+03:00"
+  },
+  {
+    "uuid": "2c4d321f5b1c083f94a638e79f719cde927222d2",
+    "url": "https://www.meon.com.br/noticias/rmvale/embraer-abre-48-vagas-de-emprego-em-sao-jose",
+    "ord_in_thread": 0,
+    "author": "Escrito por Meon",
+    "published": "2025-08-07T00:00:00Z",
+    "title": "Embraer abre 48 vagas de emprego em São José",
+    "text": "A Embraer, terceira maior fabricante de aeronaves do mundo, está com 48 vagas abertas em São José dos Campos. No total, são 59 oportunidades disponíveis somando todas as cidades onde a empresa atua.\nDas vagas em São José, 24 são efetivas. As demais são voltadas para aprendizes e banco de talentos. Os cargos abrangem áreas como administração, engenharia, produção, logística, análise, planejamento e qualidade.\nAs vagas são atualizadas com frequência, e o número de oportunidades pode variar conforme a demanda e o acesso ao site da empresa.\nComo se candidatar\nOs interessados devem se inscrever por meio da página oficial da Embraer na plataforma Gupy. É necessário escolher a vaga desejada, verificar os requisitos, clicar em “Candidatar-se” e criar uma conta no sistema ou entrar com login já existente.\nAlém de salário e benefícios, a Embraer também oferece programas educacionais e projetos especiais para desenvolvimento profissional de seus colaboradores.\n✅ Receba as notícias do dia – clique AQUI para seguir o canal MEON no WhatsApp.\nOs comentários e avaliações são de responsabilidade exclusiva de seus autores e não representam a opinião do site.\nBoleto\nReportar erro!\nComunique-nos sobre qualquer erro de digitação, língua portuguesa, ou de uma informação equivocada que você possa ter encontrado nesta página:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->human resources",
+      "Economy, Business and Finance->business service",
+      "Labor->labour market",
+      "Labor->employment",
+      "Labor->employer"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://embraer.gupy.io/",
+      "https://www.embraer.gupy.io/",
+      "https://embraer.gupy.io"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-08T14:31:35.977+03:00",
+    "updated": "2025-08-08T14:35:24.000+03:00"
+  },
+  {
+    "uuid": "8d8fb8694fa4d9f1774a42ac3cde078c80e6cf0d",
+    "url": "https://www.wsjm.com/2025/01/30/barbara-nadine-hamlin",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff",
+    "published": "2025-01-30T19:35:00Z",
+    "title": "Barbara Nadine Hamlin",
+    "text": "Barbara Nadine Hamlin passed away peacefully in her sleep on January 28, 2025, at the age of 88, in Midland, Michigan. Born on July 1, 1936, in Six Lakes, Michigan, Barbara was the youngest of 7 children born to Harry and Ethel Medford.\nBarbara was still young when they moved to a farm in Lakeview, Michigan. She was raised in the Seventh-day Adventist Church and graduated from Cedar Lake Academy as a member of the class of 1954. She worked as a telephone switchboard operator at Hinsdale Sanitarium in Hinsdale, Illinois. Also working in the Sanitarium was an orderly named Walter Hamlin, and the two met. She and Walter Hamlin were married December 29, 1957.\nFor many years, Barbara worked in the Undergraduate Records Office at Andrews University and later worked in the Lake Union Conference Office.\nBeyond her professional life, Barbara was an avid reader, played the piano beautifully, and sewed well. She and Walter raised a multiple-acre garden for many years.\nBarbara and Walter had hearts devoted to the mission outreach of the Seventh-day Adventist Church. When still a young and struggling family, they gave a large donation to the mission work in New Guinea, and over the years, supported many different projects, from the local Your Story Hour to the Pacific islands, including funds to build 3 churches and drill adjacent water wells in the mission field in Africa.\nBarbara is survived by three children: Rick Hamlin, Connie Hickman, and Carol Parris, 10 grandchildren, and 9 great-grandchildren.\nShe was preceded in death by her parents, Harry and Ethel Medford, her husband Walter, her sisters Dorothy Snow and Gladys Medford, her 4 brothers Robert Medford, Lester Medford, Foster Medford, and Ronald Medford, her youngest daughter, Judy Bland, and one grandchild: Ricky Hamlin, Jr.\nIn lieu of flowers, the family requests that donations be made to 3 Angels Broadcasting Network and Your Story Hour.\nArrangements have been entrusted to Allred Funeral Home in Berrien Springs, Michigan. A graveside service will take place at Rose Hill Cemetery in Berrien Springs on Thursday February 6, 2025, at 1:00 PM.\nService Schedule\nUpcoming Services\nGraveside Service\nThursday, February 6, 2025\n1:00 – 2:00 pm (Eastern time)\nRose Hill Cemetery\nRosehill Road, Berrien Springs, MI 49103\nPosted On: Thursday, January 30, 2025 2:35 PM",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Health",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Human Interest->funeral and memorial service",
+      "Health->medical condition",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T02:48:24.047+02:00",
+    "updated": "2025-01-31T02:48:24.047+02:00"
+  },
+  {
+    "uuid": "e77b1bd52721788506a0327bbc31868f7c4f684f",
+    "url": "https://www.erienewsnow.com/story/50384918/news-industry-off-to-brutal-2024-start-as-mass-layoffs-devastate-publishers-raising-questions-about-the-future-of-journalis",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Thursday; January",
+    "published": "2024-01-25T00:00:00Z",
+    "title": "News industry off to brutal 2024 start as mass layoffs devastate publishers, raising questions about the future of journalism - Erie News Now | WICU and WSEE in Erie, PA",
+    "text": "News industry off to brutal 2024 start as mass layoffs devastate publishers, raising questions about the future of journalism By Oliver Darcy and Jon Passantino, CNN (CNN) — The news industry is enduring a brutal start to the new year, with outlets large and small across the country hemorrhaging reporting staff as legacy business models that kept much of the industry afloat for decades collapse in plain sight. The rapid contraction, coming even as the presidential election cycle heats up and public attention and revenues historically mount, has been on full display this month, with the first few weeks of 2024 ushering in a spate of painful layoffs at news organizations from coast-to-coast. The Los Angeles Times slashed its newsroom by more than 20% earlier this week; TIME cut dozens of staffers; and Business Insider said it would trim its workforce by 8%. Meanwhile, hundreds of staffers at Condé Nast, Forbes, The New York Daily News, and others staged historic walkouts to protest planned cuts at the outlets. The recent round of layoffs, while pronounced, are part of a much larger and unrelenting storm battering the journalism industry. Over the past 18 months, most news organizations have been forced to make difficult decisions to reduce their workforces. At the national level, CNN, The Washington Post, NPR, Vice Media, Sports Illustrated, Vox Media, NBC News, CNBC, and other organizations have cut swaths of their reporting staff. At the local level, layoffs have been nearly constant, with newspaper giant Gannett cutting hundreds of employees, and small outlets carving out already lean operations. The latest round of layoffs come after 2023 marked the worst year for job cuts in the journalism sector since Covid-19 upended the world in 2020, with roughly 2,700 jobs eliminated. While each outlet is struggling with its own unique challenges, they all are facing brutal industry headwinds ushered in by the internet revolution and other technological advances that have fundamentally changed the way the public consumes news and entertainment. Audiences that once reliably surfed traditional cable channels and consumed news websites or newspapers are instead absorbing content and spending time on platforms such as TikTok and Netflix, leading to massive declines in ratings and traffic. That shift in behavior has led brands to spend their marketing in emerging digital arenas, particularly given their ability to offer advertisers powerful tools to target audiences with precision. Making matters worse, news outlets have seen their online advertising businesses vanish as social media and search giants devour much of the industry’s dollars. Research produced by Columbia University in October estimated that technology titans Google and Meta should pay news outlets $14 billion per year in revenue for their search traffic and content, a figure it [described](https://policydialogue.org/files/publications/papers/USE-THIS-2023.10.28_Paying-for-News_Clean-2.pdf) as “conservative.” But technology companies have resisted paying publishers for their content and launched high-profile fights to block legislation intended to recoup some of the lost revenue. “The ad industry doesn’t need the news industry when there are so many other ways to purchase attention, and so many better ways to target users,” Jay Rosen, an associate professor of journalism at New York University, told CNN. The change in behavior has also meant news consumers are canceling subscriptions to newspapers and cable providers, cutting precious revenues even further. “I am sorry to say that I do not see turning around most legacy outlets,” Jeff Jarvis, the Leonard Tow Professor of Journalism Innovation at the Craig Newmark Graduate School of Journalism, told CNN. “Their proprietors, with few exceptions, did not adapt to the internet. They held onto their old business models — advertising, subscription, and the attention economy.” “Many of them are now controlled by hedge funds, which will not invest or innovate,” Jarvis said, adding that cost-cutting is the “predictable response to a worsening downward business spiral,” which “will make the products of these publications only worse, which will accelerate the spiral.” “The death of newspapers — and magazines and linear TV — has been oft-foretold and has not yet occurred,” Jarvis said. “The fall might be coming now.” The hollowing out of large news institutions comes at a perilous time for America. Antidemocratic candidates have intentionally worked to undermine faith in news outlets as they look to seize power in election contests from coast to coast, attacking those tasked with the duty of holding public officials accountable. “To say that trust in the news media has declined is correct, but too vague,” Rosen said. “The reality is that destroying confidence in the practice and products of journalism is a potent and successful political strategy, as with Steve Bannon’s ‘flood the zone.’” That lack of accountability means dishonest figures seeking higher office, and those in positions of power, could avoid crucial scrutiny, leaving the electorate less informed about the vital decisions it will have to make in November at the ballot box. Margaret Sullivan, a columnist at The Guardian who previously wrote about media for The Washington Post and The New York Times, told CNN in December that she is worried about the larger consequences the deeper cuts in the news business will have on the country. Sullivan said that it is not only “heartbreaking to see the loss of these jobs,” but warned the action will do “damage to society.” “The loss of journalists contributes to the exponential growth of news deserts in large swaths of the nation — and that’s disastrous when misinformation is rampant,” Sullivan said. “Democracy needs an informed electorate in order to function and that is tragically dwindling in many regions.” For a time, there had been hope that billionaire ownership of news publications could offer stability to the industry as it wears off legacy business models. Recent months, however, have cast doubt on that optimism, with Jeff Bezos’ Washington Post and Dr. Patrick Soon-Shiong’s Los Angeles Times making significant cuts to their newsrooms. But despite the widespread gloom, there are some encouraging signs popping up across the industry. Dan Kennedy, a journalism professor at Northeastern University, noted some local news outlets have found financial sustainability. “Billionaire newspaper ownership is coming under fire lately because of Soon-Shiong’s fecklessness and because Jeff Bezos has hit a few bumps with the Post, although I think that will prove to be temporary,” Kennedy told CNN, pointing to recent successes at The Minneapolis Star Tribune and The Boston Globe newspapers. “There are reasons to be optimistic given the hundreds of independent local news organizations that have sprouted up in recent years,” he said. “The challenge is that coverage at the hyperlocal level is hit or miss, as some communities are well-served and others — especially in rural areas and in urban communities of color — tend to be overlooked.” But Rosen cautioned against the reliance on deep-pocketed philanthropists to sustain journalistic enterprises in the long-term. “Journalists have to take it upon themselves to treat sustainability as their problem, but this is not what they signed up for,” he said. “They signed up to do stories.” The-CNN-Wire ™ & © 2024 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://policydialogue.org/files/publications/papers/USE-THIS-2023.10.28_Paying-for-News_Clean-2.pdf)",
+      "https://www.policydialogue.org/files/publications/papers/USE-THIS-2023.10.28_Paying-for-News_Clean-2.pdf)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jon passantino",
+          "sentiment": "none"
+        },
+        {
+          "name": "oliver darcy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "pa news",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "wsee",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "new york daily news",
+          "sentiment": "none"
+        },
+        {
+          "name": "cnn",
+          "sentiment": "none"
+        },
+        {
+          "name": "business insider",
+          "sentiment": "none"
+        },
+        {
+          "name": "forbes",
+          "sentiment": "none"
+        },
+        {
+          "name": "los angeles times",
+          "sentiment": "none"
+        },
+        {
+          "name": "condé nast",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "erie",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:30:30.566+02:00",
+    "updated": "2024-01-26T00:30:30.566+02:00"
+  }
+]

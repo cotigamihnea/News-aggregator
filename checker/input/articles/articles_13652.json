@@ -1,0 +1,643 @@
+[
+  {
+    "uuid": "b720b807ae6ca7a4d97bf27179798dfd9f1cbcc8",
+    "url": "https://www.kyivpost.com/post/54384",
+    "ord_in_thread": 0,
+    "author": "TVP World",
+    "published": "2025-06-12T06:36:00Z",
+    "title": "Russian Politician Faces House Arrest After Calling Ukraine War 'Bloody Chess'",
+    "text": "Shlosberg was detained on Tuesday and charged with discrediting the Russian army after describing the war in Ukraine as a game of “bloody chess,” his party said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "topics": [
+      "Politics->political dissent",
+      "Politics->government",
+      "Politics->political candidates",
+      "War, Conflict and Unrest->war",
+      "War, Conflict and Unrest->civil unrest"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://t.me/Kyivpost_official",
+      "https://www.t.me/Kyivpost_official"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Nikolai Rybakov",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-12T09:59:20.939+03:00",
+    "updated": "2025-06-12T16:24:52.274+03:00"
+  },
+  {
+    "uuid": "11a9dd386b99ce67179d94062da1982ef6c7bb82",
+    "url": "https://www.einpresswire.com/article/677831152/brighten-haiti-and-rotary-clubs-collaborate-on-solar-project-at-historic-180-year-old-lyc-e-philippe-guerrier-school?ref=rss&code=LNFI4AQO6ARxrKjm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "arnie",
+    "published": "2023-12-28T20:45:00Z",
+    "title": "Brighten Haiti and Rotary Clubs Collaborate on Solar Project at Historic 180 year old Lycée Philippe-Guerrier School",
+    "text": "Brighten Haiti and Rotary Clubs Collaborate on Solar Project at Historic 180 year old Lycée Philippe-Guerrier School The Brighten Haiti Solar Training Center gets solar energy on its new training facility, to provide electricity and serve as a live training lab. Rotary Clubs and Brighten Haiti empower Lycée Philippe-Guerrier with solar power, bringing modern electricity and computer labs for the first time. Imagine a school that has not had electricity in 180 years, getting it for the first time ever. Providing lights, cooling classrooms and a computer lab.”SANTA ROSA, CA, USA, December 28, 2023 / — Kevin Keene - Founder, Brighten Haiti [EINPresswire.com](https://www.einpresswire.com/)/ -- In a landmark collaboration, Lycée Philippe-Guerrier, one of Haiti's most storied educational institutions, is set to receive a significant upgrade to its infrastructure. The Santa Rosa Sunrise [Rotary Club](https://portal.clubrunner.ca/4124), West Seattle Rotary Club, and the Cap-Haitien Rotary Club have joined forces with [Brighten Haiti](https://www.brightenhaiti.org/)to install a cutting-edge solar energy system at the school. This solar project, executed by Brighten Haiti and its skilled Solar Apprentices, is a game-changer for the 180-year-old Lycée Philippe-Guerrier. It signifies the first time in its long history that the school will have stable electricity and computer labs, crucial for modern education. This initiative underscores the commitment of the involved Rotary clubs and Brighten Haiti to foster sustainable development and improve educational infrastructure in Haiti. The solar installation not only promises a brighter, more efficient learning environment for the students but also serves as a shining example of the positive impact of international cooperation and renewable energy in transforming communities. Join us in celebrating this exceptional milestone, a testament to the power of collaboration and innovation in making a significant difference in the lives of young learners. For more information, please contact Kevin Keene Founder, Brighten Haiti kevin.keene@brightenhaiti.org 503.332.9029. About Lycée Philippe-Guerrier: Founded in 1844, Lycée Philippe-Guerrier is one of Haiti's oldest and most prestigious academic institutions, with a legacy of educational excellence. About the Partners: Brighten Haiti, the Santa Rosa Sunrise Rotary Club, West Seattle Rotary Club, and the Cap-Haitien Rotary Club are committed to promoting sustainable solutions and education in Haiti as part of their ongoing humanitarian efforts. KEVIN KEENE Brighten Haiti +1 503-332-9029 [email us here](http://www.einpresswire.com/contact_author/677831152) Visit us on social media:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Education",
+      "Environment"
+    ],
+    "external_links": [
+      "https://www.brightenhaiti.org/",
+      "https://portal.clubrunner.ca/4124",
+      "https://brightenhaiti.org/",
+      "https://www.brightenhaiti.org",
+      "https://www.portal.clubrunner.ca/4124"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "lycée philippe",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lycée philippe-guerrier",
+          "sentiment": "none"
+        },
+        {
+          "name": "brighten haitito",
+          "sentiment": "none"
+        },
+        {
+          "name": "kevin keene",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "rotary clubs collaborate on solar project",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lycée philippe-guerrier school brighten haiti",
+          "sentiment": "negative"
+        },
+        {
+          "name": "santa rosa sunrise rotary club",
+          "sentiment": "none"
+        },
+        {
+          "name": "west seattle rotary club",
+          "sentiment": "none"
+        },
+        {
+          "name": "cap-haitien rotary club",
+          "sentiment": "none"
+        },
+        {
+          "name": "guerrier school the brighten haiti solar training center",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "haiti",
+          "sentiment": "none"
+        },
+        {
+          "name": "usa",
+          "sentiment": "none"
+        },
+        {
+          "name": "santa rosa",
+          "sentiment": "none"
+        },
+        {
+          "name": "brighten haiti",
+          "sentiment": "none"
+        },
+        {
+          "name": "ca",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:26:04.925+02:00",
+    "updated": "2023-12-29T01:12:42.614+02:00"
+  },
+  {
+    "uuid": "4adfaf935f15bb574d86f442a12fa9e2e563c695",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-816001",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NATHAN KLABIN/THE MEDIA LINE",
+    "published": "2024-08-23T00:00:00Z",
+    "title": "Does Iran have enough fissile nuclear material to build bombs? - The Jerusalem Post",
+    "text": "Recent developments in Iran’s nuclear ambitions indicate that the Islamic Republic is on the cusp of achieving a nuclear weapon. Many experts estimate that the Iranian regime should already have enough fissile nuclear material to build a few bombs if the leaders decide to. For more stories from The Media Line go to themedialine.org\nThis analysis seems to be a consensus among experts, but Iran’s next steps remain a matter of discussion. After Israel assassinated a Hamas leader in Tehran last month, the world’s focus remains on Iranian threats of retaliation—but all the while, Iran may be quietly starting a new era of diplomacy under the Islamic regime.\nAndrea Stricker, deputy director of the Foundation for Defense of Democracies’ Nonproliferation and Biodefense Program, told The Media Line that Tehran now can produce weapons-grade uranium for at least 13 nuclear weapons in under four months.\n“Iran is steadily reducing the time it requires to make multiple nuclear weapons while hardening its nuclear assets underground and reducing international oversight,” she said, noting that recent intelligence indicates that Iranian scientists have been engaging in atomic weaponization activities.\nShahin Modarres, the Iranian desk director at the International Team for the Study of Security Verona, detailed the discrepancy between Iran's nuclear program and its public statements. A missile is launched during an annual drill in the coastal area of the Gulf of Oman and near the Strait of Hormuz, Iran (credit: REUTERS)\n“According to various sources, including Israeli officials and the International Atomic Energy Agency (IAEA) , publicly, the Iranian government asserts that their nuclear activities are purely for peaceful energy production. However, uranium enrichment to levels as high as 60% and above suggest otherwise. This level of enrichment is far beyond what is necessary for civilian energy purposes and strongly indicates an intent to develop nuclear weapons,” Modarres told The Media Line.\nStricker evaluated the West’s response to these developments as tepid at best. “Washington and its European allies have fallen prey to an Iran-created dynamic,” she said, referring to the regime’s strategy of threatening to move to 90% enrichment—atomic weapons-grade—if the West pushes back too hard. The US has also not enforced sanctions on Iran’s oil exports, resulting in billions of dollars of sanctions relief, and has also provided Tehran access to foreign-held assets. All in all, “the regime has been able to inch closer to the bomb while reaping the benefits of a slow approach and diverting international penalties,” Stricker said. 'In a threshold position'\nDr. Raz Zimmt, a senior researcher at the Institute for National Security Studies at Tel Aviv University, offered a slightly different perspective. Zimmt acknowledged Iran’s significant, though gradual, progress in its nuclear program in the years since President Donald Trump withdrew from the Iran nuclear deal. But he said that Iran likely has not made a definitive decision to develop nuclear weapons.\nHe said that Iran could potentially develop a nuclear weapon within six months to two years, depending on the type of weapon.\n“Iran is in a threshold position, meaning it could accumulate enough fissile material for a few nuclear devices within two weeks,” he said. “However, possessing fissile material is not enough; Iran would still need to continue its weaponization process. Iran does have delivery methods, such as missiles, but these would need further adaptation to carry nuclear warheads. While it’s technically feasible, additional work is required to make them fully operational for this purpose.” Stay updated with the latest news!\nSubscribe to The Jerusalem Post Newsletter\nSubscribe Now\nAccording to Modarres, Iran currently has two of the three critical components needed to assemble a nuclear weapon. Once it achieves the technology to initiate a nuclear explosion, that will complete the trifecta, along with the delivery system and sufficient quantities of highly enriched uranium that it already possesses.\n“Reports indicate that within the Iranian Ministry of Defense and the Islamic Revolutionary Guard Corps, efforts are ongoing to develop the necessary technology to trigger a nuclear explosion,” Modarres said. “This development places Iran alarmingly close to achieving a fully functional nuclear weapon.”\nSimilarly, Dr. Zimmt assesses that Iran aims to maintain its position as a threshold nuclear state or as close as possible to it. Iran views its nuclear program as a form of insurance for the regime’s stability. “When Iran compares the US’s attitude toward North Korea with its attitude toward Iraq, it likely concludes that having nuclear capabilities makes a country less vulnerable to military threats. However, Iran’s objective is not to reach this position as quickly as possible, but rather in a way that minimizes the risk of military confrontation, particularly with the US.”\nFor Dr. Zimmt, Iran’s endgame is about maintaining its position as a threshold nuclear state, which he describes as “insurance for the regime’s stability.” He argues that Iran’s leadership likely sees the possession of nuclear capabilities as a deterrent against military threats, especially from the United States. “However, Iran’s objective is not to reach this position as quickly as possible, but rather in a way that minimizes the risk of military confrontation,” he explains.\nHighlighting Iran's internal economic challenges due to the sanctions imposed by the West, Dr. Zimmt assessed that “One of the key reasons for Iran’s economic crisis in recent years has been the economic sanctions. One of the key reasons for Iran’s economic crisis in recent years has been the economic sanctions imposed on the country.”\nWhile removing these sanctions is necessary for improving Iran’s economy, it is not sufficient, the expert from INSS elaborated. “Mismanagement and corruption also play significant roles in Iran’s economic difficulties. The Iranian leadership, particularly Supreme Leader Khamenei, seems to have accepted that sanctions are a permanent fixture, especially after the US withdrawal from the JCPOA. Consequently, their strategy has shifted toward adapting the economy to survive under sanctions rather than seeking their removal.” he noted.\nIran's nuclear program has had severe economic and diplomatic repercussions, according to Modarres. “Economically, it is estimated that Iran has lost around $1 trillion due to sanctions and the international isolation that has resulted from its nuclear ambitions. This has left the Iranian population struggling under a crippling inflation rate of approximately 76%, leading to widespread economic hardship. Diplomatically, Iran's aggressive stance and the use of proxy groups have destabilized the Middle East, deteriorating the quality of life across the region and damaging Iran's relations with numerous countries worldwide,” he explained.\nSuch impact has opened a growing gap between the older and the younger generations. Dr. Zimmt identified the different approaches Iranians use to address Iran's significant challenges, including the economic crisis and this growing intergenerational gap. “There is a divide between the hardliners and conservative elements in the regime and the more pragmatic factions. While reformists are no longer part of the decision-making process, more pragmatic leaders, such as the current President, focus on economic reforms rather than political liberalization. Over the past few years, we’ve seen the dominance of conservative trends in Iran.” Nevertheless, Zimmt evaluates that the recent presidential elections have introduced a more pragmatic approach, particularly in economics.\nDr. Steven Terner, manager of Terner Consulting, argues that nuclear weapons might not ultimately benefit the Iranian regime and also agrees that the Islamic Republic could adopt a more pragmatic approach. “Nuclear weapons would not help the Iranian regime. If anything, achieving nuclear weapons capability would all but guarantee a major war in which the US would destroy Iran's weapons facilities, thereby effectively removing its nuclear weapons capabilities, likely necessitating a prolonged occupation and removal of the regime. The value of the nuclear weapons program lies in being able to trade it for the lifting of economic concessions. I don’t believe that Iran is trying to buy time to get nuclear weapons,” he asserted.\nDespite these differing views, experts agree that Iran’s actions have already had significant economic and diplomatic repercussions. Stricker warns that Iran’s neighbors are increasingly concerned about Tehran’s expansionist aims and may feel compelled to acquire their nuclear weapons if Iran continues its pursuits. “Iran's neighbors are certainly concerned about Tehran's expansionist aims and will feel motivated to acquire their nuclear deterrent or gain nuclear parity with the regime, should it continue to inch closer to crossing the nuclear threshold. At a certain point, Iran’s actions will provoke a regional war,” she cautions, noting that the region is already simmering with tension, especially after the October 7 Iran-backed Hamas attack on Israel.\n“Once Iran is ready to match nuclear fuel with the process of building the nuclear device, only deterrence or a preemptive effort by Western powers will stop the regime from breaking out of its nonproliferation obligations,” Stricker explained.\nFor Stricker, Iran’s Endgame is “to destroy Israel by 2040.” According to her, the Iranian leadership is steadily executing that plan, first by encircling Israel “in a ring of fire via Tehran's proxy militias and terrorist groups, to burden the IDF and make life difficult for Israelis. He is also seeking to eradicate the United States from the region and, in so doing, dominate the region and spread his Islamic revolution. Achieving a nuclear arsenal and cover of a nuclear deterrent would be the capstone of Khamenei's plan to further these aims.”\nDuring Biden's term in office, Washington sacrificed enormous economic leverage over Iran, Stricker highlighted. “Biden also provided the regime with space to advance its program during the two years the administration sought to revive a nuclear deal. Tehran has made clear in its refusal to revive the deal and that the time for diplomacy is over. If there is to be a diplomatic solution to the Iran nuclear crisis, it will only come as a result of massive American and European pressure and a credible military threat that makes the regime understand dashing to nuclear weapons is not a feasible option; only negotiating an end to the program,” she said.\nAccording to the FDD researcher, the Iranian leaders “see the example of the West holding back in arming Ukraine for fear of nuclear escalation with Russia, and no doubt wants to enjoy the same benefits while ensuring the regime's hold on power domestically.”\nModarres agrees that Iran's Endgame has consistently appeared to be the achievement of a nuclear arsenal. According to him, “It’s highly unlikely that Iran can be persuaded to abandon its pursuit of nuclear weapons through diplomacy or the easing of sanctions, as it appears that the development of nuclear weapons appears to be deeply embedded in the doctrine of the Islamic Republic, which views nuclear capability as essential to its survival and as a means to project power, particularly in opposition to the Western world.”\n“By acquiring nuclear capabilities, Iran aims to establish itself as a regional power and create a strategic deterrent against external threats, thereby securing its long-term stability and influence,” Modarres continued. “The potential development of nuclear weapons by the Islamic Republic of Iran poses significant strategic concerns for Europe, particularly due to two critical factors: energy dependence and migration pressures.”\nAs Europe remains heavily reliant on external energy sources and has not yet achieved full energy independence, Iran's nuclear ambitions' uncertainty and geopolitical instability could lead to significant volatility in global energy markets. Experts consider that any escalation related to Iran’s nuclear program—whether through direct conflict or increased sanctions—could disrupt energy supplies and drive up prices. “This would place immense strain on European economies with higher energy prices, which are already navigating the challenges of transitioning to renewable energy sources and maintaining economic stability,” Modarres told TML.\nSecondly, Iran's activities in the Middle East , including its support for proxy groups, exacerbate regional instability, which in turn contributes to increased migration pressures, according to Modarres. “The deteriorating quality of life in countries affected by Iran's influence may compel large numbers of people to flee, seeking safety and better opportunities in Europe. This potential surge in migration could strain European social services, increase political tensions within and between European nations, and challenge the EU's capacity to manage borders and maintain social cohesion” in a strategy of weaponizing refugees.\nSuch developments would undermine Europe’s geopolitical standing and lead to long-term instability both within and beyond its borders. Given the far-reaching implications for energy security and migration, Europe has a vested interest in addressing and mitigating the risks associated with Iran's nuclear program.\nThe potential consequences of Iran’s nuclear trajectory are stark. Ultimately, if Iran successfully produces nuclear weapons and continues its current path of dominating the region, creating a new security paradigm for world powers to address, leaving the Americans, Europeans, Israelis, and other regional actors to counter the threat.\nAccording to Stricker, “If the West continues to allow Iran to inch closer to the nuclear threshold without taking decisive action, the only options left may be military ones. The closer Tehran gets to nuclear weapons, the more limited the West’s options become,” she says, emphasizing the urgency of the situation.\nIf Iran continues on its current path toward developing nuclear weapons, the likelihood of military conflict increases significantly. Modarres explained that “Israel views a nuclear-armed Iran as an existential threat and is unlikely to allow Iran to achieve this capability. Consequently, Israel might take preemptive military action, which could trigger a broader regional conflict.\nWhile the West’s economic tools failed to subvert Tehran from within, the US limits itself only to military options to stop the regime if it dashes for nuclear weapons. “Those military options are available to the United States and Israel, but it will be difficult to pre-empt Iran moving enriched uranium underground for fabrication into nuclear devices or to bomb any deeply buried weaponization facilities,” she concluded.\nIran has employed several tactics to delay international scrutiny and continue advancing its nuclear program. One primary strategy has been to prolong negotiations with international bodies, effectively buying more time to enhance their nuclear capabilities.\nModarres explained the rationale for balancing proxy attacks and diplomatic efforts.\n“Simultaneously, Iran exerts pressure through its proxy groups across the Middle East, using them as leverage in diplomatic discussions. By occasionally reducing the activities of these proxies, Iran attempts to portray itself as cooperative, thereby reducing the immediacy of international pressure. These tactics are designed to distract and delay, allowing their nuclear program to progress relatively unchecked,” he detailed.\nAs of July, the Office of the Director of National Intelligence (ODNI) is no longer asserting Iran is not conducting nuclear weapons work. While ODNI also claims it is confident in the US intelligence community's ability to detect Iranian weaponization efforts, many question that capability, absent robust international inspections to detect nuclear weapons before they’re built. Recent findings have uncovered traces of enriched uranium at several undeclared sites in Iran, for which the Iranian government has yet to provide satisfactory explanations to the IAEA, suggesting that the Persian nation is engaged in activities beyond peaceful nuclear development and may be in the early stages of assembling a nuclear weapon.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js&#x27;;",
+      "https://static.vidazoo.com/basev/vwpt.js&#x27;;",
+      "https://www.player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js&#x27;;",
+      "https://www.static.vidazoo.com/basev/vwpt.js&#x27;;"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "stricker",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "jerusalem post",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        },
+        {
+          "name": "the media line",
+          "sentiment": "none"
+        },
+        {
+          "name": "foundation for defense of democracies&rsquo",
+          "sentiment": "none"
+        },
+        {
+          "name": "biodefense program",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "iran",
+          "sentiment": "none"
+        },
+        {
+          "name": "islamic republic",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "tehran",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-23T03:30:28.902+03:00",
+    "updated": "2024-08-23T05:00:20.335+03:00"
+  },
+  {
+    "uuid": "5101a2cc143837a8ee858da291b79bcbce557005",
+    "url": "https://www.tvnotas.com.mx/espectaculos-internacional/j-balvin-revela-que-muerte-de-amigo-liam-payne-lo-llevo-al-borde-de-crisis",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@TVNotasmx",
+    "published": "2025-01-31T01:38:42Z",
+    "title": "J Balvin revela que la muerte de su amigo, Liam Payne, lo llevó al borde de una crisis",
+    "text": "J Balvin revela que la muerte de su amigo, Liam Payne, lo llevó al borde de una crisis\nEl reguetonero colombiano fue amigo del exintegrante de One Direction, por lo que la pérdida lo afectó profundamente.\nEl 16 de octubre de 2024, la noticia de la muerte de Liam Payne conmocionó al mundo. El cantante británico falleció tras caer desde el tercer piso del Hotel Casasur en Buenos Aires, Argentina. La caída, de aproximadamente 13 metros, dejó a la industria musical y a millones de fanáticos en estado de shock.\nLas investigaciones iniciales especularon sobre el consumo de sustancias antes del accidente. Sin embargo, la causa del fallecimiento fue la caída pues un informe forense presentado en diciembre de 2024 confirmó un politraumatismo severo. El forense indicó que Payne no adoptó una postura defensiva, sugiriendo que pudo haber estado inconsciente en el momento de la caída.\nPor ahora, existen dos personas arrestadas y tres más imputadas por el caso, pues las investigaciones llevaron a hallar culpables a los empleados del hotel anteriormente mencionado de suministrar drogas al cantante y a un amigo, de dejarlo solo a pesar de estar alterado.\nMira: One direction planea tributo a Liam Payne en los Brit awards 2025\nJ Balvin revela cómo la muerte de Liam Payne lo afectó emocionalmente\nJ Balvin ha sido una de las figuras más vocales en cuanto a la salud mental dentro del mundo del entretenimiento. Ha compartido su lucha contra la ansiedad y la depresión con el fin de concienciar sobre estos temas y apoyar a quienes atraviesan situaciones similares.\nAhora el cantante ha hablado abiertamente sobre la fuerte crisis emocional que atravesó tras la trágica muerte de Liam Payne, exmiembro de One Direction.\nEn entrevista en el pódcast Los hombres sí lloran, conducido por Juan Pablo Raba, el artista colombiano confesó que la noticia de la muerte de Liam Payne lo afectó profundamente, al punto de desencadenar una crisis emocional.\n“Estos días que pasó lo de Liam Payne yo dije: ‘Quiubo’”, expresó. La situación lo llevó a tomar medidas inmediatas para controlar su ansiedad:\n“Me tocó tomarme la pastillita. La que me tomo para dormir me la adelantaron..volvió el cerebro y se acomodó\".\nMira: Liam Payne recibió indicaciones psiquiátricas previo a la caída que le quitó la vida\nCabe recordar que J Balvin y Liam Payne colaboraron exitosamente en la canción ‘Familiar’, en 2018 un tema que se convirtió en un éxito mundial y marcó una de las primeras colaboraciones del cantante británico con un artista latino.\nLee: Padre de Liam Payne demandado por difamación por amigo del cantante, tras polémica muerte\nEl mensaje de adiós de J Balvin a Liam Payne\nTras conocerse la trágica noticia, J Balvin fue una de las primeras celebridades en expresar su pesar públicamente. En su cuenta de Instagram, compartió una foto junto a Liam Payne con el mensaje:\n“Descansa en paz, mi amigo Liam Payne”.\nAdemás, días después de la muerte de Liam en una entrevista anterior con Enrique Santos, J Balvin reafirmó que Liam no solo era un colega, sino un verdadero amigo.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure",
+      "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+      "Human Interest->funeral and memorial service",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->wellness",
+      "Lifestyle and Leisure->lifestyle",
+      "Arts, Culture and Entertainment->culture",
+      "Arts, Culture and Entertainment->music"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T03:38:42.303+02:00",
+    "updated": "2025-01-31T03:38:42.303+02:00"
+  },
+  {
+    "uuid": "ed186001d8b84c5704078c7051474a4cc440780f",
+    "url": "https://pledgetimes.com/more-madrid-affirms-that-errejon-recognized-that-the-sexual-harassment-accusations-against-him-were-true",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "admin_l6ma5gus",
+    "published": "2024-10-24T19:31:00Z",
+    "title": "More Madrid affirms that Errejón recognized that the sexual harassment accusations against him were true",
+    "text": "Sumar’s former spokesperson in Congress, Íñigo Errejón who resigned this Thursday from all his political positions, confirmed to Más Madrid that the accusations of sexual abuse and harassment against him published on social networks are true according to sources from the political party.\nThis Thursday, Errejón has released a letter on the social network His resignation, accepted by the coalition of Add arrives in the middle of anonymous accusations of sexist violence for which the management itself has already opened an internal process.\nThus, and after becoming aware of them, More Madrid got in touch with Errejón himself, who, according to sources, confirmed the facts so the decision was made to ask Sumar to demand the deputy’s certificate. In fact, Sumar leader Yolanda Díaz has said that Errejón’s resignation is the result of open process for this training on testimonies about possible cases of sexist violence.\nAfter this, the Secretary of Communication of Add Elizabeth Duval, has assured that her former parliamentary spokesperson recognized “morally reprehensible acts” after the complaint anonymous with accusations of sexist attitudes towards women and the warning from Más Madrid. Faced with this confession, Duval has recognized that in Sumar are “dismayed” and has regretted that the former deputy does not meet the “standards of exemplary feminist which should be required of any political position, any public position, but particularly a left-wing political position,” as he has defended in statements to the Chain Being .\n“Commitment against machismo” Shortly before and after the resignation of the co-founder of Podemos, Díaz indicated on social media that during this week his party had launched an investigation. “This week, Sumar has started a process to collect information about the testimonies that emerged on networks about Íñigo Errejón. As a result of the process, today he leaves all his positions,” she wrote. The leader of Sumar adds that the commitment of this training “against machismo and for a feminist society it’s firm and without exceptions.”\nErrejón’s resignation comes shortly after journalist Cristina Fallarás published an anonymous testimony on her Instagram profile in which she spoke of a deputy (whose name was not cited) who was defined as “ a psychological abuser” and that different users related that testimony to the name of the former leader of Sumar and began to share other stories.\nLate this Thursday afternoon, in addition, l Actress Elisa Mouliaá became the first victim to stand up to the former political spokesperson. “Hello, I am a victim of sexual harassment by Íñigo Errejón and I want to report it,” he wrote on social media, where he also claimed that he had not reported it before out of “fear.”\n#Madrid #affirms #Errejón #recognized #sexual #harassment #accusations #true",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.20minutos.es/noticia/5647503/0/actriz-elisa-mouliaa-victima-cristina-fallaras-destapa-nuevas-denuncias-errejon-por-violencia-machista/",
+      "https://www.20minutos.es/noticia/5647438/0/sumar-investigaba-errejon-por-denuncias-sobre-maltrato-psicologico-desde-hace-dias/",
+      "https://www.20minutos.es/noticia/5647518/0/actriz-elisa-mouliaa-primera-dar-cara-contra-inigo-errejon-yo-soy-victima/",
+      "https://imagenes.20minutos.es/uploads/imagenes/2024/05/22/inigo-errejon.jpeg",
+      "https://www.20minutos.es/noticia/5647399/0/inigo-errejon-dimite-como-portavoz-sumar-deja-su-escano-congreso/",
+      "https://www.20minutos.es/noticia/5647523/0/yolanda-diaz-sobre-dimision-errejon-nuestro-compromiso-contra-machismo-es-firme-sin-excepciones/",
+      "https://www.20minutos.es/minuteca/sumar-yolanda-diaz/",
+      "https://www.20minutos.es/minuteca/violencia-machista/",
+      "https://www.20minutos.es/minuteca/inigo-errejon/",
+      "https://www.20minutos.es/minuteca/li-feminismo/",
+      "https://www.20minutos.es/minuteca/violencia-machista",
+      "https://20minutos.es/minuteca/inigo-errejon/",
+      "https://www.20minutos.es/minuteca/li-feminismo",
+      "https://20minutos.es/minuteca/li-feminismo/",
+      "https://www.20minutos.es/minuteca/sumar-yolanda-diaz",
+      "https://www.20minutos.es/noticia/5647399/0/inigo-errejon-dimite-como-portavoz-sumar-deja-su-escano-congreso",
+      "https://20minutos.es/noticia/5647503/0/actriz-elisa-mouliaa-victima-cristina-fallaras-destapa-nuevas-denuncias-errejon-por-violencia-machista/",
+      "https://20minutos.es/minuteca/violencia-machista/",
+      "https://www.imagenes.20minutos.es/uploads/imagenes/2024/05/22/inigo-errejon.jpeg",
+      "https://www.20minutos.es/noticia/5647503/0/actriz-elisa-mouliaa-victima-cristina-fallaras-destapa-nuevas-denuncias-errejon-por-violencia-machista",
+      "https://www.20minutos.es/noticia/5647523/0/yolanda-diaz-sobre-dimision-errejon-nuestro-compromiso-contra-machismo-es-firme-sin-excepciones",
+      "https://20minutos.es/noticia/5647523/0/yolanda-diaz-sobre-dimision-errejon-nuestro-compromiso-contra-machismo-es-firme-sin-excepciones/",
+      "https://www.20minutos.es/noticia/5647518/0/actriz-elisa-mouliaa-primera-dar-cara-contra-inigo-errejon-yo-soy-victima",
+      "https://20minutos.es/noticia/5647518/0/actriz-elisa-mouliaa-primera-dar-cara-contra-inigo-errejon-yo-soy-victima/",
+      "https://20minutos.es/minuteca/sumar-yolanda-diaz/",
+      "https://www.20minutos.es/minuteca/inigo-errejon",
+      "https://20minutos.es/noticia/5647438/0/sumar-investigaba-errejon-por-denuncias-sobre-maltrato-psicologico-desde-hace-dias/",
+      "https://www.20minutos.es/noticia/5647438/0/sumar-investigaba-errejon-por-denuncias-sobre-maltrato-psicologico-desde-hace-dias",
+      "https://20minutos.es/noticia/5647399/0/inigo-errejon-dimite-como-portavoz-sumar-deja-su-escano-congreso/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:09:15.319+03:00",
+    "updated": "2024-10-25T00:09:15.319+03:00"
+  },
+  {
+    "uuid": "3aa18f320b4cf664b23e7f6b759ad9e87602598e",
+    "url": "https://www.wtok.com/2023/12/28/donald-wildmon-founder-american-family-association-dies-85/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wtoktv",
+    "published": "2023-12-28T23:19:00Z",
+    "title": "Donald Wildmon, founder of American Family Association, dies at 85",
+    "text": "Donald Wildmon, founder of American Family Association, dies at 85 TUPELO, Miss. (WTOK) - The American Family Association reported the death of its founder, the Rev. Dr. Donald Wildmon Thursday in Tupelo. He was 85. Wildmon founded the Christian leadership organization in 1977 after becoming alarmed about content on television. At the time, he spoke out encouraging his church in Southaven to turn off TV for a week, which garnered local and national attention. Wildmon left the pastoral ministry when he founded the National Federation for Decency, which later became American Family Association. AFA has “remained on the front lines of America’s culture war”, according to its website. It’s now led by Tim Wildmon, the founder’s son. “My father was a man with great conviction and vision,” said AFA President Tim Wildmon. “He knew how important it was for Christians to remain firmly entrenched in their faith in the face of an openly immoral society, and he lived his life for the Gospel every single day. His heart for Christ and his passion for the American family will be sorely missed, but we on Earth can take comfort in knowing that he is at peace with his Heavenly Father, hearing the words, ‘Well done, my good and faithful servant.’” Wildmon began the American Family Radio network in 1991, which grew to 180 radio stations. The [AFA website](https://www.afa.net/) posted a memorial message Thursday. Copyright 2023 WTOK. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://www.afa.net/)",
+      "https://afa.net/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "donald wildmon",
+          "sentiment": "negative"
+        },
+        {
+          "name": "tim wildmon",
+          "sentiment": "none"
+        },
+        {
+          "name": "wildmon",
+          "sentiment": "none"
+        },
+        {
+          "name": "christ",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "american family association",
+          "sentiment": "negative"
+        },
+        {
+          "name": "family association",
+          "sentiment": "none"
+        },
+        {
+          "name": "christian",
+          "sentiment": "none"
+        },
+        {
+          "name": "afa",
+          "sentiment": "none"
+        },
+        {
+          "name": "national federation for decency",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "tupelo",
+          "sentiment": "none"
+        },
+        {
+          "name": "miss.",
+          "sentiment": "none"
+        },
+        {
+          "name": "tupelo",
+          "sentiment": "none"
+        },
+        {
+          "name": "america",
+          "sentiment": "none"
+        },
+        {
+          "name": "southaven",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T04:02:47.366+02:00",
+    "updated": "2023-12-29T04:02:47.366+02:00"
+  },
+  {
+    "uuid": "93f96fa2601cc971d9250be294dad2c93c4a6808",
+    "url": "https://www.insidethegames.biz/articles/1147617/supporting-israel-paris-in-hostile-times",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Raúl Daffunchio Picazo",
+    "published": "2024-08-08T21:27:00Z",
+    "title": "Supporting Israel in Paris in hostile times",
+    "text": "Supporting Israel in Paris in hostile times By Raúl Daffunchio Picazo Thursday, 8 August 2024 Paris 2024 has been some of the most politically turbulent in recent years, and unfortunately Israel has played a significant role in these challenges. This first-person account explores what it was like to support an Israeli team, navigating French stadiums with security concerns. This is the life story of a group of Israelis, led by a father who arrived in this troubled country more than 50 years ago, who experienced the Paris 2024 Olympics in a way that was different from the rest of the more than 200 nations or National Olympic Committees represented, shaped by security considerations and the general atmosphere.The story begins with Victor Ninio, of Argentinian descent and a sports enthusiast, on his way to enjoy another great event in his life, the Olympic Games.Just like in Rio 2016, China for the 2019 Basketball World Cup, Qatar 2022 for football or Athens 2004, being Israeli does not stop him from enjoying the world's best athletes and the diverse experiences that these events offer.And I say \"being Israeli\" because, unfortunately, the Jewish people, scattered around the world, and Israel itself, with its residents and returnees, often have to take extra precautions that citizens of other nations or religions do not.Shaul, Noan, and Victor Ninio, the protagonists of this story. RDP / INSIDE THE GAMESOn 7 October 2023, the situation for Israelis worsened. \"The day of the massacre committed by the extremist religious group that controls the Gaza Strip, called Hamas,\" as Victor describes the problem affecting the Middle East, would mark a before and after for all Israelis, especially those like Victor who like to attend big events.\"For these Olympics, because of my age and because of what happened, I didn't dare go alone, as I did in Qatar or at other events. I went with my son Noam, the middle child, who is 32 years old and has been serving as a reservist in the Israeli army since 7 October, and a friend of his.\"\"I told him to take advantage of his days off from the army, so we decided to come with his friend Shauli, also Israeli, who lives and works in Athens, Greece. Since we decided at the last minute, we couldn't go to many events where Israel was competing, but we got tickets for football and boxing, so we made the most of what was available,\" said Ninio.Everyone knew this wasn't going to be just any Olympics for Israel. The athletes' own security in Paris would be accompanied by personal security and local reinforcements for the fans.Israeli fans at the Parc des Princes stadium, in the west of Paris. RDP / INSIDE THE GAMESAs for the hostile atmosphere, he clarifies: \"We didn't feel it very much because we don't walk around the streets with an Israeli flag, that's for sure. Even though both my son and his friend are strong and don't let themselves be pushed around, we decided to keep a low profile in the streets, without flags, shirts or anything that would identify us as Israelis\".These precautions were a constant during their nearly 10-day stay in France. \"When Israel was playing and we were in the stadium, yes, we took out the flag or something with Israeli markings, but not on the street. As soon as we passed the first security ring, we felt safe and we would show our flags. That's when the nice part began, interacting with people from other countries, like when we talked and took pictures with the Japanese in a wonderful atmosphere,\" said Ninio\"Apart from the Palestinian flags, it wasn't that hostile. We still couldn't wear shirts or flags outside the stadiums, but not on the advice of the embassy or the government. Everyone knows what they can and cannot do. We know we have to be careful and avoid problems,\" Ninio explained, highlighting the usual approach for Israelis at such events.Apart from the different results in the disciplines, \"You go to the Olympics to enjoy the competitions, to meet people and to experience different cultures. Of course you cheer, but that's not the only thing,\" said the economist, who retired last year but continues to work part-time in physical education at a boarding school for elderly people with mental and physical disabilities.Cultural exchange, one of the highlights of every Olympic Games. RDP / INSIDE THE GAMES\"Even though our football results weren't as good as in other sports because we have a second- or third-tier team in Europe, we still celebrated seeing our team in the games. I love basketball and football, and generally, we don't play in big competitions, so it was wonderful just to watch them play\".In the middle of talking to Inside The Games about the details of his stay, he paused for a moment to clarify something important. \"I want to clarify something important. People say 'the Palestinians' and that's not true. Even the Palestinian Authority, led by Mahmoud Abbas, has been badly damaged by Hamas. We have to separate Palestine from this murderous and terrorist group with its fundamentalist religious position.\"Palestine is one thing, Hamas is another,\" he repeated several times during the interview. \"Flags are often shown out of ignorance and end up having repercussions in sport. Many of those who march don't understand the situation and mix things up. There was a massacre by Hamas with over 1,200 or 1,300 dead, something unprecedented. It's a terrorist group based on extreme religious beliefs, like Hezbollah or ISIS in their day, with Iran and other countries supporting them.\"We had no contact with the Palestinians, but that's what happened. When we played Paraguay in Paris, there were flags, but they were in a different section and we went through different gates. It was the same in Nantes; we weren't near them.To illustrate his experience, he cited another match he attended because of his South American heritage, Argentina's debut against Morocco. \"The atmosphere at the Morocco-Argentina game was more hostile than the one against us. Ninety-five per cent of the stadium was against Argentina. They were French people of Moroccan origin who had a score to settle with Argentina. I was there wearing an Argentina shirt and was met with hostility of a different kind. Bottles thrown, insults, a pitch invasion - it was complete chaos.Israeli fans at La Beaujoire Stadium, the iconic home of FC Nantes. RDP / INSIDE THE GAMESHe couldn't help but compare it to other events where, although there are precautions for being Israeli, the situation wasn't as conflicted as it is now. \"At Qatar 2022, I went to Doha and the atmosphere was more controlled, partly because there were more foreigners than locals, and the Arab authorities made sure there were no problems. I didn't wear one out of an abundance of caution, but my friends did. They could wear shirts with Hebrew inscriptions or Israeli symbols on the street without a problem. Here we didn't even try.With a smile tinged with melancholy, he recalled other Olympic Games. \"I was in Athens in 2004 with my son, who was 12, and then in Rio in 2016, but Israel didn't have a strong team like now, so we ended up watching Ginobili and Olympic football with Tevez and company. #Israel didn't do much in sailing and judo, not much else. Israel won several medals at these Olympics, which is important, although we didn't get to see many of them because we decided at the last minute. I think there were six medals and if I'm not mistaken that's a record. It's fantastic for our country.His military son, who is more reluctant to give interviews, perhaps because of his role in the Israeli army, will soon have to return to duty. \"Noam served about 150 days in the reserves, not in Gaza, but in the north, on the border with Syria and Lebanon, in the artillery. On Sunday 11 August, he's going to enlist again for 50 days,\" said Ninio, with the concern that all parents have for their children, but happy to have shared a few days with him at Paris 2024.Their trip began in Lyon, where they secured tickets to watch the Argentina team and did a bit of sightseeing in France's third largest city. \"We were in Lyon to watch Argentina and do some sightseeing, then we came to Paris to support Israel and went to Nantes on a bus organised by Israeli and French Jewish students.\"Israeli fans and French Jews by the side of the A11 motorway connecting Paris and Nantes. RDP / INSIDE THE GAMESThe bus trip wasn't entirely satisfactory due to the timetables and distances that Israelis are not used to, as well as the heat and lack of air conditioning. \"It was six or seven hours, even with a police escort, because it was a bus full of Jews...\"The silence spoke volumes about the feelings many Israelis and Jews have when leaving their country.On the subject of security, he said: \"An Israeli security man travelled with us. There was also local security before and after we arrived at the stadium. We had to wait on the side until we got the signal to enter the stadium and we had to get in quickly\".\"Still, it was more a precaution than anything else. Nantes was quieter than Paris, but we were escorted from Paris to Nantes and back, like a rival delegation\".On his return to the French capital, Ninio mentioned that he had learned that \"the number two had been killed\", that Ismail Haniyeh had been assassinated in Tehran, unable to escape the conflict in the country that had been his refuge for half a century.Oren Smadja (bronze medallist in Barcelona 1992 and current coach) with the protagonists of this story. RDP / INSIDE THE GAMESThese mixed feelings between sport, culture and life, in general, moved him as he stressed that, apart from seeing the athletes, the most important part of his trip was meeting Oren Smadja (bronze medallist in Barcelona 1992), the judo coach who lost his son 40 or 50 days ago. \"This meeting was the highlight, very emotional\", as he couldn't escape the daily realities of his country for a moment, making it clear that it is not easy for anyone to experience an Olympic Games in the midst of such a significant conflict, with family and friends in Israel.These are the emotions that drive many sports fans - a mix of sport and real life, politics and religion, security and the extraordinary. It's about experiencing the Olympics in different ways based on nationality and religion, but ultimately feeling them deeply as a passionate sports fan and amateur athlete. Timeline",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "raúl daffunchio picazo",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "victor ninio",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "china",
+          "sentiment": "none"
+        },
+        {
+          "name": "qatar",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "athens",
+          "sentiment": "none"
+        },
+        {
+          "name": "paris",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:33:39.976+03:00",
+    "updated": "2024-08-09T00:33:39.976+03:00"
+  },
+  {
+    "uuid": "8c96129dca2885c93cf191e0b17a12bc1a161d5d",
+    "url": "https://sol.sapo.pt/2025/02/23/putin-diz-que-deus-e-o-destino-lhe-confiaram-a-missao-de-defender-a-russia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redação",
+    "published": "2025-02-23T12:22:00Z",
+    "title": "Putin diz que Deus e o destino lhe confiaram a \"missão\" de \"defender\" a Rússia",
+    "text": "Internacional Putin diz que Deus e o destino lhe confiaram a “missão” de “defender” a Rússia Putin falava aos militares que combateram na Ucrânia, numa cerimónia organizada no Kremlin para assinalar o Dia dos Defensores da Pátria",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest",
+      "Religion and Belief"
+    ],
+    "topics": [
+      "Politics->political candidates",
+      "Politics->international relations",
+      "Politics->heads of state",
+      "Religion and Belief->religious leader",
+      "Religion and Belief->christianity",
+      "Religion and Belief->relations between religion and government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-23T18:31:10.942+02:00",
+    "updated": "2025-02-23T18:31:10.942+02:00"
+  },
+  {
+    "uuid": "4fb960394745c65988559103e0fa2c3c539395f6",
+    "url": "https://www.breitbart.com/asia/2024/02/23/orthodox-priests-demand-russia-release-alexei-navalnys-body-to-family",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "John Hayward",
+    "published": "2024-02-23T00:00:00Z",
+    "title": "Orthodox Priests Demand Russia Release Alexei Navalny’s Body to Family",
+    "text": "A group of more than eight hundred Russian Orthodox priests and church members wrote a letter to Russian officials on Thursday imploring them to return the body of opposition leader Alexei Navalny to his family. The letter said continuing to hold Navalny’s remains would be an “act of ruthlessness and inhumanity.” “Even Pontius Pilate, who decided to execute Christ for fear of disloyalty to the emperor … did not prevent the release of the Saviour’s body and his burial. Do not be crueller [sic] than Pilate,” the letter said. The letter described Navalny as a “man of faith, an Orthodox Christian,” and warned keeping his body from his family could cause “even more tension within society.” Roman Catholics in Russia also mourned Navalny’s death, an unusually forthright action for a church that normally tries to avoid drawing the baleful attention of the Russian government. A lay Catholic leader in Moscow told OSV News on Wednesday: The Catholic church in Russia doesn’t speak out on sensitive issues — though we’ve been here for centuries, we still feel like we’re in a ghetto, keeping quiet so no one will notice us. But I really hope memorial services will be held in other countries — that even the pope might join prayers in his memory. “Although not all Catholics agreed with everything he said and did during his short life, no one would deny his courage,” she said, adding: Sadly, however, I can’t believe Navalny’s death will mark a turning point by provoking mass protests and changing things. Many others have died under the current regime, and their names are already barely remembered by young Russians, while hundreds of political detainees still suffer in prisons and labor camps. The Russian bishop’s conference did not offer public comments on the “tragedy” of Navalny’s death. Lay Catholics told OSV News they were afraid to speak out more forcefully. Russian police have cracked down forcefully against memorials for Navalny in cities across the country, arresting hundreds of the mourners. Russian officials announced Navalny’s death at the Polar Wolf prison colony in the Arctic on Friday. Navalny was arrested in January 2021 upon returning to Moscow after surviving an assassination attempt using chemical weapons and was sentenced to a string of lengthy prison terms on embezzlement charges. He was moved without warning to the harsh Polar Wolf camp in December 2023, leaving his friends and family unaware of his health or location for most of the month. Prison officials were evasive about the cause and circumstances of his death, listing the cause as “sudden death syndrome.” When they refused to return his body to his family for burial, his allies said the government of strongman Vladimir Putin was callously forcing the family to suffer additional anguish and covering up the true cause of his death. Navalny’s wife, Yulia Navalnaya, said in a video statement that Putin probably ordered her husband killed with another dose of Novichok nerve agent and needed some time to erase the evidence: My husband could not be broken, and that’s exactly why Putin killed him, in the most cowardly way. He did not have the courage to look him in the eye or even say his name. And now they are also cowardly, hiding his body, not showing him to his mother, not giving it to her. Navalny’s 69-year-old mother, Lyudmila Navalnaya, filed a lawsuit on Wednesday seeking to compel the authorities to hand over Alexei’s body. She said on Thursday she is resisting pressure from Russian authorities to give her son a secret burial, away from public scrutiny. “They are blackmailing me, they are setting conditions where, when and how my son should be buried. They want to do it secretly without a mourning ceremony,” she said. Lyudmila said a Russian investigator warned that if she does not agree to a secret funeral, the state will “do something” unpleasant with his body. She was told to make her decision quickly because “the corpse is decomposing.” “They want to take me to the outskirts of the cemetery to a fresh grave and say: ‘Here lies your son.’ I don’t agree to this. I want you too — to whom Alexey is dear, for whom his death was a personal tragedy — to have the opportunity to say goodbye to him,” she told Navalny’s supporters. Navalny’s mother said she was permitted to view the body in a city morgue but was not allowed to claim it for burial. She visited the morgue on Saturday, the day after Alexei’s death, but was told the morgue was not open for business, and her son’s body was not there. Navalny’s spokeswoman, Kira Yarmysh, said his mother was presented with a death certificate that said the 47-year-old dissident died of “natural causes.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Politics",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://thehill.com/homenews/ap/ap-international/ap-russian-opposition-figure-kara-murza-urges-russians-from-court-not-to-give-up-after-navalnys-death/",
+      "https://apnews.com/article/russia-navalny-death-mother-body-e80950bd0e1d8bc325aa0b1eba77a4a5",
+      "https://www.nytimes.com/2024/02/17/world/europe/russia-detentions-navalny-memorials.html",
+      "https://www.ncronline.org/news/russian-catholics-stage-quiet-commemorations-deceased-dissident-navalny",
+      "https://ncronline.org/news/russian-catholics-stage-quiet-commemorations-deceased-dissident-navalny",
+      "https://nytimes.com/2024/02/17/world/europe/russia-detentions-navalny-memorials.html",
+      "https://www.thehill.com/homenews/ap/ap-international/ap-russian-opposition-figure-kara-murza-urges-russians-from-court-not-to-give-up-after-navalnys-death/",
+      "https://www.apnews.com/article/russia-navalny-death-mother-body-e80950bd0e1d8bc325aa0b1eba77a4a5",
+      "https://thehill.com/homenews/ap/ap-international/ap-russian-opposition-figure-kara-murza-urges-russians-from-court-not-to-give-up-after-navalnys-death"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "alexei navalny",
+          "sentiment": "negative"
+        },
+        {
+          "name": "rus",
+          "sentiment": "negative"
+        },
+        {
+          "name": "navalny",
+          "sentiment": "none"
+        },
+        {
+          "name": "pontius pilate",
+          "sentiment": "none"
+        },
+        {
+          "name": "christ",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "pilate",
+          "sentiment": "none"
+        },
+        {
+          "name": "catholic",
+          "sentiment": "none"
+        },
+        {
+          "name": "osv news",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "russia",
+          "sentiment": "none"
+        },
+        {
+          "name": "navalny",
+          "sentiment": "none"
+        },
+        {
+          "name": "moscow",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-23T19:41:19.420+02:00",
+    "updated": "2024-02-23T19:41:19.420+02:00"
+  }
+]

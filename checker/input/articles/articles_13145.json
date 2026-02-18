@@ -1,0 +1,572 @@
+[
+  {
+    "uuid": "c1dac3b7228a3fc3d6f4115b164db324d9729a6d",
+    "url": "https://www.newsbreak.com/mlive-513121/3740026909033-chippewa-county-under-a-winter-storm-warning-until-saturday-morning-up-to-10-inches-of-snow",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Advance Local Weather Alerts",
+    "published": "2025-01-03T09:17:00Z",
+    "title": "Chippewa County under a winter storm warning until Saturday morning - up to 10 inches of snow",
+    "text": "By Advance Local Weather Alerts ,\n18 minutes ago The National Weather Service issued a winter storm warning at 4:14 a.m. EST on Friday in effect until Saturday at 7 a.m. EST for Chippewa County. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Disaster and Accident->natural disaster",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "National Weather Service",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Chippewa County",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T11:37:23.535+02:00",
+    "updated": "2025-01-03T11:37:23.535+02:00"
+  },
+  {
+    "uuid": "041ea783523ae768c3b0e78ea0d05ff3b09451df",
+    "url": "https://www.kptv.com:443/2024/02/29/mystery-solved-120-year-old-shipwreck-finally-found",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TMX staff",
+    "published": "2024-02-29T22:47:00Z",
+    "title": "Mystery solved: 120-year-old shipwreck finally found",
+    "text": "(TMX) – A shipwreck discovered by accident off the coast of Australia has solved a 120-year-old mystery, the New South Wales Ministry of Environment and Heritage announced in a news release this week.\nThe steamship SS Nemesis left Newcastle on July 9, 1904, and was transporting coal to Melbourne when it vanished in a storm with 32 people on board.\nThe ship was last seen “in distress in rough seas off Wollongong by another ship also caught in the storm,” NSW Heritage said.\nIn the following weeks, the bodies of Nemesis crew members washed ashore, along with debris from the 240-foot ship, but the wreck was never found – until now.\nIn 2022, Subsea Professional Marine Services was searching for lost cargo containers off the coast of Sydney when the company accidentally located the wreck of the SS Nemesis about 16 miles offshore at a depth of around 525 feet.\n“It has been an absolute honor to have discovered this wreck which will now finally bring some closure to the families of its lost crew members,” said Ed Korber of Subsea Professional Marine Services. “Our marine and remote operated vehicle team have navigated difficult challenges to get the first incredible footage that has allowed Heritage NSW to confirm this was indeed the Nemesis wreck.”\nNSW Heritage experts suspected it was the Nemesis, but confirmation was difficult so far out and so deep. The Commonwealth Scientific and Industrial Research Organisation, or CSIRO, captured additional underwater imagery to identify the ship and provide clues to its sinking.\n“The loss of Nemesis has been described as one of Sydney’s most enduring maritime mysteries and has even been described by shipwreck researchers as the ‘holy grail’,” NSW Minister for Environment and Heritage Penny Sharpe said in a statement.\n“Thanks to collaborative work with CSIRO and Subsea, using modern technology and historical records, Heritage NSW has been able to write the final chapter of SS Nemesis’ story,” Sharpe said. “Around 40 children lost their parents in this wreck, and I hope this discovery brings closure to families and friends connected to the ship who have never known its fate.”\nUnderwater imagery captured by CSIRO showed the iron-hulled Nemesis settled upright on a sand plain with significant damage to its bow and stern.\n“Our technical team aboard CSIRO research vessel, RV Investigator, did an amazing job in mapping the entire site and capturing very clear vision of the wreck using one of our underwater camera systems,” said CSIRO Voyage Manager Jason Fazey. “Using RV Investigator’s advanced multibeam echosounders, we were able to create a high-resolution map of the entire wreck and measure key dimensions to aid in its identification.”\nInvestigators believe the ship sank after its engine became overwhelmed in the storm. When the Nemesis was hit by a large wave, it sank too quickly for lifeboats to be deployed. The ship was carrying crew members from Australia, the U.K., and Canada.\n“With only 105 of the more than 200 shipwrecks off the NSW coast having been discovered, this is an important find,” said Minister Paul Scully, Member for Wollongong. “The discovery of the Nemesis shows why Wollongong continues to explore its history in what is a proud port city.”\nCopyright 2024 TMX. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.environment.nsw.gov.au/news/ss-nemesis-120-year-old-shipwreck-mystery-solved-and-search-for-relatives-begins",
+      "https://environment.nsw.gov.au/news/ss-nemesis-120-year-old-shipwreck-mystery-solved-and-search-for-relatives-begins"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "nemesis",
+          "sentiment": "none"
+        },
+        {
+          "name": "ed korber",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nsw heritage",
+          "sentiment": "none"
+        },
+        {
+          "name": "newcastle",
+          "sentiment": "none"
+        },
+        {
+          "name": "heritage",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "new south wales",
+          "sentiment": "none"
+        },
+        {
+          "name": "wollongong",
+          "sentiment": "none"
+        },
+        {
+          "name": "melbourne",
+          "sentiment": "none"
+        },
+        {
+          "name": "sydney",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-01T01:01:47.946+02:00",
+    "updated": "2024-03-01T01:01:47.946+02:00"
+  },
+  {
+    "uuid": "e79cb390eb6d3160b8d0ba834f50d735dbde9eb1",
+    "url": "https://www.nation.com.pk/02-Feb-2024/india-involved-in-terrorist-incidents-inside-pakistan-fo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SHAFQAT ALI",
+    "published": "2024-02-01T19:49:00Z",
+    "title": "India involved in terrorist incidents inside Pakistan: FO",
+    "text": "ISLAMABAD - Pakistan said yesterday that India was promoting terrorism in the region and beyond. Speaking at a weekly news briefing here, Foreign Office spokesperson Mumtaz Zahra Baloch raised concerns about India’s alleged involvement in extraterritorial and extrajudicial killings.\nShe said, Foreign Secretary Muhammad Syrus Sajjad Qazi last week had shared credible evidence linking Indian agents to extraterritorial and extrajudicial killings of two Pakistani nationals on Pakistani soil.\n“These cases have exposed the increasing sophistication and brazenness of Indiansponsored terrorist acts inside Pakistan, with striking similarities with the pattern observed in other countries, including Canada and the United States. India’s assassination of Pakistani nationals on Pakistani soil is a clear violation of Pakistan’s sovereignty and a breach of the UN Charter,” she said.\nShe added: “It is critical to bring to justice the perpetrators, facilitators, financiers and sponsors of these extra-judicial and extra-territorial killings. The Indian network of extra-judicial and extra-territorial killings is now a global phenomenon that needs coordinated international response. India must be held accountable internationally for its blatant violation of international law.” Responding to India’s accusations labelling Pakistan as the “epicentre of terrorism,” the spokesperson asserted that India had not denied the charges made by Pakistan. To another question, she said Afghanistan’s claims about the Durand Line were dismissed, emphasizing the internationally recognized border’s validity. The spokesperson said Pakistan had been raising concerns over the terror threat emanating from Afghanistan. She urged the Afghan authorities to take immediate and effective action against the terror entities and handover their leadership to Pakistan.\nAbout Iranian Foreign Minister Hossein Amir-Abdollahian’s recent visit to Pakistan, she said, it focused on discussions about counterterrorism, security cooperation, and economic development. The spokesperson condemned the killing of Pakistanis in Iran and confirmed ongoing investigations. Baloch reiterated commitment to working with Iran to combat terrorism. She highlighted Kashmir’s right to self-determination and the upcoming Kashmir Solidarity Day on February 5. “On Monday, the government and people of Pakistan will observe the Kashmir Solidarity Day. On this day, Pakistanis and Kashmiris around the world reaffirm their solidarity with the Kashmiri people in their just struggle for realization of their inalienable right to self-determination,” she elaborated. Pakistan, she said, “will continue to extend political, diplomatic and moral support to our Kashmiri brothers and sisters for the just and peaceful settlement of the Jammu and Kashmir dispute in accordance with the UN Security Council Resolutions.” Regarding the cypher case judgment, the spokesperson refrained from commenting, citing the sensitivity of such matters protected by the Official Secrets Act.\nShe said the suspension of funding for the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) amid the ongoing war and suffering in Gaza also goes against the spirit of the ICJ’s provisional measures that called for provision of essential services and humanitarian assistance to address the challenging conditions faced by the Palestinians in Gaza. “We urge reconsideration of the decision to suspend funding of UNRWA which has a crucial role in protecting and supporting the Palestinian people,” she added. She said Pakistan also calls for the full implementation of ICJ’s provisional judgment to uphold human rights, dignity, and identity of the Palestinian people as per the UN Charter, relevant resolutions, and international law.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "spe",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "mumtaz zahra baloch",
+          "sentiment": "none"
+        },
+        {
+          "name": "muhammad syrus sajjad qazi",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "foreign office",
+          "sentiment": "none"
+        },
+        {
+          "name": "un",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "pakistan",
+          "sentiment": "none"
+        },
+        {
+          "name": "islamabad",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-02T02:58:25.584+02:00",
+    "updated": "2024-02-02T02:58:25.584+02:00"
+  },
+  {
+    "uuid": "f0ba75cd0adfe54e9983039966e673f86693b54b",
+    "url": "https://www.panewslab.com/zh/articles/liu5gqxr",
+    "ord_in_thread": 0,
+    "author": "@PANewsCN",
+    "published": "2025-07-31T02:53:00Z",
+    "title": "AI初创公司Cohere预计年收入达2亿美元，新一轮融资在即",
+    "text": "PANews 7月31日消息，据The Information报道，人工智能初创公司Cohere预计今年收入将达到2亿美元。目前公司正接近完成新一轮融资。\n作者：PA一线\n本内容只为提供市场信息，不构成投资建议。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business financing",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Social Issue->population and census",
+      "Social Issue->demographics",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific innovation",
+      "Science and Technology->biotechnology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:52:45.312+03:00",
+    "updated": "2025-07-31T07:56:47.000+03:00"
+  },
+  {
+    "uuid": "3d3fa1c564d74df93457fab1e49114bfd7cf6368",
+    "url": "https://eagletimes.com/2025/03/06/residents-to-oppose-toxic-proposal-at-public-hearing",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eagle Times Staff",
+    "published": "2025-03-06T05:00:00Z",
+    "title": "Residents to oppose toxic proposal at public hearing",
+    "text": "CLAREMONT, N.H. — Members of A Better Claremont invite their neighbors to attend a public hearing on Thursday, March 6 at 6 p.m. to express their opposition to a potentially toxic waste transfer station at the Junction.\nFor the past five years, Acuity Management, Inc. has been pushing a proposal to site a construction and demolition debris (C&D) transfer operation near a residential neighborhood and an elementary school on Maple Avenue.\nClaremont leaders have repeatedly shared concerns about the impacts of this project and the company’s disregard for local land-use regulations.\nThe developer’s own estimate says the facility would receive 30 trucks a day, filled with up to 500 tons of mixed C&D materials, a waste stream often containing toxic forever chemicals like lead, mercury and PFAS.\nThis proposal would not only put strain on the region’s roads but could also release harmful particulate matter into the surrounding air and water.\nOn Thursday night, A Better Claremont (ABC) will call on the Department of Environmental Services to reject Acuity’s permit application for a modification to a 1987 recycling permit to build what could be the largest C & D waste transfer operation in the region.\nABC encourages community members to arrive early for support with sign-making, testimony preparation and conversations with your neighbors.\nThe public hearing is hosted by the Department of Environmental Services and will be held Thursday, March 6 at 6 p.m. at the Claremont Opera House.\nABC is a grassroots group working for a safe, vibrant Claremont community that protects our families, our health and the environment.\nSlingshot is an environmental health nonprofit that works alongside most-impacted communities to take aim at polluters and build local power.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Environment"
+    ],
+    "topics": [
+      "Politics->local government and authority",
+      "Politics->citizens' initiative and recall",
+      "Politics->public inquiry",
+      "Social Issue->social problem",
+      "Social Issue->communities",
+      "Social Issue->social condition",
+      "Environment->environmental clean-up",
+      "Environment->hazardous materials"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Maple Avenue",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Department of Environmental Services",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Acuity Management, Inc.",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "ABC",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T07:03:05.029+02:00",
+    "updated": "2025-03-06T07:03:05.029+02:00"
+  },
+  {
+    "uuid": "f605ba6abb0fb5cf7ee98e984b792195c1c4e310",
+    "url": "https://www.elcaribe.com.do/panorama/comunitarios-de-las-800-y-esperanza-en-los-rios-preocupados",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "El Caribe",
+    "published": "2024-11-01T02:42:00Z",
+    "title": "Comunitarios de Las 800 y Esperanza en Los Ríos preocupados por lluvias pronosticadas",
+    "text": "Comunitarios del barrio Las 800 y La Esperanza, en el sector capitalino de [Los Ríos](https://www.elcaribe.com.do/panorama/pais/alcaldia-inaugura-el-parque-via-en-los-rios/), se mantienen preocupados por la cantidad de lluvias pronosticadas por la incidencia de una [vaguada](https://es.wikipedia.org/wiki/Vaguada_(meteorolog%C3%ADa)). Asimismo, el Centro de Operaciones de Emergencia (COE) colocó 14 provincias en alerta por la incidencia del sistema atmosférico. [Ante](https://adn.gob.do/noticias/) las lluvias que se han registrado este jueves y las que se esperan para el fin de semana, algunos residentes en sectores vulnerables han comenzado a tomar medidas. “Si llueve como el año pasado si, porque la delaño pasado eso fue fuerte, fuerte, fuerte”, afirmó uno de los residentes. Otro comunitario dijo que comenzó a tomar algunas precauciones, entre ellas “mover los trastes e ir enganchando la cama”. Mientras que otros en el sector Las 800 dicen sentirse seguros por el trabajo que hizo el Gobierno en la cañada. Mientras que la tarde de este jueves el [Centro de Operaciones de Emergencias ](https://cdn.com.do/nacionales/coe-emite-alerta-para-14-provincias-del-pais/)colocó en alerta amarilla las provincias, Puerto Plata, María Trinidad Sánchez, Espaillat, Hato Mayor, El Seibo, Samaná, Duarte, Hermanas Mirabal y La Altagracia. Según el COE, las lluvias continuarán hasta la próxima semana. Condiciones Marítimas: Se recomienda a la población y a los organismos de respuesta seguir las restricciones establecidas en el informe marino del Indomet, especialmente en la costa atlántica. Recomendaciones a la Población: Mantenerse en contacto con la Defensa Civil, Fuerzas Armadas, Cruz Roja, Policía Nacional. También, Cuerpos de Bomberos y el COE a través de los números 809-472-0909, 911, y *462 de la OGTIC. Seguir las orientaciones de los organismos de protección civil. Los residentes en zonas de alto riesgo, cercanas a ríos y arroyos, deben estar alertas y tomar medidas preventivas ante posibles crecidas. Abstenerse de cruzar ríos y arroyos con alto volumen de agua, así como de usar balnearios en las provincias bajo alerta. Se insta a la población a mantenerse informada y a actuar con prudencia ante estas condiciones climáticas adversas.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://es.wikipedia.org/wiki/Vaguada_(meteorolog%C3%ADa)).",
+      "https://cdn.com.do/nacionales/coe-emite-alerta-para-14-provincias-del-pais/)colocó",
+      "https://adn.gob.do/noticias/)",
+      "https://www.adn.gob.do/noticias/)",
+      "https://www.cdn.com.do/nacionales/coe-emite-alerta-para-14-provincias-del-pais/)colocó",
+      "https://www.es.wikipedia.org/wiki/Vaguada_(meteorolog%C3%ADa))."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Gobierno",
+          "sentiment": "none"
+        },
+        {
+          "name": "COE",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T04:47:30.561+02:00",
+    "updated": "2024-11-01T04:47:30.561+02:00"
+  },
+  {
+    "uuid": "f302acf6002f84d6705f05859ef394b9e93adefe",
+    "url": "https://www.cyclingweekly.com/news/five-bike-parts-to-invest-in-and-five-things-to-cheap-out-on",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "anne.rook@futurenet.com (Anne-Marije Rook)",
+    "published": "2023-12-28T15:00:00Z",
+    "title": "Five bike parts to invest in, and five things to cheap out on",
+    "text": "Five bike parts to invest in, and five things to cheap out on\nOur experts advice on where to save your pennies and where to pay full price\n\"\nCW asks\" is a feature series where our seasoned staff answers a range of questions. The series isn't just about delivering knowledge; it's a chance for us to share a bit of our personality and our passion with you. As we dive into some questions, please feel free to send in some questions of your own to .\nPrevious Questions:\nWhat three thingsdo you wish you'd known when you first started cycling? Does e-bike racing have a placeat the most competitive end of our sport?\n- If you were given $3,000 right now,\nwhich bike would you buy? Personality test:If you could keep just one of your bikes, which bike would it be? Ride of a lifetime:If you had just one ride left in you where would it be and with whom?\n- Who is the\ngreatest cyclist of all time? Ride indoors or brave the elements outdoors: how will you tackle the winter season? The great sock debate:do socks go over or under leg warmers? Tubeless vs. tubed tireson the road?\n- SRAM, Shimano or Campagnolo?\nHere's what our staff prefers and why What's the 'right' tire widthfor road and gravel riding?\n- What cycling-related items are on\nour experts' Christmas wish lists?\n- What are\nthe silliest UCI rulesthat should be done away with?\nQuestion 13: When it comes to bike parts and accessories, where can you save money and which are worth investing in?\nMichelle Arthurs-Brennan, Digital Editor\nI wrote an\nentire feature on this, and I stand by the words I penned at the time: spend on the frame, wheels and tires. Those are the areas you'll see the greatest uplift in performance, with the seatpost and brakes coming in as notable mentions.\nDon't bother with expensive handlebars/stems (difficult these days with integrated, proprietary options often required), eschew anything that elevates low weight above all else, bypass ceramic bearings and you can skimp on electronic shifting as it's a 'nice to have' but won't contribute massively to your ride experience, in my opinion.\nI'd like to add some caveats on the frame: buy the one you really, really love; it doesn't have to be the most expensive, it just has to fit you and your personality on the bike. I make this comment having swapped onto my 2012 Specialized Amira recently, when my S-Works Aethos was out of action. I absolutely adore my Aethos - every time I look at it I feel a bit excited to get out and ride. However, I've always loved the Amira, too - and it's probably worth £500 all in. Both frames - about a decade apart in production - just suit me, and my riding style: round tubes, nimble, lightweight. It's not really about pouring money into the frame, more, being discerning, packing in as many test rides as it takes to find 'the one' - or, as I advocated in the full article - going custom. Buy once, and buy well.\nAnne-Marije Rook, North American Editor\nSave your pennies on: disc brake rotors.\nNow before you go running off to Amazon or Ali Express to buy some no-name product, l want to add the caveat that I'd advocate for buying on-brand rotors from Shimano, SRAM, Hope, Tektro, TRP or Campagnolo — it just doesn't have to be the top-of-the-line product. The gram-savings are nice but, in my opinion, not worth the extra $40+ dollars per rotor over a mid-range product. In my experience, the brake pads play a bigger role than the rotor. Invest in quality brake pads and stick to a mid-range rotor.\nInvest in: a good chamois\nLike saddles, a good pair of bib shorts containing a quality chamois is a personal journey. It takes some time to find the one that works for you but when you do, it makes all the difference. Sure, some riders like ultradistance cyclist Lael Wilcox don't need a chamois at all, but most of us aren't so lucky.\nLong hours in the saddle can be tough on the body, especially on sensitive areas. A high-quality chamois can provide cushioning and support while preventing chafing and discomfort. Quality fabrics will also wick away moisture to reduce the risk of irritation, saddle sores and other unpleasantness. And a good fitting pair of shorts will prevent chafing and actually provide support to key muscles.\nA quality pair of bib shorts is an investment, yes, but the comfort, performance and durability they offer make them worthwhile for any cyclist.\nSam Gupta, Video Manager\nHaving recently adopted some\nHunt Aerodynamist 32’s, I’m inclined to say wheels. These wheels weigh a claimed 1200g; they are undoubtedly very light. I cannot ignore how much rival wheelsets cost to get to this level of lightness. So, considering this wheelset could represent a £1000+ saving compared to rivals I’m confident of saying wheels. However, my pinch of salt here is that I’m yet to spend a proper amount of time riding these wheels, so I could be eating my words after winter.\nIn terms of what to invest in, I’ll always\nsay tires. Yes, I know, they are horrendously expensive these days and do cost almost as much as tires for your car BUT they are the only component that join you to the tarmac, and you can often find pretty decent deals on tires so finding a discount isn’t hard. Range topping rubber will perform for you in so many ways and it’s something I’ll never cheap out on.\nAdam Becket, Senior News and Features Writer\nI am an ordinary cyclist. You might think that working for a cycling magazine gifts me this door into the fanciest tech and the most expensive gear, but alas, not really. This means that I have a - relatively - ordinary bike, which I love. I don’t really spend anything more on it than necessary. I’ve already written a column on why I think\nShimano 105 is the best groupset, and I am yet to be convinced why I would really need anything more expensive for the riding I do.\nThe biggest investment on my bike - aside from the frame itself - I’ve made was the wheels and tyres, both things that I feel you need to spend a decent amount of money on. Not just because they’re so central to the whole bike, but the less time you spend fixing punctures the better, and they can give you a huge advantage if you get the right one.\nThis discussion reminds me, I really need to replace my saddle.\nTom Thewlis - News and Features Writer\nI'd say the main thing that's worth spending more on is a decent saddle for obvious reasons!\nIf you’re going to be putting in some serious miles then you want something that’s more comfortable than what your bike will most likely have come equipped with and that’s going to provide you with the right support while you turn the pedals.\nIt’s worth trying a few out, like you would do on a bike itself, to find what works best for you and is within your price range. My Trek Emonda which I bought a few years ago came with a pretty run of the mill Bontrager saddle.\nThere wasn’t anything majorly wrong with it but I decided to spend a bit more on a Fizik offering and wasn’t disappointed. If you can get your saddle right then the rest will fall into place nicely.\nAs for stuff you can save money on…energy bars! You can easily buy something which does just as good a job from your local supermarket and for half the price at least!\nGot questions -- silly or serious-- you'd like for us to tackle? Please send your questions to .\nThank you for reading 20 articles this month* Join now for unlimited access\nEnjoy your first month for just £1 / $1 / €1\n*Read 5 free articles per month without a subscription\nJoin now for unlimited access\nTry first month for just £1 / $1 / €1\nGet The Leadout Newsletter\nThe latest race content, interviews, features, reviews and expert buying guides, direct to your inbox!\nCycling Weekly's North American Editor, Anne-Marije Rook is old school. She holds a degree in journalism and started out as a newspaper reporter — in print! She can even be seen bringing a pen and notepad to the press conference.\nOriginally from The Netherlands, she grew up a bike commuter and didn't find bike racing until her early twenties when living in Seattle, Washington. Strengthened by the many miles spent darting around Seattle's hilly streets on a steel single speed, Rook's progression in the sport was a quick one. As she competed at the elite level, her journalism career followed, and soon she became a full-time cycling journalist. She's now been a cycling journalist for 11 years.\n-\n-\nNBA Star Luka Dončić gifts Mercedes-brand e-bikes to entire Dallas Mavericks team and staff\nNBA Star Luka Dončić surprised his Dallas Mavericks teammates and staff for the holidays with yet-to-be-released Mercedes-brand Rallye Edition e-bikes, which retail for as much as $7,500.\nBy Kristin Jenny\n-\n‘I no longer had that imposter syndrome’ - Lizzie Deignan on the ride that changed her\nLidl-Trek star looks back on a special moment at the London 2012 Olympic Games\nBy Tom Thewlis Published\n-\n6.8kg bikes, unauthorized feeds, puppy paws — here are the silliest UCI rules that should be done away with\nThe UCI sets some hard rules to keep the sport safe and fair but some rules are just silly.\nBy Anne-Marije Rook Published\n-\nCarbon rim brakes, bar ends and straightforward headsets: cycling tech of old we miss\nAh the good ol' days. What's some cycling tech of old you kind of miss?\nBy Anne-Marije Rook Published\n-\nBooks, heated gloves, steel bottles and a cycling vacation - what our staff is asking for this Christmas\nOpinion is divided among cyclists as to whether to wear your socks over or under your leg warmers. Here's what our staff thinks\nBy Anne-Marije Rook Published\n-\nSRAM, Shimano or Campagnolo? Here's what our staff prefers and why\nOpinion is divided among cyclists as to whether to wear your socks over or under your leg warmers. Here's what our staff thinks\nBy Anne-Marije Rook Published\nView More ▸",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "cw",
+          "sentiment": "none"
+        },
+        {
+          "name": "shimano",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:48:24.716+02:00",
+    "updated": "2023-12-29T00:48:24.716+02:00"
+  },
+  {
+    "uuid": "b36adc93af1c90b00bfc7029aca7e702f832a5ed",
+    "url": "https://www.ilsole24ore.com/art/vento-e-onde-lago-como-salvate-45-persone-AFu5hF4B",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@sole24ore",
+    "published": "2024-06-23T10:09:00Z",
+    "title": "Vento e onde sul lago di Como, salvate 45 persone - Il Sole 24 ORE",
+    "text": "Sono state 45 le persone in barca soccorse dalla serata di ieri a questa mattina sul lago di Como a causa del maltempo con raffiche di vento arrivate a 30 nodi, quindi oltre 50 chilometri orari, che hanno causato mareggiate con onde alte più di un metro. Di queste 36 sono state portate in salvo dalle due unità navali della guardia costiera mentre altre nove da vigili del fuoco, guardia costiera ausiliaria e battello dell’Aerosoccorso di Como. In diversi casi le barche erano incagliate su scogliere e tra gli alberi, in altri casi le imbarcazioni erano in avaria o non riuscivano a manovrare e quindi rischiavano di scontrarsi contro le scogliere rocciose. Le operazioni di soccorso Le operazioni di soccorso alle 12 imbarcazioni che hanno avuto problemi sono state coordinate dalla sala operativa della Guardia Costiera di Salò, che ha questo compito dal 15 giugno. E proprio la guardia costiera invita i diportisti, prima di uscire in barca, a controllare l’efficienza dell’imbarcazione, il carburante, le dotazioni di sicurezza. E anche a controllare il meteo e a portare con sé un telefono con collegamento internet, che permette ai soccorsi di definire con precisione la posizione di chi chiede aiuto",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Health"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-23T13:16:19.974+03:00",
+    "updated": "2024-06-23T13:16:19.974+03:00"
+  },
+  {
+    "uuid": "9d93954ae10da18b48e7c785fd2a8fe717b8f554",
+    "url": "https://www.dailykos.com/stories/2024/6/6/2245153/-The-Alito-flag-controversy-just-keeps-getting-worse",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Davidkc Community",
+    "published": "2024-06-06T00:00:00Z",
+    "title": "The Alito flag controversy just keeps getting worse",
+    "text": "Voter123 has reported on some highlights from a insightful interview that CNN's Erin Burnett conducted yesterday with Emily Baden, the former neighbor of Samuel and Martha-Ann Alito who is at the center of the story regarding the Alitos' scandalous behavior in flying an upside-diwn American flag in their yard in mid-January 2021 as a sign of their solidarity with the January 6 insurrectionists.Baden confirmed some things that had previously been reported about the controversy, but I learned some new details that makes the controversy stink even more. One highlight of the interview, which Voter123 reports on, is that Samuel Alito was clearly lying about the reasons why they flew the up-side down American flag at their home. Alito stated that they flew the flag in response to a verbal altercation with Baden. However, there is a date-stamped photo showing the flag flying on January 17, but Baden said the verbal altercation occurred on February 15, which is confirmed by police records. Baden said that they were feeling so threatened by the Alitos - particularly Martha-Ann - that they felt compelled to call the police. In their complaint to police, Emily Baden and her family accused Martha-Ann Alito of \"umprompted\" harrassment. Baden explains that a few times before the Feb. 15 alercation, Martha-Ann Alito would stop in fron of their house and glare at them, likely in response to their anti-Trunp lawn signs. But the first time she ever spoke to Martha-Ann was on Feb. 15 when Martha-Ann came up to them and started screaming at them (Samuel was with her). Martha-Ann used their full names, which unnerved them and felt like a clear threat. This prompted Emily to call them out: \"You're a stranger. We don't know you, you don't know us. How do you know our full names?...I said, 'How dare you. You're on the highest court in rhe land, you represent the Supreme Court of the United States. You're behaving this way. You're yelling at a neighbor. You're harassing us. How dare you. Shame on you.'\" \"You're a stranger. We don't know you, you don't know us. How do you know our full names?...I said, 'How dare you. You're on the highest court in rhe land, you represent the Supreme Court of the United States. You're behaving this way. You're yelling at a neighbor. You're harassing us. How dare you. Shame on you.'\" But there's another disturbing piece of the story that I learned for the first time from Baden's CNN interview. She noted that the security detail assigned to the Alitos is always in a car parked on the street in front of the Alitos' house. But Baden started seeing the security detail sometimes parked in front of their house, which is 4-5 houses away from the Alitos' house, including on the day that the New York Time \"broke\" the Alitos' upside-down American flag story (although WaPo had actually sat on the story for 3+ years, but I digress). I find it unconscionable that the Alitos would use their security detail to try to intimidate Baden and her family. Baden spoke in the interview about how unnerving and unbelievable it was to see one of the most powerful people in the country, if not the world, trying to intimidate a \"nobody\" everyday citizen. Truly an abuse of power. I also found it interesting that during the Feb. 15 verbal altercation with Martha-Ann Alito, Baden claims that Samuel Alito said and did nothing. “He just kept walking,” Baden said. “And basically disappeared.\" “He just kept walking,” Baden said. “And basically disappeared.\" Baden pointed out that a normal person would have tried to diffuse the situation, but Samuel Alito just walked away and let Martha-Ann rage on. Burnett had noted that Baden was nervous to do the interview, and asked her why she ultimately decided to do it. Here was her kick-ass response: \"I think our democracy is fragile, and we learned that on January 6...We see it all the time with Trump saying he wants to be a dictator. These are serious, serious things. And I just want people, regulat people like myself, to understand that we live in a democracy and we don't have to watch our democracy become a dictatorship or a fascist Christisn nationalist society. We need to pay attention. We need to stand up, organize and resist.\" \"I think our democracy is fragile, and we learned that on January 6...We see it all the time with Trump saying he wants to be a dictator. These are serious, serious things. And I just want people, regulat people like myself, to understand that we live in a democracy and we don't have to watch our democracy become a dictatorship or a fascist Christisn nationalist society. We need to pay attention. We need to stand up, organize and resist.\" I'm so grateful that Emily Baden has had the courage to stand up and speak out. Let's all show her some love and support. UPDATE HughJimBasile asked about the Alitos' security detail, and I was curious too so I did some quick research and found this: The nine (Supreme Court Justices) are protected by the Supreme Court Police Department when in Washington, and outside of D.C., their security is the responsibility of the U.S. Marshals Service, a part of DOJ. The nine (Supreme Court Justices) are protected by the Supreme Court Police Department when in Washington, and outside of D.C., their security is the responsibility of the U.S. Marshals Service, a part of DOJ. So this is different from the secret service. Regardless, I'm not an expert but it looks like our taxpayer dollars are being used by the Alitos to intimidate Americans. I'm just sayin'.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "alito",
+          "sentiment": "negative"
+        },
+        {
+          "name": "erin burnett",
+          "sentiment": "negative"
+        },
+        {
+          "name": "samuel",
+          "sentiment": "none"
+        },
+        {
+          "name": "baden",
+          "sentiment": "none"
+        },
+        {
+          "name": "martha-ann",
+          "sentiment": "none"
+        },
+        {
+          "name": "samuel alito",
+          "sentiment": "none"
+        },
+        {
+          "name": "emily baden",
+          "sentiment": "none"
+        },
+        {
+          "name": "martha-ann alito",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cnn",
+          "sentiment": "negative"
+        },
+        {
+          "name": "alitos",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-07T00:37:42.352+03:00",
+    "updated": "2024-06-07T00:37:42.352+03:00"
+  },
+  {
+    "uuid": "68cb3cce3d073d2a8ca0fc43fe66d92f3cd9a4cd",
+    "url": "https://www.ktiv.com/2024/12/13/friday-saturday-are-first-alert-weather-days-we-are-forecasting-see-sleet-freezing-rain",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ktivnews",
+    "published": "2024-12-13T12:12:00Z",
+    "title": "Friday and Saturday are First Alert Weather Days as we are forecasting to see sleet and freezing rain",
+    "text": "Friday and Saturday are First Alert Weather Days as we are forecasting to see sleet and freezing rain\nSIOUX CITY (KTIV) -\nTODAY, TONIGHT, AND\nTOMORROW’S FORECAT:\nMuch of your Friday will be quiet, cloudy, breezy, and cold, but our attention turns to the later hours of Friday as we are forecasting sleet and ice to impact all of Siouxland.\nThe National Weather Service has put all of Siouxland under a Winter Weather Advisory starting Friday afternoon and lasting into early Saturday.\nTiming this out, we will start to see wintry weather moving in around 5 PM along and south of HWY 20.\nBy 7 and 8 PM, that is when we will see more widespread winter weather impacting Siouxland.\nThe pink color on radar is the wintry mix of sleet and freezing rain.\nThe wintry mix continues into the overnight hours of Friday.\nEarly Saturday morning, we could see another round of wintry mix moving in.\nAgain, this could be either sleet or freezing rain falling across Siouxland.\nAs of right now, this is what we are forecasting to see when it comes to ice.\nIf you live in the yellow, you could see a glaze of a tenth of an inch of ice.\nIf you live in the orange, you could see the most impacts of the ice. We are forecasting y’all to get between a tenth of an inch to up to a quarter of an inch of ice.\nThis will cause a lot of traveling issues this weekend.\nWe are forecasting to mainly see ice and sleet, but there is a small chance of seeing some light snow.\nFor the most part, snow amounts will stay less than one inch.\nBecause of all of the winter weather, we have issued a First Alert Weather Day for Friday and Saturday.\nOnce again, the main focus out of this storm will be the ice and sleet.\nBesides the wintry weather, your Friday will mostly be quiet as clouds increase throughout the day.\nWinds will pick up as well, making it breezy and somewhat cold during the day.\nHighs will be in the mid to low 20s.\nThen by the afternoon and evening, the sleet and freezing rain will begin to move in.\nTonight’s focus will be the sleet and freezing rain falling across Siouxland.\nLows will fall into the teens and low 20s.\nWe are forecasting to see a trace to just under a quarter of an inch of ice.\nYour Saturday will start with a wintry mix of sleet and freezing rain, but as the day progresses, the wintry mix will end.\nHighs will be flirting around 32 degrees during the day on Saturday.\nEXTENDED FORECAST:\nWhatever falls Friday and Saturday will stick around through Saturday night and into Sunday.\nThe good news is that things will melt by Sunday and Monday. We are forecasting highs to climb into the 40s.\nBy the end of next week, cold air arrives again as highs will be in the 20s and 30s.\nStay with KTIV for the most up-to-date look at your forecast.\nCopyright 2024 KTIV. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "National Weather Service",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T15:07:07.579+02:00",
+    "updated": "2024-12-13T15:07:07.579+02:00"
+  }
+]

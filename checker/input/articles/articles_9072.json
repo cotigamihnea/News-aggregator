@@ -1,0 +1,404 @@
+[
+  {
+    "uuid": "8e1524836d77afadf154caaafd0f04782cf4e6c7",
+    "url": "https://news.knowledia.com/GB/en/articles/tesco-increases-price-of-popular-meal-deal-offer-at-shops-04d526bcf20adbec0e6331d4d818b1dd46212979?source=rss",
+    "ord_in_thread": 0,
+    "author": "Molly Court",
+    "published": "2025-05-01T00:13:49Z",
+    "title": "Tesco increases price of popular meal deal offer at shops",
+    "text": "Tesco has changed the price of its popular Finest dine in meal deal for two offer by 25 this week at all UK stores. Molly Court",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Lifestyle and Leisure->house and home",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.heraldseries.co.uk/news/25127861.tesco-increases-price-popular-meal-deal-offer-shops/?ref=rss",
+      "https://heraldseries.co.uk/news/25127861.tesco-increases-price-popular-meal-deal-offer-shops/?ref=rss",
+      "https://www.heraldseries.co.uk/news/25127861.tesco-increases-price-popular-meal-deal-offer-shops/"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Molly Court",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Tesco",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T03:13:49.184+03:00",
+    "updated": "2025-05-01T00:15:44.000+00:00"
+  },
+  {
+    "uuid": "09f9959bb86bba2c4bbe69203ce7b92e89a9619b",
+    "url": "https://www.jsonline.com/story/entertainment/arts/2024/02/29/milwaukee-repertory-theater-sets-date-groundbreaking/72792517007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jim Higgins",
+    "published": "2024-02-29T00:00:00Z",
+    "title": "Milwaukee Repertory Theater sets date for groundbreaking on new home",
+    "text": "Milwaukee Repertory Theater will break ground May 11 on the construction and renovation project that will transform its current location into the new Associated Bank Theater Center. Construction, which is expected to last through the fall of 2025, will completely remake two of the Rep's three performance spaces, as well as create a unified lobby and the new Herzfeld Foundation Education & Engagement Center to serve students. During the 2024-'25 season, the five mainstage productions the Rep normally performs in the Powerhouse will be staged in other theaters, including a fall musical at the Wilson Center in Brookfield. One reason the Rep is rebuilding its mainstage is for greater flexibility and production power, including the addition of a fly loft, which would allow the Rep to whisk scenery on and off from above the stage — something it cannot do in the Powerhouse as presently configured. For every other Rep show next season, including two that will be performed in Marcus Performing Arts Center's Wilson Theater at Vogel Hall, audience members will be able to park in the usual Rep parking lot and eat before the show at the Stackner Cabaret, executive director Chad Bauman said in a recent interview. The groundbreaking is scheduled on the same day as the Rep's annual fundraising gala, the Curtain Call Ball. In a statement, the Rep also announced the cost of the project is now $78 million, up from the previously announced $75 million. The increase is due to \"inflationary cost increases,\" the Rep said. The statement declares that the Rep has raised 92%, or more than $71 million, of the new goal amount. The Rep is offering seat-naming options at different price levels throughout the new Ellen & Joe Checota Powerhouse Theater, Herro-Franke Studio Theater and the Stackner Cabaret. For info, visit MilwaukeeRep.com/TakeASeat. The Rep has dubbed this building fundraising effort its Powering Milwaukee Campaign; its current facility incorporates a historic 1898 Oneida Street Power Station, which was donated by WEC Energy Group. The complex will be named Associated Bank Theater Center; the Rep has a $10 million sponsorship agreement with Associated Bank through 2042. More: Teens challenge fathers in Milwaukee Repertory Theater's spiritual drama 'The Chosen'",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [
+      "https://milwaukeerep.com/powering-milwaukee/",
+      "https://www.milwaukeerep.com/",
+      "https://www.milwaukeerep.com/powering-milwaukee/take-a-seat/",
+      "https://milwaukeerep.com/powering-milwaukee",
+      "https://www.milwaukeerep.com",
+      "https://milwaukeerep.com/",
+      "https://milwaukeerep.com/powering-milwaukee/take-a-seat/",
+      "https://www.milwaukeerep.com/powering-milwaukee/take-a-seat",
+      "https://www.milwaukeerep.com/powering-milwaukee/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jim higgins",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "milwaukee repertory theater",
+          "sentiment": "negative"
+        },
+        {
+          "name": "herzfeld foundation education & engagement center",
+          "sentiment": "none"
+        },
+        {
+          "name": "wilson center",
+          "sentiment": "none"
+        },
+        {
+          "name": "associated bank theater center",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "brookfield",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-01T00:26:31.033+02:00",
+    "updated": "2024-03-01T06:17:57.305+02:00"
+  },
+  {
+    "uuid": "a793042bdb725be48af4843763bf5c8010b5dea1",
+    "url": "https://chinaaid.org/news/pastor-zhao-huaiguo-of-the-bethel-church-in-zhangjiajie-hunan-faces-ongoing-persecution-after-illegally-detained-for-more-than-500-days",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anita Chang",
+    "published": "2025-02-14T20:48:00Z",
+    "title": "Pastor Zhao Huaiguo of the Bethel Church in Zhangjiajie Hunan Faces Ongoing Persecution After illegally detained for more than 500 days",
+    "text": "Unlawful Detention and Ongoing Harassment (Hunan – February 14 , 2025) A house church pastor in Hunan, Zhao Huaiguo, was unlawfully detained for 545 days in 2020 on suspicion of “inciting subversion of state power” after bypassing internet censorship to read news reports and political commentary regarding the COVID-19 pandemic. Recently, Pastor Zhao has been subjected to ongoing attention and harassment by the Hunan police and the Religious Affairs Bureau. His wife has also been fined for participating in online courses.\nArbitrary Detention and Financial Penalties Zhao Huaiguo, the pastor of Bethel Church in Zhangjiajie, Hunan, faced an unlawful search of his home in November 2024 by a group of more than a dozen people from the local government community and the Religious Affairs Bureau. Using the pretext of Pastor Zhao’s wife, Zhang Xinghong, participating in online courses, both Pastor Zhao and his wife were arbitrarily detained for ten days. During this time, authorities intimidated church members into confessing their financial contributions to the pastor and his wife, attempting to fabricate charges against them.\nReports indicate that since the church primarily consists of rural believers, the authorities did not find the evidence they hoped for. However, the local Religious Affairs Bureau still imposed an unfounded penalty of 150,000 yuan under the guise of participating in online courses.\nThe church has expressed its hope to defend its legitimate religious rights through legal channels.\nRepeated Persecution of Bethel House Church and Pastor Zhao Huaiguo In 2020, Pastor Zhao Huaiguo was prosecuted for “inciting subversion of state power” after using software to bypass internet censorship and access foreign media reports regarding the COVID-19 pandemic.\nIn 2007, Pastor Zhao Huaiguo moved from Northeast China to Cili County, Hunan Province, to spread the gospel. That same year, he founded the Bethel House Church. The church was repeatedly pressured by officials to join the state-controlled “Three-Self Patriotic Association,” but the church refused. Since then, local authorities have persistently sought to find fault with Pastor Zhao.\nIn March 2019, the Religious Affairs Bureau of Cili County, Hunan, mobilized nearly fifty personnel from the county’s Bureau of Ethnic and Religious Affairs, Public Security Bureau, and Urban Management to forcibly break open the doors of the Bethel Church. They destroyed church property, tore down religious symbols from the walls, and confiscated Bibles, hymn books, gospel tracts, a piano, and other church belongings.\nOn April 10 of the same year, the Cili County Bureau of Ethnic and Religious Affairs issued a notice ordering the closure of the Bethel House Church. The notice stated that, in accordance with the “Regulations on Religious Affairs,” the Bethel Christian Church was an illegal gathering site and had been banned in accordance with the law. It urged Christian believers to conduct religious activities at lawful religious venues.\nThis demonstrates that the primary reason authorities targeted Pastor Zhao Huaiguo was the repeated refusal of the church he founded to join the state-controlled Three-Self Patriotic Association.\n(Reported by Special Correspondent Gao Zhensai of ChinaAid)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Religion and Belief",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->human smuggling and trafficking",
+      "Crime, Law and Justice->torture",
+      "Crime, Law and Justice->judiciary",
+      "Religion and Belief->religious conflict",
+      "Religion and Belief->christianity",
+      "Social Issue->social problem",
+      "Social Issue->discrimination",
+      "Social Issue->religious discrimination"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Zhao Huaiguo",
+          "sentiment": "none"
+        },
+        {
+          "name": "Zhang Xinghong",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Bethel Church",
+          "sentiment": "none"
+        },
+        {
+          "name": "Religious Affairs Bureau",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Zhangjiajie",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-15T07:00:01.098+02:00",
+    "updated": "2025-02-15T07:00:01.098+02:00"
+  },
+  {
+    "uuid": "a4ff6d159d8226d42fadab6de59e72604cc340fa",
+    "url": "https://wamiz.com/actu/182256/ce-veau-sauve-de-la-maltraitance-ne-va-nulle-part-sans-ses-deux-gardes-du-corps-video",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Wamiz_fr",
+    "published": "2024-10-03T17:23:00Z",
+    "title": "Au refuge, un veau sauvé de la maltraitance ne va nulle part sans ses deux « gardes du corps » (vidéo)",
+    "text": "En janvier 2024, les sauveteurs du refuge ont porté secours à Nimai, un veau d'à peine 1 jour. Le veau a été sauvé d'une situation dans laquelle lui et de nombreux autres animaux étaient négligés. Il était si petit que les sauveteurs ont d'abord pensé qu'il était mort. Des soins adaptés Nimai a eu besoin d'un peu de temps pour prendre ses repères à la ferme. Les sauveteurs lui prodiguaient également des soins adaptés car le veau avait très peu d'énergie quand il est arrivé. Lorsque les [chiots de Montagnes des Pyrénées](https://wamiz.com/chiens/chien-de-montagne-des-pyrenees-130#:~:text=Bienveillant%20et%20loyal%2C%20le%20Chien,dense%20n%C3%A9cessite%20un%20brossage%20r%C3%A9gulier.) Tofu et Tempeh, âgés de 3 mois, sont arrivés au refuge, les trois animaux sont devenus inséparables. Les sauveteurs de Happy Compromise Farm + Sanctuary ont tout de suite remarqué que Nimai, Tofu et Tempeh avaient un lien spécial. Les trois compères sont nés à seulement deux semaines d'intervalle et ils avaient la même taille. Il faut savoir que les vaches grandissent plus lentement que les chiens, et comme il est orphelin, Nimai se développe lentement. Jamais sans leur meilleur ami Tofu et Tempeh surveillent Nimai de si près qu'on dirait qu'ils agissent comme ses gardes du corps ! Ils font tout pour le protéger et s'assurent qu'il n'est jamais seul. En tant que chiots, Tofu et Tempeh débordent d'enthousiasme. Nimai, en revanche, a un comportement plus calme. Malgré leurs différences, les trois meilleurs amis s'entendent à merveille, pour le plus grand bonheur de leurs sauveteurs !",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T01:24:23.026+03:00",
+    "updated": "2024-10-04T01:24:23.026+03:00"
+  },
+  {
+    "uuid": "4c333db11c7d82b95c3759eb2de2fca04cdba5c9",
+    "url": "https://www.india.com/news/delhi/over-100-flights-delayed-at-delhi-airport-due-to-bad-weather-spicejet-caution-passengers-as-visibility-drops-to-zero-7511399",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Analiza Pathak",
+    "published": "2025-01-03T04:14:00Z",
+    "title": "Over 100 flights delayed at Delhi airport due to bad weather, SpiceJet caution passengers as visibility drops to zero",
+    "text": "Over 100 flights were delayed at Delhi airport on Friday morning due to adverse weather, with many others facing further scheduling disruptions. The dense fog in the national capital caused visibility to drop to zero. “Landing and takeoffs are ongoing at Delhi Airport; however, flights not equipped with CAT III capabilities might experience delays. Passengers are advised to check with their respective airlines for updated flight details. We regret any inconvenience caused,” Delhi International Airport Limited (DIAL) shared in a post on X at 6:35 am.\nThe CAT III system allows aircraft to operate in low-visibility conditions. The Indira Gandhi International Airport (IGIA), managed by DIAL, handles about 1,300 aircraft movements daily.\nIndiGo, SpiceJet issue advisory IndiGo and SpiceJet, both prominent low-cost carriers, also issued advisories on social media, warning passengers about potential weather-related delays. According to aviation tracking website FlightRadar24, as of 10:14 a.m., delays averaged around eight minutes for 20 flights.\nWinter weather can be fickle, and we assure you that our teams are working diligently to minimise the impact on your travel plans. Thank you for your patience and understanding.\n— IndiGo (@IndiGo6E) January 3, 2025\n#WeatherUpdate : Due to bad weather in Delhi (DEL), all departures/arrivals and their consequential flights might get affected. Passengers are requested to keep a check on their flight status via https://t.co/2wynECZugy .\n— SpiceJet (@flyspicejet) January 3, 2025\nA dense smog blanketed Delhi, triggering warnings from airport and airline officials about potential flight disruptions as deteriorating air quality reduced visibility to zero in some regions.\nDelhi, grappling with persistent smog and declining air quality since the onset of winter, was ranked the third most polluted capital globally in live rankings released by Swiss air quality monitoring group IQAir on Friday.\nWhat IMD said on Delhi weather The India Meteorological Department (IMD) has forecasted that the cold wave in Delhi will persist for the next few days. According to IMD, “dense to very dense fog” is expected to continue today and tomorrow, affecting visibility and weather conditions.\nThe minimum temperature in the capital is predicted to be around 8.5 degrees Celsius, with a maximum temperature of approximately 20 degrees Celsius. Additionally, light to moderate rainfall is anticipated in Delhi on January 6, providing some respite from the prevailing dry and foggy conditions.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Weather->weather phenomena"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T09:11:52.099+02:00",
+    "updated": "2025-01-03T11:38:50.802+02:00"
+  },
+  {
+    "uuid": "d3395235733bf15d55671d06e55e10621c96cb4c",
+    "url": "https://www.app.com/story/entertainment/television/2024/03/08/wrestlemania-philadelphia-wwe-undertaker-one-man-show-fillmore/72898289007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", Asbury Park Press",
+    "published": "2024-03-08T18:38:00Z",
+    "title": "Wrestlemania week in Philly starts with Undertaker one-man show",
+    "text": "WWE's Undertaker bringing 1deadMAN SHOW to Philly during Wrestlemania week Dead men don't dance. But apparently, they do tell stories. And on April 4 at the Fillmore in Philadelphia, the professional wrestler known the world over as the Undertaker will do just that. UNDERTAKER 1 deadMAN SHOW will take center stage two days before the city hosts Wrestlemania 40. The Undertaker, also known as Mark Calloway, spent decades entertaining fans as one of the top wrestlers in World Wrestling Entertainment. He's been in the ring with everyone you can imagine and was known as the leader of WWE for most of his stint. The show tells stories of his career, and has been an extremely popular ticket. It's also sold out venues in Nashville, Boston, San Antonio and Australia since debuting in 2022. World Wrestling Entertainment is taking over Philadelphia, beginning with the one-man show. Friday, WWE will hold a live Smackdown taping at the Wells Fargo Center. After the taping WWE will hold its annual Hall of Fame ceremony with Paul Heyman, former owner of Philly-based ECW getting inducted. Saturday, WWE will hold an NXT premium live event Stand and Deliver, at the Wells Fargo Center. The main event will be Saturday and Sunday when WWE holds Wrestlemania 40 at Lincoln Financial Field. While the card is still isn't official, the Rock and Roman Reigns have challenged Cody Rhodes and Seth Rollins to a match on Saturday. That would likely mean Sunday would include Reigns defending his championship against Rhodes and Rollins will defend his championship against Drew McIntyre. And on Monday, WWE will present its most popular Monday Night Raws of the year, the one after Wrestlemania, at the Wells Fargo Center. Tickets for UNDERTAKER 1 deadMAN SHOW go on sale Wednesday, March 13 at 10 a.m. ET. An exclusive presale opportunity will be available starting Tuesday, March 12 at 10 a.m. ET at https://www.ticketmaster.com/event/02006067C3086197. A limited number of VIP tickets, which include premier seating and a meet-and-greet with The Undertaker, will also be available.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://www.ticketmaster.com/event/02006067C3086197.",
+      "https://ticketmaster.com/event/02006067C3086197."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "paul heyman",
+          "sentiment": "none"
+        },
+        {
+          "name": "mark calloway",
+          "sentiment": "none"
+        },
+        {
+          "name": "wells farg",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "undertaker",
+          "sentiment": "none"
+        },
+        {
+          "name": "ecw",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "philad",
+          "sentiment": "none"
+        },
+        {
+          "name": "philly",
+          "sentiment": "none"
+        },
+        {
+          "name": "san antonio",
+          "sentiment": "none"
+        },
+        {
+          "name": "nashville",
+          "sentiment": "none"
+        },
+        {
+          "name": "australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "philadelphia",
+          "sentiment": "none"
+        },
+        {
+          "name": "boston",
+          "sentiment": "none"
+        },
+        {
+          "name": "wells fargo center",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-08T20:56:45.842+02:00",
+    "updated": "2024-03-08T22:19:21.708+02:00"
+  },
+  {
+    "uuid": "cd871e06302aac16402d1bd636dc44b3ed859742",
+    "url": "https://www.elespanol.com/valencia/economia/20240412/facsa-lidera-proyecto-inteligencia-artificial-reutilizar-aguas-residuales-sector-agricola/847165276_0.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EL ESPAÑOL",
+    "published": "2024-04-11T23:05:19Z",
+    "title": "Facsa lidera un proyecto de inteligencia artificial para reutilizar aguas residuales en el sector agrícola",
+    "text": "El proyecto iRAIN , liderado por Facsa , tiene como objetivo desarrollar un innovador sistema de gestión de recursos hídricos a través de la investigación de nuevos sistemas y tecnologías para regenerar y reutilizar aguas residuales y sus nutrientes para uso agrícola de forma segura. Todo ello, a través de la aplicación de herramientas avanzadas híbridas que combinen monitorización e inteligencia artificial mediante la fusión de datos de satélites, drones, robots agrícolas y redes de sensores.\nFacsa, empresa dedicada a la gestión del ciclo integral del agua desde hace 150 años, lidera un consorcio multidisciplinar creado específicamente para este proyecto que congrega a 10 entidades de diversa naturaleza. Por un lado, empresas como Giditek -también perteneciente a Grupo Gimeno -, Aquacorp, Azud, Airbus, Telespazio, Saltó y Akis y, por otro, dos Centros Tecnológicos, EURECAT y CATEC, que garantizan la transferencia de conocimiento necesaria para alcanzar las novedades disruptivas que se proponen en el proyecto iRAIN.\nTal y como han indicado desde el consorcio iRAIN, \"la finalidad de iRAIN es mejorar sustancialmente la gestión y el aprovechamiento de las aguas residuales, luchar contra la escasez hídrica y rentabilizar al máximo y de forma eficiente, tanto la práctica de reutilización, como los recursos regenerados y recuperados\".\nRepresentantes de todas estas entidades se han dado cita en la EDAR de Pliego y en las Instalaciones de la Comunidad de Regantes de Pliego donde se van a llevar a cabo gran parte de las actividades de este innovador proyecto. Durante el encuentro, los y las asistentes han analizado el plan de trabajo del proyecto que han dividido en cuatro actividades -tres de investigación industrial y uno de desarrollo experimental-.\nLa primera actividad se centrará en investigar técnicas de regeneración de agua y recuperación de nutrientes para uso agrícola, la segunda en investigar técnicas avanzadas de monitorización de la calidad del agua y el estado del cultivo. Por su parte, la tercera estudiará y diseñará soluciones digitales orientadas a la gestión combinada y optimizada de la actividad de plantas de tratamiento de aguas residuales con tratamiento terciario y gestión de aguas regeneradas para plantear diferentes usos de su efluente, entre ellos, la fertirrigación.\nFinalmente, la actividad cuarta servirá para evaluar las mejoras e impacto mediante validación en entornos realistas. Este proyecto se enmarca dentro de 'TransMisiones', una iniciativa del Centro de Desarrollo Tecnológico y de Innovación (CDTI) y de la Agencia Estatal de Investigación (AEI) por la que se coordina la financiación a agrupaciones de empresas y a agrupaciones de organismos de investigación y de difusión de conocimiento que colaboran para el desarrollo conjunto de una actuación coordinada de I+D, que dé respuesta a desafíos ambientales tales como la optimización de la gestión hídrica.\nEl CDTI, Entidad Pública Empresarial dependiente del Ministerio de Ciencia, Innovación y Universidades, apoya este proyecto a través de una subvención de 2.060.186 euros y por parte de la AEI, entidad también dependiente del Ministerio, este proyecto recibe 1.753.158 euros de financiación.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-12T02:05:20.011+03:00",
+    "updated": "2024-04-12T02:05:20.011+03:00"
+  }
+]

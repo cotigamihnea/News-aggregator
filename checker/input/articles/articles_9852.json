@@ -1,0 +1,631 @@
+[
+  {
+    "uuid": "7483a7be01a822aa8e1604032cbf94f08a5e0340",
+    "url": "https://www.ctpublic.org/2023-12-29/connecticut-jumps-ahead-of-massachusetts-as-4-of-6-new-england-states-boost-their-minimum-wages",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@samhudzik",
+    "published": "2023-12-29T21:18:00Z",
+    "title": "Connecticut jumps ahead of Massachusetts, as 4 of 6 New England states boost their minimum wages | Connecticut Public",
+    "text": "Connecticut jumps ahead of Massachusetts, as 4 of 6 New England states boost their minimum wages Minimum wages go up in four of the six New England states on January 1. For years, Massachusetts has led the minimum wage race in New England. That ends in 2024, when Connecticut's rate — now tied to inflation — goes from $15 an hour to $15.69. At a [September press conference](https://portal.ct.gov/Office-of-the-Governor/News/Press-Releases/2023/09-2023/Governor-Lamont-Announces-Minimum-Wage-Will-Increase-in-January), Lt. Gov. Susan Bysiewicz, estimated the increase will mean a direct raise for 10% of Connecticut workers. And it'll put upward pressure on wages for others, Gov. Ned Lamont said, as many businesses have to go well over the minimum to attract employees. \"You're going to have to pay a little more to make it worth it,\" Lamont said. The minimum wage in Massachusetts is holding steady at $15 an hour, with no scheduled increases on the books. Rates in Maine ($14.15), Rhode Island ($14) and Vermont ($13.67) all increase on Jan. 1. New Hampshire's rate has long been stuck at the federal minimum wage of $7.25 an hour, last raised in 2009. While proposals to increase Massachusetts' minimum wage have not advanced in the past year, a coalition of groups is pushing for a ballot question to get rid of the state's lower minimum wage for tipped workers. Employers are supposed to make up the difference between the $6.75 rate and the state's $15 minimum wage, but [studies](https://files.epi.org/2014/EPI-CWED-BP379.pdf) have found confusion and logistical hurdles to this happening. Another proposal would boost the state's lower rate for some farm workers. At a Massachusetts [legislative hearing](https://malegislature.gov/Events/Hearings/Detail/4762) this fall, advocates pointed out what many in the state don't know about minimum wage rules. \"Fifteen dollars an hour for virtually everybody except farm workers, who get $8 an hour,\" said Bill Newman, a lawyer with the Massachusetts ACLU. \"That's the law.\" There are another set of farm workers, those in the United State with federal visas, who are entitled to a federal prevailing wage topping $16 an hour, attorney and Western New England University law professor Claudia Quintero told lawmakers. But those protections do not apply to farm workers who are year-round residents of Massachusetts, she said. \"Many of the workers are seasonal,\" Quintero said. \"And many struggle with basic necessities during the winter months.\" Quintero, who leads the Fairness for Farmworkers Coalition, noted these workers also have no overtime protections. Both issues are addressed in [pending legislation](https://malegislature.gov/Bills/193/S1837). The state Farm Bureau [opposes the bill](https://mfbf.net/file/95/WhitePaper2023_FinalFinal316-1.pdf) because of the overtime changes, but is [open to doing away](https://mfbf.net/file/93/Policy%20Book%202023.pdf) with lower minimum wage, saying most farms pay [much more](https://mfbf.net/file/47/NewsandViews_AugSept2021Web.pdf). A sponsor of the bill, state Sen. Adam Gomez, of Springfield, said the proposal does not currently have momentum on Beacon Hill. \"The conversation is still ongoing and moving. There's no dead-set kind of moving forward that we're going to see any kind of traction with the Legislature on this bill,\" Gomez said in an interview. \"But we want to make sure that were still advocating for the ... voices of the voiceless.\" Gomez acknowledged these are not easy times for farm owners given this year's flooding. But he noted the state has provided millions of dollars in relief, and wants to make sure that aid also reaches agriculture's lowest-paid workers. NEPM's Elizabeth Román contributed to this report.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Economy, Business and Finance",
+      "Labor"
+    ],
+    "external_links": [
+      "https://files.epi.org/2014/EPI-CWED-BP379.pdf)",
+      "https://malegislature.gov/Events/Hearings/Detail/4762)",
+      "https://portal.ct.gov/Office-of-the-Governor/News/Press-Releases/2023/09-2023/Governor-Lamont-Announces-Minimum-Wage-Will-Increase-in-January),",
+      "https://malegislature.gov/Bills/193/S1837).",
+      "https://mfbf.net/file/47/NewsandViews_AugSept2021Web.pdf).",
+      "https://mfbf.net/file/95/WhitePaper2023_FinalFinal316-1.pdf)",
+      "https://mfbf.net/file/93/Policy%20Book%202023.pdf)",
+      "https://www.malegislature.gov/Events/Hearings/Detail/4762)",
+      "https://www.portal.ct.gov/Office-of-the-Governor/News/Press-Releases/2023/09-2023/Governor-Lamont-Announces-Minimum-Wage-Will-Increase-in-January),",
+      "https://www.mfbf.net/file/47/NewsandViews_AugSept2021Web.pdf).",
+      "https://www.files.epi.org/2014/EPI-CWED-BP379.pdf)",
+      "https://www.mfbf.net/file/95/WhitePaper2023_FinalFinal316-1.pdf)",
+      "https://www.malegislature.gov/Bills/193/S1837).",
+      "https://www.mfbf.net/file/93/Policy%20Book%202023.pdf)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ned lamont",
+          "sentiment": "none"
+        },
+        {
+          "name": "lamont",
+          "sentiment": "none"
+        },
+        {
+          "name": "susan bysiewicz",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "connecticut public connecticut",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "massachusetts",
+          "sentiment": "none"
+        },
+        {
+          "name": "connecticut",
+          "sentiment": "none"
+        },
+        {
+          "name": "england",
+          "sentiment": "none"
+        },
+        {
+          "name": "vermont",
+          "sentiment": "none"
+        },
+        {
+          "name": "rhode island",
+          "sentiment": "none"
+        },
+        {
+          "name": "maine",
+          "sentiment": "none"
+        },
+        {
+          "name": "new england",
+          "sentiment": "none"
+        },
+        {
+          "name": "new hampshire",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T00:07:48.924+02:00",
+    "updated": "2023-12-30T00:07:48.924+02:00"
+  },
+  {
+    "uuid": "10c348bef971b26742fc16285e856f929f5a6093",
+    "url": "https://www.fox4news.com/tag/college-sports",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@FOX4",
+    "published": "2023-12-29T04:59:00Z",
+    "title": "College Sports",
+    "text": "[TCU women's basketball team forced to forfeit 2 games](/sports/tcu-womens-basketball-team-forced-to-forfeit-2-games) An unusual situation forced the Texas Christian University women’s basketball program to forfeit two of its games this week. [Michigan completes 3-year climb defeating Washington for national title](/news/michigan-completes-three-year-climb-defeating-washington-for-national-title) Jim Harbaugh's Michigan Wolverines sealed their first national title since 1997 with Blake Corum running for 134 yards and two fourth-quarter touchdowns. [College Football Playoff National Championship: Houston events, free concerts](/sports/cfp-national-championship-game-houston-events) The College Football Playoff (CFP), in conjunction with the College Football Playoff Foundation (CFPF) and the 2024 Houston Host Committee, reveals the event schedule for the highly anticipated 2024 CFP National Championship. [Grambling State women's basketball sets record with 141-point victory](/sports/grambling-state-womens-basketball-sets-record-with-141-point-victory) Grambling State topped The College of Biblical Studies 159-18 on Tuesday night. [Texas Sen. Ted Cruz slams 'curse' narrative after Longhorns lose Sugar Bowl](/sports/ted-cruz-curse-sporting-events) The story of the \"Ted Cruz Curse\" gained steam on Monday after Cruz was spotted in burnt orange at the Sugar Bowl game between UT and Washington. [Michael Penix Jr. leads No. 2 Washington to 37-31 victory over Texas and spot in national title game](/sports/michael-penix-jr-leads-no-2-washington-to-37-31-victory-over-texas-and-spot-in-national-title-game) Michael Penix Jr. passed for 430 yards and two touchdowns as No. 2 Washington beat No. 3 Texas 37-31 in the Sugar Bowl to advance to the College Football Playoff championship game, earning the beleaguered Pac-12 one more game this season. [Washington, Texas meet in Sugar Bowl CFP semifinal behind coaches with very different career paths](/sports/washington-texas-coaches) Washington coach Kalen DeBoer and Texas’ Steve Sarkisian will meet Monday night in the College Football Playoff. The coaches have career paths career paths that could not be more different. [No. 9 Missouri beats No. 7 Ohio State 14-3 in Cotton Bowl](/sports/cotton-bowl-2023) Missouri beat Ohio State 14-3 in the Cotton Bowl Friday night at AT&T Stadium in Arlington. [No. 14 Arizona forces 6 turnovers, rallies to beat No. 12 Oklahoma 38-24 in Alamo Bowl](/sports/oklahoma-arizona-alamo-bowl-2023) Gunner Maldonado returned a fumble 87 yards for a touchdown and also had an interception as No. 14 Arizona forced six turnovers in a 38-24 comeback victory over No. 12 Oklahoma on Thursday night in the Valero Alamo Bowl. [Battle of the Bands held ahead of Cotton Bowl Classic football game](/news/battle-of-the-bands-cotton-bowl-classic) The annual Cotton Bowl Classic kicks off Friday at AT&T Stadium in Arlington, but on Thursday, it was a showdown of marching bands. [Thomas Castellanos' 2 fourth-quarter TDs lift BC over No. 17 SMU in Fenway Bowl](/sports/smu-boston-college-fenway-bowl-2023) Boston College beat No. 17 SMU 23-14 on Thursday in the Fenway Bowl. [Owens, Presley help No. 22 Oklahoma State beat Texas A&M 31-23 in Texas Bowl](/sports/texas-am-oklahoma-state) Oklahoma State got a 31-23 victory over Texas A&M in the Texas Bowl. [Morton and Brooks lead Texas Tech past California 34-14 in Independence Bowl](/sports/texas-tech-california-independence-bowl) Behren Morton completed 27 of 43 passes for 256 yards and three first-half touchdowns, leading Texas Tech to a 34-14 victory over California in the Independence Bowl. [Texas boy's reaction to Longhorns making playoffs goes viral](/news/texas-boys-reaction-to-longhorns-making-playoffs) An 11-year-old boy's reaction to the Texas Longhorns making the college football playoffs has gone viral. It's even caught the attention of the university's president. [Texas-OU game to remain at Cotton Bowl through 2036](/sports/texas-ou-red-river-rivalry-cotton-bowl) The deal includes an agreement for the City of Dallas to make upgrades at the Cotton Bowl. [Boston College to face No. 17 SMU in Fenway Bowl; preview of future ACC matchup](/sports/smu-boston-college-fenway-bowl) SMU will take on Boston College in the Fenway Bowl in Boston on December 28. [Late-season surges bring California, Texas Tech to 2nd-ever meeting, this time in Independence Bowl](/sports/texas-tech-cal-independence-bowl) Texas Tech will take on Cal in the Independence Bowl in Shreveport, Louisiana, on December 16. [No. 22 Oklahoma State takes on Texas A&M in Texas Bowl](/sports/texas-am-oklahoma-state-texas-bowl) Oklahoma State will take on Texas A&M in the Texas Bowl in Houston on December 27. [No. 12 Oklahoma to face No. 14 Arizona in Alamo Bowl](/sports/oklahoma-arizona-alamo-bowl) Oklahoma will face Arizona in the Alamo Bowl in San Antonio on December 28. [Florida State's exclusion marks historic moment in college football playoff](/sports/florida-states-exclusion-marks-historic-moment-in-college-football-playoff) Michigan, Washington, Texas and Alabama were selected to the College Football Playoff on Sunday, making Florida State the first unbeaten Power Five conference champion to be excluded from the four-team field.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "thomas castellanos",
+          "sentiment": "none"
+        },
+        {
+          "name": "owens",
+          "sentiment": "none"
+        },
+        {
+          "name": "brooks",
+          "sentiment": "none"
+        },
+        {
+          "name": "morton",
+          "sentiment": "none"
+        },
+        {
+          "name": "maldonado",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "oklahoma",
+          "sentiment": "negative"
+        },
+        {
+          "name": "texas a&m",
+          "sentiment": "none"
+        },
+        {
+          "name": "oklahoma state",
+          "sentiment": "none"
+        },
+        {
+          "name": "boston college",
+          "sentiment": "none"
+        },
+        {
+          "name": "texas tech",
+          "sentiment": "none"
+        },
+        {
+          "name": "smu",
+          "sentiment": "none"
+        },
+        {
+          "name": "at&t",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "alamo bowl",
+          "sentiment": "none"
+        },
+        {
+          "name": "arizona",
+          "sentiment": "none"
+        },
+        {
+          "name": "oklahoma state",
+          "sentiment": "none"
+        },
+        {
+          "name": "oklahoma",
+          "sentiment": "none"
+        },
+        {
+          "name": "texas",
+          "sentiment": "none"
+        },
+        {
+          "name": "texas bowl",
+          "sentiment": "none"
+        },
+        {
+          "name": "california",
+          "sentiment": "none"
+        },
+        {
+          "name": "fenway bowl",
+          "sentiment": "none"
+        },
+        {
+          "name": "valero alamo bowl",
+          "sentiment": "none"
+        },
+        {
+          "name": "arlington",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T07:32:01.987+02:00",
+    "updated": "2024-01-21T19:32:45.368+02:00"
+  },
+  {
+    "uuid": "d5af3f1f980c5611c33cfb9b48b4c2588debe74e",
+    "url": "https://english.newstracklive.com/news/indian-air-force-chief-highlights-investment-in-nextgen-warfare-technology-sc1-nu318-ta318-1312614-1.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@newstrack_eng",
+    "published": "2024-03-09T04:05:00Z",
+    "title": "Indian Air Force Chief Highlights Investment in Next-Gen Warfare Technology | NewsTrack English 1",
+    "text": "Chennai: The Air Chief Marshal V R Chaudhari emphasized the significant transformation occurring in warfare due to advancements in technology and newer doctrines. Addressing the challenges faced by India's security landscape, Chaudhari stressed the need for multi-domain capabilities to tackle diverse threats effectively. He urged young officers to stay updated with technological advancements, recognizing the pivotal role they play in the country's defense. Highlighting the substantial investments made by the Armed Forces in acquiring next-generation war-fighting machines, Chaudhari emphasized the importance of rigorous training and professionalism among future operators. He underscored the necessity for officers to grasp the complexities of the modern world through the study of military history, geopolitics, and international affairs. Quoting Field Marshal Sam Manekshaw, Chaudhari reiterated the nation's expectation of exceptional professionalism and integrity from its officers. He urged them to uphold the highest standards of personal conduct and moral values. In a ceremony at the Officers Training Academy (OTA) in Chennai, 184 officer cadets and 36 women cadets were commissioned into various arms and services of the Indian Army after completing rigorous training. Additionally, three officer cadets and six women cadets from friendly foreign countries successfully completed their training, promoting cooperation across borders. During the ceremony, the Air Chief Marshal presented awards including the sword of honor, silver medal, OTA gold medal, and bronze medal to deserving cadets for their outstanding performance and dedication. [IAF Set to Receive Advanced Radars and Air Defence Systems Worth Rs 13,000 Cr](https://english.newstracklive.com/news/iaf-set-to-receive-advanced-radars-and-air-defence-systems-worth-rs-13000-cr-sc71-nu318-ta318-1311822-1.html) [President Murmu to Award 'Standard and Colours' to Four IAF Units](https://english.newstracklive.com/news/president-murmu-to-award-standard-and-colours-to-four-iaf-units-sc1-nu318-ta318-1312507-1.html) हिंदी न्यूज़ - [https://mpinfo.org/RSSFeed/RSSFeed_News.xml ](https://mpinfo.org/RSSFeed/RSSFeed_News.xml) इंग्लिश न्यूज़ - [https://mpinfo.org/RSSFeed/RSSFeed_EngNews.xml](https://mpinfo.org/RSSFeed/RSSFeed_EngNews.xml)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://mpinfo.org/RSSFeed/RSSFeed_News.xml",
+      "https://mpinfo.org/RSSFeed/RSSFeed_EngNews.xml",
+      "https://mpinfo.org/RSSFeed/RSSFeed_News.xml)",
+      "https://mpinfo.org/RSSFeed/RSSFeed_EngNews.xml)",
+      "https://www.mpinfo.org/RSSFeed/RSSFeed_EngNews.xml",
+      "https://www.mpinfo.org/RSSFeed/RSSFeed_EngNews.xml)",
+      "https://www.mpinfo.org/RSSFeed/RSSFeed_News.xml",
+      "https://www.mpinfo.org/RSSFeed/RSSFeed_News.xml)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "v r chaudhari",
+          "sentiment": "negative"
+        },
+        {
+          "name": "chaudhari",
+          "sentiment": "none"
+        },
+        {
+          "name": "sam manekshaw",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "armed forces",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "chennai",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-09T09:03:47.042+02:00",
+    "updated": "2024-03-09T09:03:47.042+02:00"
+  },
+  {
+    "uuid": "e916b30d1f875f91e4c412e63c7f60dc7c996bf1",
+    "url": "https://stackoverflow.com/questions/77883153/my-php-contact-us-form-will-not-let-me-input-information-in-it",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sakara Anderson Sakara Anderson 1",
+    "published": "2024-01-25T21:56:00Z",
+    "title": "My php contact us form will not let me input information in it",
+    "text": "You should exit if the connection failed, not continue to the code that tries to use $con .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:01:33.410+02:00",
+    "updated": "2024-01-26T04:13:05.782+02:00"
+  },
+  {
+    "uuid": "5eb71ba5ed54acd9c3594ca46ca4f977c02bc4c8",
+    "url": "https://www.theleader.com.au/story/8472243/severe-thunderstorms-forecast-for-east-coast/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@francophileenoz",
+    "published": "2023-12-28T14:46:00Z",
+    "title": "Severe Thunderstorms Forecast for East Coast | St George & Sutherland Shire Leader | St George, NSW",
+    "text": "After bouts of wild weather over Christmas, the east coast will face another round of severe thunderstorms and rain according to the Bureau of Meteorology's (BoM) latest forecast. Severe thunderstorms have eased across eastern Australia but are expected to redevelop around eastern Queensland and northeast NSW from December 30 into the New Year. Parts of Australia are set to face wet and potentially wild weather on New Years Eve and New Year's Day. BoM senior meteorologist Sarah Scully said isolated thunderstorms are possible for parts of Queensland, NSW, Victoria and South Australia. \"Severe thunderstorms are possible in Queensland between St Lawrence and Redcliffe, although activity will not be as widespread compared to previous days,\" Ms Scully said. \"Isolated gusty thunderstorms are also possible over western South Australia.\" Showers and storms are possible across parts of southern and eastern Australia, mainly NSW, eastern South Australia, and northern Victoria on December 29. There is a risk of severe thunderstorms in Sydney, the Blue Mountains and the Hunter regions. Severe thunderstorms will become more widespread from this weekend concentrating in north-east NSW, and south-east and central Queensland. BoM said there are indications that isolated, very dangerous thunderstorms with destructive winds, giant hail and intense rainfall may be possible across southeast Queensland on Saturday. BoM has encouraged the community to stay up to date with the latest forecasts and warnings using the BOM Weather app and website. Queensland will also experience heatwave conditions along the east coast affecting Brisbane, the Sunshine Coast and areas surrounding Cairns. Northern and Western Australia will also face heatwave conditions with temperatures reaching the mid to high 40 degree Celsius in some areas. Sign up for our newsletter to stay up to date. We care about the protection of your data. Read our [Privacy Policy](/privacy/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "victoria",
+          "sentiment": "none"
+        },
+        {
+          "name": "scully",
+          "sentiment": "none"
+        },
+        {
+          "name": "sarah scully",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "east coast | st george & sutherland shire",
+          "sentiment": "negative"
+        },
+        {
+          "name": "st george",
+          "sentiment": "negative"
+        },
+        {
+          "name": "bureau of meteorology",
+          "sentiment": "none"
+        },
+        {
+          "name": "redcliffe",
+          "sentiment": "none"
+        },
+        {
+          "name": "nsw",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "blue mountains",
+          "sentiment": "none"
+        },
+        {
+          "name": "victoria",
+          "sentiment": "none"
+        },
+        {
+          "name": "australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "st lawrence",
+          "sentiment": "none"
+        },
+        {
+          "name": "sydney",
+          "sentiment": "none"
+        },
+        {
+          "name": "queensland",
+          "sentiment": "none"
+        },
+        {
+          "name": "south australia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T04:17:34.386+02:00",
+    "updated": "2023-12-29T04:17:34.386+02:00"
+  },
+  {
+    "uuid": "d4bca08c8cb14a9bf9005a0ac562391c38f3e092",
+    "url": "https://www.howtogeek.com/google-notebooklm-discover-sources",
+    "ord_in_thread": 0,
+    "author": "Jorge A. Aguilar",
+    "published": "2025-04-02T21:01:00Z",
+    "title": "Google NotebookLM Can Now Try to Find Sources for You",
+    "text": "NotebookLM, the AI-powered notebook and research tool with Google Gemini, just received yet another update. Google has added 'Discover sources' as a new option to help you find sources for whatever you're working on.\nWith the new Discover Sources feature in NotebookLM, users can now do web searches directly within the app, saving time and effort. The new 'Discover' button can be found in the Sources pane next to the 'Add' button. When users click this button, a search box will appear that asks them to describe their topic of interest. After entering a topic, NotebookLM's advanced search engine, powered by Google's Gemini technology, kicks into action.\nNotebookLM then searches the web and collects possible sources related to the user’s request. The app then uses advanced algorithms to review these sources and pick the most relevant and credible ones, considering factors like content quality and how well they match the topic. The outcome is a curated list of up to ten recommended sources, presented clearly.\nEach source comes with a short, annotated summary that explains its relevance to the user's query, making it easy to assess and choose. This annotation feature greatly cuts down the time needed to sort through many search results, focusing on those most useful to the user.\nUsers can fully control which sources they want to add to their NotebookLM project. They can select all ten recommended sources at once or pick the ones that suit their needs best. Once added, these sources integrate seamlessly into the NotebookLM ecosystem and are ready for use in features like Audio Overviews, FAQs, and Q&A functions.\nThis should make a more efficient workflow and allow users to utilize their new sources within existing projects without interruption. Moreover, these sources stay accessible in the notebook for later review, citation, and note-taking. For newcomers or those seeking inspiration, Google will also add an 'I'm Feeling Curious' button. This is found beneath the text field and generates sources for random topics.\nGoogle is using its advanced Gemini AI model to operate NotebookLM. Gemini’s powerful abilities let NotebookLM execute complex web searches, analyze results, and curate highly relevant sources quickly. This strong engine provides a level of accuracy and efficiency that surpasses traditional search methods.\nRelated\nGemini's New Canvas Feature is The Ultimate Writing/Coding Buddy\nWhile you probably don't want a whole program written by AI, it can help you come up with solutions in specific snippets so your code is more efficient and functional. If you're going to do that, though, you might as well use it with Gemini's Canvas—it will make it way easier to check if that code actually works.\nIf you use Wordtune, then the library feature seems very similar to this. Unfortunately, Wordtune's feature tends to mess up a lot and needs constant updates, but it seems like NotebookLM is doing so well that it's adding more features. You'll need a Google One AI plan if you want more of these advanced features from NotebookLM. I wouldn't say you need it unless you work in an environment where you use the same sources repeatedly.\nEven still, this update is a major advancement in the app’s capabilities. I don't doubt that finding sources is a time-consuming process. Researching on its own takes a while, but this should make it easier. However, Google isn't always the most reliable, so I would be careful of just trusting whatever sources it puts in front of you.\nIt's always best to do independent research and double-check what you're given. Things like these tend to take everything given to them as fact, and websites aren't always correct. It's still good to start researching, and you can always add more sources, so be on the lookout for the rollout, which should be coming in a week. You can check it out from the official NotebookLM website.\nSource: Google",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->scientific innovation",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->business service",
+      "Social Issue->social services",
+      "Social Issue->demographics",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://one.google.com/about/ai-premium/",
+      "https://blog.google/technology/google-labs/notebooklm-discover-sources/",
+      "https://notebooklm.google.com/notebook/9a623109-d627-4d04-a7b0-f93d3e927d9e",
+      "https://www.one.google.com/about/ai-premium/",
+      "https://blog.google/technology/google-labs/notebooklm-discover-sources",
+      "https://www.notebooklm.google.com/notebook/9a623109-d627-4d04-a7b0-f93d3e927d9e",
+      "https://one.google.com/about/ai-premium",
+      "https://www.blog.google/technology/google-labs/notebooklm-discover-sources/"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Audio Overviews",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Wordtune",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Gemini AI",
+          "sentiment": "positive",
+          "tickers": []
+        },
+        {
+          "name": "Google One AI",
+          "sentiment": "positive",
+          "tickers": []
+        },
+        {
+          "name": "AI",
+          "sentiment": "neutral",
+          "tickers": [
+            {
+              "ticker": "AI",
+              "exchange": "NYSE"
+            }
+          ]
+        },
+        {
+          "name": "Google Gemini",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Discover Sources",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "New Canvas Feature",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "The Ultimate Writing/Coding Buddy",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T00:08:43.912+03:00",
+    "updated": "2025-04-03T00:08:43.912+03:00"
+  },
+  {
+    "uuid": "6886a91f8f6e98f8b37966e920f555e3f2814a80",
+    "url": "https://www.latestnigeriannews.com/p/4354468/wike-busy-renovating-infrastructure-despite-pupils-out-of-school-due-to-strike-p.html",
+    "ord_in_thread": 0,
+    "author": "Latestnigeriannews",
+    "published": "2025-06-26T11:42:00Z",
+    "title": "Wike Busy Renovating Infrastructure Despite Pupils Out of School Due to Strike Peter Obi",
+    "text": "-- External Links --\nPunch\nVanguard\nThisday\nGuardian\nDaily Sun\nThe Nation\nDaily Independent\nLeadership\nTribune\nNational Mirror\nDaily Trust\nDaily Times\nBusinessDay\nSahara Reporters\nPremium Times\nPM News\nTori\nLinda Ikeji\nBella Naija\nNairaland\nCNN\nBBC\nAljazeera\nGoal\nAfrican Football\nBleacher Report\n90min\nComplete Sports\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\nViewing Mode:\nMedium\nVanguard\nPunch\nGuardian\nThisday\nDaily Sun\nLeadership\nTribune\nDaily Trust\nDaily Times\nDaily Independent\nThe Nation\nNational Mirror\nBusinessDay\nSahara Reporters\nSports\nEntertainment\nWorld\nTechnology\nBusiness\nPolitics\nFeatures\nColumns\nNigerian Jobs\nDay\n01\n02\n03\n04\n05\n06\n07\n08\n09\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\nMonth\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nSep\nOct\nNov\nDec\nYear\n2024\n2023\n2022\n2021\n2020\n2019\n2018\n2017\n2016\n2015\n2014\n2013\n2012\n2011\nArchive:\nFeatures Headlines Today\n[Thu-26-Jun-2025]\n-\n-\n-\n-\n-\n-\n-\n-\n-\nClick to view all Features headlines today\nSports Headlines Today\n[Thu-26-Jun-2025]\n-\n-\n-\n-\n-\n-\n-\n-\n-\nClick to view all Sports headlines today\nWike Busy Renovating Infrastructure Despite Pupils Out of School Due to StrikePeter Obi\nPublished by\nTori\non Thu, 26 Jun 2025\nRecall that public primary school pupils in Abuja have been locked out of schools for over three months due to an unresolved strike.\nClick here to read full news..\nAll Channels\nNigerian Dailies:\nPunch\n|\nVanguard\n|\nThe Nation\n|\nThisday\n|\nDaily Sun\n|\nGuardian\n|\nDaily Times\n|\nDaily Trust\n|\nDaily Independent\n|\nThe Herald\n|\nTribune\n|\nLeadership\n|\nNational Mirror\n|\nBusinessDay\n|\nNew Telegraph\n|\nPeoples Daily\n|\nBlueprint\n|\nNigerian Pilot\n|\nSahara Reporters\n|\nPremium Times\n|\nThe Cable\n|\nPM News\n|\nAPO Africa Newsroom\nCategories Today:\nWorld\n|\nSports\n|\nTechnology\n|\nEntertainment\n|\nBusiness\n|\nPolitics\n|\nColumns\n|\nAll Headlines Today\nEntertainment (Local):\nLinda Ikeji\n|\nBella Naija\n|\nTori\n|\nDaily News 24\n|\nPulse\n|\nThe NET\n|\nDailyPost\n|\nInformation Nigeria\n|\nGistlover\n|\nLailas Blog\n|\nMiss Petite\n|\nOlufamous\n|\nStella Dimoko Korkus Blog\n|\nYnaija\n|\nAll Entertainment News Today\nEntertainment (World):\nTMZ\n|\nDaily Mail\n|\nHuffington Post\nSports:\nGoal\n|\nAfrican Football\n|\nBleacher Report\n|\nFTBpro\n|\nKickoff\n|\nAll Sports Headlines Today\nBusiness & Finance:\nNairametrics\n|\nNigerian Tenders\n|\nBusiness Insider\n|\nForbes\n|\nEntrepreneur\n|\nThe Economist\n|\nBusinessTech\n|\nFinancial Watch\n|\nBusinessDay\n|\nAll Business News Headlines Today\nTechnology (Local):\nTechpoint\n|\nTechMoran\n|\nTechCity\n|\nInnovation Village\n|\nIT News Africa\n|\nTechnology Times\n|\nTechnext\n|\nTechcabal\n|\nAll Technology News Headlines Today\nTechnology (World):\nTechcrunch\n|\nTechmeme\n|\nSlashdot\n|\nWired\n|\nHackers News\n|\nEngadget\n|\nPocket Lint\n|\nThe Verge\nInternational Networks:\n|\nCNN\n|\nBBC\n|\nAl Jazeera\n|\nYahoo\nForum:\n|\nNairaland\n|\nNaij\nOther Links:\nHome\n|\nNigerian Jobs\nHome\n|\nAbout Us\n|\nContact Us\n|\nDisclaimer\n|\nPrivacy Policy\n|\nCopyright\n|\nSubscribe To News Alert\n|\nFacebook\n|\nTwitter\nAll trademarks and copyrights on this page are owned by their respective owners\nCopyright © 2025. latestnigeriannews.com - All rights reserved",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Education"
+    ],
+    "topics": [
+      "Politics->education policy",
+      "Politics->local government policy",
+      "Social Issue->social problem",
+      "Social Issue->social services",
+      "Education->educational grading",
+      "Education->students",
+      "Education->school"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Peter Obi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Tori\nLinda Ikeji\nBella Naija\nNairaland",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Tribune\nNational Mirror\nDaily Trust\nDaily Times",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-26T14:54:21.240+03:00",
+    "updated": "2025-06-26T11:59:31.000+00:00"
+  },
+  {
+    "uuid": "9ee6290484c8fb4b1191500324fd27a18da0c970",
+    "url": "https://www.giantfreakinrobot.com/ent/star-trek-emissary.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chris Snellgrove",
+    "published": "2024-01-05T20:43:00Z",
+    "title": "Star Trek: Emissary Opening Credits Gives Fans Everything They Want",
+    "text": "Star Trek: Emissary Opening Credits Gives Fans Everything They Want\nNo franchise does cool fan productions quite like\nStar Trek. over the years, we’ve been treated to fan films like Star Trek: Of Gods and Men that bring back some of the actors from The Original Series and ambitious series like Star Trek: Continues that completely recast the iconic original crew.\nNow, Deep Space Nine superfans David Frank and Christian Lerch have used their extensive experience in motion graphics to create the ultimate love letter to the\nbest Trek series of all. Below, you can view their killer trailer for Emissary, an imaginary Trek show named after the DS9 pilot episode.\nEven though this trailer for Star Trek: Emissary is focused on teasing a series that might have come out decades ago, it clearly takes its design inspiration from Star Trek: Picard. One of the better aspects of that official show on\nParamount+ was that it integrated elements (past, present, and future) of Picard’s life to create a trailer that felt very intimate.\nAfter viewing this amazing trailer, we’ve only got one question for Paramount: when are we getting a Picard-style show featuring Benjamin Sisko?\nEmissary’s trailer does the same thing regarding the life of Deep Space Nine’s Benjamin Sisko, and that means it is filled with great Easter eggs for fans to discover.\nFor example, near the beginning of the Star Trek: Emissary trailer, we can see an image of the Earth transformed into a baseball, symbolizing how baseball superfan Sisko keeps a ball on his desk as a memento of home.\nThere are some cute textual gags thrown in, including the fact that the fictional show is presented by “Terok Nor Television.” As Trek fans can tell you, Terok Nor was the official Cardassian name for the space station before\nStarfleet rechristened it “Deep Space Nine.”\nThe trailer for Star Trek: Emissary also draws inspiration from the most traumatic moment in Sisko’s life. At one point, we can see a Miranda-class vessel flying towards Picard’s head from when he was transformed into the evil\nLocutus of Borg. This is a reference to the ship Sisko served on (the USS Saratoga) during the Battle of Wolf 359, and his wife was killed during this infamous battle against the Borg.\nEven though this trailer for Star Trek: Emissary is focused on teasing a series that might have come out decades ago, it clearly takes its design inspiration from Star Trek: Picard.\nLater in the Star Trek: Emissary trailer, we can see the Utopia Planitia Fleet Yards last glimpsed in the first season of\nPicard. This is where Sisko worked and recovered after the loss of his wife, and it’s where he helped design his future ship the USS Defiant, which also makes an appearance in the trailer.\nBeyond the details of Sisko’s own life, the trailer also includes beautiful glimpses of his future life with the Bajoran people, including a look at a Prophet (or “wormhole alien”) as well as one of the special orbs the Prophets sent to the Bajoran people.\nThe Star Trek: Emissary trailer ends with a glimpse of Sisko surrounded by the familiar white light that indicates he is speaking with the Prophets. These\naliens are nonlinear, and that’s certainly appropriate to the trailer: Sisko’s interactions with the Prophets while reluctantly serving as their Emissary is one of the narrative through points that connect the very beginning of Deep Space Nine to the very end.\nAfter viewing this amazing trailer (and believe us, these are just a few of the awesome Easter eggs), we’ve only got one question for Paramount: when are we getting a Picard-style show featuring Benjamin Sisko?\nAt this point, we’re ready to start praying to the Prophets if that’s the only way to bring\nAvery Brooks back to this franchise.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "picard",
+          "sentiment": "none"
+        },
+        {
+          "name": "david frank",
+          "sentiment": "none"
+        },
+        {
+          "name": "christian lerch",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "star trek",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:36:50.418+02:00",
+    "updated": "2024-01-06T00:36:50.418+02:00"
+  }
+]

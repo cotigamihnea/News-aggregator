@@ -1,0 +1,368 @@
+[
+  {
+    "uuid": "c8ecf5ea6f70c7ad3049a60482e9ab402b24c038",
+    "url": "https://www.newsbreak.com/idaho-s-newschannel-7-524541/3739657917057-warming-temps-could-lead-to-messy-mountain-travel-friday",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Idaho's Newschannel 7",
+    "published": "2025-01-03T01:22:00Z",
+    "title": "Warming temps could lead to messy mountain travel Friday",
+    "text": "31 minutes ago The daily forecast from Idaho's trusted KTVB First Alert Weather team. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "topics": [
+      "Weather->weather forecast",
+      "Environment->climate change"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T03:54:18.874+02:00",
+    "updated": "2025-01-03T03:54:18.874+02:00"
+  },
+  {
+    "uuid": "86250658c1a4f953562b079f67c727d81b99be35",
+    "url": "https://www.elperiodico.com/es/sociedad/20241101/dana-viernes-alerta-roja-andalucia-alerta-naranja-espana-111090972",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Valentina Raffio",
+    "published": "2024-11-01T06:18:00Z",
+    "title": "La DANA coge fuerza en Andalucía y obliga a activar una alerta roja en Huelva | El Periódico",
+    "text": "Cerrar ventana emergente La DANA ha vuelto a activarse este viernes desde primera hora de la mañana de este viernes y, según los pronósticos más actualizados, mantiene en alerta a al menos cinco comunidades autónomas. Esta mañana la Agencia Estatal de Meteorología (AEMET) ha activado una alerta roja para el litoral de Huelva , donde se podrían dar acumulaciones de más de 140 litros por metro cuadrado en tan solo unas horas. En localidades como Cartaya ya se han acumulado más de 117 litros por metro cuadrado en menos de tres horas, de los cuales 70 en un hora. También se están registrando importantes trombas marinas asociadas a este evento. Las autoridades piden a los ciudadanos de la zona extremar precauciones .\nPara este viernes también hay activadas varias alertas naranjas en el sur de Catalunya, el norte de la Comunitat Valenciana y en Mallorca y Menorca ante el riesgo de que la DANA vuelva a causar lluvias torrenciales en estas zonas. En Catalunya, el aviso naranja se concentra en las comarcas del Montsià y Baix Ebre, que acumulan dos días consecutivos de lluvias extremas, ante la previsión de que caigan más de 100 litros por metro cuadrado durante esta jornada. También se activa una alerta amarilla en el litoral y prelitoral de Barcelona de cara a toda la jornada del viernes ante la previsión de fuertes lluvias que podrían llegar acompañadas de tormenta.\nEn las próximas horas preocupa la evolución de esta DANA en la Comunitat Valenciana . Las imágenes por radar muestran la formación de un frente muy cargado de lluvias delante de las costas de Castellón, una zona que este jueves ya vivió una jornada en alerta roja y sufrió varias inundaciones. En la zona más afectada por el paso de este temporal extremo, en Valencia, para este viernes se ha activado una alerta amarilla y se esperan acumulaciones de entre 20 y 60 litros por metro cuadrado en algunos puntos.\nCinco comunidades en alerta Además de las alertas rojas y naranjas activadas para este viernes, la Agencia Estatal de Meteorología también ha activado decenas de avisos de nivel amarillo en Andalucía, Baleares, Catalunya, Extremadura y Comunidad Valenciana, ya que las lluvias van a ser también muy fuertes en grandes áreas de estas regiones y en muchos puntos se van a acumular hasta 60 litros por metro cuadrado en doce horas. \"Vamos a lanzar un mensaje muy claro y lo vamos a dejar fijado. La emergencia meteorológica no ha finalizado. La DANA sigue sobre España\", afirman desde la entidad ante la previsión de que estas lluvias torrenciales sigan.\nLos modelos aún se muestran inciertos sobre cómo evolucionará esta DANA en los próximos días . Este episodio empezó ya el fin de semana pasado, se ha extendido durante todo esta semana y seguramente continuará durante todo el puente de Todos los Santos y el fin de semana. A partir de ahí, aún no está muy claro cuándo acabarán definitivamente estas lluvias . Por ahora, todo apunta a que a principios de la semana que viene se debilitarán mucho y probablemente se vayan apaciguando con el tiempo. Aun así, dada la evolución errática de este fenómeno, aún es pronto para ponerle fecha final a este episodio que ha causado tantas lluvias torrenciales.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/elperiodico/status/1852227687605006435",
+      "https://www.twitter.com/elperiodico/status/1852227687605006435"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Agencia Estatal de Meteorología",
+          "sentiment": "none"
+        },
+        {
+          "name": "Comunitat Valenciana",
+          "sentiment": "none"
+        },
+        {
+          "name": "AEMET",
+          "sentiment": "none"
+        },
+        {
+          "name": "DANA",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Catalunya",
+          "sentiment": "none"
+        },
+        {
+          "name": "Mallorca",
+          "sentiment": "none"
+        },
+        {
+          "name": "Menorca",
+          "sentiment": "none"
+        },
+        {
+          "name": "Montsià",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T09:23:10.991+02:00",
+    "updated": "2024-11-01T09:55:45.395+02:00"
+  },
+  {
+    "uuid": "beb2cf7d4a8091b91d1ad785cdd7bee7f71a560f",
+    "url": "https://it.topwar.ru/248724-vs-rf-vplotnuju-podoshli-k-mihajlovke-vostochnomu-prigorodu-selidovo.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "novosti2",
+    "published": "2024-08-23T04:51:00Z",
+    "title": "Le forze armate russe si sono avvicinate a Mikhailovka, il sobborgo orientale di Selidovo",
+    "text": "Le forze armate russe si sono avvicinate a Mikhailovka, il sobborgo orientale di Selidovo L'esercito russo, continuando la sua offensiva in direzione Pokrovsky, ha finito di prendere il controllo del triangolo territoriale Nikolaevka-Novozhelanoye-Kalinovka. Forti del loro successo, le forze armate russe attraversarono la strada E50 Pokrovsk-Karlovka su un altro tratto di essa e si avvicinarono al villaggio di Mikhailovka. Questo villaggio è il sobborgo orientale più vicino di Selidovo, avendo collegamenti di trasporto diretti con un'altra città dell'agglomerato di Pokrovsk - Novogrodovka, dove stanno combattendo le nostre truppe. L’intera parte orientale di Novogrodovka è già nelle mani dell’esercito russo e circa un terzo del territorio della città è una zona grigia. Con l'avanzata verso Mikhailovka, le nostre truppe liberarono altri 7 metri quadrati circa. km di territorio, che espande ulteriormente la presenza dell'esercito russo a ovest del bacino idrico di Karlovskoye, di grande importanza per l'approvvigionamento idrico del Donbass.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T08:06:25.239+03:00",
+    "updated": "2024-08-23T08:06:25.239+03:00"
+  },
+  {
+    "uuid": "95569ae06be470e2d02108de4be7ade777002c7e",
+    "url": "https://peasandcrayons.com/honey-apricot-and-almond-goat-cheese-spread-recipe",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nancy",
+    "published": "2024-12-26T12:41:00Z",
+    "title": "Comment on Goat Cheese Spread with Honey, Apricot, and Almonds by Nancy",
+    "text": "Honey, Apricot, and Almond Goat Cheese Spread is the ultimate party appetizer! Perfect for holidays and cheese boards, this goat cheese appetizer will add a burst of color and a whole lot of deliciousness.\nTo me, appetizers are often more exciting than the main event. Entrees are great and dessert is just peachy, but to me the fun really lies in the pre-meal nosh.\nAt holiday gatherings, where everything from appetizers to desserts is in wondrous abundance, I’m often left with a choice to make. Do I fill up on appetizers? Beeline for the sweet stuff? Save room for roast turkey or ham?\nTrick question!!! It’s all about the apps!\nWhen I’m hosting a shindig, I always always always like to have some sort of cheese spread situation on hand. It feels far more civilized than noshing on a plate full of cubed cheese and is way less hazardous than a communal dip.\nDouble-dipping is not an option people. I repeat: not. an. option.\nMaking a cheese board, charcuterie board, or assorted appetizers for your next party? This gorgeous goat cheese spread should 100% be part of it! It’s fast and flavorful!\nHoney, Apricot, and Almond Goat Cheese Spread\nThis super simple cheese spread fits the bill. It’s creamy, cheesy, sweet, and salty… perfecto!\nI have a total weakness for pairing creamy goat cheese with sweet sticky preserves and toasty almonds, and it’s downright heavenly spread on crackers, bagel chips, fresh apple and pear slices, and flaky croissants.\nAs an added bonus, it only takes MINUTES to make! Let’s do this!\nHoney, Apricot, and Almond Goat Cheese Spread\nIngredients\n- 8 oz goat cheese or cream cheese\n- ⅓ cup lightly salted almonds\n- 4-5 dried apricots (chopped)\n- 2-3 tsp fresh chopped parsley or basil\n- 1/4-1/2 cup apricot preserves\n- honey for drizzling\nSERVE WITH:\n- an assortment of crackers\n- fresh sliced granny smith apple\nInstructions\n- Remove goat cheese from protective packaging and soften to room temperature.\n- Spread fresh preserves on a cheese tray or serving platter.\n- Place your almonds in a bag or between two sheets of paper towel and crush using a blunt object, like a glass olive oil bottle.\n- Next chop your apricots and mix together with the almonds and parsley.\n- Roll your goat cheese in the mixture, pressing gently to coat.\n- Set the goat cheese log atop the preserves and surround with crackers and fresh fruit.\n- Finish it off with a hearty drizzle of honey and you’re good to go!\nNotes\nNutrition\nmore craveable cheese topping combos:\n- cranberry sauce (or jam!) + dried cranberries + lightly salted almonds\n- fig preserves + golden raisins + honey roasted almonds\n- lightly salted almonds + crispy bacon + chopped green onion\nIf by some miracle you have a little leftover, it tastes absolutely divine spread on a toasted bagel or flakey bakery croissant the next morning with extra honey. Delicious!\nIf you get a chance to try this Honey, Apricot, and Almond Goat Cheese Spread, let me know!\nYou can leave me a comment here (LOVE checking those daily!) or tag @PEASandCRAYONS on Instagram so I can happy dance over your awesome appetizer creations! I can’t wait to see what you whip up!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->party",
+      "Economy, Business and Finance->consumer goods",
+      "Economy, Business and Finance->products and services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Nancy Honey",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:24:52.593+02:00",
+    "updated": "2024-12-27T00:24:52.593+02:00"
+  },
+  {
+    "uuid": "cc897d4cd95474ceee13fc08fe7ce599cb5b9101",
+    "url": "https://www.gurufocus.com/news/2798556/univest-financial-corporation-reports-first-quarter-results-uvsp-stock-news",
+    "ord_in_thread": 0,
+    "author": "@gurufocus",
+    "published": "2025-04-23T21:08:16Z",
+    "title": "Univest Financial Corporation Reports First Quarter Results | UVSP Stock News",
+    "text": "- Net income for Univest Financial (\nUVSP,Financial) rose to $22.4 million in Q1 2025, a 10.3% increase year-over-year. - The company declared a 4.8% rise in its quarterly dividend, now $0.22 per share.\n- Net interest income increased by 10.3%, with a net interest margin improvement to 3.09%.\nUnivest Financial Corporation (UVSP) posted robust financial results for the first quarter of 2025, recording a net income of $22.4 million, or $0.77 per diluted share. This marks a notable 10.3% increase from the $20.3 million, or $0.69 per share, reported for the same period in 2024. Contributing factors include improved interest margins and strategic financial management.\nThe company's board has approved a 4.8% increase in the quarterly dividend, raising it to $0.22 per share, payable on May 21, 2025, to shareholders of record as of May 7, 2025. This increment marks the first dividend raise since May 2022, reflecting Univest's confidence in its ongoing business momentum.\nKey financial highlights include a 10.3% year-over-year increase in net interest income to $56.8 million, with an improved net interest margin of 3.09% compared to 2.88% in the first quarter of 2024. Gross loans and leases saw a year-over-year uptick of 3.9%, reaching $254.0 million, underscoring Univest's expanding loan portfolio.\nMeanwhile, total deposits exhibited a 4.0% year-over-year growth, amounting to $253.1 million. During this period, Univest also benefited from a $1.0 million tax-free bank-owned life insurance (BOLI) death benefit, enhancing its earnings per share by $0.04.\nAlthough the company faced challenges such as a 12.4% decline in non-interest income, resulting from a one-time gain in the previous year's same quarter, and increased net loan charge-offs, Univest remains well-positioned. Its strategic maneuvers to manage liquidity and enhance shareholder value reflect its resilience and proactive approach amid industry challenges.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Economy, Business and Finance",
+      "Health"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service",
+      "Health->health organisation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Univest Financial Corporation",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T00:08:16.455+03:00",
+    "updated": "2025-04-24T00:08:16.455+03:00"
+  },
+  {
+    "uuid": "04e7c24a00769cb6d69d9c22cef694422da48553",
+    "url": "https://andina.pe/agencia/noticia-la-cultura-es-vehiculo-nos-permite-tener-dialogo-y-encontrar-paz-968562.aspx",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Empresa Peruana de Servicios Editoriales S. A. EDITORA PERÚ",
+    "published": "2023-12-29T00:00:00Z",
+    "title": "“La cultura es el vehículo que nos permite tener diálogo y encontrar la paz” | Noticias | Agencia Peruana de Noticias Andina",
+    "text": "La ministra de Cultura, Leslie Urteaga Peña, resaltó el papel que cumple la cultura como vehículo articulador que une a los peruanos y peruanas en los momentos difíciles y permite encontrar la paz a través del diálogo.\nFue durante su visita al distrito de Macusani, en la provincia de Carabaya, región Puno, donde i nauguró la biblioteca municipal ‘Walter Ávila Quispe’. Invocó a encontrar soluciones y reafirmó su compromiso de seguir “trabajando en beneficio de nuestro patrimonio cultural”.\n“Desde el Ministerio de Cultura y por encargo de la presidenta Dina Boluarte, estamos seguros de que la cultura es el vehículo que nos permite tener este diálogo y encontrar la paz en los momentos difíciles”, enfatizó Urteaga Peña.\n“La cultura nos une y sabemos que los libros y la lectura nos acompañan toda la vida” , añadió, durante la inauguración de este espacio de lectura en el distrito de Macusani.\n“Fomentemos el hábito lector”\nAcompañada del alcalde de Carabaya, Edmundo Cáceres, la ministra inauguró la biblioteca municipal que permitirá que niños, niñas, jóvenes, adultos y adultos mayores tengan mayor acceso al libro y la lectura, así como a información y capacitación especializada en áreas productivas.\n“Gracias al alcalde de Carabaya por hacer posible esta biblioteca municipal –destacó–, aquí nuestros niños, niñas, jóvenes, adultos y adultos mayores podrán acceder a más de 700 libros en físico y más de 7,000 títulos de manera digital”.\nAsimismo, resaltó que “la lectura y la información nos hacen más fuertes y competitivos en la vida”.\n“Fomentemos el hábito lector”, demandó Urteaga. “Como parte de nuestro compromiso, el equipo de la Biblioteca Nacional del Perú hará el acompañamiento, junto a la municipalidad, para continuar con sus mejoras y fortalecer este espacio de lectura”.\nAdemás de fomentar la lectura, la nueva biblioteca ofrecerá conocimientos especializados a la comunidad. Por ello, llevará a cabo capacitaciones remotas a cargo de profesionales de la Universidad Peruana Cayetano Heredia y de la Universidad Nacional Mayor de San Marcos (UNMSM).\nDe esta manera, ofrecerá información especializada en actividades productivas, como la crianza de camélidos, textilería y ganadería, entre otras.\nPatrimonio Cultural de la Nación\nAsimismo, la ministra entregó la Resolución Viceministerial Nº310-2023-VMPCIC/MC , que declara como Patrimonio Cultural de la Nación a los conocimientos, usos y técnicas tradicionales del tejido de la comunidad campesina de Oruro, distrito de Crucero, provincia de Carabaya.\n“Aprovechamos la visita para entregar la resolución que declara Patrimonio Cultural de la Nación a los tejidos de Oruro. Un agradecimiento al alcalde de Crucero, Jaime Huisa, y a las portadoras por su apoyo. Recuerden que la cultura, la música y las danzas nos hacen sentir iguales y orgullosos”.\nLa importancia de la labor textil artesanal en la comunidad de Oruro se debe a que es una tarea eminentemente femenina, que constituye una herencia ancestral producto de la crianza de alpacas, llamas y ovinos, a los que se esquila para obtener fibra para tejidos, detalló el sector Cultura.\nLas prendas son confeccionadas con instrumentos de uso tradicional, con procedimientos y técnicas antiguas de teñido y de tejido que se transmiten de generación en generación a nivel intrafamiliar, lo que ha permitido la salvaguardia de esos conocimientos.\nDe otro lado, durante su visita, la ministra de Cultura recibió las llaves de la ciudad de Macusani de parte del alcalde provincial de Carabaya, quien también le hizo entrega de una resolución de reconocimiento.\n[Lea también: Ministerio de Cultura brinda asistencia técnica y apoyo al Museo de los Colli en Comas ]\nMás en Andina:\n?? Antabamba vive una fiesta interminable desde el domingo 24 de diciembre, vísperas de Navidad. Esa tarde se iniciaron las celebraciones al ritmo de huaylía, la danza tradicional de esta provincia. Los festejos se prolongarán hasta el 6 de enero.\n?? https://t.co/Oi0eipjWcT pic.twitter.com/yuGpHVsur2\n— Agencia Andina (@Agencia_Andina) December 29, 2023\n(FIN) NDP/CCH",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief",
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://t.co/Oi0eipjWcT",
+      "https://t.co/yuGpHVsur2",
+      "https://twitter.com/Agencia_Andina/status/1740825308222361610?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/Agencia_Andina/status/1740825308222361610?ref_src=twsrc%5Etfw",
+      "https://twitter.com/Agencia_Andina/status/1740825308222361610",
+      "https://www.t.co/yuGpHVsur2",
+      "https://www.t.co/Oi0eipjWcT"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T23:28:47.517+02:00",
+    "updated": "2023-12-29T23:28:47.517+02:00"
+  },
+  {
+    "uuid": "9e24415ea93add8eaecc169d461c71975b07fc04",
+    "url": "https://www.thestar.com.my/news/world/2025/04/17/feature-sudanese-refugees-in-egypt-embark-on-return-journey-with-hope-for-peace",
+    "ord_in_thread": 0,
+    "author": "M Ahmoudfouly",
+    "published": "2025-04-16T21:37:36Z",
+    "title": "Feature: Sudanese refugees in Egypt embark on return journey with hope for peace | The Star",
+    "text": "by Mahmoud Fouly\nCAIRO, April 16 (Xinhua) -- In a yard in Egypt's capital Cairo, a line of buses awaited, ready to transport Sudanese families back to their homeland. Parents organized their luggage and kept a watchful eye on their children, their faces radiating longing and hope as they observed their bags being loaded for the journey ahead.\nAmong them was Youssef Al-Waleed, a man in his 30s, who was arranging his family's luggage next to one of the buses. His wife and two children sat nearby, waiting for the long-anticipated departure.\n\"A stranger has to return to his homeland one day,\" Al-Waleed told Xinhua. \"We must go back to our homes and our land. But Egypt will always remain our second country, without a doubt.\"\nA short distance away, 63-year-old Mousa Othman Yassin sat beside his wife. Yassin explained that he traveled to Egypt to seek medical treatment rather than to escape the war, as securing essential medications in Sudan had become nearly impossible due to the deteriorating security conditions.\n\"Now, I hope to return and never again face the hardships that forced us to leave,\" Yassin said.\nAn armed conflict erupted in mid-April 2023 between the Sudanese Armed Forces (SAF) and the paramilitary Rapid Support Forces over tensions linked to a planned political transition. The conflict has killed tens of thousands of people, displaced over 15 million, and left Sudan facing what the United Nations calls one of the world's worst humanitarian crises.\nIn late March, the SAF announced territorial gains in the capital Khartoum, calling on citizens abroad to return and help rebuild the country.\nAmin Ismail, an advisor for initiatives at the Sudanese embassy in Cairo, estimated that approximately 3,000 Sudanese embark on a return journey each day, saying the surge began \"after the liberation of the capital\" and is expected to grow with initiatives for free return.\nIsmail highlighted the high morale and the restoration of services in Khartoum, Bahri, and Omdurman -- three major cities in Sudan's capital region -- as key factors behind the surge in the home return of Sudanese refugees.\nAmong the crowd of Sudanese, Mohamed Issa, a travel agent from southern Egypt's Aswan, was busily assisting passengers, ensuring everyone was accounted for before departure.\nHis company offers free rides to Sudanese individuals who are unable to afford a ticket. \"Egyptians and Sudanese are brothers, and we must support each other in times of crisis,\" Issa said. \"It brings me joy to see smiles on their faces as they return home,\" he added.\nIssa noted that such return trips had been organized for over a month, asserting that, according to his estimates, more than 3,000 Sudanese people traveled daily.\nDue to its geographical proximity to and historical ties with Sudan, Egypt has emerged as the largest host country for Sudanese refugees fleeing the civil conflict. According to data from Egypt's government and the UN High Commissioner for Refugees, more than 1.2 million Sudanese have sought refuge in Egypt since the beginning of the ongoing conflict.\nAmong the returnees were Amin Awad and his family, who moved to Egypt about eight months ago to escape intense clashes in their neighborhood in Khartoum.\n\"I never felt like a stranger in Egypt. Egyptians are just like the Sudanese people. We are truly like one nation,\" Awad, a father of six, said.\nThe Sudanese man expressed hope that peace and stability would soon return to Sudan and the Arab world. \"Safety is everything,\" he added.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Human Interest->human mishap",
+      "Politics->refugees and internally displaced people",
+      "Social Issue->immigration",
+      "Social Issue->demographics",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Mahmoud Fouly",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Mousa Othman Yassin",
+          "sentiment": "none"
+        },
+        {
+          "name": "Youssef Al-Waleed",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T00:37:36.259+03:00",
+    "updated": "2025-04-17T00:37:36.259+03:00"
+  }
+]

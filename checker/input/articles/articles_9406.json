@@ -1,0 +1,453 @@
+[
+  {
+    "uuid": "9fc634ff72b08ee2b3777469b7845014a572623e",
+    "url": "https://yro.slashdot.org/story/23/12/28/2233206/researchers-come-up-with-better-idea-to-prevent-airtag-stalking",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BeauHD",
+    "published": "2023-12-28T22:33:00Z",
+    "title": "Researchers Come Up With Better Idea To Prevent AirTag Stalking",
+    "text": "[](//yro.slashdot.org/index2.pl?fhfilter=privacy) [](//yro.slashdot.org/index2.pl?fhfilter=apple) [Researchers Come Up With Better Idea To Prevent AirTag Stalking](//yro.slashdot.org/story/23/12/28/2233206/researchers-come-up-with-better-idea-to-prevent-airtag-stalking) [ (arstechnica.com) ](https://arstechnica.com/security/2023/12/researchers-come-up-with-better-idea-to-prevent-airtag-stalking/) [29](//yro.slashdot.org/story/23/12/28/2233206/researchers-come-up-with-better-idea-to-prevent-airtag-stalking#comments) [developed](https://eprint.iacr.org/2023/1332.pdf)(PDF) a cryptographic scheme to bridge the gap -- [prioritizing detection of potentially malicious AirTags while also preserving maximum privacy for AirTag users](https://arstechnica.com/security/2023/12/researchers-come-up-with-better-idea-to-prevent-airtag-stalking/). [...] The solution [Johns Hopkins cryptographer Matt Green] and his fellow researchers came up with leans on two established areas of cryptography that the group worked to implement in a streamlined and efficient way so the system could reasonably run in the background on mobile devices without being disruptive. The first element is \"secret sharing,\" which allows the creation of systems that can't reveal anything about a \"secret\" unless enough separate puzzle pieces present themselves and come together. Then, if the conditions are right, the system can reconstruct the secret. In the case of AirTags, the \"secret\" is the true, static identity of the device underlying the public identifier that is frequently changing for privacy purposes. Secret sharing was conceptually useful for the researchers to employ because they could develop a mechanism where a device like a smartphone would only be able to determine that it was being followed around by an AirTag with a constantly rotating public identifier if the system received enough of a certain type of ping over time. Then, suddenly, the suspicious AirTag's anonymity would fall away and the system would be able to determine that it had been in close proximity for a concerning amount of time. Green notes, though, that a limitation of secret sharing algorithms is that they aren't very good at sorting and parsing inputs if they're being deluged by a lot of different puzzle pieces from all different puzzles -- the exact scenario that would occur in the real world where AirTags and Find My devices are constantly encountering each other. With this in mind, the researchers employed a second concept known as \"error correction coding,\" which is specifically designed to sort signal from noise and preserve the durability of signals even if they acquire some errors or corruptions. \"Secret sharing and error correction coding have a lot of overlap,\" Green says. \"The trick was to find a way to implement it all that would be fast, and where a phone would be able to reassemble all the puzzle pieces when needed while all of this is running quietly in the background.\" The researchers [published](https://eprint.iacr.org/2023/1332.pdf)(PDF) their first paper in September and submitted it to Apple. More recently, they notified the industry consortium about the proposal.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://arstechnica.com/security/2023/12/researchers-come-up-with-better-idea-to-prevent-airtag-stalking/",
+      "https://eprint.iacr.org/2023/1332.pdf",
+      "https://www.eprint.iacr.org/2023/1332.pdf",
+      "https://www.arstechnica.com/security/2023/12/researchers-come-up-with-better-idea-to-prevent-airtag-stalking/",
+      "https://arstechnica.com/security/2023/12/researchers-come-up-with-better-idea-to-prevent-airtag-stalking"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "apple",
+          "sentiment": "none"
+        },
+        {
+          "name": "airtag",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:46:12.317+02:00",
+    "updated": "2024-01-14T00:03:41.063+02:00"
+  },
+  {
+    "uuid": "4890cc3f3ed40f1c68278c646443baaa1f0e9556",
+    "url": "https://www.thegazette.com/crime-courts/appeals-court-upholds-murder-conviction-of-iowa-city-man-in-2020-drug-robbery",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "doapp, inc.",
+    "published": "2024-04-25T19:20:00Z",
+    "title": "Appeals court upholds murder conviction of Iowa City man in 2020 drug robbery | The Gazette",
+    "text": "116 3rd St SE Cedar Rapids, Iowa 52401 Subscriber Services Our Journalists Sports Desk Our Columnists Our Writers Our Writers Our Photojournalists Data More Gazette Other Links [Home](https://www.thegazette.com/) / [News](https://www.thegazette.com/news/) / [Crime and Courts](https://www.thegazette.com/crime-courts/) Reginald Little is serving life in prison without parole IOWA CITY — The Iowa Court of Appeals on Wednesday upheld the first-degree murder conviction of an Iowa City man involved with two others in a fatal drug robbery in 2020. The court said there was substantial evidence to show first-degree robbery was committed by another person and that [Reginald Little](https://www.thegazette.com/crime-courts/drugs-money-revenge-led-to-21-year-old-iowa-city-mans-fatal-shooting-last-year/) either aided and abetted or engaged in joint criminal conduct with that person. Little, then 46, and Durojaiye Rosa, then 24, both of Iowa City, planned to steal drugs and money from Kejuan Winters, 21, when the robbery ended in the fatal shooting of Winters on April 20, 2020, in his apartment at 1960 Broadway St., Iowa City. The appeals court found the trial judge didn’t err in denying Little’s motion for new trial. The judge considered the weight of the evidence and explained why the court found the testimony of the co-conspirators credible, despite some inconsistencies in their testimony. [Little was sentenced in January 2022 to life ](https://www.thegazette.com/crime-courts/iowa-city-man-sentenced-to-life-for-killing-21-year-old-during-drug-robbery/)in prison without the possibility of parole. During sentencing, he denied taking part in the robbery. According to trial testimony, drugs and revenge led to the murder of Winters. Little had previously bought drugs from Winters, and Rosa was Winters’ roommate. Both men knew Winters had a large supply of drugs. The men hadn’t planned to kill Winters during the robbery, but a struggle ensued, and Winters was fatally shot while his two children and his girlfriend, Tashauna Gooden, were in their apartment. The children and girlfriend were not injured. [Rosa pleade](https://www.thegazette.com/crime-courts/iowa-city-man-sentenced-to-50-years-for-deadly-robbery-in-2020-2/)d guilty to lesser charges and was sentenced to up to 50 years in prison. He testified at Little’s trial that he had a gun “go missing” and that he thought Winters knew who had taken it. Rosa said he was mad because Winters hadn’t done anything about the missing gun, and that’s when he hatched the robbery plan with Little. Patrick Bland, 34, of Rockford, Ill., also convicted and sentenced to up to 60 years in prison, testified Little brought him into the robbery scheme. Police initially didn’t know Bland was involved until they recovered surveillance camera footage. That footage and cellphone records also showed Little was in the area of the residence just before shots were fired, according to testimony. On the day of the robbery and shooting, Bland and Little were sitting in Little’s car in the parking lot waiting for Winters’ girlfriend to leave. Bland, who had a gun and was wearing a stocking mask, went inside to rob Winters of drugs and money, according to testimony. Gooden, Winters’ girlfriend, came back and saw Winters struggling with a man but couldn’t identify him because of the mask. Rosa pulled Gooden and the children into the bathroom before the shots were fired. Gooden testified she tried to get Rosa to help Winters but he didn’t. Police responded about 9:55 a.m. to the report of a shooting and found Winters with multiple gunshot wounds. He died inside the apartment. Comments: (319) 398-8318; trish.mehaffey@thegazette.com [Trish Mehaffey](https://www.thegazette.com/trish-mehaffey/) [Crime and Courts](https://www.thegazette.com/crime-courts/) Apr. 23, 2024 7:50 am2d ago [Trish Mehaffey](https://www.thegazette.com/trish-mehaffey/) [Crime and Courts](https://www.thegazette.com/crime-courts/) Apr. 22, 2024 10:37 am3d ago [Trish Mehaffey](https://www.thegazette.com/trish-mehaffey/) [Crime and Courts](https://www.thegazette.com/crime-courts/) Apr. 16, 2024 8:56 am9d ago [Crime and Courts](https://www.thegazette.com/crime-courts/) Apr. 24, 2024 3:22 pm1d ago [Crime and Courts](https://www.thegazette.com/crime-courts/) Apr. 23, 2024 4:15 pm2d ago John Lawrence Hanson - correspondent [Outdoors](https://www.thegazette.com/outdoors/) Apr. 25, 2024 11:45 am4h ago [Iowa High School Sports](https://www.thegazette.com/high-school-sports/) Apr. 25, 2024 11:05 am5h ago The Gazette has been informing Iowans with in-depth local news coverage and insightful analysis for over 140 years. Support our award-winning, independent journalism with a subscription today.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kejuan winters",
+          "sentiment": "none"
+        },
+        {
+          "name": "durojaiye rosa",
+          "sentiment": "none"
+        },
+        {
+          "name": "reginald little",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "iowa city",
+          "sentiment": "none"
+        },
+        {
+          "name": "iowa court of appeals",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "iowa",
+          "sentiment": "none"
+        },
+        {
+          "name": "cedar rapids",
+          "sentiment": "none"
+        },
+        {
+          "name": "iowa city",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:29:30.315+03:00",
+    "updated": "2024-04-26T00:29:30.315+03:00"
+  },
+  {
+    "uuid": "2356011cebf8325afb414ef6f27bea064cf19cbe",
+    "url": "https://www.zazoom.it/2024-11-29/sciopero-di-oggi-venerdi-29-novembre-a-milano-e-in-lombardia-tutte-le-info-in-diretta/15897546",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ilgiorno.it",
+    "published": "2024-11-29T06:35:00Z",
+    "title": "Sciopero di oggi venerdì 29 novembre a Milano e in Lombardia | tutte le info in diretta",
+    "text": "Sciopero di oggi venerdì 29 novembre a Milano e in Lombardia | tutte le info in diretta Milano, 29 novembre 2024 – Scatta oggi, venerdì 29 novembre 2024, lo Sciopero generale di 8 ore contro la manovra economica del governo Meloni proclamato da Cgil e Uil. Si fermeranno i lavoratori di tutti i settori, pubblico e privato, ad eccezione delle ferrovie. Salvo i servizi minimi essenziali, a rischio stop per tutto il giorno fabbriche, scuole, sanità, poste, uffici pubblici, giustizia e negozi. Per i trasporti la protesta è stata ridotta a 4 ore. Alla vigilia è stato scontro Salvini-sindacati sulla precettazione. Il Tar ha respinto uno dei ricorsi ma, per ora, non quello di Cgil-Uil. Si annuncia dunque una mattinata di disagi per i pendolarmi in arrivo e uscita da Milano che devono utilizzare i mezzi Atm o di altre linee di urbane ed extraurbane ma anche per chi deve muoversi in aereo. Leggi su Ilgiorno.it Ilgiorno.it - Sciopero di oggi venerdì 29 novembre a Milano e in Lombardia: tutte le info in diretta - Sciopero dei trasporti: cambiano gli orari, ecco quando si fermano i mezzi - Lo sciopero generale di 24 ore: a rischio mezzi Atm (metro e bus) e anche autostrade - Sciopero a Roma, venerdì 29 novembre a rischio metro, tram e bus per 24 ore - Sciopero trasporti oggi 29 novembre in Emilia Romagna: orari e corse garantite - Sciopero generale del 29 novembre 2024: a Milano mezzi pubblici a rischio per 4 ore - Sciopero generale 29 novembre 2024: la mappa delle manifestazioni città per città. Disagi per sanità, trasporti, scuola e servizi - Sciopero 29 novembre, orari e fasce di garanzia: salvi i treni, bus e metro fermi per 4 ore. Cosa succede oggi in Italia - Otto ore di sciopero generale nella giornata di oggi, venerdi 29 novembre, contro la Manovra. È quanto indetto da Cgil e Uil con manifestazioni in tutta Italia e i rispettivi ... (msn.com) - Sciopero generale oggi 29 novembre: trasporti e scuola, orari e fasce di garanzia - La mobilitazione che riguarda tutti i settori, tranne il trasporto ferroviario, è stata proclamata da Cgil e Uil per chiedere di cambiare la manovra di bilancio ... (msn.com) - Sciopero generale oggi 29 novembre, cosa sapere: orari, stop a bus e metro, salvi i treni. La guida - Sciopero generale 29 novembre 2024. Mezza si ferma 8 ore, i trasporti dopo la precettazione di Salvini, \"solo\" quattro. Si fermeranno dalle 9 alle 13 bus, metro, tram, treni locali e ... (ilmessaggero.it) Uomo trovato morto in strada a Milano milanotoday.it La città nascosta. Quell’alberello di Natale nel bivacco dei disperati ilrestodelcarlino.it Per gli ospiti l’opportunità di conservare un ricordo prezioso quotidiano.net COME si USA la VALIGETTA dell’inventario Resident Evil Village top-games.it Circolo di Ave, stagione al via con Ettore Pagano ilrestodelcarlino.it Il \"miracolo\" di Rosa a 20 anni da quell'intervento che le ha tolto la vista ma non la passione per la pittura monzatoday.it “Il Migliore dei Mali”: Anteprima Nazionale al 34° Noir in Festival spettacolo.periodico Video Sciopero oggi",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Labor"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-29T08:55:41.097+02:00",
+    "updated": "2024-11-29T09:48:45.813+02:00"
+  },
+  {
+    "uuid": "d4668035428b08a09f89bea166c0f31505a869bd",
+    "url": "https://www.phonandroid.com/tinder-et-candy-crush-espionnent-vos-deplacements-pour-revendre-vos-donnees-aux-agences-gouvernementales.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alexandre Mathiot",
+    "published": "2025-01-10T08:20:00Z",
+    "title": "Tinder et Candy Crush espionnent vos déplacements pour revendre vos données aux agences gouvernementales",
+    "text": "Une enquête révèle que des applications très populaires, comme Tinder et Candy Crush, collectent massivement vos données de localisation. Cette surveillance, souvent ignorée des utilisateurs, alimente un marché lucratif de la revente d’informations sensibles.\nMise à jour à 15h43 :\nSuite à la publication de cet article, Tinder nous a contactés pour apporter des précisions : « La sécurité est une priorité absolue pour Tinder. Nous n'avons aucun lien avec Gravy Analytics et n'avons aucune preuve que ces données proviennent de l'application Tinder. »\nArticle originale 9h20 :\nLa collecte de données personnelles par les applications mobiles est un phénomène bien connu. Par le passé, des géants comme Tiktok ou Meta ont déjà été épinglés pour des pratiques invasives . Une étude avait notamment révélé que Facebook recevait des informations sensibles sur ses utilisateurs via des tiers , comme des entreprises médicales ou des services en ligne. Ces pratiques, visant à alimenter leurs systèmes publicitaires , continuent de poser de sérieuses menaces sur la protection de la vie privée et les dérives potentielles de ces géants du numérique.\nAujourd’hui, une nouvelle enquête dévoile une situation encore plus inquiétante : des milliers d’applications , y compris des jeux célèbres comme Candy Crush ou des plateformes de rencontres comme Tinder , collectent vos données de localisation sans que vous en ayez pleinement conscience. Ces informations, extraites via des systèmes publicitaires intégrés , se retrouvent entre les mains de sociétés spécialisées, comme Gravy Analytics, qui les revendent ensuite à des entreprises ou des agences gouvernementales .\nCandy Crush et Tinder participent à une surveillance massive de vos déplacements Gravy Analytics , une société de collecte et de revente de données, joue un rôle central dans cette collecte. Elle utilise une méthode appelée “real-time bidding” (RTB), où des entreprises enchérissent pour afficher des publicités dans des applications mobiles. Ce procédé leur permet également de capter des données comme les coordonnées GPS ou les adresses IP des utilisateurs . Ces informations sont ensuite revendues à des clients variés, qu’ils soient commerciaux ou institutionnels. Les applications concernées incluent des jeux tels que Temple Run et Candy Crush, des plateformes sociales comme Tumblr , ainsi que des applications de santé ou de suivi de grossesse .\nCes pratiques restent souvent inconnues des développeurs d’applications, car elles ne nécessitent pas d’ajouter de code spécifique dans leurs logiciels. Le système publicitaire intégré agit discrètement , transformant chaque utilisateur en une source de données. La filiale de Gravy, Venntel, a déjà vendu ce type d’informations à des agences gouvernementales américaines, comme l’ IRS ou la police es frontières . Ce scandale révèle l’ampleur de l’exploitation de nos informations personnelles et soulève de sérieuses préoccupations sur la transparence et les dérives de l’écosystème publicitaire .\nSource : 404media",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->social sciences",
+      "Social Issue->discrimination",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.404media.co/hackers-claim-massive-breach-of-location-data-giant-threaten-to-leak-data/",
+      "https://404media.co/hackers-claim-massive-breach-of-location-data-giant-threaten-to-leak-data/",
+      "https://www.404media.co/hackers-claim-massive-breach-of-location-data-giant-threaten-to-leak-data"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T11:27:18.770+02:00",
+    "updated": "2025-01-10T21:06:44.757+02:00"
+  },
+  {
+    "uuid": "ade706f6c87b8654643614f34e03626795261880",
+    "url": "https://www.newsbreak.com/morgantown-wv/3415848736759-man-charged-for-the-murder-of-his-wife",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-04-25T19:29:00Z",
+    "title": "Man charged for the murder of his wife",
+    "text": "By Austin Simms ,\n1 hour ago MORGANTOWN, WV (LOOTPRESS) – A West Virginia man has been arrested for the murder of his wife.\nAccording to the Monongalia County Sheriff’s Office, on April 25, 2024, Rick Allen Cordes, age 49 of Morgantown, was charged with first degree murder for the death of his wife Jennifer L. Hribar, 39 of Morgantown.\nCordes was arraigned in front of Magistrate Nabors no bond is set at this time.\nAnyone with information is asked to call the Monongalia County Sheriff’s Office at 304-291-7260.\nThis is an ongoing investigation, and no additional information will be released at this time, according to police.\nOriginal story:\nAccording to the Monongalia County Sheriff’s Office, on Friday, April 19, 2024, at approximately 8:30 p.m., Monongalia County Sheriff’s Office Deputies were dispatched to a shooting on Falling Water Lane.\nUpon arriving on scene, Deputies located a female victim with an apparent fatal gunshot wound. The female was pronounced dead at the scene. Monongalia County Sheriff’s Detectives responded to the scene to investigate.\nMon EMS, Brookhaven Fire Department and Cheat Lake Fire Department responded to the scene to assist with the emergency response.\nExpand All Read in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0qZ3xF_0sdtWiqP00",
+      "https://img.particlenews.com/image.php?url=0qZ3xF_0sdtWiqP00",
+      "https://img.particlenews.com/image.php",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0qZ3xF_0sdtWiqP00",
+      "https://www.img.particlenews.com/image.php?url=0qZ3xF_0sdtWiqP00"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "austin simms",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jennifer l. hribar",
+          "sentiment": "none"
+        },
+        {
+          "name": "cordes",
+          "sentiment": "none"
+        },
+        {
+          "name": "rick allen cordes",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "monongalia county sheriff’s office",
+          "sentiment": "none"
+        },
+        {
+          "name": "monongalia county sheriff’s office deputies",
+          "sentiment": "none"
+        },
+        {
+          "name": "brookhaven",
+          "sentiment": "none"
+        },
+        {
+          "name": "magistrate nabors",
+          "sentiment": "none"
+        },
+        {
+          "name": "ems",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "west virginia",
+          "sentiment": "none"
+        },
+        {
+          "name": "morgantown",
+          "sentiment": "none"
+        },
+        {
+          "name": "morgantown",
+          "sentiment": "none"
+        },
+        {
+          "name": "falling water lane",
+          "sentiment": "none"
+        },
+        {
+          "name": "monongalia county",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:03:57.559+03:00",
+    "updated": "2024-04-26T00:03:57.559+03:00"
+  },
+  {
+    "uuid": "1ec1686b0546e78f20f4078daf371ee3fb714fcd",
+    "url": "https://news3lv.com/news/local/ndot-announces-i-515-overnight-lane-restrictions-in-east-last-vegas-nellis-stephanie-wyoming-sunset-tropicana-flamingo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News 3 Staff",
+    "published": "2024-01-15T17:19:00Z",
+    "title": "chevron-right",
+    "text": "{p}Fantastic weather is in the forecast on Martin Luther King Jr Day with temperatures climbing throughout the week... We will wrap up the weekend with a storm moving in on Sunday...{/p}{p}TODAY: If you're heading downtown to the MLK Day Parade, temperatures will be around 50 degrees at 10 am. Expect partly cloudy skies on Monday with high temperatures reaching 58 degrees in Las Vegas. Winds will stay light out of the north up to 10 mph throughout the day.{/p}{p}Air quality is ranked 'good' for most valley neighborhoods with levels 'unhealthy for sensitive groups' in the east valley. Pollen levels are low.{/p}{p}TONIGHT: Skies will be mostly clear this evening with cold valley low temperatures dropping to around 39 degrees.{/p}{p}YOUR 7 DAY: Temperatures will keep climbing throughout the work week with highs in the low to mid 60s as high pressure builds. A storm will move into the West Coast on Wednesday, bringing rain and snow showers to Northern Nevada. Temperatures will max out around 65 degrees on Saturday in Las Vegas, followed by a stronger storm moving into Southern Nevada on Sunday. A slight chance of rain showers will be possible in the valley on Sunday (about 20% chance) with light rain amounts anticipated. Forecast totals will be anything from a trace up to .10\\\". Mountain snow will be more likely on Sunday but the heaviest snow is forecast for the Sierra Mountains to our west. In between the two storms this week some parts of the Sierra will get up to 30\\\" of snow from now into the start of NEXT week.{/p}{p}Beyond the 7-day forecast, rain shower chances will linger in Las Vegas Sunday through Monday with highs in the 50s. Conditions appear to clear up by NEXT Tuesday and Wednesday with valley highs rebounding back to the mid 60s under mostly sunny to partly cloudy skies.{/p}{p}Check back for more updates & have a great day!{/p}{p}- Chloe Koast{ }{/p}{p}{br}{/p}{p}The Nevada Department of Transportation (NDOT) is warning east valley drivers of some upcoming lane restrictions happening overnight on the I-515 this week.{/p}{p}According to officials, the restrictions will allow crews to resurface pavement{ }associated with the ongoing I-515 Wyoming to Sunset improvement project.{/p}{p}Restrictions include:{/p}{p}{strong}Sunday, January 14 at 8:00 p.m. to Monday, January 15 at 5:00 a.m.{/strong}{/p}{ul}{li}Southbound I-515 reduced to one lane between S Nellis Blvd and N Stephanie St{/li}{li}Northbound I-515 reduced to one lane between S Nellis Blvd and Flamingo Rd{/li}{li}Northbound I-515 off/onramps at Tropicana Ave and Flamingo Rd offramp closed{/li}{/ul}{p}{strong}Monday, January 15 at 8:00 p.m. to Tuesday, January 16 at 5:00 a.m.{/strong}{/p}{ul}{li}Southbound I-515 reduced to one lane between N Stephanie St and Sunset Rd{/li}{li}Northbound I-515 reduced to one lane between S Nellis Blvd and Flamingo Rd{/li}{li}Northbound I-515 off/onramps at Tropicana Ave and Flamingo Rd offramp closed{/li}{/ul}{p}{strong}Tuesday, January 16 at 8:00 p.m. to Wednesday, January 17 at 5:00 a.m.{/strong}{/p}{ul}{li}Southbound I-515 reduced to one lane between Flamingo Rd and S Nellis Blvd{/li}{li}Southbound I-515 off/onramps at Tropicana Ave and Flamingo Rd onramp closed{/li}{li}Northbound I-515 reduced to one lane between S Nellis Blvd and Flamingo Rd{/li}{/ul}{p}{strong}Wednesday, January 17 at 8:00 p.m. to Thursday, January 18 at 5:00 a.m.{/strong}{/p}{ul}{li}Southbound I-515 reduced to one lane between Flamingo Rd and S Nellis Blvd{/li}{li}Southbound I-515 off/onramps at Tropicana Ave and Flamingo Rd onramp closed{/li}{li}Northbound I-515 reduced to one lane between S Nellis Blvd and Flamingo Rd{/li}{li}Northbound I-515 off/onramps at Tropicana Ave and Flamingo Rd offramp closed{/li}{/ul}{p}{strong}Thursday, January 18 at 8:00 p.m. to Friday, January 19 at 5:00 a.m.{/strong}{/p}{ul}{li}Southbound I-515 reduced to one lane between S Nellis Blvd and N Stephanie St{/li}{li}Southbound I-515 off/onramps at Russell Rd closed{/li}{/ul}{p}{strong}Sunday, January 21 at 8:00 p.m. to Monday, January 22 at 5:00 a.m.{/strong}{/p}{ul}{li}Southbound I-515 reduced to one lane between N Stephanie St and Sunset Rd{/li}{li}Southbound I-515 off/onramps at Galleria Dr closed{/li}{/ul}{p}{strong}MORE ON NEWS 3 |{ }{/strong}{a href=\\\"https://news3lv.com/news/local/improvement-project-traffic-signal-installation-brings-roadwork-on-monday-northwest-las-vegas-valley-grand-teton-drive-and-shaumber-road-intelligent-transportation-system#\\\" target=\\\"_blank\\\" title=\\\"https://news3lv.com/news/local/improvement-project-traffic-signal-installation-brings-roadwork-on-monday-northwest-las-vegas-valley-grand-teton-drive-and-shaumber-road-intelligent-transportation-system#\\\"}{strong}Improvement project, traffic signal installation brings roadwork on Monday{/strong}{/a}{/p}{p}The I-515 (U.S. 95) from Sunset Road in Henderson to Wyoming Avenue Repaving Project consists of pavement preservation to improve the safety and rideability of I-515 by replacing mainline concrete slabs, repairing spalls, installing new high-mast lighting, and upgrading median barrier rail.{ }{br}{/p}{p}For the latest on projects happening along the I-515 corridor, click {a href=\\\"https://www.nv515.com/\\\" target=\\\"_blank\\\" title=\\\"https://www.nv515.com/\\\"}{strong}here.{/strong}{/a}{/p}{p}Fantastic weather is in the forecast on Martin Luther King Jr Day with temperatures climbing throughout the week... We will wrap up the weekend with a storm moving in on Sunday...{/p}{p}TODAY: If you're heading downtown to the MLK Day Parade, temperatures will be around 50 degrees at 10 am. Expect partly cloudy skies on Monday with high temperatures reaching 58 degrees in Las Vegas. Winds will stay light out of the north up to 10 mph throughout the day.{/p}{p}Air quality is ranked 'good' for most valley neighborhoods with levels 'unhealthy for sensitive groups' in the east valley. Pollen levels are low.{/p}{p}TONIGHT: Skies will be mostly clear this evening with cold valley low temperatures dropping to around 39 degrees.{/p}{p}YOUR 7 DAY: Temperatures will keep climbing throughout the work week with highs in the low to mid 60s as high pressure builds. A storm will move into the West Coast on Wednesday, bringing rain and snow showers to Northern Nevada. Temperatures will max out around 65 degrees on Saturday in Las Vegas, followed by a stronger storm moving into Southern Nevada on Sunday. A slight chance of rain showers will be possible in the valley on Sunday (about 20% chance) with light rain amounts anticipated. Forecast totals will be anything from a trace up to .10\\\". Mountain snow will be more likely on Sunday but the heaviest snow is forecast for the Sierra Mountains to our west. In between the two storms this week some parts of the Sierra will get up to 30\\\" of snow from now into the start of NEXT week.{/p}{p}Beyond the 7-day forecast, rain shower chances will linger in Las Vegas Sunday through Monday with highs in the 50s. Conditions appear to clear up by NEXT Tuesday and Wednesday with valley highs rebounding back to the mid 60s under mostly sunny to partly cloudy skies.{/p}{p}Check back for more updates & have a great day!{/p}{p}- Chloe Koast{ }{/p}{p}{br}{/p}{p}The Nevada Department of Transportation (NDOT) is warning east valley drivers of some upcoming lane restrictions happening overnight on the I-515 this week.{/p}{p}According to officials, the restrictions will allow crews to resurface pavement{ }associated with the ongoing I-515 Wyoming to Sunset improvement project.{/p}{p}Restrictions include:{/p}{p}{strong}Sunday, January 14 at 8:00 p.m. to Monday, January 15 at 5:00 a.m.{/strong}{/p}{ul}{li}Southbound I-515 reduced to one lane between S Nellis Blvd and N Stephanie St{/li}{li}Northbound I-515 reduced to one lane between S Nellis Blvd and Flamingo Rd{/li}{li}Northbound I-515 off/onramps at Tropicana Ave and Flamingo Rd offramp closed{/li}{/ul}{p}{strong}Monday, January 15 at 8:00 p.m. to Tuesday, January 16 at 5:00 a.m.{/strong}{/p}{ul}{li}Southbound I-515 reduced to one lane between N Stephanie St and Sunset Rd{/li}{li}Northbound I-515 reduced to one lane between S Nellis Blvd and Flamingo Rd{/li}{li}Northbound I-515 off/onramps at Tropicana Ave and Flamingo Rd offramp closed{/li}{/ul}{p}{strong}Tuesday, January 16 at 8:00 p.m. to Wednesday, January 17 at 5:00 a.m.{/strong}{/p}{ul}{li}Southbound I-515 reduced to one lane between Flamingo Rd and S Nellis Blvd{/li}{li}Southbound I-515 off/onramps at Tropicana Ave and Flamingo Rd onramp closed{/li}{li}Northbound I-515 reduced to one lane between S Nellis Blvd and Flamingo Rd{/li}{/ul}{p}{strong}Wednesday, January 17 at 8:00 p.m. to Thursday, January 18 at 5:00 a.m.{/strong}{/p}{ul}{li}Southbound I-515 reduced to one lane between Flamingo Rd and S Nellis Blvd{/li}{li}Southbound I-515 off/onramps at Tropicana Ave and Flamingo Rd onramp closed{/li}{li}Northbound I-515 reduced to one lane between S Nellis Blvd and Flamingo Rd{/li}{li}Northbound I-515 off/onramps at Tropicana Ave and Flamingo Rd offramp closed{/li}{/ul}{p}{strong}Thursday, January 18 at 8:00 p.m. to Friday, January 19 at 5:00 a.m.{/strong}{/p}{ul}{li}Southbound I-515 reduced to one lane between S Nellis Blvd and N Stephanie St{/li}{li}Southbound I-515 off/onramps at Russell Rd closed{/li}{/ul}{p}{strong}Sunday, January 21 at 8:00 p.m. to Monday, January 22 at 5:00 a.m.{/strong}{/p}{ul}{li}Southbound I-515 reduced to one lane between N Stephanie St and Sunset Rd{/li}{li}Southbound I-515 off/onramps at Galleria Dr closed{/li}{/ul}{p}{strong}MORE ON NEWS 3 |{ }{/strong}{a href=\\\"https://news3lv.com/news/local/improvement-project-traffic-signal-installation-brings-roadwork-on-monday-northwest-las-vegas-valley-grand-teton-drive-and-shaumber-road-intelligent-transportation-system#\\\" target=\\\"_blank\\\" title=\\\"https://news3lv.com/news/local/improvement-project-traffic-signal-installation-brings-roadwork-on-monday-northwest-las-vegas-valley-grand-teton-drive-and-shaumber-road-intelligent-transportation-system#\\\"}{strong}Improvement project, traffic signal installation brings roadwork on Monday{/strong}{/a}{/p}{p}The I-515 (U.S. 95) from Sunset Road in Henderson to Wyoming Avenue Repaving Project consists of pavement preservation to improve the safety and rideability of I-515 by replacing mainline concrete slabs, repairing spalls, installing new high-mast lighting, and upgrading median barrier rail.{ }{br}{/p}{p}For the latest on projects happening along the I-515 corridor, click {a href=\\\"https://www.nv515.com/\\\" target=\\\"_blank\\\" title=\\\"https://www.nv515.com/\\\"}{strong}here.{/strong}{/a}{/p}",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.nv515.com/\\",
+      "https://nv515.com/\\"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "northern nevada",
+          "sentiment": "none"
+        },
+        {
+          "name": "southern nevada",
+          "sentiment": "none"
+        },
+        {
+          "name": "west coast",
+          "sentiment": "none"
+        },
+        {
+          "name": "las vegas",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-16T00:04:46.795+02:00",
+    "updated": "2024-01-16T00:04:46.795+02:00"
+  },
+  {
+    "uuid": "9729c59bc167c105f195fb76db7ea079bf19bbfd",
+    "url": "https://www.estadao.com.br/brasil/ladroes-conseguem-acessar-a-distancia-celular-de-idosa-e-roubam-r-207-mil-nprm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Luccas Lucena",
+    "published": "2024-08-08T20:28:00Z",
+    "title": "Ladrões conseguem acessar a distância celular de idosa e roubam R$ 207 mil",
+    "text": "Uma idosa de 71 anos teve um prejuízo de mais de R$ 207 mil após conceder acesso remoto do próprio celular a uma quadrilha especializada em aplicar golpes em idosos. Segundo a Polícia Civil do Distrito Federal , foram cumpridos cinco mandados de busca e apreensão e realizados sete bloqueios de contas bancárias em Goiânia e cidades vizinhas. A identidade dos suspeitos não foi revelada. O Estadão não localizou a defesa dos acusados. A mulher foi contatada por telefone por criminosos que se passaram por funcionários da Central de Segurança do seu banco. Utilizando técnicas fraudulentas, os golpistas induziram a idosa a fornecer acesso remoto ao seu celular, permitindo a realização de diversas transações bancárias. A idosa não conseguiu o estorno dos valores pelo banco, uma vez que concedeu acesso ao seu celular aos criminosos. A investigação conseguiu identificar os líderes responsáveis pelo golpe, bem como terceiros que emprestaram suas contas bancárias para receber os valores desviados. A polícia não descarta a possibilidade de identificação de outros golpes praticados pelo mesmo grupo. Os criminosos irão responder pelos crimes de associação criminosa, fraude eletrônica e lavagem de dinheiro com penas que somam mais de 15 anos.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:24:39.794+03:00",
+    "updated": "2024-08-09T02:37:42.883+03:00"
+  },
+  {
+    "uuid": "0c11c45a4fe490e52887312d727f79a46fa5dd10",
+    "url": "https://religionnews.com/2024/05/25/4150340",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ray Kirstein",
+    "published": "2024-05-25T22:30:00Z",
+    "title": "Brian Kaylor: The Heresy of Christian Nationalism",
+    "text": "﻿ ﻿\nHow did phrases like “One nation under God” become part of the Pledge of Allegiance, and “In God We Trust” become America’s national motto? As Christian Nationalism becomes more and more mainstream, experts like Brian Kaylor are examining the origins of these religious elements in American public life. Contrary to popular belief, much of this conflation of religion and national identity was not established by evangelicals, but were, instead, the work of mainline Protestant clergy and politicians.\nIn this week’s episode of The State of Belief , Interfaith Alliance’s weekly radio show and podcast, Rev. Paul Raushenbush is joined by Rev. Dr. Brian Kaylor to explore the findings in Brian’s new book, Baptizing America: How Mainline Protestants Helped Build Christian Nationalism, co-authored with Rev. Beau Underwood.\n“Jesus doesn’t love America more than any other nation. We’re not specially blessed. Our soldiers are not God’s soldiers, right? We are called to be in communion with the believers, whether they’re on this side of the border or on the other side of the border. And that’s supposed to be our first allegiance. I mean, Jesus said very clearly, ‘You cannot serve two masters.’ And Christian nationalism challenges that assumption at best, and at worst puts the American kingdom as the true master – because we know that they will come into conflict. We know you will pick one kingdom over the other. So we’re very concerned about the heresy of Christian nationalism.”\n– Dr. Brian Kaylor, award-winning author and journalist. He serves as the president and editor-in-chief of Word&Way and hosts the Baptist Without an Adjective podcast. Other books include Sacramental Politics: Religious Worship as Political Action , and For God’s Sake, Shut Up!\nWe wrap up this episode with some highlights from two years of Paul asking guests: “What gives you hope right now?” Hear inspiring thoughts from Rainn Wilson, Dr. AnneMarie Mingo, Rev. Susan Sparks and Dr. Eddie Glaude, Jr.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Politics",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.amazon.com/exec/obidos/ASIN/B0B6N27QMM",
+      "https://wordandway.org/",
+      "http://www.amazon.com/exec/obidos/ASIN/0827203381",
+      "http://www.amazon.com/exec/obidos/ASIN/B07FVHHMCX",
+      "https://podcasts.apple.com/us/podcast/baptist-without-an-adjective/id1361747029",
+      "http://amazon.com/exec/obidos/ASIN/0827203381",
+      "https://wordandway.org",
+      "http://amazon.com/exec/obidos/ASIN/B07FVHHMCX",
+      "https://www.wordandway.org/",
+      "http://amazon.com/exec/obidos/ASIN/B0B6N27QMM",
+      "https://www.podcasts.apple.com/us/podcast/baptist-without-an-adjective/id1361747029"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "brian kaylor",
+          "sentiment": "negative"
+        },
+        {
+          "name": "brian",
+          "sentiment": "none"
+        },
+        {
+          "name": "jesus",
+          "sentiment": "none"
+        },
+        {
+          "name": "paul raushenbush",
+          "sentiment": "none"
+        },
+        {
+          "name": "beau underwood",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "interfaith alliance",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "baptizing america",
+          "sentiment": "none"
+        },
+        {
+          "name": "america",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-26T03:02:39.573+03:00",
+    "updated": "2024-05-26T03:40:36.816+03:00"
+  }
+]

@@ -1,0 +1,587 @@
+[
+  {
+    "uuid": "acd56ee7771f58712159dcfc34e8dc49493a6c01",
+    "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/study-implicates-hospital-sinks-important-source-resistant-pathogen",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chris Dall; MA",
+    "published": "2023-12-28T20:29:00Z",
+    "title": "Study implicates hospital sinks as important source of resistant pathogen transmission | CIDRAP",
+    "text": "Hospital sinks contaminated with carbapenemase-producing Enterobacteriaceae (CPE) are a significant source of transmission to patients, Israeli researchers [reported yesterday](https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/abs/sinktraps-are-a-major-source-for-carbapenemaseproducing-enterobacteriaceae-transmission/D5ACF476B6AA956C834DFD6A8FBDBDB1) in Infection Control & Hospital Epidemiology. Because CPE has become widespread in Israeli hospitals, and the hospital environment—specifically sink traps and water drainage systems—has been increasingly recognized as a source of multidrug-resistant organism outbreaks in hospitals, researchers at Israel's Sheba Medical Center set out to assess the extent and persistence of sink-drain and sink-outlet contamination in their facility and trace the possible transmission to patients. From 2017 to 2019, they sampled 592 patient-room sinks in 34 departments and analyzed isolates from sinks and patients. Persistent contamination, links to patients A total of 144 (24%) of 592 sinks were contaminated with CPE in 25 of 34 departments, and repeated sampling showed that 52% to 100% were contaminated at least once during the sampling period. During the study period, 318 patients acquired CPE during their hospitalization, with Klebsiella pneumoniae (46%), Escherichia coli (23%), and Enterobacter spp. (23%) the most common species. In 127 (40%) of those patients, no index case was detected but a contaminated sink was identified with the same CPE strain. In 57 additional cases, researchers identified CPE-contaminated sinks with a different bacterial species than that acquired by the patient — but with the same carbapenemase gene (bla), which suggests the sink could have been the source of transmission. For 20 cases with an identical sink-patient strain, sink-to-patient transmission was assumed because the sink was contaminated before the patient was hospitalized, and the patient's initial screening for CPE was negative. Genomic sequencing of two sink-patient isolate pairs identified two plasmids that were nearly identical. During 2 years of follow-up, repeated sink sampling showed that contamination of sink traps with CPE was persistent. The study authors called the findings worrisome. \"This report adds to the accumulating data indicating the significant role of sinks in CPE transmission and suggests a paradigm change, in which infection control interventions to prevent CPE dissemination should focus on environmental control and appropriate behavior regarding the sink and its surroundings,\" they wrote.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Health",
+      "Disaster and Accident"
+    ],
+    "external_links": [
+      "https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/abs/sinktraps-are-a-major-source-for-carbapenemaseproducing-enterobacteriaceae-transmission/D5ACF476B6AA956C834DFD6A8FBDBDB1)",
+      "https://cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/abs/sinktraps-are-a-major-source-for-carbapenemaseproducing-enterobacteriaceae-transmission/D5ACF476B6AA956C834DFD6A8FBDBDB1)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "infection control & hospital epidemiology",
+          "sentiment": "none"
+        },
+        {
+          "name": "sheba medical center",
+          "sentiment": "none"
+        },
+        {
+          "name": "cpe",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "israel",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:14:37.269+02:00",
+    "updated": "2023-12-29T00:14:37.269+02:00"
+  },
+  {
+    "uuid": "d514fb104ff6cb5a3a51a4076f95d1a5f3e12544",
+    "url": "https://www.elprogreso.es/gl/articulo/sociedad/filtran-datos-489-millones-usuarios-instagram/202411151549071804761.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Adrián López",
+    "published": "2024-11-15T12:49:00Z",
+    "title": "Se filtran datos de 489 millones de usuarios de Instagram",
+    "text": "El pasado 10 de noviembre, un ciberatacante anunció en un foro especializado la venta de un enorme conjunto de datos que, según sus palabras, incluiría registros de 489 millones de usuarios de Instagram. Este incidente afectaría a una cuarta parte de los usuarios activos de la plataforma, que cuenta con más de 2.000 millones de usuarios mensuales.\n¿Cómo obtuvo los datos?\nEl atacante habría utilizado técnicas de raspado de datos o web scraping, obteniendo información de perfiles públicos y, aparentemente, accediendo a detalles que no deberían ser visibles mediante las API de Instagram. Entre los datos filtrados, se incluyen:\n- Nombre completo y nombre de usuario.\n- Dirección de correo electrónico.\n- Biografía y URL externa del perfil.\n- Número de seguidores y seguidos.\n- Ubicación.\n- Fecha de creación de la cuenta.\n- Categoría de la cuenta (como influencer o empresa).\n- ID de usuario.\nInvestigadores de Cybernews han examinado una muestra de los registros publicados y concluyen que los perfiles parecen auténticos. Sin embargo, las direcciones de correo incluidas no coinciden con datos filtrados previamente, lo que podría indicar que la información es reciente o, alternativamente, falsa.\nUn investigador de Cybernews explicó que las API públicas de Instagram no deberían permitir el acceso a correos electrónicos privados, lo que sugiere una posible exposición de una API privada o una vulnerabilidad conocida como Broken Object Level Authorization.\n¿Qué implica esta filtración?\nCon estos datos, los ciberdelincuentes podrían llevar a cabo ataques de suplantación de identidad y otras estrategias de ingeniería social. Perfiles empresariales e influencers con gran número de seguidores serían especialmente vulnerables.\nAunque el scraping no es ilegal en todos los países, infringe las políticas de Meta, que prohíben el uso de herramientas automatizadas para extraer información sin permiso. Meta asegura tener un equipo dedicado a prevenir el mal uso de datos externos, pero esta brecha pone en evidencia los retos constantes para proteger la privacidad de los usuarios.\nRecordando el caso de Facebook en 2021\nNo es la primera vez que una plataforma de Meta enfrenta una fuga masiva de datos. En 2021, un incidente similar afectó a más de 533 millones de usuarios de Facebook. En aquella ocasión, los datos expuestos incluían números de teléfono, nombres completos y localizaciones, utilizados por los hackers para campañas de spam y fraude.\nComprueba si estas afectado\nDesde hace años, existe un método para saber si tu correo o contraseñas se han expuesto en este tipo de filtraciones masivas: Have I been Pwned. La web fue creada por un reputado analista de seguridad y trabajador de Microsoft que asegura no guardar los registros de las búsquedas que se hacen. Este site obtiene copias de todas las filtraciones y ofrece un buscador para que puedas comprobar si tus datos han sido también incluidos.\n¿Cómo protegerse?\nPara minimizar el impacto de este tipo de ataques, considera los siguientes consejos:\n- Configura la privacidad de tu perfil: Reduce la información visible públicamente en tus cuentas sociales.\n- Utiliza contraseñas únicas y robustas: Combina caracteres, números y símbolos para evitar accesos no autorizados.\n- Activa la autenticación en dos pasos: Añade una capa adicional de seguridad a tus cuentas.\n- Desconfía de correos sospechosos: Evita hacer clic en enlaces de mensajes o correos no solicitados.\n- Mantén tus aplicaciones actualizadas: Las actualizaciones incluyen parches de seguridad que corrigen posibles vulnerabilidades.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://haveibeenpwned.com/",
+      "https://haveibeenpwned.com",
+      "https://www.haveibeenpwned.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "URL",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T17:37:47.284+02:00",
+    "updated": "2024-11-15T17:37:47.284+02:00"
+  },
+  {
+    "uuid": "a8cd2098c424f52cea3264aebe49207fcfd3e7c0",
+    "url": "https://www.thetablet.co.uk/news/18084/christmas-attacks-leave-nearly-200-dead-in-central-nigeria",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Tablet - w: enquiries@thetablet.co.uk",
+    "published": "2023-12-28T17:31:00Z",
+    "title": "Christmas attacks leave nearly 200 dead in central Nigeria - The Tablet",
+    "text": "Catholic leaders demanded government action after Christian villages in the central Nigerian state of Plateau suffered a series of attacks over Christmas weekend that left nearly 200 dead.\n“This indeed has been a gory Christmas for us,” Plateau’s governor Caleb Mutfwang said in a Tuesday statement that noted the attacks were “well-coordinated” and used “heavy weapons”.\nBishop Matthew Kukah of Sokoto in northern Nigeria called on President Bola Tinubu to take immediate action to protect the Nigerian people, telling him he had “no excuses before God or the people of Nigeria” and that “neither God nor history will forgive you if you fail”.\nThe bishop’s address emphasised how “Nigerians have almost lost hope”\nthat “a government can really and truly care for them” and that “our politicians will put our interests first and find a way to deal with the cancer of corruption”.\nAccording to accounts by several local sources and human rights activists, 198 Christians were killed in a series of terror attacks in 26 Christian communities in Plateau. The attacks began the night of 23 December and continued into Christmas Day.\nMaria Lozano, a representative for Aid to the Church in Need, told CNA that the Christmas attacks made the weekend “one of the most violent [times] in the area’s history”. She said she believes that the Fulani tribe is responsible for the attacks.\nThis was the latest instance of terrorists targeting Nigerian Christians on significant feast days, following\nthe 2022 Pentecost massacre that killed 50 people.\nLozano said the attacks were the result of a combination of problems including ethnic and religious strife\nbetween the Christian farmers and nomadic Fulani herdsmen.\nShe pointed out that the timing of the attacks\nhad “religious undertones”.\nLozano also said that a “lack of response from the government” over the years\nhas worsened the situation in the region and that tangible government support has been largely absent after the Christmas massacre. This has forced churches to take on the “primary responsibility of providing assistance,” she said.\nPresident Bola Tinubu ordered an “immediate mobilisation of relief sources” and directed the country’s security agencies to “scour every part of the zone” and “apprehend the culprits responsible for these atrocities”.\nMutfwang called on the security agencies to identify those who have been “the sponsors of these attacks” so that the government can act to “unravel all those responsible”.\n“Until we cut off the supply in terms of sponsorship, we may never be able to see the end of this,” he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Crime, Law and Justice",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "caleb mutfwang",
+          "sentiment": "none"
+        },
+        {
+          "name": "matthew kukah",
+          "sentiment": "none"
+        },
+        {
+          "name": "bola tinubu",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "nigeria",
+          "sentiment": "none"
+        },
+        {
+          "name": "plateau",
+          "sentiment": "none"
+        },
+        {
+          "name": "” plateau",
+          "sentiment": "none"
+        },
+        {
+          "name": "sokoto",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:22:30.069+02:00",
+    "updated": "2023-12-29T00:22:30.069+02:00"
+  },
+  {
+    "uuid": "42d19772870d5fd90f9ef1bb452945e3ff0cc910",
+    "url": "https://www.elespanol.com/malaga/20250103/motivo-cambios-cabalgata-reyes-malaga-aemet-preve-llueva-domingo-partir/913658815_0.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ángel Recio",
+    "published": "2025-01-03T00:00:00Z",
+    "title": "El motivo por los cambios en la Cabalgata de Reyes en Málaga: Aemet prevé que llueva el domingo 5 a partir de las 19:00",
+    "text": "Quedan apenas dos días para el domingo 5 de enero, la jornada en la que históricamente se hacen las Cabalgatas de Reyes Magos. Esa corta distancia les permite a los técnicos de la Agencia Estatal de Meteorología (Aemet) tener una previsión más certera sobre qué puede pasar, es decir, si va a llover y a qué hora.\nEn estos momentos, Aemet estima que va a llover en Málaga el domingo 5 a partir de las 19:00 o las 20:00 \"con una probabilidad del 90/100%\" . Están, por tanto, bastante seguros.\nNo obstante, la lluvia no se acciona con un botón. Son frentes que pueden ir cambiando por multitud de factores. Parece claro que va a llover el domingo, pero siempre se puede adelantar o retrasar dos o tres horas . O puede que finalmente el viento se lo lleve a otro lugar. De ahí la complejidad de las previsiones.\nAgrupación de cofradías\n[Málaga hará su Cabalgata de Reyes el domingo 5 o la suspenderá en función de la lluvia: mañana se decide] El frente viene de oeste a este por toda Andalucía . De hecho, Huelva, Sevilla o Cadiz ya anunciaron el jueves que adelantaban sus cabalgatas de Reyes Magos al sábado 4. Ayer también lo hicieron Marbella, Torremolinos o Antequera. Y este viernes otras localidades de la provincia como Mijas han seguido el mismo camino.\nTodo el mundo está pendiente de la Cabalgata de Málaga capital porque, lógicamente, es la de mayor envergadura y la que atrae a más personas. Y es también la más difícil de mover porque no solo hay una Cabalgata sino varias por las barriadas.\nLa concejala Teresa Porras ha dejado claro este viernes que la Cabalgata no se va a adelantar. Se hará el domingo 5 o se suspenderá . Mañana se tomará una decisión. Se plantea hacerla por la mañana y parte de la tarde, de forma que se evite estar en la calle a partir de las 19:00.\nDesde Aemet apuntan que la probabilidad de lluvia en Málaga capital hasta las 16:00 o las 17:00 \"son muy bajas o nulas\". Pero con el tiempo nunca se sabe.\nAEMET Málaga Cabalgata de Reyes",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue"
+    ],
+    "topics": [
+      "Weather->weather forecast",
+      "Social Issue->demographics",
+      "Social Issue->social condition",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Reyes Magos",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Agencia Estatal de Meteorología",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T14:16:10.361+02:00",
+    "updated": "2025-01-03T14:16:10.361+02:00"
+  },
+  {
+    "uuid": "9899515487227ceb0f857e45c11b8f9005ff1c0a",
+    "url": "https://www.lavoixdunord.fr/1412574/article/2023-12-24/risques-d-attentats-noel-plusieurs-arrestations-en-europe",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2023-12-24T13:46:00Z",
+    "title": "Risques d’attentats à Noël : plusieurs arrestations dans un réseau islamiste en Europe",
+    "text": "Risques d’attentats à Noël : plusieurs arrestations dans un réseau islamiste en Europe\n«\n Intervenant sur un réseau islamiste », les autorités autrichiennes ont arrêté quatre personnes samedi, a indiqué le ministère de l’Intérieur. Un porte-parole du ministère a ensuite indiqué que parmi ces quatre, trois restaient détenues dans l’attente d’investigations complémentaires.\nCitant « un risque accru », la police a par ailleurs renforcé les contrôles, notamment autour des églises, cérémonies religieuses et marchés de Noël à Vienne. « Il n’y a pas de menace immédiate d’attaque à Vienne », a néanmoins précisé le porte-parole de la police. Samedi, la police autrichienne avait indiqué dans un communiqué que «\ndes agents terroristes en Europe appellent à mener des attaques contre des évènements chrétiens, spécialement autour du 24 décembre ».\nContrôles stricts\nLes autorités allemandes ont en parallèle annoncé avoir renforcé les mesures de sécurité dans et autour de la cathédrale de Cologne notamment, l’une des plus visitées du pays, en raison d’un risque de sécurité lié à une menace qualifiée d’« islamiste ». Les fidèles se rendant aux\nservices religieux de Noël doivent se soumettre à de stricts contrôles à l’entrée notamment.\nSelon le site du quotidien allemand\n Bildsamedi, des services de sécurité en Autriche, Allemagne et Espagne ont reçu des indications selon lesquelles un groupe islamiste voudrait commettre plusieurs attentats en Europe, possiblement à la Saint-Sylvestre et à Noël. Selon le journal, les cibles de ces attentats pourraient être des messes de Noël à Cologne, Vienne et Madrid. Il affirme également qu’une personne a été interpellée en Allemagne.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://www.bild.de/",
+      "https://bild.de/",
+      "https://www.bild.de"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-24T17:01:16.821+02:00",
+    "updated": "2023-12-24T17:01:16.821+02:00"
+  },
+  {
+    "uuid": "c540dcbaccb965506ad83ab6ec8ce36463229750",
+    "url": "https://www.lowkickmma.com/andrew-tate-accuses-sean-strickland-stealing",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "www.facebook.com/superbeastcraig",
+    "published": "2024-01-25T21:07:00Z",
+    "title": "Controversial Influencer Andrew Tate Accuses Former UFC Champ Sean Strickland Of Stealing His Gimmick - LowKick MMA",
+    "text": "Controversial influencer Andrew Tate accuses former UFC champ Sean Strickland of stealing his gimmick\nThey say imitation is the sincerest form of flattery.\nAndrew Tate, a former kickboxing world champion, rose to prominence in 2022 thanks to his controversial and often misogynistic views on multiple social media platforms. Today, Tate is largely out of the limelight while he awaits trial on a slew of serious charges, including rape and human trafficking. But that hasn’t stopped the British-American from offering his unique take on a variety of topics.\nRecently, Tate accused former middleweight titleholder\nSean Strickland of copying everything he “teaches” despite getting nothing but hate in return from the UFC star.\n“So he says ‘hates me’ on a podcast but then copies everything I teach. I’m not mad. Glad there’s more people who understand – We must free minds,” Tate wrote in response to a clip of Strickland on\n[X].\nFollowing his impressive performance against\nIsrael Adesanya last year, Strickland slammed Andrew Tate during a podcast appearance, referencing an incident where Tate was allegedly pretending to be a webcam model and stealing money from other men.\n“To see the way he talked with no remorse, it wasn’t, ‘You know what, man? I did something so morally wrong,” Strickland said on the\n[Full Send Podcast]. “I took advantage of men, I took money from men,’ it was like, ‘No, f*** them. I’m a con artist, I’m a piece of s***.’\n“So, Andrew Tate, you guys, if you want to look up to a guy, look up to a guy like Jordan Peterson. He understands masculinity, honesty, how to be a f*",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sean strickland",
+          "sentiment": "negative"
+        },
+        {
+          "name": "andrew tate",
+          "sentiment": "negative"
+        },
+        {
+          "name": "israel adesanya",
+          "sentiment": "none"
+        },
+        {
+          "name": "strickland",
+          "sentiment": "none"
+        },
+        {
+          "name": "tate",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ufc",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "strickland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:13:08.603+02:00",
+    "updated": "2024-01-26T00:13:08.603+02:00"
+  },
+  {
+    "uuid": "e4cbb11127d14cacb407ea471a52153e061bd073",
+    "url": "https://tdpelmedia.com/leader-of-haitian-gang-pleads-guilty-in-u-s-court-for-arms-smuggling-and-hostage-ransom-laundering",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Judah Olanisebee",
+    "published": "2024-02-01T17:10:00Z",
+    "title": "Leader of Haitian Gang Pleads Guilty in U.S. Court for Arms Smuggling and Hostage Ransom Laundering",
+    "text": "Gang Leader’s Guilty Plea:\nJoly Germine, the self-proclaimed “King” of the notorious Haitian gang, 400 Mawozo, pleaded guilty in a U.S. court to charges related to a gunrunning conspiracy and money laundering.\nThe charges involved smuggling firearms to Haiti, violating U.S. export laws, and laundering ransoms paid for U.S. hostages held by the gang in 2021.\nFirearm Smuggling Operation:\nThe conspiracy orchestrated by Germine led to the purchase of at least 24 firearms in the United States, including military-grade weapons like AK-47s, AR-15s, and a .50 caliber rifle.\nThe Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) identified these weapons as military-grade and deemed them integral to the gang’s criminal activities in Haiti.\nProsecution’s Perspective:\nAssistant Attorney General Matthew G. Olsen emphasized Germine’s admission to an illegal gun-running scheme, highlighting its connection to the gang’s violent activities, including the kidnapping of 14 U.S. citizens in 2021.\nThe Justice Department pledged an aggressive pursuit of those engaging in illicit activities, particularly the smuggling of U.S. weapons for malicious actors and criminal enterprises.\nAddressing Gang Violence in Haiti:\nU.S. Attorney Matthew M. Graves underscored the role played by Germine and his co-defendant, Eliande Tunis, in leading a violent gang in Haiti.\nHe emphasized their involvement in arming the gang and laundering ransom proceeds obtained from kidnapping Americans.\nHalting their illegal activities was deemed crucial to preventing further violence.\nFBI’s Dedicated Efforts:\nSpecial Agent in Charge Jeffrey B. Veltri of the FBI Miami Field Office reiterated the FBI’s commitment to disrupting and dismantling gangs involved in hostage-taking, particularly when U.S. citizens are at risk.\nThe focus was on depriving such gangs of the means to perpetrate violence through the smuggling of firearms.\nLegal Proceedings and Sentencing:\nThe guilty plea came at the conclusion of the government’s case during trial, featuring testimony from 24 witnesses over two weeks.\nGermine faces up to life in prison for his role in the conspiracy.\nCo-defendant Eliande Tunis, previously referred to as Germine’s “wife,” had also pleaded guilty and faces a similar potential sentence.\nOverview of Gang’s Operations:\nThe evidence presented at trial highlighted Germine’s coordination of the gang’s operations from a Haitian prison, directing the acquisition of firearms using unmonitored cell phones.\nThe gang’s activities included armed hostage takings, ransom payments, and the smuggling of firearms from the United States to Haiti.\nCollaborative Investigation:\nThe FBI Miami Field Office led the investigation with assistance from ATF, the Department of Commerce’s Office of Export Enforcement, and valuable support from the government of Haiti.\nThe collaboration involved various U.S. agencies, emphasizing the international dimension of the case.\nProsecution Team:\nThe case is being prosecuted by Assistant U.S. Attorneys Karen P. Seifert and Kimberly Paschall, along with Trial Attorney Beau Barnes from the National Security Division’s Counterintelligence and Export Control Section.\nTheir roles in presenting the case and ensuring legal proceedings are highlighted.\nIn summary, Joly Germine’s guilty plea marks a significant milestone in the legal pursuit of individuals involved in arms smuggling and money laundering for violent gangs, particularly those targeting U.S. citizens in Haiti.\nThe legal proceedings and potential life sentences underscore the gravity of the charges and the commitment to justice.\nThe case serves as a testament to collaborative efforts between U.S. and international agencies in addressing transnational criminal enterprises.\nShare on Facebook«||» «||» «||»\nRead More On The Topic On TDPel Media",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftdpelmedia.com%2Fleader-of-haitian-gang-pleads-guilty-in-u-s-court-for-arms-smuggling-and-hostage-ransom-laundering%2F",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftdpelmedia.com%2Fleader-of-haitian-gang-pleads-guilty-in-u-s-court-for-arms-smuggling-and-hostage-ransom-laundering%2F"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joly germine",
+          "sentiment": "negative"
+        },
+        {
+          "name": "matthew g. olsen",
+          "sentiment": "none"
+        },
+        {
+          "name": "mawozo",
+          "sentiment": "none"
+        },
+        {
+          "name": "germine",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "haitian gang pleads guilty in u.s. court",
+          "sentiment": "negative"
+        },
+        {
+          "name": "atf",
+          "sentiment": "none"
+        },
+        {
+          "name": "justice department",
+          "sentiment": "none"
+        },
+        {
+          "name": "bureau of alcohol, tobacco",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "haiti",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-02T02:19:01.797+02:00",
+    "updated": "2024-02-02T02:19:01.797+02:00"
+  },
+  {
+    "uuid": "264b4aaddf9f6ce8c45a2ecd82d823063bb7e097",
+    "url": "https://www.fox13news.com/news/powerful-storms-possible-tornadoes-turn-deadly-in-tallahassee-as-south-pummeled-by-fast-moving-squall-line",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "FOX Weather",
+    "published": "2024-05-10T00:00:00Z",
+    "title": "Powerful storms, possible tornadoes turn deadly in Tallahassee as South pummeled by fast-moving squall line",
+    "text": "The deadly multiday severe weather outbreak impacting millions across the U.S. stretched into Friday morning as an intense squall line of thunderstorms brought damaging wind gusts across the South and multiple Tornado Warnings to the Tallahassee, Florida area.Tallahassee Mayor John Dailey told FOX Weather that one person was killed in the storms as a squall line swept across the Florida Panhandle early Friday morning, triggering a variety of severe weather warnings.\"Unfortunately, we have had one confirmed fatality, and we ask everybody to keep their family in your prayers. And, of course, we’re assessing the damage, and we’ll continue to do so,\" he said.According to the FOX Forecast Center, at least four tornadoes were confirmed on radar in Tallahassee, Florida, on Friday morning, while thunderstorms produced gusts as high as 84 mph. STAY CONNECTED: Download the free FOX 13 News app for Live SkyTower Radar, forecast videos, and more weather coverage \"The reports that I&apos;m receiving is that we had wind gusts between 80 and 100 mph ... that&apos;s hurricane strength,\" Dailey said. \"It was a significant storm that came through, and what is concerning is we haven&apos;t even gotten into the storm season, per se.\"NWS forecasters at the Tallahassee office said they had to take shelter and transfer storm warning authority to neighboring offices.\"Dangerous situation unfolding for Tallahassee right now,\" the NWS said as tornado warnings were in effect. \"Seek shelter immediately. Multiple circulations and radar-confirmed tornadoes are apparent on radar.\" READ: Hurricane season 2024 could be among most active on record, experts predict Overall, more than 200,000 customers were without power across the South during the peak of the storms as of early Friday morning, with just over 125,000 of them in Florida. The City of Tallahassee said early assessments of the electric grid in the wake of the storms have shown severe damage to transmission lines, impacting 11 substations. Restoration will possibly take through the weekend. Mutual aid has been requested, and over 66,000 customers are without service as of 9 a.m. Friday.The National Weather Service will determine the exact number of tornadoes that occurred later Friday or Saturday. READ: Hurricane names 2024: Here’s why the list may look familiar \"We have calls for service all over the county,\" Kevin Peters, director of Leon County Emergency Management, told FOX Weather. \"Our county and city responders are responding to 911 calls and making sure people are safe. That&apos;s our first step and our most important step is to make sure people get rescued and are safe.\"The NWS reports numerous reports of damage all across Tallahassee around 7 a.m. ET as the squall line was moving through. READ: More than 100 wild flamingos counted in Florida, census shows NWS forecasters at the Tallahassee office said they had to take shelter and transfer storm warning authority to neighboring offices.\"Dangerous situation unfolding for Tallahassee right now,\" the NWS said as Tornado Warnings were in effect. \"Seek shelter immediately. Multiple circulations and radar-confirmed tornadoes apparent on radar.\"Overall, more than 300,000 customers were without power across the South during the peak of the storms as of early Friday morning, with over 200,000 of them in FloridaThe City of Tallahassee said early assessments of the electric grid in the wake of the storms have shown severe damage to transmission lines, impacting 11 substations. Restoration will possibly take through the weekend. Mutual aid has been requested, and over 66,000 customers are without service as of 9 a.m. Friday. READ: How the fading El Nino pattern will impact hurricane season activity in 2024 Lance Greenfield was in Tallahassee at the time of the Tornado Warning and experienced heavy rain, wind and a massive thunder and lightning show that he said he&apos;s never seen before.\"We just lost power,\" he said in a Facebook post. \"Thankfully, I just made my second cup of coffee … fingers crossed.\"Florida State University campuses in Tallahassee are closed on Friday due to the impact of the severe weather. Leon County Schools said they were closing due to tornado recovery efforts.A 71 mph wind gust was reported in Douglasville, Alabama, with a 62 mph gust in Troy, Alabama as the line of storms swept through overnight. Numerous damage reports came in from central Mississippi, including toppled trees that trapped residents inside their home in the town of Harmony. In Clarksdale, there was significant wind damage to a home, including gusts ripping off a power meter and leaving cars and livestock pens in ruins.Near Meridian, a tree fell onto a semitruck as it traveled along Interstate 59. So far there are no reports of any injuries from the cluster of storms.The line of storms will keep pushing east into eastern Georgia and northern Florida into midday Friday. Severe Thunderstorm Watches remain in effect for parts of the Southeast, including much of the Florida Panhandle, until late Friday morning. Unlike during activity that began this week, the main threats from the storms appear to remain hail and damaging winds rather than tornadoes, through a few tornadoes can&apos;t be ruled out.NOAA&apos;s Storm Prediction Center still maintains a Level 3 out of 5 severe weather threat Friday for the greater Jacksonville area into northern Florida and southeastern Georgia as the squall line approaches and moves through. Another round of severe weather is possible later Friday into the afternoon and evening in the coastal Carolinas as some lingering atmospheric instability triggers more thunderstorms, putting Wilmington, North Carolina in a Level 2 risk.Beyond Friday, the frontal boundary is expected to push offshore, which will allow the region to be thunderstorm-free over the weekend.It will usher in a relative national calm in the weather with minimal severe weather threats in the forecast for the next several days. Read more at FOXWeather.com. SIGN UP: Click here to sign up for the FOX 13 daily newsletter",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "http://fox13news.onelink.me/Sd7G?pid=Web&c=in_article&af_web_dp=https%3A%2F%2Fwww.fox13news.com%2Fapps",
+      "https://www.foxweather.com/weather-news/forecast-for-rain-thunderstorms-end-of-workweek",
+      "http://fox13news.onelink.me/Sd7G",
+      "https://foxweather.com/weather-news/forecast-for-rain-thunderstorms-end-of-workweek",
+      "http://www.fox13news.onelink.me/Sd7G?pid=Web&c=in_article&af_web_dp=https%3A%2F%2Fwww.fox13news.com%2Fapps"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "john dailey",
+          "sentiment": "none"
+        },
+        {
+          "name": "dailey",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "tallahassee",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "south",
+          "sentiment": "none"
+        },
+        {
+          "name": "fox forecast center",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida panhandle",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T20:02:50.141+03:00",
+    "updated": "2024-05-10T20:11:57.431+03:00"
+  },
+  {
+    "uuid": "8204e8236ec1b6986265a4328727c2ba2cb61049",
+    "url": "https://www.androidheadlines.com/2024/01/sony-playstation-showcases-upcoming-2024-ps5-games-trailer.html/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Justin Diaz",
+    "published": "2024-01-06T00:02:00Z",
+    "title": "New PlayStation trailer showcases upcoming PS5 games for 2024",
+    "text": "Sony confirms highly anticipated upcoming PS5 games in 2024 By Justin Diaz January 05, 2024 Sony is turning on the hype machine and cranking things up to eleven with a new PlayStation trailer that showcases upcoming PS5 games for 2024. In it, you get brief snippets of a bunch of different games that are highly anticipated by players. Including some we haven’t heard much about for quite some time. Titles like Stellar Blade, which is an upcoming PS5 exclusive, get shown off pretty close to the beginning of the trailer.\nThis is a game that Sony announced well over a year ago but hasn’t confirmed exactly when it would be released. In fact, Sony and the development studio were quiet on any information surrounding Stellar Blade for a long time. This caused some PS5 owners to wonder if the game was still in active development. The new trailer confirms it’ll be landing sometime this year. Although it’s still unknown what the official launch date is. It was supposed to come out in 2023 but it was delayed to 2024 . Advertisement Advertisement\nStellar Blade is far from the only big game dropping on PS5 this year though. And the trailer hypes up more than a few of those games. Some of which do have official release dates.\nThe PS5 upcoming games trailer confirms Metal Gear Solid Delta will be released this year In Sony’s official PlayStation Blog post from December 28, the company highlights a handful of big games for 2024. Including the above-mentioned Stellar Blade, Final Fantasy VII: Rebirth, Tekken 8, Hell Divers 2, and Rise of Ronin. Other than Stellar Blade, all of those other games are confirmed to launch before the end of March. One game the blog doesn’t mention is Metal Gear Solid Delta. However, the trailer from January 4, which you can watch below, shows Metal Gear Solid Delta: Snake Eater as a 2024 release.\nThings could change, of course. As it was only just announced in May of last year . Konami hasn’t said much about the state of the game’s development so it’s not clear how far along things are. But Sony is confirming a 2024 release. However, that doesn’t mean it’ll be coming anytime soon. If it had an official date it would have been mentioned by now. So there’s a good chance the release date is towards the end of the year.\nThe trailer also showcases the Silent Hill 2 remake and The Last Of Us Part II: Remastered. In short, 2024 is going to be a great year for game releases on PlayStation. Although many of these games will also be released on Xbox Series X|S and PC. So it’ll be a great year for game releases all around.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Science and Technology",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [
+      "https://www.youtube.com/embed/wueuKH3UWkg?feature=oembed&enablejsapi=1&origin=https://www.androidheadlines.com",
+      "https://www.youtube.com/embed/wueuKH3UWkg?feature=oembed&#038;enablejsapi=1&#038;origin=https://www.androidheadlines.com",
+      "https://blog.playstation.com/2023/12/28/playstation-in-2024-highlights/",
+      "https://wccftech.com/ps5-2024-hype-trailer-metal-gear-solid-delta-silent-hill-2-confirmed/",
+      "https://youtube.com/embed/wueuKH3UWkg?feature=oembed&#038;enablejsapi=1&#038;origin=https://androidheadlines.com",
+      "https://www.youtube.com/embed/wueuKH3UWkg",
+      "https://www.wccftech.com/ps5-2024-hype-trailer-metal-gear-solid-delta-silent-hill-2-confirmed/",
+      "https://www.blog.playstation.com/2023/12/28/playstation-in-2024-highlights/",
+      "https://wccftech.com/ps5-2024-hype-trailer-metal-gear-solid-delta-silent-hill-2-confirmed",
+      "https://youtube.com/embed/wueuKH3UWkg?feature=oembed&enablejsapi=1&origin=https://androidheadlines.com",
+      "https://blog.playstation.com/2023/12/28/playstation-in-2024-highlights"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "justin diaz",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "sony",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T02:23:10.275+02:00",
+    "updated": "2024-01-06T02:23:10.275+02:00"
+  },
+  {
+    "uuid": "b25a68d826a44cb20bc51957ca64e18f06848160",
+    "url": "https://www.laizquierdadiario.com/Protesta-en-CDMX-contra-ataques-a-comunidades-zapatistas",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nancy Cázares",
+    "published": "2024-10-24T19:31:00Z",
+    "title": "Protesta en CDMX contra ataques a comunidades zapatistas",
+    "text": "Exigen justicia por el asesinato del sacerdote tzotzil y el cese de ataques a comunidades zapatistas. [Nancy Cázares](Nancy-Cazares) @nancynan.cazares Jueves 24 de octubre Este jueves, a las 16:00 horas, el Congreso Nacional Indígena (CNI) y el Concejo Indígena de Gobierno (CIG) convocan una marcha que partirá del Antimonumento a los 43, ubicado en Reforma y Bucareli, rumbo al Zócalo de la Ciudad de México. La movilización busca denunciar la violencia que enfrentan las comunidades indígenas y zapatistas en el sur de México, particularmente las bases de apoyo del Ejército Zapatista de Liberación Nacional (EZLN), y exigir justicia por el asesinato del sacerdote tzotzil Marcelo Pérez, ocurrido el 20 de octubre en San Cristóbal de las Casas, Chiapas. Distintos sectores organizados han expresado su solidaridad con la jornada, reconociendo la urgencia de frenar la violencia contra los pueblos originarios. Organismos de defensa de Derechos Humanos como el Centro Fray Bartolomé de Las Casas (Frayba) ha manifestado su preocupación ante la creciente militarización en el país, que incluye la construcción de 24 cuarteles de la Guardia Nacional en Chiapas, instalados en territorios indígenas sin su consentimiento. Según el Frayba, esta militarización vulnera los procesos de paz de las comunidades y responde a un modelo fallido de seguridad que ha intensificado el tráfico de drogas, las desapariciones y los desplazamientos forzados. El Frayba, así como otros colecticos y organizaciones, también ha denunciado que las Fuerzas Armadas han jugado un rol coercitivo en la represión de pueblos que se oponen a los megaproyectos federales como el Tren Maya y el Corredor Interoceánico, tal como ocurrió en 2020 con la violenta represión al pueblo tseltal de Chilón, que protestaba contra la construcción de un cuartel de la Guardia Nacional en su territorio. Además, advierten que el gobierno federal ignora las recomendaciones internacionales que llaman a desmilitarizar las tareas de seguridad pública en México, poniendo en riesgo a quienes defienden sus territorios y derechos. El gobernador de Chiapas, Rutilio Escandón, informó el 22 de octubre sobre la detención de Edgar \"N\", presunto autor material del homicidio del párroco Marcelo Pérez. A pesar de esta captura, las comunidades zapatistas continúan bajo amenaza por parte de grupos paramilitares y del crimen organizado, cuya presencia sigue desplazando a miles de personas en la región. Desde La Izquierda Diario México, nos solidarizamos con las comunidades zapatistas y todos los pueblos indígenas que resisten la violencia y el despojo. Exigimos respeto a la autonomía zapatista y justicia para las víctimas de estos ataques y de desplazamiento forzado.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Nancy Cázares",
+          "sentiment": "none"
+        },
+        {
+          "name": "Marcelo Pérez",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Ejército Zapatista de Liberación Nacional",
+          "sentiment": "none"
+        },
+        {
+          "name": "Concejo Indígena de Gobierno",
+          "sentiment": "none"
+        },
+        {
+          "name": "Congreso Nacional Indígena",
+          "sentiment": "none"
+        },
+        {
+          "name": "EZLN",
+          "sentiment": "none"
+        },
+        {
+          "name": "CIG",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Cristóbal de las Casas",
+          "sentiment": "none"
+        },
+        {
+          "name": "Zócalo de la",
+          "sentiment": "none"
+        },
+        {
+          "name": "Bucareli",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:54:23.444+03:00",
+    "updated": "2024-10-25T00:54:23.444+03:00"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "uuid": "acfb00e5f06ae97eca09b8a88eff504ce0ab522e",
+    "url": "https://venturebeat.com/ai/sambanova-and-gradio-are-making-high-speed-ai-accessible-to-everyone-heres-how-it-works",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Michael Nuñez",
+    "published": "2024-10-17T23:00:00Z",
+    "title": "SambaNova and Gradio are making high-speed AI accessible to everyone\\u2014here\\u2019s how it works",
+    "text": "SambaNova Systems and Gradio have unveiled a new integration that allows developers to access one of the fastest AI inference platforms with just a few lines of code. This partnership aims to make high-performance AI models more accessible and speed up the adoption of artificial intelligence among developers and businesses.\n“This integration makes it easy for developers to copy code from the SambaNova playground and get a Gradio web app running in minutes with just a few lines of code,” Ahsen Khaliq, ML Growth Lead at Gradio, said in an interview with VentureBeat. “Powered by SambaNova Cloud for super-fast inference, this means a great user experience for developers and end-users alike.”\nThe SambaNova-Gradio integration enables users to create web applications powered by SambaNova’s high-speed AI models using Gradio’s gr.load() function. Developers can now quickly generate a chat interface connected to SambaNova’s models, making it easier to work with advanced AI systems.\nA snippet of Python code demonstrates the simplicity of integrating SambaNova’s AI models with Gradio’s user interface. Just a few lines are needed to launch a powerful language model, underscoring the partnership’s goal of making advanced AI more accessible to developers. (Credit: SambaNova Systems) Beyond GPUs: The rise of dataflow architecture in AI processing SambaNova, a Silicon Valley startup backed by SoftBank and BlackRock , has been making waves in the AI hardware space with its dataflow architecture chips. These chips are designed to outperform traditional GPUs for AI workloads, with the company claiming to offer the “world’s fastest AI inference service.”\nSambaNova’s platform can run Meta’s Llama 3.1 405B model at 132 tokens per second at full precision, a speed that is particularly crucial for enterprises looking to deploy AI at scale.\nThis development comes as the AI infrastructure market heats up, with startups like SambaNova , Groq , and Cerebras challenging Nvidia’s dominance in AI chips. These new entrants are focusing on inference — the production stage of AI where models generate outputs based on their training — which is expected to become a larger market than model training.\nSambaNova’s AI chips show 3-5 times better energy efficiency than Nvidia’s H100 GPU when running large language models, according to the company’s data. (Credit: SambaNova Systems) From code to cloud: The simplification of AI application development For developers, the SambaNova-Gradio integration offers a frictionless entry point to experiment with high-performance AI. Users can access SambaNova’s free tier to wrap any supported model into a web app and host it themselves within minutes. This ease of use mirrors recent industry trends aimed at simplifying AI application development.\nThe integration currently supports Meta’s Llama 3.1 family of models , including the massive 405B parameter version. SambaNova claims to be the only provider running this model at full 16-bit precision at high speeds, a level of fidelity that could be particularly attractive for applications requiring high accuracy, such as in healthcare or financial services.\nThe hidden costs of AI: Navigating speed, scale, and sustainability While the integration makes high-performance AI more accessible, questions remain about the long-term effects of the ongoing AI chip competition. As companies race to offer faster processing speeds, concerns about energy use, scalability, and environmental impact grow.\nThe focus on raw performance metrics like tokens per second, while important, may overshadow other crucial factors in AI deployment. As enterprises integrate AI into their operations, they will need to balance speed with sustainability, considering the total cost of ownership, including energy consumption and cooling requirements.\nAdditionally, the software ecosystem supporting these new AI chips will significantly influence their adoption. Although SambaNova and others offer powerful hardware, Nvidia’s CUDA ecosystem maintains an edge with its wide range of optimized libraries and tools that many AI developers already know well.\nAs the AI infrastructure market continues to evolve, collaborations like the SambaNova-Gradio integration may become increasingly common. These partnerships have the potential to foster innovation and competition in a field that promises to transform industries across the board. However, the true test will be in how these technologies translate into real-world applications and whether they can deliver on the promise of more accessible, efficient, and powerful AI for all.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://developer.nvidia.com/cuda-toolkit",
+      "https://www.gradio.app/",
+      "https://sambanova.ai/",
+      "https://docs.sambanova.ai/sambastudio/latest/generative-playground.html",
+      "https://www.thesoftwarereport.com/enterprise-scale-ai-sambanova-systems-rodrigo-liang/",
+      "https://huggingface.co/meta-llama/Llama-3.1-405B",
+      "https://www.cnbc.com/2024/06/02/nvidia-dominates-the-ai-chip-market-but-theres-rising-competition-.html",
+      "https://gradio.com/",
+      "https://cerebras.ai/",
+      "https://groq.com/",
+      "https://www.reuters.com/article/technology/ai-computing-startup-sambanova-raises-250-million-in-blackrock-led-funding-idUSKCN20K041/",
+      "https://github.com/gradio-app/sambanova-gradio",
+      "https://ai.meta.com/blog/meta-llama-3-1/",
+      "https://www.huggingface.co/meta-llama/Llama-3.1-405B",
+      "https://groq.com",
+      "https://www.thesoftwarereport.com/enterprise-scale-ai-sambanova-systems-rodrigo-liang",
+      "https://ai.meta.com/blog/meta-llama-3-1",
+      "https://thesoftwarereport.com/enterprise-scale-ai-sambanova-systems-rodrigo-liang/",
+      "https://www.gradio.app",
+      "https://www.developer.nvidia.com/cuda-toolkit",
+      "https://www.cerebras.ai/",
+      "https://sambanova.ai",
+      "https://cerebras.ai",
+      "https://www.ai.meta.com/blog/meta-llama-3-1/",
+      "https://www.groq.com/",
+      "https://www.github.com/gradio-app/sambanova-gradio",
+      "https://gradio.com",
+      "https://www.reuters.com/article/technology/ai-computing-startup-sambanova-raises-250-million-in-blackrock-led-funding-idUSKCN20K041",
+      "https://reuters.com/article/technology/ai-computing-startup-sambanova-raises-250-million-in-blackrock-led-funding-idUSKCN20K041/",
+      "https://cnbc.com/2024/06/02/nvidia-dominates-the-ai-chip-market-but-theres-rising-competition-.html",
+      "https://www.gradio.com/",
+      "https://www.sambanova.ai/",
+      "https://gradio.app/",
+      "https://www.docs.sambanova.ai/sambastudio/latest/generative-playground.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "acfb00e5f06ae97eca09b8a88eff504ce0ab522e",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-10-18T02:25:23.783+03:00",
+    "updated": "2024-10-25T04:44:19.573+03:00"
+  },
+  {
+    "uuid": "0e5798616b1acc3ac0792a4440d13731c1565fd1",
+    "url": "https://www.pulse.ng/news/local/1st-rainfall-of-2024-blesses-lagos-at-surulere-anthony-ojuelegba/0lpnehr",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News Agency Of Nigeria",
+    "published": "2024-01-03T14:09:00Z",
+    "title": "1st rainfall of 2024 blesses Lagos at Surulere, Anthony, Ojuelegba",
+    "text": "1st rainfall of 2024 blesses Lagos at Surulere, Anthony, Ojuelegba\nThe light showers of rainfall lasted for about 20 minutes in the morning.\nRecommended articles\nThe News Agency of Nigeria (NAN) in Lagos on Wednesday gathered that some parts of Surulere, Anthony and Ojuelegba experienced showers of rainfall for about 20 minutes in the morning. Yinka Olufemi, a resident of Surulere, told NAN that she was taking her bath at about 10 am when she heard the sound of rainfall.\nOlufemi said that she had to peep through the window to see showers of rainfall.\n“First, I was excited to see the rain falling at this time of the year; however, my excitement was short-lived when I discovered that the car I spent time to wash was messed up by dust that accompanied the rainfall,” Olufemi said.\nAnother Lagos resident, Uche Okafor, told NAN that he was coming to Costain from Anthony Village, a suburb of Lagos, when suddenly there were showers of rainfall on the Anthony/ Ojuelegba corridor.\nSome other residents wished the rain could last longer to ease off the hot weather being experienced as a result of the dry season.\nJOIN OUR PULSE COMMUNITY!\nEyewitness? Submit your stories now via social or:\nEmail:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "anthony",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ojuelegba",
+          "sentiment": "negative"
+        },
+        {
+          "name": "uche okafor",
+          "sentiment": "none"
+        },
+        {
+          "name": "anthony village",
+          "sentiment": "none"
+        },
+        {
+          "name": "yinka olufemi",
+          "sentiment": "none"
+        },
+        {
+          "name": "nan",
+          "sentiment": "none"
+        },
+        {
+          "name": "olufemi",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "news agency of nigeria",
+          "sentiment": "none"
+        },
+        {
+          "name": "nan",
+          "sentiment": "none"
+        },
+        {
+          "name": "costain",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "surulere",
+          "sentiment": "none"
+        },
+        {
+          "name": "lagos",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-03T17:16:41.427+02:00",
+    "updated": "2024-01-03T17:16:41.427+02:00"
+  },
+  {
+    "uuid": "d3670f291d0f100e3b2e2aa278de8c9935ab31e7",
+    "url": "https://lat.motorsport.com/dakar/news/carlos-sainz-alaba-padre-dakar-2024-victoria/10567530",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mario Galán",
+    "published": "2024-01-19T15:58:00Z",
+    "title": "Carlos Sainz destaca lo hecho por su padre en el Rally Dakar",
+    "text": "Carlos Sainz destaca lo hecho por su padre en el Rally Dakar El hijo de Carlos Sainz, el piloto de Ferrari en la Fórmula 1, se mostró muy orgulloso por la victoria de su padre tras hacer \"el Dakar más inteligente\" que le vio. Yanbu-. La victoria de Carlos Sainz en el Rally Dakar 2024 se completó con la visita de toda su familia en la misma línea de meta, puesto que su hijo, Carlos Sainz, y su mujer, Reyes, vieron cómo se proclamaba cuatro veces ganador de la carrera más dura del mundo. El piloto de Ferrari estaba tan emocionado como su padre, y cuando Motorsport.com le preguntó sobre si era todo un orgullo ver al mayor de la casa ahí, dijo: \"Ha empezado bien el 2024, y ahora hay que seguir así para la familia Sainz\". \"No os podéis imaginar el orgullo de padre, de marido, de todo. Aquí están todos sus mejores amigos, no solo yo, y está toda la gente que le quiere y le anima en cada momento\", añadió a los medios de comunicación presentes en Arabia Saudí. \"Ha sido un Dakar larguísimo, un Dakar durísimo con todo tipo de terrenos, todo tipo de etapas, algunas nuevas como la de 48 horas, la maratón que esa fue ahí [dura]\". \"Ha habido de todo, y [ [Carlos Sainz Sr.](https://lat.motorsport.com/driver/carlos-sainz-sr/626103/)] ha sabido sortearlo todo. En las etapas clave además es donde mejor lo ha hecho, y eso te demuestra que ha venido muy bien preparado, muy motivado y lo han clavado\", expresó el menor de los madrileños tras abrazar a su padre nada más bajarse del RS Q e-tron en el Rally Dakar. Además, ganar esta carrera con un concepto tan novedoso y especial como el de los alemanes no fue sencillo, y Carlos Sainz hijo lo reconoció: \"Era un proyecto muy ambicioso de Audi, pero a la tercera ha ido la vencida. La han clavado, han hecho un Dakar perfecto tanto Audi como él y creo que se lo merecen porque han hecho una carrera impresionante desde el primer día\". \"Yo le pedía que no corriese todos los días porque al final el Dakar es una carrera de resistencia, y a él le gusta correr mucho. Ha tenido que correr muchísimo para ganar, pero ha estado más listo que ninguno y ha sabido gestionar la carrera como sólo sabe él\", aseguró su hijo. \"El Dakar ha sido perfecto, ha hecho el Dakar más inteligente que le he visto hacer en mi vida. Lo ha sabido gestionar a la perfección y ha demostrado que también tiene experiencia\", concluyó el piloto de Ferrari en la Fórmula 1. Photo by: Audi Communications Motorsport #204 Team Audi Sport Audi RS Q e-tron E2: Carlos Sainz Sr, Lucas Cruz [ Fórmula 1 ](/f1/news/f1-honda-mercedes-ferrari-limite-motores-reglas-2024/10564065/) Honda y Mercedes juegan contra Ferrari limitando los motores en 2024 Honda y Mercedes juegan contra Ferrari limitando los motores en 2024 Honda y Mercedes juegan contra Ferrari limitando los motores en 2024 [ Fórmula 1 ](/f1/news/ferrari-usa-experiencia-rory-byrne-coche-f1-2024/10562644/) Ferrari aprovecha la experiencia de Rory Byrne para su F1 2024 Ferrari aprovecha la experiencia de Rory Byrne para su F1 2024 Ferrari aprovecha la experiencia de Rory Byrne para su F1 2024 [ Fórmula 1 ](/f1/news/ferrari-supera-prueba-choque-676/10562222/) Ferrari supera el crash test con su F1 2024 Ferrari supera el crash test con su F1 2024 Ferrari supera el crash test con su F1 2024 Últimas noticias [ DAKR Dakar Dakar ](/dakar/news/carlos-sainz-alaba-padre-dakar-2024-victoria/10567530/) Carlos Sainz destaca lo hecho por su padre en el Rally Dakar Carlos Sainz destaca lo hecho por su padre en el Rally Dakar Carlos Sainz destaca lo hecho por su padre en el Rally Dakar [ F2 FIA F2 ](/fia-f2/news/f2-villagomez-competira-van-amersfoort-racing-2024/10567491/) Mexicano Villagómez pasa de la F3 a la F2 con Van Amersfoort Racing Mexicano Villagómez pasa de la F3 a la F2 con Van Amersfoort Racing Mexicano Villagómez pasa de la F3 a la F2 con Van Amersfoort Racing [ DAKR Dakar Dakar ](/dakar/news/dakar-2024-cristina-gutierrez-triunfa-y-hace-historia/10567461/) Dakar 2024: Cristina Gutiérrez triunfa y hace historia Dakar 2024: Cristina Gutiérrez triunfa y hace historia Dakar 2024: Cristina Gutiérrez triunfa y hace historia [ DAKR Dakar Dakar ](/dakar/news/dakar-2024-audi-explica-clave-victoria-sainz/10567433/) Dakar 2024: Audi explica los momentos clave para la victoria de Sainz Dakar 2024: Audi explica los momentos clave para la victoria de Sainz Dakar 2024: Audi explica los momentos clave para la victoria de Sainz Suscríbete y accede a Motorsport.com con tu ad-blocker. Desde la Fórmula 1 hasta MotoGP, informamos directamente desde el paddock porque amamos nuestro deporte, igual que tú. Para poder seguir ofreciendo nuestro periodismo experto, nuestro sitio web utiliza publicidad. Aún así, queremos darte la oportunidad de disfrutar de un sitio web sin publicidad, y seguir utilizando tu bloqueador de anuncios. [Suscríbase ahora](/prime/?refEdition=lat&offer=adblock)¿Ya estás suscrito? [Entra aquí](javascript:void(0))",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-19T20:30:45.256+02:00",
+    "updated": "2024-01-19T20:30:45.256+02:00"
+  }
+]

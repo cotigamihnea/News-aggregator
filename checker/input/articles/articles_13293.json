@@ -1,0 +1,416 @@
+[
+  {
+    "uuid": "f041f524d2ae87a8285a760206f1df59617245e2",
+    "url": "https://community.spiceworks.com/t/help-with-powershell-not-installing-a-msi-file/1120450",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@atorres13 atorres13",
+    "published": "2024-11-14T23:48:00Z",
+    "title": "Help with Powershell not installing a .msi file",
+    "text": "I am stuck with the below code. It installs when ran through ISE on a test machine but when ran through a deployment tool the MSI never gets installed but the MSI file does get copied to the local folder and the registry entry is also created successfully. But the app its self does not get installed unless ran from a PS prompt on the machine. Any advice on troubleshooting or code correction is greatly appreciated.\n# Beginning $path = \"HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\run\" $completename = Get-WMIObject -class Win32_ComputerSystem | Select-Object -ExpandProperty username $completenamerep = $completename.Replace(\"coname\\\",\"\") Copy-Item -Path \".\\Phone.msi\" -Destination \"C:\\Installs\" Start-Process msiexec.exe -ArgumentList '/I \"C:\\Installs\\Phone.msi\" /qn' New-ItemProperty -Path $path -Name \"Phone App\" -Value \"C:\\Users\\$completenamerep\\AppData\\Local\\Programs\\SPhone.exe\" -PropertyType \"String\" # the end\nwell it looks like you’re expecting the msi to install in the user’s AppData but it would be installing in whatever user account you’re running the script from’s AppData.\ntry adding a TARGETDIR and see what happens? Maybe install it at C:\\IT\\SPhone that way you can also get rid of that cumbersome identification of the user.\nTry adding the -Wait parameter to your Start-Process command. I wonder if the script is exiting before the MSI has finished installing. I’ve seen this happen before.\n$path = “HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run” $completename = Get-CimInstance -ClassName Win32_ComputerSystem | Select-Object -ExpandProperty username $completenamerep = $completename.Replace(\"coname\", “”)\n$destinationPath = “C:\\Installs” if (-Not (Test-Path $destinationPath)) { New-Item -Path $destinationPath -ItemType Directory }\nCopy-Item -Path “.\\Phone.msi” -Destination $destinationPath\nStart-Process msiexec.exe -ArgumentList ‘/I “C:\\Installs\\Phone.msi” /qn’ -Wait\n$exePath = “C:\\Users$completenamerep\\AppData\\Local\\Programs\\SPhone.exe” if (Test-Path $exePath) { New-ItemProperty -Path $path -Name “Phone App” -Value $exePath -PropertyType “String” -Force } else { Write-Host “Executable not found at $exePath” }\nThank you all for the help. I will follow up with the solution that worked.\nDay late and dollar short but thank you for this suggestion.\nThis is the solution that i went with.\nThank you @rgagnon !",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T02:41:53.337+02:00",
+    "updated": "2024-11-15T02:41:53.337+02:00"
+  },
+  {
+    "uuid": "4bd6c3faf118a9a96945b113ac7c1833440936c3",
+    "url": "https://www.fox7austin.com/video/1453902",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "no author",
+    "published": "2024-05-09T00:00:00Z",
+    "title": "Austin weather: Large hail hits Central TX",
+    "text": "Live News Good Day Weather Traffic 7OYS CrimeWatch More Watch Live Expand / Collapse search ☰ Search site News Local Texas Crime and Public Safety Traffic Texas Politics FOX News Sunday Good Day Birthday Shoutouts Keeping Score Cooking with FOX 7 Live Music on FOX 7 Adoptable Animals Contests Questions for Your Garden FOX Local How to Stream Tierra's Texas FOX 7 Español The Texas News Show Good Day Austin Extra The Sports Office Good Day Music Take 2 The Backstage Experience Texas: The Issue Is FOX 7 Exclusives 7 On Your Side CrimeWatch Missing in Texas HealthBeat Texas: The Issue Is FOX 7 Focus Care Force FOX 7 Discussions ATX-tra About Us What's On FOX Contact Us Newsletter Sign Up FOX 7 News Team Work for FOX 7 Austin Internships Closed Captioning FCC Public File FCC Applications Antenna Help Weather Download the FOX 7 WAPP FOX 7 Web Cams FOX Weather Did You Know? Sports Austin FC NASCAR MLB Texas Longhorns FOX 7 Friday Football Texas Basketball Regional News Dallas - FOX 4 News Houston - FOX 26 Houston Severe Thunderstorm Warning from THU 10:04 PM CDT until THU 11:00 PM CDT, Lee County, Fayette County, Fayette County, Lee County 2 Severe Thunderstorm Watch until FRI 12:00 AM CDT, Travis County, Williamson County, Lee County, Bastrop County, Fayette County, Caldwell County, Hays County, Comal County, Austin County, Bastrop County, Caldwell County, Comal County, Fayette County, Hays County, Lee County, Travis County, Williamson County Austin weather: Large hail hits Central TX FOX 7 Austin reporter Lauren Rangel storm chased the Central Texas area Posted May 9, 2024 10:07pm CDT Share Copy Link Email Facebook Twitter LinkedIn Reddit Show more Top Videos Show More",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "austin",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lee",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "news local texas crime and public safety traffic texas politics",
+          "sentiment": "none"
+        },
+        {
+          "name": "wapp",
+          "sentiment": "none"
+        },
+        {
+          "name": "friday football texas basketball regional news",
+          "sentiment": "none"
+        },
+        {
+          "name": "focus care force fox",
+          "sentiment": "none"
+        },
+        {
+          "name": "news houston - fox",
+          "sentiment": "none"
+        },
+        {
+          "name": "austin internships closed captioning fcc public file fcc",
+          "sentiment": "none"
+        },
+        {
+          "name": "fox",
+          "sentiment": "none"
+        },
+        {
+          "name": "sports austin fc nascar mlb texas longhorns fox",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "texas",
+          "sentiment": "none"
+        },
+        {
+          "name": "dallas",
+          "sentiment": "none"
+        },
+        {
+          "name": "stream tierra",
+          "sentiment": "none"
+        },
+        {
+          "name": "houston",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T06:21:38.437+03:00",
+    "updated": "2024-05-10T06:21:38.437+03:00"
+  },
+  {
+    "uuid": "e5b171ebcee86e67d572a936832d76718dc98f5e",
+    "url": "https://laopinion.com/2024/08/22/ninguna-sentencia-sustituira-la-soberania-popular-la-oposicion-de-venezuela-rechaza-el-fallo-del-tribunal-supremo-que-da-a-maduro-como-ganador-de-las-elecciones",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "César Reyes",
+    "published": "2024-08-22T20:40:00Z",
+    "title": "La oposición de Venezuela rechaza el fallo del Tribunal Supremo que da a Maduro como ganador de las elecciones",
+    "text": "La oposición venezolana se manifestó en contra de la decisión del Tribunal Supremo de Justicia de Venezuela de confirmar a Nicolás Maduro como ganador de las discutidas elecciones presidenciales del pasado 28 de julio.\nEl candidato opositor, Edmundo González Urrutia , publicó en la red social X que “la soberanía reside intransferiblemente en el pueblo” y “los órganos del Estado emanan de la soberanía popular y a ella están sometidos”, un mensaje directamente extractado del artículo 5 de la Constitución venezolana, que ha acompañado de la etiqueta #NoUsurparánLaVerdad.\nAntes de conocerse el fallo, la líder opositora María Corina Machado había publicado que “no existe maniobra alguna que pueda otorgarle un ápice de legitimidad a Nicolás Maduro, frente al golpe de Estado a la Constitución que pretenden perpetrar”.\nMaduro recurrió al Tribunal Supremo para que iniciara un peritaje del proceso y confirmara la validez de la victoria que le otorgó el Consejo Nacional Electoral (CNE), lo que ha hecho este jueves .\nSu presidenta, Caryslia Rodríguez, anunció en su sede en Caracas que el tribunal ha resuelto “convalidar” los resultados oficiales anunciados en la misma noche electoral en base a unas actas del CNE que no han sido publicadas.\nSegún la oposición, González Urrutia fue el candidato más votado por un amplio margen y los resultados anunciados por el presidente del Consejo Nacional Electoral, Elvis Amoroso, que dio por ganador a Maduro con un 52% de los votos, un fraude que subvierte la voluntad expresada por los venezolanos en las urnas.\nLa oposición publicó el 80% de las actas a las que tuvieron acceso sus testigos en los centros electorales y que mostraron un claro triunfo de González Urrutia.\nGran parte de la comunidad internacional ha cuestionado el reparto de votos anunciado por Amoroso.\nUn panel de expertos de Naciones Unidas concluyó que las elecciones no cumplieron con los estándares “de integridad e independencia”.\nEstados Unidos concluyó que González Urrutia fue el más votado, mientras que la Unión Europea y un grupo de 22 países reclamó a las autoridades venezolanas que publiquen las actas electorales, algo que hasta ahora no ha ocurrido.\nLos presidentes de Colombia, Gustavo Petro , y Brasil, Luiz Inácio Lula da Silva , plantearon la posibilidad de repetir las elecciones para resolver la nueva crisis política abierta en el país.\nGetty Images: Maduro celebró una victoria discutida por la oposición y gran parte de la comunidad internacional. Poco antes de conocer la decisión del TSJ, la Misión de Determinación de los Hechos de Naciones Unidas en Venezuela, alertó sobre la “falta de independencia e imparcialidad” de esta institución y del Consejo Nacional Electoral.\nEl anuncio del triunfo de Maduro hecho por el CNE fue seguido por una ola de protestas en numerosas ciudades de Venezuela que derivó en una ola de detenciones masivas.\nDe acuerdo con la ONG Foro Penal hasta este 18 de agosto habían sido detenidas más de 1.500 personas, incluyendo 129 adolescentes y 18 personas con discapacidad.\nAl respecto, Maduro ha dicho que el gobierno estaba habilitando dos cárceles de “máxima seguridad” para albergar a los manifestantes, a quienes calificó como “terroristas” y “delincuentes”\nBBC: Haz clic aquí para leer más historias de BBC News Mundo.\nTambién puedes seguirnos en YouTube , Instagram , TikTok , X , Facebook y en nuestro nuevo canal de WhatsApp , donde encontrarás noticias de última hora y nuestro mejor contenido.\nY recuerda que puedes recibir notificaciones en nuestra app. Descarga la última versión y actívalas.\n“En Venezuela hay un ’empate catastrófico’ y en estos casos cada una de las partes tiene que cortarse un brazo o entregar un hijo” Las imágenes de las protestas a favor de la oposición venezolana en el mundo",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.instagram.com/bbcmundo",
+      "https://www.whatsapp.com/channel/0029VaUm1Ss3WHTbgIXrjw3D",
+      "https://www.tiktok.com/@bbcnewsmundo",
+      "https://www.youtube.com/user/BBCMundo?sub_confirmation=1",
+      "https://www.facebook.com/BBCnewsMundo",
+      "https://twitter.com/bbcmundo",
+      "https://www.bbc.com/mundo/articles/cy765nlek4eo?xtor=AL-73-%5Bpartner%5D-%5Bimpremedia%5D-%5Blink%5D-%5Bmundo%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "https://www.bbc.com/mundo/articles/cvgepy18dnxo?xtor=AL-73-%5Bpartner%5D-%5Bimpremedia%5D-%5Blink%5D-%5Bmundo%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "https://www.bbc.com/mundo?xtor=AL-73-%5Bpartner%5D-%5Bimpremedia%5D-%5Blink%5D-%5Bmundo%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "https://bbc.com/mundo/articles/cy765nlek4eo?xtor=AL-73-%5Bpartner%5D-%5Bimpremedia%5D-%5Blink%5D-%5Bmundo%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "https://bbc.com/mundo/articles/cvgepy18dnxo?xtor=AL-73-%5Bpartner%5D-%5Bimpremedia%5D-%5Blink%5D-%5Bmundo%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "https://www.bbc.com/mundo/articles/cy765nlek4eo",
+      "https://www.twitter.com/bbcmundo",
+      "https://www.bbc.com/mundo/articles/cvgepy18dnxo",
+      "https://bbc.com/mundo?xtor=AL-73-%5Bpartner%5D-%5Bimpremedia%5D-%5Blink%5D-%5Bmundo%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "https://www.bbc.com/mundo",
+      "https://www.youtube.com/user/BBCMundo",
+      "https://instagram.com/bbcmundo",
+      "https://facebook.com/BBCnewsMundo",
+      "https://youtube.com/user/BBCMundo?sub_confirmation=1",
+      "https://whatsapp.com/channel/0029VaUm1Ss3WHTbgIXrjw3D",
+      "https://tiktok.com/@bbcnewsmundo"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T00:03:26.021+03:00",
+    "updated": "2024-08-23T00:03:26.021+03:00"
+  },
+  {
+    "uuid": "1966522b627a2e254d4a1f0946e86178e7422b77",
+    "url": "https://www.newsbreak.com/wish-tv-2107872/3739481904207-snow-thursday-night-tracking-significant-winter-storm-sunday-into-monday-jan-2-2025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ashley Brown",
+    "published": "2025-01-02T22:34:00Z",
+    "title": "Snow Thursday night, tracking significant winter storm Sunday into Monday | Jan. 2, 2025",
+    "text": "By Ashley Brown ,\n5 hours ago\nJan. 2 | Evening Forecast with Chief Meteorologist Ashley Brown INDIANAPOLIS (WISH) — After a dry start to Thursday with some sunshine, we’re tracking some light snow accumulation Thursday night into early Friday.\nColder air will settle in and we’ll eventually deal with a strong weather system Sunday that brings significant snowfall and ice potential.\nThursday night: There is a lot of ongoing talk with Sunday’s system, but we got to focus on what’s in front of us first. Snow with some rain mixed in on the southern end moves through our state tonight into early Friday.\nAreas along and north of interstate 74 look to get up to 0.5″-1″ of snow. Locally higher amounts up to 2″ cannot be ruled out.\nLows will fall into the low to mid 20s.\nFriday: Be aware for slick spots on untreated roads through your Friday morning commute. We’re in for a bitterly cold day as a breezy northwesterly wind takes shape again and causes us to barely get into the mid 20s. Matter of fact, due to breezy winds that will gust up to 20-30 MPH at times, wind chill values will range from the teens to single digits.\nSaturday: Bitter air persists into the first week of 2025 despite winds turning much lighter. Highs are going to have a hard time getting into the mid 20s. Wind chill values will be in the single digits to start the day before it goes into the teens.\nSignificant Winter Storm Sunday: All eyes are continuing to monitor what is shaping up to be an impactful winter weather event in our region Sunday into Monday. Confidence is growing with the potential for significant snowfall and icing. A Winter Storm Watch is set to be in effect from Sunday morning into Monday night, and at this rate, we are likely to see upgrades to warnings unless something drastic changes.\nRight now, we believe areas along and north of interstate 70 will mainly see snow, and some heavy with rates of 1″+ per hour possible. Areas south will face a different issue that also could be significant, and that is mixed precip in relation to sleet and freezing rain.\nSome snow may mix in at times for these areas, but models continue to pinpoint toward a mixed precip mess south of Indy for now. There is potential for significant icing. Overall, this is going to be a longer duration event for central and southern Indiana.\nThere is uncertainty still in regards to system track, so a shift of even as little as 10-25 miles will make a massive difference on who gets what. We are planning on creating our first official snow maps Friday, but we will say for now that several inches of snow are on the table for central Indiana.\nOther things to consider are breezy winds with gusts possibly over 30 MPH at times late Sunday into Monday and possible power outages especially south. Please plan and prepare now as significant to major impacts to travel and daily life are very well in play. No need to panic, just be diligent and have a good plan to put in place.\n7-Day Forecast: Once this system leaves, arctic air will lock in even further. This also means that whatever snow falls, it is not going anywhere for potentially an extended period of time. Highs are looking to only rise into the teens by midweek next week. We may even have to lower these numbers if we have a big snowpack.\n9",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "topics": [
+      "Weather->weather forecast"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=12J4VJ_0xozo3TL00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2UYeB7_0xozo3TL00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=03vKUJ_0xozo3TL00",
+      "https://img.particlenews.com/image.php?url=1boXgs_0xozo3TL00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0dGyZA_0xozo3TL00",
+      "https://img.particlenews.com/image.php?url=2UYeB7_0xozo3TL00",
+      "https://img.particlenews.com/image.php?url=1MCzB5_0xozo3TL00",
+      "https://img.particlenews.com/image.php?url=1DGoJc_0xozo3TL00",
+      "https://img.particlenews.com/image.php?url=2jRw8w_0xozo3TL00",
+      "https://img.particlenews.com/image.php?url=12J4VJ_0xozo3TL00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1aKnRR_0xozo3TL00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1MCzB5_0xozo3TL00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1DGoJc_0xozo3TL00",
+      "https://img.particlenews.com/image.php?url=3BA9aY_0xozo3TL00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0PqBpn_0xozo3TL00",
+      "https://img.particlenews.com/image.php?url=1aKnRR_0xozo3TL00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4czV9j_0xozo3TL00",
+      "https://img.particlenews.com/image.php?url=0dGyZA_0xozo3TL00",
+      "https://img.particlenews.com/image.php?url=2I0qSq_0xozo3TL00",
+      "https://img.particlenews.com/image.php?url=03vKUJ_0xozo3TL00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1IE0kh_0xozo3TL00",
+      "https://img.particlenews.com/image.php?url=4czV9j_0xozo3TL00",
+      "https://img.particlenews.com/image.php?url=0PqBpn_0xozo3TL00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1boXgs_0xozo3TL00",
+      "https://img.particlenews.com/image.php?url=1IE0kh_0xozo3TL00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2jRw8w_0xozo3TL00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3BA9aY_0xozo3TL00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2I0qSq_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?url=03vKUJ_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1DGoJc_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=03vKUJ_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1aKnRR_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2jRw8w_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?url=1MCzB5_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0PqBpn_0xozo3TL00",
+      "https://img.particlenews.com/image.php",
+      "https://www.img.particlenews.com/image.php?url=0PqBpn_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?url=4czV9j_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?url=2UYeB7_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?url=1IE0kh_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2UYeB7_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1IE0kh_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3BA9aY_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?url=1DGoJc_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?url=12J4VJ_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1boXgs_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?url=3BA9aY_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=12J4VJ_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2I0qSq_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?url=0dGyZA_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?url=1aKnRR_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1MCzB5_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?url=2I0qSq_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0dGyZA_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=4czV9j_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?url=1boXgs_0xozo3TL00",
+      "https://www.img.particlenews.com/image.php?url=2jRw8w_0xozo3TL00"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Ashley Brown",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T00:47:19.696+02:00",
+    "updated": "2025-01-03T06:23:54.950+02:00"
+  },
+  {
+    "uuid": "9e3ead62eadf866b23494556053a3e0069047b2a",
+    "url": "https://www.prnewswire.com/news-releases/developersnet-founders-shine-at-business-of-software-europe-conference-302114901.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Developers.Net",
+    "published": "2024-04-11T16:32:00Z",
+    "title": "Developers.net Founders Shine at Business of Software Europe Conference",
+    "text": "Showcasing Expertise and Leadership in Software Development and Nearshore Outsourcing Solutions\nCAMBRIDGE United Kingdom , April 11, 2024 /PRNewswire/ -- The founders of Developers.net, a leading software development solutions provider, recently participated in the prestigious Business of Software (BoS) Europe Conference held at Cambridge University's Churchill College on March 25 and 25, 2024.\nThe BoS conference is a renowned gathering of distinguished founders, CXOs, and emerging leaders from software and SaaS companies worldwide. It offers a supportive community where these professionals can exchange ideas, learn from each other's experiences, and build valuable networks.\n\"The conference was an excellent platform to engage with industry leaders and showcase our unique nearshore outsourcing solutions,\" said Developers.net's president, Emilio Baez . \"We believe in building software that not only meets but exceeds client expectations, and we do this by leveraging our exceptional talent in Latin America .\"\nBy employing nearshore talent, Developers.net delivers high-quality software solutions that are on time, on budget, and within US time zones. This approach offers numerous benefits:\nSeamless communication and collaboration due to minimal time difference High-quality deliverables ensured by a talented pool of software developers Improved budgeting with cost-effective solutions Faster project delivery times Developers.net welcomes potential clients to explore the opportunities provided by their unique business model offers and contact them for more information.\nAbout Developers.net: Developers.net is a US-based company specializing in software outsourcing and staffing solutions. By leveraging nearshore talent in Latin America , the company delivers software projects that are high in quality, on time, and within budget. Developers.net is committed to building software that exceeds client expectations and fostering a nurturing work environment for its diverse team of experts.\nMedia contact: [email protected]\nSOURCE Developers.Net",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "developers.net",
+          "sentiment": "none"
+        },
+        {
+          "name": "emilio baez",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cambridge university's churchill college",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "united kingdom",
+          "sentiment": "none"
+        },
+        {
+          "name": "latin america",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-12T00:16:02.741+03:00",
+    "updated": "2024-04-12T00:16:02.741+03:00"
+  },
+  {
+    "uuid": "489a11dee129d6d7d8003a6d6a8e574198357bc4",
+    "url": "https://journalnow.com/opinion/column/don-kusler-democrats-dominated-2023-with-victories-for-reproductive-rights-labor/article_256e27de-ae66-5738-8db7-c59334783ecb.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Guest",
+    "published": "2023-12-30T20:22:00Z",
+    "title": "Don Kusler: Democrats dominated 2023 with victories for reproductive rights, labor",
+    "text": "2023 was a good year for Democrats and their issues at the ballot box.\nVirginia put MAGA-allied politicians with higher aspirations, such as Gov. Glenn Youngkin, on notice. Democrats maintained control of the Virginia Senate and regained control of its House control, halting Youngkin's agenda for his final two years in office.\nThat's a victory for Democrats.\nKentucky Gov. Andy Beshear won an unlikely reelection. This provided Democrats with an interesting snapshot into how to govern and campaign in a progressive way yet connect with a challenging electorate.\nThat's another victory for the left.\nTwo ballot initiative in Ohio favored Democratic positions. The first was a crass attempt by Ohio Republicans to head off a November ballot measure protecting a woman’s right to choose. By conducting a special election aimed at requiring a supermajority for public ballot measures to become law, this measure challenged both women’s rights and our democracy. The vote wasn’t close in what has become a deeply Republican state.\nPeople are also reading…\nThen on the November ballot, a measure protecting reproductive choice passed by a similar margin.\nThese electoral victories make a difference.\nJust look at two Midwestern states that used Democratic majorities paired with Democratic governors to gain a range of legislative victories. In Michigan and Minnesota, Democratic control brought gun safety laws, protections for reproductive rights and LGBTQ+ communities, climate-friendly measures and more ability of workers to organize.\nLabor, a traditional Democratic bloc, repeatedly made gains this past year by standing up, speaking out and winning favorable contracts.\nWorkers already had notched victories at Amazon and Starbucks in 2022. This trend continued in 2023 with the headline-grabbing strikes for writers in the entertainment industry and auto workers.\nSometimes victory comes more in the form of problems for your opponents. The year 2023 proved that point for Democrats with a stack of woes for Republicans.\nIt was hard not to see that the Republican Party remains wrapped tightly around the little finger of dictator-in-waiting Donald Trump. His legal woes -- business wrongdoing in New York, the careless handling of sensitive documents, and insurrectionist behavior on a national scale -- contrast nicely for Democrats against their governing and electoral successes.\nThe Republican-controlled House of Representatives provides another contrast with its chaotic and dysfunctional running of the people’s business.\nLeadership elections seems pretty straightforward. The party with the most members elects a speaker and goes about its work. Not so with the 2023 Republican House Caucus. It took four days and 15 votes to get Rep. Kevin McCarthy, R-Calif., as their speaker. Then came a series of bizarre and fruitless political projects including committee hearings, impeachment inquiries and bills with no meaningful results for the people.\nThe one exception was a deal McCarthy finally made on the most basic of functions -- funding the government. But that promptly cost him his job.\nDid the chaos subside? Well, no. More speaker votes and infighting followed over the next three weeks until Rep. Mike Johnson, R-La., was finally elected speaker.\nThe sum of this very public display of broken and unfit leadership for Republicans can be seen as nothing other than a victory for Democrats.\nSo a quick review of the naughty vs. nice list shows Republicans with a 2023 record filled with dysfunction, contrasting nicely with the Democrats' roster of electoral, legislative and ally victories.\nYes, 2023 was a good year for Democrats.\nKusler is the national director of Americans for Democratic Action:\nadaction.org. He wrote this for InsideSources.com.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Labor",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://adaction.org/",
+      "http://InsideSources.com",
+      "http://www.InsideSources.com",
+      "https://www.adaction.org/",
+      "https://adaction.org"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "don kusler",
+          "sentiment": "negative"
+        },
+        {
+          "name": "andy beshear",
+          "sentiment": "none"
+        },
+        {
+          "name": "youngkin",
+          "sentiment": "none"
+        },
+        {
+          "name": "glenn youngkin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "maga",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "virginia senate",
+          "sentiment": "none"
+        },
+        {
+          "name": "house",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "virginia",
+          "sentiment": "none"
+        },
+        {
+          "name": "kentucky",
+          "sentiment": "none"
+        },
+        {
+          "name": "ohio",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-31T01:18:19.931+02:00",
+    "updated": "2023-12-31T01:18:19.931+02:00"
+  }
+]

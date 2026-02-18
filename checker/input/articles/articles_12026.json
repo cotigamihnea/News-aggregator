@@ -1,0 +1,161 @@
+[
+  {
+    "uuid": "7534146422a2e5951eb1777a6bfd82052b499424",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2024/05/09/tempestades-geram-r-75-bi-em-prejuizos-diz-cnm-no-agro-valor-e-de-r-874-mi.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "UOL",
+    "published": "2024-05-09T19:57:00Z",
+    "title": "Tempestades geram R$ 7,5 bi em prejuízos, diz CNM; no agro, valor é de R$ 874 mi",
+    "text": "Cotidiano Tempestades geram R$ 7,5 bi em prejuízos, diz CNM; no agro, valor é de R$ 874 mi Brasília 09/05/2024 16h57 Brasília, 9 - Levantamento parcial da Confederação Nacional dos Municípios (CNM) revela que as tempestades registradas desde 29 de abril no Rio Grande do Sul geraram pelo menos R$ 7,5 bilhões em prejuízos financeiros. Os números contabilizam prejuízos de municípios que enviaram os dados à Secretaria Nacional de Proteção e Defesa Civil do Ministério da Integração e do Desenvolvimento Regional. A confederação esclarece que os prejuízos são informados pelos próprios municípios. São dados parciais, relatados à medida que os danos são contabilizados. A CNM estima que 1,7 milhão de pessoas foram afetadas, sendo que 518 seguem desaparecidos e foram reportadas 107 mortes.A confederação estima que 428 municípios foram afetados, sendo 397 com reconhecimento estadual e federal do estado de calamidade pública. Destes, 211 registraram os decretos no Sistema Integrado de Informações sobre Desastres do governo federal, sendo que a maioria informou os valores de danos e prejuízos.Segundo a CNM, dos prejuízos financeiros relatados, R$ 4,4 bilhões referem-se ao setor habitacional, com 85,3 mil casas danificadas ou destruídas, R$ 2 bilhões foram relatados no setor público e R$ 1,1 bilhão no setor privado.A agropecuária é o setor econômico privado com mais prejuízos levantados, somando R$ 874 milhões. Dos municípios que auferiram os prejuízos, R$ 811 milhões estão relacionados à agricultura e R$ 63 milhões à pecuária. A indústria reportou R$ 151,7 milhões em prejuízos. Outros R$ 108,1 milhões foram relatados por comércios locais.No setor público, o levantamento auferiu prejuízos de R$ 1,4 bilhão em obras de infraestrutura (pontes, estrada, drenagem urbana) e R$ 395,8 milhões em instalações públicas, como escolas, hospitais, prefeituras.\nJosé Paulo Kupfer\nCopom erra, expõe racha político e eleva incertezas\nSakamoto\nCavalo no telhado no RS vira ícone da crise climática\nJamil Chade\nNegacionismo mata, empobrece e destrói\nJosias de Souza\nDilúvio será em vão se eleitor seguir acomodado\nComunicar erro Veja também Deixe seu comentário Só para assinantes",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Economy, Business and Finance",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-10T00:36:21.712+03:00",
+    "updated": "2024-05-10T00:36:21.712+03:00"
+  },
+  {
+    "uuid": "9809eb6ca12ed8d2de9552fb9ba304563e44ea4e",
+    "url": "https://www.googlenestcommunity.com/t5/Home-Automation/Google-Nest-Cam-Outdoor-or-Indoor-Battery-as-Trigger-For-Lights-IF-Off-and/m-p/668618",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TwisUp Community Member",
+    "published": "2025-01-09T23:30:00Z",
+    "title": "Re: Google Nest Cam (Outdoor or Indoor, Battery) as Trigger For Lights IF Off and IF Night",
+    "text": "Monday - last edited Monday\nHi All,\nI have a Nest Doorbell Cam (1st Gen) and just picked up a Google Nest Cam (Outdoor or Indoor, Battery) to look at the driveway. I want to do a fairly standard automation on either of them.\nIf Motion\nand\nIf night\nand\nIf Porch light off\nThen\nturn on porch light.\nwait 5 mins then turn off porch light\nThe part I cannot figure out is the part in red. The reason it is important because I have another automation turning on porch lights at sunset and turning them off at 9PM. The issue is if there was motion between sunset and 9PM then it would turn off the light after 5 mins. If the light is already on, I want it left on.\nThanks in advance.\nMy only experience with automations is via the App on my Android phone.\nThanks\nTwisUp\n6m ago - last edited 2m ago\nHi TwisUp,\nThanks for reaching out to our community.\nI’m sorry to hear that you cannot figure out the command “If Porch lights off” in the automation you’re creating to manage your Nest Doorbell Cam (1st Gen) and a Google Nest Cam (Outdoor or Indoor Battery) to look at the driveway. It is my pleasure to help you to find the answer.\nBased on the information you provided me, I recommend you go to the Google Developer Center, where you can find the Google Automations Script Editor to customize your automation.\nIf you need further assistance with your Google Nest products, please feel free to contact us whenever you need it.\nBest regards,\nVirna.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:32:25.582+02:00",
+    "updated": "2025-01-10T01:32:25.582+02:00"
+  },
+  {
+    "uuid": "c8a39ef4497005d8c69733c853e5e12deccd8852",
+    "url": "https://www.wisn.com/article/summer-today-fall-this-weekend/62578679",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "James Ganley",
+    "published": "2024-10-11T13:01:00Z",
+    "title": "Summer Today, Fall This Weekend",
+    "text": "Summer Today, Fall This Weekend\nIt will feel like Summer on Friday before a big cool down arrives this weekend\nSummer Today, Fall This Weekend\nIt will feel like Summer on Friday before a big cool down arrives this weekend\nNORTHERN LIGHTS. WE’VE HAD A LOT OF THOSE GEOMAGNETIC STORMS. MOLLY. ABSOLUTELY. AND IT’S SO FUN TO SEE IT HERE IN MILWAUKEE. UP UNTIL THIS YEAR, I DON’T THINK I THERE HAVE BEEN LIKE CHANCES, BUT THEY’VE ALWAYS BEEN LOW ON THE HORIZON. YOU CAN REALLY ONLY SEE THEM WITH A PICTURE. I THINK SOME OF WHAT WE SAW LAST NIGHT WAS VISIBLE TO THE NAKED EYE. SO THAT’S WHERE I’M GOING TO START AS WELL. TRACY SENT US THESE PICTURES FROM SHEBOYGAN. YOU CAN SEE THOSE BEAUTIFUL COLORS. I WILL SAY A LOT OF THESE PICTURES. IT LOOKS A LOT BETTER WITH LONG EXPOSURE PHOTOGRAPHY. SO IF YOU LET THE CAMERA STAY OPEN FOR QUITE SOME TIME, BUT SPECTACULAR TO SEE ABSOLUTELY NO MATTER WHAT. SAMI SENT THESE IN FROM WATERTOWN AND IT’S CRAZY TO SEE THEM NOT JUST IN THE CITY, BUT WITH THE LIGHTS OF THE CITY. USUALLY YOU HAVE TO GO SOMEWHERE DARK, SO IT WAS A REALLY POWERFUL STORM THAT CAUSED THIS. NOW WE’RE BACK TO DARK 51 DEGREES IN ELK GROVE. I GRAB A JACKET AS YOU HEAD OUT THE DOOR THIS MORNING FROM OUR CAMERA OUT AT BLUE MOUNTAIN MOORLAND ROAD 52, IN WAUKESHA. THAT’S OUR CAMERA AT CARROLL UNIVERSITY. SOME AREAS INLAND STARTING OFF IN THE 40S TO KICK OFF THE DAY TODAY. BUT WE ARE GOING TO STAY ON THE SOUTH SIDE OF THIS COLD FRONT TODAY. IT WILL BE WINDY THIS AFTERNOON, OR AT LEAST BREEZY. THAT’S GOING TO HELP TEMPERATURES SOAR UP INTO THE 80S THIS AFTERNOON. BUT WATCH WHAT HAPPENS AS WE HEAD INTO THE WEEKEND. WE GO FROM THE ORANGE SHADING IN THE UPPER LEVEL TEMPERATURES BACK DOWN IN THE BLUE, SO A TASTE OF SUMMER TODAY. IT’S NOT GOING TO LAST TOO LONG AND WE LIKELY HAVE SOME OF, IF NOT THE COOLEST AIR OF THE SEASON ON THE WAY TO KICK OFF THE WORKWEEK NEXT WEEK. SO SOME COOLER DAYS. DEFINITELY IN THE FORECAST. IT’S NOT GOING TO LAST FOR TOO LONG. WE DO HAVE A LITTLE BIT OF A WARM UP AS WE HEAD TOWARDS THE END OF NEXT WEEK. 80S TODAY, 60S FOR THE WEEKEND, MONDAY AND TUESDAY. HIGH TEMPERATURES LIKELY JUST IN THE LOW AND MIDDLE 50S. THERE IS ALSO A CHANCE THAT WE COULD SEE FROSTS AND FREEZES AS WE HEAD TOWARDS THE BEGINNING OF NEXT WEEK. THEN WE START TO WARM BACK UP BACK ABOVE AVERAGE AS WE HEAD INTO THURSDAY. ALSO NOTICE SATURDAY, SUNDAY, MONDAY, ALL BRINGING US A CHANCE FOR SOME SHOWERS. NO DAY. LOOKS LIKE A COMPLETE WASHOUT AND THERE’S STILL SOME UNCERTAINTY WITH EXACTLY WHEN THIS RAIN ROLLS THROUGH. OR IF WE EVEN HAVE ENOUGH MOISTURE IN THE AIR TO SEE IT FIRST. WHAT’S GOING TO HAPPEN LATE THIS EVENING? OVERNIGHT TONIGHT, A COLD FRONT IS GOING TO MOVE THROUGH. IT’S DRY AS IT MOVES THROUGH. IT WILL BRING IN SOME CLOUDS. THAT’S WHAT’S GOING TO DROP OUR TEMPERATURES ABOUT 20 DEGREES AS WE HEAD INTO THE DAY TOMORROW. THEN NOTICE 6:00 ON SATURDAY. SO LATE AFTERNOON INTO THE EVENING, IT’S NOT A LOT OF RAIN. SOME PLACES STAY DRY, BUT WE COULD SEE JUST A FEW SHOWERS. THERE’S HEAVIER RAIN ON THIS MODEL IN ILLINOIS. A FEW OF THE MODELS KEEP SOME OF THAT HEAVIER RAIN NEAR AND SOUTH OF I-94 IN SOUTHEASTERN WISCONSIN, BUT MOST OF YOUR SATURDAY, MOST OF YOUR WEEKEND IS DRY. WE’RE DRY TODAY. IT’S A LOW CHANCE FOR RAIN AS WE HEAD THROUGH SATURDAY, SUNDAY, AND MONDAY. I DO THINK CHANCES ARE JUST A LITTLE BIT BETTER TO GET A FEW SHOWERS SUNDAY AND MONDAY, BUT A 20 DEGREE TEMPERATURE SWING THIS AFTERNOON INTO TOMORROW AFTERNOON. WE’RE GOING FROM THE LOW 80S TO THE 60S, SO FEELING LIKE SUMMER TODAY. THEN IT’S BACK TO REALITY. TEMPERATURES IN THE 60S. A CHANCE FOR SOME SHOWERS AS WE HEAD INTO THE AFTERNOON HOURS TOMORROW. MAYBE A FEW MORE ON SUNDAY AND MONDAY. OVERNIGHT LOWS LIKELY DOWN IN THE 30S. TUESDAY AND WEDNESDAY SO WE COULD SEE OUR FIRST FREEZE OF THE SEASON, ESPECIALLY INLAND. NEXT WEEK. WEATHER WHIPLASH\nAdvertisement\nSummer Today, Fall This Weekend\nIt will feel like Summer on Friday before a big cool down arrives this weekend\nIt will feel like summer for a day on Friday with highs in the low 80s and plenty of sunshine.Temperatures drop into the mid 50s overnight with a cold front moving in/It returns to Fall this weekend with highs in the low 60s on Saturday and Sunday with a chance for rain.\nMILWAUKEE —\nIt will feel like summer for a day on Friday with highs in the low 80s and plenty of sunshine.\nAdvertisement\nTemperatures drop into the mid 50s overnight with a cold front moving in/\nIt returns to Fall this weekend with highs in the low 60s on Saturday and Sunday with a chance for rain.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-11T16:33:36.554+03:00",
+    "updated": "2024-10-11T16:33:36.554+03:00"
+  },
+  {
+    "uuid": "86a812bbde2d1db79f5b55c7b3c33ec3374b65e8",
+    "url": "https://cnnportugal.iol.pt/sporting/geovany-quenda/oficial-sporting-anuncia-quenda-e-essugo-no-chelsea",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redação Maisfutebol",
+    "published": "2025-03-19T22:10:00Z",
+    "title": "OFICIAL: Sporting anuncia Quenda e Essugo no Chelsea",
+    "text": "Dupla rende mais de 74,4 milhões de euros aos cofres leoninos\nBomba de mercado! Agora é oficial: Geovany Quenda e Dário Essugo são jogadores do Chelsea por um valor somado de 74,4 milhões de euros!\nO Sporting anunciou as duas transferências em comunicado enviado à CMVM na noite desta quarta-feira.\nDe acordo com a informação prestada, os ingleses pagam 50,7 milhões fixos por Quenda, aos quais se poderá somar um bónus até mais 1,35 milhões em função objectivos relacionados com o desempenho desportivo na época desportiva 2025/2026, em que o jogador continuará a representar o Sporting (só na temporada seguinte ruma a Londres).\nAinda sobre o extremo de 17 anos, as partes acordaram que o valor correspondente ao mecanismo de solidariedade devido a clubes terceiros será suportado em partes iguais pela Sporting SAD e pelo Chelsea e que os encargos com os serviços de intermediação correspondem a 3,55 milhões de euros.\nGeovany Quenda estreou-se oficialmente nos leões no primeiro jogo oficial desta temporada, no clássico frente ao FC Porto para a Supertaça, onde ainda marcou um dos golos mas insuficiente para evitar a derrota por 3-4 frente aos dragões. Seguiram-se 43 jogos pela equipa principal do Sporting, onde faturou por duas vezes e assistiu por seis ocasiões.\nEssugo por 22,3 milhões já na próxima época\nAo contrário de Quanda, Essugo pode representar o Chelsea já na próxima temporada e custa um montante fixo de 22,3 milhões de euros, continuando a vestir a camisola do Las Palmas, da Liga Espanhola, por empréstimo do Sporting, até ao final da presente época.\nRelativamente ao médio defensivo de 20 anos, os serviços de intermediação correspondem a 999 mil euros e o mecanismo de solidariedade será suportado também em partes iguais por Sporting e Chelsea.\nOu seja, segundo esclarecem os leões, em ambas as transferências os valores pagos a intermediários rondam os seis por cento.\nEssugo fez quase toda a sua formação nos leões e a estreia na equipa principal deu-se na época 2020/21, com apenas 16 anos frente ao V. Guimarães, onde entrou aos 84 minutos. Foi campeão nesse ano, mas não conseguiu afirmar-se no plantel de Ruben Amorim, tendo feito apenas 10 jogos na época seguinte.\nEm 2023/24 repetiu os 10 jogos na equipa principal do Sporting e acabou por ser emprestado na segunda metade da temporada ao Chaves onde foi opção por 14 ocasiões. Na presente época, fez apenas dois jogos antes de ser emprestado ao Las Palmas, clube onde se manterá até ao final do ano desportivo.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Sport->sport industry",
+      "Sport->sports transaction",
+      "Sport->soccer",
+      "Economy, Business and Finance->business financing",
+      "Economy, Business and Finance->mergers and acquisitions",
+      "Economy, Business and Finance->financial and economic news",
+      "Social Issue->demographics",
+      "Social Issue->social condition",
+      "Social Issue->population and census"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:21:03.381+02:00",
+    "updated": "2025-03-20T01:21:03.381+02:00"
+  }
+]

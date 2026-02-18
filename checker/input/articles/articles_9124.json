@@ -1,0 +1,125 @@
+[
+  {
+    "uuid": "be5e7511b018f02fee9996b2e4ea798ebe5fcc56",
+    "url": "https://www.techspot.com/community/topics/chrome-extensions-are-abusing-googles-lousy-security-policies-to-come-first-in-search-results.290185",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alfonso Maruccia",
+    "published": "2025-01-09T18:55:00Z",
+    "title": "Chrome extensions are abusing Google's lousy security policies to come first in search results",
+    "text": "Editor's take: The Chrome Web Store offers numerous tools for extension developers to publish and promote their creations. However, what it should not enable is the misuse of these tools to provide authors with manipulative tactics that push extensions in unexpected or inappropriate contexts.\nDespite the forced transition to Manifest V3, Chrome extensions remain as dangerous and malicious as ever. Rogue developers can disguise their creations as [legitimate extensions](https://www.techspot.com/news/106177-google-removed-editthiscookie-chrome-extension-but-malicious-copycat.html) still using the older Manifest V2 technology or exploit Chrome Web Store's translation system to appear in unrelated search results by Chrome users.\nThis latest tactic was recently discovered by security researcher Wladimir Palant, who detailed his [findings](https://palant.info/2025/01/08/how-extensions-trick-cws-search/) in an eye-opening post. While searching for the \"Norton Password Manager\" extension on the Chrome Web Store, Palant encountered numerous seemingly unrelated results. Upon investigating, he uncovered a clever manipulation campaign actively pushing users to install low-quality or even malicious code.\nThe core issue identified by Palant lies in how the Chrome Web Store manages translations and related metadata. Official Chrome Web Store [policies](https://developer.chrome.com/docs/webstore/program-policies/spam-and-abuse) explicitly prohibit search result manipulation, yet hundreds of extensions are flagrantly violating these rules to secure undeserved visibility and promotion.\nSome developers have discovered that the Chrome Web Store search index is shared across all languages, according to Palant. This allows them to \"sacrifice\" descriptions in less popular languages by embedding them with keyword-packed text. When users search the CWS, these keywords boost the visibility of malicious extensions, even if the extensions are programmed to perform entirely unrelated functions.\nPalant identified 920 Chrome extensions exploiting this malicious technique to manipulate CWS search results. These extensions can be traced back to a few \"clusters,\" suggesting they were likely created by a small group of developers familiar with the search manipulation trick.\nThe researcher reported this issue to Google, highlighting what appears to be a coordinated effort to manipulate the Chrome Web Store search system. Palant noted that Google had already been [alerted](https://groups.google.com/a/chromium.org/g/chromium-extensions/c/JMtfgiagcgY/m/TNMERoXWAwAJ?pli=1) to keyword spamming practices over a year ago, yet the problematic extensions remain active. Either Google isn't looking, or they don't care at all, Palant said.\n[Chrome extensions are abusing Google's lousy security policies to come first in search results](https://www.techspot.com/news/106274-chrome-extensions-abusing-google-lousy-security-policies-come.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->computing and information technology",
+      "Social Issue->social problem",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://developer.chrome.com/docs/webstore/program-policies/spam-and-abuse",
+      "https://groups.google.com/a/chromium.org/g/chromium-extensions/c/JMtfgiagcgY/m/TNMERoXWAwAJ?pli=1",
+      "https://palant.info/2025/01/08/how-extensions-trick-cws-search/",
+      "https://www.palant.info/2025/01/08/how-extensions-trick-cws-search/",
+      "https://groups.google.com/a/chromium.org/g/chromium-extensions/c/JMtfgiagcgY/m/TNMERoXWAwAJ",
+      "https://palant.info/2025/01/08/how-extensions-trick-cws-search",
+      "https://www.developer.chrome.com/docs/webstore/program-policies/spam-and-abuse",
+      "https://www.groups.google.com/a/chromium.org/g/chromium-extensions/c/JMtfgiagcgY/m/TNMERoXWAwAJ?pli=1"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Wladimir Palant",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Google",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:07:49.866+02:00",
+    "updated": "2025-01-10T01:07:49.866+02:00"
+  },
+  {
+    "uuid": "b477edd944914d07cd67f8422ca14ef503787b8c",
+    "url": "https://www.meneame.net/story/feijoo-vamos-intentar-frenar-desde-cgpj-cualquier-abuso-gobierno/c0110",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nebuchanezzar",
+    "published": "2023-12-29T14:44:00Z",
+    "title": "#110 Feijóo: \"Vamos a intentar frenar desde el CGPJ cualquier abuso que el Gobierno pueda cometer\"",
+    "text": "[nereira](/user/nereira)a [expansion.com](/go/link/3891692) [#110](c110#c-110) Yo creo que hay otra parte de gente normal que los vota y puede cambiar su voto a otras opciones. Te sorprendería la cantidad de gente que en Galicia cambió su voto del PPdG al PSdG, al BNG e incluso al FPG y hasta a Podemos. A varios los conozco personalmente, y nunca diría que son malas personas o gente sin conciencia.\n[#11](c11#c-11) La verdad es que no sé a que espera el P$0€ para cambiar la ley y poder renovar el CGPJ por mayoría absoluta sin un solo vocal propuesto por esa organización criminal con sede en Génova 13.\n[#106](c106#c-106) En general puede ser así, pero habrá una parte que los vote en conciencia por desconocimiento, porque funciona su propaganda o por lo que sea, pero no con la intención de ser cómplices de nada.\n[#109](c109#c-109) Claro, si tienes toda la razón, de siempre a la derecha criminal española la votan o malnacidos sin ningún tipo de consciencia o imbéciles completos que no saben ni desde dónde les viene el viento, por eso el odio y el miedo son los principales agitadores de votos entre estos últimos y los primeros, los malnacidos sin escrúpulos suelen ostentar posiciones de poder\nFeijóo, un político sin ideas, sin inteligencia, sin conocimientos sobre la vida de los españoles de abajo, recita su manual/catecismo de imbécil y ruin de derechas. Que es un perdedor rabioso, eso es lo que más destaca de su persona. Un ser odiador compulsivo.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Crime, Law and Justice",
+      "Politics"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T17:57:26.573+02:00",
+    "updated": "2023-12-29T17:57:26.573+02:00"
+  },
+  {
+    "uuid": "551eae022f1f555f0a9f8feb7e3035f3681f5425",
+    "url": "https://istoe.com.br/protocolo-nao-e-nao-entenda-nova-lei-de-combate-a-violencia-contra-a-mulher-em-bares-e-shows/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "admin3",
+    "published": "2023-12-29T19:31:00Z",
+    "title": "Protocolo \"Não é Não\": entenda nova lei de combate à violência contra a mulher em bares e shows",
+    "text": "29/12/2023 - 16:31\nBares, boates, shows e estádios terão que monitorar e agir para coibir eventuais situações de constrangimento ou violência contra mulheres.O Brasil agora tem uma lei para combater constrangimento e violência contra mulheres em casas noturnas, bares e shows onde houver venda de bebida alcoólica, além de competições esportivas, como partidas de futebol em estádios. A Lei 14.786, originada na Câmara dos Deputados e sancionada pelo presidente Luiz Inácio Lula da Silva nesta quinta-feira (28/12), estabelece um protocolo para tratar desses casos.\nQuais os deveres dos estabelecimentos comerciais?\nBatizada de \"Não é Não\" – lema que alude ao direito das mulheres de recusar investidas indesejadas e terem sua vontade respeitada –, a lei impõe a esses estabelecimentos o dever de monitorar e reagir a eventuais situações de constrangimento e violência, dispondo sempre de um funcionário responsável pela aplicação do protocolo.\nCaberá ainda ao local instruir as clientes – por exemplo, por meio de avisos no banheiro feminino – sobre como informar aos funcionários que precisam de ajuda e como acionar a Polícia Militar e o Ligue 180.\nQuem descumprir as normas, sofrerá advertência e penalidades previstas em lei – não está claro, porém, quais.\nO que acontece se uma mulher for constrangida ou sofrer violência?\nEm caso de constrangimento – definido como \"qualquer insistência, física ou verbal, sofrida pela mulher depois de manifestada a sua discordância com a interação\" – , caso a vítima confirme que precisa de ajuda, a lei não prevê uma medida específica. Fica a critério dos estabelecimentos a decisão de (como) agir ou não para pôr fim à situação, preservar a vítima e colaborar com os órgãos de saúde e segurança pública eventualmente acionados.\nEm caso de violência – caracterizada pelo \"uso da força\" que provoque dano, lesão ou morte –, o estabelecimento deve proteger a mulher, afastar o agressor, colaborar para a identificação de possíveis testemunhas e acionar a polícia, isolando o local onde existam vestígios da violência cometida até a chegada dos agentes.\nImagens de câmeras de segurança terão que ser armazenadas por ao menos um mês, para o caso de virem a ser requisitadas pela investigação e pelos envolvidos.\nOs estabelecimentos também poderão criar seu próprio protocolo interno para reagir a situações de constrangimento e violência, adotando medidas como a expulsão do agressor do estabelecimento.\nAo cumprir o protocolo \"Não é Não\", o estabelecimento deve fazê-lo de forma célere, respeitando o relato da vítima e preservando sua dignidade e integridade física e psicológica.\nDireitos da mulher\nO texto estabelece, no âmbito da lei, o direito da mulher a ser protegida do agressor, relatar aos funcionários o constrangimento ou a violência sofridos, ser informada sobre os seus direitos, ser acompanhada por pessoa de sua escolha e deixar o local acompanhada até embarcar em seu transporte.\nCabe ainda à mulher \"definir se sofreu constrangimento ou violência, para os efeitos das medidas previstas nesta Lei\" e ter suas decisões respeitadas em relação às medidas de apoio, bem como ao rápido cumprimento do protocolo.\nOnde a lei não se aplica\nO dispositivo não se aplica a cultos e demais eventos de natureza religiosa. Estabelecimentos que não são obrigados por lei a aderir à medida podem fazê-lo voluntariamente, recebendo um selo e sendo classificado em lista pública como local seguro para mulheres.\nra/cn (Agência Brasil, ots)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T21:40:03.530+02:00",
+    "updated": "2023-12-29T21:40:03.530+02:00"
+  }
+]

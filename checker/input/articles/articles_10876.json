@@ -1,0 +1,191 @@
+[
+  {
+    "uuid": "b88968281ba8b9be09adf80862441e608b736300",
+    "url": "https://en.hespress.com/77222-two-australian-citizens-killed-by-an-idf-strike-in-lebanon.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hespress EN",
+    "published": "2023-12-28T18:31:00Z",
+    "title": "Two Australian citizens killed by an IDF strike in Lebanon",
+    "text": "Mark Dreyfus, Australia’s acting foreign minister, announced on Thursday that an Israeli attack in Lebanon claimed the lives of two Australian citizens, Ibrahim Bazzi and his brother Ali Bazzi. From Sydney, Ibrahim Bazzi had traveled to Lebanon to join his Lebanese bride Shorouq Hammoud on her way to Australia. According to media accounts, Hammoud—who had just been granted an Australian visa—was also assassinated in the attack. Funerals for the three were held overnight in Lebanon. The three died in their home following the Israeli Defense Forces (IDF) attack, with no signs of fighting nearby preceding the strike. “When they found her she was alive but she died shortly after,” said the official to the National regarding Shourouq’s death. Dreyfus stated that his government had discussed the airstrike with Israel, but he would not unveil what was said, reported ABC News. “In the context of the current conflict, Australia has consistently called for civilian lives to be protected and we have consistently raised our concerns about the risk of this conflict spreading,” Dreyfus said. He restated a government warning cautioning Australians against visiting Lebanon. Australians who have already arrived in the nation ought to depart as soon as commercial flights continue to operate. He also stated that if the Bazzi family needed consular support, the Australian embassy in Beirut was prepared to help.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mark dreyfus",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ali bazzi",
+          "sentiment": "none"
+        },
+        {
+          "name": "ibrahim bazzi",
+          "sentiment": "none"
+        },
+        {
+          "name": "dreyfus",
+          "sentiment": "none"
+        },
+        {
+          "name": "hammoud",
+          "sentiment": "none"
+        },
+        {
+          "name": "shourouq",
+          "sentiment": "none"
+        },
+        {
+          "name": "shorouq hammoud",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "idf",
+          "sentiment": "negative"
+        },
+        {
+          "name": "abc news",
+          "sentiment": "none"
+        },
+        {
+          "name": "dreyfus",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "lebanon",
+          "sentiment": "none"
+        },
+        {
+          "name": "australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "sydney",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:38:25.853+02:00",
+    "updated": "2023-12-29T00:38:25.853+02:00"
+  },
+  {
+    "uuid": "c2ba366f2ac26657a1d3400515b87aa02e3903e9",
+    "url": "https://www.devx.com/daily-news/ibm-to-acquire-datastax-enhancing-ai-capabilities",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cameron Wiggins",
+    "published": "2025-02-27T21:13:00Z",
+    "title": "IBM to acquire DataStax, enhancing AI capabilities",
+    "text": "IBM announced on Tuesday that it had struck a deal to acquire DataStax, a company known for its database platform, data streaming technology, and tools for developing data-intensive AI applications that utilize retrieval augmented generation (RAG). The acquisition aims to bolster IBM’s Watsonx AI portfolio by integrating DataStax’s capabilities to manage vast amounts of unstructured data. With this acquisition, IBM looks to accelerate the deployment of generative AI at scale and unlock value from significant volumes of data.\nThis move aligns with IBM’s ongoing commitment to open-source AI , as DataStax’s Astra DB cloud platform and DataStax Enterprise NoSQL and vector database are based on the open-source Apache Cassandra database. Ritika Gunnar, IBM’s General Manager for Data and AI, stated, “The strategic acquisition of DataStax brings cutting-edge capabilities in managing unstructured and semi-structured data to Watsonx. This builds on our investments in open-source Cassandra for enterprise applications and enables clients to develop next-generation AI solutions.”\nGunnar added that with DataStax’s AstraDB and DataStax Enterprise, Watsonx will benefit from advanced NoSQL and vector representation capabilities, resulting in more efficient and accurate AI outcomes.\nDataStax CEO Chet Kapoor commented, “With our technologies and IBM’s hybrid open data lakehouse, we will enable vector and AI search across the entire data estate, making IBM’s capabilities available to every developer.\nIn addition to its database, DataStax offers a range of products that will be integrated into IBM’s portfolio, including Astra Streaming for real-time data pipelines, the DataStax AI Platform for building and deploying AI applications, and an enterprise AI platform incorporating Nvidia technology.\nIntegrating DataStax technologies into Watsonx Gunnar further highlighted that the synergy between DataStax’s data management expertise and Watsonx’s data AI solutions will deliver enterprise-ready data for AI applications, enhancing data performance, search relevancy, and overall operational efficiency.\nAnother key aspect of the acquisition is DataStax’s Langflow, an open-source, low-code tool for developing AI applications that use RAG . “Langflow empowers developers to quickly prototype, build, and deploy RAG and multi-agent AI applications,” noted Gunnar. “This low-code interface simplifies the integration of generative AI models, data processing, and AI workflows, allowing developers to concentrate on innovation rather than technical complexities.”\nIBM has not disclosed the financial terms of the acquisition, which is expected to be finalized in the second quarter of this year, pending customary closing conditions and regulatory approvals.\nDataStax, founded in 2010 and headquartered in Santa Clara, California, is privately held and has raised $115 million in a funding round led by Goldman Sachs in 2022. This acquisition comes as IBM navigates regulatory hurdles for another significant purchase of HashiCorp for $6.4 billion. While originally expected to close by the end of 2024, the acquisition faced delays due to regulatory reviews.\nHowever, the U.K.’s Competition and Markets Authority recently cleared IBM’s acquisition of HashiCorp, moving it closer to completion.\nImage Credits: Photo by Carson Masterson on Unsplash",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->scientific innovation",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:48:43.173+02:00",
+    "updated": "2025-02-28T00:48:43.173+02:00"
+  },
+  {
+    "uuid": "70552260b4738c06fd96504496166f7ff2f1dd93",
+    "url": "https://www.theepochtimes.com/us/blocking-illegal-immigrants-from-entering-us-if-at-capacity-is-illegal-appeals-court-5747361",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Zachary Stieber",
+    "published": "2024-10-24T20:59:00Z",
+    "title": "Blocking Illegal Immigrants From Entering US If at Capacity Is Illegal: Appeals Court",
+    "text": "Preventing illegal immigrants from crossing the U.S.–Mexico border if U.S. officials say a port of entry is at capacity is illegal, a federal appeals court ruled on Oct. 23. One judge dissented. The so-called metering policy, implemented in 2016 under President Barack Obama and continued under President Donald Trump and President Joe Biden, saw federal immigration officials refuse to let illegal immigrants cross into the United States if the number of border crossers at ports exceeded a certain number. “If we don’t have the resources to let them in on a particular day, they are going to have to come back,” Homeland Security Secretary Kirstjen Nielsen said on cable television in 2018. Immigration rights advocates sued, arguing the policy was illegally denying migrants the right to enter the United States and claim asylum. A district court judge in 2021 ruled that the policy violated federal law that requires immigration officers to inspect newly arrived illegal immigrants and refer them for an interview if they say they’re applying for asylum. Construing the law as allowing officers to turn back illegal immigrants until an unspecified time “would permit defendants to turn back asylum seekers any number of times—perhaps indefinitely—without running afoul of their statutory obligations,” U.S. District Judge Cynthia Bashant said at the time. The policy was rescinded shortly after Bashant’s ruling. [writing](https://www.documentcloud.org/documents/25250084-ruling-in-metering-case)on Wednesday that the statute meant any person who presents themselves to officials at the border meets the definition of having arrived. “A noncitizen stopped by U.S. officials at the border is eligible to apply for asylum under” the law, U.S. Circuit Judge Michelle Friedland wrote for the majority. The law in question states in part, “Any alien who is physically present in the United States or who arrives in the United States (whether or not at a designated port of arrival and including an alien who is brought to the United States after having been interdicted in international or United States waters), irrespective of such alien’s status, may apply for asylum.” Government lawyers had argued that immigrants had not arrived until they were on U.S. soil and had presented themselves to officials, but the judge indicated that that interpretation means an asylum seeker would be better off in some instances crossing the border between ports of entry. “If she manages to surreptitiously cross the border, she will be able to apply for asylum. We do not think Congress would have created that incentive,” the judge said. U.S. Circuit Judge John Owens joined Friedland. U.S. Circuit Judge Ryan Nelson said in a dissent that the key point is the law says “arrives in,” not just “arrive.” He said the law means immigrants must be physically present in the United States to apply for asylum. Nelson also said that the ruling “imposes on the federal government—for the first time—an obligation to interview asylum seekers who are still in Mexico.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.documentcloud.org/documents/25250084-ruling-in-metering-case",
+      "https://documentcloud.org/documents/25250084-ruling-in-metering-case"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Kirstjen Nielsen",
+          "sentiment": "none"
+        },
+        {
+          "name": "Barack Obama",
+          "sentiment": "none"
+        },
+        {
+          "name": "Donald Trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "Joe Biden",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:20:49.347+03:00",
+    "updated": "2024-11-01T01:27:17.618+02:00"
+  }
+]

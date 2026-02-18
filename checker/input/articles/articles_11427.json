@@ -1,0 +1,528 @@
+[
+  {
+    "uuid": "20b634148b3c8224b850c30b0c36406002fbc3f0",
+    "url": "https://vervetimes.com/new-york-times-says-openai-erased-potential-lawsuit-evidence",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mickey Vernon",
+    "published": "2024-11-22T05:27:00Z",
+    "title": "New York Times Says OpenAI Erased Potential Lawsuit Evidence",
+    "text": "Lawsuits are never exactly a lovefest, but the copyright fight between The New York Times and both OpenAI and Microsoft is getting especially contentious. This week, the Times alleged that OpenAI’s engineers inadvertently erased data the paper’s team spent more than 150 hours extracting as potential evidence.\nOpenAI was able to recover much of the data, but the Times’ legal team says it’s still missing the original file names and folder structure. According to a declaration filed to the court Wednesday by Jennifer B. Maisel, a lawyer for the newspaper, this means the information “cannot be used to determine where the news plaintiffs’ copied articles” may have been incorporated into OpenAI’s artificial intelligence models.\n“We disagree with the characterizations made and will file our response soon,” OpenAI spokesperson Jason Deutrom told WIRED in a statement. The New York Times declined to comment.\nThe Times filed its copyright lawsuit against OpenAI and Microsoft last year, alleging that the companies had illegally used its articles to train artificial intelligence tools like ChatGPT. The case is one of many ongoing legal battles between AI companies and publishers, including a similar lawsuit filed by the Daily News being handled by some of the same lawyers.\nThe Times’ case is currently in discovery, which means both sides are turning over requested documents and information that could become evidence. As part of the process, OpenAI was required by the court to show the Times its training data, which is a big deal—OpenAI has never publicly revealed exactly what information was used to build its AI models. To disclose it, OpenAI created what the court is calling a “sandbox” of two “virtual machines” that the Times’ lawyers could sift through. In her declaration, Maisel said that OpenAI engineers had “erased” data organized by the Times’ team on one of these machines.\nAccording to Maisel’s filing, OpenAI acknowledged that the information had been deleted, and attempted to address the issue shortly after it was alerted to it earlier this month. But when the paper’s lawyers looked at the “restored” data, it was too disorganized, forcing them “to recreate their work from scratch using significant person-hours and computer processing time,” several other Times lawyers said in a letter filed to the judge the same day as Maisel’s declaration.\nThe lawyers noted that they had “no reason to believe” that the deletion was “intentional.” In emails submitted as an exhibit along with Maisel’s letter, OpenAI counsel Tom Gorman referred to the data erasure as a “glitch.”\nRead original article here\nDenial of responsibility! Verve Times is an automatic aggregator of the all world’s media. In each content, the hyperlink to the primary source is specified. All trademarks belong to their rightful owners, all materials to their authors. If you are the owner of the content and do not want us to publish your materials, please contact us by email – admin@vervetimes.com . The content will be deleted within 24 hours.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.0_1.pdf&quot;}",
+      "https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf",
+      "https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf&quot;}",
+      "https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf",
+      "https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.0_1.pdf",
+      "https://www.wired.com/story/new-york-times-openai-erased-potential-lawsuit-evidence/",
+      "https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf&quot;}",
+      "https://www.storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf",
+      "https://www.storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.0_1.pdf",
+      "https://www.wired.com/story/new-york-times-openai-erased-potential-lawsuit-evidence",
+      "https://www.storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.0_1.pdf&quot;}",
+      "https://www.storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf",
+      "https://www.storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf&quot;}",
+      "https://www.storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf&quot;}",
+      "https://wired.com/story/new-york-times-openai-erased-potential-lawsuit-evidence/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jennifer B. Maisel",
+          "sentiment": "none"
+        },
+        {
+          "name": "Jason Deutrom",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "New York Times",
+          "sentiment": "none"
+        },
+        {
+          "name": "Microsoft",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T16:43:16.785+02:00",
+    "updated": "2024-11-22T16:43:16.785+02:00"
+  },
+  {
+    "uuid": "01b427fdc715a3c63c49f7feebe32a1f58d88091",
+    "url": "https://www.wamc.org/2024-03-10/readers-wishes-for-ramadan-cease-fire-in-gaza-peace-on-earth-and-more-empathy",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Suzanne Nuyen",
+    "published": "2024-03-10T12:00:00Z",
+    "title": "Readers' wishes for Ramadan: Cease-fire in Gaza, peace on Earth and more empathy | WAMC",
+    "text": "Readers' wishes for Ramadan: Cease-fire in Gaza, peace on Earth and more empathy Updated March 10, 2024 at 2:31 PM ET Ramadan, the holiest month on the Islamic calendar, will begin on Monday, according to moon sightings in various countries. During this time, Muslims celebrate the month in which God revealed the first verses of the Quran to the prophet Muhammad. Those who observe Ramadan will fast from sun-up to sundown. At the end of the month, they celebrate a major holiday called Eid al-Fitr, or the \" [Festival of the Breaking of the Fast](https://ing.org/resources/for-all-groups/calendar-of-important-islamic-dates/ramadan-information-sheet/).\" \"The power of this month really is in the fact that every Muslim in the world is fasting and praying together in this holy month,\" Saman Naquvi of Brooklyn, N.Y., said. \"It drives home the fact that our community isn't just local but global.\" This year, NPR asked readers about their Ramadan prayers. More than 600 people responded. These were some of the major themes NPR readers are praying for and reflecting on. Responses have been edited for length and clarity. Peace in Gaza and the rest of the world Readers overwhelmingly wished for a cease-fire in Gaza. More than 30,000 Palestinians have been killed since the war began, according to Gaza's health ministry. \"We all have personal prayers for ourselves and our loved ones,\" Huma Husain of Silver Spring, Md., said. \"This year however they are all overshadowed by one thing: cease-fire and a peaceful resolution in Gaza.\" Hundreds of readers included prayers for peace in other areas of the world as well. Many called for the release of all hostages taken by Hamas on Oct. 7. \"I'm praying for the end of suffering for all those from [Palestinian territories] to Sudan to Congo,\" Nasra Nimaha of Hempstead, N.Y., said. Afshan Hamid, 57, wished for \"peace and justice for [Palestinian territories], Kashmir, Pakistan, Yemen, Rohingya Muslims and all people who are oppressed, [including] Ukrainian people [and] immigrants at our borders.\" \"I wish that Muslims, Jews, and Christians in Israel, the West Bank, and Gaza could live together in peace,\" Randall Rick of Lone Tree, Colo., said. \"Outside the Middle East, I wish for peace in any land where there is conflict between Muslims and non-Muslims. Lastly, I wish for peace between any groups that are in conflict with each other.\" Family The health and happiness of family members stood out among readers' personal prayers. This year is the first Ramadan since Wajiha Akhtar's mom died. \"I'll be praying that she's no longer in pain,\" the 38-year-old said. Afifa Yusufi's mother has COPD and pneumonia. \"I'm praying [for her] ... to be with us a little longer,\" she said. \"I'm praying for all my family and friends and loved ones to be healthy and safe, and for people to care for their mental health.\" Zuhaira Razzack of Houston, Texas, wants her children to \"achieve success, happiness, love, security, and fulfillment in their lives and to maintain bonds of family, friendship and community.\" Sana Shaikh of Marlboro, N.J., wants her children to \"grow up as kind, giving and helpful human beings to their communities and world.\" The environment There was no shortage of prayers for the health of the Earth, either. \"I'm praying for a Ramadan of collective liberation and restoration of ecological balance on our bleeding mother Earth,\" Nazish Qureshi of Washington, D.C., said. Afhsan Hamid hopes humanity will be provided the \"intelligence and capacity to solve and lead climate change and environmental issues.\" And Hamza Ettarbaoui of Morocco said, \"I'm praying for a world [where] I can breathe clean air.\" Gratitude Many readers said they were reflecting on everything they have to be grateful for, especially while so much of the world is suffering. \"In the tranquil moments of Ramadan, our hearts are filled with gratitude for the blessings bestowed upon us,\" Wajeha Barakat of Raleigh, N.C., said. \"We seek peace not only within ourselves but also for our brothers and sisters around the world, hoping that the divine light of this sacred month will bring an end to conflicts and suffering.\" \"This Ramadan, I'm grateful for my life, my loved ones, my community, and my country,\" Nas Kazi of Yorba Linda, Calif., said. \"I am grateful for the opportunities I have been given and the ability to overcome any obstacles that may be in my future. I am also aware that many people around the world do not enjoy the same opportunities and their challenges are dire compared to what I endure.\" \"We are choosing to go without food and water so that we can acknowledge with gratitude that it is a choice we have the privilege to make,\" Saman Naquvi said. \"Others ... are not given the luxury of that choice. And so we will pray that they have food to break their fasts with, and shelter from the bombs to pray under and that they and their families will live long enough to celebrate Eid together.\" \"This is a bittersweet Ramadan as we get to open our fasts with an abundance of food while praying for babies and toddlers that are being starved to death,\" Nazia Sheriff, 43, said. \"Our hearts are so heavy as a community and carry a collective despair, the extent of which we can't even fully express.\" \"It feels wrong to be comfortable and enjoying life with my family while there are people out there who are starving and getting bombed at the same time,\" Natasha Kha of Newton, Mass., said. \"While fasting, I will be thinking about what the kids in Gaza go through while they are hungry. Yet it won't be the same because I will get to break my fast while they cannot.\" Free and fair elections and kind global leaders Many readers in America extended prayers to U.S. leaders and politicians as the nation gears up for a presidential election. Saima Ahmad of Suwanee, Ga., hopes for \"an outcome of the election that is best for the country.\" Minha Kauser of Vienna, Va., hopes the next president \"cares about building peace.\" Sophia Jafri of East Windsor, N.J., hopes for \"morally upright politicians who stand for all rights.\" Kimberly Alostaz is from Kuwait and now lives in Ohio. \"I am praying for morally strong, intelligent, knowledgeable, respectable, empathetic, humble and unbiased leaders around the world who are capable of truly making decisions that benefit their people and all people around the world,\" she said. More empathy and understanding As readers reflected on the many conflicts taking place around the world, they overwhelmingly called for more empathy, understanding and equality in humanity. \"I pray that every human being is given the same worth and value around the world; not based on the color of their skin, the God they follow or the city they live in,\" Zuleqa Husain of Silver Spring, Md., said. \"I pray for healing. I pray for justice. I pray for mercy. I pray for patience. I pray for steadfastness. I pray for the ability of humanity to move beyond base impulses to serve and deeply care for one another, this planet, and all that inhabit it,\" 38-year-old Nadia Massoud said. \"As a Palestinian, I'm praying that humanity and compassion prevail and that people recognize that killing, destruction and wars never solve any conflicts. Instead, they create more destruction,\" Hind Jarrah of McKinney, Texas, said. Copyright 2024 NPR. To see more, visit https://www.npr.org.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://ing.org/resources/for-all-groups/calendar-of-important-islamic-dates/ramadan-information-sheet/).",
+      "https://www.npr.org.",
+      "https://www.ing.org/resources/for-all-groups/calendar-of-important-islamic-dates/ramadan-information-sheet/).",
+      "https://npr.org."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "muhammad",
+          "sentiment": "none"
+        },
+        {
+          "name": "saman naquvi",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "wamc",
+          "sentiment": "negative"
+        },
+        {
+          "name": "npr",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "earth",
+          "sentiment": "none"
+        },
+        {
+          "name": "n.y.",
+          "sentiment": "none"
+        },
+        {
+          "name": "brooklyn",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-10T23:47:43.205+02:00",
+    "updated": "2024-03-10T23:47:43.205+02:00"
+  },
+  {
+    "uuid": "8a297d5bcf52b4beabdd2e7b841b9c920011c284",
+    "url": "https://www.infobae.com/malditos-nerds/2025/03/27/crystal-dynamics-el-estudio-detras-de-tomb-raider-despide-a-17-empleados-en-plena-crisis-del-sector",
+    "ord_in_thread": 0,
+    "author": "@infobae",
+    "published": "2025-03-27T19:22:00Z",
+    "title": "Crystal Dynamics, el estudio detrás de Tomb Raider, despide a 17 empleados en plena crisis del sector - Infobae",
+    "text": "Rise of the Tomb Raider, de Crystal Dynamics. En otro día sombrío dentro de la industria, Crystal Dynamics ha anunciado el despido de 17 empleados como parte de un proceso de reestructuración que, según el estudio, busca alinear sus necesidades empresariales. En un reciente comunicado oficial, la compañía expresó que esta decisión “ no refleja la dedicación ni la capacidad de los afectados ” y que brindará apoyo a quienes han perdido sus puestos de trabajo.\nEstos despidos se suman a la reducción de personal que se dio en 2023, cuando la compañía también se vio afectada por los recortes implementados por Embracer Group , su empresa matriz desde 2022.\nRise of the Tomb Raider, de Crystal Dynamics. A pesar de la situación, Crystal Dynamics ha dejado claro que “ este cambio no altera nuestros planes de proyectos actuales ”, lo cual asegura la continuidad del nuevo Tomb Raider , que será publicado por Amazon , junto a su trabajo de apoyo en el reboot de Perfect Dark junto a The Initiative .\nEl estudio, que no ha lanzado un juego propio desde Marvel’s Avengers en 2020, enfrenta una crisis similar a la de otras compañías del sector. Por el momento, ni Tomb Raider ni Perfect Dark tienen fecha de lanzamiento estimada.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->layoffs",
+      "Labor->labour market",
+      "Labor->employment",
+      "Labor->employer"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-27T21:31:19.989+02:00",
+    "updated": "2025-03-27T21:31:19.989+02:00"
+  },
+  {
+    "uuid": "4d46dda4e0e73e3dd5782e253997088ae9853253",
+    "url": "https://cooperativa.cl/noticias/deportes/futbol/futbol-femenino/la-jugadora-de-coquimbo-unido-natsumy-millones-sigue-en-coma-inducido/2025-02-20/211118.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cooperativa.cl",
+    "published": "2025-02-21T00:36:00Z",
+    "title": "La jugadora de Coquimbo Unido Natsumy Millones sigue en coma inducido - Cooperativa.cl",
+    "text": "Este viernes se le realizarán importantes exámenes en el hospital de la ciudad.\nSuscríbete a nuestro canal de Whatsapp Llévatelo:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->health care approach",
+      "Health->medical condition",
+      "Health->hospital",
+      "Human Interest->human mishap",
+      "Social Issue->social services",
+      "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/intent/tweet?text=La",
+      "https://tinyurl.com/2bllcuys",
+      "https://www.linkedin.com/shareArticle?source=Cooperativa%22+rel%3D%22nofollow&title=La",
+      "https://api.whatsapp.com/send?text=https://tinyurl.com/2bllcuys",
+      "https://mail.google.com/mail/?view=cm&fs=1&body=%0D%0A%0D%0Ahttps://www.cooperativa.cl/noticias/deportes/futbol/futbol-femenino/la-jugadora-de-coquimbo-unido-natsumy-millones-sigue-en-coma-inducido/2025-02-20/211118.html&su=COOPERATIVA.CL",
+      "https://www.whatsapp.com/channel/0029VZzvoOXFSAsxk5cjq43j",
+      "https://mail.google.com/mail/",
+      "https://linkedin.com/shareArticle?source=Cooperativa%22+rel%3D%22nofollow&title=La",
+      "https://www.tinyurl.com/2bllcuys",
+      "https://www.linkedin.com/shareArticle",
+      "https://www.twitter.com/intent/tweet?text=La",
+      "https://mail.google.com/mail/?view=cm&fs=1&body=%0D%0A%0D%0Ahttps://cooperativa.cl/noticias/deportes/futbol/futbol-femenino/la-jugadora-de-coquimbo-unido-natsumy-millones-sigue-en-coma-inducido/2025-02-20/211118.html&su=COOPERATIVA.CL",
+      "https://www.api.whatsapp.com/send?text=https://www.tinyurl.com/2bllcuys",
+      "https://api.whatsapp.com/send",
+      "https://twitter.com/intent/tweet",
+      "https://whatsapp.com/channel/0029VZzvoOXFSAsxk5cjq43j"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T02:48:29.411+02:00",
+    "updated": "2025-02-21T02:48:29.411+02:00"
+  },
+  {
+    "uuid": "38493b72050f77153765fdfadc7588c68d0d083a",
+    "url": "https://www.basketusa.com/news/730500/les-nets-retireront-le-numero-de-vince-carter-le-25-janvier",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dimitri Kucharczyk",
+    "published": "2024-09-19T15:31:00Z",
+    "title": "Les Nets vont retirer le maillot de Vince Carter le 25 janvier",
+    "text": "NBA – C’est le 25 janvier prochain, à l’occasion d’un match face à Miami, que les Brooklyn Nets vont retirer le #15 de Vince Carter. Et l’accrocher au plafond du Barclays Center. Alors qu’il s’apprête à entrer au Hall of Fame , Vince Carter va également avoir droit à un autre honneur ces prochains mois, puisque les Brooklyn Nets ont annoncé leur intention de retirer son maillot.\nEt selon Michael Scotto , c’est le 25 janvier prochain, pour un match face au Heat, que la cérémonie aura lieu !\n« Venir ici dans quelques années, voir mon nom au plafond de la salle, ce serait un rêve devenu réalité, comme pour n’importe quel joueur. C’est un objectif. Ça veut dire que tu as eu une carrière phénoménale pour cette équipe. Je ne dirais jamais non » avait lâché Vince Carter il y a quelques années. « Ça a toujours été super de venir ici, chaleureux, avec toujours des maillots des Nets (époque New Jersey). C’est toujours cool. Qu’importe où je vais, c’est cool de voir des maillots des Nets, des Raptors. C’est ce qu’il y a de mieux : revenir et voir ces maillots. »\nLe numéro #15 de Vince Carter sera le septième retiré par les Nets après ceux de Drazen Petrovic (#3) à titre posthume, Jason Kidd (#5), John Williamson (#23), Bill Melchionni (#25), Julius Erving (#32) et Buck Williams (#52). À noter que comme pour les autres franchises de la ligue, le #6 de Bill Russell est également retiré.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://x.com/MikeAScotto/status/1836770280343028017",
+      "https://www.youtube.com/embed/Mhk0BHsTCaU?feature=oembed",
+      "https://youtube.com/embed/Mhk0BHsTCaU?feature=oembed",
+      "https://www.x.com/MikeAScotto/status/1836770280343028017",
+      "https://www.youtube.com/embed/Mhk0BHsTCaU"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-20T00:39:57.173+03:00",
+    "updated": "2024-09-20T00:39:57.173+03:00"
+  },
+  {
+    "uuid": "fea8a0a86741d9c5d966e784843ac6ec299c80ba",
+    "url": "https://www.ehn.org/plastic-medical-product-2669883749.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sarah Howard",
+    "published": "2024-11-15T02:46:00Z",
+    "title": "Plastic medical products should not get a “free pass” from regulation, scientists say",
+    "text": "A recent commentary published in The Lancet02254-2/fulltext) explains why plastic products for medical and health uses should not be exempt from the UN global plastics treaty.\nIn short:\n- Single-use medical products contribute considerably to plastic pollution, despite the lack of evidence that they improve safety or hygiene.\n- The authors note that messaging about plastics’ importance to healthcare is mainly pushed by the petrochemical industry and other parties that benefit from continued plastic production.\n- They also point to proposed provisions - such as the phase-out of harmful chemicals and producer responsibility - that could help make medical products safer without eliminating their use.\nKey quote:\n“Conflating the normalisation of disposable plastics in health care with their necessity overlooks growing evidence that, for many devices, single use does not improve hygiene, while obscuring risks plastics pose to human health.”\nWhy this matters:\nNegotiations of the UN global plastics treaty are approaching a critical juncture as delegates prepare to attend the fifth negotiating conference in November. So far, the process has been hampered by some member states’ attempts to narrow the treaty’s scope and limit the strength of its regulatory power. With growing concern over patients’ exposure to microplastics and harmful plastic chemicals through medical procedures, the authors of this commentary emphasize that the treaty must address plastics used in healthcare in order to be effective.\nRelated EHN coverage:\nPatients may be exposed to microplastics through medical procedures“Plastic will overwhelm us:” Scientists say health should be the core of global plastic treaty\nMore resources:\nThe Scientists’ Coalition for an Effective Plastics Treatyprovides fact sheets, policy briefs and otherresourceson the environmental and health effects of plastics.- Subscribe to EHN’s\nCode Green newsletter, which collects the latest news on health care sustainability.\nStreet, Alice et al. for The Lancet vol. 404, 10464. Nov. 2, 202402254-2/abstract)\n<a href=\"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24\">\nwww.thelancet.com\n</a>02254-2/abstract)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24",
+      "https://ikhapp.org/materials/",
+      "https://ikhapp.org/scientistscoalition/",
+      "https://ehsciences.ac-page.com/code-green-subscribe",
+      "https://www.ikhapp.org/scientistscoalition/",
+      "https://thelancet.com/journals/lancet/article/PIIS0140-6736(24",
+      "https://ikhapp.org/materials",
+      "https://www.ehsciences.ac-page.com/code-green-subscribe",
+      "https://www.ikhapp.org/materials/",
+      "https://ikhapp.org/scientistscoalition"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "UN",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T07:28:58.980+02:00",
+    "updated": "2024-11-15T07:28:58.980+02:00"
+  },
+  {
+    "uuid": "9ac4407dcca89b89d5699e006e881bf845f20a98",
+    "url": "https://www.terra.com.br/vida-e-estilo/saude/tomar-cafe-da-manha-apos-9h-pode-trazer-um-risco-a-sua-saude,7ce58c9e53c6034119f36789764aee6bjffj61zw.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "simplesconteudo",
+    "published": "2025-01-30T13:52:00Z",
+    "title": "Tomar café da manhã após 9h pode trazer um risco à sua saúde",
+    "text": "Tomar café da manhã após 9h pode trazer um risco à sua saúde\nEstudo aponta relação entre o horário da primeira refeição e o desenvolvimento de uma doença\nA hora em que você toma o café da manhã pode ter um impacto significativo na sua saúde. Um estudo publicado no International Journal of Epidemiology revelou que consumir a primeira refeição do dia após as 9 horas da manhã pode aumentar em 59% o risco de desenvolver diabetes tipo 2, em comparação com aqueles que tomam café da manhã antes das 8h.\nA pesquisa foi conduzida com 103.312 participantes na França, que registraram seus hábitos alimentares, incluindo horários e tipos de refeições. Com base nesses dados, os cientistas acompanharam a saúde dos voluntários por uma média de sete anos. Durante esse período, foram identificados 963 novos casos de diabetes tipo 2, sendo que o risco da doença foi maior entre aqueles que costumavam atrasar o desjejum.\nOs pesquisadores explicam que essa associação faz sentido, pois pular ou postergar o café da manhã pode impactar negativamente os níveis de insulina e a regulação da glicose e dos lipídios no organismo, fatores fundamentais para a prevenção do diabetes.\nE o horário do jantar?\nO estudo também analisou o impacto do horário da última refeição do dia e identificou que jantar depois das 22h pode contribuir para um maior risco de diabetes tipo 2. Por outro lado, consumir refeições de forma mais frequente ao longo do dia esteve associado a uma menor incidência de doenças.\nOs resultados sugerem que o jejum prolongado só é benéfico quando inclui um café da manhã cedo e um jantar também antecipado. De acordo com os cientistas, o ideal seria tomar a primeira refeição antes das 8h e jantar antes das 19h, o que poderia contribuir para a redução do risco de diabetes tipo 2.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Lifestyle and Leisure",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->diet",
+      "Health->medical condition",
+      "Lifestyle and Leisure->wellness",
+      "Lifestyle and Leisure->lifestyle",
+      "Social Issue->social services",
+      "Social Issue->adults",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T00:52:14.457+02:00",
+    "updated": "2025-01-31T00:52:14.457+02:00"
+  },
+  {
+    "uuid": "17252bebc10aadda61b2aaf9d86e841afd004e95",
+    "url": "https://ground.news/article/weather-tracker-rain-batters-argentina-and-drc-as-fog-shrouds-india-and-pakistan",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Guardian",
+    "published": "2023-12-29T10:45:00Z",
+    "title": "Ground News - Weather tracker: rain batters Argentina and DRC as fog shrouds India and Pakistan",
+    "text": "Summary by The Guardian Turkey also affected by fog, with 10 killed and 57 injured in serious road crash involving three busesDuring the Christmas period, parts of South America experienced intense showers and thunderstorms, resulting in substantial rainfall in various regions. On Monday, more than 100mm of rain fell in the Catamarca province in Argentina, which led to flash floods. A sudden surge in river water levels then caused the collapse of a pedestrian bridge, w… Share menu More\nFilters 1 Articles 1 Articles All Left Center Right\nThe Guardian Lean Left Mixed Factuality Independent: Scott Trust Limited Weather tracker: rain batters Argentina and DRC as fog shrouds India and Pakistan Turkey also affected by fog, with 10 killed and 57 injured in serious road crash involving three busesDuring the Christmas period, parts of South America experienced intense showers and thunderstorms, resulting in substantial rainfall in various regions. On Monday, more than 100mm of rain fell in the Catamarca province in Argentina, which led to flash floods. A sudden surge in river water levels then caused the collapse of a pedestrian bridge, w…\n1 hour ago · London, United Kingdom Read Full Article\nThe Guardian Lean Left Mixed Factuality Independent: Scott Trust Limited\nWeather tracker: rain batters Argentina and DRC as fog shrouds India and Pakistan Turkey also affected by fog, with 10 killed and 57 injured in serious road crash involving three busesDuring the Christmas period, parts of South America experienced intense showers and thunderstorms, resulting in substantial rainfall in various regions. On Monday, more than 100mm of rain fell in the Catamarca province in Argentina, which led to flash floods. A sudden surge in river water levels then caused the collapse of a pedestrian bridge, w…\n1 hour ago · London, United Kingdom Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "external_links": [
+      "https://www.theguardian.com/environment/2023/dec/29/heavy-rain-argentina-drc-dense-fog-india-pakistan-weather?utm_source=ground.news&utm_medium=referral",
+      "https://theguardian.com/environment/2023/dec/29/heavy-rain-argentina-drc-dense-fog-india-pakistan-weather?utm_source=ground.news&utm_medium=referral",
+      "https://www.theguardian.com/environment/2023/dec/29/heavy-rain-argentina-drc-dense-fog-india-pakistan-weather"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "drc",
+          "sentiment": "negative"
+        },
+        {
+          "name": "scott trust limited weather",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "argentina",
+          "sentiment": "none"
+        },
+        {
+          "name": "pakistan",
+          "sentiment": "none"
+        },
+        {
+          "name": "turkey",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "south america",
+          "sentiment": "none"
+        },
+        {
+          "name": "catamarca",
+          "sentiment": "none"
+        },
+        {
+          "name": "pakistan turkey",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T14:10:44.245+02:00",
+    "updated": "2023-12-29T14:10:44.245+02:00"
+  },
+  {
+    "uuid": "e54c2bce4b81b10fa065a088d07e3a1090db9289",
+    "url": "https://attheu.utah.edu/facultystaff/best-buds-at-the-red-butte-garden",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jason W Baker; Red Butte Garden",
+    "published": "2024-02-15T23:41:00Z",
+    "title": "Best buds at the Red Butte Garden",
+    "text": "Don't let the winter chill fool you, beneath the frosted landscapes and bare branches, life is stirring in the form of tiny, resilient leaf and flower buds. So next time you see a seemingly lifeless branch, remember: it's not the end, it's just a pause. Within those tiny buds lies the promise of life awaiting to burst forth at the first sign of spring.\nFind information to plan your visit\nhere. Reposted from the Red Butte Garden blog. Photos by Glenn Eurick, Kaitlyn Kotar, Heidi M. Simper, and Jason W. Baker.\nPrairifire Crabapple (Malus 'Prairifire')\nStubbornly refusing to let go, last year's leaf petioles cling on just below this year's dormant bud.\nHorse Chestnut (Aesculus hippocastanum 'Baumannii')\nHorse Chestnut buds are covered in a sticky resin. This resin creates a waterproof seal that lets the bud grow nice and big before they pop open later in the spring.\nSweetgum (Liquidambar styraciflua 'Worplesdon')\nSweetgum buds are mixed buds, meaning they contain both leaves and flowers.\nLoebner Magnolia (Magnolia x loebneri 'Merrill')\nThe soft hairs covering Magnolia buds insulate the delicate flower or leaf tissue inside the bud from the harsh winter elements, such as freezing temperatures and drying winds.\nChokecherry (Prunus virginiana)\nThe outer layer of bud scales are typically made of modified leaves.\nLilac (Syringa reticulata)\nWhile hairs provide insulation in fuzzy buds, hairless buds often rely on other mechanisms like thicker scales, waxy coatings, or internal adaptations to protect themselves.\nLittle Leaf Linden (Tilia cordata)\nAlthough fuzzy buds often steal the show, hairless buds offer their own unique elegance and showcase the fascinating diversity of dormant plant buds.\nMEDIA & PR CONTACTS\n-\nMindy Wilson\nDirector of marketing and public relations, Red Butte Garden\n801.581.4938",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure",
+      "Environment"
+    ],
+    "external_links": [
+      "https://redbuttegarden.org/plan-your-garden-visit/",
+      "https://redbuttegarden.org/whats-blooming-now/best-buds/",
+      "https://redbuttegarden.org/whats-blooming-now/best-buds",
+      "https://redbuttegarden.org/plan-your-garden-visit",
+      "https://www.redbuttegarden.org/whats-blooming-now/best-buds/",
+      "https://www.redbuttegarden.org/plan-your-garden-visit/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kaitlyn kotar",
+          "sentiment": "none"
+        },
+        {
+          "name": "baumannii",
+          "sentiment": "none"
+        },
+        {
+          "name": "glenn eurick",
+          "sentiment": "none"
+        },
+        {
+          "name": "jason w. baker",
+          "sentiment": "none"
+        },
+        {
+          "name": "heidi m. simper",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "loebner magnolia",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-16T02:10:48.887+02:00",
+    "updated": "2024-02-16T02:10:48.887+02:00"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "uuid": "a-001",
+    "title": "Alpha",
+    "author": "Alice",
+    "url": "http://example.com/a-001",
+    "text": "Apple dances with zebra today; they're swift, curious, playful, and genuinely surprising under bright circuits and soft melodies.",
+    "published": "2025-01-01T10:00:00Z",
+    "language": "english",
+    "categories": ["Science and Technology"]
+  },
+  {
+    "uuid": "a-002",
+    "title": "Beta",
+    "author": "Bob",
+    "url": "http://example.com/a-002",
+    "text": "Banana markets surge worldwide; we're noticing fresh trends, diverse flavors, and delightful morning smoothies everywhere today beyond headlines.",
+    "published": "2025-01-02T10:00:00Z",
+    "language": "english",
+    "categories": ["Economy, Business and Finance"]
+  },
+  {
+    "uuid": "a-003",
+    "title": "Gamma",
+    "author": "Carol",
+    "url": "http://example.com/a-003",
+    "text": "Cherry blends with banana and grapes; don't forget fiber. Read more at http://example.com/health for tips and science today.",
+    "published": "2025-01-03T10:00:00Z",
+    "language": "english",
+    "categories": ["Health"]
+  }
+]
+

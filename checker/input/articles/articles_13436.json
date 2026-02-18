@@ -1,0 +1,629 @@
+[
+  {
+    "uuid": "a5805e68b8e32faecc5981b8a40ee6e742670bcb",
+    "url": "https://meduza.io/en/news/2025/04/17/putin-meets-with-russians-freed-by-hamas-expresses-gratitude-for-humanitarian-act",
+    "ord_in_thread": 0,
+    "author": "Meduza",
+    "published": "2025-04-16T21:18:00Z",
+    "title": "Putin meets with Russians freed by Hamas, expresses gratitude for 'humanitarian act'",
+    "text": "On Wednesday, Vladimir Putin met with several Russian citizens who had been freed from captivity by Hamas. The president welcomed to the Kremlin Alexander Trufanov — released by Hamas on February 15, 2025 — along with his mother Elena Trufanova and fiancée Sapir Cohen, who were freed in late 2023. Also present at the meeting were Russia’s chief rabbi, Berel Lazar, and the president of the Federation of Jewish Communities of Russia, Alexander Boroda.\nDuring the meeting, Putin thanked Hamas for releasing the hostages. “We must express our gratitude to the leadership and political wing of Hamas for cooperating with us and carrying out this humanitarian act,” he said, adding that Russia would “do everything possible to ensure such acts take place more often.”\nTwenty-nine-year-old Alexander Trufanov, a dual citizen of Israel and Russia, was abducted from the Nir Oz kibbutz during Hamas’s attack on Israel on October 7, 2023. While being abducted, Trufanov was shot in both his legs. He and two other Israeli citizens were released on February 15 as part of a deal between Hamas and Israel.\nIn mid-January, Israel and Hamas reached an agreement on a temporary ceasefire and the release of 33 Israeli hostages in exchange for nearly 2,000 Palestinian prisoners. Attempts to extend the agreement failed, and Israel resumed military operations in the Gaza Strip on March 18. Hamas is still holding 59 Israeli hostages. According to the Israel Defense Forces, at least 35 of them are confirmed dead.\nHamas militants killed more than 1,200 people, mostly civilians, and took some 250 people into captivity in Gaza in October 2023. In March 2025, Palestinian health authorities said Israel’s ground and air campaign had killed more than 50,000 people, with nearly a third of the dead under the age of 18. Two months earlier, a peer-reviewed statistical analysis published in The Lancet journal concluded that the official Palestinian tally of direct deaths likely undercounted the number of casualties by around 40 percent in the first nine months of the war.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Politics->human rights",
+      "Politics->international relations",
+      "Politics->political development",
+      "Social Issue->charity",
+      "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.reuters.com/world/middle-east/how-many-palestinians-has-israels-gaza-offensive-killed-2025-01-15/",
+      "https://www.reuters.com/world/middle-east/gaza-war-toll-likely-significantly-undercounts-deaths-says-study-2025-01-09/",
+      "https://reuters.com/world/middle-east/how-many-palestinians-has-israels-gaza-offensive-killed-2025-01-15/",
+      "https://www.reuters.com/world/middle-east/gaza-war-toll-likely-significantly-undercounts-deaths-says-study-2025-01-09",
+      "https://www.reuters.com/world/middle-east/how-many-palestinians-has-israels-gaza-offensive-killed-2025-01-15",
+      "https://reuters.com/world/middle-east/gaza-war-toll-likely-significantly-undercounts-deaths-says-study-2025-01-09/"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Vladimir Putin",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Alexander Trufanov",
+          "sentiment": "none"
+        },
+        {
+          "name": "Alexander Boroda",
+          "sentiment": "none"
+        },
+        {
+          "name": "Elena Trufanova",
+          "sentiment": "none"
+        },
+        {
+          "name": "Berel Lazar",
+          "sentiment": "none"
+        },
+        {
+          "name": "Sapir Cohen",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Hamas",
+          "sentiment": "neutral",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T00:35:30.110+03:00",
+    "updated": "2025-04-17T00:35:30.110+03:00"
+  },
+  {
+    "uuid": "4fe339a4d6e4ea72207f2b4e30f2f8df944ffcb6",
+    "url": "https://www.bresciatoday.it/eventi/mostre/brescia-mostra-photo-mail-art.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redazione",
+    "published": "2025-01-02T13:33:00Z",
+    "title": "Brescia: Mostra \"Photo Mail art\"",
+    "text": "Brescia: Mostra \"Photo Mail art\"\nCosa si scambiano gli artisti?\nAl Museo Nazionale della Fotografia arriva una mostra storica a cura di Gabriele Chiesa, che raccoglie piccole grandi opere di artisti visuali scambiate tra gli autori a mano o per posta.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Gabriele Chiesa",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Brescia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T13:26:37.220+02:00",
+    "updated": "2025-01-03T13:26:37.220+02:00"
+  },
+  {
+    "uuid": "7771d350697772e2d7ff94a348ff6cc18d775aba",
+    "url": "https://www.meneame.net/story/nunca-seria-alcaldesa-votos-eh-bildu-prefiero-fregar-escaleras/c0144",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "perica_we",
+    "published": "2023-12-28T21:04:00Z",
+    "title": "#144 \"Nunca sería alcaldesa con los votos de EH Bildu. Prefiero fregar escaleras\"",
+    "text": "[HackerRuso](/user/HackerRuso)a [twitter.com](/go/link/3891414) [#97](c97#c-97) Irene montero fuera de sus estudios trabajó de cajera en un supermercado, algo que el clasismo facheril criticó mucho en su momento, algo no muy diferente del clasismo de esta señora del artículo.\nComo si haber sido cajera en tu vida fuera una lacra o algo así, por otro lado ser comunity manager del perro de un político es MUY valorado por la misma gente.\n[#103](c103#c-103) A ver, Irene Montero trabajó un año de cajera. No tiene ninguna carrera profesional (aunque sea de cajera) ni profesión a la que volver, como sí tienen Pablo Iglesias o Monedero, que volvieron a sus respectivos trabajos y profesiones.\nHasta Ayuso se supone que trabajó de periodista en distintos sitios, no solo haciendo de perro de la Aguirre. Digo se supone porque me fío poco de la Ayusa sin verificar su currículum, pero se supone que es así.\nY con esto yo no invalidaba que la señora del pepé que anda llorando porque le han dado la patada haya trabajado en algo real (que ni lo sé ni me importa, no me extrañaría que se hubiera tocado el higo toda su vida), sino contestaba al comentario de\n[#46](c46#c-46) que habla de Mónica García, la cual tiene una carrera profesional como médico anestesista en el 12 de Octubre.\n[#105](c105#c-105) Entre 2011 y 2013 cursó y obtuvo el grado de máster en psicología de la educación.11 Posteriormente, gracias a su rendimiento académico, obtuvo una ayuda para contratos predoctorales de Formación de Profesorado Universitario (FPU) en la UAM entre 2013 y 2015, consiguiendo a raíz de esta una estancia formativa en la Universidad de Harvard, que rechazó por su compromiso político... https://es.wikipedia.org/wiki/Irene_Montero\nSobre muchos de los dirigentes de podemos y sobre el mismo Podemos se han lanzado tantos bulos y mentiras que en su vida se le quitara ya el San Benito de todos esos bulos. Pero no por ello hay que dejar de rebatirlo cuando se comenta.\n[#125](c125#c-125) Efectivamente, fue a la uni. Y efectivamente, no trabajó jamás (solo de cajera un año). Ni tiene carrera profesional a la que volver, porque nunca ha trabajado de nada (más allá de su breve periodo de cajera un año).\nAsí que sí, gracias por complementar con el enlace de su entrada en la Wiki para corroborar que no trabajó en su vida. Y por eso no puede volver a nada como sí pudieron volver a lo suyo el propio Pablo, Monedero, Luis Alegre o Bescansa, que tenían todos su profesión desde hacía muchos años.\n[#105](c105#c-105) Ayuso hace 20 años que dejó de hacer de periodista, se supone que en una radio en Irlanda y otra en Colombia, cobrar del chiringuito Madrid Networks no es trabajar.\n[#105](c105#c-105) Irene montero :\nDoctora en Derecho Constitucional por la Universidad de Valladolid, master en Derecho Internacional por el Instituto de Estudios Políticos para América Latina y África (Iepala) y licenciada en Derecho por la Universidad de Valladolid. Profesora Titular de Derecho Constitucional en la Universidad de Valladolid.\nYa quisieran muchos de nuestros politicastros tener una formación similar.\nMontero se ha dedicado siempre a la política. Lo de no darle un palo al agua y ser la mujer de quién es ya está bastante de más.\nPuede que no te gusten sus ideas políticas pero no veo yo masters falsos ni carreras sacadas en seis meses, ni mentiras varias, ni doctorados que no son, ni Harvard de tres días.\nVamos, que su carrera profesional está orientada a la política. Si eso no es una carrera profesional..... No se ni para que existe la carrera de ciencias políticas entonces.\n[#137](c137#c-137) JAJAJAJAJA ESE NO ES EL CURRICULUM DE MONTERO!!!!!!!!!\nES EL DE LA MINISTRA DE IGUALDAD ACTUAL, Ana Redondo García, DEL PSOE!!!\nIrene Montero ni es doctora ni es ná!!!!!!!!!! JAJAJAJAJA\n[#138](c138#c-138) mis disculpas. Trabajos predoctorales. Toma, de la razón:\nLa hoy ministra de Igualdad es licenciada en Psicología por la Universidad Autónoma de Madrid, una carrera en la que, según cita el currículum “estudió con ayudas al estudio por aprovechamiento excelente” y por la que fue puntuada con una calificación de 9,09. Además, Irene Montero ha realizado un Máster en Psicología de la Educación por la Universidad Autónoma de Madrid, donde obtuvo 9 matrículas de honor y la calificación de 9,5 en la tesis de máster.\nGoogle de inicio igual me ha traicionado.\nPaso de discutir con JAJAJAS\n[#139](c139#c-139) Vamos, que ni conocías su currículum ni te importaba\nEl JAJAJAJA es lógico ante ese sin sentido.\nY sí, su currículum real es el que pones y que yo ya conocía (por eso me descojoné al ver el que pusiste, que nada tenía que ver con el real... vaya tela): fue estudiante, solo eso. Y luego a tocarse los cojones en la política. No ha dado palo al agua en su vida, no ha trabajado en su vida. Es más inútil que Ayuso, lo siento.\nY lo que dices de Ciencias Políticas... eso es lo que estudiaron Pablo Iglesias, Monedero, Bescansa entre otros. Son politólogos. Y ellos SÍ tienen un lugar al que volver, porque tenían y tienen una carrera profesional detrás, que no implica ser chupabotes. Cosa que no tiene Montero. Irene Montero no tiene una profesión a la que volver, así que necesita que sus fangirls y sus seguidores le voten mucho para poder seguir viviendo del cuento toda su vida.\nEl 15M venía a acabar con liderazgos eternos y políticos profesionales, vividores del cuento y de la mamandurria. Todo lo contrario de lo que representa ahora mismo Irene Montero, pasando a ser Podemos un viejo club político old school más.\n[#103](c103#c-103) Me gusta ver a los 2 esos que van de izquierdas y quedan como cuñaos clasistas a la mínima. El pony dijo el otro día que Pablo Iglesias es un maltratador. Para que veas el nivel.\n[#97](c97#c-97) No, el equivalente a Monica Garcia (medico anestesista). Esta de UPN (que no del PP como dije erroneamente) fue medico de urgencias:\n\"Fue médica de urgencias del Hospital de Navarra y de algunos centros de atención primaria del Servicio Navarro de Salud, trabajando después en gestión de salud.\"\nhttps://es.wikipedia.org/wiki/Cristina_Ibarrola\n[#110](c110#c-110) Ah coño\nAl ser del PP daba por hecho que te referías a que no había trabajado de nada en su vida (o lo daba por hecho yo).\n[#10](c10#c-10) suelen ir de la mano. Lo que entiendo es que tienen tantos votos porque hay mucho millonario wannabe.\n[#102](c102#c-102) Son como muchisimo \"regionalistas\". Hubo una escisión de \"nacionalistas navarros\" que era el CDN pero no duró muchoas legislaturas teniendo escaños\nEstos requetés, han tenido el ayuntamiento 4 años sin tener mayoría y se pensaban que ahora iba a ser igual, más en minoría. Encima, se permiten el lujo de pelearse con el PP, para sumar menos aún.\n[#65](c65#c-65) plantéatelo de la siguiente manera:\nNi loco sería presidente con el apoyo de bildu. Antes haría inserta tu trabajo aquí.\n[#108](c108#c-108) tu trabajo será cómodo, pero lo que debes tener en cuenta en esa frase es el tono despectivo con el que se habla de tu trabajo.\n[#17](c17#c-17) pocos de aquí se han dedicado a eso profesionalmente. No vayamos de lo que no somos. Si acaso nos ha tocado fregar el rellano nuestro y ya.\n[#25](c25#c-25) Todo depende del contexto y de quién lo dice. No es lo mismo que lo digamos tú o yo, que pueden venirnos mal dadas y efectivamente podemos acabar fregando escaleras o fregando platos en cualquier sitio para poder salir adelante, a que lo diga alguien bien acomodado desde las instituciones.\nEs una frase clasista cuando la espera alguien desde el poder. Es clasista e indignante.\n[#77](c77#c-77) Igual es que interesa pasar la frase por el filtro ideológico, porque según la experiencia de miles de millones, al igual que otros trabajos duros, mal pagados y poco reconocidos, fregar escaleras no le gusta ni al \"Tato\".\nMe temo que si en lugar de decir la frase \"prefiero fregar escaleras\" hubiera sido \"prefiero escarbar cebollinos\", seguro que muchos de los presentes sacarían punta a la frase, alegando una afrenta al colectivo de agricultores.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://es.wikipedia.org/wiki/Irene_Montero",
+      "https://es.wikipedia.org/wiki/Cristina_Ibarrola",
+      "https://www.es.wikipedia.org/wiki/Cristina_Ibarrola",
+      "https://www.es.wikipedia.org/wiki/Irene_Montero"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:10:11.623+02:00",
+    "updated": "2023-12-29T00:10:11.623+02:00"
+  },
+  {
+    "uuid": "c126b04ba750f8ff8424528d2f25f339c15a9074",
+    "url": "https://www.joplinglobe.com/news/rural-joplin-man-to-stand-trial-on-vehicular-assault-charges/article_111499ce-55c2-11ef-9bfe-47a0169a64c3.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jeff Lehr | jlehr@joplinglobe.com",
+    "published": "2024-08-08T20:09:00Z",
+    "title": "Rural Joplin man to stand trial on vehicular assault charges",
+    "text": "A judge decided Thursday that there was probable cause for a 62-year-old rural Joplin man to stand trial on charges that he tried to run down a neighbor couple on a moped with his car. Judge Joseph Hensley indicated at the conclusion of a preliminary hearing in Jasper County Circuit Court that he would be binding Richard W. Dousa over for trial on two counts of first-degree assault pending a decision on his attorney’s request to lower his bond. Dousa has remained in custody since his arrest for allegedly chasing and trying to hit a moped that Jonathan Plummer and his girlfriend were riding June 14 on Missouri Highway 171. His cash-only bond was set initially at $500,000 and subsequently lowered to $50,000, an amount the defendant has not been able to put up. The Jasper County prosecutor’s office has filed for the court to treat the defendant as a prior and persistent offender and remains opposed to any further bond modification. His neighbor, Jonathan Plummer, testified Thursday that he could hear Dousa raging about something outside Plummer’s trailer home the day in question. As Plummer went to leave the trailer court with his girlfriend, Dousa kept yelling at him, and Plummer acknowledged that he called the defendant a derogatory term in response. Plummer said that moments later, the couple found the defendant chasing them down with his car. “It was clear to me he was trying to run us off the road,” Plummer said. Defense attorney Bob Briggs asked Plummer how close he believed Dousa’s car actually came to hitting them, and Plummer said he came within 4 to 5 feet. In an attempt to shake him, Plummer said, he pulled into the satellite office of the sheriff’s department at Airport Drive. But Dousa chased them through the yard of the office in his car. Jasper County Deputy Matthew Leek, who responded to a call reporting the matter and went to the defendant’s address to speak with him in the aftermath, said Dousa held out his hands as he approached him and said: “Take me to jail.” Leek said Dousa then proceeded to repeat several times that he would kill Plummer and that his neighbors were lucky Leek showed up because he would have shot them both. The prosecutor’s office cited in a court filing Dousa’s prior convictions for aggravated assault in Pennsylvania and assault with a dangerous weapon in Wyoming as its reasons for treating him as a prior and persistent offender.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joplin",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jonathan plummer",
+          "sentiment": "none"
+        },
+        {
+          "name": "richard w. dousa",
+          "sentiment": "none"
+        },
+        {
+          "name": "plummer",
+          "sentiment": "none"
+        },
+        {
+          "name": "plu",
+          "sentiment": "none"
+        },
+        {
+          "name": "dousa",
+          "sentiment": "none"
+        },
+        {
+          "name": "joseph hensley",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "rural joplin",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jasper county circuit court",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "missouri highway",
+          "sentiment": "none"
+        },
+        {
+          "name": "jasper county",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:36:07.868+03:00",
+    "updated": "2024-08-09T11:42:20.201+03:00"
+  },
+  {
+    "uuid": "c23c02b35fa65da369d3d62ff5d169731a456963",
+    "url": "https://economictimes.indiatimes.com/news/india/delhi-weather-dense-fog-covers-national-capital-as-temperature-remains-low-flight-ops-impacted/articleshow/116899305.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ET Online",
+    "published": "2025-01-02T23:52:00Z",
+    "title": "Delhi weather: Dense fog covers national capital as temperature remains low; Flight ops impacted - The Economic Times",
+    "text": "The national capital saw dense fog on Friday morning, with the minimum temperature in the city recorded at 7 degrees Celsius, the weather department said. The IMD on Wednesday also forecast an active western disturbance starting today, which is expected to raise temperatures in eastern, central, and northern India over the next 3-5 days. However, the western Himalayan region is likely to experience heavy rain and snowfall due to the disturbance. We are forecasting a western disturbance that may become active from tomorrow. Along with this, there is a possibility of another western disturbance. Temperatures may rise in east, central, and north India in the next 3-5 days, IMD scientist Soma Sen Roy said.On Wednesday, the national capital experienced a significant dip in temperatures, as the mercury in many regions has plummeted significantly as the cold weather prevails at the start of the new year.According to the India Meteorological Department, the minimum temperature at Delhi's Palam has dipped further to 6.5 degrees Celsius on Thursday from 7 degrees Celsius on Wednesday.Flight operations impacted:Additionally, a thick layer of fog has enveloped the national capital as well as swept through several major cities across the nation.Airlines inlcuding IndiGo and Air India released advisories for the passengers in light of dense fog. Due to significantly low visibility in Srinagar and Chandigarh, there have been changes to flight schedules. We recommend customers to recheck their flight status before travelling to the airport http://bit.ly/3ZWAQXd. Wishing for clearer skies! said IndiGo in its advisory. Poor visibility in Delhi and parts of Northern India may affect some of our flights, said Air India.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Health"
+    ],
+    "topics": [
+      "Weather->weather statistic",
+      "Weather->weather phenomena",
+      "Social Issue->social condition",
+      "Social Issue->social services",
+      "Health->public health",
+      "Health->health facility"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "webz_reporter": false,
+    "external_links": [
+      "http://bit.ly/3ZWAQXd.",
+      "http://www.bit.ly/3ZWAQXd."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Soma Sen Roy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "India Meteorological Department",
+          "sentiment": "none"
+        },
+        {
+          "name": "IMD",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T04:29:02.515+02:00",
+    "updated": "2025-01-03T04:29:02.515+02:00"
+  },
+  {
+    "uuid": "9b9646de4890c9338c0f02f0a3458c449127d720",
+    "url": "https://www.dailynews.lk/2024/04/19/local/501337/eight-sri-lankans-rescued-from-trafficking-scam-in-myanmar-arrive",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "malinga",
+    "published": "2024-04-18T14:35:00Z",
+    "title": "Eight Sri Lankans rescued from trafficking scam in Myanmar arrive - DailyNews",
+    "text": "The Foreign Affairs Ministry in coordination with Sri Lanka Missions in Myanmar and Thailand facilitated the repatriation of eight Sri Lankans who were trafficked for forced criminal activities in cyber scamming compounds in Myanmar. Myanmar law enforcement authorities rescued these Sri Lankans on April 4, following the request by the Government of Sri Lanka. The Sri Lanka Embassy officials in Bangkok received them on April 11 at the Mae Sot border gate in Thailand, and subsequently they were brought to Bangkok and provided accommodation until their repatriation was arranged with the assistance of the International Organization for Migration. The International Organization for Migration provided logistical assistance in repatriating the rescued Sri Lankans. The Sri Lankan Embassy in Myanmar, through the Eden Foundation, a charity organization based in Myanmar, provided them with food and other necessities during their temporary stay at the Myawaddy Police Station following the rescue from traffickers. The Consular Affairs Division of the Ministry coordinated the repatriation process in collaboration with relevant stakeholders and Consular Affairs Director General of the Foreign Ministry A.S.K Senavirthne received the eight Sri Lankans at the Bandaranaike International Airport (BIA). The eight Sri Lankans expressed their appreciation to the Foreign Affairs Ministry for its efforts in ensuring their safe return to Sri Lanka. The Foreign Affairs Ministry thanked the Governments of Myanmar and Thailand and other stakeholders, including IOM for their assistance.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.instagram.com/",
+      "https://www.facebook.com/dialog/send?app_id=1904103319867886&display=popup&link=https%3A%2F%2Fwww.dailynews.lk%2F2024%2F04%2F19%2Flocal%2F501337%2Feight-sri-lankans-rescued-from-trafficking-scam-in-myanmar-arrive%2F&redirect_uri=https%3A%2F%2Fwww.dailynews.lk%2F2024%2F04%2F19%2Flocal%2F501337%2Feight-sri-lankans-rescued-from-trafficking-scam-in-myanmar-arrive%2F&quot;)",
+      "https://telegram.me/share/url?url=https%3A%2F%2Fwww.dailynews.lk%2F2024%2F04%2F19%2Flocal%2F501337%2Feight-sri-lankans-rescued-from-trafficking-scam-in-myanmar-arrive%2F&text=Eight%20Sri%20Lankans%20rescued%20from%20trafficking%20scam%20in%20Myanmar%20arrive",
+      "https://api.whatsapp.com/send?text=Eight%20Sri%20Lankans%20rescued%20from%20trafficking%20scam%20in%20Myanmar%20arrive",
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dailynews.lk%2F2024%2F04%2F19%2Flocal%2F501337%2Feight-sri-lankans-rescued-from-trafficking-scam-in-myanmar-arrive%2F",
+      "https://twitter.com/intent/tweet?text=Eight%20Sri%20Lankans%20rescued%20from%20trafficking%20scam%20in%20Myanmar%20arrive&url=https%3A%2F%2Fwww.dailynews.lk%2F2024%2F04%2F19%2Flocal%2F501337%2Feight-sri-lankans-rescued-from-trafficking-scam-in-myanmar-arrive%2F",
+      "https://www.twitter.com/intent/tweet?text=Eight%20Sri%20Lankans%20rescued%20from%20trafficking%20scam%20in%20Myanmar%20arrive&url=https%3A%2F%2Fwww.dailynews.lk%2F2024%2F04%2F19%2Flocal%2F501337%2Feight-sri-lankans-rescued-from-trafficking-scam-in-myanmar-arrive%2F",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dailynews.lk%2F2024%2F04%2F19%2Flocal%2F501337%2Feight-sri-lankans-rescued-from-trafficking-scam-in-myanmar-arrive%2F",
+      "https://telegram.me/share/url",
+      "https://www.telegram.me/share/url?url=https%3A%2F%2Fwww.dailynews.lk%2F2024%2F04%2F19%2Flocal%2F501337%2Feight-sri-lankans-rescued-from-trafficking-scam-in-myanmar-arrive%2F&text=Eight%20Sri%20Lankans%20rescued%20from%20trafficking%20scam%20in%20Myanmar%20arrive",
+      "https://www.api.whatsapp.com/send?text=Eight%20Sri%20Lankans%20rescued%20from%20trafficking%20scam%20in%20Myanmar%20arrive",
+      "https://www.facebook.com/dialog/send",
+      "https://www.instagram.com",
+      "https://instagram.com/",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://facebook.com/dialog/send?app_id=1904103319867886&display=popup&link=https%3A%2F%2Fwww.dailynews.lk%2F2024%2F04%2F19%2Flocal%2F501337%2Feight-sri-lankans-rescued-from-trafficking-scam-in-myanmar-arrive%2F&redirect_uri=https%3A%2F%2Fwww.dailynews.lk%2F2024%2F04%2F19%2Flocal%2F501337%2Feight-sri-lankans-rescued-from-trafficking-scam-in-myanmar-arrive%2F&quot;)",
+      "https://api.whatsapp.com/send",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "foreign affairs ministry",
+          "sentiment": "none"
+        },
+        {
+          "name": "international organization for migration",
+          "sentiment": "none"
+        },
+        {
+          "name": "eden foundation",
+          "sentiment": "none"
+        },
+        {
+          "name": "bia",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "myanmar",
+          "sentiment": "none"
+        },
+        {
+          "name": "bangkok",
+          "sentiment": "none"
+        },
+        {
+          "name": "sri lanka",
+          "sentiment": "none"
+        },
+        {
+          "name": "sri lanka missions",
+          "sentiment": "none"
+        },
+        {
+          "name": "sri lanka embassy",
+          "sentiment": "none"
+        },
+        {
+          "name": "thailand",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-19T00:08:10.117+03:00",
+    "updated": "2024-04-19T11:18:26.771+03:00"
+  },
+  {
+    "uuid": "3ef303f108bf422785da209c3f1b62d678662763",
+    "url": "https://gettotext.com/reassurance-the-sector-is-recovering-hurricane-milton-less-violent-than-feared",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Oliver Adey",
+    "published": "2024-10-12T20:32:00Z",
+    "title": "Reassurance: the sector is recovering, Hurricane Milton less violent than feared",
+    "text": "(Boursier.com) — Phew of relief for the reinsurance sector. Large European groups such as Swiss Re and Munich Re are making progress on the stock market as Hurricane Milton moved away from the coast of eastern Florida after making landfall near Tampa. Experts estimate that the cost of the natural disaster could be lower than initially feared, as the strength of the hurricane had diminished before making landfall.\n“Reinsurers’ fears that Hurricane Milton could result in losses of more than $100 billion could be allayed, with losses potentially lower than the $60 billion incurred during Hurricane Ian in 2022, which “Milton moved to Category 3 before landfall,” said Charles Graham, an analyst at Bloomberg Intelligence. Abid Hussain, an analyst at Panmure Liberum, says that although it is too early for loss estimates, it will probably be a loss of less than $50 billion for the insurance sector. “Milton could be one of the most destructive hurricanes ever recorded in west-central Florida,” warned the United States National Hurricane Center (NHC).\nIn Paris, the Score rises 2.4% to 20.5 euros.\n©2024 Boursier.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Economy, Business and Finance",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-13T02:28:41.950+03:00",
+    "updated": "2024-10-13T02:28:41.950+03:00"
+  },
+  {
+    "uuid": "41fc2eb513632fdc19976ce325a7441678a1b337",
+    "url": "https://vnexplorer.net/afl-star-daniel-gorringe-looks-dapper-as-he-marries-girlfriend-ana-cannon-in-a-stunning-rural-ceremony-s696835.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-28T21:54:00Z",
+    "title": "AFL star Daniel Gorringe looks dapper as he marries girlfriend Ana Cannon in a stunning rural ceremony",
+    "text": "READ MORE: Daniel Gorringe set to come out of retirement for surprising gig\nDaniel Gorringe has tied the knot with girlfriend Ana Cannon.\nThe former AFL player, 31, and Big Brother star shared the news to Instagram on Sunday, alongside two special images from the couple’s big day.\nIn the first picture, Daniel looks dashing in a sleek suit, white dress shirt and tie as he looks down at his ladylove, and wraps his arm around her waist.\nElsewhere, his blushing bride looks divine in an ethereal gown embellished with statement blooms.\nAna wore her brunette locks back on her special day and highlighted her delicate features with a subtle makeup palette.\nDaniel Gorringe has tied the knot with girlfriend Ana Cannon. The former AFL player, 31, and Big Brother star shared the news to Instagram on Sunday, alongside two special images from the couple’s big day. Both pictured\nIn a second frame, the couple are seen with their backs to the camera in a rural setting, looking at a fireworks display\nIn a second frame, the couple are seen with their backs to the camera in a rural setting, looking at a fireworks display.\nAna captioned the memories simply.\n‘It has always been you,’ she wrote alongside a love heart emoji.\nThe couple’s news was soon inundated with well wishes.\n‘Sobbing,’ wrote Big Brother’s Sarah McDougal. ‘Stop it,’ added co-star Mat Garrick.\nAnother follower wrote: ‘This is the best wedding ever of the year.’\nGorringe proposed to Ana in November 2021.\nGorringe proposed to Ana in November 2021. Both pictured\n‘On Friday I asked my best friend to marry me (for real this time). Here’s to forever loving you’, he wrote at the time.\nAna also shared a photo of the precious moment, in which she cuddles up to her man while holding a glass of Champagne and flaunting her ring.\nShe captioned it simply with a love heart and the date of the engagement, ‘19.02.21’.\nHe wrote: ‘On Friday I asked my best friend to marry me (for real this time). Here’s to forever loving you’. Ana also shared a photo of the precious moment, in which she cuddles up to her man while holding a glass of Champagne and flaunting her enormous diamond ring\nSo sweet! Ana clutched her face and cried out, ‘Oh my god!’ as she was presented with her ring",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://videos.dailymail.co.uk/video/mol/2021/02/21/91165765579393790/1024x576_MP4_91165765579393790.mp4",
+      "https://www.videos.dailymail.co.uk/video/mol/2021/02/21/91165765579393790/1024x576_MP4_91165765579393790.mp4"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "daniel gorringe",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ana cannon",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ana",
+          "sentiment": "none"
+        },
+        {
+          "name": "daniel",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "afl",
+          "sentiment": "negative"
+        },
+        {
+          "name": "instagram",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:01:14.545+02:00",
+    "updated": "2023-12-29T00:01:14.545+02:00"
+  },
+  {
+    "uuid": "ab6f065b17b46517f9b93d408dd9e60eabaeee90",
+    "url": "https://www.wickedlocal.com/story/news/state/2024/04/25/massachusetts-seeks-to-regulate-robotic-devices/73455638007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", Wicked Local",
+    "published": "2024-04-25T21:13:00Z",
+    "title": "Robots with weapons? Bill would make that illegal in Massachusetts",
+    "text": "BOSTON — It was a special \"dog\" that captured the attention of legislators, state workers and even tourists at the Massachusetts State House on Thursday. It responded to commands: Stay! Go! and even Down! But the commands were sent electronically through a joystick and the dog, dubbed Spot, was robotic. A flame-throwing robotic dog, like the Thermonator , for sale to the general public for $9,500, it is not. The robot dog, created by Boston Dynamics , was at the State House to encourage legislators to support a bill that would prohibit the weaponization of robots. Sponsored by Sen. Michael Moore, D-Millbury and Rep. Lindsay Sabadosa, D-Northampton, the bill advocates for the responsible, ethical and safe use of advanced robotic technology. Among other things, the bill would make it illegal for anyone, including a law enforcement agent, to manufacture, modify, sell, transfer or operate a robotic device or drone that is equipped with a weapon, or to use such a device to physically restrain a person. \"We have an ethics policy,\" said David Robert, director of human/robot interaction for Boston Dynamics, the maker of Spot. \"We are creating robots to be friendly and useful, not harm or hurt people or animals.\" The Boston Dynamics device has been sold in 40 different countries. Its primary use is to replace humans in tedious or dangerous tasks, such as disposing of explosive or suspected explosive devices. “We can send in the robot to places that are too dangerous for humans,” Robert said. A Canadian power plant purchased a Spot to throw a switch that would arc every time it was engaged. Workers were too uncomfortable to accomplish the task, so the company called in Spot. “Spot can help keep humans out of harm’s way.” The New York City Fire Department has one, dubbed Bergh, after the founder of the ASPCA, and it is painted to look like a Dalmatian. The device is teachable, Robert said, explaining that Spot can be taught, or programmed, to perform tasks without human supervision. It can record a route or a sequence of events and perform those without supervision as well. “The robot is doing the work automatically but with the ability to have a human override its program,” Robert said. Transparency is part of the company’s philosophy. The device is not encased in a furry substance, does not have a head or a tail, and doesn’t even really look like a dog. That’s on purpose, Robert said, explaining that the company’s aim is to create public trust with robotic devices in anticipation of them being in people’s homes. Hannah Rossi, a field application specialist, was at the controls Tuesday, demonstrating Spot’s moves. The Spot at the State House was fitted with a retractable lever that functions similar to a hand. Other devices that can be attached including mapping tools, cameras and at the shop employees have created a margarita mixer attachment. “That’s the fun part,” Robert said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://malegislature.gov/Bills/193/S2483)that",
+      "https://www.usatoday.com/story/news/nation/2024/04/24/thermonator-flame-throwing-robot-dog/73446898007/),",
+      "https://bostondynamics.com/products/spot/),",
+      "https://www.malegislature.gov/Bills/193/S2483)that",
+      "https://usatoday.com/story/news/nation/2024/04/24/thermonator-flame-throwing-robot-dog/73446898007/),",
+      "https://www.bostondynamics.com/products/spot/),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bill",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "lindsay sabadosa",
+          "sentiment": "none"
+        },
+        {
+          "name": "michael moore",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "d",
+          "sentiment": "none"
+        },
+        {
+          "name": "boston dynamics",
+          "sentiment": "none"
+        },
+        {
+          "name": "state house",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "massachusetts boston",
+          "sentiment": "none"
+        },
+        {
+          "name": "massachusetts",
+          "sentiment": "none"
+        },
+        {
+          "name": "massachusetts state house",
+          "sentiment": "none"
+        },
+        {
+          "name": "millbury",
+          "sentiment": "none"
+        },
+        {
+          "name": "northampton",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:30:19.706+03:00",
+    "updated": "2024-04-26T00:36:33.941+03:00"
+  },
+  {
+    "uuid": "0fa8c68dbbf03d51382827ae2d90d687e29276a7",
+    "url": "https://www.ntn24.com/noticias-ciencia-y-tecnologia/tormenta-solar-que-impacto-la-tierra-durante-el-jueves-produjo-espectaculares-auroras-boreales-en-distintas-partes-del-mundo-518602",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NTN24",
+    "published": "2024-10-11T14:36:00Z",
+    "title": "Tormenta solar que impactó la Tierra durante el jueves produjo espectaculares auroras boreales en distintas partes del mundo",
+    "text": "[aurora boreal](/temas/aurora-boreal) Tormenta solar que impactó la Tierra durante el jueves produjo espectaculares auroras boreales en distintas partes del mundo El jueves 10 de octubre una tormenta solar impactó la Tierra y desencadenó una ola de auroras boreales. El colorido espectáculo pudo apreciarse en los cielos de algunas partes de Estados Unidos, México y otros países. Se trató de una tormenta geomagnética de nivel G4 (severa) que impactó el planeta durante la mañana del 10 de octubre y que posiblemente continuará este viernes 11, según Shawn Dahl, del Centro de predicción Meteorológica Espacial de Estados Unidos. Dicho fenómeno se produce cuando el Sol se aproxima -o posiblemente se encuentra- en el punto álgido de su ciclo de 11 años, cuando la actividad es mayor. La reciente tormenta geomagnética fue de un nivel inferior al máximo posible, G5, que fue observado en mayo, cuando el planeta experimentó sus tormentas geomagnéticas más potentes en dos décadas. Este fenómeno natural produce coloridos espectáculos en los cielos nocturnos lejos de los polos, que en el hemisferio sur son conocidos como auroras australes y en el hemisferio norte como auroras boreales. Con la reciente actividad del Sol, estos fenómenos pudieron apreciarse en Portland, Maine, Estados Unidos. Así como en otras latitudes como en el norte de México, Bahamas y Turquía. Para que la gente observe mejor este tipo de fenómenos es recomendable que usen sus cámaras o teléfonos, ya que las imágenes digitales de hoy en día a menudo pueden captarlas incluso cuando el ojo desnudo no puede. Pese a que la tormentas geomagnéticas brindan este tipo de espectáculos para la humanidad, no todo es positivo, ya que pueden perturbar los satélites que orbitan la Tierra y afectar a cosas como las señales de radio y los sistemas de posicionamiento GPS.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Weather"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-11T18:06:13.950+03:00",
+    "updated": "2024-10-11T18:06:13.950+03:00"
+  }
+]

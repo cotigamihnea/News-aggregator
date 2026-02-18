@@ -1,0 +1,400 @@
+[
+  {
+    "uuid": "02aff0d03c522bc97954a52bfaf30721901af349",
+    "url": "https://laprovinciapavese.gelocal.it/salute/2025/04/24/news/nordic_walking_parkinson-424144271",
+    "ord_in_thread": 0,
+    "author": "Irma D'Aria",
+    "published": "2025-04-23T22:00:00Z",
+    "title": "Nordic Walking, la camminata che fa bene a tutti (anche) ai pazienti con Parkinson",
+    "text": "Nordic Walking, la camminata che fa bene a tutti (anche) ai pazienti con Parkinson\ndiIrma D'Aria\nPer Stefania Lavore quest’attività è un alleato nella gestione dei sintomi della malattia. E la scienza conferma che l’esercizio regolare migliora la qualità della vita e rallenta la progressione della patologia",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->medical condition",
+      "Health->health treatment and procedure",
+      "Health->therapy",
+      "Lifestyle and Leisure->wellness",
+      "Lifestyle and Leisure->exercise and fitness"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "E",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "E",
+              "exchange": "NYSE"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:08:19.645+03:00",
+    "updated": "2025-04-24T01:08:19.645+03:00"
+  },
+  {
+    "uuid": "66141a6d7fbad31203bd70c88e6ab133f536110e",
+    "url": "https://www.rnz.co.nz/international/pacific-news/543309/baby-steps-for-ai-volcano-forecasting-system",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@RNZInews",
+    "published": "2025-02-27T23:03:00Z",
+    "title": "'Baby steps' for AI volcano forecasting system",
+    "text": "A volcanologist says a new artificial intelligence (AI) volcano forecasting tool, with the potential to save lives around the world, is still some way off being rolled out in places like Tonga.\nIt uses data from well-monitored volcanoes and applies it to under-monitored sites.\nAuckland University volcanology professor Shane Cronin, who has worked at the Hunga Tonga-Hunga Ha'apai disaster site, said there are around 80 major volcanoes in the southwestern Pacific, many of which are not well-monitored.\n\"At the moment...with Tonga developing new senses, developing new network, it's kind of still baby steps,\" he said.\n\"It's still developing the basics, measuring and recording the basics, and then I think a few years down the track, we'll be able to apply these more advanced methods.\"\nHe said in New Zealand, it is set up to monitor seismic activity in real-time pretty well, with seismographs, GPS sensors, and infrasound sensors.\n\"Whereas in the Pacific, the volcanoes that we can monitor in real-time, there's only a handful of them, and they are mainly in Vanuatu.\n\"We have a few new systems set up in Tonga now, but they're still nowhere near as as comprehensive as the monitoring systems we have in New Zealand.\"\nCronin said these kinds of tools \"help us see things that we might not otherwise see\".\nHe said once the AI tool picks something up, they can then bring in a human scientist.\n\"What we can do is then hone in on things and say, hey, there's something strange there, and then put a pair of human eyes on that, and put in the volcanological expertise.\n\"Anything that we can develop in the terms of AI software, types of approaches that are labour-saving approaches, or kind of pre-filtering and pre-screening approaches can be really, really helpful for countries without volcano scientists.\n\"Tonga, for example, where you have a small number of scientists in their group, and not many, one or two have been trained in volcano seismology and there aren't many that have very deep, in-depth training.\n\"We have people trained at masters level, but we don't have that many PhD level trained people in the South West Pacific, around the volcano monitoring.\n\"So any kind of tools that we have that help to automatically process signals and raise awareness about volcanoes that might be pressurizing towards eruption, I think is there's a great deal of assistance.\"\nThe programme was developed in response to Aotearoa's Whakaari/White Island tragedy where 22 people were killed and 45 injured.\nEngineer Dr Alberto Ardid said the system was being developed \"to help us to identify in real time and prevent what happened on Whakaari\".\nArdid said the AI tool was fed 20 years' worth of seismic data recorded from 41 volcanic eruptions across the globe including from Whakaari, Tongariro, and Ruapehu in New Zealand.\nHe said the seismic tools were the same as those used to measure earthquakes, but near a volcano the recorded shaking typically related to subsurface volcanic activity such as magma movement, which could be a precursor to an eruption.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment"
+    ],
+    "topics": [
+      "Science and Technology->scientific innovation",
+      "Science and Technology->natural science",
+      "Science and Technology->technology and engineering",
+      "Environment->sustainability",
+      "Environment->natural resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "66141a6d7fbad31203bd70c88e6ab133f536110e",
+      "first_syndicated": true
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T01:23:38.460+02:00",
+    "updated": "2025-02-28T01:23:38.460+02:00"
+  },
+  {
+    "uuid": "e9691b34e9f1222f042c73e424f7c7011baf4157",
+    "url": "https://ncstate.rivals.com/news/final-kansas-state-28-nc-state-19",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jacey Zembal •",
+    "published": "2023-12-29T01:21:00Z",
+    "title": "Final: Kansas State 28, NC State 19",
+    "text": "NC State dream of having a second double-digit win season will be on hold for another year.\nKansas State jumped NC State early and then had a big drive late to put away the Wolfpack 28-19 on Thursday in the Pop-Tarts Bowl in Orlando, Fla. NC State finishes the season 9-4 and Kansas State improved to 9-4.\nNC State senior quarterback Brennan Armstrong threw for 164 yards and rushed for 121 yards and a touchdown, but Kansas State won 28-19 on Thursday in the Pop-Tarts Bowl. (USA Today Sports photos) Advertisement Final statistics (9:14 p.m.) Content Loading Embed content not available\nManage privacy settings PGRpdiBjbGFzcz0nc3RfX2NvbnRlbnQtYmxvY2sgc3RfX2NvbnRlbnQtYmxv Y2stLXR3ZWV0Jz4KPGRpdiBjbGFzcz0nY2VudGVyX3R3ZWV0Jz48YmxvY2tx dW90ZSBjbGFzcz0idHdpdHRlci10d2VldCI+PHAgbGFuZz0iZW4iIGRpcj0i bHRyIj5OQyBTdGF0ZSBmaW5pc2hlcyBzZWFzb24gOS00IHdpdGggYSAyOC0x OSBsb3NzIGFnYWluc3QgS2Fuc2FzIFN0YXRlIGluIHRoZSBQb3AtVGFydHMg Qm93bC4gPGEgaHJlZj0iaHR0cHM6Ly90LmNvL0xocDU4SXhtUTYiPnBpYy50 d2l0dGVyLmNvbS9MaHA1OEl4bVE2PC9hPjwvcD4mbWRhc2g7IFRoZVdvbGZw YWNrQ2VudHJhbCAoQE5DU3RhdGVSaXZhbHMpIDxhIGhyZWY9Imh0dHBzOi8v dHdpdHRlci5jb20vTkNTdGF0ZVJpdmFscy9zdGF0dXMvMTc0MDU1NTMxMTU0 MTU0MzExNj9yZWZfc3JjPXR3c3JjJTVFdGZ3Ij5EZWNlbWJlciAyOSwgMjAy MzwvYT48L2Jsb2NrcXVvdGU+CjxzY3JpcHQgYXN5bmMgc3JjPSJodHRwczov L3BsYXRmb3JtLnR3aXR0ZXIuY29tL3dpZGdldHMuanMiIGNoYXJzZXQ9InV0 Zi04Ij48L3NjcmlwdD4KCjwvZGl2Pgo8L2Rpdj4KCg== KSU will time-crunching drive Kansas State went on a 15-play, 72-yard drive that took 7:24 off the clock. Freshman quarterback Avery Johnson threw a 11-yard touchdown pass to Jayce Brown and Kansas State put the game away 28-19 with 2:48 remaining.\nThe score came after a punt return touchdown was called back by penalty and a flanker screen score was called by penalty.\nStatistics through three quarters (8:21 p.m.) Content Loading Embed content not available\nManage privacy settings PGRpdiBjbGFzcz0nc3RfX2NvbnRlbnQtYmxvY2sgc3RfX2NvbnRlbnQtYmxv Y2stLXR3ZWV0Jz4KPGRpdiBjbGFzcz0nY2VudGVyX3R3ZWV0Jz48YmxvY2tx dW90ZSBjbGFzcz0idHdpdHRlci10d2VldCI+PHAgbGFuZz0iZW4iIGRpcj0i bHRyIj5TdGF0aXN0aWNzIHRocm91Z2ggdGhyZWUgcXVhcnRlcnM6IDxhIGhy ZWY9Imh0dHBzOi8vdC5jby82Q2lSUHZhZHkzIj5waWMudHdpdHRlci5jb20v NkNpUlB2YWR5MzwvYT48L3A+Jm1kYXNoOyBUaGVXb2xmcGFja0NlbnRyYWwg KEBOQ1N0YXRlUml2YWxzKSA8YSBocmVmPSJodHRwczovL3R3aXR0ZXIuY29t L05DU3RhdGVSaXZhbHMvc3RhdHVzLzE3NDA1NDM2NzE5OTU0NDEzMzU/cmVm X3NyYz10d3NyYyU1RXRmdyI+RGVjZW1iZXIgMjksIDIwMjM8L2E+PC9ibG9j a3F1b3RlPgo8c2NyaXB0IGFzeW5jIHNyYz0iaHR0cHM6Ly9wbGF0Zm9ybS50 d2l0dGVyLmNvbS93aWRnZXRzLmpzIiBjaGFyc2V0PSJ1dGYtOCI+PC9zY3Jp cHQ+Cgo8L2Rpdj4KPC9kaXY+Cgo= NC State has own fake punt magic (8:15 p.m.) NC State doesn't have a big-play offense, but created its own big play by faking a punt to Trent Pennix, who ran 60 yards for a touchdown. The two-point conversion play didn't work, and Kansas State's lead is cut to 21-19 with 1:50 left in the third quarter.\nNC State gets FG to start third quarter NCSU senior kicker Brayden Narveson made a 49-yard field goal on the first drive of the second half, cutting KSU's lead to 21-13 with 12:51 left in the third quarter.\nHalftime statistics (7:21 p.m.) Content Loading Embed content not available\nManage privacy settings PGRpdiBjbGFzcz0nc3RfX2NvbnRlbnQtYmxvY2sgc3RfX2NvbnRlbnQtYmxv Y2stLXR3ZWV0Jz4KPGRpdiBjbGFzcz0nY2VudGVyX3R3ZWV0Jz48YmxvY2tx dW90ZSBjbGFzcz0idHdpdHRlci10d2VldCI+PHAgbGFuZz0iZW4iIGRpcj0i bHRyIj5IYWxmdGltZSBzdGF0aXN0aWNzOiA8YSBocmVmPSJodHRwczovL3Qu Y28vR2NodmRNdkRqNiI+cGljLnR3aXR0ZXIuY29tL0djaHZkTXZEajY8L2E+ PC9wPiZtZGFzaDsgVGhlV29sZnBhY2tDZW50cmFsIChATkNTdGF0ZVJpdmFs cykgPGEgaHJlZj0iaHR0cHM6Ly90d2l0dGVyLmNvbS9OQ1N0YXRlUml2YWxz L3N0YXR1cy8xNzQwNTI4Njk0OTk5ODg4MDEyP3JlZl9zcmM9dHdzcmMlNUV0 ZnciPkRlY2VtYmVyIDI5LCAyMDIzPC9hPjwvYmxvY2txdW90ZT4KPHNjcmlw dCBhc3luYyBzcmM9Imh0dHBzOi8vcGxhdGZvcm0udHdpdHRlci5jb20vd2lk Z2V0cy5qcyIgY2hhcnNldD0idXRmLTgiPjwvc2NyaXB0PgoKPC9kaXY+Cjwv ZGl2PgoK NC State gets FG to end half (7:21 p.m.) NC State senior kicker Brayden Narveson hits a 26-yard field goal to end the half, cutting KSU's lead to 21-10.\nKSU tacks on points before halftime (7:12 p.m.) KSU freshman quarterback Avery Johnson runs for a 19-yard score to extend its lead to 21-7 with 55 seconds left in the first half.\nNC State gets on the board (6:58 p.m.) NC State senior quarterback Brennan Armstrong kept the football on a read-option and sprinted 31 yards for the touchdown to cut the KSU lead to 14-7 with 3:22 left in the second quarter. Armstrong has 13 carries for 129 yards.\nFake punt sparks Wildcats score (6:45 p.m.) DJ Giddens gets his second touchdown of the game with a four-yard run, which was set up by a 30-yard fake punt run, and a 28-yard pass to tight end Garrett Oakley. The score gave KSU a 14-0 lead with 7:29 left in the second quarter.\nFirst quarter statistics (6:30 p.m.) Content Loading Embed content not available\nManage privacy settings PGRpdiBjbGFzcz0nc3RfX2NvbnRlbnQtYmxvY2sgc3RfX2NvbnRlbnQtYmxv Y2stLXR3ZWV0Jz4KPGRpdiBjbGFzcz0nY2VudGVyX3R3ZWV0Jz48YmxvY2tx dW90ZSBjbGFzcz0idHdpdHRlci10d2VldCI+PHAgbGFuZz0iZW4iIGRpcj0i bHRyIj5LYW5zYXMgU3RhdGUgbGVhZHMgTkMgU3RhdGUgNy0wIGFmdGVyIHRo ZSBmaXJzdCBxdWFydGVyOiA8YSBocmVmPSJodHRwczovL3QuY28vaXNvOUx1 YXNlbiI+cGljLnR3aXR0ZXIuY29tL2lzbzlMdWFzZW48L2E+PC9wPiZtZGFz aDsgVGhlV29sZnBhY2tDZW50cmFsIChATkNTdGF0ZVJpdmFscykgPGEgaHJl Zj0iaHR0cHM6Ly90d2l0dGVyLmNvbS9OQ1N0YXRlUml2YWxzL3N0YXR1cy8x NzQwNTE1Mzg4NDM2NDQ3NTA1P3JlZl9zcmM9dHdzcmMlNUV0ZnciPkRlY2Vt YmVyIDI4LCAyMDIzPC9hPjwvYmxvY2txdW90ZT4KPHNjcmlwdCBhc3luYyBz cmM9Imh0dHBzOi8vcGxhdGZvcm0udHdpdHRlci5jb20vd2lkZ2V0cy5qcyIg Y2hhcnNldD0idXRmLTgiPjwvc2NyaXB0PgoKPC9kaXY+CjwvZGl2PgoK KSU strikes first (5:57 p.m.) Kansas State running back DJ Giddens ran for 38 yards on four carries, and then fooled the NC State defense for a 37-yard touchdown with 12:35 left in the first quarter.\nFollow on Twitter:\n@NCStateRivals or @JaceyZembal\nSubscribe for free on YouTube:\nFor Jacey Zembal or The Wolfpack Central\nLike on Facebook:\nwww.facebook.com/TheWolfpackCentral\nFollow on Instagram/Threads:\nwww.instagram.com/thewolfpackcentral\nthreads.net/thewolfpackcentral\nATTENTION SUBSCRIBERS: Our NETWORK-WIDE, all-access pass allows you to read every premium message board in the Rivals.com network as part of a bundled add-on to your subscription!\nSubscribers can add the All-Access Pass or a 3-Site Bundle in your account profile, under the Subscriptions tab: HERE\ntrending {{ article.title }} premium-icon\n{{ timeAgo(article.live_at) }}",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.instagram.com/thewolfpackcentral",
+      "https://www.twitter.com/ncstaterivals",
+      "https://twitter.com/JaceyZembal",
+      "https://www.instagram.com/thewolfpackcentral/",
+      "https://www.facebook.com/thewolfpackcentral",
+      "https://www.rivals.mydashboard.oath.com/",
+      "https://www.youtube.com/channel/UCUAedGRLafrAX2nOCuiWNfw/",
+      "https://rivals.mydashboard.oath.com/",
+      "https://rivals.mydashboard.oath.com",
+      "https://www.bit.ly/JaceyZembal",
+      "https://www.youtube.com/channel/UCUAedGRLafrAX2nOCuiWNfw",
+      "https://twitter.com/ncstaterivals",
+      "https://facebook.com/thewolfpackcentral",
+      "https://youtube.com/channel/UCUAedGRLafrAX2nOCuiWNfw",
+      "https://www.threads.net/@thewolfpackcentral",
+      "https://threads.net/@thewolfpackcentral",
+      "https://instagram.com/thewolfpackcentral/",
+      "https://youtube.com/channel/UCUAedGRLafrAX2nOCuiWNfw/",
+      "https://www.twitter.com/JaceyZembal",
+      "https://bit.ly/JaceyZembal"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "brennan armstrong",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nc state",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kansas state",
+          "sentiment": "negative"
+        },
+        {
+          "name": "usa today sports",
+          "sentiment": "none"
+        },
+        {
+          "name": "wolfpack",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "kansas",
+          "sentiment": "none"
+        },
+        {
+          "name": "orlando",
+          "sentiment": "none"
+        },
+        {
+          "name": "fla",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T04:46:55.449+02:00",
+    "updated": "2023-12-29T04:46:55.449+02:00"
+  },
+  {
+    "uuid": "769a9e71313fa9da2f1e96f0cb6a11bd607e4e43",
+    "url": "https://jordantimes.com/news/region/two-ultraconservative-candidates-exit-iran-presidential-race",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2024-06-27T14:26:00Z",
+    "title": "Two ultraconservative candidates exit Iran presidential race | Jordan Times",
+    "text": "Login Create new account Read JT PDF Version Search form Search Arabic Press What's On About Us Contact us Advertise",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ghazizadeh-hashemi",
+          "sentiment": "none"
+        },
+        {
+          "name": "zakani",
+          "sentiment": "none"
+        },
+        {
+          "name": "alireza zakani",
+          "sentiment": "none"
+        },
+        {
+          "name": "mohammad bagher ghalibaf",
+          "sentiment": "none"
+        },
+        {
+          "name": "ebrahim raisi",
+          "sentiment": "none"
+        },
+        {
+          "name": "saeed jalili",
+          "sentiment": "none"
+        },
+        {
+          "name": "hashemi",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ministry of interior",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "iran",
+          "sentiment": "none"
+        },
+        {
+          "name": "jordan times tehran",
+          "sentiment": "none"
+        },
+        {
+          "name": "raisi",
+          "sentiment": "none"
+        },
+        {
+          "name": "tehran",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-28T02:10:02.231+03:00",
+    "updated": "2024-06-28T06:39:33.264+03:00"
+  },
+  {
+    "uuid": "146e3c7d72bec33d4de50cd13ec519dc463da4ff",
+    "url": "https://www.mercurynews.com/2024/02/29/a-home-decor-writer-reflects-on-20-years-10-homes",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Marni Jameson",
+    "published": "2024-02-29T19:00:00Z",
+    "title": "20 years, 10 homes, 1,040 columns later, a writer reflects",
+    "text": "I might get a little sentimental today. This is the 20th anniversary of my — well, really our — weekly column. In addition to feeling old, I also feel grateful.\nIt was actually slightly more than 20 years ago that I was living in Southern California, working as a freelance writer, when an editor from the Orange County Register called. The paper was launching a monthly regional magazine targeting owners of luxury homes — think Laguna and Newport Beach — and he wanted a column that would be the antidote to potentially pretentious content.\n“So,” I said, “you want a column that is not about rich homeowners and their chichi architects and their museum-quality art collections and the exquisite homes they build on the bluffs overlooking the Pacific and how the whole experience was one giant lovefest, and they had money left over?”\n“Right,” he confirmed, “a reality column.”\nHe’d found the right writer. At that point, I had built two homes from the ground up, had the debt and cortisol levels to prove it, and had an arsenal of frustrations.\nStill disbelieving, I added, “You want me to write about the tile mason with the drinking problem, the neighbors who won’t speak to you because you’ve had an outhouse and a Dumpster parked in your front yard for three months, the dogs who got so fed up with the construction they ran away in search of a rescue, and about how the remodel took three times as long, cost three times as much, and you weren’t speaking to your spouse at the end?”\n“Exactly,” he said. “Sprinkle in some advice. Be the girl next door who has the same problems as everyone else but is two steps ahead, because you’ve made the mistakes and know who to call.”\nEighteen months later, my then-husband and I moved from Southern California to Colorado — just one of my many moves. And soon, I had a syndicated column. That former editor congratulated me, then ominously added: “It’s great to have a weekly column, but one day, you are going to run out of ideas.”\nUntil then, a dry well hadn’t been on my worry list. I flashed back to when I was in kindergarten and got in trouble for talking too much in class. I wound up in the principal’s office with my mother to discuss “the problem.” When the principal asked why I talked so much, the answer was easy. “I just have so many important things to say,” I said, which was unintentionally hilarious.\nSo here we are 20 years and 1,040 columns later, and I still have things to say and no shortage of topics. Because I have never been able to see where home design stops and home life begins, my columns are about both. Here’s a brief look back at some of the moments we’ve been through together:\nThe calamities: You were there when my two custom seven-foot sofas arrived with the upholstery fabric inside out, when the back patio in our new Colorado home fell three feet into a sink hole, and when our rescue dog on his first night with us tested our commitment on the one-day-old living room carpet. (Who gets a new dog and new carpet on the same day?)\nThe many moves: You were there through 10 houses and nine moves, including the move to Florida, where I had a stint as a live-in home stager and moved six times in four years.\nThe life changes: You were there when I sent each of my children off to college, entering some sort of self-imposed dorm-decorating contest in which I was the sole contestant. You were there through my divorce and remarriage, the loss of two parents and the gain of three grown stepchildren.\nThe micro and macro: Together, we’ve covered the minor (how to choose drawer knobs and tea towels) and the major (the meaning of home and belonging and how to leave a meaningful legacy. Related Articles Home and Garden |",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "orange county register",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "newport beach",
+          "sentiment": "none"
+        },
+        {
+          "name": "southern california",
+          "sentiment": "none"
+        },
+        {
+          "name": "laguna",
+          "sentiment": "none"
+        },
+        {
+          "name": "pacific",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-01T00:07:57.125+02:00",
+    "updated": "2024-03-01T00:07:57.125+02:00"
+  },
+  {
+    "uuid": "d2a4f2ba48ba103558077aa99d556a0c82f36ecb",
+    "url": "https://www.aol.co.uk/sport/wales-boss-rob-page-backs-223010622.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Phil Blanche, PA",
+    "published": "2024-03-14T00:00:00Z",
+    "title": "Wales boss Rob Page backs Tom Lockyer in urging people to learn CPR",
+    "text": "Wales boss Rob Page has backed Tom Lockyer’s calls for people to learn CPR after his squad acquired lifesaving skills three months before their team-mate collapsed. Lockyer suffered a cardiac arrest during Luton’s Premier League game at Bournemouth in December and his heart stopped for two minutes and 40 seconds. The 29-year-old was saved as medics rushed to perform CPR (Cardiopulmonary Resuscitation) and provide early defibrillation. Wales defender Lockyer has since supported the British Heart Foundation’s campaign for people to learn CPR skills, as well as raise funds for lifesaving research. “The medical team came in and we did the class,” Page said of his squad undertaking a CPR and defibrillator training course in September that would take on special significance three months later. “Tom is championing it at the minute, and rightly so. “It just shows that there’s more to life than football.” Lockyer returned to the scene of his on-pitch cardiac arrest on Wednesday for Luton’s re-arranged meeting with Bournemouth. Basic Life Support and AED training could help you save a life one day. Our Cymru squad have done the training. Find out more about how you can get involved 👇 [@savealifecymru]| [#TogetherStronger] — Wales 🏴 (@Cymru) [September 8, 2023] The 16-times capped central defender met medics who helped save his life and admitted that he “got a little bit emotional”, while describing them as “heroes”. Lockyer has since been fitted with an implantable cardioverter defibrillator and conceded it is “out of his hands” if he will ever play again. But he will be part of Wales’ preparations next week as they bid to qualify for Euro 2024 and a third successive European Championship. Wales host Finland in a play-off semi-final in Cardiff next Thursday, with the winners at home to Estonia or Poland five days later to decide a place in Germany this summer. Page said: “I’ve had a good conversation with Locks and he’ll be a part of it. We don’t know what days or for how long yet. Locks and some of his heroes 🧡 [pic.twitter.com/Lrvs96ECc5] — Luton Town FC (@LutonTown) [March 13, 2024] “But he’s keen to come in and we’re keen to have him around the lads. “I can only imagine how hard it was for Meps (Chris Mepham), Kieffer (Moore) and Brooksy (David Brooks) when they played that fixture and saw their mate on the floor like he was. “I can only imagine how hard it would have been for them. “They’ve had contact straight after and they’ve been in touch since, but it’ll be nice to have them all back in the group together. “Forget football, just being together as good mates is powerful for them.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "rob page",
+          "sentiment": "negative"
+        },
+        {
+          "name": "tom lockyer",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lockyer",
+          "sentiment": "none"
+        },
+        {
+          "name": "tom",
+          "sentiment": "none"
+        },
+        {
+          "name": "” page",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "luton",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "wales",
+          "sentiment": "none"
+        },
+        {
+          "name": "cpr wales",
+          "sentiment": "none"
+        },
+        {
+          "name": "bournemouth",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-15T01:03:56.672+02:00",
+    "updated": "2024-03-15T01:03:56.672+02:00"
+  }
+]

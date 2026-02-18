@@ -1,0 +1,532 @@
+[
+  {
+    "uuid": "9f7f4e0def6c09e36495a66be21c1870789c4cad",
+    "url": "https://www.thenews.com.pk/print/1200228-hrcp-report-highlights-marked-rise-in-street-crime-kidnappings-in-2023",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Our Correspondent",
+    "published": "2024-06-13T16:00:00Z",
+    "title": "HRCP report highlights marked rise in street crime, kidnappings in 2023",
+    "text": "The Human Rights Commission of Pakistan’s (HRCP) annual report on the state of human rights in 2023 details the deteriorating law and order situation in Sindh, particularly the marked increase in street crime — about 11 percent in Karachi — and kidnappings. In response, the Sindh police launched a large-scale operation against dacoits in the Katcha (riverine) area with the help of the army and Rangers. Violations of civic and fundamental rights continued to take place. During the 9 May riots, a number of public and private properties were damaged. In an excessive crackdown by the state, over 25 PTI leaders, including former Sindh governor Imran Ismail, were arrested. Enforced disappearances of political workers, nationalists, lawyers and journalists also continued unabated, with at least 175 cases reported from different districts during the year. In another incident, a security operation in a village near Sakrand resulted in at least four people being killed extrajudicially and nine others injured, according to the report. The rights of vulnerable groups in Sindh also took a hit; scores of Afghan refugees and migrants were arrested and deported following the federal caretaker government’s executive order to deport ‘illegal’ foreigners. Unfortunately, the civil society’s response was visibly divided in Sindh, with a large faction endorsing the policy. Violence against women and children remained a persistent issue, with at least 546 cases of child abuse reported in Sindh during 2023. In terms of labour rights, the minimum wage for unskilled worker was increased to Rs32,000 although implementation of this wage at workplaces remained lax. Attacks on worship places of religious minorities, especially the Hindu and Ahmadi communities, and forced conversions were also reported, with the affected communities frequently demonstrating for an end to these violations. In welcome news, amendments to the Sindh Local Government Act were approved that gave mayors and chairs of municipal corporations more powers. Another key amendment paved the way for reserved seats for transgender persons in local councils for the first time, increasing representation and visibility for the community and their rights. However, the state must make a concentrated effort to uphold the fundamental rights of Sindh’s vulnerable groups, and restore law and order without further delay.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "imran ismail",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hrcp",
+          "sentiment": "negative"
+        },
+        {
+          "name": "human rights commission",
+          "sentiment": "negative"
+        },
+        {
+          "name": "pti",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "pakistan",
+          "sentiment": "none"
+        },
+        {
+          "name": "karachi",
+          "sentiment": "none"
+        },
+        {
+          "name": "sakrand",
+          "sentiment": "none"
+        },
+        {
+          "name": "sindh",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-14T00:56:37.147+03:00",
+    "updated": "2024-06-14T00:56:37.147+03:00"
+  },
+  {
+    "uuid": "ab1725f6755a64d5cc9c7fb95e7274c8d4c24f0b",
+    "url": "https://www.chinanews.com.cn/cj/2025/03-13/10382360.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "chinanews",
+    "published": "2025-03-13T01:50:10Z",
+    "title": "曙光存储FlashNexus登顶SPC-1基准测评-中新网",
+    "text": "曙光存储FlashNexus登顶SPC-1基准测评 分享到： → → 分享到： 曙光存储FlashNexus登顶SPC-1基准测评 2025-03-13 09:41:38 来源： 中国新闻网 作者：曹子健 责任编辑：曹子健 2025年03月13日 09:41　来源： 中国新闻网 大字体 小字体 分享到： 　　近日，国际存储性能委员会(SPC)公布SPC-1 V3基准测试最新成绩，曙光存储集中式全闪FlashNexus以32控、超3000万IOPS的卓越性能刷新纪录，强势登顶全球榜首，彰显中国存储在高端领域的领先实力！\n　　本次测试中，FlashNexus展示出超强的并发处理能力，以超3000万IOPS的卓越性能，和0.202ms的业内最低时延表现，让对手望尘莫及。\n　　 高端国产，中国芯擦亮中国存储名片\n　　搭载最新一代国产处理器，FlashNexus轻松应对关键负载场景，为金融、通信、能源、医疗等提供更可靠的自主解决方案，彰显中国存储在高端领域的实力。\n　　 卓越质价比，集中式存储新范式\n　　同级别性能的集中式全闪存储中，FlashNexus质价比位列第一，实现每千IOPS成本仅155.01美元，为业内树立了高性能与高性价比并重的典范。\n　　SPC-1基准测试被誉为全球存储的“奥斯卡”，涵盖OLTP、数据库等关键负载场景，对存储系统的稳定性、扩展性及性能提出严苛要求。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Environment"
+    ],
+    "topics": [
+      "Science and Technology->scientific research",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->business reporting and performance",
+      "Environment->sustainability",
+      "Environment->energy resources",
+      "Environment->environmental clean-up"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T03:50:10.053+02:00",
+    "updated": "2025-03-13T06:08:28.781+02:00"
+  },
+  {
+    "uuid": "8e2e90626fafcde2f77b450b7b41c4c017f4c534",
+    "url": "https://www.dcfc.co.uk/news/2023/12/time-for-a-sub-202324-half-season-programme-subscription",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Derby County Football Club",
+    "published": "2023-12-28T22:30:18Z",
+    "title": "Time For A Sub: 2023/24 Half Season Programme Subscription - Blog - Derby County",
+    "text": "The second half of the 2023/24 campaign looks set to be an exciting one for Derby County and supporters can back Paul Warne’s side every step of the way with a second half subscription to the official matchday programme. With a dozen Sky Bet League One fixtures remaining at Pride Park Stadium between January and April 2024, including the visit of current top six-sides Bolton Wanderers, Peterborough United and Stevenage, as well as welcoming near neighbours Burton Albion in January, what could be better for the Derby-mad member of your family than the gift that keeps on giving well into the new year. All of the A5 size 52-page editions of ‘The Ram’ are dispatched first class before the day of the game - although this is not a guaranteed pre-event service - and are packed with exclusive player features, opinion columns and historical reads. So get signed up now for just £66 via the club’s official publishing partners Ignition Sports Media at: [ignitionsportsmedia.com/collections/derby-county-1/products/derby-county-second-half-season-subscription-2023-24](https://protect-eu.mimecast.com/s/vbdICBBAPcLLGrCzw4Wi?domain=ignitionsportsmedia.com)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://protect-eu.mimecast.com/s/vbdICBBAPcLLGrCzw4Wi?domain=ignitionsportsmedia.com)",
+      "https://www.protect-eu.mimecast.com/s/vbdICBBAPcLLGrCzw4Wi?domain=ignitionsportsmedia.com)",
+      "https://protect-eu.mimecast.com/s/vbdICBBAPcLLGrCzw4Wi"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "paul warne",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "peterborough united",
+          "sentiment": "none"
+        },
+        {
+          "name": "bolton wanderers",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "derby county",
+          "sentiment": "none"
+        },
+        {
+          "name": "stevenage",
+          "sentiment": "none"
+        },
+        {
+          "name": "burton albion",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:30:22.776+02:00",
+    "updated": "2023-12-29T00:30:22.776+02:00"
+  },
+  {
+    "uuid": "51b7a844a7b18f4751f695e153c3f3f72758b1cc",
+    "url": "https://www.barrietoday.com/national-news/ottawa-declassifies-more-details-from-rodal-report-on-nazi-war-criminals-in-canada-8198156",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Canadian Press",
+    "published": "2024-02-01T23:20:00Z",
+    "title": "Ottawa declassifies more details from Rodal report on Nazi war criminals in Canada",
+    "text": "OTTAWA — The federal government has released previously classified details from a report that outlines the extent to which Canada provided a safe haven to former Nazis during the Cold War. Ottawa faced renewed calls for greater transparency about the presence of war criminals in Canada after parliamentarians inadvertently gave two standing ovations last fall to a man who fought in a Nazi unit in the Second World War. Yaroslav Hunka, who fought for the Waffen-SS Galicia Division, a voluntary unit created by the Nazis to help fight the Soviet Union, was welcomed to the House of Commons last fall to hear a speech by Ukrainian President Volodymyr Zelenskyy. The report by researcher Alti Rodal, known as the Rodal report, was prepared as part of a Commission of Inquiry on War Criminals in Canada in 1985 and was intended to provide the commission with information on the historical policies and circumstances that led to the presence of Nazi war criminals in Canada. It was initially released under the Access to Information Act in heavily censored form in 1987, and more details were made public last summer in response to a Freedom of Information request by B’nai Brith Canada. The newly released and nearly complete version makes 15 previously classified pages public, the immigration minister's director of communications, Aissa Diop, said in a statement Thursday. \"While additional information that is no longer sensitive due to the passage of time can now be released, some information still remains protected in accordance with the Access to Information Act and the Privacy Act,\" Immigration, Refugees and Citizenship Canada said in a news release Thursday. There are no individuals identified in the newly released version of the document, but it does include information Canada received in confidence from foreign governments, details previously protected under solicitor client privilege, as well as information that would harm international affairs and the enforcement of Canadian laws, Diop said. “Those who suffered under Nazi Germany and their descendants want transparency when it comes to this shameful chapter in our history,\" Immigration Minister Marc Miller said in a statement Thursday. Rodal's report concludes that in the decade following the war, there was “ample opportunity” for war criminals and Nazi collaborators to enter Canada. B’nai Brith Canada has advocated for the release of the full document since the 1980s, and filed several requests under Access to Information Laws in the past year, which the group says the government repeatedly denied. “We welcome this almost complete disclosure of the Rodal Report,” David Matas, who represented the group during the commission, said in a statement Wednesday. Though it has been 79 years since the Second World War and 37 years since Rodal's work was completed, Matas said ongoing mass atrocities and efforts by perpetrators to seek haven in Canada lend contemporary relevance to the report. \"We cannot learn from the past unless we know the past. The almost complete disclosure of the Rodal Report is an important step in coming to grips with our past and applying its lessons for the present,\" he said. This report by The Canadian Press was first published Feb. 1, 2024. Laura Osman, The Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "the canadian press",
+          "sentiment": "none"
+        },
+        {
+          "name": "nazis",
+          "sentiment": "none"
+        },
+        {
+          "name": "archives canada",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "canada ottawa",
+          "sentiment": "none"
+        },
+        {
+          "name": "ottawa",
+          "sentiment": "none"
+        },
+        {
+          "name": "canada",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-02T01:29:51.418+02:00",
+    "updated": "2024-02-02T01:57:29.158+02:00"
+  },
+  {
+    "uuid": "c32562013a3451e3dba3657ecae1841cb0be3423",
+    "url": "https://luxuriousrentz.com/yoga-to-increase-height-8-yoga-poses-to-help-you-grow-taller",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Shantell Hanran",
+    "published": "2024-12-05T21:16:00Z",
+    "title": "Yoga to Increase Height: 8 Yoga Poses to help you Grow Taller",
+    "text": "The spinal stretch of camel pose is such that it simultaneously stretches and relaxes your spine. These stretches will also boost blood circulation in the bones for faster healing and growth. A sedentary lifestyle and hours of slouching in front of the screen can take a toll on your bones. Take 5-7 breaths and release the pose. Wheel pose or Chakrasana gets better with regular practice. To have a better understanding have a look at how yoga affects height at different ages. Practicing regular yoga will ensure that your body grows to its maximum potential height. Sleep Well: Your body grows when you sleep. These mental benefits can increase your productivity, sleep better, and help you make healthier decisions. Also Read: Can We Do Yoga In Evening & What Are The Poses You Can Try in Evening? Stimulating Growth Hormones: Certain of these yoga to increase height poses are believed to stimulate the pituitary gland, Does yoga increase height? which releases growth hormones. It stimulates pituitary glands, stretches lungs and chest, cures osteoporosis, infertility, and enhances height.\nIt stretches body muscle, making it more elastic and flexible. After 30 you need yoga more than ever. Do practice yoga poses to stimulate HGH (Human Growth Hormones), but mostly you will need to focus on intensive bone stretches. Once that is done will look for poses to calm the mind and stimulate growth hormone production. Calming the mind and reducing stress. It also provides rejuvenating relaxation to the mind and body. But, frequent exercise, proper yoga asanas retains body flexibility, balance. Also known as Tree Pose, is a standing balancing posture in yoga that helps improve balance and stability while strengthening the legs, ankles, and core. Strengthening the core and upper body: This pose can help strengthen the muscles of the core, upper body, and legs, improving overall physical strength and stability. Regular yoga, in addition to a balanced diet, improves body posture while vitalizing the core muscles. Maintain a straight back and arms while crossing your palms above your feet. Yoga can make you feel like a giant, with a straight back and a proud chest. It relaxes the muscles of the buttocks, abdomen, back, and chest. With this yoga pose, you’ll put pressure on your back, thigh muscles, and neck area.\nHowever, it’s not recommended for those with fluctuating blood pressure and back injuries. Hand-to-foot pose or Hastapadasana is the most recommended yoga to increase height, especially by Baba Ramdev . No, it’s recommended to wait at least 2-3 hours after a meal before doing yoga. Sit in the Vajrayana position or kneel on the yoga mat with your hands on the hips. Use your hands to support your back. But, yoga does magic for your back. They think yoga might be a magic key. You might like: Can We Do Yoga And Gym Together? Which is more effective Yoga Or the Gym for height gain? As genetics and other factors like nutrition, hormone balance, and general health play a major role in determining height, neither yoga nor gym workouts are known to directly alter or enhance height. However, yoga can contribute to several factors that lengthen your spine and improve overall musculoskeletal strength, mobility and flexibility. You can build strength, flexibility, and mobility through yoga. Poses like Mountain Pose, Cobra Pose, and various inversion poses can help strengthen your back and core, contributing to better posture.\nTry yoga poses or exercises that counteract your body’s repetitive sitting, standing, or moving patterns. After 20, it is practically impossible to gain height with yoga or other exercises. Additionally, while yoga focuses on flexibility and posture, if you’re interested in muscle growth through dedicated workouts, understanding how to gain muscle might complement your routine. Hold the legs while balancing your body. Beginning on your back, bend your legs so that your feet are firmly planted on the mat. They make sure you don’t bend the wrong way and hurt yourself. Poor lifestyle and lack of exercise after 18 age can make your body reject the last bit of residue growth. After 18, increasing your height is a bit of a stretch, but you will still have a little growth left in you. You probably still feel young at 25, but unfortunately growing taller isn’t an option anymore. Moreover, research studies have shown that yoga can affect the growth hormone in Young men and women even at the age of 25. However, you must focus on the meditative yoga poses, that will awaken your inner vitality.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Lifestyle and Leisure",
+      "Education"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.news24.com/news24/search?query=breaths",
+      "http://dig.ccmixter.org/search?searchp=Baba%20Ramdev",
+      "https://onemorestep.click/yoga/kham-pha-loi-ich-cua-yoga-doi-voi-chieu-cao-n337.html",
+      "https://news24.com/news24/search?query=breaths",
+      "https://www.onemorestep.click/yoga/kham-pha-loi-ich-cua-yoga-doi-voi-chieu-cao-n337.html",
+      "http://dig.ccmixter.org/search",
+      "https://www.news24.com/news24/search",
+      "http://www.dig.ccmixter.org/search?searchp=Baba%20Ramdev"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-06T04:13:39.589+02:00",
+    "updated": "2024-12-06T04:13:39.589+02:00"
+  },
+  {
+    "uuid": "3a57a91da7fdbc7c58496e2755b5eab8c7f6f608",
+    "url": "https://investorshangout.com/lithium-ionic-unveils-significant-growth-in-baixa-grande-resources-228511-",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hannah Lewis",
+    "published": "2025-02-27T22:15:00Z",
+    "title": "Lithium Ionic Unveils Significant Growth in Baixa Grande Resources",
+    "text": "Lithium Ionic Unveils Significant Growth in Baixa Grande Resources\nHannah LewisUpdated: 02-27-2025 05:15 PM\nLithium Ionic Announces Technical Report for Enhanced Mineral Resources\nLithium Ionic Corp. (TSXV: LTH; OTCQX: LTHCF; FSE: H3N) has recently filed a technical report showcasing a 32% increase in the mineral resources at its Baixa Grande Lithium Project in Brazil. This updated Mineral Resource Estimate (MRE) reflects significant advancements in the company’s exploration efforts, reinforcing its commitment to the lithium market.\nDetails of the NI 43-101 Technical Report\nThe independent technical report, prepared by GE21 Consultoria Mineral Ltda., is compliant with NI 43-101 standards and reveals valuable insights into the updated resources present at the Baixa Grande site. The report identifies Measured and Indicated resources of 6.52 million tonnes at a grade of 1.11% Li?O, translating to around 179,580 tonnes of Lithium Carbonate Equivalent (LCE). Furthermore, the Inferred category holds an additional 12.90 million tonnes at 0.96% Li?O, contributing to a robust resource base in Brazil's Lithium Valley.\nImplications of the Technical Report\nThis technical report is crucial for Lithium Ionic as it marks a significant milestone in the company’s journey. By unveiling this enhanced resource base, Lithium Ionic is solidifying its role as a pivotal player in the rapidly expanding lithium market, which is essential for powering electric vehicles and renewable energy solutions.\nBaixa Grande Project: A Promising Asset\nThe Baixa Grande project, located within a fruitful region rich in spodumene-bearing pegmatites, is a key asset for Lithium Ionic. This area, known for its mineral potential, is situated near other notable lithium projects, showcasing the area's capability to support significant mining activities. The company currently manages a land package encompassing 17,000 hectares, with the Baixa Grande site occupying a mere 662 hectares. This positions Lithium Ionic strategically within the competitive landscape of lithium mining.\nRecent Developments in Brazil's Lithium Market\nThe competitive nature of the lithium market has intensified, especially with Pilbara Minerals’ recent acquisition of Latin Resources, which underscores Brazil's position as a promising lithium-producing region. This strategic move influences the dynamics of competition in the market, highlighting the exceptional quality and volume of lithium resources available.\nAbout Lithium Ionic Corp.\nLithium Ionic is dedicated to exploring and developing its extensive lithium properties in Brazil, particularly within the Itinga and Salinas regions. The company is actively pursuing its vision to lead in lithium exploration, contributing towards advancing sustainable energy solutions worldwide. With strong geological advantages and proximity to high-performing lithium deposits, the company is poised for continued growth.\nQualified Expertise Behind the Project\nEnsuring the integrity of the technical information, Leonardo Soares, P.Geo., M.Sc. of GE21, has been instrumental in reviewing and approving the MRE, guaranteeing it meets the rigorous standards set by NI 43-101. His independent oversight, combined with input from Lithium Ionic’s exploration professionals, reinforces credibility and trust in the published data.\nConclusion and Future Outlook\nIn summary, the filing of the NI 43-101 technical report marks a pivotal point for Lithium Ionic Corp., showcasing a substantial boost in mineral resources at the Baixa Grande Lithium Project. As the market demand for lithium continues to surge, the company’s expansion and resource enhancement efforts will play a crucial role in positioning it at the forefront of the lithium industry.\nFrequently Asked Questions\nWhat is the Baixa Grande Lithium Project?\nThe Baixa Grande Lithium Project is an important asset of Lithium Ionic located in Brazil, showcasing promising lithium resources essential for modern energy solutions.\nWho prepared the NI 43-101 technical report?\nThe report was prepared by GE21 Consultoria Mineral Ltda., adhering to National Instrument 43-101 standards for mineral projects.\nWhat are the key findings of the technical report?\nThe report highlighted 6.52 million tonnes of Measured and Indicated resources with a grade of 1.11% Li?O and an additional 12.90 million tonnes of Inferred resources.\nHow does this report affect Lithium Ionic's position in the market?\nThis report significantly enhances Lithium Ionic's position by demonstrating the company's growing resource base in a competitive lithium market.\nWhat future plans does Lithium Ionic have?\nLithium Ionic aims to expand its exploration activities while leveraging its existing resources to meet the increasing global demand for lithium in various applications.\nAbout The Author\nContact Hannah Lewis privately here. Or send an email with ATTN: Hannah Lewis as the subject to contact@investorshangout.com.\nAbout Investors Hangout\nInvestors Hangout is a leading online stock forum for financial discussion and learning, offering a wide range of free tools and resources. It draws in traders of all levels, who exchange market knowledge, investigate trading tactics, and keep an eye on industry developments in real time. Featuring financial articles, stock message boards, quotes, charts, company profiles, and live news updates. Through cooperative learning and a wealth of informational resources, it helps users from novices creating their first portfolios to experts honing their techniques. Join Investors Hangout today: https://investorshangout.com/\nThe content of this article is based on factual, publicly available information and does not represent legal, financial, or investment advice. Investors Hangout does not offer financial advice, and the author is not a licensed financial advisor. Consult a qualified advisor before making any financial or investment decisions based on this article. This article should not be considered advice to purchase, sell, or hold any securities or other investments. If any of the material provided here is inaccurate, please contact us for corrections.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Environment"
+    ],
+    "topics": [
+      "Economy, Business and Finance->energy and resource",
+      "Economy, Business and Finance->business reporting and performance",
+      "Science and Technology->biotechnology",
+      "Science and Technology->geology",
+      "Environment->energy resources",
+      "Environment->natural resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:17:44.783+02:00",
+    "updated": "2025-02-28T00:17:44.783+02:00"
+  },
+  {
+    "uuid": "f8fa21ace95307e121c736297d5f757256884802",
+    "url": "https://www.vladtv.com/article/302680/gilbert-arenas-says-he-wants-to-see-ja-morant-continue-to-be-ja-wick",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jessica T",
+    "published": "2023-12-28T18:45:00Z",
+    "title": "Gilbert Arenas Says He Wants to See Ja Morant Continue to Be \"Ja Wick\" | VladTV",
+    "text": "The Memphis Grizzlies have been on fire since the return of their star point guard, Ja Morant, after serving a 25-game suspension. With Morant back in action, the team has gone undefeated, winning all four games. This winning streak is in stark contrast to their 6-9 record without Morant at the start of the season. The Grizzlies' recent come-from-behind victory against the New Orleans Pelicans showcased Morant's impact on the court and his ability to lead his team to victory. During the game, Morant did a dance [celebration](https://www.vladtv.com/article/302636/ja-morant-pulls-out-gun-celebration-after-game-clinching-dunk-against) called \"pistols and bazooka,\" which many incorrectly associated with firearms. While discussing the situation, Gilbert Arenas told Shannon Sharpe it is actually a New Orleans dance, a cultural expression common among NBA players like Russell Westbrook. This dance is a form of joy and celebration, not aggression or anger. The confusion arises from the optics, as people tend to associate any form of gun-related gestures negatively. They also spoke about Morant's return profoundly impacting the team. The Grizzlies were struggling without him, highlighting his importance on the court. With his leadership, the team has quickly turned things around, currently enjoying an undefeated streak. This performance solidifies Morant's status as one of the future stars of the NBA and a player who can be marketed effectively to the Grizzlies' audience. To hear more, including Gilbert speaking about Morant being \"Ja Wick,\" hit the above video. Source: [Youtube](https://www.youtube.com/watch?v=6TuxCdSgaxg)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "http://www.youtube.com/watch?v=6TuxCdSgaxg)",
+      "http://www.youtube.com/watch",
+      "http://youtube.com/watch?v=6TuxCdSgaxg)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ja morant",
+          "sentiment": "negative"
+        },
+        {
+          "name": "gilbert arenas",
+          "sentiment": "negative"
+        },
+        {
+          "name": "morant",
+          "sentiment": "none"
+        },
+        {
+          "name": "shannon sharpe",
+          "sentiment": "none"
+        },
+        {
+          "name": "mora",
+          "sentiment": "none"
+        },
+        {
+          "name": "russell westbrook",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "memphis grizzlies",
+          "sentiment": "negative"
+        },
+        {
+          "name": "grizzlies",
+          "sentiment": "none"
+        },
+        {
+          "name": "nba",
+          "sentiment": "none"
+        },
+        {
+          "name": "new orleans pelicans",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new orleans",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:03:58.474+02:00",
+    "updated": "2023-12-29T00:03:58.474+02:00"
+  },
+  {
+    "uuid": "012b92f833b38a12440fb4e00b84e5994f992ba1",
+    "url": "https://ana.ir/fa/news/990619/آتش-پارکینسون-از-روده-زبانه-می‌کشد",
+    "ord_in_thread": 0,
+    "author": "ستایش آل یاسین",
+    "published": "2025-08-14T04:27:00Z",
+    "title": "آتش پارکینسون از روده زبانه می‌کشد - خبرگزاری آنا",
+    "text": "آتش پارکینسون از روده زبانه میکشد\nسالها «بیماری پارکینسون» تنها به عنوان اختلالی مغزی شناخته میشد؛ بیماریای که با خاموش شدن سلولهای تولیدکننده «دوپامین» (Dopamine) در مغز، حرکت و تعادل را بهتدریج از بیمار میگیرد. اما نشانههایی که گاه دههها پیش از بروز مشکلات حرکتی پدیدار میشوند، داستان دیگری روایت میکنند؛ یبوست مزمن، خوابهای ناآرام و کاهش حس بویایی، همه خبر از آغاز مسیری میدهند که ظاهراً از مغز شروع نشده است. در دل روده، جایی که میلیاردها میکروب در سکوت زندگی میکنند، تغییری آرام، اما عمیق رخ میدهد و همین تغییر، شاید نخستین جرقه این بیماری باشد. امروز، پژوهشهای تازه با دنبال کردن رد این تغییرات، ارتباطی شگفتانگیز میان میکروبهای روده و «بیماری پارکینسون» را آشکار ساختهاند.\nروده و میکروبیوم؛ کلید راز بیماری\nنشانههای این تغییر دیدگاه به تدریج و از چند دهه پیش آشکار شد. پزشکان متوجه شدند که بسیاری از بیماران، سالها پیش از بروز علائم حرکتی، از مشکلاتی مانند یبوست مزمن، اختلالات خواب و حتی کاهش حس بویایی رنج میبرند. این علائم زودهنگام، که گاهی تا ۲۰ سال پیش از مشکلات حرکتی دیده میشوند، سرنخی مهم برای دانشمندان بود که شاید بیماری از جایی خارج از مغز آغاز میشود. با پیشرفت فناوری «توالییابی ژنوم میکروبی» (Microbiome sequencing) و امکان بررسی دقیق «میکروبیوم روده»\n(Gut microbiome)، پژوهشگران شروع به مقایسه جمعیت باکتریهای روده در بیماران و افراد سالم کردند. نتایج اولیه حیرتآور بود. بیماران پارکینسون نهتنها ترکیب متفاوتی از باکتریها داشتند، بلکه تغییرات میکروبیوم آنها سالها پیش از ظهور علائم حرکتی رخ میداد.\nمطالعه جدید و کشف ارتباط ویتامینها\nدر تازهترین گام، تیمی به سرپرستی «هیروشی نیشیوآکی» (Hiroshi Nishiwaki) از «دانشگاه ناگویا» (Nagoya University) ژاپن، پژوهشی منتشر کرد که نقطه عطفی در فهم این ارتباط به شمار میرود. آنها نمونههای مدفوع ۹۴ بیمار پارکینسونی و ۷۳ فرد سالم نسبی را در ژاپن آنالیز کردند و نتایج را با دادههای حاصل از چین، تایوان، آلمان و آمریکا مقایسه کردند. با وجود تفاوتهای جغرافیایی و گونههای مختلف باکتریایی، الگوی یکسانی دیده شد: مسیرهای زیستی مربوط به تولید دو ویتامین حیاتی به نامهای «ریبوفلاوین» (Riboflavin)، «ب ۲» (B2)، «بیوتین» (Biotin) و «ب ۷» (B7) در بیماران دچار اختلال بود.\nتأثیر کمبود ویتامینها بر سلامت مخاط روده\nاین یافته نقطه شروع زنجیرهای از اتفاقات بیوشیمیایی را توضیح میدهد. کاهش ریبوفلاوین و بیوتین به افت سطح «اسیدهای چرب کوتاهزنجیر» (Short-chain fatty acids - SCFAs) و «پلیآمینها» (Polyamines) منجر میشود. این دو ترکیب برای حفظ سلامت لایه مخاطی روده و جلوگیری از افزایش نفوذپذیری آن حیاتیاند. وقتی لایه مخاطی ضعیف میشود، روده به اصطلاح «نشتپذیر» میگردد و سموم محیطی از جمله مواد شوینده، آفتکشها و علفکشها به آسانی وارد جریان خون میشوند.\nاینجاست که نقش این سموم در مکانیسم پارکینسون آشکار میشود. تحقیقات نشان دادهاند که چنین ترکیباتی میتوانند تولید بیشازحد «فیبریلهای آلفا-سینوکلئین» (Alpha-synuclein fibrils) را تحریک کنند. این پروتئینها به شکل غیرطبیعی تاخورده، تمایل به تجمع در سلولهای عصبی دارند و در بیماران پارکینسون، بهویژه در سلولهای تولیدکننده دوپامین، انباشته میشوند. تجمع آنها نهتنها عملکرد سلولی را مختل میکند، بلکه التهاب عصبی را نیز دامن میزند. این التهاب، به مرور زمان، مسیرهای حرکتی مغز را تخریب کرده و علائم کلاسیک بیماری را آشکار میکند.\nاز روده تا مغز؛ مسیر انتقال پروتئینهای آسیبزا\nبه گزارش سایت «ساینس آلارت» (science alert) شواهد نشان میدهند که این پروتئینهای سمی میتوانند از روده به مغز منتقل شوند، احتمالاً این کار از طریق «عصب واگ» (Vagus nerve) که یکی از مهمترین شاهراههای ارتباطی روده و مغز است؛ انجام میشود. این مسیر انتقال، ایده «محور روده-مغز» (Gut-Brain Axis) را از یک فرضیه به یک مدل علمی معتبر ارتقا داده است.\nاین یافتهها همچنین با شواهد تاریخی همخوانی دارند. یک مطالعه در سال ۲۰۰۳ نشان داد که مصرف دوز بالای ریبوفلاوین میتواند عملکرد حرکتی بیماران پارکینسون را بهبود دهد، بهویژه در بیمارانی که گوشت قرمز را از رژیم خود حذف کردهاند. آن زمان ارتباط مستقیمی میان کمبود این ویتامین و تغییرات میکروبیوم مطرح نبود، اما امروز این حلقه گمشده بهخوبی پیدا شده است.\nبا این حال، پژوهشگران تأکید میکنند که پارکینسون یک بیماری چندعاملی است و همه بیماران از مسیر بیوشیمیایی یکسانی به آن نمیرسند. برخی ممکن است بیشتر تحت تأثیر عوامل ژنتیکی باشند، برخی دیگر بیشتر از عوامل محیطی آسیب ببینند، و در تعدادی، ترکیبی از هر دو عامل نقش داشته باشد. از این رو، توصیه میشود که پیش از هر مداخله درمانی، آنالیز میکروبهای روده یا بررسیهای مدفوع انجام شود تا کمبودهای خاص هر بیمار شناسایی گردد. سپس میتوان بهطور هدفمند مکمل ریبوفلاوین و بیوتین را تجویز کرد.\nنگاهی فراگیر به آینده درمان پارکینسون\nاین دیدگاه جدید، پیام مهمی برای پیشگیری نیز دارد. اگر میکروبیوم سالم بتواند از بروز تغییرات آغازین بیماری جلوگیری کند، آنگاه تغییرات سبک زندگی، رژیم غذایی غنی از فیبر و پروبیوتیکها، و کاهش تماس با آلایندههای شیمیایی میتواند بخشی از استراتژی پیشگیری باشد. چنین رویکردی نهتنها بر بهبود کیفیت زندگی بیماران تمرکز دارد، بلکه ممکن است بتواند آغاز بیماری را به تأخیر بیندازد یا حتی از آن جلوگیری کند.\nبه این ترتیب، آنچه زمانی تنها در محدوده مغز جستوجو میشد، اکنون به نقشهای گستردهتر و چندبعدی بدل شده است که روده، سیستم ایمنی، محیط زیست و سبک زندگی را در هم میآمیزد. آینده درمان پارکینسون شاید در ترکیبی از مداخلات دارویی، اصلاح میکروبیوم و تغییرات محیطی نهفته باشد رویکردی که ریشه بیماری را هدف میگیرد، نه فقط شاخههای آن.\nآنچه سالها به عنوان یک اختلال صرفاً مغزی شناخته میشد، امروز چهرهای تازه یافته است. «بیماری پارکینسون» دیگر فقط داستان مرگ سلولهای عصبی در مغز نیست؛ بخشی از روایت آن در ژرفای رودهها نوشته میشود، جایی که تغییرات میکروبیوم میتواند آغازگر زنجیرهای از رویدادها باشد که به تخریب عصبی منتهی میشوند. این کشف نهتنها افق تازهای برای درک مکانیزم بیماری گشوده، بلکه امید به مداخلات سادهتر و مؤثرتر از مکملهای ویتامینهای گروه «ب» گرفته تا اصلاح سبک زندگی و کاهش تماس با سموم را زنده کرده است. آینده درمان پارکینسون، بیش از هر زمان دیگر، در گرو نگاه جامع به بدن و احترام به پیوند ظریف میان روده و مغز خواهد بود.\nانتهای پیام/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "persian",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Health->medical condition",
+      "Health->mental health and disorder",
+      "Health->disease and condition",
+      "Social Issue->social services",
+      "Social Issue->disabilities",
+      "Science and Technology->biomedical science",
+      "Science and Technology->medical research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-hints-at-an-unexpected-simple-treatment",
+      "https://scholar.google.com/scholar?hl=fa&as_sdt=0,5&q=Hiroshi+Nishiwaki",
+      "https://en.nagoya-u.ac.jp/",
+      "https://www.scielo.br/j/bjmbr/a/BM4WLJBtjxF8Cx3wFsjFhKb/?format=pdf",
+      "https://en.nagoya-u.ac.jp",
+      "https://www.scholar.google.com/scholar?hl=fa&as_sdt=0,5&q=Hiroshi+Nishiwaki",
+      "https://scholar.google.com/scholar",
+      "https://www.en.nagoya-u.ac.jp/",
+      "https://sciencealert.com/parkinsons-link-to-gut-bacteria-hints-at-an-unexpected-simple-treatment",
+      "https://scielo.br/j/bjmbr/a/BM4WLJBtjxF8Cx3wFsjFhKb/?format=pdf",
+      "https://www.scielo.br/j/bjmbr/a/BM4WLJBtjxF8Cx3wFsjFhKb/"
+    ],
+    "external_images": [],
+    "internal_images": [
+      "https://ana.ir/files/fa/news/1404/5/21/932367_565.jpg"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T08:18:38.758+03:00",
+    "updated": "2025-08-14T08:22:46.000+03:00"
+  },
+  {
+    "uuid": "0ebe6614b216e9a5427105445222fedc24ee92e6",
+    "url": "https://www.laliberte.ch/articles/sports/basketball/fete-de-tirs-mercredi-a-saint-leonard-1000579",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Pierre Salinas",
+    "published": "2025-03-19T22:40:00Z",
+    "title": "Fête de tirs, mercredi à Saint-Léonard | La Liberté",
+    "text": "Score-fleuve en SB League. Fête de tirs, mercredi à Saint-Léonard\nMalgré 18 premières minutes compliquées, Fribourg Olympic «passe» 121 points à Monthey, qui n’en marque que 82. Un record sous Thibaut Petit.\nPartager\n19 mars 2025 à 23:40\nTemps de lecture : 3 min\nTemps de lecture : 3 min",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->basketball",
+      "Lifestyle and Leisure->party",
+      "Lifestyle and Leisure->club and association",
+      "Lifestyle and Leisure->game"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:40:17.378+02:00",
+    "updated": "2025-03-20T01:40:17.378+02:00"
+  }
+]

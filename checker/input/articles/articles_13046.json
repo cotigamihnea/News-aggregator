@@ -1,0 +1,721 @@
+[
+  {
+    "uuid": "42ae70ff6c1adcc7dc0a49f4cbcb64656cb98584",
+    "url": "https://siliconangle.com/2025/02/27/calypsoai-launches-cybersecurity-leaderboard-ai-models",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Maria Deutscher",
+    "published": "2025-02-27T22:14:00Z",
+    "title": "CalypsoAI launches cybersecurity leaderboard for AI models - SiliconANGLE",
+    "text": "Startup CalypsoAI Inc. on Wednesday launched the CalypsoAI Security Leaderboard, an index that ranks the cybersecurity of popular artificial intelligence models.\nThe company ranked the algorithms using its flagship product, a software toolkit called the Inference Platform. It evaluates models’ security with the help of an AI agent that carries out simulated cyberattacks.\nIreland-based CalypsoAI is backed by more than $38 million in funding. Its Inference Platform enables companies to monitor how users interact with their large language models, spot malicious prompts and filter them. The CalypsoAI Security Leaderboard was created with a component of the platform called Red-Team that simulates malicious prompts to find weak points in LLMs.\nAccording to CalypsoAI, Red-Team includes a library of more than 10,000 prompts designed to uncover model vulnerabilities. There’s also an AI agent that can generate simulated cyberattacks tailored to a specific LLM. If the agent is given the task of testing a bank’s customer support chatbot, it might attempt to trick the algorithm into disclosing credit card numbers.\nRed-Team distills its cybersecurity findings into what CalypsoAI calls a CASI score. The higher a model’s CASI score, the better its security.\nCalypsoAI positions CASI as a better alternative to ASR, a metric commonly used to measure LLM security. According to the company, ASR falls short because it doesn’t take into account the severity of model vulnerabilities. Two LLMs might have the same ASR score even if one leaks information from its training dataset, while the other is only susceptible to malicious prompts that cause brief latency spikes.\nCalypsoAI’s CASI metric takes into account the severity of LLM vulnerabilities. It also considers other factors including the technical sophistication of the cyberattacks to which a model is susceptible and the amount of hardware needed to carry them out.\nThe initial version of the CalypsoAI Security Leaderboard ranks a dozen popular LLMs. Claude 3.5 Sonnet, Anthropic PBC’s flagship language model, won the top spot with a CASI score of 96.25. Microsoft Corp.’s open-source Phi4-14B and Claude 3.5 Haiku followed suit with 94.25 and 93.45, respectively.\nCalypsoAI observed a sharp dropoff below the top three. The fourth most secure LLM the company evaluated, OpenAI’s GPT-4o, achieved a CASI score of 75.06. All but one of the eight other models ranked in the index achieved scores above 72.\nBesides CASI, CalypsoAI’s leaderboard also tracks two other LLM metrics. The first, which is known as the risk-to-performance ratio, is designed to help companies understand tradeoffs between model security and performance. A second metric called cost of security makes it easier to evaluate the potential financial impact of an LLM-related breach.\n“Our Inference Red-Team product has successfully broken all the world-class GenAI models that exist today,” said CalypsoAI Chief Executive Officer Donnchadh Casey. “Many organizations are adopting AI without understanding the risks to their business and clients; moving forward, the CalypsoAI Security Leaderboard provides a benchmark for business and technology leaders to integrate AI safely and at scale.”\nImage: Unsplash",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.prnewswire.com/news-releases/calypsoai-launches-security-index-provides-first-comprehensive-safety-ranking-of-major-genai-models-302386190.html",
+      "https://unsplash.com/photos/LaKwLAmcnBc",
+      "https://www.unsplash.com/photos/LaKwLAmcnBc",
+      "https://prnewswire.com/news-releases/calypsoai-launches-security-index-provides-first-comprehensive-safety-ranking-of-major-genai-models-302386190.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:28:12.771+02:00",
+    "updated": "2025-02-28T00:28:12.771+02:00"
+  },
+  {
+    "uuid": "ecca24b6c8f29cce6333eb0043a53a789f98ac94",
+    "url": "https://de.marketscreener.com/boerse-nachrichten/hensoldt-bei-umsatz-und-marge-im-1-halbjahr-ueber-erwartungen-ce7c5fdcda8ef32d",
+    "ord_in_thread": 0,
+    "author": "Dow Jones",
+    "published": "2025-07-31T04:06:00Z",
+    "title": "Hensoldt bei Umsatz und Marge im 1. Halbjahr über Erwartungen | MarketScreener Deutschland",
+    "text": "Hensoldt AG -1,70 % DOW JONES--Hensoldt hat nach einem starken ersten Quartal auch im zweiten Quartal gut abgeschnitten: Sowohl beim Umsatz als auch beim Ergebnis übertraf der Rüstungszulieferer bezogen auf die ersten sechs Monate die Erwartungen der Analysten. Zudem läuft angesichts der hohen Nachfrage in der Branche das Neugeschäft gut. Der Auftragseingang kletterte im ersten Halbjahr laut Mitteilung um 3 Prozent auf 1,405 Milliarden Euro.\nDer Auftragsbestand stieg per Ende Juni somit auf den neuen Rekordwert von 7,07 Milliarden von 6,553 Milliarden Euro im Vorjahr, wie der im MDAX und TecDAX notierte Konzern weiter mitteilte. Der Umsatz kletterte im ersten Halbjahr um gut ein Zehntel auf 944 Millionen (Vorjahr: 849) Millionen Euro.\nDas bereinigte Ergebnis vor Zinsen, Steuern und Abschreibungen (EBITDA) lag mit einem Wert von 107 Millionen Euro leicht über dem Vorjahreswert von 103 Millionen Euro. Die entsprechende Marge sank auf 11,3 von 12,2 Prozent. \"Diese Entwicklung spiegelt die vorübergehend geringere Produktivität im Segment Sensors aufgrund der Anlaufphase des neuen Logistikzentrums wider\", so das Unternehmen.\nAnalysten haben Hensoldt beim Umsatz im Konsens nur 933 Millionen Euro zugetraut. Die bereinigte EBITDA-Marge wurde im Halbjahr lediglich bei 10,2 Prozent erwartet.\nFür das Gesamtjahr 2025 rechnet der Konzern weiterhin mit einem Konzernumsatz von 2,5 Milliarden bis 2,6 Milliarden Euro. Die bereinigte EBITDA-Marge soll bei rund 18 Prozent liegen.\nKontakt zum Autor: unternehmen.de@dowjones.com\nDJG/kla/mgo\n(END) Dow Jones Newswires\nJuly 31, 2025 00:05 ET (04:05 GMT)\n© Dow Jones - 2025",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->manufacturing and engineering",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->biotechnology",
+      "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://x.com/intent/tweet?text=Hensoldt",
+      "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fde.marketscreener.com%2Fboerse-nachrichten%2Fhensoldt-bei-umsatz-und-marge-im-1-halbjahr-ueber-erwartungen-ce7c5fdcda8ef32d%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=Hensoldt",
+      "https://telegram.me/share/url?url=https%3A%2F%2Fde.marketscreener.com%2Fboerse-nachrichten%2Fhensoldt-bei-umsatz-und-marge-im-1-halbjahr-ueber-erwartungen-ce7c5fdcda8ef32d%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://wa.me/?text=https%3A%2F%2Fde.marketscreener.com%2Fboerse-nachrichten%2Fhensoldt-bei-umsatz-und-marge-im-1-halbjahr-ueber-erwartungen-ce7c5fdcda8ef32d%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fde.marketscreener.com%2Fboerse-nachrichten%2Fhensoldt-bei-umsatz-und-marge-im-1-halbjahr-ueber-erwartungen-ce7c5fdcda8ef32d%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.wa.me/?text=https%3A%2F%2Fde.marketscreener.com%2Fboerse-nachrichten%2Fhensoldt-bei-umsatz-und-marge-im-1-halbjahr-ueber-erwartungen-ce7c5fdcda8ef32d%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.x.com/intent/tweet?text=Hensoldt",
+      "https://x.com/intent/tweet",
+      "https://telegram.me/share/url",
+      "https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fde.marketscreener.com%2Fboerse-nachrichten%2Fhensoldt-bei-umsatz-und-marge-im-1-halbjahr-ueber-erwartungen-ce7c5fdcda8ef32d%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=Hensoldt",
+      "https://www.telegram.me/share/url?url=https%3A%2F%2Fde.marketscreener.com%2Fboerse-nachrichten%2Fhensoldt-bei-umsatz-und-marge-im-1-halbjahr-ueber-erwartungen-ce7c5fdcda8ef32d%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://wa.me/",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.linkedin.com/shareArticle",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fde.marketscreener.com%2Fboerse-nachrichten%2Fhensoldt-bei-umsatz-und-marge-im-1-halbjahr-ueber-erwartungen-ce7c5fdcda8ef32d%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Hensoldt AG",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:08:43.325+03:00",
+    "updated": "2025-07-31T08:12:17.000+03:00"
+  },
+  {
+    "uuid": "9f3447197fb30c7bb18190704817b4dfb90b46ac",
+    "url": "https://www.ocala-news.com/2024/10/13/power-to-be-restored-to-all-marion-county-residents-by-days-end",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff Report",
+    "published": "2024-10-13T10:55:00Z",
+    "title": "Power to be restored to all Marion County residents by day’s end",
+    "text": "Thousands of residents in Marion County that are still without power in the aftermath of Hurricane Milton should have it restored by tonight, as utility crews work around the clock more than three days after the hurricane passed through the area.\nAs of 6 a.m., there are just over 3,460 residents in Marion County without power. That includes approximately 2,885 customers of Duke Energy and 575 customers of SECO Energy.\nAccording to a statement issued by Duke Energy on Saturday, the utility company says residents in Marion County will have their power restored by “11:59 p.m. on Sunday, October 13.”\nAfter the hurricane passed through Marion County on Wednesday night and Thursday morning, as many as 70,000 residents were left without power.\nIn addition to Marion County, Duke Energy says it will also restore power to Orange, Osceola, Polk, Seminole, Sumter, and Volusia counties by midnight. Customers in Pasco and Pinellas counties will have their energy restored by 11:59 p.m. on Tuesday, October 15, according to the company.\n“It’s only been a few days since Hurricane Milton tore through the state, leaving behind unimaginable destruction and more than a million of our customers without power,” said Todd Fountain, Duke Energy Florida storm director. “While we’ve already made significant restoration progress in that short time, we will not stop until we get the lights back on for all our customers.”\nThe company says that customers who experienced “extensive damage or flooding” have required additional time for restoration due to inaccessibility.\nOver the weekend, Marion County officials reported that transfer stations would cease extended operations and begin operating once again at normal hours.\nBeginning Wednasday, the county will begin collecting tree and vegetative debris from its major road network.\nThe county says that it has also set up the following “designated drop-off locations for vegetative debris”:\n- 5700 SW Hwy 484, Ocala, FL 34473\n- 5823 NE Jacksonville Road, Ocala, FL 34479\n- 13145 SE County Highway 484, Belleview, FL 34420\nThose drop-off sites will be open daily from Sunday, October 13 through Sunday, October 27, from 8 a.m. to 7 p.m.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-13T14:03:32.692+03:00",
+    "updated": "2024-10-13T14:03:32.692+03:00"
+  },
+  {
+    "uuid": "273e65fbbd9ebffb5296266feda7f76d2bbb6d50",
+    "url": "https://timesofindia.indiatimes.com/education/kalahandi-university-named-after-maa-manikeswari/articleshow/106388623.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hemanta Pradhan",
+    "published": "2023-12-29T16:31:00Z",
+    "title": "Kalahandi University named after Maa Manikeswari - Times of India",
+    "text": "BHUBHANESHWAR: Kalahandi University at Bhawanipatna has been named after Maa Manikeswari, presiding deity of Kalahandi district. The university has been functioning since September 1, 2020.Now the institution is called Maa Manikeswari University. While speaking at a function in Bhawanipatna on the foundation day of Kalahandi district, chief minister Naveen Patnaik on November 1 announced to change the name of the university.The higher education department had submitted a proposal before the chief minister to name the university after the presiding deity of Kalahandi. Naveen approved the proposal on Thursday, said the official sources.Initially, the state government had given unitary university status to the Government Autonomous College, Bhawanipatna, on March 6, 2019. The erstwhile college was started in 1960. In September 2019, the state government had converted the Kalahandi University as an affiliating university.“Starting from 1960 the institution is crowned with various names and now Maa Manikeswari University. I hope the new name will give new vigour with the blessings of Maa Manikeswari,” said Sanjay Kumar Satapathy, vice-chancellor of the university.Kalahandi University has more than 50 colleges including a medical college and five nursing colleges of Kalahandi and Nuapada districts. These colleges were functioning under Sambalpur University before the creation of Kalahandi University.The university runs a total 23 undergraduate courses and 18 postgraduate courses.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "maa manikeswari",
+          "sentiment": "negative"
+        },
+        {
+          "name": "naveen patnaik",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kalahandi university at bhawanipatna",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kalahandi university",
+          "sentiment": "negative"
+        },
+        {
+          "name": "naveen",
+          "sentiment": "none"
+        },
+        {
+          "name": "government autonomous college",
+          "sentiment": "none"
+        },
+        {
+          "name": "maa manikeswari university",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "kalahandi",
+          "sentiment": "none"
+        },
+        {
+          "name": "bhawanipatna",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T21:08:13.735+02:00",
+    "updated": "2023-12-29T21:08:13.735+02:00"
+  },
+  {
+    "uuid": "9de033e8ea60476e97861ed876d9119f665ceca2",
+    "url": "https://futurism.com/jack-dorsey-block-layoffs",
+    "ord_in_thread": 0,
+    "author": "Joe Wilkins",
+    "published": "2025-03-27T17:18:00Z",
+    "title": "Jack Dorsey's Flailing Crypto Business Is Laying Off More Than 900 Employees",
+    "text": "In recent years, the financial technology sector has been making bank. Between 2018 and 2023, the rapidly growing \"fintech\" industry rose to over $39 billion in revenue, with projections to hit over $1.5 trillion by 2030.\nFintech is a sweeping industry that offers money tech to financial institutions or individual users — and increasingly crypto services, itself a multi-billion dollar trade.\nBut with crypto comes risk. A lot of risk. Despite some fintech tycoons' promises that crypto will enable \"infinite growth,\" companies are brushing up against the limits of blockchain hype faster than they anticipated.\nThe latest among them is Block, the financial service conglomerate owned by Twitter cofounder Jack Dorsey. Block encompasses massive fintech platforms like Cash App and Square, as well as more boutique crypto outfits like Bitkey, a digital crypto wallet started in 2023.\nNow the company is seeing brutal cuts. In an email titled \"smaller block,\" according to TechCrunch, the company's billionaire CEO announced the layoffs of 931 Block employees, or about 8 percent of the company's total staff.\n\"hi all,\" the hip all-lowercase message opens, dripping in authenticity the way only a CEO's email can. \"today we’ll be making some org changes, including eliminating roles and beginning the consultation process in countries where required.\"\nDorsey proceeds to announce immediate layoffs and an overhaul to Block's managerial strategies, including 80 manager layoffs and 193 demotions from manager to \"individual contributor roles.\" It also includes the immediate closure of some 748 open jobs that Block had been hiring for.\n\"thank you to all those leaving us,\" the CEO concludes. \"we will continue to honor [your work] by increasing our value to our customers, and therefore to all of our shareholders, including you.\"\nThough Dorsey cryptically insists that the layoffs are meant to flatten the \"org so we can move faster and with less abstraction,\" the moves come as Block's ambitions dramatically shift from crypto makework to buy-now-pay-later schemes, a growing trend in the fintech sector. In that sense, the layoffs are probably a sign that the blockchain hype train — which Dorsey eagerly jumped aboard back in 2021 — was too good to be true.\nIn November of 2024, for example, Dorsey announced he was \"winding down\" Block's crypto-arm, known TBD, which is now in a permanent state of \"wound down,\" according to its website. It was a telling moment, as Dorsey once hailed TBD as the frontier of decentralized digital currency, drawing investment cash from around the world.\nLuckily for the remaining Block employees, predatory loans are Dorsey's bread and butter. In 2023, a scathing report by Hindenburg Research claimed that Block had dramatically overhyped its user counts, facilitated fraud, and preyed on low-income users. Though Cash App marketing hailed the platform's \"instant deposit\" feature as \"magic,\" the report claims it was really a form of predatory payday loan that fueled upwards of 31 percent of the app's revenue.\n\"The 'magic' behind Block’s business has not been disruptive innovation,\" the report reads, \"but rather the company’s willingness to facilitate fraud against consumers and the government, avoid regulation, dress up predatory loans and fees as revolutionary technology, and mislead investors with inflated metrics.\"\nThat in mind, maybe the best way to look at Block's layoffs isn't an end to the crypto boom, but a return to a time-tested fintech model.\nThe CEO should be set either way, as the report summarized at the time: \"in the meantime, Dorsey and top executives already sold over $1 billion in equity near the top, ensuring they will be fine regardless of the outcome for everyone else.”\nMore on FinTech: Elon Searching for Investors Gullible Enough to Pour More Money Into Twitter\nShare This Article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->layoffs",
+      "Economy, Business and Finance->business restructuring",
+      "Economy, Business and Finance->financial service",
+      "Social Issue->social condition",
+      "Social Issue->social networking",
+      "Labor->unemployment",
+      "Labor->employment",
+      "Labor->wages and benefits"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://web.archive.org/web/20250323123206/https://tbd.website/",
+      "https://techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/",
+      "https://www.globenewswire.com/news-release/2025/02/06/3022314/28124/en/FinTech-Blockchain-Global-Industry-Report-2025-Decentralized-Finance-DeFi-to-Bridge-the-Huge-SME-Financing-Gap-to-Boost-Blockchain-Adoption.html",
+      "https://www.vox.com/the-goods/2022/8/11/23298175/buy-now-pay-later-affirm-klarna-apple-pay-late-fees-cfpb",
+      "https://www.cnbc.com/2024/11/08/jack-dorsey-dramatically-shutters-blocks-tbd-crypto-unit.html",
+      "https://www.statista.com/forecasts/1443795/revenue-fintech-market-for-different-segments-united-states#:~:text=The%20revenue%20of%20the%20fintech,billion%20U.S.%20dollars%20in%202028.",
+      "https://www.web3isgoinggreat.com/?id=tbd-announces-they-will-trademark-web5",
+      "https://www.bcg.com/press/3may2023-fintech-1-5-trillion-industry-by-2030",
+      "https://x.com/jack/status/1415765941904941061",
+      "https://ilr.law.uiowa.edu/sites/ilr.law.uiowa.edu/files/2023-02/Odinet.pdf",
+      "https://techcabal.com/2025/03/26/why-is-crypto-down-key-reasons-behind-market-declines/",
+      "https://www.theatlantic.com/ideas/archive/2024/12/how-bitcoin-became-boring/681141/",
+      "https://techcrunch.com/2024/11/07/block-scales-back-tidal-investment-and-shutters-tbd-in-favor-of-bitcoin-mining/",
+      "https://wealthion.com/raoul-pal-tech-boom-will-drive-crypto-the-economy-to-infinite-growth/",
+      "https://hindenburgresearch.com/block/",
+      "https://wealthion.com/raoul-pal-tech-boom-will-drive-crypto-the-economy-to-infinite-growth",
+      "https://www.techcrunch.com/2024/11/07/block-scales-back-tidal-investment-and-shutters-tbd-in-favor-of-bitcoin-mining/",
+      "https://www.techcabal.com/2025/03/26/why-is-crypto-down-key-reasons-behind-market-declines/",
+      "https://www.techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/",
+      "https://cnbc.com/2024/11/08/jack-dorsey-dramatically-shutters-blocks-tbd-crypto-unit.html",
+      "https://vox.com/the-goods/2022/8/11/23298175/buy-now-pay-later-affirm-klarna-apple-pay-late-fees-cfpb",
+      "https://www.web.archive.org/web/20250323123206/https://www.tbd.website/",
+      "https://hindenburgresearch.com/block",
+      "https://techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff",
+      "https://web.archive.org/web/20250323123206/https://tbd.website",
+      "https://techcrunch.com/2024/11/07/block-scales-back-tidal-investment-and-shutters-tbd-in-favor-of-bitcoin-mining",
+      "https://www.web3isgoinggreat.com/",
+      "https://www.hindenburgresearch.com/block/",
+      "https://www.ilr.law.uiowa.edu/sites/ilr.law.uiowa.edu/files/2023-02/Odinet.pdf",
+      "https://web3isgoinggreat.com/?id=tbd-announces-they-will-trademark-web5",
+      "https://www.wealthion.com/raoul-pal-tech-boom-will-drive-crypto-the-economy-to-infinite-growth/",
+      "https://theatlantic.com/ideas/archive/2024/12/how-bitcoin-became-boring/681141/",
+      "https://globenewswire.com/news-release/2025/02/06/3022314/28124/en/FinTech-Blockchain-Global-Industry-Report-2025-Decentralized-Finance-DeFi-to-Bridge-the-Huge-SME-Financing-Gap-to-Boost-Blockchain-Adoption.html",
+      "https://statista.com/forecasts/1443795/revenue-fintech-market-for-different-segments-united-states#:~:text=The%20revenue%20of%20the%20fintech,billion%20U.S.%20dollars%20in%202028.",
+      "https://www.theatlantic.com/ideas/archive/2024/12/how-bitcoin-became-boring/681141",
+      "https://techcabal.com/2025/03/26/why-is-crypto-down-key-reasons-behind-market-declines",
+      "https://www.x.com/jack/status/1415765941904941061",
+      "https://bcg.com/press/3may2023-fintech-1-5-trillion-industry-by-2030"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jack Dorsey",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Cash App and",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "FinTech",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Block",
+          "sentiment": "positive",
+          "tickers": []
+        },
+        {
+          "name": "Hindenburg Research",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Twitter",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Square",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Bitkey",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "TechCrunch",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-27T19:34:45.277+02:00",
+    "updated": "2025-03-27T19:34:45.277+02:00"
+  },
+  {
+    "uuid": "9984c778dd92b6236b2ad6e6d914b14767236f96",
+    "url": "https://theblast.com/662359/olivia-munn-alleges-therapist-told-her-to-stay-in-a-toxic-relationship",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kelly Coffey-Behrens",
+    "published": "2025-02-20T23:30:00Z",
+    "title": "Olivia Munn Alleges Therapist Told Her To Stay In Toxic Relationship",
+    "text": "Olivia Munn Alleges Therapist Told Her To Stay In A Toxic Relationship\nBy Kelly Coffey-Behrens on February 20, 2025 at 6:30 PM EST\nOlivia Munn is sharing a deeply personal chapter of her life, revealing that a former therapist once encouraged her to remain in a toxic relationship, one that left her filled with “unhappiness and fear.”\nDuring a candid conversation on Monica Lewinsky’s \"Reclaiming\" podcast, the actress reflected on what she described as a “bad, bad period” in her life, though she chose not to name names.\nOlivia Munn Opens Up About Toxic Relationship\nMunn explained that during this time, she turned to a trusted mental health professional for guidance, believing the therapist had her best interests at heart.\nHowever, instead of urging her to leave the harmful situation, she says they advised her to stay.\n“In that particular situation, I had a therapist who I really loved and I know that she cared about me, or at least I thought she did,” Munn recalled, per Page Six. “I would constantly, from the very beginning, say, ‘I don’t know about this, I don’t think this is the right [relationship,] I want to get out,’ and then it got worse and worse and I’d be calling her crying like, ‘I gotta get out.’”\nThe Therapist Allegedly Encouraged Her To Stay\nRather than supporting her desire to leave, Munn said the therapist dismissed her concerns, convinced that she was simply making the wrong relationship choices.\n“She thought that my ‘picker’ was off, and she would look at it as like, ‘This person on paper looked great,’” Munn explained. “And when there was couples therapy, they knew how to present the right way. Then the stories I would tell seemed unbelievable.”\nWhat Did Olivia Munn Learn From That Experience?\nNow, looking back, the \"Magic Mike\" star says she’s learned to trust her own instincts rather than relying on outside opinions.\n“From that experience, learning that I gotta go with my gut and I gotta be decisive with some things if it’s coming from a place where I want to survive,” she said. “I realize that I’m not happy and that days and weeks and months go by of unhappiness and fear.”\nMunn said the catalyst for her healing was finally walking away from the toxic relationship. “I don’t know if there’s a word to describe what that relationship was like. It was without a doubt the hardest period of my life, being in that,” she admitted.\nShe described feeling “really trapped” in a tumultuous family dynamic, but eventually, she made the choice to fight back.\n“It taught me how to stand up and fight for myself, so that was great,” she said. “I truly had no idea that I could be manipulated and hurt that way, that I wouldn’t just get out of something that was dangerous to my psyche.”\nA Lesson For Her Children\nAs Munn moves forward, her focus is on ensuring her children never find themselves in a similar situation. She shares two children with her husband John Mulaney, son Malcolm, 3, and daughter Méi, 5 months,\nShe hopes to instill in them the power of listening to their instincts.\n“When they say like, ‘Oh, just go on the date! You never know. You might like him, you might at least learn what you don’t like,’ I think some people who are subconsciously vulnerable, which is what I think I was, because I had no idea I was this vulnerable to anything that had happened to me post that first date, if you feel in your gut something’s not right, then don’t do that first date or get out right away, because one date could take years off your life,” she advised.\nOlivia Munn Explains The Aftermath Of Being In A Toxic Relationship\nMunn also emphasized that the impact of toxic relationships extends far beyond the time spent with that person.\n“[It’s] not just the period that you’re with that person but, if you’re lucky to get out, the years [of] healing yourself afterwards,” she added.\nShe has been romantically linked to several celebrities over the years, including Bryan Greenberg, Chris Pine, Matthew Morrison, and Joel Kinnaman.\nOne of her most notable and long-term relationships was with Aaron Rodgers, whom she dated from 2014 to 2017. During their time together, reports circulated that Munn played a role in the NFL star’s strained relationship with his family.\nAs for John Mulaney, he was previously married to Anna Marie Tendler for six years before they officially ended their marriage in 2021.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Health"
+    ],
+    "topics": [
+      "Human Interest->celebrity",
+      "Health->mental health and disorder"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://pagesix.com/2025/02/20/celebrity-news/olivia-munn-therapist-told-me-to-stay-in-toxic-relationship-filled-with-unhappiness-and-fear/",
+      "https://pagesix.com/2025/02/20/celebrity-news/olivia-munn-therapist-told-me-to-stay-in-toxic-relationship-filled-with-unhappiness-and-fear",
+      "https://www.pagesix.com/2025/02/20/celebrity-news/olivia-munn-therapist-told-me-to-stay-in-toxic-relationship-filled-with-unhappiness-and-fear/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Monica Lewinsky",
+          "sentiment": "none"
+        },
+        {
+          "name": "Olivia Munn",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "9984c778dd92b6236b2ad6e6d914b14767236f96",
+      "first_syndicated": true
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T02:01:50.345+02:00",
+    "updated": "2025-02-21T02:01:50.345+02:00"
+  },
+  {
+    "uuid": "c4914da1999da80d7818867dac69b2ee3bed43fd",
+    "url": "https://ground.news/article/a-huge-shock-to-the-system-doctors-warn-about-asthma-inhaler-switch-coming-in-january_c6b5a2",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "KCRA 3",
+    "published": "2023-12-28T16:27:00Z",
+    "title": "Ground News - 'A huge shock to the system': Doctors warn about asthma inhaler switch coming in January",
+    "text": "Summary by KCRA 3 Starting Jan. 1, a brand of asthma inhaler will disappear from pharmacy shelves, and doctors are concerned patients may have delays switching to alternatives. Share menu More\nFilters 42 Articles 42 Articles All Left Center Right\nCNN Lean Left High Factuality Media Conglomerate: Warner Bros. Discovery ‘A huge shock to the system’: Doctors warn about asthma inhaler switch coming in January Starting January 1, a drug that thousands of patients depend on to help them breathe will disappear from pharmacy shelves, and doctors are concerned patients may have delays switching to alternatives and getting them covered by insurance.\n11 hours ago · Atlanta, United States Read Full Article\nCNN Lean Left High Factuality Media Conglomerate: Warner Bros. Discovery\n‘A huge shock to the system’: Doctors warn about asthma inhaler switch coming in January Starting January 1, a drug that thousands of patients depend on to help them breathe will disappear from pharmacy shelves, and doctors are concerned patients may have delays switching to alternatives and getting them covered by insurance.\n11 hours ago · Atlanta, United States Read Full Article KRDO Center High Factuality Media Conglomerate: News-Press & Gazette Company ‘A huge shock to the system’: Doctors warn about asthma inhaler switch coming in January (CNN) — Starting January 1, a drug that thousands of patients depend on to help them breathe will disappear from pharmacy shelves, and doctors are concerned patients may have delays switching to alternatives and getting them covered by insurance. Manufacturer GSK has said it’s discontinuing the branded asthma inhaler Flovent, and instead is making an “authorized generic” version, which is identical but without the same branding. Physicians who t…\n9 hours ago · Colorado Springs, United States Read Full Article\nKRDO Center High Factuality Media Conglomerate: News-Press & Gazette Company\n‘A huge shock to the system’: Doctors warn about asthma inhaler switch coming in January (CNN) — Starting January 1, a drug that thousands of patients depend on to help them breathe will disappear from pharmacy shelves, and doctors are concerned patients may have delays switching to alternatives and getting them covered by insurance. Manufacturer GSK has said it’s discontinuing the branded asthma inhaler Flovent, and instead is making an “authorized generic” version, which is identical but without the same branding. Physicians who t…\n9 hours ago · Colorado Springs, United States Read Full Article abc 6 Philadelphia Lean Left High Factuality Media Conglomerate: The Walt Disney Company 'The worst possible time of year': Doctors warn about asthma inhaler switch coming in January Starting January 1, a drug that thousands of patients depend on to help them breathe will disappear from pharmacy shelves and doctors are concerned.\n4 hours ago · Philadelphia, United States Read Full Article\nabc 6 Philadelphia Lean Left High Factuality Media Conglomerate: The Walt Disney Company\n'The worst possible time of year': Doctors warn about asthma inhaler switch coming in January Starting January 1, a drug that thousands of patients depend on to help them breathe will disappear from pharmacy shelves and doctors are concerned.\n4 hours ago · Philadelphia, United States Read Full Article abc 13 Houston Lean Left High Factuality Media Conglomerate: The Walt Disney Company 'The worst possible time of year': Doctors warn about asthma inhaler switch coming in January Starting January 1, a drug that thousands of patients depend on to help them breathe will disappear from pharmacy shelves and doctors are concerned.\n4 hours ago · Houston, United States Read Full Article\nabc 13 Houston Lean Left High Factuality Media Conglomerate: The Walt Disney Company\n'The worst possible time of year': Doctors warn about asthma inhaler switch coming in January Starting January 1, a drug that thousands of patients depend on to help them breathe will disappear from pharmacy shelves and doctors are concerned.\n4 hours ago · Houston, United States Read Full Article abc 7 Chicago Center High Factuality Media Conglomerate: The Walt Disney Company 'The worst possible time of year': Doctors warn about asthma inhaler switch coming in January Starting January 1, a drug that thousands of patients depend on to help them breathe will disappear from pharmacy shelves and doctors are concerned.\n4 hours ago · Chicago, United States Read Full Article\nabc 7 Chicago Center High Factuality Media Conglomerate: The Walt Disney Company\n'The worst possible time of year': Doctors warn about asthma inhaler switch coming in January Starting January 1, a drug that thousands of patients depend on to help them breathe will disappear from pharmacy shelves and doctors are concerned.\n4 hours ago · Chicago, United States Read Full Article KCRA 3 Center High Factuality Media Conglomerate: Hearst Communications 'A huge shock to the system': Doctors warn about asthma inhaler switch coming in January Starting Jan. 1, a brand of asthma inhaler will disappear from pharmacy shelves, and doctors are concerned patients may have delays switching to alternatives.\n8 hours ago · Sacramento, United States Read Full Article\nKCRA 3 Center High Factuality Media Conglomerate: Hearst Communications\n'A huge shock to the system': Doctors warn about asthma inhaler switch coming in January Starting Jan. 1, a brand of asthma inhaler will disappear from pharmacy shelves, and doctors are concerned patients may have delays switching to alternatives.\n8 hours ago · Sacramento, United States Read Full Article More articles Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://abc13.com/flovent-inhaler-asthma-health-care/14235119/?utm_source=ground.news&utm_medium=referral",
+      "https://krdo.com/news/2023/12/28/a-huge-shock-to-the-system-doctors-warn-about-asthma-inhaler-switch-coming-in-january-2/?utm_source=ground.news&utm_medium=referral",
+      "https://www.cnn.com/2023/12/28/health/asthma-inhaler-generic-switch/index.html?utm_source=ground.news&utm_medium=referral",
+      "https://6abc.com/flovent-inhaler-asthma-health-care/14235119/?utm_source=ground.news&utm_medium=referral",
+      "https://www.kcra.com/article/doctors-warn-about-asthma-inhaler-switch/46242225?utm_source=ground.news&utm_medium=referral",
+      "https://abc7chicago.com/flovent-inhaler-asthma-health-care/14235119/?utm_source=ground.news&utm_medium=referral",
+      "https://cnn.com/2023/12/28/health/asthma-inhaler-generic-switch/index.html?utm_source=ground.news&utm_medium=referral",
+      "https://www.kcra.com/article/doctors-warn-about-asthma-inhaler-switch/46242225",
+      "https://www.abc7chicago.com/flovent-inhaler-asthma-health-care/14235119/?utm_source=ground.news&utm_medium=referral",
+      "https://www.cnn.com/2023/12/28/health/asthma-inhaler-generic-switch/index.html",
+      "https://kcra.com/article/doctors-warn-about-asthma-inhaler-switch/46242225?utm_source=ground.news&utm_medium=referral",
+      "https://krdo.com/news/2023/12/28/a-huge-shock-to-the-system-doctors-warn-about-asthma-inhaler-switch-coming-in-january-2/",
+      "https://abc13.com/flovent-inhaler-asthma-health-care/14235119/",
+      "https://abc7chicago.com/flovent-inhaler-asthma-health-care/14235119/",
+      "https://www.krdo.com/news/2023/12/28/a-huge-shock-to-the-system-doctors-warn-about-asthma-inhaler-switch-coming-in-january-2/?utm_source=ground.news&utm_medium=referral",
+      "https://www.abc13.com/flovent-inhaler-asthma-health-care/14235119/?utm_source=ground.news&utm_medium=referral",
+      "https://6abc.com/flovent-inhaler-asthma-health-care/14235119/",
+      "https://www.6abc.com/flovent-inhaler-asthma-health-care/14235119/?utm_source=ground.news&utm_medium=referral"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "kcra",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "warner bros",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "atlanta",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:42:34.776+02:00",
+    "updated": "2023-12-29T00:42:34.776+02:00"
+  },
+  {
+    "uuid": "6fa391906ba40c5b72596a8c8646d5065591fb21",
+    "url": "https://www.capecodtimes.com/story/news/2024/10/11/northern-lights-visible-ma-cape-cod-barnstable-harbor-aurora/75624421007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", Cape Cod Times",
+    "published": "2024-10-11T11:37:00Z",
+    "title": "Northern lights visible over Cape Cod last night. Did you see them?",
+    "text": "(This story has been updated to add a photo gallery .) The northern lights were visible on Cape Cod Thursday night. The spectacular light show , usually seen only much closer to the Earth's poles, was visible last night thanks to a geomagnetic storm , according to the National Oceanic and Atmospheric Administration's Space Weather Prediction Center . The storm, which is when an eruption of solar material and magnetic fields arrives at Earth, was expected to make the famous aurora visible to the northern half of the country . Cape Cod Times photographer Steve Heaslip caught an image of the lights over Barnstable Harbor , proving that the storm extended the phenomena to the Cape. \"Watches at this level are very rare,\" NOAA said. Officials didn't have an exact prediction yesterday for when the lights would be visible. NOAA has a spacecraft one million miles away from Earth that can detect when a solar storm is headed over the planet. When it is detected by the spacecraft, the auroras are expected to be seen over Earth within 15-30 minutes. The organization has a webpage dedicated to a 30-minute forecast of the aurora . Where to check the northern lights forecast Reporter Melina Khan contributed to this report. Thanks to our subscribers, who help make this coverage possible. If you are not a subscriber, please consider supporting quality local journalism with a Cape Cod Times subscription. Here are our subscription plans.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.swpc.noaa.gov/news/g4-severe-storm-watch-10-11-october).",
+      "https://www.swpc.noaa.gov/).",
+      "https://www.swpc.noaa.gov/products/aurora-30-minute-forecast).",
+      "https://www.usharbors.com/harbor/massachusetts/barnstable-harbor-ma/),",
+      "https://www.swpc.noaa.gov/phenomena/geomagnetic-storms),",
+      "https://www.capecodchamber.org/)",
+      "https://swpc.noaa.gov/phenomena/geomagnetic-storms),",
+      "https://swpc.noaa.gov/news/g4-severe-storm-watch-10-11-october).",
+      "https://capecodchamber.org/)",
+      "https://swpc.noaa.gov/).",
+      "https://usharbors.com/harbor/massachusetts/barnstable-harbor-ma/),",
+      "https://swpc.noaa.gov/products/aurora-30-minute-forecast)."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-11T15:46:04.105+03:00",
+    "updated": "2024-10-12T06:23:06.862+03:00"
+  },
+  {
+    "uuid": "6318079c4ef0c63bc9470d7008b8514ca2132c92",
+    "url": "https://aninjusticemag.com/how-congress-uses-syntax-to-justify-genocide-c3f0b237ff2c",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Josie Defaye",
+    "published": "2023-12-29T11:38:00Z",
+    "title": "How Congress Uses Syntax to Justify Genocide",
+    "text": "How Congress Uses Syntax to Justify Genocide Let’s look at republican rhetoric in university presidents’ congressional interrogation Context on the congressional hearing on anti-Semitic speech on university campuses Liz Magill’s resignation Saturday, December 10th as president of the University of Pennsylvania follows a tense congressional testimony regarding elite universities’ responses to on-campus, student-led, pro-Palestine protests — including Jewish student groups such as student chapters of Jewish Voice for Palestine — that have been labeled antisemitic by conservatives. On December 5th, NY Republican Congresswoman and House Republican Conference chair Elise Stefanik questioned Magill and other elite universities’ presidents (MIT’s Sally Kornbluth, and Harvard’s Claudine Gay) regarding their universities’ public positions on the student response to the Palestinian genocide. After the hearing, many in the mainstream political landscape called for Magill’s resignation — calls to which Magill acquiesced five days after the testimony. Congresswoman Stefanik’s rhetoric differs from (former) Penn President Magill A closer analysis of speakers’ varying syntactic strategies in the hearing’s transcript reveals how Stefanik’s weaponization of simple syntax conceals fallacious logic to aggressively control discourse, whereas Magill’s qualified hypotheticals failed to challenge Stefanik’s narrow terms and violent implications. While Stefanik’s rhetorical choices serve capitalist interests and the military-industrial complex enabling the oppression of Palestinians, Magill’s ambiguous language is nonetheless complicit in upholding institutional power structures that perpetuate injustices. However, both speakers uphold existing United States and Israeli power structures. A speaker’s syntactic choices — how a speaker structures their sentences — masquerade as stylistic decisions. Theorists from Michel Foucault to Erich Fromm to Noam Chomsky argue that syntactic choices are instrumental in shaping discourse and power dynamics. As Fromm contends, language propagates unequal power relations embedded in economic systems. A Marxist lens exposes how Stefanik and Magill’s syntactic choices in the hearing not only expose how language reinforces existing institutional power structures such as Congress and Higher Education, but their syntactic choices serve capitalist interests as well as the corporate military complex undergirding Israeli occupation and genocide. In this congressional hearing’s case, both/all speakers’ syntactic strategies support Israel’s genocide. Examining syntactic choices in Stefanik’s questioning and Magill’s responses enables us to recognize and understand dominant groups’ strategies for shaping public discourse, that is, maintaining their power over non-dominant groups. To do so, we’ll listen to Stefanik and Magill’s rhetorical patterns around ambiguity, narrative control, and false logic that undermine substantive dialogue. Our focus is analyzing Elise Stefanik and Liz Magill’s syntactic decisions in the hearing in order to demonstrate how the concept of syntax in language is a powerful instrument for oppressing marginalized groups. To conduct this analysis, we’ll examine the tense exchange between Congresswoman Elise Stefanik and former Penn president Liz Magill in the December 5th congressional hearing. We will identify syntactic choices, logical fallacies, and meaning-making in both speakers’ statements, and find Stefanik’s statements simultaneously more logically inconsistent, while also more effective given the hearing’s purpose and occasion aligning oneself with Stefanik’s rhetoric. I’ll be transparent about my views I will be transparent about two things: 1) I support the Palestinian cause and consider Zionism an oppressive ideology that manifests in violence, and 2) I do not agree with Magill’s statements and believe that her language, like Stefanik’s, not only fails to affirm the Palestinian cause but serves to reinforce Palestinian oppression. We’ll begin with the opening of Stefanik and Magill’s exchange. Let’s analyze the opening exchange Stefanik: Ms. Magill, at Penn, does calling for the genocide of Jews violate Penn’s rules or code of conduct? Yes or no? Magill: If the speech turns into conduct, it can be harassment. Yes. Stefanik: I am asking, specifically calling for the genocide of Jews, does that constitute bullying or harassment? Magill: If it is directed, and severe, pervasive, it is harassment. Syntactically, Magill’s response to Stefanik’s questioning adheres to grammar conventions. Her response demonstrates some literary skill: her tricolon (three parallel words, phrases, or sentences) creates rhythm; her asyndeton (a stylistic choice wherein a speaker deliberately omits conjunctions — in this case, Magill omits but implies “then”) names three criteria for harassment concisely and with a more engaging ‘human touch’. But already Stefanik backs her aggressive questioning with false dichotomies. In her active syntax, she seizes control, while the hesitance and hypothetical framing of Magill surrenders power dynamics to her interlocutor. Gerunds can misdirect an audience Israel’s occupation of Palestinian land embodies a settler-colonial power imbalance. We hear Stefanik echo this imbalance to construct a reality-denying Palestinian humanity. As Fanon observed of African colonial history, colonial powers repeatedly ensured imperialist rule by using discourse that elevated the oppressor’s false sense of victimhood to justify violence against the dehumanized. In propping up an Ivy League student, whom she has not named, hypothetically calling for Jewish genocide, Stefanik does just this. Using a gerund here (“calling”) is part of the trap she sets generic action, leading to a specific and deterministic response. A subtle choice: adding a subject and possessive to the gerund clause (“a student’s calling for”) would have made the question rhetorically weaker than Magill’s measured, criteria-based response. And in conflating Jewish with Zionist, Stefanik broadens the nature of these ‘calls for genocide.’ Rather than framing pro-Palestine protest as anti-Zionist, Stefanik frames the ‘calls for genocide’ as ‘calls for the genocide of all Jewish people.’ This misdirection aims at erasure. In m manipulating the history of stark and horrendous anti-Semitic violence, Stefanik counters not anti-Semitism but ignores present Palestinian conditions. These choices serve her interests: an act of political theater to further the Republican project of equating ‘liberal institutions’ with antisemitism. Fanon would note echoes of 17th-century European colonial projects’ discourse in Stefanik’s own. These echoes manifest not solely in content but in form. Stefanik uses stronger verbs. She distinguishes her statements from the neutrality and passivity of Magill by using gerund forms of strong verbs (‘calling for,’ ‘bullying’), strong verbs (‘violate,’ ‘constitute’) loaded language (‘genocide’, and inversion (‘does that constitute’). She not only stronger verbs — she uses stronger nouns. Her use of the word genocide regarding Jewish people appropriates pro-Palestinian diction choices while echoing the language used in reference to the Holocaust, the most infamous act of antisemitism in the global consciousness. Israel’s indiscriminate violence in Gaza is genocide. Her syntax, too, is stronger: Stefanik’s inversion — ending the sentence with the interrogative independent clause — emphasizes the close-ended question to which Magill will find difficulty responding. Conditional clauses are no match for logical fallacies Magill’s challenges begin immediately. She opens her sentence with a conditional clause (‘if…’). In opening her sentence with a conditional, Magill frames her response as hypothetical. If Magill had said ‘If the speech turns into conduct,’ she would have pushed Stefanik to invoke specificity, tangible student actions. Instead, Magill remains abstract — permitting Stefanik to continue using hypothetical situations. And since Stefanik hasn’t defined her terms (“bullying,” “harassment”), Magill correctly responds to the degree of logical consistency. However, correct isn’t always effective. Though her neutral tone and conditional phrasing reflect institutional constraints out of her personal control, these syntactic choices avoid direct confrontation in a situation Stefanik established as emotionally charged. Stefanik uses the ‘False Dilemma’ logical fallacy Emotionally charged does not mean logically sound. Despite her direct, declarative syntax, Stefanik’s argument employs the False Dilemma logical fallacy, which misrepresents a nuanced issue as binary and mutually exclusive (“this or that”, “yes or no”) when more possibilities that may or do indeed exist. In this particular False Dilemma, responding to Stefanik with an answer other than “yes” leads to perceived indecisiveness — and emotional inconsideration — on Magill’s part. In shifting discourse from logical analysis to emotional reaction Stefanik gains the upper hand; repeating her binary question forces Magill into the defensive. If an audience accepts the False Dilemma, Stefanik may build an echo chamber implying Magill’s complicity in a hypothetical situation. Stefanik presents this hypothetical situation — “calling for the genocide of Jews” — as concrete. She presents this hypothetical situation as a binary choice. It’s X or it’s Y. In doing so, Stefanik chooses to ignore nuance and consequences. Framing her question as binary precludes conversation. Stefanik takes rhetorical control of the dialogue. She seeks to establish a narrative in which there is a single-word, straightforward answer. Her technique forces her respondent into either agreeing or disagreeing, or else risk coming off as evasive — Magill won’t assert her own views, which undermines her argument’s logical clarity and her own credibility — or complicit — she doesn’t agree, so she must disagree. If Magill qualifies Stefanik’s claim, Magill will appear complicit in anti-Semitism and “the genocide of Jews.” These syntactic structures restrict substantive conversation. In a time of viral video, Stefanik seeks more of a “gotcha” moment than an ethical discussion. In this case, Congresswoman Stefanik’s inflammatory rhetoric and false binaries exploitatively link a hypothetical scenario of racist speech to the actual genocide of Palestinians. Her discursive tactic upholds the economic dominance fueling Palestinian displacement and violence. Her language obscures the long-standing billions of American military aid funding Israeli demolitions of Palestinian homes, theft of land, and deadly police raids commonplace for decades. This syntactic strategy isn’t novel. Stefanik’s discourse mirrors a wider right-wing syntactic strategy: framing discourse through fallacious narrow options to maintain existing social hierarchies. Ultimately Magill loses the battle by entering the battle. Stefanik’s early rhetorical dominance through weaponizing emotion and narrow choices makes apparent her political agenda of manufacturing consent for oppression, against Magill’s ineffective attempts at nuance. While Magill hopes to inject thoughtful qualifications, Stefanik immediately closes space for substantive dialogue by restricting options with binary syntax designed to back opponents into corners. Whereas Stefanik limits acceptable responses and goes on offense through syntax and fallacious logic, Magill plays defense in reaching for reason against hostility. Let’s look at the second part of the exchange Stefanik: So the answer is yes. Magill: It is a context-dependent decision, Congresswoman. Stefanik: It’s a context dependent decision. That’s your testimony today, calling for the genocide of Jews is depending upon the context, that is not bullying or harassment. This is the easiest question to answer. Yes, Ms. Magill. Yes or no? Magill: If the speech becomes conduct, it can be harassment, yes. In qualifying Stefanik’s hypothetical with “context-dependent” Magill gestures toward rebuttal; Magill’s concluding “yes” undermines her own refutation of Stefanik’s implication that, due to her inability to directly commit to the support of Israel at the expense of campus free speech and Palestinian lives, Magill is unfit to serve as the University of Pennsylvania’s president. Qualifying a claim without challenging its underlying assumptions gives power to that claim. Though Magill speaks as if nuanced, claiming “it is a context-dependent decision,” she does not provide this context. People of diverse political beliefs agree that context matters in politics. In deciding to omit context clarifying her own position on the Palestinian genocide, Magill restricts the level of support she can gain from her audience. Magill’s neglect to situate her audience within the context leaves her argument nutrient-deficient. She could have responded to Stefanik’s genocide claim; her choice to ignore the word ‘genocide’ leaves Stefanik’s argument with the record for most loaded language. Through casually deploying terminology like “genocide” using authoritative syntax, Stefanik helps normalize violence against marginalized groups when such language is credibly adopted by dominant political factions. Stefanik uses the ‘False Equivalence’ logical fallacy We find Magill and Stefanik repeating their respective approaches from the conversation’s opening. Magill uses conditional statements; Stefanik uses logical fallacy to cover holes in her claims. The fallacy? False Equivalence. Her False Equivalence equates calls for Palestinian freedom with calls for Jewish genocide in order to silence political actors. In other words, equates hypothetical genocide-calling speech with the act of exterminating targeted civilian population groups. Again Stefanik opens with three declarative statements in service of reminding the audience of her viewpoint. Her position will be clear to an audience of wide-ranging listening comprehension. Magill’s syntax once again goes on the defensive. Where Stefanik began with unfounded authority, Magill began with ethical clarification. Stefanik uses the ‘Affirming the Consequent’ logical fallacy Stefanik’s direct, declarative sentence has already undermined Magill’s rhetorical credibility. Stefanik’s opening with “So” establishes her greater assertiveness. Magill, Stefanik implies, tiptoes around her own [Magill’s] views. She implies “If not yes, then no.” Another logical fallacy: Affirming the Subsequent. ‘If not A, then B, therefore A is false,’ Stefanik claims Using the logical inconsistencies she presents as objectively true, Stefanik commands Magill to repeat Stefanik’s assertion. In Stefanik’s unevidenced conclusion, her declarative strategy defeats Magill’s suggestion of nuance. Nuance is impossible without topical clarity. Arguments require clear definitions. If speakers do not agree on their definitions, or worse, speak in ignorance, then any verbal exchange is not an argument but dialogue. Both speakers fail to define their terms. What’s ‘conduct’ to Stefanik? To Magill? To the audience? And ‘harassment’? The audience’s definitions may differ from Stefanik’s, Magill’s, and from each others’. Magill is vague Magill’s sentence’s conditional structure fails to clarify her views — her syntax too produces vagueness. Syntactic vagueness suggests a speaker’s lack of decisiveness. Speaking directly, and using active voice, performs self-confidence. Rhetorically, if a speaker’s argument is vague, then the questioner may exploit this vagueness for their own ends. And that’s what Stefanik does. “Yes or no,” she repeats several times. Magill doesn’t respond with either of these, but neither does she address the logical fallacies within Stefanik’s questioning. Instead, she uses conditional statements and passive voice. Speakers’ active voice strengthens their arguments. Arguments of speakers are generally weakened by their use of passive voice. In doing so she evades assigning judgment to the actions of Stefanik’s imaginary genocidal harasser. Magill’s subject inversion constructs an opportunity for Stefanik to sharpen her questioning, however fallacious her rhetoric. Stefanik’s syntactic choices leave audiences with an impression of the greater certainty of Stefanik’s argument for Israel’s right to genocide; given less certainty is Magill’s conditional statement response. Let’s look at the concluding statements Stefanik: Conduct meaning committing the act of genocide. The speech is not harassment. This is unacceptable. Ms. Magill, I’m gonna give you one more opportunity for the world to see your answer. Does calling for the genocide of Jews violate Penn’s Code of Conduct when it comes to bullying and harassment? Yes or no? Magill: It can be harassment. Stefanik: The answer is yes. After a bizarre definition of “conduct” as “committing the act of genocide.” — unusual, confusing, and makes no logical sense — Magill misses an opportunity to undermine her interrogator’s reasoning. Rather than go on the offensive, Magill continues embracing passive syntax in her use of the model verb “can.” Modal verbs (e.g. “can,” “may,” “must”) are used to express possibility or necessity. Modal verbs often introduce ambiguity or flexibility in a statement’s interpretation. Magill’s use of the modal verb “can” implies multiple outcomes. If something can be, then that same thing also cannot be. Magill’s modal verb may suggest a rebuttal — a ‘hey you’re saying that X is necessarily the case, but it’s not necessarily the case but it sometimes is the case’ — but her modal verb decides to leave it there: a suggestion, an isolated idea. Stefanik, in contrast, places the world behind her in providing Magill the “opportunity” for “the world to see your answer” is disingenuous. She implies that the entire world holds her own viewpoint. Stefanik ‘succeeds’ And it works. “Yes,” concludes Magill. Though she attempts to mask agreement in passivity, conditions, and left-branching sentence structure, Magill agrees to Stefanik’s faux claim. Ultimately Magill’s use of passive voice, subjunctive mood, and subject inversion creates ambiguity. Magill’s responses do not persuade the audience to condemn the Palestinian genocide. They’re not radical; they’re ambiguous. Stefanik exploits this ambiguity to amplify mainstream support for the Palestinian genocide. Due to Magill’s ambiguity, Stefanik’s rhetoric succeeds in its impression, despite her logical fallacies. Meanwhile, Magill’s equivocation and ambiguous syntax fail to name — and therefore fails to disrupt — American and British-made structures oppressing Palestinians. Theorist Erich Fromm would see Magill as perpetuating the linguistic rules serving elite class interests, an elite class invested in endless asymmetrical warfare. In an attempt at neutrality amid clear oppression, Magill’s equivocation makes her complicit in the capitalist forces commodifying Palestinian genocide. Conclusion In her final address to Magill, Stefanik echoes her earlier statement: “So the answer is yes.” But in this instance, Stefanik drops the “So.” In dropping the “So,” Stefanik implies her authority. Following her fallacious reasoning, Stefanik presents her conclusion as final. No opportunity for qualification. It’s logical, Stefanik implies, using a variety of illogical strategies. Simple, aggressive syntax sticks its stubby fingers into logical holes. It controls narratives. Stefanik weaponizes declarative statements, false binaries, and loaded words to force university presidents’ faltering responses. Stefanik’s syntactic dominance propagates problematic premises while shutting the door to substantive debate. Magill has the greater syntactic skill. Her sentences are more complex in syntax, diction, and logical consistency. But qualifications and ambiguous language surrender authority to the powerful. Magill’s hypothetical framing and vague concessions granted unchecked legitimacy to the very assumptions she ostensibly challenged. Her failure to name injustice then upheld institutional biases enabling systematic violence. Stefanik’s authoritative tone and declarative syntax undermine Magill’s accuracy. An academic setting demands logical consistency at concision’s expense; a public hearing demands concision at logic. Ironically, it’s Magill’s superior logical reasoning that provides Stefanik opportunities to diminish Magill’s rhetorical effectiveness. The contrast between Stefanik’s declarative rhetoric and Magill’s syntactic passivity showcases what Fanon proved in 1961: language constructed by ruling institutions serves the oppressor; and serves to dehumanize the colonized. “Neutral,” bureaucratic syntax provides cover for violent imperialist regimes like present-day Israel to continue settler conquest and indigenous erasure, materially and discursively. Language oppresses when marginalizing groups construct it. Even simple syntax can normalize marginalization through unconscious biases. In Stefanik’s presidential rout, we hear political rhetoric dehumanizing the vulnerable by linking ambiguous speech to material domination. In this case, discourse solidified congressional authority over student academic dissent; and Israeli impunity over Palestinian lives.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sally kornbluth",
+          "sentiment": "none"
+        },
+        {
+          "name": "stefanik",
+          "sentiment": "none"
+        },
+        {
+          "name": "elise stefanik",
+          "sentiment": "none"
+        },
+        {
+          "name": "magill",
+          "sentiment": "none"
+        },
+        {
+          "name": "liz magill",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "congress",
+          "sentiment": "negative"
+        },
+        {
+          "name": "harvard",
+          "sentiment": "none"
+        },
+        {
+          "name": "university of pennsylvania",
+          "sentiment": "none"
+        },
+        {
+          "name": "jewish voice for palestine",
+          "sentiment": "none"
+        },
+        {
+          "name": "house republican conference",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ny",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T14:06:15.652+02:00",
+    "updated": "2023-12-31T06:54:58.634+02:00"
+  },
+  {
+    "uuid": "ac90edbf34cdd3dc7aa7f3e858f0b9f4ea692b21",
+    "url": "https://www.devdiscourse.com/article/politics/2929287-soldiers-farewell-iaf-corporal-laid-to-rest-in-chhindwara-with-military-honors",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PTI",
+    "published": "2024-05-06T11:40:00Z",
+    "title": "Soldier's Farewell: IAF Corporal Laid to Rest in Chhindwara with Military Honors | Politics",
+    "text": "Soldier's Farewell: IAF Corporal Laid to Rest in Chhindwara with Military Honors But if needed, the state government can also provide a job, Yadav told reporters.Pahades relative Sitaram Tadekar said the former had planned to come to Chhindwara to celebrate his sons birthday in June.Pahade, who joined the IAF in 2011, is survived by his wife Rina and son Hardik.As per kin, Pahade had rejoined his unit on April 18 after availing 15-day leave for his younger sisters wedding. [PTI](/pti-stories)| Chhindwara | Updated: 06-05-2024 19:41 IST | Created: 06-05-2024 19:40 IST - Country: - India A huge crowd on Monday bid final farewell to Indian Air Force corporal Vikky Pahade, who was martyred in a terror attack in Jammu-Kashmir on May 4, in his hometown Chhindwara in Madhya Pradesh. Pahade, among five personnel who were injured when terrorists attacked an IAF convoy near Shahsitar in Pooch district on Saturday evening, succumbed to his injuries in a military hospital. His body arrived at Chhindwara airstrip in a helicopter. The late rites were carried out with full military honours after a ceremonial guard of honour. His 5-year-old son Hardik lighted the pyre in the presence of the martyr's three sisters as well as senior IAF and district officials. MP Chief Minister Mohan Yadav changed his poll campaign programme and reached Chhindwara in the morning to pay tribute. ''The country is proud of its defence forces. This loss is irreparable. The state government will take care of the martyr's family. In his honour, a proposal regarding naming of 'Smriti Dwar' and ward will be approved,'' the CM told reporters. Since the Lok Sabha model code of conduct is in force, the state government will send for approval a proposal to the Election Commission so that assistance of Rs 1 crore can be given to the martyr's family, he added. ''A dependent of the martyr can get a job in the Air Force. But if needed, the state government can also provide a job,'' Yadav told reporters. Pahade's relative Sitaram Tadekar said the former had planned to come to Chhindwara to celebrate his son's birthday in June. Pahade, who joined the IAF in 2011, is survived by his wife Rina and son Hardik. As per kin, Pahade had rejoined his unit on April 18 after availing 15-day leave for his younger sister's wedding. (This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.) ALSO READ [\"Rahul Gandhi always questions valor of the Indian Army\": Madhya Pradesh CM](/article/politics/2903345-rahul-gandhi-always-questions-valor-of-the-indian-army-madhya-pradesh-cm) [\"We have won Chhindwara seat, only result is awaited now,\" says MP CM Mohan Yadav](/article/politics/2904215-we-have-won-chhindwara-seat-only-result-is-awaited-now-says-mp-cm-mohan-yadav) [PM Modi to Lead Grand Roadshow in Bhopal for Madhya Pradesh Assembly Elections](/article/politics/2904441-pm-modi-to-lead-grand-roadshow-in-bhopal-for-madhya-pradesh-assembly-elections) [ASI ends survey at Bhojshala complex in Madhya Pradesh's Dhar](/article/headlines/2905702-asi-ends-survey-at-bhojshala-complex-in-madhya-pradeshs-dhar) [Tragic Road Accidents in Madhya Pradesh: 11 Fatalities and 28 Injuries Recorded Within 24 Hours](/article/science-environment/2904670-tragic-road-accidents-in-madhya-pradesh-11-fatalities-and-28-injuries-recorded-within-24-hours)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "pahade",
+          "sentiment": "none"
+        },
+        {
+          "name": "yadav",
+          "sentiment": "none"
+        },
+        {
+          "name": "sitaram tadekar",
+          "sentiment": "none"
+        },
+        {
+          "name": "chhindwara",
+          "sentiment": "none"
+        },
+        {
+          "name": "rina",
+          "sentiment": "none"
+        },
+        {
+          "name": "vikky pahade",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "iaf corporal laid to rest",
+          "sentiment": "negative"
+        },
+        {
+          "name": "indian air force",
+          "sentiment": "none"
+        },
+        {
+          "name": "pti",
+          "sentiment": "none"
+        },
+        {
+          "name": "iaf",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "chhindwara",
+          "sentiment": "none"
+        },
+        {
+          "name": "jammu-kashmir",
+          "sentiment": "none"
+        },
+        {
+          "name": "madhya pradesh",
+          "sentiment": "none"
+        },
+        {
+          "name": "shahsitar",
+          "sentiment": "none"
+        },
+        {
+          "name": "pooch",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-06T17:14:18.578+03:00",
+    "updated": "2024-05-06T17:14:18.578+03:00"
+  }
+]

@@ -1,0 +1,465 @@
+[
+  {
+    "uuid": "13f8abb923f6a04b3cee75da1fb6474ce3e0dced",
+    "url": "https://www.devx.com/news/cryptocurrency-landscape-explores-new-horizons",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Johannah Lopez",
+    "published": "2024-04-11T22:43:00Z",
+    "title": "Cryptocurrency landscape explores new horizons",
+    "text": "Reporters Melinek and Pompliano recently launched a new media enterprise focusing on news related to cryptocurrency and blockchain innovations. Their goal is to revolutionize traditional methods of information distribution.\nThe CEO of VanEck made headlines by voicing concerns about the potential SEC approval of Ether Exchange Traded Funds (ETFs). He suggested that transaction fees, rather than Bitcoin ETF approvals, greatly contributed to the Bitcoin surge in 2024.\nThe CEO of Grayscale indicated that a balance point for Bitcoin ETF outflows might be near. Yet, the recent drop in Bitcoin’s value below $69K has adversely affected other altcoins like Cardano and Dogecoin. This led Bitcoin stock to a three-year low, and the crypto community expects a significant recovery.\nGrowing hopes suggest that approval for spot Bitcoin ETFs in Hong Kong will be favored in the coming week, following Deutsche Bank’s announcement that hints at a strong quarter for Bitcoin.\nWe also witnessed Venture Firm A16z unveil the ‘Zero Knowledge Virtual Machine,’ known as Jolt, amidst ongoing Ethereum Foundation controversies.\nCryptocurrency updates: innovations, controversies, and opportunities Moreover, First Digital’s $3 billion stablecoin debuted on the Sui Network , and WOO X’s Meme Coin Layer 2 Index Perpetuals were launched, showing rising interest in DeFi.\nHowever, the crypto landscape is not devoid of challenges. The Ethereum community is currently entangled in a staking controversy, and trader Eisenberg faces theft allegations. Christie’s Bitcoin Inscriptions Auction also drew attention to potential industry malpractices. Senator Tillis, however, seeks milder crypto regulations.\nIn a promising development, the crypto community is eagerly awaiting the introduction of ‘stBTC,’ a Bitcoin Liquid Staking Token by Protocol Village: Nomic, along with the activation of EigenLayer and EigenDA on the Ethereum Mainnet. These advancements hint at new opportunities for crypto investors and the potential transformation of the blockchain technology landscape.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "melinek",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "pompliano",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "vaneck",
+          "sentiment": "none"
+        },
+        {
+          "name": "bitcoin",
+          "sentiment": "none"
+        },
+        {
+          "name": "cardano",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "sec",
+          "sentiment": "none"
+        },
+        {
+          "name": "deutsche bank",
+          "sentiment": "none"
+        },
+        {
+          "name": "ethereum foundation",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "hong kong",
+          "sentiment": "none"
+        },
+        {
+          "name": "dogecoin",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-12T03:43:56.938+03:00",
+    "updated": "2024-04-12T03:43:56.938+03:00"
+  },
+  {
+    "uuid": "12b37307521fccb6401e89432bd5dd42ea849723",
+    "url": "https://www.italpress.com/open-arms-salvini-minacce-sono-una-follia-ma-e-processo-politico",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agenzia di Stampa Italpress",
+    "published": "2024-10-24T19:15:00Z",
+    "title": "Open Arms, Salvini “Minacce sono una follia, ma è processo politico”",
+    "text": "GENOVA (ITALPRESS) – “Le minacce di morte contro chiunque sono una follia. Le minacce e gli insulti sui social con nickname falso dimostrano che sei un uomo piccolo piccolo”. Lo ha detto il vicepremier Matteo Salvini, leader della Lega, commentando a margine di un evento elettorale a Genova le minacce ricevute dalla giudice Silvia Albano e dall’avvocata Giulia Bongiorno coinvolte nel processo Open Arms. “Penso di essere l’unico politico occidentale a processo per aver fatto il suo mestiere. Poi le minacce, la violenza e gli insulti non sono mai la soluzione nei confronti di nessuno – ha aggiunto Salvini – ma che sia un processo politico, scelto dalla politica di sinistra e portato avanti da una Procura che ha chiesto sei anni di carcere per sequestro di persona… Mi sembra chiaro che sia una richiesta di condanna politica, ma io a differenza di qualcun altro non scappo e ogni riferimento alla signorina Salis è puramente voluto. Non chiedo impunità o immunità, vado in quel tribunale il 20 dicembre: se mi assolvono sono felice, se mi condannano farò ricorso-. Credo che sarebbe una follia e un pericolo per il futuro e per la sicurezza italiana, ma lo dico senza minacciare nessuno. Prendo atto che su 9.300 giudici ce ne sono pochissimi che fanno politica: va bene, ma magari si candidino con il Pd e non vadano in tribunale”, ha concluso Salvini. (ITALPRESS). -Foto: Agenzia Fotogramma- [[email protected]](/cdn-cgi/l/email-protection#93fafdf5fcd3fae7f2ffe3e1f6e0e0bdf0fcfe)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Giulia Bongiorno",
+          "sentiment": "none"
+        },
+        {
+          "name": "Matteo Salvini",
+          "sentiment": "none"
+        },
+        {
+          "name": "Silvia Albano",
+          "sentiment": "none"
+        },
+        {
+          "name": "Salis",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ITALPRESS",
+          "sentiment": "none"
+        },
+        {
+          "name": "Procura",
+          "sentiment": "none"
+        },
+        {
+          "name": "Lega",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Genova",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:42:22.204+03:00",
+    "updated": "2024-10-25T04:07:11.045+03:00"
+  },
+  {
+    "uuid": "0e2923a28693c66a8dee0ec0cfd6ce6be4b619eb",
+    "url": "https://www.wthr.com/article/news/local/businesses-organizations-to-receive-millions-in-grant-funding-to-help-workers-with-childcare-18-million-dollar-grant-indiana-indianapolis-gov-holcomb/531-fe053e8b-0f9f-4fee-94fa-a404a41aa6a0",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Angelica Robinson",
+    "published": "2023-12-28T23:27:00Z",
+    "title": "$18.1 million grant going to Indiana companies for childcare help | wthr.com",
+    "text": "INDIANAPOLIS — Help is coming to Indiana parents who are having a hard time paying for childcare. The state is giving out $18.1 million in grant money to businesses to help their workers secure care for their children. Gov. Eric Holcomb announced that 64 businesses, community groups and school corporations across the state will receive a portion of the funding. The organizations can then offer that money to families in the form of on-site childcare for employees and childcare tuition benefits. The [Indiana Association for Home and Hospice Care](https://www.iahhc.org/) is one of the organizations receiving grant money. They say the $750,000 will be used as direct scholarships for home care workers to help them reimburse some childcare needs. The program is a partnership with the Indiana Chamber of Commerce and uses a portion of the remaining federal funds from the COVID-19 pandemic. A full list of the grant recipients can be found [here](https://www.in.gov/fssa/carefinder/files/6240-Employee-Sponsored-Child-Care-Fund-Awards.pdf).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://iahhc.org/)",
+      "https://in.gov/fssa/carefinder/files/6240-Employee-Sponsored-Child-Care-Fund-Awards.pdf).",
+      "https://www.iahhc.org/)",
+      "https://www.in.gov/fssa/carefinder/files/6240-Employee-Sponsored-Child-Care-Fund-Awards.pdf)."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "eric holcomb",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "indiana chamber of commerce",
+          "sentiment": "none"
+        },
+        {
+          "name": "hospice care",
+          "sentiment": "none"
+        },
+        {
+          "name": "indiana association for home",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "indiana",
+          "sentiment": "none"
+        },
+        {
+          "name": "indianapolis",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:33:45.029+02:00",
+    "updated": "2023-12-29T04:02:52.677+02:00"
+  },
+  {
+    "uuid": "772db8b9dc58a2525dcffae0d56e9684f2825ba6",
+    "url": "https://www.italiaoggi.it/economia-e-politica/attualita/scuola-lo-sciopero-generale-e-stato-un-flop-d4utd3ol",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alessandra Ricciardi",
+    "published": "2024-11-29T16:05:00Z",
+    "title": "Scuola, lo sciopero generale \\u00E8 stato un flop - ItaliaOggi.it",
+    "text": "Scuola, lo sciopero generale è stato un flop\nIl ministro Valditara: “Alle 17, con il 57% di scuole che hanno trasmesso i dati, l'adesione per il comparto scuola è stata del 5,65%”\ndi\n[Alessandra Ricciardi](/author/-qo7nd69s)|Aggiornato il 29/11/2024\nLo sciopero generale nella scuola contro la legge di bilancio e il governo? E’ stato un mezzo flop. “Alle ore 17, con il 57% di scuole che hanno trasmesso i dati, l'adesione allo sciopero generale per il comparto scuola, indetto da Cgil, Uil e sindacati di base, è stata del 5,65%”, ha comunicato il ministero dell’istruzione e del merito, con la rilevazione dei dati ufficiali per il comparto scuola che conta 1,2 milioni di dipendenti, il settore più corposo del pubblico impiego.\nMaurizio Landini e Pier Paolo Bombardieri, i segretari generali di Cgil e Uil, sin dalle prime ore della giornata avevano parlato di una grande adesione alla protesta da parte dei lavoratori: “C’è un tentativo di svolta autoritaria. Oggi più di 500mila italiani in piazza”, avevano scandito i due leader sindacali.\nLeggi: [Landini, è ora di rivoltare il Paese come un guanto](https://www.italiaoggi.it/temporeale/sciopero-landini-e-ora-di-rivoltare-il-paese-come-un-guanto-k87dpeh6)\nI dati del ministero\nSecondo i dati del ministero, per i dirigenti scolastici l'adesione allo sciopero è stata dell'1,5%, per i docenti del 5,54%, per il personale Ata del 6,35%. Le regioni in cui l’adesione è stata più alta sono state le rosse Toscana ed Emilia Romagna, seguite da Sardegna e Liguria.\nRiproduzione riservata",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Labor"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Valditara",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Pier Paolo Bombardieri",
+          "sentiment": "none"
+        },
+        {
+          "name": "Maurizio Landini",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "governo",
+          "sentiment": "none"
+        },
+        {
+          "name": "Cgil",
+          "sentiment": "none"
+        },
+        {
+          "name": "Uil",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-29T23:16:42.242+02:00",
+    "updated": "2024-11-29T23:16:42.242+02:00"
+  },
+  {
+    "uuid": "46c95d6eec426fc6f207b45984329db85bf8b863",
+    "url": "https://www.wlz-online.de/panorama/auf-rekordhitze-folgt-frost-konkretes-datum-genannt-wetter-prognose-kippt-zr-93714091.html",
+    "ord_in_thread": 0,
+    "author": "Dominik Jung",
+    "published": "2025-05-08T02:56:00Z",
+    "title": "Wetter-Prognose kippt: Auf Rekordhitze folgt Frost - konkretes Datum genannt",
+    "text": "Wetter-Prognose kippt: Auf Rekordhitze folgt Frost – konkretes Datum genannt\nNach dem ersten Hitzetag 2025 folgt jetzt der Kälteschock – Frost, Regen und Wetterkapriolen erschüttern den Mai. Was kommt als Nächstes?\nMünchen – Noch am Freitag (2. Mai) stieg das Thermometer in Waghäusel auf satte 30 Grad – der bisher heißeste Tag des Jahres. Wie die Wetterdaten von wetter.net zeigen, wurde damit der erste Hitzetag 2025 verzeichnet. Doch die Freude über das frühsommerliche Wetter war nur von kurzer Dauer: Bereits am Samstag folgten die angekündigten Unwetter mit kräftigem Starkregen und stürmischen Böen, die regional für schwere Schäden sorgten. Nun steht der Mai vor einer drastischen Kehrtwende – statt T-Shirt-Wetter gibt es jetzt Bodenfrost und fast winterliche Nächte.\nWetter-Prognose kippt: Kommen die Eisheiligen in diesem Jahr zu früh?\nAb Sonntag (4. Mai) zieht sich der Regen langsam in den Süden zurück und ab Montag (5. Mai) stellt sich eine trockenere Wetterlage ein. Das Hoch „Riccarda“ bringt uns zwar wieder stabileres Wetter, jedoch fließt gleichzeitig kältere Luft aus dem Norden ein. Die Temperaturen erreichen tagsüber nur noch 10 bis 18 Grad, in sonnigen Regionen vielleicht 19 Grad – weit entfernt von sommerlichen Spitzenwerten.\nIn den Nächten drohen empfindliche Tiefstwerte: Im Osten und Nordosten sind bis zu -4 Grad in Bodennähe möglich, stellenweise sogar leichter Luftfrost bis -1 Grad. Ein gefährliches Szenario – besonders für empfindliche Nutzpflanzen wie Tomaten, Gurken, Erdbeeren, Weinreben oder Kartoffeln. In Bayern soll es sogar schneien.\nwetter.net - das Wetter auf den Punkt gebracht!\nDieser Artikel entstand in einer Content-Partnerschaft mit wetter.net. wetter.net bietet Ihnen alles Wissenswerte rund um Wetter und Klima. Auf unseren Seiten finden Sie weltweite Stadt- und Ortsprognosen für die nächsten 14 Tage und das für die ersten 7 Tage in 1-stündiger und für die nachfolgenden Tage in 3-stündiger zeitlicher Auflösung. Wettervorhersagen, Niederschlagsradar, Messwerte, Wetterwarnungen, Deutschlandwetter und Wetter-News informieren über die aktuelle Entwicklung sowie die kommenden Stunden und Tage.\nWetter im Mai: Das erwartet uns in der neuen Woche\nDer Montag (5. Mai) zeigt sich südlich der Donau bedeckt und regnerisch, besonders an den Alpen teils mit kräftigem Niederschlag – bei einer Schneefallgrenze um 1600 Meter. Im übrigen Land gibt es einen Sonne-Wolken-Mix mit Höchstwerten zwischen 12 und 18 Grad, bei Dauerregen nur 7 bis 11 Grad.\nIn der Nacht zum Dienstag (6. Mai) kühlt es stark ab, örtlich bis -4 Grad, über der Mitte Frost in Bodennähe. Der Dienstag bringt viele Wolken, aber wenig Regen, und am Mittwoch bleibt es meist trocken, mit Sonne bei maximal 15 bis 20 Grad. Doch Vorsicht: Die Nächte bleiben kritisch, regional droht weiterhin Frost – ein echter Stresstest für Landwirte und Gärtner.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": [
+      "Weather->weather phenomena",
+      "Weather->weather forecast",
+      "Environment->global warming",
+      "Environment->sustainability",
+      "Environment->climate change",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.merkur.de/wetter/",
+      "https://www.fr.de/wissen/sonne-stern-sonnensystem-lebensspender-zentrum-erde-energie-92554919.html",
+      "https://www.merkur.de/deutschland/fuehrt-zu-chaos-auf-strassen-und-mehrere-verletzte-schwere-unwetter-in-deutschland-sturm-93713137.html",
+      "https://www.wetter.net/",
+      "https://www.merkur.de/welt/niederschlag-wetter-arten-menge-messen-definition-vorhersage-90162102.html",
+      "https://merkur.de/deutschland/fuehrt-zu-chaos-auf-strassen-und-mehrere-verletzte-schwere-unwetter-in-deutschland-sturm-93713137.html",
+      "https://fr.de/wissen/sonne-stern-sonnensystem-lebensspender-zentrum-erde-energie-92554919.html",
+      "https://merkur.de/wetter/",
+      "https://wetter.net/",
+      "https://merkur.de/welt/niederschlag-wetter-arten-menge-messen-definition-vorhersage-90162102.html",
+      "https://www.wetter.net",
+      "https://www.merkur.de/wetter"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Waghäusel",
+          "sentiment": "none"
+        },
+        {
+          "name": "München",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T06:46:59.352+03:00",
+    "updated": "2025-05-08T03:57:04.000+00:00"
+  },
+  {
+    "uuid": "4715b05b278b9314a77dd2430e7f20b0c3c279f7",
+    "url": "https://112.ua/en/istinne-oblicca-putina-es-vidreaguvav-na-novi-aderni-pogrozi-rf-41415",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Святенко Тамара",
+    "published": "2024-09-27T00:00:00Z",
+    "title": "Putin's Real Face: The EU Responds to New Nuclear Threats from Russia - all the latest news today – 112.ua",
+    "text": "Putin's Real Face: The EU Responds to New Nuclear Threats from Russia. The EU condemns Putin's threats to use nuclear weapons against non-nuclear countries The European Union has strongly condemned new threats by the Russian dictator Vladimir Putin about the possible use of nuclear weapons against non-nuclear countries. This was stated by EU representative Peter Stano at a briefing in Brussels. \"It is not the first[Time]Putin bets on his nuclear arsenal. This is just a continuation of very irresponsible and unacceptable behavior by Putin, which demonstrates his true face to the whole world, especially during the high-level week of the United Nations General Assembly,\" said Stano. Despite such threats, the EU will not change its position on continuing to support Ukraine in its fight against Russian aggression. The EU representative emphasized the paradoxical situation when the leader of a country that is a permanent member of the UN Security Council, whose duty is to maintain peace, undermines these efforts with his actions. \"He is not shy about playing nuclear gambling games again and again. We certainly strongly oppose these threats. The position of the European Union remains unchanged,\" added Stano. Recall that the day before, Putin announced amendments to the conditions for Russia's use of nuclear weapons, expanding the categories of states and military alliances in respect to which Russia exercises nuclear deterrence. Read also [The Ukrainian Navy assessed whether the storm season would affect the occupiers' logistics in the Black Sea](https://112.ua/en/u-vmsu-ocinili-ci-vpline-sezon-stormiv-na-logistiku-okupantiv-u-cornomu-mori-41412)[The United States agrees with Ukraine's vision of ending the war, - Harris](https://112.ua/en/ssa-pogodzuutsa-z-tim-ak-ukraina-bacit-zakincenna-vijni-harris-41414)[The USA announced details of security assistance to Ukraine worth $2.4 billion](https://112.ua/en/ssa-ogolosili-detali-bezpekovoi-dopomogi-ukraini-na-24-milarda-dolariv-41418)[Online registration and cancellation of VLC: Ukraine may change military registration](https://112.ua/en/onlajn-reestracia-ta-skasuvanna-vlk-v-ukraini-mozut-zminiti-vijskovij-oblik-41420)[Not Deputies: Ukrainians were shown which civil servants are paid salaries of 100 thousand hryvnias per month](https://112.ua/en/ne-deputati-ukraincam-pokazali-komu-iz-derzsluzbovciv-platat-zarplati-po-100-tisac-griven-na-misac-41422)[Zelensky started a meeting with Biden at the White House: he will present Ukraine's 'victory plan'](https://112.ua/en/zelenskij-rozpocav-zustric-iz-bajdenom-u-bilomu-domi-vin-predstavit-plan-peremogi-ukraini-41401)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Vladimir Putin",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Peter Stano",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "United Nations General Assembly",
+          "sentiment": "none"
+        },
+        {
+          "name": "UN Security Council",
+          "sentiment": "none"
+        },
+        {
+          "name": "European Union",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T02:16:27.413+03:00",
+    "updated": "2024-09-27T02:16:27.413+03:00"
+  },
+  {
+    "uuid": "0504b66c177c692dd5df34d384efaaf6d8ba25a5",
+    "url": "https://www.elheraldo.co:443/tecnologia/2024/11/15/estos-celulares-se-quedaran-sin-whatsapp-por-una-actualizacion-de-la-app-desde-el-15-de-noviembre",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción Tendencias",
+    "published": "2024-11-15T02:06:00Z",
+    "title": "Estos celulares se quedarán sin Whatsapp por una actualización de la app desde el 15 de noviembre",
+    "text": "A partir del próximo viernes 15 de noviembre, varios modelos de teléfonos dejarán de ser compatibles con WhatsApp, quedando sin acceso a futuras actualizaciones y funciones de la popular aplicación de mensajería. La decisión obedece a la política de la empresa de asegurar un servicio con mejoras continuas en seguridad y nuevas funciones, las cuales exigen mayores recursos y versiones actualizadas de sistemas operativos.\n(Le puede interesar:\n[Video: así sería el fin del mundo, según la IA](https://www.elheraldo.co/sociedad/tecnologia/2024/11/13/video-asi-seria-el-fin-del-mundo-segun-la-ia/))\nEl cambio impactará a dispositivos con versiones de Android inferiores a la 5.0 y modelos de iPhone con iOS anteriores a la versión 12.0. Estos sistemas, considerados obsoletos en términos tecnológicos, no poseen la capacidad de ejecutar adecuadamente las actualizaciones más recientes de WhatsApp, dado que los desarrollos en la aplicación, que se enfocan en mejorar la experiencia de los usuarios, incorporan tecnologías que requieren plataformas operativas más modernas.\nDentro de la lista de modelos afectados figuran dispositivos de marcas reconocidas, incluyendo Samsung, iPhone, HTC, LG, Nokia, Huawei, Motorola y Sony. Entre estos se encuentran el Galaxy S3 y Galaxy Note II de Samsung, el iPhone 5 y 5c de Apple, así como el Moto G de primera generación de Motorola.\n(Vea aquí:\n[Siga estos tips a la hora de comprar una moto de segunda para evitar estafas](https://www.elheraldo.co/sociedad/tecnologia/2024/11/12/siga-estos-tips-a-la-hora-de-comprar-una-moto-de-segunda-para-evitar-estafas/))\nPuntualmente, los dispositivos de estas marcas que se verán afectados a partir de este viernes serán:\n- Samsung: Galaxy S3, Galaxy Note II, Galaxy Ace 3, Galaxy S4 Mini.\n- iPhone: iPhone 5, iPhone 5c.\n- HTC: One X, One X+, Desire 500 y Desire 601.\n- LG: Optimus G, Nexus 4, G2 Mini y L90.\n- Nokia: Lumia 920, Lumia 1020.\n- Huawei: Ascend P6, Ascend Y300.\n- Motorola: Moto G (primera generación), Droid Razr y Moto E (primera generación).\n- Sony: Xperia Z, Xperia SP, Xperia T y Xperia V.\nLos usuarios de estos dispositivos, al perder acceso a actualizaciones, verán limitado su uso de la aplicación y expondrán sus datos a posibles vulnerabilidades de seguridad.\nWhatsApp no ofrecerá soluciones alternativas, lo cual implica que quienes deseen seguir utilizando la aplicación deberán actualizar el sistema operativo de sus equipos o considerar adquirir un dispositivo más reciente.\n(Lea también:\n[Alicia, la artista que se casó con un holograma](https://www.elheraldo.co/sociedad/tecnologia/2024/11/12/la-artista-alicia-framis-y-el-holograma-ailex-ya-son-marido-y-mujer/))\nPara aquellos que desean verificar si su equipo se verá afectado, la recomendación es consultar directamente la lista oficial de modelos que WhatsApp mantiene en su página de soporte. Ahí se puede confirmar si un teléfono mantendrá el acceso a las futuras versiones de la aplicación o si dejará de recibir soporte después del 15 de noviembre.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Samsung",
+          "sentiment": "none"
+        },
+        {
+          "name": "Android",
+          "sentiment": "none"
+        },
+        {
+          "name": "HTC",
+          "sentiment": "none"
+        },
+        {
+          "name": "IA",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T04:47:41.443+02:00",
+    "updated": "2024-11-27T11:37:15.350+02:00"
+  }
+]

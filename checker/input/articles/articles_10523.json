@@ -1,0 +1,504 @@
+[
+  {
+    "uuid": "456f7b41a29b008540073d69882ec3a856daef3b",
+    "url": "https://menafn.com/1107666772/Israel-Launches-Fresh-Missile-Attack-On-Targets-Near-Syrian-Capital",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MENAFN",
+    "published": "2023-12-28T02:45:00Z",
+    "title": "Israel Launches Fresh Missile Attack On Targets Near Syrian Capital | MENAFN.COM",
+    "text": "( MENAFN - IANS) Damascus, Dec 29 (IANS) A fresh Israeli missile attack targetted the outskirts of the Syrian capital of Damascus, triggering a response from the Syrian air defence system, the media reported.\nThe Syrian army said on Thursday in a statement that the \"Israeli enemy\" carried out an aerial attack from the direction of the occupied Syrian Golan Heights, targetting some points in the southern region, without elaborating on the targeted sites.\nIt added that the Syrian air defence forces intercepted most of them, with losses limited to material damages.\nPrevious Israeli strikes in Syria had reportedly targetted military sites suspected of harbouring Iranian-backed militias, arms convoys, and alleged weapons storage facilities, according to the opposition watchdog group -- the Syrian Observatory for Human Rights.\nIsrael has recently upped its attacks on Syrian targets in tandem with its military campaign in the Gaza Strip, Xinhua news agency reported.\nSyria has been engulfed in over 12-year war, with the government forces of President Bashar al-Assad, backed by Russia and Iran, fighting against various opposition groups.\nIsrael, on the other hand, has a long-standing policy of preventing Iran from establishing a military presence in Syria by repeatedly conducting airstrikes to destroy alleged Iranian weapons supplies.\nThe previous Israeli attack in Syria on Monday evening killed Seyyed Razi Mousavi, who was also one of the longest-serving advisors of Iran's Islamic Revolutionary Guard Corps (IRGC) in Syria and a close associate of the late Iranian top commander Qassem Soleimani, who was assassinated by a US drone attack in Iraq in 2020.\n--IANS\nint/khz\nMENAFN28122023000231011071ID1107666772\nLegal Disclaimer:\nMENAFN provides the information “as is” without warranty of any kind. We do not accept any responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article. If you have any complaints or copyright issues related to this article, kindly contact the provider above.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://ians.in/detail/israel-launches-fresh-missile-attack-on-targets-near-syrian-capital--20231229040216/",
+      "https://ians.in/detail/israel-launches-fresh-missile-attack-on-targets-near-syrian-capital--20231229040216",
+      "https://www.ians.in/detail/israel-launches-fresh-missile-attack-on-targets-near-syrian-capital--20231229040216/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ira",
+          "sentiment": "none"
+        },
+        {
+          "name": "bashar al-assad",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ians",
+          "sentiment": "negative"
+        },
+        {
+          "name": "xinhua",
+          "sentiment": "none"
+        },
+        {
+          "name": "syrian observatory for human rights",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "damascus",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "golan heights",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza strip",
+          "sentiment": "none"
+        },
+        {
+          "name": "syria",
+          "sentiment": "none"
+        },
+        {
+          "name": "russia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:31:17.718+02:00",
+    "updated": "2023-12-29T01:31:17.718+02:00"
+  },
+  {
+    "uuid": "ef0cc04ebca1c0381a5abc7b65d8e2ae6f4260a5",
+    "url": "https://thequantuminsider.com/2024/04/11/superposition-guy-podcast-ryan-lafler-quantum-corridor",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matt Swayne",
+    "published": "2024-04-11T21:42:00Z",
+    "title": "Superposition Guy Podcast — Ryan Lafler, Quantum Corridor",
+    "text": "Ryan Lafler, President and CTO of Quantum Corridor, is interviewed by Yuval Boger. Ryan highlights Quantum Corridor’s development of a 12-mile fiber network in the Midwest, designed for quantum and classical computing. The network, connecting major data centers, focuses on quantum communications and research, with a capacity of 40 terabits per second. Ryan discusses collaborations, such as with Toshiba Systems for quantum key distribution, emphasizes the strategic importance of the Midwest location, notes the project’s governmental support and its role in advancing global quantum technology competitiveness, and much more.\nListen:\nHere.\nTranscript:\nYuval Boger: Hello, Ryan. Thank you for joining me today.\nRyan Lafler: Thanks for having me. Appreciate it.\nYuval: Absolutely. So, who are you, and what do you do?\nRyan: So my name is Ryan Laffler. I’m the president and CTO and a co-founder of Quantum Corridor. I’m very happy to be supporting the scientific community and then also helping to eventually privatize and commercialize both quantum communications and also housing those that would want to prop up private industry with quantum technologies and help to commercialize.\nYuval: What does Quantum Corridor do, and what’s quantum about it?\nRyan: It’s a great question. Appreciate that. So, we’re an enabler of quantum technologies. So if you think of highways and you think of cars, what we’ve constructed is a corridor where we’re going to be providing lanes of traffic. The applications, which will be the quantum technology, eventually the BB84 protocol and QKD are set to ride on top of our highway in the middle of 2024.\nYuval: I’m guessing that includes a data center or more than one data centers…\nRyan: It does. So the head end of our network starts at what’s one of the largest Internet exchanges in the world, which is 350 CERMAC in the heart of Chicago. And it also spans down to another data center, which is in northwest Indiana at 100 Digital Crossroad. And what that includes is a 12-mile stretch of what was initially dark fiber. And then we’re tying into a couple other key education institutions and universities to establish a research corridor. So part of the lanes of traffic that we’re providing and I refer to is going to be for research and development. Part of the network that we’re building is going to be for commercial traffic. And then there’s going to be a part of the network that we’re building that’s going to be a combination of both. So you have private industry that’s meeting research and development and then, of course, all these applications and quantum computers need a home where we will be providing critical infrastructure for them to house the R&D that will be going on on a physical infrastructure level.\nYuval: Is this a regional network for now?\nRyan: It is. It’s operating across state lines between Chicago, Illinois and Indiana. Given that it’s regional, what would the ideal user or customer of the service be? So it can run the gamut. So we have a bioscience, life sciences that have been very interested. Obviously quantum communications, which is what we’re enabling, is coupled with a couple different things. So we have an incredible throughput level. We were one of the fastest networks in the Western hemisphere, aside from the likes of an EOSnet, for example, that would be 100% dedicated to research. We’re 40 terabits per second. And if you were to go onto Google and type, “Well, who’s the fastest network in the world?” It would say, “ESnet, at least in that Western hemisphere, which is 46 terabits.” We’re 6 terabits slower, but they’re 100% dedicated to research. And so we want to enable both research and private industry on our corridors. So the tie-in would be research institutions, to answer your question. And then also, as you’re aware, quantum is kind of the Cold War technology race of our time. So you have a lot of the hyperscale chips that are trying to get an extreme light up on that race. A lot of QKD has been tested in principle. It’s been tested inside the lab. But what our asset’s offering is the ability to test this in a real-world environment, with real-world attenuations along highways and along rail systems. And so what we hope to be is one of the first networks in the world that’s enabling QKD and BB84 protocol, even post-quantum cryptography in real time on our network. And so what we want to do is go to those hyperscalers, chip manufacturers, education research firms, and life sciences, biosciences, and say, “Hey, we have a facility that will house you. We can meet all of your infrastructure needs. And then, by the way, we offer this 12-mile stretch of a research network and private network where we can actually push these quantum protocols in real time over our network.”\nYuval: Why the Midwest? I mean, I’m calling you today from the Midwest as well. But why set up such a quantum corridor in the Midwest?\nRyan: Well, it’s not because of the weather. So we have a really ripe environment here. We’ve got the likes of Fermilabs, for example. We’ve got Argonne. We’ve got Chicago Quantum Exchange, for example, that are here. There’s obviously a TechHub designation that’s just been awarded because of the interest of the University of Chicago and quantum exchange. There’s incredible access to fresh water that we have that we can tie into. And then there’s the cross-state initiatives from Illinois to Indiana where we have Purdue and we have Purdue Northwest and we have Notre Dame that we can tie in together. So the way that we looked at this is that there’s a lot of disparate players that are out there state by state. And what we want to do is we want to unite all of these institutions in the spirit of collaboration. So that’s key. And then when you look at available land, and you look at available power, and you look at fresh water that’s next to the lake, we can meet all of these parameters easily. And then you don’t have environmental factors as many environmental factors like earthquakes would be on the West Coast, for example. So we really feel that with all those things, we have an environment here that’s really right to kick this off to the next level.\nYuval: Can you give me some examples of customers or organizations that are already using your services?\nRyan: Yeah. So this is really early on. So, we just announced and tested our network about four weeks ago. This has been a partnership with Sienna, who is the first to shoot light across this network. We are currently in talks with Toshiba Systems about bolting on their application and testing QKD with us in the middle of 2024. There are also some research institutions, which I can’t at this time name, that will be testing their gear across our network. And then we are actively entering into MOU with some top chip manufacturers and hyperscalers that I also can’t name because of NDAs that will be pushing across our network. One thing that I can tell you is that there’s a very, very real interest in being able to spread out in a distributed or edge-computing fashion along the corridor. Historically, a lot of this research was done at universities, which is great, but the participation with private industry is really what’s driving this. It’s kind of a first for this industry where we’re kind of entering a world of commercial. So it’s a very, very exciting time, and we can help our partners enable that.\nYuval: I understand the bandwidth uniqueness. You mentioned the 46 versus 40 earlier in our conversation. But there are national and even international or even global service providers for connectivity. What are the unique requirements that cause you to set up this separate entity?\nRyan: Well, in regards to quantum, the first thing that I’ll say is classical networking is not able to transmit QKE and BB84 protocol. It’s common knowledge that only two current networks can do this. And so when we came across the white paper that was published in tandem with Ciena, JPMorgan Chase, and Toshiba Systems and was released in 2022, we realized that something very special was going on. They announced the first QKD transmissions that took place in North America in that white paper. And we contacted Ciena and Converge One, and we said to them, “Can we be that environment that’s real world that you guys would like to test this on? Here’s the dark fiber asset that we have currently and that we can offer. It’s all American-made glass. It’s just three spins and splices. We’re operating in an optimal decibel loss range to complete this.” And that’s where the conversation started to become very real about pointing to a reconfigurable line system coherent network.\nAnd that’s basically the premise in layman’s terms of you’ve got all these bands. You’ve got all these different laser lights that we are pushing data systems within traditional DWDM, but Coherence, the premise of combining all those waves of light into one large wavelength. And so part of what we’re doing there is that we’re supporting an incredible throughput that kind of makes us like other networks in the world. However, I would argue in most cases, it is faster with the 40 terabits, a quarter of a millisecond latencies. But the other side of that, so that enables all kinds of really, really cool things with technology, obviously. But the other side to that is that we’re able to enable BB84 and QKD on top of our network. If you think about quantum technology and quantum computers in general, it’s unlike traditional compute because in traditional compute, computers aren’t smart; they’re just fast. You’re solving problems through rapid trial and error. So, with quantum communications, it’s the possibility of exploring every scenario all at one time and instantaneously. So you need a network that’s capable of transmitting that if these quantum computers and the research institutions are going to collaborate. And so you can’t have multiple sessions going really, really fast on traditional DWDM networks. You need coherent communications to support all states at all times across these communication nodes, back from where we’re housing this infrastructure to these research institutions that we’ll be transmitting and receiving. There’s a kind of quantum version of the space race between various countries and regions.\nYuval: How does what you’re offering compare in terms of both the investment and the capabilities to what you’re seeing in Europe, China, Australia, or in other non-US regions?\nRyan: There’s a couple that I’m aware of that are doing what we’re doing. We are certainly, Yuval, on the leading edge of this. For example, in London, there’s a quantum loop project that’s going on in tandem with BT Telecom. In Quebec, there’s a quantum loop project. There are certainly small five-kilometer quantum projects that are going on even downstate in Urbana with UIC. And we respect those other players. We don’t necessarily see them as competition. We see them as collaborators, as we would in the normal communication world, just like the rail systems eventually connect to other rail systems to transport people. That’s the way that we want to plug in and we want to enable research in the Midwest. With that being said, we’re one of the few that are doing this in the Midwest. Certainly, there are traditional networks that have communication systems, but we’re one of the few that will be enabling quantum. And with the network that we’ve already constructed and the relationships with the research institutions that we’re already taking on, and then also the interests with the block submission tech hub designation. We feel that we offer a really, really ripe environment to take the spirit of collaboration to the next level.\nYuval: You mentioned UIUC, and that’s one area where there’s a supercomputer or a supercomputing center. And many people think that quantum and classical computers will work together as opposed to just pure quantum or pure classical. How is your network geared to support that hybrid mode of operation?\nRyan: So we’ll offer different segments of the network. One thing that we’re able to do with coherent technology is break off dedicated customer instances through wave servers. And so we say, okay, on this network, we’re going to carve you out a dedicated piece where we’re offering these lanes that can support these specific applications, whatever that is. Post-quantum cryptographic, BB84, QKD, we’re going to support that. Over here, we’re offering dedicated wave instances on our network that may be for your regular commercial traffic. For example, our latencies are such that we process data 500 times faster than a blink of an eye. Across state lines, we can transmit the entire Library of Congress in three seconds. The latency loss experience that you have from the largest internet exchange in the world to data centers that we house on the South Shore, across state lines in Indiana, is less than the latency between your TV and your cable. So these are all just relative examples that we put in perspective.\nIf you have one research institution that’s, let’s say in Chicago, you have another research institution that’s on the Indiana toll road 40 miles away, and you have supercomputers that are coming up with simulation modeling. Historically, they would have to stop their supercomputers from transmitting information to their colleagues 40 miles away and let the networks catch up. With the network that we’ve created, what we’re out to do is greatly increase the efficiencies because if a near-instantaneous transmission of information is going from point to point, these supercomputers can keep chugging. So that’s what it’s going to do for traditional compute. And then for quantum compute, obviously, we’ve already talked about kind of all states instantaneous information being exchanged. That’s how we’re going to prop up both sides of the fence. So to answer your question, we’ve got a solution for traditional DWDM type customers. We’ve got a solution for quantum customers, and that traffic will literally be segmented. And that’s part of the security in our offering that we’re putting out there as well.\nYuval: You mentioned the Library of Congress, and that brought Congress to my mind the National Quantum Initiative. How do you think the politicians, nationally or regionally, are attuned to the opportunity in quantum and the need to invest in centers like yours?\nRyan: So the Department of Defense is becoming very, very aware. This is the greatest technology race of our time. It’s the technological Cold War race of our time. Whoever achieves quantum supremacy is going to rule the world. I mean, we can all wrap our minds around scenarios where somebody goes and solves the blockchain in three seconds rather than 21 years, which these quantum computers will certainly be capable of. But maybe some people don’t think about the implications of us operating in 256-bit encryption, which also can be unlocked in seconds. National security agency secrets being exposed, nuclear codes leaking. Those are all the implications aside from just the financial system implications that this has. And so there’s a quantum readiness bill that’s clear in the hell and being adopted early in the spring. There are now billions of dollars being awarded in the tech hub designations that are going out, and they’re announcing regional tech hub designations. One that we’re a part of here in the Midwest. And then, you know, aside from that, there’s the traditional stimulus monies that have been propping up some aspects of networks and infrastructure that needs to go into this.\nPritzker himself, when we’re talking about state government, is committing $300 million to this region. He’s been instrumental in propping up the Asholom Research Center that’s here with the University of Chicago. And is very, very up on making Chicago and the Midwest a huge leader in this. On the other side of the fence, in Indiana, we’ve got Eric Holcomb that’s propped us up through the Ready Grant. And purchasing of these optics, these RLX Flex-Cred Coherent Optics that we purchased through Indiana’s commitment to not just making this an Illinois thing but spanning this out along the corridor to tie Indiana’s research institutions into this. We see a multi-state collaboration, and government from local to state to federal has been involved. And I think we’re going to see a lot more of that involved.\nYuval: As we come closer to the end of our conversation. I’m curious, professionally speaking, what keeps you up at night?\nRyan: It’s making the right connections, and it’s capitalizing on opportunity. I mean, certainly, you know, there’s a collaborative spirit to all of this, but there’s a timeline. There’s a timeline that we have as a nation to get this right. And there are a lot of good people behind the scenes and that are part of our group and people that are smarter than me that have put a lifetime into getting us to where we are. So we’re standing on the shoulders of giants, and our opportunity is going to be connecting these people in the truest way. And we’re connecting networks to get these people to collaborate. But if we can’t accomplish that fast enough, and foreign interests do, that’s a real threat to everything that we’ve worked on as a nation.\nYuval: And last hypothetical, if you could have dinner with one of the quantum greats, dead or alive, who would that person be?\nRyan: You know, I’ve already had the opportunity to sit down with one of the great ones. I guess it wasn’t dinner, but you know, there’s a great scientist right here in our backyard. He’s a gentleman by the name of David Awschalom. And that was the Awschalom Research Institute I was talking about. It’s just incredible to pick the brains of the greats find out what their large-scale vision is for where they want to take this. So I’ve been privileged to kind of be in the shadows of some of those individuals.\nYuval: Wonderful. Ryan, thank you so much for joining me today.\nRyan: Thank you for having me.\nYuval Boger is the chief marketing officer for\nQuEra, the leader in neutral-atom quantum computers. Known as the “Superposition Guy” as well as the original “Qubit Guy,” he can be reached on [this email](/cdn-cgi/l/email-protection#a0d3d5d0c5d2d0cfd3c9d4c9cfcec7d5d9e0c7cdc1c9cc8ec3cfcd9fd3d5c2cac5c3d49dc6d2cfcdfff1e3f2)\nIf you found this article to be informative, you can explore more current\nquantum news here, exclusives, interviews, and podcasts.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://open.spotify.com/episode/2foIMw8Ff1x35vYjr5qYND?si=uiV7cvVsRn6XTuQQnOd3xw",
+      "https://www.quera.com",
+      "https://open.spotify.com/episode/2foIMw8Ff1x35vYjr5qYND",
+      "https://quera.com",
+      "https://www.open.spotify.com/episode/2foIMw8Ff1x35vYjr5qYND?si=uiV7cvVsRn6XTuQQnOd3xw"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ryan",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ryan lafler",
+          "sentiment": "negative"
+        },
+        {
+          "name": "yuval boger",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ryan laffler",
+          "sentiment": "none"
+        },
+        {
+          "name": "yuval",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cto of quantum corridor",
+          "sentiment": "negative"
+        },
+        {
+          "name": "quantum corridor",
+          "sentiment": "negative"
+        },
+        {
+          "name": "toshiba systems",
+          "sentiment": "none"
+        },
+        {
+          "name": "cto",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "midwest",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-12T02:14:41.109+03:00",
+    "updated": "2024-04-12T02:14:41.109+03:00"
+  },
+  {
+    "uuid": "12415abcab5c236a94930f18d9ba52694de679c5",
+    "url": "https://www.mundodeportivo.com/elotromundo/television/20231228/1002161040/redes-sentencian-forma-gala-inocente-inocente-tve-dct.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ángel Mor",
+    "published": "2023-12-28T22:35:00Z",
+    "title": "Las redes sentencian de esta forma la Gala Inocente, Inocente en TVE",
+    "text": "La Gala Inocente, Inocente 2023 tendrá como objetivo ayudar a todos los niños con enfermedades raras y sin diagnóstico en España y a sus familias. Las nuevas “víctimas” de las divertidas bromas de este año serán el futbolista Álvaro Morata, la comunicadora y presentadora Tania Llasera, el influencer Xuso Jones, el cantante Carlos Baute, el presentador Gonzalo Miró y el actor José Luis García Pérez. La gala estará presentada por Cristinini, Juanma Iturriaga, Jacob Petrus y Carolina Casado. Contará con las actuaciones de Ana Guerra, Andrés Suárez, Varry Brava y Nía. También participará Wilbur, el simpático acróbata de ‘El Grand Prix del Verano’, y habrá muchas más sorpresas. Tras 28 años de emisión, la Gala Inocente pedirá la colaboración de los espectadores para ayudar a los menores con enfermedades raras. Se puede donar en la web de la Fundación Inocente, llamando al 900 30 30 52, PayPal y a través de Bizum al 33379 En apoyo a las enfermedades raras Un año más, RTVE y la Fundación Inocente dedican esta noche tan especial a colectivos con necesidades especiales, que este año serán los niños con enfermedades raras (ER) y a sus familias. Las ER son aquellas que tienen una baja prevalencia en la población, es decir, que afectan a menos de cinco personas por cada 10.000 habitantes. Sin embargo, tres millones de personas en España conviven con una ER. El 70 % de estas enfermedades se desarrollan en la infancia y en la mitad de los casos el pronóstico vital está en juego. A las enfermedades raras se les puede atribuir el 35 % de las muertes de menores de un año y el 10 % de las muertes de menores de entre uno y cinco años. El diagnóstico tardío, la dificultad del acceso al tratamiento y la merma de la calidad de vida son los mayores hándicaps de los menores afectados. Estos niños pueden presentar retraso en el crecimiento, complicaciones al andar o dificultad en el habla, entre otros problemas frecuentes. El pediatra, en los controles de salud, o los padres, suelen ser los primeros en darse cuenta de que algo no va bien… por lo que se realizan visitas a diferentes especialistas para intentar obtener respuestas sobre lo que le pasa al pequeño. Una respuesta que, debido a la complejidad y a la poca información sobre estas enfermedades, puede tardar años en llegar.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:38:16.384+02:00",
+    "updated": "2023-12-29T00:38:16.384+02:00"
+  },
+  {
+    "uuid": "53f536d352ed968a8ba3d41b86635e2493c92a00",
+    "url": "https://www.wftv.com/news/national/alabama-qb-jalen/KWCAEY66PVLIM4BOOJCITMGQYI/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Yahoo Sports Staff, Yahoo Sports",
+    "published": "2023-12-28T22:36:00Z",
+    "title": "Alabama QB Jalen Milroe says former Crimson Tide OC Bill O'Brien told him he 'shouldn't play quarterback' – WFTV",
+    "text": "Before returning to the NFL this season as New England's offensive coordinator, Bill O'Brien spent two seasons in the same position at Alabama.\nPart of his tenure there was spent discouraging Jalen Milroe from playing quarterback. That's according to Milroe.\nThe Crimson Tide quarterback said so while speaking with reporters Thursday ahead of of Monday's national semifinal game against Michigan.\nAlabama QB Jalen Milroe says his former OC and current Patriots OC Bill O'Brien told him he should not be a quarterback.\n\"How would you feel if I told you that you sucked?\"\n\"Look where I'm at right now. So who gets the last laugh?\" pic.twitter.com/xurEAr61ge\n— Ari Meirov (@MySportsUpdate) December 28, 2023 \"All my life, even when I was in college,\" Milroe said of people discouraging him from playing the position. \"Shoot, my own offensive coordinator Bill O'Brien told me I shouldn't play quarterback.\"\nAsked on a followup about his reaction to O'Brien's assessment, here's what Monroe had to say:\n\"How would you feel if I told you you suck?\" Milroe said.\n\"I wouldn't like it,\" the reporter responded.\n\"Ok, then. That's exactly how I felt,\" Milroe continued. \"Biggest thing for me, be true to myself and stay the same. Nothing changed about me. Only thing that changed was that I had opportunity, and I seized it.\"\nMilroe went on to say that O'Brien told him \"there's a bunch of positions\" he could have switched to from quarterback.\n\"But look where I am right now,\" Milroe continued. \"Who gets the last laugh?\"\nHow Jalen Milroe got here Where Milroe is right now is in the College Football Playoff. But it wasn't a straight-forward path to get there.\nMilroe took over at Alabama in the fall after 2021 Heisman Trophy winner Bryce Young left for the NFL as the No. 1 pick by the Carolina Panthers. His hold on the position was initially tenuous, and head coach Nick Saban benched him in Week 3 after he threw two interceptions in a Week 2 loss to Texas. His second interception set Texas up at the Alabama five-yard line ahead of a go-ahead touchdown in the fourth quarter.\nBut Milroe returned as Alabama's starter in Week 4 and has since led the Tide to 10 straight wins that included perhaps the pass of the college football season to beat Auburn ahead of victory over Georgia in the SEC championship. He finished the season completing 65.5% of his passes for 10.4 yards per attempt and 226.5 yards per game with 23 touchdowns and six interceptions. He added 468 yards and 12 touchdowns on the ground as one of college football's most dynamic offensive talents.\nNow he's two wins away form a national championship. And he's not shy about letting his doubters know it.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Sport"
+    ],
+    "external_links": [
+      "https://t.co/xurEAr61ge",
+      "https://sports.yahoo.com/fourth-and-31-alabama-yanks-miracle-victory-away-from-auburn-000442305.html",
+      "https://twitter.com/MySportsUpdate/status/1740450774654796168?ref_src=twsrc%5Etfw",
+      "https://www.t.co/xurEAr61ge",
+      "https://www.twitter.com/MySportsUpdate/status/1740450774654796168?ref_src=twsrc%5Etfw",
+      "https://twitter.com/MySportsUpdate/status/1740450774654796168",
+      "https://www.sports.yahoo.com/fourth-and-31-alabama-yanks-miracle-victory-away-from-auburn-000442305.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bill o'brien",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jalen milroe",
+          "sentiment": "negative"
+        },
+        {
+          "name": "milroe",
+          "sentiment": "none"
+        },
+        {
+          "name": "ari meirov",
+          "sentiment": "none"
+        },
+        {
+          "name": "monroe",
+          "sentiment": "none"
+        },
+        {
+          "name": "o'brien",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nfl",
+          "sentiment": "negative"
+        },
+        {
+          "name": "crimson tide",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new england",
+          "sentiment": "none"
+        },
+        {
+          "name": "alabama",
+          "sentiment": "none"
+        },
+        {
+          "name": "michigan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:09:38.979+02:00",
+    "updated": "2023-12-29T01:09:38.979+02:00"
+  },
+  {
+    "uuid": "51bf81f320b9d4f9989c9794ecc9335ce5f2561f",
+    "url": "https://www.zazoom.it/2025-07-17/re-carlo-harry-e-meghan-markle-sempre-piu-distanti-la-nuova-foto-su-instagram/17391167/",
+    "ord_in_thread": 0,
+    "author": "@zazoomblog",
+    "published": "2025-07-17T05:07:36Z",
+    "title": "Re Carlo Harry e Meghan Markle sempre più distanti | la nuova foto su Instagram",
+    "text": "Re Carlo Harry e Meghan Markle sempre più distanti | la nuova foto su Instagram\nMentre lo staff di Re Carlo va avanti nelle trattative con quello di Harry, Meghan Markle Ã¨ sempre piÃ¹ distante dal marito. Dietro unâ€™apparente convivenza serena, i Sussex vivrebbero vite separate. CosÃ¬, lei pubblica una nuova foto su Instagram con un ospite inaspettato e lui vola in Angola da solo. Ma procediamo con ordine. Re Carlo, le trattative con Harry proseguono. Stando a fonti vicine a Palazzo, un primo passo verso il disgelo tra Harry e Re Carlo Ã¨ stato fatto e sta dando risultati positivi. Entrambe le parti coinvolte desiderano riallacciare i rapporti, anche se la strada verso la soluzione Ã¨ lunga e difficile.\n[🔗 Leggi su Dilei.it]\nIn questa notizia si parla di: carlo - harry - meghan - markle\nRe Carlo, la rottura definitiva con Harry dopo lâ€™intervista bomba: â€œAvrebbe voluto fare paceâ€� - Quando la voce del Principe Harry ha attraversato gli schermi della BBC la scorsa settimana, non era solo un figlio che parlava.\nRe Carlo ancora in imbarazzo per Harry e Meghan, ma lei pensa solo ai figli - Nelle ultime settimane, i rapporti tra Re Carlo dâ€™Inghilterra e il figlio Harry, Duca di Sussex, si sono ulteriormente complicati, dopo una sentenza giudiziaria che ha raggiunto il Principe, negandogli la possibilitÃ dâ€™ottenere nuovamente la scorta prevista per i senior della famiglia reale britannica.\nRe Carlo non câ€™Ã¨ piÃ¹ nulla da fare, Harry ricompare in pubblico dopo lâ€™intervista bomba - Re Carlo e Harry non si riappacificheranno mai piÃ¹. Lâ€™intervista bomba alla BBC ha sancito la fine di speranza di riconciliazione e come se nulla fosse il Duca del Sussex Ã¨ ricomparso in pubblico a Las Vegas in occasione del Diana Award.\nHarry e Re Carlo, la pace (voluta da Meghan Markle) passa nelle mani di Meredith Maines: chi Ã¨ la guru dei Sussex[Vai su X]\nRe Carlo, Harry e Meghan Markle sempre piÃ¹ distanti: la nuova foto su Instagram; Lo zampino di Meghan e della sua guru nella possibile pace tra Harry e Re Carlo; Harry e Re Carlo, la pace (voluta da Meghan Markle) passa nelle mani di Meredith Maines: chi Ã¨ la guru dei Sus.\nHarry e Re Carlo, la pace (voluta da Meghan Markle) passa nelle mani di Meredith Maines: chi è la guru dei Sussex - Ad intralciarli la fuga di notizie sul meeting tra lo staff dei Sussex e quello del sovrano del ... leggo.it scrive\nRe Carlo e la pace con Harry, chi è Meredith Manes: la guru di Meghan Markle che ha un ruolo principale nel riavvicinamento tra padre e figlio - Si infittiscono le voci, e le smentite, sui tentativi di ricucire i rapporti fra padre e figlio. Scrive msn.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Human Interest->royalty",
+      "Social Issue->dating and relationships",
+      "Social Issue->social networking",
+      "Social Issue->family"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.msn.com/it-it/notizie/mondo/re-carlo-e-la-pace-con-harry-chi-%25C3%25A8-meredith-manes-la-guru-di-meghan-markle-che-ha-un-ruolo-principale-nel-riavvicinamento-tra-padre-e-figlio/ar-AA1II8Zi",
+      "https://www.leggo.it/schede/harry_carlo_pace_voluta_meghan_passa_mani_meredith_maines_chi_e_guru_sussex-chi_e_meredith_maines_la_guru_di_meghan-3-8960099.html",
+      "https://news.google.com/search?q=carlo+harry+meghan+markle",
+      "https://www.news.google.com/search?q=carlo+harry+meghan+markle",
+      "https://leggo.it/schede/harry_carlo_pace_voluta_meghan_passa_mani_meredith_maines_chi_e_guru_sussex-chi_e_meredith_maines_la_guru_di_meghan-3-8960099.html",
+      "https://msn.com/it-it/notizie/mondo/re-carlo-e-la-pace-con-harry-chi-%25C3%25A8-meredith-manes-la-guru-di-meghan-markle-che-ha-un-ruolo-principale-nel-riavvicinamento-tra-padre-e-figlio/ar-AA1II8Zi",
+      "https://news.google.com/search"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T08:07:36.790+03:00",
+    "updated": "2025-07-17T05:12:17.000+00:00"
+  },
+  {
+    "uuid": "670aed250114669e3d4d1d00ab8990ebc37bb4a8",
+    "url": "https://www.dailycommercial.com/story/news/nation/2024/01/19/wwii-era-bible-returned-to-new-york-veterans-family/72269065007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Saleen Martin",
+    "published": "2024-01-19T13:37:00Z",
+    "title": "'May this keep you safe from harm': WWII era Bible returned to New York veteran's family",
+    "text": "Lost Bible returned to slain USAAF airman from World War II [Saleen Martin](https://www.usatoday.com/staff/7245115001/saleen-martin/) During World War II, a woman bought three brothers Bibles to protect their hearts and guide them as they set out for battle. The Bible had a metal cover on the front with the inscription “May this keep you safe from harm.\" Two of the brothers made it home, while the other, Lt. Edsel J. McKnight of the United States Army Air Forces, was shot down off the coast of France. His Bible was mailed to the family but was lost sometime after. This month, his family finally got it back. Ava Coogan's family is from Albany, New York and they found the Bible in late December while going through their late matriarch’s belongings. On Jan. 11, Coogan met Lt. McKnight’s sister-in-law and returned the Bible to her, allowing her to put it back in its rightful place, next to the ones his brothers brought back home from war. ‘I kept playing with it and flipping through the pages’ Coogan’s uncle and mother found the Bible in a stack of books. Their mother, Rosanne Vartanian, died nearly 20 years ago but was a collector and loved garage sales. “It’s just so random that my grandmother had the urge to pick that up,” she said. “She bought random things. There was no rhyme or reason to it. It was with a stack of other books.” Coogan decided to research the Bible and found out soldiers often took them to war. Some can be found in museums. “The whole premise of it was that the metal cover on the front is like a hard shield,” Coogan told USA TODAY. “They would put it in their coat pockets … like the front breast pocket … that cover would protect their heart from bullets.” Lt. McKnight’s name was also written in the Bible, said Coogan, who was drawn to the Bible for some reason. She couldn’t put it down, she recalled. “I kept playing with it and flipping through the pages,” she said. She noticed that the Bible’s front cover had a slice in it, almost like something was underneath it. She examined it more closely and found a piece of paper folded up inside. She asked her uncle for help, who carefully used a butter knife to get the slip of paper out. Once they retrieved the piece of paper from under the Bible’s cover, they saw that it was a plea for the Bible’s safe return to an address not too far away. Although there was no area code, there was a phone number listed, so the family added their own area code and called. “I was just hoping for the best,” Coogan said. “We found out that number worked.” Lieutenant was shot down off the coast of France When Coogan called the number written in the note, she spoke to a woman named Fay, Lt. McKnight’s sister-in-law. They organized a meetup on Jan. 11 to return the Bible to the family, who is from Porter Corners, part of Saratoga County in eastern New York. Lt. McKnight served in the U.S. Air Force’s 365th Fighter Group and 388th Fighter Squadron. He was flying in a Thunderbolt fighter aircraft in 1944 when he was shot down off the coast of France, [online records](https://rafbeaulieu.co.uk/honouring-the-airmen-of-raf-beaulieu/) show. Fay told Coogan and her family that Lt. McKnight has two brothers. All three of the brothers served in WWII. Fay’s husband, Ray, said his Bible saved his life. “He got shot during the war and it hit where the Bible was, covering his heart, and the bullet went into his arm instead,” Coogan said. Once Lt. McKnight was killed, his belongings were shipped back home to the family. His sister-in-law had all three Bibles on a bookshelf on display. One day, the family was preparing to go to church. Her nephew borrowed the Bible, but knew it was so precious, the family decided to write a note with contact information in case it were ever lost. “He didn't lose it,” Coogan said. “He brought it back after church and I guess what happened is after someone passed in their family, they had an estate sale … and it just accidentally went out with a stack of books.” It ended up in Coogan’s grandmother’s hands, she said. Returning the Bible to the McKnight family was quite the enlightening experience, Coogan said. “That was really cool because that's when we kind of got to hear their story,” she said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://rafbeaulieu.co.uk/honouring-the-airmen-of-raf-beaulieu/)",
+      "https://www.usatoday.com/staff/7245115001/saleen-martin/)",
+      "https://usatoday.com/staff/7245115001/saleen-martin/)",
+      "https://www.rafbeaulieu.co.uk/honouring-the-airmen-of-raf-beaulieu/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "edsel j. mcknight",
+          "sentiment": "none"
+        },
+        {
+          "name": "coogan",
+          "sentiment": "none"
+        },
+        {
+          "name": "rosanne vartanian",
+          "sentiment": "none"
+        },
+        {
+          "name": "ava coogan",
+          "sentiment": "none"
+        },
+        {
+          "name": "mcknight",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "united states army air forces",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "usaaf",
+          "sentiment": "none"
+        },
+        {
+          "name": "france",
+          "sentiment": "none"
+        },
+        {
+          "name": "albany",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-19T16:37:05.539+02:00",
+    "updated": "2024-01-19T16:37:05.539+02:00"
+  },
+  {
+    "uuid": "b27597ec00b6daa34d76d9dc3b1eb86cf5d940dd",
+    "url": "https://www.ultimahora.com/regalaron-la-vida-de-mi-hijo-a-esos-delincuentes-dice-padre-de-lince-herido-en-tacumbu",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Diciembre",
+    "published": "2023-12-28T23:39:00Z",
+    "title": "“Regalaron la vida de mi hijo a esos delincuentes”, dice padre de Lince herido en Tacumbú - Última Hora | Noticias de Paraguay y el mundo, las 24 horas. Noticias nacionales e internacionales, deportes, política. Noticias de último momento.",
+    "text": "“Regalaron la vida de mi hijo a esos delincuentes”, dice padre de Lince herido en Tacumbú El padre del agente del Grupo Lince, herido en el Operativo Veneratio en la Penitenciaría Nacional de Tacumbú días atrás, reveló ahora que las autoridades de la Policía Nacional “regalaron la vida de su hijo a los delincuentes”. El oficial ayudante José Rodrigo Gauto Cano, el agente del Grupo Lince que ingresó dentro de la Penitenciaría Nacional de Tacumbú el 18 de diciembre pasado en el Operativo Veneratio, recibió este jueves su alta médica. Su padre, José Gauto, manifestó en conversación con NPY que su hijo está muy bien, pese a no poder sostenerse. Recordó que estuvo en un “momento muy difícil con tres días en coma” y que gracias a las oraciones de las personas y a Dios, su hijo volvió a su casa. Lea más: [Tres policías heridos en Tacumbú continúan en terapia intensiva](https://www.ultimahora.com/tres-policias-heridos-en-tacumbu-continuan-en-terapia-intensiva) Manifestó que ocho días antes del Operativo Veneratio su hijo se recibió y que un día antes le comentó que tenía un operativo grande pero no sabía en donde era. Dijo que uno de los jefes policiales le comentó que el primer agente que entró en la cárcel de Tacumbú fue su hijo y el segundo en ingresar fue el suboficial ayudante Martín Mendoza, quien salvó la vida de su hijo. 🗣️\"La vida de mi hijo le regalaron a esos delincuentes. Ellos cometieron un horror no error. Los Linces están preparados para la calle, no para estas situaciones\"— NPY Oficial (@npyoficial) 📌 Expresa el padre del agente José Gauto quien fue herido tras el operativo [#Veneratio]en Tacumbú. ♦️ El mismo fue… [pic.twitter.com/mcYkK1i8uJ] [December 28, 2023] “A mi hijo le dispararon en el ojo, en la cabeza. Mi hijo se iba caer de arriba entre los reos y el muchacho le atajó, le estiró y ahí le dispararon al muchacho, me dijeron que con fusil le partieron la cabeza”, expresó. Nota relacionada: [Las identidades de los policías heridos en el Operativo Veneratio](https://www.ultimahora.com/las-identidades-de-los-policias-heridos-en-el-operativo-veneratio) Manifestó que el próximo martes conversará con el comandante de la Policía Nacional, Carlos Benítez, para llegar hasta las últimas instancias y que lo sucedido pueda seguir de ejemplo. Dijo que a los agentes del Grupo Lince les dieron escopetas que no funcionaban, carecían de chalecos y tenían balines de goma. “Le regalaron a mi hijo. La vida de mi hijo regalaron a esos delincuentes. Entraron sin condiciones, ellos son Linces, son para la calle, no están preparados para estas incursiones, no estaban equipados”, lamentó. Le puede interesar: [Video: Así se ejecutó el Operativo Veneratio para derrocar el imperio del clan Rotela en Tacumbú](https://www.ultimahora.com/video-asi-se-ejecuto-el-operativo-veneratio-para-derrocar-el-imperio-del-clan-rotela-en-tacumbu) Pidió a las autoridades mayor protección para la Policía Nacional y que les brinden las herramientas necesarias para que puedan hacer bien su trabajo. “Ellos están preparados para las calles, no para estas incursiones, cometieron un horror, no error, hicieron todo mal el procedimiento, actuaron todo mal. Ojalá sirva esto para corregir muchas cosas”, concluyó. Un total de 708 presos fueron trasladados a diferentes cárceles del país, en el marco del operativo Veneratio, que unió a las fuerzas policiales y militares este lunes para recuperar el control del penal de Tacumbú, donde los presos tenían fusiles, armas cortas, y hasta dinamita.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:09:55.553+02:00",
+    "updated": "2023-12-29T02:09:55.553+02:00"
+  },
+  {
+    "uuid": "d91051f18f3957f8a1683855e7d9b72c28891499",
+    "url": "https://london.ctvnews.ca/london-based-bank-donates-50-000-to-sally-ann-1.6703832",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Amandalina Letterio",
+    "published": "2023-12-28T22:43:00Z",
+    "title": "London-based bank donates $50,000 to Sally Ann",
+    "text": "[Skip to main content](#main) London-based bank donates $50,000 to Sally Ann A London, Ont.-based financial institution has made a significant contribution to the Salvation Army. VersaBank has named the Salvation Army its newest flagship charity, donating $50,000. Salvation Army officials said the money actually came in back in October, and was matched by an anonymous donor. They estimate one in five Canadians are dealing with food insecurity right now. Last year, food banks and support programs served more than five million people a month. That number is expected to grow by 60 per cent for this year. VersaBank's President and CEO is encouraging other organizations to support similar initiatives. \"There's a lot of need, particularly in the city of London for food and accommodation for homeless people,” David Taylor told CTV News. “Thankfully in the past, we had a hand in creating the centre of hope for the Salvation Army, and we just thought it just sort of moves any organization that's making a few dollars to give back as best we can to help out the less fortunate people particularly around Christmas time,” he said. [Shopping Trends](https://www.ctvnews.ca/shopping.html) The Shopping Trends team is independent of the journalists at CTV News. We may earn a commission when you use our links to shop. [Read about us.](https://www.ctvnews.ca/shopping/about-us.html) [London Top Stories](https://london.ctvnews.ca/) CTVNews.ca Top Stories [Maine's top election official removes Trump from 2024 ballot](https://www.ctvnews.ca/world/maine-s-top-election-official-removes-trump-from-2024-ballot-1.6703994) Maine's top election official has removed former President Donald Trump from the state's 2024 ballot, in a surprising decision based on the 14th Amendment's 'insurrectionist ban.' [Ten people rescued from plane crash site in remote Northwest Territories](https://www.ctvnews.ca/canada/ten-people-rescued-from-plane-crash-site-in-remote-northwest-territories-1.6703206) Ten people were rescued Thursday after a small plane crashed in a remote area of the Northwest Territories and they were stranded overnight. [Man speaks out after video of arrest at pro-Palestinian protest surfaces](https://toronto.ctvnews.ca/man-speaks-out-after-video-of-arrest-at-pro-palestinian-protest-surfaces-1.6703940) Adam Melanson, the man arrested at a pro-Palestinian demonstration earlier this month, is speaking out for the first time through a statement released by his lawyer. [NDP's Jagmeet Singh rules out coalition government with Liberals after next election](https://www.ctvnews.ca/politics/ndp-s-jagmeet-singh-rules-out-coalition-government-with-liberals-after-next-election-1.6703348) NDP Leader Jagmeet Singh is ruling out the possibility of forming a coalition government with the Liberals if no party wins a clear majority after the next federal election. [Judih Weinstein Haggai, the last Canadian known to have been kidnapped by Hamas, confirmed dead](https://www.ctvnews.ca/canada/judih-weinstein-haggai-the-last-canadian-known-to-have-been-kidnapped-by-hamas-confirmed-dead-1.6703209) Judih Weinstein Haggai, the only Canadian citizen who was still missing amid the Israel-Hamas conflict and believed to be held in the Gaza Strip, has been reported dead. [Teen dead, another missing after falling through ice in Ottawa amid spate of similar incidents across Canada](https://www.ctvnews.ca/canada/teen-dead-another-missing-after-falling-through-ice-in-ottawa-amid-spate-of-similar-incidents-across-canada-1.6703498) A teenager is dead and another is still missing after four youths fell through the ice on the Rideau River in Ottawa's south end late Wednesday. [U.S. military space plane blasts off on another secretive mission expected to last years](https://www.ctvnews.ca/sci-tech/u-s-military-space-plane-blasts-off-on-another-secretive-mission-expected-to-last-years-1.6704088) The U.S. military's X-37B space plane blasted off Thursday on another secretive mission that's expected to last at least a couple of years. [Pierce Brosnan is in hot water, accused of trespassing in a Yellowstone thermal area](https://www.ctvnews.ca/entertainment/pierce-brosnan-is-in-hot-water-accused-of-trespassing-in-a-yellowstone-thermal-area-1.6703402) Pierce Brosnan, whose fictitious movie character James Bond has been in hot water plenty of times, is now facing heat in real life, charged with stepping out of bounds in a thermal area during a recent visit to Yellowstone National Park. [Ontario man charged after allegedly planning trip to U.S. for sex acts with kids](https://toronto.ctvnews.ca/ontario-man-charged-after-allegedly-planning-trip-to-u-s-for-sex-acts-with-kids-1.6703437) Durham police say they arrested a man Thursday after learning that he allegedly planned to travel to the United States in order to engage in sex acts with a woman and her young children. [Kitchener](https://kitchener.ctvnews.ca/) - [No one hurt after fire at Kitchener restaurants](https://kitchener.ctvnews.ca/no-one-hurt-after-fire-at-kitchener-restaurants-1.6703580) No one was hurt after flames broke out at a building containing two restaurants in Kitchener. - [Why some are struggling to find jobs despite an overall strong labour market](https://kitchener.ctvnews.ca/why-some-are-struggling-to-find-jobs-despite-an-overall-strong-labour-market-1.6703887) The hunt for work remains challenging for some groups in Waterloo Region, but economic experts say overall the labour market is relatively strong. - [Man who brought OHL hockey to Guelph dead at 96](https://kitchener.ctvnews.ca/man-who-brought-ohl-hockey-to-guelph-dead-at-96-1.6703907) Joe Holody is being remembered as an architect of Guelph’s hockey landscape. [Windsor](https://windsor.ctvnews.ca/) - [Dash cam video shows vehicle narrowly escape collision with jaywalking pedestrian](https://windsor.ctvnews.ca/dash-cam-video-shows-vehicle-narrowly-escape-collision-with-jaywalking-pedestrian-1.6703916) If Mike Schmutz had looked away from the front window of his car at exactly 8:31 p.m. on Boxing Day for even a second, he may have possibly collided into a pedestrian pushing a baby stroller. - [Pool contractor charged with fraud](https://windsor.ctvnews.ca/pool-contractor-charged-with-fraud-1.6703644) Windsor police have charged the owner of a pool installation company with fraud. - [What’s open and closed New Year's weekend in Windsor](https://windsor.ctvnews.ca/what-s-open-and-closed-new-year-s-weekend-in-windsor-1.6703429) As Windsor residents get ready to ring in the new year, there are a few closures to keep in mind this holiday weekend. [Barrie](https://barrie.ctvnews.ca/) - [Driver suffers life-altering injuries in Bracebridge crash](https://barrie.ctvnews.ca/driver-suffers-life-altering-injuries-in-bracebridge-crash-1.6703604) Provincial police are investigating a single-vehicle collision in Bracebridge that sent one person to a Toronto area hospital. - [Court hearing deferred for accused pedophile Curtis Gamble](https://barrie.ctvnews.ca/court-hearing-deferred-for-accused-pedophile-curtis-gamble-1.6703805) Accused pedophile Curtis Gamble made a virtual appearance in plea court on Thursday from the Central North Correctional Centre in Penetanguishene, only to have the matter pushed due to missing court documents. - [Innisfil driver accused of being impaired after crashing into house on Christmas Day](https://barrie.ctvnews.ca/innisfil-driver-accused-of-being-impaired-after-crashing-into-house-on-christmas-day-1.6703431) An Innisfil resident faces charges after crashing into a house on Christmas Day. [Northern Ontario](https://northernontario.ctvnews.ca/) - [Safe consumption sites in Timmins, Sudbury looking for stop-gap measures to stay open](https://northernontario.ctvnews.ca/safe-consumption-sites-in-timmins-sudbury-looking-for-stop-gap-measures-to-stay-open-1.6704027) The safe consumption site in Timmins gets three month temporary extension to stay open after hospital comes forward with funding. Sudbury waiting for news past Jan 31. - [Pothole machine in Sudbury offers high-quality repairs, but low production](https://northernontario.ctvnews.ca/pothole-machine-in-sudbury-offers-high-quality-repairs-but-low-production-1.6703620) The city’s Python 5000 does a great job repairing potholes, but it’s a high-maintenance machine that depends on weather and replacement parts to operate successfully. - [Northern first responders express concern over individuals venturing on to ice](https://northernontario.ctvnews.ca/northern-first-responders-express-concern-over-individuals-venturing-on-to-ice-1.6703915) Emergency responders in northern Ontario say they are concerned with the number of individuals venturing out onto the ice amid warmer weather conditions. [Ottawa](https://ottawa.ctvnews.ca/) - [17-year-old dead, one missing after teens fall through the ice on the Rideau River in Ottawa](https://ottawa.ctvnews.ca/17-year-old-dead-one-missing-after-teens-fall-through-the-ice-on-the-rideau-river-in-ottawa-1.6702946) Ottawa police say one youth is dead and one person is missing after they fell through the ice on the Rideau River in Ottawa's south end on Wednesday. Two other teens were treated for mild hypothermia. - [Arnprior Aerospace to close after 70 years in operation](https://ottawa.ctvnews.ca/arnprior-aerospace-to-close-after-70-years-in-operation-1.6703770) The company opened in Arnprior in 1954 as a Boeing operation and will be closing its doors on March 6, 2024. - [Police searching for federal offender known to frequent Ottawa-Gatineau](https://ottawa.ctvnews.ca/police-searching-for-federal-offender-known-to-frequent-ottawa-gatineau-1.6703651) Ontario Provincial Police is seeking the public's assistance in locating a federal offender wanted on a Canada-wide warrant as a result of a breach of his statutory release. [Toronto](https://toronto.ctvnews.ca/) - [Man speaks out after video of arrest at pro-Palestinian protest surfaces](https://toronto.ctvnews.ca/man-speaks-out-after-video-of-arrest-at-pro-palestinian-protest-surfaces-1.6703940) Adam Melanson, the man arrested at a pro-Palestinian demonstration earlier this month, is speaking out for the first time through a statement released by his lawyer. - [Blue Jays re-sign Kiermaier to one-year, US$10.5 million contract](https://toronto.ctvnews.ca/blue-jays-re-sign-kiermaier-to-one-year-us-10-5-million-contract-1.6704068) The Toronto Blue Jays have re-signed centre-fielder Kevin Kiermaier to a one-year, US$10.5-million contract. - [65-year-old man seriously injured after being struck by vehicle in Toronto](https://toronto.ctvnews.ca/65-year-old-man-seriously-injured-after-being-struck-by-vehicle-in-toronto-1.6704063) A 65-year-old man has been seriously injured after being struck by a vehicle in the city's Little Portugal neighbourhood Thursday evening. [Montreal](https://montreal.ctvnews.ca/) - [Common Front of public sector unions reaches tentative deal with Quebec](https://montreal.ctvnews.ca/common-front-of-public-sector-unions-reaches-tentative-deal-with-quebec-1.6703590) The Common Front of unions representing around 420,000 public sector workers in Quebec has reached a proposed agreement in principle with the government. - [Montreal man who ate recalled cantaloupes launches class-action lawsuit](https://montreal.ctvnews.ca/montreal-man-who-ate-recalled-cantaloupes-launches-class-action-lawsuit-1.6702862) A Montreal man who says he was hospitalized with salmonella poisoning after eating recalled cantaloupes has launched a proposed class-action lawsuit against two companies that produced and distributed the fruit. - [Driver swapped seats with passenger while driving on highway, had loaded gun: Quebec police](https://montreal.ctvnews.ca/driver-swapped-seats-with-passenger-while-driving-on-highway-had-loaded-gun-quebec-police-1.6703946) A suspicious motorist who was allegedly switching seats with a passenger while driving on a Montreal highway was stopped with a loaded gun, provincial police say. [Atlantic](https://atlantic.ctvnews.ca/) - [Freezing rain warnings, special weather statements in effect in N.S., N.B.](https://atlantic.ctvnews.ca/freezing-rain-warnings-special-weather-statements-in-effect-in-n-s-n-b-1.6703142) More messy weather is on the way to the Maritimes with freezing rain warnings and special weather statements in effect. - ['I will not go out back': Moncton landlord worried about tenant safety](https://atlantic.ctvnews.ca/i-will-not-go-out-back-moncton-landlord-worried-about-tenant-safety-1.6703716) Peter LeBlanc needs to find a new tenant for his downtown Moncton apartment building. The landlord said the vacancy is the result of a current tenant no longer feeling like it’s safe place to live. - ['It’s been rough': Bedford resident looks for help following summer flooding](https://atlantic.ctvnews.ca/more/it-s-been-rough-bedford-resident-looks-for-help-following-summer-flooding-1.6703767) Marguerite Dodge’s Bedford, N.S., home has been uninhabitable since the summer floods hit back in late July. [Winnipeg](https://winnipeg.ctvnews.ca/) - [Former cabinet ministers say PCs tried to push through silica sand mine after election loss](https://winnipeg.ctvnews.ca/former-cabinet-ministers-say-pcs-tried-to-push-through-silica-sand-mine-after-election-loss-1.6704028) Two former progressive conservative cabinet ministers say their own government tried to push through a controversial silica sand mining project just days before the new NDP government was officially sworn in. - [Public asked to avoid Furby Street due to 'serious incident'](https://winnipeg.ctvnews.ca/public-asked-to-avoid-furby-street-due-to-serious-incident-1.6703781) The Winnipeg Police Service is currently responding to a serious incident at an apartment building on Furby Street. - [Man arrested, charged for bank robberies in Steinbach, Grunthal: RCMP](https://winnipeg.ctvnews.ca/man-arrested-charged-for-bank-robberies-in-steinbach-grunthal-rcmp-1.6703918) Manitoba RCMP charged a suspect in a pair of bank robberies in Grunthal and Steinbach this week. [Calgary](https://calgary.ctvnews.ca/) - [2 teens killed in rollover crash near Crossfield, Alta.](https://calgary.ctvnews.ca/2-teens-killed-in-rollover-crash-near-crossfield-alta-1.6703303) Two teens are dead following a crash in Mountain View County on Wednesday evening, RCMP said. - [Southern Alberta girl injured in coyote attack](https://calgary.ctvnews.ca/southern-alberta-girl-injured-in-coyote-attack-1.6703487) A family from Brooks, Alta., says their daughter is lucky to have avoided more serious injuries after she was attacked and bitten several times by a coyote. - [2 charged in connection with Calgary cocaine bust](https://calgary.ctvnews.ca/2-charged-in-connection-with-calgary-cocaine-bust-1.6703616) Two people are facing a dozen charges in a drug trafficking investigation that saw the seizure of a significant amount of drugs. [Edmonton](https://edmonton.ctvnews.ca/) - ['I was trying to get away': Kingsway Mall shooting victim says he may never recover](https://edmonton.ctvnews.ca/i-was-trying-to-get-away-kingsway-mall-shooting-victim-says-he-may-never-recover-1.6703868) A man who was shot outside an Edmonton shopping mall earlier this month says he doesn't know if he'll ever fully recover from his injuries. - [December warm weather both boon, bad luck in Edmonton](https://edmonton.ctvnews.ca/december-warm-weather-both-boon-bad-luck-in-edmonton-1.6703882) The weather in Edmonton so far this winter couldn't be more of a change from last year. - [Big events mean big tourism business for Edmonton](https://edmonton.ctvnews.ca/big-events-mean-big-tourism-business-for-edmonton-1.6703764) Hosting the Junos in March was a watershed moment for Edmonton and Alberta in 2023. [Vancouver](https://bc.ctvnews.ca/) - [B.C. trucking company involved in latest overpass strike has history of similar crashes: ministry](https://bc.ctvnews.ca/b-c-trucking-company-involved-in-latest-overpass-strike-has-history-of-similar-crashes-ministry-1.6704085) The province has taken all 65 trucks in a company's fleet off of the road following Thursday's crash into an overpass in Delta. - [Teen dies after crashing riding lawnmower: Nanaimo RCMP](https://bc.ctvnews.ca/teen-dies-after-crashing-riding-lawnmower-nanaimo-rcmp-1.6704069) A 14-year-old has died after the sit-down lawnmower he was driving crashed on Vancouver Island, according to authorities. - [3 dead in B.C. highway crash north of Kamloops, RCMP say](https://bc.ctvnews.ca/3-dead-in-b-c-highway-crash-north-of-kamloops-rcmp-say-1.6703976) A two-vehicle collision north of Kamloops early Thursday morning claimed the lives of three people, according to authorities.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sally ann",
+          "sentiment": "negative"
+        },
+        {
+          "name": "david taylor",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "versabank",
+          "sentiment": "none"
+        },
+        {
+          "name": "salvation army",
+          "sentiment": "none"
+        },
+        {
+          "name": "ctv news",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "london",
+          "sentiment": "none"
+        },
+        {
+          "name": "ont.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:56:37.097+02:00",
+    "updated": "2023-12-29T03:37:16.255+02:00"
+  }
+]

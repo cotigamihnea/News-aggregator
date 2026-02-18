@@ -1,0 +1,293 @@
+[
+  {
+    "uuid": "ef54d06823bf7c3335fc4cbc1bd100b624cf691b",
+    "url": "https://community.macmillan.org.uk/cancer_types/head-neck-cancer-forum/f/diagnosis-and-treatment/275301/tnm-predictions-how-accurate-will-this-be",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Salsa",
+    "published": "2024-04-04T20:36:00Z",
+    "title": "Forum Post: TNM predictions , how accurate will this be?",
+    "text": "Hi,\nI have received my diagnosis of ' superficial moderatley differentiated squamous cell carcinoma' in the right buccal mucosa and in one weeks time I will have a CT and MRI scan.\nI received a copy of the doctors letter to the gp where he states my tnm to likely be T2 N1 MX .\nFirstly , my reading ( hospital given info) does not mention an X and I'm wondering if this means unknown or don't want to predict?\nSecondly, should I take this as what is happening right now or not? Can this change or become very different after my tests?\nWould they have said if it was hpv related? I was asked a lot about relatives being from western seaboard or relatives with this type of cancer so this leads me to believe they think I've inherited it.\nThanks in advance\nWhatever cancer throws your way, we’re right there with you.\nWe’re here to provide physical, financial and emotional support.\n© Macmillan Cancer Support 2024 © Macmillan Cancer Support, registered charity in England and Wales (261017), Scotland (SC039907) and the Isle of Man (604). Also operating in Northern Ireland. A company limited by guarantee, registered in England and Wales company number 2400969. Isle of Man company number 4694F. Registered office: 89 Albert Embankment, London SE1 7UQ. VAT no: 668265007",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "wales",
+          "sentiment": "none"
+        },
+        {
+          "name": "england",
+          "sentiment": "none"
+        },
+        {
+          "name": "scotland",
+          "sentiment": "none"
+        },
+        {
+          "name": "northern ireland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-05T01:12:07.623+03:00",
+    "updated": "2024-04-05T01:12:07.623+03:00"
+  },
+  {
+    "uuid": "262997e384b47d8b1bd18cf4f971dc49ceb92778",
+    "url": "https://www.makeuseof.com/best-obsidian-plugins",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Digvijay Kumar",
+    "published": "2024-10-17T20:00:00Z",
+    "title": "The 7 Best Obsidian Plugins I Can't Live Without",
+    "text": "Obsidian is a free note-taking app that I use almost every day. Its cool features and customizable interface are key to my daily workflow. What truly makes Obsidian unique, however, is its plugin library. I've integrated these plugins so deeply into my workflow that I just can't live without them.\n1 Dataview\nDataview allows you to create dynamic tables and graphs with data from your notes. You can query and filter your notes based on parameters like tags, dates, and keywords.\nFor instance, if you have a note about your favorite books and their ratings, Dataview can generate a table of all books rated four stars or higher. You can then sort this table by genre, author, or publication date and refine it with specific tags or keywords.\nFurthermore, Dataview lets you create charts to visualize your data, giving you quick insights into your notes. This tool helps you comprehensively organize and analyze your content and provides enough flexibility.\n2 Calendar\nAs the name suggests, the Calendar plugin adds a calendar view to your Obsidian workspace, displaying monthly, weekly, or daily notes with date tags. After installation, a small calendar icon appears in the top right corner.\nClicking it opens a sidebar calendar view with the current month highlighted. Each day has a dot for notes tagged with that date, making it easy to track your activity. You can navigate through different months and weeks using the arrows on either side.\nTo improve note visualization, use color-coded labels and icons for different dates—like green for essential deadlines and red for personal events. This approach is a great way to manage daily activities, track ideas, evaluate progress, and plan accordingly.\n3 Tasks\nAnother helpful plugin for managing tasks and checklists is Tasks. It helps you track and organize tasks across your Obsidian vault. You can assign priorities, due dates, and recurring tasks to each item. When a task is completed, you can mark it as done and monitor its progress.\nRecurring tasks automatically generate new ones by their due date. If you set up a recurring task for every Monday, the task will appear on your list each week.\nAdditionally, Tasks lets you set priority levels from lowest to highest, which is great for workload management. So, mark a checklist item due on a deadline as the highest priority to ensure it gets done on time. For a personal errand, you can assign it a lower priority and focus on more urgent tasks first.\nTo create a task with Tasks, just add a checklist item to your notebook. Use the Markdown syntax: - [ ] task name. Once added, Tasks will recognize it as a task and include it in your list. You can also use hotkeys to quickly create and manage tasks in your notes.\n4 Kanban\nKanban is my go-to plugin for visual task management in Obsidian. It lets you create and customize Kanban boards in your Obsidian vault, similar to Notion or Trello. Each board represents a project or workflow, where you can create cards for tasks and move them between columns as you progress.\nThis makes it easy to track task status and spot bottlenecks. You can assign labels, due dates, priorities, and checklists to each card for better organization. I use Kanban for my content creation process, with columns for Ideas, Outline, In Progress, and Completed.\nWhenever I have a new article idea, I create a card in the Ideas column. Once I have a solid outline, I move it to Outline. As I work on the article, I shift it to In Progress and finally to Completed when it's done. Under Completed, I have sub-columns for Published, Scheduled, and Promoted to track the entire process from idea to publication.\n5 Outliner\nRefining ideas and organizing them into a clear outline is crucial for effective note-taking and content creation. Outliner simplifies this process with its intuitive and customizable features. It allows you to create outlines within your notes, like mind maps or bullet points. You can move lists and sublists, adjust indentation, and build a hierarchical structure for better organization.\nTo indent or outdent, highlight the text and press Tab or Shift + Tab. You can also use drag-and-drop functionality and keyboard shortcuts for quick navigation. Below are the default hotkeys for these actions, but you can customize them as you see fit.\nFor Windows and Linux:\n- Move list and sublists up - Ctrl + Shift + Up Arrow (↑)\n- Move list and sublists down - Ctrl + Shift + Down Arrow (↓)\nFor macOS:\n- Move list and sublists up - Command + Shift + Up Arrow (↑)\n- Move list and sublists down - Command + Shift + Down Arrow (↓)\n6 Advanced Tables\nYou know how to create simple tables with Markdown syntax, but the Advanced Tables plugin elevates table editing to another level. This plugin allows you to navigate and format tables just like you would in an Excel spreadsheet. Its auto-formatting feature adjusts the layout as you add or remove columns and rows.\nThe plugin supports Excel-like formulas for calculations like SUM and AVERAGE and calculates and displays the result. To move between cells quickly, you can use the Tab and Enter keys—tab for horizontal movement and enter for vertical.\nYou can align columns left, center, or right for a polished appearance. Additionally, you can insert or remove columns and rows, rearrange them, or sort rows into a specific column. The plugin also transposes rows into columns and sorts data in ascending or descending order. Once you finish editing, you can export your work to CSV format for further use.\n7 Recent Files\nManaging numerous files can make it easy to lose track of which ones you've accessed recently. The Recent Files plugin keeps a record of your activities and displays them in a list for quick access, which is especially helpful when juggling multiple projects.\nAfter installing this Obsidian plugin, you can specify the maximum number of filenames to retain in the list. This prevents your sidebar from becoming, and you can easily locate what you need.\nTo access the list, just click the clock icon in the title bar or use the hotkey set during installation. The list appears in a separate pane, and you can easily scroll through your recent files. Clicking on an item opens it in the active editor, while Ctrl clicking opens the file in another pane. Additionally, you can hold the Ctrl key and hover over a file to preview its contents.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://publish.obsidian.md/tasks/Introduction",
+      "https://github.com/mgmeyers/obsidian-kanban",
+      "https://github.com/liamcain/obsidian-calendar-plugin",
+      "https://blacksmithgu.github.io/obsidian-dataview/",
+      "https://github.com/tgrosinger/advanced-tables-obsidian",
+      "https://github.com/vslinko/obsidian-outliner",
+      "https://github.com/tgrosinger/recent-files-obsidian",
+      "https://www.publish.obsidian.md/tasks/Introduction",
+      "https://blacksmithgu.github.io/obsidian-dataview",
+      "https://www.github.com/liamcain/obsidian-calendar-plugin",
+      "https://www.github.com/tgrosinger/recent-files-obsidian",
+      "https://www.github.com/mgmeyers/obsidian-kanban",
+      "https://www.github.com/vslinko/obsidian-outliner",
+      "https://www.blacksmithgu.github.io/obsidian-dataview/",
+      "https://www.github.com/tgrosinger/advanced-tables-obsidian"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T00:09:26.251+03:00",
+    "updated": "2024-10-18T00:09:26.251+03:00"
+  },
+  {
+    "uuid": "91b37853de66b9cc53c126c4c9af9ffdd79f4944",
+    "url": "https://www.medianama.com/2024/11/223-ai-companies-hit-model-scalling-wall",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kamya Pandey",
+    "published": "2024-11-15T07:57:00Z",
+    "title": "Computer scientists say ‘I told you so’ as AI Companies Hit Scaling Wall",
+    "text": "Kamya Pandey on November 15, 2024 November 15, 2024 3 minute read 3 minute read\nExplainer × MediaNama Explainer Copy Content copied! Disclaimer: This content generated by AI & may have errors or hallucinations. Edit before use. Read our Terms of use Briefly × MediaNama Briefly Copy Content copied! Disclaimer: This content generated by AI & may have errors or hallucinations. Edit before use. Read our Terms of use Slides × MediaNama Slides Copy Content copied! Disclaimer: This content generated by AI & may have errors or hallucinations. Edit before use. Read our Terms of use Artificial intelligence (AI) companies are hitting a scaling wall, according to a Reuters report referring to experts and investors in the AI space. The report suggests that the results from scaling up pre-training— making models bigger and feeding models more data— are no longer providing proportional capability improvements. AI developers are reportedly facing challenges in developing a model that is better than GPT 4. The developers are struggling with the following key challenges—\nScaling costs Hardware-induced failures due to the complexity of the training process Lack of readily available data Power shortages To cope with this, companies are using a process called “test time compute” where the model learns more while it is coming out with inferences. So for instance, when you ask a model for the answer to a specific question, it might show you two options instead of pre-emptively picking one. This helps the model allocate more of its processing power to challenging tasks like maths or coding.\nScaling concerns in Google, OpenAI and Anthropic: While Reuters published a comprehensive report about the subject, concerns around AI scaling have been in discussion for a while now. As per a recent Bloomberg report , OpenAI’s new model Orion did not live up to the company’s expectations, given that it wasn’t as big a step up as GPT 4 was from GPT 3.5. Similarly, Google and Anthropic are also struggling to make any major breakthroughs.\nThis comes as a concerning development, especially keeping in mind the large quantities of funds companies are allocating on AI. Meta said that its investment in AI continues to require “serious infrastructure” and that it expects to invest significantly in them in its latest earnings call for the quarter ending in September 2024. Similarly, as per Google’s recent earnings call , the company spent $7.2 billion on sales and marketing, these expenses were a result of Google’s investment in advertising and promotional efforts related to the Made by Google launches , as well as for AI and Gemini.\nAI scientists say they told us so: Commenting on the Reuters report, Meta’s Chief AI Scientist Yan Le Cun says “I told you so”. He explains that auto-regressive large language models (LLMs)— models that use past data to predict future trends — are hitting a ceiling and that he has been concerned about the same since before most people heard of LLMs. “I’ve always said that LLMs were useful, but were an off-ramp on the road towards human-level AI. I’ve said that reaching human-level AI will require new architectures and new paradigms,” Le Cun explains.\nFellow computer scientist Gary Marcus argues that he spoke about deep learning models hitting a wall in 2022 . “We all know that GPT-3 was vastly better than GPT-2. And we all know that GPT-4 (released thirteen months ago) was vastly better than GPT-3. But what has happened since? I could be persuaded that on some measures there was a doubling of capabilities for some set of months in 2020-2023, but I don’t see that case at all for the last 13 months. Instead, I see numerous signs that we have reached a period of diminishing returns,” Marcus mentioned in his blog post in April this year .\nAt the time, he flagged struggling AI projects like Inflection AI and Stability AI that were struggling with financial difficulties. “If enthusiasm for GenAI dwindles and market valuations plummet, AI won’t disappear, and LLMs won’t disappear; they will still have their place as tools for statistical approximation,” he explained.\nMeanwhile, OpenAI CEO Sam Altman addressed the Reuters report with a single-line tweet saying there is no wall.\nAdvertisements The data shortage dilemma: Earlier this year during the AI for Good Global Summit , an interviewer asked Altman about data shortages and questioned whether OpenAI was now relying on synthetic data (computer-generated data) to train its models. Altman admitted that the company has generated a lot of synthetic data and experimented with training on it while adding that it would be really strange if the best way for companies to train models was to generate synthetic data and feed it into their models. When asked about quality concerns with synthetic data, Altman said that companies need to focus on ensuring that the data is of good quality and also finding ways to “get better at data efficiency and learn more from smaller amounts of data.”\nAnother space that companies could turn to address data shortage to is non-English data. At MediaNama’s annual PrivacyNama conference this year, lawyer Amlan Mohanty pointed out localised data sets (like ones from the Global South) could make AI models powerful and culturally richer. “These models are going to become more powerful, more capable when they have really small, localized, specialized data sets that are going to be licensed,” he mentioned.\nAlso read:\nIs AI Sovereignty the New Battleground for Showcasing Technological Supremacy? #PrivacyNama Sam Altman says that OpenAI doesn’t fully understand what is going on inside its AI models Can AI Training and Global Data Laws Coexist? Experts Debate at #PrivacyNama",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.threads.net/@garymarcus/post/DCUEfIApo32?xmt=AQGzwugSx2clYnCPrawJ8Ait-sjxVVyyDLUThj1y7YGM5w",
+      "https://garymarcus.substack.com/p/evidence-that-llms-are-reaching-a",
+      "https://t.co/wPzUOQ1Pb3",
+      "https://www.reuters.com/technology/artificial-intelligence/openai-rivals-seek-new-path-smarter-ai-current-methods-hit-limitations-2024-11-11/",
+      "https://futurism.com/the-byte/stability-ai-is-falling-apart",
+      "https://www.bloomberg.com/news/articles/2024-11-13/openai-google-and-anthropic-are-struggling-to-build-more-advanced-ai?sref=CrGXSfHu&ref=platformer.news",
+      "https://www.businessinsider.com/inflection-implosion-chatgpt-stall-ai-consumer-chatbot-problem-2024-3",
+      "https://blog.google/products/platforms-devices/made-by-google-2024-collection/",
+      "https://s21.q4cdn.com/399680738/files/doc_financials/2024/q3/META-Q3-2024-Earnings-Call-Transcript.pdf",
+      "https://www.garymarcus.substack.com/p/evidence-that-llms-are-reaching-a",
+      "https://www.blog.google/products/platforms-devices/made-by-google-2024-collection/",
+      "https://www.bloomberg.com/news/articles/2024-11-13/openai-google-and-anthropic-are-struggling-to-build-more-advanced-ai",
+      "https://threads.net/@garymarcus/post/DCUEfIApo32?xmt=AQGzwugSx2clYnCPrawJ8Ait-sjxVVyyDLUThj1y7YGM5w",
+      "https://www.threads.net/@garymarcus/post/DCUEfIApo32",
+      "https://www.t.co/wPzUOQ1Pb3",
+      "https://www.s21.q4cdn.com/399680738/files/doc_financials/2024/q3/META-Q3-2024-Earnings-Call-Transcript.pdf",
+      "https://reuters.com/technology/artificial-intelligence/openai-rivals-seek-new-path-smarter-ai-current-methods-hit-limitations-2024-11-11/",
+      "https://www.futurism.com/the-byte/stability-ai-is-falling-apart",
+      "https://www.reuters.com/technology/artificial-intelligence/openai-rivals-seek-new-path-smarter-ai-current-methods-hit-limitations-2024-11-11",
+      "https://bloomberg.com/news/articles/2024-11-13/openai-google-and-anthropic-are-struggling-to-build-more-advanced-ai?sref=CrGXSfHu&ref=platformer.news",
+      "https://businessinsider.com/inflection-implosion-chatgpt-stall-ai-consumer-chatbot-problem-2024-3",
+      "https://blog.google/products/platforms-devices/made-by-google-2024-collection"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Reuters",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Google",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "91b37853de66b9cc53c126c4c9af9ffdd79f4944",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-15T10:54:47.110+02:00",
+    "updated": "2024-11-15T11:31:21.321+02:00"
+  },
+  {
+    "uuid": "66c74b67eca83c841b4f8feb9fb05e4f6fa8733b",
+    "url": "https://www.streetwisereports.com/article/2025/02/27/permian-basin-lithium-extraction-surges-past-11-000-bpd-in-breakthrough-run.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@SWReports",
+    "published": "2025-02-27T00:00:00Z",
+    "title": "Permian Basin Lithium Extraction Surges Past 11000 BPD in Breakthrough Run",
+    "text": "Volt Lithium Corp. (VLT:TSV; VLTLF:US; I2D:FSE) has reached a significant milestone in its Direct Lithium Extraction (DLE) operations, scaling up production from 600 barrels per day (bpd) in initial field trials to over 11,000 bpd in a continuous 24-hour run. This rapid expansion, accomplished within six months of launching U.S. field operations in the Permian Basin, represents one of the largest known DLE systems in North America.\nThe company introduced its Generation 5 Field Unit in January 2025, with the unit surpassing its 10,000 bpd target shortly after deployment. According to Volt, this success highlights the modular and replicable nature of the system, which is designed to accommodate increasing volumes without major infrastructure overhauls. The company attributes its rapid progress to strong support from its strategic partners, which provided expertise in engineering, construction, and automation.\nVolt's proprietary DLE technology extracts lithium from oilfield brine with an industry-leading 99% extraction rate, enabling the production of lithium chloride, lithium carbonate, and lithium hydroxide monohydrate. The company reports that its all-in extraction and operating costs remain below US$2,900 per tonne of lithium carbonate equivalent (LCE), reinforcing its ability to maintain strong margins despite lithium price fluctuations.\nLooking ahead, Volt intends to optimize Generation 5's throughput while preparing for the deployment of additional field units. With approximately 20 million barrels of lithium-infused water produced daily in the Permian Basin, the company sees significant expansion opportunities and aims to strengthen its position in large-scale lithium production from oilfield brine.\nLithium Market Poised for Shift as Supply Tightens and Demand Grows\nAccording to a January 14 report from USA News Group, industry analysts anticipated that 2025 would be a turning point for the global lithium market after a period of oversupply. The report stated that supply dynamics were expected to shift, reducing the projected surplus from 150,000 tonnes in 2024 to 80,000 tonnes in 2025. Benchmark analysts emphasized the need for US$116 billion in investments by 2030 to meet anticipated electric vehicle production targets. Precedence Research projected that the global lithium market could reach US$28.45 billion by 2033, growing at a compound annual growth rate of 12.50%.\nFastmarkets reported on February 5 that the lithium market was expected to tighten due to production cuts and increased demand from electric vehicle manufacturers. The report noted that global lithium production had risen from 737,000 tonnes in 2022 to nearly 1.2 million tonnes in 2024, leading to a temporary oversupply. However, analysts projected that market conditions in 2025 would result in a reduced surplus of 10,000 tonnes, with a potential supply deficit of 1,500 tonnes emerging in 2026. Paul Lusty, Fastmarkets' head of battery raw material analytics, stated, \"Lithium market conditions — particularly during the latter part of 2024 — led to growing producer restraint, both in China and elsewhere.\"\nA report from CarbonCredits.com on February 1 discussed the evolving public perception of lithium mining. The report noted that technological advancements had improved extraction efficiency and environmental sustainability. Geochemist Michael McKibben of the University of California commented, \"It's important not to call it mining because compared with conventional lithium mining, this process has minimal environmental impacts.\" The article also cited McKinsey & Co., which identified direct lithium extraction as a promising alternative to traditional mining methods, with potential benefits including increased lithium recovery rates and reduced water usage.\nVolt Lithium Expands Growth Strategy with Scalable Technology and Strategic Partnerships\nVolt Lithium's February 2025 investor presentation outlines several key developments that may serve as catalysts for the company's future growth. The company plans to continue refining the operational efficiency of its Generation 5 Field Unit to maximize lithium extraction output. Further deployment of modular units is expected, allowing Volt to scale production without the need for substantial infrastructure investments.\nIn addition to its Texas operations, Volt has secured a grant to conduct a field study in North Dakota's Bakken formation. The study will assess the technical and economic feasibility of lithium extraction from oilfield brine in the region, with initial funding of up to US$500,000 and an additional US$2 million allocated for equipment and testing.\nThe company's focus on strategic collaborations with major energy producers in the Permian Basin and beyond may provide additional growth opportunities. Volt's approach of leveraging existing oil and gas infrastructure is expected to reduce capital expenditures and operational risks while accelerating commercialization efforts.\nAs lithium demand continues to rise, driven by the expansion of electric vehicle production and renewable energy storage, Volt Lithium's advancements in scalable DLE technology position it as a potential leader in North America's lithium supply chain. The company remains focused on expanding its footprint while maintaining cost-efficiency in an evolving market environment.\nAnalysts Highlight Volt Lithium's Scalability and Strategic Positioning\n*According to a December 20 report from Technical Analyst Clive Maund, Volt Lithium had established itself as a company with proprietary technology capable of transforming oilfield brine into a profitable lithium source. He noted that the company had successfully advanced its Direct Lithium Extraction (DLE) process to the production stage at a time when governments were prioritizing domestic lithium production. Maund described Volt's modular extraction system as a significant advantage, allowing for cost-effective scalability in multiple basins across North America. He concluded that Volt Lithium was \"worth being overweight on,\" citing its strong operational progress and strategic positioning.\nStreetwise Ownership Overview*\nVolt Lithium Corp. (VLT:TSV;VLTLF:US;I2D:FSE)\nOn January 23, Michael Ballanger of GGM Advisory Inc. upgraded Volt Lithium's rating to a Buy. He stated that the company's advancements in lithium extraction from oilfield brine placed it in a unique position within the sector. Ballanger pointed to Volt's ability to maintain low operational costs while producing battery-grade lithium as a key differentiator. He further emphasized that the company's recent developments had strengthened its investment appeal, particularly as market conditions for lithium continued to improve.\nOwnership and Share Structure\nRefinitiv provided a breakdown of the company's ownership and share structure, where management and insiders own approximately 14% of the company.\nAccording to Refinitiv, James Alexander Wylie owns 7.97% of the company, Martin Scase owns 4.53%, Warner Uhl owns 0.81%, Morgan Tiernan owns 0.35%, and Kyle Robert Hookey owns 0.10%.\nRefinitiv reports that institutions own less than 1% of the company, as Eagle Claw Investments Pty. Ltd. owns 0.98%.\nAccording to Reuters, the company has 165.97 million shares outstanding and a market cap of CA$54.77 million. It trades in a 52-week range of CA$0.16 and CA$0.49.\nWant to be the first to know about interesting Cobalt / Lithium / Manganese investment ideas? Sign up to receive the FREE Streetwise Reports' newsletter. |\n|\nImportant Disclosures:\n- Volt Lithium Corp. has a consulting relationship with Street Smart an affiliate of Streetwise Reports. Street Smart Clients pay a monthly consulting fee between US$8,000 and US$20,000.\n- As of the date of this article, officers and/or employees of Streetwise Reports LLC (including members of their household) own securities of Volt Lithium Corp.\n- James Guttman wrote this article for Streetwise Reports LLC and provides services to Streetwise Reports as an employee.\n- This article does not constitute investment advice and is not a solicitation for any investment. Streetwise Reports does not render general or specific investment advice and the information on Streetwise Reports should not be considered a recommendation to buy or sell any security. Each reader is encouraged to consult with his or her personal financial adviser and perform their own comprehensive investment research. By opening this page, each reader accepts and agrees to Streetwise Reports' terms of use and full legal disclaimer. Streetwise Reports does not endorse or recommend the business, products, services or securities of any company.\nFor additional disclosures, please click here.\n* Disclosure for the quote from the Clive Maund article published on December 20, 2024\n- For the quoted article (published on December 20, 2024), the Company has paid Street Smart, an affiliate of Streetwise Reports, US$1,500.\n- Author Certification and Compensation: Clive Maund of\n[clivemaund.com] is being compensated as an independent contractor by Street Smart, an affiliate of Streetwise Reports, for writing the article quoted. Maund received his UK Technical Analysts’ Diploma in 1989. The recommendations and opinions expressed in the article accurately reflect the personal, independent, and objective views of the author regarding any and all of the designated securities discussed. No part of the compensation received by the author was, is, or will be directly or indirectly related to the specific recommendations or views expressed\nClivemaund.com Disclosures\nThe quoted article represents the opinion and analysis of Mr. Maund, based on data available to him, at the time of writing. Mr. Maund's opinions are his own, and are not a recommendation or an offer to buy or sell securities. As trading and investing in any financial markets may involve serious risk of loss, Mr. Maund recommends that you consult with a qualified investment advisor, one licensed by appropriate regulatory agencies in your legal jurisdiction and do your own due diligence and research when making any kind of a transaction with financial ramifications. Although a qualified and experienced stock market analyst, Clive Maund is not a Registered Securities Advisor. Therefore Mr. Maund's opinions on the market and stocks cannot be only be construed as a recommendation or solicitation to buy and sell securities.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->energy and resource",
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://urldefense.proofpoint.com/v2/url?u=http-3A__clivemaund.com&d=DwMF-g&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=OP0JE_wIGZZunYTHA-7wkg4_AGTv0Py8_NlNze1vzzw&m=zRHl2T0TOJVij-vnQpw92b_G1QwuWNM8JVRDst8HiYwwzLb-AmEWG4MLgLg7BElA&s=kXv2q1gSdkkAeNrJXKiGPavqZoBo68t6Tht3MJW1dfw&e=",
+      "https://www.fastmarkets.com/insights/facing-the-tightening-lithium-supply-challenge-in-2025/",
+      "https://carboncredits.com/amli-worlds-great-lithium-illusion/",
+      "https://urldefense.proofpoint.com/v2/url?u=http-3A__Clivemaund.com&d=DwMF-g&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=OP0JE_wIGZZunYTHA-7wkg4_AGTv0Py8_NlNze1vzzw&m=zRHl2T0TOJVij-vnQpw92b_G1QwuWNM8JVRDst8HiYwwzLb-AmEWG4MLgLg7BElA&s=K4VNt6PWoTyC-DvocAgl9dsP3id52QgI_y6eaHL2oIk&e=",
+      "https://voltlithium.com/wp-content/uploads/2025/02/02-13-2025-Volt-Operations-Update-Final.pdf",
+      "https://www.prnewswire.com/news-releases/lithiums-role-in-the-energy-revolution-to-regain-momentum-in-2025-302350477.html",
+      "https://voltlithium.com/wp-content/uploads/2025/01/01-16-2025-Volt-Operations-Final.pdf",
+      "https://urldefense.proofpoint.com/v2/url?u=https-3A__voltlithium.com_wp-2Dcontent_uploads_2025_02_02-2D2025-2DVLT-2DDeck.pdf&d=DwMF-g&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=UMKC_tQJoXAEdzabnidCI900nAZFYRRytoYRRa6A10w&m=5lBOtf8MAuJWyr64uJHjV8t0YXr5hfG2A2VG12cbcGrDLcb8AvxdXc5XQY4HsXnK&s=d8KS2ssYgT3shffFogxqyEaEUnSmpM2eGmLqwswtPoM&e=",
+      "https://www.voltlithium.com/wp-content/uploads/2025/01/01-16-2025-Volt-Operations-Final.pdf",
+      "https://www.urldefense.proofpoint.com/v2/url?u=https-3A__voltlithium.com_wp-2Dcontent_uploads_2025_02_02-2D2025-2DVLT-2DDeck.pdf&d=DwMF-g&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=UMKC_tQJoXAEdzabnidCI900nAZFYRRytoYRRa6A10w&m=5lBOtf8MAuJWyr64uJHjV8t0YXr5hfG2A2VG12cbcGrDLcb8AvxdXc5XQY4HsXnK&s=d8KS2ssYgT3shffFogxqyEaEUnSmpM2eGmLqwswtPoM&e=",
+      "https://www.urldefense.proofpoint.com/v2/url?u=http-3A__Clivemaund.com&d=DwMF-g&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=OP0JE_wIGZZunYTHA-7wkg4_AGTv0Py8_NlNze1vzzw&m=zRHl2T0TOJVij-vnQpw92b_G1QwuWNM8JVRDst8HiYwwzLb-AmEWG4MLgLg7BElA&s=K4VNt6PWoTyC-DvocAgl9dsP3id52QgI_y6eaHL2oIk&e=",
+      "https://prnewswire.com/news-releases/lithiums-role-in-the-energy-revolution-to-regain-momentum-in-2025-302350477.html",
+      "https://www.voltlithium.com/wp-content/uploads/2025/02/02-13-2025-Volt-Operations-Update-Final.pdf",
+      "https://fastmarkets.com/insights/facing-the-tightening-lithium-supply-challenge-in-2025/",
+      "https://carboncredits.com/amli-worlds-great-lithium-illusion",
+      "https://www.urldefense.proofpoint.com/v2/url?u=http-3A__clivemaund.com&d=DwMF-g&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=OP0JE_wIGZZunYTHA-7wkg4_AGTv0Py8_NlNze1vzzw&m=zRHl2T0TOJVij-vnQpw92b_G1QwuWNM8JVRDst8HiYwwzLb-AmEWG4MLgLg7BElA&s=kXv2q1gSdkkAeNrJXKiGPavqZoBo68t6Tht3MJW1dfw&e=",
+      "https://www.fastmarkets.com/insights/facing-the-tightening-lithium-supply-challenge-in-2025",
+      "https://urldefense.proofpoint.com/v2/url",
+      "https://www.carboncredits.com/amli-worlds-great-lithium-illusion/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:05:45.309+02:00",
+    "updated": "2025-02-28T00:05:45.309+02:00"
+  },
+  {
+    "uuid": "8fb40c46f5f0e5e9fb2d2d4eb7189b555eb4b3a2",
+    "url": "http://business.observernewsonline.com/observernewsonline/article/abnewswire-2024-4-4-the-100-pound-war-a-journey-of-transformation-and-triumph",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AB Newswire",
+    "published": "2024-04-04T18:16:00Z",
+    "title": "The 100 Pound War: A Journey of Transformation and Triumph | observernewsonline.com",
+    "text": "USA - 04 April, 2024 - From the brink of despair to the pinnacle of personal victory, \" The 100 Pound War \" offers an inspiring and riveting look into the life of James Rice, a man who turned his life around from being nearly 300 pounds, pre-diabetic, and struggling with high blood pressure, to becoming the National Body Transformation Champion. This compelling narrative is not just about losing weight; it's about a battle fought and won against the odds.\nAt 48 years old and weighing nearly 300 pounds, James Rice was at his lowest. The physical ailments that plagued him - arthritis, high blood pressure, and the need to consume six painkillers daily - were a stark indication of his dire health. His size XXXL t-shirts were a tight squeeze, and everyday tasks became monumental challenges. However, within two years, Rice's life underwent an astonishing transformation. Today, at a weight of 151 pounds and with a BMI of 16%, his story is not just one of weight loss but of profound personal triumph.\n\"The 100 Pound War\" is James Rice's candid recount of his journey, laid bare for readers to see. It's a narrative that promises not only to inspire but to guide others who feel similarly trapped by their circumstances. The book details the practical steps, mental shifts, and emotional perseverance required to undertake such a remarkable transformation.\nAvailable for purchase on major platforms including Amazon, Apple Books, Google Books, and Indigo, \" The 100 Pound War \" is more than a book; it's a companion for anyone who dreams of overcoming their limitations to emerge victorious in their personal battles.\nDo not miss the chance to dive into this captivating story of resilience, determination, and victory. \"The 100 Pound War\" is not just a testament to what James Rice has achieved; it's a beacon of hope for others to follow.\nFor further information, to request a review copy, or to arrange an interview with James Rice, please contact studyitbooks@gmail.com\nAbout the Author:\nJames Rice is a testament to the power of personal transformation. His journey from a life overshadowed by health issues to becoming the National Body Transformation Champion is a source of inspiration. Through \"The 100 Pound War,\" James aims to reach out to others, sharing the insights and lessons learned on his path to a healthier, happier life.\nMedia Contact\nCompany Name: The 100 Pound War\nContact Person: James Rice\nEmail: Send Email\nCountry: United States\nWebsite: https://www.100poundwar.com/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.100poundwar.com/",
+      "https://www.abnewswire.com/companyname/100poundwar.com_133617.html",
+      "https://www.abnewswire.com/press_stat.php?pr=the-100-pound-war-a-journey-of-transformation-and-triumph",
+      "https://tracking.newsrpm.com/pixel?slug=abnewswire-2024-4-4-the-100-pound-war-a-journey-of-transformation-and-triumph",
+      "https://www.abnewswire.com/email_contact_us.php?pr=the-100-pound-war-a-journey-of-transformation-and-triumph",
+      "https://www.abnewswire.com/email_contact_us.php",
+      "https://abnewswire.com/email_contact_us.php?pr=the-100-pound-war-a-journey-of-transformation-and-triumph",
+      "https://www.100poundwar.com",
+      "https://abnewswire.com/press_stat.php?pr=the-100-pound-war-a-journey-of-transformation-and-triumph",
+      "https://100poundwar.com/",
+      "https://www.tracking.newsrpm.com/pixel?slug=abnewswire-2024-4-4-the-100-pound-war-a-journey-of-transformation-and-triumph",
+      "https://abnewswire.com/companyname/100poundwar.com_133617.html",
+      "https://www.abnewswire.com/press_stat.php",
+      "https://tracking.newsrpm.com/pixel"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "james rice",
+          "sentiment": "none"
+        },
+        {
+          "name": "rice",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "usa",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-05T01:31:12.866+03:00",
+    "updated": "2024-04-05T01:31:12.866+03:00"
+  }
+]

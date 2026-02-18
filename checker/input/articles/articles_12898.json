@@ -1,0 +1,314 @@
+[
+  {
+    "uuid": "f378ac117a91e3950f8975cb4eae160d267d9a72",
+    "url": "https://www.corriereadriatico.it:443/schede/papa_francesco_morto_ultimo_bollettino_medico_malattia_oggi_23_2_2025-8675939.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redazione web",
+    "published": "2025-02-23T20:14:00Z",
+    "title": "«Le condizioni del Papa sono critiche, lieve insufficienza renale». L'ultimo bollettino medico",
+    "text": "Santo Padrepermangono critiche; tuttavia da ieri sera non ha presentato ulteriori crisi respiratorie. Ha effettuato le due unità di emazie concentrate con beneficio e con risalita del valore di emoglobina. Stabile è rimasta la piastrinopenia; tuttavia alcuni esami sanguigni dimostrano una iniziale, lieve, insufficienza renale, allo stato sotto controllo. Prosegue l'ossigenoterapia ad alti flussi attraverso le cannule nasali». Lo dice il\nBollettino medicodiffuso stasera dalla Sala stampa vaticana.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "topics": [
+      "Health->medical condition",
+      "Health->hospital",
+      "Health->health treatment and procedure",
+      "Human Interest->funeral and memorial service",
+      "Religion and Belief->religious leader",
+      "Religion and Belief->pope"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-23T22:17:24.729+02:00",
+    "updated": "2025-02-23T22:17:24.729+02:00"
+  },
+  {
+    "uuid": "0b9896542f82a649fa157b8761f6a3c7834f036f",
+    "url": "https://indianexpress.com/article/cities/chandigarh/red-alert-punjab-haryana-cold-conditions-9087716/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rakhi Jagga",
+    "published": "2023-12-29T07:06:00Z",
+    "title": "‘Red alert’ to continue in Punjab, Haryana till Saturday morning amid dip in mercury, cold conditions",
+    "text": "Cold conditions are likely to continue in Punjab and Haryana in the coming week with the IMD having issued a ‘red alert’ in both the states till 8.30 am on Saturday.\nAccording to the IMD, dense to very dense fog conditions will prevail in 15 of the 23 districts of Punjab and 11 of 22 districts of Haryana.\nIn Punjab, the ‘red alert’ has been sounded in Amritsar, Taran Taran, Kapurthala,\nJalandhar, Ludhiana, Moga, Barnala, Bathinda, Mansa, Muktsar, Sangrur, Ferozepur, Fazilka, Patiala, Faridkot and Malerkotla.\nIn Haryana, Ambala, Karnal, Kurukshetra, Kaithal, Rohtak, Sonipat, Panipat, Sirsa, Fatehabad, Hisar and Jind have been put on ‘red alert’.\nThe IMD has also issued an ‘orange alert’ in both Punjab and Haryana after the end of the ‘red alerts’.\nMeanwhile, both the maximum and the minimum temperatures have dipped in the region, leading to cold and dry weather conditions.\nIn Punjab, the maximum temperature saw a dip of 4.9 degrees Celsius in just 24 hours. On Wednesday, the maximum temperature was recorded at 23.1 degrees Celsius in Pathankot while on Thursday, it dipped to 18.2 degrees Celsius in Bathinda and Faridkot.\nMeanwhile, the minimum temperature observed at 8.30 am on Friday was 4.7 degrees Celsius at the Ballowal observatory of Shaheed Bhagat Singh Nagar compared to the 5.6 degrees Celsius temperature on Thursday morning at the same location — thus recording a dip of 1.1 degrees Celsius.\nIn Haryana, the maximum temperature on Thursday morning was 24 degrees Celsius at the Narnaul observatory of Mahendergarh area which was 0.7 degrees Celsius on the higher side compared to Wednesday at the same place.\nThe minimum temperature in Haryana on Friday morning at 8.30 am was 7 degrees Celsius at Narnaul compared to 7.1 degrees at Bhiwani 24 hours ago.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "barnala",
+          "sentiment": "none"
+        },
+        {
+          "name": "mansa",
+          "sentiment": "none"
+        },
+        {
+          "name": "faridkot",
+          "sentiment": "none"
+        },
+        {
+          "name": "taran taran",
+          "sentiment": "none"
+        },
+        {
+          "name": "jind",
+          "sentiment": "none"
+        },
+        {
+          "name": "moga",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "imd",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "haryana",
+          "sentiment": "none"
+        },
+        {
+          "name": "punjab",
+          "sentiment": "none"
+        },
+        {
+          "name": "kapurthala",
+          "sentiment": "none"
+        },
+        {
+          "name": "sangrur",
+          "sentiment": "none"
+        },
+        {
+          "name": "ferozepur",
+          "sentiment": "none"
+        },
+        {
+          "name": "sonipat",
+          "sentiment": "none"
+        },
+        {
+          "name": "kurukshetra",
+          "sentiment": "none"
+        },
+        {
+          "name": "kaithal",
+          "sentiment": "none"
+        },
+        {
+          "name": "amritsar",
+          "sentiment": "none"
+        },
+        {
+          "name": "jalandhar",
+          "sentiment": "none"
+        },
+        {
+          "name": "rohtak",
+          "sentiment": "none"
+        },
+        {
+          "name": "sirsa",
+          "sentiment": "none"
+        },
+        {
+          "name": "panipat",
+          "sentiment": "none"
+        },
+        {
+          "name": "bathinda",
+          "sentiment": "none"
+        },
+        {
+          "name": "muktsar",
+          "sentiment": "none"
+        },
+        {
+          "name": "pathankot",
+          "sentiment": "none"
+        },
+        {
+          "name": "ludhiana",
+          "sentiment": "none"
+        },
+        {
+          "name": "malerkotla",
+          "sentiment": "none"
+        },
+        {
+          "name": "ambala",
+          "sentiment": "none"
+        },
+        {
+          "name": "fazilka",
+          "sentiment": "none"
+        },
+        {
+          "name": "fatehabad",
+          "sentiment": "none"
+        },
+        {
+          "name": "patiala",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T14:11:56.119+02:00",
+    "updated": "2023-12-29T14:11:56.119+02:00"
+  },
+  {
+    "uuid": "05b36d92461c0c771efe48913a8087cf9283599d",
+    "url": "https://stackoverflow.com/questions/77729314/mongoose-deleteone-and-deletemany-dont-work",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Danielrumata",
+    "published": "2023-12-28T22:15:00Z",
+    "title": "Mongoose deleteOne() and deleteMany() don't work",
+    "text": "I was working on a learning project creating a simple web application to write and store todos when I faced a problem that I wasn't be able to delete data in my MongoDB database. I created this simple js app with mongoose to recreate the problem. It creates item object with the name \"test\" and deletes all the objects with the \"test\" name. As you can see on the screenshot the app creates and stores successfully objects but ignores deleting them. I thank everyone in advance for the tips and help.\nscreenshot showing the problem\nMy code:\nconst express = require(\"express\"); const bodyParser = require(\"body-parser\"); const mongoose = require(\"mongoose\"); const app = express(); mongoose.connect(\"mongodb://localhost:27017/testDB\", {useNewUrlParser: true}); app.set('view engine', 'ejs'); app.use(bodyParser.urlencoded({extended: true})); app.use(express.static(\"public\")); const itemsSchema = new mongoose.Schema({ name: String }); const Item = mongoose.model(\"Item\", itemsSchema); const item1 = new Item({ name: \"test\" }); item1.save(); app.get(\"/\", function(req, res){ console.log(\"get request received\"); Item.deleteMany({name: \"test\"}); });\nTerminal output:\n$ node app.js (node:2868) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version (Use `node --trace-warnings ...` to show where the warning was created) Server started on port 3000 get request received\nMongoDB:\ntestDB> db.items.find() [ { _id: ObjectId('658de5a4687d08a6d992f578'), name: 'test', __v: 0 }, { _id: ObjectId('658de5df82d80828a24ef6ca'), name: 'test', __v: 0 }, { _id: ObjectId('658de60b1fb7cb4857d913d3'), name: 'test', __v: 0 }, { _id: ObjectId('658de6da74df4c07250fda5d'), name: 'test', __v: 0 }, { _id: ObjectId('658de7aedbb13b7d5c4da89f'), name: 'test', __v: 0 }, { _id: ObjectId('658de7e8503dc8af15ec99cb'), name: 'test', __v: 0 }, { _id: ObjectId('658de87c0af9b84f9e6447a3'), name: 'test', __v: 0 }, { _id: ObjectId('658de90b1037063646341713'), name: 'test', __v: 0 }, { _id: ObjectId('658de97076fcb27979948394'), name: 'test', __v: 0 }, { _id: ObjectId('658deda74e02782f66b75ae3'), name: 'test', __v: 0 } ]\nTried: deleteOne() and deleteMany() commands; Expected to happen: deleting all the elements with the name \"test\" in the database. Actually resulted: objects store in the database but no deleting of the elements happen.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:22:47.539+02:00",
+    "updated": "2023-12-29T00:22:47.539+02:00"
+  },
+  {
+    "uuid": "6db25d1f44c8ecf736cd0ad71052dd42d5c2ceb2",
+    "url": "https://lasillarota.com/estados/2024/8/8/bloqueo-mexico-puebla-de-nueva-cuenta-se-abre-autopista-de-manera-parcial-496039.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ISRAEL VELÁZQUEZ, MANUEL LÓPEZ Y FRANCISCO HERRERA",
+    "published": "2024-08-08T16:50:00Z",
+    "title": "Bloqueo México-Puebla de nueva cuenta se abre autopista de manera parcial | La Silla Rota",
+    "text": "PUEBLA.- Los ejidatarios de Santa Rita Tlahuapan que mantienen bloqueada la autopista México-Puebla desde el martes 6 de agosto, acordaron abrir por intervalos de dos horas ambos sentidos de la autopista, en el Arco Norte y el libramiento Apizaco-Huamantla, “como gesto de empatía y de que avancemos todos como sociedad”. El anuncio del acuerdo al que llegaron lo hicieron tanto los ejidatarios como Javier Aquino Limón, titular de la Secretaría de Gobernación en Puebla. Tras haber cerrado nuevamente el paso sobre la vialidad, alrededor de las 14:30 horas de este jueves 8 de agosto se volvió a reabrir la circulación. Se espera que sea nuevamente por un par de horas que los vehículos puedan atravesar, únicamente por uno de los carriles de la autopista. En conferencia de prensa, Patricia Rodríguez y Jorge Portilla, abogados de los ejidatarios fueron encarados por transportistas y ciudadanos que han estado varados por 47 horas. Los pobladores afirman que ganaron en tribunales el pago de las tierras donde se construyó la autopista México-Puebla y aún no tienen respuesta. Te podría interesar [ÚNETE A NUESTRO CANAL DE WHATSAPP. EL PODER DE LA INFORMACIÓN EN LA PALMA DE TU MANO](https://www.whatsapp.com/channel/0029Va6evSkGk1Ftej78ks0B) Los pobladores que exigen el pago pendiente de las tierras que les expropió el gobierno federal para la construcción de la vialidad y del Parque Nacional Izta-Popo. Te podría interesar Durante años han exigido un pago justo por sus tierras y aunque este miércoles comenzó a circular la imagen del cheque que con el que supuestamente el gobierno pagó más de 170 millones de pesos a unos 400 habitantes de Santa Rita Tlahuapan, hay entre los pobladores quienes afirman que no recibieron ni un peso. Abogados advierten que protesta seguirá Patricia Rodríguez y Jorge Portilla insisten en que la protesta seguirá porque el pago del que hablan las instancias de gobierno se hizo en 2018 pero sólo contempló al ejido de Tlahuapan y no al ejido Ignacio López Rayón, cuyos habitantes comenzaron a luchar para que les paguen una indemnización porque 41 hectáreas de sus tierras que fueron utilizadas en la delimitación del Parque Nacional Izta-Popo en 1935 y la construcción de la autopista México-Puebla en 1962. El bloqueo causó que desde el martes miles de automovilistas y transportistas quedaran atrapados desde Chalco si se va hacia Puebla, y desde San Matías Tlalancaleca si se viaja hacia la Ciudad de México. Y en la Centra del Autobuses (CAPU) se han retrasado las salidas de los viajeros a la Ciudad de México. El miércoles el presidente Andrés Manuel López Obrador acusó a un abogado de estar detrás de las protestas de los ejidatarios. En su conferencia de prensa en Palacio Nacional, dijo que \"pretende sacar raja de este conflicto” y pidió a los campesinos que no se dejen manipular ni engañar, y advirtió que su gobierno no se dejará chantajear por nadie: “los campesinos están perjudicando a mucha gente, al tener tapada la carretera (…) no se dejen manipular, engañar por este abogado que va a sacar, piensa él, provecho personal”. Sin embargo, este jueves moderó su discurso y anunció que el gobierno federal pagará a los ejidatarios que bloquean la autopista y la carretera federal México-Puebla conforme al avalúo de sus tierras. En su rueda de prensa matutina indicó que las autoridades correspondientes están en la búsqueda de un arreglo para retribuir a los manifestantes que están cortando la circulación, e insistió en que “no vamos a ceder violando lo que está establecido en las normas”. Agregó que “hay una instancia del gobierno federal encargada de hacer avalúos. Se hacen, se tiene el dinero para pagar a los campesinos, pero los abogados dicen ‘no estamos de acuerdo con el avalúo’. ¡Quieren más! Nosotros no podemos, como servidores públicos, pagar más de lo que se establece en un avalúo”. Bloqueo afecta circulación en el Edomex La protesta iniciada a las 11 horas del martes 6 de agosto cuando un grupo de cerca de 300 ejidatarios inició el bloqueo a la altura del kilómetro 70 de la autopista, en Santa Rita Tlahuapan, cabecera municipal de Tlahuapan, comenzó a provocar estragos viales en el Estado de México. La afectación llegó hasta el puente Blanco, en la zona de Valle de Chalco. La fila es de al menos 35 kilómetros. En algunas lonas que mostraron los ejidatarios se lee el nombre de Tonatihu Ramírez, a quien señalan como funcionario del gobierno estatal y a quien acusan de amenazarlos. Como en las ocasiones anteriores, los manifestantes también cerraron el paso de la carretera federal y del Arco Norte a la altura de Calpulapan, Tlaxcala. El Ayuntamiento de Tlahuapan informó por medio de un comunicado que mantenía el diálogo con los manifestantes en espera de una pronta solución al bloqueo. Los manifestantes instalaron lonas y mesas sobre la autopista bloqueada y anunciaron que si es necesario se quedarán varios días en el sitio hasta que se cumplan los acuerdos. En la Central de Autobuses de Puebla (CAPU) varias personas se quedaron varadas y quienes decidieron viajar a la Ciudad de México tuvieron que esperar cerca de una hora más para abordar sus corridas, las cuales tuvieron que utilizar vías alternas como la Autopista Siglo XXI, que comunica el municipio de Atlixco, en Puebla, con Cuautla, Morelos, lo que alargó sus viajes a más de cuatro horas. El pasado 12 de julio se registró un bloqueo similar que duró más de 10 horas hasta que se llegó a un acuerdo entre las autoridades estatales y los manifestantes para liberar la vialidad. Conflicto añejo Sobre el bloqueo en la México-Puebla, el presidente Andrés Manuel López Obrador señaló que detrás de esta situación está un abogado “oportunista” que busca “sacar raja política”. El mandatario señaló que no va a ceder ante este tipo actos, pero tampoco va a reprimir a los manifestantes, y que se pueden quedar ahí todo el tiempo, aunque pidió a los campesinos no dejarse engañar. En 2018, los pobladores de Tlahuapan llevaron su caso ante el gobierno federal, con quien negociaron un pago de 176 millones de pesos, el cual fue gestionado por Javier Aquino Limón, en ese entonces delegado de la Secretaría de Comunicaciones y Transportes (SCT) y hoy titular de la Secretaría de Gobernación estatal. La indemnización iba dirigida a 397 ejidatarios a quienes les fueron expropiadas 37 hectáreas de tierras de cultivo en la década de los 60 del siglo pasado. En 2021, los pobladores de Tlahuapan denunciaron ante el gobierno federal que los 176 millones los había desviado el tesorero municipal. En agosto de 2023, la Fiscalía General del Estado de Puebla (FGE) detuvo a dos personas por el robo de la indemnización a los ejidatarios, aunque hasta la fecha no se ha recuperado el dinero. \"Pueden quedarse ahí todo el tiempo\": AMLO a manifestantes En su conferencia matutina de este miércoles, el presidente Andrés Manuel López Obrador se dirigió a los manifestantes que mantienen un bloqueo total en la autopista México-Puebla, acusando a un abogado de intentar sacar provecho personal de la situación y advirtió a los campesinos sobre las posibles manipulaciones. “En la carretera de Puebla están haciendo un reclamo que no se pagó un derecho de vía de hace décadas, pero está un abogado detrás que está queriendo sacar raja, de estos abogados muy oportunistas. Lo digo aquí para que se sepa, porque mi pecho no es bodega y no vamos a estar encubriendo a nadie”, declaró López Obrador. El presidente hizo un llamado a los campesinos que bloquean la carretera, instándolos a no dejarse engañar ni manipular por el abogado en cuestión, a quien acusó de aprovecharse de la situación justo cuando su gobierno está por concluir. “Decirle a los campesinos que están perjudicando a mucha gente al tener tapada la carretera y que no se dejen manipular, engañar, por este abogado que va a sacar, piensa él, provecho personal y a lo mejor está pensando que como se está terminando mi gobierno ahora es el momento, pues no, porque nosotros no nos dejamos chantajear por nadie”, sentenció el presidente. López Obrador también reiteró su compromiso de no reprimir a los manifestantes, pero dejó claro que no habrá acuerdos bajo presión. “A lo mejor está pensando que como ya se está terminando mi gobierno, ahora es el momento, pues no porque nosotros no nos dejamos chantajear por nadie, nada más que sepan los campesinos que no van a ser reprimidos, porque nosotros no somos represores, nada más que así no hay ningún acuerdo, se pueden quedar ahí todo el tiempo”. \"No hay paso\": Transportistas pierden mercancía Transportistas que se encuentran varados en el Estado de México por el bloqueo registrado desde el pasado miércoles sobre la autopista México-Puebla, han comenzado a “perder” su cargamento debido a las altas temperaturas que se registran en el Valle de México. “No hay paso por ningún lado, y las guayabas, quemándose con el sol. Ya se están quemando, ya se están echando a perder. Todas las de encima se cuecen, ya es pérdida”, explicó Efraín, varado a la altura de San Isidro, en Valle de Chalco. Pretendía llegar a San Salvador Huixcolotla, en Puebla cargado con tres toneladas y media de fruta para conseguir la venta de temporada que lograron cosechar en Jungapeo, Michoacán. “Pura pérdida de tiempo de merca y de todo y nadie hace nada”, agregó. “Iba a ir a entregarlas, pero así como le hacemos, no se puede. Cómo nos vamos a sentir, pues pinche desesperación y sin poder hacer nada”. ¿Es producto de mucho esfuerzo?, se le pregunta. Es de dónde come varia gente, de nuestro rancho e igual acá en Puebla. Más de 35 kilómetros de unidades varadas Algunos han conseguido comida en puestos cercanos y con vendedores ambulantes, además de buscar servicios de sanitarios y estar en vela ante el temor de ser asaltados. “Es estar en chinga, o te puedes dormir porque si no te asaltan. Aquí no puedes relajarte, tienes que cerrar bien y esperar, porque no hay más”, reconoció Efraín mientras revisaba su mercancía. “Desde las tres de la mañana estamos aquí plantados, no hay forma de irse a otro lado. ¿A dónde nos salimos? Aquí nadie nos ha dicho nada, si se va a abrir, si no”, agregó. Hasta la tarde de este miércoles, la extensión de la vía afectada alcanza los 35 kilómetros en el Estado de México, principalmente desde el municipio de Chalco, hasta la comunidad de Río Frío, en Ixtapaluca, colindante con el estado de Puebla. “Cuando mucho, se necesita que amanezca allá mañana y eso porque la de encima ya se va a chingar, la de abajo todavía aguanta, pero si mañana nos retienen aquí en el día ya valió madre”, explicó Efraín. Gobernador de Puebla se pronuncia contra bloqueo “No se dejen envolver por quienes dicen defenderlos. Están siendo engañados, y quedando expuestos ante la sociedad que se siente agraviada por el bloqueo”, dijo el gobernador Sergio Salomón Céspedes Peregrina, a los ejidatarios de Santa Rita Tlahuapan que mantienen bloqueada la autopista México-Puebla. En sus redes sociales publicó un texto en el que dice compartir “la indignación de miles de usuarios de esta vía de comunicación que han visto afectadas sus actividades laborales y personales desde el día de ayer en la tarde. Entiendo el malestar y lo hago propio.” Céspedes Peregrina agregó que como ya lo hizo patente el presidente Andrés Manuel López Obrador existen intereses particulares detrás de los bloqueos. A lo largo del día, dijo, en colaboración con las autoridades federales, hemos buscado el diálogo que nos permita un acuerdo, pero “no ha sido posible hasta el momento”. El estado ha tenido presencia con elementos de Seguridad Pública y personal médico para auxiliar a los usuarios, facilitar puntos de desviación y coadyuvar con la Guardia Nacional en la salvaguarda de las personas que ahí transitan, señaló el gobernador de Puebla. Dijo que ha sostenido contacto permanente con la Secretaría de Gobernación federal, porque “creo en el uso de la razón y la vía del diálogo como mecanismo de resolución de cualquier divergencia. Por eso reitero el llamado al grupo de manifestantes para que no se dejen envolver por quienes dicen defenderlos\". Señaló que el gobierno de Puebla, en apoyo y colaboración con el gobierno de México, seguirá pugnando por una solución inmediata con el fin de que se deje de afectar el derecho de terceros.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.whatsapp.com/channel/0029Va6evSkGk1Ftej78ks0B)",
+      "https://whatsapp.com/channel/0029Va6evSkGk1Ftej78ks0B)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:43:03.804+03:00",
+    "updated": "2024-08-09T00:43:03.804+03:00"
+  },
+  {
+    "uuid": "698aac56d099d21d280ac1d1e1c1e65751c8337a",
+    "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/met-office-issues-six-warnings-28365199",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ethan Davies City Centre Reporter",
+    "published": "2023-12-29T16:44:00Z",
+    "title": "Met Office issues six warnings across UK ahead of weekend of bad weather - Manchester Evening News",
+    "text": "\nNews By Ethan Davies City Centre Reporter 16:44, 29 DEC 2023 Bookmark\nA tornado caused damage to houses in Stalybridge earlier this week (Image: Ryan Jenkinson | Manchester Evening News) Sign up for our daily newsletter to get the day's biggest stories sent direct to your inbox\nMore Newsletters\nSubscribe Invalid email Something went wrong, please try again later. More Newsletters\nWe use your sign-up to provide content in ways you’ve consented to and improve our understanding of you. This may include adverts from us and third parties based on our knowledge of you. More info Thank you for subscribing! We have more newsletters\nShow me See Our Privacy Notice See Our Privacy Notice × Group 28\nSign up for our daily newsletter to get the day's biggest stories sent direct to your inbox\nInvalid email Something went wrong, please try again later. Sign Up No thanks, close We use your sign-up to provide content in ways you’ve consented to and improve our understanding of you. This may include adverts from us and third parties based on our knowledge of you. More info × Group 28\nThank you for subscribing! We have more newsletters\nShow Me No thanks, close See our Privacy Notice The UK is set for a night of bad weather this weekend as six warnings are in place across the country.\nAll of the warnings, issued by the Met Office, are yellow. None cover Greater Manchester, but in total they do cover a large portion of the country.\nThree warnings are in place for rain and snow in Scotland, one is in Northern Ireland for rain, as is one covering most of Wales, and another is in place for wind for much of southern and western England, plus Wales.\nREAD MORE: The Tameside tornado: What is a &apos;supercell thunderstorm&apos; and how common are they in the UK?\nREAD MORE: &apos;We were lucky to get out alive&apos; - Huge clean-up operation as town counts the cost of 160mph &apos;tornado&apos;\nThey follow a period of turbulent weather in the UK which has seen a tornado hit Greater Manchester on Wednesday, leaving devastation in its wake . The warnings are as follows:\nIsle of Lewis, Scotland: Yellow warning for rain and snow from 8am on Saturday (December 30) to the end of the day.\nHighlands, Scotland: Yellow warning for rain and snow from 8am on Saturday (December 30) to the end of the day.\nLowlands, Scotland: Yellow warning for rain and snow from 8am on Saturday (December 30) to the end of the day.\nNorthern Ireland: Yellow warning for rain from 4am to 11am on Saturday.\nWales: Yellow warning for rain from 10am to 6pm on Saturday.\nSouthern and western England, and Wales: Yellow weather warning for wind from 11am on Saturday to 3am on Sunday (December 31).\nThe Met Office says it’s likely there will be disruption to transport networks, and powercuts may take place. Its alert said: “Some delays to road, rail, air and ferry transport are likely. It’s likely that some coastal routes, sea fronts and coastal communities will be affected by spray and/or large waves.\n“Probably some bus and train services affected, with some journeys taking longer. Some short term loss of power and other services is possible. Delays for high-sided vehicles on exposed routes and bridges likely.”\nStory Saved You can find this story in My Bookmarks. Or by navigating to the user icon in the top right.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ethan davies",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ryan jenkinson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "met office",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "uk",
+          "sentiment": "none"
+        },
+        {
+          "name": "stalybridge",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T18:55:25.935+02:00",
+    "updated": "2023-12-30T00:29:11.334+02:00"
+  }
+]

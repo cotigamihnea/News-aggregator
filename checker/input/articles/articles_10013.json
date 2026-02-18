@@ -1,0 +1,192 @@
+[
+  {
+    "uuid": "379ca8b7c2805ff04d0a33fa8f493dcc99d18772",
+    "url": "https://www.sandiegouniontribune.com/opinion/letters-to-the-editor/story/2024-01-25/opinion-e-scooters-bird-climate-city-council-san-diego-regulation-downtown",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@UTletters",
+    "published": "2024-01-25T22:35:00Z",
+    "title": "Opinion: E-scooters are a menace to society. Keep them away. - The San Diego Union-Tribune",
+    "text": "Re “San Diego has a plan to woo back scooter companies” (Jan. 20): Anyone walking on the sidewalks in Downtown San Diego feels much safer since the electric scooters have disappeared. Walking became a dangerous sport when scooters were zipping by at high speeds with no regards to pedestrians. Furthermore, people were leaving scooters strewn all over, which became a menace for people with disabilities, especially the blind. Regarding helping with the city’s climate action plan, this is a complete joke. No one is using the scooters for trips that would amount to much, if any, pollution. If there is that much concern for air quality, the city would look into why we run numerous large buses through Downtown that are either empty or contain just a few riders. The city’s air quality would benefit from more increased bus ridership than the dangerous situation brought on by the electric scooters. Adrian Fremont Marina District",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Environment",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "san diego union",
+          "sentiment": "none"
+        },
+        {
+          "name": "downtown san diego",
+          "sentiment": "none"
+        },
+        {
+          "name": "san diego",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:43:42.496+02:00",
+    "updated": "2024-01-26T01:51:01.906+02:00"
+  },
+  {
+    "uuid": "7e39da108c191067de8c543425c94422a74a8d45",
+    "url": "https://www.princegeorgecitizen.com/national-sports/cfl-fines-edmonton-quarterback-bethel-thompson-for-public-criticism-of-schedule-9270024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Canadian Press",
+    "published": "2024-07-25T21:02:00Z",
+    "title": "CFL fines Edmonton quarterback Bethel-Thompson for public criticism of schedule - Prince George Citizen",
+    "text": "TORONTO — A second condemnation of the CFL schedule has earned Edmonton Elks quarterback McLeod Bethel-Thompson another fine. The CFL announced Thursday it was penalizing Bethel-Thompson for a second violation of its code of conduct. Following Edmonton's 20-14 loss to Ottawa on Friday, Bethel-Thompson was publicly critical of the league having both teams play on five days rest. It marked the second time this season that Bethel-Thompson has publicly criticized the league for scheduling the Elks to play games five days apart. After dropping a 39-36 decision in Toronto on June 22, Edmonton was on the short end of a 24-21 score in Vancouver to the B.C. Lions on June 27. The league also fined Edmonton defensive back Loucheiz Purifoy for delivering a high hit on Ottawa receiver Bralon Addison. As well, Winnipeg linebacker Adam Bighill was fined for unnecessary roughness after driving Saskatchewan quarterback Shea Patterson into the ground late in the Riders' 19-9 victory. Bighill was disciplined for hitting Patterson as he rolled out to pass on the final play of the game. As per league policy, the amounts of the fines were not disclosed. This report by The Canadian Press was first published July 25, 2024. The Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "george citizen",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mcleod beth",
+          "sentiment": "negative"
+        },
+        {
+          "name": "thompson",
+          "sentiment": "negative"
+        },
+        {
+          "name": "loucheiz purifoy",
+          "sentiment": "none"
+        },
+        {
+          "name": "adam bighill",
+          "sentiment": "none"
+        },
+        {
+          "name": "bighill",
+          "sentiment": "none"
+        },
+        {
+          "name": "bralon addison",
+          "sentiment": "none"
+        },
+        {
+          "name": "shea patterson",
+          "sentiment": "none"
+        },
+        {
+          "name": "patterson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "edmonton elks",
+          "sentiment": "negative"
+        },
+        {
+          "name": "edmonton",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cfl",
+          "sentiment": "negative"
+        },
+        {
+          "name": "saskatchewan",
+          "sentiment": "none"
+        },
+        {
+          "name": "b.c. lions",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "vancouver",
+          "sentiment": "none"
+        },
+        {
+          "name": "winnipeg",
+          "sentiment": "none"
+        },
+        {
+          "name": "toronto",
+          "sentiment": "none"
+        },
+        {
+          "name": "edmonton",
+          "sentiment": "none"
+        },
+        {
+          "name": "bethel",
+          "sentiment": "none"
+        },
+        {
+          "name": "ottawa",
+          "sentiment": "none"
+        },
+        {
+          "name": "toronto",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-26T00:17:03.903+03:00",
+    "updated": "2024-07-26T00:17:03.903+03:00"
+  },
+  {
+    "uuid": "00fd140f3fcac125fe488ffbae355906ad0eaeaa",
+    "url": "https://efe.com/ciencia-y-tecnologia/2024-06-13/microsoft-admite-fallos-que-facilitaron-ataque-espia-chino-a-ee-uu",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "alfonsohernandezgo",
+    "published": "2024-06-13T21:56:00Z",
+    "title": "Microsoft admite fallos que facilitaron ataque de espía chino a la ciberseguridad de EE.UU.",
+    "text": "Nueva York (EFE).- El presidente de Microsoft, Brad Smith, admitió este jueves ante un comité de Seguridad Nacional de la Cámara Baja estadounidense la \\\"responsabilidad\\\" de su compañía por \\\"deficiencias de ciberseguridad\\\" que facilitaron ataques de espías chinos en 2023 para acceder a datos de altos funcionarios de EE.UU. Un informe publicado en abril por la Junta de Revisión de la Ciberseguridad de EE.UU. (CSRB), formada por expertos del Gobierno y del sector privado en esta materia, apuntó contra Microsoft por una cadena de errores que \\\"pudo haber evitado\\\" y que, a la postre, permitieron a los 'hackers' acceder al sistema del gigante tecnológico y a cuentas de correo electrónico de altos mandos. \\\"Microsoft acepta la responsabilidad de todos y cada uno de los problemas citados en el informe de la CSRB. Sin equívocos ni vacilaciones. Y sin ningún tipo de sensación de estar a la defensiva\\\", afirmó Smith ante los legisladores estadounidenses en la Cámara de Representantes. Microsoft pide disculpas El presidente de la empresa fundada por Bill Gates también aceptó en el comité que lo interrogaba por sus implicaciones sobre la seguridad del país que pueden y deben implementar mayores medidas para que la situación no vuelva a repetirse. Logo de Microsoft en una tienda en Nueva York. EFE/Justin Lane/ Archivo \\\"Reconocemos que podemos y debemos hacerlo mejor, y pedimos disculpas y expresamos nuestro más profundo pesar a aquellos que se han visto afectados\\\", dijo Smith ante el Comité de Seguridad Nacional de la Cámara de Representantes. El ejecutivo de Microsoft también informó que ya están aplicando 16 de las 25 recomendaciones de seguridad que le ha trasladado la Junta -4 de ellas dirigidas específicamente a su empresa y otras 12 a sus proveedores de servicios en la nube- y que han agregado otros objetivos concretos para blindarse ante nuevos ataques. Ataques desde China y Rusia En el último año, Microsoft ha sido objeto de dos graves campañas de piratería informática presuntamente llevadas a cabo por espías de China y de Rusia para atentar contra la ciberseguridad de EE.UU. \\\"En noviembre pasado lanzamos una iniciativa para toda la empresa, llamada Secure Future Initiative (SFI), para actuar en base a este aprendizaje. Ampliamos este trabajo en enero después de un ataque agresivo por parte de la Agencia Rusa de Inteligencia Exterior, o SVR, y luego lo ampliamos nuevamente en marzo después del informe CSRB\\\", añadió Smith. Durante su declaración ante la Cámara Baja estadounidense, Smith también hizo hincapié en el \\\"papel único\\\" que desempeña Microsoft en la protección de la ciberseguridad de Estados Unidos y en su \\\"deber colectivo\\\": \\\"En el mundo actual, la nación de Estados Unidos no puede protegerse sin proteger el dominio cibernético\\\", sintetizó.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-14T01:07:45.099+03:00",
+    "updated": "2024-06-14T01:31:57.475+03:00"
+  }
+]

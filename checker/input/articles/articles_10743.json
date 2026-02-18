@@ -1,0 +1,188 @@
+[
+  {
+    "uuid": "74389d54464eb7bf0f75c5e9a35f96d0d40197ab",
+    "url": "https://askubuntu.com/questions/1403817/i-cant-turn-on-bluetooth-in-ubuntu-22-04-lts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "DSKTP DSKTP",
+    "published": "2024-08-30T08:57:00Z",
+    "title": "I can't turn on Bluetooth in Ubuntu 22.04 LTS",
+    "text": "Just installed a fresh copy of Ubuntu 22.04 LTS on my Lenovo laptop and the entire Bluetooth system doesn't work (I mean the toggle doesn't work). I'm getting the message shown in the below screenshot:\nHere is the output of\nlspci -knn | grep Net -A3; lsusb; dmesg | grep -i blue:\n09:00.0 Network controller [0280]: Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter [168c:0036] (rev 01) Subsystem: Lenovo QCA9565 / AR9565 Wireless Network Adapter [17aa:4026] Kernel driver in use: ath9 Kernel modules: ath9k Bus 001 Device 002: ID 8087:8001 Intel Corp. Integrated Hub Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub Bus 003 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub Bus 002 Device 004: ID 0cf3:3004 Qualcomm Atheros Communications AR3012 Bluetooth 4.0 Bus 002 Device 003: ID 13d3:5727 IMC Networks Lenovo EasyCamera Bus 002 Device 002: ID 1c4f:0c07 SiGma Micro USB Keyboard Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub dmesg: read kernel buffer failed: Operation not permitted\nI tried everything, but can't make it work. Am I missing something?",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "lenovo",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "intel corp",
+          "sentiment": "none"
+        },
+        {
+          "name": "qualcomm atheros communications",
+          "sentiment": "none"
+        },
+        {
+          "name": "integrated hub",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ubuntu",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T12:09:09.054+03:00",
+    "updated": "2024-08-30T12:09:09.054+03:00"
+  },
+  {
+    "uuid": "15957d32a5dc61e850b32dba6a3a219a67f0ef96",
+    "url": "https://www.kxxv.com/news/texas-news/gov-abbott-requests-more-counties-be-added-to-federal-disaster-declaration-assistance",
+    "ord_in_thread": 0,
+    "author": "Taylor Helmes",
+    "published": "2025-07-10T21:48:00Z",
+    "title": "Gov. Abbott requests more counties be added to federal disaster declaration",
+    "text": "CENTRAL TEXAS (KXXV) — Gov. Greg Abbott directed the Texas Division of Emergency Management (TDEM) to request more counties be added to President Trump's Major Disaster Declaration for recent catastrophic flooding that began impacting the state last week.\nFive counties, including Burnet, San Saba, Tom Green, Travis and Williamson, are requested to be eligible for Federal Emergency Management Agency (FEMA) Individual Assistance programs and four counties, Kendall, Kimble, Menard and San Saba, are requested to be eligible for FEMA's Public Assistance Program.\n\"The State of Texas continues to stand with those impacted by the devastating flooding across the state,\" Gov. Abbott said in a press release. \"Today, I directed the Texas Division of Emergency Management to request additional counties be added to the Presidential Disaster Declaration as they work to heal and recover. I thank President Trump and his Administration for their swift and continued support. Texas will continue to deploy all available resources and support to help those impacted until the job is done.\"\nDamage assessments reviews in Burnet, San Saba, Tom Green, Travis and Williamson counties show an excess of federal criteria for disaster assistance and may be eligible for federal programs , which provide financial assistance to help with qualifying disaster-related expenses.\nMore counties may be added as more damage assessments are completed in impacted communities.\nOn Sunday, Pres. Trump approved the Governor’s request for a Major Disaster Declaration for Kerr County after devastating flooding that began last week.\nThe approval allows qualifying Texans in Kerr County who sustained damage to apply for grant funding to assist with repair and recovery expenses.\nGov. Abbott continues to take action to provide all necessary resources to local officials as they respond to flooding, including:\nDirecting the state’s ongoing flood response and recovery efforts Announcing disaster unemployment assistance for flood impacts Surveying the flood damage of the affected areas and updating Texans on response efforts Providing an update on the state’s ongoing flood response in impacted communities Obtaining approval from President Trump for federal disaster assistance as part of a Major Disaster Declaration Amending the state’s disaster declaration to include additional impacted counties and providing an update on the state’s emergency response in affected areas Providing an update on the state’s response to severe flooding in Kerr County and surrounding communities Increasing the readiness level of the State Operations Center and activating additional state emergency response resources as portions of West and Central Texas prepared for heavy rainfall and flash flooding threats Deploying state emergency response resources ahead of the rain and flooding threat The recent flooding has left families and entire communities in urgent need of support. Scripps News and the Scripps Howard Fund are partnering to provide critical relief. Every dollar donated will go directly toward helping victims recover.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Disaster and Accident"
+    ],
+    "topics": [
+      "Politics->government",
+      "Politics->local government and authority",
+      "Politics->safety of citizens",
+      "Social Issue->demographics",
+      "Social Issue->communities",
+      "Social Issue->social services",
+      "Disaster and Accident->disaster",
+      "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://urldefense.com/v3/__https://links-1.govdelivery.com/CL0/https:*2F*2Fgcc02.safelinks.protection.outlook.com*2F*3Furl=https*253A*252F*252Fgov.texas.gov*252Fnews*252Fpost*252Fgovernor-abbott-provides-update-on-texas-response-to-hill-country-flooding-*26data=05*257C02*257Calejandro.coronel*2540gov.texas.gov*257Cda71773496c74cdf2c4408ddbfc3b007*257C54cb5da6c7344242bbc25c947e85fb2c*257C0*257C1*257C638877569373824497*257CUnknown*257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpb",
+      "https://urldefense.com/v3/__https://links-1.govdelivery.com/CL0/https:*2F*2Flinks-1.govdelivery.com*2FCL0*2Fhttps:*252F*252Fgcc02.safelinks.protection.outlook.com*252F*253Furl=https*25253A*25252F*25252Fgov.texas.gov*25252Fnews*25252Fpost*25252Fgovernor-abbott-provides-update-on-texas-continued-response-to-texas-flooding*2526data=05*25257C02*25257Calejandro.coronel*252540gov.texas.gov*25257Cda71773496c74cdf2c4408ddbfc3b007*25257C54cb5da6c7344242bbc25c947e85fb2c*25257C0*25257C1*25257C638877569373797706*25257CUnknown*252",
+      "https://urldefense.com/v3/__https://links-1.govdelivery.com/CL0/https:*2F*2Fgcc02.safelinks.protection.outlook.com*2F*3Furl=https*253A*252F*252Fgov.texas.gov*252Fnews*252Fpost*252Fgovernor-abbott-announces-disaster-unemployment-assistance-for-texas-flooding*26data=05*257C02*257Calejandro.coronel*2540gov.texas.gov*257Cda71773496c74cdf2c4408ddbfc3b007*257C54cb5da6c7344242bbc25c947e85fb2c*257C0*257C1*257C638877569373754836*257CUnknown*257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWF",
+      "https://urldefense.com/v3/__https://links-1.govdelivery.com/CL0/https:*2F*2Fgov.texas.gov*2Fnews*2Fpost*2Fgovernor-abbott-announces-federal-disaster-declaration-approval-for-hill-country-flooding/1/01000197f6390225-b27a4a8d-c6af-4df3-9a82-7477aa40f10f-000000/YaPt4Z6bML7pmNNg61a6TO91ctvn7spgzSRWs6eicPA=413__;JSUlJSU!!FJkDyvWmnr4!bzISw-iFfMG7WgCX4dC1bYVw-Sbzd7b3KSjxds7jX8gVBFUpdo3WB0EM2sIrkdLNCf9ztSUyoeNOrjVr4ZiPTv65OqFtG_plIQ$",
+      "https://www.scrippsnews.com/relief",
+      "https://urldefense.com/v3/__https://links-1.govdelivery.com/CL0/https:*2F*2Fgcc02.safelinks.protection.outlook.com*2F*3Furl=https*253A*252F*252Fgov.texas.gov*252Fnews*252Fpost*252Fgovernor-abbott-provides-update-on-texas-response-to-hill-country-flooding*26data=05*257C02*257Calejandro.coronel*2540gov.texas.gov*257Cda71773496c74cdf2c4408ddbfc3b007*257C54cb5da6c7344242bbc25c947e85fb2c*257C0*257C1*257C638877569373838204*257CUnknown*257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbC",
+      "https://urldefense.com/v3/__https://links-1.govdelivery.com/CL0/https:*2F*2Flinks-1.govdelivery.com*2FCL0*2Fhttps:*252F*252Fgcc02.safelinks.protection.outlook.com*252F*253Furl=https*25253A*25252F*25252Fgov.texas.gov*25252Fnews*25252Fpost*25252Fgovernor-abbott-continues-state-response-recovery-efforts-for-texans-impacted-by-flooding*2526data=05*25257C02*25257Calejandro.coronel*252540gov.texas.gov*25257Cda71773496c74cdf2c4408ddbfc3b007*25257C54cb5da6c7344242bbc25c947e85fb2c*25257C0*25257C1*25257C638877569373741136*25257",
+      "https://urldefense.com/v3/__https://links-1.govdelivery.com/CL0/https:*2F*2Fgcc02.safelinks.protection.outlook.com*2F*3Furl=https*253A*252F*252Ftdem.texas.gov*252Fpress-release*252F7-3-25*26data=05*257C02*257Calejandro.coronel*2540gov.texas.gov*257Cda71773496c74cdf2c4408ddbfc3b007*257C54cb5da6c7344242bbc25c947e85fb2c*257C0*257C1*257C638877569373851970*257CUnknown*257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ*253D*253D*257C0*257C*257C*257C*26sdata=IczEa6gpy*252BF",
+      "https://urldefense.com/v3/__https://links-1.govdelivery.com/CL0/https:*2F*2Fgcc02.safelinks.protection.outlook.com*2F*3Furl=https*253A*252F*252Fgov.texas.gov*252Fnews*252Fpost*252Fgovernor-abbott-surveys-flood-damage-provides-update-on-continued-response-to-texas-flooding*26data=05*257C02*257Calejandro.coronel*2540gov.texas.gov*257Cda71773496c74cdf2c4408ddbfc3b007*257C54cb5da6c7344242bbc25c947e85fb2c*257C0*257C1*257C638877569373767923*257CUnknown*257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4z",
+      "https://urldefense.com/v3/__https://links-1.govdelivery.com/CL0/https:*2F*2Fgcc02.safelinks.protection.outlook.com*2F*3Furl=https*253A*252F*252Ftdem.texas.gov*252Fpress-release*252F7-2-25*26data=05*257C02*257Calejandro.coronel*2540gov.texas.gov*257Cda71773496c74cdf2c4408ddbfc3b007*257C54cb5da6c7344242bbc25c947e85fb2c*257C0*257C1*257C638877569373865192*257CUnknown*257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ*253D*253D*257C0*257C*257C*257C*26sdata=QHRRrnJjhFUSmVH",
+      "https://urldefense.com/v3/__https://links-1.govdelivery.com/CL0/https:*2F*2Fgcc02.safelinks.protection.outlook.com*2F*3Furl=https*253A*252F*252Fgov.texas.gov*252Fnews*252Fpost*252Fgovernor-abbott-announces-federal-disaster-declaration-approval-for-hill-country-flooding*26data=05*257C02*257Calejandro.coronel*2540gov.texas.gov*257Cda71773496c74cdf2c4408ddbfc3b007*257C54cb5da6c7344242bbc25c947e85fb2c*257C0*257C1*257C638877569373811302*257CUnknown*257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiI",
+      "https://www.fema.gov/assistance/individual",
+      "https://fema.gov/assistance/individual",
+      "https://www.urldefense.com/v3/__https://www.links-1.govdelivery.com/CL0/https:*2F*2Flinks-1.govdelivery.com*2FCL0*2Fhttps:*252F*252Fgcc02.safelinks.protection.outlook.com*252F*253Furl=https*25253A*25252F*25252Fgov.texas.gov*25252Fnews*25252Fpost*25252Fgovernor-abbott-continues-state-response-recovery-efforts-for-texans-impacted-by-flooding*2526data=05*25257C02*25257Calejandro.coronel*252540gov.texas.gov*25257Cda71773496c74cdf2c4408ddbfc3b007*25257C54cb5da6c7344242bbc25c947e85fb2c*25257C0*25257C1*25257C638877569373741136*25257",
+      "https://www.urldefense.com/v3/__https://www.links-1.govdelivery.com/CL0/https:*2F*2Fgcc02.safelinks.protection.outlook.com*2F*3Furl=https*253A*252F*252Ftdem.texas.gov*252Fpress-release*252F7-3-25*26data=05*257C02*257Calejandro.coronel*2540gov.texas.gov*257Cda71773496c74cdf2c4408ddbfc3b007*257C54cb5da6c7344242bbc25c947e85fb2c*257C0*257C1*257C638877569373851970*257CUnknown*257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ*253D*253D*257C0*257C*257C*257C*26sdata=IczEa6gpy*252BF",
+      "https://scrippsnews.com/relief",
+      "https://www.urldefense.com/v3/__https://www.links-1.govdelivery.com/CL0/https:*2F*2Flinks-1.govdelivery.com*2FCL0*2Fhttps:*252F*252Fgcc02.safelinks.protection.outlook.com*252F*253Furl=https*25253A*25252F*25252Fgov.texas.gov*25252Fnews*25252Fpost*25252Fgovernor-abbott-provides-update-on-texas-continued-response-to-texas-flooding*2526data=05*25257C02*25257Calejandro.coronel*252540gov.texas.gov*25257Cda71773496c74cdf2c4408ddbfc3b007*25257C54cb5da6c7344242bbc25c947e85fb2c*25257C0*25257C1*25257C638877569373797706*25257CUnknown*252",
+      "https://www.urldefense.com/v3/__https://www.links-1.govdelivery.com/CL0/https:*2F*2Fgcc02.safelinks.protection.outlook.com*2F*3Furl=https*253A*252F*252Fgov.texas.gov*252Fnews*252Fpost*252Fgovernor-abbott-provides-update-on-texas-response-to-hill-country-flooding-*26data=05*257C02*257Calejandro.coronel*2540gov.texas.gov*257Cda71773496c74cdf2c4408ddbfc3b007*257C54cb5da6c7344242bbc25c947e85fb2c*257C0*257C1*257C638877569373824497*257CUnknown*257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpb",
+      "https://www.urldefense.com/v3/__https://www.links-1.govdelivery.com/CL0/https:*2F*2Fgcc02.safelinks.protection.outlook.com*2F*3Furl=https*253A*252F*252Ftdem.texas.gov*252Fpress-release*252F7-2-25*26data=05*257C02*257Calejandro.coronel*2540gov.texas.gov*257Cda71773496c74cdf2c4408ddbfc3b007*257C54cb5da6c7344242bbc25c947e85fb2c*257C0*257C1*257C638877569373865192*257CUnknown*257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ*253D*253D*257C0*257C*257C*257C*26sdata=QHRRrnJjhFUSmVH",
+      "https://www.urldefense.com/v3/__https://www.links-1.govdelivery.com/CL0/https:*2F*2Fgcc02.safelinks.protection.outlook.com*2F*3Furl=https*253A*252F*252Fgov.texas.gov*252Fnews*252Fpost*252Fgovernor-abbott-provides-update-on-texas-response-to-hill-country-flooding*26data=05*257C02*257Calejandro.coronel*2540gov.texas.gov*257Cda71773496c74cdf2c4408ddbfc3b007*257C54cb5da6c7344242bbc25c947e85fb2c*257C0*257C1*257C638877569373838204*257CUnknown*257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbC",
+      "https://www.urldefense.com/v3/__https://www.links-1.govdelivery.com/CL0/https:*2F*2Fgov.texas.gov*2Fnews*2Fpost*2Fgovernor-abbott-announces-federal-disaster-declaration-approval-for-hill-country-flooding/1/01000197f6390225-b27a4a8d-c6af-4df3-9a82-7477aa40f10f-000000/YaPt4Z6bML7pmNNg61a6TO91ctvn7spgzSRWs6eicPA=413__;JSUlJSU!!FJkDyvWmnr4!bzISw-iFfMG7WgCX4dC1bYVw-Sbzd7b3KSjxds7jX8gVBFUpdo3WB0EM2sIrkdLNCf9ztSUyoeNOrjVr4ZiPTv65OqFtG_plIQ$",
+      "https://www.urldefense.com/v3/__https://www.links-1.govdelivery.com/CL0/https:*2F*2Fgcc02.safelinks.protection.outlook.com*2F*3Furl=https*253A*252F*252Fgov.texas.gov*252Fnews*252Fpost*252Fgovernor-abbott-surveys-flood-damage-provides-update-on-continued-response-to-texas-flooding*26data=05*257C02*257Calejandro.coronel*2540gov.texas.gov*257Cda71773496c74cdf2c4408ddbfc3b007*257C54cb5da6c7344242bbc25c947e85fb2c*257C0*257C1*257C638877569373767923*257CUnknown*257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4z",
+      "https://www.urldefense.com/v3/__https://www.links-1.govdelivery.com/CL0/https:*2F*2Fgcc02.safelinks.protection.outlook.com*2F*3Furl=https*253A*252F*252Fgov.texas.gov*252Fnews*252Fpost*252Fgovernor-abbott-announces-disaster-unemployment-assistance-for-texas-flooding*26data=05*257C02*257Calejandro.coronel*2540gov.texas.gov*257Cda71773496c74cdf2c4408ddbfc3b007*257C54cb5da6c7344242bbc25c947e85fb2c*257C0*257C1*257C638877569373754836*257CUnknown*257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWF",
+      "https://www.urldefense.com/v3/__https://www.links-1.govdelivery.com/CL0/https:*2F*2Fgcc02.safelinks.protection.outlook.com*2F*3Furl=https*253A*252F*252Fgov.texas.gov*252Fnews*252Fpost*252Fgovernor-abbott-announces-federal-disaster-declaration-approval-for-hill-country-flooding*26data=05*257C02*257Calejandro.coronel*2540gov.texas.gov*257Cda71773496c74cdf2c4408ddbfc3b007*257C54cb5da6c7344242bbc25c947e85fb2c*257C0*257C1*257C638877569373811302*257CUnknown*257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiI"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-11T01:43:22.098+03:00",
+    "updated": "2025-07-10T22:47:04.000+00:00"
+  },
+  {
+    "uuid": "e7cd346e9deb8b2213ce33903caa6a345a2edb0f",
+    "url": "https://80.lv/articles/announcing-the-judging-panel-for-the-80-level-community-metasites-challenge/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kirill Tokarev",
+    "published": "2024-01-05T18:22:00Z",
+    "title": "Announcing the Judging Panel for the 80 Level Community Metasites Challenge",
+    "text": "Meet the distinguished panel of experts who will be picking the winners.\nWe are lucky to have such distinguished and talented judges on the panel to help us select the winners. The panel will thoroughly review each submission,for creativity and innovation, aesthetics, and impeccable execution. Our esteemed judges will be leading the voting process through the semi-final and final rounds. The final stage will see our panel of judges come together to choose the three winners.\nTechnical Art Director @ People Can Fly\nBrian Christopher Harvey is a Creative Director with a diverse background in the film, VFX, and gaming industries. Throughout his career, he has been dedicated to crafting compelling visual narratives that push the boundaries of imagination. Each frame he creates is a meticulous fusion of art and technology. Recently, he collaborated with Epic Games on the FNCS 23 show, gaining hands-on experience with Unreal's impressive Avalanche plugin. Currently, he holds the position of Technical Art Director at People Can Fly, an innovative game studio, where he combines his passion for visual storytelling with the dynamic interactivity unique to video games.\nFounder at Territory Studio\nDavid co-founded Territory Studio in 2010, a specialist studio that draws on expertise in narrative-led creative design to imagine, realize, and build new worlds. Leading studio locations in the UK, the US, and mainland Europe, David’s love of storytelling, technology, and his eye for emotive details have grown and established the studio’s reputation for beautifully crafted, design-led graphic narratives spanning all genres and media. In 2022, David co-founded Territory Group, a global collective of creative businesses including Territory Studio and Cantina Collective, unlocking further potential for success and growth capacity. In addition to winning Motion Awards and D&AD’s, Territory Studio’s work for Blade Runner 2049 was nominated for an annual Beazley Designs of the Year, and work produced for Spiderman: Miles Morales was recognised at the Clio Awards 2022. In recognition of his creative achievements, David was named one of Creative Review’s Creative Leaders 50.\nFounder & CEO at Supervillain\nNam Nguyen, founder and CEO of Supervillain, an Oakland-based agency, boasts a distinguished career in assembling top-tier teams and elevating practices for influential brands and creative agencies worldwide. Formerly the Global Executive Creative Director of Intel and Agency Inside, Nam played a pivotal role in shaping their design and growth. With key roles in renowned agencies like AKQA, Edelman, Narrative, 360i, and Goodby, Silverstein & Partners, he earned recognition on Forbes' \"30 under 30 list\" for marketing and advertising. Nam’s leadership style and work ethic come from a decade-long stint in the nonprofit sector, focusing on education, public health, youth and community development, and more.\nCEO @ Fewture Studios\nKai Henry is a new hybrid breed of corporate and cultural strategist focused on innovating organizational infrastructure to fit today's climate. As one of few C-Level executives who deeply understand the sensitive interplay of brand and commerce, Kai is a visionary and cultural seer currently building a new company - Fewture Co - aimed at supporting talent, brands and executives to authentically engage and create with new technology in the internet’s next frontier. Kai began his career managing superstars like Snoop Dogg and David Banner. Kai then developed lifestyle brands like Beats By Dre, SkeeTV, En Noir, Merry Jane, Sol Republic and many others serving as Chief Creative and Strategist, spearheading major ventures and projects establishing a solid reputation for cultivating talent and developing brands. Most recently, Kai served as the Chief Strategy Officer of FaZe Clan, overseeing strategy, creative and Web3 while working closely with, and being an advocate for, the brand’s founders, talent and stakeholders to steer the creative hub that informed FaZe’s corporate decisions. Kai’s experience as CSO of a public company combined with his innate knowledge of internet culture has positioned him for significant moves with Fewture Co in 2024.\nLead Texture/ Environment Artist @ Kitbash3D\nAlexey Druzhkov, also known as Alexey HRDesign, is a distinguished material and environment artist and a lead texture artist at KitBash3D. His work is characterized by the use of advanced techniques and innovative methods for creating intricate materials. Alexey’s talent has contributed to the success of KB3D’s asset library impacting both gaming and movie industries.\nLevel Artist @ Leartes Studios\nBengisu Selcuk is a self-taught level artist from Istanbul, currently working at Leartes Studios. She concentrates on creating game environments with immersive storytelling using Unreal Engine. She is also a senior undergraduate architecture student at Istanbul Technical University. Her journey began in architecture school but took an unexpected turn when she decided to pursue her passion for game art. She took a self-learning path to develop her level of art skills and portfolio. Always curious to explore technical art, she loves engaging with the community, learning new methods, and delving into all kinds of technical documentation.\nPrincipal Lightning/Lookdev Artist @ Tornbanner Studios\n3D Archviz and Principal Lighting / Lookdev Specialist, based in Toronto Ontario, lived in Milan Italy and was born in Vancouver Canada. With more than 17 years of professional experience in Architectural Visualization, in the last 4 years, he joined the Video Game Industry. He works with high attention to detail and realism, creating the best visualization possible.\nCEO & Technical Art Director @ threepointzero CGI\nPaul Martin Eliasz is an experienced Senior Technical Artist and consultant with a 12-year background in 3D CGI and real-time game engines with a focus on pixel streaming. Leading his studio, he specializes in crafting 3D gamified applications for web streaming, VR, virtual production, XR, and various platforms. Paul has made significant contributions to projects for prestigious clients like Netflix and Bentley while offering consulting services to companies like Outernet Global and PureWeb. Currently, he actively mentors and educates through CG Spectrum, Mastered, CAVE Academy, Symetri (Bentley and Dyson), and Epic Games EMEA, occasionally hosting educational sessions in UK universities and creating tailored content for aspiring Unreal Artists and Unreal Tech Artists in the Virtual Production and Automotive industry.\nIn conclusion, the success of any creative challenge lies not only in the talent of the participants but also in the expertise and discernment of the judging panel. We are thrilled to have such an incredible panel who will be lending their knowledge to the 80 Level Community Metasites Challenge. With their collective experience and guidance, we are confident that the 80 Level Community Metasites Challenge will be a showcase of outstanding talent, pushing the boundaries of creativity in our vibrant community.\nStay tuned as we embark on this exciting journey together, and may the most groundbreaking metasites rise to the top! Thank you for being a part of this incredible journey with us.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Arts, Culture and Entertainment",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "brian christopher harvey",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "people can fly",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T01:49:11.257+02:00",
+    "updated": "2024-01-06T01:49:11.257+02:00"
+  }
+]

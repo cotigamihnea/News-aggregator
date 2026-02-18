@@ -1,0 +1,591 @@
+[
+  {
+    "uuid": "e75b086e52cdcb38130ab1c4bedb6a3fb625d69b",
+    "url": "http://cn.chinadaily.com.cn/a/202507/24/WS6881a8a6a310028a84abf738.html",
+    "ord_in_thread": 0,
+    "author": "global.chinadaily.com.cn",
+    "published": "2025-07-24T02:04:00Z",
+    "title": "新华社快讯：\"十四五\"时期，交管便民措施减少群众办事成本1000多亿元 - 中国日报网",
+    "text": "新华社快讯：公安部分管日常工作的副部长亓延军7月23日在国新办举行的“高质量完成‘十四五’规划”系列主题新闻发布会上表示，“十四五”时期，驾驶证“全国通考”、小客车登记“一证通办”、驾驶证行驶证电子化等60余项交管便民措施全面落地，惠及群众60多亿人次，减少群众办事成本1000多亿元。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->business governance",
+      "Social Issue->population and census",
+      "Social Issue->demographics",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.news.cn/politics/20250723/9077c0a2e47b4b29bf49319130e8eb52/c.html",
+      "https://news.cn/politics/20250723/9077c0a2e47b4b29bf49319130e8eb52/c.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "fake_news"
+      ],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:48:34.361+03:00",
+    "updated": "2025-07-24T07:50:12.000+03:00"
+  },
+  {
+    "uuid": "b013c9a9386febe3ebf71c10de0d4091fd2ffc69",
+    "url": "https://www.sootoday.com/ontario-news/toronto-plans-to-open-more-warming-spaces-if-temps-dip-further-8110966",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Maan Alhmidi; The Canadian Press",
+    "published": "2024-01-15T20:50:00Z",
+    "title": "Toronto plans to open more warming spaces if temps dip further",
+    "text": "Toronto plans to open a new site to help keep vulnerable residents warm when temperatures plunge further, the city said Monday after its four warming centres were at capacity over the weekend. Temperatures dropped in the city over the weekend and are forecast to stay low through the week. Warming centres across Toronto – located downtown and in the areas of North York and Scarborough – opened last week to provide walk-in access to a safe, warm place to rest and snacks for those who may be experiencing homelessness. The city's four warming centres have a combined capacity of a little less than 180 people. All four centres were at capacity over the weekend and the city said it is ready to open more spaces when temperatures drop to - 15 C. \"The city has identified one surge site to be activated when temperatures fall to -15 C, or during extreme weather events,\" city's spokeswoman Christy Abraham wrote in a statement Monday. People were seen entering and exiting a warming centre on a quiet downtown Toronto street near the city hall Monday afternoon. Abraham also said 10 drop-in providers, which offer a range of services including food, health care and showers to those experiencing or at risk of homelessness, have extended their hours for the winter. City teams are also providing blankets, sleeping bags, and warm winter clothing to those living outdoors, she said. \"When temperatures reach -15 C or colder, the city will dispatch additional street outreach teams to perform wellness checks and encourage people to come indoors,\" she added. Toronto has opened additional shelter space, expanded its warming centres' operations, and opened new 24-hour respite sites this winter, Abraham said. Diana Chan McNally, social worker and harm reduction advocate, said respite sites, which provide more services, are not always accessible to everyone because people have to call and register beforehand. Warming centres are more accessible, she said, but it's sometimes difficult for those experiencing homelessness to know where they are and when they are open. \"If it's just consistently open, people will know that no matter what, they can just go there instead of pondering: is it open, is it not? Has the location changed?\" she said. \"The more that you have consistent low-barrier space, the more accessible and safe it is for people.\" She said the city should make more warm spaces available for people who are homeless. \"If it's really cold out, people need to know that they can just come inside, even if it's crowded,\" she said. \"It's better than nothing, right, because otherwise those people, it's not like they disappear. They just end up on the (transit system) or they end up in the library and that's an even less appropriate space than a respite centre.\" City councillors had voted last year to lower the threshold for when warming centres will be opened to -5 C or when freezing rain, snow or storm warnings are issued. Warming centres opened last winter only when temperatures dipped to -15 C or -20 C in Toronto. This report by The Canadian Press was first published Jan. 15, 2024. Maan Alhmidi, The Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "abraham",
+          "sentiment": "none"
+        },
+        {
+          "name": "christy abraham",
+          "sentiment": "none"
+        },
+        {
+          "name": "scarborough",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "toronto",
+          "sentiment": "none"
+        },
+        {
+          "name": "north york",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-16T01:39:44.440+02:00",
+    "updated": "2024-01-16T15:33:38.782+02:00"
+  },
+  {
+    "uuid": "f414421fa5e77590e2b6487943f3357120811176",
+    "url": "https://www.dtnext.in/news/national/ram-mandir-chief-priest-expresses-happiness-over-pm-modis-visit-to-ayodhya-757648",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ANI",
+    "published": "2023-12-30T03:00:00Z",
+    "title": "Ram Mandir chief priest expresses happiness over PM Modi's visit to Ayodhya",
+    "text": "Ram Mandir chief priest expresses happiness over PM Modi's visit to Ayodhya He further said that the airport would help people from abroad and across the country come to Ayodhya easily. AYODHYA: Expressing his joy over Prime Minister Narendra Modi's visit to Ayodhya, Shri Ram Janmabhoomi head priest Acharya Satyendra Das said on Saturday that the people of the state will be happy after seeing PM Modi in the temple town. Prime Minister Modi is slated to inaugurate an international airport in Ayodhya and the redeveloped Ayodhya railway station today. \"It is good that PM Narendra Modi is coming here and he will inaugurate the railway station and airport today. He will also hold a road show. People will be happy after seeing PM Modi in Ayodhya,\" Shri Ram Janmabhoomi, head priest, told ANI on Saturday. He further said that the airport would help people from abroad and across the country come to Ayodhya easily. Around 11.15 am, Prime Minister Modi will inaugurate the redeveloped Ayodhya railway station and flag off new Amrit Bharat and Vande Bharat trains. He will also dedicate several other railway projects to the nation. Around 12.15 pm, he will inaugurate the newly built Ayodhya airport. Around 1 pm, Prime Minister Modi will participate in a public programme during which he will inaugurate, delicate to the nation and lay the foundation stone of multiple development projects worth more than Rs 15,000 crore in the state. These include projects worth about Rs 11,100 crore for the development of Ayodhya and its surrounding areas and projects worth about Rs 4600 crore related to other projects across Uttar Pradesh. On Friday, PM Modi, in a post on X, stated, \"Our government is determined to develop world-class infrastructure, improve connectivity and preserve the rich heritage of Ayodhya, the city of Lord Shri Ram. In this direction, I will inaugurate the newly constructed airport and redeveloped railway station tomorrow. Along with this, I will also get the privilege of inaugurating and laying the foundation stone of many more development projects, which will make the lives of my family members in many areas of the country, including Ayodhya and UP, easier.\" Prime Minister Modi has broadly outlined his vision to develop modern, world-class infrastructure in Ayodhya, improve connectivity and revamp its civic facilities while also conforming to the rich history and heritage of the city. In realisation of this vision, a new airport, a new redeveloped railway station, newly redeveloped, widened and beautified roads, and other civic infrastructure are being inaugurated in the city. The foundation stones for a number of other new projects will be laid, contributing to the beautification and revamp of civic facilities in and around the temple town.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "modi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "narendra modi",
+          "sentiment": "none"
+        },
+        {
+          "name": "vande bharat",
+          "sentiment": "none"
+        },
+        {
+          "name": "acharya satyendra das",
+          "sentiment": "none"
+        },
+        {
+          "name": "ani",
+          "sentiment": "none"
+        },
+        {
+          "name": "shri ram janmabhoomi",
+          "sentiment": "none"
+        },
+        {
+          "name": "amrit bharat",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ram mandir",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ayodhya ram mandir",
+          "sentiment": "none"
+        },
+        {
+          "name": "ayodhya",
+          "sentiment": "none"
+        },
+        {
+          "name": "ayodhya",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T07:31:35.184+02:00",
+    "updated": "2023-12-30T07:31:35.184+02:00"
+  },
+  {
+    "uuid": "42dfbb2fbd2cd9f6c2871df20000acf39670bc22",
+    "url": "https://www.valleynewslive.com/video/2024/11/07/usda-rule-will-limit-school-lunch-junk-fees",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ValleyNewsLive",
+    "published": "2024-11-07T00:00:00Z",
+    "title": "USDA Rule will limit school lunch junk fees",
+    "text": "Skip to content News Watch Live Weather 24/7 Weather Video Weather Kid Valley Ag Sports ND Today Valley News Now Closings Request Closings Login Home News VNL Investigates Regional National International Entertainment Economy Education Environment Health Police Week Price Watch Science Countdown to 47 State Politics Technology Valley Ag Honor Flight Whistleblower Hotline Special Reports Livestreams Watch Live Election Results Presidential Election Map North Dakota Interactive Results Minnesota Interactive Results TJ Mechanic Mondays Weather 24/7 Weather Maps River Levels Road Conditions Weather Kid Interactive Radar Closings & Delays Russ on the Road Power Outage Map Skycam Network Sports Olympics Friday Night Live 2023 Scoreboard FM Redhawks Bison Huddle UND Corner VNL Sports Overtime Sports Videos About Us Meet the Team News/Weather App Support Valley News Live Jobs Meet the Sales Team Invest In Your Valley VNL Ad Solutions Video Valley News Now North Dakota Today Valley Today Valley Living Mental Health Moment Programming Rides with Jay Thomas VNL Cares Community Community Calendar Make A Wish Miles for Smiles Great Plains Food Bank Gigi's Playhouse What's On NBC CBS All Access CW MeTV Heroes & Icons Zeam - News Streams VNL Deals Submit Photos & Video Circle InvestigateTV Watching Your Wallet Gray DC Bureau PowerNation Midwest Grill'n Mr. Food Digital Marketing USDA Rule will limit school lunch junk fees Updated: 2 hours ago Email This Link Share on Facebook Share on X (formerly Twitter) Share on Pinterest Share on LinkedIn Valley News Live at 4pm Forecast 5:00 P.M Weather November 7 Updated: 1 hour ago Valley News Live at 5:00PM On KVLY News 5:00 P.M News November 7- Part 1 Updated: 1 hour ago Valley News Live at 5:00PM On KVLY News Minnesota missing mom, suspect found guilty of murder Updated: 1 hour ago Valley News Live at 5:00PM On KVLY News Minnesota lottery to continue funding environmental causes Updated: 1 hour ago Valley News Live at 5:00PM On KVLY News 5:00 P.M News November 7- Part 3 Updated: 1 hour ago Valley News Live at 5:00PM On KVLY News Federal reserve cuts interest rates Updated: 1 hour ago Valley News Live at 5:00PM On KVLY",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jay Thomas",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "USDA",
+          "sentiment": "negative"
+        },
+        {
+          "name": "State Politics Technology Valley Ag",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T02:39:38.823+02:00",
+    "updated": "2024-11-08T02:39:38.823+02:00"
+  },
+  {
+    "uuid": "254a7e72ab3f3ea3cd4b83ad4d3cb083c8a48565",
+    "url": "https://www.thecooldown.com/green-business/bottega-veneta-small-wicker-handbag-luxury",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jenna Reilly",
+    "published": "2025-01-31T06:00:00Z",
+    "title": "Bottega Veneta under fire for listing shocking product online: 'Beyond outrageous'",
+    "text": "Investing in quality fashion that will last a long time is a savvy shopping choice. However, when luxury brands get out of control with pricing, even shoppers willing to spend a little extra become prickly.\nOne consumer shared their outrage over a very pricey handbag on Reddit.\nPhoto Credit: Reddit Posted in the r/handbags subreddit, the original poster shared a photo of a Bottega Veneta small wicker handbag with an asymmetrical handle. The OP wrote, \"Has Bottega lost their minds?\"\nThe image also features the bag's outrageous price tag: $9,400. Commenters shared the OP's frustration over this kind of cost for a small wicker bag. Some mentioned how brands hike up prices to make their products seem more exclusive.\nEven the OP admitted, \"I paid $1,100 for the Loewe beehive bag in raffia, but this is crazy.\"\nOther Redditors pointed out how easily you could find a similar bag at a thrift store . Thrifting can save shoppers tons of money under normal circumstances but especially when compared to inflated pricing like this.\nFROM OUR PARTNER Use this simple tool to keep your personal data from scammers Every day, data brokers profit from your sensitive info — like your phone number, date of birth, and social security number — by selling it to the highest bidder.\nAnd who’s buying it? Best case: companies that target you with ads. Worst case: scammers and identity thieves. That’s why it’s time to check out Incogni .\nIncogni’s innovative personal data removal service scrubs your personal information from the web , confronting the world’s data brokers on your behalf. And unlike other services, Incogni helps remove your sensitive information from all broker types, including those tricky “ people search sites .”\nHelp protect yourself from identity theft, spam calls, and health insurers trying to raise your rates.\nPlus: For a limited time, TCD readers get 55% off using code COOLDOWN.\nLearn more → Watch now: Giant snails invading New York City? Secondhand shoppers have even found luxury brand handbags for huge discounts at thrift stores or secondhand websites, making it especially frustrating that a brand would try to get this amount from a customer.\nAvoiding the trap and allure of fast fashion is important for the sake of our environment, but a $9,000 handbag certainly isn't a great — or even possible — alternative for most.\nOther Redditors had a lot to add about this super-expensive handbag.\nWhat should the government do about the fast fashion industry?\nSet strict regulations 🚫\nIncentivize sustainable options 💰\nUse both regulations and incentives 🏛️\nNothing 🙅\nClick your choice to see results and speak your mind.\nOne user shared , \"As a Filipina who [grew] up around the basket [weaving] industry – these prices are beyond outrageous.\"\nOne user wrote , \"Also from the global south but where many local African tribes make stunning wicker bags that would put these to shame. Anyone spending 9k on this needs spiritual help.\"\nAnother user commented , \"The price of all things wicker is not that expensive. Their markup is not only high but criminal.\"\nOne user joked , \"Most expensive cat toy.\"\nJoin our free newsletter for good news and useful tips , and don't miss this cool list of easy ways to help yourself while helping the planet.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Economy, Business and Finance->consumer goods",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Social Issue->social problem",
+      "Social Issue->values",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.reddit.com/r/handbags/",
+      "https://www.reddit.com/r/handbags/comments/1dkbp8r/comment/l9gr1bu/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button",
+      "https://www.reddit.com/r/handbags/comments/1dkbp8r/comment/l9h2qx5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button",
+      "https://www.reddit.com/r/handbags/comments/1dkbp8r/comment/l9hdmdq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button",
+      "https://www.reddit.com/r/handbags/comments/1dkbp8r/comment/l9h61nt/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button",
+      "http://www.youtube.com/watch?v=emnadXNKMU0",
+      "https://deal.incogni.io/aff_c?offer_id=6&aff_id=1287&url_id=1",
+      "https://www.reddit.com/r/handbags/comments/1dkbp8r/has_bottega_lost_their_minds/",
+      "https://rb.gy/ivhzmj",
+      "https://www.reddit.com/r/handbags/comments/1dkbp8r/has_bottega_lost_their_minds",
+      "https://www.rb.gy/ivhzmj",
+      "https://reddit.com/r/handbags/",
+      "https://www.reddit.com/r/handbags/comments/1dkbp8r/comment/l9h61nt/",
+      "https://reddit.com/r/handbags/comments/1dkbp8r/has_bottega_lost_their_minds/",
+      "https://www.reddit.com/r/handbags/comments/1dkbp8r/comment/l9gr1bu/",
+      "https://www.reddit.com/r/handbags",
+      "https://reddit.com/r/handbags/comments/1dkbp8r/comment/l9h61nt/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button",
+      "https://reddit.com/r/handbags/comments/1dkbp8r/comment/l9hdmdq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button",
+      "https://reddit.com/r/handbags/comments/1dkbp8r/comment/l9gr1bu/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button",
+      "https://www.reddit.com/r/handbags/comments/1dkbp8r/comment/l9hdmdq/",
+      "https://www.deal.incogni.io/aff_c?offer_id=6&aff_id=1287&url_id=1",
+      "http://www.youtube.com/watch",
+      "https://reddit.com/r/handbags/comments/1dkbp8r/comment/l9h2qx5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button",
+      "https://deal.incogni.io/aff_c",
+      "http://youtube.com/watch?v=emnadXNKMU0",
+      "https://www.reddit.com/r/handbags/comments/1dkbp8r/comment/l9h2qx5/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T11:20:23.864+02:00",
+    "updated": "2025-01-31T11:20:23.864+02:00"
+  },
+  {
+    "uuid": "027e270cb5485cd47dbfd955fd37ba4e78d4c5c8",
+    "url": "https://flipboard.com/article/greener-snowmaking-is-helping-ski-resorts-weather-climate-change/f-ce1d4429e5%2Fnewsreadeck.co",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "newsreadeck.com - - Feb 15, 2024, 1:45 AM",
+    "published": "2024-02-16T00:00:00Z",
+    "title": "Greener snowmaking is helping ski resorts weather climate change | Flipboard",
+    "text": "Greener snowmaking is helping ski resorts weather climate change Trudging across the top of Bromley Mountain Ski Resort on a sunny afternoon in January, Matt Folts checks his smartwatch and smiles: 14 degrees … [Professor Mohamed Alhassan](/@mjalhassan) flipped this story into [Green Planet](/@mjalhassan/green-planet-de589jqqz)•3h Related storyboards More stories from [Climate](/topic/climate) [Judiciary Chair Jim Jordan does victory lap after massive banks exit $68 trillion UN climate alliance](/topic/climate/judiciary-chair-jim-jordan-does-victory-lap-after-massive-banks-exit-68-trillio/a-PIdDuz2hS9qR7xVvrfRhQw%3Aa%3A47769551-80ef6415d5%2Ffoxnews.com) EXCLUSIVE: House Judiciary Chair Jim Jordan, R-Ohio, cheered the news that multiple major U.S. banks and financial institutions are leaving a $68 trillion climate alliance founded at the United Nations. In a series of unexpected announcements on Thursday, JPMorgan Chase, the world's largest bank, … [Recycling plastic 'doesn't work,' and big business knew it: study](/topic/climate/recycling-plastic-doesn-t-work-and-big-business-knew-it-study/a-coSBIVGUQcOAluQV3GTUgg%3Aa%3A117058243-ea54c867d6%2Faudacy.com) Is there any point to recycling plastic aside from getting your five or 10 cent deposit back? A new study from the Center for Climate Integrity finds … [Strategic Water Supply taps out as the governor insists she won’t ‘give up on it’](/topic/climate/strategic-water-supply-taps-out-as-the-governor-insists-she-won-t-give-up-on-it/f-4c81f2bb2a%2Fsourcenm.com) After its reprise, an effort to push through the governor’s plan to create a market of treated brackish water failed after committees did not meet in … Join the flipboard community Discover, collect, and share stories for all your interests [Sign up](/signup) More stories from [Kent](/topic/kentuk) [20-year-old scores left-footed screamer on full debut for new club, after Leeds exit in January](/topic/kentuk/20-year-old-scores-left-footed-screamer-on-full-debut-for-new-club-after-leeds-/a-Mjo_ARKNRXyx_VytGT64EQ%3Aa%3A4038512999-3e58fddb80%2Fleedsunited.news) Sean McGurk was a surprise exit on deadline day, announced by Leeds United after the deadline with the playmaker joining League Two side Swindon Town … [Simon Wright: The man behind the catastrophic collapsed development at North Quay in Hayle](/topic/kentuk/simon-wright-the-man-behind-the-catastrophic-collapsed-development-at-north-qua/a-g19ApIYGSVSTwr_nTIRcDg%3Aa%3A2335855529-8d90420b52%2Fcornwalllive.com) Ever since the news broke of the collapse of one of the biggest ongoing developments in the South West, one name has been on everyone's lips. In … [Match Preview: Bromley v Chesterfield (Saturday, 3pm)](/topic/kentuk/match-preview-bromley-v-chesterfield-saturday-3pm/a-fP9SnemjQueo9_vXPjNCeg%3Aa%3A3692529787-e63bea1743%2Fthenonleaguefootballpaper.com) Bromley host Chesterfield in Saturday's match at Hayes Lane looking to bounce back from defeat last time out in the […]The post Match Preview: …",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bromley",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mohamed alhassan",
+          "sentiment": "none"
+        },
+        {
+          "name": "jim jordan",
+          "sentiment": "none"
+        },
+        {
+          "name": "matt folts",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "un climate alliance",
+          "sentiment": "none"
+        },
+        {
+          "name": "r",
+          "sentiment": "none"
+        },
+        {
+          "name": "united nations",
+          "sentiment": "none"
+        },
+        {
+          "name": "house judiciary chair",
+          "sentiment": "none"
+        },
+        {
+          "name": "jpmorgan chase",
+          "sentiment": "none"
+        },
+        {
+          "name": "judiciary chair jim jordan",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "[green planet",
+          "sentiment": "none"
+        },
+        {
+          "name": "ohio",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-16T12:53:10.027+02:00",
+    "updated": "2024-02-16T12:53:10.027+02:00"
+  },
+  {
+    "uuid": "65c09bf5eab46a72adbf9a82796cd582fad6814e",
+    "url": "https://es.dayfr.com/noticias/2022433.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "laure.",
+    "published": "2024-10-17T16:48:00Z",
+    "title": "Qu\\u00edmica | Inv\\u00e9ntame una prote\\u00edna (y en 3D, por favor)",
+    "text": "Ganadores: David Baker, Demis Hassabis y John M. Jumper Publicado a las 6:00 a.m. Para comprender la importancia del Premio Nobel de Química de este año, es necesario comprender las proteínas. Para la mayoría de nosotros, la proteína es la que encontramos en la carne o el tofu y debe consumirse en cada comida. Para los bioquímicos, son mucho más que eso. “Hay proteínas que se usan para nuestro cabello y proteínas que se usan para nuestros ojos. Hay proteínas que se utilizan para digerir el chuletón que comiste o para contraer los músculos. La proteína lo hace todo, todo, todo. Son las máquinas moleculares que hacen funcionar nuestro cuerpo”, explica Normand Voyer, amable director del departamento de química de la Universidad Laval. Se sabe desde hace mucho tiempo que las proteínas están hechas de 20 aminoácidos diferentes, es decir, bloques de Lego que pueden unirse en todo tipo de combinaciones para formar los aproximadamente 200 millones de proteínas que se han identificado hasta la fecha. Excepto que una proteína es más que una larga cadena de aminoácidos. Es una estructura que se despliega en tres dimensiones. “El misterio que siempre ha estado sin resolver es cómo una secuencia de bloques de aminoácidos se pliega para formar una proteína funcional”, explica el profesor Normand Voyer. Así lo han aclarado dos de los premios Nobel de Química 2024, Demis Hassabis y John Jumper. En 2020, los dos investigadores de Google DeepMind presentaron AlphaFold 2: un modelo de inteligencia artificial capaz de predecir la estructura tridimensional de una proteína a partir de su composición. “Con esto podemos entender, por ejemplo, por qué cuando cambiamos 1 aminoácido en una proteína que contiene 1.000, se crea un defecto que causa la fibrosis quística”, explica Normand Voyer. David Baker, de la Universidad de Washington, ha desarrollado modelos informáticos que permiten crear nuevas proteínas desde cero a partir de los mismos 20 bloques de Lego que son aminoácidos. “Abre la puerta a la síntesis de nuevos fármacos. O inventar proteínas que capturen CO2 », Ilustra Normand Voyer. El investigador asistió este año a una conferencia de David Baker en Kioto, Japón. “Fue sorprendente”, dice. Digamos que desea degradar el aceite usado para producir biocombustible. Con sus algoritmos, puedes diseñar, desde cero, una proteína que haga eso. Piénsalo: ¡está jodido! »",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "David Baker",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Demis Hassabis",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Normand Voyer",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T03:09:34.571+03:00",
+    "updated": "2024-10-18T03:09:34.571+03:00"
+  },
+  {
+    "uuid": "1d562f02815c568dd1402de514a83bf5d77ad371",
+    "url": "https://www.rawstory.com/swalwell-judiciary-gop",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kathleen Culliton",
+    "published": "2024-06-27T16:21:00Z",
+    "title": "'Make a motion, big man:' Dem taunts spluttering Republican over failed Biden impeachment",
+    "text": "A shouting match erupted in the House Judiciary committee Thursday when a Democratic lawmaker dared Republicans to keep their promise to the American people and impeach President Joe Biden.\nA furious Rep. Eric Swalwell (D-CA) challenged conservatives to either move forward with impeachment or give up the \"Anna Paulina lunacy\" that would see Republicans try to put Attorney General Merrick Garland under arrest.\n\"You've got nothing, nada, zero, zilch,\" Swalwell told Republicans. \"You're just screwing around now.\"\nEven Rep. James Comer (R-KY) admitted Thursday he was skeptical of, and confused by, a plan from Rep. Anna Paulina Luna (R-FL) to have Garland arrested for not turning over a recording of Biden's interview with special counsel Robert Hur.\n\"I will vote for it, but I don't think it's necessary,\" Comer\nsaid. \"I don't think anyone understands how it's going to work.\"\nALSO READ:\n‘Creepy weirdos’: Senator fears Trump WH staff would destroy government from ‘inside’\nSwalwell appeared equally skeptical of conservative's efforts to tarnish Biden's reputation when he egged them on during the committee meeting, promising to yield his time to anyone who could tell him when the impeachment would land.\n\"You promised the American people you were going to impeach President Biden,\" he said. \"So bring it. I'll yield. Bring it.\"\nRep. Dan Bishop (R-NC) took the bait and the two men immediately began shouting at each other.\n\"Do you have a vote Mr. Bishop?\"\n\"Yeah,\" Bishop shot back.\n\"Make the motion,\" Swalwell barked repeatedly as Bishop sputtered and finally snapped, \"Do you want me to answer you?\"\n\"You're a big man,\" Swalwell replied. \"You talk about impeaching the president, bring the motion.\"\n\"As soon as they stop stonewalling the investigation—\" Bishop began to say, but Swalwell lost patience.\n\"You got nothing,\" he said. \"You guys got nothing because Joe Biden has been acquitted and this is just a pathetic, pathetic postgame of an exercise that yielded nothing. This is embarrassing. This is embarrassing and it's a waste of time. You have people sitting in here who are wearing shirts that say 'Moms Demand Action.' Do you think moms are demanding impeachment? No. They want their kids to be safe in their classrooms from gun violence.\n\"You actually sit on a committee that can do that,\" Swalwell said. \"Come here and do something.\"\nWatch the\nvideo below or click here (Swalwell's remarks begin at the 59 minute mark).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "biden",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "robert hur",
+          "sentiment": "none"
+        },
+        {
+          "name": "eric swalwell",
+          "sentiment": "none"
+        },
+        {
+          "name": "trump wh",
+          "sentiment": "none"
+        },
+        {
+          "name": "james comer",
+          "sentiment": "none"
+        },
+        {
+          "name": "joe biden",
+          "sentiment": "none"
+        },
+        {
+          "name": "anna paulina luna",
+          "sentiment": "none"
+        },
+        {
+          "name": "anna paulina",
+          "sentiment": "none"
+        },
+        {
+          "name": "garland",
+          "sentiment": "none"
+        },
+        {
+          "name": "comer",
+          "sentiment": "none"
+        },
+        {
+          "name": "swalwell",
+          "sentiment": "none"
+        },
+        {
+          "name": "merrick garland",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "house judiciary committee",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-28T02:03:02.172+03:00",
+    "updated": "2024-06-28T02:03:02.172+03:00"
+  },
+  {
+    "uuid": "268fbc2ec1eaa570e348c3d8388f358bf9736e09",
+    "url": "https://finance.sina.com.cn/jjxw/2025-05-08/doc-inevvhaz2769142.shtml",
+    "ord_in_thread": 0,
+    "author": "环球网",
+    "published": "2025-05-08T02:08:00Z",
+    "title": "中央气象台5月8日10时继续发布强对流天气黄色预警|路段_新浪财经_新浪网",
+    "text": "转自：央视\n中央气象台 5月8日10时 继续 发布强对流天气 黄 色预警：\n预计5月8日14时至9日14时，华北、东北地区、江汉东部、江淮、江南、华南等地的部分地区将有8级以上雷暴大风或冰雹天气，其中，安徽南部、江苏东南部、湖南东部、江西中北部、广西北部、广东西北部等地的部分地区将有10级以上雷暴大风，最大风力可达11级以上，江西中北部等地局地不排除出现龙卷的可能；华北、江汉东部、江淮、江南、华南等地的部分地区将有小时雨量大于20毫米的短时强降水天气，其中，河北中部、江苏中部、湖南东南部、江西中部、浙江西南部、福建西北部、广西北部、广东等地的部分地区小时雨量大于50毫米，最大可达80毫米以上。\n防御指南： 1.政府及相关部门按照职责做好防短时暴雨、防雷、防大风应急防御工作，气象部门做好人工防雹作业准备并择机进行作业；\n2.驾驶员通过积水路段应减速慢行确认安全后再通过，交管部门应当根据路况在强降雨路段和积水路段采取交通管制措施和交通引导；\n3.户外人员应减少或暂停空旷地方的户外作业，选择进入抗风能力较强并具有防雷措施的建筑内，同时关闭门窗远离危险电源；\n4.机场、铁路、高速公路和水上交通等单位应采取限飞、限速或暂时关闭等措施保障人员和交通安全，相关水域水上作业和过往船舶应回港规避，加固港口设施；\n5.检查城市、农田、鱼塘排水系统，做好必要的排涝措施和对山洪、滑坡、泥石流等灾害的防御准备。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Environment->climate change",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T06:09:32.225+03:00",
+    "updated": "2025-05-08T03:14:13.000+00:00"
+  }
+]

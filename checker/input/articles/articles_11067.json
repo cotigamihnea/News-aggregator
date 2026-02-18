@@ -1,0 +1,395 @@
+[
+  {
+    "uuid": "feb1babb3ad459857f73c2b75279e5ae1536c30d",
+    "url": "https://flipboard.com/@npr/top-u-k-court-defines-women-under-equalities-law-as-someone-born-biologically-f/a-YzyRV_vUTdOssqOOGSyXZw%3Aa%3A3195441-2ac5c04c43%2Fnpr.org",
+    "ord_in_thread": 0,
+    "author": "NPR - Lauren Frayer",
+    "published": "2025-04-16T22:17:00Z",
+    "title": "Top U.K. court defines women under equalities law as someone born biologically female | Flipboard",
+    "text": "Top U.K. court defines women under equalities law as someone born biologically female On Wednesday, Britain's top court clarified the legal definition of a woman: Someone born biologically female. The ruling has implications for transgender rights.\nNPR - Lauren Frayer • 33m",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Politics->political system",
+      "Politics->women's rights",
+      "Politics->fundamental rights",
+      "Social Issue->diversity, equity and inclusion",
+      "Social Issue->gender",
+      "Social Issue->discrimination",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Lauren Frayer",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "U.K.",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NPR",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "NPR",
+              "exchange": "CVE"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T01:52:27.222+03:00",
+    "updated": "2025-04-17T01:52:27.222+03:00"
+  },
+  {
+    "uuid": "e514b150583b3274c94601a1bc6a7aca3bcdc506",
+    "url": "https://www.larazon.es/actualidad/espana-recibe-advertencia-parte-new-york-times-tiene-problema-p7m_2025071768787c58525aa26f9a50a0d9.html",
+    "ord_in_thread": 0,
+    "author": "Víctor López-Alisio",
+    "published": "2025-07-17T04:30:00Z",
+    "title": "España recibe una advertencia de parte del New York Times: \"Tiene un problema\"",
+    "text": "Cautela\nEspaña recibe una advertencia de parte del New York Times: \"Tiene un problema\"\nEl periódico estadounidense ha abordado la posición de nuestro país respecto al turismo y su impacto en nuestra sociedad y futuro\nEn España, el turismo es la mayor fuente de ingresos, por encima de otros sectores como el primario o el secundario. Nuestro puesto como segundo país más visitado del mundo nos avala; la gente planifica con mucho cuidado sus vacaciones bajo el cielo español. Eso sí, esta tendencia se encuentra en riesgo de cambiar dentro de unos años, o al menos así lo da a entender el periódico The New York Times.\nEl rotativo estadounidense ha advertido a los países del sur de Europa, es decir los del Mediterráneo, sobre las demoledoras consecuencias que puede tener el cambio climático en la forma de relacionarnos con el turismo. \"Muchos de los destinos más deseados del continente se están convirtiendo en lugares para escapar\", sostienen los miembros del equipo.\nLas catástrofes han estropeado la imagen que se tiene de nosotros\nTras poner de ejemplos a España, Italia, Grecia y Francia, el periódico ha enumerado algunas de las causas más evidentes de este miedo a viajar a esta región. \"Tormentas devoradoras de arena, la subida del nivel del mar, temperaturas asfixiantes, inundaciones mortales y terribles incendios forestales\", describen en el artículo.\nDaniel Pardo Rivacoba, miembro de la 'Assemblea de Barris pel Decreixement Turístic' ha confirmado que España se ha convertido en \"el destino menos atractivo para disfrutar del sol\". Como justificación, Pardo ha puesto de ejemplo la tragedia de la DANA de Valencia, a la vez que las tormentas que han arrastrado parte de la arena de la playa de Montgat.\nRespecto a las posibles soluciones a esta crisis, el New York Times alaba el plan que ha puesto en marcha nuestro país, resaltando la importancia de apostar por una sostenibilidad que permita mantener un flujo constante de turistas. \"El gobierno, orgulloso del buen desempeño de su economía, trabaja para atraer cientos de miles de millones de euros en inversiones en energía sostenible para crear cientos de miles de nuevos empleos verdes\", concluye en la pieza.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Politics->freedom of the press",
+      "Politics->government",
+      "Politics->political development",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Mediterráneo",
+          "sentiment": "none"
+        },
+        {
+          "name": "Europa",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "New York Times",
+          "sentiment": "negative",
+          "tickers": [
+            {
+              "ticker": "NYT",
+              "exchange": "NYSE"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_ve",
+        "top_news_pe",
+        "top_news_co",
+        "top_news_es",
+        "top_news_cl",
+        "top_news_pt",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:53:10.661+03:00",
+    "updated": "2025-07-18T05:04:35.000+00:00"
+  },
+  {
+    "uuid": "33f53a7af900ffaa4758386a4b9b44d3f21a9cc2",
+    "url": "https://wattsupwiththat.com/2023/12/29/wrong-kansas-city-star-climate-change-isnt-worsening-weather-in-kansas-or-missouri/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Guest Blogger",
+    "published": "2023-12-29T14:00:00Z",
+    "title": "Wrong, Kansas City Star, Climate Change Isn’t Worsening Weather in Kansas or Missouri",
+    "text": "The Kansas City Star ran an opinion piece claiming climate change is already making weather more extreme in Kansas and Missouri. This is false. There is no data supporting the claim that either flooding or drought, two specific extreme weather events cited in the story, are worse now than they have been historically. Almost all the records for such events in both states were set nearly a century or more ago, when global average temperatures were cooler. Joel Mathis, the writer of the Kansas City Star story, “ [We’re watching the climate change in Kansas and Missouri. Why don’t more of us care?](https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article283527298.html),” opines: Climate change is already taking a toll on Kansas and Missouri, and not just in the form of wintertime vegetation. Both states are enduring long-running droughts that have challenged the region’s farmers and forced some communities to start hoarding their drinking water. That’s probably just the beginning. … Climate change is going to make the extremes more extreme — more intense rain and snowstorms, but also more extended periods of drought. Our big swings will get bigger and more destructive. But Mathis’ sees an even worse problem, in particular, that the majority of people aren’t that concerned about climate change. “Last week, Heatmap News reported its new poll found that Midwesterners are ‘consistently blasé about climate change,’” writes Mathis. “Fifty-two percent of folks in our region — a slim majority, but a majority nonetheless — say warming ‘poses little or no risk to their region.’” The residents of those two states are right to be unconcerned about climate change making their states’ respective weather worse, since historical evidence and data show that neither drought nor flooding amid recent decades of modest warming are worse than they have been historically. Indeed, as Mathis himself notes, Kansas and Missouri are not strangers to droughts, floods, and rapidly changing weather extremes. “The Midwest is already a ‘high variability’ weather region,” writes Mathis, who discussed this fact with Chuck Rice, a professor of soil microbiology at Kansas State University who served on the United Nations’ Intergovernmental Panel on Climate Change in 2007. “Think about all the times you’ve heard the joke that if you don’t like the weather around here ‘just wait five minutes.’” Although it is true that parts of [Kansas](https://www.kgs.ku.edu/Publications/PIC/PIC35.pdf) and [Missouri](https://www.drought.gov/dews/missouri-river-basin#:~:text=In%20the%20Missouri%20River%20Basin,wreaked%20havoc%20on%20the%20MRB.) are currently suffering from various degrees of drought, it is not a long-term drought, nor is it historically severe. A short-term drought is no evidence of climate change. Droughts in the early and mid-twentieth century, 70 and 90 years of global warming ago, were more prolonged and severe than the droughts experienced in either state since the beginning of the 21st century. Since official record keeping began, Kansas and Missouri both experienced their most sustained droughts in the 1930s, only to both also experience a sustained drought again in the 1950s. Longer term records developed from proxy data show even more severe and sustained droughts, multiple decades long, have not been uncommon throughout the region’s history. What’s true of drought across Kansas and Missouri is also true of excessive rainfall and flooding. [Kansas](https://climate.k-state.edu/news/stories/2016/06/climate_basics_5/image1.gif) experienced its worst flood in 1844; Missouri’s largest recorded flood was 1785, with the flood year of 1844 being its second greatest flood. More [costly damage](https://www.weather.gov/mbrfc/flood#:~:text=The%20flood%20of%20June%201844,to%2027%20inches%20at%20Ft.) has been done by floods in both Missouri and Kansas since then, in 1903, 1951, 1993, 1998, and 2007. But the reason that more people and property were harmed by the more recent floods is not higher rainfall totals or deeper flood waters, but rather purely demographics. More people and development had taken place in the areas flooded than existed in the 19th and early 20th centuries when heavier flooding occurred. Neither recent rainfall totals nor floodwater depth have been greater in the 21st century than in the past. Neither a single flood event, no matter how severe, nor single instances of drought, no matter how widely covered in the media, are evidence climate change is making weather in Kansas or Missouri worse or less predictable. Only a long-term sustained trend of either or both types of weather events might implicate climate change in weather changes, but there are no such worsening trends for either state. In short, data provide no evidence that climate change is making weather worse in Kansas or Missouri, so residents there are displaying common sense when they downplay the threat of climate change in their lives. The media should follow the public’s lead on this point. Follow the science, Mathis and the Kansas City Star, rather than hyping a false climate alarm narrative. H. Sterling Burnett, Ph.D., is the Director of the Arthur B. Robinson Center on Climate and Environmental Policy and the managing editor of Environment & Climate News. In addition to directing The Heartland Institute’s Arthur B. Robinson Center on Climate and Environmental Policy, Burett puts Environment & Climate News together, is the editor of Heartland’s Climate Change Weekly email, and the host of the Environment & Climate News Podcast.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Science and Technology",
+      "Environment"
+    ],
+    "external_links": [
+      "https://drought.gov/dews/missouri-river-basin#:~:text=In%20the%20Missouri%20River%20Basin,wreaked%20havoc%20on%20the%20MRB.",
+      "https://weather.gov/mbrfc/flood#:~:text=The%20flood%20of%20June%201844,to%2027%20inches%20at%20Ft.",
+      "https://www.drought.gov/dews/missouri-river-basin#:~:text=In%20the%20Missouri%20River%20Basin,wreaked%20havoc%20on%20the%20MRB.",
+      "https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article283527298.html",
+      "https://www.kgs.ku.edu/Publications/PIC/PIC35.pdf",
+      "https://www.weather.gov/mbrfc/flood#:~:text=The%20flood%20of%20June%201844,to%2027%20inches%20at%20Ft.",
+      "https://kgs.ku.edu/Publications/PIC/PIC35.pdf",
+      "https://kansascity.com/opinion/readers-opinion/guest-commentary/article283527298.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joel mathis",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kansas city star",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "kansas",
+          "sentiment": "none"
+        },
+        {
+          "name": "missouri",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T18:20:10.665+02:00",
+    "updated": "2023-12-29T18:54:06.754+02:00"
+  },
+  {
+    "uuid": "8dca8d3d02669243e6df15a375a8ba90006a4a70",
+    "url": "https://luxuriousrentz.com/how-to-outsmart-your-boss-on-types-of-anxiety-disorders",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sue Beale",
+    "published": "2024-12-19T23:45:00Z",
+    "title": "How To Outsmart Your Boss On Types Of Anxiety Disorders",
+    "text": "Types of anxiety disorder blood pressure Disorders\nPeople with anxiety disorders often struggle to concentrate and are anxious. They also have higher risk of developing depression as well as certain health issues like thyroid issues.\nIt’s normal to feel anxious occasionally like before an exam or when moving into a new house. When anxiety becomes overwhelming and persistent you may need treatment. Most anxiety disorders respond well to psychotherapy (talk therapy) and medication.\nGeneralized anxiety disorders quotes Disorder\nEvery person experiences anxiety at times, and this is usually an normal response to physical or psychological stress. When you see a car speeding towards you, your anxiety or fear response can help keep you safe. It activates the “fight-or-flight” response which means that your heart beats faster blood will flow to your muscles, you’ll breath more heavily and your body is nervous to prepare for a fight or run. However there are those who are plagued by excessive worrying that seems impossible to control. This kind of worry can be harmful in the event that it hinders you from completing your routine activities and affects relationships at work, school or. People with this problem are known as having generalized anxiety disorder (GAD).\nGAD can be a problem for anyone of any age however it is most common in children and adolescents. It can persist throughout adulthood. It is more prevalent in women than in men. People suffering from GAD frequently suffer from other mental disorders, including depression or dysthymia (less severe forms of depression). They are also more likely to misuse drugs and alcohol.\nTreatment for anxiety disorders usually involves medication and psychotherapy. Psychotherapy or talk therapy can help you manage your symptoms. It can be helpful to find a therapist who is skilled in treating anxiety disorders. Cognitive behavioral therapy is the most effective kind of psychotherapy for GAD. It helps you challenge the distortion of your thinking and employ relaxation techniques.\nAnxiety medications are generally employed as short-term remedies for anxiety. Different types of antidepressants can be effective, including escitalopram (Lexapro) duloxetine (Cymbalta) and venlafaxine (Effexor XR). Discuss with your doctor about these medications before beginning treatment.\nSocial anxiety disorder, previously known as social fear, creates extreme anxiety and discomfort when in social situations. You may feel that you’re unable to speak in front of people around you or that they stare down at you. Certain people suffering from this disorder have such extreme anxiety that they avoid any social interaction. Selective mutism is another symptom of this disorder, in which people are afraid of certain situations like speaking in public or eating in front strangers.\nObsessive Compulsive Disorder\nObsessions are a set of uncontrollable thoughts, images or urges that recur in your mind, causing anxiety or distress. Compulsions are actions, such as washing, counting or checking that you are compelled to do in order to lessen the stress or anxiety caused by an obsession. People with OCD typically suffer from both obsessions and compulsions, which can take up the majority of their time and interfere with everyday activities, relationships and work.\nObsessive Compulsive Disorder can affect men, women and children of any age. It can begin in the early years of life however, symptoms are more likely to manifest during puberty or early adulthood. The exact cause of OCD is unclear, but some brain activity is thought to be abnormal. It could be related to an imbalance of the chemical serotonin, which regulates your mood. There’s also a significant genetic component. If you have a family member or more who have OCD, there’s about a 25% chance you’ll experience it.\nOCD sufferers often feel incapable of stopping their compulsions and obsessions. They realize that they’re wrong and don’t appreciate their compulsions but feel compelled to act to avoid bad things happening or to avoid the stress that their obsessive thinking causes.\nThere are many treatment options that can aid. Psychological treatment, like cognitive behaviour therapy (CBT) and exposure and response prevention therapy (ERP), can improve OCD symptoms for most people. ERP involves a counselor gradually exposing you to the objects and situations that trigger your thoughts of obsession like touching objects that are dirty. They also assist you to resist your compulsive behaviors (such as washing your hands) so that your anxiety diminishes over time.\nCertain people suffering from OCD might also be prescribed selective serotonin reuptake inhibitors or SSRIs. These are drugs that increase serotonin levels in the brain. Other forms of psychological therapy include mindfulness-based behavioural therapies and mindfulness therapy such as acceptance commitment therapy (ACT) or meditation. ACT helps you learn to accept your thoughts that are obsessive and removes their influence over you, while meditation and relaxation techniques can help you reduce stress.\nPanic Disorder\nPanic disorder (PD) which is also known as panic attacks or anxiety is characterized by frequent episodes that reach their peak in a matter of minutes. The symptoms include trembling, sweating and nausea as well as chest pains and breathing problems. These episodes can occur following terrifying experiences, or they can be spontaneous and unexpected. People with PD are also constantly worried about future panic attacks, and are cautious about situations they fear could trigger a panic attack.\nLike other anxiety disorders, PD can cause significant stress and can affect your everyday life. It affects both genders equally however it is more common for those who have been through an event that was stressful or traumatizing. It is also more likely to happen in those with an extended family history of anxiety or depression.\nAround 1 out of four people who require treatment get it despite the fact there are many highly effective treatments available. Obstacles to treatment include a lack awareness that anxiety disorders are treatable as well as a lack of access to mental health services, and the stigma that comes with seeking help.\nThe symptoms of anxiety disorders can be similar to those of other ailments like hyperthyroidism or heart disease. This is why it’s essential to consult a doctor for an evaluation and an assessment. A qualified mental health professional will suggest specific treatment after determining the physical causes.\nAlthough the causes of anxiety disorder aren’t fully understood, it is known that environmental and genetic factors play a part. Anxiety disorders tend to be passed through families and typically manifest at a younger stage for those who have an history of anxiety disorders. Furthermore, there are numerous factors that could trigger an anxiety disorder such as abuse in childhood and smoking. Certain medications, like diazepam or Valium, can also cause anxiety. Antidepressants, such as SSRIs and tricyclic antidepressants as well as beta-blockers that treat heart problems can reduce does anxiety disorder ever go away . Becoming aware of the different kinds of anxiety disorders and learning about treatment can help you manage your symptoms and reduce distress in your daily life.\nSocial Anxiety Disorder\nPeople suffering from social anxiety disorders have persistent and intense fears of being in public, or with other people. They fear that they will be snubbed or rejected and thought to be a negative person. They usually experience a variety of physical and emotional signs and symptoms of Anxiety disorder ( https://www.google.com.co/ ) like a rapid heartbeat and sweating, trembling nausea, and difficulties speaking. Their fear of social situations could create problems in the workplace or in relationships. The disorder may result in other psychological disorders, such as addiction or depression.\nPsychotherapy, like cognitive behavioral therapy (CBT), is the most effective treatment for this condition. This teaches alternative ways of thinking, and reduces does anxiety disorder ever go away . It helps the person realize that their fears aren’t proportional to the actual danger and that they are in control over the way they behave and react. Another effective approach is exposure therapy or cognitive delivered exposure. It involves gradually exposing the person to the situations that trigger anxiety with the help of the therapist in a secure environment.\nSocial anxiety disorder can also be treated using medications however they aren’t considered as a cure. These include antianxiety drugs including antidepressants, beta-blockers, and antidepressants. They are usually employed in conjunction with psychotherapy.\nResearch is ongoing to understand the causes of this condition and identify risk factors. It is believed that certain genes and environmental factors could be responsible for. A few studies have also revealed that those with this disorder react more than others to certain hormones.\nIt is important to seek treatment for anxiety disorders as they can have a severe impact on people’s lives. A general practitioner or mental health professional can diagnose the disorder and suggest treatment. It can be difficult to ask for assistance, so it could be beneficial to include a family member or friend in making an appointment or attend an organization or peer.\nSome anxiety disorders can have a negative effect on your life. They can increase your risk of suffering from depression or eating disorders, substance abuse, and suicide. Contact an emergency helpline for suicide prevention for help if you or someone you love is thinking about suicide.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health"
+    ],
+    "topics": [
+      "Health->mental health and disorder",
+      "Health->medical condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://anotepad.com/notes/e5g83w3r",
+      "https://www.google.com.co/",
+      "https://bookmarkzones.trade/story.php?title=its-the-perfect-time-to-broaden-your-type-of-anxiety-disorder-options",
+      "https://utahsyardsale.com/author/powderwaste5/",
+      "https://www.google.com.uy/url?q=http://racingfactions.com/members-area/bootmarch5/activity/279897/",
+      "https://www.google.com.co/url?q=https://telegra.ph/20-Fun-Facts-About-Depressive-Anxiety-Disorder-05-13",
+      "https://google.com.uy/url?q=http://racingfactions.com/members-area/bootmarch5/activity/279897/",
+      "https://www.google.com.co",
+      "https://bookmarkzones.trade/story.php",
+      "https://utahsyardsale.com/author/powderwaste5",
+      "https://google.com.co/url?q=https://telegra.ph/20-Fun-Facts-About-Depressive-Anxiety-Disorder-05-13",
+      "https://www.google.com.uy/url?q=http://racingfactions.com/members-area/bootmarch5/activity/279897",
+      "https://www.google.com.co/url",
+      "https://www.bookmarkzones.trade/story.php?title=its-the-perfect-time-to-broaden-your-type-of-anxiety-disorder-options",
+      "https://www.anotepad.com/notes/e5g83w3r",
+      "https://google.com.co/",
+      "https://www.google.com.uy/url",
+      "https://www.utahsyardsale.com/author/powderwaste5/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T03:09:42.016+02:00",
+    "updated": "2024-12-20T03:09:42.016+02:00"
+  },
+  {
+    "uuid": "7ce5f13789af7be51758a1fa478975097440300a",
+    "url": "https://www.devdiscourse.com/article/headlines/3213681-cold-wave-grips-northern-india-blanket-of-fog-adds-to-the-chill",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2025-01-03T02:38:00Z",
+    "title": "Cold Wave Grips Northern India, Blanket of Fog Adds to the Chill | Headlines",
+    "text": "Cold Wave Grips Northern India, Blanket of Fog Adds to the Chill\nTemperatures have plummeted across Northern India, causing disruptions in daily life. Cities like Jaipur, Agra, and Srinagar are witnessing chilling conditions with fog impairing visibility. Delhi's air quality has worsened to 'very poor'. Night shelters have been set up to aid the homeless amid the biting cold.\n- Country:\n- India\nNorthern India is in the grip of a severe cold wave, as temperatures plunged across several districts on Friday, causing significant disruptions to daily life. In Rajasthan, cities such as Jaipur experienced thick fog and chilly temperatures, with Jaipur recording a temperature of 10.2 degrees Celsius.\nEveryone's wearing thick winter clothing as the morning fog severely affected visibility in Agra, Uttar Pradesh. Meanwhile, Jammu and Kashmir experienced cold waves with temperatures dropping below zero, freezing the surface of Dal Lake.\nAdding to the woes, Delhi's Air Quality Index has worsened to 'very poor'. Authorities have established shelters to help the homeless cope in these frigid conditions.\n(With inputs from agencies.)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue"
+    ],
+    "topics": [
+      "Weather->weather phenomena",
+      "Social Issue->social condition",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Rajasthan",
+          "sentiment": "none"
+        },
+        {
+          "name": "Kashmir",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T07:11:21.260+02:00",
+    "updated": "2025-01-03T07:11:21.260+02:00"
+  },
+  {
+    "uuid": "a5eefd25aa6bc33c032dae1e14b953a27ef56441",
+    "url": "https://www.thestranger.com/news/2024/12/19/79832605/having-an-iud-is-great-getting-one-can-be-terrible",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Megan Burbank",
+    "published": "2024-12-19T19:17:00Z",
+    "title": "Having An IUD Is Great. Getting One Can Be Awful. New Legislation Could Change One of Those Things (Guess Which)",
+    "text": "The appeal of the IUD is undeniable: When you can get pregnant and don’t want to, 10 baby-free years feels like a miracle, something you’d be willing to suffer for at least a little. But for a lot of patients, the pain that comes with an IUD insertion is way more than “a little.” And worse, the pain is often downplayed by providers—if it’s even addressed at all. When Rep. Amy Walen (D-48) accompanied a young woman to an insertion appointment, she found this lack of pain control horrifying. So horrifying that she’s prefiled a bill for the upcoming 2025 legislative session addressing it. House Bill 1077 would require clinicians to discuss pain management with patients before IUD insertions.\nWalen hopes her bill will raise awareness about the very real pain that can accompany this extremely routine procedure: IUDs are one of the most popular forms of long-acting birth control on the market. She wants to keep other people from experiencing the intense pain she witnessed in the patient she accompanied, whose pain was intense and unrelenting. “It was really, really upsetting how painful it was for her,” said Walen.\nWith state legislatures across the country understandably focused on abortion access since the reversal of Roe v. Wade, it’s unusual to see policies like Walen’s, which specifically focus on IUDs.\nBut maybe it shouldn’t be.\nIf you’ve ever gotten an IUD—or talked to a fellow drunk girl in a bathroom line for just a little too long—the pain that can accompany an insertion is not new information. When I surveyed IUD users—or would-be users—about their experiences most recently, I was immediately flooded with responses describing “mind-bending pain,” prolonged failed insertion attempts, repeated uses of the word “brutal,” and comparisons to things like “a small dragon … trying to claw out of my body for 24-36 hours.” These were concerning, but they were also deeply familiar.\nStories like these are the subject of casual conversations over brunch or a beer. One friend of mine described pain that lingered for days after her insertion. Another, who fainted during her appointment, attempted to put a positive spin on things: “One shining silver lining was my nurse was a hot dyke and caught me when I fell off the table and I woke up in her arms,” she said. Removal was memorably bad, too, for a former colleague of mine. “When having it extracted, my doctor (and an intern) couldn’t get it out,” she said. “He spent 30 or 45 minutes yanking on it from various angles as I tried not to scream.”\nMy editor knows a woman whose first IUD insertion was so painful that years later, when she returned to get it replaced, she had a full-blown panic attack. Her body was so tense that they weren't able to safely complete the procedure.\nEven women who’ve given birth describe the pain of IUD insertion on particularly gnarly terms. Elinor Jones, better known as the celebrity gossip columnist at our sister paper the Mercury, described an insertion attempt that had to be stopped because it was so painful it was “like knives.” Annie Jurrens, who’s been through two unmedicated births, described her IUD insertion as one of “acute pain, like being stabbed in an internal organ.”\nGiven the grim state of reproductive health care in America, stories like these—where things really devolved, but no one died or was permanently injured—might seem like minor inconveniences, hot nurse or not. And juxtaposed with the horrors visited upon people who had first-generation IUDs like the infamous [Dalkon Shield](https://www.nytimes.com/1987/12/06/magazine/the-sad-legacy-of-the-dalkon-shield.html), perhaps they are. A claw-like device with a sci-fi name, the Dalkon Shield’s design led so many users to develop pelvic inflammatory disease that it became the subject of one of the largest tort liability cases in history.\nIt’s an unqualified good thing that the Dalkon Shield is off the market, but its existence seems to have set the bar in hell for future IUD experiences. You wouldn’t know this from the next-gen IUDs’ branding, ensconced in the soft focus of marketplace feminism, with imaginary girls’ names that sound like they’re written in cursive on a wooden sign inside HomeGoods: Skyla, Mirena, Kyleena. (The eminently practical ParaGard is the only exception to this: As the oldest and only non-hormonal option in the gang, the copper T is like the used Subaru hatchback of IUDs, and I mean that as the highest praise.)\nDespite this rosy marketing—and the very real pain they felt—the IUD users I spoke to said they received little or no advance warning that their procedures might be painful. Some were told just to take ibuprofen beforehand, others weren’t even given that advice. Jones was told scheduling the insertion during her period would make it easier, “but it just resulted in the whole fiasco being an absolute bloodbath.”\nThere’s a reason for this bizarro dissonance between brutal patient experiences and provider attitudes toward pain management and support: Research suggests that patients and providers perceive the pain of IUD insertion differently. A 2015 [study](https://pubmed.ncbi.nlm.nih.gov/25857221/%23:~:text=When%2520responses%2520of%2520patients%2520and,patients%2520during%2520IUD%2520insertion%2520procedures.) published in The European Journal of Contraception & Reproductive Health Care found that while most IUD insertions “appeared acceptable to most patients,” providers “tended to underestimate the degree of pain experienced by their patients during IUD insertion procedures.”\nThat could be changing. Earlier this year, the Centers for Disease Control and Prevention updated its guidelines for clinicians inserting IUDs to encourage conversations about pain management with patients before the speculum comes out. The CDC[ now recommends](https://www.cdc.gov/mmwr/volumes/73/rr/rr7303a1.htm) the use of topical or injected lidocaine, which numbs the cervix. Misoprostol, also used in medication abortions, may be helpful for some patients, but it’s not suggested for typical use.\nIt’s not clear what role, if any, legislative policies like Walen’s will have in advancing these updated clinical guidelines, beyond drawing attention to them. Sarah Prager, an abortion provider in Seattle, was skeptical of the approach. “There already exists a lot of guidance around offering/providing pain management for IUD insertions (including newer advice from the CDC within the Medical Eligibility Criteria (MEC) for Contraception Use (published updates this year),” she said. “I 100% agree expanded options for pain management should be offered/available, but I disagree that legislation is the appropriate vehicle for achieving this.”\nBut one thing is always worth remembering: A good doctor (the kind you deserve) will realize you’re in pain, and do something about it. “I was ready to power through,” said Jones. “I am grateful for my (female) doctor being like ‘You are in too much pain and I don’t recommend continuing.’” But if you’re at the doctor’s office and something is painful, you’re allowed to speak up.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Health->health organisation",
+      "Health->health treatment and procedure",
+      "Social Issue->family planning",
+      "Social Issue->pregnancy and childbirth",
+      "Social Issue->women",
+      "Politics->fundamental rights",
+      "Politics->healthcare policy",
+      "Politics->women's rights"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://pubmed.ncbi.nlm.nih.gov/25857221/%23:~:text=When%2520responses%2520of%2520patients%2520and,patients%2520during%2520IUD%2520insertion%2520procedures.",
+      "https://www.cdc.gov/mmwr/volumes/73/rr/rr7303a1.htm",
+      "https://www.nytimes.com/1987/12/06/magazine/the-sad-legacy-of-the-dalkon-shield.html",
+      "https://www.pubmed.ncbi.nlm.nih.gov/25857221/%23:~:text=When%2520responses%2520of%2520patients%2520and,patients%2520during%2520IUD%2520insertion%2520procedures.",
+      "https://nytimes.com/1987/12/06/magazine/the-sad-legacy-of-the-dalkon-shield.html",
+      "https://cdc.gov/mmwr/volumes/73/rr/rr7303a1.htm"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Amy Walen",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T01:03:17.886+02:00",
+    "updated": "2024-12-20T01:03:17.886+02:00"
+  }
+]

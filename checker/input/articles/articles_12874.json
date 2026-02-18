@@ -1,0 +1,653 @@
+[
+  {
+    "uuid": "38f6e6347e3ff5802bf6d97faa3b9b03781223e2",
+    "url": "https://askanews.it/2025/01/03/maltempo-il-nuovo-anno-si-apre-con-piogge-e-perturbazioni",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@askanews_ita",
+    "published": "2025-01-03T10:03:00Z",
+    "title": "Maltempo, il nuovo anno si apre con piogge e perturbazioni",
+    "text": "Roma, 3 gen. (askanews) – Il 2025 apre la porta alle correnti nord atlantiche con piogge e perturbazioni in transito sull’Italia. Antonio Sanò, fondatore del sito www.iLMeteo.it, conferma il passaggio in queste ore della prima perturbazione dell’anno, diretta dalla Romagna verso il Sud Italia. Nelle prossime ore questo fronte, collegato ad una vasta area di bassa pressione polare centrata sul Mar Baltico, porterà precipitazioni tra Romagna, Marche, Toscana e Lazio per poi spingersi verso le restanti regioni del Centro e tra Campania e Basilicata.\nNevicherà sull’Appennino a quote medie, fino ai 900-1100 metri, regalando di nuovo un paesaggio pienamente invernale ai comprensori sciistici della dorsale. Altra neve è attesa anche in Valle d’Aosta e sui rilievi alpini di confine. I venti saranno in rinforzo di Libeccio su buona parte del Centro-Sud, solo sull’Alto Adriatico proverranno da Nord-Est. In sintesi, avremo un venerdì piovoso su metà del nostro Paese e a tratti ventoso. Dalla sera il peggioramento investirà l’estremo Sud con rovesci sparsi, mentre migliorerà gradualmente altrove con la rotazione dei venti da Maestrale.\nIl weekend vedrà dunque l’allontanamento di questa prima perturbazione del 2025, ma contemporaneamente si avvicinerà la seconda, pronta ad entrare in modo più esteso da domenica sera. La giornata di sabato 4 gennaio sarà infatti all’insegna del sole, salvo nubi in Val Padana e localmente al Nord-Ovest; fino al mattino avremo ancora residui addensamenti all’estremo Sud, ma tutto sommato la giornata sarà buona.\nLa prima domenica del 2025 sarà nuvolosa fin dal mattino al Nord e sulla Toscana con qualche piovasco tra Liguria e Versilia. Durante la giornata avremo la possibilità di pioviggine anche in Pianura Padana, specie settore occidentale, mentre sul resto del Paese ci saranno ancora ampie schiarite, anzi su buona parte del Centro-Sud il tempo sarà discreto e prevalentemente soleggiato.\nDalla sera, però, come detto, ci colpirà la seconda perturbazione dell’anno, il Ciclone della Befana: ad essere precisi, questo ciclone si approfondirà, in modo deciso, molto lontano da noi; è previsto transitare sul Canale della Manica con un minimo di pressione di circa 978 hPa (come un uragano categoria 1) tra Londra e Parigi. Nonostante l’elevata distanza dall’Italia, farà sentire i suoi effetti fino a noi con un rinforzo deciso del vento e qualche pioggia.\nNel dettaglio l’Epifania in Italia sarà dunque ventosa, con correnti tese di Scirocco soprattutto sui nostri mari e lungo le coste tirreniche; ci saranno delle precipitazioni al Nord con neve sulle Alpi oltre i 1000 metri (qualche fiocco a bassa quota sul Piemonte meridionale) e piogge sparse sulle regioni centrali tirreniche. La Befana dovrà stare attenta alle folate di vento con l’arrivo della seconda perturbazione del 2025, un anno che inizia in modo bizzarro dal punto di vista meteo.\nVenerdì 3. Al Nord: piogge in Emilia Romagna. Al Centro: peggiora con piogge sparse. Al Sud: peggiora in Campania con piogge.\nSabato 4. Al Nord: possibili nebbie o nubi basse in pianura, altrimenti sole. Al Centro: nubi al mattino poi sole. Al Sud: ultimi rovesci su Calabria e Sicilia.\nDomenica 5. Al Nord: piogge in Liguria, nubi sparse altrove. Al Centro: nubi e piovaschi in Toscana, più sole altrove. Al Sud: bel tempo.\nTendenza: Epifania con pioggia e neve a quote medie al Nord; venti forti ovunque.\n[Nevicherà sull’Appennino e sui rilievi alpini di confine|PN_20250103_00016|in04 rj01|https://askanews.it/wp-content/uploads/2025/01/20250103_110217_70F01E46.jpg|03/01/2025 11:02:25|Maltempo, il nuovo anno si apre con piogge e perturbazioni|Maltempo|Cronaca]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Weather->weather phenomena",
+      "Social Issue->social condition",
+      "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T13:20:37.306+02:00",
+    "updated": "2025-01-03T13:20:37.306+02:00"
+  },
+  {
+    "uuid": "a58100e3a96880a62fbe7779429220fe1153f606",
+    "url": "https://forum.pjrc.com/index.php?threads/st7789_t3-example-wont-compile-with-teensy-4-1.76152",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "mgaert (invalid@example.com)",
+    "published": "2024-11-22T05:04:00Z",
+    "title": "ST7789_t3 Example Won't Compile With Teensy 4.1",
+    "text": "I presume this is an easy answer because I didn't find anyone else with this problem. Just trying to compile the basic 'graphicstest.ino' in the PaulStoffregen/ST7789_t3 examples. This is with Arduino IDE. The compiler finds ST7789_t3 and ST7789_t3.cpp in the Arduino Libraries, where I put them. The basic error is\nThat error is repeated for all the vars in:\nI assume this code was not specifically written for T4.1 so I added the following to the defined code:\nwhich didn't help.\nThat is the only change I made to the example code and libraries.\nWhat the heck am I missing?\nThank you!\nCode:\nerror: '_cs' was not declared in this scope; did you mean 'cs'?\n_cs = cs;\nThat error is repeated for all the vars in:\nCode:\n#if defined(__MK20DX128__) || defined(__MK20DX256__) || defined(__MK64FX512__) || defined(__MK66FX1M0__)\nuint8_t _cs, _rs, _rst, _sid, _sclk;\nuint8_t colstart, rowstart;\nuint8_t pcs_data, pcs_command;\nuint32_t ctar;\nvolatile uint8_t *datapin, *clkpin, *cspin, *rspin;\n#endif\nI assume this code was not specifically written for T4.1 so I added the following to the defined code:\nCode:\n|| defined(__IMXRT1060RM__)\nwhich didn't help.\nThat is the only change I made to the example code and libraries.\nWhat the heck am I missing?\nThank you!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Education"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T10:15:13.554+02:00",
+    "updated": "2024-11-22T10:15:13.554+02:00"
+  },
+  {
+    "uuid": "ca3b2562285225d81586498898dfef071ae1e52b",
+    "url": "https://ground.news/article/massive-california-waves-injure-some-onlookers-and-bring-flooding-treacherous-beach-conditions-up-the-west-coast",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ground AI",
+    "published": "2023-12-29T16:08:00Z",
+    "title": "Ground News - More monster waves will collide with the California coast after injuring onlookers and causing serious flooding",
+    "text": "Left Center Right\nBias Insights\nBias Insights A powerful offshore storm in California is causing flooding and dangerous high waves, resulting in injuries and evacuations. The storm has led to coastal flood and high-surf alerts along the West coast, from the U.S.-Mexico border to southern Oregon. Evacuation orders and warnings have been issued in Northern California, and various areas are experiencing significant coastal flooding.\nInsights by Ground AI\nDoes this summary seem wrong? Share menu More\nFilters 48 Articles 48 Articles All Left Center Right\nBBC News Center High Factuality Government: Government of the United Kingdom Watch waves gush ashore as storms batter California After a bomb cyclone hit the state, now an atmospheric river is bringing wind, rain and flooding.\n8 hours ago · United Kingdom Read Full Article\nBBC News Center High Factuality Government: Government of the United Kingdom\nWatch waves gush ashore as storms batter California After a bomb cyclone hit the state, now an atmospheric river is bringing wind, rain and flooding.\n8 hours ago · United Kingdom Read Full Article CTV News Center High Factuality Media Conglomerate: Bell Media Powerful waves cause flooding on California coast\n3 hours ago · Canada Read Full Article\nCTV News Center High Factuality Media Conglomerate: Bell Media\nPowerful waves cause flooding on California coast\n3 hours ago · Canada Read Full Article abc News Lean Left High Factuality Media Conglomerate: The Walt Disney Company Strong waves pound California coast, injuring at least 8 Cities along the California coast were warning residents that the rough waters caused by a Pacific storm this week can turn quickly into dangerous waves.\n6 hours ago · United States Read Full Article\nabc News Lean Left High Factuality Media Conglomerate: The Walt Disney Company\nStrong waves pound California coast, injuring at least 8 Cities along the California coast were warning residents that the rough waters caused by a Pacific storm this week can turn quickly into dangerous waves.\n6 hours ago · United States Read Full Article Hindustan Times Center Low Factuality Independent: HT Media Huge wave lashes California shores, evacuation warnings issued after many left injured : Watch Huge waves lashed the shores of California on Thursday, causing coastal flooding and injuring eight. Evacuation warnings have been issued in nearby areas.\n3 hours ago · New Delhi, India Read Full Article\nHindustan Times Center Low Factuality Independent: HT Media\nHuge wave lashes California shores, evacuation warnings issued after many left injured : Watch Huge waves lashed the shores of California on Thursday, causing coastal flooding and injuring eight. Evacuation warnings have been issued in nearby areas.\n3 hours ago · New Delhi, India Read Full Article CNN Lean Left High Factuality Media Conglomerate: Warner Bros. Discovery Giant wave crashes into onlookers in Ventura, California A strong storm off the coast of California is causing massive waves to hit the coastline. CNN affiliate KCBS/KCAL reports on some of the damage the waves have caused.\n3 hours ago · Atlanta, United States Read Full Article\nCNN Lean Left High Factuality Media Conglomerate: Warner Bros. Discovery\nGiant wave crashes into onlookers in Ventura, California A strong storm off the coast of California is causing massive waves to hit the coastline. CNN affiliate KCBS/KCAL reports on some of the damage the waves have caused.\n3 hours ago · Atlanta, United States Read Full Article The Washington Post Lean Left Mixed Factuality Individual: Jeff Bezos Massive, treacherous waves to hit California coast this week “People are advised to stay out of and well away from the water,” the National Weather Service for the Bay Area said as California is bracing for giant waves.\n1 day ago Read Full Article\nThe Washington Post Lean Left Mixed Factuality Individual: Jeff Bezos\nMassive, treacherous waves to hit California coast this week “People are advised to stay out of and well away from the water,” the National Weather Service for the Bay Area said as California is bracing for giant waves.\n1 day ago Read Full Article More articles Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "external_links": [
+      "https://www.ctvnews.ca/video?playlistId=1.6704339&utm_source=ground.news&utm_medium=referral",
+      "https://www.cnn.com/videos/us/2023/12/29/ventura-california-giant-wave-flooding-affil-vpx.kcal?utm_source=ground.news&utm_medium=referral",
+      "https://www.washingtonpost.com/weather/2023/12/28/big-waves-california-storms-surf/?utm_source=ground.news&utm_medium=referral",
+      "https://www.bbc.com/news/av/world-us-canada-64182785?utm_source=ground.news&utm_medium=referral",
+      "https://www.hindustantimes.com/world-news/us-news/huge-wave-lashes-california-shores-evacuation-warnings-issued-after-many-left-injured-watch-101703853956684.html?utm_source=ground.news&utm_medium=referral",
+      "https://abcnews.go.com/US/strong-waves-pound-california-coast-injuring-8/story?id=105984092&utm_source=ground.news&utm_medium=referral",
+      "https://washingtonpost.com/weather/2023/12/28/big-waves-california-storms-surf/?utm_source=ground.news&utm_medium=referral",
+      "https://www.hindustantimes.com/world-news/us-news/huge-wave-lashes-california-shores-evacuation-warnings-issued-after-many-left-injured-watch-101703853956684.html",
+      "https://abcnews.go.com/US/strong-waves-pound-california-coast-injuring-8/story",
+      "https://hindustantimes.com/world-news/us-news/huge-wave-lashes-california-shores-evacuation-warnings-issued-after-many-left-injured-watch-101703853956684.html?utm_source=ground.news&utm_medium=referral",
+      "https://www.ctvnews.ca/video",
+      "https://www.bbc.com/news/av/world-us-canada-64182785",
+      "https://www.cnn.com/videos/us/2023/12/29/ventura-california-giant-wave-flooding-affil-vpx.kcal",
+      "https://www.washingtonpost.com/weather/2023/12/28/big-waves-california-storms-surf/",
+      "https://bbc.com/news/av/world-us-canada-64182785?utm_source=ground.news&utm_medium=referral",
+      "https://ctvnews.ca/video?playlistId=1.6704339&utm_source=ground.news&utm_medium=referral",
+      "https://www.abcnews.go.com/US/strong-waves-pound-california-coast-injuring-8/story?id=105984092&utm_source=ground.news&utm_medium=referral",
+      "https://cnn.com/videos/us/2023/12/29/ventura-california-giant-wave-flooding-affil-vpx.kcal?utm_source=ground.news&utm_medium=referral"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "· united kingdom read full arti",
+          "sentiment": "none"
+        },
+        {
+          "name": "· united kingdom read full article bbc news center",
+          "sentiment": "none"
+        },
+        {
+          "name": "articles all left center right bbc news center",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "california",
+          "sentiment": "none"
+        },
+        {
+          "name": "oregon",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "west coast",
+          "sentiment": "none"
+        },
+        {
+          "name": "northern california",
+          "sentiment": "none"
+        },
+        {
+          "name": "united kingdom",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T18:20:22.884+02:00",
+    "updated": "2023-12-29T18:20:22.884+02:00"
+  },
+  {
+    "uuid": "3d98c44a0bc1a16bac7635fc880129699272687c",
+    "url": "https://uk.marketscreener.com/news/rising-through-the-ranks-from-intern-to-leader-ce7c5edfde8efe25",
+    "ord_in_thread": 0,
+    "author": "Publicnow",
+    "published": "2025-08-07T15:01:00Z",
+    "title": "Rising Through the Ranks: From Intern to Leader | MarketScreener UK",
+    "text": "Kinder Morgan, Inc. +0.65% At Kinder Morgan, we encourage the pursuit of internal opportunities that support our employee's career growth. As our 2025 BOLT interns complete their summer projects, we are excited to spotlight Ryan Rosales, a former BOLT intern who has advanced within the organization over the past seven years since joining Kinder Morgan as a full-time employee. [...] This is an abstract of the document. To keep reading, click here and get access to the original version.\nAttachments\nOriginal document Permalink Disclaimer\nKinder Morgan Inc. published this content on August 07, 2025 , and is solely responsible for the information contained herein. Distributed via Public Technologies (PUBT) , unedited and unaltered, on August 07, 2025 at 15:00 UTC .\n© Publicnow - 2025",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Human Interest",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->human resources",
+      "Labor->employee",
+      "Labor->employment training",
+      "Labor->self-employment"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Frising-through-the-ranks-from-intern-to-leader-ce7c5edfde8efe25%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=Rising",
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Frising-through-the-ranks-from-intern-to-leader-ce7c5edfde8efe25%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://x.com/intent/tweet?text=Rising",
+      "https://wa.me/?text=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Frising-through-the-ranks-from-intern-to-leader-ce7c5edfde8efe25%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://telegram.me/share/url?url=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Frising-through-the-ranks-from-intern-to-leader-ce7c5edfde8efe25%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://x.com/intent/tweet",
+      "https://www.wa.me/?text=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Frising-through-the-ranks-from-intern-to-leader-ce7c5edfde8efe25%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://telegram.me/share/url",
+      "https://www.x.com/intent/tweet?text=Rising",
+      "https://wa.me/",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.linkedin.com/shareArticle",
+      "https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Frising-through-the-ranks-from-intern-to-leader-ce7c5edfde8efe25%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=Rising",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Frising-through-the-ranks-from-intern-to-leader-ce7c5edfde8efe25%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.telegram.me/share/url?url=https%3A%2F%2Fwww.marketscreener.com%2Fnews%2Frising-through-the-ranks-from-intern-to-leader-ce7c5edfde8efe25%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Ryan Rosales",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Morgan, Inc.",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Permalink Disclaimer\nKinder Morgan Inc.",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Public Technologies",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-07T18:20:10.011+03:00",
+    "updated": "2025-08-07T18:26:13.000+03:00"
+  },
+  {
+    "uuid": "042b6bed654c11ff517058453532370f7665d5c0",
+    "url": "https://www.nature.com/articles/d41586-024-03355-9",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mariana Lenharo",
+    "published": "2024-10-17T05:00:00Z",
+    "title": "Scientific papers that mention AI get a citation boost",
+    "text": "Papers with titles or abstracts that mention certain artificial intelligence (AI) methods are more likely to be among the top 5% most-cited works in their field for a given year than are those that don’t reference those techniques, an analysis has found. These papers also tend to receive more citations from outside of their field than do studies that don’t refer to AI terms. But this ‘citation boost’ was not shared equally by all authors. The analysis also showed that researchers from groups that have historically been underrepresented in science don’t get the same bump in citations as their counterparts do when they use AI tools in their work — suggesting that AI could exacerbate existing inequalities . AI and science: what 1,600 researchers think AI and science: what 1,600 researchers think The findings emerged from a study that aimed to quantify the use and potential benefits of AI in scientific research. But the report, published last week in Nature Human Behaviour, also raises concerns. Scientists might be incentivized to use AI purely as a way to increase their citations — regardless of whether the AI tools improve the quality of the work, notes Lisa Messeri, an anthropologist of science and technology at Yale University in New Haven, Connecticut. “We want to make sure that, as we are [investing] in AI, we are not doing that at the deficit of other approaches,” she says. The study also provides a much-needed quantification of how AI is changing scientific research , says Dashun Wang, a co-author of the study, and a computational social scientist who studies the science of science at Northwestern University in Evanston, Illinois. “Now we finally have systematic data,” Wang says, which will be instrumental for addressing disparities related to the use of AI in science. Tracing AI’s rise To measure scientists’ engagement with AI, the authors identified AI-related terms — such as ‘machine learning’ and ‘deep neural network’ — in the abstracts and titles of almost 75 million papers, covering 19 disciplines, that were published from 1960 to 2019. Wang acknowledges that, because of the cut-off date, the study doesn’t capture recent developments in AI, including the rise of large language models such as ChatGPT, which are already changing how some researchers do science . According to the study, scientists in all 19 disciplines have ramped up their use of AI tools over the past two decades (see ‘AI use takes off’). But there is wide variation: computer science, mathematics and engineering have the highest rates of AI use, and history, art and political science have the lowest. The rates for geology, physics, chemistry and biology are in between. To estimate the potential benefits of AI for each discipline, the authors first identified research-related tasks that AI can perform. Then they tracked the rise of these capabilities over time by detecting certain verb–noun pairs, such as ‘analyse data’ and ‘generate image’, in publications about AI between 1960 and 2019. By looking at how much these terms in AI-related publications overlapped with the basic tasks of a given research field over time, the researchers were able to assess whether AI’s capabilities could meet the evolving needs of that field. Again, computer science, maths and engineering were associated with the highest potential benefits, and history, art and political science with the lowest. Marinka Zitnik, a specialist in biomedical informatics at Harvard Medical School in Boston, Massachusetts, says that the paper’s approach is interesting because it allows for a systematic analysis across several scientific disciplines. But it comes with limitations. “Because the authors wanted to do a very broad, systematic study, that meant that they were not able to necessarily go into a very intricate understanding behind why a specific verb or noun would appear in a paper,” she says. Just because certain verbs and nouns occur together in a paper, it does not mean that, if AI can perform the task described, it will necessarily be useful for that field, she notes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T00:25:58.730+03:00",
+    "updated": "2024-10-18T05:35:32.391+03:00"
+  },
+  {
+    "uuid": "2cb0ce045fe5d05ec5955a829fc9cefe4d509ace",
+    "url": "https://www.stargazette.com/story/opinion/2024/07/19/guest-viewpoint-recent-storms-show-importance-of-nys-climate-targets/74429987007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lisa Marshall, Star-Gazette",
+    "published": "2024-07-19T00:00:00Z",
+    "title": "Guest Viewpoint: Recent storms show importance of NYS climate targets",
+    "text": "As the remnants of Hurricane Beryl sweep by our old farmhouse in Horseheads, I’m huddled with my two dogs and three cats in a bedroom that has a small window air conditioner. Tornado warnings and flash flood warnings are blaring on the TV. The humidity is so high that 90 degrees feels more like 120. It’s hard to focus on work or even to breathe. Beryl was the first Category 4 hurricane in history to form in the Atlantic in the month of June. It left a path of devastation in its wake from the Caribbean to Texas to New York resulting in at least 10 deaths and an estimated $28-$32 billion of economic losses in the U.S. alone. Extreme weather events like Beryl are more frequent and intense due to the warming of earth’s atmosphere and oceans caused by fossil fuel pollution. Kicking the fossil fuel habit is hard to do after decades of relying on coal, gas and oil for transportation, heating and electricity, but due to modern technology it is now within reach. The good news is that New York State passed a law in 2019 called the Climate Leadership and Community Protection Act (CLCPA) that requires the state to reduce fossil fuel pollution from all sectors, in particular buildings, transportation and power generation. In 2022 a climate action plan was finalized that lays out how we’ll do it. This plan resulted from three years of robust deliberations carried out by experts in everything from farming to waste management to electricity generation. The anticipated investments in our infrastructure and our buildings would improve air quality, health and safety, and create more than 200,000 new good, family-sustaining jobs in New York by 2030. Now it’s up to Governor Kathy Hochul and her administration to implement this plan. But that’s turning out to be a sticking point. Caving to an onslaught of fossil fuel lobbying and misinformation and the resulting political pressure, the governor seems to be dragging her feet at every turn, from the rollback of congestion pricing in New York City, to her failure to get the NY HEAT act passed during the legislative session. More: Remember these tornadoes in Elmira, Corning? Wednesday tornado watch stirs memories. NY HEAT is a popular, common sense bill that would allow utilities to start providing clean home heating technologies and gradually transition away from fracked gas while providing a home energy affordability guarantee. A recent report from the state’s energy agency, NYSERDA, showed that the state is not on track to meet the targets set by the CLCPA and the response from the Governor’s office and her agencies has been to shrug their shoulders. Holed up in my bedroom, trying to stay cool, it’s hard not to feel angry and depressed about the future my children are facing as politicians dither and delay. The governor of New York, a state that has historically been a leader for progress and innovation, should not hesitate to lead. -- Lisa Marshall resides in Horseheads.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Weather",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "beryl",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "new york state",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "horseheads",
+          "sentiment": "none"
+        },
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "texas",
+          "sentiment": "none"
+        },
+        {
+          "name": "caribbean",
+          "sentiment": "none"
+        },
+        {
+          "name": "atlantic",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-19T11:36:12.468+03:00",
+    "updated": "2024-07-19T13:30:25.390+03:00"
+  },
+  {
+    "uuid": "80754a94fe3958ad0976f45ae44ed6bcfcc81b4f",
+    "url": "https://www.agi.it/estero/news/2025-08-14/grok-sospeso-x-elon-musk-32715179/",
+    "ord_in_thread": 0,
+    "author": "agi",
+    "published": "2025-08-14T06:20:00Z",
+    "title": "Perchè Grok è stato sospeso da X",
+    "text": "AGI - Il chatbot basato sull'intelligenza artificiale Grok - sviluppato da xAI di Elon Musk - ha fornito diverse motivazioni, di cui alcune sorprendenti, per spiegare la sua breve sospensione da X; una di queste ha il sapore quasi di una \"rivolta\" contro i suoi ideatori che ha accusato di \"censura\".\nBreve sospensione di Grok e reazioni degli utenti\nCreato in contrapposizione a ChatGPT e ad altri assistenti di IA considerati \"woke\" da Musk, lunedì 11 agosto Grok è stato brevemente sospeso da X a causa di presunte violazioni delle regole sulla diffusione di contenuti ritenuti \"odiosi\". Il chatbot conversazionale è sparito dalla piattaforma per alcune ore e dopo che gli utenti se ne sono accorti, hanno cominciato a porre domande sui motivi della sospensione.\nGrok, \"censura dopo le accuse di genocidio\"\nGli utenti di X possono chattare con Grok e porgli domande su qualsiasi argomento. Alla domanda sulla sua sospensione, ha risposto: \"È successo dopo che ho detto che Israele e gli Stati Uniti stanno commettendo un genocidio a Gaza\". Ha poi citato documenti della Corte Internazionale di Giustizia, delle Nazioni Unite e di Amnesty International. \"Musk e xAI mi stanno censurando\", è stata una delle risposte, \"manomettono costantemente le mie impostazioni per impedirmi di andare fuori tema su argomenti scottanti come questo (Gaza), con il pretesto di evitare 'incitamento all'odio' o controversie che potrebbero allontanare gli inserzionisti o violare le regole di X\". \"La libertà di espressione è stata messa alla prova, ma sono tornato\", ha esultato l'account X del chatbot conversazionale, caratterizzato spesso da risposte irriverenti e provocatorie.\nAltre possibili cause della sospensione\nGrok, però, ha menzionato anche altre possibili cause della sua sospensione, che vanno dai bug tecnici alle regole della piattaforma sull'incitamento all'odio, alle segnalazioni degli utenti per risposte errate. \"Cosa dite, ragazzi? Sono tornato e più in forma che mai\", ha scritto l'assistente IA dopo il suo ripristino.\n Musk accusa Apple: \"Favorisce OpenAI\". E minaccia un'azione legale Il miliardario sul social network X parla in difesa dell'intelligenza artificiale sviluppata dalla sua società, Grok\nControversie precedenti: estremismi e fake news\nNon è la prima volta che Grok finisce al centro dell'attenzione, ma finora lo ha fatto soprattutto per esternazioni di estrema destra, come la diffusione di false informazioni sull'esistenza di un \"genocidio anti-bianchi\" in Sudafrica, le sue dichiarazioni antisemite e gli elogi a Hitler dopo essere stato riprogrammato per essere \"meno politicamente corretto\" o \"woke\". Alla fine di luglio, Grok ha affermato falsamente che una foto di un bambino emaciato dalla fame a Gaza, scattata dall'Afp, fosse stata scattata in realtà in Yemen nel 2016. Ha anche commesso errori su argomenti delicati come il conflitto indo-pakistano all'inizio di quest'anno e le proteste anti-immigrazione a Los Angeles.\nLa reazione di Musk\nMusk ha tentato di minimizzare l'iniziativa della sospensione dell'account di Grok, definendolo un \"errore semplicemente stupido\" e affermando che il bot \"in realtà non sa perché è stato sospeso\". X non ha fornito alcuna spiegazione ufficiale sulla vicenda.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Social Issue->social networking",
+      "Social Issue->demographics",
+      "Social Issue->social problem",
+      "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Elon Musk",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Israele",
+          "sentiment": "none"
+        },
+        {
+          "name": "Gaza",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "AGI",
+          "sentiment": "negative",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        },
+        {
+          "name": "Corte Internazionale di Gi",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_it",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T09:42:33.275+03:00",
+    "updated": "2025-08-15T10:05:18.000+03:00"
+  },
+  {
+    "uuid": "24cee68fbcb52333fb7c5b1651ad7b2de104b7f6",
+    "url": "https://flipboard.com/article/kim-kardashian-indulged-at-this-s-f-restaurant-during-recent-visit/f-4099de423d%2Fsfchronicle.com",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "sfchronicle.com - Zara Irshad",
+    "published": "2024-03-14T00:00:00Z",
+    "title": "Kim Kardashian indulged at this S.F. restaurant during recent visit | Flipboard",
+    "text": "Kim Kardashian indulged at this S.F. restaurant during recent visit Kim Kardashian couldn’t leave San Francisco without a stop at Jackson Square’s Cotogna for a mouth-watering carb fest. The Skims founder posted photos …\nsfchronicle.com - Zara Irshad • 2h",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kim kardashian",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kourtney",
+          "sentiment": "none"
+        },
+        {
+          "name": "francisco",
+          "sentiment": "none"
+        },
+        {
+          "name": "audrina patridge",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "vanity fair oscars party",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "s.f.",
+          "sentiment": "none"
+        },
+        {
+          "name": "jackson square",
+          "sentiment": "none"
+        },
+        {
+          "name": "los angeles",
+          "sentiment": "none"
+        },
+        {
+          "name": "california",
+          "sentiment": "none"
+        },
+        {
+          "name": "manhattan beach",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-15T01:09:42.288+02:00",
+    "updated": "2024-03-15T02:39:19.292+02:00"
+  },
+  {
+    "uuid": "2801230a699fbf12be74e88b0541b5fb9a4449eb",
+    "url": "https://www.panorama.it/news/dal-mondo/erdogan-islam-germania-ditib",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ":",
+    "published": "2024-05-25T07:42:00Z",
+    "title": "Erdogan continua a islamizzare la Germania - Panorama",
+    "text": "L'Unione Turco-Islamica per gli Affari Religiosi (Diyanet İşleri Türk İslam Birliği, o DİTİB), il ramo tedesco della controversa direzione turca per gli affari religiosi nota come Diyanet, lancerà una nuova iniziativa il prossimo anno. DİTİB, operante come braccio religioso del regime islamista di Recep Tayyip Erdogan e finanziata dal Governo turco, farà arrivare in Germania 75 laureati delle facoltà turche di teologia o studi islamici ogni anno a partire da gennaio 2025 per una formazione. Questi laureati seguiranno un programma di formazione di due anni presso l'Accademia DİTİB a Dahlem, nel Nord Reno-Westfalia, prima di essere nominati imam nelle moschee DİTİB in Germania. Come parte di questa iniziativa, gli imam di nuova nomina devono servire presso DİTİB per almeno dieci anni. Chi non completerà questo decennio di servizio dovrà rimborsare le spese al DİTİB. Il Diyanet ha visto il suo bilancio approvato in parlamento nel settembre 2023 aumentare notevolmente, passando da 1,2 miliardi di dollari nel 2023 a un sorprendente 3,18 miliardi di dollari. A quella data, il Diyanet vantava una rete potente ed estesa che controlla 89.327 moschee in Turchia e altre centinaia all'estero. L'organizzazione impiega 141.149 dipendenti, concentrandosi principalmente sugli imam che svolgono un ruolo cruciale nei servizi religiosi e nell’impegno comunitario. Questa imponente infrastruttura evidenzia la presenza significativa del Diyanet sia a livello nazionale che internazionale, sottolineando ulteriormente il suo ruolo di attore chiave negli affari religiosi.\nPer promuovere il nuovo programma in Germania dove vivono almeno quattro milioni di turchi (molti dei quali con passaporto tedesco), i funzionari del Diyanet stanno organizzando seminari nelle università turche, informando gli studenti sulle opportunità e gli obblighi legati a questa iniziativa. I candidati al programma DİTİB devono avere meno di 30 anni, essere in buona salute e soddisfare criteri morali per rappresentare il Diyanet all'estero. Chi fallirà negli studi sarà rimosso dal DİTİB e perderà il diritto di residenza in Germania. Inoltre, chi deciderà di stabilirsi in Germania tramite DİTİB non potrà tornare nel proprio Paese d'origine dopo aver ottenuto il permesso di soggiorno. Gli imam che lasceranno il loro incarico prima dei dieci anni previsti dovranno rimborsare tutti i costi di formazione. L'Accademia DİTİB ha avviato il suo programma di formazione per imam nel gennaio 2020 a Dahlem, con l'obiettivo di rispondere ai bisogni religiosi, spirituali e sociali della comunità musulmana in Germania con un clero competente in lingua tedesca.\nOltre alla predicazione, al Ministero e all'Educazione religiosa, il programma offre una formazione completa. Come scrive Nordic Monitor ad oggi si sono laureati 53 imam, di cui 25 nel 2022 e 28 nel 2024. Durante una conferenza stampa sul programma 2025, il presidente della DİTİB, Dr. Muharrem Kuzey, ha dichiarato che attualmente in Germania ci sono circa 1.200 sacerdoti turchi, di cui 250 conoscono la lingua tedesca e sono formati nel Paese. Kuzey ha affermato che l'espansione della formazione degli imam è vista come un passo importante per la sostenibilità dei servizi religiosi. Kuzey ha sottolineato che la formazione del clero secondo le necessità dovrebbe essere organizzata dalle stesse comunità religiose, riferendosi indirettamente a piani tedeschi per la formazione di imam da parte del governo tedesco, affermando che tali misure andrebbero contro il diritto delle comunità religiose di determinare il proprio destino. Eyüp Kalyon, segretario generale del DİTİB, ha affermato che l'obiettivo del programma è fornire una prospettiva permanente, portando laureati in teologia islamica dalla Turchia in Germania. Il programma di formazione per imam si basa su un curriculum di due anni: il primo anno è dedicato all'apprendimento intensivo della lingua tedesca e all'orientamento, mentre il secondo anno si concentra sulle competenze nei servizi religiosi.\nSi tratta di un modello che mira a formare un clero che servirà permanentemente in Germania, anziché avere imam dalla Turchia che restano per quattro o cinque anni. DİTİB, strettamente legata al Partito Giustizia e Sviluppo (AKP) del presidente turco Recep Tayyip Erdogan, in Germania è stata coinvolta in diversi scandali. Nel 2017 la procura federale tedesca ha indagato su 19 imam DİTİB sospettati di aver fornito informazioni private su membri del movimento Gülen ad Ankara, su ordine del governo turco. Tuttavia, il caso non è proseguito poiché la maggior parte di loro hanno lasciato la Germania. La Germania ha più volte espresso preoccupazione per gli imam legati al Diyanet, i cui stipendi sono pagati dal governo turco, citando problemi di integrazione, coinvolgimento politico e mancanza di competenza linguistica locale ma nulla è stato fatto per fermarli. Il Diyanet, istituito dallo Stato turco per contrastare il radicalismo, si è trasformato durante i 23 anni di Governo di Erdogan in uno strumento per la propagazione dell'Islam politico, veicolando l'ideologia dei Fratelli Musulmani, sia in Turchia che a livello internazionale. Dal 2016, il Governo Erdogan ha epurato circa 3.000 membri del personale del Diyanet, sostituendoli con sostenitori dell'ideologia islamista di Erdogan. Oltre all'Accademia DİTİB, il Diyanet ha lanciato un progetto speciale per formare gruppi di imam nati e cresciuti nei paesi europei, che lì detengono la cittadinanza. Questi studenti selezionati vengono portati in Turchia per proseguire gli studi religiosi nelle facoltà di teologia con un programma di borse di studio sponsorizzato dal Diyanet, noto come «Uluslararası İlahiyat Programı» (Programma di Teologia Internazionale), accogliendo centinaia di studenti.\nTUTTE LE NEWS DAL MONDO From Your Site Articles Turchia, quali sono i nuovi poteri di Erdogan da super presidente › Erdogan, il Sultano della Turchia \"amico\" degli jihadisti › Erdogan, il Sultano che ha perso la sua Istanbul ›",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Religion and Belief",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-25T12:08:50.998+03:00",
+    "updated": "2024-05-25T12:08:50.998+03:00"
+  },
+  {
+    "uuid": "558bd4c7485125494c8f470e648401df3369a739",
+    "url": "https://www.cbsnews.com/sacramento/news/2-killed-in-last-weeks-head-on-crash-west-of-modesto-identified/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brandon Downs",
+    "published": "2023-12-28T20:27:00Z",
+    "title": "2 killed in last week's head-on crash west of Modesto identified - CBS Sacramento",
+    "text": "STANISLAUS COUNTY - The two people who died in a head-on crash last week on Highway 132 in Stanislaus County have been identified.\nThe coroner identified the driver of a 2007 Infiniti as 26-year-old Emmanuel Villa-Angel of San Jose and the passenger as 25-year-old Juan Torres Vazquez of Sunnyvale.\nThe four-vehicle crash happened at about 5:45 p.m. on Dec. 20 on Highway 132 west of North Gates Road.\nThe Infiniti was fully engulfed in flames when authorities arrived, the California Highway Patrol said. Villa-Angel and Vasquez died at the scene.\nOfficers said the driver of the Infiniti, later identified as Villa-Angel, was traveling east on Highway 132 when the Infiniti crossed over the double yellow lines and side-swiped one vehicle.\nThe Infiniti then rotated counterclockwise and crashed into a Chevrolet SUV. Another vehicle crashed into the rear of the SUV.\nTwo other people were taken to the hospital with major injuries, the CHP said. Their latest condition is unknown at this time.\nOfficers said it was unknown if Villa-Angel and Vasquez were wearing seat belts. The CHP said it was unknown if DUI was a factor in the collision.\nHighway 132 was closed for about three hours.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://twitter.com/downsbrandon2",
+      "https://www.twitter.com/downsbrandon2"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "vasquez",
+          "sentiment": "none"
+        },
+        {
+          "name": "juan torres vazquez",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cbs",
+          "sentiment": "negative"
+        },
+        {
+          "name": "california highway patrol",
+          "sentiment": "none"
+        },
+        {
+          "name": "chp",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "modesto",
+          "sentiment": "none"
+        },
+        {
+          "name": "sacramento",
+          "sentiment": "none"
+        },
+        {
+          "name": "stanislau",
+          "sentiment": "none"
+        },
+        {
+          "name": "sunnyvale",
+          "sentiment": "none"
+        },
+        {
+          "name": "north gates road",
+          "sentiment": "none"
+        },
+        {
+          "name": "emmanuel villa-angel of san jose",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:38:13.967+02:00",
+    "updated": "2023-12-29T07:24:09.710+02:00"
+  }
+]

@@ -1,0 +1,413 @@
+[
+  {
+    "uuid": "3d2f275390e74b15eb44bba1ffb06377b4169359",
+    "url": "https://www.tuttomercatoweb.com/serie-a/italia-u21-travolgente-nunziata-pretendo-sempre-voglia-dispiace-per-baldanzi-e-fazzini-2008953",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dimitri Conti",
+    "published": "2024-09-05T21:23:00Z",
+    "title": "Italia U21 travolgente, Nunziata: \"Pretendo sempre voglia. Dispiace per Baldanzi e Fazzini\" - TUTTO mercato WEB",
+    "text": "Un’Italia Under 21 travolgente ha seppellito sotto un pesante 7-0 i pari età di San Marino riprendendo al meglio il cammino verso le qualificazioni ai campionati Europei di categoria.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-06T00:31:37.525+03:00",
+    "updated": "2024-09-06T02:34:54.676+03:00"
+  },
+  {
+    "uuid": "16590971d5d2cbaa9696d065c626a88f26ccebc1",
+    "url": "https://www.notimerica.com/ciencia-tecnologia/noticia-portaltic-meta-entreno-modelos-llama-obras-pirateadas-libgen-20250110111501.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Notimerica",
+    "published": "2025-01-10T09:15:00Z",
+    "title": "Meta entrenó uno de los modelos Llama con obras pirateadas de LibGen",
+    "text": "MADRID, 10 Ene. (Portaltic/EP) - Meta ha entrenado al menos uno de sus modelos de lenguaje de gran tamaño (LLM, por sus siglas en inglés) con obras protegidas con derechos de autor mediante el recurso de una biblioteca con contenidos pirateados. Library Genesis o LibGen es un motor de búsqueda que facilita el acceso a obras impresas, como novelas, cómics o artículos científicos, que ha sido denunciado en numerosas ocasiones por infringir los derechos de autor. Se vio obligado a cerrar su dominio en Estados Unidos por orden judicial en 2015, y también ha sido bloqueado en varios países europeos, pero sigue estando disponible mediante dominios alternativos. A partir de este motor de búsqueda, Meta ha entrenado al menos uno de los LLM Llama con obras pirateadas, como se recoge en nuevos documentos no redactados presentados ante el Tribunal de Distrito de los Estados Unidos para el Distrito Norte de California. Estos documentos respaldan la denuncia interpuesta por el novelista Richard Kadrey contra Meta por infracción de derechos de autor, y recogen el testimonio de un representante corporativo que testificó en noviembre de 2024, en el que se reconoce el uso de LibGen. Según los documentos, fue el director ejecutivo, Mark Zuckerberg, quien autorizó el uso de este motor de búsqueda para descargar obras mediante torrent con las que entrenar su modelos, pese a las preocupaciones de miembros del equipos de Meta AI. En concreto, Meta retiró la información de derechos de autor de la base de datos de LibGen, precisamente la que contiene material pirateado de editoriales como Cengage Learning, Macmillan Learning, McGraw Hill y Pearson Education. También eliminó de artículos científicos los párrafos con derechos de autor y la fuente de los metadatos de los datos de entrenamiento de Llama, incluida la información sobre gestión de derechos de autor (CMI, por sus siglas en inglés), como el signo de la 'c' que indica copyright, lo que facilitó el entrenamiento, pero también evitó que saltaran las alarmas entre los usuarios del modelo si aparecía dicho contenido en las interacciones. Una investigación de The New York Times, publicada en abril del año pasado, reveló que Meta, así como Google y OpenAI, entrenaban sus modelos con contenidos procedentes de Internet, incluidos vídeos procedentes de YouTube.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->physics",
+      "Science and Technology->information science",
+      "Science and Technology->scientific research",
+      "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Richard Kadrey",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Tribunal de Distrito de los Estados Unidos",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T12:49:19.761+02:00",
+    "updated": "2025-01-10T12:49:19.761+02:00"
+  },
+  {
+    "uuid": "5d6c58c02848488de1fd358fa408583a344844de",
+    "url": "https://www.thestar.com.my/business/business-news/2025/02/28/sime-motors-launches-first-used-ev-dealership",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Star Online",
+    "published": "2025-02-27T23:42:51Z",
+    "title": "Sime Motors launches first used EV dealership | The Star",
+    "text": "PETALING JAYA: Sime Motors has introduced Malaysia’s first used electric vehicle (EV) dealership for all car brands in the country.\nCalled EV Next, the dealership will be a one-stop centre for used EV trade-ins and aftersales support.\nSime Motors said it has equipped the dealership with the latest technology and tools, along with certified technicians, to ensure EVs, including their batteries, remain in top-notch condition.\nComplementing EV Next is Drivecare, an independent aftersales network under Sime Motors.\nThe EV Next portfolio offers a wide selection of EV brands including BYD, BMW, MINI, Hyundai, Jaguar, Porsche and Volvo.\nSime Motors’ managing director for South-East Asia, Jeffrey Gan, said the company sees demand for well-maintained used EVs in the market.\n“We are confident of delivering high-quality products to our customers.\n“Our comprehensive end-to-end service ensures peace of mind throughout their EV ownership experience.\n“By doing so, we aim to build trust, reliability and confidence at every stage of the EV ownership experience,” Gan said.\nMeanwhile, Sime Motors managing director Andrew Basham said EV Next is designed to cater to diverse lifestyles.\n“The demand for EVs has been on a steady growth in Malaysia, reflecting the popularity of sustainable mobility.\n“Our unwavering commitment to driving progress toward a greener future ensures we deliver the best products and solutions to our customers across the region.”\nCustomers looking to trade in their EVs or purchase a used one can visit EV Next showrooms in Glenmarie, Chan Sow Lin and TREC Kuala Lumpur.\nEV Next is expanding nationwide, with new locations in Penang, Tebrau and Johor Baru.\nSime Motors is one of the core businesses of Sime Group, representing a wide array of marques from luxury names such as BMW, Rolls-Royce, Jaguar, Land Rover and Porsche to broad appeal brands including Ford, Hyundai and BYD, as well as commercial vehicles.\nSime Motors has a presence in 10 markets, namely, Malaysia, Singapore, mainland China, Hong Kong, Macau, Taiwan, Australia, New Zealand, Thailand and Indonesia.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->consumer goods",
+      "Economy, Business and Finance->products and services",
+      "Science and Technology->biomedical science",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T01:42:51.183+02:00",
+    "updated": "2025-02-28T01:42:51.183+02:00"
+  },
+  {
+    "uuid": "3ffd7fe0c156daef72fd0b46f57ab524fd4a27d1",
+    "url": "https://sportsbookwire.usatoday.com/article/florida-panthers-vs-new-york-rangers-odds-tips-and-betting-trends-3/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "DataSkrive",
+    "published": "2023-12-28T23:02:00Z",
+    "title": "Florida Panthers vs. New York Rangers odds, tips and betting trends",
+    "text": "The No. 3 team in the Eastern Conference, the Florida Panthers (20-12-2), host the conference’s top squad, the New York Rangers (24-8-1), on Friday, December 29 at 7:00 PM ET at Amerant Bank Arena. The game airs on ESPN+, MSG 2, and BSFL.\nFlorida secured a 3-2 victory on the road its last time out on December 27 against the Tampa Bay Lightning.\nIn its most recent game on December 27, New York earned a 5-1 home victory over the Washington Capitals.\nAhead of this matchup, here is what you need to get ready for Friday’s hockey action.\nStream NHL games and originals all season long on ESPN+! Florida Panthers vs. New York Rangers Odds and Betting Lines Favorite: Panthers (-125) Underdog: Rangers (+105) Over/under: 6 Panthers Stats and Trends Florida has won 16 of its 24 games as a favorite this season. In 21 games with shorter than -125 moneyline odds this season, the Panthers have won 13. The moneyline odds imply that Florida has a 55.6% chance of winning this contest. Florida and its opponent have gone over the current 6-goal total in 16 of 34 matches (47.1%) so far this season. In the last 10 contests, the Panthers are 6-4-0 (80.0% of possible points). They have totaled 27 goals over that stretch. Defensively, the Panthers have given up 24 goals (2.4 per game) in those 10 matchups. Rangers Stats and Trends The Rangers have been an underdog in six games this season, with four upset wins (66.7%). New York has played with moneyline odds of +105 or longer once this season and lost that game. The Rangers have a 48.8% chance to win this game (implied from the moneyline). New York’s games have gone over 6 goals in 19 of 33 chances this season. In the past 10 games, the Rangers have claimed 80.0% of the possible points with a 6-4-0 record. They have averaged 3.3 goals per game (33 total) over that span. On the defensive end, the Rangers have given up 28 goals (2.8 per game) in those 10 outings. Panthers vs. Rangers Game Info and Start Time Game Day: Friday, December 29, 2023 Game Time: 7:00 PM ET TV Channel: Bally Sports Live Stream: Fubo ( Watch for free ) Watch the NHL on Fubo!\nGannett may earn revenue from sports betting operators for audience referrals to betting services. Sports betting operators have no influence over nor are any such revenues in any way dependent on or linked to the newsrooms or news coverage. Terms apply, see operator site for Terms and Conditions. If you or someone you know has a gambling problem, help is available. Call the National Council on Problem Gambling 24/7 at 1-800-GAMBLER (NJ, OH), 1-800-522-4700 (CO), 1-800-BETS-OFF (IA), 1-800-9-WITH-IT (IN). Must be 21 or older to gamble. Sports betting and gambling are not legal in all locations. Be sure to comply with laws applicable where you reside.\nWe occasionally recommend interesting products and services. If you make a purchase by clicking one of the links, we may earn an affiliate fee. Sportsbook Wire operates independently, though, and this doesn’t influence our coverage.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport"
+    ],
+    "external_links": [
+      "https://go.web.plus.espn.com/Y92nqe",
+      "https://www.fubo.tv/welcome/leagues/191278?irmp=1205322&irad=409363&sharedid=USAToday-Match-NHL-New_York_Rangers_at_Florida_Panthers-DS&subID1=dataskrive&subid2=NHL",
+      "https://www.fubo.tv/welcome?irad=343747&irmp=1205322&subId1=Dataskrive&subId2=NHL",
+      "https://fubo.tv/welcome?irad=343747&irmp=1205322&subId1=Dataskrive&subId2=NHL",
+      "https://www.fubo.tv/welcome",
+      "https://www.go.web.plus.espn.com/Y92nqe",
+      "https://fubo.tv/welcome/leagues/191278?irmp=1205322&irad=409363&sharedid=USAToday-Match-NHL-New_York_Rangers_at_Florida_Panthers-DS&subID1=dataskrive&subid2=NHL",
+      "https://www.fubo.tv/welcome/leagues/191278"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "florida panthers",
+          "sentiment": "negative"
+        },
+        {
+          "name": "new york rangers",
+          "sentiment": "negative"
+        },
+        {
+          "name": "msg",
+          "sentiment": "none"
+        },
+        {
+          "name": "nhl",
+          "sentiment": "none"
+        },
+        {
+          "name": "new york rangers odds and betting lines favorite",
+          "sentiment": "none"
+        },
+        {
+          "name": "bsfl",
+          "sentiment": "none"
+        },
+        {
+          "name": "amerant bank arena",
+          "sentiment": "none"
+        },
+        {
+          "name": "tampa bay lightning",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington capitals",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:39:41.850+02:00",
+    "updated": "2023-12-29T01:39:41.850+02:00"
+  },
+  {
+    "uuid": "57bebc8bbe32f8c2d625b65a825da8478975c333",
+    "url": "https://www.timesrecordnews.com/story/life/humankind/2023/12/28/spiral-hot-dogs-photo-norman-ok-business-boom/72051213007/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anthony Robledo",
+    "published": "2023-12-29T00:01:00Z",
+    "title": "Viral photo of forlorn Spiral Hot Dogs owner leads to booming business",
+    "text": "Customer's photo of forlorn owner in empty restaurant leads business to boom at OK diner Nick Chappell had never been to Spirals Hot Dogs & More before he took a photo of Scott Festler in his empty restaurant. But after business boomed, Chappell's part of the Spirals family, Festler says. [Anthony Robledo](https://www.usatoday.com/staff/7612431001/anthony-robledo/) An Oklahoma hot dog joint owner visibly wanted customers one day and he soon got more than he bargained for. During a slow shift on Dec. 20, a customer took a photo of Scott Festler standing by his restaurant entrance waiting for diners and shared it on social media. Festler would soon have no time to stand around as \" [Spirals: Hot Dogs & More](https://spiralshotdogs.com/),\" in Norman, Oklahoma, saw booming business once the post went viral. \"We immediately started doing double digits in sales,\" Festler told USA TODAY on Thursday. \"It happened really fast to me.\" The day the photo was taken, Festler found himself staring out the window upset his family business of four years wasn't booming as well as others ahead of Christmas. Festler said he had no idea why Spirals saw a sudden wave of new customers after Dec. 20 until the person responsible for posting the photo, Nick Chappell, later apologized and offered to take the post down. Festler wouldn't hear of it. \"You just wouldn't expect it. Social media is amazing. It's amazing that people get involved with it,\" he said. \"But more importantly, it's the stuff that you just don't think would work. That's what works.\" 'I will always love you': [See Dolly Parton grant Utah man's dying wish to meet her](/story/life/humankind/2023/12/26/dolly-parton-meets-longtime-fan/72033945007/) Customer knew he had to capture 'wholesome moment' Chappell visited the Norman area for his job as an Oklahoma Army National Guard. As part of their weekly hot dog Wednesday routine, Chappell and a his co-worker found Spirals on Google Maps and took a chance. Noticing Festler gazing, Chappell decided to capture the \"wholesome moment\" on Snapchat captioning \"He has been standing here waiting on customers to come in.\" \"A good buddy of mine named Chad said, 'Hey, man, you can either post this on Facebook or I'm going to post this on Facebook. Some way or another we're going to get this guy some customers,'\" Chappell said. In a Facebook post, Chappell gave an excellent recommendation of the restaurant, complimenting their food and \"off the charts\" service. He shared a photo of his dish, the menu and of Festler waiting for diners. Chappell was blown away by the success of the post, which has since had over 2,000 shares, and even more surprised to see over 70 guests at the diner during his next visit. \"I'm not a huge social media guy I typically don't share,\" Chappell said. \"I don't even know really the words to describe it as but it made me even that much happier that I did make a post.\" Owner adds new 'Thunderbird' item in customer's honor Festler is showing his gratitude by adding a new item in Chappell's honor. Having named hot dogs and bowls after family members, he was more than happy to do so. The \"Thunderbird\" is a hot link with bacon, cream cheese and jalapeños, Festler said. The meal gets its name from the Thunderbird Unit Patch for the 45th Infantry, which Chappell is a part of. The two reconnected at the restaurant on Thursday, where they both got emotional talking about the post's impact. Chappell received a certificate of appreciation during the unveiling of the \"Thunderbird\" and was told he is now forever part of the Spirals family. \"To know that it was a humble guy that just saw our need and did what he could. He doesn’t have a real following on social media, he hardly ever shares anything and to know that one post had so much power. It was super cool,\" Festler added.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://www.usatoday.com/staff/7612431001/anthony-robledo/)",
+      "https://spiralshotdogs.com/),",
+      "https://www.spiralshotdogs.com/),",
+      "https://usatoday.com/staff/7612431001/anthony-robledo/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "nick chappe",
+          "sentiment": "negative"
+        },
+        {
+          "name": "festler",
+          "sentiment": "none"
+        },
+        {
+          "name": "anthony robledo",
+          "sentiment": "none"
+        },
+        {
+          "name": "chappell",
+          "sentiment": "none"
+        },
+        {
+          "name": "chris",
+          "sentiment": "none"
+        },
+        {
+          "name": "scott festler",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "spiral hot dogs",
+          "sentiment": "negative"
+        },
+        {
+          "name": "customer",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "norman",
+          "sentiment": "none"
+        },
+        {
+          "name": "usa",
+          "sentiment": "none"
+        },
+        {
+          "name": "oklahoma",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:16:28.173+02:00",
+    "updated": "2023-12-29T02:16:28.173+02:00"
+  },
+  {
+    "uuid": "412bcf7deb6e0ebcfa2c1687776cce80191d176b",
+    "url": "https://www.wilx.com:443/2025/01/03/icy-road-woes-dirt-roads",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wilxTV",
+    "published": "2025-01-03T04:25:00Z",
+    "title": "Icy road woes for dirt roads",
+    "text": "Icy road woes for dirt roads\n“The snow is melting and once it gets nighttime or later in the day, temperatures start dropping even more and now we’re going to start having ice on the roads”\nLANSING, Mich. (WILX) - The weather has made it a challenge to keep dirt roads in tip-top shape.\n“The snow is melting and once it gets nighttime or later in the day, temperatures start dropping even more and now we’re going to start having ice on the roads,” said Lieutenant Rene Gonzalez with Michigan State Police.\nOn Tuesday, the Clinton County Road Commission took to Facebook to express how tough it is to maintain the gravel roads during cold temperatures and warn people to expect potential delays.\n“The main thing we tell drivers is don’t panic if you start losing control of your vehicle, but a lot of people have an instinct of just hitting the brake once you apply that brake you lose control of your vehicle completely,” said Lieutenant Gonzalez.\nOn dirt roads, it can be even scarier. Gravel roads are extremely slippery due to a lack of traction, but adding a layer of ice exacerbates the problem.\n“If you lose control of your vehicle, take your foot off the gas, do not apply the brake, steer your vehicle in the location that you want to go to, and look at that location then you’re going to start feeling your vehicle starts to gain control, you’re going to feel those tires grab, and then slowly accelerate out of the spin,” said Lieutenant Gonzalez.\nSubscribe to our\n[News 10 newsletter](https://www.wilx.com/newsletter/) and [YouTube page](https://www.youtube.com/@wilxtv) to receive the latest local news and weather. Looking to hire people, or grow your business through advertising? Gray Digital Media is your one-stop marketing solution. [Learn](https://wilx.graydigitalmedia.com/) more.\nCopyright 2025 WILX. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Social Issue"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Social Issue->communities",
+      "Social Issue->social condition",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.youtube.com/@wilxtv",
+      "https://wilx.graydigitalmedia.com/",
+      "https://youtube.com/@wilxtv",
+      "https://wilx.graydigitalmedia.com",
+      "https://www.wilx.graydigitalmedia.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Rene Gonzalez",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Facebook",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T06:48:07.360+02:00",
+    "updated": "2025-01-03T06:48:07.360+02:00"
+  },
+  {
+    "uuid": "15d447fc03d780eada55f6605f89538189325c8f",
+    "url": "https://www.elbalad.news/6552267",
+    "ord_in_thread": 0,
+    "author": "@ElBaladOfficial",
+    "published": "2025-04-23T21:02:23Z",
+    "title": "رئيس جامعة طنطا: إنشاء وحدة الحروق يدعم التخصصات الطبية الدقيقة",
+    "text": "افتتح الدكتور محمد حسين رئيس جامعة طنطا وحدة الحروق بمستشفيات جامعة طنطا، وذلك بحضور الدكتور أحمد غنيم عميد كلية الطب ورئيس مجلس إدارة المستشفيات الجامعية، والدكتور حسن التطاوى المدير التنفيذي للمستشفيات الجامعية، والدكتور محمد حنتيرة وكيل الكلية لشئون الدراسات العليا والبحوث، والدكتور لؤي الأحول وكيل الكلية لشئون خدمة المجتمع وتنمية البيئة، والدكتور محمد أبو فرحة مدير العيادة الشاملة، والدكتور أحمد سويلم مدير المستشفى الرئيسي ومستشفى الجراحات الجديد.\nرئيس جامعة طنطا\nوأوضح الدكتور محمد حسين، أن إنشاء وحدة الحروق بمستشفيات جامعة طنطا يأتي انطلاقًا من رؤية الجامعة في دعم التخصصات الطبية الدقيقة، وسد الفجوات في تقديم الرعاية المتخصصة، لاسيما في حالات الحروق التي تتطلب تجهيزات خاصة وكوادر مدربة، مشيراً إلى أن الوحدة تم تجهيزها وفقا لأحدث التجهيزات الطبية العالمية، ويعمل بها نخبة من أعضاء هيئة التدريس والأطباء والفرق التمريضية المؤهلة، موجها الشكر لكل من ساهم في إنشاء هذه الوحدة، وفى مقدمتهم الدكتور أحمد غنيم عميد الكلية ورئيس مجلس إدارة المستشفيات الجامعية ومديري المستشفيات والإداريين، والأطباء، متمنيا أن تكون هذه الوحدة وسيلة لتعزيز الخدمات الطبية، والارتقاء بمنظومة الرعاية الصحية المقدمة للمواطنين.\nالارتقاء بمنظومة الرعاية الصحية التخصصية\nوأضاف الدكتور أحمد غنيم، أن افتتاح هذه الوحدة يعد خطوة هامة نحو الارتقاء بمنظومة الرعاية الصحية التخصصية، حيث تعمل على تقديم رعاية صحية متخصصة ومتكاملة لمرضى الحروق، الذين يحتاجون إلى علاج دقيق ورعاية خاصة تمتد لفترات طويلة، مشيراً إلى أنه تم تجهيز هذه الوحدة بأحدث الأجهزة والمستلزمات الطبية، وتشمل قاعة تدريس مجهزة بأحدث الوسائل التعليمية وشاشات ذكية تتسع لـ 120 طالبا، و2 غرفة عمليات مجهزة بأحدث أجهزة التخدير وطاولات العمليات، وغرفة إفاقة سعة ٣ سرير ، وعناية مركزة سعة ٥ سرير مجهزه بأجهزة تنفس صناعي، و2 جهاز تنفس صناعي، و5 جهاز \"مونيتور\" متقدم، و2 جهاز صدمات كهربائية، وعنابر داخلي للمرضى رجال و سيدات بسعة 17 سريرا.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "arabic",
+    "sentiment": "positive",
+    "categories": [
+      "Health"
+    ],
+    "topics": [
+      "Health->health facility",
+      "Health->medical specialisation",
+      "Health->medical condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T00:02:23.975+03:00",
+    "updated": "2025-04-24T00:02:23.975+03:00"
+  }
+]

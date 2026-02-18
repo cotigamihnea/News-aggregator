@@ -1,0 +1,532 @@
+[
+  {
+    "uuid": "259f979ac2f198bb758ddf7f4b99044efdfda815",
+    "url": "https://thequantuminsider.com/2024/04/11/quantum-stack",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matt Swayne",
+    "published": "2024-04-11T21:24:00Z",
+    "title": "Quantum Stack",
+    "text": "Quantum computing stands at the precipice of revolutionizing our approach to computation, promising to tackle problems that are currently beyond the reach of classical computers. To understand this potential, one must grasp the various layers of the quantum computing “tech stack,” which, together, make quantum computation possible. This tech stack, much like its classical counterpart, comprises several layers from the physical qubits up to the high-level algorithms and applications.\nThe Physical Layer: Qubits\nAt the foundation of the quantum computing tech stack lies the physical layer, composed of qubits. Unlike classical bits that are either 0 or 1, qubits can exist in a state of superposition, embodying both 0 and 1 simultaneously, thanks to the principles of quantum mechanics. Various physical systems can host qubits, including trapped ions, superconducting circuits, and topological qubits, each with its own set of advantages and challenges in terms of coherence time, scalability, and error rates.\nQuantum Error Correction and Fault Tolerance\nAs we ascend the stack, the next critical layer addresses quantum error correction and fault tolerance. Quantum systems are notoriously susceptible to errors due to decoherence and noise. Quantum error correction schemes are thus essential to protect the quantum information, employing multiple physical qubits to encode a single logical qubit resilient to certain errors. Developing fault-tolerant quantum computers, which can perform reliable computations even in the presence of errors, is a monumental challenge requiring sophisticated techniques and substantial overhead in physical qubits.\nQuantum Control and Hardware Abstraction\nThe layer above involves quantum control and hardware abstraction, critical for translating high-level instructions into specific operations on qubits. This involves pulse shaping, timing adjustments, and calibrations to mitigate errors and improve fidelity. The hardware abstraction layer allows algorithms to be designed without needing to consider the underlying physical implementation of the qubits, enabling a level of hardware independence.\nQuantum Middleware: Compilation and Optimization\nQuantum middleware, encompassing compilation and optimization, acts as the bridge between abstract quantum algorithms and the specific instructions executed on quantum hardware. This layer includes compilers that decompose high-level quantum algorithms into a sequence of quantum gates or operations that the quantum hardware can execute. It also involves optimizing these sequences to minimize the number of operations and, by extension, the potential for errors, considering the unique constraints and connectivity of the quantum processor.\nQuantum Algorithms and Applications\nAt the top of the stack are the quantum algorithms and applications, where the theoretical meets the practical. This layer is where quantum computing’s potential to revolutionize fields like cryptography (with Shor’s algorithm), materials science, drug discovery, and optimization becomes apparent. Quantum algorithms exploit the principles of superposition, entanglement, and interference to process information in fundamentally new ways, offering computational speedups for specific tasks compared to classical algorithms.\nChallenges and Future Directions\nDespite the considerable promise, the development of a fully functional quantum computer that can outperform classical computers for practical problems—quantum supremacy for useful tasks—remains a formidable challenge. Issues such as qubit coherence, error rates, and the scalability of quantum systems need to be addressed. Moreover, the development of more efficient quantum error correction codes and fault-tolerant computing architectures is crucial for realizing practical quantum computing.\nThe quantum tech stack also highlights a vibrant area of interdisciplinary research, necessitating expertise in quantum mechanics, computer science, engineering, and materials science. As research progresses, we can expect refinements across all layers of the stack, from the discovery of new qubit platforms and error correction schemes to the development of more efficient algorithms and applications tailored to the unique capabilities of quantum computers.\nConclusion\nThe journey toward practical quantum computing is a marathon, not a sprint. Each layer of the quantum computing tech stack presents its own set of challenges and opportunities for innovation. As researchers and engineers continue to make strides in understanding and manipulating the quantum world, the boundary of what is computationally possible will undoubtedly expand, opening new horizons for science and technology. The quantum computing tech stack is not just a framework for developing quantum computers; it’s a roadmap for unlocking the quantum future.\nFor more market insights, check out our latest\nquantum computing news here.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "quantum stack quantum",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-12T02:14:49.126+03:00",
+    "updated": "2024-04-12T02:14:49.126+03:00"
+  },
+  {
+    "uuid": "55d646aec9dbddc9d62f1fc58f97beb41c1521fc",
+    "url": "https://www.elcorreogallego.es/sociedad/2024/11/01/dana-roza-ibiza-aemet-sube-naranja-111110088.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Fernando de Lama",
+    "published": "2024-11-01T11:28:00Z",
+    "title": "La DANA roza Ibiza y la Aemet sube la alerta a naranja",
+    "text": "Temporal La DANA roza Ibiza y la Aemet sube la alerta a naranja Fuertes lluvias en algunos puntos de la isla desde primera hora de la mañana La Aermet prevé precipitaciones acumuladas de hasta 50 litros en una hora Fernando de Lama La [DANA que ha golpeado en los últimos días todo el litoral mediterráneo](/sociedad/2024/10/29/alerta-dana-temporal-levante-valencia-alicante-murcia-malaga-castellon-110801057.html) español sigue activa y en las últimas horas se ha situado en el mar al norte de la isla. Aemet ha elevado la alerta amarilla a naranja porque se prevén episodios de alrededor de 50 litros por metro cuadrado en una hora. El riesgo naranja permanecerá activo hasta las 20 horas de este viernes día festivo de Tots Sants. Las lluvias han descargado con fuerza en algunos puntos de la isla desde primera hora de la mañana, ya que la tormenta ha barrido buena parte de la isla. Sobre todo en la zona norte, con chubascos potentes en la zona de Sant Vicent, Sant Joan y entre Santa Agnès y Sant Mateu. Pero también se han producido lluvias intensas en otros puntos, como el Pla de Sant Antoni, en Santa Eulària hacia el interior e incluso en puntos aislados de Sant Josep y en la ciudad de Eivissa, donde se han producido algunas inundaciones. También en las últimas horas se han producido tormentas en Formentera. No circular por las carreteras Se recomienda no estar en zonas inundables ni utilizar las carreteras, ya que es un fenómeno impredecible que puede descargar tormentas y provocar inundaciones en pocos minutos. Desde las 9 de la mañana también han descargado decenas de rayos en diferentes puntos de la isla. Aunque el grueso de la [DANA](/tags/dana/) sigue afectando desde anoche principalmente a la zona de Castellón y el Sur de Tarragona, se ha ido desplazando hacia el Mediterráneo y un frente está situado durante toda la madrugada y la mañana entre Ibiza y Mallorca. El Govern pide \"máxima prudencia\" Ante la emergencia meteorológica para este día de Tots Sants, el Govern balear ha reclamado “máxima prudencia” a los ciudadanos “las próximas horas y días” por la alerta naranja decretada. Se recomienda que se tomen precauciones y mantenerse informado de la predicción meteorológica más actualizada. Las actividades habituales y al aire libre pueden verse alteradas. El Servicio de Emergencias 112 ha activado el Índice de Gravedad 1 (IG1) del Plan Meteobal por lluvias y tormentas en Ibiza, Formentera, Mallorca y Menorca. Recomendaciones para la alerta naranja - Planificar las visitas a los cementerios en función de las condiciones meteorológicas y extremar las precauciones, prestando especial atención a las personas más vulnerables. - En el hogar, asegurar puertas y ventanas y quedarse en las zonas altas de la casa. Se aconseja también retirar del exterior todo lo que pueda ser arrastrado por el agua y trasladar medicamentos, documentos y elementos de valor, así como comida y agua potable a los lugares altos de la casa. - Se recomienda evitar los sótanos o zonas bajas, como garajes, y desconectar el interruptor general de electricidad en el caso de que el agua ya haya entrado en la casa. - En el exterior, aconsejan alejarse de torrentes y zonas inundables y, en zona urbana, buscar refugio en un edificio. No se aconseja caminar por zonas con agua en movimiento, ya que, cuanto más rápido corre el agua, más peligro hay. - Hay que evitar los desplazamientos en coche y, si es necesario circular, se debe moderar la velocidad y aumentar la distancia de seguridad. Se tiene que hacer por autopistas, autovías y carreteras principales. En caso de baja visibilidad, se debe detener el vehículo y señalizar su posición. - No se debe entrar en zonas inundables, aunque parezca que hay poca agua, ya que, con poca altura de agua, los coches flotan y son arrastrados fácilmente. Si el coche comienza a flotar y es arrastrado, hay que salir del vehículo de forma inmediata y, si no se puede por la puerta, se debe hacer por la ventana. En estos casos es recomendable abandonar el vehículo y dirigirse a zonas más altas en caso de que el coche quede inmovilizado por el agua o que el nivel de agua ya llegue al eje. - Aconsejan también llevar el móvil cargado y suficiente combustible en el vehículo y no aparcar en puentes, aceras o desembocaduras. En caso de emergencia, hay que llamar al 112. [RRSS WhatsApp](https://api.whatsapp.com/send?text=La%20DANA%20roza%20Ibiza%20y%20la%20Aemet%20sube%20la%20alerta%20a%20naranja%20https://www.elcorreogallego.es/sociedad/2024/11/01/dana-roza-ibiza-aemet-sube-naranja- 0088.html%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share) [RRSS Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.elcorreogallego.es/sociedad/2024/11/01/dana-roza-ibiza-aemet-sube-naranja- 0088.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share) [RRSS Twitter](https://twitter.com/intent/tweet?original_referer=https://www.elcorreogallego.es/sociedad/2024/11/01/dana-roza-ibiza-aemet-sube-naranja- 0088.html&text=La%20DANA%20roza%20Ibiza%20y%20la%20Aemet%20sube%20la%20alerta%20a%20naranja%20%20https://www.elcorreogallego.es/sociedad/2024/11/01/dana-roza-ibiza-aemet-sube-naranja- 0088.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share%20a%20trav%C3%A9s%20de%20%40elcorreogallego) [RRSS email](mailto:?subject=La%20DANA%20roza%20Ibiza%20y%20la%20Aemet%20sube%20la%20alerta%20a%20naranja%20&body=https://www.elcorreogallego.es/sociedad/2024/11/01/dana-roza-ibiza-aemet-sube-naranja- 0088.html%3Futm_source%3Dmail%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share) [Copiar URL](javascript: void(0)) Noticia guardada en tu perfil [La ruta más bonita de A Costa da Morte: entre molinos y cascadas a los pies de un acantilado con increíbles vistas al mar](https://www.elcorreogallego.es/concellos/2024/10/30/ruta-bonita-costa-da-morte-110886178.html)[¿Puede llegar una DANA catastrófica a Galicia?](https://www.elcorreogallego.es/galicia/2024/10/31/llegar-dana-catastrofica-galicia-110939805.html)[Hallan muerta a una mujer de 45 años en un piso de la rúa Home Santo, en Santiago](https://www.elcorreogallego.es/santiago/2024/10/30/hallan-muerta-mujer-45-anos-110907510.html)[Golpe al 'menudeo' de drogas en Santiago: cinco detenidos en Concheiros](https://www.elcorreogallego.es/santiago/2024/10/31/golpe-menudeo-drogas-santiago-cinco-111024135.html)[Los dueños de Bosque Verde y Deliplus y la textil deportiva Luanvi, entre los desaparecidos](https://www.elcorreogallego.es/sociedad/2024/10/31/duenos-bosque-verde-deliplus-textil-111043649.html)[La Justicia tumba el recurso de la Xunta contra la humanización de Milladoiro](https://www.elcorreogallego.es/concellos/2024/10/31/justicia-tumba-recurso-xunta-humanizacion-milladoiro-ames-111043929.html)[Gallegos en la zona cero: «Lo hemos perdido todo, solo nos queda barro»](https://www.elcorreogallego.es/galicia/2024/10/31/gallegos-zona-cero-hemos-perdido-todo-solo-queda-barro-110938491.html)[La ruta que sube al Olimpo celta gallego: una aventura mítica en A Costa da Morte](https://www.elcorreogallego.es/concellos/2024/10/30/ruta-sube-olimpo-celta-gallego-aventura-mitica-costa-morte-110921774.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://api.whatsapp.com/send?text=La%20DANA%20roza%20Ibiza%20y%20la%20Aemet%20sube%20la%20alerta%20a%20naranja%20https://www.elcorreogallego.es/sociedad/2024/11/01/dana-roza-ibiza-aemet-sube-naranja-111110088.html%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share)",
+      "https://twitter.com/intent/tweet?original_referer=https://www.elcorreogallego.es/sociedad/2024/11/01/dana-roza-ibiza-aemet-sube-naranja-111110088.html&text=La%20DANA%20roza%20Ibiza%20y%20la%20Aemet%20sube%20la%20alerta%20a%20naranja%20%20https://www.elcorreogallego.es/sociedad/2024/11/01/dana-roza-ibiza-aemet-sube-naranja-111110088.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share%20a%20trav%C3%A9s%20de%20%40elcorreogallego)",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.elcorreogallego.es/sociedad/2024/11/01/dana-roza-ibiza-aemet-sube-naranja-111110088.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share)",
+      "https://facebook.com/sharer/sharer.php?u=https://elcorreogallego.es/sociedad/2024/11/01/dana-roza-ibiza-aemet-sube-naranja-111110088.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share)",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://twitter.com/intent/tweet?original_referer=https://elcorreogallego.es/sociedad/2024/11/01/dana-roza-ibiza-aemet-sube-naranja-111110088.html&text=La%20DANA%20roza%20Ibiza%20y%20la%20Aemet%20sube%20la%20alerta%20a%20naranja%20%20https://elcorreogallego.es/sociedad/2024/11/01/dana-roza-ibiza-aemet-sube-naranja-111110088.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share%20a%20trav%C3%A9s%20de%20%40elcorreogallego)",
+      "https://api.whatsapp.com/send?text=La%20DANA%20roza%20Ibiza%20y%20la%20Aemet%20sube%20la%20alerta%20a%20naranja%20https://elcorreogallego.es/sociedad/2024/11/01/dana-roza-ibiza-aemet-sube-naranja-111110088.html%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share)",
+      "https://api.whatsapp.com/send",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Santa Agnès",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Vicent",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T13:36:59.182+02:00",
+    "updated": "2024-11-01T13:36:59.182+02:00"
+  },
+  {
+    "uuid": "2e69795f2f2d200d219b4069fb20f061a2d9c730",
+    "url": "https://bnnbreaking.com/world/us/easter-2024-judge-phil-ginn-highlights-salvation-and-cultural-shifts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Momen Zellmi",
+    "published": "2024-03-29T01:49:00Z",
+    "title": "Easter 2024: Judge Phil Ginn Highlights Salvation and Cultural Shifts",
+    "text": "As Easter 2024 approaches, Judge Phil Ginn, now president of Southern Evangelical Seminary, shared profound insights on the holiday's significance, particularly amid current cultural shifts. Ginn, a retired judge and a leading figure in Christian thought, emphasized the deep spiritual renewal Easter brings to humanity, especially in times of widespread uncertainty and change. His reflections come at a critical moment when global issues have prompted a reevaluation of foundational beliefs and values.\nAdvertisment Understanding Easter's Core Message Judge Phil Ginn eloquently spoke about the essence of Easter, describing it as a moment when the \"dark shadows of Maundy Thursday and Good Friday\" serve to \"show more clearly the brightness of that first resurrection morning.\" This period, according to Ginn, is not just a historical event but a pivotal moment that offers a glimpse into the profound depths of Christian faith. He challenges believers to deeply contemplate the gravity of Christ's crucifixion and resurrection, urging a reflection that goes beyond mere tradition to a heartfelt acknowledgment of these events' transformative power.\nConfronting Modern Skepticism Advertisment In his discussion, Ginn addressed the growing skepticism and doubt surrounding the historicity of the gospel narratives in today's culture. He argued that the crucifixion and resurrection of Jesus Christ are \"two of the most documented events in the history of the world,\" advocating for a renewed conviction in these truths against the backdrop of contemporary disbelief. Ginn's message is a call to faith amidst a society that often prioritizes empirical evidence over spiritual truths, highlighting the importance of scriptural accounts as both historical and faith-affirming records.\nSalvation and Redemption: Easter's Promise At the heart of Judge Phil Ginn's Easter message is the promise of salvation and redemption. He quoted Luke 21:28 to remind Christians that the reality of Christ's crucifixion and resurrection should uplift and reassure them of their salvation. Ginn's perspective is not only theological but also deeply personal, encouraging individuals to find solace and victory in their faith, especially during challenging times. His reflections underscore Easter as a celebration of hope, renewal, and the undeniable proof of Jesus Christ as \"the only way, the only truth, and the only life.\"\nAs Easter 2024 draws near, Judge Phil Ginn's insights serve as a powerful reminder of the holiday's enduring relevance. His message resonates with believers and seekers alike, offering a beacon of hope in a world grappling with uncertainty and change. Through his compelling discourse, Ginn invites everyone to reflect on the profound implications of Easter and its promise of salvation, urging a deeper engagement with the core tenets of Christian faith.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "phil ginn",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ginn",
+          "sentiment": "none"
+        },
+        {
+          "name": "christ",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "southern evangelical seminary",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-29T15:51:24.117+03:00",
+    "updated": "2024-03-29T15:51:24.117+03:00"
+  },
+  {
+    "uuid": "89f5a76e669d3c398223fad7c7b805c2156a5cbf",
+    "url": "https://news.abplive.com/short-videos/news/india-cold-wave-hits-ayodhya-dense-fog-blankets-the-city-abp-news-1741521",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ABP Live",
+    "published": "2025-01-03T03:17:00Z",
+    "title": "Cold Wave Hits Ayodhya, Dense Fog Blankets the City | ABP News",
+    "text": "ABP LIVE\n03 Jan, 11:17 AM (IST)\nCold Wave Hits Ayodhya, Dense Fog Blankets the City | ABP News\nABP LIVE\n03 Jan, 11:16 AM (IST)\nSanjay Seth Responds to CM Atishi's Statement | ABP News\nABP LIVE\n03 Jan, 11:15 AM (IST)\nDense Fog Sets in Over Varanasi, Reducing Visibility | ABP News\nABP LIVE\n03 Jan, 11:14 AM (IST)\nThick Fog Engulfs Gwalior as Temperatures Plunge | ABP News\nABP LIVE\n03 Jan, 11:12 AM (IST)\nChill and Fog Blankets Jaipur, City Grapples with Severe Cold Wave and Dense Fog\nABP LIVE\n02 Jan, 08:08 PM (IST)\nRecord-Breaking Online Shopping for New Year 2025: Quick Deliveries Take Over Celebrations | ABP Live\nABP LIVE\n02 Jan, 08:03 PM (IST)\nThief Tried Robbing Liquor Store, Opened A Bottle, Got Caught In The Act | ABP Live\nABP LIVE\n02 Jan, 08:01 PM (IST)\nChandigarh Professor Opposes Diljit Dosanjh’s Songs, Raises Concerns Over Lyrics | ABP Live\nABP LIVE\n02 Jan, 07:58 PM (IST)\nTejashwi Yadav's New Year Resolution: How He Plans to Bring Changes to Bihar Politics | ABP Live\nABP LIVE\n02 Jan, 07:54 PM (IST)\nAbhishek Banerjee Inaugurates Mega Health Camp In Diamond Harbour As TMC MP | ABP Live\nABP LIVE\n02 Jan, 07:51 PM (IST)\nJammu Kashmir Snowfall: Heavy Snowfall In Poonch, Mughal Road Closed For Last 4 Days | ABP Live\nABP LIVE\n02 Jan, 07:48 PM (IST)\nAbhishek Banerjee Comments On BJP Regarding Manipur Violence, Watch His Statement | ABP Live\nABP LIVE\n02 Jan, 07:44 PM (IST)\nShahzad Poonawala Accuses 'AAP And Opposition Parties Of Disrespecting Temples And Sanatan' | ABP Live\nABP LIVE\n02 Jan, 07:41 PM (IST)\nDiljit Dosanjh Meets PM Modi: A Glimpse of Their Meeting Sparks Internet Debate | ABP Live\nABP LIVE\n02 Jan, 07:36 PM (IST)\n5 Morning Habits To Keep Chronic Diseases At Bay | ABP Live\nABP LIVE\n02 Jan, 12:58 PM (IST)\nAsaddudin Owaisi Slams Sambhal DM Over Police Booth Construction | ABP News\nABP LIVE\n02 Jan, 12:57 PM (IST)\nBollywood Diva Palak Tiwari Spotted at Mumbai Airport | ABP News\nABP LIVE\n02 Jan, 12:56 PM (IST)\nSnowfall Continues in Lahaul-Spiti Valley, Himachal Pradesh | ABP News\nABP LIVE\n02 Jan, 12:55 PM (IST)\nChilly Wave Hits Varanasi, Light Fog Engulfs the City | ABP News\nABP LIVE\n02 Jan, 12:53 PM (IST)\nDelhi Election 2025: BJP Accuses Arvind Kejriwal's Wife of Major Allegations\nABP LIVE\n02 Jan, 12:32 PM (IST)\nBJP to Contest Delhi Elections with Major Announcements On Freebies\nABP LIVE\n02 Jan, 12:26 PM (IST)\nFake Currency Racket Running Under the Guise of a Madrasa in Shravasti, UP; Police Uncovers the Operation\nABP LIVE\n02 Jan, 12:14 PM (IST)\nNew Year Chaos in America: Third Major Attack in 24 Hours in America\nABP LIVE\n02 Jan, 12:12 PM (IST)\nPunit Khurana Case Update: Another Video Emerges Linked to Delhi's Punit Khurana Case\nABP LIVE\n02 Jan, 12:00 PM (IST)\nShocking Tragedy in Nagpur, Son Brutally Murders His Parents | ABP News\nABP LIVE\n02 Jan, 11:25 AM (IST)\nCollege to be Named After Veer Savarkar Ahead of Delhi Elections\nABP LIVE\n02 Jan, 11:24 AM (IST)\nAsaduddin Owaisi to Nominate Another Delhi Riot Defendant in Upcoming Elections\nABP LIVE\n02 Jan, 10:49 AM (IST)\nTejashwi Targets Nitish Kumar, Says 'He Is Now Tired' | ABP News\nABP LIVE\n02 Jan, 10:48 AM (IST)\nAssistant Professors Protest Against Diljit Dosanjh in Chandigarh | ABP News\nABP LIVE\n02 Jan, 10:46 AM (IST)\nToxic Waste from Union Carbide Factory Arrives at Disposal Site in Bhopal | ABP News\nABP LIVE\n01 Jan, 01:04 PM (IST)\nNew Year 2025 Prediction: What’s in Store for Virgo Zodiac? | ABP News",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "topics": [
+      "Weather->weather phenomena"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Tejashwi Yadav",
+          "sentiment": "none"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T07:48:18.441+02:00",
+    "updated": "2025-01-03T07:48:18.441+02:00"
+  },
+  {
+    "uuid": "f191526f209938fc91902aad0a17704cc689debc",
+    "url": "https://www.ciperchile.cl/2024/01/25/cohecho-en-tribunal-tributario-la-lista-de-los-peritos-en-la-mira-de-la-fiscalia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Benjamín Miranda",
+    "published": "2024-01-25T21:39:00Z",
+    "title": "Cohecho en Tribunal Tributario: la lista de los peritos en la mira de la fiscalía",
+    "text": "93% DE LAS CAUSAS EN QUE INTERVINIERON SE FALLARON A FAVOR DE EMPRESAS Cohecho en Tribunal Tributario: la lista de los peritos en la mira de la fiscalía 25.01.2024 93% DE LAS CAUSAS EN QUE INTERVINIERON SE FALLARON A FAVOR DE EMPRESAS 25.01.2024 Son cinco los expertos tributarios que alguna vez colaboraron en investigaciones lideradas por el juez del Segundo Tribunal Tributario y Aduanero de la Región Metropolitana, Óscar Meriño -actualmente imputado por cohecho-, y que ahora están en la mira del Ministerio Público. La lista de los cinco peritos, más el juez, fueron incluidos en la denuncia anónima que abrió la indagatoria de la fiscalía. Según esa denuncia, existían pagos a Meriño a cambio de fallos favorables a las empresas. Un testigo de la causa declaró que se hacían traspasos de dinero a través de una sociedad de dos familiares del magistrado. CIPER rastreó la participación de los peritos en 16 causas del tribunal y detectó que, en 15 de ellas, Meriño falló a favor de las empresas que contrataron los peritajes. Además, la fiscalía indaga por lavado de activos a la pareja del juez, Auddy Graterol. Una de las líneas que abrió el Ministerio Público en su investigación por cohecho en contra del juez del Segundo Tribunal Tributario y Aduanero de la Región Metropolitana, Óscar Meriño, involucra a cinco peritos judiciales que emitieron informes en causas sentenciadas por el magistrado. Lo que investiga la fiscalía es si existieron pagos al juez, o a otros funcionarios del tribunal, que puedan haber influido en las decisiones tomadas por el magistrado, las que tienen el poder de ratificar o anular cobros imputados a los contribuyentes por el Servicio de Impuestos Internos (SII). Según la denuncia anónima que desencadenó la investigación, existían pagos a través de los peritos. CIPER accedió a la lista de los peritos investigados bajo la figura de prevaricación judicial, y comprobó que, de las 16 causas en que participaron elaborando informes tributarios, 15 terminaron con sentencia a favor del reclamante (parcial o completa) y solo una con resolución en contra. Todas esas sentencias se promulgaron desde 2021 en adelante. Las sentencias revisadas para este reportaje son las que aparecen disponibles en la web de los Tribunales Tributarios y Aduaneros, y que mencionan los nombres de los peritos que colaboraron en la indagatoria. Es posible que existan otras causas donde los peritos hayan participado. Los profesionales investigados son Sergio Castro Rivera, Teresa Gaete Navarro, José García Donoso, Fernando Saavedra Estay y Lorenzo Garrido Castañeda. A ellos se suma la pareja de Meriño, Auddy Graterol, quien está denunciada por presunto lavado de activos. Todos ellos fueron incluidos en la denuncia anónima que gatilló la apertura de la investigación judicial. Contactados para este artículo, los profesionales que hoy están bajo la lupa del fiscal Jaime Retamal descartaron cualquier irregularidad en sus designaciones o en el resultado de sus informes técnicos. Además, afirmaron que fueron requeridos en la investigación administrativa que se abrió contra Meriño, a cargo de la Corte de Apelaciones de Santiago, pero que no han sido notificados en la causa penal. Las sospechas sobre el nombramiento “a dedo” de los peritos tienen asidero en varios antecedentes recopilados por el Ministerio Público. Uno de ellos, es la declaración que entregó en noviembre pasado el abogado del Segundo TTA -Secretario Titular y actual juez subrogante- José Guerrero Uriarte, cuyo testimonio fue revelado por [Interferencia](https://interferencia.cl/articulos/corrupcion-en-tribunal-tributario-testigo-asegura-que-sii-conocia-la-situacion-y-nunca). Según Guerrero, los funcionarios del tribunal sabían que Meriño seleccionaba a los expertos que emitían informes en causas que estaban bajo su revisión, supuestamente, a cambio de dinero: “Aquí lo que está pasando es que Óscar (Meriño) está recibiendo pagos de los peritos que él nombra”. El abogado agregó que esos pagos se realizaban a través de una sociedad de dos familiares de Meriño, en la que el juez no tendría participación. ¿Qué ganaban los peritos con esta asociación? La respuesta podría estar en los honorarios que acordaban junto con los reclamantes: desde 200 hasta 1.000 UF por cada trabajo, según el abogado (entre $7.359.400 y $36.797.000 según el cambio del 1 de enero de este año). Guerrero también afirmó que Impuestos Internos estaba al tanto de estas presuntas irregularidades, pero que el organismo no las investigaba porque el juez gozaba “de una red de protección” en esa institución. Tal como ocurre en los tribunales ordinarios, los peritos deben ser especialistas en la materia por la que se les contrata y su objetivo es proveer información técnica dentro de la causa. La sospecha del Ministerio Público es que algunos trabajos no cumplieron con esos estándares y, más bien, obedecieron a intereses pactados entre Meriño, los expertos y las empresas reclamantes. Una de las tesis que se baraja es que estos peritos estaban vinculados a Meriño a través del Centro de Estudios Fiscales SpA (Cenfi), una sociedad que constituyó el juez en 2017 junto con el contador auditor Ramón Paillán y bajo la cual impartieron diversos seminarios y diplomados sobre regulación tributaria. CIPER revisó los cursos que allí se dictaban y entre los docentes no figura ninguno de los expertos que sigue el Ministerio Público –donde sí destaca, por ejemplo, el exsubdirector jurídico del SII, Gonzalo Torres–. Sin embargo, Guerrero abrió otra puerta cuando declaró que Meriño “tiene una fundación en la cual preparaba peritos” para reclutarlos en el Segundo TTA e involucrarlos en su red de corrupción. Esa fundación correspondería a Fiscalidad y Justicia, donde la pareja de Meriño, Auddy Graterol, se desempeñaba como jefa de litigación. El pasado 22 de noviembre la PDI allanó las oficinas del Segundo TTA de la Región Metropolitana, ubicadas en el centro de Santiago. En esa diligencia, también se solicitó acceso a los correos electrónicos del juez Meriño y otros tres funcionarios indagados (vea reportaje de CIPER “ [Fiscalía abre investigación por cohecho contra juez y tres funcionarios de los Tribunales Tributarios y Aduaneros](https://www.ciperchile.cl/2023/11/23/fiscalia-abre-investigacion-por-cohecho-contra-juez-y-tres-funcionarios-de-los-tribunales-tributarios-y-aduaneros/)”). CIPER envió diversas consultas al juez Meriño sobre su relación con los peritos investigados. A pesar de que él solicitó que las preguntas se canalizaran a través de su abogada Diana Venegas, hasta el cierre de este artículo no enviaron ninguna respuesta y dejaron de responder el teléfono. También intentamos contactar a su pareja, Auddy Graterol, a través del Instituto de Formación en Derecho y Tributación, formado en 2023 por la abogada. Sin embargo, se nos indicó por teléfono que no tenían relación con ella. Luego, cuando insistimos en su conexión con Graterol mencionando el acta de constitución del centro, bloquearon nuestros mensajes. De los cinco profesionales que están en el radar de la fiscalía, el que acumuló la mayor cantidad de informes fue Sergio Castro Rivero, quien participó en siete causas que estaban bajo la revisión del juez Meriño, todas con sentencia emitida entre 2021 y 2023. De ellas, solo una fue fallada a favor del SII, cuatro fueron sentenciadas completamente en favor de los reclamantes y en otras dos el magistrado resolvió dar la razón de manera parcial a los contribuyentes (“ha lugar en parte a la reclamación”). Contactado por CIPER, Castro afirmó que se desempeña como perito “desde hace más de 40 años” y que “nunca nadie me ha dado instrucciones de cómo hacer mis informes, directa ni indirectamente”. Respecto del juez Meriño, Castro señaló que solo lo conoció por sus labores como máximo funcionario del Segundo TTA de la Región Metropolitana y que nunca compartió en otras instancias con él. “Si alguien tiene dudas sobre mi trabajo, ya sea porque coinciden o no con lo que sostienen los reclamantes, están los informes y los documentos como prueba”, agregó. Castro, contador auditor de profesión, también dijo que a comienzos de enero fue requerido por el fiscal que lleva la investigación administrativa sobre Meriño, pero que no ha sido notificado por el Ministerio Público en la indagatoria penal del caso. Teresa Gaete Navarro es la segunda perito a la que la fiscalía le sigue la pista. Acumuló participaciones en cinco causas distintas, con un desempeño muy positivo para los reclamantes que solicitaron sus informes: el juez Meriño sentenció a favor de los contribuyentes en todos los casos (tres de manera completa y dos “en parte”). Todas las sentencias se emitieron entre 2021 y 2022. Según su LinkedIn, Gaete trabajó entre 2003 y 2011 como fiscalizadora del SII. De ahí comenzó una ascendente carrera en el mundo privado, con pasos por la auditora Deloitte y Enap (donde trabajó como Directora de Impuestos y fue registrada como [ lobbista](https://www.infolobby.cl/Ficha/sujetoActivo/24ab2c5631ae5963244d771390c89a90) de la entidad). CIPER se contactó directamente con la perito, quien nos derivó con el abogado Marco Romero. Hasta el cierre de este artículo, nuestras preguntas no fueron contestadas. El tercer perito de interés para la investigación es José García Donoso, quien emitió tres informes en tres causas distintas, sentenciadas a favor de los reclamantes en enero, junio y octubre de 2021, respectivamente. Al igual que Castro, García dijo que prestó declaración en el proceso administrativo pero que no ha sido contactado para la indagatoria penal. Sobre su relación con Meriño, contestó: -Nunca lo he visto en persona y solo lo ubico por sus funciones como juez del Segundo TTA de la región. Tampoco conozco a su socio de Cenfi SpA. Solo me enteré de la investigación cuando CIPER publicó un reportaje a fines del año pasado. Lorenzo Garrido Castañeda, el cuarto profesional investigado por prevaricación judicial, contestó en la misma línea: “A mí me citó el fiscal de la causa interna hace una semana y media, donde tuve que responder algunas consultas sobre el juez Óscar Meriño. Tal como comenté en esa instancia, no lo conozco personalmente y mi nombramiento como perito cuenta con todos los procedimientos legales que se requieren”. Garrido participó en una causa sentenciada en septiembre de 2022 a favor del reclamante Comercial Kendall Chile Limitada. El último profesional de la lista es Fernando Saavedra Estay, quien emitió un informe a solicitud de la farmacéutica Sanofi Pasteur S.A en medio de su pugna legal con el SII. Esa causa se cerró el 1 diciembre de 2023, cuando Meriño ya estaba fuera del tribunal por la causa que indaga el Ministerio Público. Quien falló a favor del SII fue José Antonio Guerrero, el juez subrogante y quién declaró contra Meriño en la causa que lleva adelante la fiscalía. Saavedra fue el único de los cinco peritos que dijo conocer al juez más allá de su labor como magistrado del Segundo TTA, ya que fue su alumno en uno de los diplomados que impartía en la Universidad Adolfo Ibáñez (UAI). Además, Saavedra fue compañero de curso del otro socio de Cenfi SpA, Ramón Paillán, con quien realizó la tesis para optar al grado de magíster en Tributación en la Universidad de Chile. El perito dijo a CIPER que “no estaba al tanto de que ambos eran socios en Cenfi o en cualquier otra sociedad. De la misma manera, me enteré por el reportaje anterior que el juez estaba siendo investigado por cohecho. Puedo afirmar que nunca he recibido presiones para favorecer o desfavorecer a un reclamante”. Saavedra también confirmó que prestó declaración en la investigación administrativa hace unos días, y que no ha sido citado por el fiscal Retamal para hacer lo propio en la causa penal. El caso de Auddy Graterol es distinto. La abogada venezolana, pareja de Meriño, fue denunciada por presunto lavado de activos. En LinkedIn, Graterol señala que trabaja como procuradora en Landa Asociados SpA. Esa sociedad, constituida por el contador auditor Ramón Paillán hace 15 años, cambió su nombre en 2018 a RPA Consultores SpA, por lo que seguramente se trata de un registro desactualizado. En 2021, RPA Consultores SpA fue multada por la Comisión para el Mercado Financiero (CMF) por diversas faltas cometidas en su auditoría externa a los estados financieros de Golf y Deportes Lomas La Dehesa S.A de 2015, 2016, 2017 y 2018. Entre otros puntos, la CMF impugnó que faltaron “antecedentes y papeles de trabajo en la preparación y el desarrollo de labores de auditoría, particularmente el objetivo de formar una opinión respecto a si los estados financieros se encuentran presentados razonablemente”. Paillán también fue multado en ese proceso ( [vea aquí la investigación completa de la CMF](https://www.cmfchile.cl/sitio/aplic/serdoc/ver_sgd.php?s567=155c917d7210172837ecd784b3870727VFdwQmVVMVVRWHBOUkVFMFQwUk5lVTlCUFQwPQ==&secuencia=-1&t=1706218916)). El nombre de Paillán está en manos de la Fiscalía desde que inició su investigación sobre Meriño. Principalmente, porque el contador auditor figura como socio del juez en el Centro de Estudios Fiscales (Cenfi), donde realizaban diversas actividades académicas relacionadas con normativas tributarias. Meriño explotó su faceta docente y académica durante mucho tiempo. En octubre de 2022, por ejemplo, dictó una charla en la Universidad del Desarrollo (UDD) en calidad de titular del Segundo TTA de la Región Metropolitana. En ese evento también participaron los miembros de la Fundación Fiscalidad y Justicia, una organización creada por Meriño y en la que Graterol se desempeñó como jefa de litigación. Ambos posaron en las fotografías que fueron [publicadas ](https://derecho.udd.cl/noticias/2022/10/charla-magistrado-tribunal-tributario-y-aduanero/)por la página de la UDD. El 6 de marzo de 2023, Graterol creó el Instituto de Formación en Derecho y Tributación SpA, cuyo objetivo sería el de impartir cursos de educación y capacitación. La inscripción de constitución de esa sociedad señala que la abogada es la gerente general, representante legal y única accionista del Instituto. Y, que en caso de cualquier diferencia que ocurra entre los futuros socios, el árbitro será Paillán. El abogado y juez subrogante del Segundo TTA, José Guerrero Uriarte, declaró como testigo el 21 de noviembre ante el fiscal Retamal. Guerrero comenzó su declaración afirmando que, pocos días antes de su comparecencia, tuvo una conversación con el secretario del tribunal, Felipe Muñoz Albónico, quien le comentó muchas de las irregularidades que hoy investiga el Ministerio Público en torno a Meriño. Entre otras cosas, Muñoz le habría dicho a Guerrero que “hay funcionarios del tribunal que se han ido porque Óscar es corrupto”. Una de las pistas más importantes que entregó Guerrero, es que el juez habría recibido pagos de los peritos que designaba a través de una sociedad constituida por su hermano y su mamá, en la que el magistrado no tendría participación. La única empresa que cumple con esas características es Mejías San Martín SpA (más conocida por su nombre de fantasía, Rivas&Holtegel SpA). Formada en junio de 2021, cuenta con giros habilitados para la edición de libros, actividades de consultoría de gestión, venta al por menor por correo, internet y vía telefónica, y “otros tipos de enseñanzas”, mientras que sus redes sociales son utilizadas principalmente para difundir los cursos que dictaba Meriño y su programa Tax Show. Guerrero aclaró que no le consta que “se le haya pagado a Óscar Meriño a través de la sociedad” de sus familiares, y que las pericias efectivamente se llevaban a cabo a cambio de honorarios que fluctuaban entre siete y $36 millones. El abogado también sostuvo que “esta irregularidad de los pagos de los peritos a Óscar Meriño al parecer se da con mayor frecuencia cuando el tribunal lo decreta como medida para mejor resolver”, es decir, cuando el juez solicitaba la diligencia al estimar que faltaban elementos para dictar su sentencia. Incluso, Guerrero detalló que una funcionaria del TTA le había comentado en más de una ocasión que Meriño solía pedir un informe pericial contable como medida para mejor resolver “pese a que la causa no lo necesitaba”, o cuando esta solicitud parecía ser “una pérdida de tiempo”. Por último, señaló que el juez “tiene una fundación en la cual preparaba peritos” con la finalidad de reclutarlos en su red de corrupción. Aunque no entregó el nombre de esa organización, los dardos apuntan a Fiscalidad y Justicia, la misma donde trabajaba su pareja Auddy Graterol.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://derecho.udd.cl/noticias/2022/10/charla-magistrado-tribunal-tributario-y-aduanero/",
+      "https://interferencia.cl/articulos/corrupcion-en-tribunal-tributario-testigo-asegura-que-sii-conocia-la-situacion-y-nunca",
+      "https://www.infolobby.cl/Ficha/sujetoActivo/24ab2c5631ae5963244d771390c89a90",
+      "https://www.cmfchile.cl/sitio/aplic/serdoc/ver_sgd.php?s567=155c917d7210172837ecd784b3870727VFdwQmVVMVVRWHBOUkVFMFQwUk5lVTlCUFQwPQ==&secuencia=-1&t=1706218916",
+      "https://www.interferencia.cl/articulos/corrupcion-en-tribunal-tributario-testigo-asegura-que-sii-conocia-la-situacion-y-nunca",
+      "https://cmfchile.cl/sitio/aplic/serdoc/ver_sgd.php?s567=155c917d7210172837ecd784b3870727VFdwQmVVMVVRWHBOUkVFMFQwUk5lVTlCUFQwPQ==&secuencia=-1&t=1706218916",
+      "https://www.derecho.udd.cl/noticias/2022/10/charla-magistrado-tribunal-tributario-y-aduanero/",
+      "https://www.cmfchile.cl/sitio/aplic/serdoc/ver_sgd.php",
+      "https://derecho.udd.cl/noticias/2022/10/charla-magistrado-tribunal-tributario-y-aduanero",
+      "https://infolobby.cl/Ficha/sujetoActivo/24ab2c5631ae5963244d771390c89a90"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:04:59.926+02:00",
+    "updated": "2024-01-26T04:26:45.108+02:00"
+  },
+  {
+    "uuid": "e51624ecac0e87646cf80d1a367b0375600457a1",
+    "url": "https://www.tricitynews.com/indigenous-news/friends-and-family-mourn-the-loss-of-canadians-killed-by-hamas-in-israel-8036546",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Canadian Press",
+    "published": "2023-12-28T22:20:00Z",
+    "title": "Friends and family mourn the loss of Canadians killed by Hamas in Israel",
+    "text": "Friends, family and government officials have confirmed that at least seven Canadians were killed when Hamas militants conducted a series of attacks in Israel on Oct. 7.\nGlobal Affairs Canada has said an eighthperson who was not a citizen but had deep ties to Canada also died in the ensuing conflict. Another Canadian, who has not been identified, died in Lebanon during the hostilities.\nThe Hamas attacks killed an estimated 1,200 people and militants took another 240 hostage, 105 of whom were released during a temporary pause in the violence at the end of last month.\nAs Israel continues its retaliation on Hamas in the Gaza Strip, authorities there say more than 20,000 Palestinians have now been killed.\nHere's what we know about the Hamas victimswith ties to Canada:\nJudih Weinstein Haggai\nJudih Weinstein Haggai, 70, was out on an early-morning walk when Hamas started its attack, her family says.\nShe told members of her Nir Oz kibbutz that a militant on a motorcycle shot her husband and she was less severely wounded. The community was unable to dispatch an ambulance before militants arrived there.\nLast week, the kibbutz confirmed Gadi Haggai, Judih's husband, died on Oct. 7, and on Thursday they confirmed Weinstein Haggai also died that day, and her body is being held in Gaza.\nWeinstein Haggai was born in New York state but arrived in Toronto at the age of three, and moved to Israel 20 years later to live with her husband. She held Canadian, Israeli and American citizenships.\nWeinstein Haggai was an artist and a volunteer who the kibbutz said \"pursued many initiatives to advance peace in the region.\"\nHer brother Larry Weinstein said the family is distressed by Israel's offensive in Gaza and the rise of hateful speech in Canada toward both Jews and Muslims.\n\"We're inspired by my sister, who believed in peace and believed in harmony,\" he said. \"There can't be any kind of resolution when people are at each other's throats.\"\nVivian Silver\nVivian Silver, 74, was in her home on Kibbutz Be'eri near the Gaza border and talking on the phone with her son Yonatan Zeigen when they learned of the incursion by Hamas into Israel.\n\"We couldn’t grasp the incapability of the Israeli army to defend the civilians … we started to say goodbye because we realized this is probably our last words to each other,\" Zeigen later told a news conference organized by the Jerusalem Press Club.\nHe said they shifted their conversations to text messages so his mother could stay silent, and someone broke into her home. They said they loved one another before the messages stopped coming.\nZeigen said he had received information that she was taken hostage, and her phone had been geolocated in Gaza.\nOn Monday, his brother Chen Zeigen confirmed their mother's death. He said Israeli authorities told him the remains found earlier in the kibbutz had been identified as Silver.\nHe said his mother was born in Winnipeg and moved to Israel in 1974.\nShe dedicated her life to peacebuilding and fostering understanding between Israelis and Palestinians, he added.\nShe also volunteered to help children in Gaza access medical care in Israel.\nTiferet Lapidot\nTiferet Lapidot, 22, was a few days shy of her 23rd birthday and attending a music festival when the Hamas attack began.\nHer cousin Oran Zlotnik remembered Lapidot as a charismatic and compassionate person who had travelled the world, taught in Africa and spent time in Australia before she returned to Israel in the fall.\nHer uncle Harel Lapidot said she called her mother the morning of the attack to say she was hiding in a bush and to ask whether she should flee. Her cellphone was later tracked to the Gaza Strip, leading family to believe she was being held hostage. They then mounted a campaign to secure her freedom.\nZlotnik said that when the cellphone of one of Lapidot's friends, confirmed deceased, was also traced to Gaza, the family realized it was possible she wasn't a hostage.\nHarel Lapidot said his niece's body was later identified and the family held a funeral.\n\"We know for a fact they were hunted,\" he said. \"They ran away and they were hunted and killed.\"\nTiferet Lapidot was an Israeli citizen but her family was from Canada, including her father, Ohad, who was born in Saskatchewan.\nHarel Lapidot thanked the Jewish community in Canada and MPs who had reached out to help and offer support. The family had a meeting with Foreign Affairs Minister Mélanie Joly while she was in Israel.\nNetta Epstein\nIsraeli-Canadian Netta Epstein, 21, died when his home, Kibbutz Kfar Aza, came under attack.\nHis mother, Ayelet Shachar-Epstein, said he loved life. She learned the circumstances of his death from text messages he sent her in the moments before he was killed, and from his fiancée, Irene Shavit, who survived.\nNetta Epstein was inside a safe room with Shavit, and he jumped on a grenade thrown in by the attackers.\nShachar-Epstein, who also lost her mother-in-law and two brothers-in-law in the attacks, described it as a terrorist invasion.\nShe said her son, who had worked with special needs youth, had returned home two months earlier after completing military service.\nHe was born in Montreal and was a Canadian citizen. Shachar-Epstein said many members of the family still live in that city.\nShir Georgy\nIsraeli Canadian Shir Georgy, 22, was killed by Hamas militants who ambushed the music festival near Kibbutz Re'im.\nGeorgy's aunt Michal Bouganim confirmed the death.\n\"We are currently a mess, heartbroken,\" Bouganim said in a Facebook message.\nBouganim shared a 22-second clip on her social media in which a terrified Georgy was seen sitting on a floor, with her back against a wall and surrounded by other festival attendees — some of them injured.\nGeorgy's funeral was held in Israel.\nAdi Vital-Kaploun\nAdi Vital-Kaploun, 33, was killed by Hamas militants in her kibbutz near the Israeli border with the Gaza Strip, said the Jewish Federation of Ottawa.\nThe group's CEO made a statement on behalf of Vital-Kaploun's family, saying the dual citizen has a large extended family in the Ottawa area.\nThe family said she died a hero, after convincing her killers to spare her two young children and warning her father and husband to stay hidden during the attack.\n\"Adi was a beautiful woman that brought love and lightness to the people around her, but also she was very focused and determined to make a beautiful life for her family,\" her cousin-in-law Aaron Smith said in an interview.\nThe family said she was an amazing mother and wife, always bringing love and laughter to their household.\nShe was also a talented dancer, saxophonist and basketball player.\nAfter completing her master's degree in engineering, Vital-Kaploun excelled in her cybersecurity career, they said.\n\"We are mourning trying to process this unconscionable act of terrorism in her kibbutz and across the country,\" said the family, adding that they wish her memory to be \"a blessing.\"\nBen Mizrachi\nCanadian Ben Mizrachi was one of at least 260 people gunned down by Hamas militants at the music festival in southern Israel.\nMizrachi, 22, from Vancouver, was described as \"larger than life with a big personality\" in a statement by his former high school in B.C.\nEzra Shanken, CEO of the Jewish Federation of Greater Vancouver, said Mizrachi was about to start university in Israel after serving with the country's national defence force.\nHilit Nurick, a home economics teacher at King David High School in Vancouver, remembered Mizrachi as a \"kind, wonderful, and community-minded\" young man who had a positive influence on everyone around him.\nNurick said she and Mizrachi once put a large event together for more than 100 people at school.\n\"He was in charge of making Moroccan-style spicy fish stew. He brought his mother's recipe and shared it with everyone and taught us how to make it,\" said Nurick. \"He was incredible, just an incredible human being.\"\nAlexandre Look\nAlexandre Look, who had recently celebrated his 33rd birthday, was among those killed while attending the musical festival.\nLook, who lived in Montreal with his family before moving to Mexico, died a hero, his dad said in a Facebook post.\n\"Like a true warrior he left as a hero wanting to protect the people he was with,\" Alain Haim Look said.\nFriend Lior Horovitz described him as a \"once-in-a-lifetime person\" who became like family during their five-year friendship.\nIn a phone interview from a town outside Tel Aviv, she said she and her boyfriend met Alexandre Look in Mexico. They became fast friends and would organize their vacations to meet up, either in Mexico or Israel.\nHe was a proud Jewish Canadian and a generous person who would do anything for his friends, she said.\n\"He's a person who loves people,\" she said. \"He's the guy that's always going to help others, especially if they are Jewish.\"\nThis report by The Canadian Press was first published Dec. 28, 2023.\nThe Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "judih weinstein haggai judih weinstein haggai",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "global affairs canada",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "lebanon",
+          "sentiment": "none"
+        },
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza strip",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:27:52.964+02:00",
+    "updated": "2023-12-29T00:27:52.964+02:00"
+  },
+  {
+    "uuid": "b7a726009af0f8a6f3d7ae484a568dfad188fc44",
+    "url": "https://www.manilatimes.net/2025/04/24/tmt-newswire/globenewswire/activatedyou-essential-skin-food-reviews-the-best-formula-for-radiant-skin-support/2098129",
+    "ord_in_thread": 0,
+    "author": "GlobeNewswire",
+    "published": "2025-04-23T22:46:00Z",
+    "title": "ActivatedYou Essential Skin Food Reviews: The Best Formula for Radiant Skin Support | The Manila Times",
+    "text": "Discover the Plant-Based Formula Backed by Real Results-ActivatedYou Essential Skin Food Supports Smoother, Firmer, Radiant-Looking Skin Naturally\nNew York City, April 23, 2025 (GLOBE NEWSWIRE) --\nIs This the Key to Radiant Skin?\nAre you trying to unlock the secret to more radiant and youthful-looking skin? Then you might have heard about ActivatedYou Essential Skin Food , the supplement that's creating hype in the beauty and wellness community.\nWith a blend of plant-based compounds aimed at nourishing your skin from within, Essential Skin Food reviews are buzzing with reports of plumper, more hydrated, brighter-looking skin and a softening in the appearance of lines. Read on to learn more.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->health treatment and procedure",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->organic food",
+      "Lifestyle and Leisure->wellness"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.globenewswire.com/Tracker?data=NNHOevKX_b45MU3hzjOzivcjaVN7VVZPxvftuGSJ5E2C9hFfma0y6crVUK3yLc9qs0kDoVX_HDoF7uofJkF10IOr17Dkzr9QIw6cKmzlolf1BfUZPQ7gO-U0wWeIFgw8B2SjWXY9xUyX-lImiVf1cHXvrmHOXIPhYNxcqpkKY-Q=",
+      "https://www.globenewswire.com/Tracker",
+      "https://globenewswire.com/Tracker?data=NNHOevKX_b45MU3hzjOzivcjaVN7VVZPxvftuGSJ5E2C9hFfma0y6crVUK3yLc9qs0kDoVX_HDoF7uofJkF10IOr17Dkzr9QIw6cKmzlolf1BfUZPQ7gO-U0wWeIFgw8B2SjWXY9xUyX-lImiVf1cHXvrmHOXIPhYNxcqpkKY-Q="
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:49:10.349+03:00",
+    "updated": "2025-04-24T01:49:10.349+03:00"
+  },
+  {
+    "uuid": "400770677d1a5dcfc450d12e17af22c522439a62",
+    "url": "https://ground.news/article/an-ex-caldwell-police-sergeant-allegedly-victimized-women-his-trial-wont-be-till-2025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Idaho Statesman",
+    "published": "2023-12-28T20:48:00Z",
+    "title": "Ground News - An ex-Caldwell police sergeant allegedly victimized women. His trial won’t be till 2025",
+    "text": "Summary by Idaho Statesman Ryan Bendawald’s attorneys filed a motion earlier this month asking to push back the trial because of the sheer amount of court documents and evidence. Share menu More\nFilters 1 Articles 1 Articles All Left Center Right\nIdaho Statesman Center High Factuality Media Conglomerate: McClatchy An ex-Caldwell police sergeant allegedly victimized women. His trial won’t be till 2025 Ryan Bendawald’s attorneys filed a motion earlier this month asking to push back the trial because of the sheer amount of court documents and evidence.\n2 hours ago · Boise, United States Read Full Article\nIdaho Statesman Center High Factuality Media Conglomerate: McClatchy\nAn ex-Caldwell police sergeant allegedly victimized women. His trial won’t be till 2025 Ryan Bendawald’s attorneys filed a motion earlier this month asking to push back the trial because of the sheer amount of court documents and evidence.\n2 hours ago · Boise, United States Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://www.idahostatesman.com/news/local/crime/article283608138.html?utm_source=ground.news&utm_medium=referral",
+      "https://www.idahostatesman.com/news/local/crime/article283608138.html",
+      "https://idahostatesman.com/news/local/crime/article283608138.html?utm_source=ground.news&utm_medium=referral"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ryan bendawald",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mcclatchy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "united states read full",
+          "sentiment": "none"
+        },
+        {
+          "name": "ground news subscriptions",
+          "sentiment": "none"
+        },
+        {
+          "name": "articles all left center right idaho statesman center high factuality media conglomerate",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "idaho",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "boise",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:25:15.758+02:00",
+    "updated": "2023-12-29T00:25:15.758+02:00"
+  },
+  {
+    "uuid": "f8e7c3f4b3d1540044dc154fde9d0147d9304eb5",
+    "url": "https://www.godlikeproductions.com/forum1/message3994665/pg1",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Angel of bottomless swamp (UID 76833295)",
+    "published": "2024-05-25T21:42:00Z",
+    "title": "Antichrist Kushner's high-priest Trump desecrates Bibles with his unholy signature at Alabama church.",
+    "text": "Users Online Now:\n1,492\n(\nWho's On?\n)\nVisitors Today:\n875,816\nPageviews Today:\n1,547,735\nThreads Today:\n481\nPosts Today:\n10,020\n05:42 PM\nDirectory\nAdv. Search\nTopics\nForum\nMembership Contract:\nYou are attempting to enter a Private Virtual Country Club.\nEntrance to this private establishment requires membership but not an account.\nMembership Contract:\n• You Contractually Agree that you are at least 18 years of age and that you are accessing this website for personal use only.\n• You Contractually Agree that you wish to join as a member to this private establishment and that any communication taking place here is considered private communication between members which you agree not to publicly disclose or disseminate.\n• You are responsible for all activity that occurs under your IP Address and device on this website, including your conduct and any User Content you provide or that you allow others to provide under your IP Address and device.\n• You will not use this website to harass, threaten, impersonate or intimidate another person, government, or legal entity.\n• You will not use this website to promote, recruit for, or organize any real life group, political or otherwise.\n• You will not provide, submit or otherwise make available any content that is unlawful, hateful, harmful, racist, threatening, abusive, harassing, tortious, defamatory, obscene, libelous, invasive of another's privacy, or otherwise illegal.\n• You will not provide, submit or otherwise make available any unsolicited or unauthorized advertising, promotional materials, \"junk mail,\" \"spam,\" \"chain letters,\" \"pyramid schemes,\" \"affiliate links\" or any other form of solicitation.\n• You will not violate any local laws in your jurisdiction (including, but not limited to, hate speech and intellectual property laws).\n• You will not use our Site for any illegal or unauthorized purpose.\n• You will not access, \"hack,\" alter or otherwise use any part of the Site in any unauthorized manner.\n• You will not utilize any software bugs, robots, web spiders, or other such technological device to automaticly access, extract, collect, harvest, archive, screeen shot, or preserve in any way data or information contained on the Site.\n• You understand and agree that your membership to this private establishment can be revoked by this website's staff at any time for any reason whatsoever or no reason at all.\n•\nYou understand and accept that this website uses cookies.\n• You Contractually Agree to a Class Action Waiver: Except as otherwise required under applicable law, You agree that you will not assert class action or representative action claims against this website, its owners, users, or representatives, whether in arbitration or otherwise, which actions are hereby waived; and you shall only submit your own, individual claims and will not seek to represent the interests of any other person.\n• You Contractually Agree that: (i) this Website shall be deemed solely based in the country of Jersey; and (ii) this Website shall be deemed a passive website that does not give rise to personal jurisdiction over this website, either specific or general, in jurisdictions other than the country of Jersey. Unless prohibited by local law, these Terms of Service shall be governed by the internal substantive laws of the Country of Jersey, without respect to its conflict of laws principles. Unless prohibited by local law, any claim or dispute between you and this website that arises in whole or in part from this Website shall be decided exclusively by a court of competent jurisdiction located in the country of Jersey.\n• You Contractually Agree to abide by and be bound by the additional\nterms of service\n,\ndisclaimer\n, and\nprivacy policy\nfound in the footer of this website.\nI Agree to The Terms of This Membership Contract.\nI have read and accept the Privacy Policy and Terms of Service.\nI Do Not Agree to The Terms.\nDisclaimer / Copyright Info\n-\nPrivacy Policy\n-\nTerms Of Use\n-\nCancellation Policy / Billing Help\nMail\nWebmaster\nwith questions or comments about this site.\nCopyright © 1999 - 2024 Godlikeproductions.com\nPage generated in 0.009s (1 queries)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "antichrist kushner",
+          "sentiment": "negative"
+        },
+        {
+          "name": "tod",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "alabama",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-26T00:42:58.983+03:00",
+    "updated": "2024-05-26T00:42:58.983+03:00"
+  },
+  {
+    "uuid": "2fa59bedc21d4d8bd23fce86a946a770c68bfc46",
+    "url": "https://www.heise.de/en/news/From-China-Cyber-attack-on-US-provider-worst-in-US-history-10097698.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Martin Holland",
+    "published": "2024-11-22T08:48:00Z",
+    "title": "From China: Cyber attack on US provider \"worst in US history\" | heise online",
+    "text": "The cyberattack from China on the networks of several major US network operators discovered more than a month ago is \"the largest telecommunications hack in US history – by far\". This is what Mark Warner (Democrat), the chairman of the Senate committee responsible for intelligence, has now told the Washington Post. The attack attributed to a group called \"Salt Typhoon\", \"GhostEmperor\" or \"FamousSparrow\" makes the cyberattacks on Colonial Pipeline or SolarWinds look like child's play in comparison, the US senator added. He also explained that the attackers were still in the system.\nAnzeige Expulsion not so easy The fact that attackers suspected of being in the service of the Chinese government succeeded in compromising the networks of AT&T, Verizon, T-Mobile and other providers became known at the beginning of October . The attack appears to be about information gathering, and even then it was clear that it could be a potentially catastrophic security breach. According to Warner , some of the intrusions took place more than a year ago. In order to kick the unknowns off the networks, \"literally thousands and thousands of devices would have to be replaced,\" especially outdated switches and routers, the senator added.\nAccording to the report, the unknown attackers were able to access and eavesdrop on phone calls in real time. They targeted the phones of the next US President Donald Trump and his Vice President J.D. Vance, among others, as well as those of employees of the current US Vice President Kamala Harris and the US State Department. However, there was probably no direct link to the US presidential election. So far, fewer than 150 people have been identified and informed as victims by the US Federal Bureau of Investigation, but they have contacted \"millions\" and the number could still \"increase dramatically\", says Warner.\nDuring their attack, they also managed to gain access to the systems used by US law enforcement agencies for surveillance, the newspaper writes. This would have allowed them to find out who the US authorities are interested in. So far, however, there is no evidence that they have gained access to the recorded phone calls themselves. They were only able to eavesdrop on other conversations. They were also able to access other, more general Internet data. According to an entry in the Fraunhofer FKIE Malpedia database, a rootkit for Windows kernels called Demodex was used for the attack.\n( mho )\nDon't miss any news – follow us on Facebook , LinkedIn or Mastodon .\nThis article was originally published in German . It was translated with technical assistance and editorially reviewed before publication.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.linkedin.com/company/104691972",
+      "https://www.washingtonpost.com/national-security/2024/11/21/salt-typhoon-china-hack-telecom/",
+      "https://www.facebook.com/heiseonlineEnglish",
+      "https://washingtonpost.com/national-security/2024/11/21/salt-typhoon-china-hack-telecom/",
+      "https://www.washingtonpost.com/national-security/2024/11/21/salt-typhoon-china-hack-telecom",
+      "https://facebook.com/heiseonlineEnglish",
+      "https://linkedin.com/company/104691972"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Mark Warner",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Washington Post",
+          "sentiment": "none"
+        },
+        {
+          "name": "Verizon",
+          "sentiment": "none"
+        },
+        {
+          "name": "Senate",
+          "sentiment": "none"
+        },
+        {
+          "name": "AT&T",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T11:08:50.725+02:00",
+    "updated": "2024-11-22T11:08:50.725+02:00"
+  }
+]

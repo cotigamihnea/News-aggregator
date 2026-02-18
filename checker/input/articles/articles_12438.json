@@ -1,0 +1,402 @@
+[
+  {
+    "uuid": "2f4d61b828d8b68f9a3923776aeaf3d0f4979213",
+    "url": "https://www.europapress.es/ciencia/cambio-climatico/noticia-segundo-abril-mas-calido-mantiene-temperaturas-subiendo-mas-15-20250508035947.html",
+    "ord_in_thread": 0,
+    "author": "Europa Press",
+    "published": "2025-05-08T01:59:00Z",
+    "title": "El segundo abril más cálido mantiene temperaturas subiendo más de 1,5º",
+    "text": "MADRID, 8 May. (EUROPA PRESS) -\n Abril de 2025 fue el segundo abril más cálido a nivel mundial, con una temperatura superficial del aire promedio de 14,96° Celsius, 0,60 °C por encima de la media de abril de 1991-2020.\n Así lo establece el último boletín mensual publicado por el Servicio de Cambio Climático de Copernicus (C3S) , implementado por el Centro Europeo de Previsiones Meteorológicas a Plazo Medio.\n El pasado mes fue 0,07 °C más frío que el abril récord de 2024 y 0,07 °C más cálido que el tercer abril más cálido de 2016. Superó en 1,51 °C el promedio estimado para el período 1850-1900 utilizado para definir el nivel preindustrial y fue el vigésimo primer mes de los últimos 22 meses en el que la temperatura media global del aire en superficie superó en más de 1,5 °C el nivel preindustrial.\n El período de 12 meses de mayo de 2024 a abril de 2025 superó en 0,70 °C el promedio del período 1991-2020 y en 1,58 °C el nivel preindustrial.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "topics": [
+      "Weather->weather statistic",
+      "Environment->global warming",
+      "Environment->climate change"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "EUROPA PRESS",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Servicio de Cambio Climático de Copernicus",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T06:02:01.650+03:00",
+    "updated": "2025-05-08T03:08:35.000+00:00"
+  },
+  {
+    "uuid": "307b7a576d14f304f6834b832813c09e2e990f84",
+    "url": "https://www.dispatch.com/story/news/local/2023/12/28/ohio-issues-recall-on-medical-marijuana-gummies/72051909007/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Columbus Dispatch",
+    "published": "2023-12-28T21:57:00Z",
+    "title": "Ohio issues recall on medical marijuana gummies",
+    "text": "The state of Ohio issued a recall Thursday for a brand of marijuana edibles sold at dispensaries across the state. The Ohio Medical Marijuana Control Program, which regulates the sale of medicinal marijuana in the Department of Commerce, received a report from the Columbus-based cannabis processing company BeneLeaves Limited that its \"Smokiez Sweet Tropical Fruit Gummies\" edibles have a defective tamper-evident seal on several of its packages.\nThe advisory applies to that particular flavor of Smokiez sold between Sept. 15, 2023, and Dec. 27, 2023.\nThe MMCP noted that no adverse side effects have been noted or reported and that this particular strain has passed all required testing. Officials advise that patients who may have bought these products ensure that the tamper-evident seal is secure before use.\nAny product found with a defective seal should be returned to the dispensary where it was purchased.\nBeneLeaves Limited is a family-owned and licensed cannabis processing company that \"create an assortment of incredible, safe, and affordable products for Ohio medical cannabis patients\", according to their website.\nThe advisory applies to products purchased from:\nBackroad Wellness - Lima Backroad Wellness - New Boston Bear River Dispensary - Delaware Bliss Ohio - Kent Bloom Medicinals - Akron Bloom Medicinals - Columbus Bloom Medicinals - Painesville Curaleaf - Newark Green Releaf - Dayton Herbal Wellness Center - Jackson Italian Herbs - Ashtabula Mavuno of Athens - Athens Mavuno of Beavercreek - Beavercreek Mavuno of Columbus - Columbus Nar Reserve - Columbus Pure Iconic - Oxford Pure Ohio Wellness - London Shangri-La Dispensary - Monroe Strawberry Fields - Columbus Supergood - Ravenna Terrasana - Columbus Terrasana - Fremont Terrasana - Garfield Heights The Landing Dispensary - Cincinnati Trulieve Medical Marijuana - Columbus Uplift - Milford Uplift - Mount Orab Zen Leaf Bowling Green - Bowling Green @ShahidMeighan\nsmeighan@dispatch.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://www.beneleaves.com/about",
+      "https://beneleaves.com/about"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "department of commerce",
+          "sentiment": "none"
+        },
+        {
+          "name": "beneleaves limited",
+          "sentiment": "none"
+        },
+        {
+          "name": "mmcp",
+          "sentiment": "none"
+        },
+        {
+          "name": "ohio medical marijuana control program",
+          "sentiment": "none"
+        },
+        {
+          "name": "smokiez sweet tropical fruit gummies",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ohio",
+          "sentiment": "none"
+        },
+        {
+          "name": "columbus",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:10:28.077+02:00",
+    "updated": "2023-12-29T15:49:35.200+02:00"
+  },
+  {
+    "uuid": "2d1a5722eece6450af0a5a67e35225cf88d634f5",
+    "url": "https://www.salina.com/story/news/nation/2023/12/28/savanah-soto-persons-of-interest-video/72052485007/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Amaris Encinas",
+    "published": "2023-12-28T23:40:00Z",
+    "title": "Savanah Soto case news: persons of interest video shared to spur tips",
+    "text": "'Persons of interest' sought in 18-year-old pregnant woman's shooting death: San Antonio police [Amaris Encinas](https://www.usatoday.com/staff/5133245001/amaris-encinas/) San Antonio police are asking the public to help identify two 'persons of interest' at the scene of a fatal shooting that killed a [missing pregnant woman and](/story/news/nation/2023/12/27/savanah-nicole-soto-found-san-antonio/72039504007/) her 22-year-old boyfriend. Police announced Thursday that the male victim was Matthew Guerra, and investigators and family members presume the woman in the vehicle was [18-year-old Savanah Nicole Soto, who was carrying her unborn son](/story/news/nation/2023/12/26/savanah-soto-missing-texas-18-year-old/72030874007/), Fabian. Investigators on Thursday also released surveillance footage from a residential neighborhood in San Antonio near where the bodies were discovered Tuesday evening, in an attempt to identify the two individuals who were seen near the couple's vehicle. In the video, the couple's Kia Optima slowly approaches a dark-colored Chevy Silverado stopping briefly to interact with the driver, who was seen exiting the vehicle. Another individual was seen exiting the victim's Kia Optima, but it's unclear if the person leaves the area alone or with the person driving the truck. The minute-long video concludes with the Kia Optima leaving the area. McManus would not confirm or deny whether the couple was alive or dead when the video was taken, citing an active investigation. The medical examiner determined that Guerra died from a gunshot wound to the head, but that the manner of the death was still spending, Police Chief William McManus said at Thursday's press conference. Investigators said the other person found in the car has been identified as “a full-term pregnant female,” according to a [Facebook pos](https://www.facebook.com/SanAntonioPD/videos/1023556412274319/)t by the department. “I think we can be confident that the second victim was Savanah,” McManus said. This is developing story and will be updated with additional details.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice",
+      "Health"
+    ],
+    "external_links": [
+      "https://www.facebook.com/SanAntonioPD/videos/1023556412274319/)t",
+      "https://www.usatoday.com/staff/5133245001/amaris-encinas/)",
+      "https://facebook.com/SanAntonioPD/videos/1023556412274319/)t",
+      "https://usatoday.com/staff/5133245001/amaris-encinas/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "savanah soto",
+          "sentiment": "negative"
+        },
+        {
+          "name": "savanah nicole soto",
+          "sentiment": "none"
+        },
+        {
+          "name": "fabian",
+          "sentiment": "none"
+        },
+        {
+          "name": "matthew guerra",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ama",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kia optima",
+          "sentiment": "none"
+        },
+        {
+          "name": "chevy silverado",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "san antonio",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:53:45.323+02:00",
+    "updated": "2023-12-29T01:53:45.323+02:00"
+  },
+  {
+    "uuid": "73d9e08c92e126ddf14ae3756b1c460d9eeffc9f",
+    "url": "https://www.telemundo.com/noticias/edicion-noticias-telemundo/estados-unidos/video/guao-que-chevere-hasta-expertos-se-sorprendieron-con-la-aurora-boreal-que-se-vio-en-nueva-tmvo12777661",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TELEMUNDO",
+    "published": "2024-10-11T23:29:00Z",
+    "title": "\\\"¡Guao qué chévere!\\\": hasta expertos se sorprendieron con la aurora boreal que se vio en Nueva York",
+    "text": "- UP NEXT La nueva presidenta de México ya tiene retrato oficial y así fue la sesión de fotos 00:22 Nevada es uno de los estados claves en las elecciones y así piensan sus votantes latinos 02:31La FCC critica a Trump por pedir que se le revoque la licencia a CBS por una entrevista a Harris 00:52Autoridades de Houston critican a Pemex por el accidente en una refinería que mató dos trabajadores 02:42Entramos a una granja que produce huevos en California para ver cómo se cuida de la gripe aviar 01:57Parece la playa, pero lo que verá en este video son casas y calles cubiertas de arena por el huracán 01:31\"Yo gritaba y lloraba\": latina relata la muerte de sus familiares en uno de los tornados de Florida 03:01El huracán Milton en números: las muertes, los rescates y cuántos usuarios están sin luz 00:31Obama reprende a los hombres negros y les exige apoyar decididamente la candidatura de Harris 00:29Trump presenta lo que asegura sería su programa de deportaciones masivas si vuelve a la Casa Blanca 02:16El video de un caimán atacando un auto resalta por qué no debe caminar en zonas inundadas de Florida 01:44Una tormenta solar causa inusuales auroras boreales (y afecta las telecomunicaciones) 00:32Estos números explican porque con el retiro de Nadal el tenis pierde a una de sus grandes estrellas 00:53Nueva York dice que cerrará un polémico albergue porque la crisis migrante ha disminuido 01:54Jueces sugieren que permitirán que DACA sobreviva a otra demanda (miles de dreamers dependen de él) 02:19La Marina Mexicana rescata a cinco pescadores que quedaron a la deriva el lunes por el huracán 00:34En un complejo residencial de Clearwater rescatistas tuvieron que correr para salvar a 500 personas 02:39Uno de los miles de rescates en Florida quedó grabado: vea cómo salvan a un joven del agua 00:37Noticias Telemundo 10-15 - UP NEXT La nueva presidenta de México ya tiene retrato oficial y así fue la sesión de fotos 00:22 Nevada es uno de los estados claves en las elecciones y así piensan sus votantes latinos 02:31La FCC critica a Trump por pedir que se le revoque la licencia a CBS por una entrevista a Harris 00:52Autoridades de Houston critican a Pemex por el accidente en una refinería que mató dos trabajadores 02:42Entramos a una granja que produce huevos en California para ver cómo se cuida de la gripe aviar 01:57Parece la playa, pero lo que verá en este video son casas y calles cubiertas de arena por el huracán 01:31\"Yo gritaba y lloraba\": latina relata la muerte de sus familiares en uno de los tornados de Florida 03:01El huracán Milton en números: las muertes, los rescates y cuántos usuarios están sin luz 00:31Obama reprende a los hombres negros y les exige apoyar decididamente la candidatura de Harris 00:29Trump presenta lo que asegura sería su programa de deportaciones masivas si vuelve a la Casa Blanca 02:16El video de un caimán atacando un auto resalta por qué no debe caminar en zonas inundadas de Florida 01:44Una tormenta solar causa inusuales auroras boreales (y afecta las telecomunicaciones) 00:32Estos números explican porque con el retiro de Nadal el tenis pierde a una de sus grandes estrellas 00:53Nueva York dice que cerrará un polémico albergue porque la crisis migrante ha disminuido 01:54Jueces sugieren que permitirán que DACA sobreviva a otra demanda (miles de dreamers dependen de él) 02:19La Marina Mexicana rescata a cinco pescadores que quedaron a la deriva el lunes por el huracán 00:34En un complejo residencial de Clearwater rescatistas tuvieron que correr para salvar a 500 personas 02:39Uno de los miles de rescates en Florida quedó grabado: vea cómo salvan a un joven del agua 00:37Noticias Telemundo 10-15",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-12T03:47:42.828+03:00",
+    "updated": "2024-10-12T03:47:42.828+03:00"
+  },
+  {
+    "uuid": "8e281cc010e078a638b4ef73d398b4df4f9dea01",
+    "url": "https://www.archyde.com/american-teenager-becomes-first-player-to-beat-tetris/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archyde",
+    "published": "2024-01-05T23:24:00Z",
+    "title": "American teenager becomes first player to beat Tetris",
+    "text": "2024-01-04 03:00:15\nAfter obsessing generations of gamers for 40 years, the video game Tetris was finally beaten by an American teenager, a feat previously only accomplished by artificial intelligence.\nAt 13, Willis Gibson became the first human to reach the end of this great Nintendo classic, where the player must fit together blocks that fall more and more quickly, to form complete lines and make them disappear.\nThis highly addictive puzzle game, developed by a Soviet engineer, doesn’t really have an end: when the machine can no longer keep up, the screen suddenly freezes.\nThis is what happened to the teenager, aka “Blue Scuti”, when he reached level 157, after 38 minutes of effort.\n“Oh my God,” exclaims the young man when the game stops, in a video of his game published on YouTube. “I can’t feel my fingers anymore,” he breathes, overwhelmed by emotion.\n“This has never been done by a human before,” the president of the Tetris World Championship, Vince Clemente, told the New York Times. “It’s something that everyone thought was impossible until a few years ago.”\nFor a long time, level 29 was considered the limit of Tetris, when the game becomes so fast that humans can no longer react quickly enough.\nBut in recent years, a new generation of gamers has pushed the boundaries of what is possible by adopting the “rolling” technique, which reinvents the way to use the NES console controller: it allows you to use all the fingers rather than just one or two and dramatically increase the frequency of pressures.\nOriginally from Oklahoma, Willis Gibson used this process to establish his record, a few months before the 40th anniversary of the game, released in June 1984.\nA feat widely praised within the gaming community.\nThe general director of Tetris, Maya Rogers, also congratulated the young player.\n“Congratulations to “Blue Scuti” for this extraordinary feat, which defies all the preconceived limits of this legendary game,” she commented in a press release sent to the site popsci.com.\n1704497046\n#American #teenager #player #beat #Tetris",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "tetris",
+          "sentiment": "negative"
+        },
+        {
+          "name": "vince clemente",
+          "sentiment": "none"
+        },
+        {
+          "name": "willis gibson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "new york times",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T01:28:39.535+02:00",
+    "updated": "2024-01-06T01:28:39.535+02:00"
+  },
+  {
+    "uuid": "f90884fa58664b301b1350c7724ea9c9c5312566",
+    "url": "https://www.notimerica.com/deportes/noticia-marcelino-merecimos-claramente-mas-cuatro-goles-20240314230418.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Notimerica",
+    "published": "2024-03-14T21:04:00Z",
+    "title": "Marcelino: \"Merecimos claramente más de cuatro goles\"",
+    "text": "MADRID, 14 Mar. (EUROPA PRESS) - El entrenador del Villarreal, Marcelino García Toral, reconoció la gran \"pena\" de todo el club después de quedarse a las puertas de la remontada ante el Olympique de Marsella y avanzar a cuartos de final de la Liga Europa, lo cual merecieron \"claramente\". \"Estoy orgulloso de los jugadores y agradecido. Vivimos un bonito espectáculo, con un desenlace no justo, en la suma de los dos partidos. Tuvimos un muy mal día en Marsella pero el Marsella hizo cuatro ocasiones de gol. Nosotros hoy hicimos 18. Es una pena, el trabajo, el juego, fue extraordinario. Creíamos que teníamos opciones y estos jugadores han demostrado que era real\", dijo. El técnico del 'Submarino' insistió en la rueda de prensa de La Cerámica que su equipo mereció mucho más que el 3-1 con el que terminó el partido. \"Merecimos más que el rival. La palabra 'milagro' quita importancia al trabajo. En el fútbol hay pocos milagros y sí mucho trabajo. Ha habido un equipo total que ha desbordado a otro equipo. Creo que merecimos claramente más de cuatro goles y pasar esta eliminatoria\", afirmó. \"Desde el 3-0 al 4-0 tuvimos tres. En el primer tiempo, no fue justo que nos fuésemos sólo con 1-0. Tuvimos ocasiones de todos los colores. El mejor jugador del Marsella con diferencia fue su portero. En el fútbol hay ese componente de suerte, pero en ningún caso haber pasado hoy hubiera sido un milagro, hubiese sido un trabajo bien hecho y bien merecido. Hicimos un gran partido, me encantó, es una pena no estar en la siguiente ronda\", añadió. Por otro lado, Marcelino lamentó el \"resbalón de Marsella\" pero destacó la buena dinámica del equipo. \"Me hubiera gustado ver el campo lleno hoy, esta temporada estamos un poco en deuda con ellos. Con estos espectáculos seremos capaces de unir más las fuerzas\", apuntó, pensando ya en el duelo contra el Valencia.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-15T00:21:28.507+02:00",
+    "updated": "2024-03-15T00:21:28.507+02:00"
+  },
+  {
+    "uuid": "fb259a75353467976eba8042fc369469cc85ecc8",
+    "url": "https://www.tf1info.fr/societe/violences-conjugales-26-000-personnes-ont-beneficie-de-l-aide-universelle-d-urgence-depuis-sa-creation-2332970.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TF1 INFO",
+    "published": "2024-11-07T20:55:00Z",
+    "title": "Violences conjugales : 26.000 personnes ont bénéficié de l'aide universelle d'urgence depuis sa création",
+    "text": "En décembre 2023, l'aide universelle d'urgence, versée pour aider les victimes de violences conjugales à quitter leur domicile, est entrée en vigueur.Depuis, elle a été attribuée à 26.525 personnes, a fait savoir la secrétaire d'État à l'Égalité Hommes-Femmes.Le montant global déboursé est de 23 millions d'euros. Un dispositif efficace, qui a trouvé sa cible. Depuis son entrée en vigueur, en décembre 2023, jusqu'en juillet 2024, [l'aide universelle d'urgence ](/societe/une-aide-d-urgence-d-au-moins-600-euros-versee-aux-victimes-de-violences-conjugales-des-le-1-decembre-2276771.html), versée pour aider les [victimes de violences conjugales à quitter leur domicile, ](/societe/violences-faites-aux-femmes-le-domicile-lieu-de-tous-les-dangers-selon-un-rapport-de-l-onu-2105633.html) a été attribuée à plus de 26.000 personnes, a fait savoir Salima Saa, la secrétaire d'État à l'Égalité Hommes-Femmes. Un dispositif qui va s'étendre \"Entre décembre 2023 et juillet 2024, 26.525 aides ont été versées par les Caisses d'allocations familiales et les caisses de la MSA (Mutualité sociale agricole), [dont 206 prêts ](/societe/violences-conjugales-l-aide-d-urgence-pour-les-femmes-est-elle-en-realite-un-pret-qui-devra-etre-rembourse-modalite-revenus-seuil-demarches-2278029.html), pour un montant moyen de 869 euros\", a indiqué Salima Saa devant la Délégation aux droits des femmes du Sénat. Sur cette période, il a été dépensé en tout 23 millions d'euros dans [cette aide d'urgence ](/societe/violences-conjugales-comment-fonctionne-l-aide-d-urgence-aux-victimes-mise-en-place-le-1er-decembre-2278100.html). Alors que le [budget 2025 est en cours d'examen à l'Assemblée nationale ](/politique/projet-de-loi-de-finances-budget-de-la-securite-sociale-plf-plfss-ou-en-est-on-des-votes-et-du-calendrier-2332471.html) et que le gouvernement cherche des mesures d'économies, le dispositif ne devrait pas pâtir de restrictions budgétaires. Il a même été prévu d'augmenter de 10,4 %, à 85,1 millions d'euros (+7,7 millions d'euros) les crédits du programme \"Égalité entre les femmes et les hommes\" prévus dans le projet de loi de Finances. La secrétaire d’État a rappelé que cette augmentation \"dans un contexte de réduction drastique des dépenses\", servirait à \"accompagner la mise en œuvre de l'aide universelle d'urgence\". Prévue par la loi du 28 février 2023, l'aide d'urgence est attribuée sous trois à cinq jours, et permet notamment à la victime de faire face à ses dépenses immédiates.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Health"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T00:07:50.451+02:00",
+    "updated": "2024-11-08T00:38:54.522+02:00"
+  },
+  {
+    "uuid": "3294a2af31b51b35b50edc202d6dc2fb3653075b",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7367138.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:31:00Z",
+    "title": "生物医药ETF（512290）跌1.15%，半日成交额3357.99万元|生物医药_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，生物医药ETF（512290）跌1.15%，报0.948元，成交额3357.99万元。生物医药ETF（512290）重仓股方面， 药明康德 截止午盘跌1.02%， 恒瑞医药 跌0.66%， 迈瑞医疗 跌1.30%， 上海莱士 跌0.29%， 长春高新 跌2.06%， 智飞生物 跌1.41%， 万泰生物 跌2.24%， 天坛生物 跌0.16%， 新产业 跌0.36%， 艾力斯 跌1.84%。\n生物医药ETF（512290）业绩比较基准为中证生物医药指数收益率，管理人为国泰基金管理有限公司，基金经理为梁杏、黄岳，成立（2019-04-18）以来回报为-4.15%，近一个月回报为2.72%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->healthcare industry",
+      "Economy, Business and Finance->financial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:07.421+03:00",
+    "updated": "2025-06-20T05:06:35.000+00:00"
+  }
+]

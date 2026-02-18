@@ -1,0 +1,536 @@
+[
+  {
+    "uuid": "730b32880ea67fc34f24a165d05f96147f3bc173",
+    "url": "https://www.wsmv.com:443/2024/06/13/2-young-girls-are-missing-after-mother-found-dead",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "FOX 8 Staff",
+    "published": "2024-06-13T21:56:00Z",
+    "title": "1 of 2 missing children found dead after mother ‘brutally’ slain; suspect arrested",
+    "text": "LORANGER, La. ( WVUE /Gray News) - Authorities in Louisiana say one of two missing children has been found dead while the other was found alive and well. The Tangipahoa Parish Sheriff’s Office reported the recovery of 3-year-old Erin Brunett’s body Thursday afternoon. Her 6-year-old sister, Jalie Brunett, was found alive and well. The suspect was arrested in Jackson, Mississippi. The Louisiana State Police issued an Amber Alert for the two children after finding their mother dead early Thursday morning. According to the Tangipahoa Parish Sheriff’s Office, 35-year-old Callie Brunett was missing for over 24 hours before being found found “brutally” slain in her home on North Cooper Road. Her death is being investigated as a homicide. Her two small children, 6-year-old Jalie and 3-year-old Erin were “unaccounted for,” Sheriff Daniel Edwards said. Edwards said Brunett was reported missing Tuesday and because her car was not at her house, her family did not believe she was home. Thursday morning, her father made entry into her home and discovered her body and her children missing. The manner of Brunett’s death was not disclosed, but Edwards said there was “blood everywhere.” Copyright 2024 WVUE via Gray Media Group, Inc. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.fox8live.com/2024/06/13/2-young-girls-missing-after-mother-found-dead-loranger-sheriff-says/",
+      "https://www.fox8live.com/2024/06/13/2-young-girls-missing-after-mother-found-dead-loranger-sheriff-says",
+      "https://fox8live.com/2024/06/13/2-young-girls-missing-after-mother-found-dead-loranger-sheriff-says/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jalie",
+          "sentiment": "none"
+        },
+        {
+          "name": "erin brunett",
+          "sentiment": "none"
+        },
+        {
+          "name": "erin",
+          "sentiment": "none"
+        },
+        {
+          "name": "brunett",
+          "sentiment": "none"
+        },
+        {
+          "name": "edwards",
+          "sentiment": "none"
+        },
+        {
+          "name": "jalie brunett",
+          "sentiment": "none"
+        },
+        {
+          "name": "daniel edwards",
+          "sentiment": "none"
+        },
+        {
+          "name": "callie brunett",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "wvue /gray news) - authorities",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "tangipahoa parish sheriff’s office",
+          "sentiment": "none"
+        },
+        {
+          "name": "louisiana state police",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "loranger",
+          "sentiment": "none"
+        },
+        {
+          "name": "la.",
+          "sentiment": "none"
+        },
+        {
+          "name": "louisiana",
+          "sentiment": "none"
+        },
+        {
+          "name": "mississippi",
+          "sentiment": "none"
+        },
+        {
+          "name": "north cooper road",
+          "sentiment": "none"
+        },
+        {
+          "name": "jackson",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-14T01:03:12.073+03:00",
+    "updated": "2024-06-14T01:03:12.073+03:00"
+  },
+  {
+    "uuid": "28084f60ff513cabe1f8e0b4906c1db1b18c3d93",
+    "url": "https://wsvn.com/news/local/miami-dade/water-quality-advisory-issued-for-crandon-park-south",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wsvn",
+    "published": "2025-03-06T03:44:00Z",
+    "title": "Water quality advisory issued for Crandon Park South",
+    "text": "KEY BISCAYNE, FLA. (WSVN) - Swimmers are advised not to enter the water at Crandon Park South after recent water samples detected high levels of bacteria.\nThe Florida Department of Health in Miami-Dade on Wednesday issued a water quality advisory for the water near Key Biscayne.\nSwimmers could see an increased risk of getting sick if they were to engage in any water-related activity at the park.\nThe health department will continue to monitor samples there and notify when the advisory is lifted.\nCopyright 2024 Sunbeam Television Corp. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Environment->water pollution",
+      "Environment->environmental pollution",
+      "Environment->sustainability",
+      "Health->public health",
+      "Health->communicable disease",
+      "Health->health organisation",
+      "Social Issue->social services",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Crandon Park South",
+          "sentiment": "none"
+        },
+        {
+          "name": "Miami-Dade",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "WSVN",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Florida Department of Health",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Sunbeam Television Corp",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T05:56:55.224+02:00",
+    "updated": "2025-03-06T05:56:55.224+02:00"
+  },
+  {
+    "uuid": "d70afcdc571e1cc05ee9909c5449ebcf26d90ed1",
+    "url": "http://business.times-online.com/times-online/article/getnews-2024-4-4-noble-happy-family-reinforces-its-commitment-to-exceptional-home-care-in-west-hartford-ct",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Valley City Times-Record",
+    "published": "2024-04-04T00:00:00Z",
+    "title": "Noble Happy Family Reinforces Its Commitment to Exceptional Home Care in West Hartford, CT | User | times-online.com",
+    "text": "West Hartford, CT - Noble Happy Family, an esteemed provider of elder care services, reiterates its steadfast commitment to the community of West Hartford, CT, ensuring that families seeking high-quality home care for their senior loved ones can always rely on its services. This announcement is a testament to the organization's dedication to maintaining the highest levels of care and responding to the sustained demand for dependable and exceptional elder care in the area. Noble Happy Family’s commitment highlights the importance of customized care strategies and the overall well-being of each senior they serve. “Noble Happy Family is rooted in the belief that every senior deserves to live a life marked by happiness and dignity,” said Joanita Bilson, founder of Noble Happy Family. “Our dedication to providing top-tier elder care in West Hartford is unwavering. We’re not just a service provider; we’re a community partner committed to enriching the lives of seniors and offering peace of mind to their families. As we continue to evolve to meet the needs of our community, our promise remains the same: to deliver compassionate, individualized care that stands out for its quality and heart.” Noble Happy Family’s approach to home care is characterized by personalized services tailored to each client's individual requirements. From assistance with daily activities to comprehensive support tailored to more specific care needs, this approach ensures seniors' enhanced quality of life, fostering independence, comfort, and comprehensive well-being. For families in West Hartford, CT, seeking the best in-home care services, Noble Happy Family is the go-to source for their elderly care needs. For more information about Noble Happy Family and their home care in West Hartford, CT , please visit their website at https://happynoblehomecare.com About Noble Happy Family: Noble Happy Family is a premier elder care provider in West Hartford, CT, known for its unwavering commitment to excellence and a team of dedicated caregivers. Offering a wide range of tailored services to meet the diverse needs of the elderly community, Noble Happy Family is dedicated to improving the lives of seniors and their families, ensuring they are the first choice for those seeking compassionate, high-quality care in the comfort of their homes. Media Contact Company Name: Noble Happy Family Homemaker Companion Agency Contact Person: Joanita Bilson Email: Send Email Phone: +1 860 709 1072 Address:257 Spruce St City: Manchester State: CT Country: United States Website: Http://www.happy-homecare.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Health"
+    ],
+    "external_links": [
+      "Http://www.happy-homecare.com",
+      "https://happynoblehomecare.com",
+      "http://www.universalpressrelease.com/?pr=noble-happy-family-reinforces-its-commitment-to-exceptional-home-care-in-west-hartford-ct",
+      "https://happynoblehomecare.com/our-services/",
+      "Http://www.happy-homecare.com",
+      "https://www.happynoblehomecare.com/our-services/",
+      "https://happynoblehomecare.com/our-services",
+      "http://www.universalpressrelease.com/",
+      "http://universalpressrelease.com/?pr=noble-happy-family-reinforces-its-commitment-to-exceptional-home-care-in-west-hartford-ct",
+      "https://www.happynoblehomecare.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joanita bilson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "noble happy family",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "west hartford",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-05T02:15:29.817+03:00",
+    "updated": "2024-04-05T02:15:29.817+03:00"
+  },
+  {
+    "uuid": "dd7341c86529335a36a8fff21ea203c38644f7e6",
+    "url": "https://www.elcorreo.com/athletic/policia-italiana-identifica-dos-miembros-herri-norte-20240927001836-nt.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Javier Ortiz de Lazcano",
+    "published": "2024-09-26T20:18:00Z",
+    "title": "La policía italiana identifica a dos miembros de Herri Norte tras el lanzamiento de bengalas",
+    "text": "Secciones Servicios Destacamos Edición Enviado Especial a Roma Necesitas ser suscriptor para acceder a esta funcionalidad. Viernes, 27 de septiembre 2024, 00:18 Necesitas ser suscriptor para acceder a esta funcionalidad. Opciones para compartir La Policia italiana ha identificado a dos miembros de Herri Norte tras el lanzamiento de bengalas. Los integrantes del grupo radical fueron abordados por agentes unos minutos después de que concluyera el encuentro. Se los llevaron de la zona en la que estaban en el ... ¿Ya eres suscriptor/a? [Inicia sesión](https://secure.elcorreo.com/login/login.html#vca=suscribete&vso=elcorreo&vmc=on&vli=cdn-ce-link-login) Publicidad Publicidad Te puede interesar [ Muere corneado el hermano del torero Ángel Pascual Mezquita ](https://www.elnortedecastilla.es/gente-estilo/muere-corneado-hermano-torero-angel-pascual-mezquita-20240927092117-nt.html#vca=voc-recirc&vso=elcorreo) El Norte de Castilla Publicidad Publicidad Reporta un error en esta noticia",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.elnortedecastilla.es/avila/muere-periodista-sara-vitores-anos-20240925090953-nt.html#vca=voc-recirc&vso=elcorreo",
+      "https://elnortedecastilla.es/avila/muere-periodista-sara-vitores-anos-20240925090953-nt.html#vca=voc-recirc&vso=elcorreo"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Herri Norte",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ertzaintza",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Estadio Olímpico",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T02:33:53.844+03:00",
+    "updated": "2024-09-28T10:40:22.419+03:00"
+  },
+  {
+    "uuid": "8c70f520cbcd2e4ffaeec13803ea1b36f4dbc7d0",
+    "url": "https://angelocbztb.ampedpages.com/harnessing-the-therapeutic-ability-nanobubble-hydrotherapy-for-accelerated-wound-therapeutic-51614057",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Angelocbztb Ampedpages Com",
+    "published": "2023-12-28T19:22:00Z",
+    "title": "Harnessing the Therapeutic Ability: Nanobubble Hydrotherapy for Accelerated Wound Therapeutic",
+    "text": "Introduction:\nFrom the realm of medical improvements, nanotechnology has emerged as a video game-changer, presenting modern answers to age-old difficulties. A person these types of breakthrough is Nanobubble Hydrotherapy, a slicing-edge tactic that holds huge promise in the sphere of wound healing. With its capacity to market mobile regeneration and expedite the therapeutic method, Nanobubble Hydrotherapy is revolutionizing traditional wound care approaches.\nComprehension Nanobubble Hydrotherapy:\nNanobubble Hydrotherapy will involve using incredibly compact bubbles, usually starting from a hundred to 500 nanometers in dimensions, in the treatment method of wounds. These nanobubbles are established by infusing oxygen or other therapeutic gases into water through a specialized generator. When applied to the wound web-site, these nanobubbles show outstanding Homes that facilitate the therapeutic course of action.\nSystem of Motion:\nThe efficacy of Nanobubble Hydrotherapy lies in its unique mechanism of action. The nanobubbles possess a higher surface area spot and a protracted lifespan as opposed to standard bubbles, allowing them to penetrate deep into the wound bed. As they collapse, they launch Electrical power and create shockwaves, advertising improved oxygenation and circulation inside the impacted location. This enhanced oxygen supply is crucial for mobile metabolism, endorsing The expansion of latest tissue and accelerating the healing procedure.\nGreat things about Nanobubble Hydrotherapy for Wound Therapeutic:\n1. **Improved Oxygenation:**\nOne of the first benefits of Nanobubble Hydrotherapy is its capacity to deliver oxygen straight to the wound web page. Oxygen is often a essential element in the mobile respiration approach, and by enhancing its availability, nanobubbles build an best surroundings for cells to thrive. This greater oxygenation accelerates the formation of granulation tissue, vital for that healing of Long-term wounds.\n2. **Improved Nutrient Delivery:**\nNanobubble Hydrotherapy not simply delivers oxygen but will also facilitates the transportation\nNanobubble Hydrotherapy for Ichthyosis of nutrients on the wound bed. The improved circulation induced by nanobubbles makes certain that crucial nutrients get to the cells associated with the therapeutic method, further more expediting tissue regeneration.\n3. **Lessened Inflammation:**\nPersistent wounds will often be characterized by persistent inflammation, which often can impede the healing approach. Nanobubble Hydrotherapy has been proven to have anti-inflammatory properties, helping to reduce swelling and promote a more favorable setting for therapeutic. By modulating the inflammatory reaction, this therapy contributes to some speedier and more effective recovery.\nfour. **Antimicrobial Outcomes:**\nNanobubbles have shown antimicrobial properties, creating them powerful in blocking and managing infections related to wounds. The mechanical pressure a result of the collapse of nanobubbles disrupts the mobile membranes of microbes, fungi, as well as other pathogens, offering an extra layer of safety to the wound.\n5. **Non-Invasive Nature:**\nAs opposed to some standard wound care strategies, Nanobubble Hydrotherapy is non-invasive, making it a nicely-tolerated and affected person-friendly option. The Light software of nanobubbles allows for the remedy of sensitive or painful wounds without the need of producing supplemental soreness.\n6. **Versatility in Wound Styles:**\nNanobubble Hydrotherapy has revealed guarantee in treating various different types of wounds, which include diabetic ulcers, strain sores, and surgical incisions. Its versatility stems from its power to deal with the underlying difficulties widespread to various wound types, which makes it a versatile and commonly applicable therapeutic solution.\nForeseeable future Implications and Worries:\nThough Nanobubble Hydrotherapy holds great guarantee, additional investigate is needed to improve its application and recognize its entire choice of Added benefits. Standardizing treatment protocols, figuring out the ideal concentration of nanobubbles, and evaluating very long-term effects are crucial measures in developing this therapy being a mainstream selection for wound treatment.\nSummary:\nNanobubble Hydrotherapy signifies a paradigm shift in wound healing, presenting a novel and successful method of address the issues affiliated with Persistent wounds. Its capability to enrich oxygenation, promote nutrient delivery, minimize inflammation, and exert antimicrobial outcomes positions it for a strong Software within the fingers of healthcare specialists. As investigation During this industry proceeds to unfold, Nanobubble Hydrotherapy has the potential to redefine the landscape of wound treatment, providing hope for quicker and even more profitable recoveries for sufferers world wide.\nHarnessing the Therapeutic Ability: Nanobubble Hydrotherapy for Accelerated Wound Therapeutic\nIntroduction:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Health",
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://www.thewhitewatercompany.com/post/hydrotherapy-for-ichthyosis",
+      "https://thewhitewatercompany.com/post/hydrotherapy-for-ichthyosis"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "nanobubble hydrotherapy",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:32:45.074+02:00",
+    "updated": "2023-12-29T00:32:45.074+02:00"
+  },
+  {
+    "uuid": "7dc805728de415a0da36c97192cc88b6de5e8896",
+    "url": "https://bvmsports.com/2024/11/07/saints-week-10-injury-report-key-players-on-the-mend",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BVM Sportsdesk",
+    "published": "2024-11-07T23:00:00Z",
+    "title": "Saints Week 10 Injury Report: Key Players on the Mend!",
+    "text": "Saints Week 10 Injury Report: Key Players on the Mend!\nThe New Orleans Saints have a chance to improve their health as key players return from injury during Week 10. This comes after a challenging season, reflected in their 2-7 record, highlighted by key player absences. Significant updates include the return of starting center Erik McCoy, who has begun practicing after a groin injury that required surgery. Additionally, safety Will Harris is moving towards a return after recovering from a hamstring issue, although some players like Rashid Shaheed remain out for the season.\n- Saints currently hold a 2-7 record this season.\n- Erik McCoy is returning after 6 weeks on injured reserve.\nWhile key players are returning, the Saints will still likely miss several contributors this week, including Kool-Aid McKinstry, Cedrick Wilson Jr., and Lucas Patrick, which raises questions about their depth.\nState of Play- Erik McCoy has been practicing but may not be ready to play immediately.\n- Will Harris has transitioned from limited to full practice, increasing his chances of playing on Sunday.\nAs the Saints approach Sunday’s game, the focus will be on activating McCoy and Harris. Their return could significantly impact the team's performance in upcoming matchups.\nBottom LineKey returns could rejuvenate the Saints as they navigate the second half of the season, but their ability to overcome existing injuries and a struggling record will be crucial for improving their playoff hopes.\nRead more at whodatdish.com\nThe summary of the linked article was generated with the assistance of artificial intelligence technology from OpenAI",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Health",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://whodatdish.com/updated-saints-injury-report-for-week-10-key-players-nearing-return-erik-mccoy-will-harris-01jc4a91621n",
+      "https://www.whodatdish.com/updated-saints-injury-report-for-week-10-key-players-nearing-return-erik-mccoy-will-harris-01jc4a91621n"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Cedrick Wilson Jr.",
+          "sentiment": "none"
+        },
+        {
+          "name": "Lucas Patrick",
+          "sentiment": "none"
+        },
+        {
+          "name": "Will Harris",
+          "sentiment": "none"
+        },
+        {
+          "name": "Erik McCoy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "New Orleans Saints",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T01:11:19.822+02:00",
+    "updated": "2024-11-08T01:11:19.822+02:00"
+  },
+  {
+    "uuid": "7832d8c3e9e844f628110aa7f66a863fdad7d176",
+    "url": "https://nationworldnews.com/promotion-g-adventures-invites-australian-agents-to-meet-taylor-swift-in-london/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nation World News Desk",
+    "published": "2024-01-07T19:38:00Z",
+    "title": "Promotion: G Adventures Invites Australian Agents To Meet Taylor Swift In London!",
+    "text": "G Adventures is thanking its travel agent community by giving the top 75 global best G sellers the opportunity to earn the most popular concert tickets of the decade. As part of its worldwide “You Belong with the G Experience” campaign, eight agents from Australia and New Zealand are invited to join G Adventures to see ‘Taylor Swift: The Eras Tour’ live in London this coming August Will be done. This is G Adventures’ biggest agent experience to date, with top sellers from various countries around the world heading to concerts in Toronto, Canada, New Orleans in the United States and London, United Kingdom. G Adventures founder Bruce Poon Tip said the experience came about as a way to give back to the agents after he recognized the same sense of community and camaraderie in Taylor Swift’s fan base as he felt in G Adventures’ community of agents. I saw and traveler. “You have to listen to me. It was 1989 when I dreamed up the concept of G Adventures, and our travel community has truly been with us through every era. We want to create joy and community for our agency partners the same way G Adventures does for its travelers and Taylor for its fans. It’s a love story,” Poon Tip said. “On our tours we show you incredible things. And while I love watching you go on solo adventures, I’m even more excited to bring our agent community together in person to share this experience. We have always been disruptors in the industry, and joy can be found in both music and community. [Read Also: Shakira continues the billing: she takes out a sweater with a controversial phrase and it is sold out in a matter of minutes croy.com](https://nationworldnews.com/shakira-continues-the-billing-she-takes-out-a-sweater-with-a-controversial-phrase-and-it-is-sold-out-in-a-matter-of-minutes-croy-com/) “I don’t know how it gets better than this. I have two daughters, so I’ve heard every album, listened to the radio. For all the Swifties out there, this is going to be G Adventures’ most competitive travel agent experience yet – like, ever. I hope you all want to hang out, because you are with G. Are You Ready for This?” The ability to join this experience is based on changing lives through travel, with each month’s top seller getting a place from January 01 to July 31, 2024. Agents will thus claim their spots, with wild card tickets to be announced in the coming months. Tickets will be awarded through cumulative sales, with the first two winners awarded in late January, then a new winner each month from February–July. Join the ‘Agents of Change Facebook’ group for more information and to stay updated with the “You Belong with Zee Experience” initiative. this link,",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bruce poon tip",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "g adventures",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "london",
+          "sentiment": "none"
+        },
+        {
+          "name": "new zealand",
+          "sentiment": "none"
+        },
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "taylor swift",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "new orleans",
+          "sentiment": "none"
+        },
+        {
+          "name": "united kingdom",
+          "sentiment": "none"
+        },
+        {
+          "name": "australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "toronto",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-08T00:13:48.436+02:00",
+    "updated": "2024-01-08T00:24:17.860+02:00"
+  },
+  {
+    "uuid": "8e5e7c803dafd98464b53d0c903e845b37e5d9b8",
+    "url": "https://vnexplorer.net/carols-by-candlelight-gatecrasher-unmasked-pro-palestine-demonstrator-who-disrupted-family-friendly-christmas-entertainment-is-revealed-to-be-an-activist-pest-with-a-deep-hatred-for-cops-s696829.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-28T21:54:00Z",
+    "title": "Carols by Candlelight gatecrasher unmasked: Pro-Palestine demonstrator who disrupted family-friendly Christmas entertainment is revealed to be an activist pest with a deep hatred for cops",
+    "text": "Melbourne Carols by Candlight marred by protest Palestine supporters marched on stage Woman later boasted about her antics online Do you know more? Contact [email protected]\nA pro-Palestine protester who gatecrashed Melbourne’s Carols by Candlelight extravaganza on Christmas Eve later boasted about her antics online.\nThe woman stormed the stage at Sidney Myer Music Bowl on Sunday, stealing the microphone from Channel Nine hosts David Campbell and Sarah Abo before screaming ‘while you’re carolling, kids are dying in Gaza’.\nShe and another demonstrator, who was also waving the Palestinian flag, were then dragged away by security as the crowd booed the pair off the stage.\nOne of the women was arrested and issued with an infringement notice for possession of a controlled weapon, while the other was given a move on direction by officers.\nDaily Mail Australia can reveal the microphone-snatching protester, who goes by the pseudonym @violentwaitress online, is a member of pro-Palestine activism group Block the Dock.\nShe also has a hatred for police and champions a raft of other causes including support for sex workers and bolstering rights for members of the indigenous, LGBTQI, and refugee communities.\nThe pro-Palestine activist defended her actions when contacted by Daily Mail Australia – despite the stunt sparking intense backlash.\nPro-Palestine protester @violentwaitress (pictured) crashed Melbourne’s Carols by Candlelight event on Sunday night\nIn the hours after the disruption, she shared a series of posts to her Instagram story written by fellow members of her cause offering their support over the stunt.\nOne post, featuring footage of the protest, said: ‘Christmas is cancelled m f***rs’ while another by activism group Whistleblowers, Activists & Communities Alliance (WACA) read: ‘Imagine booing a woman saying kids are dying in Gaza’.\nA third post also hit out at backlash online after outraged parents slammed the protesters for scaring children sitting in the audience with their families.\nThere was also a group of children performing on stage when the havoc unfolded who had to be rushed to safety.\n‘I don’t give a f*** about your carols,’ the third post, which featured an image of the grinch, began.\n‘And every kid in that audience is gonna [sic] grow up and be Pro-Palestine or they’re gonna [sic] grow up and be a zionist and tbh [to be honest] we will handle that when they’re older but right now they’re fine and nobody was traumatised.’\nConcluding the highlight reel, the woman shared a selfie, writing: ‘Anyway, I’m done goodnight xx’.\nThe woman managed to unfurl the Palestinian flag next to the orchestra pit\nShe then ran over to grab the microphone from Nine hosts David Campbell and Sarah Abo\nThe woman reshared a series of posts about her stunt to her Instagram story before signing off for the night with the above photo\nOn social media, she frequently shares information advocating for marginalised groups and posts anti-cop rhetoric.\nThis week, she called for people to boycott Midsumma Festival – an LGBTQIA+ cultural event – because Victorian police officers would be in attendance to manage the crowds.\nIn the post, she claimed cops should not be allowed to monitor the event because they ‘collaborate with zionists and nazis’, ‘murder refugees both inside and outside of detention’ and ‘kill indigenous folks in custody’.\nHowever, her primary ventures appear to revolve around pro-Palestine rallies with WACA and Block the Dock – which are both behind a slew of high-profile demonstrations across Melbourne in recent months.\nPhotos posted online show the woman protesting at a pro-Palestine rally out the front of Israeli military weapons manufacturer, Elbit Systems, in Port Melbourne, in October.\nLast week, multiple Block the Dock protesters were arrested after blocking a Port Melbourne road by gluing their hands to the road, setting up concrete barrels, and locking themselves to cars, causing major traffic delays.\nIn another incident, two days earlier, dozens of demonstrators staged a ‘die-in’ protest by laying on the ground outside The Age, AFR and Nine Melbourne offices in ‘PRESS’ vests and caps to rally against the deaths of 95 journalists in Gaza.\nThe pro-Palestine activist stood by her protest at the Melbourne event over the weekend.\n‘As carols echo in the stadium, let us not forget that the sounds are overshadowed by the cries of innocent children in Palestine,’ she said.\n‘It is an urgent call for justice, and empathy, envisioning a world where children dream of joy instead of enduring the horrors of terror.\n‘Christmas stands cancelled in the land where Jesus was born—occupied, oppressed, and ruined by the ongoing genocide.\n‘Palestinians search for their children’s remains amidst rubble left by Israeli forces, the same forces that have taken their land and subjected them to torture, imprisonment, and senseless killings.’\nCarols by Candlelight was live on air on Sunday night when the two women ran across the stage, waving Palestinian flags.\nAs the pair grappled with security, a stunned Campbell tried to ease the situation as young families watched on in horror.\n‘Take it easy, it’s okay,’ Campbell said. ‘Everybody relax and settle down.’\n‘Everyone is aloud to have their say but we do have kids here, we just want to make sure those kids are safe, they will be back out here in a second,’ he added, referring to the stage performers.\n‘It is a very hard time in the world at the moment and there is a lot of pain out there.’\nThe woman has a collection of activism projects plastered across her social media page\nA second protester who jumped on stage was filmed rallying at a pro-Palestine event earlier on Sunday (pictured)\nCo-host Sarah Abo thanked the crew for their quick action in removing the protesters safely.\n‘It is the climate, we are in Melbourne,’ she said.\n‘Incredible work here by the team as well.’\nThe crowd was heard applauding as the kids returned to the stage and the show continued.\nFurious parents later flocked online to blast the protesters for interrupting the Christmas family-friendly event.\n‘So disrespectful at this time of year and disgusting subjecting children to this commotion,’ one woman said.\n‘They should all be arrested. Carols by candlelight is not the time or place.’\nHowever, others lauded the protesters actions and threw their support behind the cause.\n‘If the Palestine protest at carols by candle light makes you uncomfortable. good,’ one person said.\nThe woman was dragged off the stage by security after interrupting the Christmas tradition\nAnother added: ‘If you think Christmas carols broadcast being interrupted by a protest is bad, imagine being bombed to death.’\nAnti-Defamation Commission chair Dvir Abramovich was highly critical of the incident, and described it as ‘tactics of intimidation’.\n‘Carols by Candlelight was once a safe place for families to celebrate the beauty of Christmas, but no more, as this tornado of prejudice is destroying our sense of security,’ he said.\n‘I trust that law enforcement will identify those responsible for such vile actions and prosecute them to the full extent of the law.’\nExecutive Council of Australian Jewry co-CEO Alex Ryvchin described the protesters as ‘extremists’.\n‘You can always count on anti-Israel extremists to make everything about them and to appall decent, ordinary people,’ Mr Ryvchin said.\n‘The chorus of boos tells them loud and clear they’re not wanted.’\nThe carols continued as normal despite the protests and the rain (above)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Arts, Culture and Entertainment",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://videos.dailymail.co.uk/video/mol/2023/12/24/6107329729588382147/1024x576_MP4_6107329729588382147.mp4",
+      "https://www.videos.dailymail.co.uk/video/mol/2023/12/24/6107329729588382147/1024x576_MP4_6107329729588382147.mp4"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "candlight",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "david campbell",
+          "sentiment": "none"
+        },
+        {
+          "name": "sarah abo",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "melbourne carols",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "channel nine",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "melbourne",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:01:40.802+02:00",
+    "updated": "2023-12-29T00:01:40.802+02:00"
+  }
+]

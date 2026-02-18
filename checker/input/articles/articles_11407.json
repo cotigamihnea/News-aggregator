@@ -1,0 +1,180 @@
+[
+  {
+    "uuid": "c1fa9baafb950a1729ba558086acc94eec2a1755",
+    "url": "https://www.bristolpost.co.uk/news/bristol-news/met-office-issues-two-day-9002968",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "bristolpostnews@localworld.co.uk (Shannon Brown)",
+    "published": "2023-12-29T10:37:00Z",
+    "title": "Met Office issues two-day severe weather warnings amid new storm alert",
+    "text": "A severe weather warning has been issued across the South West over New Year's weekend. Huge wind gusts are expected to cause disruption across the region, affecting transport services and potentially causing further power cuts.\nThe yellow wind warning is in place from 11am tomorrow (December 30) until 3am on December 31 and includes the whole of the South West, parts of western Wales, and the South coastline. The Met Office says: \"A spell of strong and gusty winds will move east across England and Wales, bringing some disruption to travel and services.\"\nThe forecaster adds: \"An active cold front will move east across England and Wales during Saturday and into Sunday and will be characterised by strong winds and some heavy rain. Gusts of 45-50 mph widely, but squally near the cold front with some gusts around 60 mph, whilst the strongest gusts are likely near coasts in the west and south, with 65-75 mph in places.\"\nBristol city centre set for radical change with seven major plans Moment police try to pull over white van blocking outside m-way lane - and he ignores them\nIt comes after Storm Gerrit brought major disruption across the country, forcing road bridges to close, sparking localised power cuts in Bristol, and bringing down scaffolding in the city. The storm whirled through the UK, causing a reported 'tornado' in Greater Manchester, where it damaged around 100 properties.\nThe warning is in place until the early hours of Sunday (December 31) and the Met Office has said the forecast on New Year's Day is expected to be calmer, with breezy but weaker winds predicted. Steven Ramsdale is a Met Office Chief Forecaster. He said: “This system is likely to bring a range of\nweather including hill snow. Heavy rain will spread across all but the far north on Saturday affecting similar areas previously affected by Storm Gerrit. However, this rainfall will be a step down from that seen during Storm Gerrit.”\nRead about the full New Year's Day forecast in Bristol\nhere.\nWhat to Expect\n- Some delays to road, rail, air and ferry transport are likely\n- It’s likely that some coastal routes, sea fronts and coastal communities will be affected by spray and/or large waves\n- Probably some bus and train services affected, with some journeys taking longer\n- Some short term loss of power and other services is possible\n- Delays for high-sided vehicles on exposed routes and bridges likely",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "met office",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "south west",
+          "sentiment": "none"
+        },
+        {
+          "name": "bristol",
+          "sentiment": "none"
+        },
+        {
+          "name": "wales",
+          "sentiment": "none"
+        },
+        {
+          "name": "england",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T13:04:04.469+02:00",
+    "updated": "2023-12-29T13:04:04.469+02:00"
+  },
+  {
+    "uuid": "2101512d479fec16da2e789a8088c132f7fca46c",
+    "url": "https://katv.com/news/local/human-remains-found-in-garland-county-identified-as-amir-ellis-highway-7-north-jessica-hot-springs-police-department-sheriffs-office-law-enforcment-agency-authorities-officials-officers-detectives-teens-arrested-search-parties-blackmon-rector-ward-road",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cory Evans",
+    "published": "2023-12-28T19:57:00Z",
+    "title": "chevron-right",
+    "text": "LITTLE ROCK (KATV) — The human remains found off [ Highway 7 North ](https://katv.com/news/local/suspected-human-remains-found-off-arkansas-highway-north-garland-county-sheriffs-office-gcso-criminal-investigations-division-cid-coroners-office-arkansas-state-crime-laboratory-lab-hot-springs-police-department-hspd-amir-ellis-identification-dna-testing#)in Garland County have been identified as the remains of 19-year-old Amir Ellis. Police confirmed that Ellis' remains were found in the woods off Highway 7 North near Blackmon Road. The Garland County Sheriff's Office originally was sent to the location on Dec. 18 as human remains were possibly found. Authorities responded, collected the remains, and sent them to the Arkansas State Crime Lab where they were identified as Ellis'. Since his disappearance, his mother, Jessica Ellis, had been searching for him and rallying volunteers to her cause. Ellis was originally reported missing to the Hot Springs Police Department back [on March 17.](https://katv.com/news/local/hot-springs-police-searching-for-missing-20-year-old-hspd-amir-isaiah-ellis-rocky-reef-circle-detective-branstentter-garland-county-arkansas-detective-branstentter-black-male-standing-5-feet-6-inches-weighing-160-pounds-with-black-hair-brown-eyes) In May, police confirmed that he had been kidnapped with [Three teens](https://katv.com/news/local/hot-springs-police-release-information-on-missing-20-year-old-amir-ellis-18-year-old-nathaniel-speed-18-year-old-alexia-chambers-three-suspect-juvenile-detective-brian-branstetter-hspd-fort-smith-police-department-gag-order-issued-garland-county-circuit) being arrested and charged.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "amir ellis",
+          "sentiment": "none"
+        },
+        {
+          "name": "ellis",
+          "sentiment": "none"
+        },
+        {
+          "name": "jessica ellis",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "garland county sheriff's office",
+          "sentiment": "none"
+        },
+        {
+          "name": "hot springs police department",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "blackmon road",
+          "sentiment": "none"
+        },
+        {
+          "name": "garland county",
+          "sentiment": "none"
+        },
+        {
+          "name": "arkansas state crime lab",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:24:37.836+02:00",
+    "updated": "2023-12-29T10:51:31.172+02:00"
+  },
+  {
+    "uuid": "ddcdb5dc0191ad2d883b551ce93bec73cd6bde09",
+    "url": "https://news.sportslogos.net/2025/03/19/kansas-city-royals-to-wear-full-powder-blue-uniforms-for-14-games-in-2025/baseball",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chris Creamer",
+    "published": "2025-03-19T22:30:00Z",
+    "title": "Kansas City Royals to Wear Full Powder Blue Uniforms for 14 Games in 2025",
+    "text": "The Kansas City Royals are bringing back powder blue pants in 2025, and this time for more than just a one-game cameo.\nThe Royals recently announced they will pair their powder blue alternate jerseys with matching powder blue pants for every Saturday home game throughout the 2025 season. Previously, the Royals wore white pants with these jerseys, except for the first and final games of the 2023 season.\n“Powder Blues were first introduced in 1973 at the request of Muriel Kauffman,” explained Sarah Tourville, Senior Vice President – Chief Revenue and Innovation Officer for the Royals, in an email to SportsLogos.Net ahead of the 2023 season. At the time, it was the first time the Royals had worn a ‘full’ powder blue uniform in Kansas City, as they had previously been worn exclusively on the road.\nAlongside the powder blue pants is the news they’ll be wearing their batting practice caps with this uniform. The Royals’ BP cap for 2025 is a powder blue crown with a white front panel and royal blue visor. On the front of the cap is the original Kansas City Royals logo, featuring a blue shield in the shape of a home plate with a gold crown above and the team initials of “KCR” on the shield.\nFrom 1973 until 1991, the Royals regularly wore powder blue jerseys and pants during road games. After a hiatus, the powder blue jerseys returned as a home alternate in 2008, but they were always paired with white pants except for the aforementioned two occasions in 2023.\nSeveral prominent players wore the full powder blue look for Kansas City in the ’70s and ’80s, including Hall of Famers George Brett, Gaylord Perry, Harmon Killebrew, and Orlando Cepeda, as well as franchise greats Bret Saberhagen, Kevin Appier, and David Cone. Kansas City was also the last American League team to wear powder blue uniforms regularly on the road, finally switching to traditional grey for the 1992 season, along with the National League’s Montreal Expos.\nFans hoping to see the Powder Blues in person are being offered a special ticket package called the Powder Blue Six-Pack. This package includes tickets to six Powder Blue uniform games and a special bobblehead featuring team captain Salvador Perez wearing the full Powder Blue set.\nThe Royals’ first appearance in the full powder blues in 2025 is set for March 29 against the Cleveland Guardians. Their entire powder blue schedule is below:\n- March 29 vs Cleveland\n- April 5 vs Baltimore\n- April 26 vs Houston\n- May 10 vs Boston\n- May 17 vs St. Louis\n- May 31 vs Detroit\n- June 14 vs Athletics\n- June 29 vs LA Dodgers\n- July 12 vs NY Mets\n- July 26 vs Cleveland\n- August 16 vs Chi White Sox\n- August 30 vs Detroit\n- September 6 vs Minnesota\n- September 20 vs Toronto",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->sport event",
+      "Sport->sports management and ownership",
+      "Sport->baseball",
+      "Lifestyle and Leisure->game"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://mlbshop.ue7a.net/4Gm943",
+      "https://www.mlbshop.ue7a.net/4Gm943"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Sarah Tourville",
+          "sentiment": "none"
+        },
+        {
+          "name": "Muriel Kauffman",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Kansas City Royals",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T00:47:58.618+02:00",
+    "updated": "2025-03-20T00:47:58.618+02:00"
+  }
+]

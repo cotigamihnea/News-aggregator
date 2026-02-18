@@ -1,0 +1,404 @@
+[
+  {
+    "uuid": "225e75655a4fe263dcd8b28bbe62ee6c3232ac61",
+    "url": "https://mspoweruser.com/microsoft-may-clutter-windows-11-24h2-with-jump-lists-in-the-kb5046740-update",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rafly Gilang",
+    "published": "2024-11-22T08:29:00Z",
+    "title": "Microsoft may clutter Windows 11 24H2 with jump lists in the KB5046740 update",
+    "text": "Microsoft has just launched the KB5046740 update, or November’s non-security patch, for Windows 11 24H2. And with that, the Redmond tech giant may make the OS a lot more stuffed and filled with jump lists than before.\nA “jump list” is a Windows feature that lets you quickly access recent files, folders, or tasks related to an app by right-clicking its icon on the taskbar or Start menu.\nSo now, when you right-click on apps pinned to the Start menu, jump lists will appear for those apps that support jump lists—which makes Windows 11 more cramped than before . And, if you hold the Shift and CTRL keys while clicking on a jump list item, it will open the item with administrative privileges.\nThe KB5046740 also rebrands “Tailored Experiences” as “Personalized offers” to give a better clearance. You can find this rebrand in the Settings app under Privacy & Security. There, you can manage the settings and choose whether to send data about your device to improve Windows or not.\nThe update also shortens the date & time display in the system tray & rolls out new options for touchscreen edge gestures & the feature to directly share content from File Explorer to Android devices, which Microsoft first tested some time ago . And, Task Manager also now has better support for dark mode & text scaling.\nBut, as we’re approaching the holiday season, this may be the last non-security update for Windows 11 we’ll be seeing in 2024.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Corporate News and Profiles",
+      "Business and Market Analysis"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://support.microsoft.com/en-us/topic/november-21-2024-kb5046740-os-build-26100-2454-preview-2040f716-b719-482a-8aff-f7f02c79b147",
+      "https://www.support.microsoft.com/en-us/topic/november-21-2024-kb5046740-os-build-26100-2454-preview-2040f716-b719-482a-8aff-f7f02c79b147"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Microsoft",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T11:21:36.064+02:00",
+    "updated": "2024-11-22T11:21:36.064+02:00"
+  },
+  {
+    "uuid": "c42bf2756fe11b77ab2d2c6e15a312e63a5e2b03",
+    "url": "https://www.lne.es/economia/2025/03/06/fertiberia-abandona-mayor-proyecto-amoniaco-114987626.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Pablo Castaño",
+    "published": "2025-03-06T03:00:00Z",
+    "title": "Fertiberia abandona su mayor proyecto de amoniaco limpio",
+    "text": "Fertiberia abandona su mayor proyecto de amoniaco limpio\nLa compañía de fertilizantes, con planes para descarbonizar su fábrica de Trasona, se retira de la planta Barents Blue en Noruega\nFertiberia, con ambiciosos planes de descarbonización que benefician a su planta de Corvera, ha dado un paso atrás al anunciar que abandona el proyecto Barents Blue de Noruega, que incluía la mayor planta de amoniaco limpio de Europa. El plan está considerado Proyecto Importante de Interés Común Europeo (IPCEI) y tiene asignada una ayuda de más de 41 millones de euros.\nLa compañía española de fertilizantes ha anunciado la finalización, con fecha a 28 de febrero, de su colaboración con la empresa noruega Horisont Energi en el proyecto Barents Blue en Finnmark (Noruega), que aspira a ser la mayor planta de producción de amoniaco limpio de Europa. Para su producción utilizará gas natural del yacimiento situado en el mar de Barents, se capturará la práctica totalidad del carbono generado y se secuestrará de manera permanente en el almacenamiento geológico de CO2 Polaris, también en el Mar de Barents. La instalación tendrá una capacidad de producción de 3.000 toneladas de amoniaco al día.\nEn febrero de 2023, Fertiberia anunció que había sellado un acuerdo con Horisont Energi para impulsar conjuntamente el proyecto Barents Blue y, dos años después, la compañía española ha dejado el proyecto tras un periodo de evaluación. Desde Fertibería se ha destacado que el grupo lleva a cabo una revisión continua de su cartera de proyectos y que esta decisión sobre el proyecto noruego no afecta a otros.\nFertiberia tiene en marcha un plan para modernizar su planta de ácido nítrico en Trasona, en el concejo de Corvera, y tiene en el alero un segundo plan para esta factoría que incluye una planta de producción de amoniaco verde a partir de hidrógeno renovable. n\nSuscríbete para seguir leyendo\nRRSS WhatsApp\nRRSS Facebook\nRRSS Twitter\nRRSS email\nCopiar URL)\nNoticia guardada en tu perfil",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->chemicals",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->business restructuring",
+      "Environment->energy resources",
+      "Environment->sustainability",
+      "Environment->hazardous materials",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.lne.es/economia/2025/03/06/fertiberia-abandona-mayor-proyecto-amoniaco-114987626.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://api.whatsapp.com/send?text=Fertiberia%20abandona%20su%20mayor%20proyecto%20de%20amoniaco%20limpio%20https://www.lne.es/economia/2025/03/06/fertiberia-abandona-mayor-proyecto-amoniaco-114987626.html%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://twitter.com/intent/tweet?original_referer=https://www.lne.es/economia/2025/03/06/fertiberia-abandona-mayor-proyecto-amoniaco-114987626.html&text=Fertiberia%20abandona%20su%20mayor%20proyecto%20de%20amoniaco%20limpio%20%20https://www.lne.es/economia/2025/03/06/fertiberia-abandona-mayor-proyecto-amoniaco-114987626.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share%20a%20trav%C3%A9s%20de%20%40lanuevaespana",
+      "https://twitter.com/intent/tweet?original_referer=https://lne.es/economia/2025/03/06/fertiberia-abandona-mayor-proyecto-amoniaco-114987626.html&text=Fertiberia%20abandona%20su%20mayor%20proyecto%20de%20amoniaco%20limpio%20%20https://lne.es/economia/2025/03/06/fertiberia-abandona-mayor-proyecto-amoniaco-114987626.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share%20a%20trav%C3%A9s%20de%20%40lanuevaespana",
+      "https://facebook.com/sharer/sharer.php?u=https://lne.es/economia/2025/03/06/fertiberia-abandona-mayor-proyecto-amoniaco-114987626.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://api.whatsapp.com/send?text=Fertiberia%20abandona%20su%20mayor%20proyecto%20de%20amoniaco%20limpio%20https://lne.es/economia/2025/03/06/fertiberia-abandona-mayor-proyecto-amoniaco-114987626.html%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://api.whatsapp.com/send",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Mar de Barents",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Fertiberia",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Horisont Energi",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T05:24:13.972+02:00",
+    "updated": "2025-03-06T05:24:13.972+02:00"
+  },
+  {
+    "uuid": "4b0727995449dde829d82e4a06a42b553370f6f1",
+    "url": "https://magicvalley.com/photos-plastic-bags-get-a-new-life/collection_19e49054-cc51-11ee-99c9-171a783ed039.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "HANNAH KINSON hannah.kinson@magicvalley.com",
+    "published": "2024-02-15T22:25:00Z",
+    "title": "PHOTOS: Plastic bags get a new life",
+    "text": "PHOTOS: Plastic bags get a new life\nStudents made sleeping mats and pillows out of donated plastic bags to give to the Magic Valley Humanitarian Center for the homeless Thursday, Feb. 15, 2024, during Random Acts of Kindness week at White Pine Elementary School in Burley.\nYour story lives in the Magic Valley, and our new mobile app is designed to make sure you don’t miss breaking news, the latest scores, the weather forecast and more. From easy navigation with the swipe of a finger to personalized content based on your preferences to customized text sizes, the Times-News app is built for you and your life. Don’t have the app? Download it today from the\nApple App Store or Google Play Store.\nRelated to this collection\nMost Popular\nMinico girls basketball defeated Twin Falls on Thursday, Feb. 8, 2024, during the Great Basin Conference final at Minico High School, 53-45. M…\nKimberly’s plays against Buhl during districts Monday, Feb. 12, 2024, at Kimberly High School. Buhl won the game 66-63.\nFourth-grade students celebrate Valentine's Day on Wednesday, Feb. 14, 2024, during the Healthy Heart Party at Kimberly Elementary School. For…\nRead through the obituaries published in Times-News\nRead through the obituaries published in Times-News\nRead through the obituaries published in Times-News\nRead through the obituaries published in Times-News\nTwin Falls artist John McClusky speaks with the Times-News about the upcoming display of his artwork at the Orlando College of Osteopathic Med…\nRed beans and rice, Chicken Francese and a variety of desserts. Here are a few ideas for what to make for this week's upcoming celebrations.\nRead through the obituaries published in Times-News",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Environment",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://play.google.com/store/apps/details?id=com.magicvalley.news",
+      "https://apps.apple.com/us/app/times-news-magicvalley-com/id375099832",
+      "https://play.google.com/store/apps/details",
+      "https://www.apps.apple.com/us/app/times-news-magicvalley-com/id375099832",
+      "https://www.play.google.com/store/apps/details?id=com.magicvalley.news"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "healthy h",
+          "sentiment": "none"
+        },
+        {
+          "name": "kimberly",
+          "sentiment": "none"
+        },
+        {
+          "name": "buhl",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "minico high school",
+          "sentiment": "none"
+        },
+        {
+          "name": "magic valley humanitarian center",
+          "sentiment": "none"
+        },
+        {
+          "name": "times",
+          "sentiment": "none"
+        },
+        {
+          "name": "kimberly high school",
+          "sentiment": "none"
+        },
+        {
+          "name": "white pine elementary school",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "burley",
+          "sentiment": "none"
+        },
+        {
+          "name": "magic valley",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-16T01:06:08.005+02:00",
+    "updated": "2024-02-16T01:06:08.005+02:00"
+  },
+  {
+    "uuid": "c0b912b382de3face1ea1eef97df23c4b74e305c",
+    "url": "https://kamchatka.aif.ru/society/-turisty-moyo-toplivo-kamchatskiy-gid-o-medvedyah-i-zvyozdnyh-rayderah",
+    "ord_in_thread": 0,
+    "author": "Анна Керн",
+    "published": "2025-07-23T14:46:00Z",
+    "title": "«Туристы - моё топливо». Камчатский гид - о медведях и звёздных райдерах | АиФ Камчатка",
+    "text": "Бензин или солярка? Для Максима Фесюнова, гида с 15-летним стажем, настоящим топливом для путешествий по суровому краю вулканов и гейзеров являются... эмоции туристов.\nСлучайность привела его в профессию, а любовь к Камчатке, желание делиться её величием с другими – удерживают уже больше полутора десятилетий, несмотря на погодные сюрпризы и риск выгорания. Почему даже звёзды здесь становятся «мегапростыми», зачем зумерам душ на вулкане и что вкуснее икры – в интервью с человеком, для которого походы по полуострову не работа, а призвание.\nЛучше, чем в Африке\n– Максим, твоё имя хорошо известно в туриндустрии Камчатки. Как ты пришёл в профессию гида?\n– Всё началось почти случайно, ещё до армии. Поехал с друзьями на вулкан Горелый. Поднялись, я рассказывал им то, что знал о процессах, происходящих вокруг, о том, чем интересовался сам. Тут ко мне подошёл мой приятель-гид. У него были туристы, которые не хотели ночевать в палатках под вулканом несколько дней, просили что-то индивидуальное. Он спросил: «Можешь их свозить?». Я сомневался: «А что я им буду рассказывать?». Но приятель ответил: «Я рядом стоял, слушал – очень интересно! Главное – общаться. Ты сможешь». Тогда индивидуальных туров на машинах почти не было, всех возили группами на вахтовках. Я согласился, всем понравилось. Потом ушёл в армию, казалось, история закончилась... Но служа в военкомате, тоже иногда возил делегации. После армии работа была нужна, а тут как раз пошёл поток российских туристов, компании начали нанимать водителей. Так и закрутилось.\n– Сейчас для тебя это просто работа или что-то большее?\n– Это мое любимое дело, которое приносит удовольствие. Я стараюсь уходить от стандартных туров, организовывать что-то уникальное. Но у людей мало времени, особенно у гостей из крупных городов. Они приезжают на 7-10 дней, хотят успеть всё, а наша погода вносит свои коррективы. Вот прошлый год – погоды не было совсем! Но мы всё равно выкручивались, переставляли вертолёты, машины... Тяжело, но возможно. Хотя, конечно, выгорание – мой главный страх. Бегать по горам вечно не получится. Но пока топлива хватает.\n– И что же это за «топливо»?\n– Эмоции моих гостей! Это они – моё топливо. Я иногда им так и говорю: «Как круто, что вы заплатили за моё путешествие по Камчатке!». Я не могу один в горах философствовать, мне нужно делиться с кем-то. Их реакция, их восторг – вот что заряжает.\n– Но ведь места-то одни и те же? Не надоедает?\n– Нисколько! Во-первых, люди разные. Во-вторых, погода – она здесь никогда не повторяется дважды. Даже если ездить в одно место пять дней подряд – снег сошёл, цветы распустились, потом отцвели... Всё меняется стремительно. И сама Камчатка уникальна. Я много где был: в Африке, на Алтае, Байкале, Кольском, в Пакистане. Но Камчатка – в топ-5 самых впечатляющих мест планеты. Это лаборатория с её эндемиками – растениями и животными, которых больше нигде нет. Берёза Эрмана, например, – она только наша! Хотя, в Пакистане на высоте 4000 метров видел очень похожую.\nНет плохой погоды – есть плохая экипировка\n– Вы упомянули непредсказуемость погоды. Есть ли у вас, как у опытного гида, 100%-ные приметы?\nНебесное шоу. Как камчатский синоптик читает язык стихий\n– Самый частый страх туристов – медведи. Оправдан?\n– Страх чаще неоправдан, если соблюдать правила. Медведь – умное и очень пугливое животное. Он боится человека. На группу людей практически никогда не нападает. Статистика говорит, что от нападений собак гибнет больше людей, чем от медведей. Проблемы возникают обычно с теми косолапыми, которые потеряли страх из-за человека, чаще из-за мусора или подкормки. Главное – не оставлять пищевых отходов, не устраивать пикники в лесу, слушать гида. Если идёте группой – риск минимален. Самые безопасные и зрелищные места для наблюдения – Курильское озеро или, например, Начикинское озеро (как более доступная альтернатива), но в определённое время с лодки со специалистом. Безопасность на первом месте.\n– Как вы оцениваете состояние камчатского туризма сегодня?\nТур на Камчатку в августе обойдется в 400 тыс. рублей на двоих\nПонимающая Ирина Хакамада\n– Вы работаете в том числе и со знаменитостями. Кто из звёзд был у вас в гостях?\n– Список приличный! Например, работали с Максимом Авериным, с Алёной Свиридовой. Совсем недавно были «Уральские пельмени». Диляра Вагапова была, солистка группы «Мураками». Дмитрий Дибров с женой Полиной – она, кстати, мегапростая, выносливая – никакого нытья и пафоса.\n– А случаются ли неожиданные ситуации с туристами? Ведь условия суровые, походные...\n– Вот свежий случай, щекотливый, но уж больно характерный. У нас на Вилючинском перевале стоит хороший туалет, давно уже, с солнечными панелями, даже телефон можно заряжать – приколюха, конечно, там очередь страшная, кто ж там будет заряжать! И вот стоит барышня из группы. А там всё для удобства предусмотрено, но нет устройства для… подмывания. Вежливо объясняем: вот салфетки влажные, только не бросайте их, пожалуйста. А она так спокойно, деликатно: «Нет, я этим не пользуюсь. Даже бумажными. Мне нужен только душ».\n– То есть ей было критически важно наличие гигиенического душа?\n– Да! Только воду она использует. И чтобы тёплая была! А там ручеёк снеговой, ледяной. Я пошутил: «Вот ручеёк, воспользуйтесь...». Но она-то не шутила. Девчонке лет 25-27, вся такая «фифа», вся группа обалдела от её запроса. Поколение зумеров. Есть к ним вопросы.\n– А у звёзд бывают завышенные требования? Райдеры, капризы? Ведь на гастролях у них часто прописаны мельчайшие детали.\nТелеведущий Павел Воля признался в любви к Камчатке\n– Что самое важное вы бы посоветовали туристу, впервые едущему на Камчатку?\n– Во-первых, серьёзно отнеситесь к экипировке. Нужна непромокаемая и непродуваемая одежда, термобельё, треккинговые ботинки и носки. Во-вторых, не стесняйтесь консультироваться. Звоните в природные парки, в МЧС, в спасотряд. Опытные люди подскажут. Камчатка – одно из немногих мест, где я бы не рекомендовал путешествовать полностью самостоятельно, особенно в первый раз. Без местного эксперта легко попасть в беду или просто не увидеть главного. И в-третьих, ешьте рыбу! Настоящую, свежую. Горбушу, чавычу... Не зацикливайтесь только на красной икре. Вот увидите – это вкуснее и гораздо полезнее!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure",
+      "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->travel and tourism",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->outdoor recreational activities",
+      "Arts, Culture and Entertainment->festival",
+      "Arts, Culture and Entertainment->customs and tradition",
+      "Arts, Culture and Entertainment->culture"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_ru",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:42:27.282+03:00",
+    "updated": "2025-07-25T08:08:28.000+03:00"
+  },
+  {
+    "uuid": "592b13a9443662f8ba82fdc09beea4fba5177457",
+    "url": "https://urbanmilwaukee.com/2024/10/03/new-plan-would-reduce-logging-in-national-forest-in-northern-wisconsin",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Danielle Kaeding, Wisconsin Public Radio",
+    "published": "2024-10-04T00:19:00Z",
+    "title": "New Plan Would Reduce Logging in National Forest in Northern Wisconsin",
+    "text": "Chequamegon-Nicolet National Forest in northern Wisconsin. Liz Dohms-Harter/WPR\nSome Wisconsin groups are urging the Biden administration to do more to protect mature and old-growth forests under its proposal to conserve those trees as logging interests are pushing back against changes.\nEnvironmental groups say the U.S. Forest Service has received more than 1 million comments to protect old-growth forests from logging since President Joe Biden issued an executive order to conserve them two years ago. The directive called for reducing the risk of wildfires and developing policies to make the nation’s forests more resilient to climate change.\nThe U.S. Forest Service released a draft environmental impact statement of its plan to conserve older forests and limit logging, but the agency stopped short of a ban on logging old-growth forests. The Forest Service proposal would revise plans for 122 national forests, including the Chequamegon-Nicolet National Forest in Wisconsin.\nIn recent comments , groups like Sierra Club Wisconsin and the Environmental Law and Policy Center, or ELPC, are calling for an end to logging old-growth trees. Cassie Steiner , senior campaign coordinator with Sierra Club, said there’s a very small portion of those forests nationwide.\n“The value that these older trees have, and these areas that have a healthy mix of ages of trees are so precious, and the current amendment would allow for harvesting in these areas,” Steiner said.\nEnvironmental groups say the forests are crucial for storing billions of tons of carbon for decades or centuries. An initial inventory identified around 24.7 million acres of old-growth and 68.1 million acres of mature trees on national forest lands. That represents roughly 17 percent and 47 percent of the nation’s forests.\nIn Wisconsin, logging advocates say there’s no need to conserve old-growth trees in the national forest outside the normal planning process, including Henry Schienebeck , executive director of the Great Lakes Timber Professionals Association. The group’s members represent 14,000 workers in Wisconsin and Michigan.\n“There’s designated old growth already,” Schienebeck said. “There’s a lot of (the forest) that’s already set aside, and we already have young successional forests that are getting too old and should be harvested.”\nAround 864,000 acres or more than half of the Chequamegon-Nicolet National Forest has been deemed suitable for timber production, according to the forest’s plan. About 11,000 to 12,000 acres are harvested each year.\nThe forest products industry has a $37.8 billion economic impact in the state. The Wisconsin Council on Forestry also expressed concern about a one-size-fits-all approach to managing national forests.\n“(A)n increase in a hands-off tactic to managing our local national forest lands could jeopardize our state’s forest industry, our local economies, and our ability to maintain vigorous, resilient forest ecosystems considering threats from insects, diseases, altered wildfire dynamics, and shifts in temperature and precipitation patterns,” the council wrote .\nA sign designating the Chequamegon-Nicolet National Forest in Wisconsin. Rob Mentzer/WPR\nIn Wisconsin, the Chequamegon-Nicolet National Forest is estimated to contain around 61,000 acres of old-growth trees or roughly 4 percent of its 1.5 million acres of forestland.\nAndy Olsen , senior policy advocate with ELPC, contends there are many more areas within the national forest that contain old-growth trees.\n“What we’re seeing right now is that Chequamegon-Nicolet is aggressively logging old-growth to mature trees,” Olsen said.\nHe pointed to the Peerless project in Bayfield County and Fourmile project . The latter would log 12,000 acres in parts of Oneida, Vilas and Forest counties. The group petitioned to halt logging there, noting two-thirds of those stands are more than 80 years old.\nThe Forest Service did not respond to requests for comment. An agency spokesperson told WPR in February that the Fourmile project is being managed in line with the forest’s plan , adding that no timber harvests were planned in areas it defined as old-growth forests.\nAs work on changes to forest plans is ongoing, the agency said it continues to address goals of the Fourmile project, which includes reducing hazardous fuels and increasing the area’s resilience to disease and drought.\nIn June, the Forest Service released an analysis that found wildfires, insects and disease are the leading threat to mature and old-growth forests. The Great Lakes Indian Fish and Wildlife Commission , which represents Ojibwe tribes in Wisconsin, is asking the agency to incorporate Indigenous knowledge and conduct more consultation to consider those threats, as well as the effects of logging.\n“For Tribal communities and economies to thrive, a consistent approach to management of old-growth forest with sufficient distribution, abundance, and ecological integrity (composition, structure, function, connectivity) must guide land management plans,” the commission wrote in comments .\nThe intertribal agency said the Forest Service’s definition of old-growth trees is inadequate, adding the agency should set aside half of each national forest for old-growth stewardship. The ELPC has also asked the agency to include numeric goals for expanding mature and old-growth forests and quantify their climate benefits, as well as the loss of carbon storage due to logging.\nSchienebeck said forests should be managed and harvested because wood products will store carbon, but Olsen said the industry is exaggerating those benefits.\nThe Forest Service will consider comments as it develops a final environmental impact statement on the agency’s proposal, which is set to be completed this winter.\nListen to the WPR report\nEnvironmental groups and industry at odds over plan to conserve old-growth forests was originally published by Wisconsin Public Radio.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://widnr.widen.net/view/pdf/yq9hpvpp9c/statewideEconomicReport2024.pdf?t.download=true&u=pjpyaz",
+      "https://www.fs.usda.gov/project/?project=65086&exp=detail",
+      "https://www.fs.usda.gov/project/?project=51959",
+      "https://www.fs.usda.gov/main/cnnf/landmanagement/planning",
+      "https://www.wpr.org/economy/groups-petition-forest-service-suspend-logging-project-climate-change",
+      "https://sgp.fas.org/crs/misc/R46313.pdf",
+      "https://www.wpr.org/wp-content/uploads/2024/09/WI-CoF-USDA-Old-Growth-Comments-Final.pdf",
+      "https://www.wpr.org/wp-content/uploads/2024/09/DRAFTEcologicalImpactsAnalysisReport.pdf",
+      "https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5117752.pdf",
+      "https://www.fs.usda.gov/sites/default/files/fs_media/fs_document/MOG-threat-analysis.pdf",
+      "https://www.wpr.org/news/environmental-groups-industry-conserve-old-growth-forests",
+      "https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/22/executive-order-on-strengthening-the-nations-forests-communities-and-local-economies/",
+      "https://www.sierraclub.org/press-releases/2024/09/1-million-comments-support-old-growth-protections-national-forests#:~:text=1%20million%20comments%20support%20old%20growth%20protections%20on%20national%20forests,-September%2023%2C%202024&text=WASHINGTON%2C%20D.C.%20%2D%2D%20The%20U.S.,trees%20and%20forests%20from%20logging.",
+      "https://www.wpr.org/wp-content/uploads/2024/09/sierra-club.pdf",
+      "https://www.fs.usda.gov/sites/default/files/fs_media/fs_document/Mature-and-Old-Growth-Forests.pdf",
+      "https://www.wpr.org/wp-content/uploads/2024/09/DEIS-AmendmentsToLMPsToAddressOldGrowthForests.pdf",
+      "https://www.wpr.org/wp-content/uploads/2024/09/Land-Management-Plan-Direction-for-Old-Growth-Forest-Conditions-Across-the-National-Forest-System-02Feb24.pdf.",
+      "https://www.fs.usda.gov/resources/cnnf/landmanagement/resourcemanagement",
+      "https://fs.usda.gov/project/?project=51959",
+      "https://sierraclub.org/press-releases/2024/09/1-million-comments-support-old-growth-protections-national-forests#:~:text=1%20million%20comments%20support%20old%20growth%20protections%20on%20national%20forests,-September%2023%2C%202024&text=WASHINGTON%2C%20D.C.%20%2D%2D%20The%20U.S.,trees%20and%20forests%20from%20logging.",
+      "https://fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5117752.pdf",
+      "https://widnr.widen.net/view/pdf/yq9hpvpp9c/statewideEconomicReport2024.pdf",
+      "https://www.widnr.widen.net/view/pdf/yq9hpvpp9c/statewideEconomicReport2024.pdf?t.download=true&u=pjpyaz",
+      "https://wpr.org/news/environmental-groups-industry-conserve-old-growth-forests",
+      "https://fs.usda.gov/main/cnnf/landmanagement/planning",
+      "https://wpr.org/wp-content/uploads/2024/09/DRAFTEcologicalImpactsAnalysisReport.pdf",
+      "https://whitehouse.gov/briefing-room/presidential-actions/2022/04/22/executive-order-on-strengthening-the-nations-forests-communities-and-local-economies/",
+      "https://fs.usda.gov/sites/default/files/fs_media/fs_document/Mature-and-Old-Growth-Forests.pdf",
+      "https://wpr.org/wp-content/uploads/2024/09/Land-Management-Plan-Direction-for-Old-Growth-Forest-Conditions-Across-the-National-Forest-System-02Feb24.pdf.",
+      "https://wpr.org/wp-content/uploads/2024/09/WI-CoF-USDA-Old-Growth-Comments-Final.pdf",
+      "https://wpr.org/wp-content/uploads/2024/09/DEIS-AmendmentsToLMPsToAddressOldGrowthForests.pdf",
+      "https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/22/executive-order-on-strengthening-the-nations-forests-communities-and-local-economies",
+      "https://wpr.org/wp-content/uploads/2024/09/sierra-club.pdf",
+      "https://fs.usda.gov/resources/cnnf/landmanagement/resourcemanagement",
+      "https://fs.usda.gov/project/?project=65086&exp=detail",
+      "https://www.fs.usda.gov/project/",
+      "https://fs.usda.gov/sites/default/files/fs_media/fs_document/MOG-threat-analysis.pdf",
+      "https://wpr.org/economy/groups-petition-forest-service-suspend-logging-project-climate-change",
+      "https://www.sgp.fas.org/crs/misc/R46313.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T04:24:32.824+03:00",
+    "updated": "2024-10-04T07:17:07.637+03:00"
+  },
+  {
+    "uuid": "182dcab66f4fa51f012e897f6cb7b9474e5709f6",
+    "url": "https://www.wcnc.com/article/entertainment/television/charlotte-today/coping-with-loneliness-during-the-winter-months/275-e68c05d7-3b1b-419a-88b3-0d65db02d09f",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Charlotte Today",
+    "published": "2023-12-28T17:15:00Z",
+    "title": "Coping with loneliness during the winter months | wcnc.com",
+    "text": "CHARLOTTE, N.C. — Loneliness is something many people struggle with, and now that we are in winter it can become even more challenging. It is important during these months to acknowledge and accept your emotions.\nTo shift your perspective and take proactive steps towards coping with loneliness, start with self care! The more love you give yourself the less lonely you will feel.\nF or those who may find it challenging to connect with others, especially during the colder months, Be Proactive! Volunteering, Local Meet Up's, Local Classes, Virtual Meet Up's, and Social Media are all great places to start meeting people and fostering connections.\nDuring this season, redefine expectations, focus on gratitude, and give back. One of the easiest ways to turn a negative feeling like loneliness around is to go do something for someone else and there seems to be an abundance of opportunities that someone else has organized that you can show up for.\nFor more from Kristy, visit kristykuhl.com .\nCharlotte Today is a local lifestyle and entertainment show where you'll learn everything about the Queen City with hosts Mia Atkins and Eugene Robinson on WCNC Charlotte live weekdays at 11 a.m.\nFrom what’s trending to local restaurants, events and entertainment, you’ll find it all on this show.\nCharlotte Today also features sponsored content by local and national businesses. Are you a business interested in advertising with us ? Go to WCNC.com/advertise or call now (214) 977-6001\nIf you have a question for the Charlotte Today team, feel free to email them at\nMake sure to follow Charlotte Today on Facebook , Twitter and Instagram .\n Get to know hosts Mia and Eugene by reading their bio pages and following them on social media.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Health"
+    ],
+    "external_links": [
+      "https://twitter.com/clttodayshow",
+      "http://kristykuhl.com",
+      "https://www.facebook.com/CharlotteToday/",
+      "https://www.instagram.com/clttodayshow/",
+      "https://www.instagram.com/clttodayshow",
+      "https://www.facebook.com/CharlotteToday",
+      "https://facebook.com/CharlotteToday/",
+      "https://instagram.com/clttodayshow/",
+      "https://www.twitter.com/clttodayshow",
+      "http://www.kristykuhl.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kristy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "social media",
+          "sentiment": "none"
+        },
+        {
+          "name": "charlotte today",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "charlotte",
+          "sentiment": "none"
+        },
+        {
+          "name": "n.c.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:47:46.197+02:00",
+    "updated": "2023-12-29T00:47:46.197+02:00"
+  }
+]

@@ -1,0 +1,523 @@
+[
+  {
+    "uuid": "f7b00147ad39899d9b5689b1087582d35f1864de",
+    "url": "https://news.knowledia.com/au/en/articles/how-worried-should-we-be-about-a-bird-flu-pandemic-7b7c4fdc607d4dfa9683d3ef009485fe61fd8b25",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Grace Wade",
+    "published": "2025-01-10T00:16:00Z",
+    "title": "How worried should we be about a bird flu pandemic?",
+    "text": "The first known death from a bird flu virus in the US has sparked fears about another pandemic, yet the overall risk to the general public still remains low Avian influenza has been hitting birds hard in recent years Daniel Acker/Bloomberg via Getty Images\nConcerns are rising about the potential for the H5N1 bird flu virus to cause a…\nGrace Wade",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->public health",
+      "Health->health organisation",
+      "Health->communicable disease",
+      "Science and Technology->medical research",
+      "Science and Technology->biology",
+      "Social Issue->mankind",
+      "Social Issue->social condition",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.newscientist.com/article/2463511-how-worried-should-we-be-about-a-bird-flu-pandemic/",
+      "https://www.newscientist.com/article/2463511-how-worried-should-we-be-about-a-bird-flu-pandemic",
+      "https://newscientist.com/article/2463511-how-worried-should-we-be-about-a-bird-flu-pandemic/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Daniel Acker",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Bloomberg",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:31:55.689+02:00",
+    "updated": "2025-01-10T02:31:55.689+02:00"
+  },
+  {
+    "uuid": "aea2d353e641710eb568e5084afa9a827b0af1ed",
+    "url": "https://www.tudocelular.com/rumores/noticias/n238178/amd-estuda-npu-desktops-acelerar-ia.html",
+    "ord_in_thread": 0,
+    "author": "TudoCelular.com",
+    "published": "2025-07-30T20:36:00Z",
+    "title": "AMD estuda NPU dedicada a desktops para acelerar desempenho de IA",
+    "text": "A AMD avalia o desenvolvimento de uma discreta Unidade de Processamento Neural (NPU) dedicada para computadores pessoais, com o objetivo de ampliar as capacidades de Inteligência Artificial em desktops, conforme informações recentes do setor.\nA fabricante de chips analisa a possibilidade de um componente para acelerar a IA, em modelo similar a uma GPU para jogos, mas projetada para tarefas de Inteligência Artificial em computadores de mesa.\nO chefe da divisão de CPUs para clientes da companhia, Rahul Tikoo, revelou que a empresa monitora o segmento com atenção e estuda a viabilidade do lançamento dessa solução para o consumidor.\nSegundo o executivo, trata-se de um conjunto de aplicações recente, mas a organização já possui alternativas para quem busca ingressar nesse universo. Ele acredita que, dado o alcance de suas tecnologias, um avanço rápido nessa direção seria viável.\n“É um conjunto muito novo de casos de uso, por isso estamos observando esse espaço com cuidado, mas temos soluções se você quiser entrar nesse espaço - nós poderemos. Mas, certamente, se você olhar para a amplitude de nossas tecnologias e soluções, não é difícil imaginar que podemos chegar lá rapidamente.”\nRahul Tikoo\nChefe de negócios de CPU para clientes da AMD\nRecentemente, processadores com motores de IA integrados ganham destaque, em especial nas linhas Strix Point e Strix Halo, além dos componentes móveis Lunar Lake da concorrente Intel.\nO avanço dos chamados 'PCs de IA' impulsionou a busca por maior performance em operações do gênero, medida em trilhões de operações por segundo (TOPS). Contudo, tais inovações se concentram em dispositivos compactos, como notebooks, e carecem de alternativas para desktops tradicionais.\nA estratégia da fabricante de semicondutores para o setor já contempla NPUs integradas em processadores para portáteis, com os motores XDNA, e suporte ampliado a modelos de linguagem de grande porte (LLMs) com até 128 bilhões de parâmetros em seus componentes mais recentes.\nO desenvolvimento da NPU dedicada aos desktops permanece em estágio inicial, sem previsão de lançamento ou detalhes sobre a disponibilidade para o futuro.\nQuais são as suas expectativas para a possível NPU da AMD para desktops? Diga para a gente.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Politics"
+    ],
+    "topics": [
+      "Science and Technology->scientific research",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->biomedical science",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Politics->government policy",
+      "Politics->regulation of industry",
+      "Politics->economic policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:52:36.618+03:00",
+    "updated": "2025-07-31T07:59:12.000+03:00"
+  },
+  {
+    "uuid": "71c0a9125c614b1efd2e2e8a18eff458dedaba39",
+    "url": "https://www.centrepresseaveyron.fr/2025/02/23/le-pape-hospitalise-dans-un-etat-critique-et-sous-oxygene-a-haut-debit-prieres-dans-le-monde-entier-pour-francois-12531463.php",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@cpaveyron",
+    "published": "2025-02-23T20:01:00Z",
+    "title": "Santé du pape : \"Dans un état critique\" et \"sous oxygène à haut débit\", prières dans le monde entier pour François",
+    "text": "Santé du pape : \"Dans un état critique\" et \"sous oxygène à haut débit\", prières dans le monde entier pour François\nL’inquiétude concernant l’état de santé critique du pape François, hospitalisé pour une pneumonie des deux poumons ne cesse de grandir, alors que les prières pour sa convalescence se multiplient dans le monde entier.\nLe pape François, 88 ans, reste dans un \"état critique\" avec une pneumonie des deux poumons et continue de recevoir de l’oxygène à haut débit, a annoncé ce dimanche 23 février en soirée le Vatican, alors que les prières pour sa convalescence se multiplient dans le monde entier.\nMême s’il n’a pas eu une nouvelle crise respiratoire comme samedi, \"la complexité du tableau clinique et l’attente nécessaire pour que les thérapies pharmacologiques fassent effet nécessitent de rester réservé sur le pronostic\", selon le dernier bulletin de santé publié.\nSi son anémie s’est améliorée et sa thrombopénie (baisse du nombre de plaquettes sanguines) est restée stable grâce aux transfusions sanguines samedi, \"certains examens sanguins montrent une insuffisance rénale initiale, légère, actuellement sous contrôle\", ont indiqué les médecins.\nHospitalisé depuis le 14 février\nLe chef de l’Église catholique est hospitalisé depuis le 14 février pour une pneumonie des deux poumons et son état s’est dégradé samedi avec \"une crise asthmatique prolongée qui a nécessité la mise sous oxygène à haut débit\", selon le dernier bulletin de santé, ainsi que des problèmes hématologiques qui ont nécessité \"l’administration d’une transfusion sanguine\".\nLe souverain pontife argentin de 88 ans, pour lequel le diagnostic des médecins était \"réservé\" et son état de santé \"critique\" déjà samedi soir, a voulu cependant envoyer un message rassurant, dans le texte de la prière dominicale de l’Angélus.\n\"Je poursuis avec confiance mon hospitalisation […] en suivant les traitements nécessaires ; et le repos fait aussi partie de la thérapie\", a écrit le pape dans ce texte rédigé ces \"derniers jours\", selon une source vaticane, donc vraisemblablement avant l’aggravation de samedi.\nProchains jours \"déterminants\"\n\"La situation est devenue plus préoccupante\", a déclaré le virologue Fabrizio Pregliasco, cité dimanche par le quotidien La Stampa.\n\"L’âge du Saint-Père, ainsi que les antécédents de santé, comme par exemple la bronchite asthmatique, pourraient avoir compliqué les choses et pas qu’un peu\", précise-t-il.\n\"Il faut espérer que la thérapie antibiotique fonctionne pour éviter le risque d’une septicémie […] qui peut avoir une issue fatale. Le pape est certainement entre de bonnes mains mais les prochaines heures et les prochains jours seront déterminants\", estime l’expert\nPrières dans le monde entier\nDe nombreuses prières pour sa santé ont été organisées un peu partout à Rome, en Italie et dans le monde.\nUne douzaine d’églises dans la région de Mossoul, dans le nord de l’Irak, ont célébré des messes pour sa santé.\nLe pape a toujours \"soutenu le peuple irakien et le moins qu’on puisse faire c’est exprimer notre solidarité, notre amour\", a déclaré Adnan Hadi, un professeur universitaire.\n\"Il est fort, il a toujours été fort, mais il y a la nature. Je sais qu’il est très malade et l’âge. J’espère qu’il se rétablira, mais ça me fait de la peine\", a déclaré, devant la cathédrale de Buenos Aires, Héctor Armando Díaz, un retraité de 76 ans, évoquant son compatriote, premier pape latino-américain.\nLa présidente du Mexique, Claudia Sheinbaum, a souhaité samedi soir sur X \"un prompt rétablissement au pape François, grand humaniste qui a choisi les plus pauvres et la promotion de la fraternité entre les peuples et entre les nations\".\nD’autres responsables religieux et politiques ont dit prier pour le pape, dont le président américain Donald Trump qui \"est informé\" de la situation, a fait savoir la Maison Blanche.\nDepuis samedi soir les internautes ont aussi posté des centaines de messages disant prier pour François, beaucoup mettant une photo de l’évêque de Rome seul sur la place Saint-Pierre lors de la pandémie de Covid-19.\nQuatrième hospitalisation depuis 2021\nFrançois a été hospitalisé pour une bronchite, mais le Saint-Siège a révélé mardi qu’il avait développé une pneumonie des deux poumons.\nCette hospitalisation, la quatrième depuis 2021, suscite de vives inquiétudes alors que le pape a déjà été affaibli par une série de problèmes ces dernières années, allant d’opérations du côlon et de l’abdomen à des difficultés à marcher.\nL’hospitalisation du pape, à la fois chef spirituel du 1,4 milliard de catholiques et chef de l’État de la Cité du Vatican, a relancé les interrogations autour de sa capacité à assurer sa charge, alors que le droit canonique ne prévoit aucune disposition en cas de problème grave qui altérerait sa lucidité.\nPape François : le Vatican qualifie son état de santé de \"critique\" pour la première fois, ce que l’on sait\nMort du pape annoncée sur les réseaux sociaux : quel est le bilan de santé du souverain pontife hospitalisé pour la quatrième fois depuis 2021 ?\nLe Pape François hospitalisé : virus, bactéries… Qu’est-ce l’infection respiratoire polymicrobienne dont souffre le souverain pontife ?\nHospitalisé pour une \"bronchite\", le pape François souffre d’une infection respiratoire : ses déplacements annulés ces prochains jours\n\"Moi avec ma bronchite je ne peux pas\", de plus en plus affaibli, l’état de santé du pape François soulève des inquiétudes\n\"Il m’est difficile de parler\", très enrhumé, tombé et blessé deux fois en décembre et janvier, doit-on s’inquiéter pour la santé du pape François ?",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "topics": [
+      "Health->medical condition",
+      "Human Interest->funeral and memorial service",
+      "Religion and Belief->religious leader",
+      "Religion and Belief->christianity"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-23T23:02:03.368+02:00",
+    "updated": "2025-02-23T23:02:03.368+02:00"
+  },
+  {
+    "uuid": "0195b952f185db5fd7fa8d2966e7a99093e1bd1f",
+    "url": "https://shane76ere.pages10.com/facts-about-online-courses-revealed-59777931",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Shane",
+    "published": "2023-12-28T18:16:00Z",
+    "title": "Facts About Online Courses Revealed",
+    "text": "In the era of digital advancement, online courses have become a cornerstone of modern education, offering learners the flexibility to acquire new skills and knowledge at their own pace and convenience. The evolution of technology has given rise to a vast array of online learning platforms, revolutionizing traditional education models. This article explores the transformative power of online courses, examining their benefits, challenges, and the profound impact they have on shaping the future of learning.\nAccessibility and Flexibility:\nOne of the primary advantages of online courses is the unprecedented level of accessibility they provide. Learners from around the world can access high-quality educational content without the constraints of geographical boundaries. Whether pursuing a degree, gaining a professional certification, or simply exploring a new hobby, online courses cater to a diverse range of learners, from full-time students to working professionals seeking to enhance their skills.\nThe flexibility inherent in online courses is a game-changer. Learners can create personalized schedules, allowing them to balance education with work, family, or other commitments. This adaptability not only accommodates a variety of lifestyles but also eliminates the need for a physical classroom, enabling individuals to learn from the comfort of their homes or on the go.\nDiverse Learning Modalities:\nOnline courses leverage a variety of multimedia elements, including video lectures, interactive quizzes, forums, and virtual simulations, providing a dynamic and engaging learning experience. This diverse range of learning modalities caters to different learning styles, ensuring that learners can absorb information in a way that suits their preferences.\nMoreover, online courses often incorporate real-world applications and case studies, bridging the gap between theoretical knowledge and practical skills. This emphasis on practicality enhances the relevance of the learning material, making it more applicable to professional settings.\nGlobal Community and Networking Opportunities:\nOnline courses foster a global community of learners who can connect and collaborate across borders. Discussion forums, virtual study groups, and collaborative projects provide opportunities for students to share insights, discuss ideas, and form meaningful\nthis site connections. This global network not only enriches the learning experience but also opens doors to international perspectives and diverse cultural insights.\nNetworking opportunities within online courses extend beyond fellow students. Many platforms offer forums, webinars, and events where learners can engage with industry experts, instructors, and professionals. This networking aspect enhances the value of online courses by providing access to a broad professional community.\nChallenges and Solutions:\nWhile online courses offer numerous advantages, they are not without challenges. Some learners may struggle with self-discipline, finding it challenging to stay motivated without the structure of a traditional classroom. Additionally, technical issues, such as internet connectivity problems or platform glitches, can hinder the learning experience.\nTo address these challenges, online course providers often integrate features like progress tracking, reminders, and interactive elements to keep learners engaged. Support services, including online forums, dedicated help desks, and peer support, contribute to a sense of community and aid in overcoming obstacles.\nConclusion:\nOnline courses have emerged as a transformative force in education, breaking down barriers to learning and democratizing access to knowledge. The flexibility, diverse learning modalities, and global networking opportunities inherent in online courses position them as a powerful tool for personal and professional development. As technology continues to evolve, online courses are poised to play an increasingly pivotal role in shaping the future of education, empowering learners to navigate the digital classroom with confidence and enthusiasm.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Education"
+    ],
+    "external_links": [
+      "https://youtu.be/ysDB-cur7S8",
+      "https://www.youtu.be/ysDB-cur7S8"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:24:46.976+02:00",
+    "updated": "2023-12-29T01:24:46.976+02:00"
+  },
+  {
+    "uuid": "802a907e3dcecd81a0d4c8c28f82bfee49d80dc3",
+    "url": "https://www.lasprovincias.es/sociedad/salud/vida-sana/ingrediente-recomendado-diabeticos-ayuda-controlar-azucar-20241106011502-nt.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tamara Villena",
+    "published": "2024-11-07T23:15:00Z",
+    "title": "El ingrediente recomendado para diabéticos que ayuda a controlar el azúcar",
+    "text": "Secciones\nServicios\nDestacamos\nValencia\nNecesitas ser suscriptor para acceder a esta funcionalidad.\nViernes, 8 de noviembre 2024, 01:15\nNecesitas ser suscriptor para acceder a esta funcionalidad.\nLas[ personas diabéticas ](/sociedad/mundo-viral/nutricionista-laura-jorge-explica-provocan-ozempic-saxenda-perder-peso-efectos-20241026151634-nt.html)saben bien lo que es tener que vivir pendientes de lo que comen y de los niveles de azúcar que van teniendo a lo largo del día. Son muchas las personas que padecen diabetes en España, entre el 5 y el 10% de la población general, según datos del Ministerio de Sanidad. Esta enfermedad se produce por una[ alteración del metabolismo](/sociedad/cambio-hora-dormir-noche-20241028112017-nt.html) en la que hay un aumento de la cantidad de glucosa en la sangre y que puede derivar en complicaciones microvasculares y cardiovasculares que incrementan sustancialmente los daños en otros órganos.\nLa cifra de glucosa en sangre se considera normal cuando es menor de 110 mg/dl, por lo que es necesario mantener unos niveles estables en estas cifras para evitar problemas de salud tanto si bajan como si suben. Aunque hay muchos tipos de diabetes, todas las personas diabéticas tienen que seguir una[ alimentación cuidada ](/sociedad/salud/vida-sana/alimento-saciante-altamente-energetico-ayuda-mejorar-microbiota-20241029014038-nt.html)en la que se tomen alimentos que ayuden a evitar picos de glucosa en sangre, para lo cual por ejemplo son muy recomendables los que tienen fibra.\nPero entre los alimentos que también conviene ingerir para los diabéticos también se encuentran aquellos con antocianinas aciladas, como los rábanos. Este grupo de pigmentos vegetales, presentes en verduras y frutas, recorren nuestro organismo desde el tracto gastrointestinal superior hasta el colon, donde son metabolizadas por la microbiota intestinal.\nSegún una investigación publicada en la revista científica 'Journal of Agricultural and Food Chemistry', las antocianinas aciladas presentes principalmente en tubérculos morados el rábano tienen propiedades que reducen el riesgo de diabetes tipo 2 al afectar al metabolismo energético, la microbiota intestinal y la inflamación, además de propiedades probióticas.\nNoticia relacionada\nDesde el Ministerio de Sanidad, recuerdan que para los diabéticos, un plan de alimentación va más allá de lo que entendemos por una dieta. «Debe ser un proyecto individualizado a las necesidades de cada persona, sus preferencias y debe contemplar objetivos relacionados con la consecución de un peso óptimo, situación laboral, disponibilidades etc». Además, es recomendable también seguir un plan de deporte adaptado a las necesidades de cada caso, al igual que la medicación pertinente establecida por el médico.\nNo obstante, desde el Ministerio también recalcan que una parte fundamental del tratamiento de la diabetes son los controles periódicos, no sólo en relación con la realización de pruebas analíticas que permitan afirmar o modificar el resto del tratamiento sino las relacionadas con la detección precoz de complicaciones de la enfermedad.\nPublicidad\nPublicidad\nTe puede interesar\n<a href=\"https://www.eldiariomontanes.es/region/trasmiera/anos-puente-20241105204330-ga.html#vca=voc-recirc&vso=lasprovincias\">\nUn puente con casi medio siglo\n</a>\nEl Diario Montañés\nPublicidad\nPublicidad\nReporta un error en esta noticia",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.eldiariomontanes.es/region/trasmiera/anos-puente-20241105204330-ga.html#vca=voc-recirc&vso=lasprovincias",
+      "https://eldiariomontanes.es/region/trasmiera/anos-puente-20241105204330-ga.html#vca=voc-recirc&vso=lasprovincias"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Ministerio de Sanidad",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T02:34:13.192+02:00",
+    "updated": "2024-11-08T02:34:13.192+02:00"
+  },
+  {
+    "uuid": "6f9cca6a0bd5d331d8e11918c473a81cc7e26062",
+    "url": "https://www.francetvinfo.fr/faits-divers/les-deux-alpes-la-crs-alpes-retrouve-une-irlandaise-de-19-ans-miraculee-alors-qu-elle-s-etait-perdue-en-short-et-t-shirt-en-pleine-montagne_6280857.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "France Info",
+    "published": "2024-01-03T21:53:00Z",
+    "title": "Les Deux Alpes : la CRS Alpes retrouve une Irlandaise de 19 ans \"miraculée\", alors qu'elle s'était perdue en short et t-shirt en pleine montagne",
+    "text": "Une Irlandaise de 19 ans a été localisée par la CRS Alpes à 7 heures du matin mercredi 3 janvier, après avoir erré près de 3 heures en short et t-shirt dans le massif de l'Oisans, perdue à sa sortie d'une boîte de nuit de la station les Deux Alpes, rapporte France Bleu Isère mercredi soir. Elle s'en est sortie avec une légère hypothermie, \"miraculée\" , selon le Commandant qui dirige la CRS Alpes. Il appelle les jeunes fêtards à la prudence dans ce secteur.\nà lire aussi Haute-Savoie : interpellation en Suisse du détenu de 17 ans qui s'était évadé la veille de Noël Vers 4 heures du matin mercredi, cette jeune touriste irlandaise a quitté la boîte de nuit où elle avait passé la soirée. Ivre et simplement vêtue d'un t-shirt et d'un short, sur le chemin du retour, elle s'est égarée dans la forêt de la combe de Venosc, en pleine montagne.\nMalgré un taux d’alcool important selon les secours, elle a pu composer le numéro d'urgence, le 112, avec son portable, sans réussir à donner sa position, ni son numéro de portable. Au bout du fil, les secouristes n'ont pas pu identifier son numéro, puisqu'il s'agit d'un numéro étranger. La jeune femme a alors contacté son père, qui a rappelé la CRS Alpes pour leur donner le numéro de sa fille. Les secouristes ont ainsi pu lui envoyer un SMS avec le système de géolocalisation GendLoc, qu'elle a pu activer. Elle a finalement été localisée à 7 heures du matin.\n\"Une miraculée\" \"Quand nous l'avons récupérée, elle souffrait de quelques contusions, car elle avait dû tomber en tentant de retrouver son chemin et elle souffrait d'une légère hypothermie\" , explique le Commandant Ludovic Saint Bonnet, qui dirige le CRS Alpes. \"On peut dire que c'est une miraculée, car seule, si peu vêtue, elle n'aurait pas pu résister longtemps au froid\" , ajoute le Commandant.\n\"Cela a été un vrai soulagement quand les équipes l'ont retrouvée\" , ajoute le Commandant Saint Bonnet. Il rappelle que des personnes sont déjà \"décédées\" suite à une \"alcoolisation excessive et à une errance dans cette partie du massif\" , la combe de Venosc. Il appelle donc à la prévention chez les jeunes et à la prudence : \"Ce n'est pas parce qu'on sort en boîte de nuit qu'il faut oublier de s'habiller en adéquation avec le milieu dans lequel on évolue\" .\nLa jeune femme a été transportée par hélicoptère aux Urgences du CHU de Grenoble, mais ses jours ne sont pas en danger.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.francebleu.fr/infos/insolite/en-short-et-en-t-shirt-une-jeune-irlandaise-sauvee-in-extremis-par-la-crs-alpes-dans-le-massif-de-l-oisans-3243815",
+      "https://francebleu.fr/infos/insolite/en-short-et-en-t-shirt-une-jeune-irlandaise-sauvee-in-extremis-par-la-crs-alpes-dans-le-massif-de-l-oisans-3243815"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-04T00:20:24.333+02:00",
+    "updated": "2024-01-04T00:20:24.333+02:00"
+  },
+  {
+    "uuid": "9251f2834854b0d9a8f850ab49c31f58b001c5b5",
+    "url": "https://www.newsbreak.com/detroit-mi/3279882052243-ndamukong-suh-takes-shot-at-cowboys-while-hyping-lions",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2023-12-28T21:50:00Z",
+    "title": "Ndamukong Suh takes shot at Cowboys while hyping Lions",
+    "text": "When I started covering the Lions in 2014, I talked a lot about Ndamukong Suh. It was hard not to. He was in the final year of his contract and everyone wanted to know what his next move was going to be. Eventually that move was to leave the Lions and head to Miami. I thought I was done talking about him. Then 2023 rolled around. Here I am talking about him again for the fourth time this season. This time it's pretty fun because it's not about whether or not he's going to sign with the Lions this year. That question has been answered for sure. This time it's to remember the first playoff game I ever covered. You might remember that one. It actually might be one you try to forget. The Lions lost after a controversial picked up flag wiped out a pass interference call that would have allowed the Lions to potentially widen the gap on the scoreboard. Suh is still upset about that. He took some shots at the Cowboys on Instagram on Thursday. You might remember, again I know you're trying not to, that Suh was pretty distraught after that loss. He openly wept out of frustration in front of the media and you really can't blame him. I'm sure a lot of people wept that night. In this moment I do kind of wish he could play in this game. It's about time for some revenge.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Politics",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://atozsports.com/detroit/report-ndamukong-suh-reached-out-to-lions-and-was-shut-down/",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1rcemC_0qStLCgt00",
+      "https://img.particlenews.com/image.php?url=1rcemC_0qStLCgt00",
+      "https://atozsports.com/detroit/report-ndamukong-suh-reached-out-to-lions-and-was-shut-down",
+      "https://www.atozsports.com/detroit/report-ndamukong-suh-reached-out-to-lions-and-was-shut-down/",
+      "https://img.particlenews.com/image.php",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1rcemC_0qStLCgt00",
+      "https://www.img.particlenews.com/image.php?url=1rcemC_0qStLCgt00"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ndamukong suh",
+          "sentiment": "negative"
+        },
+        {
+          "name": "suh",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "lions",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cowboys",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "miami",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:45:31.773+02:00",
+    "updated": "2023-12-29T00:45:31.773+02:00"
+  },
+  {
+    "uuid": "5832205494ee9aabccd72cb25db61c96bfbec426",
+    "url": "https://petapixel.com/2025/04/02/falcams-move-lightgo-takes-the-hassle-out-of-adjusting-lights-on-set",
+    "ord_in_thread": 0,
+    "author": "Kate Garibaldi",
+    "published": "2025-04-02T21:12:00Z",
+    "title": "Falcam's Move LightGo Takes the Hassle Out of Adjusting Lights on Set | PetaPixel",
+    "text": "Falcam’s Move LightGo Takes the Hassle Out of Adjusting Lights on Set\nLighting enthusiasts are in for a treat as Falcam announced a remote-controlled, motorized gimbal-like light control system.\nThe Falcam Move LightGo promises to revolutionize light control by allowing photographers and film crews to adjust a light’s position remotely.\nLike a gimbal for a camera, the innovative LightGo enables smooth, hands-free, and efficient lighting control. The motorized unit features dual access movement with a pan of 450 degrees and a tilt of 170 degrees for precision lighting. Falcam shared that the Move LightGo’s design even enables more tilt than traditional light modifiers.\n“Traditional lighting setups often struggle to achieve a 170-degree tilt adjustment when using various light modifiers. However, the Move LightGo extends the tilt axis forward, effectively minimizing interference between modifiers and the light stand,” Falcam explains.\nFalcam says the LightGo features “95% Bowens Mount systems compatibility.” The unit can accommodate many lights weighing up to approximately 13 pounds (six kilograms). The LightGo itself weighs 3.7 pounds (1.7 kilograms).\nThe unit can be operated via Bluetooth using an app, wired, or wireless remote control options. The wireless remote uses a 2.4G connection and has a range of 98 feet (30 meters). With the app, users will have a range of 32 feet (10 meters).\nThe Falcam Move LightGo also features a scene preset system for quick adjustments. Users can assign unique numbers to multiple LightGo units to save and recall preset light positions.\nLightGo’s supercapacitor design will retain power for a short period of time after shutdown, allowing users to reset its position safely. The LightGo also utilizes a self-locking mechanism for storage. Once fully powered down, the unit will not move. This also promises to protect the unit’s electronic components from surges or voltage fluctuations. Additionally, the lithium-free design means that the light go meets many transport regulations for the on-the-go photographers and filmmakers.\nFor power, the LightGo has multiple options. The base model uses AC power input with a Type-C connection cable included. However, it also supports a V-mount battery or power bank attachment.\nThe design of the light go is expandable; it is equipped with both screw holes and Arri locating holes for mounting accessories. There is also a port reserved for future DMX integration.\nPricing and Availability\nThe Falcam Move LightGo is available now for $250.\nImage credits: Falcam",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->biomedical science",
+      "Science and Technology->technology and engineering",
+      "Lifestyle and Leisure->hobby",
+      "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://falcamstore.com/products/move-lightgo-bowens-mount-portable-version-m-mv0a4a02#productDetails",
+      "https://www.falcamstore.com/products/move-lightgo-bowens-mount-portable-version-m-mv0a4a02#productDetails"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Arri",
+          "sentiment": "positive"
+        },
+        {
+          "name": "LightGo",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "The Falcam Move LightGo",
+          "sentiment": "positive",
+          "tickers": []
+        },
+        {
+          "name": "AC",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Bowens Mount",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:04:01.806+03:00",
+    "updated": "2025-04-03T02:04:01.806+03:00"
+  },
+  {
+    "uuid": "8a0374196e5fdd92f13ee362af542bb1f29d1160",
+    "url": "https://www.hortolandia.sp.gov.br/emprego-e-renda/pat-de-hortolandia-divulga-vagas-de-emprego-na-industria",
+    "ord_in_thread": 0,
+    "author": "Márcio Furuno",
+    "published": "2025-08-07T19:29:00Z",
+    "title": "PAT de Hortolândia divulga vagas de emprego na indústria",
+    "text": "Órgão da Prefeitura está com oito vagas disponíveis, das quais duas para soldador e duas para auxiliar de linha de produção\nPara quem busca trabalho na indústria, o PAT (Posto de Atendimento ao Trabalhador), órgão da Prefeitura de Hortolândia, tem oportunidades na área. Estão disponíveis um total de oito vagas. Destas, há duas vagas para soldador, e duas para auxiliar de linha de produção. Há ainda vagas para recepcionista, auxiliar de limpeza e atendente/balconista de farmácia (veja tabela abaixo) .\nQuem se interessou por alguma das vagas, pode candidatar-se de forma on-line no portal Emprega Brasil (CLIQUE AQUI ), do governo federal.\nQuem preferir, pode candidatar-se presencialmente no PAT, que fica no piso térreo do Paço Municipal, sede da Prefeitura. O paço está localizado na rua Professora Celina Franceschini Bueno, 100 , Jardim Metropolitan. O órgão funciona de segunda a sexta-feira, das 8h às 16h30.\nPara candidatar-se às vagas de forma presencial, os interessados devem apresentar Carteira de Identidade (RG), CPF (Cadastro de Pessoa Física) e Carteira de Trabalho e Previdência Social (CTPS) nos formatos físico (em papel) ou digital. Currículo e comprovante de residência são documentos opcionais, e cuja apresentação não é obrigatória.\nO PAT de Hortolândia reforça que as vagas ficam disponíveis até as datas limites, ou até os limites de candidatos estabelecidos pelos empregadores forem atingidos.\nFEIRÃO\nA Prefeitura de Hortolândia também ofereceu mais oportunidades de trabalho na 1ª edição do Feirão de Empregos , realizada neste mês. O município deve realizar outra edição ainda este ano.\nConfira abaixo os requisitos, valores dos salários, locais de trabalho e as datas limites das oito vagas de emprego divulgadas pelo PAT de Hortolândia:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor",
+      "Human Interest"
+    ],
+    "topics": [
+      "Economy, Business and Finance->human resources",
+      "Economy, Business and Finance->business reporting and performance",
+      "Labor->employment"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://empregabrasil.mte.gov.br/",
+      "https://maps.app.goo.gl/7pWLWcCU4ef2exrSA",
+      "https://www.empregabrasil.mte.gov.br/",
+      "https://empregabrasil.mte.gov.br",
+      "https://www.maps.app.goo.gl/7pWLWcCU4ef2exrSA"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": "gov_news",
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-08T08:26:57.741+03:00",
+    "updated": "2025-08-08T08:31:21.000+03:00"
+  },
+  {
+    "uuid": "a12fa93e1235a5066b9b5439c00583336a369bf0",
+    "url": "https://economictimes.indiatimes.com/news/international/us/as-rations-become-strained-astronauts-butch-wilmore-and-sunita-williams-stranded-on-iss-are-surviving-on-soup-made-from-their-own-wastes/articleshow/115570962.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "-",
+    "published": "2024-11-22T12:19:00Z",
+    "title": "SpaceX rescue mission 2025: As rations become strained, astronauts Butch Wilmore and Sunita Williams stranded on ISS are surviving on soup made from their own wastes - The Economic Times",
+    "text": "On the ISS, astronauts are subsisting on soup prepared from their own urine. As rations get tight, NASA astronauts Butch Wilmore and Sunita Williams, who have been trapped in space since June, are subsisting on recycled pee soup; however, their rescue mission isn't scheduled until 2025, as quoted in a report by the Daily Star.After surviving on soup made from their recycled urine, the astronauts who became stranded on the International Space Station have raised concerns about weight loss.When they departed in June, Butch Wilmore, 61, and Sunita Williams, 59, were only expected to be in space for eight days. However, they were left stranded when the Boeing Starliner aircraft that was meant to return them to Earth experienced thruster problems and helium leaks, making a manned return journey too risky.Also Read: Pic of Big Mac: Are Melania Trump and RFK Jr. ganging up to improve Donald Trump's diet? Here's what a source saysUntil February 2025, when a SpaceX Dragon craft is scheduled to rescue them, the astronauts will have to remain on the space station, which is 254 miles above Earth.Food supplies have been strained by the unforeseen extended stay. They began by enjoying pizza, roast chicken, prawn cocktails and fresh fruit and vegetables. However, they are now mostly consuming dehydrated casseroles, freeze-dried soup made with water from the station's 530-gallon tank, and breakfast cereal with powdered milk.To ensure there is as little waste as possible, the ISS recycles the astronauts' sweat and urine into fresh water.NASA physicians closely monitor the pair's diet to make sure they get enough calories to maintain their health throughout the lengthy mission. Both astronauts appear to have visibly lost weight, with Sunita stating that her gaunt appearance is due to the impact of microgravity during a long space stay rather than her diet.Also Read: Claire Grimes Boucher, Elon Musk's ex-partner and mother of his three children, says the SpaceX CEO is no longer the man she fell in love withNASA officials monitor the duo's food supplies and health 24/7, stocking approximately 3.8 lb of food per astronaut daily with reserves to cover unexpected stay extensions. The astronauts prepare their own meals on magnetised trays using metal utensils to prevent items from floating away in microgravity. NASA specialists claim that any weight loss is not due to a lack of provisions on the ISS, as there is plenty of food even for an extended mission.FAQs:Why are the astronauts stranded on the ISS till 2025?They were left stranded after their return craft, the Boeing Starliner, experienced technical failures such as helium leaks and thruster malfunctions, rendering a manned return impossible until a SpaceX rescue mission in 2025.Are the astronauts at risk of starvation?No, NASA has provided adequate food supplies on the ISS. While fresh supplies are limited, astronauts eat freeze-dried meals and drink recycled water, and their nutrition is monitored to ensure their health throughout their extended mission.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T17:04:13.887+02:00",
+    "updated": "2024-11-22T18:30:23.313+02:00"
+  }
+]

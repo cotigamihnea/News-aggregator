@@ -1,0 +1,508 @@
+[
+  {
+    "uuid": "6ac56dd505ff00e1dfa52293adb44ac298584e34",
+    "url": "https://www.montereyherald.com/2024/07/18/beaches-in-the-south-bay-area-score-high-grades-in-summer-says-heal-the-bays-2024-report",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Christina Merino",
+    "published": "2024-07-18T00:00:00Z",
+    "title": "Beaches in the Monterey County score high grades in summer, says Heal the Bay’s 2024 report – Monterey Herald",
+    "text": "Beaches in Monterey County scored high in water quality during the summer, according to this year’s edition of Heal the Bay’s 34th annual “ Beach Report Card ,” which was released on Wednesday. Heal the Bay , a Santa Monica-based environment nonprofit, releases the annual report that examines the amount of pollution at beaches along the West Coast to help keep people safe when visiting the beach. The “Beach Report Card” utilizes an A-to-F grading system to communicate water quality to the public. While A or B grades indicate good water quality for recreational use, C to F grades mean increased health risks, according to the report. The grades are split into three seasonal categories, including summer dry, wet weather and winter dry. “I’m excited to announce that once again, during the summer when most people are in the water, 90% of our West Coast beaches were safe to swim in 2023,” said Heal the Bay President and CEO Tracy Quinn at a press conference on Wednesday. This year’s report graded more than 500 beaches in California. Monterey County’s beaches received all A’s for Summer Dry grades, which is better than average according to the report. Wet Weather Grades were also above average with county beaches getting A and B grades. Heal the Bay’s scores saw a drop during the winter dry and wet weather periods coastal counties, because California received 31% more rainfall than the 10-year average during the winter. The report said Monterey County does not monitor its beaches in winter months so no Winter Dry Grades were generated. “L.A. County received 23 inches of rain, and while we celebrate rain here in Southern California, our highly developed landscape turned rain into polluted urban runoff,” said Annelisa Moe, associate director of science and policy and water quality at Heal the Bay. “This unfortunately led to particularly poor grades this year during our winter season.” Sewage spills and inadequate infrastructure is also an issue for water quality at beaches, Moe said. Monterey County’s 36 spills sent 2,986 gallons of sewage into waterways across the county. Los Angeles County saw 185 sewage spills totaling approximately 9 million gallons, a stark increase from the 330,396 gallons reported the previous year, according to the report. In February, about 8 million gallons of raw waste entered the Dominguez Channel, subsequently affecting Cabrillo Beach and necessitating beach closures . The report is available at healthebay.org . The Monterey Herald contributed to this report.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "http://healthebay.org",
+      "https://www.presstelegram.com/2024/07/17/heal-the-bays-2024-beach-report-card-highlights-link-between-rain-ocean-health/",
+      "https://healthebay.org",
+      "https://www.dailybreeze.com/2024/02/05/1-million-gallon-sewage-spill-closes-san-pedros-cabrillo-beach/",
+      "https://www.healthebay.org",
+      "http://www.healthebay.org",
+      "https://www.presstelegram.com/2024/07/17/heal-the-bays-2024-beach-report-card-highlights-link-between-rain-ocean-health",
+      "https://presstelegram.com/2024/07/17/heal-the-bays-2024-beach-report-card-highlights-link-between-rain-ocean-health/",
+      "https://dailybreeze.com/2024/02/05/1-million-gallon-sewage-spill-closes-san-pedros-cabrillo-beach/",
+      "https://www.dailybreeze.com/2024/02/05/1-million-gallon-sewage-spill-closes-san-pedros-cabrillo-beach"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "tracy quinn",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "monterey herald beaches",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "monterey county",
+          "sentiment": "none"
+        },
+        {
+          "name": "bay",
+          "sentiment": "none"
+        },
+        {
+          "name": "santa monica",
+          "sentiment": "none"
+        },
+        {
+          "name": "west coast",
+          "sentiment": "none"
+        },
+        {
+          "name": "california",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-19T01:54:22.733+03:00",
+    "updated": "2024-07-19T01:54:22.733+03:00"
+  },
+  {
+    "uuid": "1f9d5b5671ef7ca29915153b52ad9d514b1a1cfa",
+    "url": "https://www.geopop.it/lfbi-mette-in-guardia-contro-luso-degli-sms-nellautenticazione-a-due-fattori",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Giuseppe Servidio",
+    "published": "2025-01-10T05:00:00Z",
+    "title": "L'FBI mette in guardia contro l'uso degli SMS nell'autenticazione a due fattori",
+    "text": "Negli ultimi anni, l’autenticazione a due fattori o 2FA è diventata uno strumento essenziale per proteggere i propri account online, aggiungendo un livello di sicurezza aggiuntivo rispetto alla semplice combinazione di username e password. Tuttavia, non tutti i metodi di 2FA sono ugualmente sicuri, e l’[FBI](https://www.geopop.it/fbi-e-cia-cosa-fanno-e-in-cosa-differiscono-le-2-maggiori-agenzie-di-intelligence-degli-usa/) (Federal Bureau of Investigation) ha recentemente emesso un avvertimento significativo: smettere di utilizzare gli [SMS](https://www.geopop.it/il-primo-sms-della-storia-diceva-merry-christmas-e-fu-inviato-nel-1992-da-un-computer/) come mezzo di verifica, in quanto giudicati poco sicuri. Questa raccomandazione arriva dopo una delle più gravi violazioni di sicurezza nella storia degli Stati Uniti, attribuita al gruppo Salt Typhoon, presunto “braccio operativo” del governo cinese, che ha dimostrato quanto siano vulnerabili le reti di telecomunicazione e ha sollevato preoccupazioni globali sulla sicurezza dei dati. Anche la CISA (Cybersecurity and Infrastructure Security Agency), sconsiglia l'uso degli SMS come strumento di verifica, giudicandolo come «non resistente al phishing». Molto meglio optare per soluzioni più sicure, come app di autenticazione, chiavi di sicurezza FIDO o sistemi di passkey, pensati per resistere anche agli attacchi più sofisticati.\nIl problema degli SMS secondo l'FBI e la minaccia degli attacchi phishing\nL’autenticazione a due fattori tramite SMS prevede l’invio di un codice temporaneo via messaggio di testo al numero di telefono dell’utente. Questo metodo, pur essendo indubbiamente molto pratico, presenta vulnerabilità significative. I messaggi di testo non sono crittografati, il che significa che possono essere intercettati da attori malintenzionati con accesso alle reti di telecomunicazione.\nSecondo Yashin Manraj, esperto di sicurezza informatica, il rischio principale non risiede solo nell’intercettazione dei codici, ma anche nella facilità con cui gli utenti cadono vittime di attacchi di [phishing](https://www.geopop.it/la-truffa-delle-email-cose-il-phishing-e-come-evitarlo/). Al sito NewsNation ha infatti [dichiarato](https://www.newsnationnow.com/business/tech/fbi-warns-against-using-two-factor-text-authentication/):\nIn termini di SMS, la preoccupazione più grande non è l'autenticazione a due fattori, ma il fatto che le persone cliccano su molti link. Credo che il 60-70% degli hack attivi e riusciti sia dovuto al fatto che le persone sono state in grado di inviare link di phishing che fondamentalmente sono in grado di dirottare le informazioni dell'utente, le informazioni bancarie o l'accesso a infrastrutture più critiche.\nAlternative più sicure alla 2FA via SMS\nPer migliorare la sicurezza, il CISA consiglia di adottare alternative più robuste alla 2FA via SMS. Le app di autenticazione, come Google Authenticator o Microsoft Authenticator, generano codici temporanei direttamente sul dispositivo dell’utente, rendendoli inaccessibili a chiunque non abbia accesso fisico al dispositivo. Un’altra opzione affidabile è rappresentata dall’autenticazione basata su FIDO (Fast IDentity Online), che utilizza chiavi di sicurezza fisiche o tecnologie biometriche per verificare l’identità dell’utente.\nUn altro sistema sicuro è rappresentato dalle sempre più diffuse passkey, che eliminano del tutto la necessità di password “tradizionali”, che basano il loro funzionamento su standard di crittografia avanzati e l'uso dei dati biometrici salvati sul dispositivo, rendendo praticamente impossibile l’accesso non autorizzato agli account, anche in caso di phishing.\nBuone pratiche per proteggere i vostri account\nOltre a scegliere metodi di autenticazione sicuri, il CISA suggerisce alcune fondamentali buone pratiche per proteggere dispositivi e dati personali.\n- Mantenete aggiornati i vostri smartphone e computer con gli ultimi aggiornamenti di sicurezza disponibili.\n- Abilitate la protezione tramite PIN per le SIM e utilizzate password complesse.\n- Usate un gestore di password per creare e memorizzare credenziali uniche e complesse per ogni account, evitando l’uso di combinazioni prevedibili o riutilizzate.\n[non perderti questo articolo ](https://www.geopop.it/e-vero-che-cambiare-spesso-le-password-aumenta-la-sicurezza-informatica-no-secondo-gli-esperti/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->social sciences",
+      "Science and Technology->information technology and computer science",
+      "Human Interest->record and achievement",
+      "Social Issue->social problem",
+      "Social Issue->discrimination"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.newsnationnow.com/business/tech/fbi-warns-against-using-two-factor-text-authentication/",
+      "https://www.newsnationnow.com/business/tech/fbi-warns-against-using-two-factor-text-authentication",
+      "https://newsnationnow.com/business/tech/fbi-warns-against-using-two-factor-text-authentication/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T11:15:24.006+02:00",
+    "updated": "2025-01-10T11:15:24.006+02:00"
+  },
+  {
+    "uuid": "44ac35a9720ddd503eb71c0ba412304b9832a8a9",
+    "url": "https://www.archyde.com/military-tried-to-take-over-the-authorities-headquarters-el-financiero",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archyde",
+    "published": "2024-06-27T21:19:00Z",
+    "title": "Military tried to take over the Authorities headquarters – El Financiero",
+    "text": "A tank knocked down the doorways of the Bolivian Government headquarters and entered at 3:51 p.m. this Wednesday, June 26, this after Juan José Zúñiga, common commander of the Bolivian Military, threatened to take the Authorities headquarters and alter The gabinet.\nThe assault was reported on X (previously Twitter) by Evo Morales, former president of Bolivia, who mentioned {that a} group of snipers took over Plaza Murillo in La Paz.\n“This appears to point that they ready the Coup d’état upfront. I ask the folks with a democratic vocation to defend the Homeland from some army teams that act in opposition to democracy and the folks,” he revealed.\nWhat did AMLO and Sheinbaum say concerning the tried Coup d’état in Bolivia? President Andrés Manuel López Obrador, who has proven his help for Bolivia thus far in his six-year time period, denounced the assault by that nation’s army forces in opposition to the Authorities.\n“We categorical the strongest condemnation of the tried coup d’état in Bolivia. We absolutely help and again President Luis Alberto Arce, the true democratic authority of this folks and sister nation,” he posted in X.\nMarcelo Ebrard, the subsequent Secretary of Financial system with Claudia Sheinbaum, joined within the condemnation, saying: “All help and sympathy to Constitutional President Luis Arce Catacora who’s dealing with a brand new coup try.”\nMinutes later, Claudia Sheinbaum described the mobilization of troopers by means of the streets of La Paz as “an assault in opposition to democracy.”\n“We strongly condemn these occasions. Our unconditional help to President Luís Arce and his folks. Our help for the Authorities’s positioning,” mentioned the subsequent president of Mexico.\nThese are the reactions to the tried coup in Bolivia (EFE)\nLuis Almagro, secretary common of the Group of American States (OAS), said that the group is not going to tolerate “any type of violation of the official constitutional order in Bolivia,” following the deployment of the army.\n“The OAS Common Secretariat strongly condemns these actions by the Bolivian Military, which should undergo civil authority as mandated by the Inter-American Democratic Constitution,” Almagro mentioned.\nLikewise, he expressed his “solidarity with the president of Bolivia, Luis Arce.”\n“The worldwide neighborhood, the OAS, the Common Secretariat of the OAS, is not going to tolerate any type of violation of the official constitutional order in Bolivia or wherever else,” he added.\nWe denounce {that a} Group of the Challapata Particular Regiment “Mendez Arcos” took over Plaza Murillo with snipers. This appears to point that they ready the Coup d’état upfront.\nI ask the folks with a democratic vocation to defend the Homeland from some teams…\n— Evo Morales Ayma (@evoespueblo) June 26, 2024\nAlternatively, Nicolás Maduro, president of Venezuela, mentioned he had spoken with Luis Arce, to whom he confirmed all his help in opposition to the Coup d’état.\n”I acquired a name from President Lucho Arce of Bolivia and (additionally) spoke with the chief of former President Evo Morales. “We’re, from Venezuela, denouncing a coup d’état in opposition to Bolivian democracy,” mentioned the president throughout an occasion with businessmen within the state of Lara.\nOne other Latin American chief who condemned the army try was Lula da Silva, president of Brazil, who assured that “in Latin America, coups by no means labored.”\nLula requested his overseas minister Mauro Vieira to assemble info earlier than giving a proper place of the Brazilian authorities in relation to the occasions which might be occurring in Bolivia.\n“(I’m a) lover” of democracy and, subsequently, I defend that “democracy prevails in Latin America.”\nBolivian President dismisses Military commander Picture taken from a publication on the X social community account of Canal BoliviaTV the place the president of Bolivia, Luis Arce (c), seems in entrance of the commander common of the Bolivian Military, Juan José Zuñiga,\nJuan José Zúñiga was relieved of his duties on Wednesday together with the opposite army commanders by Luis Arce, after he commanded a bunch of troopers who had been the protagonists of tense scenes on the Authorities headquarters in La Paz.\nArce and his vice chairman David Choquehuanca remained contained in the headquarters of the Government and denounced earlier than the worldwide neighborhood “an tried coup d’état.”\n“Right here we’re, the whole nationwide authorities, with all its ministers, standing agency with our vice chairman, standing agency right here in the primary home to confront any coup try, any try that threatens our democracy,” mentioned the Bolivian president.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/evoespueblo/status/1806050903604052203?ref_src=twsrc%5Etfw",
+      "https://twitter.com/evoespueblo/status/1806050903604052203",
+      "https://www.twitter.com/evoespueblo/status/1806050903604052203?ref_src=twsrc%5Etfw"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "luis alberto arce",
+          "sentiment": "none"
+        },
+        {
+          "name": "plaza murillo",
+          "sentiment": "none"
+        },
+        {
+          "name": "juan josé zúñiga",
+          "sentiment": "none"
+        },
+        {
+          "name": "sheinbaum",
+          "sentiment": "none"
+        },
+        {
+          "name": "evo morales",
+          "sentiment": "none"
+        },
+        {
+          "name": "andrés manuel lópez obrador",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "amlo",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "la paz",
+          "sentiment": "none"
+        },
+        {
+          "name": "bolivia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-28T01:03:33.666+03:00",
+    "updated": "2024-06-28T01:03:33.666+03:00"
+  },
+  {
+    "uuid": "75a3f0822a636b7fdd9ead662dfdcbefcf12f4ce",
+    "url": "https://www.aol.com/walmart-recalls-magnetic-balls-cpsc-220236392.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AOL Staff",
+    "published": "2023-12-28T22:02:00Z",
+    "title": "Walmart recalls magnetic balls after CPSC warns of choking and injury hazards",
+    "text": "Walmart recalls magnetic balls after CPSC warns of choking and injury hazards Regulators have issued a recall for high-powered magnetic balls after the US Consumer Product Safety Commission [ issued several warnings](https://www.cnn.com/2023/12/07/business/magnetic-ball-recall-warning/index.html?cid=external-feeds_iluminar_yahoo) for the toy kits, citing the risk of injury or even death. Walmart recalled the “Relax 5mm Science Kit, Large Hematite Magnets Magnetic Stones Building Blocks,” sold exclusively on the site through Joybuy. Earlier in December, CPSC said these magnets, often marketed for children, are small enough to fit into the CPSC’s [small parts cylinder](https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Small-Parts-for-Toys-and-Childrens-Products) (which simulates the width of a child’s throat), and are also magnetically stronger than permitted. If swallowed, the high-powered magnets can attract to each other or to other metals inside the digestive system, leading to “perforations, twisting and/or blockage of the intestines, infection, blood poisoning and death.” The agency broadly estimated 2,500 emergency room visits over magnet ingestions from 2017-2021 and seven deaths, two of which were outside of the United States. The recall affects about 4,240 units. [The CPSC said](https://www.cpsc.gov/Recalls/2024/High-Powered-Magnetic-Balls-Recalled-Due-to-Ingestion-Hazard-Sold-Exclusively-on-Walmart-com-through-Joybuy) customers should take away the balls from children immediately and contact Joybuy for a pre-paid label to return the recalled products for a full refund. The toy kit was sold from February 2022 through April 2023 for between $14 and $15 and is made of small magnetic balls in purple, black, green, blue, orange and red. For more CNN news and newsletters create an account at [CNN.com](http://www.cnn.com/account/register?source=external-feeds_iluminar&cid=external-feeds_iluminar_yahoo®istration_email_campaign=https://www.cnn.com/newsletters)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health"
+    ],
+    "external_links": [
+      "https://www.cpsc.gov/Recalls/2024/High-Powered-Magnetic-Balls-Recalled-Due-to-Ingestion-Hazard-Sold-Exclusively-on-Walmart-com-through-Joybuy)",
+      "https://www.cnn.com/2023/12/07/business/magnetic-ball-recall-warning/index.html?cid=external-feeds_iluminar_yahoo)",
+      "http://www.cnn.com/account/register?source=external-feeds_iluminar&cid=external-feeds_iluminar_yahoo®istration_email_campaign=https://www.cnn.com/newsletters)",
+      "https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Small-Parts-for-Toys-and-Childrens-Products)",
+      "http://www.cnn.com/account/register",
+      "http://cnn.com/account/register?source=external-feeds_iluminar&cid=external-feeds_iluminar_yahoo®istration_email_campaign=https://cnn.com/newsletters)",
+      "https://cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Small-Parts-for-Toys-and-Childrens-Products)",
+      "https://www.cnn.com/2023/12/07/business/magnetic-ball-recall-warning/index.html",
+      "https://cnn.com/2023/12/07/business/magnetic-ball-recall-warning/index.html?cid=external-feeds_iluminar_yahoo)",
+      "https://cpsc.gov/Recalls/2024/High-Powered-Magnetic-Balls-Recalled-Due-to-Ingestion-Hazard-Sold-Exclusively-on-Walmart-com-through-Joybuy)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joybuy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cpsc",
+          "sentiment": "negative"
+        },
+        {
+          "name": "walmart",
+          "sentiment": "negative"
+        },
+        {
+          "name": "us consumer product safety commission",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:01:26.165+02:00",
+    "updated": "2023-12-29T01:01:26.165+02:00"
+  },
+  {
+    "uuid": "d2b62b00af65e9c9d8050f037b3a3b702c930336",
+    "url": "https://dailypost.ng/2024/07/12/lg-autonomy-supreme-judgment-win-for-fiscal-accountability-in-nigeria-budgit",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ogaga Ariemu",
+    "published": "2024-07-12T07:53:00Z",
+    "title": "LG Autonomy: Supreme judgment win for fiscal accountability in Nigeria – BudgIT",
+    "text": "BudgIT has said that Thursday’s Supreme Court judgment endorsing Local Government Autonomy is a fiscal governance and accountability win for Nigeria.\nIt disclosed this in a statement on Thursday by its Communications Officer, Nancy Odimegwu.\nDAILY POST reports that the Supreme Court on Thursday barred the 36 state governors from receiving funds for the 774 local government areas in Nigeria.\nThe judgment also stopped the governors from removing democratically elected Local government chairmen.\nReacting to the judgment, Gabriel Okeowo, BudgIT’s Country Director said that the development would bring transparency to local government allocations.\nIt called for restricted adherence and implementation by all stakeholders.\n“This ruling is a victory and a significant step towards enhancing fiscal transparency, accountability, and local governance in Nigeria.\n“In light of this, we call for strict adherence to this ruling and urge all stakeholders, including state governments, to respect the rule of law and uphold the principles of fiscal responsibility,” he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "gabriel okeowo",
+          "sentiment": "none"
+        },
+        {
+          "name": "nancy odimegwu",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "supreme court",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lg",
+          "sentiment": "negative"
+        },
+        {
+          "name": "local government autonomy",
+          "sentiment": "negative"
+        },
+        {
+          "name": "daily post",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "nigeria",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-12T11:48:58.201+03:00",
+    "updated": "2024-07-12T16:55:18.503+03:00"
+  },
+  {
+    "uuid": "ffaee3a53c33b75f97816aa8ef83681c574c0022",
+    "url": "https://www.columbiagorgenews.com/sports/national/report-byron-leftwich-joining-colorado-coaching-staff/article_daaa1611-634b-5d9c-a25f-b90e9d848356.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Field Level Media",
+    "published": "2025-03-19T22:03:00Z",
+    "title": "Report: Byron Leftwich joining Colorado coaching staff | National | columbiagorgenews.com",
+    "text": "Former NFL quarterback and offensive coordinator Byron Leftwich is joining the coaching staff under Deion Sanders at Colorado, Jordan Schultz of Fox Sports reported Wednesday. The reports come a day after Leftwich was spotted at practice holding a clipboard and wearing Colorado football gear. Sanders said on Monday Colorado would make \"a couple more huge moves\" this week but has not confirmed Leftwich's hiring. It's unclear what Leftwich's role will be on Sanders' staff. Leftwich interviewed with the New England Patriots for their head coaching post in January. Leftwich, 45, most recently worked as the offensive coordinator for the Tampa Bay Buccaneers from 2019-22, a stint that included a Super Bowl win in the 2020 season. Leftwich was fired by Bucs head coach Todd Bowles after the 2022 season, which saw Tampa Bay slip from the top 3 in scoring the previous three seasons to No. 15 in yards and No. 25 in points in 2022. A quarterback and first-round pick by the Jacksonville Jaguars in the 2003 NFL Draft, Leftwich had a 24-26 record with 10,532 passing yards and 58 touchdowns in 60 games with the Jaguars (2003-06), Atlanta Falcons (2007), Bucs (2009) and Steelers (2008, 2010, 2012). He also worked in various roles including the interim offensive coordinator for the Arizona Cardinals from 2016-2018. --Field Level Media\nWire\nReport: Byron Leftwich joining Colorado coaching staff\n- Field Level Media\n- Updated\nNews and Info from our Community Partners\nInformation from the News and our advertisers (Want to add your business to this to this feed?)\nSign Up For Newsletters\nSuccess! An email has been sent to with a link to confirm list signup.\nError! There was an error processing your request.\nColumbia Gorge News\nSign up to receive notifications when a new Columbia Gorge News e-Edition is published.\nNews Updates\nWould you like to receive our news updates? Signup today!\nObituary updates\nReceive weekly updates on obituaries and death notices.\nOregon Capital Press\nOregon Capital Press presented by Columbia Gorge News\nPromotions and acquisitions\nReceive updates on upcoming promotions and special sections.\nSports updates\nReceive weekly updates on local sports news.\nMost Popular\nImages\nVideos\nSorry, there are no recent results for popular videos.\nCommented\nSorry, there are no recent results for popular commented articles.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->american football",
+      "Lifestyle and Leisure->exercise and fitness",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->game"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://hoodrivernews.friends2follow.com/f2f/widget/inquiry/126",
+      "https://www.hoodrivernews.friends2follow.com/f2f/widget/inquiry/126"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T00:28:05.642+02:00",
+    "updated": "2025-03-20T00:28:05.642+02:00"
+  },
+  {
+    "uuid": "cb313163ede663da9522a1cdb8e64dba3f89c57a",
+    "url": "https://studyfinds.org/binge-drinking-rewires-brain",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "StudyFinds Staff",
+    "published": "2024-11-14T20:59:00Z",
+    "title": "Binge drinking rewires the brain, increases Alzheimer’s risk even if you quit",
+    "text": "HERSHEY, Pa. — Studies have shown that drinking alcohol can have an immediate impact on the human brain. Now, a new report finds that this damage can have lasting consequences, even if you quit drinking for years.\nResearchers from Penn State have discovered that even a modest amount of binge drinking when you’re a young adult can rewire the brain, making it more vulnerable to cognitive decline during old age. Simply put, too much heavy drinking during your college years can have a lasting and devastating impact on the neurons in your brain, even if you stop drinking after this period of your life.\nConducted on mice, the study found that moderate binge drinking in younger years can leave lasting impacts on brain function, affecting how neurons communicate in the prefrontal cortex (PFC) — the brain area responsible for high-level processes such as decision-making, memory, and self-control. This new insight, published in the journal Neurobiology of Aging, could inform our understanding of how early-life drinking patterns affect brain health in later years.\nIn the study, mice were exposed to voluntary binge drinking over a period of weeks and then abstained from alcohol for about six months — equivalent to several years in human terms. When the researchers examined the mice’s brains after this long abstinence, they observed persistent changes in the PFC neurons.\nSpecifically, neurons in this region became more excitable and had higher levels of excitatory signaling, meaning they fired more often and with less input than usual. In healthy brains, a careful balance of excitatory and inhibitory signaling keeps the system stable, but binge drinking seems to disrupt this balance in a way that lingers, potentially creating an environment similar to early-stage Alzheimer’s.\nOne particularly striking finding was the change in non-pyramidal neurons, a type of cell that typically inhibits overactivity in the brain. After the binge-drinking period, these neurons received a significant increase in excitatory input, almost doubling the amount of stimulatory signals they received. This increase could lead to “hyperexcitability,” where the brain becomes overly active — a hallmark of several neurodegenerative conditions.\nWhile the research was conducted on mice, the implications for human health are worth considering. If similar effects occur in people, it would suggest that even moderate binge drinking in earlier life could create lasting vulnerabilities in the brain’s wiring, potentially increasing the risk of cognitive decline as we age. Importantly, these results underscore the need for further studies in humans to explore how different levels of alcohol consumption interact with brain health and aging.\nPaper Summary\nMethodology\nThe researchers used the Drinking-in-the-Dark (DID) model to simulate binge drinking. In this model, mice were given access to 20% alcohol for a few hours over several days, which reliably produced blood alcohol levels similar to binge drinking in humans. Following this four-week drinking period, the mice then abstained from alcohol for about six months. At the end of this abstinence period, the researchers examined the prefrontal cortex, focusing on neuron excitability and signaling. They measured how easily neurons fired signals, looking for shifts in baseline activity and communication patterns within the brain.\nKey Results\nThe study found that after the abstinence period, PFC neurons in previously binge-drinking mice were still hyper-excitable, requiring less stimulus to fire signals. Furthermore, non-pyramidal neurons—cells that typically play a calming role in the brain—were receiving more excitatory input than normal, suggesting a disruption in the brain’s balance between excitement and inhibition. In simple terms, the PFC neurons in these mice had become “trigger-happy,” and non-pyramidal neurons had lost some of their usual calming influence.\nStudy Limitations\nThe research was conducted on mice, and while mouse brains share similarities with human brains, they aren’t identical. Moreover, the DID model forces the mice to drink as their only available reward, unlike humans who have other choices and social factors involved. Finally, single housing for the mice, while necessary for the study, may introduce social stress, which could amplify the effects of alcohol on the brain.\nDiscussion & Takeaways\nThe findings suggest that binge drinking could have long-lasting impacts on brain health, even after years of abstinence. The study reveals how binge drinking could alter brain wiring in ways that resemble early Alzheimer’s, potentially increasing cognitive decline risk in later life. While further research is needed to verify these effects in humans, the study highlights alcohol as a risk factor to consider in brain health, particularly as we age.\nFunding & Disclosures\nThe study was supported by funding from the National Institutes of Health, including grants specifically focused on alcohol research and neurodegeneration. The authors have no conflicts of interest to declare, ensuring that the study’s findings are presented without bias.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.sciencedirect.com/science/article/pii/S0197458024001726?via%3Dihub",
+      "https://www.sciencedirect.com/science/article/pii/S0197458024001726",
+      "https://sciencedirect.com/science/article/pii/S0197458024001726?via%3Dihub"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Penn State",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T01:41:20.103+02:00",
+    "updated": "2024-11-15T01:41:20.103+02:00"
+  },
+  {
+    "uuid": "e8812281d53f489f8de213f14c77d3799546e330",
+    "url": "https://es.nhandan.vn/foro-economico-de-ciudad-ho-chi-minh-abordara-transformacion-industrial-post64657.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Nhan Dan en línea en español",
+    "published": "2024-07-19T04:55:00Z",
+    "title": "Foro Económico de Ciudad Ho Chi Minh abordará transformación industrial | Nhan Dan en línea en español",
+    "text": "Bajo el tema “La transformación industrial, nuevo motor para el desarrollo sostenible de Ciudad Ho Chi Minh”, el foro responde a la implementación de la \"Estrategia Nacional de Crecimiento Verde para el período 2021-2030, con visión 2050\", y del Plan \"Estrategia de Desarrollo Industrial de Ciudad Ho Chi Minh hacia 2030, con visión hasta 2050\". El foro reunirá a renombradas organizaciones nacionales e internacionales, instituciones financieras, empresas, ponentes y expertos para compartir experiencias sobre desarrollo socioeconómico, así como los objetivos y programas clave de Ciudad Ho Chi Minh. Según el gobierno municipal, uno de los objetivos y tareas principales de la metrópoli es priorizar el desarrollo de industrias de alta tecnología, la aplicación de tecnología avanzada, el uso de energía verde y el desarrollo sostenible. Se espera que la edición de este año cuente con la participación de representantes de los ministerios y sectores vietnamitas y de mil 200 a mil 500 delegados de instituciones financieras internacionales como el Banco Mundial, el Banco Asiático para el Desarrollo y el Foro Económico Mundial (FEM). En el evento también participarán las misiones diplomáticas, empresarios y expertos nacionales y extranjeros en economía, tecnología, transformación industrial y desarrollo sostenible. Los participantes debatirán la transformación industrial, los ecosistemas de gobernanza y políticas que impulsan la transformación industrial, la estrategia de transformación industrial de Ciudad Ho Chi Minh en el contexto de la conectividad regional e internacional y las nuevas tendencias tecnológicas. También discutirán sobre las prioridades en las estrategias de transformación industrial y el papel de las empresas y las partes interesadas en este campo. Además, se llevarán a cabo diálogos políticos entre el primer ministro y los líderes de los ministerios y sectores, invitados y grandes corporaciones nacionales e internacionales. En el marco del foro se establecerá el Centro para la Cuarta Revolución Industrial (C4IR) en la ciudad, en aras implementar los contenidos del Memorando de Entendimiento entre el Gobierno de Vietnam y el FEM para el período 2023-2026. Se trata del segundo C4IR del Sudeste Asiático que participará en la red global C4IR del FEM, con el objetivo de promover la cooperación en investigación, propuestas de políticas, movilización de recursos y transferencia de tecnología en el campo de la transformación industrial.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-19T09:57:42.777+03:00",
+    "updated": "2024-07-19T09:57:42.777+03:00"
+  },
+  {
+    "uuid": "f76df88ea43c74630bd1b04350f5c0665fed43ce",
+    "url": "https://currentaffairs.adda247.com/india-leads-global-maritime-discourse-at-imo-council-session-in-london",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "piyush",
+    "published": "2024-07-11T19:00:00Z",
+    "title": "India Leads Global Maritime Discourse at IMO Council Session in London",
+    "text": "India, represented by a high-level delegation led by Shri T.K. Ramachandaran, Secretary of the Ministry of Ports, Shipping and Waterways, has taken a prominent role in shaping international maritime policies at the 132nd session of the Council of the International Maritime Organization (IMO) in London. The session, which began on July 8, 2024, and continues until July 12, 2024, addresses critical issues and proposals for the future of global maritime operations. Addressing Seafarer Abandonment India, an elected member of the IMO Council due to its substantial interest in international seaborne trade, highlighted the urgent issue of seafarer abandonment. The Indian delegation noted 44 active cases involving 292 Indian seafarers, emphasizing the need for robust measures to protect maritime workers worldwide. India’s strong stance on this issue was well-received, securing its position in the Joint Tripartite Working Group dedicated to addressing seafarers’ welfare and human element issues. Commitment to Maritime Safety and Security The delegation also addressed concerns over disruptions in the Red Sea, Gulf of Aden, and adjoining areas, impacting shipping and trade logistics. India highlighted its commitment to maritime safety and security by citing two significant incidents where the Indian Navy successfully intervened. These included the rescue of the Marshall Island-flagged crude oil carrier MV Marlyn Luanda and the interception of the vessel MV Ruen off the coast of Somalia, ensuring the safety of crew members and handling piracy threats effectively. South Asian Centre of Excellence for Sustainable Maritime Transport India reiterated its proposal for the South Asian Centre of Excellence for Sustainable Maritime Transport (SACE-SMarT). This regional hub aims to transform the maritime sector in South Asia into a technologically advanced, environmentally sustainable, and digitally proficient industry. The centre will focus on reducing greenhouse gas emissions, fostering technical cooperation, capacity-building, and digital transition. T.K. Ramachandaran stated, “India remains deeply committed to addressing the issue of seafarer abandonment and ensuring the safety and welfare of our maritime workforce.” India’s Leadership in Maritime Innovation India’s participation in the IMO Council session underscores its dedication to international maritime cooperation and innovation. The establishment of SACE-SMarT in collaboration with the IMO’s global Maritime Technology Cooperation Centres (MTCCs) highlights India’s leadership in promoting environmentally sustainable and technologically advanced maritime practices. India’s proactive stance and contributions at the session reflect its significant role in evolving global maritime governance and driving positive change in the maritime sector. Looking Ahead The 132nd session of the IMO Council continues to address various critical issues and proposals for the future of global maritime operations, with India’s contributions being a pivotal part of the discourse.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "shri t.k. ramachandaran",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "joint tripartite working group",
+          "sentiment": "none"
+        },
+        {
+          "name": "imo council",
+          "sentiment": "none"
+        },
+        {
+          "name": "council of the international maritime organization",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "london india",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "london",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-12T10:59:04.471+03:00",
+    "updated": "2024-07-12T10:59:04.471+03:00"
+  }
+]

@@ -1,0 +1,484 @@
+[
+  {
+    "uuid": "3ef2d3b7db7a789d4de12fc18135fe34906bbede",
+    "url": "https://content.techgig.com/technology/why-huawei-ai-chip-failed-to-power-deepseek-r2-model/articleshow/123298335.cms",
+    "ord_in_thread": 0,
+    "author": "Bankit Kumar",
+    "published": "2025-08-14T08:02:52Z",
+    "title": "Why Huawei's AI Chip Failed to Power DeepSeek's R2 Model - Inside the",
+    "text": "DeepSeek’s much-anticipated R2 AI model was supposed to arrive in May, ready to challenge industry giants. Instead, it’s stuck in limbo because, reportedly, there were issues that forced the delay.\nTraining bottlenecks with Huawei’s Ascend chip have thrown the schedule off track and raised bigger questions about whether China’s AI ambitions can outrun its hardware limits. DeepSeek needs this update, and they need it badly; that’s why we can see some big updates coming soon.\nLet’s explore the topic to understand what’s going on with DeepSeek’s new model delay:\nAlso read:\nAfter launching R1 in January, Chinese authorities nudged the company to ditch Nvidia chips in favour of homegrown Huawei hardware. The idea looked brilliant on paper, cutting ties with U.S. tech and boosting self-reliance. In practice, it’s been a grind of technical glitches and delays.\nHuawei’s Ascend processors were supposed to be DeepSeek’s ticket to independence from U.S. tech. Instead, they became the biggest obstacle in training its R2 model. During the training phase, the chips struggled with performance bottlenecks and compatibility glitches, derailing every attempt at a full-scale run. The setback forced DeepSeek to return to Nvidia GPUs for training, relegating Huawei’s hardware to lighter inference tasks.\nHuawei didn’t just watch from the sidelines. Its engineers flew in to work alongside DeepSeek’s team, tweaking systems and running diagnostics. But even with their expertise, the setup never achieved a stable training session. The mission now is to make Ascend chips reliable for inference, though that journey is still far from over.\nThe real winners in AI will be the teams that share strategic independence along with technical excellence, ensuring that chip choice accelerates, rather than hinders, progress. For developers, the message is clear: in the race to build smarter AI, the smartest move might be picking the right silicon from the start.\nAlso read:\nTraining bottlenecks with Huawei’s Ascend chip have thrown the schedule off track and raised bigger questions about whether China’s AI ambitions can outrun its hardware limits. DeepSeek needs this update, and they need it badly; that’s why we can see some big updates coming soon.\nLet’s explore the topic to understand what’s going on with DeepSeek’s new model delay:\nAlso read:\nInside GPT-5: OpenAI’s bold step towards an advanced AI futureWhat is the latest DeepSeek model?\nIn March 2025, DeepSeek released a powerful new update: DeepSeek-V3-0324. While it uses the same Base model as DeepSeek-V3, the post-training pipeline has been improved, drawing lessons from the RL technique in DeepSeek-R1.What is the new AI after DeepSeek?\nManus, an AI agent generally considered more advanced than a chatbot, can do everything from analysing the stock market to making a personalised travel book.Which model of DeepSeek is the best?\nSelecting the right model between DeepSeek-R1 and DeepSeek-V3 depends on what you aim to achieve with our tasks or projects. My general recommended workflow for most tasks is to use V3 and switch to R1 if you get into a loop where V3 can't find an answer.What is better, DeepSeek-R1 or V3?\nDeepSeek R1 and V3 are both strong and quite powerful Large Language Models (LLMs) from DeepSeek, but they shine in different areas. DeepSeek R1 is better for tasks where complex reasoning is needed along with logical thinking and problem-solving, while DeepSeek V3 is faster and more efficient for general-purpose language tasks like writing, summarisation, and basic coding. The best model for you depends on your specific needs and priorities.DeepSeek’s R2 dream hits a chip-shaped snag!\nDeepSeek’s next AI model, R2, was set to roll out in May, but that plan has slammed into a wall. The culprit? Training hiccups with Huawei’s Ascend processor. It could be a big blow to the AI tech giant, whose aspirations are to replace some of its big AI players.After launching R1 in January, Chinese authorities nudged the company to ditch Nvidia chips in favour of homegrown Huawei hardware. The idea looked brilliant on paper, cutting ties with U.S. tech and boosting self-reliance. In practice, it’s been a grind of technical glitches and delays.\nInside the chip battle that stalled DeepSeek’s R2!\nHuawei didn’t just watch from the sidelines. Its engineers flew in to work alongside DeepSeek’s team, tweaking systems and running diagnostics. But even with their expertise, the setup never achieved a stable training session. The mission now is to make Ascend chips reliable for inference, though that journey is still far from over.\nFinal Words:\nThe DeepSeek–Huawei roadblock is a reminder that in AI, hardware isn’t just a tool, it’s the foundation. It's as important as any big update or change in the technical aspect of the AI technology. Pressure may push companies to seek alternatives, but swapping out proven systems for untested ones can stall innovation.The real winners in AI will be the teams that share strategic independence along with technical excellence, ensuring that chip choice accelerates, rather than hinders, progress. For developers, the message is clear: in the race to build smarter AI, the smartest move might be picking the right silicon from the start.\nAlso read:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Huawei",
+          "sentiment": "negative",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T11:02:52.709+03:00",
+    "updated": "2025-08-14T11:13:03.000+03:00"
+  },
+  {
+    "uuid": "05fe8670e75bbf1b12391b0291399c566b91f9ca",
+    "url": "https://andaluciainformacion.es/malaga/1577073/bano-de-masas-de-las-campeonas-que-ya-apuntan-a-los-jjoo-de-paris",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@andaluciainf",
+    "published": "2024-02-29T21:01:00Z",
+    "title": "Baño de masas de las campeonas, que ya apuntan a los JJOO de París | Andalucía Información. Todas las noticias de Almería",
+    "text": "La selección femenina, ganadora de la Liga de Naciones seis meses después de conseguir vencer en la Copa del Mundo, se dio un baño de masas al ser recibida por miles de aficionados a grito de 'campeonas', este jueves en el Palacio de Vistalegre en Madrid con la mirada puesta en los Juegos Olímpicos de París, siguiente objetivo del combinado español. \"Es un placer estar aquí con todos vosotros con este título que han conseguido estas grandísimas jugadoras. Hoy es un día para sentirnos felices y agradecidas. Ahora a disfrutarlo y vamos a por los Juegos Olímpicos\", declaró la seleccionadora Montse Tomé que quiso agradecer el gran papel que desempeña su cuerpo técnico y el 'staff', y sobre todo, a las jugadoras. \"Agradecer personalmente a mi cuerpo técnico porque estoy rodada de ocho personas que sin ellos no sería posible todo el trabajo para conseguir que las futbolistas saquen su máximo rendimiento. También, a todo el staff que trabajan con cariño, profesionalidad y detalle para que todo tenga el orden ideal y a todas estas futbolistas porque ellas son las verdaderas protagonistas de este juego\", afirmó Tomé ante una grada entregada con banderas y camisetas de la selección, que escuchó como Irene Paredes les animaba a seguir apoyando al equipo. \"Es importante sentir vuestro apoyo y por nuestra parte decir que vamos a por más a si que os necesitamos para eso también\", comentó la jugadora del Barcelona . La selección se proclamó campeona de la primera edición de la Liga de las Naciones tras vencer por 2-0 a Francia, en la Cartuja ante 32.6576 espectadores, gracias a los goles de Aitana Bonmatí en la primera parte y de Mariona Caldentey en el minuto 53 que permitió al combinado nacional alzarse con el trofeo. Previamente, tras ganar en semifinales a Países Bajos por 3-0, ya habían logrado certificar el objetivo de la clasificación a los Juegos Olímpicos. Como homenaje a las madres, cada jugadora fue nombrada por su nombre y sus dos apellidos mientras la afición vitoreaba a cada una de ellas llegando al punto álgido cuando Jennifer Hermoso, con el trofeo en mano, entro al escenario con los aplausos y ánimos de la grada que se cayó a bajo a grito de 'Jenni, Jenni'. Otra de las más aclamadas fue Aitana Bonmatí, MVP de la Final a Cuatro. La fiesta, que comenzó a las 17.00 horas con entrada libre hasta que se completó el aforo y contó con música en directo de grandes artistas invitados como Marlena, en dos ocasiones, Michenlo, Delaporte y Elena Farga, tuvo su punto álgido cuando entraron las jugadoras y el cuerpo técnico alrededor de las 19.00 horas y se cerró con el 'We are the Champions' como es habitual en este tipo de acontecimientos. En la mañana de este jueves, la selección fue recibida por la presidenta del Congreso, junto a los portavoces de los grupos, en el Salón de los Pasos Perdidos, desde el que se trasladaron al hemiciclo, donde ocuparon los escaños y se fotografiaron con los diputados presentes. Posteriormente, el combinado nacional tuvo el reconocimiento en el Palacio de la Moncloa del presidente del Gobierno, Pedro Sánchez, que recibió una camiseta con los nombres de todas las protagonistas del duelo contra Francia y las ánimo a conseguir una medalla en los Juegos Olímpicos de París que se celebran en los meses de julio y agosto y serán los primeros juegos de su historia. Envía tu noticia a: [participa@andaluciainformacion.es](mailto:participa@andaluciainformacion.es)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-01T00:54:55.855+02:00",
+    "updated": "2024-03-01T00:54:55.855+02:00"
+  },
+  {
+    "uuid": "6f0a035894a0ade9099d1dcf166eb6931d7f1d2c",
+    "url": "https://www.world-today-news.com/survey-shows-majority-of-saudi-arabian-citizens-reject-normalization-of-relations-with-israel-support-for-hamas-increases/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "world today news",
+    "published": "2023-12-24T12:22:00Z",
+    "title": "Survey Shows Majority of Saudi Arabian Citizens Reject Normalization of Relations with Israel, Support for Hamas Increases",
+    "text": "TRIBUNNEWS.COM – The latest survey shows that the majority of Saudi Arabian citizens reject the normalization of relations between their country and Israel.\nThe survey was conducted from November 14 to December 6, 2023 by the Washington Near East Policy Institute.\nIn the survey there were 1,000 Saudi Arabian citizens who were respondents. There were as many as 96 percent of those who said they rejected normalizing relations.\nThen, it was also discovered that support from Arab citizens for the Hamas group in Gaza was increasing.\nOnly 16 percent of Arabs believe Hamas should stop its efforts to eliminate Israel and accept a two-state solution.\n“The majority of Arab citizens (95 percent) responded that Hamas does not in fact kill civilians when asked whether they believe that the killing of civilians by Hamas is against Islam,” the survey results stated. Palestine Chronicle.\nIn addition, 87 percent of respondents believed that recent events had shown that Israel was very weak and experiencing internal divisions.\nAccording to them, Israel will one day be defeated.\nAlso read: 4 Thousand Palestinians Arrested by Israel, Hamas Urges ICRC to Check Their Condition\nMeanwhile, The\nNew York Times said the survey results showed that there were big challenges for the United States (US) government under President Joe Biden.\nThe US will find it increasingly difficult to urge Saudi Arabia to establish diplomatic relations with Israel.\n“For years the US and Israeli media planted a false narrative that Saudi Arabians had abandoned Palestine and that in reality normalization between Israel and Saudi Arabia, the entire Muslim\nworld, was only a matter of time,” said Ramzy Baroud, a journalist and observer of Palestinian politics.\nAccording to Baroud, the survey results are not the first time that Arab citizens have proven that their solidarity with Palestinians is genuine.\nHe also said that Arab citizens were fully aware that Israel would not be able to continue its crimes against Palestinians if it were not assisted by the US.\nAlso read: Experts say the US and Israel are now facing a strong enemy and can cause trouble, who?\nUS youth support for Hamas increases\n2023-12-24 11:55:11\n#Calling #Israel #Weak #Defeated #Majority #Arab #Citizens #Reject #Normalization #Relations",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Religion and Belief",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "negative"
+        },
+        {
+          "name": "washington near east policy institute",
+          "sentiment": "none"
+        },
+        {
+          "name": "islam",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-24T14:26:17.807+02:00",
+    "updated": "2023-12-24T14:26:17.807+02:00"
+  },
+  {
+    "uuid": "13ec1fa7ff5cbca3d35db3aefd1c14c2ef94a5b8",
+    "url": "https://www.businesstoday.in/technology/news/story/isro-eyes-february-launch-for-insat-3ds-all-you-need-to-know-about-updated-weather-satellites-413532-2024-01-16",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Pranav Dixit",
+    "published": "2024-01-16T10:19:00Z",
+    "title": "ISRO eyes February launch for INSAT-3DS; all you need to know about updated weather satellites - BusinessToday",
+    "text": "In the wake of two triumphant missions in the early months of 2024, the Indian Space Research Organisation (ISRO) is gearing up for the launch of INSAT-3DS satellites aboard the Geosynchronous Launch Vehicle (GSLV-F14). The GSLV-F14, a more advanced rocket utilising liquid propellant, is poised to take off around the first week of February, according to senior officials from the space agency.\nOriginally slated for a January launch, ISRO officials revealed that the launch schedule has been adjusted, with integration of the satellite into the launch vehicle currently underway. A senior official, who preferred to remain anonymous, confirmed that the launch is expected to occur in the initial week of February.\nThe INSAT-3DS mission, a collaborative effort between ISRO and the India Meteorological Organisation (IMD), is part of a series of climate observatory satellites aimed at enhancing climate services. Comprising three dedicated Earth observation satellites, including INSAT-3D and INSAT-3DR already in orbit, INSAT-3DS is the next satellite in line for deployment.\nThis launch marks a significant event, as it signifies the return of GSLV after an approximately eight-month hiatus. The rocket, distinguished by its higher capacity and the use of cryogenic liquid propellants in all three stages, presents a more complex engineering challenge but allows for a substantially higher lift-off weight capacity. In contrast, India's reliable PSLV rocket employs solid fuel.\nISRO Chairman S Somanath announced in a recent media briefing that the space agency is planning at least 12 launches in 2024. The successful launch of India's first polarimetry mission, X-ray Polarimeter Satellite (XPoSat), on January 1, and the placement of the Aditya-L1 satellite into its intended orbit on January 6, demonstrate ISRO's early progress towards this ambitious goal.\nLooking ahead, ISRO is set to conduct tests and technology demonstrations for Gaganyaan, India's first human spaceflight project. The Gaganyaan mission aims to showcase ISRO's human spaceflight capability by launching a crew of three members into a 400km orbit for a three-day mission, with plans for a possible manned mission in 2025. Preceding the manned mission, the space agency will conduct various tests, including a test flight with a humanoid astronaut named 'Vyomitra' and an unmanned flight.\nAdditionally, ISRO has scheduled the launch of its collaboration with NASA, the NASA-ISRO Synthetic Aperture Radar (NISAR), expected to take flight by March, further emphasising India's commitment to space exploration and international partnerships.\nINSAT-3D, a versatile satellite developed by the Indian Space Research Organisation (ISRO), serves multiple functions including meteorology, data relay, and satellite-aided search and rescue. Launched successfully on 26 July 2013, it utilised an Ariane 5 ECA launch vehicle from French Guiana, showcasing India's prowess in space exploration.\nThis satellite incorporates cutting-edge technology elements, including a star sensor, micro-stepping Solar Array Drive Assembly (SADA) to minimise spacecraft disturbances, and a Bus Management Unit (BMU) for control, telecommunications, and telemetry functions. Furthermore, it introduces innovative features such as bi-annual rotation and Image and Mirror motion compensations, aimed at enhancing the performance of its meteorological payloads.\nBuilding on the success of INSAT-3D, ISRO is set to launch INSAT-3DS in February 2024, marking the seventh flight in the INSAT-3D series. The upcoming mission will utilise the GSLV Mk II vehicle, showcasing India's commitment to advancing its space capabilities. INSAT-3DS is designed to further elevate meteorological capabilities, contributing to improved data collection and analysis for various applications.\nAlso Read\nIndia’s ISRO to use Elon Musk’s SpaceX Falcon-9 rocket to launch GSAT-20 satellite\nISRO successfully tests fuel cells to generate power in space\nPublished on: Jan 16, 2024, 3:19 PM IST Posted by: Pranav Dixit, Jan 16, 2024, 3:09 PM IST IN THIS STORY #ISRO Follow Us on Channel TOP STORIES TOP VIDEOS",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://akm-img-a-in.tosshub.com//businesstoday/resource/img/bt_ttl_icn.svg",
+      "http://www.facebook.com/sharer/sharer.php?u=https://www.businesstoday.in/technology/news/story/isro-eyes-february-launch-for-insat-3ds-all-you-need-to-know-about-updated-weather-satellites-413532-2024-01-16?utm_source=btweb_story_share&caption=ISRO",
+      "https://widgets.in.webengage.com",
+      "https://akm-img-a-in.tosshub.com/businesstoday/resource/pdf/budget-big-bites.html?ver=1.4",
+      "https://whatsapp.com/channel/0029Va4Hd309hXFCqY62yD2I",
+      "https://akm-img-a-in.tosshub.com/businesstoday/resource/img/rhs_market_today.svg",
+      "https://web.whatsapp.com:/send?text=ISRO+eyes+February+launch+for+INSAT-3DS%3B+all+you+need+to+know+about+updated+weather+satellites",
+      "https://www.indiatodaygroup.com/newsletter-subscription/widgets/display_form.php?key=8298b12532780b9268b7d968ac1ff5d0",
+      "https://akm-img-a-in.tosshub.com/businesstoday/resource/img/ttl_icn_bttv.svg",
+      "http://widgets.in.webengage.com",
+      "https://www.akm-img-a-in.tosshub.com//businesstoday/resource/img/bt_ttl_icn.svg",
+      "https://akm-img-a-in.tosshub.com/businesstoday/resource/pdf/budget-big-bites.html",
+      "http://www.facebook.com/sharer/sharer.php",
+      "http://www.widgets.in.webengage.com",
+      "https://www.akm-img-a-in.tosshub.com/businesstoday/resource/img/ttl_icn_bttv.svg",
+      "https://www.whatsapp.com/channel/0029Va4Hd309hXFCqY62yD2I",
+      "https://www.indiatodaygroup.com/newsletter-subscription/widgets/display_form.php",
+      "https://www.akm-img-a-in.tosshub.com/businesstoday/resource/pdf/budget-big-bites.html?ver=1.4",
+      "https://web.whatsapp.com:/send",
+      "http://facebook.com/sharer/sharer.php?u=https://businesstoday.in/technology/news/story/isro-eyes-february-launch-for-insat-3ds-all-you-need-to-know-about-updated-weather-satellites-413532-2024-01-16?utm_source=btweb_story_share&caption=ISRO",
+      "https://www.akm-img-a-in.tosshub.com/businesstoday/resource/img/rhs_market_today.svg",
+      "https://indiatodaygroup.com/newsletter-subscription/widgets/display_form.php?key=8298b12532780b9268b7d968ac1ff5d0",
+      "https://www.web.whatsapp.com:/send?text=ISRO+eyes+February+launch+for+INSAT-3DS%3B+all+you+need+to+know+about+updated+weather+satellites",
+      "https://www.widgets.in.webengage.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "indian space research organi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "isro",
+          "sentiment": "negative"
+        },
+        {
+          "name": "india meteorological organisation",
+          "sentiment": "none"
+        },
+        {
+          "name": "gslv",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-16T12:55:58.532+02:00",
+    "updated": "2024-01-16T12:55:58.532+02:00"
+  },
+  {
+    "uuid": "fa7e53e25db2a314062965dee3f7f1dee302c895",
+    "url": "https://tcu360.com/2025/04/23/survivor-cast-member-advocates-about-speech-impediment",
+    "ord_in_thread": 0,
+    "author": "Miller Kerr",
+    "published": "2025-04-23T22:19:00Z",
+    "title": "Survivor cast member advocates about speech impediment",
+    "text": "For one Survivor contestant, 13 was a lucky number.\nThat’s how many years Mitch Guerra, 34, applied to be one of the castaways competing for the $1 million prize that comes with being the sole survivor on the reality television show.\nGuerra, a physical education teacher in Waco, Texas, was 10 when he got hooked on the show during its second season. He didn’t think he would ever be cast on the show because he has a stutter. But when the sixth season included a castaway who was deaf, Guerra started to consider the possibilities.\n“It really opened my eyes to the opportunity that maybe one day I too could go and play somewhere crazy… because I saw someone who also struggled with something like me,” Guerra said.\nThe rejection was discouraging he said, but it didn’t deter him. Instead, he began pursuing activities such as running marathons and triathlons and competing in CrossFit events to challenge himself.\n“I feel like it really did show the team at Survivor that I’m willing to be vulnerable,” Guerra said. “I’m willing to do hard things, and I think that ultimately ended up helping me get on the show.”\nGuerra arrived at the Fiji beach to play in the 48 th season of Survivor, which aired Feb. 26.\nView this post on Instagram\nA post shared by Mitch Guerra (@mguerski)\nSince his arrival to the beach, Mitch has been open with his cast mates and the audience about living with a speech impediment.\nGuerra has not always felt positively about his speech impediment.\nHonesty is a virtue for Guerra, and one he brought onto Survivor. Being truthful about his stutter allows people to understand his situation and help him in the best way possible.\nThroughout season 48, he has simultaneously educated his fellow castmates and viewers about life with a speech impediment and excelled physically in the game.\nBefore the merge, Guerra carried his tribe to victory many times, saving them from elimination at tribal council.\n“It definitely painted a big target on my back, which unfortunately I didn’t want to do,” Guerra said. “But when you have the chance of potentially losing a challenge, you want to keep you and your tribe safe.”\nThe finale of Survivor 48 will air on May 21. Mitch will either be a member of the jury and help decide who will win the million-dollar prize, or he will have the chance to be named sole survivor.\nRegardless, Guerra’s dream came true after filming the show.\nHis story serves as a testament to anyone struggling with something that dreams are possible.\n“Keep trying, keep running after the things you love, and if it’s if it’s meant to be, it’s meant to be, but you’ll never get there if you give up,” said Guerra.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->mental health and disorder",
+      "Social Issue->diversity, equity and inclusion",
+      "Social Issue->social problem",
+      "Social Issue->disabilities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.cbs.com/shows/survivor/",
+      "https://cbs.com/shows/survivor/",
+      "https://www.cbs.com/shows/survivor"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Mitch Guerra",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:29:12.575+03:00",
+    "updated": "2025-04-24T04:20:47.597+03:00"
+  },
+  {
+    "uuid": "285e7eca9d2435fa411e98908249c45fd6771f42",
+    "url": "https://www.latercera.com/servicios/noticia/amplian-alerta-de-calor-a-10-regiones-cuales-son-las-zonas-afectadas/MYR6OG5RPJDTPDZNWUUSO4LQEE",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "latercera.com",
+    "published": "2025-01-03T13:30:00Z",
+    "title": "Alerta de calor en 10 regiones - La Tercera",
+    "text": "Sandar Estrella Oporto hace 18 minutos Tiempo de lectura: 1 minuto Amplían alerta de calor a 10 regiones: ¿Cuáles son las zonas afectadas? Foto: ATON. La Dirección Meteorológica de Chile mantiene las informaciones vigentes en gran parte del país para los próximos días.\ncompartir Comentarios La ropa ligera y los panoramas veraniegos deberán mantenerse en mente, porque el calor que marcó la despedida del 2024 y los primeros días del nuevo año se mantendrá hasta la próxima semana .\nAl respecto, la Dirección Meteorológica de Chile tiene tres avisos vigentes por altas temperaturas, condición que generará un caluroso primer fin de semana del 2025.\nAdemás, se mantiene una advertencia agrometeorológica que da cuenta de las temperaturas extremas a esperar, principalmente en la zona central, con máximas de hasta 35°C para determinados sectores .\nLa historia continua más abajo\nMás sobre Medioambiente El inesperado hallazgo en la Patagonia que permaneció oculto por más de 50 años Hace 3 horas ¿Por qué el mundo se ha estado calentando más rápido de lo previsto? Esto dice una nueva investigación Hace 5 horas Alerta de calor en la zona centro De acuerdo a los avisos meteorológicos vigentes por altas temperaturas, se ven afectadas las siguientes zonas, hasta el lunes, 6 de enero :\nRegión de Atacama en la cordillera costa, sectores de valles y pampa. Región de Coquimbo en la precordillera (hasta 33°C) y valles precordilleranos (hasta 32°C). Región de Valparaíso en la precordillera (hasta 35°C) y valles precordilleranos (hasta 33°C). Región Metropolitana en la cordillera costa (hasta 32°C), valle (hasta 34°C) y precordillera (hasta 35°C). Región de O’Higgins en la cordillera costa (hasta 33°C), valle (hasta 34°C) y precordillera (hasta 35°C). Región del Maule en la cordillera costa (hasta 33°C), valle (hasta 34°C) y precordillera (hasta 35°C). Región de Ñuble en la cordillera costa (hasta 34°C), valle y precordillera (hasta 35°C). Región de Biobío en la cordillera costa (hasta 34°C), valle y precordillera (hasta 35°C). Región de La Araucanía en la provincia de Malleco. Región de Los Lagos en litoral y cordillera costa. Recomendaciones para cuidarse del calor Las recomendaciones generales del Ministerio de Salud para evitar problemas a causa del calor son las siguientes:\nMantenerse hidratado durante todo el día , preferentemente con agua. Utilizar ropa ligera , de colores claros y de tejidos frescos. Evitar la exposición directa al sol entre las 10:00 y 17:00 horas. Aplicar protector solar con un factor igual o superior a 30 , renovándolo cada dos horas. Proteger a los grupos más vulnerables , como niños, niñas, personas mayores, mujeres embarazadas y personas con enfermedades crónicas. Recordar que las mascotas también son sensibles al calor , asegurando que tengan agua y sombra disponibles en todo momento. Subsidio Eléctrico: revisa los resultados y el monto con el RUT Nuevo aviso de marejadas anormales: ¿Cuáles son las zonas afectadas? Comenta Los comentarios en esta sección son exclusivos para suscriptores. Suscríbete aquí.\nDe cuánto fue el temblor de este viernes 3 de enero en Chile Baltasar Daza Hace 3 horas Feriados de 2025 en Chile: todos los festivos y fines de semana largos Sandar Estrella Oporto 19 dic 2024 04:06 PM Los RUT ganadores de La Suerte en Chile 2024 Sandar Estrella Oporto 23 dic 2024 10:17 AM Imperdibles Soy nutricionista y estos 5 alimentos ayudan al cuerpo a quemar grasa La Tercera Ignacio Socías, comediante: “La gente me encuentra medio ‘papá' para mis cosas; soy medio enojón y viejo chico” La Cuarta ¿Qué fue de Paola Camaggi? Así luce la figura televisiva a 20 años de retirarse de los medios La Cuarta Cuál es el secreto para tener una buena vida y ser feliz, según la Universidad de Harvard La Tercera Por qué esta es la travesía por el océano más “aterradora” del mundo La Tercera Guía del ocio: panoramas escogidos para el fin de semana Finde",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Environment"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Social Issue->social condition",
+      "Social Issue->mankind",
+      "Environment->nature",
+      "Environment->climate change"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.lacuarta.com/espectaculos/noticia/que-fue-de-paola-camaggi-asi-luce-la-figura-televisiva-a-20-anos-de-retirarse-de-los-medios/S2ZO5XZTZJFZ3JU5IZWRZ6Q5LI/",
+      "https://www.minsal.cl/",
+      "https://www.lacuarta.com/espectaculos/noticia/la-firme-con-ignacio-socias-comediante-la-gente-me-encuentra-medio-papa-para-mis-cosas-soy-medio-enojon-y-viejo-chico/CV5ATPHPJBEHHN2GTL335DMHCU/",
+      "https://x.com/intent/tweet?url=https://www.latercera.com/servicios/noticia/amplian-alerta-de-calor-a-10-regiones-cuales-son-las-zonas-afectadas/MYR6OG5RPJDTPDZNWUUSO4LQEE/&text=Ampl%C3%ADan%20alerta%20de%20calor%20a%2010%20regiones%3A%20%C2%BFCu%C3%A1les%20son%20las%20zonas%20afectadas%3F",
+      "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+      "https://meteochile.gob.cl/PortalDMC-web/index.xhtml",
+      "https://x.com/intent/tweet",
+      "https://minsal.cl/",
+      "https://lacuarta.com/espectaculos/noticia/la-firme-con-ignacio-socias-comediante-la-gente-me-encuentra-medio-papa-para-mis-cosas-soy-medio-enojon-y-viejo-chico/CV5ATPHPJBEHHN2GTL335DMHCU/",
+      "https://www.lacuarta.com/espectaculos/noticia/la-firme-con-ignacio-socias-comediante-la-gente-me-encuentra-medio-papa-para-mis-cosas-soy-medio-enojon-y-viejo-chico/CV5ATPHPJBEHHN2GTL335DMHCU",
+      "https://www.minsal.cl",
+      "https://x.com/intent/tweet?url=https://latercera.com/servicios/noticia/amplian-alerta-de-calor-a-10-regiones-cuales-son-las-zonas-afectadas/MYR6OG5RPJDTPDZNWUUSO4LQEE/&text=Ampl%C3%ADan%20alerta%20de%20calor%20a%2010%20regiones%3A%20%C2%BFCu%C3%A1les%20son%20las%20zonas%20afectadas%3F",
+      "https://lacuarta.com/espectaculos/noticia/que-fue-de-paola-camaggi-asi-luce-la-figura-televisiva-a-20-anos-de-retirarse-de-los-medios/S2ZO5XZTZJFZ3JU5IZWRZ6Q5LI/",
+      "https://www.lacuarta.com/espectaculos/noticia/que-fue-de-paola-camaggi-asi-luce-la-figura-televisiva-a-20-anos-de-retirarse-de-los-medios/S2ZO5XZTZJFZ3JU5IZWRZ6Q5LI"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Sandar Estrella Oporto",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Dirección Meteorológica de Chile",
+          "sentiment": "none"
+        },
+        {
+          "name": "ATON",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T15:52:08.913+02:00",
+    "updated": "2025-01-03T15:52:08.913+02:00"
+  },
+  {
+    "uuid": "df9852354d428e681589f761f73e9c341dcad3ca",
+    "url": "https://www.myjoyonline.com/2025-afconq-otto-addo-picks-positives-from-ghanas-defeat-to-angola",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@quaynor_mishael",
+    "published": "2024-09-05T19:08:00Z",
+    "title": "2025 AFCONQ: Otto Addo picks ‘positives’ from Ghana’s defeat to Angola",
+    "text": "Ghana head coach Otto Addo insists there are “a lot of positives” to take from their defeat to Angola in the 2025 Africa Cup of Nations qualifier.\nThe Black Stars began their campaign on a disappointing note, conceding a late goal from Milson that secured Angola all three points at the Baba Yara Sports Stadium.\nThe outcome was Ghana’s first loss in Kumasi in 24 years.\nThe result leaves the senior national team in third place, with Angola and Sudan occupying the first and second spots in Group F, respectively.\n“We lost today but we have to look at the chances we allowed and not just the goal we conceded,” Addo said.\n“I said it the last time, defense starts in attack so we need to press, be a bit more compact and work harder.\n“The second half makes me very confident. The good thing is that it is still in our hands. We’ve still got games against all the teams in the group so we just have to do our job. There were a lot of positives to be taken from this, we should’ve taken our chances.\nThe Black Stars will hope to bounce back in their next encounter against Niger on Monday, September 9.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-06T00:19:32.776+03:00",
+    "updated": "2024-09-06T04:17:32.307+03:00"
+  },
+  {
+    "uuid": "8ec7118d6e9a67cb505da086a85378af6f12454c",
+    "url": "https://turnto10.com/news/coronavirus/show-us-something-good/assisted-living-center-hosts-deer-hunt-to-lift-residents-spirits",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SAMANTHA READ, NBC 10 NEWS",
+    "published": "2023-12-28T22:30:00Z",
+    "title": "chevron-right",
+    "text": "Maine blocked Donald Trump from its primary ballot, making it the second state to do so. PROVIDENCE, R.I. (WJAR) — An assisted living facility in Providence recently invited its residents to participate in a one-of-a-kind activity, indoor deer hunting. Roughly 75 people receive care at the Highlands on the East Side. Inside, is holiday decorations galore, and the fun doesn't stop there. It continues to the top floor, where those with memory loss are cared for. “It’s all about the activities and the residents' lifestyle here,\" said Karen Van Gorden, the Executive Director of the facility. “It’s most important for my staff, especially around the holidays, to smile and to make our residents feel good. We talk about holiday memories, we talk about traditions that everyone has so every day we’re doing something different to make it special for our residents.\" Tara Chabot, is the memory care Director. She plans a lot of the activities for her residents, and a while back she came across an online video, of seniors using nerf guns to 'hunt' staff at the facility. She saw the joy it brought those residents and staff and wanted to try it out. “I saw a clip of someone doing this, I believe it was at a nursing home, and they had a couple trees and they were running in between them. I thought, 'Oh, that would be fun let’s try it,\" said Chabot. “I asked on my town's free yard sale page for anybody who had extra Christmas trees that they didn’t need and so we got a whole bunch. It was just so nice of people, they were so excited and asked for pictures to show how it went afterwards and people were so sweet online about it.\" Chabot and her husband drove around and picked up all of the fake trees. She decorated them and set them up into a forest in the memory care unit. Then, one of her friends with several children, donated several nerf guns. Chabot purchased deer antlers and set everything up. She recruited other staff members to participate in the deer hunt. “They kind of looked at me like I was crazy,\" she said laughing. “We’re all just a family. We’re all working together, we’re all equal, we all love each other, have fun together, we’re all in it together.\" Last week, memory care residents were invited down for the activity. Staff handed out nerf guns and ammo, from there, it was a free-for-all. Staff ran in between trees while residents fired. They helped them reload when necessary. “It was a little challenging to go at them running back and forth Resident Frank Landry absolutely loved it. “I just like the interaction and pretending,\" he said. “It’s fun shooting a gun at different targets and you know they can’t get hurt. It was fun. I love doing stuff together with them, they’re coworkers and my friends.\" Each month, staff said they try to have a 'theme' in which they base their activities around. The deer hunt was a huge hit. “I think it was wonderful. I think the residents. to hear them laughing, the staff running around and laughing together, it was great,\" said Van Gorden. “It was a lot of fun. I didn't think they'd have as good aim as they did,\" said Chabot. “We try to give them lots of love, especially during this time.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "tara chabot",
+          "sentiment": "none"
+        },
+        {
+          "name": "karen van gorden",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "providence",
+          "sentiment": "none"
+        },
+        {
+          "name": "r.i.",
+          "sentiment": "none"
+        },
+        {
+          "name": "providence",
+          "sentiment": "none"
+        },
+        {
+          "name": "highlands",
+          "sentiment": "none"
+        },
+        {
+          "name": "east side",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:39:31.818+02:00",
+    "updated": "2023-12-29T03:47:41.634+02:00"
+  },
+  {
+    "uuid": "6ecef0f6e0fade22f99d2818714bb05dfe4a25f1",
+    "url": "https://www.lanacion.com.py/estilodevida/2023/12/28/cuales-son-los-beneficios-de-acariciar-a-las-mascotas-segun-la-ciencia/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@lanacionpy",
+    "published": "2023-12-28T22:40:00Z",
+    "title": "La Nación / Cuáles son los beneficios de acariciar a las mascotas, según la ciencia",
+    "text": "La simple acción de acariciar a nuestras mascotas, ya sean gatos o perros, no solo refuerza el vínculo y sirve de sostén emocional, sino también brinda una serie de beneficios a la salud. Conocé la importancia de tomarse el tiempo de brindar “mimos” a los peluditos. Acariciar a un perro o un gato pueden ser clave para la relajación de las mascotas, así como para estimularlos. No obstante, también tiene una serie de beneficios para el dueño. Entre los instantáneos, se destaca el impacto positivo que puede generar esta acción en el estado de ánimo: las caricias son reconfortantes, estimulantes y placenteras tanto para los peluditos como para los humanos. Según un análisis de la Universidad de Miami, que estuvo encabezado por el psicólogo Alle R. McConnell y fue replicado por la prensa internacional, las personas que tienen contacto con los animales no solo son más felices, sino que también tienen un mejor manejo del estrés. Las caricias no solo ayudan a disminuir el estrés y la ansiedad de las mascotas, sino que también ayudan a reducir el malestar, la ansiedad y la depresión del dueño. [Lea también: Buena suerte: las frutas que pueden atraer abundancia para el 2024](https://www.lanacion.com.py/estilodevida/2023/12/28/buena-suerte-las-frutas-que-pueden-atraer-abundancia-para-el-2024/) El contacto permanente con un perro o gato también contribuye a tener un corazón más sano. Tener una mascota ayuda a una mejor salud cardiovascular debido a que el ritmo cardíaco y la presión arterial disminuyen. Aunque de manera diferente, tanto a los perros como a los gatos les encantan recibir caricias, obtener la atención y demostrar afecto. Ahora, la ciencia demostró que este intercambio amoroso con las mascotas puede resultar además beneficioso para la salud física y mental de los seres humanos. [Te puede interesar: Conocé las técnicas para conciliar el sueño tras despertar a mitad de la noche](https://www.lanacion.com.py/estilodevida/2023/12/28/conoce-las-tecnicas-para-conciliar-el-sueno-tras-despertar-a-mitad-de-la-noche/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:17:22.874+02:00",
+    "updated": "2023-12-29T01:17:22.874+02:00"
+  }
+]
